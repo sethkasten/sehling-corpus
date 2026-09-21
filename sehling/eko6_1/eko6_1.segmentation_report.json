@@ -1,0 +1,666 @@
+{
+  "eko6_1": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "3-11",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Kirchenordnung unser, von Gottes genaden Julii, herzogen zu Braunschweig und Lüneburg etc. 1569 (Register S. 278)",
+        "pages": "83-280",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "337-347",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "5. Ordnung der ceremonien auf den dorfern der stadt Braunschweigk o. J.",
+        "pages": "473-475",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "483-491",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "625-632",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "3. Leges ministrorum verbi Die in ecclesia civitatis Lunaeburgensis [ca. 1570]",
+        "pages": "691-693",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Braunschweig-Lüneburgische Kirchenordnungen: für das Fürstentum Wolfenbüttel und für die Stadt Braunschweig",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0021",
+        "last_printed_page": 2,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 3,
+        "first_digital_page": "0023",
+        "last_printed_page": 11,
+        "prev_doc_last_page": 2,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Visitations-Instruktionen im Herzogtum Wolfenbüttel",
+        "doc_year": "1542",
+        "first_printed_page": 12,
+        "first_digital_page": "0032",
+        "last_printed_page": 21,
+        "prev_doc_last_page": 11,
+        "matched_heading_text": "1. Visitations-Instruktionen im Herzogtum Wolfenbüttel 1542"
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Christlike kerken-ordeninge im lande Brunschwig, Wulffenbüttels deles",
+        "doc_year": "1543",
+        "first_printed_page": 22,
+        "first_digital_page": "0042",
+        "last_printed_page": 81,
+        "prev_doc_last_page": 21,
+        "matched_heading_text": "2. Christlike kerken-ordeninge im lande Brunschwig, Wulffenbüttels deles 1543"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Wolfenbüttel",
+        "doc_year": null,
+        "first_printed_page": 82,
+        "first_digital_page": "0102",
+        "last_printed_page": 82,
+        "prev_doc_last_page": 81,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "3. Kirchenordnung unser, von Gottes genaden Julii, herzogen zu Braunschweig und Lüneburg etc. 1569 (Register S. 278)",
+        "doc_year": null,
+        "first_printed_page": 83,
+        "first_digital_page": "0103",
+        "last_printed_page": 280,
+        "prev_doc_last_page": 82,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Klosterordnung",
+        "doc_year": "1569",
+        "first_printed_page": 281,
+        "first_digital_page": "0301",
+        "last_printed_page": 286,
+        "prev_doc_last_page": 280,
+        "matched_heading_text": "Klosterordnung 1569"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Klo st e ro rdnung'",
+        "doc_year": "1569",
+        "first_printed_page": 287,
+        "first_digital_page": "0307",
+        "last_printed_page": 288,
+        "prev_doc_last_page": 286,
+        "matched_heading_text": "Klo st e ro rdnung' 1569"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Klosterordnung",
+        "doc_year": "1569",
+        "first_printed_page": 289,
+        "first_digital_page": "0309",
+        "last_printed_page": 297,
+        "prev_doc_last_page": 288,
+        "matched_heading_text": "Klosterordnung 1569"
+      },
+      {
+        "citation_key": "I.6",
+        "heading_source": "running_head",
+        "doc_title": "Stelle das Amt der Schlüssel; im Uebrigen ist die Reihenfolge eine andere als in Luthers Kl. Kat. — Jac. Andreä hielt",
+        "doc_year": "1560",
+        "first_printed_page": 298,
+        "first_digital_page": "0318",
+        "last_printed_page": 335,
+        "prev_doc_last_page": 297,
+        "matched_heading_text": "6. Stelle das Amt der Schlüssel; im Uebrigen ist die Reihenfolge eine andere als in Luthers Kl. Kat. — Jac. Andreä hielt 1560"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Braunschweig-Lüneburgische Kirchenordnungen: für das Fürstentum Wolfenbüttel und für die Stadt Braunschweig",
+        "doc_year": null,
+        "first_printed_page": 336,
+        "first_digital_page": "0356",
+        "last_printed_page": 336,
+        "prev_doc_last_page": 335,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 337,
+        "first_digital_page": "0357",
+        "last_printed_page": 347,
+        "prev_doc_last_page": 336,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "1. Der erbarn stadt Brunswig christlike ordeninge […] Dorch Joannem Bugenhagen Pomeren bescreven 1528",
+        "doc_year": null,
+        "first_printed_page": 348,
+        "first_digital_page": "0368",
+        "last_printed_page": 348,
+        "prev_doc_last_page": 347,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1528",
+        "first_printed_page": 349,
+        "first_digital_page": "0369",
+        "last_printed_page": 355,
+        "prev_doc_last_page": 348,
+        "matched_heading_text": "Kirchenordnung 1528"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "260 f.); Th. Venatorius, Pro baptismo et fide parvulorum",
+        "doc_year": "1527",
+        "first_printed_page": 356,
+        "first_digital_page": "0376",
+        "last_printed_page": 455,
+        "prev_doc_last_page": 355,
+        "matched_heading_text": "5. 260 f.); Th. Venatorius, Pro baptismo et fide parvulorum. 1527"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "2. Ordnunge, wie es hinfuro mit den nominationibus, vocationibus und annhemunge der herren predicanten in den kirchen zu Braunschweig gleichformig und einhellig gehalten werden soll […] 1571",
+        "doc_year": null,
+        "first_printed_page": 456,
+        "first_digital_page": "0476",
+        "last_printed_page": 456,
+        "prev_doc_last_page": 455,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Vokationsordnung für die Prediger",
+        "doc_year": "1571",
+        "first_printed_page": 457,
+        "first_digital_page": "0477",
+        "last_printed_page": 458,
+        "prev_doc_last_page": 456,
+        "matched_heading_text": "Vokationsordnung für die Prediger 1571"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Bestallungsordnung für Chemnitz",
+        "doc_year": "1567",
+        "first_printed_page": 459,
+        "first_digital_page": "0479",
+        "last_printed_page": 470,
+        "prev_doc_last_page": 458,
+        "matched_heading_text": "Bestallungsordnung für Chemnitz 1567"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Artikel für die Prediger",
+        "doc_year": "1571",
+        "first_printed_page": 471,
+        "first_digital_page": "0491",
+        "last_printed_page": 472,
+        "prev_doc_last_page": 470,
+        "matched_heading_text": "Artikel für die Prediger 1571"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "5. Ordnung der ceremonien auf den dorfern der stadt Braunschweigk o. J.",
+        "doc_year": null,
+        "first_printed_page": 473,
+        "first_digital_page": "0493",
+        "last_printed_page": 475,
+        "prev_doc_last_page": 472,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "6. Artikel, in der visitation den pfarhern uberantwort",
+        "doc_year": null,
+        "first_printed_page": 476,
+        "first_digital_page": "0496",
+        "last_printed_page": 476,
+        "prev_doc_last_page": 475,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsartikel um",
+        "doc_year": "1550",
+        "first_printed_page": 477,
+        "first_digital_page": "0497",
+        "last_printed_page": 477,
+        "prev_doc_last_page": 476,
+        "matched_heading_text": "Visitationsartikel um 1550"
+      },
+      {
+        "citation_key": "I.7",
+        "heading_source": "running_head",
+        "doc_title": "Artikel, de visitation beider gerichte Asseborch und Eike belangen. 1",
+        "doc_year": "1546",
+        "first_printed_page": 478,
+        "first_digital_page": "0498",
+        "last_printed_page": 479,
+        "prev_doc_last_page": 477,
+        "matched_heading_text": "7. Artikel, de visitation beider gerichte Asseborch und Eike belangen. 1 1546"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 480,
+        "first_digital_page": "0500",
+        "last_printed_page": 480,
+        "prev_doc_last_page": 479,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Braunschweig-Lüneburgische Kirchenordnungen: für das Fürstentum Lüneburg und für die Stadt Lüneburg",
+        "doc_year": null,
+        "first_printed_page": 481,
+        "first_digital_page": "0501",
+        "last_printed_page": 482,
+        "prev_doc_last_page": 480,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 483,
+        "first_digital_page": "0503",
+        "last_printed_page": 491,
+        "prev_doc_last_page": 482,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "1. Artikel, darinne etlike mysbruke by den parren des förstendoms Lüneborg entdecket unde darjegen gude ordenynge angegeven werden […] 1527",
+        "doc_year": null,
+        "first_printed_page": 492,
+        "first_digital_page": "0512",
+        "last_printed_page": 492,
+        "prev_doc_last_page": 491,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Artikelbuch",
+        "doc_year": "1527",
+        "first_printed_page": 493,
+        "first_digital_page": "0513",
+        "last_printed_page": 512,
+        "prev_doc_last_page": 492,
+        "matched_heading_text": "Artikelbuch 1527"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Artifeelbuch",
+        "doc_year": "1527",
+        "first_printed_page": 513,
+        "first_digital_page": "0533",
+        "last_printed_page": 514,
+        "prev_doc_last_page": 512,
+        "matched_heading_text": "Artifeelbuch 1527"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Artikelbuch",
+        "doc_year": "1527",
+        "first_printed_page": 515,
+        "first_digital_page": "0535",
+        "last_printed_page": 518,
+        "prev_doc_last_page": 514,
+        "matched_heading_text": "Artikelbuch 1527"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Artik-elbuch",
+        "doc_year": "1527",
+        "first_printed_page": 519,
+        "first_digital_page": "0539",
+        "last_printed_page": 520,
+        "prev_doc_last_page": 518,
+        "matched_heading_text": "Artik-elbuch 1527"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Artikelbuch",
+        "doc_year": "1527",
+        "first_printed_page": 521,
+        "first_digital_page": "0541",
+        "last_printed_page": 521,
+        "prev_doc_last_page": 520,
+        "matched_heading_text": "Artikelbuch 1527"
+      },
+      {
+        "citation_key": "II.2",
+        "heading_source": "running_head",
+        "doc_title": "Wie und was wir, Ernst, von Gots gnaden herzog zu Braunswick und Leuneborg, unsers furstenthumbs pharhern und predigern zu predigen befholen. 1",
+        "doc_year": "1529",
+        "first_printed_page": 522,
+        "first_digital_page": "0542",
+        "last_printed_page": 527,
+        "prev_doc_last_page": 521,
+        "matched_heading_text": "2. Wie und was wir, Ernst, von Gots gnaden herzog zu Braunswick und Leuneborg, unsers furstenthumbs pharhern und predigern zu predigen befholen. 1 1529"
+      },
+      {
+        "citation_key": "II.3",
+        "heading_source": "running_head",
+        "doc_title": "Herzog Ernstes ordnung belangende der pastorn inkomen und ehesachen. 1",
+        "doc_year": "1543",
+        "first_printed_page": 528,
+        "first_digital_page": "0548",
+        "last_printed_page": 532,
+        "prev_doc_last_page": 527,
+        "matched_heading_text": "3. Herzog Ernstes ordnung belangende der pastorn inkomen und ehesachen. 1 1543"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1564",
+        "first_printed_page": 533,
+        "first_digital_page": "0553",
+        "last_printed_page": 554,
+        "prev_doc_last_page": 532,
+        "matched_heading_text": "Kirchenordnung 1564"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenoranung",
+        "doc_year": "1564",
+        "first_printed_page": 555,
+        "first_digital_page": "0575",
+        "last_printed_page": 556,
+        "prev_doc_last_page": 554,
+        "matched_heading_text": "Kirchenoranung 1564"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1564",
+        "first_printed_page": 557,
+        "first_digital_page": "0577",
+        "last_printed_page": 575,
+        "prev_doc_last_page": 556,
+        "matched_heading_text": "Kirchenordnung 1564"
+      },
+      {
+        "citation_key": "II.5",
+        "heading_source": "running_head",
+        "doc_title": "Instruktionen zu den Visitationen im Fürstentum Lüneburg",
+        "doc_year": "1565",
+        "first_printed_page": 576,
+        "first_digital_page": "0596",
+        "last_printed_page": 579,
+        "prev_doc_last_page": 575,
+        "matched_heading_text": "5. Instruktionen zu den Visitationen im Fürstentum Lüneburg 1565"
+      },
+      {
+        "citation_key": "II.6",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsartikel für das Fürstentum Lüneburg",
+        "doc_year": "1583",
+        "first_printed_page": 580,
+        "first_digital_page": "0600",
+        "last_printed_page": 585,
+        "prev_doc_last_page": 579,
+        "matched_heading_text": "6. Visitationsartikel für das Fürstentum Lüneburg. 1583"
+      },
+      {
+        "citation_key": "II.7",
+        "heading_source": "running_head",
+        "doc_title": "Radtslach to nodtroft der kloster des förstendoms Lüneborch, Gades wort unde ceremonien belangen",
+        "doc_year": "1530",
+        "first_printed_page": 586,
+        "first_digital_page": "0606",
+        "last_printed_page": 608,
+        "prev_doc_last_page": 585,
+        "matched_heading_text": "7. Radtslach to nodtroft der kloster des förstendoms Lüneborch, Gades wort unde ceremonien belangen. 1530"
+      },
+      {
+        "citation_key": "II.8",
+        "heading_source": "running_head",
+        "doc_title": "Reformatio coenobiorum ducatus Luneburgensis. 1",
+        "doc_year": "1555",
+        "first_printed_page": 609,
+        "first_digital_page": "0629",
+        "last_printed_page": 618,
+        "prev_doc_last_page": 608,
+        "matched_heading_text": "8. Reformatio coenobiorum ducatus Luneburgensis. 1 1555"
+      },
+      {
+        "citation_key": "II.9",
+        "heading_source": "running_head",
+        "doc_title": "Klosterordnung des Herzogs Wilhelm d. J. für das Fürstentum Lüneburg",
+        "doc_year": "1574",
+        "first_printed_page": 619,
+        "first_digital_page": "0639",
+        "last_printed_page": 623,
+        "prev_doc_last_page": 618,
+        "matched_heading_text": "9. Klosterordnung des Herzogs Wilhelm d. J. für das Fürstentum Lüneburg 1574"
+      },
+      {
+        "citation_key": "II.10",
+        "heading_source": "running_head",
+        "doc_title": "Emendatio Breviarii virginum ordinis Sancti Benedicti in ducatu Luneburgensi. 1",
+        "doc_year": "1555",
+        "first_printed_page": 624,
+        "first_digital_page": "0644",
+        "last_printed_page": 624,
+        "prev_doc_last_page": 623,
+        "matched_heading_text": "10. Emendatio Breviarii virginum ordinis Sancti Benedicti in ducatu Luneburgensi. 1 1555"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 625,
+        "first_digital_page": "0645",
+        "last_printed_page": 632,
+        "prev_doc_last_page": 624,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "1. Christlyke ordenynghe van der scholen und kercken sacken der stadt Luneborch. Dorch Urbanum Rhegium. [1531]",
+        "doc_year": null,
+        "first_printed_page": 633,
+        "first_digital_page": "0653",
+        "last_printed_page": 634,
+        "prev_doc_last_page": 632,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Schul- und Kirchenordnung",
+        "doc_year": "1531",
+        "first_printed_page": 635,
+        "first_digital_page": "0655",
+        "last_printed_page": 648,
+        "prev_doc_last_page": 634,
+        "matched_heading_text": "Schul- und Kirchenordnung 1531"
+      },
+      {
+        "citation_key": "II.9",
+        "heading_source": "running_head",
+        "doc_title": "Junii a Christo nato",
+        "doc_year": "1531",
+        "first_printed_page": 649,
+        "first_digital_page": "0669",
+        "last_printed_page": 649,
+        "prev_doc_last_page": 648,
+        "matched_heading_text": "9. Junii a Christo nato 1531"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "2. Kirchenordnung der Stadt Lüneburg 1575",
+        "doc_year": null,
+        "first_printed_page": 650,
+        "first_digital_page": "0670",
+        "last_printed_page": 650,
+        "prev_doc_last_page": 649,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1575",
+        "first_printed_page": 651,
+        "first_digital_page": "0671",
+        "last_printed_page": 678,
+        "prev_doc_last_page": 650,
+        "matched_heading_text": "Kirchenordnung 1575"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirehenordnung",
+        "doc_year": "1575",
+        "first_printed_page": 679,
+        "first_digital_page": "0699",
+        "last_printed_page": 680,
+        "prev_doc_last_page": 678,
+        "matched_heading_text": "Kirehenordnung 1575"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1575",
+        "first_printed_page": 681,
+        "first_digital_page": "0701",
+        "last_printed_page": 690,
+        "prev_doc_last_page": 680,
+        "matched_heading_text": "Kirchenordnung 1575"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "3. Leges ministrorum verbi Die in ecclesia civitatis Lunaeburgensis [ca. 1570]",
+        "doc_year": null,
+        "first_printed_page": 691,
+        "first_digital_page": "0711",
+        "last_printed_page": 693,
+        "prev_doc_last_page": 690,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Lüneburg",
+        "doc_year": null,
+        "first_printed_page": 694,
+        "first_digital_page": "0714",
+        "last_printed_page": 694,
+        "prev_doc_last_page": 693,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung des Gotteshauses in dem Gral",
+        "doc_year": "1598",
+        "first_printed_page": 695,
+        "first_digital_page": "0715",
+        "last_printed_page": 697,
+        "prev_doc_last_page": 694,
+        "matched_heading_text": "Ordnung des Gotteshauses in dem Gral 1598"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0718",
+        "last_printed_page": null,
+        "prev_doc_last_page": 697,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

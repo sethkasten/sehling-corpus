@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Einführung",
+    "start_page": 1,
+    "end_page": 10,
+    "href": "https://digi.hadw-bw.de/view/eko11/0019",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einführung",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Freie Reichsstadt Nürnberg, 1. Teil (bis zum Beginn der Zusammenarbeit mit Brandenburg 1528)",
+    "start_page": 11,
+    "end_page": 58,
+    "href": "https://digi.hadw-bw.de/view/eko11/0029",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Nürnberg",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Markgrafschaft Brandenburg - Ansbach - Kulmbach, 1. (bis zum Beginn der Zusammenarbeit mit Nürnberg 1528)",
+    "start_page": 59,
+    "end_page": 109,
+    "href": "https://digi.hadw-bw.de/view/eko11/0077",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Brandenburg - Ansbach - Kulmbach",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Markgrafschaft Brandenburg und Freie Reichsstadt Nürnberg in Zusammenarbeit (1528 - 1533)",
+    "start_page": 111,
+    "end_page": 283,
+    "href": "https://digi.hadw-bw.de/view/eko11/0129",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Brandenburg und Freie Reichsstadt Nürnberg in Zusammenarbeit",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Markgrafschaft Brandenburg - Ansbach - Kulmbach, 2. Teil (Kirchenordnungen seit 1528 bzw. 1533)",
+    "start_page": 285,
+    "end_page": 477,
+    "href": "https://digi.hadw-bw.de/view/eko11/0303",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Brandenburg - Ansbach - Kulmbach",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Freie Reichsstadt Nürnberg, 2. Teil (Kirchenordnungen seit 1533)",
+    "start_page": 479,
+    "end_page": 558,
+    "href": "https://digi.hadw-bw.de/view/eko11/0497",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Nürnberg",
+    "is_source_part": true
+  },
+  {
+    "title": "VI. Freie Reichsstadt Rothenburg ob der Tauber",
+    "start_page": 559,
+    "end_page": 616,
+    "href": "https://digi.hadw-bw.de/view/eko11/0577",
+    "level": 0,
+    "part_roman": "VI",
+    "place_label": "Rothenburg ob der Tauber",
+    "is_source_part": true
+  },
+  {
+    "title": "VII. Freie Reichsstadt Schweinfurt mit den Reichsdörfern Gochsheim und Sennfeld",
+    "start_page": 617,
+    "end_page": 650,
+    "href": "https://digi.hadw-bw.de/view/eko11/0635",
+    "level": 0,
+    "part_roman": "VII",
+    "place_label": "Schweinfurt mit den Reichsdörfern Gochsheim und Sennfeld",
+    "is_source_part": true
+  },
+  {
+    "title": "VIII. Freie Reichsstadt Weiszenburg",
+    "start_page": 651,
+    "end_page": 667,
+    "href": "https://digi.hadw-bw.de/view/eko11/0669",
+    "level": 0,
+    "part_roman": "VIII",
+    "place_label": "Weiszenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "IX. Freie Reichsstadt Windsheim",
+    "start_page": 669,
+    "end_page": 677,
+    "href": "https://digi.hadw-bw.de/view/eko11/0687",
+    "level": 0,
+    "part_roman": "IX",
+    "place_label": "Windsheim",
+    "is_source_part": true
+  },
+  {
+    "title": "X. Grafschaft Castell",
+    "start_page": 679,
+    "end_page": 692,
+    "href": "https://digi.hadw-bw.de/view/eko11/0697",
+    "level": 0,
+    "part_roman": "X",
+    "place_label": "Castell",
+    "is_source_part": true
+  },
+  {
+    "title": "XI. Grafschaft Rieneck",
+    "start_page": 693,
+    "end_page": 699,
+    "href": "https://digi.hadw-bw.de/view/eko11/0711",
+    "level": 0,
+    "part_roman": "XI",
+    "place_label": "Rieneck",
+    "is_source_part": true
+  },
+  {
+    "title": "XII. Grafschaft Wertheim",
+    "start_page": 701,
+    "end_page": 725,
+    "href": "https://digi.hadw-bw.de/view/eko11/0719",
+    "level": 0,
+    "part_roman": "XII",
+    "place_label": "Wertheim",
+    "is_source_part": true
+  },
+  {
+    "title": "XIII. Herrschaft Thüngen",
+    "start_page": 727,
+    "end_page": 744,
+    "href": "https://digi.hadw-bw.de/view/eko11/0745",
+    "level": 0,
+    "part_roman": "XIII",
+    "place_label": "Thüngen",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 745,
+    "end_page": 768,
+    "href": "https://digi.hadw-bw.de/view/eko11/0763",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

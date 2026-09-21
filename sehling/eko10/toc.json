@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Quellen- und Literaturverzeichnis",
+    "start_page": 2,
+    "end_page": 17,
+    "href": "https://digi.hadw-bw.de/view/eko10/0020",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Die Grafschaft Nassau",
+    "start_page": 19,
+    "end_page": 368,
+    "href": "https://digi.hadw-bw.de/view/eko10/0037",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Die Grafschaft Nassau",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 21,
+    "end_page": 55,
+    "href": "https://digi.hadw-bw.de/view/eko10/0039",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "[Nassau - Dillenburg]",
+    "start_page": 57,
+    "end_page": 203,
+    "href": "https://digi.hadw-bw.de/view/eko10/0075",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Nassau - Dillenburg]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Nassau - Weilburg]",
+    "start_page": 204,
+    "end_page": 357,
+    "href": "https://digi.hadw-bw.de/view/eko10/0222",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Nassau - Weilburg]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Nassau - Wiesbaden]",
+    "start_page": 358,
+    "end_page": 368,
+    "href": "https://digi.hadw-bw.de/view/eko10/0376",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Nassau - Wiesbaden]",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Die Grafschaft Hanau - Münzenberg",
+    "start_page": 369,
+    "end_page": 543,
+    "href": "https://digi.hadw-bw.de/view/eko10/0387",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Die Grafschaft Hanau - Münzenberg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 371,
+    "end_page": 392,
+    "href": "https://digi.hadw-bw.de/view/eko10/0389",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 393,
+    "end_page": 543,
+    "href": "https://digi.hadw-bw.de/view/eko10/0411",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Die Grafschaft Ysenburg",
+    "start_page": 545,
+    "end_page": 720,
+    "href": "https://digi.hadw-bw.de/view/eko10/0563",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Die Grafschaft Ysenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 547,
+    "end_page": 567,
+    "href": "https://digi.hadw-bw.de/view/eko10/0565",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "[Ysenburg - Ronneburg]",
+    "start_page": 569,
+    "end_page": 603,
+    "href": "https://digi.hadw-bw.de/view/eko10/0587",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Ysenburg - Ronneburg]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Ysenburg - Birstein]",
+    "start_page": 604,
+    "end_page": 697,
+    "href": "https://digi.hadw-bw.de/view/eko10/0622",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Ysenburg - Birstein]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Ysenburg beide Linien]",
+    "start_page": 698,
+    "end_page": 720,
+    "href": "https://digi.hadw-bw.de/view/eko10/0716",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Ysenburg beide Linien]",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 721,
+    "end_page": 741,
+    "href": "https://digi.hadw-bw.de/view/eko10/0739",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

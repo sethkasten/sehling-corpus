@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Martin Luther’s Ordnungen",
+    "start_page": 1,
+    "end_page": 28,
+    "href": "https://digi.hadw-bw.de/view/eko1/0029",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Martin Luther’s Ordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Sachsen. Die Ernestinischen und Albertinischen Länder",
+    "start_page": 31,
+    "end_page": 728,
+    "href": "https://digi.hadw-bw.de/view/eko1/0059",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sachsen. Die Ernestinischen und Albertinischen Länder",
+    "is_source_part": true
+  },
+  {
+    "title": "Einführung",
+    "start_page": 31,
+    "end_page": 141,
+    "href": "https://digi.hadw-bw.de/view/eko1/0059",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einführung",
+    "is_source_part": false
+  },
+  {
+    "title": "Erster Theil. Ernestinisches Sachsen",
+    "start_page": 32,
+    "end_page": 84,
+    "href": "https://digi.hadw-bw.de/view/eko1/0060",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Erster Theil. Ernestinisches Sachsen",
+    "is_source_part": true
+  },
+  {
+    "title": "Zweiter Theil. Albertinisches Sachsen",
+    "start_page": 85,
+    "end_page": 141,
+    "href": "https://digi.hadw-bw.de/view/eko1/0113",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Zweiter Theil. Albertinisches Sachsen",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Kirchenordnungen",
+    "start_page": 142,
+    "end_page": 728,
+    "href": "https://digi.hadw-bw.de/view/eko1/0170",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Kirchenordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Erster Theil. Ernestinisches Sachsen",
+    "start_page": 142,
+    "end_page": 257,
+    "href": "https://digi.hadw-bw.de/view/eko1/0170",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Erster Theil. Ernestinisches Sachsen",
+    "is_source_part": true
+  },
+  {
+    "title": "Zweiter Theil. Albertinisches Sachsen",
+    "start_page": 257,
+    "end_page": 459,
+    "href": "https://digi.hadw-bw.de/view/eko1/0285",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Zweiter Theil. Albertinisches Sachsen",
+    "is_source_part": true
+  },
+  {
+    "title": "Dritter Theil. Freiberg und Wolkenstein, Rochlitz",
+    "start_page": 459,
+    "end_page": 470,
+    "href": "https://digi.hadw-bw.de/view/eko1/0487",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Dritter Theil. Freiberg und Wolkenstein",
+    "is_source_part": true
+  },
+  {
+    "title": "Vierter Theil. Die Städte und Ortschaften der ernestinischen und albertinischen Länder (alphabetisch geordnet)",
+    "start_page": 470,
+    "end_page": 728,
+    "href": "https://digi.hadw-bw.de/view/eko1/0498",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Vierter Theil. Die Städte und Ortschaften der ernestinischen und albertinischen Länder",
+    "is_source_part": true
+  },
+  {
+    "title": "Chronologisches Register der in diesem Bande ganz oder theilweise abgedruckten Ordnungen",
+    "start_page": 729,
+    "end_page": 731,
+    "href": "https://digi.hadw-bw.de/view/eko1/0757",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Chronologisches Register der in diesem Bande ganz oder theilweise abgedruckten Ordnungen",
+    "is_source_part": false
+  },
+  {
+    "title": "Personen- und Orts-Register",
+    "start_page": 732,
+    "end_page": 737,
+    "href": "https://digi.hadw-bw.de/view/eko1/0760",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Personen- und Orts-Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Sachregister",
+    "start_page": 738,
+    "end_page": 746,
+    "href": "https://digi.hadw-bw.de/view/eko1/0766",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sachregister",
+    "is_source_part": false
+  }
+]

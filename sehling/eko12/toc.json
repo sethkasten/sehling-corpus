@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Einführung",
+    "start_page": 1,
+    "end_page": 14,
+    "href": "https://digi.hadw-bw.de/view/eko12/0017",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einführung",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Freie Reichsstadt Augsburg",
+    "start_page": 15,
+    "end_page": 116,
+    "href": "https://digi.hadw-bw.de/view/eko12/0031",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Augsburg",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Freie Reichsstadt Dinkelsbühl",
+    "start_page": 117,
+    "end_page": 151,
+    "href": "https://digi.hadw-bw.de/view/eko12/0133",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Dinkelsbühl",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Freie Reichsstadt Donauwörth",
+    "start_page": 153,
+    "end_page": 160,
+    "href": "https://digi.hadw-bw.de/view/eko12/0169",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Donauwörth",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Freie Reichsstadt Kaufbeuren",
+    "start_page": 161,
+    "end_page": 166,
+    "href": "https://digi.hadw-bw.de/view/eko12/0177",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Kaufbeuren",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Freie Reichsstadt Kempten",
+    "start_page": 167,
+    "end_page": 177,
+    "href": "https://digi.hadw-bw.de/view/eko12/0183",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Kempten",
+    "is_source_part": true
+  },
+  {
+    "title": "VI. Freie Reichsstadt Lindau (Bodensee)",
+    "start_page": 179,
+    "end_page": 220,
+    "href": "https://digi.hadw-bw.de/view/eko12/0195",
+    "level": 0,
+    "part_roman": "VI",
+    "place_label": "Lindau",
+    "is_source_part": true
+  },
+  {
+    "title": "VII. Freie Reichsstadt Memmingen",
+    "start_page": 221,
+    "end_page": 270,
+    "href": "https://digi.hadw-bw.de/view/eko12/0237",
+    "level": 0,
+    "part_roman": "VII",
+    "place_label": "Memmingen",
+    "is_source_part": true
+  },
+  {
+    "title": "VIII. Freie Reichsstadt Nördlingen",
+    "start_page": 271,
+    "end_page": 393,
+    "href": "https://digi.hadw-bw.de/view/eko12/0287",
+    "level": 0,
+    "part_roman": "VIII",
+    "place_label": "Nördlingen",
+    "is_source_part": true
+  },
+  {
+    "title": "IX. Grafschaft Oettingen - Oettingen",
+    "start_page": 395,
+    "end_page": 407,
+    "href": "https://digi.hadw-bw.de/view/eko12/0411",
+    "level": 0,
+    "part_roman": "IX",
+    "place_label": "Oettingen - Oettingen",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 409,
+    "end_page": 423,
+    "href": "https://digi.hadw-bw.de/view/eko12/0425",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

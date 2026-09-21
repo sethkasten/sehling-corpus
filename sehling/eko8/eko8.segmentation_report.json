@@ -1,0 +1,428 @@
+{
+  "eko8": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "I. Das Territorium",
+        "pages": "3-5",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "II. Das hessische Landgrafenhaus und seine Politik",
+        "pages": "6-8",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "III. Die hessische Reformationsgeschichte und ihre Kirchenordnungen",
+        "pages": "9-36",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Register",
+        "pages": "471-489",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Die Landgrafschaft Hessen bis zum Tode Philipps des Großmütigen (",
+        "doc_year": "1567",
+        "first_printed_page": 1,
+        "first_digital_page": "0017",
+        "last_printed_page": 2,
+        "prev_doc_last_page": null,
+        "matched_heading_text": "I. Die Landgrafschaft Hessen bis zum Tode Philipps des Großmütigen (1567"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Das Territorium",
+        "doc_year": null,
+        "first_printed_page": 3,
+        "first_digital_page": "0019",
+        "last_printed_page": 5,
+        "prev_doc_last_page": 2,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "II. Das hessische Landgrafenhaus und seine Politik",
+        "doc_year": null,
+        "first_printed_page": 6,
+        "first_digital_page": "0022",
+        "last_printed_page": 8,
+        "prev_doc_last_page": 5,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "III. Die hessische Reformationsgeschichte und ihre Kirchenordnungen",
+        "doc_year": null,
+        "first_printed_page": 9,
+        "first_digital_page": "0025",
+        "last_printed_page": 36,
+        "prev_doc_last_page": 8,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Die Landgrafschaft Hessen bis zum Tode Philipps des Großmütigen",
+        "doc_year": null,
+        "first_printed_page": 37,
+        "first_digital_page": "0053",
+        "last_printed_page": 37,
+        "prev_doc_last_page": 36,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Reformationsordnung",
+        "doc_year": "1526",
+        "first_printed_page": 38,
+        "first_digital_page": "0054",
+        "last_printed_page": 42,
+        "prev_doc_last_page": 37,
+        "matched_heading_text": "Reformationsordnung 1526"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Homberger Kirchenordnung",
+        "doc_year": "1526",
+        "first_printed_page": 43,
+        "first_digital_page": "0059",
+        "last_printed_page": 46,
+        "prev_doc_last_page": 42,
+        "matched_heading_text": "Homberger Kirchenordnung 1526"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Homberger Kirchenordnung'",
+        "doc_year": "1526",
+        "first_printed_page": 47,
+        "first_digital_page": "0063",
+        "last_printed_page": 47,
+        "prev_doc_last_page": 46,
+        "matched_heading_text": "Homberger Kirchenordnung' 1526"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "running_head",
+        "doc_title": "Homberger Kirchenordnung",
+        "doc_year": "1526",
+        "first_printed_page": 48,
+        "first_digital_page": "0064",
+        "last_printed_page": 65,
+        "prev_doc_last_page": 47,
+        "matched_heading_text": "Homberger Kirchenordnung 1526"
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Stipendiatenordnung",
+        "doc_year": "1529",
+        "first_printed_page": 66,
+        "first_digital_page": "0082",
+        "last_printed_page": 67,
+        "prev_doc_last_page": 65,
+        "matched_heading_text": "2. Stipendiatenordnung 1529"
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Wye sich die kastenmeinster halten sollen in irem amptt",
+        "doc_year": "1530",
+        "first_printed_page": 68,
+        "first_digital_page": "0084",
+        "last_printed_page": 74,
+        "prev_doc_last_page": 67,
+        "matched_heading_text": "3. Wye sich die kastenmeinster halten sollen in irem amptt 1530"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "Ordenung der Christlichen kirchen in furstenthumb zu Hessen",
+        "doc_year": "1532",
+        "first_printed_page": 75,
+        "first_digital_page": "0091",
+        "last_printed_page": 112,
+        "prev_doc_last_page": 74,
+        "matched_heading_text": "5. Ordenung der Christlichen kirchen in furstenthumb zu Hessen 1532"
+      },
+      {
+        "citation_key": "I.10",
+        "heading_source": "running_head",
+        "doc_title": "Ordennng der Kirchenn | übung, Für die Kirchen | zu Cassel",
+        "doc_year": "1539",
+        "first_printed_page": 113,
+        "first_digital_page": "0129",
+        "last_printed_page": 144,
+        "prev_doc_last_page": 112,
+        "matched_heading_text": "10. Ordennng der Kirchenn | übung, Für die Kirchen | zu Cassel 1539"
+      },
+      {
+        "citation_key": "I.12",
+        "heading_source": "running_head",
+        "doc_title": "Ordenung durch den durchleuchtigen, Hochgebornen Fürsten vnd | herrn, herrn Philipsen, Landtgrauen zu Hessen, Grauen zu Catzenelnpogen etc. he- | dacht am dinstag noch Jnuocauit, Anno etc",
+        "doc_year": "1542",
+        "first_printed_page": 145,
+        "first_digital_page": "0161",
+        "last_printed_page": 154,
+        "prev_doc_last_page": 144,
+        "matched_heading_text": "12. Ordenung durch den durchleuchtigen, Hochgebornen Fürsten vnd | herrn, herrn Philipsen, Landtgrauen zu Hessen, Grauen zu Catzenelnpogen etc. he- | dacht am dinstag noch Jnuocauit, Anno etc. 1542"
+      },
+      {
+        "citation_key": "I.14",
+        "heading_source": "running_head",
+        "doc_title": "Stipendiatenordnung",
+        "doc_year": "1546",
+        "first_printed_page": 155,
+        "first_digital_page": "0171",
+        "last_printed_page": 160,
+        "prev_doc_last_page": 154,
+        "matched_heading_text": "14. Stipendiatenordnung 1546"
+      },
+      {
+        "citation_key": "I.15",
+        "heading_source": "running_head",
+        "doc_title": "Ordenung Christlicher Lehre vnd Zuchtt",
+        "doc_year": "1557",
+        "first_printed_page": 161,
+        "first_digital_page": "0177",
+        "last_printed_page": 175,
+        "prev_doc_last_page": 160,
+        "matched_heading_text": "15. Ordenung Christlicher Lehre vnd Zuchtt 1557"
+      },
+      {
+        "citation_key": "I.17",
+        "heading_source": "running_head",
+        "doc_title": "Ordenung wie mans mit den pfar vnd castengüter allenthalben halten soll",
+        "doc_year": "1564",
+        "first_printed_page": 176,
+        "first_digital_page": "0192",
+        "last_printed_page": 339,
+        "prev_doc_last_page": 175,
+        "matched_heading_text": "17. Ordenung wie mans mit den pfar vnd castengüter allenthalben halten soll 1564"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 340,
+        "first_digital_page": "0356",
+        "last_printed_page": 340,
+        "prev_doc_last_page": 339,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Die hessischen Landgrafschaften bis zum Ende der Generalsynoden (1567-1582)",
+        "doc_year": null,
+        "first_printed_page": 341,
+        "first_digital_page": "0357",
+        "last_printed_page": 342,
+        "prev_doc_last_page": 340,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Die Zeit der gemeinsamen Ordnungen der geteilten Landgrafschaften",
+        "doc_year": null,
+        "first_printed_page": 343,
+        "first_digital_page": "0359",
+        "last_printed_page": 345,
+        "prev_doc_last_page": 342,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II.1",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung und Reformation unser, Albrechts und Philipsen Gebrüder Graven zu Nassau, zu Sarprücken und zu Sarwerden, Herrn zu Loher ... Gedruckt zu Franckfurt am Mayn,",
+        "doc_year": "1576",
+        "first_printed_page": 346,
+        "first_digital_page": "0362",
+        "last_printed_page": 346,
+        "prev_doc_last_page": 345,
+        "matched_heading_text": "1. Kirchenordnung und Reformation unser, Albrechts und Philipsen Gebrüder Graven zu Nassau, zu Sarprücken und zu Sarwerden, Herrn zu Loher ... Gedruckt zu Franckfurt am Mayn, 1576"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Die Abschiede und Kirchenordnungen",
+        "doc_year": null,
+        "first_printed_page": 347,
+        "first_digital_page": "0363",
+        "last_printed_page": 347,
+        "prev_doc_last_page": 346,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Abschied",
+        "doc_year": "1568",
+        "first_printed_page": 348,
+        "first_digital_page": "0364",
+        "last_printed_page": 369,
+        "prev_doc_last_page": 347,
+        "matched_heading_text": "Abschied 1568"
+      },
+      {
+        "citation_key": "II.1",
+        "heading_source": "running_head",
+        "doc_title": "Pfr. Ziegenhain, †",
+        "doc_year": "1576",
+        "first_printed_page": 370,
+        "first_digital_page": "0386",
+        "last_printed_page": 370,
+        "prev_doc_last_page": 369,
+        "matched_heading_text": "1. Pfr. Ziegenhain, † 1576"
+      },
+      {
+        "citation_key": "II.25",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der sechsten Generalsynode zu Kassel",
+        "doc_year": "1574",
+        "first_printed_page": 371,
+        "first_digital_page": "0387",
+        "last_printed_page": 372,
+        "prev_doc_last_page": 370,
+        "matched_heading_text": "25. Abschied der sechsten Generalsynode zu Kassel 1574"
+      },
+      {
+        "citation_key": "II.26",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der siebten Generalsynode zu Marburg",
+        "doc_year": "1575",
+        "first_printed_page": 373,
+        "first_digital_page": "0389",
+        "last_printed_page": 376,
+        "prev_doc_last_page": 372,
+        "matched_heading_text": "26. Abschied der siebten Generalsynode zu Marburg 1575"
+      },
+      {
+        "citation_key": "II.27",
+        "heading_source": "running_head",
+        "doc_title": "Die achte Generalsynode zu Kassel",
+        "doc_year": "1576",
+        "first_printed_page": 377,
+        "first_digital_page": "0393",
+        "last_printed_page": 378,
+        "prev_doc_last_page": 376,
+        "matched_heading_text": "27. Die achte Generalsynode zu Kassel 1576"
+      },
+      {
+        "citation_key": "II.29",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der neunten Generalsynode zu Marburg",
+        "doc_year": "1578",
+        "first_printed_page": 379,
+        "first_digital_page": "0395",
+        "last_printed_page": 382,
+        "prev_doc_last_page": 378,
+        "matched_heading_text": "29. Abschied der neunten Generalsynode zu Marburg 1578"
+      },
+      {
+        "citation_key": "II.30",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der zehnten Generalsynode zu Kassel",
+        "doc_year": "1579",
+        "first_printed_page": 383,
+        "first_digital_page": "0399",
+        "last_printed_page": 385,
+        "prev_doc_last_page": 382,
+        "matched_heading_text": "30. Abschied der zehnten Generalsynode zu Kassel 1579"
+      },
+      {
+        "citation_key": "II.31",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der elften Generalsynode zu Marburg",
+        "doc_year": "1580",
+        "first_printed_page": 386,
+        "first_digital_page": "0402",
+        "last_printed_page": 388,
+        "prev_doc_last_page": 385,
+        "matched_heading_text": "31. Abschied der elften Generalsynode zu Marburg 1580"
+      },
+      {
+        "citation_key": "II.32",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der zwölften Generalsynode zu Kassel",
+        "doc_year": "1581",
+        "first_printed_page": 389,
+        "first_digital_page": "0405",
+        "last_printed_page": 391,
+        "prev_doc_last_page": 388,
+        "matched_heading_text": "32. Abschied der zwölften Generalsynode zu Kassel 1581"
+      },
+      {
+        "citation_key": "II.33",
+        "heading_source": "running_head",
+        "doc_title": "Abschied der dreizehnten Generalsynode zu Marburg",
+        "doc_year": "1582",
+        "first_printed_page": 392,
+        "first_digital_page": "0408",
+        "last_printed_page": 469,
+        "prev_doc_last_page": 391,
+        "matched_heading_text": "33. Abschied der dreizehnten Generalsynode zu Marburg 1582"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 470,
+        "first_digital_page": "0486",
+        "last_printed_page": 470,
+        "prev_doc_last_page": 469,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 471,
+        "first_digital_page": "0487",
+        "last_printed_page": 489,
+        "prev_doc_last_page": 470,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0506",
+        "last_printed_page": null,
+        "prev_doc_last_page": 489,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

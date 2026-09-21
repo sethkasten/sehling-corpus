@@ -1,0 +1,1000 @@
+{
+  "eko22": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Quellen- und Literaturverzeichnis",
+        "pages": "2-27",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "31-39",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "59-77",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "155-168",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "221-240",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "321-327",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "335-345",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "367-383",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "505-513",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "561-563",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Glossar mittelniederdeutscher Wörter",
+        "pages": "571-595",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "1. Bibelstellen",
+        "pages": "597-604",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "2. Personen",
+        "pages": "605-608",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Orte",
+        "pages": "609-611",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "5. Sachen",
+        "pages": "613-619",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0019",
+        "last_printed_page": 1,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Quellen- und Literaturverzeichnis",
+        "doc_year": null,
+        "first_printed_page": 2,
+        "first_digital_page": "0020",
+        "last_printed_page": 27,
+        "prev_doc_last_page": 1,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 28,
+        "first_digital_page": "0046",
+        "last_printed_page": 28,
+        "prev_doc_last_page": 27,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Das Erzstift Köln",
+        "doc_year": null,
+        "first_printed_page": 29,
+        "first_digital_page": "0047",
+        "last_printed_page": 30,
+        "prev_doc_last_page": 28,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 31,
+        "first_digital_page": "0049",
+        "last_printed_page": 39,
+        "prev_doc_last_page": 30,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Das Erzstift Köln",
+        "doc_year": null,
+        "first_printed_page": 40,
+        "first_digital_page": "0058",
+        "last_printed_page": 40,
+        "prev_doc_last_page": 39,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Buß-, Fasten-, Bet- und Danktagsordnung",
+        "doc_year": "1546",
+        "first_printed_page": 41,
+        "first_digital_page": "0059",
+        "last_printed_page": 46,
+        "prev_doc_last_page": 40,
+        "matched_heading_text": "1. Buß-, Fasten-, Bet- und Danktagsordnunga 12. Juli 1546"
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Edikt zur evangelischen Religionsausübung",
+        "doc_year": "1583",
+        "first_printed_page": 47,
+        "first_digital_page": "0065",
+        "last_printed_page": 49,
+        "prev_doc_last_page": 46,
+        "matched_heading_text": "2. Edikt zur evangelischen Religionsausübung 1583"
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Ausschreiben zur freien Religionsausübung",
+        "doc_year": "1583",
+        "first_printed_page": 50,
+        "first_digital_page": "0068",
+        "last_printed_page": 55,
+        "prev_doc_last_page": 49,
+        "matched_heading_text": "3. Ausschreiben zur freien Religionsausübunga 10. März 1583"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 56,
+        "first_digital_page": "0074",
+        "last_printed_page": 56,
+        "prev_doc_last_page": 55,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Die Grafschaft Wittgenstein",
+        "doc_year": null,
+        "first_printed_page": 57,
+        "first_digital_page": "0075",
+        "last_printed_page": 58,
+        "prev_doc_last_page": 56,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 59,
+        "first_digital_page": "0077",
+        "last_printed_page": 77,
+        "prev_doc_last_page": 58,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Die Grafschaft Wittgenstein",
+        "doc_year": null,
+        "first_printed_page": 78,
+        "first_digital_page": "0096",
+        "last_printed_page": 78,
+        "prev_doc_last_page": 77,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 79,
+        "first_digital_page": "0097",
+        "last_printed_page": 92,
+        "prev_doc_last_page": 78,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II.4",
+        "heading_source": "running_head",
+        "doc_title": "Novembris anno a nato Christo",
+        "doc_year": "1555",
+        "first_printed_page": 93,
+        "first_digital_page": "0111",
+        "last_printed_page": 93,
+        "prev_doc_last_page": 92,
+        "matched_heading_text": "4. Novembris anno a nato Christo 1555"
+      },
+      {
+        "citation_key": "II.16",
+        "heading_source": "running_head",
+        "doc_title": "/ 25. Oktober",
+        "doc_year": "1555",
+        "first_printed_page": 94,
+        "first_digital_page": "0112",
+        "last_printed_page": 148,
+        "prev_doc_last_page": 93,
+        "matched_heading_text": "16. / 25. Oktober 1555"
+      },
+      {
+        "citation_key": "II.20",
+        "heading_source": "running_head",
+        "doc_title": "Die kirchenmeister zu Wiel berichten, sie haben von vorigen jharen gerechnet und seyen von diesem",
+        "doc_year": "1605",
+        "first_printed_page": 149,
+        "first_digital_page": "0167",
+        "last_printed_page": 152,
+        "prev_doc_last_page": 148,
+        "matched_heading_text": "20. Die kirchenmeister zu Wiel berichten, sie haben von vorigen jharen gerechnet und seyen von diesem 1605"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Die Grafschaft Moers",
+        "doc_year": null,
+        "first_printed_page": 153,
+        "first_digital_page": "0171",
+        "last_printed_page": 154,
+        "prev_doc_last_page": 152,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 155,
+        "first_digital_page": "0173",
+        "last_printed_page": 168,
+        "prev_doc_last_page": 154,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III.1",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Anstellung eines evangelischen Predigers in Krefelda 10. Oktober",
+        "doc_year": "1561",
+        "first_printed_page": 169,
+        "first_digital_page": "0187",
+        "last_printed_page": 169,
+        "prev_doc_last_page": 168,
+        "matched_heading_text": "1. Mandat zur Anstellung eines evangelischen Predigers in Krefelda 10. Oktober 1561"
+      },
+      {
+        "citation_key": "III.2",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Besetzung der Pfarrstelle in Krefelda 20. Januar",
+        "doc_year": "1565",
+        "first_printed_page": 170,
+        "first_digital_page": "0188",
+        "last_printed_page": 170,
+        "prev_doc_last_page": 169,
+        "matched_heading_text": "2. Mandat zur Besetzung der Pfarrstelle in Krefelda 20. Januar 1565"
+      },
+      {
+        "citation_key": "III.3",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Umwandlung des Karmeliterklosters",
+        "doc_year": "1573",
+        "first_printed_page": 171,
+        "first_digital_page": "0189",
+        "last_printed_page": 172,
+        "prev_doc_last_page": 170,
+        "matched_heading_text": "3. Mandat zur Umwandlung des Karmeliterklosters 1573"
+      },
+      {
+        "citation_key": "III.4",
+        "heading_source": "running_head",
+        "doc_title": "Polizeiordnung",
+        "doc_year": "1574",
+        "first_printed_page": 173,
+        "first_digital_page": "0191",
+        "last_printed_page": 173,
+        "prev_doc_last_page": 172,
+        "matched_heading_text": "4. Polizeiordnung 1574"
+      },
+      {
+        "citation_key": "III.13",
+        "heading_source": "running_head",
+        "doc_title": "Unnütz schwehren13, fluchen, karten- und dob- b PO",
+        "doc_year": "1581",
+        "first_printed_page": 174,
+        "first_digital_page": "0192",
+        "last_printed_page": 175,
+        "prev_doc_last_page": 173,
+        "matched_heading_text": "13. Unnütz schwehren13, fluchen, karten- und dob- b PO 1581"
+      },
+      {
+        "citation_key": "III.27",
+        "heading_source": "running_head",
+        "doc_title": "Das bawhuner essen sund bawkeeß23 eßens der- gleichen. l PO",
+        "doc_year": "1581",
+        "first_printed_page": 176,
+        "first_digital_page": "0194",
+        "last_printed_page": 218,
+        "prev_doc_last_page": 175,
+        "matched_heading_text": "27. Das bawhuner essen sund bawkeeß23 eßens der- gleichen. l PO 1581"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Die Grafschaft Bentheim-Tecklenburg",
+        "doc_year": null,
+        "first_printed_page": 219,
+        "first_digital_page": "0237",
+        "last_printed_page": 220,
+        "prev_doc_last_page": 218,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 221,
+        "first_digital_page": "0239",
+        "last_printed_page": 240,
+        "prev_doc_last_page": 220,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV.1",
+        "heading_source": "running_head",
+        "doc_title": "Tecklenburger Kirchenordnung",
+        "doc_year": "1543",
+        "first_printed_page": 241,
+        "first_digital_page": "0259",
+        "last_printed_page": 246,
+        "prev_doc_last_page": 240,
+        "matched_heading_text": "1. Tecklenburger Kirchenordnunga 24. August 1543"
+      },
+      {
+        "citation_key": "IV.2",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung für das Tecklenburger Zisterzienserinnenkloster Leeden",
+        "doc_year": "1585",
+        "first_printed_page": 247,
+        "first_digital_page": "0265",
+        "last_printed_page": 248,
+        "prev_doc_last_page": 246,
+        "matched_heading_text": "2. Ordnung für das Tecklenburger Zisterzienserinnenkloster Leeden 1585"
+      },
+      {
+        "citation_key": "IV.3",
+        "heading_source": "running_head",
+        "doc_title": "Bentheim-Tecklenburger Kirchenordnung",
+        "doc_year": "1588",
+        "first_printed_page": 249,
+        "first_digital_page": "0267",
+        "last_printed_page": 268,
+        "prev_doc_last_page": 248,
+        "matched_heading_text": "3. Bentheim-Tecklenburger Kirchenordnung 1588"
+      },
+      {
+        "citation_key": "IV.12",
+        "heading_source": "running_head",
+        "doc_title": "1-28.43-49 geschrieben, und sonst andere Ce- remonien gehalten unnd nicht geändert worden, So hat auch der Sohn Gottes mit",
+        "doc_year": "1841",
+        "first_printed_page": 269,
+        "first_digital_page": "0287",
+        "last_printed_page": 317,
+        "prev_doc_last_page": 268,
+        "matched_heading_text": "12. 1-28.43-49 geschrieben, und sonst andere Ce- remonien gehalten unnd nicht geändert worden, So hat auch der Sohn Gottes mit 1841"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 318,
+        "first_digital_page": "0336",
+        "last_printed_page": 318,
+        "prev_doc_last_page": 317,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Die Grafschaft Rietberg",
+        "doc_year": null,
+        "first_printed_page": 319,
+        "first_digital_page": "0337",
+        "last_printed_page": 320,
+        "prev_doc_last_page": 318,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 321,
+        "first_digital_page": "0339",
+        "last_printed_page": 327,
+        "prev_doc_last_page": 320,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Die Grafschaft Rietberg",
+        "doc_year": null,
+        "first_printed_page": 328,
+        "first_digital_page": "0346",
+        "last_printed_page": 328,
+        "prev_doc_last_page": 327,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.1",
+        "heading_source": "running_head",
+        "doc_title": "Polizeiordnung",
+        "doc_year": "1566",
+        "first_printed_page": 329,
+        "first_digital_page": "0347",
+        "last_printed_page": 331,
+        "prev_doc_last_page": 328,
+        "matched_heading_text": "1. Polizeiordnung8 7. November 1566"
+      },
+      {
+        "citation_key": "V.2",
+        "heading_source": "running_head",
+        "doc_title": "Anstellungsurkunde für den Rietberger Pfarrer Simon Hagemann3 10. November",
+        "doc_year": "1568",
+        "first_printed_page": 332,
+        "first_digital_page": "0350",
+        "last_printed_page": 332,
+        "prev_doc_last_page": 331,
+        "matched_heading_text": "2. Anstellungsurkunde für den Rietberger Pfarrer Simon Hagemann3 10. November 1568"
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "VI. Die Stadt Münster",
+        "doc_year": null,
+        "first_printed_page": 333,
+        "first_digital_page": "0351",
+        "last_printed_page": 334,
+        "prev_doc_last_page": 332,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 335,
+        "first_digital_page": "0353",
+        "last_printed_page": 345,
+        "prev_doc_last_page": 334,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "VI. Die Stadt Münster",
+        "doc_year": null,
+        "first_printed_page": 346,
+        "first_digital_page": "0364",
+        "last_printed_page": 346,
+        "prev_doc_last_page": 345,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI.1",
+        "heading_source": "running_head",
+        "doc_title": "Vereinbarung von Rat und Gemeinde über Anstellung evangelischer Prediger an den Stadtkirchen3 15. Juli",
+        "doc_year": "1532",
+        "first_printed_page": 347,
+        "first_digital_page": "0365",
+        "last_printed_page": 348,
+        "prev_doc_last_page": 346,
+        "matched_heading_text": "1. Vereinbarung von Rat und Gemeinde über Anstellung evangelischer Prediger an den Stadtkirchen3 15. Juli 1532"
+      },
+      {
+        "citation_key": "VI.2",
+        "heading_source": "running_head",
+        "doc_title": "Vertrag von Bischof und Stadt zur Reformation",
+        "doc_year": "1533",
+        "first_printed_page": 349,
+        "first_digital_page": "0367",
+        "last_printed_page": 353,
+        "prev_doc_last_page": 348,
+        "matched_heading_text": "2. Vertrag von Bischof und Stadt zur Reformation 1533"
+      },
+      {
+        "citation_key": "VI.3",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtordnung",
+        "doc_year": "1533",
+        "first_printed_page": 354,
+        "first_digital_page": "0372",
+        "last_printed_page": 360,
+        "prev_doc_last_page": 353,
+        "matched_heading_text": "3. Zuchtordnung8 1533"
+      },
+      {
+        "citation_key": "VI.4",
+        "heading_source": "running_head",
+        "doc_title": "Summarium der Kirchenordnung",
+        "doc_year": "1533",
+        "first_printed_page": 361,
+        "first_digital_page": "0379",
+        "last_printed_page": 362,
+        "prev_doc_last_page": 360,
+        "matched_heading_text": "4. Summarium der Kirchenordnung 1533"
+      },
+      {
+        "citation_key": "VI.5",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Duldung",
+        "doc_year": "1534",
+        "first_printed_page": 363,
+        "first_digital_page": "0381",
+        "last_printed_page": 363,
+        "prev_doc_last_page": 362,
+        "matched_heading_text": "5. Mandat zur Duldung 1534"
+      },
+      {
+        "citation_key": "VI.6",
+        "heading_source": "running_head",
+        "doc_title": "Bischöfliches Edikt gegen die Täufera 3. Februar",
+        "doc_year": "1534",
+        "first_printed_page": 364,
+        "first_digital_page": "0382",
+        "last_printed_page": 364,
+        "prev_doc_last_page": 363,
+        "matched_heading_text": "6. Bischöfliches Edikt gegen die Täufera 3. Februar 1534"
+      },
+      {
+        "citation_key": "VII",
+        "heading_source": "toc_only",
+        "doc_title": "VII. Die Stadt Soest",
+        "doc_year": null,
+        "first_printed_page": 365,
+        "first_digital_page": "0383",
+        "last_printed_page": 366,
+        "prev_doc_last_page": 364,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VII",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 367,
+        "first_digital_page": "0385",
+        "last_printed_page": 383,
+        "prev_doc_last_page": 366,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VII",
+        "heading_source": "toc_only",
+        "doc_title": "VII. Die Stadt Soest",
+        "doc_year": null,
+        "first_printed_page": 384,
+        "first_digital_page": "0402",
+        "last_printed_page": 384,
+        "prev_doc_last_page": 383,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VII.1",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnimg",
+        "doc_year": "1532",
+        "first_printed_page": 385,
+        "first_digital_page": "0403",
+        "last_printed_page": 459,
+        "prev_doc_last_page": 384,
+        "matched_heading_text": "1. Kirchenordnung3 4. April 1532"
+      },
+      {
+        "citation_key": "VII.2",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Residenzpflicht der Pfarrer und zur evangelischen Predigta 25. Oktober",
+        "doc_year": "1532",
+        "first_printed_page": 460,
+        "first_digital_page": "0478",
+        "last_printed_page": 461,
+        "prev_doc_last_page": 459,
+        "matched_heading_text": "2. Mandat zur Residenzpflicht der Pfarrer und zur evangelischen Predigta 25. Oktober 1532"
+      },
+      {
+        "citation_key": "VII.3",
+        "heading_source": "running_head",
+        "doc_title": "Die „Lätareartikel“3 24. März",
+        "doc_year": "1533",
+        "first_printed_page": 462,
+        "first_digital_page": "0480",
+        "last_printed_page": 464,
+        "prev_doc_last_page": 461,
+        "matched_heading_text": "3. Die „Lätareartikel“3 24. März 1533"
+      },
+      {
+        "citation_key": "VII.4",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung für das Kloster St. Walburgis",
+        "doc_year": "1543",
+        "first_printed_page": 465,
+        "first_digital_page": "0483",
+        "last_printed_page": 471,
+        "prev_doc_last_page": 464,
+        "matched_heading_text": "4. Ordnung für das Kloster St. Walburgis 1543"
+      },
+      {
+        "citation_key": "VII.5",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zum Abendmahl unter beiderlei Gestalt",
+        "doc_year": "1552",
+        "first_printed_page": 472,
+        "first_digital_page": "0490",
+        "last_printed_page": 473,
+        "prev_doc_last_page": 471,
+        "matched_heading_text": "5. Mandat zum Abendmahl unter beiderlei Gestalta 28. März 1552"
+      },
+      {
+        "citation_key": "VII.6",
+        "heading_source": "running_head",
+        "doc_title": "Anstellungsartikel für die Prediger3 3. Februar",
+        "doc_year": "1554",
+        "first_printed_page": 474,
+        "first_digital_page": "0492",
+        "last_printed_page": 474,
+        "prev_doc_last_page": 473,
+        "matched_heading_text": "6. Anstellungsartikel für die Prediger3 3. Februar 1554"
+      },
+      {
+        "citation_key": "VII.7",
+        "heading_source": "running_head",
+        "doc_title": "Armenordung",
+        "doc_year": "1581",
+        "first_printed_page": 475,
+        "first_digital_page": "0493",
+        "last_printed_page": 477,
+        "prev_doc_last_page": 474,
+        "matched_heading_text": "7. Armenordung 1581"
+      },
+      {
+        "citation_key": "VII.8",
+        "heading_source": "running_head",
+        "doc_title": "Anweisung zu den Taufpaten3 8. Juni",
+        "doc_year": "1583",
+        "first_printed_page": 478,
+        "first_digital_page": "0496",
+        "last_printed_page": 478,
+        "prev_doc_last_page": 477,
+        "matched_heading_text": "8. Anweisung zu den Taufpaten3 8. Juni 1583"
+      },
+      {
+        "citation_key": "VII.9",
+        "heading_source": "running_head",
+        "doc_title": "Eheordnung",
+        "doc_year": "1583",
+        "first_printed_page": 479,
+        "first_digital_page": "0497",
+        "last_printed_page": 479,
+        "prev_doc_last_page": 478,
+        "matched_heading_text": "9. Eheordnung 1583"
+      },
+      {
+        "citation_key": "VII.10",
+        "heading_source": "running_head",
+        "doc_title": "Artikel der Prediger",
+        "doc_year": "1590",
+        "first_printed_page": 480,
+        "first_digital_page": "0498",
+        "last_printed_page": 481,
+        "prev_doc_last_page": 479,
+        "matched_heading_text": "10. Artikel der Prediger3 1. September 1590"
+      },
+      {
+        "citation_key": "VII.11",
+        "heading_source": "running_head",
+        "doc_title": "Armenordnung",
+        "doc_year": "1597",
+        "first_printed_page": 482,
+        "first_digital_page": "0500",
+        "last_printed_page": 483,
+        "prev_doc_last_page": 481,
+        "matched_heading_text": "11. Armenordnung3 1597"
+      },
+      {
+        "citation_key": "VII.12",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1609",
+        "first_printed_page": 484,
+        "first_digital_page": "0502",
+        "last_printed_page": 497,
+        "prev_doc_last_page": 483,
+        "matched_heading_text": "12. Kirchenordnunga 1609"
+      },
+      {
+        "citation_key": "VII.13",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung für die Soester Börde",
+        "doc_year": "1609",
+        "first_printed_page": 498,
+        "first_digital_page": "0516",
+        "last_printed_page": 501,
+        "prev_doc_last_page": 497,
+        "matched_heading_text": "13. Kirchenordnung für die Soester Bördea 19. Mai 1609"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 502,
+        "first_digital_page": "0520",
+        "last_printed_page": 502,
+        "prev_doc_last_page": 501,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VIII",
+        "heading_source": "toc_only",
+        "doc_title": "VIII. Die Stadt Neuenrade",
+        "doc_year": null,
+        "first_printed_page": 503,
+        "first_digital_page": "0521",
+        "last_printed_page": 504,
+        "prev_doc_last_page": 502,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VIII",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 505,
+        "first_digital_page": "0523",
+        "last_printed_page": 513,
+        "prev_doc_last_page": 504,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VIII",
+        "heading_source": "toc_only",
+        "doc_title": "VIII. Die Stadt Neuenrade",
+        "doc_year": null,
+        "first_printed_page": 514,
+        "first_digital_page": "0532",
+        "last_printed_page": 514,
+        "prev_doc_last_page": 513,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VIII.1",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1564",
+        "first_printed_page": 515,
+        "first_digital_page": "0533",
+        "last_printed_page": 557,
+        "prev_doc_last_page": 514,
+        "matched_heading_text": "1. Kirchenordnunga 21. Mai 1564"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 558,
+        "first_digital_page": "0576",
+        "last_printed_page": 558,
+        "prev_doc_last_page": 557,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IX",
+        "heading_source": "toc_only",
+        "doc_title": "IX. Die Grafschaft Lippe (Nachtrag)",
+        "doc_year": null,
+        "first_printed_page": 559,
+        "first_digital_page": "0577",
+        "last_printed_page": 560,
+        "prev_doc_last_page": 558,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IX",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 561,
+        "first_digital_page": "0579",
+        "last_printed_page": 563,
+        "prev_doc_last_page": 560,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IX",
+        "heading_source": "toc_only",
+        "doc_title": "IX. Die Grafschaft Lippe (Nachtrag)",
+        "doc_year": null,
+        "first_printed_page": 564,
+        "first_digital_page": "0582",
+        "last_printed_page": 564,
+        "prev_doc_last_page": 563,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IX.1",
+        "heading_source": "running_head",
+        "doc_title": "Deutsche Messe",
+        "doc_year": "1525",
+        "first_printed_page": 565,
+        "first_digital_page": "0583",
+        "last_printed_page": 569,
+        "prev_doc_last_page": 564,
+        "matched_heading_text": "1. Deutsche Messea ca. 1525"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 570,
+        "first_digital_page": "0588",
+        "last_printed_page": 570,
+        "prev_doc_last_page": 569,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Glossar mittelniederdeutscher Wörter",
+        "doc_year": null,
+        "first_printed_page": 571,
+        "first_digital_page": "0589",
+        "last_printed_page": 595,
+        "prev_doc_last_page": 570,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 596,
+        "first_digital_page": "0614",
+        "last_printed_page": 596,
+        "prev_doc_last_page": 595,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "1. Bibelstellen",
+        "doc_year": null,
+        "first_printed_page": 597,
+        "first_digital_page": "0615",
+        "last_printed_page": 604,
+        "prev_doc_last_page": 596,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "2. Personen",
+        "doc_year": null,
+        "first_printed_page": 605,
+        "first_digital_page": "0623",
+        "last_printed_page": 608,
+        "prev_doc_last_page": 604,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Orte",
+        "doc_year": null,
+        "first_printed_page": 609,
+        "first_digital_page": "0627",
+        "last_printed_page": 611,
+        "prev_doc_last_page": 608,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 612,
+        "first_digital_page": "0630",
+        "last_printed_page": 612,
+        "prev_doc_last_page": 611,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "5. Sachen",
+        "doc_year": null,
+        "first_printed_page": 613,
+        "first_digital_page": "0631",
+        "last_printed_page": 619,
+        "prev_doc_last_page": 612,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0638",
+        "last_printed_page": null,
+        "prev_doc_last_page": 619,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

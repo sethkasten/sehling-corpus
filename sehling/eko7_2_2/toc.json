@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Abkürzungen und Siglen",
+    "start_page": 1,
+    "end_page": 2,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0021",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Abkürzungen und Siglen",
+    "is_source_part": true
+  },
+  {
+    "title": "Quellen- und Literaturverzeichnis",
+    "start_page": 3,
+    "end_page": 24,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0023",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Grafschaft Schaumburg",
+    "start_page": 25,
+    "end_page": 172,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0045",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Schaumburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 27,
+    "end_page": 52,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0047",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 53,
+    "end_page": 172,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0073",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Goslar",
+    "start_page": 173,
+    "end_page": 347,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0193",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Goslar",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 175,
+    "end_page": 221,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0195",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 223,
+    "end_page": 347,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0243",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Bremen",
+    "start_page": 349,
+    "end_page": 618,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0369",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Bremen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 351,
+    "end_page": 401,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0371",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 403,
+    "end_page": 618,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0423",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "Mittelniederdeutsches Glossar",
+    "start_page": 619,
+    "end_page": 632,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0639",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Mittelniederdeutsches Glossar",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 633,
+    "end_page": 664,
+    "href": "https://digi.hadw-bw.de/view/eko7_2_2/0653",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

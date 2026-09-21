@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Quellen- und Literaturverzeichnis",
+    "start_page": 2,
+    "end_page": 17,
+    "href": "https://digi.hadw-bw.de/view/eko18/0018",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Herzogtum Pfalz - Zweibrücken",
+    "start_page": 19,
+    "end_page": 444,
+    "href": "https://digi.hadw-bw.de/view/eko18/0035",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Herzogtum Pfalz - Zweibrücken",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 21,
+    "end_page": 48,
+    "href": "https://digi.hadw-bw.de/view/eko18/0037",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 49,
+    "end_page": 444,
+    "href": "https://digi.hadw-bw.de/view/eko18/0065",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Grafschaft Pfalz - Veldenz mit der Grafschaft Lützelstein und der Gemeinschaft Guttenberg",
+    "start_page": 445,
+    "end_page": 618,
+    "href": "https://digi.hadw-bw.de/view/eko18/0461",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Pfalz - Veldenz mit der Grafschaft Lützelstein und der Gemeinschaft Guttenberg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 447,
+    "end_page": 451,
+    "href": "https://digi.hadw-bw.de/view/eko18/0463",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 452,
+    "end_page": 618,
+    "href": "https://digi.hadw-bw.de/view/eko18/0468",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Grafschaften Sponheim",
+    "start_page": 619,
+    "end_page": 684,
+    "href": "https://digi.hadw-bw.de/view/eko18/0635",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Grafschaften Sponheim",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 621,
+    "end_page": 627,
+    "href": "https://digi.hadw-bw.de/view/eko18/0637",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 628,
+    "end_page": 684,
+    "href": "https://digi.hadw-bw.de/view/eko18/0644",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Grafschaft Sickingen",
+    "start_page": 685,
+    "end_page": 700,
+    "href": "https://digi.hadw-bw.de/view/eko18/0701",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Sickingen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 687,
+    "end_page": 688,
+    "href": "https://digi.hadw-bw.de/view/eko18/0703",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 689,
+    "end_page": 700,
+    "href": "https://digi.hadw-bw.de/view/eko18/0705",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Grafschaft Manderscheid",
+    "start_page": 701,
+    "end_page": 706,
+    "href": "https://digi.hadw-bw.de/view/eko18/0717",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Manderscheid",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 703,
+    "end_page": 705,
+    "href": "https://digi.hadw-bw.de/view/eko18/0719",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Evangelische Gebiete ohne nachweisbare eigene Ordnungen: Grafschaft Oberstein, Grafschaft Falkenstein, Grafschaft Hohenfels - Reipoltskirchen",
+    "start_page": 707,
+    "end_page": 711,
+    "href": "https://digi.hadw-bw.de/view/eko18/0723",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Evangelische Gebiete ohne nachweisbare eigene Ordnungen: Grafschaft Oberstein",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 713,
+    "end_page": 732,
+    "href": "https://digi.hadw-bw.de/view/eko18/0729",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

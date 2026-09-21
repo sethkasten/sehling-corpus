@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Livland",
+    "start_page": 1,
+    "end_page": 32,
+    "href": "https://digi.hadw-bw.de/view/eko5/0017",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Livland",
+    "is_source_part": true
+  },
+  {
+    "title": "Estland",
+    "start_page": 33,
+    "end_page": 42,
+    "href": "https://digi.hadw-bw.de/view/eko5/0049",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Estland",
+    "is_source_part": true
+  },
+  {
+    "title": "Kurland",
+    "start_page": 43,
+    "end_page": 123,
+    "href": "https://digi.hadw-bw.de/view/eko5/0059",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Kurland",
+    "is_source_part": true
+  },
+  {
+    "title": "Mecklenburg",
+    "start_page": 125,
+    "end_page": 324,
+    "href": "https://digi.hadw-bw.de/view/eko5/0141",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Mecklenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Freie Reichsstadt Lübeck mit Landgebiet und Gemeinschaftsamt Bergedorf",
+    "start_page": 325,
+    "end_page": 391,
+    "href": "https://digi.hadw-bw.de/view/eko5/0341",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Lübeck mit Landgebiet und Gemeinschaftsamt Bergedorf",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Herzogthum Lauenburg mit dem Lande Hadeln",
+    "start_page": 393,
+    "end_page": 477,
+    "href": "https://digi.hadw-bw.de/view/eko5/0409",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Herzogthum Lauenburg mit dem Lande Hadeln",
+    "is_source_part": true
+  },
+  {
+    "title": "Hamburg mit Landgebiet",
+    "start_page": 479,
+    "end_page": 562,
+    "href": "https://digi.hadw-bw.de/view/eko5/0495",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Hamburg mit Landgebiet",
+    "is_source_part": true
+  },
+  {
+    "title": "Chronologisches Register",
+    "start_page": 563,
+    "end_page": 564,
+    "href": "https://digi.hadw-bw.de/view/eko5/0579",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Chronologisches Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Personen- und Orts-Register",
+    "start_page": 565,
+    "end_page": 568,
+    "href": "https://digi.hadw-bw.de/view/eko5/0581",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Personen- und Orts-Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Sachregister",
+    "start_page": 569,
+    "end_page": 577,
+    "href": "https://digi.hadw-bw.de/view/eko5/0585",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sachregister",
+    "is_source_part": false
+  }
+]

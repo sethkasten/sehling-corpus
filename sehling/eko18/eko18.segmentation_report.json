@@ -1,0 +1,892 @@
+{
+  "eko18": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Quellen- und Literaturverzeichnis",
+        "pages": "2-17",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "21-48",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "447-451",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "621-627",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "687-688",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "703-705",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Evangelische Gebiete ohne nachweisbare eigene Ordnungen: Grafschaft Oberstein, Grafschaft Falkenstein, Grafschaft Hohenfels - Reipoltskirchen",
+        "pages": "707-711",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Register",
+        "pages": "713-732",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0017",
+        "last_printed_page": 1,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Quellen- und Literaturverzeichnis",
+        "doc_year": null,
+        "first_printed_page": 2,
+        "first_digital_page": "0018",
+        "last_printed_page": 17,
+        "prev_doc_last_page": 1,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 18,
+        "first_digital_page": "0034",
+        "last_printed_page": 18,
+        "prev_doc_last_page": 17,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Herzogtum Pfalz - Zweibrücken",
+        "doc_year": null,
+        "first_printed_page": 19,
+        "first_digital_page": "0035",
+        "last_printed_page": 20,
+        "prev_doc_last_page": 18,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 21,
+        "first_digital_page": "0037",
+        "last_printed_page": 48,
+        "prev_doc_last_page": 20,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "12 Artikel „Form und Maß“a",
+        "doc_year": "1533",
+        "first_printed_page": 49,
+        "first_digital_page": "0065",
+        "last_printed_page": 53,
+        "prev_doc_last_page": 48,
+        "matched_heading_text": "1. 12 Artikel „Form und Maß“a 1533"
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung des Katechismuswesensa",
+        "doc_year": "1538",
+        "first_printed_page": 54,
+        "first_digital_page": "0070",
+        "last_printed_page": 54,
+        "prev_doc_last_page": 53,
+        "matched_heading_text": "2. Ordnung des Katechismuswesensa 1538"
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung „Form und Ordnung“",
+        "doc_year": "1539",
+        "first_printed_page": 55,
+        "first_digital_page": "0071",
+        "last_printed_page": 66,
+        "prev_doc_last_page": 54,
+        "matched_heading_text": "3. Kirchenordnung „Form und Ordnung“ 1539"
+      },
+      {
+        "citation_key": "I.4",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenzuchtordnung",
+        "doc_year": "1539",
+        "first_printed_page": 67,
+        "first_digital_page": "0083",
+        "last_printed_page": 70,
+        "prev_doc_last_page": 66,
+        "matched_heading_text": "4. Kirchenzuchtordnung 1539"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1557",
+        "first_printed_page": 71,
+        "first_digital_page": "0087",
+        "last_printed_page": 215,
+        "prev_doc_last_page": 70,
+        "matched_heading_text": "5. Kirchenordnung 1557"
+      },
+      {
+        "citation_key": "I.6",
+        "heading_source": "running_head",
+        "doc_title": "Mandat gegen Gotteslästerung",
+        "doc_year": "1554",
+        "first_printed_page": 216,
+        "first_digital_page": "0232",
+        "last_printed_page": 263,
+        "prev_doc_last_page": 215,
+        "matched_heading_text": "6. capitel. h-h KO Pfalz-Neuburg 1554"
+      },
+      {
+        "citation_key": "I.7",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Kirchenzensura",
+        "doc_year": "1558",
+        "first_printed_page": 264,
+        "first_digital_page": "0280",
+        "last_printed_page": 264,
+        "prev_doc_last_page": 263,
+        "matched_heading_text": "7. Mandat zur Kirchenzensura 1558"
+      },
+      {
+        "citation_key": "I.8",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsordnung",
+        "doc_year": "1558",
+        "first_printed_page": 265,
+        "first_digital_page": "0281",
+        "last_printed_page": 276,
+        "prev_doc_last_page": 264,
+        "matched_heading_text": "8. Visitationsordnung 1558"
+      },
+      {
+        "citation_key": "I.9",
+        "heading_source": "running_head",
+        "doc_title": "Generalartikel",
+        "doc_year": "1560",
+        "first_printed_page": 277,
+        "first_digital_page": "0293",
+        "last_printed_page": 295,
+        "prev_doc_last_page": 276,
+        "matched_heading_text": "9. Generalartikel 1560"
+      },
+      {
+        "citation_key": "I.10",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Abschaffung der Volksbräuchea 22. Februar",
+        "doc_year": "1560",
+        "first_printed_page": 296,
+        "first_digital_page": "0312",
+        "last_printed_page": 296,
+        "prev_doc_last_page": 295,
+        "matched_heading_text": "10. Mandat zur Abschaffung der Volksbräuchea 22. Februar 1560"
+      },
+      {
+        "citation_key": "I.11",
+        "heading_source": "running_head",
+        "doc_title": "Feiertagsordnung 11. Feiertagsordnunga 12. November",
+        "doc_year": "1561",
+        "first_printed_page": 297,
+        "first_digital_page": "0313",
+        "last_printed_page": 298,
+        "prev_doc_last_page": 296,
+        "matched_heading_text": "11. Feiertagsordnung 11. Feiertagsordnunga 12. November 1561"
+      },
+      {
+        "citation_key": "I.12",
+        "heading_source": "running_head",
+        "doc_title": "Superintendentenordnung",
+        "doc_year": "1562",
+        "first_printed_page": 299,
+        "first_digital_page": "0315",
+        "last_printed_page": 301,
+        "prev_doc_last_page": 298,
+        "matched_heading_text": "12. Superintendentenordnung 1562"
+      },
+      {
+        "citation_key": "I.13",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Kirchenrechnunga 13. April",
+        "doc_year": "1562",
+        "first_printed_page": 302,
+        "first_digital_page": "0318",
+        "last_printed_page": 302,
+        "prev_doc_last_page": 301,
+        "matched_heading_text": "13. Mandat zur Kirchenrechnunga 13. April 1562"
+      },
+      {
+        "citation_key": "I.14",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Druckzensur",
+        "doc_year": "1562",
+        "first_printed_page": 303,
+        "first_digital_page": "0319",
+        "last_printed_page": 303,
+        "prev_doc_last_page": 302,
+        "matched_heading_text": "14. Mandat zur Druckzensur 1562"
+      },
+      {
+        "citation_key": "I.15",
+        "heading_source": "running_head",
+        "doc_title": "Ehemandate",
+        "doc_year": "1561",
+        "first_printed_page": 304,
+        "first_digital_page": "0320",
+        "last_printed_page": 307,
+        "prev_doc_last_page": 303,
+        "matched_heading_text": "15. Ehemandate 1561"
+      },
+      {
+        "citation_key": "I.16",
+        "heading_source": "running_head",
+        "doc_title": "Sonntagsmandata 16. Januar",
+        "doc_year": "1563",
+        "first_printed_page": 308,
+        "first_digital_page": "0324",
+        "last_printed_page": 308,
+        "prev_doc_last_page": 307,
+        "matched_heading_text": "16. Sonntagsmandata 16. Januar 1563"
+      },
+      {
+        "citation_key": "I.17",
+        "heading_source": "running_head",
+        "doc_title": "Fürbittenmandate",
+        "doc_year": "1563",
+        "first_printed_page": 309,
+        "first_digital_page": "0325",
+        "last_printed_page": 313,
+        "prev_doc_last_page": 308,
+        "matched_heading_text": "17. Fürbittenmandate 1563"
+      },
+      {
+        "citation_key": "I.18",
+        "heading_source": "running_head",
+        "doc_title": "Begräbnismandata 30. Januar",
+        "doc_year": "1564",
+        "first_printed_page": 314,
+        "first_digital_page": "0330",
+        "last_printed_page": 314,
+        "prev_doc_last_page": 313,
+        "matched_heading_text": "18. Begräbnismandata 30. Januar 1564"
+      },
+      {
+        "citation_key": "I.19",
+        "heading_source": "running_head",
+        "doc_title": "Mandat gegen die Calvinisten",
+        "doc_year": "1564",
+        "first_printed_page": 315,
+        "first_digital_page": "0331",
+        "last_printed_page": 318,
+        "prev_doc_last_page": 314,
+        "matched_heading_text": "19. Mandat gegen die Calvinisten 1564"
+      },
+      {
+        "citation_key": "I.20",
+        "heading_source": "running_head",
+        "doc_title": "Bekenntnisverpflichtung der Kirchendiener",
+        "doc_year": "1564",
+        "first_printed_page": 319,
+        "first_digital_page": "0335",
+        "last_printed_page": 333,
+        "prev_doc_last_page": 318,
+        "matched_heading_text": "20. Bekenntnisverpflichtung der Kirchendiener 1564"
+      },
+      {
+        "citation_key": "I.21",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung für den Generalsuperintendenten",
+        "doc_year": "1564",
+        "first_printed_page": 334,
+        "first_digital_page": "0350",
+        "last_printed_page": 335,
+        "prev_doc_last_page": 333,
+        "matched_heading_text": "21. Ordnung für den Generalsuperintendentena 19. Mai 1564"
+      },
+      {
+        "citation_key": "I.22",
+        "heading_source": "running_head",
+        "doc_title": "Almosenordnunga 19. Februar",
+        "doc_year": "1565",
+        "first_printed_page": 336,
+        "first_digital_page": "0352",
+        "last_printed_page": 336,
+        "prev_doc_last_page": 335,
+        "matched_heading_text": "22. Almosenordnunga 19. Februar 1565"
+      },
+      {
+        "citation_key": "I.23",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung der Kirchengesänge",
+        "doc_year": "1565",
+        "first_printed_page": 337,
+        "first_digital_page": "0353",
+        "last_printed_page": 341,
+        "prev_doc_last_page": 336,
+        "matched_heading_text": "23. Ordnung der Kirchengesänge 1565"
+      },
+      {
+        "citation_key": "I.24",
+        "heading_source": "running_head",
+        "doc_title": "Pfarrhausmandat 14. Januar",
+        "doc_year": "1566",
+        "first_printed_page": 342,
+        "first_digital_page": "0358",
+        "last_printed_page": 342,
+        "prev_doc_last_page": 341,
+        "matched_heading_text": "24. Pfarrhausmandat 14. Januar 1566"
+      },
+      {
+        "citation_key": "I.25",
+        "heading_source": "running_head",
+        "doc_title": "Ordinationszeugnis",
+        "doc_year": "1567",
+        "first_printed_page": 343,
+        "first_digital_page": "0359",
+        "last_printed_page": 344,
+        "prev_doc_last_page": 342,
+        "matched_heading_text": "25. Ordinationszeugnis 1567"
+      },
+      {
+        "citation_key": "I.26",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Einhaltung der Kirchenordnung",
+        "doc_year": "1570",
+        "first_printed_page": 345,
+        "first_digital_page": "0361",
+        "last_printed_page": 348,
+        "prev_doc_last_page": 344,
+        "matched_heading_text": "26. Mandat zur Einhaltung der Kirchenordnung 1570"
+      },
+      {
+        "citation_key": "I.27",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsordnung",
+        "doc_year": "1575",
+        "first_printed_page": 349,
+        "first_digital_page": "0365",
+        "last_printed_page": 363,
+        "prev_doc_last_page": 348,
+        "matched_heading_text": "27. Visitationsordnung 1575"
+      },
+      {
+        "citation_key": "I.28",
+        "heading_source": "running_head",
+        "doc_title": "Sonntagsmandate",
+        "doc_year": "1577",
+        "first_printed_page": 364,
+        "first_digital_page": "0380",
+        "last_printed_page": 366,
+        "prev_doc_last_page": 363,
+        "matched_heading_text": "28. Sonntagsmandate 1577"
+      },
+      {
+        "citation_key": "I.29",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsformular",
+        "doc_year": "1579",
+        "first_printed_page": 367,
+        "first_digital_page": "0383",
+        "last_printed_page": 376,
+        "prev_doc_last_page": 366,
+        "matched_heading_text": "29. Visitationsformular 1579"
+      },
+      {
+        "citation_key": "I.30",
+        "heading_source": "running_head",
+        "doc_title": "Dienstanweisung für die Pfarrer des Amtes Lichtenberg",
+        "doc_year": "1579",
+        "first_printed_page": 377,
+        "first_digital_page": "0393",
+        "last_printed_page": 380,
+        "prev_doc_last_page": 376,
+        "matched_heading_text": "30. Dienstanweisung für die Pfarrer des Amtes Lichtenberg 1579"
+      },
+      {
+        "citation_key": "I.31",
+        "heading_source": "running_head",
+        "doc_title": "Verordnungen zur Einführung des neuen Katechismus",
+        "doc_year": "1588",
+        "first_printed_page": 381,
+        "first_digital_page": "0397",
+        "last_printed_page": 383,
+        "prev_doc_last_page": 380,
+        "matched_heading_text": "31. Verordnungen zur Einführung des neuen Katechismus 1588"
+      },
+      {
+        "citation_key": "I.32",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus",
+        "doc_year": "1588",
+        "first_printed_page": 384,
+        "first_digital_page": "0400",
+        "last_printed_page": 400,
+        "prev_doc_last_page": 383,
+        "matched_heading_text": "32. Katechismusa 1588"
+      },
+      {
+        "citation_key": "I.33",
+        "heading_source": "running_head",
+        "doc_title": "Synodalordnung",
+        "doc_year": "1592",
+        "first_printed_page": 401,
+        "first_digital_page": "0417",
+        "last_printed_page": 405,
+        "prev_doc_last_page": 400,
+        "matched_heading_text": "33. Synodalordnung 1592"
+      },
+      {
+        "citation_key": "I.34",
+        "heading_source": "running_head",
+        "doc_title": "Dorfschulmandat",
+        "doc_year": "1592",
+        "first_printed_page": 406,
+        "first_digital_page": "0422",
+        "last_printed_page": 407,
+        "prev_doc_last_page": 405,
+        "matched_heading_text": "34. Dorfschulmandata August 1592"
+      },
+      {
+        "citation_key": "I.35",
+        "heading_source": "running_head",
+        "doc_title": "Festmandat",
+        "doc_year": "1594",
+        "first_printed_page": 408,
+        "first_digital_page": "0424",
+        "last_printed_page": 409,
+        "prev_doc_last_page": 407,
+        "matched_heading_text": "35. Festmandata 8. Februar 1594"
+      },
+      {
+        "citation_key": "I.36",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Ablieferung der Vasa sacraa 7. April",
+        "doc_year": "1595",
+        "first_printed_page": 410,
+        "first_digital_page": "0426",
+        "last_printed_page": 410,
+        "prev_doc_last_page": 409,
+        "matched_heading_text": "36. Mandat zur Ablieferung der Vasa sacraa 7. April 1595"
+      },
+      {
+        "citation_key": "I.37",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsordnung vor",
+        "doc_year": "1597",
+        "first_printed_page": 411,
+        "first_digital_page": "0427",
+        "last_printed_page": 413,
+        "prev_doc_last_page": 410,
+        "matched_heading_text": "37. Visitationsordnung vor 1597"
+      },
+      {
+        "citation_key": "I.38",
+        "heading_source": "running_head",
+        "doc_title": "Eheordnung",
+        "doc_year": "1605",
+        "first_printed_page": 414,
+        "first_digital_page": "0430",
+        "last_printed_page": 431,
+        "prev_doc_last_page": 413,
+        "matched_heading_text": "38. Eheordnunga 13. Mai 1605"
+      },
+      {
+        "citation_key": "I.39",
+        "heading_source": "running_head",
+        "doc_title": "Ehebruchmandat",
+        "doc_year": "1605",
+        "first_printed_page": 432,
+        "first_digital_page": "0448",
+        "last_printed_page": 438,
+        "prev_doc_last_page": 431,
+        "matched_heading_text": "39. Ehebruchmandata 13. Mai 1605"
+      },
+      {
+        "citation_key": "I.40",
+        "heading_source": "running_head",
+        "doc_title": "Mandat betr. Korrekturen zur Kirchenordnung",
+        "doc_year": "1605",
+        "first_printed_page": 439,
+        "first_digital_page": "0455",
+        "last_printed_page": 440,
+        "prev_doc_last_page": 438,
+        "matched_heading_text": "40. Mandat betr. Korrekturen zur Kirchenordnung 1605"
+      },
+      {
+        "citation_key": "I.42",
+        "heading_source": "running_head",
+        "doc_title": "Pfarrkonventsordnung",
+        "doc_year": "1616",
+        "first_printed_page": 441,
+        "first_digital_page": "0457",
+        "last_printed_page": 442,
+        "prev_doc_last_page": 440,
+        "matched_heading_text": "42. Pfarrkonventsordnung 1616"
+      },
+      {
+        "citation_key": "I.43",
+        "heading_source": "running_head",
+        "doc_title": "Reformationsjubiläum",
+        "doc_year": "1617",
+        "first_printed_page": 443,
+        "first_digital_page": "0459",
+        "last_printed_page": 444,
+        "prev_doc_last_page": 442,
+        "matched_heading_text": "43. Reformationsjubiläum 1617"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Grafschaft Pfalz - Veldenz mit der Grafschaft Lützelstein und der Gemeinschaft Guttenberg",
+        "doc_year": null,
+        "first_printed_page": 445,
+        "first_digital_page": "0461",
+        "last_printed_page": 446,
+        "prev_doc_last_page": 444,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 447,
+        "first_digital_page": "0463",
+        "last_printed_page": 451,
+        "prev_doc_last_page": 446,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II.1",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsordnung",
+        "doc_year": "1558",
+        "first_printed_page": 452,
+        "first_digital_page": "0468",
+        "last_printed_page": 456,
+        "prev_doc_last_page": 451,
+        "matched_heading_text": "1. Visitationsordnunga 1. September 1558"
+      },
+      {
+        "citation_key": "II.5",
+        "heading_source": "running_head",
+        "doc_title": "Feiertagsordnung",
+        "doc_year": "1570",
+        "first_printed_page": 457,
+        "first_digital_page": "0473",
+        "last_printed_page": 457,
+        "prev_doc_last_page": 456,
+        "matched_heading_text": "5. Feiertagsordnung 1570"
+      },
+      {
+        "citation_key": "II.6",
+        "heading_source": "running_head",
+        "doc_title": "Begräbnisordnung3",
+        "doc_year": "1571",
+        "first_printed_page": 458,
+        "first_digital_page": "0474",
+        "last_printed_page": 458,
+        "prev_doc_last_page": 457,
+        "matched_heading_text": "6. Begräbnisordnung3 1571"
+      },
+      {
+        "citation_key": "II.7",
+        "heading_source": "running_head",
+        "doc_title": "Generalartikel",
+        "doc_year": "1571",
+        "first_printed_page": 459,
+        "first_digital_page": "0475",
+        "last_printed_page": 461,
+        "prev_doc_last_page": 458,
+        "matched_heading_text": "7. Generalartikel 1571"
+      },
+      {
+        "citation_key": "II.8",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1574",
+        "first_printed_page": 462,
+        "first_digital_page": "0478",
+        "last_printed_page": 582,
+        "prev_doc_last_page": 461,
+        "matched_heading_text": "8. Kirchenordnunga 1574"
+      },
+      {
+        "citation_key": "II.11",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung Lützelstein",
+        "doc_year": "1605",
+        "first_printed_page": 583,
+        "first_digital_page": "0599",
+        "last_printed_page": 618,
+        "prev_doc_last_page": 582,
+        "matched_heading_text": "11. Kirchenordnung Lützelstein 1605"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Grafschaften Sponheim",
+        "doc_year": null,
+        "first_printed_page": 619,
+        "first_digital_page": "0635",
+        "last_printed_page": 620,
+        "prev_doc_last_page": 618,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 621,
+        "first_digital_page": "0637",
+        "last_printed_page": 627,
+        "prev_doc_last_page": 620,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III.1",
+        "heading_source": "running_head",
+        "doc_title": "Reformation in der Vorderen Grafschaft Sponheim",
+        "doc_year": "1566",
+        "first_printed_page": 628,
+        "first_digital_page": "0644",
+        "last_printed_page": 634,
+        "prev_doc_last_page": 627,
+        "matched_heading_text": "1. Reformation in der Vorderen Grafschaft Sponheim 1a. Vertraga 9. Januar 1566"
+      },
+      {
+        "citation_key": "III.2",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsrelation",
+        "doc_year": "1560",
+        "first_printed_page": 635,
+        "first_digital_page": "0651",
+        "last_printed_page": 641,
+        "prev_doc_last_page": 634,
+        "matched_heading_text": "2. Visitationsrelation 1560"
+      },
+      {
+        "citation_key": "III.4",
+        "heading_source": "running_head",
+        "doc_title": "Abschaffung katholischer Bräuchea 4. Oktober",
+        "doc_year": "1575",
+        "first_printed_page": 642,
+        "first_digital_page": "0658",
+        "last_printed_page": 642,
+        "prev_doc_last_page": 641,
+        "matched_heading_text": "4. Abschaffung katholischer Bräuchea 4. Oktober 1575"
+      },
+      {
+        "citation_key": "III.5",
+        "heading_source": "running_head",
+        "doc_title": "Gemeine Punkte nach",
+        "doc_year": "1577",
+        "first_printed_page": 643,
+        "first_digital_page": "0659",
+        "last_printed_page": 645,
+        "prev_doc_last_page": 642,
+        "matched_heading_text": "5. Gemeine Punkte nach 1577"
+      },
+      {
+        "citation_key": "III.7",
+        "heading_source": "running_head",
+        "doc_title": "Kompetenzordnung nach",
+        "doc_year": "1579",
+        "first_printed_page": 646,
+        "first_digital_page": "0662",
+        "last_printed_page": 647,
+        "prev_doc_last_page": 645,
+        "matched_heading_text": "7. Kompetenzordnunga nach 1579"
+      },
+      {
+        "citation_key": "III.8",
+        "heading_source": "running_head",
+        "doc_title": "Kirchen- und Zensurordnung",
+        "doc_year": "1590",
+        "first_printed_page": 648,
+        "first_digital_page": "0664",
+        "last_printed_page": 652,
+        "prev_doc_last_page": 647,
+        "matched_heading_text": "8. Kirchen- und Zensurordnunga 1590"
+      },
+      {
+        "citation_key": "III.19",
+        "heading_source": "running_head",
+        "doc_title": "Dieweil auch etliche kinder in den fernen und von der pfarrkirchen weit gelegenen dörffern die z 33-4958 (",
+        "doc_year": "1607",
+        "first_printed_page": 653,
+        "first_digital_page": "0669",
+        "last_printed_page": 684,
+        "prev_doc_last_page": 652,
+        "matched_heading_text": "19. Dieweil auch etliche kinder in den fernen und von der pfarrkirchen weit gelegenen dörffern die z 33-4958 (1607"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Grafschaft Sickingen",
+        "doc_year": null,
+        "first_printed_page": 685,
+        "first_digital_page": "0701",
+        "last_printed_page": 686,
+        "prev_doc_last_page": 684,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 687,
+        "first_digital_page": "0703",
+        "last_printed_page": 688,
+        "prev_doc_last_page": 686,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV.1",
+        "heading_source": "running_head",
+        "doc_title": "Bekenntnis der Kirchendiener",
+        "doc_year": "1564",
+        "first_printed_page": 689,
+        "first_digital_page": "0705",
+        "last_printed_page": 697,
+        "prev_doc_last_page": 688,
+        "matched_heading_text": "1. Bekenntnis der Kirchendienera 1564"
+      },
+      {
+        "citation_key": "IV.2",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung Ebernburg",
+        "doc_year": "1572",
+        "first_printed_page": 698,
+        "first_digital_page": "0714",
+        "last_printed_page": 700,
+        "prev_doc_last_page": 697,
+        "matched_heading_text": "2. Kirchenordnung Ebernburga 1572"
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Grafschaft Manderscheid",
+        "doc_year": null,
+        "first_printed_page": 701,
+        "first_digital_page": "0717",
+        "last_printed_page": 702,
+        "prev_doc_last_page": 700,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 703,
+        "first_digital_page": "0719",
+        "last_printed_page": 705,
+        "prev_doc_last_page": 702,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Grafschaft Manderscheid",
+        "doc_year": null,
+        "first_printed_page": 706,
+        "first_digital_page": "0722",
+        "last_printed_page": 706,
+        "prev_doc_last_page": 705,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Evangelische Gebiete ohne nachweisbare eigene Ordnungen: Grafschaft Oberstein, Grafschaft Falkenstein, Grafschaft Hohenfels - Reipoltskirchen",
+        "doc_year": null,
+        "first_printed_page": 707,
+        "first_digital_page": "0723",
+        "last_printed_page": 711,
+        "prev_doc_last_page": 706,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 712,
+        "first_digital_page": "0728",
+        "last_printed_page": 712,
+        "prev_doc_last_page": 711,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 713,
+        "first_digital_page": "0729",
+        "last_printed_page": 732,
+        "prev_doc_last_page": 712,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0749",
+        "last_printed_page": null,
+        "prev_doc_last_page": 732,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

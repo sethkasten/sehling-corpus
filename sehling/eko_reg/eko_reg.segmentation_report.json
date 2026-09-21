@@ -1,0 +1,92 @@
+{
+  "eko_reg": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "1. Personen",
+        "pages": "1-85",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "2. Orte",
+        "pages": "87-146",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Sachen",
+        "pages": "147-265",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "1. Personen",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0013",
+        "last_printed_page": 85,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 86,
+        "first_digital_page": "0098",
+        "last_printed_page": 86,
+        "prev_doc_last_page": 85,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "2. Orte",
+        "doc_year": null,
+        "first_printed_page": 87,
+        "first_digital_page": "0099",
+        "last_printed_page": 146,
+        "prev_doc_last_page": 86,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Sachen",
+        "doc_year": null,
+        "first_printed_page": 147,
+        "first_digital_page": "0159",
+        "last_printed_page": 265,
+        "prev_doc_last_page": 146,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0278",
+        "last_printed_page": null,
+        "prev_doc_last_page": 265,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

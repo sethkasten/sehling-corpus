@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Die Mark Brandenburg",
+    "start_page": 1,
+    "end_page": 354,
+    "href": "https://digi.hadw-bw.de/view/eko3/0021",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Mark Brandenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 3,
+    "end_page": 27,
+    "href": "https://digi.hadw-bw.de/view/eko3/0023",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Die Kirchenordnungen",
+    "start_page": 28,
+    "end_page": 142,
+    "href": "https://digi.hadw-bw.de/view/eko3/0048",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Kirchenordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Herrschaften Beeskow und Storkow",
+    "start_page": 142,
+    "end_page": 148,
+    "href": "https://digi.hadw-bw.de/view/eko3/0162",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Herrschaften Beeskow und Storkow",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Besitzungen der Familie von der Schulenburg",
+    "start_page": 148,
+    "end_page": 150,
+    "href": "https://digi.hadw-bw.de/view/eko3/0168",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Besitzungen der Familie von der Schulenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte und Ortschaften der Mark Brandenburg",
+    "start_page": 151,
+    "end_page": 354,
+    "href": "https://digi.hadw-bw.de/view/eko3/0171",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte und Ortschaften der Mark Brandenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Markgrafenthümer Oberlausitz und Niederlausitz",
+    "start_page": 355,
+    "end_page": 385,
+    "href": "https://digi.hadw-bw.de/view/eko3/0375",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Markgrafenthümer Oberlausitz und Niederlausitz",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Standesherrschaften der Oberlausitz",
+    "start_page": 364,
+    "end_page": 368,
+    "href": "https://digi.hadw-bw.de/view/eko3/0384",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Standesherrschaften der Oberlausitz",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Standesherrschaften der Niederlausitz",
+    "start_page": 368,
+    "end_page": 373,
+    "href": "https://digi.hadw-bw.de/view/eko3/0388",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Standesherrschaften der Niederlausitz",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Städte der Oberlausitz",
+    "start_page": 373,
+    "end_page": 380,
+    "href": "https://digi.hadw-bw.de/view/eko3/0393",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Städte der Oberlausitz",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Städte der Niederlausitz",
+    "start_page": 380,
+    "end_page": 385,
+    "href": "https://digi.hadw-bw.de/view/eko3/0400",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Städte der Niederlausitz",
+    "is_source_part": true
+  },
+  {
+    "title": "Schlesien",
+    "start_page": 387,
+    "end_page": 483,
+    "href": "https://digi.hadw-bw.de/view/eko3/0407",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Schlesien",
+    "is_source_part": true
+  },
+  {
+    "title": "Fürstenthum und Stadt Breslau",
+    "start_page": 391,
+    "end_page": 418,
+    "href": "https://digi.hadw-bw.de/view/eko3/0411",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Fürstenthum und Stadt Breslau",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Fürstenthümer Liegnitz, Brieg und Wohlau",
+    "start_page": 418,
+    "end_page": 448,
+    "href": "https://digi.hadw-bw.de/view/eko3/0438",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Fürstenthümer Liegnitz",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstenthum Jägerndorf mit Leobschütz",
+    "start_page": 448,
+    "end_page": 452,
+    "href": "https://digi.hadw-bw.de/view/eko3/0468",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstenthum Jägerndorf mit Leobschütz",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Fürstenthümer Oppeln und Ratibor",
+    "start_page": 452,
+    "end_page": 453,
+    "href": "https://digi.hadw-bw.de/view/eko3/0472",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Fürstenthümer Oppeln und Ratibor",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Standesherrschaften Oberschlesiens",
+    "start_page": 453,
+    "end_page": 457,
+    "href": "https://digi.hadw-bw.de/view/eko3/0473",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Standesherrschaften Oberschlesiens",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstenthum Teschen",
+    "start_page": 458,
+    "end_page": 463,
+    "href": "https://digi.hadw-bw.de/view/eko3/0478",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstenthum Teschen",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Fürstenthümer Münsterberg-Oels",
+    "start_page": 464,
+    "end_page": 468,
+    "href": "https://digi.hadw-bw.de/view/eko3/0484",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Fürstenthümer Münsterberg-Oels",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Fürstenthümer Schweidnitz-Jauer",
+    "start_page": 468,
+    "end_page": 470,
+    "href": "https://digi.hadw-bw.de/view/eko3/0488",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Fürstenthümer Schweidnitz-Jauer",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstenthum Sagan",
+    "start_page": 470,
+    "end_page": 471,
+    "href": "https://digi.hadw-bw.de/view/eko3/0490",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstenthum Sagan",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstenthum Krossen",
+    "start_page": 472,
+    "end_page": 473,
+    "href": "https://digi.hadw-bw.de/view/eko3/0492",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstenthum Krossen",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstenthum Glogau",
+    "start_page": 473,
+    "end_page": 474,
+    "href": "https://digi.hadw-bw.de/view/eko3/0493",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstenthum Glogau",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Grafschaft Glatz",
+    "start_page": 474,
+    "end_page": 475,
+    "href": "https://digi.hadw-bw.de/view/eko3/0494",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Grafschaft Glatz",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstenthum Troppau",
+    "start_page": 475,
+    "end_page": 483,
+    "href": "https://digi.hadw-bw.de/view/eko3/0495",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstenthum Troppau",
+    "is_source_part": true
+  },
+  {
+    "title": "Chronologisches Register",
+    "start_page": 484,
+    "end_page": 485,
+    "href": "https://digi.hadw-bw.de/view/eko3/0504",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Chronologisches Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Personen- und Orts-Register",
+    "start_page": 486,
+    "end_page": 492,
+    "href": "https://digi.hadw-bw.de/view/eko3/0506",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Personen- und Orts-Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Sachregister",
+    "start_page": 493,
+    "end_page": 501,
+    "href": "https://digi.hadw-bw.de/view/eko3/0513",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sachregister",
+    "is_source_part": false
+  }
+]

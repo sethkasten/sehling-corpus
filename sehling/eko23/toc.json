@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Abkürzungen und Siglen",
+    "start_page": 1,
+    "end_page": 2,
+    "href": "https://digi.hadw-bw.de/view/eko23/0021",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Abkürzungen und Siglen",
+    "is_source_part": true
+  },
+  {
+    "title": "Quellen- und Literaturverzeichnis",
+    "start_page": 3,
+    "end_page": 20,
+    "href": "https://digi.hadw-bw.de/view/eko23/0023",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "Einleitung in den Band",
+    "start_page": 21,
+    "end_page": 26,
+    "href": "https://digi.hadw-bw.de/view/eko23/0041",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung in den Band",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Die Herzogtümer Schleswig und Holstein",
+    "start_page": 27,
+    "end_page": 35,
+    "href": "https://digi.hadw-bw.de/view/eko23/0049",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Die Herzogtümer Schleswig und Holstein",
+    "is_source_part": true
+  },
+  {
+    "title": "A. Die Ordnungen bis zur Teilung der Herzogtümer im Jahr 1544 (ohne Siglen)",
+    "start_page": 37,
+    "end_page": 156,
+    "href": "https://digi.hadw-bw.de/view/eko23/0057",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "A. Die Ordnungen bis zur Teilung der Herzogtümer im Jahr 1544",
+    "is_source_part": true
+  },
+  {
+    "title": "B. Die Ordnungen nach der Teilung der Herzogtümer",
+    "start_page": 157,
+    "end_page": 161,
+    "href": "https://digi.hadw-bw.de/view/eko23/0177",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B. Die Ordnungen nach der Teilung der Herzogtümer",
+    "is_source_part": true
+  },
+  {
+    "title": "B 1. Die gemeinschaftlich erlassenen Ordnungen",
+    "start_page": 163,
+    "end_page": 185,
+    "href": "https://digi.hadw-bw.de/view/eko23/0183",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B 1. Die gemeinschaftlich erlassenen Ordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "B 2. Die Ordnungen des Haderslebener Anteils (Had)",
+    "start_page": 187,
+    "end_page": 244,
+    "href": "https://digi.hadw-bw.de/view/eko23/0207",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B 2. Die Ordnungen des Haderslebener Anteils",
+    "is_source_part": true
+  },
+  {
+    "title": "B 3. Die Ordnungen des königlichen Anteils (Kön)",
+    "start_page": 245,
+    "end_page": 292,
+    "href": "https://digi.hadw-bw.de/view/eko23/0265",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B 3. Die Ordnungen des königlichen Anteils",
+    "is_source_part": true
+  },
+  {
+    "title": "B 4. Die Ordnungen des Gottorfer Anteils (Got)",
+    "start_page": 293,
+    "end_page": 431,
+    "href": "https://digi.hadw-bw.de/view/eko23/0313",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B 4. Die Ordnungen des Gottorfer Anteils",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Dithmarschen",
+    "start_page": 433,
+    "end_page": 511,
+    "href": "https://digi.hadw-bw.de/view/eko23/0453",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Dithmarschen",
+    "is_source_part": true
+  },
+  {
+    "title": "Mittelniederdeutsches Glossar",
+    "start_page": 513,
+    "end_page": 527,
+    "href": "https://digi.hadw-bw.de/view/eko23/0533",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Mittelniederdeutsches Glossar",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 529,
+    "end_page": 551,
+    "href": "https://digi.hadw-bw.de/view/eko23/0549",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Das Herzogthum Preussen",
+    "start_page": 1,
+    "end_page": 154,
+    "href": "https://digi.hadw-bw.de/view/eko4/0019",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Herzogthum Preussen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 1,
+    "end_page": 28,
+    "href": "https://digi.hadw-bw.de/view/eko4/0019",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Die Kirchenordnungen",
+    "start_page": 29,
+    "end_page": 138,
+    "href": "https://digi.hadw-bw.de/view/eko4/0047",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Kirchenordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte und Ortschaften",
+    "start_page": 138,
+    "end_page": 154,
+    "href": "https://digi.hadw-bw.de/view/eko4/0156",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte und Ortschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Polen. Die ehemals polnischen Landestheile des Königreichs Preussen",
+    "start_page": 155,
+    "end_page": 300,
+    "href": "https://digi.hadw-bw.de/view/eko4/0173",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Polen. Die ehemals polnischen Landestheile des Königreichs Preussen",
+    "is_source_part": true
+  },
+  {
+    "title": "A. Das frühere Ordensgebiet",
+    "start_page": 157,
+    "end_page": 160,
+    "href": "https://digi.hadw-bw.de/view/eko4/0175",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "A. Das frühere Ordensgebiet",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Städte",
+    "start_page": 160,
+    "end_page": 246,
+    "href": "https://digi.hadw-bw.de/view/eko4/0178",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Städte",
+    "is_source_part": true
+  },
+  {
+    "title": "B. Das Grossherzogthum Posen",
+    "start_page": 246,
+    "end_page": 291,
+    "href": "https://digi.hadw-bw.de/view/eko4/0264",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B. Das Grossherzogthum Posen",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte und Ortschaften",
+    "start_page": 291,
+    "end_page": 300,
+    "href": "https://digi.hadw-bw.de/view/eko4/0309",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte und Ortschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Herzogthum Pommern",
+    "start_page": 301,
+    "end_page": 554,
+    "href": "https://digi.hadw-bw.de/view/eko4/0319",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Herzogthum Pommern",
+    "is_source_part": true
+  },
+  {
+    "title": "Pommern",
+    "start_page": 303,
+    "end_page": 328,
+    "href": "https://digi.hadw-bw.de/view/eko4/0321",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Pommern",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Kirchenordnungen Pommerns",
+    "start_page": 328,
+    "end_page": 494,
+    "href": "https://digi.hadw-bw.de/view/eko4/0346",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Kirchenordnungen Pommerns",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Städte und Ortschaften",
+    "start_page": 494,
+    "end_page": 554,
+    "href": "https://digi.hadw-bw.de/view/eko4/0512",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Städte und Ortschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Chronologisches Register",
+    "start_page": 556,
+    "end_page": 557,
+    "href": "https://digi.hadw-bw.de/view/eko4/0574",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Chronologisches Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Personen- und Orts-Register",
+    "start_page": 558,
+    "end_page": 561,
+    "href": "https://digi.hadw-bw.de/view/eko4/0576",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Personen- und Orts-Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Sachregister",
+    "start_page": 562,
+    "end_page": 572,
+    "href": "https://digi.hadw-bw.de/view/eko4/0580",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sachregister",
+    "is_source_part": false
+  }
+]

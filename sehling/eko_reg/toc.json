@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Register",
+    "start_page": 1,
+    "end_page": 265,
+    "href": "https://digi.hadw-bw.de/view/eko_reg/0013",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  },
+  {
+    "title": "1. Personen",
+    "start_page": 1,
+    "end_page": 85,
+    "href": "https://digi.hadw-bw.de/view/eko_reg/0013",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "1. Personen",
+    "is_source_part": false
+  },
+  {
+    "title": "2. Orte",
+    "start_page": 87,
+    "end_page": 146,
+    "href": "https://digi.hadw-bw.de/view/eko_reg/0099",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "2. Orte",
+    "is_source_part": false
+  },
+  {
+    "title": "3. Sachen",
+    "start_page": 147,
+    "end_page": 265,
+    "href": "https://digi.hadw-bw.de/view/eko_reg/0159",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "3. Sachen",
+    "is_source_part": false
+  }
+]

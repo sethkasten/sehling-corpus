@@ -1,0 +1,798 @@
+{
+  "eko20_2": {
+    "diagnostics": [
+      {
+        "type": "not_a_numbered_part",
+        "part": "Abkürzungen und Siglen",
+        "pages": "1-2",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Quellen- und Literaturverzeichnis",
+        "pages": "3-20",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "25-36",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "89-90",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "93-106",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "155-186",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "309-316",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Edition",
+        "pages": "317-336",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "339-352",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Edition",
+        "pages": "353-400",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "403-420",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Edition",
+        "pages": "421-468",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "471-490",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Edition",
+        "pages": "491-536",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "1. Bibelstellen",
+        "pages": "537-542",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Personen",
+        "pages": "544-548",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "4. Orte",
+        "pages": "549-552",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "5. Sachen",
+        "pages": "553-562",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Abkürzungen und Siglen",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0021",
+        "last_printed_page": 2,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Quellen- und Literaturverzeichnis",
+        "doc_year": null,
+        "first_printed_page": 3,
+        "first_digital_page": "0023",
+        "last_printed_page": 20,
+        "prev_doc_last_page": 2,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "A. Territorien",
+        "doc_year": null,
+        "first_printed_page": 21,
+        "first_digital_page": "0041",
+        "last_printed_page": 22,
+        "prev_doc_last_page": 20,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "I. Grafschaft Hanau-Lichtenberg",
+        "doc_year": null,
+        "first_printed_page": 23,
+        "first_digital_page": "0043",
+        "last_printed_page": 24,
+        "prev_doc_last_page": 22,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 25,
+        "first_digital_page": "0045",
+        "last_printed_page": 36,
+        "prev_doc_last_page": 24,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "Acht Reformationsartikela 14. März",
+        "doc_year": "1545",
+        "first_printed_page": 37,
+        "first_digital_page": "0057",
+        "last_printed_page": 38,
+        "prev_doc_last_page": 36,
+        "matched_heading_text": "1. Acht Reformationsartikela 14. März 1545"
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Verpflichtung der Geistlichen zur Teilnahme an der ersten Synode",
+        "doc_year": "1545",
+        "first_printed_page": 39,
+        "first_digital_page": "0059",
+        "last_printed_page": 39,
+        "prev_doc_last_page": 38,
+        "matched_heading_text": "2. Verpflichtung der Geistlichen zur Teilnahme an der ersten Synode 1545"
+      },
+      {
+        "citation_key": "3",
+        "heading_source": "running_head",
+        "doc_title": "Eheordnung",
+        "doc_year": "1565",
+        "first_printed_page": 40,
+        "first_digital_page": "0060",
+        "last_printed_page": 45,
+        "prev_doc_last_page": 39,
+        "matched_heading_text": "3. Eheordnunga 2. April 1565"
+      },
+      {
+        "citation_key": "4",
+        "heading_source": "running_head",
+        "doc_title": "Befehl zur Unterdrückung der Messea 17. September",
+        "doc_year": "1570",
+        "first_printed_page": 46,
+        "first_digital_page": "0066",
+        "last_printed_page": 46,
+        "prev_doc_last_page": 45,
+        "matched_heading_text": "4. Befehl zur Unterdrückung der Messea 17. September 1570"
+      },
+      {
+        "citation_key": "5",
+        "heading_source": "running_head",
+        "doc_title": "Verpflichtungserklärung der Pfarrer bei ihrem Amtsantritt",
+        "doc_year": "1570",
+        "first_printed_page": 47,
+        "first_digital_page": "0067",
+        "last_printed_page": 47,
+        "prev_doc_last_page": 46,
+        "matched_heading_text": "5. Verpflichtungserklärung der Pfarrer bei ihrem Amtsantritt 1570"
+      },
+      {
+        "citation_key": "6",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1573",
+        "first_printed_page": 48,
+        "first_digital_page": "0068",
+        "last_printed_page": 81,
+        "prev_doc_last_page": 47,
+        "matched_heading_text": "6. Kirchenordnunga 1573"
+      },
+      {
+        "citation_key": "7",
+        "heading_source": "running_head",
+        "doc_title": "Schulordnung",
+        "doc_year": "1614",
+        "first_printed_page": 82,
+        "first_digital_page": "0102",
+        "last_printed_page": 86,
+        "prev_doc_last_page": 81,
+        "matched_heading_text": "7. Schulordnunga 1614"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "II. Herrschaft Fleckenstein",
+        "doc_year": null,
+        "first_printed_page": 87,
+        "first_digital_page": "0107",
+        "last_printed_page": 88,
+        "prev_doc_last_page": 86,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 89,
+        "first_digital_page": "0109",
+        "last_printed_page": 90,
+        "prev_doc_last_page": 88,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "III. Herrschaft Rappoltstein",
+        "doc_year": null,
+        "first_printed_page": 91,
+        "first_digital_page": "0111",
+        "last_printed_page": 92,
+        "prev_doc_last_page": 90,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 93,
+        "first_digital_page": "0113",
+        "last_printed_page": 106,
+        "prev_doc_last_page": 92,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 107,
+        "first_digital_page": "0127",
+        "last_printed_page": 135,
+        "prev_doc_last_page": 106,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "8",
+        "heading_source": "running_head",
+        "doc_title": "Bericht des Predigers Arnaud Banc über die Lehre der Gemeinde",
+        "doc_year": "1561",
+        "first_printed_page": 136,
+        "first_digital_page": "0156",
+        "last_printed_page": 150,
+        "prev_doc_last_page": 135,
+        "matched_heading_text": "8. Bericht des Predigers Arnaud Banc über die Lehre der französischen Gemeindea Ende Juni / Anfang Juli 1561"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "B. Reichsstädte",
+        "doc_year": null,
+        "first_printed_page": 151,
+        "first_digital_page": "0171",
+        "last_printed_page": 152,
+        "prev_doc_last_page": 150,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "I. Mühlhausen",
+        "doc_year": null,
+        "first_printed_page": 153,
+        "first_digital_page": "0173",
+        "last_printed_page": 154,
+        "prev_doc_last_page": 152,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 155,
+        "first_digital_page": "0175",
+        "last_printed_page": 186,
+        "prev_doc_last_page": 154,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Predigt des Evangeliumsa 25. bzw. 29. Juli",
+        "doc_year": "1523",
+        "first_printed_page": 187,
+        "first_digital_page": "0207",
+        "last_printed_page": 188,
+        "prev_doc_last_page": 186,
+        "matched_heading_text": "1. Mandat zur Predigt des Evangeliumsa 25. bzw. 29. Juli 1523"
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtordnung",
+        "doc_year": "1523",
+        "first_printed_page": 189,
+        "first_digital_page": "0209",
+        "last_printed_page": 194,
+        "prev_doc_last_page": 188,
+        "matched_heading_text": "2. Zuchtordnung 1523"
+      },
+      {
+        "citation_key": "4",
+        "heading_source": "running_head",
+        "doc_title": "Verordnung zu den Prozessionen und Feiertagen",
+        "doc_year": "1524",
+        "first_printed_page": 195,
+        "first_digital_page": "0215",
+        "last_printed_page": 196,
+        "prev_doc_last_page": 194,
+        "matched_heading_text": "4. Verordnung zu den Prozessionen und Feiertagen 1524"
+      },
+      {
+        "citation_key": "5",
+        "heading_source": "running_head",
+        "doc_title": "Anweisungen für den Schulmeister und die Kapläne",
+        "doc_year": "1524",
+        "first_printed_page": 197,
+        "first_digital_page": "0217",
+        "last_printed_page": 203,
+        "prev_doc_last_page": 196,
+        "matched_heading_text": "5. Anweisungen für den Schulmeister und die Kapläne 1524"
+      },
+      {
+        "citation_key": "7",
+        "heading_source": "running_head",
+        "doc_title": "Rechtfertigung der reformatorischen Neuerungen durch den Magistrat",
+        "doc_year": "1527",
+        "first_printed_page": 204,
+        "first_digital_page": "0224",
+        "last_printed_page": 205,
+        "prev_doc_last_page": 203,
+        "matched_heading_text": "7. Rechtfertigung der reformatorischen Neuerungen durch den Magistrata 1. Juli 1527"
+      },
+      {
+        "citation_key": "8",
+        "heading_source": "running_head",
+        "doc_title": "Gutachten zu den Gottesdiensten in der Karwoche",
+        "doc_year": "1528",
+        "first_printed_page": 206,
+        "first_digital_page": "0226",
+        "last_printed_page": 207,
+        "prev_doc_last_page": 205,
+        "matched_heading_text": "8. Im Auftrag des Rates erstelltes Gutachten des Leutpriesters und der beiden Prädikanten zu den Gottesdiensten in der Karwochea März 1528"
+      },
+      {
+        "citation_key": "9",
+        "heading_source": "running_head",
+        "doc_title": "Gutachten zur Gestaltung der Gottesdienste",
+        "doc_year": "1528",
+        "first_printed_page": 208,
+        "first_digital_page": "0228",
+        "last_printed_page": 212,
+        "prev_doc_last_page": 207,
+        "matched_heading_text": "9. Im Auftrag des Rates erstelltes Gutachten des Leutpriesters und der drei Prädikanten zur Gestaltung der Gottesdienstea vor 24. Dezember 1528"
+      },
+      {
+        "citation_key": "10",
+        "heading_source": "running_head",
+        "doc_title": "Gutachten zu den Basler und Straßburger Ordnungen",
+        "doc_year": "1529",
+        "first_printed_page": 213,
+        "first_digital_page": "0233",
+        "last_printed_page": 217,
+        "prev_doc_last_page": 212,
+        "matched_heading_text": "10. Gutachten zu den Basler und Straßburger Ordnungen 1529"
+      },
+      {
+        "citation_key": "11",
+        "heading_source": "running_head",
+        "doc_title": "Eheordnung",
+        "doc_year": "1530",
+        "first_printed_page": 218,
+        "first_digital_page": "0238",
+        "last_printed_page": 224,
+        "prev_doc_last_page": 217,
+        "matched_heading_text": "11. Eheordnunga 1530"
+      },
+      {
+        "citation_key": "12",
+        "heading_source": "running_head",
+        "doc_title": "Entscheidung zur Wittenberger Konkordie",
+        "doc_year": "1536",
+        "first_printed_page": 225,
+        "first_digital_page": "0245",
+        "last_printed_page": 226,
+        "prev_doc_last_page": 224,
+        "matched_heading_text": "12. Entscheidung zur Wittenberger Konkordie 1536"
+      },
+      {
+        "citation_key": "13",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Predigt des Evangeliums und zur Unterbindung verschiedener Mißbräuche",
+        "doc_year": "1537",
+        "first_printed_page": 227,
+        "first_digital_page": "0247",
+        "last_printed_page": 228,
+        "prev_doc_last_page": 226,
+        "matched_heading_text": "13. Mandat zur Predigt des Evangeliums und zur Unterbindung verschiedener Mißbräuche 1537"
+      },
+      {
+        "citation_key": "14",
+        "heading_source": "running_head",
+        "doc_title": "Bekenntnis der Stadt Mülhausen",
+        "doc_year": "1537",
+        "first_printed_page": 229,
+        "first_digital_page": "0249",
+        "last_printed_page": 234,
+        "prev_doc_last_page": 228,
+        "matched_heading_text": "14. Bekenntnis der Stadt Mülhausen 1537"
+      },
+      {
+        "citation_key": "15",
+        "heading_source": "running_head",
+        "doc_title": "Stellungnahme zur Basler Synodalordnung",
+        "doc_year": "1540",
+        "first_printed_page": 235,
+        "first_digital_page": "0255",
+        "last_printed_page": 240,
+        "prev_doc_last_page": 234,
+        "matched_heading_text": "15. Stellungnahme zur Basler Synodalordnung 1540"
+      },
+      {
+        "citation_key": "16",
+        "heading_source": "running_head",
+        "doc_title": "Beschluß zur Aufrichtung einer christlichen Ordnung",
+        "doc_year": "1541",
+        "first_printed_page": 241,
+        "first_digital_page": "0261",
+        "last_printed_page": 244,
+        "prev_doc_last_page": 240,
+        "matched_heading_text": "16. Beschluß zur Aufrichtung einer christlichen Ordnung 1541"
+      },
+      {
+        "citation_key": "17",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtordnung",
+        "doc_year": "1545",
+        "first_printed_page": 245,
+        "first_digital_page": "0265",
+        "last_printed_page": 247,
+        "prev_doc_last_page": 244,
+        "matched_heading_text": "17. Zuchtordnung 1545"
+      },
+      {
+        "citation_key": "18",
+        "heading_source": "running_head",
+        "doc_title": "Eid der Prädikanten",
+        "doc_year": "1551",
+        "first_printed_page": 248,
+        "first_digital_page": "0268",
+        "last_printed_page": 252,
+        "prev_doc_last_page": 247,
+        "matched_heading_text": "18. Eide der Prädikanten und des Schulmeisters a. Eid der Prädikantena 1551"
+      },
+      {
+        "citation_key": "19",
+        "heading_source": "running_head",
+        "doc_title": "Eheordnung",
+        "doc_year": "1555",
+        "first_printed_page": 253,
+        "first_digital_page": "0273",
+        "last_printed_page": 259,
+        "prev_doc_last_page": 252,
+        "matched_heading_text": "19. Eheordnung 1555"
+      },
+      {
+        "citation_key": "20",
+        "heading_source": "running_head",
+        "doc_title": "Anweisung an die Prädikanten",
+        "doc_year": "1557",
+        "first_printed_page": 260,
+        "first_digital_page": "0280",
+        "last_printed_page": 263,
+        "prev_doc_last_page": 259,
+        "matched_heading_text": "20. Anweisung an die Prädikantena 24. Juni 1557"
+      },
+      {
+        "citation_key": "21",
+        "heading_source": "running_head",
+        "doc_title": "Sonntagsmandat",
+        "doc_year": "1561",
+        "first_printed_page": 264,
+        "first_digital_page": "0284",
+        "last_printed_page": 267,
+        "prev_doc_last_page": 263,
+        "matched_heading_text": "21. Sonntagsmandata 30. April 1561"
+      },
+      {
+        "citation_key": "22",
+        "heading_source": "running_head",
+        "doc_title": "Agende",
+        "doc_year": "1564",
+        "first_printed_page": 268,
+        "first_digital_page": "0288",
+        "last_printed_page": 283,
+        "prev_doc_last_page": 267,
+        "matched_heading_text": "22. Agendea 1564"
+      },
+      {
+        "citation_key": "23",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus",
+        "doc_year": "1580",
+        "first_printed_page": 284,
+        "first_digital_page": "0304",
+        "last_printed_page": 304,
+        "prev_doc_last_page": 283,
+        "matched_heading_text": "23. Katechismusa 1580"
+      },
+      {
+        "citation_key": "24",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtordnung",
+        "doc_year": "1582",
+        "first_printed_page": 305,
+        "first_digital_page": "0325",
+        "last_printed_page": 306,
+        "prev_doc_last_page": 304,
+        "matched_heading_text": "24. Zuchtordnung 1582"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "II. Weißenburg",
+        "doc_year": null,
+        "first_printed_page": 307,
+        "first_digital_page": "0327",
+        "last_printed_page": 308,
+        "prev_doc_last_page": 306,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 309,
+        "first_digital_page": "0329",
+        "last_printed_page": 316,
+        "prev_doc_last_page": 308,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 317,
+        "first_digital_page": "0337",
+        "last_printed_page": 336,
+        "prev_doc_last_page": 316,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "III. Münster im Münstertal (im Gregoriental)",
+        "doc_year": null,
+        "first_printed_page": 337,
+        "first_digital_page": "0357",
+        "last_printed_page": 338,
+        "prev_doc_last_page": 336,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 339,
+        "first_digital_page": "0359",
+        "last_printed_page": 352,
+        "prev_doc_last_page": 338,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 353,
+        "first_digital_page": "0373",
+        "last_printed_page": 400,
+        "prev_doc_last_page": 352,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Hagenau",
+        "doc_year": null,
+        "first_printed_page": 401,
+        "first_digital_page": "0421",
+        "last_printed_page": 402,
+        "prev_doc_last_page": 400,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 403,
+        "first_digital_page": "0423",
+        "last_printed_page": 420,
+        "prev_doc_last_page": 402,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 421,
+        "first_digital_page": "0441",
+        "last_printed_page": 468,
+        "prev_doc_last_page": 420,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "V. Colmar",
+        "doc_year": null,
+        "first_printed_page": 469,
+        "first_digital_page": "0489",
+        "last_printed_page": 470,
+        "prev_doc_last_page": 468,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 471,
+        "first_digital_page": "0491",
+        "last_printed_page": 490,
+        "prev_doc_last_page": 470,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 491,
+        "first_digital_page": "0511",
+        "last_printed_page": 536,
+        "prev_doc_last_page": 490,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "1. Bibelstellen",
+        "doc_year": null,
+        "first_printed_page": 537,
+        "first_digital_page": "0557",
+        "last_printed_page": 542,
+        "prev_doc_last_page": 536,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 543,
+        "first_digital_page": "0563",
+        "last_printed_page": 543,
+        "prev_doc_last_page": 542,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Personen",
+        "doc_year": null,
+        "first_printed_page": 544,
+        "first_digital_page": "0564",
+        "last_printed_page": 548,
+        "prev_doc_last_page": 543,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "4. Orte",
+        "doc_year": null,
+        "first_printed_page": 549,
+        "first_digital_page": "0569",
+        "last_printed_page": 552,
+        "prev_doc_last_page": 548,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "5. Sachen",
+        "doc_year": null,
+        "first_printed_page": 553,
+        "first_digital_page": "0573",
+        "last_printed_page": 562,
+        "prev_doc_last_page": 552,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0583",
+        "last_printed_page": null,
+        "prev_doc_last_page": 562,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

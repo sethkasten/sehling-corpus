@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Quellen-und Literaturverzeichnis",
+    "start_page": 2,
+    "end_page": 20,
+    "href": "https://digi.hadw-bw.de/view/eko24/0020",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen-und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Das Fürstentum Siebenbürgen",
+    "start_page": 21,
+    "end_page": 106,
+    "href": "https://digi.hadw-bw.de/view/eko24/0039",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Das Fürstentum Siebenbürgen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 23,
+    "end_page": 44,
+    "href": "https://digi.hadw-bw.de/view/eko24/0041",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 45,
+    "end_page": 106,
+    "href": "https://digi.hadw-bw.de/view/eko24/0063",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Das Rechtsgebiet und die Kirche der Siebenbürger Sachsen",
+    "start_page": 107,
+    "end_page": 514,
+    "href": "https://digi.hadw-bw.de/view/eko24/0125",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Das Rechtsgebiet und die Kirche der Siebenbürger Sachsen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 109,
+    "end_page": 176,
+    "href": "https://digi.hadw-bw.de/view/eko24/0127",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 177,
+    "end_page": 514,
+    "href": "https://digi.hadw-bw.de/view/eko24/0195",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 515,
+    "end_page": 534,
+    "href": "https://digi.hadw-bw.de/view/eko24/0533",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  },
+  {
+    "title": "1. Bibelstellen",
+    "start_page": 515,
+    "end_page": 518,
+    "href": "https://digi.hadw-bw.de/view/eko24/0533",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "1. Bibelstellen",
+    "is_source_part": true
+  },
+  {
+    "title": "2. Personen",
+    "start_page": 519,
+    "end_page": 522,
+    "href": "https://digi.hadw-bw.de/view/eko24/0537",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "2. Personen",
+    "is_source_part": true
+  },
+  {
+    "title": "3. Orte",
+    "start_page": 523,
+    "end_page": 530,
+    "href": "https://digi.hadw-bw.de/view/eko24/0541",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "3. Orte",
+    "is_source_part": true
+  },
+  {
+    "title": "5. Sachen",
+    "start_page": 532,
+    "end_page": 534,
+    "href": "https://digi.hadw-bw.de/view/eko24/0550",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "5. Sachen",
+    "is_source_part": true
+  }
+]

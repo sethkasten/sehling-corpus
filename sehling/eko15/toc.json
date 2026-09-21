@@ -1,0 +1,672 @@
+[
+  {
+    "title": "Einführung",
+    "start_page": 1,
+    "end_page": 22,
+    "href": "https://digi.hadw-bw.de/view/eko15/0017",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einführung",
+    "is_source_part": false
+  },
+  {
+    "title": "Sigla und Abkürzungen",
+    "start_page": 1,
+    "end_page": 2,
+    "href": "https://digi.hadw-bw.de/view/eko15/0017",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sigla und Abkürzungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Literatur",
+    "start_page": 2,
+    "end_page": 5,
+    "href": "https://digi.hadw-bw.de/view/eko15/0018",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Literatur",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Territorium und die Herrschaft",
+    "start_page": 5,
+    "end_page": 8,
+    "href": "https://digi.hadw-bw.de/view/eko15/0021",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Territorium und die Herrschaft",
+    "is_source_part": true
+  },
+  {
+    "title": "Rechtliche Verhältnisse",
+    "start_page": 8,
+    "end_page": 13,
+    "href": "https://digi.hadw-bw.de/view/eko15/0024",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Rechtliche Verhältnisse",
+    "is_source_part": true
+  },
+  {
+    "title": "Gang der Kirchengeschichte",
+    "start_page": 13,
+    "end_page": 19,
+    "href": "https://digi.hadw-bw.de/view/eko15/0029",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Gang der Kirchengeschichte",
+    "is_source_part": true
+  },
+  {
+    "title": "Zum Forschungsstand und dem vorgelegten Ordnungswerk",
+    "start_page": 19,
+    "end_page": 21,
+    "href": "https://digi.hadw-bw.de/view/eko15/0035",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Zum Forschungsstand und dem vorgelegten Ordnungswerk",
+    "is_source_part": true
+  },
+  {
+    "title": "I. Bestallung des ersten evangelischen Predigers Caspar Huberinus",
+    "start_page": 23,
+    "end_page": 27,
+    "href": "https://digi.hadw-bw.de/view/eko15/0039",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Bestallung des ersten evangelischen Predigers Caspar Huberinus",
+    "is_source_part": true
+  },
+  {
+    "title": "2. Liederliste der Öhringer Stiftskirche",
+    "start_page": 28,
+    "end_page": 30,
+    "href": "https://digi.hadw-bw.de/view/eko15/0044",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "2. Liederliste der Öhringer Stiftskirche",
+    "is_source_part": true
+  },
+  {
+    "title": "3. Vermahnungen und Gebete für den Gottesdienst in Öhringen",
+    "start_page": 31,
+    "end_page": 44,
+    "href": "https://digi.hadw-bw.de/view/eko15/0047",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "3. Vermahnungen und Gebete für den Gottesdienst in Öhringen",
+    "is_source_part": true
+  },
+  {
+    "title": "4. Eine ordnung, wie es in der schuell zue Öringen gehalten möchte werden",
+    "start_page": 45,
+    "end_page": 52,
+    "href": "https://digi.hadw-bw.de/view/eko15/0061",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "4. Eine ordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "5. Christliche kirchenordnung der graveschaft Hohennloe etc. 1553",
+    "start_page": 53,
+    "end_page": 81,
+    "href": "https://digi.hadw-bw.de/view/eko15/0069",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "5. Christliche kirchenordnung der graveschaft Hohennloe etc. 1553",
+    "is_source_part": true
+  },
+  {
+    "title": "6. Polizeiordnung",
+    "start_page": 82,
+    "end_page": 87,
+    "href": "https://digi.hadw-bw.de/view/eko15/0098",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "6. Polizeiordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "7. Bestallung und Revers von Pfarrern 1556",
+    "start_page": 88,
+    "end_page": 92,
+    "href": "https://digi.hadw-bw.de/view/eko15/0104",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "7. Bestallung und Revers von Pfarrern 1556",
+    "is_source_part": true
+  },
+  {
+    "title": "8. Durchführung der Reformation 1556",
+    "start_page": 93,
+    "end_page": 96,
+    "href": "https://digi.hadw-bw.de/view/eko15/0109",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "8. Durchführung der Reformation 1556",
+    "is_source_part": true
+  },
+  {
+    "title": "9. Reformation und Ordnung des Öhringer Stifts 1556",
+    "start_page": 97,
+    "end_page": 104,
+    "href": "https://digi.hadw-bw.de/view/eko15/0113",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "9. Reformation und Ordnung des Öhringer Stifts 1556",
+    "is_source_part": true
+  },
+  {
+    "title": "10. Stipendiatenreserve",
+    "start_page": 105,
+    "end_page": 110,
+    "href": "https://digi.hadw-bw.de/view/eko15/0121",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "10. Stipendiatenreserve",
+    "is_source_part": true
+  },
+  {
+    "title": "11. Pfarrpräsentationsordnung",
+    "start_page": 111,
+    "end_page": 115,
+    "href": "https://digi.hadw-bw.de/view/eko15/0127",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "11. Pfarrpräsentationsordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "12. Visitation 1558",
+    "start_page": 116,
+    "end_page": 133,
+    "href": "https://digi.hadw-bw.de/view/eko15/0132",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "12. Visitation 1558",
+    "is_source_part": true
+  },
+  {
+    "title": "13. Polizeiordnung",
+    "start_page": 134,
+    "end_page": 145,
+    "href": "https://digi.hadw-bw.de/view/eko15/0150",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "13. Polizeiordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "14. Befehl wegen Besuch von Gottesdiensten, Beerdigungen und Almosen",
+    "start_page": 146,
+    "end_page": 147,
+    "href": "https://digi.hadw-bw.de/view/eko15/0162",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "14. Befehl wegen Besuch von Gottesdiensten",
+    "is_source_part": true
+  },
+  {
+    "title": "15. Befehl wegen der Bettler und des Almosens",
+    "start_page": 148,
+    "end_page": 149,
+    "href": "https://digi.hadw-bw.de/view/eko15/0164",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "15. Befehl wegen der Bettler und des Almosens",
+    "is_source_part": true
+  },
+  {
+    "title": "16. Testament Graf Ludwig Casimirs",
+    "start_page": 150,
+    "end_page": 154,
+    "href": "https://digi.hadw-bw.de/view/eko15/0166",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "16. Testament Graf Ludwig Casimirs",
+    "is_source_part": true
+  },
+  {
+    "title": "17. Polizeiordnung",
+    "start_page": 155,
+    "end_page": 158,
+    "href": "https://digi.hadw-bw.de/view/eko15/0171",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "17. Polizeiordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "18. Visitation 1571",
+    "start_page": 159,
+    "end_page": 170,
+    "href": "https://digi.hadw-bw.de/view/eko15/0175",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "18. Visitation 1571",
+    "is_source_part": true
+  },
+  {
+    "title": "19. Eheordnung",
+    "start_page": 171,
+    "end_page": 206,
+    "href": "https://digi.hadw-bw.de/view/eko15/0187",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "19. Eheordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "20. Kanzleiordnung",
+    "start_page": 207,
+    "end_page": 213,
+    "href": "https://digi.hadw-bw.de/view/eko15/0223",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "20. Kanzleiordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "21. Registratorenordnung",
+    "start_page": 214,
+    "end_page": 220,
+    "href": "https://digi.hadw-bw.de/view/eko15/0230",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "21. Registratorenordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "22. Reverse der Pfarrer von Hollenbach und Adolzhausen an den Deutschen Orden",
+    "start_page": 221,
+    "end_page": 225,
+    "href": "https://digi.hadw-bw.de/view/eko15/0237",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "22. Reverse der Pfarrer von Hollenbach und Adolzhausen an den Deutschen Orden",
+    "is_source_part": true
+  },
+  {
+    "title": "23. Kirchenordnung, die im Amt Schillingsfürst bis 1578 gehalten wurde",
+    "start_page": 226,
+    "end_page": 227,
+    "href": "https://digi.hadw-bw.de/view/eko15/0242",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "23. Kirchenordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "24. Verbot des Weinschenkens für die Öhringer Kirchendiener",
+    "start_page": 228,
+    "end_page": 229,
+    "href": "https://digi.hadw-bw.de/view/eko15/0244",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "24. Verbot des Weinschenkens für die Öhringer Kirchendiener",
+    "is_source_part": true
+  },
+  {
+    "title": "25. Kirchenordnung 1578",
+    "start_page": 230,
+    "end_page": 353,
+    "href": "https://digi.hadw-bw.de/view/eko15/0246",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "25. Kirchenordnung 1578",
+    "is_source_part": true
+  },
+  {
+    "title": "26. Kapitels- und Visitationsordnung",
+    "start_page": 354,
+    "end_page": 382,
+    "href": "https://digi.hadw-bw.de/view/eko15/0372",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "26. Kapitels- und Visitationsordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "27. Konsistorialordnung",
+    "start_page": 383,
+    "end_page": 406,
+    "href": "https://digi.hadw-bw.de/view/eko15/0401",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "27. Konsistorialordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "28. Verbot der öffentlichen Kirchenzucht",
+    "start_page": 407,
+    "end_page": 409,
+    "href": "https://digi.hadw-bw.de/view/eko15/0425",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "28. Verbot der öffentlichen Kirchenzucht",
+    "is_source_part": true
+  },
+  {
+    "title": "29. Visitation 1581",
+    "start_page": 410,
+    "end_page": 423,
+    "href": "https://digi.hadw-bw.de/view/eko15/0428",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "29. Visitation 1581",
+    "is_source_part": true
+  },
+  {
+    "title": "30. Befehl bei Übersendung des Konkordienbuches",
+    "start_page": 424,
+    "end_page": 425,
+    "href": "https://digi.hadw-bw.de/view/eko15/0442",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "30. Befehl bei Übersendung des Konkordienbuches",
+    "is_source_part": true
+  },
+  {
+    "title": "31. Befehl nach der Visitation für Öhringen",
+    "start_page": 426,
+    "end_page": 432,
+    "href": "https://digi.hadw-bw.de/view/eko15/0444",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "31. Befehl nach der Visitation für Öhringen",
+    "is_source_part": true
+  },
+  {
+    "title": "32. Kirchen- und Schulordnungen 1582",
+    "start_page": 433,
+    "end_page": 508,
+    "href": "https://digi.hadw-bw.de/view/eko15/0451",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "32. Kirchen- und Schulordnungen 1582",
+    "is_source_part": true
+  },
+  {
+    "title": "33. Polizei- und Eheordnung",
+    "start_page": 509,
+    "end_page": 518,
+    "href": "https://digi.hadw-bw.de/view/eko15/0527",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "33. Polizei- und Eheordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "34. Befehl wegen der Länge der Predigten",
+    "start_page": 519,
+    "end_page": 520,
+    "href": "https://digi.hadw-bw.de/view/eko15/0537",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "34. Befehl wegen der Länge der Predigten",
+    "is_source_part": true
+  },
+  {
+    "title": "35. Verbot der Kirchweihen, des Spielens und Tanzens",
+    "start_page": 521,
+    "end_page": 522,
+    "href": "https://digi.hadw-bw.de/view/eko15/0539",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "35. Verbot der Kirchweihen",
+    "is_source_part": true
+  },
+  {
+    "title": "36. Amtsordnung",
+    "start_page": 523,
+    "end_page": 530,
+    "href": "https://digi.hadw-bw.de/view/eko15/0541",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "36. Amtsordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "37. Fragen über die Kirchenzeremonie",
+    "start_page": 531,
+    "end_page": 535,
+    "href": "https://digi.hadw-bw.de/view/eko15/0549",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "37. Fragen über die Kirchenzeremonie",
+    "is_source_part": true
+  },
+  {
+    "title": "38. Neuensteiner Befehle in Kriegsgefahr, besonders wegen des täglichen Gebetsgottesdienstes",
+    "start_page": 536,
+    "end_page": 547,
+    "href": "https://digi.hadw-bw.de/view/eko15/0554",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "38. Neuensteiner Befehle in Kriegsgefahr",
+    "is_source_part": true
+  },
+  {
+    "title": "39. Weikersheimer Befehle wegen der Eheverkündigung, der Beichtpfennige und des täglichen Gebetsgottesdienstes",
+    "start_page": 548,
+    "end_page": 553,
+    "href": "https://digi.hadw-bw.de/view/eko15/0566",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "39. Weikersheimer Befehle wegen der Eheverkündigung",
+    "is_source_part": true
+  },
+  {
+    "title": "41. Gemeinsame Beschlüsse der Neuensteiner Linie",
+    "start_page": 555,
+    "end_page": 558,
+    "href": "https://digi.hadw-bw.de/view/eko15/0573",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "41. Gemeinsame Beschlüsse der Neuensteiner Linie",
+    "is_source_part": true
+  },
+  {
+    "title": "42. Eide, Reserve und Bestallungen der Kirchendiener",
+    "start_page": 559,
+    "end_page": 570,
+    "href": "https://digi.hadw-bw.de/view/eko15/0577",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "42. Eide",
+    "is_source_part": true
+  },
+  {
+    "title": "43. Polizei- und Rügordnung",
+    "start_page": 571,
+    "end_page": 595,
+    "href": "https://digi.hadw-bw.de/view/eko15/0589",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "43. Polizei- und Rügordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "44. Einführung der Gesangsordnung",
+    "start_page": 596,
+    "end_page": 597,
+    "href": "https://digi.hadw-bw.de/view/eko15/0614",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "44. Einführung der Gesangsordnung",
+    "is_source_part": false
+  },
+  {
+    "title": "45. Visitationsordnung",
+    "start_page": 598,
+    "end_page": 615,
+    "href": "https://digi.hadw-bw.de/view/eko15/0616",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "45. Visitationsordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "46. Befehl wegen des Almosens",
+    "start_page": 616,
+    "end_page": 618,
+    "href": "https://digi.hadw-bw.de/view/eko15/0634",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "46. Befehl wegen des Almosens",
+    "is_source_part": true
+  },
+  {
+    "title": "47. Befehl zum Besuch des Katechismusunterrichts in der Passionszeit",
+    "start_page": 619,
+    "end_page": 620,
+    "href": "https://digi.hadw-bw.de/view/eko15/0637",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "47. Befehl zum Besuch des Katechismusunterrichts in der Passionszeit",
+    "is_source_part": true
+  },
+  {
+    "title": "48. Befehle wegen der Chorröcke und Tüchlein beim Abendmahl",
+    "start_page": 621,
+    "end_page": 622,
+    "href": "https://digi.hadw-bw.de/view/eko15/0639",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "48. Befehle wegen der Chorröcke und Tüchlein beim Abendmahl",
+    "is_source_part": true
+  },
+  {
+    "title": "50. Befehle zur Einführung kirchlicher Ordnungen im Amt Langenburg",
+    "start_page": 624,
+    "end_page": 626,
+    "href": "https://digi.hadw-bw.de/view/eko15/0642",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "50. Befehle zur Einführung kirchlicher Ordnungen im Amt Langenburg",
+    "is_source_part": false
+  },
+  {
+    "title": "51. Verbot des Verschleierns der Frauen beim Abendmahl",
+    "start_page": 627,
+    "end_page": 628,
+    "href": "https://digi.hadw-bw.de/view/eko15/0645",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "51. Verbot des Verschleierns der Frauen beim Abendmahl",
+    "is_source_part": true
+  },
+  {
+    "title": "52. Öhringer Spitalordnung",
+    "start_page": 629,
+    "end_page": 638,
+    "href": "https://digi.hadw-bw.de/view/eko15/0647",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "52. Öhringer Spitalordnung",
+    "is_source_part": true
+  },
+  {
+    "title": "53. Befehl wegen des Kirchengesangs, der Predigtlänge und der Schulvisition",
+    "start_page": 639,
+    "end_page": 640,
+    "href": "https://digi.hadw-bw.de/view/eko15/0657",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "53. Befehl wegen des Kirchengesangs",
+    "is_source_part": true
+  },
+  {
+    "title": "54. Schul- und Gesangsordnung samt Verbesserungen der Kirchenzeremonien",
+    "start_page": 641,
+    "end_page": 665,
+    "href": "https://digi.hadw-bw.de/view/eko15/0659",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "54. Schul- und Gesangsordnung samt Verbesserungen der Kirchenzeremonien",
+    "is_source_part": true
+  },
+  {
+    "title": "55. Kirchenzucht wegen vorehelicher Beziehungen",
+    "start_page": 666,
+    "end_page": 667,
+    "href": "https://digi.hadw-bw.de/view/eko15/0684",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "55. Kirchenzucht wegen vorehelicher Beziehungen",
+    "is_source_part": true
+  },
+  {
+    "title": "56. Erb- Teilungsverträge",
+    "start_page": 668,
+    "end_page": 681,
+    "href": "https://digi.hadw-bw.de/view/eko15/0686",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "56. Erb- Teilungsverträge",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 683,
+    "end_page": 711,
+    "href": "https://digi.hadw-bw.de/view/eko15/0701",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Chronologisches Register",
+    "start_page": 683,
+    "end_page": 688,
+    "href": "https://digi.hadw-bw.de/view/eko15/0701",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Chronologisches Register",
+    "is_source_part": false
+  },
+  {
+    "title": "2. Bibelstellenregister",
+    "start_page": 689,
+    "end_page": 691,
+    "href": "https://digi.hadw-bw.de/view/eko15/0707",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "2. Bibelstellenregister",
+    "is_source_part": false
+  },
+  {
+    "title": "3. Liederregister",
+    "start_page": 692,
+    "end_page": 696,
+    "href": "https://digi.hadw-bw.de/view/eko15/0710",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "3. Liederregister",
+    "is_source_part": false
+  },
+  {
+    "title": "4. Personen- und Ortsregister",
+    "start_page": 697,
+    "end_page": 702,
+    "href": "https://digi.hadw-bw.de/view/eko15/0715",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "4. Personen- und Ortsregister",
+    "is_source_part": false
+  },
+  {
+    "title": "5. Sachregister",
+    "start_page": 703,
+    "end_page": 711,
+    "href": "https://digi.hadw-bw.de/view/eko15/0721",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "5. Sachregister",
+    "is_source_part": false
+  }
+]

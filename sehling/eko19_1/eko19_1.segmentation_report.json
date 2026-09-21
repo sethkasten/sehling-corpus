@@ -1,0 +1,820 @@
+{
+  "eko19_1": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Quellen- und Literaturverzeichnis",
+        "pages": "2-23",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "27-33",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "75-82",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "117-123",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "215-221",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "325-332",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "459-464",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0021",
+        "last_printed_page": 1,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Quellen- und Literaturverzeichnis",
+        "doc_year": null,
+        "first_printed_page": 2,
+        "first_digital_page": "0022",
+        "last_printed_page": 23,
+        "prev_doc_last_page": 1,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 24,
+        "first_digital_page": "0044",
+        "last_printed_page": 24,
+        "prev_doc_last_page": 23,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Reichsstadt Landau",
+        "doc_year": null,
+        "first_printed_page": 25,
+        "first_digital_page": "0045",
+        "last_printed_page": 26,
+        "prev_doc_last_page": 24,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 27,
+        "first_digital_page": "0047",
+        "last_printed_page": 33,
+        "prev_doc_last_page": 26,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus",
+        "doc_year": "1526",
+        "first_printed_page": 34,
+        "first_digital_page": "0054",
+        "last_printed_page": 44,
+        "prev_doc_last_page": 33,
+        "matched_heading_text": "1. Katechismusa 1526"
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus",
+        "doc_year": "1544",
+        "first_printed_page": 45,
+        "first_digital_page": "0065",
+        "last_printed_page": 56,
+        "prev_doc_last_page": 44,
+        "matched_heading_text": "2. Katechismus 1544"
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Ratsprotokoll zu Fragen der Kirchenordnung",
+        "doc_year": "1554",
+        "first_printed_page": 57,
+        "first_digital_page": "0077",
+        "last_printed_page": 57,
+        "prev_doc_last_page": 56,
+        "matched_heading_text": "3. Ratsprotokoll zu Fragen der Kirchenordnung 1554"
+      },
+      {
+        "citation_key": "I.4",
+        "heading_source": "running_head",
+        "doc_title": "Ratsprotokoll zur Predigta Auszug aus dem Ratsprotokoll 31. August",
+        "doc_year": "1554",
+        "first_printed_page": 58,
+        "first_digital_page": "0078",
+        "last_printed_page": 58,
+        "prev_doc_last_page": 57,
+        "matched_heading_text": "4. Ratsprotokoll zur Predigta Auszug aus dem Ratsprotokoll 31. August 1554"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "Ratsprotokoll zum Almosen",
+        "doc_year": "1554",
+        "first_printed_page": 59,
+        "first_digital_page": "0079",
+        "last_printed_page": 59,
+        "prev_doc_last_page": 58,
+        "matched_heading_text": "5. Ratsprotokoll zum Almosen 1554"
+      },
+      {
+        "citation_key": "I.6",
+        "heading_source": "running_head",
+        "doc_title": "Feiertagsordnung",
+        "doc_year": "1562",
+        "first_printed_page": 60,
+        "first_digital_page": "0080",
+        "last_printed_page": 61,
+        "prev_doc_last_page": 59,
+        "matched_heading_text": "6. Feiertagsordnung 7. Juli 1562"
+      },
+      {
+        "citation_key": "I.7",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zum Gottesdienstbesuch und zur Polizeiordnung",
+        "doc_year": "1571",
+        "first_printed_page": 62,
+        "first_digital_page": "0082",
+        "last_printed_page": 64,
+        "prev_doc_last_page": 61,
+        "matched_heading_text": "7. Mandat zum Gottesdienstbesuch und zur Polizeiordnunga 26. August 1571"
+      },
+      {
+        "citation_key": "I.8",
+        "heading_source": "running_head",
+        "doc_title": "Verhandlungen gegen Calvinisten",
+        "doc_year": "1582",
+        "first_printed_page": 65,
+        "first_digital_page": "0085",
+        "last_printed_page": 65,
+        "prev_doc_last_page": 64,
+        "matched_heading_text": "8. Verhandlungen gegen Calvinisten 1582"
+      },
+      {
+        "citation_key": "I.9",
+        "heading_source": "running_head",
+        "doc_title": "Ratsprotokoll wegen des Katechismusa Auszug aus dem Ratsprotokoll 7. November",
+        "doc_year": "1595",
+        "first_printed_page": 66,
+        "first_digital_page": "0086",
+        "last_printed_page": 66,
+        "prev_doc_last_page": 65,
+        "matched_heading_text": "9. Ratsprotokoll wegen des Katechismusa Auszug aus dem Ratsprotokoll 7. November 1595"
+      },
+      {
+        "citation_key": "I.10",
+        "heading_source": "running_head",
+        "doc_title": "Mandat gegen das Schmähen auf der Kanzel",
+        "doc_year": "1608",
+        "first_printed_page": 67,
+        "first_digital_page": "0087",
+        "last_printed_page": 69,
+        "prev_doc_last_page": 66,
+        "matched_heading_text": "10. Mandat gegen das Schmähen auf der Kanzel 1608"
+      },
+      {
+        "citation_key": "I.11",
+        "heading_source": "running_head",
+        "doc_title": "Ratsprotokoll wegen des Kirchgangs des Magistratsa Auszug aus dem Ratsprotokoll 2. Juni",
+        "doc_year": "1610",
+        "first_printed_page": 70,
+        "first_digital_page": "0090",
+        "last_printed_page": 70,
+        "prev_doc_last_page": 69,
+        "matched_heading_text": "11. Ratsprotokoll wegen des Kirchgangs des Magistratsa Auszug aus dem Ratsprotokoll 2. Juni 1610"
+      },
+      {
+        "citation_key": "I.12",
+        "heading_source": "running_head",
+        "doc_title": "Einführung der Straßburger Kirchenzensur",
+        "doc_year": "1611",
+        "first_printed_page": 71,
+        "first_digital_page": "0091",
+        "last_printed_page": 71,
+        "prev_doc_last_page": 70,
+        "matched_heading_text": "12. Einführung der Straßburger Kirchenzensur 1611"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 72,
+        "first_digital_page": "0092",
+        "last_printed_page": 72,
+        "prev_doc_last_page": 71,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Reichsstadt Speyer",
+        "doc_year": null,
+        "first_printed_page": 73,
+        "first_digital_page": "0093",
+        "last_printed_page": 74,
+        "prev_doc_last_page": 72,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 75,
+        "first_digital_page": "0095",
+        "last_printed_page": 82,
+        "prev_doc_last_page": 74,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II.1",
+        "heading_source": "running_head",
+        "doc_title": "Vertrag zwischen Stadt und Klerus",
+        "doc_year": "1525",
+        "first_printed_page": 83,
+        "first_digital_page": "0103",
+        "last_printed_page": 86,
+        "prev_doc_last_page": 82,
+        "matched_heading_text": "1. Vertrag zwischen Stadt und Klerus 1525"
+      },
+      {
+        "citation_key": "II.2",
+        "heading_source": "running_head",
+        "doc_title": "Bedenken der Predigt halben",
+        "doc_year": "1538",
+        "first_printed_page": 87,
+        "first_digital_page": "0107",
+        "last_printed_page": 89,
+        "prev_doc_last_page": 86,
+        "matched_heading_text": "2. Bedenken der Predigt halben 1538"
+      },
+      {
+        "citation_key": "II.3",
+        "heading_source": "running_head",
+        "doc_title": "Anstellung evangelischer Predigera",
+        "doc_year": "1545",
+        "first_printed_page": 90,
+        "first_digital_page": "0110",
+        "last_printed_page": 90,
+        "prev_doc_last_page": 89,
+        "matched_heading_text": "3. Anstellung evangelischer Predigera 1545"
+      },
+      {
+        "citation_key": "II.4",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1557",
+        "first_printed_page": 91,
+        "first_digital_page": "0111",
+        "last_printed_page": 93,
+        "prev_doc_last_page": 90,
+        "matched_heading_text": "4. Kirchenordnung 1557"
+      },
+      {
+        "citation_key": "II.5",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1569",
+        "first_printed_page": 94,
+        "first_digital_page": "0114",
+        "last_printed_page": 105,
+        "prev_doc_last_page": 93,
+        "matched_heading_text": "5. Kirchenordnunga 1569"
+      },
+      {
+        "citation_key": "II.6",
+        "heading_source": "running_head",
+        "doc_title": "Vergleich zwischen Stadt und Augustinerordena 16. Dezember",
+        "doc_year": "1570",
+        "first_printed_page": 106,
+        "first_digital_page": "0126",
+        "last_printed_page": 106,
+        "prev_doc_last_page": 105,
+        "matched_heading_text": "6. Vergleich zwischen Stadt und Augustinerordena 16. Dezember 1570"
+      },
+      {
+        "citation_key": "II.7",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung des Katechismuswesens",
+        "doc_year": "1597",
+        "first_printed_page": 107,
+        "first_digital_page": "0127",
+        "last_printed_page": 109,
+        "prev_doc_last_page": 106,
+        "matched_heading_text": "7. Ordnung des Katechismuswesens 1597"
+      },
+      {
+        "citation_key": "II.8",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zum Gottesdienst",
+        "doc_year": "1605",
+        "first_printed_page": 110,
+        "first_digital_page": "0130",
+        "last_printed_page": 111,
+        "prev_doc_last_page": 109,
+        "matched_heading_text": "8. Mandat zum Gottesdienst 30. März 1605"
+      },
+      {
+        "citation_key": "II.9",
+        "heading_source": "running_head",
+        "doc_title": "Verbot von Begräbnissen in der Kirche 28. Dezember",
+        "doc_year": "1608",
+        "first_printed_page": 112,
+        "first_digital_page": "0132",
+        "last_printed_page": 112,
+        "prev_doc_last_page": 111,
+        "matched_heading_text": "9. Verbot von Begräbnissen in der Kirche 28. Dezember 1608"
+      },
+      {
+        "citation_key": "II.10",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Errichtung eines Konsistoriums und zur Amtsführung der Pfarrer",
+        "doc_year": "1612",
+        "first_printed_page": 113,
+        "first_digital_page": "0133",
+        "last_printed_page": 114,
+        "prev_doc_last_page": 112,
+        "matched_heading_text": "10. Mandat zur Errichtung eines Konsistoriums und zur Amtsführung der Pfarrer 1612"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Freie Reichsstadt Worms",
+        "doc_year": null,
+        "first_printed_page": 115,
+        "first_digital_page": "0135",
+        "last_printed_page": 116,
+        "prev_doc_last_page": 114,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 117,
+        "first_digital_page": "0137",
+        "last_printed_page": 123,
+        "prev_doc_last_page": 116,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III.1",
+        "heading_source": "running_head",
+        "doc_title": "Deutsche Messe",
+        "doc_year": "1524",
+        "first_printed_page": 124,
+        "first_digital_page": "0144",
+        "last_printed_page": 129,
+        "prev_doc_last_page": 123,
+        "matched_heading_text": "1. Deutsche Messea 1524"
+      },
+      {
+        "citation_key": "III.2",
+        "heading_source": "running_head",
+        "doc_title": "Vertrag zwischen Stadt und Klerus",
+        "doc_year": "1525",
+        "first_printed_page": 130,
+        "first_digital_page": "0150",
+        "last_printed_page": 133,
+        "prev_doc_last_page": 129,
+        "matched_heading_text": "2. Vertrag zwischen Stadt und Klerusa 3. Mai 1525"
+      },
+      {
+        "citation_key": "III.3",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus",
+        "doc_year": "1543",
+        "first_printed_page": 134,
+        "first_digital_page": "0154",
+        "last_printed_page": 159,
+        "prev_doc_last_page": 133,
+        "matched_heading_text": "3. Katechismusa 1543"
+      },
+      {
+        "citation_key": "III.4",
+        "heading_source": "running_head",
+        "doc_title": "Agendbüchlein",
+        "doc_year": "1560",
+        "first_printed_page": 160,
+        "first_digital_page": "0180",
+        "last_printed_page": 212,
+        "prev_doc_last_page": 159,
+        "matched_heading_text": "4. Agendbüchleina 1560"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Grafschaft Leiningen",
+        "doc_year": null,
+        "first_printed_page": 213,
+        "first_digital_page": "0233",
+        "last_printed_page": 214,
+        "prev_doc_last_page": 212,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 215,
+        "first_digital_page": "0235",
+        "last_printed_page": 221,
+        "prev_doc_last_page": 214,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV.1",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnungsmandat",
+        "doc_year": "1566",
+        "first_printed_page": 222,
+        "first_digital_page": "0242",
+        "last_printed_page": 224,
+        "prev_doc_last_page": 221,
+        "matched_heading_text": "1. Kirchenordnungsmandata 6. Februar 1566"
+      },
+      {
+        "citation_key": "IV.2",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenzuchtordnung",
+        "doc_year": "1566",
+        "first_printed_page": 225,
+        "first_digital_page": "0245",
+        "last_printed_page": 229,
+        "prev_doc_last_page": 224,
+        "matched_heading_text": "2. Kirchenzuchtordnung 1566"
+      },
+      {
+        "citation_key": "IV.3",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1566",
+        "first_printed_page": 230,
+        "first_digital_page": "0250",
+        "last_printed_page": 274,
+        "prev_doc_last_page": 229,
+        "matched_heading_text": "3. Kirchenordnunga 1. Dezember 1566"
+      },
+      {
+        "citation_key": "IV.4",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnungsmandat",
+        "doc_year": "1581",
+        "first_printed_page": 275,
+        "first_digital_page": "0295",
+        "last_printed_page": 276,
+        "prev_doc_last_page": 274,
+        "matched_heading_text": "4. Kirchenordnungsmandat 1581"
+      },
+      {
+        "citation_key": "IV.5",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnungsmandat",
+        "doc_year": "1584",
+        "first_printed_page": 277,
+        "first_digital_page": "0297",
+        "last_printed_page": 279,
+        "prev_doc_last_page": 276,
+        "matched_heading_text": "5. Kirchenordnungsmandat 1584"
+      },
+      {
+        "citation_key": "IV.6",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zum Gottesdienstbesucha 11. September",
+        "doc_year": "1587",
+        "first_printed_page": 280,
+        "first_digital_page": "0300",
+        "last_printed_page": 280,
+        "prev_doc_last_page": 279,
+        "matched_heading_text": "6. Mandat zum Gottesdienstbesucha 11. September 1587"
+      },
+      {
+        "citation_key": "IV.7",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnungsmandat nach",
+        "doc_year": "1593",
+        "first_printed_page": 281,
+        "first_digital_page": "0301",
+        "last_printed_page": 283,
+        "prev_doc_last_page": 280,
+        "matched_heading_text": "7. Kirchenordnungsmandat nach 1593"
+      },
+      {
+        "citation_key": "IV.8",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsordnung",
+        "doc_year": "1597",
+        "first_printed_page": 284,
+        "first_digital_page": "0304",
+        "last_printed_page": 297,
+        "prev_doc_last_page": 283,
+        "matched_heading_text": "8. Visitationsordnung 1. Januar 1597"
+      },
+      {
+        "citation_key": "IV.9",
+        "heading_source": "running_head",
+        "doc_title": "Visitations- und Täuferordnung",
+        "doc_year": "1609",
+        "first_printed_page": 298,
+        "first_digital_page": "0318",
+        "last_printed_page": 319,
+        "prev_doc_last_page": 297,
+        "matched_heading_text": "9. Visitations- und Täuferordnung 18. März 1609"
+      },
+      {
+        "citation_key": "IV.10",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zum Gottesdienstbesuch 5. März",
+        "doc_year": "1610",
+        "first_printed_page": 320,
+        "first_digital_page": "0340",
+        "last_printed_page": 320,
+        "prev_doc_last_page": 319,
+        "matched_heading_text": "10. Mandat zum Gottesdienstbesuch 5. März 1610"
+      },
+      {
+        "citation_key": "IV.11",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zum Reformationsjubiläum",
+        "doc_year": "1617",
+        "first_printed_page": 321,
+        "first_digital_page": "0341",
+        "last_printed_page": 322,
+        "prev_doc_last_page": 320,
+        "matched_heading_text": "11. Mandat zum Reformationsjubiläum 1617"
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Grafschaft Sayn",
+        "doc_year": null,
+        "first_printed_page": 323,
+        "first_digital_page": "0343",
+        "last_printed_page": 324,
+        "prev_doc_last_page": 322,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 325,
+        "first_digital_page": "0345",
+        "last_printed_page": 332,
+        "prev_doc_last_page": 324,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.1",
+        "heading_source": "running_head",
+        "doc_title": "Anordnung evangelischer Predigt 9. August",
+        "doc_year": "1560",
+        "first_printed_page": 333,
+        "first_digital_page": "0353",
+        "last_printed_page": 333,
+        "prev_doc_last_page": 332,
+        "matched_heading_text": "1. Anordnung evangelischer Predigt 9. August 1560"
+      },
+      {
+        "citation_key": "V.2",
+        "heading_source": "running_head",
+        "doc_title": "Protokoll des Konsistoriums",
+        "doc_year": "1573",
+        "first_printed_page": 334,
+        "first_digital_page": "0354",
+        "last_printed_page": 335,
+        "prev_doc_last_page": 333,
+        "matched_heading_text": "2. Protokoll des Konsistoriums 15. Januar 1573"
+      },
+      {
+        "citation_key": "V.3",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Anordnung des Pfarrerexamens 23. Januar",
+        "doc_year": "1573",
+        "first_printed_page": 336,
+        "first_digital_page": "0356",
+        "last_printed_page": 336,
+        "prev_doc_last_page": 335,
+        "matched_heading_text": "3. Mandat zur Anordnung des Pfarrerexamens 23. Januar 1573"
+      },
+      {
+        "citation_key": "V.4",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1574",
+        "first_printed_page": 337,
+        "first_digital_page": "0357",
+        "last_printed_page": 352,
+        "prev_doc_last_page": 336,
+        "matched_heading_text": "4. Kirchenordnung 1574"
+      },
+      {
+        "citation_key": "V.5",
+        "heading_source": "running_head",
+        "doc_title": "Protokoll des Konsistoriums",
+        "doc_year": "1575",
+        "first_printed_page": 353,
+        "first_digital_page": "0373",
+        "last_printed_page": 355,
+        "prev_doc_last_page": 352,
+        "matched_heading_text": "5. Protokoll des Konsistoriums 1575"
+      },
+      {
+        "citation_key": "V.18",
+        "heading_source": "running_head",
+        "doc_title": "Emagenes paulatim.34 Sp",
+        "doc_year": "1314",
+        "first_printed_page": 356,
+        "first_digital_page": "0376",
+        "last_printed_page": 455,
+        "prev_doc_last_page": 355,
+        "matched_heading_text": "18. Emagenes paulatim.34 Sp. 1314"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 456,
+        "first_digital_page": "0476",
+        "last_printed_page": 456,
+        "prev_doc_last_page": 455,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "VI. Grafschaft Wied",
+        "doc_year": null,
+        "first_printed_page": 457,
+        "first_digital_page": "0477",
+        "last_printed_page": 458,
+        "prev_doc_last_page": 456,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 459,
+        "first_digital_page": "0479",
+        "last_printed_page": 464,
+        "prev_doc_last_page": 458,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI.1",
+        "heading_source": "running_head",
+        "doc_title": "Synodalbeschlüsse",
+        "doc_year": "1564",
+        "first_printed_page": 465,
+        "first_digital_page": "0485",
+        "last_printed_page": 468,
+        "prev_doc_last_page": 464,
+        "matched_heading_text": "1. Synodalbeschlüssea 5. Juni 1564"
+      },
+      {
+        "citation_key": "VI.2",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenzuchtordnung",
+        "doc_year": "1590",
+        "first_printed_page": 469,
+        "first_digital_page": "0489",
+        "last_printed_page": 472,
+        "prev_doc_last_page": 468,
+        "matched_heading_text": "2. Kirchenzuchtordnung 1590"
+      },
+      {
+        "citation_key": "VI.3",
+        "heading_source": "running_head",
+        "doc_title": "Synodalbeschluss zur Pfarrwitwenversorgung",
+        "doc_year": "1592",
+        "first_printed_page": 473,
+        "first_digital_page": "0493",
+        "last_printed_page": 473,
+        "prev_doc_last_page": 472,
+        "matched_heading_text": "3. Synodalbeschluss zur Pfarrwitwenversorgung 1592"
+      },
+      {
+        "citation_key": "VI.4",
+        "heading_source": "running_head",
+        "doc_title": "Synodalbeschlüsse",
+        "doc_year": "1593",
+        "first_printed_page": 474,
+        "first_digital_page": "0494",
+        "last_printed_page": 475,
+        "prev_doc_last_page": 473,
+        "matched_heading_text": "4. Synodalbeschlüssea 4. Januar 1593"
+      },
+      {
+        "citation_key": "VI.5",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenzuchtordnung",
+        "doc_year": "1600",
+        "first_printed_page": 476,
+        "first_digital_page": "0496",
+        "last_printed_page": 489,
+        "prev_doc_last_page": 475,
+        "matched_heading_text": "5. Kirchenzuchtordnung 5a. Kirchenordnunga 18. Januar 1600"
+      },
+      {
+        "citation_key": "VI.6",
+        "heading_source": "running_head",
+        "doc_title": "Synodalbeschlüsse",
+        "doc_year": "1602",
+        "first_printed_page": 490,
+        "first_digital_page": "0510",
+        "last_printed_page": 491,
+        "prev_doc_last_page": 489,
+        "matched_heading_text": "6. Synodalbeschlüssea 9. Juni 1602"
+      },
+      {
+        "citation_key": "VI.7",
+        "heading_source": "running_head",
+        "doc_title": "Kirchen- und Polizeiordnung",
+        "doc_year": "1616",
+        "first_printed_page": 492,
+        "first_digital_page": "0512",
+        "last_printed_page": 508,
+        "prev_doc_last_page": 491,
+        "matched_heading_text": "7. Kirchen- und Polizeiordnunga 23. Dezember 1616"
+      },
+      {
+        "citation_key": "VI.8",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsartikel",
+        "doc_year": "1619",
+        "first_printed_page": 509,
+        "first_digital_page": "0529",
+        "last_printed_page": 515,
+        "prev_doc_last_page": 508,
+        "matched_heading_text": "8. Visitationsartikel 1619"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0536",
+        "last_printed_page": null,
+        "prev_doc_last_page": 515,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

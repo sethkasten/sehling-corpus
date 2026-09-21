@@ -1,0 +1,598 @@
+{
+  "eko12": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einführung",
+        "pages": "1-14",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "no_running_head_in_numbered_part",
+        "part": "IV. Freie Reichsstadt Kaufbeuren",
+        "pages": "161-166",
+        "note": "This IS a Roman-numbered source leaf and heading detection WAS attempted throughout it, but no running head matched anywhere in its page range. Worth a manual look if it's expected to contain one or more church orders."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Register",
+        "pages": "409-423",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einführung",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0017",
+        "last_printed_page": 14,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Freie Reichsstadt Augsburg",
+        "doc_year": null,
+        "first_printed_page": 15,
+        "first_digital_page": "0031",
+        "last_printed_page": 32,
+        "prev_doc_last_page": 14,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Priesterhochzeit",
+        "doc_year": "1523",
+        "first_printed_page": 33,
+        "first_digital_page": "0049",
+        "last_printed_page": 39,
+        "prev_doc_last_page": 32,
+        "matched_heading_text": "I 1. Priesterhochzeit 1523"
+      },
+      {
+        "citation_key": "I.4",
+        "heading_source": "running_head",
+        "doc_title": "Form und ordnung des Herren nachtmal betreffend, wie die gehalten worden ist, durch die diener des ewangelions zu sant Anna",
+        "doc_year": "1530",
+        "first_printed_page": 40,
+        "first_digital_page": "0056",
+        "last_printed_page": 43,
+        "prev_doc_last_page": 39,
+        "matched_heading_text": "I 4. Form und ordnung des Herren nachtmal betreffend, wie die gehalten worden ist, durch die diener des ewangelions zu sant Anna. 1530"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "Reformationsmandat vom 29. Juli",
+        "doc_year": "1534",
+        "first_printed_page": 44,
+        "first_digital_page": "0060",
+        "last_printed_page": 45,
+        "prev_doc_last_page": 43,
+        "matched_heading_text": "I 5. Reformationsmandat vom 29. Juli 1534"
+      },
+      {
+        "citation_key": "I.6",
+        "heading_source": "running_head",
+        "doc_title": "Bestallung eines Predigers",
+        "doc_year": "1535",
+        "first_printed_page": 46,
+        "first_digital_page": "0062",
+        "last_printed_page": 48,
+        "prev_doc_last_page": 45,
+        "matched_heading_text": "I 6. Bestallung eines Predigers 1535"
+      },
+      {
+        "citation_key": "I.7",
+        "heading_source": "running_head",
+        "doc_title": "Dekret über die Wochengottesdienste vom 9. Juni",
+        "doc_year": "1537",
+        "first_printed_page": 49,
+        "first_digital_page": "0065",
+        "last_printed_page": 49,
+        "prev_doc_last_page": 48,
+        "matched_heading_text": "I 7. Dekret über die Wochengottesdienste vom 9. Juni 1537"
+      },
+      {
+        "citation_key": "I.8a",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung von",
+        "doc_year": "1537",
+        "first_printed_page": 50,
+        "first_digital_page": "0066",
+        "last_printed_page": 83,
+        "prev_doc_last_page": 49,
+        "matched_heading_text": "I 8a. Kirchenordnung von 1537"
+      },
+      {
+        "citation_key": "I.11",
+        "heading_source": "running_head",
+        "doc_title": "Feiertagsordnung von 22. Juli",
+        "doc_year": "1537",
+        "first_printed_page": 84,
+        "first_digital_page": "0100",
+        "last_printed_page": 92,
+        "prev_doc_last_page": 83,
+        "matched_heading_text": "I 11. Feiertagsordnung von 22. Juli 1537"
+      },
+      {
+        "citation_key": "I.13",
+        "heading_source": "running_head",
+        "doc_title": "Gottesdienstformen um",
+        "doc_year": "1548",
+        "first_printed_page": 93,
+        "first_digital_page": "0109",
+        "last_printed_page": 108,
+        "prev_doc_last_page": 92,
+        "matched_heading_text": "I 13. Gottesdienstformen um 1548"
+      },
+      {
+        "citation_key": "I.15",
+        "heading_source": "running_head",
+        "doc_title": "Vergleichsartikel von",
+        "doc_year": "1591",
+        "first_printed_page": 109,
+        "first_digital_page": "0125",
+        "last_printed_page": 111,
+        "prev_doc_last_page": 108,
+        "matched_heading_text": "I 15. Vergleichsartikel von 1591"
+      },
+      {
+        "citation_key": "I.16",
+        "heading_source": "running_head",
+        "doc_title": "Einzelbestimmungen zu den Berufungsverhandlungen",
+        "doc_year": "1591",
+        "first_printed_page": 112,
+        "first_digital_page": "0128",
+        "last_printed_page": 116,
+        "prev_doc_last_page": 111,
+        "matched_heading_text": "I 16. Einzelbestimmungen zu den Berufungsverhandlungen 1591"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Freie Reichsstadt Dinkelsbühl",
+        "doc_year": null,
+        "first_printed_page": 117,
+        "first_digital_page": "0133",
+        "last_printed_page": 123,
+        "prev_doc_last_page": 116,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II.2",
+        "heading_source": "running_head",
+        "doc_title": "Des kaiserlichen commissarii schreiben an einen erbarn rat, die eröfnung der spitalkirchen und der predicanten lehr und leben belangend Würzburg 1. Jan",
+        "doc_year": "1567",
+        "first_printed_page": 124,
+        "first_digital_page": "0140",
+        "last_printed_page": 124,
+        "prev_doc_last_page": 123,
+        "matched_heading_text": "2. Des kaiserlichen commissarii schreiben an einen erbarn rat, die eröfnung der spitalkirchen und der predicanten lehr und leben belangend Würzburg 1. Jan. 1567"
+      },
+      {
+        "citation_key": "II.8",
+        "heading_source": "running_head",
+        "doc_title": "Auch an einen erbarn rat unter dem datum des 19. Decembris anno",
+        "doc_year": "1572",
+        "first_printed_page": 125,
+        "first_digital_page": "0141",
+        "last_printed_page": 125,
+        "prev_doc_last_page": 124,
+        "matched_heading_text": "8. Auch an einen erbarn rat unter dem datum des 19. Decembris anno 1572"
+      },
+      {
+        "citation_key": "II.1",
+        "heading_source": "running_head",
+        "doc_title": "Kapitelsordmmg",
+        "doc_year": "1535",
+        "first_printed_page": 126,
+        "first_digital_page": "0142",
+        "last_printed_page": 127,
+        "prev_doc_last_page": 125,
+        "matched_heading_text": "II 1. Kapitelsordmmg 1535"
+      },
+      {
+        "citation_key": "II.2",
+        "heading_source": "running_head",
+        "doc_title": "Bestallungsurkunde des Predigers Konrad Abel",
+        "doc_year": "1542",
+        "first_printed_page": 128,
+        "first_digital_page": "0144",
+        "last_printed_page": 130,
+        "prev_doc_last_page": 127,
+        "matched_heading_text": "II 2. Bestallungsurkunde des Predigers Konrad Abel 1542"
+      },
+      {
+        "citation_key": "II.3",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenpflegeordnung",
+        "doc_year": "1574",
+        "first_printed_page": 131,
+        "first_digital_page": "0147",
+        "last_printed_page": 151,
+        "prev_doc_last_page": 130,
+        "matched_heading_text": "II 3. Kirchenpflegeordnung 1574"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 152,
+        "first_digital_page": "0168",
+        "last_printed_page": 152,
+        "prev_doc_last_page": 151,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Freie Reichsstadt Donauwörth",
+        "doc_year": null,
+        "first_printed_page": 153,
+        "first_digital_page": "0169",
+        "last_printed_page": 157,
+        "prev_doc_last_page": 152,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung von Donauwörth",
+        "doc_year": "1545",
+        "first_printed_page": 158,
+        "first_digital_page": "0174",
+        "last_printed_page": 160,
+        "prev_doc_last_page": 157,
+        "matched_heading_text": "III. Kirchenordnung von Donauwörth 1545"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Freie Reichsstadt Kaufbeuren",
+        "doc_year": null,
+        "first_printed_page": 161,
+        "first_digital_page": "0177",
+        "last_printed_page": 166,
+        "prev_doc_last_page": 160,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Freie Reichsstadt Kempten",
+        "doc_year": null,
+        "first_printed_page": 167,
+        "first_digital_page": "0183",
+        "last_printed_page": 174,
+        "prev_doc_last_page": 166,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "running_head",
+        "doc_title": "Primus Trubers Kirchenordnung",
+        "doc_year": "1553",
+        "first_printed_page": 175,
+        "first_digital_page": "0191",
+        "last_printed_page": 177,
+        "prev_doc_last_page": 174,
+        "matched_heading_text": "V. Primus Trubers Kirchenordnung 1553"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 178,
+        "first_digital_page": "0194",
+        "last_printed_page": 178,
+        "prev_doc_last_page": 177,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "VI. Freie Reichsstadt Lindau (Bodensee)",
+        "doc_year": null,
+        "first_printed_page": 179,
+        "first_digital_page": "0195",
+        "last_printed_page": 185,
+        "prev_doc_last_page": 178,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI.1",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtordnung von",
+        "doc_year": "1533",
+        "first_printed_page": 186,
+        "first_digital_page": "0202",
+        "last_printed_page": 197,
+        "prev_doc_last_page": 185,
+        "matched_heading_text": "VI 1. Zuchtordnung von 1533"
+      },
+      {
+        "citation_key": "VI.2",
+        "heading_source": "running_head",
+        "doc_title": "Bekanntmachungen zur Einschärfung der Zuchtordnung (Lasterstraf)",
+        "doc_year": "1539",
+        "first_printed_page": 198,
+        "first_digital_page": "0214",
+        "last_printed_page": 199,
+        "prev_doc_last_page": 197,
+        "matched_heading_text": "VI 2. Bekanntmachungen zur Einschärfung der Zuchtordnung (Lasterstraf) 1539"
+      },
+      {
+        "citation_key": "VI.3",
+        "heading_source": "running_head",
+        "doc_title": "Almusenordnung in der statt Lindaw",
+        "doc_year": "1533",
+        "first_printed_page": 200,
+        "first_digital_page": "0216",
+        "last_printed_page": 202,
+        "prev_doc_last_page": 199,
+        "matched_heading_text": "VI 3. Almusenordnung in der statt Lindaw. 1533"
+      },
+      {
+        "citation_key": "VI.4",
+        "heading_source": "running_head",
+        "doc_title": "Agenda, Das ist, / Ordnunge / wie es mit den Ce- / remonien vnnd anderm, in der / Pfarrkirchen zu Lindaw am / Bodensee gehalten wird. /",
+        "doc_year": "1573",
+        "first_printed_page": 203,
+        "first_digital_page": "0219",
+        "last_printed_page": 217,
+        "prev_doc_last_page": 202,
+        "matched_heading_text": "VI 4. Agenda, Das ist, / Ordnunge / wie es mit den Ce- / remonien vnnd anderm, in der / Pfarrkirchen zu Lindaw am / Bodensee gehalten wird. / 1573"
+      },
+      {
+        "citation_key": "VI.5",
+        "heading_source": "running_head",
+        "doc_title": "Agenda, wie es auf dem land in der pfarrkirchen zu Rüte1 und Eschach2 gehalten wird",
+        "doc_year": "1573",
+        "first_printed_page": 218,
+        "first_digital_page": "0234",
+        "last_printed_page": 220,
+        "prev_doc_last_page": 217,
+        "matched_heading_text": "VI 5. Agenda, wie es auf dem land in der pfarrkirchen zu Rüte1 und Eschach2 gehalten wird. 1573"
+      },
+      {
+        "citation_key": "VII",
+        "heading_source": "toc_only",
+        "doc_title": "VII. Freie Reichsstadt Memmingen",
+        "doc_year": null,
+        "first_printed_page": 221,
+        "first_digital_page": "0237",
+        "last_printed_page": 222,
+        "prev_doc_last_page": 220,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VII.2",
+        "heading_source": "running_head",
+        "doc_title": "Aufl.; 2 (Das Reformationswerk zu Memmingen unter dem Drucke des Schwäbischen Bundes",
+        "doc_year": "1525",
+        "first_printed_page": 223,
+        "first_digital_page": "0239",
+        "last_printed_page": 234,
+        "prev_doc_last_page": 222,
+        "matched_heading_text": "2. Aufl.; 2 (Das Reformationswerk zu Memmingen unter dem Drucke des Schwäbischen Bundes  1525"
+      },
+      {
+        "citation_key": "VII",
+        "heading_source": "running_head",
+        "doc_title": "1 Kirchenordnung von",
+        "doc_year": "1528",
+        "first_printed_page": 235,
+        "first_digital_page": "0251",
+        "last_printed_page": 246,
+        "prev_doc_last_page": 234,
+        "matched_heading_text": "VII. 1 Kirchenordnung von 1528"
+      },
+      {
+        "citation_key": "VII.3",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtordnung von",
+        "doc_year": "1532",
+        "first_printed_page": 247,
+        "first_digital_page": "0263",
+        "last_printed_page": 255,
+        "prev_doc_last_page": 246,
+        "matched_heading_text": "VII 3. Zuchtordnung von 1532"
+      },
+      {
+        "citation_key": "VII.4",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung alhie zu Memingen in statt und land, geordneta den 7. Decembris Anno",
+        "doc_year": "1569",
+        "first_printed_page": 256,
+        "first_digital_page": "0272",
+        "last_printed_page": 266,
+        "prev_doc_last_page": 255,
+        "matched_heading_text": "VII 4. Kirchenordnung alhie zu Memingen in statt und land, geordneta den 7. Decembris Anno 1569"
+      },
+      {
+        "citation_key": "VII.5",
+        "heading_source": "running_head",
+        "doc_title": "Meßpfründenordming",
+        "doc_year": "1542",
+        "first_printed_page": 267,
+        "first_digital_page": "0283",
+        "last_printed_page": 270,
+        "prev_doc_last_page": 266,
+        "matched_heading_text": "VII 5. Meßpfründenordming 1542"
+      },
+      {
+        "citation_key": "VIII",
+        "heading_source": "toc_only",
+        "doc_title": "VIII. Freie Reichsstadt Nördlingen",
+        "doc_year": null,
+        "first_printed_page": 271,
+        "first_digital_page": "0287",
+        "last_printed_page": 284,
+        "prev_doc_last_page": 270,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VIII.1",
+        "heading_source": "running_head",
+        "doc_title": "Von der Evangelischen Mesß. / Mit schönen Christli- chen / Gebetten vor und nach / der empfahung des / Sacraments. / Durch Caspar Kantz / von Nördlingen",
+        "doc_year": "1522",
+        "first_printed_page": 285,
+        "first_digital_page": "0301",
+        "last_printed_page": 288,
+        "prev_doc_last_page": 284,
+        "matched_heading_text": "VIII 1. Von der Evangelischen Mesß. / Mit schönen Christli- chen / Gebetten vor und nach / der empfahung des / Sacraments. / Durch Caspar Kantz / von Nördlingen. 1522"
+      },
+      {
+        "citation_key": "VIII.2",
+        "heading_source": "running_head",
+        "doc_title": "Reno/vatio Ecclesiae / Nordlingiacensis / et ratio omnibus reddita / de quorundam insti-/tutione, per Dia conos ibi-/dem. / Anno",
+        "doc_year": "1525",
+        "first_printed_page": 289,
+        "first_digital_page": "0305",
+        "last_printed_page": 306,
+        "prev_doc_last_page": 288,
+        "matched_heading_text": "VIII 2. Reno/vatio Ecclesiae / Nordlingiacensis / et ratio omnibus reddita / de quorundam insti-/tutione, per Dia conos ibi-/dem. / Anno 1525"
+      },
+      {
+        "citation_key": "VIII.3",
+        "heading_source": "running_head",
+        "doc_title": "Der statt Nordling neu fürgenommne reformation und kirchenordnung auf den fünfzehenden tag Maii anno",
+        "doc_year": "1538",
+        "first_printed_page": 307,
+        "first_digital_page": "0323",
+        "last_printed_page": 309,
+        "prev_doc_last_page": 306,
+        "matched_heading_text": "VIII 3. Der statt Nordling neu fürgenommne reformation und kirchenordnung auf den fünfzehenden tag Maii anno 1538"
+      },
+      {
+        "citation_key": "VIII.4",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung Kaspar Löners",
+        "doc_year": "1544",
+        "first_printed_page": 310,
+        "first_digital_page": "0326",
+        "last_printed_page": 316,
+        "prev_doc_last_page": 309,
+        "matched_heading_text": "VIII 4. Kirchenordnung Kaspar Löners 1544"
+      },
+      {
+        "citation_key": "VIII.5",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung der ceremonien in der pfarkirchen zu Sant Georgen der statt Nordlingen, gestelt durch M. Caspar Löhner, daselbst superintendens,im",
+        "doc_year": "1544",
+        "first_printed_page": 317,
+        "first_digital_page": "0333",
+        "last_printed_page": 329,
+        "prev_doc_last_page": 316,
+        "matched_heading_text": "VIII 5. Ordnung der ceremonien in der pfarkirchen zu Sant Georgen der statt Nordlingen, gestelt durch M. Caspar Löhner, daselbst superintendens,im 1544"
+      },
+      {
+        "citation_key": "VIII.6",
+        "heading_source": "running_head",
+        "doc_title": "Nördlinger Superintendenzordnung",
+        "doc_year": "1564",
+        "first_printed_page": 330,
+        "first_digital_page": "0346",
+        "last_printed_page": 334,
+        "prev_doc_last_page": 329,
+        "matched_heading_text": "VIII 6. Nördlinger Superintendenzordnung 1564"
+      },
+      {
+        "citation_key": "VIII.7",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung von",
+        "doc_year": "1579",
+        "first_printed_page": 335,
+        "first_digital_page": "0351",
+        "last_printed_page": 393,
+        "prev_doc_last_page": 334,
+        "matched_heading_text": "VIII 7. Kirchenordnung von 1579"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 394,
+        "first_digital_page": "0410",
+        "last_printed_page": 394,
+        "prev_doc_last_page": 393,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IX",
+        "heading_source": "toc_only",
+        "doc_title": "IX. Grafschaft Oettingen - Oettingen",
+        "doc_year": null,
+        "first_printed_page": 395,
+        "first_digital_page": "0411",
+        "last_printed_page": 402,
+        "prev_doc_last_page": 394,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IX",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsordnung",
+        "doc_year": "1591",
+        "first_printed_page": 403,
+        "first_digital_page": "0419",
+        "last_printed_page": 407,
+        "prev_doc_last_page": 402,
+        "matched_heading_text": "IX. Visitationsordnung 1591"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 408,
+        "first_digital_page": "0424",
+        "last_printed_page": 408,
+        "prev_doc_last_page": 407,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 409,
+        "first_digital_page": "0425",
+        "last_printed_page": 423,
+        "prev_doc_last_page": 408,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0440",
+        "last_printed_page": null,
+        "prev_doc_last_page": 423,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

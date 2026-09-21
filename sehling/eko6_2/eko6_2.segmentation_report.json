@@ -1,0 +1,557 @@
+{
+  "eko6_2": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "701-707",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "901-905",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "919-921",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "940-943",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Stadt Hameln",
+        "pages": "1018-1020",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "1023-1027",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "1110-1113",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "1121-1127",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "Anhang: Freies Reichsstift Loccum",
+        "pages": "1207-1212",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 698,
+        "first_digital_page": "0016",
+        "last_printed_page": 698,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Braunschweig-Lüneburgische Kirchenordnungen für das Fürstentum Calenberg-Göttingen und für die Städte Göttingen, Northeim, Hannover, Hameln",
+        "doc_year": null,
+        "first_printed_page": 699,
+        "first_digital_page": "0017",
+        "last_printed_page": 700,
+        "prev_doc_last_page": 698,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 701,
+        "first_digital_page": "0019",
+        "last_printed_page": 707,
+        "prev_doc_last_page": 700,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Calenberg-Göttingen",
+        "doc_year": null,
+        "first_printed_page": 708,
+        "first_digital_page": "0026",
+        "last_printed_page": 708,
+        "prev_doc_last_page": 707,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1542",
+        "first_printed_page": 709,
+        "first_digital_page": "0027",
+        "last_printed_page": 732,
+        "prev_doc_last_page": 708,
+        "matched_heading_text": "Kirchenordnung 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung-",
+        "doc_year": "1542",
+        "first_printed_page": 733,
+        "first_digital_page": "0051",
+        "last_printed_page": 736,
+        "prev_doc_last_page": 732,
+        "matched_heading_text": "Kirchenordnung- 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1542",
+        "first_printed_page": 737,
+        "first_digital_page": "0055",
+        "last_printed_page": 746,
+        "prev_doc_last_page": 736,
+        "matched_heading_text": "Kirchenordnung 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung'",
+        "doc_year": "1542",
+        "first_printed_page": 747,
+        "first_digital_page": "0065",
+        "last_printed_page": 748,
+        "prev_doc_last_page": 746,
+        "matched_heading_text": "Kirchenordnung' 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1542",
+        "first_printed_page": 749,
+        "first_digital_page": "0067",
+        "last_printed_page": 778,
+        "prev_doc_last_page": 748,
+        "matched_heading_text": "Kirchenordnung 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung'",
+        "doc_year": "1542",
+        "first_printed_page": 779,
+        "first_digital_page": "0097",
+        "last_printed_page": 780,
+        "prev_doc_last_page": 778,
+        "matched_heading_text": "Kirchenordnung' 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung-",
+        "doc_year": "1542",
+        "first_printed_page": 781,
+        "first_digital_page": "0099",
+        "last_printed_page": 782,
+        "prev_doc_last_page": 780,
+        "matched_heading_text": "Kirchenordnung- 1542"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1542",
+        "first_printed_page": 783,
+        "first_digital_page": "0101",
+        "last_printed_page": 818,
+        "prev_doc_last_page": 782,
+        "matched_heading_text": "Kirchenordnung 1542"
+      },
+      {
+        "citation_key": "III.2",
+        "heading_source": "running_head",
+        "doc_title": "Teil von unserem abweichenden Text des Introitus in der Deutsch ev. messe v",
+        "doc_year": "1524",
+        "first_printed_page": 819,
+        "first_digital_page": "0137",
+        "last_printed_page": 860,
+        "prev_doc_last_page": 818,
+        "matched_heading_text": "2. Teil von unserem abweichenden Text des Introitus in der Deutsch ev. messe v. 1524"
+      },
+      {
+        "citation_key": "III.4",
+        "heading_source": "running_head",
+        "doc_title": "Artikel, den gemeinen kasten belangent.1",
+        "doc_year": "1542",
+        "first_printed_page": 861,
+        "first_digital_page": "0179",
+        "last_printed_page": 871,
+        "prev_doc_last_page": 860,
+        "matched_heading_text": "4. Artikel, den gemeinen kasten belangent.1 1542"
+      },
+      {
+        "citation_key": "III.5",
+        "heading_source": "running_head",
+        "doc_title": "6; MSL 26, 496. 35 Decr. Grat. III. De consecratione, dist. IV, c. 115; Friedberg I,",
+        "doc_year": "1397",
+        "first_printed_page": 872,
+        "first_digital_page": "0190",
+        "last_printed_page": 877,
+        "prev_doc_last_page": 871,
+        "matched_heading_text": "5. 6; MSL 26, 496. 35 Decr. Grat. III. De consecratione, dist. IV, c. 115; Friedberg I, 1397"
+      },
+      {
+        "citation_key": "III.7",
+        "heading_source": "running_head",
+        "doc_title": "Visitatio generalis ducatus Calenbergici anno",
+        "doc_year": "1588",
+        "first_printed_page": 878,
+        "first_digital_page": "0196",
+        "last_printed_page": 884,
+        "prev_doc_last_page": 877,
+        "matched_heading_text": "7. Visitatio generalis ducatus Calenbergici anno 1588"
+      },
+      {
+        "citation_key": "III.10",
+        "heading_source": "running_head",
+        "doc_title": "Wie es bishero mit der vocation und ordina- tion der prediger aldar gehalten. KO von",
+        "doc_year": "1569",
+        "first_printed_page": 885,
+        "first_digital_page": "0203",
+        "last_printed_page": 885,
+        "prev_doc_last_page": 884,
+        "matched_heading_text": "10. Wie es bishero mit der vocation und ordina- tion der prediger aldar gehalten. KO von 1569"
+      },
+      {
+        "citation_key": "III.22",
+        "heading_source": "running_head",
+        "doc_title": "Was vor lectiones darin gelesen werden. 25 Mag. Hieronymus Lüdecke,",
+        "doc_year": "1573",
+        "first_printed_page": 886,
+        "first_digital_page": "0204",
+        "last_printed_page": 900,
+        "prev_doc_last_page": 885,
+        "matched_heading_text": "22. Was vor lectiones darin gelesen werden. 25 Mag. Hieronymus Lüdecke, 1573"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 901,
+        "first_digital_page": "0219",
+        "last_printed_page": 905,
+        "prev_doc_last_page": 900,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III.1",
+        "heading_source": "running_head",
+        "doc_title": "Christlike ordeninge der stadt Gottingen. Myth einer vörrede D. Martini Luther. Wittemberch",
+        "doc_year": "1531",
+        "first_printed_page": 906,
+        "first_digital_page": "0224",
+        "last_printed_page": 918,
+        "prev_doc_last_page": 905,
+        "matched_heading_text": "1. Christlike ordeninge der stadt Gottingen. Myth einer vörrede D. Martini Luther. Wittemberch 1531"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 919,
+        "first_digital_page": "0237",
+        "last_printed_page": 921,
+        "prev_doc_last_page": 918,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Northeim",
+        "doc_year": null,
+        "first_printed_page": 922,
+        "first_digital_page": "0240",
+        "last_printed_page": 922,
+        "prev_doc_last_page": 921,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1539",
+        "first_printed_page": 923,
+        "first_digital_page": "0241",
+        "last_printed_page": 939,
+        "prev_doc_last_page": 922,
+        "matched_heading_text": "Kirchenordnung 1539"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 940,
+        "first_digital_page": "0258",
+        "last_printed_page": 943,
+        "prev_doc_last_page": 939,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Hannover",
+        "doc_year": null,
+        "first_printed_page": 944,
+        "first_digital_page": "0262",
+        "last_printed_page": 944,
+        "prev_doc_last_page": 943,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1536",
+        "first_printed_page": 945,
+        "first_digital_page": "0263",
+        "last_printed_page": 990,
+        "prev_doc_last_page": 944,
+        "matched_heading_text": "Kirchenordnung 1536"
+      },
+      {
+        "citation_key": "III.3",
+        "heading_source": "running_head",
+        "doc_title": "11. sententiarum . . ., Brixen",
+        "doc_year": "1517",
+        "first_printed_page": 991,
+        "first_digital_page": "0309",
+        "last_printed_page": 1017,
+        "prev_doc_last_page": 990,
+        "matched_heading_text": "3. 11. sententiarum . . ., Brixen 1517"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Hameln",
+        "doc_year": null,
+        "first_printed_page": 1018,
+        "first_digital_page": "0336",
+        "last_printed_page": 1020,
+        "prev_doc_last_page": 1017,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Braunschweig-Lüneburgische Kirchenordnungen für das Fürstentum Grubenhagen und für die Stadt Einbeck",
+        "doc_year": null,
+        "first_printed_page": 1021,
+        "first_digital_page": "0339",
+        "last_printed_page": 1022,
+        "prev_doc_last_page": 1020,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 1023,
+        "first_digital_page": "0341",
+        "last_printed_page": 1027,
+        "prev_doc_last_page": 1022,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV.1",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung für das Fürstentum Grubenhagen aus dem Jahre",
+        "doc_year": "1538",
+        "first_printed_page": 1028,
+        "first_digital_page": "0346",
+        "last_printed_page": 1030,
+        "prev_doc_last_page": 1027,
+        "matched_heading_text": "1. Kirchenordnung für das Fürstentum Grubenhagen aus dem Jahre 1538"
+      },
+      {
+        "citation_key": "IV.2",
+        "heading_source": "running_head",
+        "doc_title": "Reformatio, das ist fürstliche braunschweigische kirchenordenung des durchleuchtigen hochgebornen fürsten und hern, hern Philips, herzogen zu Braunschweig und Lüneburgk etc., Grubenhagischen theils, publicirt",
+        "doc_year": "1544",
+        "first_printed_page": 1031,
+        "first_digital_page": "0349",
+        "last_printed_page": 1039,
+        "prev_doc_last_page": 1030,
+        "matched_heading_text": "2. Reformatio, das ist fürstliche braunschweigische kirchenordenung des durchleuchtigen hochgebornen fürsten und hern, hern Philips, herzogen zu Braunschweig und Lüneburgk etc., Grubenhagischen theils, publicirt 1544"
+      },
+      {
+        "citation_key": "IV.3",
+        "heading_source": "running_head",
+        "doc_title": "Visitatio de anno",
+        "doc_year": "1544",
+        "first_printed_page": 1040,
+        "first_digital_page": "0358",
+        "last_printed_page": 1040,
+        "prev_doc_last_page": 1039,
+        "matched_heading_text": "3. Visitatio de anno 1544"
+      },
+      {
+        "citation_key": "IV.16",
+        "heading_source": "running_head",
+        "doc_title": "Jh.s:",
+        "doc_year": "1506",
+        "first_printed_page": 1041,
+        "first_digital_page": "0359",
+        "last_printed_page": 1109,
+        "prev_doc_last_page": 1040,
+        "matched_heading_text": "16. Jh.s: 1506"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 1110,
+        "first_digital_page": "0428",
+        "last_printed_page": 1113,
+        "prev_doc_last_page": 1109,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Einbeck",
+        "doc_year": null,
+        "first_printed_page": 1114,
+        "first_digital_page": "0432",
+        "last_printed_page": 1114,
+        "prev_doc_last_page": 1113,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Stiftsordnung",
+        "doc_year": "1543",
+        "first_printed_page": 1115,
+        "first_digital_page": "0433",
+        "last_printed_page": 1118,
+        "prev_doc_last_page": 1114,
+        "matched_heading_text": "Stiftsordnung 1543"
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Kirchenordnungen für die Grafschaften Hoya und Diepholz",
+        "doc_year": null,
+        "first_printed_page": 1119,
+        "first_digital_page": "0437",
+        "last_printed_page": 1120,
+        "prev_doc_last_page": 1118,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 1121,
+        "first_digital_page": "0439",
+        "last_printed_page": 1127,
+        "prev_doc_last_page": 1120,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.1",
+        "heading_source": "running_head",
+        "doc_title": "Corinth. 14 40: Lasset alles züchtig und ordentlich zugehen. Leipzig",
+        "doc_year": "1581",
+        "first_printed_page": 1128,
+        "first_digital_page": "0446",
+        "last_printed_page": 1136,
+        "prev_doc_last_page": 1127,
+        "matched_heading_text": "1. Corinth. 14 40: Lasset alles züchtig und ordentlich zugehen. Leipzig 1581"
+      },
+      {
+        "citation_key": "V.13",
+        "heading_source": "running_head",
+        "doc_title": "18: Wehe euch, die ihr den leuten küssen 191), in der Spiegelbergischen KO v",
+        "doc_year": "1571",
+        "first_printed_page": 1137,
+        "first_digital_page": "0455",
+        "last_printed_page": 1205,
+        "prev_doc_last_page": 1136,
+        "matched_heading_text": "13. 18: Wehe euch, die ihr den leuten küssen 191), in der Spiegelbergischen KO v. 1571"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 1206,
+        "first_digital_page": "0524",
+        "last_printed_page": 1206,
+        "prev_doc_last_page": 1205,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Anhang: Freies Reichsstift Loccum",
+        "doc_year": null,
+        "first_printed_page": 1207,
+        "first_digital_page": "0525",
+        "last_printed_page": 1212,
+        "prev_doc_last_page": 1206,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0531",
+        "last_printed_page": null,
+        "prev_doc_last_page": 1212,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

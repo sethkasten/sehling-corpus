@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Quellen- und Literaturverzeichnis",
+    "start_page": 2,
+    "end_page": 23,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0022",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Reichsstadt Landau",
+    "start_page": 25,
+    "end_page": 71,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0045",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Landau",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 27,
+    "end_page": 33,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0047",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 34,
+    "end_page": 71,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0054",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Reichsstadt Speyer",
+    "start_page": 73,
+    "end_page": 114,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0093",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Speyer",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 75,
+    "end_page": 82,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0095",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 83,
+    "end_page": 114,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0103",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Freie Reichsstadt Worms",
+    "start_page": 115,
+    "end_page": 212,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0135",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Worms",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 117,
+    "end_page": 123,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0137",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 124,
+    "end_page": 212,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0144",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Grafschaft Leiningen",
+    "start_page": 213,
+    "end_page": 322,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0233",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Leiningen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 215,
+    "end_page": 221,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0235",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 222,
+    "end_page": 322,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0242",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Grafschaft Sayn",
+    "start_page": 323,
+    "end_page": 455,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0343",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Sayn",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 325,
+    "end_page": 332,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0345",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 333,
+    "end_page": 455,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0353",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "VI. Grafschaft Wied",
+    "start_page": 457,
+    "end_page": 515,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0477",
+    "level": 0,
+    "part_roman": "VI",
+    "place_label": "Wied",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 459,
+    "end_page": 464,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0479",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 465,
+    "end_page": 515,
+    "href": "https://digi.hadw-bw.de/view/eko19_1/0485",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  }
+]

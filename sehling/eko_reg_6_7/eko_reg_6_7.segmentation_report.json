@@ -1,0 +1,176 @@
+{
+  "eko_reg_6_7": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "1. Personenregister",
+        "pages": "3-15",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "2. Ortsregister",
+        "pages": "17-29",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Sachregister",
+        "pages": "31-64",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "1. Personenregister",
+        "pages": "67-101",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "2. Ortsregister",
+        "pages": "102-132",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Sachregister",
+        "pages": "133-186",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Sechster Band: Niedersachsen, Die welfischen Lande, Halbband 1 und 2",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0013",
+        "last_printed_page": 2,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "1. Personenregister",
+        "doc_year": null,
+        "first_printed_page": 3,
+        "first_digital_page": "0015",
+        "last_printed_page": 15,
+        "prev_doc_last_page": 2,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Sechster Band: Niedersachsen, Die welfischen Lande, Halbband 1 und 2",
+        "doc_year": null,
+        "first_printed_page": 16,
+        "first_digital_page": "0028",
+        "last_printed_page": 16,
+        "prev_doc_last_page": 15,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "2. Ortsregister",
+        "doc_year": null,
+        "first_printed_page": 17,
+        "first_digital_page": "0029",
+        "last_printed_page": 29,
+        "prev_doc_last_page": 16,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Sechster Band: Niedersachsen, Die welfischen Lande, Halbband 1 und 2",
+        "doc_year": null,
+        "first_printed_page": 30,
+        "first_digital_page": "0042",
+        "last_printed_page": 30,
+        "prev_doc_last_page": 29,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Sachregister",
+        "doc_year": null,
+        "first_printed_page": 31,
+        "first_digital_page": "0043",
+        "last_printed_page": 64,
+        "prev_doc_last_page": 30,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Siebter Band: Niedersachsen, Die welfischen Lande, Halbband 1 und 2",
+        "doc_year": null,
+        "first_printed_page": 65,
+        "first_digital_page": "0077",
+        "last_printed_page": 66,
+        "prev_doc_last_page": 64,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "1. Personenregister",
+        "doc_year": null,
+        "first_printed_page": 67,
+        "first_digital_page": "0079",
+        "last_printed_page": 101,
+        "prev_doc_last_page": 66,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "2. Ortsregister",
+        "doc_year": null,
+        "first_printed_page": 102,
+        "first_digital_page": "0114",
+        "last_printed_page": 132,
+        "prev_doc_last_page": 101,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Sachregister",
+        "doc_year": null,
+        "first_printed_page": 133,
+        "first_digital_page": "0145",
+        "last_printed_page": 186,
+        "prev_doc_last_page": 132,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0199",
+        "last_printed_page": null,
+        "prev_doc_last_page": 186,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

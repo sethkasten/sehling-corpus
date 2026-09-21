@@ -1,0 +1,337 @@
+{
+  "eko7_2_1": {
+    "diagnostics": [],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Stift Hildesheim",
+        "doc_year": null,
+        "first_printed_page": 755,
+        "first_digital_page": "0030",
+        "last_printed_page": 757,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.3",
+        "heading_source": "running_head",
+        "doc_title": "Die Bischöfe und die Reformation Im Stift Hildesheim regierten im 16. Jh. die Bischöfe: Herzog Johann von Sachsen-Lauenburg",
+        "doc_year": "1503",
+        "first_printed_page": 758,
+        "first_digital_page": "0033",
+        "last_printed_page": 761,
+        "prev_doc_last_page": 757,
+        "matched_heading_text": "3. Die Bischöfe und die Reformation Im Stift Hildesheim regierten im 16. Jh. die Bischöfe: Herzog Johann von Sachsen-Lauenburg 1503"
+      },
+      {
+        "citation_key": "V.4",
+        "heading_source": "running_head",
+        "doc_title": "Wahr, daß nach bischoven Burchardi tödtlichem abgang der herr churfurst zu Cölln, herzogk Ernst zu Bayern und jetz regierender bischoff zu Hildesheimb, anno etc",
+        "doc_year": "1581",
+        "first_printed_page": 762,
+        "first_digital_page": "0037",
+        "last_printed_page": 766,
+        "prev_doc_last_page": 761,
+        "matched_heading_text": "4. Wahr, daß nach bischoven Burchardi tödtlichem abgang der herr churfurst zu Cölln, herzogk Ernst zu Bayern und jetz regierender bischoff zu Hildesheimb, anno etc. 1581"
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Kirchenordnungen für das Stift Hildesheim und für die Stadt Hildesheim",
+        "doc_year": null,
+        "first_printed_page": 767,
+        "first_digital_page": "0042",
+        "last_printed_page": 768,
+        "prev_doc_last_page": 766,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.2",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnunge in baiden gerichten, Steurwoldt unde Peine",
+        "doc_year": "1561",
+        "first_printed_page": 769,
+        "first_digital_page": "0044",
+        "last_printed_page": 786,
+        "prev_doc_last_page": 768,
+        "matched_heading_text": "2. Kirchenordnunge in baiden gerichten, Steurwoldt unde Peine. 1561"
+      },
+      {
+        "citation_key": "V.3",
+        "heading_source": "running_head",
+        "doc_title": "Eid und obligation der prediger im herzogtumb Schleswiegk wie auch in ihren fürstl. gn. pfandgericht und ampt Peinaa",
+        "doc_year": "1574",
+        "first_printed_page": 787,
+        "first_digital_page": "0062",
+        "last_printed_page": 791,
+        "prev_doc_last_page": 786,
+        "matched_heading_text": "3. Eid und obligation der prediger im herzogtumb Schleswiegk wie auch in ihren fürstl. gn. pfandgericht und ampt Peinaa. 1574"
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Hildesheim",
+        "doc_year": null,
+        "first_printed_page": 792,
+        "first_digital_page": "0067",
+        "last_printed_page": 796,
+        "prev_doc_last_page": 791,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.2",
+        "heading_source": "running_head",
+        "doc_title": "Anfänge der Reformation Besonders früh fanden hier wie anderswo die reformatorischen Gedanken Gehör bei den Brüdern vom gemeinsamen Leben; dort liefen Luthers Schriften schon zu Beginn des Jahres",
+        "doc_year": "1519",
+        "first_printed_page": 797,
+        "first_digital_page": "0072",
+        "last_printed_page": 814,
+        "prev_doc_last_page": 796,
+        "matched_heading_text": "2. Anfänge der Reformation Besonders früh fanden hier wie anderswo die reformatorischen Gedanken Gehör bei den Brüdern vom gemeinsamen Leben; dort liefen Luthers Schriften schon zu Beginn des Jahres 1519"
+      },
+      {
+        "citation_key": "V.6",
+        "heading_source": "running_head",
+        "doc_title": "Lehrstreitigkeiten Die innerprotestantischen Streitigkeiten machten auch vor Hildesheim nicht halt. Im Frühjahr",
+        "doc_year": "1546",
+        "first_printed_page": 815,
+        "first_digital_page": "0090",
+        "last_printed_page": 821,
+        "prev_doc_last_page": 814,
+        "matched_heading_text": "6. Lehrstreitigkeiten Die innerprotestantischen Streitigkeiten machten auch vor Hildesheim nicht halt. Im Frühjahr 1546"
+      },
+      {
+        "citation_key": "V.9",
+        "heading_source": "running_head",
+        "doc_title": "Organist, Küster und Kastenherren Die kleine Pfarre St. Paulus gewann bis zur Mitte des 16. Jhs ziemlichen Zulauf. Rat und Kasten- herren sahen sich",
+        "doc_year": "1551",
+        "first_printed_page": 822,
+        "first_digital_page": "0097",
+        "last_printed_page": 824,
+        "prev_doc_last_page": 821,
+        "matched_heading_text": "9. Organist, Küster und Kastenherren Die kleine Pfarre St. Paulus gewann bis zur Mitte des 16. Jhs ziemlichen Zulauf. Rat und Kasten- herren sahen sich 1551"
+      },
+      {
+        "citation_key": "V.11",
+        "heading_source": "running_head",
+        "doc_title": "Die Hospitäler",
+        "doc_year": "1544",
+        "first_printed_page": 825,
+        "first_digital_page": "0100",
+        "last_printed_page": 828,
+        "prev_doc_last_page": 824,
+        "matched_heading_text": "11. Die Hospitäler 1544"
+      },
+      {
+        "citation_key": "V.1",
+        "heading_source": "running_head",
+        "doc_title": "Christlike kerckenordeninge der löffliken stadt Hildenssem. Mit einer vörrede Antonii Coruini",
+        "doc_year": "1544",
+        "first_printed_page": 829,
+        "first_digital_page": "0104",
+        "last_printed_page": 862,
+        "prev_doc_last_page": 828,
+        "matched_heading_text": "1. Christlike kerckenordeninge der löffliken stadt Hildenssem. Mit einer vörrede Antonii Coruini. 1544"
+      },
+      {
+        "citation_key": "V.7",
+        "heading_source": "running_head",
+        "doc_title": "8. Ferner vgl. Pommern",
+        "doc_year": "1535",
+        "first_printed_page": 863,
+        "first_digital_page": "0138",
+        "last_printed_page": 882,
+        "prev_doc_last_page": 862,
+        "matched_heading_text": "7. 8. Ferner vgl. Pommern 1535"
+      },
+      {
+        "citation_key": "V.15",
+        "heading_source": "running_head",
+        "doc_title": "Jh.s ein Hl. Geist Spital gegründet, erwähnt",
+        "doc_year": "1436",
+        "first_printed_page": 883,
+        "first_digital_page": "0158",
+        "last_printed_page": 943,
+        "prev_doc_last_page": 882,
+        "matched_heading_text": "15. Jh.s ein Hl. Geist Spital gegründet, erwähnt 1436"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 944,
+        "first_digital_page": "0219",
+        "last_printed_page": 944,
+        "prev_doc_last_page": 943,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "VI. Kirchenordnungen für die Grafschaft Oldenburg und für die Herrschaft Jever",
+        "doc_year": null,
+        "first_printed_page": 945,
+        "first_digital_page": "0220",
+        "last_printed_page": 946,
+        "prev_doc_last_page": 944,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "Grafschaft Oldenburg und Herrschaft Jever",
+        "doc_year": null,
+        "first_printed_page": 947,
+        "first_digital_page": "0222",
+        "last_printed_page": 956,
+        "prev_doc_last_page": 946,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI.3",
+        "heading_source": "running_head",
+        "doc_title": "Die Ordnung des Oldenburgischen Kirchenwesens a) Die Kirchenordnung von",
+        "doc_year": "1573",
+        "first_printed_page": 957,
+        "first_digital_page": "0232",
+        "last_printed_page": 978,
+        "prev_doc_last_page": 956,
+        "matched_heading_text": "3. Die Ordnung des Oldenburgischen Kirchenwesens a) Die Kirchenordnung von 1573"
+      },
+      {
+        "citation_key": "VI.4",
+        "heading_source": "running_head",
+        "doc_title": "Die KO von",
+        "doc_year": "1562",
+        "first_printed_page": 979,
+        "first_digital_page": "0254",
+        "last_printed_page": 979,
+        "prev_doc_last_page": 978,
+        "matched_heading_text": "4. Die KO von 1562"
+      },
+      {
+        "citation_key": "VI.5",
+        "heading_source": "running_head",
+        "doc_title": "Das Gymnasium zu Jever Marias ganz besondere Fürsorge galt der Gründung eines in der Stadt Jever",
+        "doc_year": "1572",
+        "first_printed_page": 980,
+        "first_digital_page": "0255",
+        "last_printed_page": 980,
+        "prev_doc_last_page": 979,
+        "matched_heading_text": "5. Das Gymnasium zu Jever Marias ganz besondere Fürsorge galt der Gründung eines in der Stadt Jever. 1572"
+      },
+      {
+        "citation_key": "VI.7",
+        "heading_source": "running_head",
+        "doc_title": "Die Jeverländische Kirche unter der Herrschaft des Oldenburger Grafen Als nach dem Tod Marias die Herrschaft Jever an Oldenburg fiel, wurde im Jeverland die Olden- burger KO von",
+        "doc_year": "1573",
+        "first_printed_page": 981,
+        "first_digital_page": "0256",
+        "last_printed_page": 985,
+        "prev_doc_last_page": 980,
+        "matched_heading_text": "7. Die Jeverländische Kirche unter der Herrschaft des Oldenburger Grafen Als nach dem Tod Marias die Herrschaft Jever an Oldenburg fiel, wurde im Jeverland die Olden- burger KO von 1573"
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "Kirchenordnungen für die Grafschaft Oldenburg und für die Herrschaft Jever",
+        "doc_year": null,
+        "first_printed_page": 986,
+        "first_digital_page": "0261",
+        "last_printed_page": 986,
+        "prev_doc_last_page": 985,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1573",
+        "first_printed_page": 987,
+        "first_digital_page": "0262",
+        "last_printed_page": 1040,
+        "prev_doc_last_page": 986,
+        "matched_heading_text": "Kirchenordnung 1573"
+      },
+      {
+        "citation_key": "VI.8",
+        "heading_source": "running_head",
+        "doc_title": "Vgl. ferner H. Hachfeld, Martin Chemnitz nach seinem Leben und Wirken, insbes. nach seinem Ver- hältnisse zum Tridentinum",
+        "doc_year": "1867",
+        "first_printed_page": 1041,
+        "first_digital_page": "0316",
+        "last_printed_page": 1050,
+        "prev_doc_last_page": 1040,
+        "matched_heading_text": "8. Vgl. ferner H. Hachfeld, Martin Chemnitz nach seinem Leben und Wirken, insbes. nach seinem Ver- hältnisse zum Tridentinum. 1867"
+      },
+      {
+        "citation_key": "VI.15",
+        "heading_source": "running_head",
+        "doc_title": "Von den Bugenhagenschen KOO knüpft beson- ders die Hamburger von",
+        "doc_year": "1529",
+        "first_printed_page": 1051,
+        "first_digital_page": "0326",
+        "last_printed_page": 1093,
+        "prev_doc_last_page": 1050,
+        "matched_heading_text": "15. Von den Bugenhagenschen KOO knüpft beson- ders die Hamburger von 1529"
+      },
+      {
+        "citation_key": "VI.16",
+        "heading_source": "running_head",
+        "doc_title": "Jh.s. 1959, 22. 35 Vgl. oben S. 855, Anm. 30. 36 Diesem Absatz ähnlich Mecklenburger KO",
+        "doc_year": "1552",
+        "first_printed_page": 1094,
+        "first_digital_page": "0369",
+        "last_printed_page": 1106,
+        "prev_doc_last_page": 1093,
+        "matched_heading_text": "16. Jh.s. 1959, 22. 35 Vgl. oben S. 855, Anm. 30. 36 Diesem Absatz ähnlich Mecklenburger KO 1552"
+      },
+      {
+        "citation_key": "VI.26",
+        "heading_source": "running_head",
+        "doc_title": "1963, 408ff. Conc. Trid., Sess. XIV (25. Nov",
+        "doc_year": "1551",
+        "first_printed_page": 1107,
+        "first_digital_page": "0382",
+        "last_printed_page": 1203,
+        "prev_doc_last_page": 1106,
+        "matched_heading_text": "26. 1963, 408ff. Conc. Trid., Sess. XIV (25. Nov. 1551"
+      },
+      {
+        "citation_key": "VI.31",
+        "heading_source": "running_head",
+        "doc_title": "10",
+        "doc_year": "1609",
+        "first_printed_page": 1204,
+        "first_digital_page": "0479",
+        "last_printed_page": 1266,
+        "prev_doc_last_page": 1203,
+        "matched_heading_text": "31. 10. 1609"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0542",
+        "last_printed_page": null,
+        "prev_doc_last_page": 1266,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

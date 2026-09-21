@@ -1,0 +1,92 @@
+[
+  {
+    "title": "I. Die Landgrafschaft Hessen bis zum Tode Philipps des Großmütigen (1567)",
+    "start_page": 1,
+    "end_page": 339,
+    "href": "https://digi.hadw-bw.de/view/eko8/0017",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Die Landgrafschaft Hessen bis zum Tode Philipps des Großmütigen",
+    "is_source_part": true
+  },
+  {
+    "title": "I. Das Territorium",
+    "start_page": 3,
+    "end_page": 5,
+    "href": "https://digi.hadw-bw.de/view/eko8/0019",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Das Territorium",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Das hessische Landgrafenhaus und seine Politik",
+    "start_page": 6,
+    "end_page": 8,
+    "href": "https://digi.hadw-bw.de/view/eko8/0022",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Das hessische Landgrafenhaus und seine Politik",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Die hessische Reformationsgeschichte und ihre Kirchenordnungen",
+    "start_page": 9,
+    "end_page": 36,
+    "href": "https://digi.hadw-bw.de/view/eko8/0025",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Die hessische Reformationsgeschichte und ihre Kirchenordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Kirchenordnungen",
+    "start_page": 37,
+    "end_page": 339,
+    "href": "https://digi.hadw-bw.de/view/eko8/0053",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Kirchenordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Die hessischen Landgrafschaften bis zum Ende der Generalsynoden (1567-1582)",
+    "start_page": 341,
+    "end_page": 469,
+    "href": "https://digi.hadw-bw.de/view/eko8/0357",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Die hessischen Landgrafschaften bis zum Ende der Generalsynoden",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Zeit der gemeinsamen Ordnungen der geteilten Landgrafschaften",
+    "start_page": 343,
+    "end_page": 346,
+    "href": "https://digi.hadw-bw.de/view/eko8/0359",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Zeit der gemeinsamen Ordnungen der geteilten Landgrafschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Abschiede und Kirchenordnungen",
+    "start_page": 347,
+    "end_page": 469,
+    "href": "https://digi.hadw-bw.de/view/eko8/0363",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Abschiede und Kirchenordnungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 471,
+    "end_page": 489,
+    "href": "https://digi.hadw-bw.de/view/eko8/0487",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "title": "Die vier geistlichen Gebiete: Merseburg, Meissen, Naumburg-Zeitz, Wurzen",
+    "start_page": 1,
+    "end_page": 99,
+    "href": "https://digi.hadw-bw.de/view/eko2/0015",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die vier geistlichen Gebiete: Merseburg",
+    "is_source_part": true
+  },
+  {
+    "title": "I. Das Bisthum Merseburg",
+    "start_page": 3,
+    "end_page": 42,
+    "href": "https://digi.hadw-bw.de/view/eko2/0017",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Das Bisthum Merseburg",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Das Bisthum Meissen",
+    "start_page": 42,
+    "end_page": 53,
+    "href": "https://digi.hadw-bw.de/view/eko2/0056",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Das Bisthum Meissen",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Das Bisthum Naumburg-Zeitz",
+    "start_page": 53,
+    "end_page": 91,
+    "href": "https://digi.hadw-bw.de/view/eko2/0067",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Das Bisthum Naumburg-Zeitz",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Das Stift Wurzen",
+    "start_page": 92,
+    "end_page": 99,
+    "href": "https://digi.hadw-bw.de/view/eko2/0106",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Das Stift Wurzen",
+    "is_source_part": true
+  },
+  {
+    "title": "Amt Stolpen mit Stadt Bischofswerda",
+    "start_page": 101,
+    "end_page": 106,
+    "href": "https://digi.hadw-bw.de/view/eko2/0115",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Amt Stolpen mit Stadt Bischofswerda",
+    "is_source_part": true
+  },
+  {
+    "title": "Herrschaft und Stadt Plauen",
+    "start_page": 107,
+    "end_page": 112,
+    "href": "https://digi.hadw-bw.de/view/eko2/0121",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "und Stadt Plauen",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Herrschaft Ronneburg",
+    "start_page": 113,
+    "end_page": 117,
+    "href": "https://digi.hadw-bw.de/view/eko2/0127",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Herrschaft Ronneburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Schwarzburg'schen Herrschaften",
+    "start_page": 119,
+    "end_page": 137,
+    "href": "https://digi.hadw-bw.de/view/eko2/0133",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Schwarzburg'schen Herrschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Reussischen Herrschaften",
+    "start_page": 139,
+    "end_page": 160,
+    "href": "https://digi.hadw-bw.de/view/eko2/0153",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Reussischen Herrschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Schönburg'schen Herrschaften",
+    "start_page": 161,
+    "end_page": 176,
+    "href": "https://digi.hadw-bw.de/view/eko2/0175",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Schönburg'schen Herrschaften",
+    "is_source_part": true
+  },
+  {
+    "title": "Die vier Harzgrafschaften: Mansfeld, Stolberg, Hohenstein, Regenstein und Stift und Stadt Quedlinburg",
+    "start_page": 177,
+    "end_page": 264,
+    "href": "https://digi.hadw-bw.de/view/eko2/0191",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die vier Harzgrafschaften: Mansfeld",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Grafschaft Mansfeld",
+    "start_page": 179,
+    "end_page": 248,
+    "href": "https://digi.hadw-bw.de/view/eko2/0193",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Grafschaft Mansfeld",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Grafschaften Stolberg",
+    "start_page": 248,
+    "end_page": 250,
+    "href": "https://digi.hadw-bw.de/view/eko2/0262",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Grafschaften Stolberg",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Grafschaft Hohenstein und das Gericht Wintzingerode oder Bodenstein",
+    "start_page": 250,
+    "end_page": 259,
+    "href": "https://digi.hadw-bw.de/view/eko2/0264",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Grafschaft Hohenstein und das Gericht Wintzingerode oder Bodenstein",
+    "is_source_part": true
+  },
+  {
+    "title": "Stift und Stadt Quedlinburg",
+    "start_page": 260,
+    "end_page": 264,
+    "href": "https://digi.hadw-bw.de/view/eko2/0274",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Stift und Stadt Quedlinburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Grafschaft Henneberg",
+    "start_page": 265,
+    "end_page": 358,
+    "href": "https://digi.hadw-bw.de/view/eko2/0279",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Grafschaft Henneberg",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte und Ortschaften der Grafschaft Henneberg",
+    "start_page": 329,
+    "end_page": 358,
+    "href": "https://digi.hadw-bw.de/view/eko2/0343",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte und Ortschaften der Grafschaft Henneberg",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Mainzischen Besitzungen (Eichsfeld, Erfurt, Querfurt)",
+    "start_page": 359,
+    "end_page": 380,
+    "href": "https://digi.hadw-bw.de/view/eko2/0373",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Mainzischen Besitzungen",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Reichsstädte Mühlhausen und Nordhausen",
+    "start_page": 381,
+    "end_page": 396,
+    "href": "https://digi.hadw-bw.de/view/eko2/0395",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Reichsstädte Mühlhausen und Nordhausen",
+    "is_source_part": true
+  },
+  {
+    "title": "Mühlhausen",
+    "start_page": 383,
+    "end_page": 394,
+    "href": "https://digi.hadw-bw.de/view/eko2/0397",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Mühlhausen",
+    "is_source_part": true
+  },
+  {
+    "title": "Nordhausen",
+    "start_page": 394,
+    "end_page": 396,
+    "href": "https://digi.hadw-bw.de/view/eko2/0408",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Nordhausen",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Erzbisthum Magdeburg und das Bisthum Halberstadt",
+    "start_page": 397,
+    "end_page": 492,
+    "href": "https://digi.hadw-bw.de/view/eko2/0411",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Erzbisthum Magdeburg und das Bisthum Halberstadt",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Erzbisthum Magdeburg",
+    "start_page": 399,
+    "end_page": 426,
+    "href": "https://digi.hadw-bw.de/view/eko2/0413",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Erzbisthum Magdeburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte und Ortschaften des Erzbisthums Magdeburg",
+    "start_page": 426,
+    "end_page": 462,
+    "href": "https://digi.hadw-bw.de/view/eko2/0440",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte und Ortschaften des Erzbisthums Magdeburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Bisthum Halberstadt",
+    "start_page": 463,
+    "end_page": 472,
+    "href": "https://digi.hadw-bw.de/view/eko2/0477",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Bisthum Halberstadt",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte und Ortschaften im Bisthum Halberstadt",
+    "start_page": 473,
+    "end_page": 492,
+    "href": "https://digi.hadw-bw.de/view/eko2/0487",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte und Ortschaften im Bisthum Halberstadt",
+    "is_source_part": true
+  },
+  {
+    "title": "Das Fürstentum Anhalt",
+    "start_page": 493,
+    "end_page": 595,
+    "href": "https://digi.hadw-bw.de/view/eko2/0507",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Das Fürstentum Anhalt",
+    "is_source_part": true
+  },
+  {
+    "title": "Städte im Fürstenthum Anhalt",
+    "start_page": 582,
+    "end_page": 594,
+    "href": "https://digi.hadw-bw.de/view/eko2/0596",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Städte im Fürstenthum Anhalt",
+    "is_source_part": true
+  },
+  {
+    "title": "Die Abtei Gernrode",
+    "start_page": 594,
+    "end_page": 595,
+    "href": "https://digi.hadw-bw.de/view/eko2/0608",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Die Abtei Gernrode",
+    "is_source_part": true
+  },
+  {
+    "title": "Chronologisches Register der in diesem Bande ganz oder theilweise abgedruckten Ordnungen",
+    "start_page": 597,
+    "end_page": 599,
+    "href": "https://digi.hadw-bw.de/view/eko2/0611",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Chronologisches Register der in diesem Bande ganz oder theilweise abgedruckten Ordnungen",
+    "is_source_part": false
+  },
+  {
+    "title": "Personen- und Orts-Register",
+    "start_page": 600,
+    "end_page": 605,
+    "href": "https://digi.hadw-bw.de/view/eko2/0614",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Personen- und Orts-Register",
+    "is_source_part": false
+  },
+  {
+    "title": "Sachregister",
+    "start_page": 606,
+    "end_page": 614,
+    "href": "https://digi.hadw-bw.de/view/eko2/0620",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Sachregister",
+    "is_source_part": false
+  }
+]

@@ -1,0 +1,655 @@
+{
+  "eko7_1": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "3-15",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "44-49",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "62-67",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "133-144",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "210-221",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "232-246",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "307-359",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Kirchenordnungen für das Erzstift Bremen und für die Städte Stade und Buxtehude",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0033",
+        "last_printed_page": 2,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 3,
+        "first_digital_page": "0035",
+        "last_printed_page": 15,
+        "prev_doc_last_page": 2,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Agenda Wursatorum ecclesiastica offte handbook unde ordeninge der hilligen kerken im lande to Wursten, mit fliet up ordeninge der stände tosamengedragen",
+        "doc_year": "1574",
+        "first_printed_page": 16,
+        "first_digital_page": "0048",
+        "last_printed_page": 18,
+        "prev_doc_last_page": 15,
+        "matched_heading_text": "1. Agenda Wursatorum ecclesiastica offte handbook unde ordeninge der hilligen kerken im lande to Wursten, mit fliet up ordeninge der stände tosamengedragen. 1574"
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Vörder Kirchenordnung",
+        "doc_year": "1577",
+        "first_printed_page": 19,
+        "first_digital_page": "0051",
+        "last_printed_page": 29,
+        "prev_doc_last_page": 18,
+        "matched_heading_text": "3. Th„ 380). 11 Von „die Godt zumessen“ bis hier enge Anlehnung an Tit. I, § 2 der Reichspolizeiordnung von 1577"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsankündigung für das Land Kehdingen und für Osten",
+        "doc_year": "1588",
+        "first_printed_page": 30,
+        "first_digital_page": "0062",
+        "last_printed_page": 31,
+        "prev_doc_last_page": 29,
+        "matched_heading_text": "5. Visitationsankündigung für das Land Kehdingen und für Osten 1588"
+      },
+      {
+        "citation_key": "I.6",
+        "heading_source": "running_head",
+        "doc_title": "Visitationsanordnung für die Dompropstei",
+        "doc_year": "1593",
+        "first_printed_page": 32,
+        "first_digital_page": "0064",
+        "last_printed_page": 32,
+        "prev_doc_last_page": 31,
+        "matched_heading_text": "6. Visitationsanordnung für die Dompropstei 1593"
+      },
+      {
+        "citation_key": "I.7",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung eins consistorii. um",
+        "doc_year": "1616",
+        "first_printed_page": 33,
+        "first_digital_page": "0065",
+        "last_printed_page": 43,
+        "prev_doc_last_page": 32,
+        "matched_heading_text": "7. Ordnung eins consistorii. um 1616"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 44,
+        "first_digital_page": "0076",
+        "last_printed_page": 49,
+        "prev_doc_last_page": 43,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Stade",
+        "doc_year": null,
+        "first_printed_page": 50,
+        "first_digital_page": "0082",
+        "last_printed_page": 51,
+        "prev_doc_last_page": 49,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Ferner und insonderheit zu der rechten, wah- ren, alten unverenderten Außpurgischen Confes- sion, wie die auf dem reichstage anno",
+        "doc_year": "1530",
+        "first_printed_page": 52,
+        "first_digital_page": "0084",
+        "last_printed_page": 61,
+        "prev_doc_last_page": 51,
+        "matched_heading_text": "3. Ferner und insonderheit zu der rechten, wah- ren, alten unverenderten Außpurgischen Confes- sion, wie die auf dem reichstage anno 1530"
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 62,
+        "first_digital_page": "0094",
+        "last_printed_page": 67,
+        "prev_doc_last_page": 61,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Stadt Buxtehude",
+        "doc_year": null,
+        "first_printed_page": 68,
+        "first_digital_page": "0100",
+        "last_printed_page": 68,
+        "prev_doc_last_page": 67,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Buxtehuder Agende",
+        "doc_year": "1526",
+        "first_printed_page": 69,
+        "first_digital_page": "0101",
+        "last_printed_page": 129,
+        "prev_doc_last_page": 68,
+        "matched_heading_text": "2. Th. 258); Abschied des Reichstags zu Augsburg 1526"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 130,
+        "first_digital_page": "0162",
+        "last_printed_page": 130,
+        "prev_doc_last_page": 129,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Kirchenordnungen für das Stift Verden",
+        "doc_year": null,
+        "first_printed_page": 131,
+        "first_digital_page": "0163",
+        "last_printed_page": 132,
+        "prev_doc_last_page": 130,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 133,
+        "first_digital_page": "0165",
+        "last_printed_page": 144,
+        "prev_doc_last_page": 132,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Stift Verden",
+        "doc_year": null,
+        "first_printed_page": 145,
+        "first_digital_page": "0177",
+        "last_printed_page": 146,
+        "prev_doc_last_page": 144,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1606",
+        "first_printed_page": 147,
+        "first_digital_page": "0179",
+        "last_printed_page": 148,
+        "prev_doc_last_page": 146,
+        "matched_heading_text": "Kirchenordnung 1606"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordniing",
+        "doc_year": "1606",
+        "first_printed_page": 149,
+        "first_digital_page": "0181",
+        "last_printed_page": 150,
+        "prev_doc_last_page": 148,
+        "matched_heading_text": "Kirchenordniing 1606"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1606",
+        "first_printed_page": 151,
+        "first_digital_page": "0183",
+        "last_printed_page": 153,
+        "prev_doc_last_page": 150,
+        "matched_heading_text": "Kirchenordnung 1606"
+      },
+      {
+        "citation_key": "II.6",
+        "heading_source": "running_head",
+        "doc_title": "Jtili",
+        "doc_year": "1612",
+        "first_printed_page": 154,
+        "first_digital_page": "0186",
+        "last_printed_page": 161,
+        "prev_doc_last_page": 153,
+        "matched_heading_text": "6. Jtili 1612"
+      },
+      {
+        "citation_key": "II.15",
+        "heading_source": "running_head",
+        "doc_title": "Abth",
+        "doc_year": "1859",
+        "first_printed_page": 162,
+        "first_digital_page": "0194",
+        "last_printed_page": 186,
+        "prev_doc_last_page": 161,
+        "matched_heading_text": "15. Abth. 1859"
+      },
+      {
+        "citation_key": "II.16",
+        "heading_source": "running_head",
+        "doc_title": "20.148. 339. 497.  1 Vgl. oben S. 156, Anm. 52. 2 Lied von Michael Weiße, zuerst im Gesangbuch der böhmisch-mährischen Brüder von",
+        "doc_year": "1531",
+        "first_printed_page": 187,
+        "first_digital_page": "0219",
+        "last_printed_page": 208,
+        "prev_doc_last_page": 186,
+        "matched_heading_text": "16. 20.148. 339. 497.  1 Vgl. oben S. 156, Anm. 52. 2 Lied von Michael Weiße, zuerst im Gesangbuch der böhmisch-mährischen Brüder von 1531"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Kirchenordnungen für das Stift Osnabrück und für die Stadt Osnabrück",
+        "doc_year": null,
+        "first_printed_page": 209,
+        "first_digital_page": "0241",
+        "last_printed_page": 209,
+        "prev_doc_last_page": 208,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 210,
+        "first_digital_page": "0242",
+        "last_printed_page": 221,
+        "prev_doc_last_page": 209,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Stift Osnabrück",
+        "doc_year": null,
+        "first_printed_page": 222,
+        "first_digital_page": "0254",
+        "last_printed_page": 222,
+        "prev_doc_last_page": 221,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1543",
+        "first_printed_page": 223,
+        "first_digital_page": "0255",
+        "last_printed_page": 226,
+        "prev_doc_last_page": 222,
+        "matched_heading_text": "Kirchenordnung 1543"
+      },
+      {
+        "citation_key": "III.2",
+        "heading_source": "running_head",
+        "doc_title": "Verordnung von Burgmännern und Rat zu Quakenbrück zur Einführung der Kirchenordnung des Bonnus",
+        "doc_year": "1543",
+        "first_printed_page": 227,
+        "first_digital_page": "0259",
+        "last_printed_page": 231,
+        "prev_doc_last_page": 226,
+        "matched_heading_text": "2. Verordnung von Burgmännern und Rat zu Quakenbrück zur Einführung der Kirchenordnung des Bonnus 1543"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 232,
+        "first_digital_page": "0264",
+        "last_printed_page": 246,
+        "prev_doc_last_page": 231,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III.1",
+        "heading_source": "running_head",
+        "doc_title": "Christliche kerkenordenunge der stadt Oßenbrugk. Anno Domini",
+        "doc_year": "1543",
+        "first_printed_page": 247,
+        "first_digital_page": "0279",
+        "last_printed_page": 266,
+        "prev_doc_last_page": 246,
+        "matched_heading_text": "1. Christliche kerkenordenunge der stadt Oßenbrugk. Anno Domini 1543"
+      },
+      {
+        "citation_key": "III.3",
+        "heading_source": "running_head",
+        "doc_title": "Der tag Matthiae apostoli 20. 4. Der eilfte tag Martii, an welchem eine bußpredigt wegen deß anno",
+        "doc_year": "1613",
+        "first_printed_page": 267,
+        "first_digital_page": "0299",
+        "last_printed_page": 286,
+        "prev_doc_last_page": 266,
+        "matched_heading_text": "3. Der tag Matthiae apostoli 20. 4. Der eilfte tag Martii, an welchem eine bußpredigt wegen deß anno 1613"
+      },
+      {
+        "citation_key": "III.8",
+        "heading_source": "running_head",
+        "doc_title": "721, Anm. 40. 81 Vgl. KO von",
+        "doc_year": "1543",
+        "first_printed_page": 287,
+        "first_digital_page": "0319",
+        "last_printed_page": 295,
+        "prev_doc_last_page": 286,
+        "matched_heading_text": "8. 721, Anm. 40. 81 Vgl. KO von 1543"
+      },
+      {
+        "citation_key": "III.15",
+        "heading_source": "running_head",
+        "doc_title": "Febr",
+        "doc_year": "1617",
+        "first_printed_page": 296,
+        "first_digital_page": "0328",
+        "last_printed_page": 303,
+        "prev_doc_last_page": 295,
+        "matched_heading_text": "15. Febr. 1617"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 304,
+        "first_digital_page": "0336",
+        "last_printed_page": 304,
+        "prev_doc_last_page": 303,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Die Kirchenordnungen der Grafschaft Ostfriesland und des Harlingerlandes",
+        "doc_year": null,
+        "first_printed_page": 305,
+        "first_digital_page": "0337",
+        "last_printed_page": 306,
+        "prev_doc_last_page": 304,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 307,
+        "first_digital_page": "0339",
+        "last_printed_page": 359,
+        "prev_doc_last_page": 306,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "I. Landesherrliche Kirchenordnungen für die ganze Grafschaft",
+        "doc_year": null,
+        "first_printed_page": 360,
+        "first_digital_page": "0392",
+        "last_printed_page": 360,
+        "prev_doc_last_page": 359,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1529",
+        "first_printed_page": 361,
+        "first_digital_page": "0393",
+        "last_printed_page": 397,
+        "prev_doc_last_page": 360,
+        "matched_heading_text": "Kirchenordnung 1529"
+      },
+      {
+        "citation_key": "IV.3",
+        "heading_source": "running_head",
+        "doc_title": "Polizeiordnung der Gräfin Anna",
+        "doc_year": "1545",
+        "first_printed_page": 398,
+        "first_digital_page": "0430",
+        "last_printed_page": 413,
+        "prev_doc_last_page": 397,
+        "matched_heading_text": "3. Polizeiordnung der Gräfin Anna 1545"
+      },
+      {
+        "citation_key": "IV.4",
+        "heading_source": "running_head",
+        "doc_title": "Delfzijlischer Vergleich",
+        "doc_year": "1595",
+        "first_printed_page": 414,
+        "first_digital_page": "0446",
+        "last_printed_page": 418,
+        "prev_doc_last_page": 413,
+        "matched_heading_text": "4. Delfzijlischer Vergleich 1595"
+      },
+      {
+        "citation_key": "IV.5",
+        "heading_source": "running_head",
+        "doc_title": "Die Konkordaten",
+        "doc_year": "1599",
+        "first_printed_page": 419,
+        "first_digital_page": "0451",
+        "last_printed_page": 430,
+        "prev_doc_last_page": 418,
+        "matched_heading_text": "5. Die Konkordaten 1599"
+      },
+      {
+        "citation_key": "IV.6",
+        "heading_source": "running_head",
+        "doc_title": "Dese nabeschrevene manier wert geholden to Norden alle Sondaechs na dat sermoen. ca",
+        "doc_year": "1528",
+        "first_printed_page": 431,
+        "first_digital_page": "0463",
+        "last_printed_page": 439,
+        "prev_doc_last_page": 430,
+        "matched_heading_text": "6. Dese nabeschrevene manier wert geholden to Norden alle Sondaechs na dat sermoen. ca. 1528"
+      },
+      {
+        "citation_key": "IV.8",
+        "heading_source": "running_head",
+        "doc_title": "Ordinatio coetus Leerani, a comite Iohanne instituti",
+        "doc_year": "1583",
+        "first_printed_page": 440,
+        "first_digital_page": "0472",
+        "last_printed_page": 443,
+        "prev_doc_last_page": 439,
+        "matched_heading_text": "8. Ordinatio coetus Leerani, a comite Iohanne instituti. 1583"
+      },
+      {
+        "citation_key": "IV.17",
+        "heading_source": "running_head",
+        "doc_title": "Guoldanus 88. 18. Iderhavensis: Hendricus Rathers 89. 79 Volkmar (Wolmarus) Pomeranus, noch",
+        "doc_year": "1587",
+        "first_printed_page": 444,
+        "first_digital_page": "0476",
+        "last_printed_page": 525,
+        "prev_doc_last_page": 443,
+        "matched_heading_text": "17. Guoldanus 88. 18. Iderhavensis: Hendricus Rathers 89. 79 Volkmar (Wolmarus) Pomeranus, noch 1587"
+      },
+      {
+        "citation_key": "IV.19",
+        "heading_source": "running_head",
+        "doc_title": "Dejenigen, so beßhero kleine scholen vor den rykesten kinderen geholden und darvan ein grot 60 Am 15. Dezember",
+        "doc_year": "1600",
+        "first_printed_page": 526,
+        "first_digital_page": "0558",
+        "last_printed_page": 535,
+        "prev_doc_last_page": 525,
+        "matched_heading_text": "19. Dejenigen, so beßhero kleine scholen vor den rykesten kinderen geholden und darvan ein grot 60 Am 15. Dezember 1600"
+      },
+      {
+        "citation_key": "IV.21",
+        "heading_source": "running_head",
+        "doc_title": "Decemb. anno",
+        "doc_year": "1607",
+        "first_printed_page": 536,
+        "first_digital_page": "0568",
+        "last_printed_page": 575,
+        "prev_doc_last_page": 535,
+        "matched_heading_text": "21. Decemb. anno 1607"
+      },
+      {
+        "citation_key": "IV.23",
+        "heading_source": "running_head",
+        "doc_title": "Ein Vergleich der eigentlichen Abendmahlsfeiern in London und Norden ergibt folgendes Bild: London Norden",
+        "doc_year": "1557",
+        "first_printed_page": 576,
+        "first_digital_page": "0608",
+        "last_printed_page": 667,
+        "prev_doc_last_page": 575,
+        "matched_heading_text": "23. Ein Vergleich der eigentlichen Abendmahlsfeiern in London und Norden ergibt folgendes Bild: London Norden 1557"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Lutherische Kirchenordnungen mit beschränktem Geltungsbereich",
+        "doc_year": null,
+        "first_printed_page": 668,
+        "first_digital_page": "0700",
+        "last_printed_page": 668,
+        "prev_doc_last_page": 667,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Auricher Armenordnung",
+        "doc_year": "1578",
+        "first_printed_page": 669,
+        "first_digital_page": "0701",
+        "last_printed_page": 672,
+        "prev_doc_last_page": 668,
+        "matched_heading_text": "Auricher Armenordnung 1578"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Engerhafer Liturgie",
+        "doc_year": "1583",
+        "first_printed_page": 673,
+        "first_digital_page": "0705",
+        "last_printed_page": 684,
+        "prev_doc_last_page": 672,
+        "matched_heading_text": "Engerhafer Liturgie 1583"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Marienhafer Kirchenordnung",
+        "doc_year": "1593",
+        "first_printed_page": 685,
+        "first_digital_page": "0717",
+        "last_printed_page": 712,
+        "prev_doc_last_page": 684,
+        "matched_heading_text": "Marienhafer Kirchenordnung 1593"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Märienhafer Kirchenordnung",
+        "doc_year": "1593",
+        "first_printed_page": 713,
+        "first_digital_page": "0745",
+        "last_printed_page": 714,
+        "prev_doc_last_page": 712,
+        "matched_heading_text": "Märienhafer Kirchenordnung 1593"
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "running_head",
+        "doc_title": "Marienhafer Kirchenordnung",
+        "doc_year": "1593",
+        "first_printed_page": 715,
+        "first_digital_page": "0747",
+        "last_printed_page": 751,
+        "prev_doc_last_page": 714,
+        "matched_heading_text": "Marienhafer Kirchenordnung 1593"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0784",
+        "last_printed_page": null,
+        "prev_doc_last_page": 751,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

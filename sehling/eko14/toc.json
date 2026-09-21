@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Einführung",
+    "start_page": 1,
+    "end_page": 89,
+    "href": "https://digi.hadw-bw.de/view/eko14/0027",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einführung",
+    "is_source_part": false
+  },
+  {
+    "title": "[Regierungszeit Friedrich II. 1544-1556]",
+    "start_page": 90,
+    "end_page": 111,
+    "href": "https://digi.hadw-bw.de/view/eko14/0116",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Regierungszeit Friedrich II. 1544-1556]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Regierungszeit Ottheinrichs 1556-1559]",
+    "start_page": 111,
+    "end_page": 264,
+    "href": "https://digi.hadw-bw.de/view/eko14/0137",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Regierungszeit Ottheinrichs 1556-1559]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Regierungszeit Friedrich III. 1559-1576]",
+    "start_page": 264,
+    "end_page": 506,
+    "href": "https://digi.hadw-bw.de/view/eko14/0290",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Regierungszeit Friedrich III. 1559-1576]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Regierungszeit Ludwigs VI. 1576-1583]",
+    "start_page": 506,
+    "end_page": 509,
+    "href": "https://digi.hadw-bw.de/view/eko14/0532",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Regierungszeit Ludwigs VI. 1576-1583]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Regierungszeit Johann Casimirs 1583-1592]",
+    "start_page": 510,
+    "end_page": 543,
+    "href": "https://digi.hadw-bw.de/view/eko14/0536",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Regierungszeit Johann Casimirs 1583-1592]",
+    "is_source_part": true
+  },
+  {
+    "title": "[Regierungszeit Friedrichs IV. 1592-1610]",
+    "start_page": 544,
+    "end_page": 615,
+    "href": "https://digi.hadw-bw.de/view/eko14/0570",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "[Regierungszeit Friedrichs IV. 1592-1610]",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 617,
+    "end_page": 649,
+    "href": "https://digi.hadw-bw.de/view/eko14/0643",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

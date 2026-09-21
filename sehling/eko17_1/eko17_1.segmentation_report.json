@@ -1,0 +1,855 @@
+{
+  "eko17_1": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Quellen- und Literaturverzeichnis",
+        "pages": "2-16",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "19-36",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "221-235",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "331-346",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "421-428",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "475-482",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Einleitung",
+        "pages": "517-524",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "I. Bibelstellen",
+        "pages": "593-600",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "2. Personen",
+        "pages": "601-603",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Orte",
+        "pages": "604-605",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "5. Sachen",
+        "pages": "607-613",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0021",
+        "last_printed_page": 1,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Quellen- und Literaturverzeichnis",
+        "doc_year": null,
+        "first_printed_page": 2,
+        "first_digital_page": "0022",
+        "last_printed_page": 16,
+        "prev_doc_last_page": 1,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Schwäbisch Hall",
+        "doc_year": null,
+        "first_printed_page": 17,
+        "first_digital_page": "0037",
+        "last_printed_page": 18,
+        "prev_doc_last_page": 16,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 19,
+        "first_digital_page": "0039",
+        "last_printed_page": 36,
+        "prev_doc_last_page": 18,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Frühmessordnung",
+        "doc_year": "1526",
+        "first_printed_page": 37,
+        "first_digital_page": "0057",
+        "last_printed_page": 41,
+        "prev_doc_last_page": 36,
+        "matched_heading_text": "1. Frühmessordnunga Ostern 1526"
+      },
+      {
+        "citation_key": "I.2",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1527",
+        "first_printed_page": 42,
+        "first_digital_page": "0062",
+        "last_printed_page": 65,
+        "prev_doc_last_page": 41,
+        "matched_heading_text": "2. Kirchenordnunga 19. Februar 1527"
+      },
+      {
+        "citation_key": "I.3",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung der Gottesdienste an Werk- und Feiertagen",
+        "doc_year": "1527",
+        "first_printed_page": 66,
+        "first_digital_page": "0086",
+        "last_printed_page": 80,
+        "prev_doc_last_page": 65,
+        "matched_heading_text": "3. Ordnung der Gottesdienste an Werk- und Feiertagen sowie bei Einsegnung der Ehea erste Hälfte 1527"
+      },
+      {
+        "citation_key": "I.5",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus für Schwäbisch Hall",
+        "doc_year": "1528",
+        "first_printed_page": 81,
+        "first_digital_page": "0101",
+        "last_printed_page": 92,
+        "prev_doc_last_page": 80,
+        "matched_heading_text": "5. Katechismus für Schwäbisch Hall 1528"
+      },
+      {
+        "citation_key": "I.6",
+        "heading_source": "running_head",
+        "doc_title": "Katechismus für Schwäbisch Hall",
+        "doc_year": "1535",
+        "first_printed_page": 93,
+        "first_digital_page": "0113",
+        "last_printed_page": 95,
+        "prev_doc_last_page": 92,
+        "matched_heading_text": "6. Katechismus für Schwäbisch Hall 1535"
+      },
+      {
+        "citation_key": "I.7",
+        "heading_source": "running_head",
+        "doc_title": "Sendordnung",
+        "doc_year": "1531",
+        "first_printed_page": 96,
+        "first_digital_page": "0116",
+        "last_printed_page": 100,
+        "prev_doc_last_page": 95,
+        "matched_heading_text": "7. Sendordnunga 28. Januar 1531"
+      },
+      {
+        "citation_key": "I.8",
+        "heading_source": "running_head",
+        "doc_title": "Entwurf einer Gottesdienstordnung für die Haller Landgemeinde Bibersfeld",
+        "doc_year": "1535",
+        "first_printed_page": 101,
+        "first_digital_page": "0121",
+        "last_printed_page": 102,
+        "prev_doc_last_page": 100,
+        "matched_heading_text": "8. Entwurf einer Gottesdienstordnung für die Haller Landgemeinde Bibersfeld 1535"
+      },
+      {
+        "citation_key": "I.9",
+        "heading_source": "running_head",
+        "doc_title": "Agende für das Krankenabendmahl",
+        "doc_year": "1537",
+        "first_printed_page": 103,
+        "first_digital_page": "0123",
+        "last_printed_page": 110,
+        "prev_doc_last_page": 102,
+        "matched_heading_text": "9. Agende für das Krankenabendmahl 1537"
+      },
+      {
+        "citation_key": "I.10",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1543",
+        "first_printed_page": 111,
+        "first_digital_page": "0131",
+        "last_printed_page": 172,
+        "prev_doc_last_page": 110,
+        "matched_heading_text": "10. Kirchenordnung 1543"
+      },
+      {
+        "citation_key": "I.25",
+        "heading_source": "running_head",
+        "doc_title": "Psalm oder ein Bußpsalm fürgesprochen werden. Form der Absolution Entwurf",
+        "doc_year": "1614",
+        "first_printed_page": 173,
+        "first_digital_page": "0193",
+        "last_printed_page": 218,
+        "prev_doc_last_page": 172,
+        "matched_heading_text": "25. Psalm oder ein Bußpsalm fürgesprochen werden. Form der Absolution Entwurf 1614"
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "II. Heilbronn",
+        "doc_year": null,
+        "first_printed_page": 219,
+        "first_digital_page": "0239",
+        "last_printed_page": 220,
+        "prev_doc_last_page": 218,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 221,
+        "first_digital_page": "0241",
+        "last_printed_page": 235,
+        "prev_doc_last_page": 220,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "II.1",
+        "heading_source": "running_head",
+        "doc_title": "Ratsbeschluss zur Zulassung des evangelischen Abendmahls3 30. Januar",
+        "doc_year": "1528",
+        "first_printed_page": 236,
+        "first_digital_page": "0256",
+        "last_printed_page": 236,
+        "prev_doc_last_page": 235,
+        "matched_heading_text": "1. Ratsbeschluss zur Zulassung des evangelischen Abendmahls3 30. Januar 1528"
+      },
+      {
+        "citation_key": "II.2",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zu Abendmahl und Katechismusunterricht",
+        "doc_year": "1528",
+        "first_printed_page": 237,
+        "first_digital_page": "0257",
+        "last_printed_page": 237,
+        "prev_doc_last_page": 236,
+        "matched_heading_text": "2. Mandat zu Abendmahl und Katechismusunterricht 1528"
+      },
+      {
+        "citation_key": "II.3",
+        "heading_source": "running_head",
+        "doc_title": "Heilbronner Katechismus",
+        "doc_year": "1528",
+        "first_printed_page": 238,
+        "first_digital_page": "0258",
+        "last_printed_page": 268,
+        "prev_doc_last_page": 237,
+        "matched_heading_text": "3. Heilbronner Katechismusa 24. August 1528"
+      },
+      {
+        "citation_key": "II.4",
+        "heading_source": "running_head",
+        "doc_title": "Entwurf einer Ordnung der Sittenzucht und der Feiertage",
+        "doc_year": "1529",
+        "first_printed_page": 269,
+        "first_digital_page": "0289",
+        "last_printed_page": 272,
+        "prev_doc_last_page": 268,
+        "matched_heading_text": "4. Entwurf einer Ordnung der Sittenzucht und der Feiertage 1529"
+      },
+      {
+        "citation_key": "II.5",
+        "heading_source": "running_head",
+        "doc_title": "„Confessio Heilbronnensis“ und Kirchenordnung",
+        "doc_year": "1530",
+        "first_printed_page": 273,
+        "first_digital_page": "0293",
+        "last_printed_page": 289,
+        "prev_doc_last_page": 272,
+        "matched_heading_text": "5. „Confessio Heilbronnensis“ und Kirchenordnung 1530"
+      },
+      {
+        "citation_key": "II.6",
+        "heading_source": "running_head",
+        "doc_title": "Eid des Heilbronner Rates auf den neuen Glauben",
+        "doc_year": "1530",
+        "first_printed_page": 290,
+        "first_digital_page": "0310",
+        "last_printed_page": 291,
+        "prev_doc_last_page": 289,
+        "matched_heading_text": "6. Eid des Heilbronner Rates auf den neuen Glaubena 18. November 1530"
+      },
+      {
+        "citation_key": "II.7",
+        "heading_source": "running_head",
+        "doc_title": "Ratsprotokoll zur Abschaffung der Messea 21. März",
+        "doc_year": "1531",
+        "first_printed_page": 292,
+        "first_digital_page": "0312",
+        "last_printed_page": 292,
+        "prev_doc_last_page": 291,
+        "matched_heading_text": "7. Ratsprotokoll zur Abschaffung der Messea 21. März 1531"
+      },
+      {
+        "citation_key": "II.8",
+        "heading_source": "running_head",
+        "doc_title": "Instruktion zur Abstimmung der Gemeinde über die Messfeier",
+        "doc_year": "1531",
+        "first_printed_page": 293,
+        "first_digital_page": "0313",
+        "last_printed_page": 294,
+        "prev_doc_last_page": 292,
+        "matched_heading_text": "8. Instruktion zur Abstimmung der Gemeinde über die Messfeier 1531"
+      },
+      {
+        "citation_key": "II.9",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Abschaffung der Messe unter den Präsenzherren",
+        "doc_year": "1531",
+        "first_printed_page": 295,
+        "first_digital_page": "0315",
+        "last_printed_page": 296,
+        "prev_doc_last_page": 294,
+        "matched_heading_text": "9. Mandat zur Abschaffung der Messe unter den Präsenzherren 1531"
+      },
+      {
+        "citation_key": "II.10",
+        "heading_source": "running_head",
+        "doc_title": "Instruktion zur Abschaffung der Messe im Klarissenkloster",
+        "doc_year": "1531",
+        "first_printed_page": 297,
+        "first_digital_page": "0317",
+        "last_printed_page": 297,
+        "prev_doc_last_page": 296,
+        "matched_heading_text": "10. Instruktion zur Abschaffung der Messe im Klarissenkloster 1531"
+      },
+      {
+        "citation_key": "II.11",
+        "heading_source": "running_head",
+        "doc_title": "Instruktion zur Zusammenlegung beider Beginenhäusera 8. Dezember",
+        "doc_year": "1531",
+        "first_printed_page": 298,
+        "first_digital_page": "0318",
+        "last_printed_page": 298,
+        "prev_doc_last_page": 297,
+        "matched_heading_text": "11. Instruktion zur Zusammenlegung beider Beginenhäusera 8. Dezember 1531"
+      },
+      {
+        "citation_key": "II.12",
+        "heading_source": "running_head",
+        "doc_title": "Verbot von Eheprozessen vor geistlichen Gerichten",
+        "doc_year": "1531",
+        "first_printed_page": 299,
+        "first_digital_page": "0319",
+        "last_printed_page": 299,
+        "prev_doc_last_page": 298,
+        "matched_heading_text": "12. Verbot von Eheprozessen vor geistlichen Gerichten 1531"
+      },
+      {
+        "citation_key": "II.13",
+        "heading_source": "running_head",
+        "doc_title": "Entwurf einer Gottesdienstordnung",
+        "doc_year": "1532",
+        "first_printed_page": 300,
+        "first_digital_page": "0320",
+        "last_printed_page": 303,
+        "prev_doc_last_page": 299,
+        "matched_heading_text": "13. Entwurf einer Gottesdienstordnunga 11. März 1532"
+      },
+      {
+        "citation_key": "II.14",
+        "heading_source": "running_head",
+        "doc_title": "Gottesdienstordnung",
+        "doc_year": "1532",
+        "first_printed_page": 304,
+        "first_digital_page": "0324",
+        "last_printed_page": 306,
+        "prev_doc_last_page": 303,
+        "matched_heading_text": "14. Gottesdienstordnunga 26. August 1532"
+      },
+      {
+        "citation_key": "II.15",
+        "heading_source": "running_head",
+        "doc_title": "Statuten zum Eherecht",
+        "doc_year": "1541",
+        "first_printed_page": 307,
+        "first_digital_page": "0327",
+        "last_printed_page": 312,
+        "prev_doc_last_page": 306,
+        "matched_heading_text": "15. Statuten zum Eherecht 1541"
+      },
+      {
+        "citation_key": "II.16",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1543",
+        "first_printed_page": 313,
+        "first_digital_page": "0333",
+        "last_printed_page": 319,
+        "prev_doc_last_page": 312,
+        "matched_heading_text": "16. Kirchenordnung 1543"
+      },
+      {
+        "citation_key": "II.17",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung des Kirchengesangs",
+        "doc_year": "1543",
+        "first_printed_page": 320,
+        "first_digital_page": "0340",
+        "last_printed_page": 326,
+        "prev_doc_last_page": 319,
+        "matched_heading_text": "17. Ordnung des Kirchengesangsa 1543"
+      },
+      {
+        "citation_key": "II.18",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordnung",
+        "doc_year": "1603",
+        "first_printed_page": 327,
+        "first_digital_page": "0347",
+        "last_printed_page": 328,
+        "prev_doc_last_page": 326,
+        "matched_heading_text": "18. Kirchenordnung 1603"
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "III. Konstanz",
+        "doc_year": null,
+        "first_printed_page": 329,
+        "first_digital_page": "0349",
+        "last_printed_page": 330,
+        "prev_doc_last_page": 328,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 331,
+        "first_digital_page": "0351",
+        "last_printed_page": 346,
+        "prev_doc_last_page": 330,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "III.1",
+        "heading_source": "running_head",
+        "doc_title": "Reformationsratschlag für den Städtetag in Ulm",
+        "doc_year": "1524",
+        "first_printed_page": 347,
+        "first_digital_page": "0367",
+        "last_printed_page": 369,
+        "prev_doc_last_page": 346,
+        "matched_heading_text": "1. Reformationsratschlag für den Städtetag in Ulma 24. November 1524"
+      },
+      {
+        "citation_key": "III.3",
+        "heading_source": "running_head",
+        "doc_title": "Ausschreiben gegen Fluchen, Gotteslästerung und Zutrinken",
+        "doc_year": "1526",
+        "first_printed_page": 370,
+        "first_digital_page": "0390",
+        "last_printed_page": 371,
+        "prev_doc_last_page": 369,
+        "matched_heading_text": "3. Ausschreiben gegen Fluchen, Gotteslästerung und Zutrinkena 1526"
+      },
+      {
+        "citation_key": "III.4",
+        "heading_source": "running_head",
+        "doc_title": "Almosenordnung",
+        "doc_year": "1527",
+        "first_printed_page": 372,
+        "first_digital_page": "0392",
+        "last_printed_page": 377,
+        "prev_doc_last_page": 371,
+        "matched_heading_text": "4. Almosenordnunga 22. Juni 1527"
+      },
+      {
+        "citation_key": "III.5",
+        "heading_source": "running_head",
+        "doc_title": "Almosenordnung",
+        "doc_year": "1532",
+        "first_printed_page": 378,
+        "first_digital_page": "0398",
+        "last_printed_page": 379,
+        "prev_doc_last_page": 377,
+        "matched_heading_text": "5. Almosenordnunga 13. April 1532"
+      },
+      {
+        "citation_key": "III.13",
+        "heading_source": "running_head",
+        "doc_title": "Aprilis Anno",
+        "doc_year": "1532",
+        "first_printed_page": 380,
+        "first_digital_page": "0400",
+        "last_printed_page": 414,
+        "prev_doc_last_page": 379,
+        "matched_heading_text": "13. Aprilis Anno 1532"
+      },
+      {
+        "citation_key": "III.14",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung der Eheaufgebote und Eheeinsegnungen",
+        "doc_year": "1537",
+        "first_printed_page": 415,
+        "first_digital_page": "0435",
+        "last_printed_page": 415,
+        "prev_doc_last_page": 414,
+        "matched_heading_text": "14. Ordnung der Eheaufgebote und Eheeinsegnungen 1537"
+      },
+      {
+        "citation_key": "III.15",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung der Kirchenpflege",
+        "doc_year": "1538",
+        "first_printed_page": 416,
+        "first_digital_page": "0436",
+        "last_printed_page": 417,
+        "prev_doc_last_page": 415,
+        "matched_heading_text": "15. Ordnung der Kirchenpflegea 17. März 1538"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 418,
+        "first_digital_page": "0438",
+        "last_printed_page": 418,
+        "prev_doc_last_page": 417,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "IV. Isny",
+        "doc_year": null,
+        "first_printed_page": 419,
+        "first_digital_page": "0439",
+        "last_printed_page": 420,
+        "prev_doc_last_page": 418,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 421,
+        "first_digital_page": "0441",
+        "last_printed_page": 428,
+        "prev_doc_last_page": 420,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "IV.1",
+        "heading_source": "running_head",
+        "doc_title": "Zuchtherrenordnung",
+        "doc_year": "1533",
+        "first_printed_page": 429,
+        "first_digital_page": "0449",
+        "last_printed_page": 434,
+        "prev_doc_last_page": 428,
+        "matched_heading_text": "1. Zuchtherrenordnunga 1533"
+      },
+      {
+        "citation_key": "IV.2",
+        "heading_source": "running_head",
+        "doc_title": "Auszug aus der Stadtordnung zum Eherecht",
+        "doc_year": "1544",
+        "first_printed_page": 435,
+        "first_digital_page": "0455",
+        "last_printed_page": 438,
+        "prev_doc_last_page": 434,
+        "matched_heading_text": "2. Auszug aus der Stadtordnung zum Eherecht 1544"
+      },
+      {
+        "citation_key": "IV.3",
+        "heading_source": "running_head",
+        "doc_title": "Ehegerichtsordnung",
+        "doc_year": "1566",
+        "first_printed_page": 439,
+        "first_digital_page": "0459",
+        "last_printed_page": 450,
+        "prev_doc_last_page": 438,
+        "matched_heading_text": "3. Ehegerichtsordnung 1566"
+      },
+      {
+        "citation_key": "IV.4",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung des Ehegerichts",
+        "doc_year": "1600",
+        "first_printed_page": 451,
+        "first_digital_page": "0471",
+        "last_printed_page": 454,
+        "prev_doc_last_page": 450,
+        "matched_heading_text": "4. Ordnung des Ehegerichts 1600"
+      },
+      {
+        "citation_key": "IV.5",
+        "heading_source": "running_head",
+        "doc_title": "Agende um",
+        "doc_year": "1600",
+        "first_printed_page": 455,
+        "first_digital_page": "0475",
+        "last_printed_page": 471,
+        "prev_doc_last_page": 454,
+        "matched_heading_text": "5. Agende um 1600"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 472,
+        "first_digital_page": "0492",
+        "last_printed_page": 472,
+        "prev_doc_last_page": 471,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "V. Gengenbach",
+        "doc_year": null,
+        "first_printed_page": 473,
+        "first_digital_page": "0493",
+        "last_printed_page": 474,
+        "prev_doc_last_page": 472,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 475,
+        "first_digital_page": "0495",
+        "last_printed_page": 482,
+        "prev_doc_last_page": 474,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "V.1",
+        "heading_source": "running_head",
+        "doc_title": "Mandat zur Schulmeisteranstellunga",
+        "doc_year": "1536",
+        "first_printed_page": 483,
+        "first_digital_page": "0503",
+        "last_printed_page": 483,
+        "prev_doc_last_page": 482,
+        "matched_heading_text": "1. Mandat zur Schulmeisteranstellunga 1536"
+      },
+      {
+        "citation_key": "V.2",
+        "heading_source": "running_head",
+        "doc_title": "Schulmeisterordnunga",
+        "doc_year": "1536",
+        "first_printed_page": 484,
+        "first_digital_page": "0504",
+        "last_printed_page": 498,
+        "prev_doc_last_page": 483,
+        "matched_heading_text": "2. Schulmeisterordnunga 1536"
+      },
+      {
+        "citation_key": "V.4",
+        "heading_source": "running_head",
+        "doc_title": "Vertrag zum Unterhalt des Pfarrers, seines Helfers und des Schulmeisters",
+        "doc_year": "1540",
+        "first_printed_page": 499,
+        "first_digital_page": "0519",
+        "last_printed_page": 500,
+        "prev_doc_last_page": 498,
+        "matched_heading_text": "4. Vertrag zum Unterhalt des Pfarrers, seines Helfers und des Schulmeisters 1540"
+      },
+      {
+        "citation_key": "V.5",
+        "heading_source": "running_head",
+        "doc_title": "Gengenbacher Katechismus",
+        "doc_year": "1545",
+        "first_printed_page": 501,
+        "first_digital_page": "0521",
+        "last_printed_page": 511,
+        "prev_doc_last_page": 500,
+        "matched_heading_text": "5. Gengenbacher Katechismus 1545"
+      },
+      {
+        "citation_key": "V.6",
+        "heading_source": "running_head",
+        "doc_title": "Ordnung zu Eherechtsfragen",
+        "doc_year": "1536",
+        "first_printed_page": 512,
+        "first_digital_page": "0532",
+        "last_printed_page": 513,
+        "prev_doc_last_page": 511,
+        "matched_heading_text": "6. Ordnung zu Eherechtsfragena 1536"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 514,
+        "first_digital_page": "0534",
+        "last_printed_page": 514,
+        "prev_doc_last_page": 513,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "VI. Nachtrag zu Bd. XVI Württembergische Große Kirchenordnung 1559",
+        "doc_year": null,
+        "first_printed_page": 515,
+        "first_digital_page": "0535",
+        "last_printed_page": 516,
+        "prev_doc_last_page": 514,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "Einleitung",
+        "doc_year": null,
+        "first_printed_page": 517,
+        "first_digital_page": "0537",
+        "last_printed_page": 524,
+        "prev_doc_last_page": 516,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI",
+        "heading_source": "toc_only",
+        "doc_title": "Edition",
+        "doc_year": null,
+        "first_printed_page": 525,
+        "first_digital_page": "0545",
+        "last_printed_page": 529,
+        "prev_doc_last_page": 524,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "VI.6",
+        "heading_source": "running_head",
+        "doc_title": "Proverbia Salomonis, wie sie D. Philippus interpre- tiert hat Proverbia Salomonis iuxta Hebraicam verita- tem per Philippum Melanchthonem redacta,",
+        "doc_year": "1556",
+        "first_printed_page": 530,
+        "first_digital_page": "0550",
+        "last_printed_page": 592,
+        "prev_doc_last_page": 529,
+        "matched_heading_text": "6. Proverbia Salomonis, wie sie D. Philippus interpre- tiert hat Proverbia Salomonis iuxta Hebraicam verita- tem per Philippum Melanchthonem redacta, 1556"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "I. Bibelstellen",
+        "doc_year": null,
+        "first_printed_page": 593,
+        "first_digital_page": "0613",
+        "last_printed_page": 600,
+        "prev_doc_last_page": 592,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "2. Personen",
+        "doc_year": null,
+        "first_printed_page": 601,
+        "first_digital_page": "0621",
+        "last_printed_page": 603,
+        "prev_doc_last_page": 600,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Orte",
+        "doc_year": null,
+        "first_printed_page": 604,
+        "first_digital_page": "0624",
+        "last_printed_page": 605,
+        "prev_doc_last_page": 603,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Register",
+        "doc_year": null,
+        "first_printed_page": 606,
+        "first_digital_page": "0626",
+        "last_printed_page": 606,
+        "prev_doc_last_page": 605,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "5. Sachen",
+        "doc_year": null,
+        "first_printed_page": 607,
+        "first_digital_page": "0627",
+        "last_printed_page": 613,
+        "prev_doc_last_page": 606,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0634",
+        "last_printed_page": null,
+        "prev_doc_last_page": 613,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

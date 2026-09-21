@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Abkürzungen und Siglen",
+    "start_page": 1,
+    "end_page": 2,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0021",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Abkürzungen und Siglen",
+    "is_source_part": true
+  },
+  {
+    "title": "Quellen- und Literaturverzeichnis",
+    "start_page": 3,
+    "end_page": 20,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0023",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "A. Territorien",
+    "start_page": 21,
+    "end_page": 150,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0041",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "A. Territorien",
+    "is_source_part": true
+  },
+  {
+    "title": "I. Grafschaft Hanau-Lichtenberg",
+    "start_page": 23,
+    "end_page": 86,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0043",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Hanau-Lichtenberg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 25,
+    "end_page": 36,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0045",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 37,
+    "end_page": 86,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0057",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Herrschaft Fleckenstein",
+    "start_page": 87,
+    "end_page": 90,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0107",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Fleckenstein",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 89,
+    "end_page": 90,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0109",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "III. Herrschaft Rappoltstein",
+    "start_page": 91,
+    "end_page": 150,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0111",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Rappoltstein",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 93,
+    "end_page": 106,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0113",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 107,
+    "end_page": 150,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0127",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "B. Reichsstädte",
+    "start_page": 151,
+    "end_page": 536,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0171",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "B. Reichsstädte",
+    "is_source_part": true
+  },
+  {
+    "title": "I. Mühlhausen",
+    "start_page": 153,
+    "end_page": 306,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0173",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Mühlhausen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 155,
+    "end_page": 186,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0175",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 187,
+    "end_page": 306,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0207",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Weißenburg",
+    "start_page": 307,
+    "end_page": 336,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0327",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Weißenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 309,
+    "end_page": 316,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0329",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 317,
+    "end_page": 336,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0337",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Münster im Münstertal (im Gregoriental)",
+    "start_page": 337,
+    "end_page": 400,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0357",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Münster im Münstertal",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 339,
+    "end_page": 352,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0359",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 353,
+    "end_page": 400,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0373",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Hagenau",
+    "start_page": 401,
+    "end_page": 468,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0421",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Hagenau",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 403,
+    "end_page": 420,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0423",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 421,
+    "end_page": 468,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0441",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Colmar",
+    "start_page": 469,
+    "end_page": 536,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0489",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Colmar",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 471,
+    "end_page": 490,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0491",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 491,
+    "end_page": 536,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0511",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 537,
+    "end_page": 562,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0557",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  },
+  {
+    "title": "1. Bibelstellen",
+    "start_page": 537,
+    "end_page": 542,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0557",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "1. Bibelstellen",
+    "is_source_part": true
+  },
+  {
+    "title": "3. Personen",
+    "start_page": 544,
+    "end_page": 548,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0564",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "3. Personen",
+    "is_source_part": true
+  },
+  {
+    "title": "4. Orte",
+    "start_page": 549,
+    "end_page": 552,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0569",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "4. Orte",
+    "is_source_part": true
+  },
+  {
+    "title": "5. Sachen",
+    "start_page": 553,
+    "end_page": 562,
+    "href": "https://digi.hadw-bw.de/view/eko20_2/0573",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "5. Sachen",
+    "is_source_part": true
+  }
+]

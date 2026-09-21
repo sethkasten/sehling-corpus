@@ -1,0 +1,1523 @@
+{
+  "eko15": {
+    "diagnostics": [
+      {
+        "type": "non_source_section_excluded",
+        "part": "Sigla und Abkürzungen",
+        "pages": "1-2",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Literatur",
+        "pages": "2-5",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Das Territorium und die Herrschaft",
+        "pages": "5-8",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Rechtliche Verhältnisse",
+        "pages": "8-13",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Gang der Kirchengeschichte",
+        "pages": "13-19",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "Zum Forschungsstand und dem vorgelegten Ordnungswerk",
+        "pages": "19-21",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "11. Pfarrpräsentationsordnung",
+        "pages": "111-115",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "12. Visitation 1558",
+        "pages": "116-133",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "13. Polizeiordnung",
+        "pages": "134-145",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "14. Befehl wegen Besuch von Gottesdiensten, Beerdigungen und Almosen",
+        "pages": "146-147",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "16. Testament Graf Ludwig Casimirs",
+        "pages": "150-154",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "17. Polizeiordnung",
+        "pages": "155-158",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "18. Visitation 1571",
+        "pages": "159-170",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "22. Reverse der Pfarrer von Hollenbach und Adolzhausen an den Deutschen Orden",
+        "pages": "221-225",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "23. Kirchenordnung, die im Amt Schillingsfürst bis 1578 gehalten wurde",
+        "pages": "226-227",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "24. Verbot des Weinschenkens für die Öhringer Kirchendiener",
+        "pages": "228-229",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "28. Verbot der öffentlichen Kirchenzucht",
+        "pages": "407-409",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "29. Visitation 1581",
+        "pages": "410-423",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "30. Befehl bei Übersendung des Konkordienbuches",
+        "pages": "424-425",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "31. Befehl nach der Visitation für Öhringen",
+        "pages": "426-432",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "34. Befehl wegen der Länge der Predigten",
+        "pages": "519-520",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "35. Verbot der Kirchweihen, des Spielens und Tanzens",
+        "pages": "521-522",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "39. Weikersheimer Befehle wegen der Eheverkündigung, der Beichtpfennige und des täglichen Gebetsgottesdienstes",
+        "pages": "548-553",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "41. Gemeinsame Beschlüsse der Neuensteiner Linie",
+        "pages": "555-558",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "44. Einführung der Gesangsordnung",
+        "pages": "596-597",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "46. Befehl wegen des Almosens",
+        "pages": "616-618",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "47. Befehl zum Besuch des Katechismusunterrichts in der Passionszeit",
+        "pages": "619-620",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "48. Befehle wegen der Chorröcke und Tüchlein beim Abendmahl",
+        "pages": "621-622",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "50. Befehle zur Einführung kirchlicher Ordnungen im Amt Langenburg",
+        "pages": "624-626",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "51. Verbot des Verschleierns der Frauen beim Abendmahl",
+        "pages": "627-628",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "52. Öhringer Spitalordnung",
+        "pages": "629-638",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "53. Befehl wegen des Kirchengesangs, der Predigtlänge und der Schulvisition",
+        "pages": "639-640",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "not_a_numbered_part",
+        "part": "55. Kirchenzucht wegen vorehelicher Beziehungen",
+        "pages": "666-667",
+        "note": "This leaf has no Roman-numeral label of its own, and the bare-arabic heading pattern was tried but found nothing. Often this just means the leaf contains exactly one unnumbered document (e.g. eko7_1's Stade, whose sole church order carries neither a Roman prefix nor an arabic number) -- but if this leaf is expected to hold more than one document, it's worth a manual look."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "I. Chronologisches Register",
+        "pages": "683-688",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "2. Bibelstellenregister",
+        "pages": "689-691",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "3. Liederregister",
+        "pages": "692-696",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "4. Personen- und Ortsregister",
+        "pages": "697-702",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      },
+      {
+        "type": "non_source_section_excluded",
+        "part": "5. Sachregister",
+        "pages": "703-711",
+        "note": "Matched NON_SOURCE_SECTION_KEYWORDS (index/register or an editorial introduction) and was deliberately never scanned for document headings. Kept as one undivided unit by design, not by omission."
+      }
+    ],
+    "boundaries": [
+      {
+        "citation_key": "",
+        "heading_source": "front_matter",
+        "doc_title": "Front matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0001",
+        "last_printed_page": null,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Sigla und Abkürzungen",
+        "doc_year": null,
+        "first_printed_page": 1,
+        "first_digital_page": "0017",
+        "last_printed_page": 2,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Literatur",
+        "doc_year": null,
+        "first_printed_page": 3,
+        "first_digital_page": "0019",
+        "last_printed_page": 5,
+        "prev_doc_last_page": 2,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Das Territorium und die Herrschaft",
+        "doc_year": null,
+        "first_printed_page": 6,
+        "first_digital_page": "0022",
+        "last_printed_page": 8,
+        "prev_doc_last_page": 5,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Rechtliche Verhältnisse",
+        "doc_year": null,
+        "first_printed_page": 9,
+        "first_digital_page": "0025",
+        "last_printed_page": 13,
+        "prev_doc_last_page": 8,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Gang der Kirchengeschichte",
+        "doc_year": null,
+        "first_printed_page": 14,
+        "first_digital_page": "0030",
+        "last_printed_page": 18,
+        "prev_doc_last_page": 13,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Zum Forschungsstand und dem vorgelegten Ordnungswerk",
+        "doc_year": null,
+        "first_printed_page": 19,
+        "first_digital_page": "0035",
+        "last_printed_page": 21,
+        "prev_doc_last_page": 18,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "Einführung",
+        "doc_year": null,
+        "first_printed_page": 22,
+        "first_digital_page": "0038",
+        "last_printed_page": 22,
+        "prev_doc_last_page": 21,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I",
+        "heading_source": "toc_only",
+        "doc_title": "I. Bestallung des ersten evangelischen Predigers Caspar Huberinus",
+        "doc_year": null,
+        "first_printed_page": 23,
+        "first_digital_page": "0039",
+        "last_printed_page": 23,
+        "prev_doc_last_page": 22,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "I.1",
+        "heading_source": "running_head",
+        "doc_title": "Bestallung des ersten Predigers",
+        "doc_year": "1544",
+        "first_printed_page": 24,
+        "first_digital_page": "0040",
+        "last_printed_page": 27,
+        "prev_doc_last_page": 23,
+        "matched_heading_text": "1. Bestallung des ersten Predigers 1544"
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Liederliste der Öhringer Stiftskirche ab",
+        "doc_year": "1544",
+        "first_printed_page": 28,
+        "first_digital_page": "0044",
+        "last_printed_page": 30,
+        "prev_doc_last_page": 27,
+        "matched_heading_text": "2. Liederliste der Öhringer Stiftskirche (ab 1544"
+      },
+      {
+        "citation_key": "3",
+        "heading_source": "running_head",
+        "doc_title": "Vermahnungen und Gebete",
+        "doc_year": "1544",
+        "first_printed_page": 31,
+        "first_digital_page": "0047",
+        "last_printed_page": 33,
+        "prev_doc_last_page": 30,
+        "matched_heading_text": "3. Vermahnungen und Gebete für den Gottesdienst in Ohringen 1544"
+      },
+      {
+        "citation_key": "8",
+        "heading_source": "running_head",
+        "doc_title": "So die kranken das sacrament des altars be- gern, wie man sie aufs ktirtzest vermanen und zum a~ a Ab",
+        "doc_year": "1555",
+        "first_printed_page": 34,
+        "first_digital_page": "0050",
+        "last_printed_page": 44,
+        "prev_doc_last_page": 33,
+        "matched_heading_text": "8. So die kranken das sacrament des altars be- gern, wie man sie aufs ktirtzest vermanen und zum a~ a Ab 1555"
+      },
+      {
+        "citation_key": "4",
+        "heading_source": "running_head",
+        "doc_title": "Schulordnung",
+        "doc_year": "1549",
+        "first_printed_page": 45,
+        "first_digital_page": "0061",
+        "last_printed_page": 52,
+        "prev_doc_last_page": 44,
+        "matched_heading_text": "4. Eine ordnnng, wie es in der schuell zue Öringen gehalten möchte werden Zuesamenbeschriben anno 1549"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "5. Christliche kirchenordnung der graveschaft Hohennloe etc. 1553",
+        "doc_year": null,
+        "first_printed_page": 53,
+        "first_digital_page": "0069",
+        "last_printed_page": 53,
+        "prev_doc_last_page": 52,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "5",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordmmg",
+        "doc_year": "1553",
+        "first_printed_page": 54,
+        "first_digital_page": "0070",
+        "last_printed_page": 81,
+        "prev_doc_last_page": 53,
+        "matched_heading_text": "5. Kirchenordnung 1553"
+      },
+      {
+        "citation_key": "6",
+        "heading_source": "running_head",
+        "doc_title": "Polizeiordmmg",
+        "doc_year": "1556",
+        "first_printed_page": 82,
+        "first_digital_page": "0098",
+        "last_printed_page": 87,
+        "prev_doc_last_page": 81,
+        "matched_heading_text": "6. Polizeiordnung vom 27. Januar 1556"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "7. Bestallung und Revers von Pfarrern 1556",
+        "doc_year": null,
+        "first_printed_page": 88,
+        "first_digital_page": "0104",
+        "last_printed_page": 88,
+        "prev_doc_last_page": 87,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "7",
+        "heading_source": "running_head",
+        "doc_title": "Bestallung und Revers von Pfarrern",
+        "doc_year": "1556",
+        "first_printed_page": 89,
+        "first_digital_page": "0105",
+        "last_printed_page": 92,
+        "prev_doc_last_page": 88,
+        "matched_heading_text": "7. Bestallung und Revers von Pfarrern 1556"
+      },
+      {
+        "citation_key": "8",
+        "heading_source": "running_head",
+        "doc_title": "Durchführung der Reformation",
+        "doc_year": "1556",
+        "first_printed_page": 93,
+        "first_digital_page": "0109",
+        "last_printed_page": 96,
+        "prev_doc_last_page": 92,
+        "matched_heading_text": "8. Durchführung der Reformation 1556"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "9. Reformation und Ordnung des Öhringer Stifts 1556",
+        "doc_year": null,
+        "first_printed_page": 97,
+        "first_digital_page": "0113",
+        "last_printed_page": 97,
+        "prev_doc_last_page": 96,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "9",
+        "heading_source": "running_head",
+        "doc_title": "Reformation des Öhringer Stifts",
+        "doc_year": "1556",
+        "first_printed_page": 98,
+        "first_digital_page": "0114",
+        "last_printed_page": 104,
+        "prev_doc_last_page": 97,
+        "matched_heading_text": "9. Reformation des Öhringer Stifts 1556"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "10. Stipendiatenreserve",
+        "doc_year": null,
+        "first_printed_page": 105,
+        "first_digital_page": "0121",
+        "last_printed_page": 105,
+        "prev_doc_last_page": 104,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "10",
+        "heading_source": "running_head",
+        "doc_title": "Stipendiatenreverse ab",
+        "doc_year": "1556",
+        "first_printed_page": 106,
+        "first_digital_page": "0122",
+        "last_printed_page": 110,
+        "prev_doc_last_page": 105,
+        "matched_heading_text": "10. Stipendiatenreverse ab 1556"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "11. Pfarrpräsentationsordnung",
+        "doc_year": null,
+        "first_printed_page": 111,
+        "first_digital_page": "0127",
+        "last_printed_page": 115,
+        "prev_doc_last_page": 110,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "12. Visitation 1558",
+        "doc_year": null,
+        "first_printed_page": 116,
+        "first_digital_page": "0132",
+        "last_printed_page": 133,
+        "prev_doc_last_page": 115,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "13. Polizeiordnung",
+        "doc_year": null,
+        "first_printed_page": 134,
+        "first_digital_page": "0150",
+        "last_printed_page": 145,
+        "prev_doc_last_page": 133,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "14. Befehl wegen Besuch von Gottesdiensten, Beerdigungen und Almosen",
+        "doc_year": null,
+        "first_printed_page": 146,
+        "first_digital_page": "0162",
+        "last_printed_page": 147,
+        "prev_doc_last_page": 145,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "15. Befehl wegen der Bettler und des Almosens",
+        "doc_year": null,
+        "first_printed_page": 148,
+        "first_digital_page": "0164",
+        "last_printed_page": 148,
+        "prev_doc_last_page": 147,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "alte ordnung ist ao",
+        "doc_year": "1575",
+        "first_printed_page": 149,
+        "first_digital_page": "0165",
+        "last_printed_page": 149,
+        "prev_doc_last_page": 148,
+        "matched_heading_text": "1. alte ordnung ist ao. 1575"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "16. Testament Graf Ludwig Casimirs",
+        "doc_year": null,
+        "first_printed_page": 150,
+        "first_digital_page": "0166",
+        "last_printed_page": 154,
+        "prev_doc_last_page": 149,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "17. Polizeiordnung",
+        "doc_year": null,
+        "first_printed_page": 155,
+        "first_digital_page": "0171",
+        "last_printed_page": 158,
+        "prev_doc_last_page": 154,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "18. Visitation 1571",
+        "doc_year": null,
+        "first_printed_page": 159,
+        "first_digital_page": "0175",
+        "last_printed_page": 170,
+        "prev_doc_last_page": 158,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "19. Eheordnung",
+        "doc_year": null,
+        "first_printed_page": 171,
+        "first_digital_page": "0187",
+        "last_printed_page": 172,
+        "prev_doc_last_page": 170,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Eheverpflichtung KO",
+        "doc_year": "1582",
+        "first_printed_page": 173,
+        "first_digital_page": "0189",
+        "last_printed_page": 173,
+        "prev_doc_last_page": 172,
+        "matched_heading_text": "2. Eheverpflichtung KO 1582"
+      },
+      {
+        "citation_key": "19",
+        "heading_source": "running_head",
+        "doc_title": "Eheordmmg",
+        "doc_year": "1572",
+        "first_printed_page": 174,
+        "first_digital_page": "0190",
+        "last_printed_page": 206,
+        "prev_doc_last_page": 173,
+        "matched_heading_text": "19. Eheordmmg 1572"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "20. Kanzleiordnung",
+        "doc_year": null,
+        "first_printed_page": 207,
+        "first_digital_page": "0223",
+        "last_printed_page": 209,
+        "prev_doc_last_page": 206,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "9",
+        "heading_source": "running_head",
+        "doc_title": "12",
+        "doc_year": "1568",
+        "first_printed_page": 210,
+        "first_digital_page": "0226",
+        "last_printed_page": 210,
+        "prev_doc_last_page": 209,
+        "matched_heading_text": "9. 12. 1568"
+      },
+      {
+        "citation_key": "20",
+        "heading_source": "running_head",
+        "doc_title": "Kanzleiordnung",
+        "doc_year": "1574",
+        "first_printed_page": 211,
+        "first_digital_page": "0227",
+        "last_printed_page": 213,
+        "prev_doc_last_page": 210,
+        "matched_heading_text": "20. Kanzleiordnung 1574"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "21. Registratorenordnung",
+        "doc_year": null,
+        "first_printed_page": 214,
+        "first_digital_page": "0230",
+        "last_printed_page": 218,
+        "prev_doc_last_page": 213,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "6",
+        "heading_source": "running_head",
+        "doc_title": "Acta, die pfarren, kirchen und schuelen ampts Ingelfingen, d-d Weikersheimer Änderung in der Vorlage von",
+        "doc_year": "1575",
+        "first_printed_page": 219,
+        "first_digital_page": "0235",
+        "last_printed_page": 219,
+        "prev_doc_last_page": 218,
+        "matched_heading_text": "6. Acta, die pfarren, kirchen und schuelen ampts Ingelfingen, d-d Weikersheimer Änderung in der Vorlage von 1575"
+      },
+      {
+        "citation_key": "21",
+        "heading_source": "running_head",
+        "doc_title": "Registratorenordnung",
+        "doc_year": "1575",
+        "first_printed_page": 220,
+        "first_digital_page": "0236",
+        "last_printed_page": 220,
+        "prev_doc_last_page": 219,
+        "matched_heading_text": "21. Registratorenordnung 1575"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "22. Reverse der Pfarrer von Hollenbach und Adolzhausen an den Deutschen Orden",
+        "doc_year": null,
+        "first_printed_page": 221,
+        "first_digital_page": "0237",
+        "last_printed_page": 225,
+        "prev_doc_last_page": 220,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "23. Kirchenordnung, die im Amt Schillingsfürst bis 1578 gehalten wurde",
+        "doc_year": null,
+        "first_printed_page": 226,
+        "first_digital_page": "0242",
+        "last_printed_page": 227,
+        "prev_doc_last_page": 225,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "24. Verbot des Weinschenkens für die Öhringer Kirchendiener",
+        "doc_year": null,
+        "first_printed_page": 228,
+        "first_digital_page": "0244",
+        "last_printed_page": 229,
+        "prev_doc_last_page": 227,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "25. Kirchenordnung 1578",
+        "doc_year": null,
+        "first_printed_page": 230,
+        "first_digital_page": "0246",
+        "last_printed_page": 231,
+        "prev_doc_last_page": 229,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "4",
+        "heading_source": "running_head",
+        "doc_title": "Artikel und clie form, wie man taufen solle, mit angehenkten nottwentigen cautelen, die sich bey cler tauf zutragen mögten. (Dieser Artikel stimme mit der bisherigen Form der Brand. KO",
+        "doc_year": "1533",
+        "first_printed_page": 232,
+        "first_digital_page": "0248",
+        "last_printed_page": 232,
+        "prev_doc_last_page": 231,
+        "matched_heading_text": "4. Artikel und clie form, wie man taufen solle, mit angehenkten nottwentigen cautelen, die sich bey cler tauf zutragen mögten. (Dieser Artikel stimme mit der bisherigen Form der Brand. KO 1533"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0249",
+        "last_printed_page": null,
+        "prev_doc_last_page": 232,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "25. Kirchenordnung 1578",
+        "doc_year": null,
+        "first_printed_page": 233,
+        "first_digital_page": "0251",
+        "last_printed_page": 233,
+        "prev_doc_last_page": null,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "24",
+        "heading_source": "running_head",
+        "doc_title": "8",
+        "doc_year": "1577",
+        "first_printed_page": 234,
+        "first_digital_page": "0252",
+        "last_printed_page": 235,
+        "prev_doc_last_page": 233,
+        "matched_heading_text": "24. 8. 1577"
+      },
+      {
+        "citation_key": "25",
+        "heading_source": "running_head",
+        "doc_title": "Kirchenordmmg",
+        "doc_year": "1578",
+        "first_printed_page": 236,
+        "first_digital_page": "0254",
+        "last_printed_page": 353,
+        "prev_doc_last_page": 235,
+        "matched_heading_text": "25. Kirchenordnung 1578"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "26. Kapitels- und Visitationsordnung",
+        "doc_year": null,
+        "first_printed_page": 354,
+        "first_digital_page": "0372",
+        "last_printed_page": 367,
+        "prev_doc_last_page": 353,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "3",
+        "heading_source": "running_head",
+        "doc_title": "Item, wie oft im jarr er das nachtmahl unsers tikelgruppe, eingeklammerte Zahlen nur eine lose Abhängigkeit. Die angeführten Artikel von",
+        "doc_year": "1581",
+        "first_printed_page": 368,
+        "first_digital_page": "0386",
+        "last_printed_page": 368,
+        "prev_doc_last_page": 367,
+        "matched_heading_text": "3. Item, wie oft im jarr er das nachtmahl unsers tikelgruppe, eingeklammerte Zahlen nur eine lose Abhängigkeit. Die angeführten Artikel von 1581"
+      },
+      {
+        "citation_key": "23",
+        "heading_source": "running_head",
+        "doc_title": "Ob sie die kirchendiener unserer zugeordneter c KO",
+        "doc_year": "1582",
+        "first_printed_page": 369,
+        "first_digital_page": "0387",
+        "last_printed_page": 369,
+        "prev_doc_last_page": 368,
+        "matched_heading_text": "23. Ob sie die kirchendiener unserer zugeordneter c KO 1582"
+      },
+      {
+        "citation_key": "26",
+        "heading_source": "running_head",
+        "doc_title": "Kapitels- und Yisitationsordmmg",
+        "doc_year": "1579",
+        "first_printed_page": 370,
+        "first_digital_page": "0388",
+        "last_printed_page": 382,
+        "prev_doc_last_page": 369,
+        "matched_heading_text": "26. Kapitels- und Visitationsordnung 1579"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "27. Konsistorialordnung",
+        "doc_year": null,
+        "first_printed_page": 383,
+        "first_digital_page": "0401",
+        "last_printed_page": 403,
+        "prev_doc_last_page": 382,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "10",
+        "heading_source": "running_head",
+        "doc_title": "12",
+        "doc_year": "1586",
+        "first_printed_page": 404,
+        "first_digital_page": "0422",
+        "last_printed_page": 404,
+        "prev_doc_last_page": 403,
+        "matched_heading_text": "10. 12. 1586"
+      },
+      {
+        "citation_key": "27",
+        "heading_source": "running_head",
+        "doc_title": "Konsistorialordnung",
+        "doc_year": "1579",
+        "first_printed_page": 405,
+        "first_digital_page": "0423",
+        "last_printed_page": 405,
+        "prev_doc_last_page": 404,
+        "matched_heading_text": "27. Konsistorialordnung 1579"
+      },
+      {
+        "citation_key": "28",
+        "heading_source": "running_head",
+        "doc_title": "Konsistorialordnung",
+        "doc_year": "1579",
+        "first_printed_page": 406,
+        "first_digital_page": "0424",
+        "last_printed_page": 406,
+        "prev_doc_last_page": 405,
+        "matched_heading_text": "28. Konsistorialordnung 1579"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "28. Verbot der öffentlichen Kirchenzucht",
+        "doc_year": null,
+        "first_printed_page": 407,
+        "first_digital_page": "0425",
+        "last_printed_page": 409,
+        "prev_doc_last_page": 406,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "29. Visitation 1581",
+        "doc_year": null,
+        "first_printed_page": 410,
+        "first_digital_page": "0428",
+        "last_printed_page": 423,
+        "prev_doc_last_page": 409,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "30. Befehl bei Übersendung des Konkordienbuches",
+        "doc_year": null,
+        "first_printed_page": 424,
+        "first_digital_page": "0442",
+        "last_printed_page": 425,
+        "prev_doc_last_page": 423,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "31. Befehl nach der Visitation für Öhringen",
+        "doc_year": null,
+        "first_printed_page": 426,
+        "first_digital_page": "0444",
+        "last_printed_page": 432,
+        "prev_doc_last_page": 425,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "32. Kirchen- und Schulordnungen 1582",
+        "doc_year": null,
+        "first_printed_page": 433,
+        "first_digital_page": "0451",
+        "last_printed_page": 435,
+        "prev_doc_last_page": 432,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "Von besetzung und zusamenerforderung des consistorii. C 1. — ad titulo3 der KonsistorialO",
+        "doc_year": "1579",
+        "first_printed_page": 436,
+        "first_digital_page": "0454",
+        "last_printed_page": 445,
+        "prev_doc_last_page": 435,
+        "matched_heading_text": "1. Von besetzung und zusamenerforderung des consistorii. C 1. — ad titulo3 der KonsistorialO. 1579"
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Abs. v Diese Bestimmung flndet sich entsprechend als Änderung in Prot",
+        "doc_year": "1581",
+        "first_printed_page": 446,
+        "first_digital_page": "0464",
+        "last_printed_page": 463,
+        "prev_doc_last_page": 445,
+        "matched_heading_text": "2. Abs. v Diese Bestimmung flndet sich entsprechend als Änderung in Prot. 1581"
+      },
+      {
+        "citation_key": "5",
+        "heading_source": "running_head",
+        "doc_title": "Yon falsclier lehr und irrtumbs halben in glaubenssachen Wörtlichwie KonsistorialO",
+        "doc_year": "1579",
+        "first_printed_page": 464,
+        "first_digital_page": "0482",
+        "last_printed_page": 483,
+        "prev_doc_last_page": 463,
+        "matched_heading_text": "5. Yon falsclier lehr und irrtumbs halben in glaubenssachen Wörtlichwie KonsistorialO. 1579"
+      },
+      {
+        "citation_key": "27",
+        "heading_source": "running_head",
+        "doc_title": "Ob er auch, wenn frembde leut offentlich zu tra- wen begehren, zuvor ordenliche und geburliche zeug- 50 Bezug auf KO",
+        "doc_year": "1578",
+        "first_printed_page": 484,
+        "first_digital_page": "0502",
+        "last_printed_page": 484,
+        "prev_doc_last_page": 483,
+        "matched_heading_text": "27. Ob er auch, wenn frembde leut offentlich zu tra- wen begehren, zuvor ordenliche und geburliche zeug- 50 Bezug auf KO 1578"
+      },
+      {
+        "citation_key": "40",
+        "heading_source": "running_head",
+        "doc_title": "Ob er auch mit unzuchtigen, unverschaumpten, 57 Statt Satzende in Sächs. KO",
+        "doc_year": "1580",
+        "first_printed_page": 485,
+        "first_digital_page": "0503",
+        "last_printed_page": 508,
+        "prev_doc_last_page": 484,
+        "matched_heading_text": "40. Ob er auch mit unzuchtigen, unverschaumpten, 57 Statt Satzende in Sächs. KO 1580"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "33. Polizei- und Eheordnung",
+        "doc_year": null,
+        "first_printed_page": 509,
+        "first_digital_page": "0527",
+        "last_printed_page": 514,
+        "prev_doc_last_page": 508,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Vom wort Gottes und hörung desselbi- gen Siehe PO",
+        "doc_year": "1558",
+        "first_printed_page": 515,
+        "first_digital_page": "0533",
+        "last_printed_page": 515,
+        "prev_doc_last_page": 514,
+        "matched_heading_text": "2. Vom wort Gottes und hörung desselbi- gen Siehe PO 1558"
+      },
+      {
+        "citation_key": "11",
+        "heading_source": "running_head",
+        "doc_title": "Von hurerey, ehebruch und anderer unzucht Den entsprechenden Abschnitt aus der KO",
+        "doc_year": "1582",
+        "first_printed_page": 516,
+        "first_digital_page": "0534",
+        "last_printed_page": 516,
+        "prev_doc_last_page": 515,
+        "matched_heading_text": "11. Von hurerey, ehebruch und anderer unzucht Den entsprechenden Abschnitt aus der KO 1582"
+      },
+      {
+        "citation_key": "33",
+        "heading_source": "running_head",
+        "doc_title": "Polizei- und Eheordnung",
+        "doc_year": "1583",
+        "first_printed_page": 517,
+        "first_digital_page": "0535",
+        "last_printed_page": 518,
+        "prev_doc_last_page": 516,
+        "matched_heading_text": "33. Polizei- und Eheordnung 1583"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "34. Befehl wegen der Länge der Predigten",
+        "doc_year": null,
+        "first_printed_page": 519,
+        "first_digital_page": "0537",
+        "last_printed_page": 520,
+        "prev_doc_last_page": 518,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "35. Verbot der Kirchweihen, des Spielens und Tanzens",
+        "doc_year": null,
+        "first_printed_page": 521,
+        "first_digital_page": "0539",
+        "last_printed_page": 522,
+        "prev_doc_last_page": 520,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "36. Amtsordnung",
+        "doc_year": null,
+        "first_printed_page": 523,
+        "first_digital_page": "0541",
+        "last_printed_page": 523,
+        "prev_doc_last_page": 522,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "4",
+        "doc_year": "1608",
+        "first_printed_page": 524,
+        "first_digital_page": "0542",
+        "last_printed_page": 530,
+        "prev_doc_last_page": 523,
+        "matched_heading_text": "1. 4. 1608"
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "Sonntagsmorgenpredigt. Die angegebenen Lieder siebe GesangsO",
+        "doc_year": "1596",
+        "first_printed_page": 531,
+        "first_digital_page": "0549",
+        "last_printed_page": 531,
+        "prev_doc_last_page": 530,
+        "matched_heading_text": "2. Sonntagsmorgenpredigt. Die angegebenen Lieder siebe GesangsO. 1596"
+      },
+      {
+        "citation_key": "4",
+        "heading_source": "running_head",
+        "doc_title": "Freytagspredigten, 5. Yesper. Die angegebenen Lieder siehe GesangsO",
+        "doc_year": "1596",
+        "first_printed_page": 532,
+        "first_digital_page": "0550",
+        "last_printed_page": 535,
+        "prev_doc_last_page": 531,
+        "matched_heading_text": "4. Freytagspredigten, 5. Yesper. Die angegebenen Lieder siehe GesangsO. 1596"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "38. Neuensteiner Befehle in Kriegsgefahr, besonders wegen des täglichen Gebetsgottesdienstes",
+        "doc_year": null,
+        "first_printed_page": 536,
+        "first_digital_page": "0554",
+        "last_printed_page": 537,
+        "prev_doc_last_page": 535,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "Februarii anno 88. d. Wiederholter Befehl an die Amtsdiener von",
+        "doc_year": "1588",
+        "first_printed_page": 538,
+        "first_digital_page": "0556",
+        "last_printed_page": 547,
+        "prev_doc_last_page": 537,
+        "matched_heading_text": "1. Februarii anno 88. d. Wiederholter Befehl an die Amtsdiener von 1588"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "39. Weikersheimer Befehle wegen der Eheverkündigung, der Beichtpfennige und des täglichen Gebetsgottesdienstes",
+        "doc_year": null,
+        "first_printed_page": 548,
+        "first_digital_page": "0566",
+        "last_printed_page": 553,
+        "prev_doc_last_page": 547,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 554,
+        "first_digital_page": "0572",
+        "last_printed_page": 554,
+        "prev_doc_last_page": 553,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "41. Gemeinsame Beschlüsse der Neuensteiner Linie",
+        "doc_year": null,
+        "first_printed_page": 555,
+        "first_digital_page": "0573",
+        "last_printed_page": 558,
+        "prev_doc_last_page": 554,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "42. Eide, Reserve und Bestallungen der Kirchendiener",
+        "doc_year": null,
+        "first_printed_page": 559,
+        "first_digital_page": "0577",
+        "last_printed_page": 569,
+        "prev_doc_last_page": 558,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "2",
+        "heading_source": "running_head",
+        "doc_title": "12",
+        "doc_year": "1631",
+        "first_printed_page": 570,
+        "first_digital_page": "0588",
+        "last_printed_page": 570,
+        "prev_doc_last_page": 569,
+        "matched_heading_text": "2. 12. 1631"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "43. Polizei- und Rügordnung",
+        "doc_year": null,
+        "first_printed_page": 571,
+        "first_digital_page": "0589",
+        "last_printed_page": 571,
+        "prev_doc_last_page": 570,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "Seite: Billingshäußer dorfsonderung. Anno",
+        "doc_year": "1569",
+        "first_printed_page": 572,
+        "first_digital_page": "0590",
+        "last_printed_page": 573,
+        "prev_doc_last_page": 571,
+        "matched_heading_text": "1. Seite: Billingshäußer dorfsonderung. Anno 1569"
+      },
+      {
+        "citation_key": "22",
+        "heading_source": "running_head",
+        "doc_title": "2",
+        "doc_year": "1608",
+        "first_printed_page": 574,
+        "first_digital_page": "0592",
+        "last_printed_page": 574,
+        "prev_doc_last_page": 573,
+        "matched_heading_text": "22. 2. 1608"
+      },
+      {
+        "citation_key": "43",
+        "heading_source": "running_head",
+        "doc_title": "Polizei- und Rügordnung",
+        "doc_year": "1588",
+        "first_printed_page": 575,
+        "first_digital_page": "0593",
+        "last_printed_page": 595,
+        "prev_doc_last_page": 574,
+        "matched_heading_text": "43. Polizei- und Rügordnung 1588"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "44. Einführung der Gesangsordnung",
+        "doc_year": null,
+        "first_printed_page": 596,
+        "first_digital_page": "0614",
+        "last_printed_page": 597,
+        "prev_doc_last_page": 595,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "45. Visitationsordnung",
+        "doc_year": null,
+        "first_printed_page": 598,
+        "first_digital_page": "0616",
+        "last_printed_page": 598,
+        "prev_doc_last_page": 597,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "7",
+        "heading_source": "running_head",
+        "doc_title": "S. 24 Mitte. Nassau",
+        "doc_year": "1589",
+        "first_printed_page": 599,
+        "first_digital_page": "0617",
+        "last_printed_page": 604,
+        "prev_doc_last_page": 598,
+        "matched_heading_text": "7. S. 24 Mitte. Nassau 1589"
+      },
+      {
+        "citation_key": "12",
+        "heading_source": "running_head",
+        "doc_title": "Item, mit was fleiß er die kranken und ster- v-v Öhringen: Ob auch... gehalten. 17 In den Entwürfen B und C wird die GesangsO",
+        "doc_year": "1589",
+        "first_printed_page": 605,
+        "first_digital_page": "0623",
+        "last_printed_page": 610,
+        "prev_doc_last_page": 604,
+        "matched_heading_text": "12. Item, mit was fleiß er die kranken und ster- v-v Öhringen: Ob auch... gehalten. 17 In den Entwürfen B und C wird die GesangsO. 1589"
+      },
+      {
+        "citation_key": "29",
+        "heading_source": "running_head",
+        "doc_title": "Ob der  0 schulmeister iemand seines lohns 56 KO",
+        "doc_year": "1578",
+        "first_printed_page": 611,
+        "first_digital_page": "0629",
+        "last_printed_page": 611,
+        "prev_doc_last_page": 610,
+        "matched_heading_text": "29. Ob der  0 schulmeister iemand seines lohns 56 KO 1578"
+      },
+      {
+        "citation_key": "45",
+        "heading_source": "running_head",
+        "doc_title": "Yisitationsordnung",
+        "doc_year": "1589",
+        "first_printed_page": 612,
+        "first_digital_page": "0630",
+        "last_printed_page": 615,
+        "prev_doc_last_page": 611,
+        "matched_heading_text": "45. Yisitationsordnung 1589"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "46. Befehl wegen des Almosens",
+        "doc_year": null,
+        "first_printed_page": 616,
+        "first_digital_page": "0634",
+        "last_printed_page": 618,
+        "prev_doc_last_page": 615,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "47. Befehl zum Besuch des Katechismusunterrichts in der Passionszeit",
+        "doc_year": null,
+        "first_printed_page": 619,
+        "first_digital_page": "0637",
+        "last_printed_page": 620,
+        "prev_doc_last_page": 618,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "48. Befehle wegen der Chorröcke und Tüchlein beim Abendmahl",
+        "doc_year": null,
+        "first_printed_page": 621,
+        "first_digital_page": "0639",
+        "last_printed_page": 622,
+        "prev_doc_last_page": 620,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 623,
+        "first_digital_page": "0641",
+        "last_printed_page": 623,
+        "prev_doc_last_page": 622,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "50. Befehle zur Einführung kirchlicher Ordnungen im Amt Langenburg",
+        "doc_year": null,
+        "first_printed_page": 624,
+        "first_digital_page": "0642",
+        "last_printed_page": 626,
+        "prev_doc_last_page": 623,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "51. Verbot des Verschleierns der Frauen beim Abendmahl",
+        "doc_year": null,
+        "first_printed_page": 627,
+        "first_digital_page": "0645",
+        "last_printed_page": 628,
+        "prev_doc_last_page": 626,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "52. Öhringer Spitalordnung",
+        "doc_year": null,
+        "first_printed_page": 629,
+        "first_digital_page": "0647",
+        "last_printed_page": 638,
+        "prev_doc_last_page": 628,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "53. Befehl wegen des Kirchengesangs, der Predigtlänge und der Schulvisition",
+        "doc_year": null,
+        "first_printed_page": 639,
+        "first_digital_page": "0657",
+        "last_printed_page": 640,
+        "prev_doc_last_page": 638,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "54. Schul- und Gesangsordnung samt Verbesserungen der Kirchenzeremonien",
+        "doc_year": null,
+        "first_printed_page": 641,
+        "first_digital_page": "0659",
+        "last_printed_page": 660,
+        "prev_doc_last_page": 640,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "5",
+        "heading_source": "running_head",
+        "doc_title": "266. 5 Von Veit Dietrich. 6 Die vorstehende Vergleichung von",
+        "doc_year": "1595",
+        "first_printed_page": 661,
+        "first_digital_page": "0679",
+        "last_printed_page": 664,
+        "prev_doc_last_page": 660,
+        "matched_heading_text": "5. 266. 5 Von Veit Dietrich. 6 Die vorstehende Vergleichung von 1595"
+      },
+      {
+        "citation_key": "24",
+        "heading_source": "running_head",
+        "doc_title": "Januarii ao. etc",
+        "doc_year": "1597",
+        "first_printed_page": 665,
+        "first_digital_page": "0683",
+        "last_printed_page": 665,
+        "prev_doc_last_page": 664,
+        "matched_heading_text": "24. Januarii ao. etc. 1597"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "55. Kirchenzucht wegen vorehelicher Beziehungen",
+        "doc_year": null,
+        "first_printed_page": 666,
+        "first_digital_page": "0684",
+        "last_printed_page": 667,
+        "prev_doc_last_page": 665,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "56. Erb- Teilungsverträge",
+        "doc_year": null,
+        "first_printed_page": 668,
+        "first_digital_page": "0686",
+        "last_printed_page": 670,
+        "prev_doc_last_page": 667,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "1",
+        "heading_source": "running_head",
+        "doc_title": "Yon folio 1 biß 14 ists de verbo ad verbmn auß dem weickersheimischen informationlibel genommen. (Die RegimentsO. findet sich Bl. 2-6.) c. Waldenburger Regimentsordnungsrezeß vom 3. 12",
+        "doc_year": "1615",
+        "first_printed_page": 671,
+        "first_digital_page": "0689",
+        "last_printed_page": 681,
+        "prev_doc_last_page": 670,
+        "matched_heading_text": "1. Yon folio 1 biß 14 ists de verbo ad verbmn auß dem weickersheimischen informationlibel genommen. (Die RegimentsO. findet sich Bl. 2-6.) c. Waldenburger Regimentsordnungsrezeß vom 3. 12. 1615"
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": 682,
+        "first_digital_page": "0700",
+        "last_printed_page": 682,
+        "prev_doc_last_page": 681,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "I. Chronologisches Register",
+        "doc_year": null,
+        "first_printed_page": 683,
+        "first_digital_page": "0701",
+        "last_printed_page": 688,
+        "prev_doc_last_page": 682,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "2. Bibelstellenregister",
+        "doc_year": null,
+        "first_printed_page": 689,
+        "first_digital_page": "0707",
+        "last_printed_page": 691,
+        "prev_doc_last_page": 688,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "3. Liederregister",
+        "doc_year": null,
+        "first_printed_page": 692,
+        "first_digital_page": "0710",
+        "last_printed_page": 696,
+        "prev_doc_last_page": 691,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "4. Personen- und Ortsregister",
+        "doc_year": null,
+        "first_printed_page": 697,
+        "first_digital_page": "0715",
+        "last_printed_page": 702,
+        "prev_doc_last_page": 696,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "toc_only",
+        "doc_title": "5. Sachregister",
+        "doc_year": null,
+        "first_printed_page": 703,
+        "first_digital_page": "0721",
+        "last_printed_page": 711,
+        "prev_doc_last_page": 702,
+        "matched_heading_text": null
+      },
+      {
+        "citation_key": "",
+        "heading_source": "back_matter",
+        "doc_title": "Back matter",
+        "doc_year": null,
+        "first_printed_page": null,
+        "first_digital_page": "0730",
+        "last_printed_page": null,
+        "prev_doc_last_page": 711,
+        "matched_heading_text": null
+      }
+    ]
+  }
+}

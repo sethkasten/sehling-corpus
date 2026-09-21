@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Quellen- Literaturverzeichnis",
+    "start_page": 2,
+    "end_page": 23,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0022",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen- Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Reutlingen",
+    "start_page": 25,
+    "end_page": 58,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0045",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Reutlingen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 27,
+    "end_page": 35,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0047",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 36,
+    "end_page": 58,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0056",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Ulm",
+    "start_page": 59,
+    "end_page": 308,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0079",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Ulm",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 61,
+    "end_page": 85,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0081",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 86,
+    "end_page": 308,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0106",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Esslingen",
+    "start_page": 309,
+    "end_page": 413,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0329",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Esslingen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 311,
+    "end_page": 328,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0331",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 329,
+    "end_page": 413,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0349",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Giengen an der Brenz",
+    "start_page": 415,
+    "end_page": 428,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0435",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Giengen an der Brenz",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 417,
+    "end_page": 422,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0437",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 423,
+    "end_page": 428,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0443",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Biberach an der Riß",
+    "start_page": 429,
+    "end_page": 454,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0449",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Biberach an der Riß",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 431,
+    "end_page": 438,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0451",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 439,
+    "end_page": 454,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0459",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "VI. Ravensburg",
+    "start_page": 455,
+    "end_page": 506,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0475",
+    "level": 0,
+    "part_roman": "VI",
+    "place_label": "Ravensburg",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 457,
+    "end_page": 470,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0477",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 471,
+    "end_page": 506,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0491",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "VII. Wimpfen",
+    "start_page": 507,
+    "end_page": 531,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0527",
+    "level": 0,
+    "part_roman": "VII",
+    "place_label": "Wimpfen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 509,
+    "end_page": 515,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0529",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 516,
+    "end_page": 531,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0536",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "VIII. Leutkirch",
+    "start_page": 533,
+    "end_page": 548,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0553",
+    "level": 0,
+    "part_roman": "VIII",
+    "place_label": "Leutkirch",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 535,
+    "end_page": 539,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0555",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 540,
+    "end_page": 548,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0560",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "IX. Bopfingen",
+    "start_page": 549,
+    "end_page": 559,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0569",
+    "level": 0,
+    "part_roman": "IX",
+    "place_label": "Bopfingen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 551,
+    "end_page": 554,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0571",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 555,
+    "end_page": 559,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0575",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "X. Aalen",
+    "start_page": 561,
+    "end_page": 571,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0581",
+    "level": 0,
+    "part_roman": "X",
+    "place_label": "Aalen",
+    "is_source_part": true
+  },
+  {
+    "title": "Einleitung",
+    "start_page": 563,
+    "end_page": 565,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0583",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einleitung",
+    "is_source_part": false
+  },
+  {
+    "title": "Edition",
+    "start_page": 566,
+    "end_page": 571,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0586",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Edition",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 573,
+    "end_page": 592,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0593",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Bibelstellen",
+    "start_page": 573,
+    "end_page": 578,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0593",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Bibelstellen",
+    "is_source_part": true
+  },
+  {
+    "title": "2. Personen",
+    "start_page": 579,
+    "end_page": 581,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0599",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "2. Personen",
+    "is_source_part": true
+  },
+  {
+    "title": "3. Orte",
+    "start_page": 582,
+    "end_page": 584,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0602",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "3. Orte",
+    "is_source_part": true
+  },
+  {
+    "title": "5. Sachen",
+    "start_page": 586,
+    "end_page": 592,
+    "href": "https://digi.hadw-bw.de/view/eko17_2/0606",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "5. Sachen",
+    "is_source_part": true
+  }
+]

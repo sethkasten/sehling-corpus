@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Quellen-und Literaturverzeichnis",
+    "start_page": 2,
+    "end_page": 24,
+    "href": "https://digi.hadw-bw.de/view/eko9/0022",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Quellen-und Literaturverzeichnis",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Die geteilte Landgrafschaft Hessen 1582 - 1618",
+    "start_page": 25,
+    "end_page": 156,
+    "href": "https://digi.hadw-bw.de/view/eko9/0045",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Die geteilte Landgrafschaft Hessen 1582 - 1618",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Die Grafschaft Waldeck",
+    "start_page": 157,
+    "end_page": 305,
+    "href": "https://digi.hadw-bw.de/view/eko9/0177",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Die Grafschaft Waldeck",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Die Grafschaft Solms",
+    "start_page": 307,
+    "end_page": 407,
+    "href": "https://digi.hadw-bw.de/view/eko9/0327",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Die Grafschaft Solms",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Die Grafschaft Erbach",
+    "start_page": 409,
+    "end_page": 459,
+    "href": "https://digi.hadw-bw.de/view/eko9/0429",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Die Grafschaft Erbach",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Die Grafschaft Stolberg - Königstein",
+    "start_page": 461,
+    "end_page": 468,
+    "href": "https://digi.hadw-bw.de/view/eko9/0481",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Die Grafschaft Stolberg - Königstein",
+    "is_source_part": true
+  },
+  {
+    "title": "VI. Die Reichsstadt Frankfurt",
+    "start_page": 469,
+    "end_page": 615,
+    "href": "https://digi.hadw-bw.de/view/eko9/0489",
+    "level": 0,
+    "part_roman": "VI",
+    "place_label": "Die Reichsstadt Frankfurt",
+    "is_source_part": true
+  },
+  {
+    "title": "VII. Reichsburg und Reichsstadt Friedberg",
+    "start_page": 617,
+    "end_page": 638,
+    "href": "https://digi.hadw-bw.de/view/eko9/0637",
+    "level": 0,
+    "part_roman": "VII",
+    "place_label": "Reichsburg und Reichsstadt Friedberg",
+    "is_source_part": true
+  },
+  {
+    "title": "VIII. Die Reichsstadt Gelnhausen",
+    "start_page": 639,
+    "end_page": 661,
+    "href": "https://digi.hadw-bw.de/view/eko9/0659",
+    "level": 0,
+    "part_roman": "VIII",
+    "place_label": "Die Reichsstadt Gelnhausen",
+    "is_source_part": true
+  },
+  {
+    "title": "IX. Die Reichsstadt Wetzlar",
+    "start_page": 663,
+    "end_page": 679,
+    "href": "https://digi.hadw-bw.de/view/eko9/0683",
+    "level": 0,
+    "part_roman": "IX",
+    "place_label": "Die Reichsstadt Wetzlar",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 681,
+    "end_page": 705,
+    "href": "https://digi.hadw-bw.de/view/eko9/0701",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]

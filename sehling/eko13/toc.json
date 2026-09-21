@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Einführung",
+    "start_page": 1,
+    "end_page": 14,
+    "href": "https://digi.hadw-bw.de/view/eko13/0021",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Einführung",
+    "is_source_part": false
+  },
+  {
+    "title": "I. Herzogtum Pfalz - Neuburg",
+    "start_page": 15,
+    "end_page": 249,
+    "href": "https://digi.hadw-bw.de/view/eko13/0035",
+    "level": 0,
+    "part_roman": "I",
+    "place_label": "Herzogtum Pfalz - Neuburg",
+    "is_source_part": true
+  },
+  {
+    "title": "II. Kurfürstentum Pfalz, Landesteil Oberpfalz (Kuroberpfalz)",
+    "start_page": 251,
+    "end_page": 359,
+    "href": "https://digi.hadw-bw.de/view/eko13/0271",
+    "level": 0,
+    "part_roman": "II",
+    "place_label": "Kurfürstentum Pfalz",
+    "is_source_part": true
+  },
+  {
+    "title": "III. Reichsstadt Regensburg",
+    "start_page": 361,
+    "end_page": 519,
+    "href": "https://digi.hadw-bw.de/view/eko13/0381",
+    "level": 0,
+    "part_roman": "III",
+    "place_label": "Regensburg",
+    "is_source_part": true
+  },
+  {
+    "title": "IV. Grafschaft Ortenburg",
+    "start_page": 521,
+    "end_page": 536,
+    "href": "https://digi.hadw-bw.de/view/eko13/0541",
+    "level": 0,
+    "part_roman": "IV",
+    "place_label": "Ortenburg",
+    "is_source_part": true
+  },
+  {
+    "title": "V. Herrschaft Rothenberg",
+    "start_page": 537,
+    "end_page": 558,
+    "href": "https://digi.hadw-bw.de/view/eko13/0557",
+    "level": 0,
+    "part_roman": "V",
+    "place_label": "Rothenberg",
+    "is_source_part": true
+  },
+  {
+    "title": "VI. Herrschaft Wolfstein",
+    "start_page": 559,
+    "end_page": 596,
+    "href": "https://digi.hadw-bw.de/view/eko13/0579",
+    "level": 0,
+    "part_roman": "VI",
+    "place_label": "Wolfstein",
+    "is_source_part": true
+  },
+  {
+    "title": "Register",
+    "start_page": 597,
+    "end_page": 618,
+    "href": "https://digi.hadw-bw.de/view/eko13/0617",
+    "level": 0,
+    "part_roman": null,
+    "place_label": "Register",
+    "is_source_part": false
+  }
+]
