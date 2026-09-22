@@ -12,9 +12,14 @@ specifically.
 py hymn_tables/build_hymn_db.py
 ```
 
+**`hymns.db` is committed** (1.2 MB), so you can query it straight away
+without building anything. Rebuild only if you change a parser or a
+source.
+
 The builder reads the pre-extracted `hymn_tables/rows_*.json` files, not
-the corpus, so it needs **no `eko.db`** — it runs in about a second and
-produces roughly 240 KB. Like `eko.db`, it always rebuilds from scratch.
+the corpus, so it needs **no `eko.db`** — it runs in about a second. Like
+`eko.db`, it always rebuilds from scratch, so a rebuild overwrites the
+committed copy; commit the result if you meant to change it.
 
 `build_hymn_db.py` loads only the Sehling orders. The hymnal and
 compilation sources are added by a second step, which must follow it:

@@ -14,5 +14,9 @@ For Hymn tables guide see `HYMN_GUIDE.md`
 | `eko.db` | Full-text search over the corpus + Sehling's own registers | `build_database.py` |
 | `hymns.db` | Chief-hymn prescriptions by Sunday and feast, with English titles | `hymn_tables/build_hymn_db.py` |
 
-Both databases are build artifacts and are gitignored — rebuild them
-rather than looking for them in the repo.
+`hymns.db` is committed (1.2 MB) so it can be queried without building
+anything. `eko.db` is not — at 121 MB it is too large for GitHub, and is
+gitignored; build it with `build_database.py`.
+
+Both are reproducible from the sources in this repo, so if `hymns.db`
+ever disagrees with the parsers, rebuild it and trust the rebuild.
