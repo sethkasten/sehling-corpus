@@ -5,6 +5,10 @@
 `eko_reg_6_7_linked.json`). See `CORPUS_GUIDE.md` for what the corpus
 itself is; this covers the database specifically.
 
+A second, much smaller database — `hymns.db` — is derived from this one
+and covers the corpus's chief-hymn prescriptions by Sunday and feast.
+See `HYMN_GUIDE.md`.
+
 ## Building or rebuilding it
 
 ```
