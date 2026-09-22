@@ -74,7 +74,7 @@ OCR_FIX = [
  (r'g[ée]ttlich', 'göttlich'), (r'h[ée]chsten', 'höchsten'), (r'N[oé]+then', 'Nöthen'),
  (r'Fr[ée]lich', 'Fröhlich'), (r'sch6n', 'schön'), (r'Schd[ée]pfer', 'Schöpfer'),
  (r'\bhalt\b', 'hält'), (r'\bWar Gott\b', 'Wär Gott'), (r'Schaar', 'Schar'),
- (r'genaddig', 'gnädig'), (r'tiberwand', 'überwand'), (r'\bhéhe\b', 'Höhe'),
+ (r'genaddig', 'gnädig'), (r'tiberwand', 'überwand'), (r'H[Oé]he', 'Höhe'), (r'allmachtgen', 'allmächtgen'),
 ]
 
 def fix_ocr(s):
