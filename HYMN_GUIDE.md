@@ -22,21 +22,23 @@ compilation sources are added by a second step, which must follow it:
 ```
 py hymn_tables/build_hymn_db.py
 py hymn_tables/merge_sources.py
+py hymn_tables/merge_krusemark.py
 ```
 
-To re-extract from the corpus instead — after an OCR fix, say — re-run
+To re-extract from the sources instead — after an OCR fix, say — re-run
 the parsers. The first four *do* need `eko.db` (see `DB_GUIDE.md`), since
-they read the document text out of it; the last three read the source
-documents committed under `hymn_tables/`:
+they read the document text out of it; the rest read the source documents
+committed alongside them:
 
 ```
-py hymn_tables/parse_weissenfels.py
+py hymn_tables/parse_weissenfels.py      # these four need eko.db
 py hymn_tables/parse_pommern.py
 py hymn_tables/parse_latin.py
 py hymn_tables/parse_german.py
-py hymn_tables/parse_liliencron.py
+py hymn_tables/parse_liliencron.py       # reads the committed OCR text
 py hymn_tables/parse_ludecus.py          # needs python-docx
 py hymn_tables/parse_hotd_selnecker.py
+py hymn_tables/parse_krusemark.py        # needs PyMuPDF; reads the root PDF
 ```
 
 Each prints what it found; each also exposes a `parse()`/`parse_all()`
@@ -45,14 +47,14 @@ files are produced.
 
 ## Two layers of evidence
 
-The database holds **3,015 prescriptions** from **35 witnesses**, in two
+The database holds **4,156 prescriptions** from **48 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 466 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 2,549 | later hymnals and modern conflations, read from separate documents |
+| Hymnals and compilations | 3,690 | later hymnals and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -117,9 +119,58 @@ the 16th century.
 | Source | Rows | Witnesses | What it is |
 |---|---:|---:|---|
 | Liliencron, *de tempore* concordance (pp. 61–77) | 1,823 | 15 | Collates fifteen hymnals, 1545–1694, Sunday by Sunday |
+| Krusemark, *Hymns ABC* (2018) | 1,141 | 18 | Three-year series collating seventeen lists for the LSB one-year lectionary |
 | Hymn of the Day conflation table | 371 | 12 | Modern table collating Carpzov, Gehrke, SELK, Selnecker, Zion, LW, LSB and others |
 | Ludecus, *Ordo cantionum Germanicarum* (1589) | 309 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
+
+#### Krusemark, and why only part of it is here
+
+Krusemark collates seventeen lists (Stuckwisch, Gehrke, Reuning, Eckardt,
+LCMS, ELS, Zion Detroit, Dietrich, Judisch, Thompson, Gerhardt, Carpzov,
+Liliencron, Bach, Stiller, the LSB Hymnal Committee, and his own Years
+A/B/C), explained in his own guide on pp. 95–96.
+
+**Only his Hymn-of-the-Day entries are loaded — 1,141 of 6,925.** His
+lists also carry opening, distribution, offering and closing hymns, which
+are real data but are *not* chief hymns; mixing them in would destroy the
+meaning of this table. The full extraction, with every entry and its
+`hod` flag, hymnal siglum and number, is kept in
+`hymn_tables/rows_krusemark_raw.json` if you want the rest.
+
+**The Hymn of the Day is marked only by underlining**, and Word writes
+underlines as thin filled rectangles rather than as a text attribute — so
+`pdftotext` loses them entirely. `parse_krusemark.py` recovers them
+geometrically, matching sub-2pt rules to the spans above them. Three
+lists (Judisch, Liliencron, SELK) are wholly Hymns of the Day by
+definition and carry no underlining; they are flagged from his guide
+rather than from the page.
+
+**His Easter numbering differs from this database's.** Krusemark counts
+Easter Day as Easter 1, so his *Easter 2, Quasimodo Geniti* is the Sunday
+recorded here as `Easter 1 (Quasimodogeniti)`. The mapping in
+`merge_krusemark.py` shifts them back; be careful if you re-derive
+occasions from his raw JSON, which preserves his own labels.
+
+**One overlap could not be resolved.** His *Thompson* column is Jason
+Thompson's dissertation appendix, which collates **Ludecus together with
+twelve other 16th-century lists** — and Ludecus is already in this
+database in his own right. Thompson's column does not say which of the
+thirteen a given hymn came from, so those rows cannot be deduplicated
+against the Ludecus rows. They are kept, labelled
+`Thompson, diss. App. 2 (Ludecus + twelve 16th-c. lists)`, and this is the
+one place where a witness may be counted twice. Exclude it if that
+matters to your count:
+
+```sql
+SELECT * FROM hymn_prescriptions WHERE source NOT LIKE 'Thompson%';
+```
+
+**His *Liliencron* is not the Liliencron source above.** Krusemark's is a
+single de tempore plan of c. 1700 taken from Paul Graff; the other is
+Liliencron's concordance of fifteen hymnals, where "Liliencron" is the
+compiler rather than a witness. They occupy different rows and do not
+collide.
 
 Liliencron's fifteen: Spangenberg 1545, Keuchenthal 1573, Selnecker,
 Gesius 1601, Leipzig *Geistliche Lieder* 1605, Stiphelius 1607, Augsburg
@@ -271,9 +322,10 @@ distinctions he insists on are honoured: the two Psalm 124 settings
 (Easter vs. Communion), and *Herr Gott, dich loben alle wir* (Eber, on the
 angels) against *Herr Gott, dich loben wir* (the German Te Deum).
 
-**`Hymns ABC Krusemark.pdf` is not in here.** It was referenced but failed
-to upload twice, so its guide (said to be at pp. 95–96) has not been seen
-and none of its content is represented.
+**Krusemark's non-chief-hymn entries are not loaded** — see above. And
+his PDF lives at the repo root (`Hymns_ABC_Krusemark.pdf`) rather than
+under `hymn_tables/`, since it was committed there; `parse_krusemark.py`
+reads it from that path.
 
 ## Example queries
 
