@@ -1,0 +1,3386 @@
+[
+ {
+  "occasion": "Advent 1",
+  "german": null,
+  "english": "Savior of the Nations, Come",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 1",
+  "german": null,
+  "english": "Savior of the Nations, Come",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 1",
+  "german": null,
+  "english": "Savior of the Nations, Come",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 2",
+  "german": null,
+  "english": "The Bridegroom Soon Will Call Us",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 3",
+  "german": null,
+  "english": "Ye Sons of Men, Oh, Hearken",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 3",
+  "german": null,
+  "english": "Ye Sons of Men, Oh, Hearken",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 3",
+  "german": null,
+  "english": "Ye Sons of Men, Oh, Hearken",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 4",
+  "german": null,
+  "english": "Comfort, Comfort, Ye My People",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Advent 4",
+  "german": null,
+  "english": "Comfort, Comfort, Ye My People",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas Eve",
+  "german": null,
+  "english": "All My Heart This Night Rejoices",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas Eve",
+  "german": null,
+  "english": "All My Heart This Night Rejoices",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas (Midnight)",
+  "german": null,
+  "english": "Praise God the Lord, Ye Sons of Men",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas",
+  "german": null,
+  "english": "We Praise Y ou, Jesus, at Y our Birth",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas",
+  "german": null,
+  "english": "We Praise Y ou, Jesus, at Y our Birth",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas",
+  "german": null,
+  "english": "We Praise Y ou, Jesus, at Y our Birth",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas",
+  "german": null,
+  "english": "We Praise Y ou, Jesus, at Y our Birth",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Stephen (26 Dec)",
+  "german": null,
+  "english": "Rise Again, Ye Lion-Hearted",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Stephen (26 Dec)",
+  "german": null,
+  "english": "From Heav’n the Angel Troop Came",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St John the Evangelist (27 Dec)",
+  "german": null,
+  "english": "O God, Our Lord, Thy Holy Word",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St John the Evangelist (27 Dec)",
+  "german": null,
+  "english": "O God, Our Lord, Thy Holy Word",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Innocents (28 Dec)",
+  "german": null,
+  "english": "Sweet Flowerets of the Martyr Band",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Innocents (28 Dec)",
+  "german": null,
+  "english": "Sweet Flowerets of the Martyr Band",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Innocents (28 Dec)",
+  "german": null,
+  "english": "Sweet Flowerets of the Martyr Band",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Innocents (28 Dec)",
+  "german": null,
+  "english": "If God Were Not Upon Our Side",
+  "literal_only": false,
+  "witness": "Mecklenburg hymnal (1855)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Innocents (28 Dec)",
+  "german": null,
+  "english": "From Heav’n the Angel Troop Came",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 1",
+  "german": null,
+  "english": "Let All Together Praise Our God",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 1",
+  "german": null,
+  "english": "Let All Together Praise Our God",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 1",
+  "german": null,
+  "english": "Let All Together Praise Our God",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 1",
+  "german": null,
+  "english": "From Heav’n the Angel Troop Came",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "New Year (Circumcision)",
+  "german": null,
+  "english": "O Blessed Day When First Was Poured",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "New Year (Circumcision)",
+  "german": null,
+  "english": "O Blessed Day When First Was Poured",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "New Year (Circumcision)",
+  "german": null,
+  "english": "O Blessed Day When First Was Poured",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "New Year (Circumcision)",
+  "german": null,
+  "english": "O Rejoice, Ye Christians Loudly",
+  "literal_only": false,
+  "witness": "MC (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 2",
+  "german": null,
+  "english": "Thine Honor Save, O Christ, Our Lord",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 2",
+  "german": null,
+  "english": "Thine Honor Save, O Christ, Our Lord",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 2",
+  "german": null,
+  "english": "From East to West, from Shore to Shore",
+  "literal_only": false,
+  "witness": "SD (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 2",
+  "german": null,
+  "english": "From East to West, from Shore to Shore",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Christmas 2",
+  "german": null,
+  "english": "O Christ, Our True and Only Light",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany",
+  "german": null,
+  "english": "How Lovely Shines the Morning-Star",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany",
+  "german": null,
+  "english": "How Lovely Shines the Morning-Star",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany",
+  "german": null,
+  "english": "How Lovely Shines the Morning-Star",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany",
+  "german": null,
+  "english": "How Lovely Shines the Morning-Star",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany",
+  "german": null,
+  "english": "How Lovely Shines the Morning-Star",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 1",
+  "german": null,
+  "english": "Let the Earth Now Praise the Lord",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 1",
+  "german": null,
+  "english": "The Only Son from Heaven",
+  "literal_only": false,
+  "witness": "MC (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Baptism of Christ (Octave of Epiphany)",
+  "german": null,
+  "english": "To Jordan Came the Christ Our Lord",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Baptism of Christ (Octave of Epiphany)",
+  "german": null,
+  "english": "To Jordan Came the Christ Our Lord",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Baptism of Christ (Octave of Epiphany)",
+  "german": null,
+  "english": "To Jordan Came the Christ Our Lord",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 2",
+  "german": null,
+  "english": "Rejoice, My Heart, Be Glad & Sing",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 2",
+  "german": null,
+  "english": "Happy the Man That Feareth God",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 2",
+  "german": null,
+  "english": "Happy the Man That Feareth God",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 2",
+  "german": null,
+  "english": "Once He Came in Blessing",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 3",
+  "german": null,
+  "english": "O Christ, Our True and Only Light",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 3",
+  "german": null,
+  "english": "O Christ, Our True and Only Light",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 3",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 3",
+  "german": null,
+  "english": "Why Should Cross and Trial Grieve Me",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 3",
+  "german": null,
+  "english": "Praise God the Lord, Ye Sons of Men",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 4",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 4",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 4",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 4",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 4",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 5",
+  "german": null,
+  "english": "Lord Jesus Christ, With Us Abide",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 5",
+  "german": null,
+  "english": "Lord Jesus Christ, With Us Abide",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 5",
+  "german": null,
+  "english": "Lord Jesus Christ, With Us Abide",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Epiphany 5",
+  "german": null,
+  "english": "Lord Jesus Christ, With Us Abide",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Transfiguration",
+  "german": null,
+  "english": "O Morning Star How Fair and Bright",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Transfiguration",
+  "german": null,
+  "english": "O Morning Star How Fair and Bright",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Transfiguration",
+  "german": null,
+  "english": "O Morning Star How Fair and Bright",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Transfiguration",
+  "german": null,
+  "english": "The Only Son from Heaven",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Septuagesima",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Septuagesima",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Septuagesima",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Septuagesima",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Septuagesima",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sexagesima",
+  "german": null,
+  "english": "May God Bestow on Us His Grace",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sexagesima",
+  "german": null,
+  "english": "May God Bestow on Us His Grace",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sexagesima",
+  "german": null,
+  "english": "May God Bestow on Us His Grace",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sexagesima",
+  "german": null,
+  "english": "May God Bestow on Us His Grace",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sexagesima",
+  "german": null,
+  "english": "May God Bestow on Us His Grace",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "Let Us Ever Walk with Jesus",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "Let Us Ever Walk with Jesus",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "Let Us Ever Walk with Jesus",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "Lord Jesus Christ, My Savior Blest",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "Christ, Who Saves Us by His Cross",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "All Mankind Fell in Adam’s Fall",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Quinquagesima (Estomihi)",
+  "german": null,
+  "english": "All Mankind Fell in Adam’s Fall",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ash Wednesday",
+  "german": null,
+  "english": "From Depths of Woe I Cry to Thee",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ash Wednesday",
+  "german": null,
+  "english": "From Depths of Woe I Cry to Thee",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ash Wednesday",
+  "german": null,
+  "english": "From Depths of Woe I Cry to Thee",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ash Wednesday",
+  "german": null,
+  "english": "From Depths of Woe I Cry to Thee",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ash Wednesday",
+  "german": null,
+  "english": "Let Us Ever Walk with Jesus",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 1 (Invocavit)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 1 (Invocavit)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 1 (Invocavit)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 1 (Invocavit)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 2 (Reminiscere)",
+  "german": null,
+  "english": "When In the Hour of Utmost Need",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 2 (Reminiscere)",
+  "german": null,
+  "english": "When In the Hour of Utmost Need",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 2 (Reminiscere)",
+  "german": null,
+  "english": "When In the Hour of Utmost Need",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 2 (Reminiscere)",
+  "german": null,
+  "english": "When In the Hour of Utmost Need",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 3 (Oculi)",
+  "german": null,
+  "english": "Lord of Our Life and God of Our",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 3 (Oculi)",
+  "german": null,
+  "english": "Lord of Our Life and God of Our",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 3 (Oculi)",
+  "german": null,
+  "english": "Lord of Our Life and God of Our",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 3 (Oculi)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 3 (Oculi)",
+  "german": null,
+  "english": "When o’er My Sins I Sorrow",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 4 (Laetare)",
+  "german": null,
+  "english": "Jesus, Priceless Treasure,",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 4 (Laetare)",
+  "german": null,
+  "english": "Jesus, Priceless Treasure,",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 4 (Laetare)",
+  "german": null,
+  "english": "Jesus, Priceless Treasure,",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 4 (Laetare)",
+  "german": null,
+  "english": "Jesus, Priceless Treasure,",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 4 (Laetare)",
+  "german": null,
+  "english": "Jesus, Priceless Treasure,",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 4 (Laetare)",
+  "german": null,
+  "english": "Jesus, I Will Ponder Now",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 5 (Judica)",
+  "german": null,
+  "english": "A Lamb Goes Uncomplaining Forth",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 5 (Judica)",
+  "german": null,
+  "english": "Lord Jesus Christ, True Man and God",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 5 (Judica)",
+  "german": null,
+  "english": "O Mortal, Mourn Thy Grievous Sin",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Lent 5 (Judica)",
+  "german": null,
+  "english": "O Mortal, Mourn Thy Grievous Sin",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Palm Sunday",
+  "german": null,
+  "english": "The Royal Banners Forward Go",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Palm Sunday",
+  "german": null,
+  "english": "The Royal Banners Forward Go",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Palm Sunday",
+  "german": null,
+  "english": "The Royal Banners Forward Go",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Palm Sunday",
+  "german": null,
+  "english": "Thou Man of Sorrows, Hail",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Maundy Thursday",
+  "german": null,
+  "english": "Jesus, Grant that Balm and Healing",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Maundy Thursday",
+  "german": null,
+  "english": "Jesus Christ, Our Blessed Savior",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Maundy Thursday",
+  "german": null,
+  "english": "Jesus Christ, Our Blessed Savior",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Maundy Thursday",
+  "german": null,
+  "english": "Jesus Christ, Our Blessed Savior",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Maundy Thursday",
+  "german": null,
+  "english": "Jesus Christ, Our Blessed Savior",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Maundy Thursday",
+  "german": null,
+  "english": "Jesus Christ, Our Blessed Savior",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "A Lamb Goes Uncomplaining Forth",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "A Lamb Goes Uncomplaining Forth",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "A Lamb Goes Uncomplaining Forth",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "A Lamb Goes Uncomplaining Forth",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "A Lamb Goes Uncomplaining Forth",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "Sing, My Tongue, the Glorious Battle",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Good Friday",
+  "german": null,
+  "english": "Sing, My Tongue, the Glorious Battle",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Saturday",
+  "german": null,
+  "english": "O Darkest Woe",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Saturday",
+  "german": null,
+  "english": "Lord Jesus, We Give Thanks to Thee",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter Vigil",
+  "german": null,
+  "english": "Christ Is Arisen",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter Monday",
+  "german": null,
+  "english": "Lord Jesus Christ, With Us Abide (",
+  "literal_only": false,
+  "witness": "Bach’s Leipzig usage",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter Monday",
+  "german": null,
+  "english": "Christ is Arisen (",
+  "literal_only": false,
+  "witness": "Bach’s Leipzig usage",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter Monday",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Strong Bands",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter Tuesday",
+  "german": null,
+  "english": "Christ Jesus Lay in Death’s Stong Bands (",
+  "literal_only": false,
+  "witness": "Bach’s Leipzig usage",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "german": null,
+  "english": "Ye Sons and Daughters of the King",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "german": null,
+  "english": "Ye Sons and Daughters of the King",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "german": null,
+  "english": "Ye Sons and Daughters of the King",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "german": null,
+  "english": "Ye Sons and Daughters of the King",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "german": null,
+  "english": "Jesus Christ, Our Savior True",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 2 (Misericordias Domini)",
+  "german": null,
+  "english": "Who Trusts in God, A Strong Abode",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 2 (Misericordias Domini)",
+  "german": null,
+  "english": "O Little Flock, Fear not the Foe",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 3 (Jubilate)",
+  "german": null,
+  "english": "With High Delight Let Us Unite",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 3 (Jubilate)",
+  "german": null,
+  "english": "With High Delight Let Us Unite",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 3 (Jubilate)",
+  "german": null,
+  "english": "With High Delight Let Us Unite",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 4 (Cantate)",
+  "german": null,
+  "english": "Dear Christians, One and All, Rejoice",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 4 (Cantate)",
+  "german": null,
+  "english": "Dear Christians, One and All, Rejoice",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 4 (Cantate)",
+  "german": null,
+  "english": "Dear Christians, One and All, Rejoice",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 4 (Cantate)",
+  "german": null,
+  "english": "Dear Christians, One and All, Rejoice",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 4 (Cantate)",
+  "german": null,
+  "english": "Dear Christians, One and All, Rejoice",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Our Father, Who from Heaven Above",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Easter 5 (Rogate)",
+  "german": null,
+  "english": "Lord, Enter Now Thy Temple",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ascension",
+  "german": null,
+  "english": "On Christ’s Ascension I Now Build",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ascension",
+  "german": null,
+  "english": "A Hymn of Glory Let Us Sing",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ascension",
+  "german": null,
+  "english": "Christ Rose to Heaven",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "german": null,
+  "english": "If God Had Not Been on Our Side",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "german": null,
+  "english": "If God Had Not Been on Our Side",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "german": null,
+  "english": "If God Had Not Been on Our Side",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "german": null,
+  "english": "We Thank Thee, Jesus, Dearest Friend",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "german": null,
+  "english": "We Thank Thee, Jesus, Dearest Friend",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost Monday",
+  "german": null,
+  "english": "Come, Holy Ghost, God and Lord",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost Monday",
+  "german": null,
+  "english": "We Now Implore God the Holy Ghost",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Pentecost Tuesday",
+  "german": null,
+  "english": "O Lord Our God, Thy Holy Word (",
+  "literal_only": false,
+  "witness": "Bach’s Leipzig usage",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity Sunday",
+  "german": null,
+  "english": "Come, Holy Ghost, Creator Blest",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity Sunday",
+  "german": null,
+  "english": "Come, Holy Ghost, Creator Blest",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity Sunday",
+  "german": null,
+  "english": "Come, Holy Ghost, Creator Blest",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity Sunday",
+  "german": null,
+  "english": "We All Believe in One True God",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity Sunday",
+  "german": null,
+  "english": "God the Father, Be Our Stay",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 1",
+  "german": null,
+  "english": "We Now Implore God the Holy Ghost",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 1",
+  "german": null,
+  "english": "We Now Implore God the Holy Ghost",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 1",
+  "german": null,
+  "english": "We Now Implore God the Holy Ghost",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 1",
+  "german": null,
+  "english": "We Now Implore God the Holy Ghost",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 1",
+  "german": null,
+  "english": "We Now Implore God the Holy Ghost",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 1",
+  "german": null,
+  "english": "Lord, Thee I Love With All My Heart",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 2",
+  "german": null,
+  "english": "O Lord Look Down from Heaven",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 2",
+  "german": null,
+  "english": "The Mouth of Fools Doth God Confess",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 3",
+  "german": null,
+  "english": "In Thee Alone, O Christ, My Lord",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 3",
+  "german": null,
+  "english": "In Thee Alone, O Christ, My Lord",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 3",
+  "german": null,
+  "english": "Lord, to Thee I Make Confession",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 3",
+  "german": null,
+  "english": "Lord, to Thee I Make Confession",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 3",
+  "german": null,
+  "english": "Jesus Sinners Doth Receive",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 3",
+  "german": null,
+  "english": "Jesus Sinners Doth Receive",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 4",
+  "german": null,
+  "english": "Creator Spirit, by Whose Aid",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 4",
+  "german": null,
+  "english": "Creator Spirit, by Whose Aid",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 4",
+  "german": null,
+  "english": "Creator Spirit, by Whose Aid",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 4",
+  "german": null,
+  "english": "O God, Thou Faithful God",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 4",
+  "german": null,
+  "english": "O God, Thou Faithful God",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 5",
+  "german": null,
+  "english": "Come, Follow Me, the Savior Spake",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 5",
+  "german": null,
+  "english": "Come, Follow Me, the Savior Spake",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 5",
+  "german": null,
+  "english": "Come, Follow Me, the Savior Spake",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 5",
+  "german": null,
+  "english": "What Is the World to Me",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 5",
+  "german": null,
+  "english": "If Thou But Suffer God to Guide Thee",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 5",
+  "german": null,
+  "english": "Awake O Spirit of the Watchmen",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "All Mankind Fell in Adam’s Fall",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "All Mankind Fell in Adam’s Fall",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "All Mankind Fell in Adam’s Fall",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "All Mankind Fell in Adam’s Fall",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "O God, Thou Faithful God",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "These Are the Holy Ten Commands",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "These Are the Holy Ten Commands",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 6",
+  "german": null,
+  "english": "Baptized into Thy Name Most Holy",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 7",
+  "german": null,
+  "english": "All Praise to God Who Reigns Above",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 7",
+  "german": null,
+  "english": "All Praise to God Who Reigns Above",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 7",
+  "german": null,
+  "english": "All Praise to God Who Reigns Above",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 7",
+  "german": null,
+  "english": "All Praise to God Who Reigns Above",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 7",
+  "german": null,
+  "english": "All Depends on Our Possessing",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 7",
+  "german": null,
+  "english": "Lord Jesus Christ, Life-Giving Bread",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 8",
+  "german": null,
+  "english": "In God, My Faithful God",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 8",
+  "german": null,
+  "english": "In God, My Faithful God",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 8",
+  "german": null,
+  "english": "Jesus Christ, My Pride and Glory",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 8",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 9",
+  "german": null,
+  "english": "One Thing’s Needful, Lord This Treasure",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 9",
+  "german": null,
+  "english": "What is the World to Me",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 9",
+  "german": null,
+  "english": "What is the World to Me",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 9",
+  "german": null,
+  "english": "Lord, As Thou Wilt, Deal Thou with Me",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 10",
+  "german": null,
+  "english": "Lord, to Thee I Make Confession",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 10",
+  "german": null,
+  "english": "Lord, to Thee I Make Confession",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 10",
+  "german": null,
+  "english": "Beside the Streams of Babylon",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 10",
+  "german": null,
+  "english": "Beside the Streams of Babylon",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 11",
+  "german": null,
+  "english": "From Depths of Woe, I Cry to Thee",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 11",
+  "german": null,
+  "english": "From Depths of Woe, I Cry to Thee",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 11",
+  "german": null,
+  "english": "From Depths of Woe, I Cry to Thee",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 11",
+  "german": null,
+  "english": "From Depths of Woe, I Cry to Thee",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 11",
+  "german": null,
+  "english": "As Surely as I Live, God Said",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 12",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 12",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 12",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 12",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 12",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 12",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 13",
+  "german": null,
+  "english": "Jesus, Thy Boundless Love to Me",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 13",
+  "german": null,
+  "english": "Jesus, Thy Boundless Love to Me",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 13",
+  "german": null,
+  "english": "I Trust, O Christ, In Y ou Alone",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 13",
+  "german": null,
+  "english": "Lord, Hear the Voice of My Complaint",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 14",
+  "german": null,
+  "english": "From God Shall Naught Divide Me",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 14",
+  "german": null,
+  "english": "From God Shall Naught Divide Me",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 14",
+  "german": null,
+  "english": "From God Shall Naught Divide Me",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 14",
+  "german": null,
+  "english": "From God Shall Naught Divide Me",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 14",
+  "german": null,
+  "english": "From God Shall Naught Divide Me",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "In God, My Faithful God",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "In God, My Faithful God",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "In God, My Faithful God",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "In God, My Faithful God",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "What God Ordains is Always Good",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "What God Ordains is Always Good",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 15",
+  "german": null,
+  "english": "If Thou But Suffer God to Guide Thee",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "The Will of God Is Always Best",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 16",
+  "german": null,
+  "english": "This Body in the Grave We Lay",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 17",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 17",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 17",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 17",
+  "german": null,
+  "english": "Seek Where Ye May to Find a Way",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 18",
+  "german": null,
+  "english": "Lord, Thee I Love With All My Heart",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 18",
+  "german": null,
+  "english": "Lord, Thee I Love With All My Heart",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 18",
+  "german": null,
+  "english": "Thee Will I Love, My Strength, My",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 18",
+  "german": null,
+  "english": "Thee Will I Love, My Strength, My",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 19",
+  "german": null,
+  "english": "Praise the Almighty, My Soul, Adore",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 19",
+  "german": null,
+  "english": "Praise the Almighty, My Soul, Adore",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 19",
+  "german": null,
+  "english": "I Will Sing My Maker’s Praises",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 19",
+  "german": null,
+  "english": "I Will Sing My Maker’s Praises",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 19",
+  "german": null,
+  "english": "We All Believe in One True God",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 20",
+  "german": null,
+  "english": "Oh Lord, Look Down from Heaven,",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 20",
+  "german": null,
+  "english": "Lord, Jesus Christ, Thou Hast Prepared",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 20",
+  "german": null,
+  "english": "Soul, Adorn Thyself with Gladness",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 21",
+  "german": null,
+  "english": "Lord, Keep Us Steadfast in Thy Word",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 21",
+  "german": null,
+  "english": "In Thee Is Gladness amid All Sadness",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 21",
+  "german": null,
+  "english": "Lord Jesus Christ, With Us Abide",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 21",
+  "german": null,
+  "english": "Lord, Hear the Voice of My Complaint",
+  "literal_only": false,
+  "witness": "SD (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 21",
+  "german": null,
+  "english": "O Lord, Look Down, from Heaven",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 22",
+  "german": null,
+  "english": "O Faithful God, Thanks Be to Thee",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 22",
+  "german": null,
+  "english": "O Faithful God, Thanks Be to Thee",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 22",
+  "german": null,
+  "english": "O Faithful God, Thanks Be to Thee",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 22",
+  "german": null,
+  "english": "From Depths of Woe I Cry to Thee",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 22",
+  "german": null,
+  "english": "From Depths of Woe I Cry to Thee",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 23",
+  "german": null,
+  "english": "In Thee, O Lord, I Put My Trust",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 23",
+  "german": null,
+  "english": "In Thee, O Lord, I Put My Trust",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 23",
+  "german": null,
+  "english": "In Thee, O Lord, I Put My Trust",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 23",
+  "german": null,
+  "english": "In Thee, O Lord, I Put My Trust",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 24",
+  "german": null,
+  "english": "In the Very Midst of Life",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 24",
+  "german": null,
+  "english": "In the Very Midst of Life",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 24",
+  "german": null,
+  "english": "In the Very Midst of Life",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 24",
+  "german": null,
+  "english": "In the Very Midst of Life",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 25",
+  "german": null,
+  "english": "Farewell I Gladly Bid Thee",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 25",
+  "german": null,
+  "english": "Farewell I Gladly Bid Thee",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 25",
+  "german": null,
+  "english": "Farewell I Gladly Bid Thee",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 25",
+  "german": null,
+  "english": "Who Trusts in God, A Strong Abode",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 25",
+  "german": null,
+  "english": "Preserve Y our Word, O Savior",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 26",
+  "german": null,
+  "english": "The Day Is Surely Drawing Near",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 26",
+  "german": null,
+  "english": "The Day Is Surely Drawing Near",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 26",
+  "german": null,
+  "english": "The Day Is Surely Drawing Near",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 26",
+  "german": null,
+  "english": "The Day Is Surely Drawing Near",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 26",
+  "german": null,
+  "english": "The Day Is Surely Drawing Near",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 26",
+  "german": null,
+  "english": "The Day Is Surely Drawing Near",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 27",
+  "german": null,
+  "english": "Wake, Awake, for Night is Flying",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 27",
+  "german": null,
+  "english": "Wake, Awake, for Night is Flying",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 27",
+  "german": null,
+  "english": "Wake, Awake, for Night is Flying",
+  "literal_only": false,
+  "witness": "Lutheran Service Book (2006)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 27",
+  "german": null,
+  "english": "Wake, Awake, for Night is Flying",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 27",
+  "german": null,
+  "english": "Wake, Awake, for Night is Flying",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Trinity 27",
+  "german": null,
+  "english": "Wake, Awake, for Night is Flying",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Church Dedication",
+  "german": null,
+  "english": "Lord, Keep Us Steadfast in Thy Word",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Church Dedication",
+  "german": null,
+  "english": "Built on the Rock the Church Doth",
+  "literal_only": false,
+  "witness": "MC (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Common of Apostles",
+  "german": null,
+  "english": "O Lord, Our God, Thy Holy Word",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Common of Martyrs and Doctors",
+  "german": null,
+  "english": "If God Himself Be for Me",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Confession of St Peter (18 Jan)",
+  "german": null,
+  "english": "I Know My Faith Is Founded",
+  "literal_only": false,
+  "witness": "MC (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Conversion of St Paul (25 Jan)",
+  "german": null,
+  "english": "Lo, Many Shall Come from the East",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Conversion of St Paul (25 Jan)",
+  "german": null,
+  "english": "O Lord, Our God, Thy Holy Word",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Purification of Mary (2 Feb)",
+  "german": null,
+  "english": "In Peace and Joy I Now Depart",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Purification of Mary (2 Feb)",
+  "german": null,
+  "english": "In Peace and Joy I Now Depart",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Purification of Mary (2 Feb)",
+  "german": null,
+  "english": "In Peace and Joy I Now Depart",
+  "literal_only": false,
+  "witness": "Carpzov",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Purification of Mary (2 Feb)",
+  "german": null,
+  "english": "In Peace and Joy I Now Depart",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Annunciation (25 March)",
+  "german": null,
+  "english": "Now Praise We Christ, the Holy One",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Annunciation (25 March)",
+  "german": null,
+  "english": "The Only Son from Heaven",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St John the Baptist (24 June)",
+  "german": null,
+  "english": "When All the World Was Cursed",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St John the Baptist (24 June)",
+  "german": null,
+  "english": "When All the World Was Cursed",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St John the Baptist (24 June)",
+  "german": null,
+  "english": "To Jordan Came the Christ Our Lord",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Presentation of the Augsburg Confession (25 June)",
+  "german": null,
+  "english": "If God Had Not Been On Our Side",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Presentation of the Augsburg Confession (25 June)",
+  "german": null,
+  "english": "Salvation unto Us Has Come",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Peter and St Paul (29 June)",
+  "german": null,
+  "english": "Lord Jesus, Thou the Church’s Head",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Peter and St Paul (29 June)",
+  "german": null,
+  "english": "O Lord, Our God, Thy Holy Word",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Visitation of Mary (2 July)",
+  "german": null,
+  "english": "My Soul Now Magnifies the Lord",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Visitation of Mary (2 July)",
+  "german": null,
+  "english": "My Soul Now Magnifies the Lord",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Visitation of Mary (2 July)",
+  "german": null,
+  "english": "My Soul Now Magnifies the Lord",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Mary Magdalene (22 July)",
+  "german": null,
+  "english": "Jesus Sinners Doth Receive",
+  "literal_only": false,
+  "witness": "MC (private scheme)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St James (25 July)",
+  "german": null,
+  "english": "Come, Follow Me, the Savior Spake",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Lawrence (10 Aug)",
+  "german": null,
+  "english": "Rise Again, Ye Lion-Hearted",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Assumption of Mary (15 Aug)",
+  "german": null,
+  "english": "One Thing’s Needful, Lord This Treasure",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Beheading of St John the Baptist (29 Aug)",
+  "german": null,
+  "english": "When All the World Was Cursed",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Nativity of Mary (8 Sept)",
+  "german": null,
+  "english": "Now Praise We Christ, the Holy One",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Holy Cross (14 Sept)",
+  "german": null,
+  "english": "The Royal Banners Forward Go",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Matthew (21 Sept)",
+  "german": null,
+  "english": "Come, Follow Me, the Savior Spake",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Michael (29 Sept)",
+  "german": null,
+  "english": "Lord God, We All to Thee Give Praise",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Michael (29 Sept)",
+  "german": null,
+  "english": "Lord God, We All to Thee Give Praise",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Michael (29 Sept)",
+  "german": null,
+  "english": "Lord God, We All to Thee Give Praise",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Michael (29 Sept)",
+  "german": null,
+  "english": "Lord God, We All to Thee Give Praise",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "St Michael (29 Sept)",
+  "german": null,
+  "english": "My Soul, Now Bless Thy Maker",
+  "literal_only": false,
+  "witness": "Selnecker",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Ss Simon and Jude (28 Oct)",
+  "german": null,
+  "english": "Rise Again, Ye Lion-Hearted",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Reformation (31 Oct)",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Gehrke",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Reformation (31 Oct)",
+  "german": null,
+  "english": "Salvation Unto Us Has Come",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Reformation (31 Oct)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Reformation (31 Oct)",
+  "german": null,
+  "english": "A Mighty Fortress Is Our God",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Reformation (31 Oct)",
+  "german": null,
+  "english": "Dear Christians, One and All Rejoice",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "All Saints (1 Nov)",
+  "german": null,
+  "english": "For All The Saints",
+  "literal_only": false,
+  "witness": "Lutheran Worship (1982)",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "All Saints (1 Nov)",
+  "german": null,
+  "english": "For All The Saints",
+  "literal_only": false,
+  "witness": "Zion",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "All Saints (1 Nov)",
+  "german": null,
+  "english": "For All The Saints",
+  "literal_only": false,
+  "witness": "Redeemer",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "All Saints (1 Nov)",
+  "german": null,
+  "english": "If God Himself Be for Me",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Thanksgiving",
+  "german": null,
+  "english": "Rejoice, My Heart, Be Glad and Sing",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ },
+ {
+  "occasion": "Thanksgiving",
+  "german": null,
+  "english": "All Praise to God Who Reigns Above",
+  "literal_only": false,
+  "witness": "SELK hymnal",
+  "compilation": "Hymn of the Day conflation table (modern compilation)",
+  "note": null
+ }
+]
