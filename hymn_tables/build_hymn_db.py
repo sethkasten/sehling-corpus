@@ -81,10 +81,17 @@ def main():
     c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)', cands)
 
     c.executescript('''
+    -- attestations is keyed on (printed_title, source); joining on printed_title
+    -- alone fans out across sources and inflates the counts.
     CREATE VIEW hymn_prescriptions_by_hymn AS
       SELECT h.canonical_title, h.literal_english, h.common_english,
-             COUNT(*) AS times_prescribed
-      FROM attestations a JOIN hymns h ON h.canonical_title = a.canonical_title
+             COUNT(*) AS times_prescribed,
+             COUNT(DISTINCT p.source) AS orders,
+             COUNT(DISTINCT a.printed_title) AS spellings
+      FROM hymn_prescriptions p
+      JOIN attestations a
+        ON a.printed_title = p.original_title AND a.source = p.source
+      JOIN hymns h ON h.canonical_title = a.canonical_title
       GROUP BY h.canonical_title ORDER BY times_prescribed DESC;
     ''')
     db.commit()
