@@ -1,0 +1,1100 @@
+Rochus von Liliencron, Liturgisch-musikalische Geschichte der
+evangelischen Gottesdienste von 1523 bis 1700
+De tempore hymn concordance, pp. 61-77 — English translation
+Translator's note
+The body of these pages consists almost entirely of German hymn incipits followed by sigla
+for the fifteen hymnals collated. I have rendered each entry as:
+
+I German incipit — English title: sigla
+The sigla are left exactly as printed (they are abbreviations of book titles, resolved in the
+key on p. 61). English titles are matched to the established translation current in the
+English-language Lutheran tradition (Winkworth, Massie, Reynolds, and the
+TLH/LSB/ELH corpus) wherever one exists. Where no established English translation is in
+current use, I supply a literal rendering marked with a degree sign (°). I have deliberately
+not supplied hymnal numbers, since the same German incipit is sometimes carried under
+different titles in different books and I cannot verify numbering from this text alone.
+Points of genuine uncertainty are flagged in footnotes at the end. Two recurring
+ambiguities are worth naming at the outset:
+
+1. "Wo Gott der Herr nicht bei uns halt" (Justus Jonas) and "War Gott nicht mit uns
+diese Zeit" (Luther) are both metrical settings of Psalm 124, and English hymnals
+have used "If God Had Not Been on Our Side" for both at different times. I have
+distinguished them below by giving Jonas's as "If God Had Not Been on Our Side" and
+Luther's as "Were God Not with Us at This Time", but the reader should be aware that
+the English titles are not stable.
+
+2. "Jesus Christus unser Heiland" exists as two distinct hymns of Luther: the Easter
+hymn (der den Tod tiberwand) and the Communion hymn (der von uns den
+Gotteszorn wandt). Liliencron's Easter entry specifies der den Tod, so the Easter hymn
+is meant.
+
+Printer's slips in the sigla are noted where they occur.
+
+[p. 61]
+
+...quantities of hymns into the distribution as well, and only the Augsburg hymnal, which,
+as was already remarked above, in general diverges more markedly from the de tempore
+stock of the others.*
+
+1. Advent
+
+Nun komm der Heiden Heiland — Savior of the Nations, Come: Sp. K. Se. Ge. LL. St. H. L.
+Sch. SH. Go. D. LK.
+Lob sei dem allmachtgen Gott — Praise Be to God the Almighty°®: Ge. LL. St. H. E.
+Hosianna in der HOhe — Hosanna in the Highest°: Ge. L. E.
+
+Gottes Sohn ist kommen — Once He Came in Blessing: LL. St. H. Sch. L. LK.
+Menschenkind, merk eben — Child of Man, Take Careful Heed?®: LL. St. H. L. LK.
+
+Von Adam her so lange Zeit — From Adam's Time, So Long an Age®: LL. St. H. Sch. D.
+
+2. Advent
+
+Ach Gott, thu dich erbarmen — Ah God, Have Mercy Now°®: Ge. St. H. Sch.
+
+Es wird schier der letzte Tag herkommen — The Final Day Will Soon Be Here°®: Ge. St. H.
+Sch.
+
+Gott hat das Evangelium — God Has the Gospel Given: Ge. St. H. Sch. E. Go. D. LK.
+
+Ihr lieben Christen, freut euch nun — Rejoice Now, Ye Dear Christians°: Ge. LL. St. H. E.
+SH. D.
+
+Nun komm der Heiden Heiland — Savior of the Nations, Come: Ge. Sch.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: LL. D.
+
+Es ist gewifslich an der Zeit — The Day Is Surely Drawing Near: Sch. E. SH. D. Go. LK.
+
+* Explanation of the sigla:
+Siglum Source
+A. Augsburg hymnal of 1619; see above, no. 7.
+D. Darmstadt Cantional of 1687; see above, no. 13.
+E. (Erhardi) Frankfurt hymnal of 1659; see above, no. 11.
+Ge. Gesius, Geistliche Lieder of 1601; see above, no. 4.
+Go. Goslar hymnal of 1687; see above, no. 14.
+H. Helmstedt hymnal of 1626; see above, no. 8.
+K. Keuchenthal, Kirchengesange of 1573; see above, no. 2.
+L. Liegnitz choir hymnal of 1625-30; see above, no. 9.
+LK. Leipzig Kirchenandachten of 1694; see above, no. 15.
+LL. Leipzig Geistliche Lieder of 1605; see above, no. 5.
+Sch. Schein, Cantional of 1627; see above, no. 10.
+Se. Selnecker, Christliche Psalmen of 1587; see above, no. 3.
+SH. Schleswig and Holstein church book of 1665; see above, no. 12.
+Sp. Spangenberg, Cantiones of 1545; see above, no. 1.
+St. Stiphelius, Libellus scholasticus of 1607; see above, no. 6.
+[p. 62]
+3. Advent
+Herr Christ, der einig Gottessohn — The Only Son from Heaven: Ge. LL. St. H. E. SH. Go. D.
+LK.
+Nun komm der Heiden Heiland — Savior of the Nations, Come: Ge. St. Sch. E. SH.
+Von Adam her so lange Zeit — From Adam's Time, So Long an Age®: St. Sch. LK.
+4. Advent
+Herr Christ, der einig Gottessohn — The Only Son from Heaven: Ge. LL. St. H. E. SH. D.
+Christ, unser Herr, zum Jordan kam — To Jordan Came the Christ, Our Lord: St. E. Ge. SH.
+D.
+Wie soll ich dich empfangen (P. Gerh[ardt]) — O Lord, How Shall I Meet You: D. LK.
+Christmas
+
+Gelobet seist du, Jesu Christ — All Praise to Thee, Eternal God: Sp. K. Se. Ge. LL. St. H. Sch.
+E. SH. Go. D. LK.
+
+Danksagen wir alle — Now Let Us All Give Thanks° (Grates nunc omnes): Sp. K. Se. E. SH.
+LK.
+
+Christum wir sollen loben schon — Now Praise We Christ, the Holy One: K. Se. Ge. LL. St.
+H. Sch. L. E. SH. Go. D. LK.
+
+Der Tag, der ist so freudenreich — O Hail This Brightest Day of Days: K. Se. Ge. LL. St. H.
+Sch. E. SH. D. LK.
+
+Ein Kind, geborn zu Bethlehem — A Child Is Born in Bethlehem: K. Ge. LL. L. E. SH. D. LK.
+In dulci jubilo — In dulci jubilo (Good Christian Men, Rejoice): K. Ge. LL. H. Sch. E. SH. D.
+LK.
+
+Lobsinget Gott und schweiget nicht — Sing Praise to God and Be Not Silent®: K. LL. St. H.
+Vom Himmel hoch, da komm ich her — From Heaven Above to Earth I Come: K. Se. Ge. LL.
+St. H. L. E. SH. G.' D. LK.
+
+Vom Himmel kam der Engel Schaar — To Shepherds as They Watched by Night: K. Se. Ge.
+LL. St. H. L. E. SH. D. LK.
+
+Weil Maria schwanger ging — While Mary Went with Child®: K. LL. St. H. Sch. LK.
+
+Ein Kindelein so l6belich — A Little Child So Worthy of Praise®: K. Sch. E. SH.
+
+Uns ist geborn ein Kindelein — To Us Is Born a Little Child®: K. L.
+
+Wir Christenleut habn iezund Freud — We Christians May Rejoice Today: Sch. L. LK.
+Lobt Gott, ihr Christen, allzugleich — Let All Together Praise Our God: Sch. D. LK.
+Sunday after Christmas
+
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: St. E. D.
+
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: St. D.
+
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: E. D.
+
+[p. 63]
+
+Holy Innocents
+
+Hilf Gott, wie geht das immer zu — Help, God! How Can These Things Be®: LL. St. H. Go.
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: St. H. Go.
+
+The others pass over the day.
+
+New Year
+
+Das alte Jahr ist nun dahin — The Old Year Now Is Gone®: Ge. A.
+
+Das alte Jahr vergangen ist — The Old Year Now Hath Passed Away: Ge. Sch. E. D. Go. LK.
+Helft mir Gottes Gtite preisen — Help Me Praise God's Goodness?®: Ge. St. Sch. E. SH. D. Go.
+LK.
+
+Jesu, nun sei gepreiset — Now Greet the Swiftly Changing Year: H. Sch. L. LK.
+
+Das neu geborne Kindelein — The New-Born Little Child®°: L. D. LK.
+
+K. lists for this day the entire body of Christmas hymns; so likewise LK. That was simply the
+general custom, which is why the entries are otherwise so full of gaps.
+
+Sunday after New Year
+
+Ein feste Burg ist unser Gott — A Mighty Fortress Is Our God: St. D.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: St. SH. D.
+
+The others pass over this Sunday.
+
+Epiphany
+
+Was fiirchtstu Feind Herodes sehr — Why, Herod, Dost Thou Fear a Foe° (Hostis Herodes
+impie): Sp. K. Se. Ge. LL. St. A. H. L. E. SH. D. Go. LK.
+
+Als Jesus geboren war — When Jesus Christ Was Born®: LL. St. H. Sch. LK.
+
+1. after Epiphany
+
+Dies sind die heiligen zehn Gebot — These Are the Holy Ten Commands: Ge. LL. St. A. H.
+E. SH. Go. D. LK.
+
+Mensch, wiltu leben seliglich — Man, Wouldst Thou Live All Blissfully: LL. St. H. E. SH. Go.
+2. after Epiphany
+
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: Ge. LL. St. H. LK.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Ge. St. H. SH. D.
+Vergebens ist all Mtih — In Vain Is All Our Toil® (Ps. 127): LL. St. H. E. D.
+
+Wol dem, der in Gotts fiirchten — Blessed Is He Who Stands in Fear of God?® (Ps. 128): St. A.
+E. SH. D. Go. LK.
+Wie sch6n leuchtet der Morgenstern — How Lovely Shines the Morning Star (O Morning
+Star, How Fair and Bright): E. D. LK.
+
+Wo Gott zum Haus nicht gibt sein Gunst — Unless God Grants the House His Favor? (Ps.
+127): E. D.
+
+[p. 64]
+
+3. after Epiphany
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: Ge. SH. D.
+
+Es wollt uns Gott genadig sein — May God Bestow on Us His Grace: Ge. St.
+
+O Herre Gott, dein géttlich Wort — O God, Our Lord, Thy Holy Word: LL. H.
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time? (Ps. 124): LL. H.
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: LL. H.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: St. E. Go. LK.
+
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: A. D. Go.
+
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God? (Ps. 51): E. D. Go.
+
+4. after Epiphany
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time®: Ge. St. E. SH. D.
+LK.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: Ge. St. A. E. SH.
+O Herre Gott, dein géttlich Wort — O God, Our Lord, Thy Holy Word: Ge. E.
+
+Ach Gott, vom Himmel sieh darein — O Lord, Look Down from Heaven, Behold: LL. A. H.
+E.
+
+Es sind doch selig alle die — Blessed Indeed Are All Who Walk° (Ps. 119): LL. H.
+
+Herr, wer wird wohnen — Lord, Who Shall Dwell® (Ps. 15): LL. H.
+
+In dich hab ich gehoffet, Herr — In Thee, Lord, Have I Put My Trust: D. Go.
+
+Wenn wir in héchsten Néthen sein — When in the Hour of Utmost Need: SH. D. Go. LK.
+5. after Epiphany
+
+Ach Gott, im Himmel sieh darein — O Lord, Look Down from Heaven, Behold’: Se. Ge. Sch.
+H. SH. D. Go. LK.
+
+Erhalt uns, Herr, bei deinem Wort — Lord, Keep Us Steadfast in Thy Word: Ge. LK.
+Es wollt uns Gott genadig sein — May God Bestow on Us His Grace: Ge. LL. St.
+
+Gott der Vater wohn uns bei — God the Father, Be Our Stay: E. D. Go.
+
+Herr, wer wird wohnen — Lord, Who Shall Dwell®: St. H.
+
+Es sind doch selig alle die — Blessed Indeed Are All Who Walk°: St. H.
+
+O Herre Gott, dein géttlich Wort — O God, Our Lord, Thy Holy Word: A. SH. D.
+
+6. after Epiphany
+
+Jesaia dem Propheten — Isaiah, Mighty Seer, in Days of Old: Ge. H.
+
+Es wollt uns Gott genddig sein — May God Bestow on Us His Grace: (St.*) H. Go. LK.
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: (St.) Sch. H. D. Go. LK.
+* St. has only five Sundays after Epiphany; it gives the hymns of the sixth together with
+those of the fifth.
+
+[p. 65]
+
+Wenn mein Sttindlein vorhanden ist — When My Last Hour Is Close at Hand: H. Go.
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: E. D.
+Wie schon leuchtet der Morgenstern — How Lovely Shines the Morning Star: E. SH. D.
+Septuagesima
+
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: Sp.
+
+Ach Gott, im Himmel sieh darein — O Lord, Look Down from Heaven, Behold: K. St. D. Go.
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess (Ps. 14): K.
+Ge. LL. St. H. SH. D.
+
+An Wasserfliissen Babylon — Beside the Streams of Babylon? (Ps. 137): Ge. LL. St. H.
+
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: Ge. LL. St. A. H. E. SH. LK.
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: Sch. D. LK.
+
+Es wolt uns Gott genadig sein — May God Bestow on Us His Grace: E. D. Go. LK.
+Sexagesima
+
+An Wasserfliissen Babylon — Beside the Streams of Babylon?°: Ge. LL. St. H.
+
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: Se. Ge. LL. H.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: Ge. LL. H.
+E. LK.
+Ach Gott, im Himmel sieh darein — O Lord, Look Down from Heaven, Behold’: St. A. E. SH.
+Go. LK.
+
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: Se. St. LK.
+
+O Herre Gott, dein géttlich Wort — O God, Our Lord, Thy Holy Word: E. D.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Go. LK.
+
+Esto mihi
+
+Christ, unser Herr, zum Jordan kam — To Jordan Came the Christ, Our Lord: Ge. LL. H.
+SH.
+
+Kommt her zu mir, spricht Gottes Sohn — Come unto Me, Says God's Own Son?®: Ge. LL. St.
+H. E. LK.
+
+Nun h6ret zu, ihr Christenleut — Now Give Ear, Ye Christian People®: Ge. LL. St.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: St. H. E. D.
+Invocavit*
+
+Ein feste Burg ist unser Gott — A Mighty Fortress Is Our God: Sp. K. Ge. LL. St. A. H. SH. E.
+D. LK.
+
+Christe, der du bist Tag und Licht — O Christ, Who Art the Light and Day: K. Ge. LL. St. H.
+Sch. LK.
+
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God®: K. Se. St. LK.
+
+Christe, du bist der helle Tag — Christ, Thou Art the Bright and Shining Day°®: Ge. LL. St. H.
+E.
+
+Gott der Vater wohn uns bei — God the Father, Be Our Stay: Ge. LL. St. H. E. SH. D. Go. LK.
+* Here the general rubrics of the penitential hymn — and already of the Passion hymn as
+well — begin to intermingle.
+
+[Running foot: v. Liliencron, Liturg.-musik. Gesch. — 5]
+
+[p. 66]
+
+Ich dank dir, lieber Herre — I Thank Thee, Dearest Lord®: Ge. LL. St. H.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Ge. LL. St. H. Go. LK.
+Then a long series of Lenten and Passion hymns.
+
+O Lamm Gottes, unschuldig — Lamb of God, Pure and Holy: LL. Sch. D. LK.
+
+O Mensch, bewein dein Siinden grof$ — O Man, Bewail Thy Grievous Sin°: LL. Sch. D.
+Christus, der uns selig macht — Christ, Who Makes Us Blessed?®: LL. Sch. D. LK.
+
+Da Jesus an dem Kreuze stund — When Jesus on the Cross Was Hung?®: LL. Sch. D.
+
+Hilf Gott, daf mir gelinge — Help, God, That I May Prosper®: LL. Sch. D.
+
+Die Propheten habn geprophezeit — The Prophets Have Prophesied°: LL. Sch.
+
+Herr Christ, du treuer Heiland werth — Lord Christ, Thou Faithful Savior Dear®: Sch. LK.
+etc.
+
+Reminiscere
+
+Christe, der du bist Tag und Licht — O Christ, Who Art the Light and Day: Ge. LL. H. SH.
+LK.
+
+Christe, du bist der helle Tag — Christ, Thou Art the Bright and Shining Day°®: Ge. LL. H.
+Ein feste Burg ist unser Gott — A Mighty Fortress Is Our God: Ge. LL. H. E. LK.
+
+Gott der Vater wohn uns bei — God the Father, Be Our Stay: Ge. LL. H. E. D. LK.
+
+Ich dank dir, lieber Herre — I Thank Thee, Dearest Lord®: Ge. LL. St. H.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Ge. LL. St. H. E. Go. LK.
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: St. A. SH. D.
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God?®: D. LK.
+
+Wenn wir in héchsten Néthen sein — When in the Hour of Utmost Need: E. D.
+
+Oculi
+
+Christe, der du bist Tag und Licht — O Christ, Who Art the Light and Day: Ge. LL. St. H. LK.
+Christe, du bist der helle Tag — Christ, Thou Art the Bright and Shining Day°®: Ge. LL. H.
+Ein feste Burg ist unser Gott — A Mighty Fortress Is Our God: Ge. LL. St. A. H. E. SH. D. LK.
+Gott der Vater wohn uns bei — God the Father, Be Our Stay: Ge. LL. H. E. SH. D. Go. LK.
+Ich dank dir, lieber Herre — I Thank Thee, Dearest Lord®: Ge. LL. H.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Ge. LL. H. E. Go. LK.
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: E. D. Go.
+
+Laetare
+
+Da Jesus an dem Kreuze stund — When Jesus on the Cross Was Hung?®: Ge. LL. H.
+
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: Ge. LL. H.
+O Lamm Gottes, unschuldig — Lamb of God, Pure and Holy: Ge. LL. St. H.
+
+O Mensch, bewein dein Siinden grof — O Man, Bewail Thy Grievous Sin°: LL. St. H.
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: St. A. E. LK.
+
+[p. 67]
+
+Warum betrtibst du dich, mein Herz — Why Art Thou Thus Cast Down, My Heart: E. SH. D.
+Go. LK.
+
+Der Herr ist mein getreuer Hirt — The Lord My Faithful Shepherd Is° (Ps. 23): D. Go.
+Zweierlei bitt ich von dir (P. Gerh[ardt]) — Two Things I Ask of Thee® (Prov. 30): D. Go.
+Judica
+
+To this day belong the Passion hymns in general (cf. Invocavit); the entries in detail are
+therefore incomplete here.
+
+(Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Sp.)
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time®: K. D.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: K. A. D. LK.
+Christus, der uns selig macht — Christ, Who Makes Us Blessed?®: Ge. St. H.
+
+Da Jesus an dem Kreuze stund — When Jesus on the Cross Was Hung?®: Ge. H.
+
+O Lamm Gottes, unschuldig — Lamb of God, Pure and Holy: Ge. H.
+
+Palmarum*
+
+Nun komm der Heiden Heiland — Savior of the Nations, Come: K. D.
+
+Die Propheten habn geprophezeit — The Prophets Have Prophesied®: St. H.
+
+O Jesu Christ, dein Nam, der ist — O Jesus Christ, Thy Name It Is°: St. H.
+
+Christus, wahrer Gottes Sohn — Christ, True Son of God®: St. H.
+
+Christus, der uns selig macht — Christ, Who Makes Us Blessed?®: St. E. SH. Go.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: E. D.
+Maundy Thursday
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: K. D.
+Hilf Gott, dafs mir gelinge — Help, God, That I May Prosper®: H. Go. LK.
+
+Good Friday
+
+Christus, der uns selig macht — Christ, Who Makes Us Blessed?®: K. H. E. D. Go.
+Da Jesus an dem Kreuze stund — When Jesus on the Cross Was Hung®: K. H. Sch. E. SH. D.
+Go. LK.
+
+O Lamm Gottes unschuldig — Lamb of God, Pure and Holy: H. E. LK.
+
+O Traurigkeit, o Herzeleid (Rist) — O Darkest Woe: D. LK.
+
+Easter
+
+Christ lag in Todes Banden — Christ Jesus Lay in Death's Strong Bands: Sp. Ge. LL. St. H.
+Sch. SH. D. LK.
+
+Jesus Christus unser Heiland, der den Tod — Jesus Christ, Our Blessed Savior, Who
+Overcame Death?®: Sp. Se. Ge. LL. St. H. L. Sch. E. SH. D. LK.
+
+* For Palm Sunday the hymns of the 1st Sunday in Advent are drawn upon, and for Holy
+Week the Passion hymns.
+
+[Running foot: 5*]
+
+[p. 68]
+
+Also heilig ist der Tag — So Holy Is This Day®: K. Se. Ge. St. Sch. E. SH. LK.
+
+Christ ist erstanden — Christ Is Arisen: K. Se. Ge. LL. St. H. L. Sch. E. SH. D. Go. LK.
+Erstanden ist der heilig Christ — The Holy Christ Is Risen° (Surrexit Christus hodie): K. Se.
+Ge. LL. St. H. Sch. E. SH. D. LK.
+
+Heut triumphiret Gottes Sohn — Today in Triumph Christ Arose: Ge. L. Sch. E. SH. D. LK.
+Erschienen ist der herrlich Tag — The Day Hath Dawned, the Day of Days: Sch. E. SH. D.
+LK.
+
+Quasimodogeniti
+
+Nothing but scattered individual hymns; for the most part the entries are missing
+altogether. Only Go. and LK. coincide once, with "Ich ruf zu dir, Herr Jesu Christ" [I Call to
+Thee, Lord Jesus Christ].
+
+Misericordias
+
+Der Herr ist mein getreuer Hirt — The Lord My Faithful Shepherd Is°: Ge. LL. St. H. E. D.
+Go. LK.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Ge. H.
+
+Kommt zu mir, spricht Gottes Sohn — Come unto Me, Says God's Own Son°®: Ge. H.
+
+Mag ich Ungliick nicht — Though I Cannot Withstand Misfortune®: Ge. H. D.
+
+Von Gott will ich nicht lassen — From God Can Naught Move Me: D. LK.
+Jubilate
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: LL. St. H. LK.
+
+Kommt her zu mir, spricht Gottes Sohn — Come unto Me, Says God's Own Son’: LL. St. H.
+E. SH. D. Go. LK.
+
+Mag ich dem Tod nicht — Though I Cannot Withstand Death®: LL. St. H. E.
+
+Mag ich Ungliick nicht — Though I Cannot Withstand Misfortune®: LL. St. H. SH. D.
+Cantate
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: G.° LL. St.
+H. E. SH. D. Go. LK.
+
+Ein feste Burg ist unser Gott — A Mighty Fortress Is Our God: St. LK.
+
+Nun lob, mein Seel, den Herren — My Soul, Now Praise Thy Maker: E. D. LK.
+
+Rogate
+
+Gott Vater in dem Himmelreich — God the Father in the Realm of Heaven?°: Ge. LL. St. H.
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: Se. Ge. LL. St. A. H. E.
+SH. Go. LK.
+
+[p. 69]
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: E. D. LK.
+
+Wenn wir in héchsten Néthen sein — When in the Hour of Utmost Need: D. Go. LK.
+Ascension
+
+Christ fuhr gen Himmel — Christ Ascended into Heaven®: K. Se. Ge. LL. St. H. Sch. E. SH.
+D. Go. LK.
+
+Nun freut euch, Gottes Kinder, all — Rejoice Now, All Ye Children of God°: K. Ge. LL. St. H.
+L. E. D. Go.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Se. Ge. LL.
+H. SH. LK.
+
+Auf diesen Tag bedenken wir — Upon This Day We Call to Mind®: E. D.
+
+Gott der Vater wohn uns bei — God the Father, Be Our Stay: LL. St. H.
+
+Exaudi
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time?®: St. LK.
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: Se. St. A. E. D. Go.
+LK.
+
+Pentecost
+
+Komm, heilger Geist, Herre Gott — Come, Holy Ghost, God and Lord: Sp. K. Se. Ge. LL. St.
+H. L. Sch. SH. D. Go. LK.
+
+Als Jesus Christus, Gottes Sohn — When Jesus Christ, the Son of God®: K. Ge. LL. St. H.
+Komm, Gott Schdépfer, heilger Geist — Come, Holy Ghost, Creator Blest: K. LL. St. H. Sch.
+E. D. Go. LK.
+
+Nun bitten wir den heilgen Geist — We Now Implore God the Holy Ghost: K. Se. Ge. LL. St.
+H.L. Sch. E. SH. D. Go. LK.
+
+Trinity
+
+Gott der Vater wohn uns bei — God the Father, Be Our Stay: Sp. K. Se. Ge. LL. St. H. L. Sch.
+E. SH. D. Go. LK.
+
+Der du bist drei in Einigkeit — Thou Who Art Three in Unity® (O lux beata Trinitas): K. LL.
+St. H. L. Sch. E. Go.
+
+Es wolt uns Gott genaddig sein — May God Bestow on Us His Grace: Se. Ge. St.
+
+Herr Gott, dich loben alle wir — Lord God, We All to Thee Give Praise®: Ge. LL. E. SH.
+
+Wir glauben all an einen Gott — We All Believe in One True God: Ge. LL. St. A. H. E. SH.
+Allein Gott in der Hoh sei Ehr — All Glory Be to God on High: LL. St. H. Sch. E. SH. D. Go.
+O Licht, heilige Dreifaltigkeit — O Light, Most Holy Trinity®: LL. St. H. L.
+
+1. after Trinity
+
+Es war einmal ein reicher Mann — There Was Once a Wealthy Man°: K. Ge. LL. St. H. Sch.
+Go. has a reworking of the hymn.
+
+[p. 70]
+
+Kommt her zu mir, spricht Gottes Sohn — Come unto Me, Says God's Own Son®: K. St. Sch.
+SH.* D. LK.
+
+Nun h6ret zu, ihr Christenleut — Now Give Ear, Ye Christian People®: Ge. LL. St. H.
+Weltlich Ehr und zeitlich Gut — Worldly Honor and Earthly Goods°: Ge. LL. St. H.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: Se. St. Sch.
+LK.
+Von Gott will ich nicht lassen — From God Can Naught Move Me: E. D. Go.
+
+Zweierlei bitt ich von dir — Two Things I Ask of Thee®: D. Go.
+
+2. after Trinity
+
+Kommt her zu mir, spricht Gottes Sohn — Come unto Me, Says God's Own Son®: K. D. Go.
+Ach Gott, vom Himmel sieh darein — O Lord, Look Down from Heaven, Behold: Ge. LL. St.
+H. E. SH. D. Go. LK.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: Ge. LL. St.
+H. E. SH. D. Go.
+
+Es wolt uns Gott genddig sein — May God Bestow on Us His Grace: Ge. LL. St. H. E.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: St. A. Sch. E. LK.
+
+Wie schon leuchtet der Morgenstern — How Lovely Shines the Morning Star: Sch. E. SH.
+LK.
+
+3. after Trinity
+
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: K. D.
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: Ge. LL. St. H. SH.
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God?®: Se. Ge. LL. St. H. Sch.
+E. LK.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Ge. LL. St.
+H. D.
+
+O Herre Gott, begnade mich — O Lord God, Be Gracious unto Me? (Ps. 51): LL. St. H. Sch.
+Nun lob mein Seel den Herrn — My Soul, Now Praise Thy Maker: St. E. D.
+
+4. after Trinity
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: K. D.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: K. E. D. LK.
+
+Dies sind die heilgen zehn Gebot — These Are the Holy Ten Commands: Se. Ge. LL. St. A.
+H. Sch. SH. D. Go. LK.
+
+Es sind doch selig alle die — Blessed Indeed Are All Who Walk°: LL. St. H. SH.
+
+Herr, wer wird wohnen — Lord, Who Shall Dwell®: LL. St. H. Go.
+
+Mensch, wiltu leben seliglich — Man, Wouldst Thou Live All Blissfully: LL. St. H. Sch. E.
+Go.
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: E. D.
+
+[p. 71]
+
+5. after Trinity
+
+Wo Gott zum Haus nicht giebt sein Gunst — Unless God Grants the House His Favor®: Ge.
+LL. St. H. SH. D. Go. (a reworking). LK.
+
+Vergebens ist all Mith und Kost — In Vain Is All Our Toil and Cost®: LL. St. H.
+
+Von allen Menschen abgewandt — Turned Away from All Mankind®: LL. St. H.
+
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: St. Sch. D. LK.
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time®: Se. St. Sch.
+
+Es wollt uns Gott genadig sein — May God Bestow on Us His Grace: A. E. D.
+
+Warum betriibst du dich, mein Herz — Why Art Thou Thus Cast Down, My Heart: SH. D.
+Go.
+
+6. after Trinity
+
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: K. Ge. LL. St. A. H. Sch. E.
+SH. D. Go. LK.
+
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: Ge. LL. St. A. H. E.
+SH. D. Go.
+
+Dies sind die heiligen zehn Gebot — These Are the Holy Ten Commands: St. A. D. Go. LK.
+Wol dem Menschen, der wandelt nicht — Blessed Is the Man Who Walketh Not? (Ps. 1): E.
+D.
+
+7. after Trinity
+
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: Ge. LL. St. H. E. SH. D.
+Go. LK.
+
+Warum betrtibst du dich, mein Herz — Why Art Thou Thus Cast Down, My Heart: Ge. LL.
+St. H. Sch. SH. D. Go. LK.
+
+Wol dem, der in Gotts fiirchten steht — Blessed Is He Who Stands in Fear of God®: Ge. LL.
+St. A. H. Go.
+
+Vergebens ist all Mith und Kost — In Vain Is All Our Toil and Cost®: LL. St. H.
+
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: Se. St. Sch. LK.
+8. after Trinity
+
+Ach Gott, vom Himmel sieh darein — O Lord, Look Down from Heaven, Behold: K. Se. Ge.
+LL. St. A. H. Sch. E. SH. D. Go. LK.
+
+O Herre Gott, dein géttlich Wort — O God, Our Lord, Thy Holy Word: Ge. LL. St. H. Sch. E.
+SH. D. Go. (a reworking).
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: St. E. D. Go.
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Se. St. Sch. LK.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: A. E. D.
+
+Erhalt uns, Herr, bei deinem Wort — Lord, Keep Us Steadfast in Thy Word: D. Go. LK.
+
+[p. 72]
+
+9. after Trinity
+
+Es wollt uns Gott genadig sein — May God Bestow on Us His Grace: Ge. LL. St. H. E.
+
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: Ge. LL. St. H. E.
+
+Weltlich Ehr und zeitlich Gut — Worldly Honor and Earthly Goods°: Ge. LL. St. H. D.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: Se. St. Sch.
+LK.
+
+Dies sind die heiligen zehn Gebot — These Are the Holy Ten Commands: St. A. E. SH. D.
+
+O Herr, wer wird sein Wohnung han — O Lord, Who Shall Have His Dwelling® (Ps. 15): A. D.
+Wohl dem, der ohne Wandel — Blessed Are They Whose Way Is Blameless°® (Ps. 119): D. Go.
+Durch Adams Fall ist ganz verderbt — All Mankind Fellin Adam's Fall: Sch. D. LK.
+
+10. after Trinity
+
+Hilf, Gott, wie geht das immer zu — Help, God! How Can These Things Be®: K. Ge. LL. St. H.
+E.
+
+An Wasserfliissen Babylon — Beside the Streams of Babylon°: Ge. Se. LL. St. H. Sch. E. SH.
+D. Go. LK.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: Ge. LL. St.
+H. SH.
+
+Ach Gott, vom Himmel sieh darein — O Lord, Look Down from Heaven, Behold: LL. H. E.
+SH.
+
+Ach Gott, thu dich erbarmen — Ah God, Have Mercy Now’®: St. D.
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: Sch. D. Go.
+
+Nimm von uns, Herr, du getreuer — Take from Us, O Faithful Lord° (Aufer immensam):
+Go. (a reworking). LK.
+
+Another rendering of the Aufer imm[ensam] in D.: "Herr, deinen Zorn wend ab von uns"
+[Lord, Turn Thy Wrath Away from Us°], and in SH.: "Wend ab deinen Zorn" [Turn Away Thy
+Wrath°].
+
+11. after Trinity
+
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God?®: K. Ge. St. SH. D. Go.
+LK.
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: Ge. LL. St. H. Sch. E. D.
+Go. LK.
+
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: Se. Ge. LL. St. A. H.
+Sch. SH. Go. LK.
+
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: Ge. LL. St. H. SH. D.
+
+O Herre Gott, begnade mich — O Lord God, Be Gracious unto Me°®: LL. H.
+
+Herre Gott, dein géttlich Wort — O God, Our Lord, Thy Holy Word: St. E. D.
+
+12. after Trinity
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: K. St. D.
+
+Herr Gott, dich loben alle wir — Lord God, We All to Thee Give Praise®: Ge. LL. St. H.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Ge. LL. St.
+H. E.
+
+[p. 73]
+
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: Ge. LL. St. H. E. SH. D.
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: Se. St. Sch. E. SH.
+LK.
+
+13. after Trinity
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: K. St. Sch.
+LK.
+
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: Ge. St. A. D.
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God?: Ge. LL. St. H.
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: Se. Ge. LL. St. A. H. Sch. E.
+SH. D. Go. LK.
+
+O Herre Gott, begnade mich — O Lord God, Be Gracious unto Me°®: LL. St. H.
+
+Dies sind die heiligen zehn Gebot — These Are the Holy Ten Commands: Se. St. SH. D.
+
+14. after Trinity
+
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God?®: K. Se. St. Sch. SH. D.
+LK.
+
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: Ge. LL. St. H. Sch. E. SH.
+D.
+
+Frélich wolln wir Halleluja singen — Joyfully Will We Sing Hallelujah°: LL. St. H.
+
+Ich dank dem Herren (Ps. 111) — I Thank the Lord®: LL. St. H.
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: Se. St. D.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: E. D.
+
+15. after Trinity
+
+Wo Gott zum Haus nicht giebt sein Gunst — Unless God Grants the House His Favor?: K.
+St.
+
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: Ge. LL. St. H. Sch. E.
+SH. D. LK.
+
+Warum betriibst du dich mein Herz — Why Art Thou Thus Cast Down, My Heart: Ge. LL.
+St. H. Sch. E. SH. D. Go. LK.
+
+Der Herr ist mein getreuer Hirt — The Lord My Faithful Shepherd Is°: Sch. D.
+
+Zweierlei bitt ich von dir (Zwei Ding) — Two Things I Ask of Thee®: E. D. Go.
+
+16. after Trinity
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: K. E. D.
+
+Mitten wir im Leben sind — In the Midst of Earthly Life: K. Se. Ge. LL. St. A. H. Sch. SH. LK.
+Wenn mein Stiindlein vorhanden ist — When My Last Hour Is Close at Hand: Ge. St. SH.
+D. Go.
+
+Ach, lieben Christen, seid getrost — Be Comforted, Dear Christians®: LL. H. E. D. LK.
+
+Mit Fried und Freud ich fahr dahin — In Peace and Joy I Now Depart: Se. LL. St. H.
+
+Mag ich dem Tod nicht — Though I Cannot Withstand Death°: LL. St. H.
+In dich hab ich gehoffet, Herr — In Thee, Lord, Have I Put My Trust: St. E. D.
+
+Wenn wir in héchsten Noéthen sein — When in the Hour of Utmost Need: Sch. LK.
+
+[p. 74]
+
+17. after Trinity
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time®: K. Ge. LL. St. H.
+E. D. Go.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: K. Ge. LL. St. H. E.
+SH. D. Go.
+
+Mensch, wiltu leben seliglich — Man, Wouldst Thou Live All Blissfully: LL. St. H.
+
+Auf meinen lieben Gott — In God, My Faithful God: St. E. D.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Se. St. Sch.
+LK.
+
+Dies sind die heiligen zehn Gebot — These Are the Holy Ten Commands: A. Sch. SH. D.
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: E. D.
+
+18. after Trinity
+
+Dies sind die heiligen zehn Gebot — These Are the Holy Ten Commands: Ge. LL. St. A. H.
+SH. D. LK.
+
+Es ist das Heil uns kommen her — Salvation unto Us Has Come: Ge. LL. St. A. H. E. SH. D.
+Go. LK.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Ge. LL. St.
+H. E. SH.
+
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: Se. St. Sch. E. D. Go. LK.
+Mensch, wiltu leben seliglich — Man, Wouldst Thou Live All Blissfully: St. E. D.
+
+19. after Trinity
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: Ge. LL. St. H. E. SH. D.
+Go. LK.
+
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: Ge. LL. St. H. E. D.
+Go.
+
+Aus tiefer Not laf{$t uns — From Deepest Need Let Us°: St. LL. H.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: Se. St. A. Sch. D. LK.
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: Se. St. Sch. E. D. LK.
+
+20. after Trinity
+
+Kommt her zu mir — Come unto Me?®: K. D. Go.
+
+Ach Gott, vom Himmel sieh darein — O Lord, Look Down from Heaven, Behold: Se. Ge. LL.
+H. Sch. E. SH. D. Go. LK.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: Ge. St. A.
+E.
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time?®: Ge. St. H.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: Ge. LL. St. H. Sch.
+Durch Adams Fall ist ganz verderbt — All Mankind Fell in Adam's Fall: St. D.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: St. E. D. LK.
+Wie schon leuchtet der Morgenstern — How Lovely Shines the Morning Star: Sch. E. SH.
+D. LK.
+
+[p. 75]
+
+21. after Trinity
+
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: K. Sch. LK.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: K. Ge. LL. St. H. E. Go.
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: LL. St. SH.
+
+Herr Jesu Christ, ich schrei zu dir — Lord Jesus Christ, I Cry to Thee®: H. LK.
+
+Ach, lieben Christen, seid getrost — Be Comforted, Dear Christians°: E. D.
+
+22. after Trinity
+
+Erbarm dich mein, o Herre Gott — Have Mercy on Me, O Lord God’: K. Se. Ge. St. Sch. E.
+SH. D. Go. LK.
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: K. D. LK.
+
+Vater unser im Himmelreich — Our Father, Thou in Heaven Above: K. St. A. E. D.
+
+Aus tiefer Noth schrei ich zu dir — From Depths of Woe I Cry to Thee: Ge. LL. St. A. H. E.
+SH. D.
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time®: LL. St.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: LL. St.
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: Sch. E. D. Go. LK.
+
+Ach Gott und Herr — Alas, My God, My Sins Are Great: D. Go.
+
+Herr Jesu Christ, du h6chstes Gut — Lord Jesus Christ, Thou Highest Good?®: Go. LK.
+
+23. after Trinity
+
+Hilf Gott, wie geht das immer zu — Help, God! How Can These Things Be®: K. St.
+
+Wo Gott der Herr nicht bei uns halt — If God Had Not Been on Our Side: K. Ge. St. A. H. E.
+SH. D. Go. LK.
+
+War Gott nicht mit uns diese Zeit — Were God Not with Us at This Time®: Ge. St. H. E. SH.
+D. Go. LK.
+
+Es spricht der Unweisen Mund wohl — The Mouth of Fools Doth God Confess: Se. St. E. D.
+Ein feste Burg ist unser Gott — A Mighty Fortress Is Our God: A. Sch. Go. LK.
+
+Erhalt uns, Herr, bei deinem Wort — Lord, Keep Us Steadfast in Thy Word: A. D.
+
+24. after Trinity
+
+Ich ruf zu dir, Herr Jesu Christ — I Call to Thee, Lord Jesus Christ: K. St.
+
+Herr Jesu Christ, wahr Mensch und Gott — Lord Jesus Christ, True Man and God: Se. Ge.
+St. Sch. E. SH. D. Go.
+
+Herzlich lieb hab ich dich — Lord, Thee I Love with All My Heart: Ge. D.
+
+Mitten wir im Leben sind — In the Midst of Earthly Life: Se. Ge. St. A. Sch. SH. LK.
+
+Wenn mein Stiindlein vorhanden ist — When My Last Hour Is Close at Hand: Ge. E. SH. D.
+Go.
+
+[p. 76]
+
+Allein zu dir, Herr Jesu Christ — In Thee Alone, O Christ, My Lord: LL. St. H. D. Go.
+
+Mit Fried und Freud ich fahr dahin — In Peace and Joy I Now Depart: Se. LL. St. H.
+
+Nun laf$t uns den Leib begraben — Now Lay We Calmly in the Grave: LL. St. H.
+
+Aus tiefer Not schrei ich zu dir — From Depths of Woe I Cry to Thee: E. D.
+
+Ich hab mein Sach Gott heimgestellt — I Leave All Things to God's Direction: D. Go. LK.
+25th, 26th, and 27th after Trinity
+
+Ach Gott, thu dich erbarmen — Ah God, Have Mercy Now°: K. St. LK.
+
+Es wird schier der letzte Tag — The Final Day Will Soon Be Here®: K. LL. St. H. LK.
+Gott hat das Evangelium — God Has the Gospel Given: K. LL. St. H. E. D. LK.
+
+Ihr lieben Christen, freut euch — Rejoice Now, Ye Dear Christians°®: K. St. H. E. D.
+
+Nun freut euch, lieben Christen — Dear Christians, One and All, Rejoice: Sch. SH. LK.
+
+Es ist gewifslich an der Zeit — The Day Is Surely Drawing Near: E. SH. D. Go. LK.
+
+Wie schon leuchtet der Morgenstern — How Lovely Shines the Morning Star: E. SH. LK.
+Purification of Mary
+
+Mit Fried und Freud ich fahr dahin — In Peace and Joy I Now Depart: Sp. K. Se. Ge. LL. St.
+A.H. Sch. E. SH. D. Go. LK.
+
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: Ge. LK.
+
+Ex legis observantia (in German: Wie im Gesetz geschrieben steht — As It Is Written in
+the Law?): St. L. Sch. LK.
+
+Annunciation of Mary
+
+Lob sei dem allmachtigen Gott — Praise Be to God the Almighty°: K. Ge. L.
+
+Nun komm der Heiden Heiland — Savior of the Nations, Come: K. Ge. LL. St. H. SH. Go.
+Als Adam im Paradiese — When Adam Was in Paradise®: K. LL. St. H.
+
+Meine Seele erhebet den Herrn — My Soul Doth Magnify the Lord (Magnificat): LL. St. A.
+H. E. Go.
+
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: St. LK.
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: Se. Ge. St. LK.
+Visitation of Mary
+
+Maria, das Jungfraulein zart — Mary, the Tender Virgin Maid°: K. St.
+
+Meine Seele erhebet den Herrn — My Soul Doth Magnify the Lord: K. Ge. LL. St. H. L. Sch.
+E. SH. D. LK.
+
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: Ge. St. E. D.
+
+(Sie ist mir lieb, die werthe Magd — To Me She's Dear, the Worthy Maid: Ge.)
+
+Nun komm der Heiden Heiland — Savior of the Nations, Come: LL. St. H. Go.
+
+[p. 77]
+
+Herr Christ, der einig Gottes Sohn — The Only Son from Heaven: St. L. (?) Sch. E. LK.
+Nun freut euch, lieben Christen gmein — Dear Christians, One and All, Rejoice: St. Sch. E.
+
+LK.
+
+St. John the Baptist
+
+Christ, unser Herr, zum Jordan kam — To Jordan Came the Christ, Our Lord: Sp. K. Se. Ge.
+
+LL. St. H. E. SH. D. Go. LK.
+
+Gelobet sei der Herr, der Gott — Blessed Be the Lord God° (Benedictus): LL. St. H. L. Go.
+
+LK.
+
+St. Michael
+
+Herr Gott, dich loben alle wir — Lord God, We All to Thee Give Praise®: K. Se. Ge. St. Sch. E.
+
+SH. (Go.: "Herr Gott, dich loben wir" [Lord God, We Praise Thee — the Te Deum]). LK.
+
+Nun lob mein Seel den Herren — My Soul, Now Praise Thy Maker: Se. Ge. St. E. SH. Go.
+
+Es stehn fiir Gottes Throne — Before God's Throne They Stand?®: L. D.
+
+Wer in dem Schutz des Hichsten ist — He Who Dwells beneath the Shelter of the Most
+
+High? (Ps. 91): E. D. Go.
+
+These, then, are the hymns in whose appointment for a given Sunday all, or several, or at
+
+least two of the fifteen hymnals agree, thereby attesting a connection with a general
+
+tradition. The basic stock of these hymns is formed by the contents of the Babst hymnal: of
+
+the 131 hymns contained in its later editions, 85 belong to the Lieder de tempore, among
+
+them all of Luther's — for even the hymn on the Brussels martyrs, which does not appear
+
+above, occurs here and there individually. To these are added five hymns from the hymnals
+
+of the Bohemian Brethren of 1531, 1544, and 1566, together with a number of hymns that
+
+are drawn in over the course of time: hymns by H. Sachs, Er. Alberus, Nic. Herman,
+
+Selnecker, Schneegafd, Barth. Ringwaldt, P. Eber, Ph. Nicolai, L. Helmbold, and others; to
+
+which there then come, from about 1630 onward, some more recent hymns, most of them
+
+by P. Gerhardt and Rist, and besides these individual pieces by Joh. Heermann, J. Franck, E.
+
+Chr. Homburg, and others.
+
+The group of hymns which in this way constitutes the de tempore is, however, also to be
+
+found assembled in other sources, namely in the ecclesiastical choir-hymnals. Of these, too,
+
+a few examples may be given here.
+
+Notes
+
+1. [p.62]"G."in the entry for Vom Himmel hoch is almost certainly a misprint for "Go."
+(Goslar); no siglum "G." is defined in the key.
+2. [pp. 64, 65] Liliencron prints "Ach Gott, im Himmel sieh darein" at 5. after Epiphany,
+
+Septuagesima, and Sexagesima, but "Ach Gott, vom Himmel sieh darein" elsewhere
+(4. after Epiphany, 2., 8., 10., 20. after Trinity). Both readings circulate for Luther's
+Psalm 12 hymn; I have used the same English title for both, but the variation in the
+German is his, not mine.
+
+3. [p.68] "G. LL." at Cantate is almost certainly a misprint for "Ge. LL."
+
+4. [p.70] The Fraktur here is ambiguous between "SH." and a damaged "H.";"SH." is the
+more likely reading.
+
+5. Uncertain identifications. Titles marked ° are my own literal renderings where I
+could not verify an established English translation. Several of these are hymns of
+Michael Weisse and the Bohemian Brethren (Menschenkind, merk eben; Von Adam
+her so lange Zeit; Als Jesus geboren war) and Erasmus Alber (Es wird schier der letzte
+Tag; Ihr lieben Christen, freut euch nun), which have generally not passed into
+English use. Others — notably Christus, der uns selig macht, Da Jesus an dem Kreuze
+stund, Kommt her zu mir, spricht Gottes Sohn, and Danksagen wir alle (Grates nunc
+omnes) — do exist in English versions, but under titles variable enough that I did not
+want to assert one as standard without checking a hymnal directly.
+
+6. "Herr Gott, dich loben alle wir" (Eber, on the angels) must be kept distinct from
+"Herr Gott, dich loben wir" (the German Te Deum). Liliencron himself notes the
+substitution in Go. at Michaelmas.
