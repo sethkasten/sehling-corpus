@@ -15,7 +15,8 @@ a standard **category**, so that orders can be compared intention by
 intention.
 
 `general_prayers.xlsx` is the same data as a workbook. Start with its
-**Compare** sheet.
+**Compare** sheet. The **Archetypes** sheet collates each family's witnesses
+into one text per category.
 
 | | |
 |---|---|
@@ -29,6 +30,7 @@ intention.
 
 ```
 python3 general_prayers/build_gp_db.py        # needs eko.db (verification); ~1 min
+python3 general_prayers/check_archetypes.py   # round-trip check of the archetype collation
 python3 general_prayers/export_xlsx.py        # general_prayers.xlsx from the db
 ```
 
@@ -64,6 +66,8 @@ Curation aids live in the same folder:
 | `rawdump.py` | Prints raw OCR around a pattern |
 | `extract.py` | Aligns a known archetype against another witness and shows the differences |
 | `audit_reuse.py` | Lists the German words that differ wherever a translation is reused from another witness, so the English can be checked |
+| `archetypes.py` | Collates each family's witnesses into the `archetypes` table (run by the builder) |
+| `check_archetypes.py` | Reads every witness's text back out of the collation and compares it with the witness |
 
 ## How the texts were made
 
@@ -302,6 +306,22 @@ The columns are:
 
 These are lookup tables with descriptions, as above.
 
+### `archetypes`: one row per family × category
+
+There are 18 × 28 = 504 rows. A row is empty where no witness of the family
+has a petition of that category. It has these columns:
+
+| Column | |
+|---|---|
+| `family_code`, `category` | |
+| `prayer_original`, `prayer_english` | The collated prayer |
+| `bid_original`, `bid_english` | The collated rubric (first line) and bid |
+| `witnesses` | The family's witnesses that have a petition of this category |
+| `n_texts` | Separately collated petitions in the cell |
+| `named_within` | Categories of petitions that mention this intention only in passing |
+
+See **Family archetypes** below for how the texts are made.
+
 ### Views
 
 | View | What it gives |
@@ -310,6 +330,66 @@ These are lookup tables with descriptions, as above.
 | `category_pivot` | Witness × category. Each cell lists the petition numbers where the category occurs: `3` means primary, `(3)` means secondary. This is the comparison table. |
 | `category_matrix` | Each witness with its `categories_sequence`. |
 | `category_usage` | For each category, the number of petitions and of witnesses that use it. |
+
+## Family archetypes
+
+The `archetypes` table, and the **Archetypes** sheet of the workbook, give
+each family's text for each category. All of the family's witnesses are
+collated into it, so its expansions and local variants can be read at a
+glance. Nothing in it is newly written. Every word is taken from a curated
+witness text, original or English.
+
+**Base text.** The archetype is the family's earliest witness, verbatim.
+This is the witness named in the `families.archetype` column.
+
+**Alignment.** Each other witness is aligned to the base word by word:
+
+- It is a longest-common-subsequence alignment.
+- Spelling is ignored, for example *vnd/und*, *ruw/ruhe*, *-dt/-t*, *ai/ei*,
+  doubled letters, a final *-e*, and small inflectional drift.
+- Variation units separated by two agreeing words or fewer are merged into
+  one unit.
+
+**Reading the brackets.** These conventions apply in both the original and
+the English:
+
+| Written as | Meaning |
+|---|---|
+| plain text | The archetype's reading |
+| `[a \| W1, W2: b \| W3: om.]` | The archetype reads *a*; W1 and W2 read *b*; W3 lacks it |
+| `[+ W1: b]` | W1 adds *b* at this point |
+| `[W1 instead: …]` (after a text) | W1 has an unrelated text in its place, with its own variants nested |
+| `[om. W1, W2]` (after a text) | These witnesses of the family lack the petition, bid or rubric altogether |
+| `[+ W1, W2: …]` (a whole block) | A petition, bid or rubric the archetype lacks. The earliest witness that has it is the base, with the others' variants nested. |
+
+Sehling's own editorial square brackets are shown as `⟨ ⟩` here.
+
+**Several petitions in one category.** Where a family has more than one
+petition in a category, they are collated separately and separated by a
+blank line. This happens, for example, with Lüneburg's two petitions for the
+magistrates, and with the confession and the absolution. A witness's
+petition joins the archetype petition it resembles. It counts as related
+when the alignment covers at least 30 % of the longer text, or at least
+45 % of the shorter text and 20 % of the longer. A petition that resembles
+none is shown as an addition.
+
+**English.** The English is collated in the same way, from each witness's
+own translation. A witness's English variants are shown only where its
+original differs from the base, so two renderings of identical words never
+count as a variant.
+
+**Round-trip check.** `check_archetypes.py` reads every witness's text back
+out of the brackets and compares it with the witness:
+
+- 675 original texts are checked;
+- in English, the base and every witness whose original differs are checked;
+- 1,278 texts in all, with no mismatches.
+
+**Limitations.** Some regional word forms still show as variants, such as
+Low German *mi/mick* and *di/dick* in Hamburg 1529. Where one print joins
+two words (*zuerwerben*), it can read as an omission of one of them.
+Variation units that overlap across many witnesses merge into one wide
+unit, as in the naming of the ruler in the B2 petition for the magistrates.
 
 ## What the comparison shows
 
