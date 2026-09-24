@@ -74,6 +74,8 @@ def main():
         ('Families — the text families (who copied whom), with the archetype of each.', BODY),
         ('Categories — the standard category scheme, with how often each is used.', BODY),
         ('Archetypes — each family\'s text for each category, collated from all its witnesses (see below).', BODY),
+        ('Original / English Prayers Comparison, Original / English Bid-Rubric Comparison — the Archetypes texts laid out', BODY),
+        ('      one row per category and one column per family, to compare a category across families.', BODY),
         ('', BODY),
         ('How the texts were made', BOLD),
         ('Original-language texts are the base text of Sehling\'s edition with his apparatus (sigla, variant editions,', BODY),
@@ -206,6 +208,20 @@ def main():
     rows = q('SELECT u.code, u.label, c.description, u.petitions_primary, u.witnesses_any '
              'FROM category_usage u JOIN categories c ON c.code = u.code ORDER BY u.sort')
     table(ws, heads, rows, [16, 28, 90, 14, 14], wrap={3})
+
+    # ---------------- Comparisons: category x family, one sheet per Archetypes column ----------------
+    fams = q('SELECT code, name FROM families ORDER BY CASE WHEN code LIKE \'R%\' THEN 1 ELSE 0 END, code')
+    cats = q('SELECT code, label, description FROM categories ORDER BY sort')
+    arch = {(f, c): r for f, c, *r in q('SELECT family_code, category, prayer_original, prayer_english, '
+                                        'bid_original, bid_english FROM archetypes')}
+    # Excel forbids "/" in sheet names, hence "Bid-Rubric"
+    for title, col in (('Original Prayers Comparison', 0), ('English Prayers Comparison', 1),
+                       ('Original Bid-Rubric Comparison', 2), ('English Bid-Rubric Comparison', 3)):
+        ws = wb.create_sheet(title)
+        heads = ['Code', 'Label', 'Description'] + [f'{fc} - {name}' for fc, name in fams]
+        rows = [[c, lab, desc] + [arch[(fc, c)][col] for fc, _ in fams] for c, lab, desc in cats]
+        table(ws, heads, rows, [16, 22, 40] + [60] * len(fams),
+              wrap=set(range(2, len(heads) + 1)), freeze='D2')
 
     wb.save(OUT)
     print(f'{OUT}: {np_} petitions, {nw} witnesses')

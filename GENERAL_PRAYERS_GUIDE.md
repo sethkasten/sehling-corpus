@@ -17,6 +17,16 @@ intention.
 `general_prayers.xlsx` is the same data as a workbook. Start with its
 **Compare** sheet. The **Archetypes** sheet collates each family's witnesses
 into one text per category.
+Four comparison sheets lay the same archetype texts out with one row per
+category and one column per family, so that one category can be read across
+all the families:
+
+- **Original Prayers Comparison**;
+- **English Prayers Comparison**;
+- **Original Bid-Rubric Comparison**;
+- **English Bid-Rubric Comparison**.
+
+Excel does not allow "/" in sheet names, which is why these say "Bid-Rubric".
 
 | | |
 |---|---|
