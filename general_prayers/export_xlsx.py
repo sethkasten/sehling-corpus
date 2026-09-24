@@ -73,6 +73,7 @@ def main():
         ('Witnesses — each order: date, territory, citation, family, form, liturgical position, the sequence of categories.', BODY),
         ('Families — the text families (who copied whom), with the archetype of each.', BODY),
         ('Categories — the standard category scheme, with how often each is used.', BODY),
+        ('Archetypes — each family\'s text for each category, collated from all its witnesses (see below).', BODY),
         ('', BODY),
         ('How the texts were made', BOLD),
         ('Original-language texts are the base text of Sehling\'s edition with his apparatus (sigla, variant editions,', BODY),
@@ -81,6 +82,18 @@ def main():
         ('      word order and clause structure where English allows. Where one order copies another, the translation is', BODY),
         ('      reused and patched only where the German differs (column "Translation reused from").', BODY),
         ('"Bid" = the bidding addressed to the people ("Let us pray for …"); "rubric" = the heading or marginal note.', BODY),
+        ('', BODY),
+        ('Archetypes: how to read the brackets', BOLD),
+        ('Plain text is the archetype, i.e. the family\'s earliest witness, verbatim. Other witnesses are aligned to it word by word;', BODY),
+        ('      spelling differences are ignored, and every other difference is written in where it occurs:', BODY),
+        ('[a | W1, W2: b | W3: om.]  — the archetype reads a; W1 and W2 read b; W3 lacks it.', BODY),
+        ('[+ W1: b]  — W1 adds b at this point.', BODY),
+        ('[W1 instead: …]  — W1 has an unrelated text in place of the archetype\'s (with its own variants nested).', BODY),
+        ('[om. W1, W2]  — at the end of a text: these witnesses of the family lack it altogether.', BODY),
+        ('[+ W1, W2: …]  — a whole block: a petition, bid or rubric the archetype lacks, based on the earliest witness that has it.', BODY),
+        ('A petition belongs to the category that is its chief intention; column K lists categories in which it is only named in passing.', BODY),
+        ('English variants are shown only where the original differs, so two renderings of the same words never count as a variant.', BODY),
+        ('Sehling\'s own editorial square brackets appear in this sheet as ⟨ ⟩.', BODY),
         ('', BODY),
         ('Things that will bite you', BOLD),
         ('Dates are those of the order as Sehling edits it; several corpus documents carry a misleading year (see Witnesses notes).', BODY),
@@ -173,6 +186,19 @@ def main():
             for r in q('SELECT code, name, archetype, n_witnesses, description FROM families '
                        'ORDER BY CASE WHEN code LIKE \'R%\' THEN 1 ELSE 0 END, code')]
     table(ws, heads, rows, [6, 36, 30, 10, 80, 70], wrap={2, 3, 5, 6})
+
+    # ---------------- Archetypes ----------------
+    ws = wb.create_sheet('Archetypes')
+    heads = ['Code', 'Family', 'Archetype', 'Witnesses', 'Category',
+             'Prayer (original)', 'Prayer (English)', 'Bid / rubric (original)', 'Bid / rubric (English)',
+             'Witnesses with this category', 'Named in passing within']
+    rows = q('SELECT f.code, f.name, f.archetype, f.n_witnesses, c.label, a.prayer_original, '
+             'a.prayer_english, a.bid_original, a.bid_english, a.witnesses, a.named_within '
+             'FROM archetypes a JOIN families f ON f.code = a.family_code '
+             'JOIN categories c ON c.code = a.category '
+             'ORDER BY CASE WHEN f.code LIKE \'R%\' THEN 1 ELSE 0 END, f.code, c.sort')
+    table(ws, heads, rows, [6, 24, 22, 10, 20, 70, 70, 60, 60, 30, 22],
+          wrap={2, 3, 5, 6, 7, 8, 9, 10, 11}, freeze='F2', band_key=lambda r: r[0])
 
     # ---------------- Categories ----------------
     ws = wb.create_sheet('Categories')

@@ -188,6 +188,8 @@ def main():
                    (w['key'], w['year'], w['order'], w['territory'], w['citation'], w['doc'] if isinstance(w['doc'], int) else ','.join(map(str, w['doc'])),
                     w['family'], family_code(w['family']), w['form'], w['tradition'], w['position'], w.get('heading'),
                     w.get('heading_en'), w.get('notes'), len(w['petitions']), ' > '.join(seqcats)))
+    import archetypes
+    archetypes.build(db)
     db.commit()
     n = db.execute('SELECT COUNT(*) FROM petitions').fetchone()[0]
     print(f'{OUT}: {len(W)} witnesses, {n} petitions')
