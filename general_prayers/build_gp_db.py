@@ -14,6 +14,7 @@ import os, sys, sqlite3, importlib, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from categories import CATEGORIES, ORDER, normalize
+from families import FAMILIES, code as family_code
 
 MODULES = ['w_brenz', 'w_wtb', 'w_bugenhagen', 'w_other', 'w_reformed']
 OUT = os.path.join(HERE, '..', 'general_prayers.db')
@@ -84,9 +85,13 @@ def resolve(W):
 SCHEMA = '''
 CREATE TABLE categories (
   code TEXT PRIMARY KEY, label TEXT, sort INTEGER, description TEXT);
+CREATE TABLE families (
+  code TEXT PRIMARY KEY, name TEXT, archetype TEXT, description TEXT,
+  n_witnesses INTEGER);
 CREATE TABLE witnesses (
   key TEXT PRIMARY KEY, year INTEGER, order_title TEXT, territory TEXT,
-  citation TEXT, eko_doc_id TEXT, family TEXT, form TEXT, tradition TEXT,
+  citation TEXT, eko_doc_id TEXT, family TEXT,
+  family_code TEXT REFERENCES families(code), form TEXT, tradition TEXT,
   position TEXT, heading_original TEXT, heading_english TEXT, notes TEXT,
   n_petitions INTEGER, categories_sequence TEXT);
 CREATE TABLE petitions (
@@ -113,7 +118,28 @@ ORDER BY w.year, w.key, p.seq;
 CREATE VIEW category_matrix AS
 SELECT w.year, w.key AS witness_key, w.territory, w.family, w.categories_sequence
 FROM witnesses w ORDER BY w.year, w.key;
+CREATE VIEW category_usage AS
+SELECT c.sort, c.code, c.label,
+       (SELECT COUNT(*) FROM petitions p WHERE p.category = c.code) AS petitions_primary,
+       (SELECT COUNT(DISTINCT p.witness_key) FROM petitions p WHERE p.category = c.code
+          OR ('; ' || p.subcategories || '; ') LIKE '%; ' || c.code || '; %') AS witnesses_any
+FROM categories c ORDER BY c.sort;
 '''
+
+
+def pivot_view():
+    """witness x category: the petition numbers at which each category occurs,
+    primary category bare ("3"), secondary in brackets ("(5)")."""
+    cols = []
+    for c in ORDER:
+        cols.append(
+            f"GROUP_CONCAT(CASE WHEN p.category = '{c}' THEN CAST(p.seq AS TEXT) "
+            f"WHEN ('; ' || p.subcategories || '; ') LIKE '%; {c}; %' THEN '(' || p.seq || ')' END, ' ') "
+            f'AS "{c}"')
+    return ('CREATE VIEW category_pivot AS SELECT w.year, w.key AS witness_key, w.territory, '
+            'w.family_code, w.n_petitions, ' + ', '.join(cols) +
+            ' FROM witnesses w JOIN (SELECT * FROM petitions ORDER BY witness_key, seq) p '
+            'ON p.witness_key = w.key GROUP BY w.key ORDER BY w.family_code, w.year, w.key;')
 
 
 def main():
@@ -136,6 +162,16 @@ def main():
     if os.path.exists(OUT): os.remove(OUT)
     db = sqlite3.connect(OUT)
     db.executescript(SCHEMA)
+    db.execute(pivot_view())
+    fams = {}
+    for w in W:
+        fc = family_code(w['family'])
+        assert fc in FAMILIES, f"{w['key']}: family {fc!r} not in families.py"
+        fams.setdefault(fc, [w['family'], 0])[1] += 1
+    for fc, (arch, desc) in FAMILIES.items():
+        assert fc in fams, f'family {fc} has no witnesses'
+        db.execute('INSERT INTO families VALUES (?,?,?,?,?)',
+                   (fc, fams[fc][0].split('. ', 1)[1], arch, desc, fams[fc][1]))
     for n, code in enumerate(ORDER, 1):
         label, desc = CATEGORIES[code]
         db.execute('INSERT INTO categories VALUES (?,?,?,?)', (code, label, n, desc))
@@ -148,9 +184,9 @@ def main():
             db.execute('INSERT INTO petitions (witness_key, seq, category, subcategories, rubric_original, rubric_english, bid_original, bid_english, prayer_original, prayer_english, note, translation_reused_from, verify_coverage) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)',
                        (w['key'], i, c, subs, p.get('r'), p.get('r_en'), p.get('b'), p.get('b_en'),
                         p.get('p'), p.get('p_en'), p.get('note'), p.get('_tr_src'), cov.get((w['key'], i))))
-        db.execute('INSERT INTO witnesses VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
+        db.execute('INSERT INTO witnesses VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
                    (w['key'], w['year'], w['order'], w['territory'], w['citation'], w['doc'] if isinstance(w['doc'], int) else ','.join(map(str, w['doc'])),
-                    w['family'], w['form'], w['tradition'], w['position'], w.get('heading'),
+                    w['family'], family_code(w['family']), w['form'], w['tradition'], w['position'], w.get('heading'),
                     w.get('heading_en'), w.get('notes'), len(w['petitions']), ' > '.join(seqcats)))
     db.commit()
     n = db.execute('SELECT COUNT(*) FROM petitions').fetchone()[0]

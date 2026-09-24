@@ -574,7 +574,7 @@ W.append(dict(
     ]))
 
 # ---------------------------------------------------------------------------
-# Family M: intercessions said by the priest in German under the (Latin)
+# Family L: intercessions said by the priest in German under the (Latin)
 # Sanctus, in the place of the intercessions of the Roman Canon (Te igitur /
 # Memento) -- Brandenburg 1540 (Joachim II), followed by Calenberg-Göttingen
 # 1542 and Pfalz-Neuburg 1543.
@@ -583,7 +583,7 @@ W.append(dict(
     order='Mark Brandenburg, Kirchenordnung (Kurfürst Joachim II.)',
     territory='Electorate of Brandenburg',
     citation='Sehling 3, Mark Brandenburg Nr. 3, pp. 68–69',
-    family='M. Intercessions under the Sanctus (Brandenburg 1540)', form='collects said by the priest',
+    family='L. Intercessions under the Sanctus (Brandenburg 1540)', form='collects said by the priest',
     tradition='Lutheran',
     position='In the Mass, after the Preface, while the Latin Sanctus is sung; followed by the Verba (sung in German, with elevation) and the Our Father. The prayers stand where the Roman Canon had its intercessions.',
     heading='Unter dem sanctus sol der priester folgende oration deudsch beten',
@@ -621,7 +621,7 @@ W.append(dict(
     order='Calenberg-Göttingen, Kirchenordnung (Herzogin Elisabeth; Corvinus)',
     territory='Principality of Calenberg-Göttingen',
     citation='Sehling 6/2, III/Calenberg-Göttingen, p. 815',
-    family='M. Intercessions under the Sanctus (Brandenburg 1540)', form='collect said by the priest',
+    family='L. Intercessions under the Sanctus (Brandenburg 1540)', form='collect said by the priest',
     tradition='Lutheran',
     position='In the Mass under the Sanctus; then the Our Father and the Verba (the Lord’s Prayer before the consecration).',
     heading='Unter dem Sanctus bete der priester dieser oration oder collecten eine',
@@ -647,7 +647,7 @@ W.append(dict(
     order='Pfalz-Neuburg, Kirchenordnung (Pfalzgraf Ottheinrich; Osiander)',
     territory='Palatinate-Neuburg',
     citation='Sehling 13, I.2, p. 74',
-    family='M. Intercessions under the Sanctus (Brandenburg 1540)', form='collects said by the priest',
+    family='L. Intercessions under the Sanctus (Brandenburg 1540)', form='collects said by the priest',
     tradition='Lutheran',
     position='In the Mass after the Verba and elevation: “under or after the Sanctus” (sung in Latin by the choir, or a German hymn by the people) the priest says these prayers; then the Our Father, the Pax, the Agnus Dei with the Latin prayers before Communion.',
     heading='Folgen die gebet, so der priester unter oder nach dem Sanctus sprechen sol',
@@ -715,14 +715,14 @@ W.append(dict(
     ]))
 
 # ---------------------------------------------------------------------------
-# Family N: pulpit biddings after the sermon in the medieval "Prone" pattern
+# Family M: pulpit biddings after the sermon in the medieval "Prone" pattern
 # (biddings, Decalogue, confession, Creed, Our Father).
 W.append(dict(
     key='norden_1528', doc=2111, year=1528,
     order='Norden (East Frisia), Gottesdienstordnung [ca. 1528]',
     territory='Norden, County of East Frisia',
     citation='Sehling 7/1, IV/Ostfriesland Nr. 6, p. 431',
-    family='N. Pulpit biddings in the Prone pattern', form='biddings + Decalogue + confession + Creed + Lord’s Prayer',
+    family='M. Pulpit biddings in the Prone pattern', form='biddings + Decalogue + confession + Creed + Lord’s Prayer',
     tradition='Early evangelical (East Frisian; later Reformed)',
     position='Every Sunday after the sermon (“na dat sermoen”): three biddings, then the Ten Commandments, a confession of sins, the Creed with a confession of faith, and the Our Father.',
     heading='Dese nabeschrevene manier wert geholden to Norden alle Sondaechs na dat sermoen',
