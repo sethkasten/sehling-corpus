@@ -77,3 +77,26 @@ W.append(dict(
           r='So etlike sunderge gemene node vorvallen, alse to biddende vor dat korne, hoppen, fruchte etc. vor ein tidtlick wedder, jegen bose sucht edder pestilentie etc., de kanme wol mit inbringen.',
           tr_sub=[('against evil murrain and pestilence', 'against evil sickness or pestilence')]),
     ]))
+
+W.append(dict(
+    key='osnabrueck_1543', doc=2096, year=1543,
+    order='Stift Osnabrück, Kirchenordnung (Hermann Bonnus): Ordenunge der evangelischen missen',
+    territory='Prince-Bishopric (Stift) and city of Osnabrück',
+    citation='Sehling 7/1, III/Stift Osnabrück, pp. 224–225',
+    family='H. Bugenhagen pulpit exhortation', form='prescription of contents (indirect speech)',
+    tradition='Lutheran',
+    position='In the Mass after the exposition of the Gospel from the pulpit and the recitation of the catechism: an exhortation to prayer, then “Verleih uns Frieden gnädiglich” is sung; after the sermon the Credo, Preface and Sanctus follow.',
+    heading='Ordenunge der evangelischen missen, de to Osenbrugge in den kerspelskercken geholden werd',
+    heading_en='Order of the evangelical Mass that is held at Osnabrück in the parish churches',
+    notes='Low German. The corresponding chapter of the Osnabrück city order of 1543 (Sehling 7/1, p. 258) is almost word for word the same. Sehling compares Tecklenburg 1543 and Minden 1530.',
+    petitions=[
+        P('word', sub='exhortation',
+          b='Nach der uhtlegginge des evangelii schal de pastor de worde des catechismi affseggen umb des gemeinen volkes willen und darnach vermanen to bidden, ersten vor de sake des hilligen evangelii,',
+          b_en='After the exposition of the Gospel the pastor shall say over the words of the catechism for the sake of the common people, and thereafter exhort them to pray: first, for the cause of the holy Gospel;'),
+        P('civil-authority', sub='peace',
+          b='tom andern vor de weltliche overicheit und gemeinen frede, sonderlich aver vor unsen gnadigen forsten und herr des landes, vor dat werdige capittel und einen ehrsamen rat der stadt,',
+          b_en='secondly, for the temporal magistrates and common peace, but especially for our gracious prince and lord of the land, for the worthy chapter and an honourable council of the city;'),
+        P('congregation', sub='special',
+          b='tom drudden vor de ganzen gemeine und vor alle andere not lives und der sehlen, dar men des vor begeren iß und Gade bekant. Darnach sall werden gesungen: Verlehne uns frede gnädiglich.',
+          b_en='thirdly, for the whole congregation and for all other need of body and soul, wherefor it is desired and is known to God. Thereafter shall be sung: Grant us peace graciously.'),
+    ]))

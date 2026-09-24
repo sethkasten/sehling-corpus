@@ -713,3 +713,36 @@ W.append(dict(
         P('special', sub='afflicted; childbirth', tr_from=('lueneburg_1564', 8),
           r='Wenn denn etwas fürfellet, darvon sonderliche bitt zu tun ist, als vor sönderliche kranken, vor frauen, die in kindesnöten sein und was sonst vor not und sachen des landes oder sonderer personen fürfallen, das sol diesem gemeinem gebet auch mit kurzen worten angehangen werden.'),
     ]))
+
+# ---------------------------------------------------------------------------
+# Family N: pulpit biddings after the sermon in the medieval "Prone" pattern
+# (biddings, Decalogue, confession, Creed, Our Father).
+W.append(dict(
+    key='norden_1528', doc=2111, year=1528,
+    order='Norden (East Frisia), Gottesdienstordnung [ca. 1528]',
+    territory='Norden, County of East Frisia',
+    citation='Sehling 7/1, IV/Ostfriesland Nr. 6, p. 431',
+    family='N. Pulpit biddings in the Prone pattern', form='biddings + Decalogue + confession + Creed + Lord’s Prayer',
+    tradition='Early evangelical (East Frisian; later Reformed)',
+    position='Every Sunday after the sermon (“na dat sermoen”): three biddings, then the Ten Commandments, a confession of sins, the Creed with a confession of faith, and the Our Father.',
+    heading='Dese nabeschrevene manier wert geholden to Norden alle Sondaechs na dat sermoen',
+    heading_en='This manner written hereafter is observed at Norden every Sunday after the sermon',
+    notes='Low Dutch. Sehling compares the medieval pulpit office (Prone) and the Preußische Agende 1525, Bremen 1534, Osnabrück 1543, Bergedorf 1544 and the London order.',
+    petitions=[
+        P('civil-authority', sub='peace',
+          r='Dese nabeschrevene manier wert geholden to Norden alle Sondaechs na dat sermoen.',
+          r_en='This manner written hereafter is observed at Norden every Sunday after the sermon.',
+          b='I. Laet ons aenroepen en bidden God, onsen hemelsken Vader, voor onse gnädige here mit sinen rade en amptluyden en voor alle overheit der werelt, dat hoer God regere en regeren laet na sine woerde en Geeste tot gemeinen welvaren en vrede.',
+          b_en='I. Let us call upon and pray God, our heavenly Father, for our gracious lord with his council and officers, and for all the magistracy of the world, that God would govern them and let them govern according to his word and Spirit, unto the common welfare and peace.',
+          note='“bemelsken” (print) read “hemelsken”.'),
+        P('ministers', sub='word',
+          b='II. Vor alle getrouwe dienaren en herderen der scapen Christi, dat se vrymoedeliken en eendrachteliken Gods woert voeren en den gekruysten Christum verkondigen.',
+          b_en='II. For all faithful ministers and shepherds of the sheep of Christ, that they may set forth God’s word boldly and with one accord, and preach Christ crucified.'),
+        P('enemies', sub='errant; turks; confession',
+          b='III. Item voer alle onse vyanden en alle ongelovigen: heiden, Joden, Turken en valsche Christen, dat se God met sinen woerde en Geeste verlichte en hem goede herderen geve. Laet ons onse krancheit en sonden bekennen, die ons ut Gods geset en geboden werden openbaert.',
+          b_en='III. Item, for all our enemies and all unbelievers: heathen, Jews, Turks and false Christians, that God would enlighten them with his word and Spirit and give them good shepherds. Let us confess our weakness and sins, which are made manifest to us out of God’s law and commandments.'),
+        P('decalogue', sub='confession; creed; lords-prayer',
+          r='Die tein geboden. … Ic gelove an God den Vader … Onse Vader in die hemelen …',
+          r_en='The Ten Commandments. … I believe in God the Father … Our Father in the heavens …',
+          note='The Decalogue, a confession of sins, the Apostles’ Creed with a short confession of faith (“Dat is, ic beken en neme vergevinge myner sonden …”) and the Our Father (with doxology) follow; not transcribed here.'),
+    ]))
