@@ -18,6 +18,11 @@ def norm_tokens(s):
 
 
 def doc_tokens(did):
+    if isinstance(did, (tuple, list)):          # text running over two documents
+        did = tuple(did)
+        if did not in _cache:
+            _cache[did] = [t for d in did for t in doc_tokens(d)]
+        return _cache[did]
     if did not in _cache:
         t = sqlite3.connect(DB).execute('SELECT text FROM documents WHERE id=?', (did,)).fetchone()[0]
         _cache[did] = norm_tokens(t)

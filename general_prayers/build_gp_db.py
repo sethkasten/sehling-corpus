@@ -86,7 +86,7 @@ CREATE TABLE categories (
   code TEXT PRIMARY KEY, label TEXT, sort INTEGER, description TEXT);
 CREATE TABLE witnesses (
   key TEXT PRIMARY KEY, year INTEGER, order_title TEXT, territory TEXT,
-  citation TEXT, eko_doc_id INTEGER, family TEXT, form TEXT, tradition TEXT,
+  citation TEXT, eko_doc_id TEXT, family TEXT, form TEXT, tradition TEXT,
   position TEXT, heading_original TEXT, heading_english TEXT, notes TEXT,
   n_petitions INTEGER, categories_sequence TEXT);
 CREATE TABLE petitions (
@@ -149,7 +149,7 @@ def main():
                        (w['key'], i, c, subs, p.get('r'), p.get('r_en'), p.get('b'), p.get('b_en'),
                         p.get('p'), p.get('p_en'), p.get('note'), p.get('_tr_src'), cov.get((w['key'], i))))
         db.execute('INSERT INTO witnesses VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)',
-                   (w['key'], w['year'], w['order'], w['territory'], w['citation'], w['doc'],
+                   (w['key'], w['year'], w['order'], w['territory'], w['citation'], w['doc'] if isinstance(w['doc'], int) else ','.join(map(str, w['doc'])),
                     w['family'], w['form'], w['tradition'], w['position'], w.get('heading'),
                     w.get('heading_en'), w.get('notes'), len(w['petitions']), ' > '.join(seqcats)))
     db.commit()
