@@ -17,16 +17,26 @@ intention.
 `general_prayers.xlsx` is the same data as a workbook. Start with its
 **Compare** sheet. The **Archetypes** sheet collates each family's witnesses
 into one text per category.
-Four comparison sheets lay the same archetype texts out with one row per
-category and one column per family, so that one category can be read across
-all the families:
+Eight comparison sheets lay the family texts out with one row per category
+and one column per family, so that one category can be read across all the
+families. They come in two sets of four:
 
-- **Original Prayers Comparison**;
-- **English Prayers Comparison**;
-- **Original Bid-Rubric Comparison**;
-- **English Bid-Rubric Comparison**.
+- **Critical** sheets show the archetype texts with every variant in square
+  brackets (see **Family archetypes**).
+- **Representative** sheets show one clean text per family, without brackets
+  (see **Representative texts**).
 
-Excel does not allow "/" in sheet names, which is why these say "Bid-Rubric".
+| Critical | Representative |
+|---|---|
+| **Orig Prayers - Critical** | **Orig Prayers - Representative** |
+| **Eng Prayers - Critical** | **Eng Prayers - Representative** |
+| **Orig Bids - Critical** | **Orig Bids - Representative** |
+| **Eng Bids - Critical** | **Eng Bids - Representative** |
+
+The "Bids" sheets hold the rubric (first line) and the bid, that is, the
+Archetypes sheet's bid/rubric columns. Excel does not allow "/" in sheet
+names and allows at most 31 characters. That is why the names are shortened
+to "Orig", "Eng" and "Bids".
 
 | | |
 |---|---|
@@ -40,7 +50,7 @@ Excel does not allow "/" in sheet names, which is why these say "Bid-Rubric".
 
 ```
 python3 general_prayers/build_gp_db.py        # needs eko.db (verification); ~1 min
-python3 general_prayers/check_archetypes.py   # round-trip check of the archetype collation
+python3 general_prayers/check_archetypes.py   # round-trip check of the collation; representative layout
 python3 general_prayers/export_xlsx.py        # general_prayers.xlsx from the db
 ```
 
@@ -326,11 +336,14 @@ has a petition of that category. It has these columns:
 | `family_code`, `category` | |
 | `prayer_original`, `prayer_english` | The collated prayer |
 | `bid_original`, `bid_english` | The collated rubric (first line) and bid |
+| `rep_prayer_original`, `rep_prayer_english` | The representative prayer |
+| `rep_bid_original`, `rep_bid_english` | The representative rubric and bid |
 | `witnesses` | The family's witnesses that have a petition of this category |
 | `n_texts` | Separately collated petitions in the cell |
 | `named_within` | Categories of petitions that mention this intention only in passing |
 
-See **Family archetypes** below for how the texts are made.
+See **Family archetypes** and **Representative texts** below for how the
+texts are made.
 
 ### Views
 
@@ -400,6 +413,61 @@ Low German *mi/mick* and *di/dick* in Hamburg 1529. Where one print joins
 two words (*zuerwerben*), it can read as an omission of one of them.
 Variation units that overlap across many witnesses merge into one wide
 unit, as in the naming of the ruler in the B2 petition for the magistrates.
+
+## Representative texts
+
+The representative texts give one clean text per family and category, with
+no brackets. They are built from the same collation as the critical texts,
+following five rules.
+
+1. **Layout.** A representative cell is filled exactly where the critical
+   cell is. `check_archetypes.py` checks this.
+2. **Majority.** A petition is kept if at least half the family's witnesses
+   to that category have it. Within a petition, a rubric, bid or prayer is
+   kept if at least half its witnesses have it. Word by word:
+   - a variant replaces the parent's reading only if at least half the
+     witnesses to that text have it, and more have it than have the parent's
+     reading;
+   - an addition is kept if at least half the witnesses to that text have it.
+3. **Moved words.** A transposition appears in the collation as an omission
+   at one place and an addition at another. Both are decided by the votes
+   above, so the order that more witnesses have wins. On a tie, the
+   parent's order is kept: an addition with exactly half the witnesses is
+   dropped when its words already stand in the parent close by.
+4. **Consistent openings and endings.** Within each family one pattern is
+   applied, taken from the family's own majority:
+   - **A (Brenz):** bids end "Bittend also:" (*Pray ye thus:*). Collects end
+     bare, as in Schwäbisch Hall 1526. The mediation formula and Amen that
+     two collects carry are removed.
+   - **B1 (Württemberg long form):** bids end "Bittend also:". Collects end
+     "durch unsern Herrn Jesum Christum, Amen." (*through our Lord Jesus
+     Christ. Amen.*) wherever they carry a mediation formula or lack a
+     closing Amen.
+   - **L (Brandenburg):** collects end "durch deinen son Jesum Christum,
+     amen." (*through thy Son Jesus Christ. Amen.*). This replaces the
+     abbreviation "durch unsern herrn etc.".
+
+   The other families' texts are continuous prayers or exhortations whose
+   openings and endings are already consistent.
+5. **Divergent texts.** Where no reading has half the witnesses, the
+   parent's reading stands. The parent is the earliest witness: the
+   archetype, or for an added petition the earliest witness that has it.
+   The same applies when no petition, or no group of related texts, has
+   half the witnesses.
+
+**English.** The English is not voted on separately. Each English
+variation unit takes the reading of the witnesses whose reading the original
+chose at the same place. It is matched to the original by relative position
+and by which witnesses vary there. Where only the English varies, meaning
+two translations of the same words, the parent's English is kept. The two
+columns therefore represent the same text.
+
+**Editorial brackets.** Sehling's editorial brackets are removed. His
+alternative in Kurpfalz 1563, "(auch einen erbern rath dieser statt)
+[einer erbaren gemein dieses orts.]", is rendered "(auch einen erbern rath
+dieser statt oder einer erbaren gemein dieses orts)". The English reads
+"(and also an honourable council of this city, or an honourable commune of
+this place)".
 
 ## What the comparison shows
 

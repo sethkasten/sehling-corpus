@@ -132,9 +132,9 @@ def units(A, B):
     return [tuple(u) for u in merged], dict(pairs)
 
 
-def collate(base, others, canon):
-    """base: text; others: [(siglum, text)].  Returns (collated text, set of
-    sigla whose text differs substantively from the base)."""
+def _collation(base, others, canon):
+    """-> (base tokens, canonical base tokens, {start: (end, [[text, [sigla]], ...])},
+    set of sigla that differ).  Only readings that differ from the base are listed."""
     Braw = tokens(base)
     Bk = [canon(t) for t in Braw]
     n = len(Braw)
@@ -168,10 +168,20 @@ def collate(base, others, canon):
             rk = [k for k in Wk[lo:hi] if k]
             if len(rk) == len(base_key) and all(tok_eq(a, b) for a, b in zip(rk, base_key)):
                 continue
-            groups.setdefault(tuple(rk), [' '.join(Wraw[lo:hi]), []])[1].append(sig)
+            key = next((g for g in groups if len(g) == len(rk) and all(tok_eq(a, b) for a, b in zip(g, rk))),
+                       tuple(rk))
+            groups.setdefault(key, [' '.join(Wraw[lo:hi]), []])[1].append(sig)
             differ.add(sig)
         if groups:
             at[S] = (E, list(groups.values()))
+    return Braw, Bk, at, differ
+
+
+def collate(base, others, canon):
+    """base: text; others: [(siglum, text)].  Returns (collated text, set of
+    sigla whose text differs substantively from the base)."""
+    Braw, Bk, at, differ = _collation(base, others, canon)
+    n = len(Braw)
     out, i = [], 0
     while i <= n:
         if i in at:
@@ -187,6 +197,101 @@ def collate(base, others, canon):
             out.append(Braw[i])
         i += 1
     return ' '.join(out), differ
+
+
+def _append(out, text):
+    """Append an inserted reading.  If it ends in its own punctuation, the
+    punctuation of the word before it gives way; if it continues the sentence
+    (starts in lower case), that punctuation moves to its end."""
+    if out and out[-1][-1:] in ',:;.':
+        p = out[-1][-1]
+        if text[-1:] in ',:;.' and p != '.':
+            out[-1] = out[-1][:-1]
+        elif text[:1].islower() and text[-1:] not in ',:;.':
+            out[-1] = out[-1][:-1]
+            text += p
+    out.append(text)
+
+
+def represent(base, others, canon, total=None, follow=None):
+    """Representative text.  A variant replaces the base reading only if at
+    least half the witnesses have it and more have it than have the base;
+    otherwise (ties, or no reading with half the witnesses) the base, i.e. the
+    parent, stands.  An addition is
+    kept if at least half the witnesses have it, unless it is a transposition
+    tie (its words stand in the base close by), where the base order is kept.
+    `total` is the number of witnesses to this text (base included); witnesses
+    not in `others` count as agreeing with the base.
+
+    With `follow` (the decisions made on the original-language text) the
+    choice is not voted but taken over: each unit takes the reading of the
+    witnesses whose reading the original chose at the corresponding place
+    (matched by relative position and by the witnesses varying there); a unit
+    with no counterpart in the original keeps the base.
+    Returns (text, decisions); decisions = [(from, to, varying sigla, chosen
+    sigla or None for the base)], positions relative to the text length."""
+    Braw, Bk, at, _ = _collation(base, others, canon)
+    total = total or 1 + len(others)
+    n = len(Braw)
+    out, dec, i = [], [], 0
+
+    def followed(S, E, groups, varying):
+        """The reading (a group, or None for the base) that agrees with most
+        of the original's decisions around this place; ties keep the base."""
+        lo, hi = S / max(n, 1) - 0.08, E / max(n, 1) + 0.08
+        near = [d for d in follow if d[0] <= hi and d[1] >= lo]
+        def agrees(W, d):
+            if d[3] is None:
+                return not (W & d[2])
+            return bool(W & d[3])
+        best, score = None, sum(d[3] is None for d in near)
+        for g in sorted(groups, key=lambda g: -len(g[1])):
+            sc = sum(agrees(set(g[1]), d) for d in near)
+            if sc > score:
+                best, score = g, sc
+        return best
+
+    while i <= n:
+        if i in at:
+            E, groups = at[i]
+            varying = set().union(*(set(g[1]) for g in groups))
+            best = max(groups, key=lambda g: len(g[1]))
+            nbest = len(best[1])
+            if follow is not None:
+                g = followed(i, E, groups, varying)
+                if g is not None and g[0]:
+                    _append(out, g[0]) if E == i else out.append(g[0])
+                elif g is None:
+                    out.extend(Braw[i:E])
+                if E > i:
+                    i = E
+                    continue
+            elif E == i:
+                chosen = None
+                if best[0] and 2 * nbest >= total:
+                    k = [x for x in (canon(t) for t in tokens(best[0])) if x]
+                    near = [x for x in Bk[max(0, i - 30):i + 30] if x]
+                    moved = 2 * nbest == total and bool(k) and sum(
+                        any(tok_eq(x, y) for y in near) for x in k) >= 0.6 * len(k)
+                    if not moved:
+                        _append(out, best[0]); chosen = set(best[1])
+                dec.append((i / max(n, 1), i / max(n, 1), varying, chosen))
+            else:
+                nbase = total - sum(len(g[1]) for g in groups)
+                chosen = None
+                if nbest > nbase and 2 * nbest >= total:
+                    chosen = set(best[1])
+                    if best[0]:
+                        out.append(best[0])
+                else:
+                    out.extend(Braw[i:E])
+                dec.append((i / max(n, 1), E / max(n, 1), varying, chosen))
+                i = E
+                continue
+        if i < n:
+            out.append(Braw[i])
+        i += 1
+    return ' '.join(' '.join(out).split()), dec
 
 
 # ---- clustering -------------------------------------------------------------
@@ -236,9 +341,9 @@ def similar(a, b):
     return bool(A and B) and 2 * len(align(A, B)) / (len(A) + len(B)) >= FIELD_SIM
 
 
-def collate_field(items):
-    """items: [(siglum, original, english)], base first.  Witnesses whose
-    text is unrelated to the base form their own 'instead' groups."""
+def text_groups(items):
+    """Split [(siglum, original, english)] into groups of related texts; the
+    first group is headed by the base."""
     groups = []
     for it in items:
         for g in groups:
@@ -246,6 +351,39 @@ def collate_field(items):
                 g.append(it); break
         else:
             groups.append([it])
+    return groups
+
+
+def represent_field(items):
+    """Representative (original, english) of one field: the base's group of
+    related texts, unless another group holds at least half the witnesses and
+    more than the base's group; then word-level majority within it."""
+    groups = text_groups(items)
+    g = groups[0]
+    for h in groups[1:]:
+        if 2 * len(h) >= len(items) and len(h) > len(g):
+            g = h
+    (bs, bo, be), rest = g[0], g[1:]
+    _, _, _, differ = _collation(bo, [(s, x) for s, x, _ in rest], canon_de)
+    o, dec = represent(bo, [(s, x) for s, x, _ in rest], canon_de)
+    e, _ = represent(be, [(s, y) for s, x, y in rest if s in differ and y], canon_en,
+                     total=len(g), follow=dec)
+    return _editorial(o, 0), _editorial(e, 1)
+
+
+def _editorial(text, lang):
+    """Sehling's square brackets (shown as ⟨ ⟩) in a representative text: an
+    alternative printed after a parenthesis -- Kurpfalz 1563 "(auch einen
+    erbern rath dieser statt) [einer erbaren gemein dieses orts.]" -- becomes
+    "… oder …" inside it; otherwise the brackets are dropped."""
+    text = re.sub(r'\)\s*⟨([^⟩]*?)\.?⟩', r' oder \1)' if lang == 0 else r', or \1)', text)
+    return text.replace('⟨', '').replace('⟩', '')
+
+
+def collate_field(items):
+    """items: [(siglum, original, english)], base first.  Witnesses whose
+    text is unrelated to the base form their own 'instead' groups."""
+    groups = text_groups(items)
     res = []
     for g in groups:
         (bs, bo, be), rest = g[0], g[1:]
@@ -280,11 +418,113 @@ def render_cluster(c, family_wits, base_key):
     return out
 
 
+# ---- rule 4: one pattern of bid and collect endings per family --------------
+# Chosen from the representative texts themselves (the family's majority
+# pattern).  'bid': the formula closing a bid that introduces a collect;
+# 'prayer': the closing of a collect -- a (original, English) formula that
+# replaces any mediation formula and is added where the collect has no
+# closing Amen, or None to strip mediation formula and Amen (Brenz 1526
+# ends its collects bare).
+FORMULAS = {
+    'A':  {'bid': ('Bittend also:', 'Pray ye thus:'), 'prayer': None},
+    'B1': {'bid': ('Bittend also:', 'Pray ye thus:'),
+           'prayer': ('durch unsern Herrn Jesum Christum, Amen.', 'through our Lord Jesus Christ. Amen.')},
+    'L':  {'prayer': ('durch deinen son Jesum Christum, amen.', 'through thy Son Jesus Christ. Amen.')},
+}
+# categories whose prayer is a collect of the series (not the Lord's Prayer,
+# Creed, confession, etc.)
+NOT_COLLECT = {'exhortation', 'confession', 'lords-prayer', 'creed', 'decalogue',
+               'blessing', 'special', 'communicants', 'conclusion'}
+
+_MED = {0: r'[,;.]?\s*\bdurch\s+(unsern|unseren|deinen|Jesum)\b[^.;:]{0,45}$',
+        1: r'[,;.]?\s*\b(through|by)\s+(our Lord|our LORD|thy (dear |beloved )?Son|Jesus Christ)\b[^.;:]{0,40}$'}
+_AMEN = r'[,.;]?\s*\b(amen|AMEN|Amen)\.?\s*$'
+_BID = {0: r'[.,;]?\s*(und\s+)?\b(bitt|bett|bet)\w*\s+(mit mir\s+)?al+so:\s*$',
+        1: r'[.,;]?\s*(and\s+)?\bpray ye\s+(with me\s+)?thus:\s*$'}
+
+
+def _end_prayer(text, lang, formula):
+    body = re.sub(_AMEN, '', text)
+    body = re.sub(r'\s*\betc\.?$', '', body)
+    m = re.search(_MED[lang], body)
+    had_med = bool(m)
+    if m:
+        body = body[:m.start()]
+    body = body.rstrip(' ,;.')
+    if formula is None:
+        return body + '.'
+    if had_med or not re.search(_AMEN, text):
+        return f'{body}, {formula}' if lang == 0 else f'{body}; {formula}'
+    return text
+
+
+def _end_bid(text, lang, formula):
+    body = re.sub(_BID[lang], '', text, flags=re.I)
+    body = re.sub(r'\s*,?\s*\betc\.?$', ' etc.', body).rstrip(' ,;')
+    if not body.endswith(('.', '!', '?', 'etc.')):
+        body += '.'
+    return f'{body} {formula}'
+
+
+def normalize_formulas(fc, cat, block):
+    """Apply FORMULAS to one representative block {field: (orig, en)}."""
+    f = FORMULAS.get(fc)
+    if not f or cat in NOT_COLLECT or 'prayer' not in block:
+        return block
+    block = dict(block)
+    if 'prayer' in f:
+        block['prayer'] = tuple(_end_prayer(t, i, f['prayer'] and f['prayer'][i])
+                                for i, t in enumerate(block['prayer']))
+    if 'bid' in f and 'bid' in block:
+        block['bid'] = tuple(_end_bid(t, i, f['bid'][i]) for i, t in enumerate(block['bid']))
+    return block
+
+
+def representative_cell(cl, cat_wits):
+    """Representative texts of one family x category.
+    -> {'prayer': [(orig, en), ...], 'bid': [[(orig, en) rubric/bid lines], ...]}
+    A petition (cluster) is kept if at least half the family's witnesses to the
+    category have it; if none has, the earliest witness's petition(s) are kept.
+    Within a kept petition a field (rubric, bid, prayer) is kept if at least
+    half its witnesses have it.  If a column would come out empty although
+    some witness has text for it, the field held by most witnesses (ties: the
+    earliest) is used, so every non-empty critical cell has a representative."""
+    kept = [c for c in cl if 2 * len({k for k, _ in c}) >= len(cat_wits)]
+    if not kept:
+        kept = [c for c in cl if c[0][0] == cl[0][0][0]]
+    blocks = []
+    for c in kept:
+        members = {k for k, _ in c}
+        fields = {}
+        for name, io, ie in FIELDS:
+            have = [(k, p) for k, p in c if p[io]]
+            if have and 2 * len(have) >= len(members):
+                fields[name] = represent_field([(siglum(k), p[io], p[ie]) for k, p in have])
+        blocks.append(fields)
+    for col, names in (('prayer', ['prayer']), ('bid', ['bid', 'rubric'])):
+        if any(n in b for b in blocks for n in names):
+            continue
+        best = None
+        for c in cl:
+            for name in names:
+                io = dict((f[0], f[1]) for f in FIELDS)[name]
+                have = [(k, p) for k, p in c if p[io]]
+                if have and (best is None or len(have) > best[0]):
+                    best = (len(have), name, have)
+        if best:
+            _, name, have = best
+            io, ie = [(f[1], f[2]) for f in FIELDS if f[0] == name][0]
+            blocks.append({name: represent_field([(siglum(k), p[io], p[ie]) for k, p in have])})
+    return blocks
+
+
 SCHEMA = '''
 CREATE TABLE archetypes (
   family_code TEXT REFERENCES families(code), category TEXT REFERENCES categories(code),
   prayer_original TEXT, prayer_english TEXT,
   bid_original TEXT, bid_english TEXT,
+  rep_prayer_original TEXT, rep_prayer_english TEXT,
+  rep_bid_original TEXT, rep_bid_english TEXT,
   witnesses TEXT, n_texts INTEGER, named_within TEXT,
   PRIMARY KEY (family_code, category));
 '''
@@ -312,8 +552,8 @@ def build(db):
             P = pets.get((fc, cat), {})
             named = '; '.join(labels[c] for c in cats if c in within.get((fc, cat), ())) or None
             if not P:
-                db.execute('INSERT INTO archetypes VALUES (?,?,?,?,?,?,?,?,?)',
-                           (fc, cat, None, None, None, None, None, 0, named))
+                db.execute('INSERT INTO archetypes VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)',
+                           (fc, cat) + (None,) * 9 + (0, named))
                 continue
             cl = clusters(ws, P)
             main = [c for c in cl if c[0][0] == ws[0]]
@@ -326,10 +566,20 @@ def build(db):
                     if lines:
                         blocks.append('\n'.join(lines))
                 return '\n\n'.join(blocks) or None
-            db.execute('INSERT INTO archetypes VALUES (?,?,?,?,?,?,?,?,?)',
-                       (fc, cat, join(['prayer'], 0), join(['prayer'], 1),
-                        join(['rubric', 'bid'], 0), join(['rubric', 'bid'], 1),
-                        '; '.join(siglum(k) for k in ws if k in P), len(cl), named))
+            rep = [normalize_formulas(fc, cat, blk) for blk in representative_cell(cl, set(P))]
+            def rjoin(fields, lang):
+                blocks = []
+                for pr in rep:
+                    lines = [pr[f][lang] for f in fields if f in pr]
+                    if lines:
+                        blocks.append('\n'.join(lines))
+                return '\n\n'.join(blocks) or None
+            row = [fc, cat, join(['prayer'], 0), join(['prayer'], 1),
+                   join(['rubric', 'bid'], 0), join(['rubric', 'bid'], 1),
+                   rjoin(['prayer'], 0), rjoin(['prayer'], 1),
+                   rjoin(['rubric', 'bid'], 0), rjoin(['rubric', 'bid'], 1),
+                   '; '.join(siglum(k) for k in ws if k in P), len(cl), named]
+            db.execute('INSERT INTO archetypes VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)', row)
 
 
 if __name__ == '__main__':

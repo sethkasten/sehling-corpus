@@ -74,8 +74,9 @@ def main():
         ('Families — the text families (who copied whom), with the archetype of each.', BODY),
         ('Categories — the standard category scheme, with how often each is used.', BODY),
         ('Archetypes — each family\'s text for each category, collated from all its witnesses (see below).', BODY),
-        ('Original / English Prayers Comparison, Original / English Bid-Rubric Comparison — the Archetypes texts laid out', BODY),
-        ('      one row per category and one column per family, to compare a category across families.', BODY),
+        ('Orig / Eng Prayers and Orig / Eng Bids (rubric and bid), each "- Critical" and "- Representative" — one row per category and', BODY),
+        ('      one column per family, to compare a category across families. "Critical" = the Archetypes texts with all', BODY),
+        ('      variants in brackets; "Representative" = one clean text per family (see below).', BODY),
         ('', BODY),
         ('How the texts were made', BOLD),
         ('Original-language texts are the base text of Sehling\'s edition with his apparatus (sigla, variant editions,', BODY),
@@ -96,6 +97,17 @@ def main():
         ('A petition belongs to the category that is its chief intention; column K lists categories in which it is only named in passing.', BODY),
         ('English variants are shown only where the original differs, so two renderings of the same words never count as a variant.', BODY),
         ('Sehling\'s own editorial square brackets appear in this sheet as ⟨ ⟩.', BODY),
+        ('', BODY),
+        ('Representative texts: how they are made', BOLD),
+        ('A cell is filled exactly where the critical cell is. Within it, a petition is kept if at least half the family\'s', BODY),
+        ('      witnesses to that category have it; if none has, the earliest witness\'s (the parent\'s) is kept.', BODY),
+        ('Word by word, a variant replaces the parent\'s reading only if at least half the witnesses to that text have it and', BODY),
+        ('      more have it than the parent\'s; an addition is kept if at least half have it. Otherwise the parent stands.', BODY),
+        ('Moved words: the order more witnesses have wins; on a tie the parent\'s order is kept.', BODY),
+        ('The English follows the choices made in the original, so both columns represent the same text.', BODY),
+        ('Endings are harmonised within a family: Brenz (A) bids end "Bittend also:" and its collects end bare, as in 1526;', BODY),
+        ('      Württemberg long form (B1) bids end "Bittend also:" and its collects "durch unsern Herrn Jesum Christum, Amen.";', BODY),
+        ('      Brandenburg (L) collects "durch deinen son Jesum Christum, amen." Sehling\'s brackets are removed.', BODY),
         ('', BODY),
         ('Things that will bite you', BOLD),
         ('Dates are those of the order as Sehling edits it; several corpus documents carry a misleading year (see Witnesses notes).', BODY),
@@ -213,10 +225,14 @@ def main():
     fams = q('SELECT code, name FROM families ORDER BY CASE WHEN code LIKE \'R%\' THEN 1 ELSE 0 END, code')
     cats = q('SELECT code, label, description FROM categories ORDER BY sort')
     arch = {(f, c): r for f, c, *r in q('SELECT family_code, category, prayer_original, prayer_english, '
-                                        'bid_original, bid_english FROM archetypes')}
-    # Excel forbids "/" in sheet names, hence "Bid-Rubric"
-    for title, col in (('Original Prayers Comparison', 0), ('English Prayers Comparison', 1),
-                       ('Original Bid-Rubric Comparison', 2), ('English Bid-Rubric Comparison', 3)):
+                                        'bid_original, bid_english, rep_prayer_original, rep_prayer_english, '
+                                        'rep_bid_original, rep_bid_english FROM archetypes')}
+    # Excel forbids "/" in sheet names and allows at most 31 characters,
+    # hence "Orig"/"Eng" and "Bids" (the bid sheets hold rubric and bid)
+    for title, col in (('Orig Prayers - Critical', 0), ('Eng Prayers - Critical', 1),
+                       ('Orig Bids - Critical', 2), ('Eng Bids - Critical', 3),
+                       ('Orig Prayers - Representative', 4), ('Eng Prayers - Representative', 5),
+                       ('Orig Bids - Representative', 6), ('Eng Bids - Representative', 7)):
         ws = wb.create_sheet(title)
         heads = ['Code', 'Label', 'Description'] + [f'{fc} - {name}' for fc, name in fams]
         rows = [[c, lab, desc] + [arch[(fc, c)][col] for fc, _ in fams] for c, lab, desc in cats]

@@ -4,7 +4,7 @@ word (spelling-tolerant, as in the collation), with that witness's own text.
 
     python3 general_prayers/check_archetypes.py      # after build_gp_db.py
 """
-import os, sys, sqlite3
+import os, re, sys, sqlite3
 from collections import defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import archetypes as A
@@ -110,7 +110,17 @@ def main():
                             if not same(reconstruct(col, s), want, canon):
                                 bad += 1
                                 print(f'{fc} {cat} {name} {lang} {s}:\n  got  {reconstruct(col, s)[:200]}\n  want {" ".join(A.tokens(want))[:200]}')
-    print(f'{checked} witness texts (original and English) read back, {bad} mismatches')
+    # representative texts: filled exactly where the critical text is, and clean
+    cols = ('prayer_original', 'prayer_english', 'bid_original', 'bid_english')
+    for fc, cat, *v in db.execute('SELECT family_code, category, ' + ', '.join(cols) + ', '
+                                  + ', '.join('rep_' + c for c in cols) + ' FROM archetypes'):
+        for c, crit, rep in zip(cols, v[:4], v[4:]):
+            checked += 1
+            if (crit is None) != (rep is None) or (rep and re.search(r'[\[\]⟨⟩]', rep)):
+                bad += 1
+                print(f'{fc} {cat} rep_{c}: critical {"empty" if crit is None else "filled"}, '
+                      f'representative {rep[:80] if rep else "empty"}')
+    print(f'{checked} texts checked (witnesses read back from the collation, representative layout), {bad} problems')
     sys.exit(1 if bad else 0)
 
 
