@@ -4,7 +4,7 @@ This file gives the offertory and eucharistic rites of the orders in the Sehling
 that keep pieces of the Roman Canon and of the priest's prayers of the Ordinary, or that
 put a prayer of their own in the Canon's place. Sections 2–5 give the four orders first
 studied; sections 6–15 give the further orders found by a search of the whole corpus
-(§1.2).
+(§1.3).
 
 | Order | Sehling | `eko.db` doc | Pages |
 |---|---|---|---|
@@ -49,7 +49,7 @@ name the Roman text each piece comes from.
 
 ## Contents
 
-- [1. What survives where: a concordance](#1-what-survives-where-a-concordance)
+- [1. Summary of findings](#1-summary-of-findings)
 - [2. Worms, Deutsche Messe, 1524](#2-worms-deutsche-messe-1524)
 - [3. Nürnberg, Döber's Deutsche Messe, 1525](#3-nürnberg-döbers-deutsche-messe-1525)
 - [4. Brandenburg, Kirchenordnung, 1540](#4-brandenburg-kirchenordnung-1540)
@@ -68,35 +68,201 @@ name the Roman text each piece comes from.
 
 ---
 
-## 1. What survives where: a concordance
+## 1. Summary of findings
 
-### 1.1 The four orders of §§2–5
+The orders printed here run from Kantz's Nördlingen Mass of 1522 to the Pfalz-Neuburg
+order of 1543. Between them they show what the first generation of evangelical Masses kept
+of three things:
 
-**Corrections and additions to the working list**
+- the Roman Canon (*Te igitur* to the doxology *Per ipsum*);
+- the prayers of the Ordinary around it: the offertory prayers, the embolism, the priest's
+  prayers before and after communion, and the words of distribution;
+- the rites that go with them: elevation, fraction, the Peace.
 
-| Working list | What the texts show |
-|---|---|
-| *Libera nos · Fili Dei vivi · Domine Iesu Christe qui dixisti*: Brandenburg 1540, Pfalz-Neuburg 1543 | Confirmed. The "Libera nos" here, though, is the petition *inside* *Domine Iesu Christe, Fili Dei vivi* ("Libera nos per hoc sacrosanctum corpus et sanguinem tuum", plural where the Roman text has *me*). It is not the embolism *Libera nos, quaesumus*. Both orders also keep the *Perceptio corporis* (as "Sacramentum corporis tui") and the two ablution prayers *Corpus tuum, Domine* and *Quod ore sumpsimus*, all in Latin. |
-| Embolism: Döber's Nürnberg Mass 1525, indexed at 11:183 and 13:65 | The embolism remnant in Döber is on **p. 54** ("O Herr, erlös uns von allen sichtigen und unsichtigen feinden …"). Sehling's note calls it "Rest des Embolismus". The register entries **11:183 and 13:65** do not point to Döber. They point to the Canon critique of Brandenburg-Nürnberg 1533, repeated in Pfalz-Neuburg 1543 (Appendix). That critique's note explains how the Würzburg embolism added the saints Kilian, Colonat and Totnan. **Worms 1524** also keeps the *conclusion* of the embolism ("Durch Jesum Christum … lebt und herschet") after the Our Father, without its body. |
-| Offertory / epiclesis: Pfalz-Neuburg 1543, p. 73 | Confirmed. This is Osiander's prayer "Herr Jesu Christe, du einiger warer son des lebendigen Gottis …", said over the hosts and cup before the Verba. |
-| Complete Canon: Worms 1524, pp. 127–128 | Confirmed as a *continuous* Canon from *Te igitur* to *Supplices*, but abridged. It has no *Communicantes* saints (only that prayer's closing clause survives), no *Memento* of the dead, no *Nobis quoque* and no *Per ipsum*. The sacrificial nouns are replaced by "bread and wine" and "our prayer". The same order also keeps *Orate fratres*, the common Preface, *Corpus Domini custodiat*, *Calicem salutaris* and a *Perceptio*-based postcommunion. |
-| *Domine Iesu Christe, Fili Dei vivi* in the exhortation: Döber 1525, p. 54 | The prayer comes *after* the exhortation. It is said by the people, line by line after the priest ("Sprecht mir nach"). A priest's private prayer has become a congregational one. |
-| Echoes of *Unde et memores* and *Quam oblationem*: Pfalz-Neuburg 1543, p. 73 | Confirmed. This is the same prayer as the offertory/epiclesis above. The critique on p. 65 (Appendix) had demanded that the *offerimus* of the Canon be replaced by "Wir gedenken des opfers deines einigen Sons". |
+§1.1 summarises the findings in the order of the Mass. §1.2 gives the concordance tables.
+§1.3 says how the corpus was searched and which orders were examined but not printed.
 
-**Not on the working list**
+### 1.1 Findings
 
-- **Döber** gives an optional *gemein gebet* "nach der prefation oder für das Sanctus" that
-  leads straight into *Qui pridie*. That is the place of *Te igitur*. The prayer is taken
-  from the Strasbourg order of 1524.
-- **Döber's postcommunion** ("O Herr, allmechtiger Got, verleih uns in unser gemüt …")
-  renders the Roman postcommunion *Largire sensibus nostris … per temporalem Filii tui
-  mortem, quam mysteria veneranda testantur* (Wednesday in Holy Week). Sehling thought it
-  "newly composed"; the identification is mine.
-- **Worms** keeps *Orate fratres*, with "prayer" in place of "sacrifice".
+**The offertory.**
 
-**Concordance**
+- **The offertory prayers.** Luther rejected everything that "sounds of oblation"
+  (§7.1). No order keeps *Suscipe, sancte Pater*, *Offerimus tibi* or *Suscipe, sancta
+  Trinitas*.
+- **What does survive:**
+  - **the offertory chant**: Latin in Brandenburg 1540 (§4.1); Müntzer's German *Ad te
+    levavi* (§8.1); a German hymn "for the offertory" in Lippe (§12) and Calenberg-Göttingen
+    1542 (§15.1);
+  - **a rubric for preparing the chalice**: Döber (§3.1), Volprecht (§9.2), Bugenhagen's
+    orders (§14.1);
+  - **the *Orate fratres*, recast** as a request for prayer: Worms ("mein und ewer gebet",
+    §2.1), Kantz and Bremen (§6.1, §11.2), and Strasbourg, where it becomes a bidding on
+    Rom 12:1 to offer "our bodies" (§10.1, §10.3);
+  - ***Veni, sanctificator* replaced** by the Whitsun antiphon *Veni, Sancte Spiritus*
+    and a collect: Kantz (§6.2), Bremen, Kiel (§13.1);
+  - **the Secret's closing *Per omnia saecula saeculorum. Amen***, sung before the Preface
+    dialogue: Müntzer (§8.1), Lippe (§12), Göttingen (§15.1).
+- **One prayer over the gifts.** Only Pfalz-Neuburg 1543 has one: Osiander's prayer "Wir
+  bringen … dise deine gaben" (§5.2). It borrows from *Quam oblationem*, *Unde et memores*
+  and *Supplices*, and asks for the Spirit. Sehling's editor, after P. Graff, calls it the
+  first Lutheran order with a kind of epiclesis (Sehling 8, p. 45, n. 12).
 
-"—" means absent; *italic* means a rubric only.
+**The Preface and Sanctus.**
+
+- **The common Preface in German:** Worms, Kantz, Bremen.
+- **Proper Prefaces in German:** Müntzer (Blessed Virgin, reworded so that God, not Mary,
+  is praised), Strasbourg (Cross), Lippe (Trinity), Kiel and Göttingen (Easter).
+- **Luther's short Preface.** Luther cut the Preface off at *per Christum Dominum nostrum*
+  and joined the Verba to it (§7.2). The Nürnberg Latin Mass (§9.1), Döber (§3.2) and
+  Volprecht (§9.2) follow him.
+- **The Sanctus after the Verba:** Luther, Döber, Volprecht and Pfalz-Neuburg.
+
+**The Canon.**
+
+- **The only continuous Canon is Worms 1524** (§2.3–2.9). It runs from *Te igitur* to
+  *Supplices te rogamus* in German, abridged:
+  - there are no saints in *Communicantes* (only its closing clause), no *Memento* of the
+    dead, no *Nobis quoque* and no *Per ipsum*;
+  - the sacrificial nouns become "bread and wine" and "our prayer";
+  - emperor and king replace pope and bishop.
+- **Elsewhere single Canon prayers survive:**
+  - ***Quam oblationem***, recast as a petition that the bread and wine "may become unto
+    us" the body and blood: Kantz (§6.4). Bremen changes it to a prayer that "we may firmly
+    believe" this (§11.3).
+  - ***Unde et memores***, as a thanksgiving "after the elevation": Strasbourg (§10.1). A
+    later hand wrote the Worms text of the prayer into the Strasbourg manuscript.
+- **The Canon's intercession** (the petitions of *Te igitur* and the *Memento*) survives in
+  three ways:
+  - **in the Canon's own place after the Sanctus:** Strasbourg (§10.1); an optional prayer
+    in Döber taken from Strasbourg (§3.11); four collects in Brandenburg (§4.2); three in
+    Pfalz-Neuburg (§5.4); one in Göttingen (§15.1);
+  - **as one long prayer "anstatt des Canon":** Strasbourg 1525 (§10.2);
+  - **as the general prayer after the sermon,** which Bugenhagen calls "unse Canon" (§14.4).
+- **The Canon critique.** The Brandenburg-Nürnberg order of 1533, repeated in Brandenburg
+  1540 and Pfalz-Neuburg 1543, demands that the offering clauses of the Canon be replaced
+  by "Wir gedenken des opfers deines einigen Sons" (Appendix). Sehling's register points to
+  this critique under "Embolismus" (11:183, 13:65), because his note there explains the
+  Würzburg embolism's added saints.
+
+**The words of institution.**
+
+- **Scripture or Canon.** Most orders read the Verba from 1 Cor 11 or a harmony of the
+  Gospels. A distinct line keeps the Canon's own *Qui pridie*: *elevatis oculis*,
+  *benedixit*, *novi et aeterni testamenti*, sometimes *mysterium fidei*. The line runs
+  through Kantz, the Nürnberg Latin Mass, Schwarz at Strasbourg, Müntzer, Bremen, Lippe
+  and Kiel.
+- **Where Müntzer's wording travelled.** It reached Lippe, Kiel and Göttingen's proper
+  Masses through the Erfurt *Kirchenämter* of 1525–26 (§12, §15).
+- **The elevation** is kept by Luther (at the *Benedictus*), Worms, the Nürnberg Latin
+  Mass, Müntzer, Strasbourg (cup only), Brandenburg and Pfalz-Neuburg. Kantz moves it to the
+  communion ("Secht …"). Schleswig-Holstein 1542 permits it.
+
+**The Our Father and the embolism.**
+
+- ***Praeceptis salutaribus moniti*** is recast in German almost everywhere, e.g. "Last
+  uns beten, wie uns der herr Christus Jesus befohlen hat …".
+- **The embolism *Libera nos, quaesumus*.** Luther struck it out. What remains elsewhere:
+  - **its conclusion only** ("Durch unsern Herren Jesum … lebt und herrscht"): Worms,
+    Kantz, Bremen, Lippe;
+  - **its sung ending *Per omnia saecula*** ("Durch alle ewigkeit der ewigkeit"): Müntzer,
+    Lippe;
+  - **one line of its body** ("O Herr, erlös uns von allen sichtigen und unsichtigen
+    feinden …"): Döber (p. 54; Sehling: "Rest des Embolismus") and Strasbourg.
+
+**The fraction.**
+
+- **Forbidden.** Luther forbids the fraction and commixture: "nec frangatur hostia nec in
+  calicem misceatur" (§7.3). Worms repeats the prohibition (§2.11).
+- **Kept in two orders only**, at the Roman place (the close of the embolism, before the
+  Peace), and neither with the commixture:
+  - the 1524 edition of Kantz's Mass, "Hie neme der priester das brot und breche es, so vil
+    ers bedarf" (§6.5);
+  - Müntzer's Allstedt order, where the priest "der communicanten halben das sacrament
+    teilet" (§8.3).
+- **The *Deutsche Messe*** (1526) has no fraction.
+- **Reformed breaking of bread.** Every other mention of breaking the bread in the corpus
+  comes from Reformed orders from the 1550s on (à Lasco, the Palatinate, Anhalt, the Upper
+  Palatinate, Hessen-Kassel). There the bread is broken at the distribution on the ground
+  of 1 Cor 10:16 and Acts 2:42. It is a new rite, not a survival.
+
+**The Peace and the *Agnus Dei*.**
+
+- ***Pax Domini sit semper vobiscum*** survives widely: Worms, Luther (as a "public
+  absolution"), the Nürnberg Latin Mass, Müntzer, Volprecht, Brandenburg, Pfalz-Neuburg,
+  Lippe and Göttingen. Kantz moves it into the communion.
+- **The *Agnus Dei*** is kept in German or Latin by nearly all. Luther has it sung during
+  communion.
+
+**The priest's prayers before communion.**
+
+- **All three kept.** *Domine Iesu Christe, qui dixisti*, *Domine Iesu Christe, Fili Dei
+  vivi* and *Perceptio Corporis tui* stay in Latin in Brandenburg (§4.5) and Pfalz-Neuburg
+  (§5.6). Volprecht has all three in German (§9.2).
+  - The "Libera nos" in these orders is the petition inside *Fili Dei vivi* ("Libera nos
+    per hoc sacrosanctum corpus et sanguinem tuum"), made plural. It is not the embolism.
+- ***Fili Dei vivi* alone** is kept in German by:
+  - Kantz and Bremen, abridged. Bremen changes "by this thy holy body and blood" to "by thy
+    bottomless mercy".
+  - Strasbourg, prayed by all.
+  - Döber and Kiel, said by the people line by line after the priest (§3.8, §13.3).
+- ***Domine, non sum dignus*** appears once, in German, in Kiel (§13.3).
+- ***Qui dixisti*** becomes the closing collect of the Mass in Göttingen (§15.3).
+
+**The words of distribution.**
+
+- **The *custodiat*** (*Corpus Domini nostri Iesu Christi custodiat animam tuam in vitam
+  aeternam*) is the most widespread survival. It appears in about thirty orders of the
+  corpus, from Worms and Volprecht (1524) to 1609:
+  - Worms, Döber, Kantz, Bremen, the Nürnberg *Form und Ordnung*, Göttingen and many
+    later orders;
+  - most in the wording of the Albertine Saxon Agenda of 1539, "Der leib unsers herrn Jesu
+    Christi, fur dich in tod gegeben, sterke und beware dich im glauben zum ewigen leben";
+  - Brandenburg 1540 uses it only for the communion of the sick (Sehling 3, pp. 79–80).
+- ***Calicem salutaris accipiam*** (Ps 116:13) survives in Worms, Kantz, Bremen and
+  Volprecht.
+
+**After communion.**
+
+- ***Quod ore sumpsimus* and *Corpus tuum, Domine*.** Luther made these two ablution
+  prayers the postcommunion (§7.5). Brandenburg and Pfalz-Neuburg keep them in Latin;
+  Volprecht has both in German; Strasbourg has *Quod ore* as its *complenda*.
+- **Roman postcommunions and collects reused:**
+  - Döber's *Largire sensibus nostris* (Wednesday in Holy Week). Sehling thought Döber's
+    prayer newly composed; the identification is new here.
+  - the Trinity *Proficiat*: Volprecht, Lippe;
+  - the collect *Protector in te sperantium*: Kantz.
+- **The priest's final *Placeat tibi, sancta Trinitas*** survives in Kantz, the sacrifice
+  turned into "unser lob und danksagung" (§6.7).
+- **The *Nunc dimittis*** follows communion in Worms, Döber, Kantz and Bremen.
+
+**The priest's preparation and thanksgiving.**
+
+- **Bugenhagen's preparatory prayer** is the evangelical counterpart of the prayers at the
+  foot of the altar (§14):
+  - in Wolfenbüttel 1543 and Hildesheim 1544, the priest kneels with the sexton and prays
+    the *Pater noster* and the versicles *Domine, non secundum peccata nostra … Adiuva nos,
+    Deus*;
+  - in Schleswig-Holstein 1542 he says the *Confiteor* privately and prays for preachers,
+    king and realm.
+- **After Mass,** Hildesheim and Schleswig-Holstein have him kneel again and "thank God
+  secretly for himself".
+
+**How the orders are related.**
+
+- **Kantz** → Bremen (a Low German version) and the opening prayers of Kiel.
+- **Müntzer** → (Erfurt *Kirchenämter*) → Lippe, Kiel, Göttingen.
+- **Strasbourg** → Worms (the same Mass) and Döber's optional intercession.
+- **Luther's *Formula missae*** → the Nürnberg Latin Mass, Döber, Volprecht, Brandenburg.
+- **Nürnberg 1533** → the exhortation and Canon critique of Brandenburg 1540 and
+  Pfalz-Neuburg 1543.
+- **Brandenburg 1540** → Calenberg-Göttingen 1542.
+
+### 1.2 Concordance tables
+
+"—" means absent; *italic* means a rubric only or a permission. Section numbers refer to
+the texts below.
+
+**Table 1. The four orders of §§2–5**
 
 | Roman element | Worms 1524 | Döber 1525 | Brandenburg 1540 | Pfalz-Neuburg 1543 |
 |---|---|---|---|---|
@@ -134,23 +300,7 @@ name the Roman text each piece comes from.
 | Blessing | Trinitarian | Aaronic and Trinitarian | — (1540 prints none) | Aaronic or three alternatives |
 | *Nunc dimittis* | yes | yes | — | — |
 
-### 1.2 Further orders (§§6–15)
-
-A systematic search of the corpus turned up more orders that keep Canon or Ordinary
-prayers, or put a prayer in the Canon's place. They are printed in ten sections. The search used regular expressions for:
-
-- the priest's prayers *Qui dixisti*, *Fili Dei vivi*, *Perceptio*, *Domine non sum
-  dignus*, *Corpus … custodiat*, *Quod ore sumpsimus* and *Corpus tuum*;
-- Canon incipits and the Roman *Qui pridie* ("hub auf seine augen", "neuen und ewigen");
-- offertory language and blessing of the gifts;
-- the fraction ("breche", "teilet", *frangatur*, *fractio*);
-- the embolism;
-- Sehling's register entries *Offertorium*, *Kanongebet*, *Messkanon*, *canon missae*,
-  *Epiklese*, *Konsekration* and *Postcommunio*.
-
-"—" means absent; *italic* means a rubric only or a permission.
-
-**Table A**
+**Table 2. Kantz, Luther, Müntzer and their Low German descendants**
 
 | Roman element | Kantz 1522 (§6) | Luther *FM* 1523 (§7) | Müntzer 1524 (§8) | Bremen 1525 (§11) | Lippe [1525–38] (§12) |
 |---|---|---|---|---|---|
@@ -178,7 +328,7 @@ prayers, or put a prayer in the Canon's place. They are printed in ten sections.
 | *Placeat tibi, sancta Trinitas* | German ("laß dir wolgefallen unser lob und danksagung") | — | — | — | — |
 | *Nunc dimittis* | German, with doxology | — | — | German, with doxology | — |
 
-**Table B**
+**Table 3. Nürnberg, Strasbourg, Kiel, Bugenhagen, Calenberg-Göttingen**
 
 | Roman element | Nürnberg parishes 1524 / *Form* 1525 (§9.1, 9.3) | Volprecht 1524 (§9.2) | Strasbourg 1524–25 (§10) | Kiel [after 1526] (§13) | Bugenhagen 1528–44 (§14) | Calenberg-Göttingen 1542 (§15) |
 |---|---|---|---|---|---|---|
@@ -207,65 +357,21 @@ prayers, or put a prayer in the Canon's place. They are printed in ten sections.
 | Postcommunion | proper *complenda* | Trinity *Proficiat* | *Quod ore* | a collect | Luther's "Wy danken dy" | Brandenburg thanksgiving |
 | Private thanksgiving after Mass | — | — | — | — | kneeling, "hemelick" (1542, 1544) | — |
 
-### 1.3 Findings across the corpus
+### 1.3 Method, and orders examined but not printed
 
-- **The fraction.** Every mention of breaking the bread in the corpus was checked.
-  - **Forbidden.** Luther forbids the fraction and commixture in the *Formula missae*
-    (§7.3). Worms repeats the prohibition in German (§2.11).
-  - **Kept in two orders only:**
-    - the 1524 edition of Kantz's Mass, at the end of the embolism: "Hie neme der priester
-      das brot und breche es, so vil ers bedarf" (§6.5);
-    - Müntzer's Allstedt *Ordnung*, where the priest "der communicanten halben das
-      sacrament teilet" during "Durch alle ewigkeit der ewigkeit" (§8.3).
+The corpus (`eko.db`, all volumes of Sehling) was searched with regular expressions for:
 
-    Both keep the Roman place, at the close of the embolism before the *Pax*. Neither keeps
-    the commixture.
-  - **Luther's other Mass.** The *Deutsche Messe* (1526) has no fraction.
-  - **Everything else is Reformed.** All other breaking of bread in the corpus belongs to
-    Reformed orders from the 1550s on: à Lasco's London order, the Palatinate from the
-    1560s, Anhalt, the Upper Palatinate, Hessen-Kassel 1603–08. There the bread is broken
-    at the distribution on the ground of 1 Cor 10:16 and Acts 2:42. It is a new rite, not a
-    survival of the Roman one.
-- **The *custodiat*.** The formula *Corpus Domini nostri Iesu Christi custodiat animam
-  tuam in vitam aeternam* is the most widespread Canon-period survival in Lutheran use. It
-  appears as a distribution formula in about thirty orders of the corpus, from Volprecht
-  and Worms (1524) to 1609.
-  - **The Saxon form.** Most use the form of the Albertine Saxon Agenda of 1539 (Sehling 1,
-    doc 30): "Der leib unsers herrn Jesu Christi, fur dich in tod gegeben, sterke und
-    beware dich im glauben zum ewigen leben". The same form is in Brandenburg 1540's
-    communion of the sick (Sehling 3, pp. 79–80), though not in its Mass (§4.7).
-  - **Other examples:** the Kronstadt Agenda 1547, Augsburg 1548, the Palatinate 1556,
-    Hessen 1582, Solms 1603. Variants with "erhalte" or "stärke"
-    include Ulm 1531, Prussia 1541, Strasbourg (Marbach) 1553 and 1564, and Albertine
-    Saxony 1580.
-  - **Low German forms:** Buxtehude 1526 ("sterke und bewahre dy im geloven tom ewigen
-    levende"), Mecklenburg 1540, Hamburg 1556, Oldenburg 1552.
-  - These orders keep nothing else of the Ordinary at the communion, so they are listed
-    here and not printed.
-- **The Roman *Qui pridie*.** Most evangelical orders read the Verba from 1 Cor 11 or
-  harmonise the Gospels. A distinct line keeps the Canon's own wording:
-  - *elevatis oculis*, *benedixit*, *novi et aeterni testamenti*, sometimes *mysterium
-    fidei*;
-  - found in Kantz (§6), Nürnberg's Latin Mass (§9.1), Schwarz at Strasbourg (§10.1),
-    Müntzer (§8), Bremen (§11), Lippe (§12) and Kiel (§13).
+- the priest's prayers *Qui dixisti*, *Fili Dei vivi*, *Perceptio*, *Domine non sum
+  dignus*, *Corpus … custodiat*, *Quod ore sumpsimus* and *Corpus tuum*;
+- Canon incipits and the Canon form of the Verba ("hub auf seine augen", "neuen und
+  ewigen");
+- offertory language and blessing of the gifts;
+- the fraction ("breche", "teilet", *frangatur*, *fractio*);
+- the embolism;
+- Sehling's register entries *Offertorium*, *Kanongebet*, *Messkanon*, *canon missae*,
+  *Epiklese*, *Konsekration* and *Postcommunio*.
 
-  Müntzer's text reached Lippe and Kiel, and Calenberg-Göttingen's propers (§15), through
-  the Erfurt *Kirchenämter* of 1525–26.
-- **The Secret's *Per omnia saecula*** survives as a sung Amen before the Preface
-  dialogue: Müntzer (§8.1), Lippe (§12) and Göttingen (§15.1).
-- **The Canon's intercession.** It survives in three places:
-  - in the Canon's slot, after the Sanctus: Strasbourg (§10), Döber (§3.11), Brandenburg
-    (§4.2) and Göttingen (§15.1);
-  - as a long prayer "anstatt des Canon": Strasbourg 1525 (§10.2);
-  - as the general prayer after the sermon, which Bugenhagen calls "unse Canon" (§14.4).
-- **Bugenhagen's preparatory prayer.** It is not a Canon prayer but a *Stufengebet*: the
-  priest and sexton kneel at the altar and pray the *Pater noster* and the versicles
-  *Domine, non secundum peccata nostra … Adiuva nos, Deus* (Wolfenbüttel 1543, Hildesheim
-  1544, §14.1–14.2). Schleswig-Holstein 1542 has the priest say the *Confiteor* privately
-  and pray for preachers, king and realm (§14.3). The Hildesheim and Schleswig-Holstein
-  orders add a private, kneeling thanksgiving after Mass.
-
-### 1.4 Examined and not included
+Every hit was read in context. The following orders were examined and are not printed:
 
 | Order | Why not printed |
 |---|---|
@@ -277,7 +383,7 @@ prayers, or put a prayer in the Canon's place. They are printed in ten sections.
 | Corvinus, *Kirchenordnung* 1542 (Sehling 21, doc 1460) | Luther's paraphrase and the Verba. The distribution "Nym hen, edt und gedencke …" is Strasbourg's "Gedenckent, glaubent" type (§10.2), not the *custodiat*. |
 | Schwäbisch Hall 1543 (Sehling 17, doc 762) and its communion of the sick, 1537 (doc 761) | *Custodiat* only ("Der Leib unsers Herrn Christi bewar dich zum ewigen leben"). |
 | Later Upper German orders, e.g. Sehling 16, V, 1560 (doc 742), after Basel 1526 | A prayer before communion that echoes the *Perceptio*: "uf das wir dein Nachtmal uns nit zum gericht empfahen, sonder zu dem ewigen leben". |
-| Reformed orders (Kurpfalz from 1563, Anhalt, Hessen-Kassel, à Lasco) | No Canon prayers; the breaking of bread is a new rite (§1.3). |
+| Reformed orders (Kurpfalz from 1563, Anhalt, Hessen-Kassel, à Lasco) | No Canon prayers; the breaking of bread is a new rite (§1.1). |
 
 ---
 
@@ -1033,7 +1139,7 @@ and body! Amen.
 - **The collect.** It follows the Roman postcommunion of Wednesday in Holy Week: *Largire
   sensibus nostris, omnipotens Deus: ut per temporalem Filii tui mortem, quam mysteria
   veneranda testantur, vitam te nobis dedisse perpetuam confidamus*. Sehling calls it
-  "anscheinend neu geschaffen"; the identification is mine. Note that *testantur* ("bear
+  "anscheinend neu geschaffen"; the Roman source is identified here for the first time. Note that *testantur* ("bear
   witness to") is rendered *bedeuten*.
 - **The dismissal.** "Saget dank dem Herren … Got sei lob und dank" answers to *Benedicamus
   Domino / Deo gratias*. Sehling reads "Gehet hin im frid des Herren" as a paraphrase of
@@ -1390,7 +1496,8 @@ second.
      congregational.
    - *Inhaerere* becomes *obedire*.
    - *A te numquam separari* becomes *a tua misericordia nunquam in perpetuum separari*.
-   - This "Libera nos" is the one on the working list.
+   - This petition, "Libera nos per hoc sacrosanctum corpus et sanguinem tuum", is not the
+     embolism *Libera nos, quaesumus*.
 3. ***Perceptio corporis tui*** appears as *Sacramentum corporis tui*.
    - It is plural, and *praesumo* becomes *cupimus*.
    - *Tutamen* stands for *tutamentum*. The stray *tui* after *indigni* is as printed.
@@ -1564,8 +1671,7 @@ Brandenburg 1540. Its shape differs from both in three ways:
 1. **No Preface.** Osiander's exhortation is moved to *before* the consecration.
 2. **A new prayer over the elements.** Before the Verba the priest says Osiander's
    newly written prayer over the hosts and cup. In it he "brings before thy divine majesty
-   these thy gifts, bread and wine". This is the offertory and epiclesis of the working
-   list.
+   these thy gifts, bread and wine". It serves as both an offertory and an epiclesis.
 3. **The Sanctus after the Verba.** The Sanctus follows the Verba, and the Brandenburg
    collects are said under it.
 
