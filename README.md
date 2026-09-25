@@ -8,7 +8,7 @@ For Hymn tables guide see `HYMN_GUIDE.md`
 
 For General prayers (Prayers of the Church) guide see `GENERAL_PRAYERS_GUIDE.md`
 
-For the Roman Canon in four German Masses (Worms 1524, Döber's Nürnberg Mass 1525, Brandenburg 1540, Pfalz-Neuburg 1543) see `CANON_IN_GERMAN_MASSES.md`
+For the Roman Canon and the priest's prayers in German evangelical Masses (Kantz 1522, Luther's *Formula missae* 1523, Müntzer 1524, Worms 1524, Nürnberg 1524–25, Strasbourg 1524–25, Bremen 1525, Lippe, Kiel, Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543, and Bugenhagen's preparatory prayer), with a corpus-wide concordance and the fraction findings, see `CANON_IN_GERMAN_MASSES.md`
 
 ## The layers
 
