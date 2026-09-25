@@ -8,6 +8,8 @@ For Hymn tables guide see `HYMN_GUIDE.md`
 
 For General prayers (Prayers of the Church) guide see `GENERAL_PRAYERS_GUIDE.md`
 
+For the Roman Canon in four German Masses (Worms 1524, Döber's Nürnberg Mass 1525, Brandenburg 1540, Pfalz-Neuburg 1543) see `CANON_IN_GERMAN_MASSES.md`
+
 ## The layers
 
 | | What it is | Built by |
