@@ -12,6 +12,8 @@ For the Roman Canon and the priest's prayers in German evangelical Masses (Kantz
 
 For the ranking of feast days (the fate of the medieval grades, the Lutheran scales of high feasts, second-rank feasts and apostles' days, whole and half holy days, the *Vierzeiten*, ceremonial marks of rank, and rules of occurrence and transfer), with a concordance of the orders quoted, see `FEAST_RANKING_GUIDE.md`
 
+For hymn practice in the Mass, the offices and the occasional rites (where hymns were sung, which hymns filled each slot and how fixed each slot was, hymns in place of the introit, gradual, sequence and offertory, troped and paraphrased Kyrie, Gloria, Credo, Sanctus and Agnus Dei, farced sequences, and the reasons the orders give for their choices), with a concordance of the orders quoted, see `HYMN_PRACTICE_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
