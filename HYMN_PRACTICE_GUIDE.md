@@ -22,9 +22,10 @@ per-Sunday and per-feast hymn tables. The tables it holds (Pomerania 1569, Pfalz
 1543) are referred to here but not repeated.
 
 The findings are summarised in §1, and the method is described in §2. §3 sets out the slots in
-outline. §§4–15 follow the slots of the Mass in order. §16 covers the offices, the catechism and
-the weekday services, and §17 the occasional rites. §18 gathers the reasons the orders give. §19
-is a concordance of every order quoted.
+outline. §§4–15 follow the slots of the Mass in order. §16 covers the offices (with the
+*Benedicamus* and the old festal songs such as *Puer natus in Bethlehem*), the catechism and the
+weekday services, and §17 the occasional rites. §18 gathers the reasons the orders give. §19 is
+a concordance of every order quoted.
 
 **Conventions**
 
@@ -193,6 +194,16 @@ Alongside these ran the practical reasons:
   songbook (§18.6).
 - There were limits of language, length and organ use (§§18.7–18.9).
 
+**11. The *Benedicamus* was graded, put into German and sometimes replaced, but never troped.**
+No order in the corpus prescribes a *Benedicamus* troped with a festal song such as *Puer natus
+in Bethlehem*. The *Benedicamus* kept seasonal melodies (*in adventu*, *angelicum*,
+*dominicale*, *paschale* with alleluia), and was sung in German ("Last uns gesegnen den herren")
+at the end of the Mass or office. It could give way to a figured motet of the feast (Hof 1592)
+or to a German hymn, at Christmas "Dank sagen wir alle" (Nördlingen 1555, Wolfenbüttel 1569).
+*Puer natus in Bethlehem* and the other festal songs were sung next to it: upon the Magnificat
+(Naumburg 1537), at the entrance or going out of vespers (Pomerania 1569, Hof 1592), for the
+introit, and after the catechism or sermon (§§16.8–16.10).
+
 ### 1.2 The slots compared
 
 "Fixed" means one hymn, or one per grade or feast. "A handful" means a named choice of two to
@@ -213,6 +224,7 @@ five, often rotated. "Variable" means the hymn changed with the Sunday, gospel o
 | Under the communion (§14) | during the distribution | "Jesus Christus unser Heiland"; "Gott sei gelobet"; "Jesaia"; Ps 111; Agnus; extras by number of communicants | **fixed core**; quantity varies |
 | Post-communion (§15) | after the distribution | "Christe, du Lamm Gottes"; "O Lamm Gottes"; "Gott sei gelobet" | **fixed** |
 | Close (§15) | after the blessing | "Verleih uns Frieden" / *Da pacem*; "Erhalt uns"; "Es woll uns Gott"; "Sei Lob und Ehr"; "Dank sagen wir alle"; festal hymn | **a handful**; festal exchange |
+| *Benedicamus* (§§16.8–16.10) | end of vespers, matins, and some Masses | Latin by grade; German "Last uns gesegnen den herren"; "Dank sagen wir alle" at Christmas; figured motet; festal songs (*Puer natus in Bethlehem*) next to it, not in it | **fixed by grade**; replaced at feasts |
 | Office hymn (§16) | vespers, matins | Latin hymn *de tempore*, purged; German office hymns | **fixed by season** |
 | Catechism service (§16.6) | before or after the catechism sermon | the hymn of the chief part | **fixed by the part taught** |
 | Occasional rites (§17) | baptism, wedding, burial, ordination | "Christ unser Herr zum Jordan kam"; Ps 127/128; "Mitten wir im Leben", "Mit Fried und Freud", "Nun lasst uns den Leib begraben"; "Nun bitten", Te Deum | **a handful** per rite |
@@ -257,7 +269,7 @@ They cover Saxony, Thuringia, the Harz counties, Brandenburg, Silesia, Prussia, 
 Mecklenburg, the Baltic, Schleswig-Holstein, Lower Saxony, Westphalia, Hesse, the Rhineland,
 Franconia, Bavaria, Württemberg, Swabia, Alsace and Transylvania.
 
-The guide quotes 161 orders, held in 142 records. Some records hold several orders:
+The guide quotes 164 orders, held in 145 records. Some records hold several orders:
 for example, the Henneberg village reports, the Nördlingen and Schwäbisch Hall volumes, and
 Prussia 1544/1568.
 
@@ -270,7 +282,7 @@ The search was done in three passes.
    - Latin: *introitus*, *pro introitu*, *loco introitus*, *post confessionem*, *post
      epistolam*, *graduale*, *sequentia*, *prosa*, *tractus*, *post evangelium*, *ante
      concionem*, *post concionem*, *offertorium*, *sub communione*, *post communionem*,
-     *conclusio*, *pro ingressu*, *hymnus*, *cantilena*, *cantio*.
+     *conclusio*, *pro ingressu*, *Benedicamus*, *hymnus*, *cantilena*, *cantio*.
    - German and Low German: *an stat des introitus*, *für den introitum*, *für das Halleluja*,
      *anstat des offertorii*, *an stat des sequenz*, *vor der predigt*, *nach der predigt*,
      *auf die epistel*, *nach der epistel*, *unter der communion*, *under der berichtinge*, *zum
@@ -4563,6 +4575,8 @@ let "God be praised and blessed," etc. be sung for thanksgiving for the same.
 The last hymn of the service was one of a small group: "Gott sei gelobet", "Dank sagen wir
 alle", "Sei Lob und Ehr mit hohem Preis" (the last stanza of "Es ist das Heil"), "Erhalt uns"
 with "Verleih uns Frieden", *Da pacem*, "Es woll uns Gott genädig sein", or a festal hymn.
+Where the Mass ended with the *Benedicamus*, in Latin or German, these hymns followed it or,
+in some orders, stood in its place (§§16.8–16.9).
 Tecklenburg closes with thanksgiving. **Tecklenburg, *Kirchenordnung*, 1543** (Sehling 22, p. 244):
 
 <!-- doc 1505 -->
@@ -5135,6 +5149,402 @@ after the prayer, and no other.
 The Hohenlohe *Gesangsordnung* of 1596 likewise rotated Lobwasser's Psalms 20, 61 and 79 on the
 Friday prayer days, the last "because of the present great need of the Turk", "one Friday after
 the other in order" (Sehling 15, pp. 655–656).
+
+### 16.8 The *Benedicamus*: kept, graded and put into German
+
+The versicle *Benedicamus Domino*, with its response *Deo gratias* or *Deo dicamus gratias*,
+ended matins and vespers. After Luther's *Formula missae* it also ended the Mass. Some Lutheran
+sources outside the church orders sing a festal Latin song, such as *Puer natus in Bethlehem*,
+with the *Benedicamus* or in its stead: a troped or substituted *Benedicamus*. This pass searched
+the corpus for that practice in three ways:
+
+- every mention of the *Benedicamus* (411 passages);
+- the incipits of the medieval *Benedicamus* tropes;
+- the incipits of the old festal songs: *Puer natus in Bethlehem*, *In dulci jubilo*, *Resonet
+  in laudibus*, *Nunc angelorum gloria*, *Dies est laetitiae*, *Joseph lieber Joseph mein*,
+  *Surrexit Christus hodie*.
+
+The result is this:
+
+- **No order in the corpus prescribes a troped *Benedicamus*.** No order names a *Benedicamus*
+  trope. None puts a festal song inside the versicle, or between versicle and response.
+- **The orders keep the *Benedicamus*, grade it by season and put it into German** (this
+  section). **They also let a figured motet or a German hymn take its place** (§16.9).
+- ***Puer natus in Bethlehem* and the other festal songs are found, but at other places.** They
+  come after the Magnificat, just before the collect and *Benedicamus*; at the entrance or going
+  out of festal vespers; for the introit; and after the catechism or the sermon (§16.10).
+
+If the troped *Benedicamus* was sung in these churches, the orders do not record it. It may have
+lived in the cantionals that several orders impose (Lossius, Spangenberg; §18.6), which are not
+part of this corpus.
+
+**At the end of the Mass.** Luther put the *Benedicamus* in the place of *Ite missa est*. He
+allowed the alleluia to be added, and the melodies of the vesper *Benedicamus* to be borrowed.
+**Wittenberg, Luther, *Formula missae*, 1523** (Sehling 1, p. 6):
+
+<!-- doc 2 -->
+> Loco ‘Ite missa’ dicatur: ‘Benedicamus domino’, adiecto (ubi et quando placet) alleluia in
+> suis melodiis. Vel ex vespertinis ‘Benedicamus’ mutuentur.
+
+In the stead of *Ite missa* let there be said *Benedicamus Domino*, with alleluia added (where
+and when it pleaseth) in its own melodies. Or let the *Benedicamus* [melodies] be borrowed from
+those of vespers.
+
+The first Nürnberg Mass ends "mit dem Benedicamus Domino, dominicaliter", followed by "Es woll
+uns Gott genädig sein" (**Nürnberg, *Form und Ordnung einer christlichen Messe*, 1525**,
+Sehling 11, p. 57).
+
+**In German.** Müntzer's Allstedt offices end every matins with a German *Benedicamus*. It is
+plain in Advent and the Passion, with a threefold alleluia at Easter. **Allstedt, Thomas
+Müntzer, *Deutsch kirchenampt*, [1523]**, end of Easter matins (Sehling 1, p. 491):
+
+<!-- doc 50 -->
+> Das benedicamus. […] Last uns gesegnen den herren alleluia alleluia alleluia. Got sei ewiglich
+> dank alleluia alleluia.
+
+The *Benedicamus*. […] Let us bless the Lord, alleluia, alleluia, alleluia. God be thanked for
+ever, alleluia, alleluia.
+
+The Advent form is on p. 475 and the Passion form on p. 485. Müntzer's *Deutsch evangelisch
+messe* of 1524 ends each Mass with the same words (Sehling 1, pp. 501–503), and so does the
+Erfurt *Deutsches Kirchenamt* of 1525 (Sehling 2, pp. 376, 380). In Franconia the German form
+closed the Mass after the thanksgiving collect. **Brandenburg-Ansbach, *Auctuarium*, 1548**
+(Sehling 11, p. 330):
+
+<!-- doc 278 -->
+> Darnach spricht der priester: Laßt uns gebenedeien den Herrn! antwort das volk: Gott sei
+> gelobet! mit volgendem segen, wie in der ordnung verfast.
+
+After that the priest saith: "Let us bless the Lord!" The people answereth: "God be praised!"
+with the blessing following, as it is set down in the order.
+
+Hof printed a melody for it. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 426):
+
+<!-- doc 294 -->
+> Deinde addit diaconus Benedicamus germanicum, hac melodia observata. […] Last uns gebenedeien
+> den Herren. Chorus: Gott sei gedankt.
+
+Then the deacon addeth the German *Benedicamus*, this melody being kept. […] "Let us bless the
+Lord." Choir: "God be thanked."
+
+The Wolfenbüttel convents might close their hours "mit dem Benedicamus deudsch oder
+lateinisch" (**Wolfenbüttel, *Kirchenordnung*, 1569**, Sehling 6/1, p. 261).
+
+**Graded by season.** Like the Kyrie and the Sanctus (§§6, 12), the *Benedicamus* had its own
+melodies for the seasons and ranks. They were named after the Latin chants: *in adventu*,
+*angelicum*, *dominicale*, *paschale*, *festivale*, *feriale*. Hof gives the fullest scheme, with
+notes, in its register of vespers. The rule comes first. **Hof, *Ordo ecclesiasticus*, 1592**
+(Sehling 11, p. 411):
+
+<!-- doc 294 -->
+> IX. Benedicamus Domino; de tempore, bini vel terni pueri: Deo dicamus gratias: totus chorus
+> vel choraliter vel figuraliter.
+
+IX. *Benedicamus Domino*, of the season, [sung by] two or three boys; *Deo dicamus gratias*, the
+whole choir, either in plainsong or in figured music.
+
+The grades then follow:
+
+- *in adventu* (p. 412);
+- *angelicum* at Christmas (p. 412), which Sehling notes is the name of a melody;
+- *dominicale* from Septuagesima to Easter (p. 414), and again from the fifth Sunday after
+  Trinity (p. 420);
+- two Easter forms with a threefold alleluia (p. 417);
+- the Pentecost form with alleluia (p. 419);
+- *festivale seu feriale* (p. 422).
+
+The Easter forms are these (Sehling 11, p. 417):
+
+<!-- doc 294 -->
+> Benedicamus paschale primum: [Noten] Benedicamus Domino | Alleluia, alleluia, alleluia. Deo
+> dicamus gratias | [Ende der Noten]. […] Haec per vices cani solent.
+
+The first Easter *Benedicamus*: *Benedicamus Domino*, alleluia, alleluia, alleluia. *Deo dicamus
+gratias*. […] These are wont to be sung by turns.
+
+The northern orders name the grade without the notes. Pomerania closes Sunday matins so.
+**Pomerania, *Agenda*, 1569** (Sehling 4, p. 437):
+
+<!-- doc 1865 -->
+> Dar up lest de capellan eine collecte, unde dat chor singet benedicamus domino, dominicale vel
+> de tempore.
+
+Thereupon the chaplain readeth a collect, and the choir singeth *Benedicamus Domino*, the Sunday
+[melody] or [that] of the season.
+
+- At Lübeck two children sang the *benedicamus dominicale* after the collect (**Lübeck,
+  *Kirchenordnung*, 1531**, Sehling 5, pp. 348, 351).
+- At Lüneburg, when the thanksgiving day of 1575 fell on a Sunday, morning prayer ended with the
+  *Benedicamus angelicum*. Sehling's note calls it especially elaborate (**Lüneburg,
+  *Kirchenordnung*, 1575**, Sehling 6/1, p. 663).
+
+**The long melodies rejected.** Neuenrade printed the plain and the Easter forms. It dropped
+the long melismatic ones, for they had "few words and [little] devotion". **Neuenrade,
+*Kirchenordnung*, 1564** (Sehling 22, p. 540):
+
+<!-- doc 1544 -->
+> Benedicamus Domino. Deo dicamus gratias. Benedicamus Domino, alleluia, alleluia, alleluia. Deo
+> dicamus gratias, alleluia, alleluia, alleluia. De Benedicamus mit den velen noten sal man
+> bliven laten, wente se maken veel geschreies und hebben wenig worde und andacht.
+
+*Benedicamus Domino. Deo dicamus gratias. Benedicamus Domino*, alleluia, alleluia, alleluia.
+*Deo dicamus gratias*, alleluia, alleluia, alleluia. The *Benedicamus* with the many notes shall
+be let alone, for they make much crying, and have few words and [little] devotion.
+
+### 16.9 The *Benedicamus* replaced: motets and German hymns
+
+**Motets.** Where figured music was sung, Hof let a motet stand in the place of the
+*Benedicamus*. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 411):
+
+<!-- doc 294 -->
+> NB. In figurali tamen cantu motecta (nos mutetam vocamus) aliqua conveniente loco Benedicamus
+> concluduntur preces vespertinae.
+
+N.B. In figured music, however, the evening prayers are concluded with some fitting motet (we
+call it a *mutet*) in the stead of the *Benedicamus*.
+
+Hof's calendar of figured music for the chief feasts names the motets. The text of each belongs
+to the feast:
+
+- the eve of Advent: *Jerusalem plantabis vineam* (Lasso, for 5 voices) (p. 456);
+- Christmas Eve: *Angelus ad pastores ait* (Lasso, for 5) (p. 457);
+- the eve of the Circumcision: *Postquam consummati sunt dies octo* (Joachim a Burck, for 5)
+  (p. 458);
+- the eve of the Epiphany: *Videntes stellam* (Lasso, for 5) (p. 458);
+- the eve of the Annunciation: *Speremus meliora omnes* (Wert, for 5) (p. 460);
+- the eve of the Ascension: *Tempus est ut revertar* (Lasso, for 6) (p. 462).
+
+The plainsong *Benedicamus* of the grade stays as the alternative. Christmas Eve reads so
+(Sehling 11, p. 457):
+
+<!-- doc 294 -->
+> Magnificat quinti toni. A 5. Orlandi. Benedicamus angelicum infra [nicht abgedruckt!] notatum,
+> vel loco ejus: Angelus ad pastores ait. A 5. Orlandi.
+
+Magnificat of the fifth tone, for 5, of Orlando. The *Benedicamus angelicum* noted below [not
+printed!], or in its stead: *Angelus ad pastores ait*, for 5, of Orlando.
+
+**German hymns in its place.** Ostfriesland allowed a German psalm for the *Benedicamus* at both
+vespers and matins. **Ostfriesland, *Kirchenordnung*, 1535** (Sehling 7/1, p. 380):
+
+<!-- doc 2107 -->
+> Und darna synge man Magnificat myt eynen christlicken antiffen ut godtlicker scrift myt eyner
+> christlicken collecten, to latyn offt to duedsche, darna dat Benedicamus effte an syn stadt
+> eyn duedschen psalm.
+
+And thereafter let one sing the Magnificat with a Christian antiphon out of godly Scripture, with
+a Christian collect, in Latin or in German; thereafter the *Benedicamus*, or in its stead a German
+psalm.
+
+At Christmas the hymn in its place was "Dank sagen wir alle", the German form of the Christmas
+sequence *Grates nunc omnes* (§8.3). Nördlingen used it in the festal service held in place of
+matins. **Nördlingen, *Ordnung der ceremonien* at St George's, 1555** (Sehling 12, p. 321):
+
+<!-- doc 373 -->
+> 6. Darauf versikel und collect vom fest, aus dem gesangbuechlin Lutheri. 7. Zum beschluß
+> Danksagen wir alle zu Weihnachten, sonsten das Benedicamus.
+
+6. Thereupon the versicle and collect of the feast, out of Luther's little songbook. 7. For the
+close, "Thanks say we all" at Christmas; otherwise the *Benedicamus*.
+
+The Wolfenbüttel convents made the same choice at morning prayer, all the year round.
+**Wolfenbüttel, *Kirchenordnung*, 1569** (Sehling 6/1, pp. 260–261):
+
+<!-- doc 1974 -->
+> darauf eine reine […] collect deudsch oder lateinisch singen und letzlich mit dem Benedicamus
+> oder Danksagen wir alle etc. beschliessen.
+
+thereupon sing a pure collect in German or Latin, and lastly conclude with the *Benedicamus* or
+"Thanks say we all," etc.
+
+- Pfalz-Zweibrücken closed both the morning and the afternoon service of Christmas Day with
+  "Conclussio: Danckh sagen wir" (§16.10; Sehling 18, p. 340).
+- Hof closed its Christmas matins, after the German collect, with a *Leise* in the place of the
+  conclusion. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 413):
+
+<!-- doc 294 -->
+> Last uns bitten etc. Conclusionis loco canitur: Ein kindelein so löbelich, vel: Gelobet
+> seistu, Jesu Christ, cum versu ultimo Das hat er alles uns getan.
+
+"Let us pray," etc. In the place of the conclusion is sung "A little Child so worthy of praise,"
+or "Praised be thou, Jesu Christ," with the last verse, "All this hath he done for us."
+
+In the Neumark the Königsberg order of 1586, printed by Sehling only in extract, had "Verleih
+uns Frieden" sung instead of the Latin *Benedicamus* after the lessons and the weekday sermons
+(Sehling 3, pp. 236–237).
+
+**German hymns after it.** More often the *Benedicamus* stayed, and a German hymn followed it.
+In Pomerania this was the prayer for peace, sung kneeling. **Pomerania, *Agenda*, 1569**
+(Sehling 4, p. 435):
+
+<!-- doc 1865 -->
+> Dar na lest de prester eine collecte düdisch edder latinisch, unde beslüt dat chor mit dem
+> benedicamus, unde singet dar up, da pacem domine, flexis genibus, latinisch edder düdisch.
+
+After that the priest readeth a collect in German or Latin, and the choir concludeth with the
+*Benedicamus*, and singeth thereupon *Da pacem Domine* on bended knees, in Latin or German.
+
+At Regensburg it was a penitential psalm. **Regensburg, *Kirchenordnung*, 1567**
+(Sehling 13, p. 461):
+
+<!-- doc 450 -->
+> Nach dem Magnificat singt der diaconus ein deudsche collecten, darauf etliche knaben, für dem
+> altar knieend, Benedicamus Domino und der chor: Deo gratias und fort ein deudschen psalmum
+> poenitentialem, das Miserere oder De profundis, Erbarm dich mein usw., O Herre Gott, begnade
+> mich. Aus tiefer not oder Durch Adams fall usw.
+
+After the Magnificat the deacon singeth a German collect; thereupon certain boys, kneeling before
+the altar, [sing] *Benedicamus Domino*, and the choir *Deo gratias*; and forthwith a German
+penitential psalm, the *Miserere* or *De profundis*: "Have mercy on me," etc., "O Lord God, be
+gracious to me," "Out of deep need," or "Through Adam's fall," etc.
+
+The Wolfenbüttel village vespers followed it with "Erhalt uns, Herr, bey deinem wort"
+(Sehling 6/1, p. 154). The Nürnberg Mass of 1525 followed it with "Es woll uns Gott genädig
+sein" (above).
+
+### 16.10 *Puer natus in Bethlehem* and the festal songs
+
+The old Latin songs of the feasts were kept in the schools, often "latin unde düdesch". They were
+sung in Latin by the scholars and in German by the girls or the people, verse about. The corpus
+puts them at four places. None of these is the *Benedicamus* itself.
+
+**After the Magnificat.** At Naumburg the ordinary Sunday vespers ended with the Magnificat and
+its antiphon, "or else a short song of the season", and then the collect and *Benedicamus*.
+**Naumburg, St Wenzel, *Kirchen-Ordnung*, 1537/1538** (Sehling 2, p. 72):
+
+<!-- doc 1219 -->
+> 6. Das magnificat mit seiner antiphon, Christus unser heiland, oder sonst ein kurz gsang nach
+> der zeit und haben zue diesem mal drei ton sextum, septimum et peregrinum. 7. Darnach
+> concludirt man mit der collecten und benedicamus.
+
+6. The Magnificat with its antiphon, "Christ our Saviour," or else a short song according to the
+season; and they have at this time three tones, the sixth, the seventh and the *peregrinus*. 7.
+After that one concludeth with the collect and *Benedicamus*.
+
+At Christmas that short song was *Puer natus in Bethlehem* or one of its fellows
+(Sehling 2, p. 76):
+
+<!-- doc 1219 -->
+> Zur vesper. Christum wir sollen loben schon, vor der predigt. Magnificat sexti toni nach der
+> predigt. Auf das magnificat, In dulci jubilo oder Vom himmel hoch oder Puer natus in
+> Bethlehem. Dergleichen helt man es auch circumcisionis, epiphanae und purificationis.
+
+At vespers: "Christ we should praise fair," before the sermon; the Magnificat of the sixth tone
+after the sermon; upon the Magnificat, *In dulci jubilo*, or "From heaven high," or *Puer natus
+in Bethlehem*. The like is kept also at the Circumcision, the Epiphany and the Purification.
+
+Nördlingen copied the passage word for word in 1555 (Sehling 12, p. 321). This is the nearest
+the corpus comes to *Puer natus* at the *Benedicamus*. It is the last chant before the collect
+and the *Benedicamus*, in the place of the Magnificat antiphon, but it does not replace or trope
+the *Benedicamus*. At Brieg the Christmas song was joined to the Magnificat itself. **Brieg,
+*Kirchenordnung*, 1592** (Sehling 3, p. 445):
+
+<!-- doc 1809 -->
+> darauf die predigt, nach gehaltener predigt das Magnificat resonet in Laudibus, und mit dem
+> Benedicamus beschlossen.
+
+thereupon the sermon; after the sermon is held, the Magnificat [with] *Resonet in laudibus*; and
+concluded with the *Benedicamus*.
+
+The order does not say whether *Resonet* was sung between the verses of the Magnificat or after
+it. Either way the *Benedicamus* follows unchanged.
+
+**At the entrance and the going out.** The Pomeranian *Agenda* let the schoolmaster choose
+*Puer natus in Bethlehem*, *In dulci jubilo*, *Resonet in laudibus* or *Nunc angelorum gloria*
+"pro ingressu vel egressu" at Christmas vespers (§16.2; Sehling 4, p. 435). Sung for the going
+out, such a song came after the *Benedicamus* and *Da pacem* (§16.9). At Hof the three days of
+Christmas vespers opened with a different Latin song each day, with the German sung alongside.
+**Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 433):
+
+<!-- doc 294 -->
+> Vesperi. Primo die: In natali Domini. Secundo: Parvulus nobis nascitur. Tertio: Puer natus in
+> Bethlehem quatuor vocum, ita ut latinum scholastici :germanicum puella cantent. Deinde
+> subiungatur hymnus: Christum wir sollen loben schon.
+
+At vespers. On the first day, *In natali Domini*; on the second, *Parvulus nobis nascitur*; on
+the third, *Puer natus in Bethlehem* in four voices, so that the scholars sing the Latin, the
+girls the German. Then let the hymn "Christ we should praise fair" be joined to it.
+
+Epiphany vespers began the same way ("Initio: Puer natus in Bethlehem: A 4", p. 434). Hof's
+calendar of figured music puts the song at the moment the scholars came into the church, and
+does the same at Easter (Sehling 11, pp. 458, 461):
+
+<!-- doc 294 -->
+> Vesperi. Intrantibus scholasticis in templum canitur: Puer natus in Bethlehem A 4, ita ut
+> puellae germanicos versus accinant.
+
+At vespers. As the scholars enter the church, *Puer natus in Bethlehem* is sung for 4, so that
+the girls sing the German verses to it.
+
+<!-- doc 294 -->
+> Vesperi. Inter introeundum, primo anno: Surrexit Christus hodie, A 4, secundo: surrexit
+> Christus Dominus, A4, quibus germanica puellae addunt.
+
+At vespers. While they go in, in the first year *Surrexit Christus hodie*, for 4; in the second,
+*Surrexit Christus Dominus*, for 4; to which the girls add the German.
+
+**In the school.** The Pomeranian order made the children learn these songs. **Pomerania,
+*Kerckenordeninge*, 1569** (Sehling 4, pp. 401–402):
+
+<!-- doc 1862 -->
+> Item, de olden cantica van den festen. Up winachten. Puer natus in Bethlehem, latin unde
+> düdesch. Nunc angelorum gloria. Resonet in laudibus. Joseph lever Joseph min. In dulci iubilo.
+> Dies est, laetitiae. […] Up paschen. Surrexit Christus hodie, mit dem düdeschen : Erstanden is
+> de hilige christ etc. Up pingesten. Spiritus sancti gratia, latin unde düdesch, unde wat der
+> geliken olde gesenge mer sint, de schölen den kindern vlitich geleret werden.
+
+Item, the old songs of the feasts. At Christmas: *Puer natus in Bethlehem*, Latin and German;
+*Nunc angelorum gloria*; *Resonet in laudibus*; "Joseph, dear Joseph mine"; *In dulci jubilo*;
+*Dies est laetitiae*. […] At Easter: *Surrexit Christus hodie*, with the German "Arisen is the
+holy Christ," etc. At Pentecost: *Spiritus sancti gratia*, Latin and German. And whatever other
+old songs there are of the like, these shall be diligently taught to the children.
+
+The Lüneburg convent orders also name *Puer natus*, *In dulci jubilo* and *Dies est laetitiae*
+among the "christliche gesenge" of the high feasts (Sehling 6/1, pp. 614, 621).
+
+**For the introit, and after the catechism or sermon.** At Sulzfeld (1566) the choir sang "Ein
+Kind geboren zu Bethlehem" in the place of the Christmas introit (§5). A late Bischofswerda order,
+printed from a letter of the council to the cantor of 1676, opens every Sunday with a song of
+the season "zum introitu". **Bischofswerda, *Gottesdienst-Ordnung*** (Sehling 2, p. 106):
+
+<!-- doc 1226 -->
+> 1. Zum introitu im advent: Nun komm’ der heiden heiland. Weihnacht: Puer natus in Bethlehem.
+> Fastnacht: Christus, der uns etc. Ostern: Surrexit Christus etc. Pfingsten : Spiritus s.
+> gratia. Trinitatis: Gott der vater wohn etc.
+
+1. For the introit: in Advent, "Now come, the Saviour of the heathen"; at Christmas, *Puer natus
+in Bethlehem*; at Shrovetide, "Christ, who [maketh] us," etc.; at Easter, *Surrexit Christus*,
+etc.; at Pentecost, *Spiritus sancti gratia*; at Trinity, "God the Father dwell [with us]," etc.
+
+Pfalz-Zweibrücken spread the Christmas songs over the afternoon service. **Pfalz-Zweibrücken,
+*Ordnung der Kirchengesänge*, 1565** (Sehling 18, p. 340):
+
+<!-- doc 985 -->
+> Nachmittag. Introitus: Von himel hoch, da kham ich her etc. Gelobet seistu etc. Post
+> Catechismum: Puer natus in Betlehem. Post Concionem: In dulci iubilo. Conclussio: Danckh sagen
+> wir etc.
+
+Afternoon. Introit: "From heaven high, there came I here," etc.; "Praised be thou," etc. After the
+catechism: *Puer natus in Bethlehem*. After the sermon: *In dulci jubilo*. Close: "Thanks say
+we," etc.
+
+At Hof the Christmas weekday services put *In dulci jubilo*, *Resonet in laudibus* and *Nunc
+angelorum gloria* before or after the sermon. They were sung "wechsels weis", Latin and German by
+turns (Sehling 11, pp. 433–434).
+
+**Summary.**
+
+- The *Benedicamus* was kept as a short versicle and response. Its melody was graded by season:
+  *in adventu*, *angelicum* at Christmas, *dominicale*, and with alleluia at Easter and
+  Pentecost.
+- Where it was enlarged, this was done in two ways. Figured music could put a motet of the feast
+  "loco Benedicamus". A German hymn could take its place, at Christmas "Dank sagen wir alle".
+  Neither is a trope inside the *Benedicamus*.
+- *Puer natus in Bethlehem* and the other festal songs stood next to the *Benedicamus*, not in
+  it. They came upon the Magnificat, at the entrance or going out of vespers, for the introit,
+  and after the catechism or sermon, with Latin and German verses alternating.
+- The one judgement on the long *Benedicamus* melodies in the corpus rejects them (Neuenrade
+  1564).
 
 ---
 
@@ -6376,12 +6786,13 @@ Every order quoted in this guide is listed below by region. The table gives:
 
 | Order | Sehling | Doc | Hymn practice | § |
 |---|---|---|---|---|
-| Wittenberg, Luther, *Formula missae*, 1523 | 1, pp. 8–9 | 2 | wish for vernacular songs near gradual, Sanctus, Agnus; "Gott sei gelobet" after communion | 3.2, 15.2 |
+| Wittenberg, Luther, *Formula missae*, 1523 | 1, pp. 6, 8–9 | 2 | wish for vernacular songs near gradual, Sanctus, Agnus; "Gott sei gelobet" after communion; *Benedicamus* in place of *Ite missa* | 3.2, 15.2, 16.8 |
 | Wittenberg, Luther, *Deutsche Messe*, 1526 | 1, pp. 14–15 | 3 | German psalm at opening; hymn after epistle; "Wir glauben all"; Sanctus, "Gott sei gelobet", Hus hymn at communion | 3.2 |
 | Saxony (Ernestine), *Unterricht der Visitatoren*, 1528 | 1, pp. 169–170 | 9 | songs to differ at feasts; "Mitten wir im Leben" at burial | 17.4, 18.2 |
 | Saxony (Albertine), *Kirchenordnung*, 1539 | 1, pp. 271–275 | 30 | sequence or German psalm "as the season requireth"; village hymn "pro introitu"; "Christe du Lamm" to close; wedding psalms | 5.1, 8.1, 15.1, 15.2, 17.2 |
 | Albertine Saxony, *Die Cellischen Ordnungen*, 1545 | 1, p. 300 | 33 | Latin chant with kneeling prayer "an stadt des offertorii" | 11.3 |
 | Saxony (Albertine), *Kirchenordnung*, 1580 | 1, p. 369 | 44 | communion hymns "one or more" by number of communicants | 14.2 |
+| Allstedt, Thomas Müntzer, *Deutsch kirchenampt*, [1523] | 1, pp. 475–491 | 50 | German *Benedicamus*, with alleluia at Easter | 16.8 |
 | Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1, p. 555 | 78 | all communion hymns sung when communicants are many | 14.2 |
 | Eisfeld, *Verordnung der Visitatoren*, 1554 | 1, p. 562 | 84 | Hus's hymn at communion | 14.1 |
 | Pirna, *Kirchenordnung* of Anton Lauterbach, 1555 | 1, pp. 642–643 | 119 | two German hymns per Sunday, by the sense of epistle and gospel | 8.7 |
@@ -6389,7 +6800,8 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Wittenberg, *Kirchenordnung*, 1533 | 1, pp. 704–705 | 148 | German Benedictus first; farced sequences; communion hymns "until the communion is over"; German Te Deum | 4.3, 6.1, 8.2, 14.2, 16.4 |
 | Merseburg, *Ordinations-Ordnung*, 1545 | 2, p. 7 | 1210 | *Veni creator* at ordination | 17.5 |
 | Naumburg, St Wenzel, *Kirchen-Ordnung*, 1527 | 2, p. 60 | 1218 | "Nun bitten" with added stanza; "Aus tiefer Not" for the offertory | 10.1, 11.3 |
-| Naumburg, St Wenzel, *Kirchen-Ordnung*, 1537/1538 | 2, pp. 71–78 | 1219 | three introit-hymns in rotation; troped German Kyries; "All Ehr und Lob"; hymns split around sermon | 5.2, 6.4, 7.4, 8.6, 11.6 |
+| Naumburg, St Wenzel, *Kirchen-Ordnung*, 1537/1538 | 2, pp. 71–78 | 1219 | three introit-hymns in rotation; troped German Kyries; "All Ehr und Lob"; hymns split around sermon; *Puer natus in Bethlehem* upon the Magnificat at Christmas | 5.2, 6.4, 7.4, 8.6, 11.6, 16.10 |
+| Bischofswerda, *Gottesdienst-Ordnung*, printed from a letter of 1676 | 2, p. 106 | 1226 | festal songs "zum introitu" (*Puer natus in Bethlehem*) | 16.10 |
 | Plauen, *Ordnung der Ceremonien*, 1529 | 2, p. 111 | 1227 | *Salve Jesu Christe* | 16.5 |
 | Schwarzburg and Stolberg, *Ordenunge der religion*, 1549 | 2, p. 130 | 1230 | people sing the Lord's Prayer hymn | 13.1 |
 | Schwarzburg, *Kirchenordnung*, 1574 | 2, pp. 133, 136 | 1230 | *Leisen* from the pulpit; burial hymn | 10.2, 17.4 |
@@ -6420,21 +6832,21 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Nürnberg, Döber's German Mass in the New Hospital, 1525 | 11, p. 56 | 250 | "Nun bitten" printed as the introit | 5.3 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533, later appendix | 11, p. 202 | 270 | penitential hymns only for the unrepentant dead | 17.4 |
 | Brandenburg-Ansbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, p. 316 | 276 | *O crux ave* cut | 16.1 |
-| Brandenburg-Ansbach, *Auctuarium*, 1548 | 11, pp. 329–330 | 278 | pure sequences; psalm-hymns for impure graduals "for the people's sake" | 5.2, 8.2 |
-| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 423–475 | 294 | full Sunday table by slot; kneeling "Nun bitten"; communion hymns by number; baptism, wedding and burial hymns; plan defended against changes | 3.1, 4.1, 6.4, 8.4, 8.8, 10.1, 12.4, 14.2, 16.1, 16.2, 16.7, 17.1, 17.2, 17.4, 18.6 |
+| Brandenburg-Ansbach, *Auctuarium*, 1548 | 11, pp. 329–330 | 278 | pure sequences; psalm-hymns for impure graduals "for the people's sake"; German *Benedicamus* at the end of Mass | 5.2, 8.2, 16.8 |
+| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 411–475 | 294 | full Sunday table by slot; kneeling "Nun bitten"; communion hymns by number; baptism, wedding and burial hymns; plan defended against changes; *Benedicamus* graded and in German; motets in its place; *Puer natus in Bethlehem* at the entrance to vespers | 3.1, 4.1, 6.4, 8.4, 8.8, 10.1, 12.4, 14.2, 16.1, 16.2, 16.7, 16.8, 16.9, 16.10, 17.1, 17.2, 17.4, 18.6 |
 | Nürnberg, Veit Dietrich, *Agendbüchlein*, 1545 | 11, p. 502 | 297 | "Als Jesus Christus" at communion | 14.6 |
 | Schweinfurt, *Kirchenordnung*, 1543 | 11, p. 641 | 304 | "Erhalt uns" after the sermon | 11.1 |
 | Schweinfurt, *Gottesdienstordnung*, 1576 | 11, p. 646 | 304 | four-week plan; "Wir glauben" for "Nun bitten" in Advent | 9.4 |
 | Weißenburg, *Kirchenordnung*, 1528 | 11, p. 659 | 308 | hymns covering the preacher's going up and coming down | 10.5, 11.2 |
 | Wertheim, *Kirchenordnung*, c. 1555 | 11, p. 716 | 323 | Ten Commandments hymn; "Nun freut euch" as a paraphrase of the creed | 16.6 |
 | Nördlingen, *Kirchenordnung* of Kaspar Löner, 1544 | 12, pp. 311–312 | 372 | "Komm heiliger Geist" / "Nun bitten" graded by feast; "All Ehr und Lob"; hymn while the elements are prepared | 4.1, 7.4, 10.1, 11.4 |
-| Nördlingen, *Ordnung der ceremonien* at St George's, 1555 | 12, pp. 318–323 | 373 | Gloria left out in Advent; post-epistle list; Sanctus while people gather; freedom clause | 7.5, 8.7, 12.1, 18.10 |
+| Nördlingen, *Ordnung der ceremonien* at St George's, 1555 | 12, pp. 318–323 | 373 | Gloria left out in Advent; post-epistle list; Sanctus while people gather; freedom clause; "Dank sagen wir alle" for the *Benedicamus* at Christmas | 7.5, 8.7, 12.1, 16.9, 16.10, 18.10 |
 | Nördlingen, *Kirchenordnung*, 1579 | 12, pp. 375–388 | 375 | introit dropped for long psalms and cold; baptism of Christ hymn; thanksgiving day | 5.6, 8.7, 17.6 |
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, p. 72 | 386 | people sing "Wir glauben" while priest sings the *Credo* | 9.1 |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, p. 393 | 432 | Latin Agnus three times; Latin thanksgiving if needed | 14.2 |
 | Regensburg, *Kirchenordnung* of Hieronymus Noppus, 1543 | 13, pp. 408–410 | 436 | weekday psalm "that the people may learn"; hymns for the dying | 16.7, 17.3 |
 | Regensburg, *Kirchenordnung* of Justus Jonas, 1553 | 13, pp. 419–426 | 440 | Prussian litany and "Erhalt uns" after the epistle; office hymn "if not godless"; "Nun bitten" at an execution | 8.9, 16.1, 17.6 |
-| Regensburg, *Kirchenordnung*, 1567 | 13, p. 462 | 450 | "Erhalt uns" as "sequence of the season" | 8.9 |
+| Regensburg, *Kirchenordnung*, 1567 | 13, pp. 461–462 | 450 | "Erhalt uns" as "sequence of the season"; penitential psalm after the *Benedicamus* | 8.9, 16.9 |
 | Ortenburg, *Gottesdienstordnung*, 1563 | 13, p. 532 | 457 | the Passion at communion | 14.6 |
 | Rothenberg, *Vereinigung*, 1618 | 13, p. 550 | 461 | "Gott sei gelobet" as thanksgiving | 15.2 |
 
@@ -6464,7 +6876,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Reutlingen, *Ordnung der Schule und des Kirchengesangs*, 1565/1566 | 17/2, pp. 49, 51 | 828 | opening hymn until the preacher is up; "not always the old common fiddle"; list of psalm-hymns | 4.1, 11.5, 18.4 |
 | Reutlingen, *Artikel der Schulvisitation*, 1574 | 17/2, p. 58 | 830 | hymn after sermon to fit the text; no repetition | 11.5 |
 | Pfalz-Zweibrücken, *Kirchenordnung*, 1557, songbook | 18, pp. 248, 255 | 968 | three German Kyrie-Gloria pairs; no novelty | 6.4, 18.6 |
-| Pfalz-Zweibrücken, *Ordnung der Kirchengesänge*, 1565 | 18, pp. 337, 340 | 985 | three-week plan with slot labels; "Nun bitten" every Sunday (table in `hymns.db`) | 3.1, 10.1 |
+| Pfalz-Zweibrücken, *Ordnung der Kirchengesänge*, 1565 | 18, pp. 337, 340 | 985 | three-week plan with slot labels; "Nun bitten" every Sunday (table in `hymns.db`); Christmas songs after catechism and sermon | 3.1, 10.1, 16.10 |
 | Hintere Grafschaft Sponheim, *Kirchen- und Zensurordnung*, 1590/91 | 18, p. 657 | 1021 | longest hymns before sermon, shortest after; short canon | 18.4 |
 
 **Hesse, Nassau, the Middle Rhine, Westphalia, Strasbourg**
@@ -6492,7 +6904,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Wittgenstein, *Kirchenordnung* [1565] | 22, p. 116 | 1493 | "Aus tiefer Not" as a confession | 4.5 |
 | Tecklenburg, *Kirchenordnung*, 1543 | 22, pp. 243–244 | 1505 | German psalm for the introit; thanksgiving hymns to close | 5.1, 15.3 |
 | Soest, *Kirchenordnung*, 1532 | 22, p. 450 | 1527 | three kneeling boys sing *Veni sancte*; psalm while communicants kneel | 4.1, 11.4 |
-| Neuenrade, *Kirchenordnung*, 1564 | 22, pp. 519, 530–531 | 1544 | seasonal post-epistle table; German Agnus | 8.7, 15.1 |
+| Neuenrade, *Kirchenordnung*, 1564 | 22, pp. 519, 530–531, 540 | 1544 | seasonal post-epistle table; German Agnus; long *Benedicamus* melodies rejected | 8.7, 15.1, 16.8 |
 | Lippe, *Deutsche Messe* [c. 1525–1538] | 22, pp. 565–568 | 1549 | "Aus tiefer Not" as introit; early Low German "Allein Gott"; hymn for the offertory | 5.3, 7.3, 11.3 |
 
 **Lower Saxony, Bremen and East Frisia**
@@ -6500,7 +6912,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Order | Sehling | Doc | Hymn practice | § |
 |---|---|---|---|---|
 | Wolfenbüttel, *Kirchenordnung*, 1543 | 6/1, pp. 54–59 | 1972 | German Benedictus without organ; "Allein Gott" inside the Latin Gloria; Trinitarian German Sanctus; figured-music limit | 4.3, 6.1, 7.1, 12.2, 14.6, 18.8 |
-| Wolfenbüttel, *Kirchenordnung*, 1569 | 6/1, p. 143 | 1974 | Latin for the scholars, German psalm for the people | 8.1 |
+| Wolfenbüttel, *Kirchenordnung*, 1569 | 6/1, pp. 143, 260–261 | 1974 | Latin for the scholars, German psalm for the people; "Dank sagen wir alle" or *Benedicamus* in the convents | 8.1, 16.9 |
 | Braunschweig, Bugenhagen, *Kirchenordnung*, 1528 | 6/1, pp. 438–442 | 1983 | Greek Kyrie defended; songs to rhyme with the feasts; psalm while communicants go to choir; Latin not forbidden | 6.3, 7.3, 9.2, 16.3, 18.2, 18.7 |
 | Braunschweig, *Ordnung der ceremonien auf den dorfern*, undated | 6/1, p. 473 | 1988 | whole village service in hymns | 3.3, 15.3 |
 | Lüneburg, *Kirchenordnung*, 1564 | 6/1, pp. 543–545 | 2003 | litany-hymn after the epistle; baptism there; *Leisen* before the sermon | 8.9, 10.2 |
@@ -6516,7 +6928,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Verden, *Kirchenordnung*, 1606 | 7/1, pp. 155–158 | 2090 | *Veni sancte* at the altar; gospel-matched psalm; *Leisen*; hymn while preacher vests | 4.1, 8.6, 10.2, 11.2 |
 | Osnabrück (Stift), *Kirchenordnung*, 1543 | 7/1, pp. 224–225 | 2096 | creed after the sermon; wedding Te Deum and Ps 128 | 9.2, 17.2 |
 | Osnabrück (city), *Kirchenordnung*, 1543 | 7/1, p. 258 | 2099 | "Allein Gott" inside the Latin Gloria | 7.1 |
-| Ostfriesland, *Kirchenordnung*, 1535 | 7/1, pp. 376, 380 | 2107 | Kyrie and Gloria as in "Allein Gott"; Latin kept in honour | 6.5, 18.7 |
+| Ostfriesland, *Kirchenordnung*, 1535 | 7/1, pp. 376, 380 | 2107 | Kyrie and Gloria as in "Allein Gott"; Latin kept in honour; German psalm in place of the *Benedicamus* | 6.5, 16.9, 18.7 |
 | Engerhafe, *Liturgie*, 1583 | 7/1, pp. 677–681 | 2119 | offertory hymn with organ; "O Lamm Gottes" split across the rite; communion hymns | 11.3, 13.2, 14.6 |
 | Marienhafe, *Kirchenordnung*, 1593 | 7/1, pp. 695, 697 | 2120 | Kyrie "Ach Vater" and Te Deum at opening; hymn agreeing with the sermon | 4.4, 11.5 |
 | Harlingerland, *Kirchenordnung*, 1573/74 | 7/1, pp. 738–739 | 2122 | Luther's hymns first; no secular tunes; kneeling boys at the Sanctus | 12.2, 18.5, 18.9 |
@@ -6554,7 +6966,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Brandenburg, *Visitations- und Consistorialordnung*, 1573 | 3, p. 109 | 1748 | installation hymns | 17.5 |
 | Tangermünde, *Ritus*, 1603 | 3, p. 339 | 1788 | Christmas *Leise* until Candlemas | 10.3 |
 | Liegnitz, *Kirchenordnung*, 1542 | 3, p. 439 | 1809 | creed after the sermon | 9.2 |
-| Brieg, *Kirchenordnung*, 1592 | 3, p. 446 | 1809 | Athanasian creed from Triller; hymns to agree with sermon, but known hymns not put under | 9.1, 10.4, 11.4 |
+| Brieg, *Kirchenordnung*, 1592 | 3, pp. 445–446 | 1809 | Athanasian creed from Triller; hymns to agree with sermon, but known hymns not put under; Magnificat with *Resonet in laudibus* | 9.1, 10.4, 11.4, 16.10 |
 | Teschen, *Kirchenordnung*, 1584 | 3, p. 462 | 1815 | German or Bohemian hymn for the introit | 5.1 |
 | Prussia, *Artikel der Ceremonien*, 1525 | 4, pp. 32–33 | 1832 | German psalms for introits; Kyrie in three tongues; Hus hymn and "Gott sei gelobet" | 5.1, 6.2, 14.1 |
 | Prussia, *Kirchenordnung*, 1544 | 4, pp. 64–65 | 1833 | rotating introit-psalms; alleluia and psalm list; hymn while priest "takes breath"; Sanctus while communicants come forward | 5.2, 8.7, 11.2, 12.1 |
@@ -6563,7 +6975,8 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Thorn, *Kirchenordnung*, 1575 | 4, p. 237 | 1844 | hymn before sermon by text and need | 10.4 |
 | Pomerania, *Kirchenordnung*, 1535 | 4, pp. 340–344 | 1856 | German Benedictus; Ten Commandments or *Da pacem* while communicants gather; song stops with communion; against long singing | 4.3, 11.4, 14.3, 18.8 |
 | Pomerania, *Kirchenordnung*, 1542 | 4, p. 356 | 1859 | Ps 51 for introit; lay "Allein Gott"; gospel-matched psalms; seasonal slot before sermon | 5.2, 7.2, 8.6, 10.3 |
-| Pomerania, *Agenda*, 1569 | 4, pp. 435–440 | 1865 | Te Deum for village introit; both German Glorias; gospel-matched psalm; Lossius; boys intone the Sanctus; organ at communion; closing hymns (table in `hymns.db`) | 4.4, 5.2, 7.2, 8.6, 12.1, 14.7, 15.3, 16.2 |
+| Pomerania, *Kerckenordeninge*, 1569 | 4, pp. 401–402 | 1862 | old festal songs, Latin and German, taught in the schools | 16.10 |
+| Pomerania, *Agenda*, 1569 | 4, pp. 435–440 | 1865 | Te Deum for village introit; both German Glorias; gospel-matched psalm; Lossius; boys intone the Sanctus; organ at communion; closing hymns (table in `hymns.db`); *Benedicamus* by grade; *Da pacem* after it | 4.4, 5.2, 7.2, 8.6, 12.1, 14.7, 15.3, 16.2, 16.8, 16.9, 16.10 |
 | Stralsund, draft *Kirchenordnung*, 1555 | 4, p. 551 | 1889 | two German Sanctus forms | 12.2 |
 | Kronstadt, Honterus, *Reformationsbüchlein*, 1543 | 24, p. 183 | 1666 | German songs after the epistle "if not repugnant to Scripture" | 8.1 |
 | Transylvanian Saxons, *Kirchenordnung*, 1547 | 24, pp. 223–245 | 1669 | German Benedictus for the abolished procession; hymn before the sermon by season; office hymns of the season only | 4.3, 10.3, 16.1 |
