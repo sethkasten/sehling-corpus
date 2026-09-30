@@ -10,6 +10,8 @@ For General prayers (Prayers of the Church) guide see `GENERAL_PRAYERS_GUIDE.md`
 
 For the Roman Canon and the priest's prayers in German evangelical Masses (Kantz 1522, Luther's *Formula missae* 1523, Müntzer 1524, Worms 1524, Nürnberg 1524–25, Strasbourg 1524–25, Bremen 1525, Lippe, Kiel, Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543, and Bugenhagen's preparatory prayer), with a corpus-wide concordance and the fraction findings, see `CANON_IN_GERMAN_MASSES.md`
 
+For the ranking of feast days (the fate of the medieval grades, the Lutheran scales of high feasts, second-rank feasts and apostles' days, whole and half holy days, the *Vierzeiten*, ceremonial marks of rank, and rules of occurrence and transfer), with a concordance of the orders quoted, see `FEAST_RANKING_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
