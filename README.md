@@ -20,6 +20,8 @@ For minor orders, liturgical roles, deacons and elders (the fate of the porter, 
 
 For the propers of the Mass (introit, prophecy and lessons, epistle and gospel, gradual, alleluia and tract, offertory, Proper Preface and communion: where each was kept or dropped, who sang or read it, Latin or German, the old chant kept, cut or reset, polyphony and organ; the seasonal, festal and sanctoral use of the Proper Prefaces), with a table by order, a concordance, and an appendix rendering every Proper Preface in the corpus in Latin and German with formal-equivalence English, see `PROPERS_GUIDE.md`
 
+For the collect, secret and postcommunion (what the Lutheran orders kept, stripped, added and altered of the medieval system of proper and multiplied prayers: one collect or two, the Missal collects in German and Veit Dietrich's gospel collects, the abolition of the secret and what took its place, Luther's *Quod ore sumpsimus* and his 1526 thanksgiving as the new fixed postcommunion, the proper postcommunions kept from Müntzer to Calenberg-Göttingen 1542, and the alternatives such as the Nürnberg thanksgiving and the Corpus Christi collect), with tables, a concordance, and an appendix of the postcommunion texts and their Latin sources, see `COLLECTS_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
