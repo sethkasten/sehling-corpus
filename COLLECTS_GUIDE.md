@@ -7,7 +7,9 @@ Jahrhunderts*:
 - the **secret** (*secreta*, *oratio super oblata*), said silently over the gifts at the end of
   the offertory;
 - the **postcommunion** (*postcommunio*, *complenda*, *ad complendum*), said after the
-  communion.
+  communion;
+- on the weekdays of Lent, a fourth: the **prayer over the people** (*oratio super populum*),
+  said after the postcommunion before the dismissal.
 
 In the medieval rite all three were **proper**: each Sunday and feast had its own set, printed
 together in the Missal. They were also **multiplied**. A Mass of the day could add the collect
@@ -28,7 +30,8 @@ it, among them versions of the old Missal prayers.
 **How the guide is laid out.**
 - §1 summarizes the findings, and §2 sets out the method and cautions.
 - §3 describes the medieval system and Luther's two rulings, of 1523 and 1526.
-- §4 deals with the collect, §5 with the secret, and §6 with the postcommunion.
+- §4 deals with the collect, §5 with the secret, and §6 with the postcommunion and, in §6.6, the
+  Lenten prayer over the people.
 - §7 sets out what was kept, stripped, added and altered.
 - §8 is a table by order, and §9 a concordance.
 - Appendix A lists the postcommunion texts and their sources.
@@ -155,12 +158,22 @@ it, among them versions of the old Missal prayers.
 - **Without communicants.** Where no one communicated, a free collect, or a "thanksgiving for
   the word of God heard" (Lippe 1571), took the postcommunion's place.
 
-**5. The overall pattern** (§7).
+**5. The Lenten prayer over the people: gone from the Mass, kept once in the office** (§6.6).
+- **Not at the Mass.** No order keeps the *oratio super populum* or its bidding *Humiliate
+  capita vestra Deo* at the end of the Mass. The blessing "over the people" at the end of the
+  Lutheran Mass is the Aaronic blessing.
+- **At Lauds, in Ansbach.** The Brandenburg-Ansbach order for the collegiate churches (1533)
+  strikes out the Lenten Lauds collects that "speak of the fast". In their place it allows "the
+  *super populum* that followeth": the prayer over the people of the same day, which asks for
+  God's protection without reference to fasting.
+
+**6. The overall pattern** (§7).
 - **Kept:** the collect of the day, mostly from the Missal; the shape *Dominus vobiscum*,
   *Oremus*, prayer and long conclusion, *Amen*; the idea of a closing prayer after the
   communion, still often called the *complenda*.
-- **Stripped:** the secret entirely; the proper postcommunion (after a transition ending in
-  1542); commemorations of saints; the automatic multiplication of collects.
+- **Stripped:** the secret entirely; the Lenten *super populum* at the Mass; the proper
+  postcommunion (after a transition ending in 1542); commemorations of saints; the automatic
+  multiplication of collects.
 - **Added:** Luther's fixed thanksgiving; the Nürnberg thanksgiving; Dietrich's gospel collects;
   collects for rulers under the Sanctus; the peace collect at the end.
 - **Altered:** Latin to German; the postcommunion from a proper to an ordinary, with
@@ -175,7 +188,9 @@ it, among them versions of the old Missal prayers.
 Latin, German and Low German spellings:
 - *collecta*, *collecte*, *collecten*, *oratio*, *gebet*;
 - *secreta*, *secret*, *stillmesse*, *super oblata*;
-- *complenda*, *complende*, *postcommunio*, *post communionem*, *danksagung*, *dancksegginge*.
+- *complenda*, *complende*, *postcommunio*, *post communionem*, *danksagung*, *dancksegginge*;
+- *super populum*, *super plebem*, *humiliate capita*, *inclinate capita*, "über das Volk",
+  "neiget eure Häupter".
 
 It was also searched for the opening words of the prayers that the orders use after the
 communion: *Quod ore sumpsimus*, *Corpus tuum*, *Proficiat*, "Wir danken dir … heilsame Gabe",
@@ -1190,19 +1205,92 @@ with a Christian hymn.
 The thanksgiving for the gift of the sacrament became, in the service without communion, a
 thanksgiving for the gift of the Word.
 
+### 6.6 The prayer over the people (*oratio super populum*)
+
+**The medieval use.** On the weekdays of Lent the Missal added a fourth proper prayer after the
+postcommunion. The deacon bade the people *Humiliate capita vestra Deo*, "Bow down your heads
+before God", and the priest said the *oratio super populum*, a prayer over the people, before
+the dismissal. In the Breviary the same prayers served as collects of the office on the Lenten
+weekdays.
+
+**Not at the Mass.** No Lutheran order in the corpus keeps the *super populum* at the end of the
+Mass. The bidding *Humiliate capita vestra Deo* does not occur, in Latin or in German. The
+corpus was searched for *super populum*, *super plebem*, *humiliate capita*, *inclinate capita*
+and German phrases such as "neiget eure Häupter". The Lutheran Mass had no weekday Lenten Masses
+to carry the prayer. Its place at the end of the Sunday Mass was held by the postcommunion
+collect and the Aaronic blessing. The orders describe that blessing in the same words: "the
+blessing over the people out of the book of Numbers" (*benediction uber das volk aus dem buch
+numeri*, Gnandstein 1539, Sehling 1, p. 564). Müntzer describes his postcommunion the same way:
+"after the communion one giveth thanks to God over the people, and blesseth the Lord"
+(Sehling 1, p. 506). Neither is a *super populum* prayer.
+
+**In the office: Ansbach 1533.** The one place where the *super populum* survives by name is in
+the Divine Office of the collegiate churches. The Brandenburg-Ansbach order of 1533 for the
+singing and reading in the *Stifte* goes through the Breviary and strikes out what is unfit. In
+Lent it strikes out the collects at Lauds (*super Benedictus*) that "speak of the fast" as a
+work, day by day. For their place it allows the *super populum* prayers.
+**Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533**
+(Sehling 11, p. 315):
+
+<!-- doc 276 -->
+> In die Cinerum collecta super Benedictus Concede nobis, Domine praesidia und andere collecten
+> mer, die von der vasten lauten als Inchoata ieiunia und Adesto, Domine, supplicacionibus
+> nostris etc., und der hymnus Ex more docti sollen nicht gehalten werden. Weiter sollen sie
+> underlassen dominica Invocavit: die collect super Bened[ictus] Deus, qui ecclesiam tuam, […]
+> feria secunda nach Reminiscere: die collect super Benedictus Praesta, quaesumus, omnipotens
+> Deus, familia tua etc., feria quarta: die collecta super Benedictus Populum tuum, Domine etc.,
+> feria quinta: die collect super Benedictus Praesta nobis Domine, quaesumus, feria sexta: super
+> Benedictus collect Da, quaesumus, omnipotens Deus etc., sabbato: super Benedictus collecta
+> Da,quaesumus, Domine nostris effectum; und an diser stat mogen sie allwegen nemen die
+> nachvolgende super populum;
+
+On Ash Wednesday the collect at the Benedictus, *Concede nobis, Domine, praesidia*, and other
+collects more which speak of the fast, as *Inchoata ieiunia* and *Adesto, Domine,
+supplicationibus nostris*, etc., and the hymn *Ex more docti*, shall not be kept. Further they
+shall leave out: on the Sunday Invocavit, the collect at the Benedictus *Deus, qui ecclesiam
+tuam*; […] on the Monday after Reminiscere, the collect at the Benedictus *Praesta, quaesumus,
+omnipotens Deus, familia tua*, etc.; on the Wednesday, the collect at the Benedictus *Populum
+tuum, Domine*, etc.; on the Thursday, the collect at the Benedictus *Praesta nobis, Domine,
+quaesumus*; on the Friday, at the Benedictus the collect *Da, quaesumus, omnipotens Deus*, etc.;
+on the Saturday, at the Benedictus the collect *Da, quaesumus, Domine, nostris effectum*; and in
+this place they may always take the *super populum* that followeth.
+
+**What the rule means.** The list goes on through the weeks of Oculi, Laetare and Judica
+(Sehling 11, pp. 315–316).
+- **What it strikes out.** The Lauds collects of the Lenten weekdays are the collects of the
+  day's Mass. Many of them ask that bodily fasting be made fruitful or meritorious. An example
+  is the Monday after Reminiscere: *Praesta, quaesumus, omnipotens Deus, ut familia tua, quae se
+  affligendo carnem ab alimentis abstinet, sectando iustitiam a culpa ieiunet*. Another is the
+  Wednesday: *Populum tuum, Domine, propitius respice: et quos ab escis carnalibus praecipis
+  abstinere, a noxiis quoque vitiis cessare concede*.
+- **What it puts in their place.** "The *super populum* that followeth" is the prayer over the
+  people of the same day, which stands after the postcommunion in the Missal. These prayers ask
+  for God's protection, mercy and guidance of his people, without reference to the fast. For the
+  same Monday it is *Adesto supplicationibus nostris, omnipotens Deus: et quibus fiduciam
+  sperandae pietatis indulges, consuetae misericordiae tribue benignus effectum*.
+
+The identification of these texts is this guide's. Sehling's editor gives no note on the
+passage.
+
+**The result.** The Lenten prayer over the people outlived the Lenten collect in this one
+Lutheran order. It did so not at the end of the Mass but at Lauds, and for a doctrinal reason:
+of the day's two proper prayers it was the one that said nothing of fasting as a work. Ansbach's
+handling matches Luther's test for the collect in 1523, "if only it be godly" (§3.2). The corpus
+shows no other Lutheran use of the *super populum*.
+
 ---
 
 ## 7. Kept, stripped, added, altered
 
-**Table 1. The three prayers, compared with the medieval system**
+**Table 1. The prayers, compared with the medieval system**
 
-| | Collect | Secret | Postcommunion |
-|---|---|---|---|
-| **Medieval use** | Proper to the day; sung after the Gloria; multiplied by commemorations and votive collects | Proper to the day; said silently over the gifts; multiplied with the collects | Proper to the day; sung after the communion; multiplied with the collects |
-| **Kept** | The collect of the season or feast (§4.2), mostly German versions of the Missal collects; the salutation, *Oremus*, long conclusion and Amen (§4.5); the seasonal versicle (Henneberg 1582, Hof 1592) | Only the closing *Per omnia saecula saeculorum. Amen* (Müntzer, Lippe, Calenberg-Göttingen), and the name in Dortmund 1554 (§5.2) | A collect after the communion, with salutation and Amen; often still called the *complenda* (§6.3). Proper postcommunions kept in Nürnberg and Volprecht 1524, Coburg 1524, Müntzer 1524, Erfurt 1525 and Calenberg-Göttingen 1542 (§6.2) |
-| **Stripped** | Collects of the saints and those asking their intercession (Hannover 1536); the automatic commemorations (Luther: "that one alone") | The prayer itself, everywhere (Prussia 1525: "of necessity left out"); no German secret exists | The proper postcommunion (Luther 1523: "they almost all sound of sacrifice"); gone from the printed orders after 1542 |
-| **Added** | Veit Dietrich's gospel collects (Wolfenbüttel 1569, Soest 1609, Buxtehude 1565); new "common" collects for need; the collect for peace after *Verleih uns Frieden* | Open prayers for the magistrates and Christendom in its place (Dortmund 1554); collects for rulers under the Sanctus (Döber 1525, Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543) | Luther's fixed thanksgiving (1526); the Nürnberg thanksgiving (1533); Döber's prayer (1525); Prussia's second collect (1544); a collect or thanksgiving for the Word when there is no communion (Lippe 1571) |
-| **Altered** | Latin to German "that the people may say Amen" (Coburg 1554/55); one collect as the norm, a second only "for need" (Mecklenburg 1545) or by rule for temporal goods (Ansbach 1548); the Advent *Excita* reworded ("weck uns auf, dass wir bereit sein") | — | Proper to ordinary; Luther's 1523 ablution prayers made public, then expanded (Nürnberg 1533); the Missal postcommunion *Gratias tibi referimus* recast as Luther's thanksgiving; the Corpus Christi collect turned into a postcommunion; two thanksgivings joined "under one conclusion" (Brandenburg 1540, Pfalz-Neuburg 1543) |
+| | Collect | Secret | Postcommunion | Prayer over the people (Lent) |
+|---|---|---|---|---|
+| **Medieval use** | Proper to the day; sung after the Gloria; multiplied by commemorations and votive collects | Proper to the day; said silently over the gifts; multiplied with the collects | Proper to the day; sung after the communion; multiplied with the collects | Proper to the Lenten weekdays; after the postcommunion, with the bidding *Humiliate capita vestra Deo*; also used as an office collect |
+| **Kept** | The collect of the season or feast (§4.2), mostly German versions of the Missal collects; the salutation, *Oremus*, long conclusion and Amen (§4.5); the seasonal versicle (Henneberg 1582, Hof 1592) | Only the closing *Per omnia saecula saeculorum. Amen* (Müntzer, Lippe, Calenberg-Göttingen), and the name in Dortmund 1554 (§5.2) | A collect after the communion, with salutation and Amen; often still called the *complenda* (§6.3). Proper postcommunions kept in Nürnberg and Volprecht 1524, Coburg 1524, Müntzer 1524, Erfurt 1525 and Calenberg-Göttingen 1542 (§6.2) | Only in the office: Ansbach 1533 allows the day's *super populum* at Lauds (§6.6) |
+| **Stripped** | Collects of the saints and those asking their intercession (Hannover 1536); the automatic commemorations (Luther: "that one alone") | The prayer itself, everywhere (Prussia 1525: "of necessity left out"); no German secret exists | The proper postcommunion (Luther 1523: "they almost all sound of sacrifice"); gone from the printed orders after 1542 | At the Mass, everywhere; neither the prayer nor the bidding occurs |
+| **Added** | Veit Dietrich's gospel collects (Wolfenbüttel 1569, Soest 1609, Buxtehude 1565); new "common" collects for need; the collect for peace after *Verleih uns Frieden* | Open prayers for the magistrates and Christendom in its place (Dortmund 1554); collects for rulers under the Sanctus (Döber 1525, Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543) | Luther's fixed thanksgiving (1526); the Nürnberg thanksgiving (1533); Döber's prayer (1525); Prussia's second collect (1544); a collect or thanksgiving for the Word when there is no communion (Lippe 1571) | — |
+| **Altered** | Latin to German "that the people may say Amen" (Coburg 1554/55); one collect as the norm, a second only "for need" (Mecklenburg 1545) or by rule for temporal goods (Ansbach 1548); the Advent *Excita* reworded ("weck uns auf, dass wir bereit sein") | — | Proper to ordinary; Luther's 1523 ablution prayers made public, then expanded (Nürnberg 1533); the Missal postcommunion *Gratias tibi referimus* recast as Luther's thanksgiving; the Corpus Christi collect turned into a postcommunion; two thanksgivings joined "under one conclusion" (Brandenburg 1540, Pfalz-Neuburg 1543) | Moved from the end of the Mass to Lauds, in place of collects that "speak of the fast" (Ansbach 1533) |
 
 **Table 2. Did the medieval "two collects, two secrets, two postcommunions" survive?**
 
@@ -1213,6 +1301,7 @@ thanksgiving for the gift of the Word.
 | A matching second postcommunion | **No, but two postcommunions do occur**, not tied to the collects | Brandenburg 1540 and Pfalz-Neuburg 1543 (Nürnberg and Luther thanksgivings "under one conclusion"); Calenberg-Göttingen 1542 (Luther's thanksgiving plus the proper postcommunion of the feast) |
 | A votive prayer at the end | **Yes** | The collect for peace after *Verleih uns Frieden* (twelve or more orders); Hof 1592's collect "for rain and fair weather" |
 | Rules for the conclusions | **Yes** | Hof 1592 (§4.5) |
+| The Lenten prayer over the people | **Not at the Mass**; once in the office | Ansbach 1533, at Lauds (§6.6) |
 
 ---
 
@@ -1237,6 +1326,7 @@ thanksgiving for the gift of the Word.
 | Erfurt, *Deutsches Kirchenamt*, 1525 | 2 | G proper | — | ? | G proper (Pentecost, *Proficiat*) | — |
 | Prussia, *Artikel*, 1525 | 4 | Proper series by the year | ? | — ("of necessity left out") | Two common complendas, alternating | — |
 | Luther, *Deutsche Messe*, 1526 | 1 | G, one, facing the altar | — | — | G fixed (Luther) | — |
+| Ansbach, *Ordnung … bei den Stiften*, 1533 | 11 | (office) Lenten Lauds collects "of the fast" struck out | — | — | — | the day's *super populum* at Lauds in their place |
 | Brandenburg-Nürnberg, 1533 | 11 | ? | ? | ? | G fixed (Nürnberg) | — |
 | Hatzkerode, 1534(?) | 2 | ? | ? | ? | Luther, called "the complenda" | "or the like" |
 | Bremen, 1534 | 7/2.2 | L from the Missal or G from the hymnbook | ? | ? | ? | — |
@@ -1290,9 +1380,11 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Luther, *Formula missae et communionis*, 1523 | 1, pp. 3–6 | 2 | 3.2, 4.1, 4.3, 6.1, A |
 | Allstedt, Thomas Müntzer, *Deutsch evangelisch messe*, 1524 | 1, pp. 500–504 | 51, 52 | 5.2, 6.2, A |
 | Coburg, *Gottesdienst-Ordnung* (proposal), 1524 | 1, p. 542 | 72 | 6.2 |
+| Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 | 1, p. 506 | 52 | 6.6 |
 | Erfurt, *Deutsches Kirchenamt*, 1525 | 2, pp. 376–378 | 1251 | 6.2, A |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, pp. 14, 16 | 3 | 3.3, 4.5, A |
 | Hatzkerode, *Kirchenordnunge*, 1534(?) | 2, p. 587 | 1263 | 6.3 |
+| Gnandstein, visitation articles, 1539 | 1, p. 564 | 85 | 6.6 |
 | Albertine Saxony, *Kirchenordnunge zum anfang* (Duke Henry), 1539 | 1, pp. 274–278 | 30 | 4.1, 4.2, 4.5 |
 | Reuss, *Kirchen-Ordnung* of Heinrich IV, 1552 | 2, p. 154 | 1234 | 6.3 |
 | Coburg, *Vorschaffung* of the visitation of 1554/55 | 1, p. 544 | 74 | 4.5 |
@@ -1309,6 +1401,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Nürnberg, *Deutsche Messe des Priors Volprecht*, 1524 | 11, pp. 39, 42 | 247 | 4.1, 5.1, 6.2, A |
 | Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 | 11, pp. 46–49 | 249 | 3.1, 4.1, 5.1, 6.2 |
 | Nürnberg, *Deutsche Messe des A. Döber*, 1525 | 11, pp. 54–55 | 250 | 5.2, 6.4, A |
+| Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, pp. 315–316 | 276 | 6.6 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 197 | 270 | 6.4, A |
 | Württemberg, *Gemein kirchenordnung*, 1536 | 16, p. 125 | 651 | 6.4 |
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, p. 76 | 386 | 5.2, 6.1, 6.4 |
