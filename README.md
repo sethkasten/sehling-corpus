@@ -16,6 +16,8 @@ For hymn practice in the Mass, the offices and the occasional rites (where hymns
 
 For confessional subscription (what each order named as its *corpus doctrinae* or *norma doctrinae*, from the CA and Melanchthon's *Loci* through the territorial corpora to the Formula and Book of Concord, and the refusals and Reformed reorientations; how ministers were bound by book list, visitation question, examination, *Revers*, oath, ordination vow or signature; and how lay people were bound at confirmation, communion, as godparents, as burghers and as officials), with a table by order and a concordance of the orders quoted, see `CONFESSIONAL_SUBSCRIPTION_GUIDE.md`
 
+For minor orders, liturgical roles, deacons and elders (the fate of the porter, lector, exorcist, acolyte and subdeacon; ministrants, levites, thurifer, candle-bearer, cross-bearer and master of ceremonies; the Lutheran *Diaconus*, the liturgical deacon and the lay deacon of the poor; divine or human right; ruling elders and churchwardens; who was ordained, who took a vow and who was simply appointed, and the grounds given for each office), with an installation table, a table by order and a concordance of the orders quoted, see `MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
