@@ -18,6 +18,8 @@ For confessional subscription (what each order named as its *corpus doctrinae* o
 
 For minor orders, liturgical roles, deacons and elders (the fate of the porter, lector, exorcist, acolyte and subdeacon; ministrants, levites, thurifer, candle-bearer, cross-bearer and master of ceremonies; the Lutheran *Diaconus*, the liturgical deacon and the lay deacon of the poor; divine or human right; ruling elders and churchwardens; who was ordained, who took a vow and who was simply appointed, and the grounds given for each office), with an installation table, a table by order and a concordance of the orders quoted, see `MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`
 
+For the propers of the Mass (introit, prophecy and lessons, epistle and gospel, gradual, alleluia and tract, offertory, Proper Preface and communion: where each was kept or dropped, who sang or read it, Latin or German, the old chant kept, cut or reset, polyphony and organ; the seasonal, festal and sanctoral use of the Proper Prefaces), with a table by order, a concordance, and an appendix rendering every Proper Preface in the corpus in Latin and German with formal-equivalence English, see `PROPERS_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
