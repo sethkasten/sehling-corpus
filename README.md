@@ -14,6 +14,8 @@ For the ranking of feast days (the fate of the medieval grades, the Lutheran sca
 
 For hymn practice in the Mass, the offices and the occasional rites (where hymns were sung, which hymns filled each slot and how fixed each slot was, hymns in place of the introit, gradual, sequence and offertory, troped and paraphrased Kyrie, Gloria, Credo, Sanctus and Agnus Dei, farced sequences, and the reasons the orders give for their choices), with a concordance of the orders quoted, see `HYMN_PRACTICE_GUIDE.md`
 
+For confessional subscription (what each order named as its *corpus doctrinae* or *norma doctrinae*, from the CA and Melanchthon's *Loci* through the territorial corpora to the Formula and Book of Concord, and the refusals and Reformed reorientations; how ministers were bound by book list, visitation question, examination, *Revers*, oath, ordination vow or signature; and how lay people were bound at confirmation, communion, as godparents, as burghers and as officials), with a table by order and a concordance of the orders quoted, see `CONFESSIONAL_SUBSCRIPTION_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
