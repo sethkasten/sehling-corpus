@@ -22,6 +22,8 @@ For the propers of the Mass (introit, prophecy and lessons, epistle and gospel, 
 
 For the collect, secret and postcommunion (what the Lutheran orders kept, stripped, added and altered of the medieval system of proper and multiplied prayers: one collect or two, the Missal collects in German and Veit Dietrich's gospel collects, the abolition of the secret and what took its place, Luther's *Quod ore sumpsimus* and his 1526 thanksgiving as the new fixed postcommunion, the proper postcommunions kept from Müntzer to Calenberg-Göttingen 1542, and the alternatives such as the Nürnberg thanksgiving and the Corpus Christi collect), with tables, a concordance, and an appendix of the postcommunion texts and their Latin sources, see `COLLECTS_GUIDE.md`
 
+For the daily office (Luther's rulings of 1523 and 1526; where the full canonical hours survived in collegiate churches, cathedrals and convents, and where they were cut to a school Matins and Vespers; who prayed them, from schoolboys, vicars and nuns to village congregations; the obligations laid on beneficed clergy, pastors and students; the shape of the reformed hours; Latin, German or both; and the chant, from the old choir books and the Lossius and Spangenberg antiphoners to German psalm tones, polyphony and organ), with a table by order and a concordance, see `OFFICES_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
