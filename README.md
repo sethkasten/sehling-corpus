@@ -24,6 +24,8 @@ For the collect, secret and postcommunion (what the Lutheran orders kept, stripp
 
 For the daily office (Luther's rulings of 1523 and 1526; where the full canonical hours survived in collegiate churches, cathedrals and convents, and where they were cut to a school Matins and Vespers; who prayed them, from schoolboys, vicars and nuns to village congregations; the obligations laid on beneficed clergy, pastors and students; the shape of the reformed hours; Latin, German or both; and the chant, from the old choir books and the Lossius and Spangenberg antiphoners to German psalm tones, polyphony and organ), with a table by order and a concordance, see `OFFICES_GUIDE.md`
 
+For sermons and preaching (Luther's rule that the congregation never meet without the Word; the occasions, from the Sunday gospel and the afternoon catechism to weekday, early, catechism, Passion, prayer-day, funeral and wedding sermons; the texts, the pericopes kept and books preached in course; the shape of a sermon and its plain speech; the limits of an hour or half an hour; postils, borrowed and written sermons; rebuke without names and the mandates against pulpit polemics; the prayer, greeting, confession, general prayer and notices around the sermon; trial sermons and the censure of sermons; and the duties and fines of hearers), with a table by order and a concordance, see `SERMONS_GUIDE.md`
+
 ## The layers
 
 | | What it is | Built by |
