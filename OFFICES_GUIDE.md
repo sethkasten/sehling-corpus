@@ -707,9 +707,9 @@ yet be not hindered thereby in their school learning […].
 **The towns.** Matins and Vespers in this form, or Saturday and Sunday Vespers with Sunday
 Matins, are the rule in the town orders:
 - Wittenberg 1533 (Sehling 1, pp. 701–705);
-- Prussia 1544 (Sehling 4, pp. 74–75);
 - Saxony 1539 and 1580 (Sehling 1, pp. 564, 368);
 - Senftenberg 1555 (Sehling 1, pp. 671–672);
+- Prussia 1568 (Sehling 4, pp. 74–75);
 - Hoya 1581, Lüneburg 1575, Pomerania 1569 (§7.2).
 
 Senftenberg is typical of a small electoral town. **Senftenberg, *Kirchen-Ordnung für die Stadt
@@ -789,8 +789,8 @@ causes, and not out of sloth or idleness, for some years been left off and not k
 
 **The office as school exercise.** In the parishes the office belonged to the Latin school. The
 cantor led the boys in the choir, and the boys read the lessons. The orders give two reasons,
-practice in the Bible and practice in public speaking. **Prussia, *Kirchenordnung*, 1544**
-(Sehling 4, p. 75):
+practice in the Bible and practice in public speaking. **Prussia, *Kirchenordnung und
+Ceremonien*, 1568** (Sehling 4, p. 75):
 
 <!-- doc 1833 -->
 > Darauf soll ein knabe aus der bibel latine in usitato tono eine lectionem lesen, also lectio
@@ -907,7 +907,7 @@ simple, unskilled scholars of the sexton and the penitents in the country may gr
 godly psalms […].
 
 Other village provisions:
-- **Prussia 1544**: "in small parishes and villages", one or two German psalms and a short
+- **Prussia 1568**: "in small parishes and villages", one or two German psalms and a short
   catechism instruction at Vespers (Sehling 4, p. 75).
 - **Lippe 1571 and Oldenburg 1573**: since there can be no Matins in the villages in winter, the
   pastors are to gather the people early in the morning in summer, from Easter to Michaelmas
@@ -1241,7 +1241,7 @@ villages" (Lippe 1571, §6.4).
 
 **Mixed Latin and German.** Many orders mix the two languages within the same office.
 - **The lessons.** Bugenhagen and his followers have the lesson read in Latin and then in German
-  (Braunschweig 1528, Prussia 1544, Hoya 1581). Luther's *Deutsche Messe* had already done so
+  (Braunschweig 1528, Prussia 1568, Hoya 1581). Luther's *Deutsche Messe* had already done so
   (§3.3).
 - **The parishes in Pfalz-Neuburg, 1543.** At Vespers "a whole German chapter out of the New
   Testament [is to be read] instead of the Latin, and concluded with a German collect". The same
@@ -1290,7 +1290,7 @@ books" (§4.2). Verden cathedral in 1606 still sings Vespers "as the old order b
 - **Wittenberg 1533**: the boys end each lesson "as one was wont to read or sing the prophecies,
   *sol sol mi fa sol sol*" (Sehling 1, p. 703; see [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md),
   §5.1).
-- **Prussia 1544**: the Latin lesson is read "*in usitato tono*", the German one "without tone"
+- **Prussia 1568**: the Latin lesson is read "*in usitato tono*", the German one "without tone"
   (§6.1).
 
 ### 9.2 The new chant books: Spangenberg and Lossius
@@ -1415,10 +1415,10 @@ they can be used "when, perhaps because of public mourning, the songs of figural
 place" (Sehling 11, p. 450).
 
 **The organ.** The organ alternated with the choir in the office, as in the Mass:
+- **Prussia 1568**: the organist "playeth one verse after the other" in the *Magnificat*, and a
+  piece after the *Nunc dimittis* (Sehling 4, p. 75).
 - **Pomerania 1569**: "where there are organs, the organist shall be at the organ after the
   psalmody, and play to the responsory, hymn and *Magnificat*" (Sehling 4, p. 435).
-- **Prussia 1544**: the organist "playeth one verse after the other" in the *Magnificat*, and a
-  piece after the *Nunc dimittis* (Sehling 4, p. 75).
 - **Oldenburg 1573** (above) and **Hoya 1581**: the organist "plays the hymn" (§7.4).
 - **Wittenberg castle, 1525**: the organ only "on Sunday to the *Te Deum laudamus*, and whenever
   German songs are sung" (Sehling 1, p. 699).
@@ -1469,7 +1469,6 @@ in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
 | Pfalz-Neuburg 1543; Heidelberg 1546 | 13; 14 | All, where customary | chapters, convents, parishes | L; G lessons in parishes; G psalmody for nuns | nine lessons in course |
 | Quakenbrück (Bonnus), 1543 | 7/1 | All | canons, scholars | L | |
 | Merseburg synod, 1544 | 2 | — | pastors | — | exhorted to daily prayer and psalter |
-| Prussia, 1544 | 4 | Saturday, Sunday and weekday Vespers | boys; village pastors | L, lesson in G; G in villages | boys learn to speak before the people |
 | Zwickau, 1545 | 1 | hospital hours abolished | preacher with the poor | G | psalm and lesson daily |
 | Breslau, 1550 | 3 | hours of the Passion; Friday hours of the Visitation | choralists | L | |
 | Lüneburg convents, 1555 | 6/1 | All | nuns | L | corrected Breviary (*Emendatio*) |
@@ -1480,6 +1479,7 @@ in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
 | Mecklenburg, *Conformitas*, c. 1560 | 5 | — | choir | — | Lossius's *Psalmodia* required |
 | Feuchtwangen chapter, 1563 | 11 | Matins and Lauds daily; little hours lapsed, then one a day | canons | L | psalter monthly |
 | Mecklenburg convents, 1567 | 5 | daily office in place of the hours | nuns, domina in turn | G | psalter monthly, OT yearly, NT thrice |
+| Prussia, 1568 | 4 | Saturday, Sunday and weekday Vespers | boys; village pastors | L, lesson in G; G in villages | boys learn to speak before the people |
 | Pomerania *Agenda*, 1569 | 4 | Vespers | school, organist | L/G | organ alternation |
 | Keppel convent (Nassau), 1570 | 10 | All | nuns, taught by the preacher | G | Leipzig psalm-books with notes |
 | Lippe 1571; Oldenburg 1573 | 21; 7/2.1 | Vespers in villages; summer Matins | pastor, sexton, boys, people | G | |
@@ -1560,10 +1560,10 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Mecklenburg, *Kirchenordnung*, 1540 | 5, p. 196 | 1922 | 5.1 |
 | Spandau, *Verordnung für das Kloster*, 1541 | 3, p. 305 | 1783 | 4.4 |
 | Salzwedel-Altstadt, *Ordnung und Abschied*, 1541 | 3, p. 267 | 1778 | 6.2 |
-| Prussia, *Kirchenordnung*, 1544 | 4, pp. 74–75 | 1833 | 5.2, 6.1, 6.4, 9.1, 9.4 |
 | Breslau, order of 1550 | 3, p. 405 | 1807 | 4.4 |
 | Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, p. 288 | 1936 | 9.2 |
 | Mecklenburg, *Articul und ordenunge* for the convents, 1567 | 5, pp. 257–258 | 1926 | 5.1, 7.1, 8.2 |
+| Prussia, *Kirchenordnung und Ceremonien*, 1568 | 4, pp. 74–75 | 1833 | 5.2, 6.1, 6.4, 9.1, 9.4 |
 | Pomerania, *Agenda*, 1569 | 4, p. 435 | 1865 | 9.4 |
 | Kurland, *Kirchenordnung*, 1570 | 5, p. 83 | 1907 | 6.4 |
 
