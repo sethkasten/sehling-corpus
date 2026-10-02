@@ -514,8 +514,8 @@ Which feasts are so ordained because one cannot teach all the parts of the Gospe
 Therefore such doctrine hath been divided through the year, as in a school one ordaineth to read
 Virgil on one day and Homer on another.
 
-**Württemberg, *Kirchenordnung*, 1536** (Sehling 16, p. 105). The feasts of Christ are to follow
-the order of his acts:
+The Württemberg order has the feasts of Christ follow the order of his acts. **Württemberg,
+*Kirchenordnung*, 1536** (Sehling 16, p. 105):
 
 <!-- doc 651 -->
 > Haben wir für gut angesehen, das man ein fest nach dem andern begee unnd in den festen Christi
@@ -580,8 +580,8 @@ chapter witnesseth; yet for the weak's sake, forasmuch as the Gospel is among us
 measure new, certain principal feasts have had to be ordained, that the Word may be the more
 worthily set forth and heard.
 
-**Hessen, *Kirchenordnung*, 1532** (Sehling 8, p. 75). The apostles' days are also justified by
-the need for rest:
+The Hessian order of 1532 also justifies the apostles' days by the need for rest. **Hessen,
+*Kirchenordnung*, 1532** (Sehling 8, p. 75):
 
 <!-- doc 2252 -->
 > Nicht sagen wir, daß dise tage besser oder heiliger seint dan andere, sonder daß solchs des
@@ -596,8 +596,8 @@ by their labour, have no time to learn at the least the most needful parts of th
 faith. Moreover it is also otherwise brotherly and civil that both men and cattle be let have
 their rest at times.
 
-**Württemberg, *Kirchenordnung*, 1553** (Sehling 16, p. 266). This preamble was copied into the
-Kurpfalz order of 1556, Pfalz-Zweibrücken 1557, Nördlingen 1579 and others:
+The Württemberg preamble of 1553 was copied into the Kurpfalz order of 1556, Pfalz-Zweibrücken
+1557, Nördlingen 1579 and others. **Württemberg, *Kirchenordnung*, 1553** (Sehling 16, p. 266):
 
 <!-- doc 671 -->
 > Dieweil dann die ordnung der Feyertag gmeiner Kirchen dahin dienstlich, das sie bestimpte zeit
@@ -654,8 +654,8 @@ belong also some of those that were hitherto kept for the Virgin Mary.
 became the model for the Mecklenburg order of 1552. Through that order it reached the Brunswick,
 Lüneburg, Oldenburg, Lippe, Verden and Palatinate-Zweibrücken orders.
 
-**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 71). The same test is used to decide
-which days break the continuous reading of Scripture:
+Pfalz-Neuburg uses the same test to decide which days break the continuous reading of Scripture.
+**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 71):
 
 <!-- doc 386 -->
 > Doch ausgenommen die hohen fest, die ir historien, darumb sie aufgesetzt sein, in der heiligen
@@ -670,8 +670,8 @@ Ascension Day, Whitsunday, John the Baptist, the Visitation, etc.; for on these 
 read, for the epistle and Gospel, the chapters out of the Bible wherein the history of the feast
 is written and which are otherwise appointed thereto.
 
-**Gera, *Kirchen-Ordnung*, 1556** (an extract of the order of the Vogtland superintendents made
-at Plauen in 1552; Sehling 2, p. 158):
+**Gera, *Kirchen-Ordnung*, 1556**
+(Sehling 2, p. 158; an extract of the order of the Vogtland superintendents made at Plauen in 1552):
 
 <!-- doc 1234 -->
 > III. Festa und feiertage. Neben den gewönlichen sonntag sollen die feste Christi und der
@@ -688,7 +688,7 @@ held with the ministering of the sacraments, where there be communicants, and in
 catechism be always taught in the afternoon. But hereby shall be meant these following, and no
 other feasts of the saints or otherwise papistical.
 
-**Transylvania, Honterus, *Reformationsbüchlein*, 1543** (Latin; Sehling 24, p. 189):
+**Transylvania, Honterus, *Reformationsbüchlein*, 1543** (Sehling 24, p. 189; Latin):
 
 <!-- doc 1666 -->
 > Dies festos propter multiplices abusus in angustum contraximus observatis tamen omnibus iis,
@@ -710,8 +710,8 @@ let the catalogue of feast days delivered in the Reformation of the church of Kr
 observed. But those that are not written therein (as having, namely, no history in holy writ)
 let them be omitted.
 
-**Riga, *Kirchenordnung*, 1530** (Sehling 5, p. 17). This order gives a reason of this kind for
-keeping the Visitation:
+The Riga order gives a reason of this kind for keeping the Visitation. **Riga, *Kirchenordnung*,
+1530** (Sehling 5, p. 17):
 
 <!-- doc 1897 -->
 > Alle festa Christi unsers herrn und erlösers, woll wir halten, auf das man das gedechtnus der
@@ -728,8 +728,8 @@ Purification, the Annunciation, Easter, Pentecost, with the other days following
 Ascension of Christ, and the Visitation, forasmuch as that was the first revelation of Christ,
 when he was yet in his mother's womb
 
-**Regensburg, *Kirchenordnung*, 1567** (Sehling 13, p. 474). The feasts that the town's
-Catholics still keep are dropped, because they lack a Scripture history:
+At Regensburg the feasts that the town's Catholics still keep are dropped, because they lack a
+Scripture history. **Regensburg, *Kirchenordnung*, 1567** (Sehling 13, p. 474):
 
 <!-- doc 450 -->
 > Und wiewol in unser stat die papisten viel mehr feirn halten, als Georgii, Corporis Christi,
@@ -749,9 +749,9 @@ doctrine of our churches.
 
 ### 3.8 The Sabbath argument: Sunday first in dignity
 
-**Posen, Bohemian Brethren, synodal order, 1576** (Sehling 4, p. 285). Most Lutheran orders
-treat the choice of days as free. The Brethren's order, printed among the Posen texts, grounds
-Sunday's precedence in the moral law:
+Most Lutheran orders treat the choice of days as free. The Bohemian Brethren's synodal order,
+printed among the Posen texts, grounds Sunday's precedence in the moral law. **Posen, Bohemian
+Brethren, synodal order, 1576** (Sehling 4, p. 285):
 
 <!-- doc 1846 -->
 > VII. Consuetudo circa dies festos. Inter dies festos primam tribuimus dignitatem septimo diei,
@@ -797,7 +797,8 @@ Kyrie and Gloria were sung to melodies graded by rank:
 
 A number of Lutheran orders keep this system, and with it keep grading the day.
 
-**Pomerania, *Kirchenordnung*, 1542** (Sehling 4, p. 356). The Kyrie at Mass:
+The Pomeranian order gives the grade of the Kyrie at Mass. **Pomerania, *Kirchenordnung*, 1542**
+(Sehling 4, p. 356):
 
 <!-- doc 1859 -->
 > Darup dat kyrie dominicale, efft me mach ock up die sondage, kyrie angelicum, de martiribus,
@@ -815,8 +816,8 @@ The saints' melodies are now simply alternatives for ordinary Sundays. The *summ
 "the higher feasts" (*die hohern fest*), and *minus summum* is offered as a lesser alternative
 there.
 
-**Buxtehude, *Agende*, 1565** (Sehling 7/1, p. 123). These are the headings over the printed
-Kyrie melodies, which the editor traces to Lucas Lossius's *Psalmodia*:
+The Buxtehude *Agende* has these headings over its printed Kyrie melodies, which the editor
+traces to Lucas Lossius's *Psalmodia*. **Buxtehude, *Agende*, 1565** (Sehling 7/1, p. 123):
 
 <!-- doc 2082 -->
 > In summis festivitatibus et dominica Trinitatis cum textu. Minus summum. I. In festis beatae
@@ -827,8 +828,8 @@ On the highest festivities and on the Sunday of the Trinity, with the text. *Min
 On the feasts of the blessed Virgin Mary. II. *Kyrie paschale*. *Dominicale*. In the Advent of
 the Lord. *Kyrie angelicum*. *Kyrie apostolicum*. *Dominicale*.
 
-**Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 472). The Latin school Mass in the
-monastery church:
+At Hof the grades appear in the Latin school Mass in the monastery church. **Hof, *Ordo
+ecclesiasticus*, 1592** (Sehling 11, p. 472):
 
 <!-- doc 294 -->
 > Mox II. ex missali magno canitur Kyrie certi temporis vel angelicum in Adventu Domini vel
@@ -854,8 +855,8 @@ rank all the same:
 - The *Benedicamus* at vespers is labelled *festivale*, *dominicale*, *paschale* or *feriale*
   (for example "Benedicamus festivale seu feriale", p. 422).
 
-**Nördlingen, *Ordnung der ceremonien*, 1544** (Sehling 12, pp. 321–322). This order reserves
-the *summum* for Pentecost and Trinity:
+Nördlingen reserves the *summum* for Pentecost and Trinity. **Nördlingen, *Ordnung der
+ceremonien*, 1544** (Sehling 12, pp. 321–322):
 
 <!-- doc 373 -->
 > Zu Pfingsten. 1. Introitus de Spiritu oder Kom, hailiger Gaist. 2. Kyrie summum und Et in
@@ -866,8 +867,8 @@ At Whitsuntide. 1. The introit *de Spiritu*, or *Kom, hailiger Gaist*. 2. *Kyrie
 in terra*, as at Easter. […] Of the holy Trinity. 1. The introit *de tempore*. 2. *Kyrie summum*
 with the *Et in terra*. 3. After the epistle, the sequence *de tempore*.
 
-**Mecklenburg, *Ordeninge der misse*, 1545** (Sehling 5, p. 151). The grade name passes to a
-German Kyrie:
+In Mecklenburg the grade name passes to a German Kyrie. **Mecklenburg, *Ordeninge der misse*,
+1545** (Sehling 5, p. 151):
 
 <!-- doc 1922 -->
 > Das düdesche kyrie summum: Ach vader, alder högeste godt, schölen de kerckheren up den dörpern
@@ -879,7 +880,7 @@ in the villages sing, and teach it the people, that the whole church may sing it
 **"The highest feasts" as a category.** Outside the chant books, *summa festa* or *summae
 festivitates* is used simply as the name of the top rank of days.
 
-**Hadersleben, *Artikel*, 1528** (Sehling 23, p. 64). The article on Latin singing:
+The Hadersleben article on Latin singing. **Hadersleben, *Artikel*, 1528** (Sehling 23, p. 64):
 
 <!-- doc 1576 -->
 > Eth schal ock friig sin, dat sie in den groten festen mögen Gloria in excelsis up latin
@@ -896,7 +897,8 @@ Spiritus*, and the *Leisen* therein; item the Latin *Patrem*, the prefaces, the 
 article is headed *De Latine cantionibus in summis festis*. The Low German "groten feste" and
 the Latin *summa festa* are the same rank.
 
-**Tangermünde, *Ritus*, 1603** (Sehling 3, p. 338). A local custom-book, printed from Küster:
+Tangermünde's *Ritus* is a local custom-book, printed from Küster. **Tangermünde, *Ritus*,
+1603** (Sehling 3, p. 338):
 
 <!-- doc 1788 -->
 > Si summae festivitates celebrando veniunt et incipiuntur, a die solis per totam septimanam a
@@ -935,8 +937,8 @@ masses be abolished. For the matins of three lessons, and the hours, and also ve
 compline *de tempore* (the holy days of the saints being excepted), are nothing but the words of
 divine Scripture.
 
-**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, pp. 77–78 and 95). This order still
-reckons with both forms in chapters and monasteries:
+Pfalz-Neuburg still reckons with both forms in chapters and monasteries. **Pfalz-Neuburg,
+*Kirchenordnung*, 1543** (Sehling 13, pp. 77–78 and 95):
 
 <!-- doc 386 -->
 > Die mögen in den stiften und clöstern, da man teglich metten singt, also geordnet werden, das,
@@ -957,8 +959,8 @@ that where they are kept with nine lessons, the last three, or where they are ke
 lessons only, those same three, shall be read in German in the parish churches, and where the
 common people are present.
 
-**Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 276). Here a high feast raises the village
-matins by one grade:
+In Waldeck a high feast raises the village matins by one grade. **Waldeck, *Kirchenordnung*,
+1556** (Sehling 9, p. 276):
 
 <!-- doc 2300 -->
 > Frü zur Metten Sollen die Schüler mit dem Veni sancte anfangen. Volgents eyn Invitatorium und
@@ -975,8 +977,8 @@ hereupon the lessons and responds of the common Sunday and holy day, as above un
 to the feast; next sing *Te Deum laudamus*, *Benedictus* with its antiphon, the collects and
 *Benedicamus*.
 
-**Transylvanian Saxons, *Kirchenordnung*, 1547** (Latin version; Sehling 24, p. 222). The more
-solemn feasts keep a fuller matins:
+In the Transylvanian order the more solemn feasts keep a fuller matins. **Transylvanian Saxons,
+*Kirchenordnung*, 1547** (Sehling 24, p. 222; Latin version):
 
 <!-- doc 1669 -->
 > In solennioribus autem festis tres antiphonae cum suis psalmis retinentur. […] His succedit:
@@ -1026,8 +1028,8 @@ the Spree.
 Office, which names no saint's legend. The same wording recurs in the other Brandenburg convent
 recesses (Sehling 3, pp. 219, 238, 272, 305).
 
-**Brandenburg-Ansbach, *Ordnung singens und lesens bei den Stiften*, 1533**
-(Sehling 11, p. 314). Saints' octaves and suffrages are forbidden:
+At the Ansbach chapters saints' octaves and suffrages are forbidden. **Brandenburg-Ansbach,
+*Ordnung singens und lesens bei den Stiften*, 1533** (Sehling 11, p. 314):
 
 <!-- doc 276 -->
 > Alle suffragia de sanctis sollen sie underlassen; dann sie stellen das vertrauen in die
@@ -1053,12 +1055,13 @@ Three adverbs from the old rubrics survive: *ferialiter*, *festive* and *solenni
   excelsis*.
 - In the county of Wied it means "as a holiday", from classical *feriae*.
 
-**Anhalt, *Ordnung der deutschen Gesänge*, before February 1551** (Sehling 2, pp. 554–555). This
-order builds a three-step scale into the Mass:
+Anhalt's order of the German hymns builds a three-step scale into the Mass:
 
 - the high feasts, with sequence, *Patrem*, preface, Sanctus and *Agnus Dei*;
 - other Sundays and holy days, with German hymns and Luther's exhortation;
 - weekdays, *ferialiter*.
+
+**Anhalt, *Ordnung der deutschen Gesänge*, before February 1551** (Sehling 2, pp. 554–555):
 
 <!-- doc 1262 -->
 > an hohen festen das alleluia und sequenz, an andern sontagen ader feiertagen ein deutscher
@@ -1094,7 +1097,8 @@ their wonted Gospels.
 day, in the weekday form. This is the only order in the corpus that keeps the Nativity of Mary
 in this reduced way. Compare §8.4.
 
-**Wied, *Synodalbeschlüsse*, 1564** (Sehling 19/1, p. 467). A two-column list of feasts:
+Wied has a two-column list of feasts. **Wied, *Synodalbeschlüsse*, 1564**
+(Sehling 19/1, p. 467):
 
 <!-- doc 1094 -->
 > Sequitur catalogus festorum. ferialiter: Circumcisionis Christi Trium Regum Purificationis
@@ -1166,8 +1170,8 @@ churches), it shall be sung and kept with Latin psalms, responds, hymns, *Magnif
 versicles, *Benedicamus* and the rest, according to the order of the *Psalmodia* of L. Lossius
 […]
 
-**Burg, *Kirchen-Ordnung*, 1542** (Sehling 2, p. 427). A sermon at vespers on the eve of the
-high feasts:
+Burg has a sermon at vespers on the eve of the high feasts. **Burg, *Kirchen-Ordnung*, 1542**
+(Sehling 2, p. 427):
 
 <!-- doc 1257 -->
 > Erstlich alle sonnabende und in vigiliis der hohen feste auch anderer evangelischer viertage
@@ -1180,8 +1184,8 @@ holy days, vespers shall be held in both parish churches by the parson or his de
 it be deemed needful and convenient, and in especial on the vigils of the high feasts, there
 shall be preaching also after vespers.
 
-**Bremen, *Kirchenordnung*, 1561** (Sehling 7/2.2, p. 513). After a list of thirteen feasts,
-from Sunday to Michaelmas:
+Bremen gives a list of thirteen feasts, from Sunday to Michaelmas, and then adds a rule.
+**Bremen, *Kirchenordnung*, 1561** (Sehling 7/2.2, p. 513):
 
 <!-- doc 2221 -->
 > 9. Dies Pentecostes una cum adiunctis duobus 10. Dies Trinitatis 11. Dies Johannis Bapistae
@@ -1197,8 +1201,9 @@ from Sunday to Michaelmas:
    respond for the season, and the hymn *Magnificat*. But in the rest of the churches let it be
    sung in German.
 
-**Anhalt, Nicolaus Hausmann's order, 1532** (Sehling 2, p. 542). The only order in the corpus
-that would like to keep the night vigil of Christmas and Easter:
+Nicolaus Hausmann's order for Anhalt is the only order in the corpus that would like to keep the
+night vigil of Christmas and Easter. **Anhalt, Nicolaus Hausmann's order, 1532**
+(Sehling 2, p. 542):
 
 <!-- doc 1262 -->
 > Vigilia paschce. natalis. Es wer auch nicht bose, das die christnacht und ostern mit der wache
@@ -1259,9 +1264,9 @@ conveniently all be set up again. And in especial one shall keep Christmas, the 
 the Epiphany, the Easter holy days, the Ascension, Whitsuntide; yet with all things done away
 that are found therein of unchristian legends or chants.
 
-**Saxony (Albertine), *Kirchenordnung*, 1539** (Sehling 1, p. 274). The feasts of Christ follow
-the preamble quoted in §3.7. Sehling gives this part of the order in his own summary but quotes
-the text:
+In Albertine Saxony the feasts of Christ follow the preamble quoted in §3.7. Sehling gives this
+part of the order in his own summary but quotes the text. **Saxony (Albertine),
+*Kirchenordnung*, 1539** (Sehling 1, p. 274):
 
 <!-- doc 30 -->
 > Der tag nativitatis oder der geburt Christi sampt den andern und auch dem dritten
@@ -1309,9 +1314,9 @@ Likewise it may be done also with certain other feasts of the saints whose histo
 in the Gospel, as are St Paul's conversion, Mary Magdalene, St John's beheading, St Stephen,
 etc.
 
-**Merseburg, *Synodalunterricht*, 1544** (Sehling 2, p. 20). This order sets the two ranks side
-by side, and its title for the lower rank is a phrase worth noting: "doch ahne gebotene feir",
-without a commanded holy day.
+The Merseburg synodal instruction sets the two ranks side by side, and its title for the lower
+rank is a phrase worth noting: "doch ahne gebotene feir", without a commanded holy day.
+**Merseburg, *Synodalunterricht*, 1544** (Sehling 2, p. 20):
 
 <!-- doc 1211 -->
 > Den ganzen tag zu feiren fur und nachmittage zu predigen: Alle sontage und volgende
@@ -1343,8 +1348,8 @@ Peter and Paul and of all apostles, to the honour of the holy apostolic office
 **Note.** Maundy Thursday and Good Friday stand in the lower rank here, beside the apostles. The
 feasts of Christ are placed by their standing as holy days, not by their theological weight.
 
-**Mecklenburg, *Kirchenordnung*, 1552** (Sehling 5, pp. 200–201). This is the fullest form of
-the Saxon scheme, and it is the one most often copied:
+The Mecklenburg order of 1552 is the fullest form of the Saxon scheme, and it is the one most
+often copied. **Mecklenburg, *Kirchenordnung*, 1552** (Sehling 5, pp. 200–201):
 
 <!-- doc 1922 -->
 > Von den besondern festen oder feiertagen, so man im jar halten sol. Uber die gemeinen sontage
@@ -1443,8 +1448,8 @@ Twelfth Day, whereon shall be preached out of Matthew the second chapter; Maundy
 Friday, when the Passion is preached; our Lady's Annunciation day; our Lady's Purification; all
 apostles' days; St John the Baptist's day.
 
-**Württemberg, *Kirchenordnung*, 1553** (Sehling 16, p. 266). The list that follows the preamble
-of §3.5:
+The Württemberg list follows the preamble of §3.5. **Württemberg, *Kirchenordnung*, 1553**
+(Sehling 16, p. 266):
 
 <!-- doc 671 -->
 > Alle Sontag Der Christag Der nächst tag darnach Der Jars tag Der öberst, Epiphania genannt Der
@@ -1543,8 +1548,8 @@ office, and of his beheading, for that feast also pertaineth to Christ, and the 
 written in the Gospels. The Visitation likewise. Item, we will also keep the feast of Michael,
 to preach of the angels out of holy Scripture.
 
-**Schleswig-Holstein, *Kirchenordnung*, 1542** (Sehling 23, p. 95). The list that follows the
-principle quoted in §3.3:
+The Schleswig-Holstein list follows the principle quoted in §3.3. **Schleswig-Holstein,
+*Kirchenordnung*, 1542** (Sehling 23, p. 95):
 
 <!-- doc 1576 -->
 > De dre groten Feste Christi vyren wy ein ytlick dre dage lanck umme der Historien Christi
@@ -1571,8 +1576,8 @@ ecclesiastica* of 1537.
 
 Some orders number their ranks outright.
 
-**Grubenhagen, *Kirchenordnung*, 1544** (Sehling 6/2, pp. 1032–1033). Three classes are named,
-and each is given its reason:
+Grubenhagen names three classes, and gives each its reason. **Grubenhagen, *Kirchenordnung*,
+1544** (Sehling 6/2, pp. 1032–1033):
 
 <!-- doc 2056 -->
 > VI. Von den feyertagen, welche man feyeren soll. Festum nativitatis Christi, S. Stephanstagk,
@@ -1631,8 +1636,8 @@ Secondly are kept all the apostles' days. Thirdly: John the Baptist, Michael the
 vespers, which mark the rank in this order, are given only "an festen Christi, allen und jeden",
 on each and every feast of Christ (p. 475; see §11.3).
 
-**Hoya, *Kirchenordnung*, 1571** (Sehling 6/2, p. 1186). Four ranks, the fourth being the
-abolished Assumption:
+Hoya has four ranks, the fourth being the abolished Assumption. **Hoya, *Kirchenordnung*, 1571**
+(Sehling 6/2, p. 1186):
 
 <!-- doc 2065 -->
 > Die vier hohen fest belangende, ordnen wir, das Weynachten, Ostern, Pfingsten mit den zweyen
@@ -1667,8 +1672,8 @@ sermon be ended: as Andrew, Thomas, the Conversion of Paul, Matthias, Peter and 
 James, Magdalene, James, Bartholomew, the Beheading of John, Matthew, Simon and Jude, All
 Saints' day.
 
-**Harlingerland (East Frisia), *Kirchenordnung*, 1573/74** (Sehling 7/1, pp. 735–736). This is
-Hoya's text, divided into titled *Sectiones*:
+The Harlingerland order repeats Hoya's text, divided into titled *Sectiones*. **Harlingerland
+(East Frisia), *Kirchenordnung*, 1573/74** (Sehling 7/1, pp. 735–736):
 
 <!-- doc 2122 -->
 > Der eilfte articull. Von den festen. Sectio prima. Von den vier zeiten. Die vier hohen
@@ -1690,8 +1695,8 @@ that the last and fourth high feast-tide shall be St Michael's day. […] Sectio
 the chiefest feast days. […] Section the third. Of the apostles' days. We ordain that the
 apostles' days underwritten shall be kept holy until the sermon be ended
 
-**Sayn, *Kirchenzuchtordnung*, 1582** (Sehling 19/1, p. 368). Four classes, set out as a
-principle before the list. The margin heads the paragraph *Festa quadrupli*:
+Sayn has four classes, set out as a principle before the list. The margin heads the paragraph
+*Festa quadrupli*. **Sayn, *Kirchenzuchtordnung*, 1582** (Sehling 19/1, p. 368):
 
 <!-- doc 1090 -->
 > Unndt konden die festen durch gantze jahr in viererley artt oder underschiedliche hauffe
@@ -1715,7 +1720,7 @@ And the feasts through the whole year might be divided into four kinds or severa
    which were brought in and kept in the papacy for the confirming of open idolatry, shall in
    our evangelical churches be wholly done away and left off.
 
-The list attached to it (pp. 372–373):
+The list attached to it. **Sayn, *Kirchenzuchtordnung*, 1582** (Sehling 19/1, pp. 372–373):
 
 <!-- doc 1090 -->
 > Hauptvesta, so den gantzen tagh feierlich gehalten undt daruff die gemeine wochentliche arbeit
@@ -1773,8 +1778,8 @@ up and be gone
 (Sehling 19/1, p. 389) later reduced it to a single list of holy days, with the harvest apostles
 kept in the forenoon only (§6.4).
 
-**Aschersleben, *Kirchen-Agenda*, 1575** (Sehling 2, p. 479). The town agenda has a middle rank
-of eight feasts over and above the three chief feasts:
+The Aschersleben town agenda has a middle rank of eight feasts over and above the three chief
+feasts. **Aschersleben, *Kirchen-Agenda*, 1575** (Sehling 2, p. 479):
 
 <!-- doc 1260 -->
 > Uber die drei heubtfeste, sollen auch in dieser christlichen gemeinde diese nachfolgende
@@ -1834,8 +1839,8 @@ Two entries on the list are "no feast". The Dominicans' day (5 August) and St La
 rung with the great bell to open and close the town's market, and the list says of Laurence:
 "ist kein fest".
 
-**Thorn, *Kirchenordnung*, 1575** (Sehling 4, p. 239). This order sets the same two ranks in
-prose, and also speaks of the "small or half feasts":
+Thorn sets the same two ranks in prose, and also speaks of the "small or half feasts". **Thorn,
+*Kirchenordnung*, 1575** (Sehling 4, p. 239):
 
 <!-- doc 1844 -->
 > Alle feste unsers herrn und erlösers, als nemlich nativitatis Christi, circumcisionis,
@@ -1898,8 +1903,8 @@ Laurence's day. St Michael's day.
 Christi, the Assumption, the Nativity of Mary, All Saints, Martin, Laurence and Catherine. It
 matches the conservative character of the Brandenburg order as a whole.
 
-**Anhalt, Nicolaus Hausmann's order, 1532** (Sehling 2, p. 542). An early, one-rank list with
-the apostles already reduced to the forenoon:
+Hausmann's Anhalt order has an early, one-rank list with the apostles already reduced to the
+forenoon. **Anhalt, Nicolaus Hausmann's order, 1532** (Sehling 2, p. 542):
 
 <!-- doc 1262 -->
 > Festa im jar sollen frei gehalden werden, zum exempel des glaubens zu uben, damit das junge
@@ -1920,8 +1925,8 @@ the day of the holy true Body; John the Baptist; the Visitation, the Conception 
 Magdalene; Mary; Laurence; the Assumption; the Nativity; Michael; All Saints; Martin; all
 apostles' days in the forenoon.
 
-**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 94). The editor places this list
-between Brandenburg 1540 and Brandenburg-Nürnberg 1533:
+The editor places the Pfalz-Neuburg list between Brandenburg 1540 and Brandenburg-Nürnberg 1533.
+**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 94):
 
 <!-- doc 386 -->
 > so wöllen wir, das dise nachfolgende fest und feirtag, wie vor alters her, noch gehalten und
@@ -1956,7 +1961,8 @@ James the twelve-messenger; our Lady's departing, called the Assumption
 Christi, as a day to teach the right use of the Sacrament, and keeps the Assumption and the
 Nativity of Mary. The summer feasts are moved to Sunday for the harvest (§6.4, §8.9).
 
-**Teschen, *Kirchenordnung*, 1584** (Sehling 3, p. 461). One of the longest lists in the corpus:
+The Teschen list is one of the longest in the corpus. **Teschen, *Kirchenordnung*, 1584**
+(Sehling 3, p. 461):
 
 <!-- doc 1815 -->
 > IX. Welche fest man halten soll. Uber die gemeine sontage sollen gehalten und feierlich
@@ -2043,8 +2049,8 @@ before, proclaim and shew the feasts and apostles' days, on what day in the week
 and that the apostles' day shall be kept holy no longer than the forenoon, that every
 householder may order himself thereafter, etc.
 
-**Osnabrück (city), *Kirchenordnung*, 1543** (Sehling 7/1, p. 259). The city had sermons five
-times a week, and so needed "no special holy days":
+The city of Osnabrück had sermons five times a week, and so needed "no special holy days".
+**Osnabrück (city), *Kirchenordnung*, 1543** (Sehling 7/1, p. 259):
 
 <!-- doc 2099 -->
 > Dewyle nu der wecken viffmal geprediket wert baven die sondagesprediken, so bedarve wy nener
@@ -2059,8 +2065,8 @@ taverns, and to spend the time unprofitably, etc. Neither shall any feast or hol
 save only that men may hear God's Word preached, and pray to God and thank him for his grace
 through Christ. The apostles' days shall be kept holy until noon.
 
-**Waldeck, *Kirchenordnung*, 1556** (Sehling 9, pp. 272–273). The half day extends even to Good
-Friday:
+In Waldeck the half day extends even to Good Friday. **Waldeck, *Kirchenordnung*, 1556**
+(Sehling 9, pp. 272–273):
 
 <!-- doc 2300 -->
 > der tag des leidens Christi, so der carfreitag genennet wirdt, soll halb feierlich biß auff
@@ -2114,8 +2120,9 @@ of St Paul; the day of the apostle Matthias; Maundy Thursday; Good Friday; the d
 James; the day of Peter and Paul; St James's day; St Laurence's day; the day of Bartholomew; the
 day of Matthew; the day of Simon and Jude.
 
-**Wintzingerode (Gericht Bodenstein), *Kirchen-Ordnung*** (after the Hohnstein order; undated;
-Sehling 2, p. 256). The whole days (the same list as Mansfeld) are graded again by sermons:
+At Wintzingerode the whole days (the same list as Mansfeld) are graded again by sermons.
+**Wintzingerode (Gericht Bodenstein), *Kirchen-Ordnung***
+(Sehling 2, p. 256; after the Hohnstein order; undated):
 
 <!-- doc 1243 -->
 > Und soll auf einen jeden tag zweimal geprediget und von allerhand arbeit denselben ganzen tag
@@ -2140,9 +2147,9 @@ Jude. […] Also the feasts and apostles' days shall always be proclaimed and bi
 before, that the people may order themselves thereafter, and withal it shall be declared which
 shall be kept wholly and which half.
 
-**Pfalz-Zweibrücken, *Feiertagsordnung*, 1561** (Sehling 18, pp. 297–298). The duchy's
-*Statthalter* and councillors clarify the church order of 1557, which had been read in different
-ways:
+In Pfalz-Zweibrücken the duchy's *Statthalter* and councillors clarify the church order of 1557,
+which had been read in different ways. **Pfalz-Zweibrücken, *Feiertagsordnung*, 1561**
+(Sehling 18, pp. 297–298):
 
 <!-- doc 973 -->
 > Nemlich allso, daß hinfurther nachvollgennde Feyrtag fur hohe fest zuhallten, die gleich den
@@ -2180,8 +2187,8 @@ compelled to keep holy, but every man shall then be free to work.
 Christmas, Easter and Whitsuntide are half days here. So are John the Baptist, the Visitation
 and Michaelmas, which Mecklenburg had kept whole or nearly so.
 
-**Landau, *Feiertagsordnung* of the town council, 1562** (Sehling 19/1, p. 61). The "whole" days
-are only four, and they are called high feasts of Christ:
+In the Landau ordinance the "whole" days are only four, and they are called high feasts of
+Christ. **Landau, *Feiertagsordnung* of the town council, 1562** (Sehling 19/1, p. 61):
 
 <!-- doc 1044 -->
 > Und seind das die hohen fest des herrn Christi, so gleich dem sontag durchauß gefeirt werden
@@ -2214,9 +2221,9 @@ here mentioned, every burgher may well do his business and work after noon, as i
 **Note.** In Landau even the Ascension is a half day. The high feasts that fall on weekdays,
 Christmas, New Year and Epiphany, are whole days. So are the Mondays of Easter and Whitsuntide.
 
-**Pfalz-Veldenz, *Kirchenordnung*, 1574** (Sehling 18, pp. 518–519). The chapter is headed "[X.]
-Ordnung der Feirtage. [1. Halbe und ganze Feiertage]". It gives a reason for keeping the half
-days:
+The Pfalz-Veldenz chapter is headed "[X.] Ordnung der Feirtage. [1. Halbe und ganze Feiertage]".
+It gives a reason for keeping the half days. **Pfalz-Veldenz, *Kirchenordnung*, 1574**
+(Sehling 18, p. 518):
 
 <!-- doc 1011 -->
 > so ist doch nit gerathen, die gewohneten Feirtag zu endern oder abzustellen. Sintemahl sie
@@ -2244,7 +2251,8 @@ spent in dancing, playing, carousing and other light things. Therefore the days 
 have been kept wholly or half shall be kept so henceforth according to this order; for herein it
 is needless to lead the people astray once more.
 
-The list itself (p. 519) makes the half days into days of prayer:
+The list itself makes the half days into days of prayer. **Pfalz-Veldenz, *Kirchenordnung*,
+1574** (Sehling 18, p. 519):
 
 <!-- doc 1011 -->
 > Item die zwen folgende tag nach dem Christag, zwen nach Ostern und zwen nach Pfingsten. An
@@ -2262,8 +2270,8 @@ Maundy Thursday and Ascension. The half days are the apostles, Good Friday, John
 the Visitation, Michaelmas, and the second and third days of the three great feasts. Like
 Waldeck 1556 (§6.1), this order ranks Good Friday below Maundy Thursday.
 
-**Ysenburg-Ronneburg, *Agende*, 1582** (Sehling 10, p. 583). A list that grades each day
-separately, by sermons, forenoon and afternoon:
+The Ysenburg-Ronneburg list grades each day separately, by sermons, forenoon and afternoon.
+**Ysenburg-Ronneburg, *Agende*, 1582** (Sehling 10, p. 583):
 
 <!-- doc 218 -->
 > Festum Circumcisionis Christi […] welchs sonst der new jahrs [tag] genänt, soll ganz gefeyert
@@ -2284,8 +2292,8 @@ Maundy Thursday and Good Friday shall each be kept before noon only. Easter day 
 Monday shall both be furnished with sermons before and after noon; Easter Tuesday before noon
 only.
 
-The list continues (p. 583) with the summer days, which are fitted to the harvest and to the
-market at Gelnhausen:
+The list continues with the summer days, which are fitted to the harvest and to the market at
+Gelnhausen. **Ysenburg-Ronneburg, *Agende*, 1582** (Sehling 10, p. 583):
 
 <!-- doc 218 -->
 > Der tag Johannis Baptistae soll wegen des marktags zu Gelnhausenn nur vor mittag mit einer
@@ -2304,8 +2312,9 @@ shall be kept only before noon. Christmas day and St Stephen's day shall be perf
 sermons before and after noon. But St John the Evangelist's day may be concluded with one sermon
 only before noon.
 
-**Nassau-Weilburg, *Kirchenordnung*, 1576, with the *Agende* of 1618** (Sehling 10, p. 228). The
-1576 text lists twelve feasts, and in 1618 a sentence was added to divide them:
+The Nassau-Weilburg text of 1576 lists twelve feasts, and in 1618 a sentence was added to divide
+them. **Nassau-Weilburg, *Kirchenordnung*, 1576, with the *Agende* of 1618**
+(Sehling 10, p. 228):
 
 <!-- doc 198 -->
 > Diese Feyertage, so zur gedächtnuß der wolthaten unsers Herrn Jhesu Christi verordenet seind,
@@ -2318,7 +2327,8 @@ Christ, are kept with chant, sermons and communion like the common Sundays; only
 introits, sequences and other chants *de tempore* are used instead of the other common chants.
 But the apostles' days shall all be kept with one sermon.
 
-The 1618 *Agende* reads instead (in the editor's apparatus):
+The 1618 *Agende* reads instead. **Nassau-Weilburg, *Agende*, 1618**
+(Sehling 10, p. 228; in the editor's apparatus):
 
 <!-- doc 198 -->
 > den gemeinen Sontagen gleich und gantz feyrlich celebrirt. Der dritte Tag aber zu
@@ -2338,8 +2348,8 @@ thereafter, our ministers shall always on the Sunday before proclaim from the pu
 and holy days fall in the same coming week, and whether they shall be kept half with one sermon,
 or wholly solemnly, according to the church order.
 
-**Nassau-Weilburg, *Visitationsabschied*, 1609** (Sehling 10, p. 352). The rule in its final
-form:
+The Nassau-Weilburg rule in its final form. **Nassau-Weilburg, *Visitationsabschied*, 1609**
+(Sehling 10, p. 352):
 
 <!-- doc 199 -->
 > Von feiertagen undt wochenpredigten 1. Wir wollen unndt verordnen, daß hienfuro die gantze
@@ -2359,7 +2369,8 @@ work after noon, when the divine service is performed. […] 3. Where it is wont
 Lord's Supper on Maundy Thursday, *which is the day of the institution of the Lord's Supper*, we
 let it remain so; otherwise the same, together with Good Friday, shall be kept but half solemnly
 
-**Ritzebüttel, *Kirchenordnung*, 1556** (Sehling 5, p. 559). A Low German list in two columns:
+Ritzebüttel has a Low German list in two columns. **Ritzebüttel, *Kirchenordnung*, 1556**
+(Sehling 5, p. 559):
 
 <!-- doc 1963 -->
 > Die virdage overst, an welckeren unse gadesdienst in der kercken geholden wert, sin desse na
@@ -2425,8 +2436,8 @@ proclaimed and preached before and after noon […] But as touching the holy apo
 shall be kept and hallowed in the forenoon with the proclaiming of God's Word; but after the
 sermon is ended every man may go to his work.
 
-**Osnabrück (city), *Kirchenordnung*, 1613** (Sehling 7/1, p. 267). Here a local day of penance
-stands among the half days:
+In the city of Osnabrück a local day of penance stands among the half days. **Osnabrück (city),
+*Kirchenordnung*, 1613** (Sehling 7/1, p. 267):
 
 <!-- doc 2100 -->
 > Folgende tag werden nur mit einer predigt halb gefeyret: 1. Johannis evangelistae tag. 2. Der
@@ -2452,8 +2463,8 @@ sentence before this list puts St Stephen's day among the days "nur mit zweyen p
 gefeyret", kept wholly but with two sermons only. The editor explains that the chief feasts had
 three: the catechism sermon, the chief (Gospel) sermon and the Epistle sermon.
 
-**Tecklenburg, *Kirchenordnung*, 1543** (Sehling 22, p. 245). The half day is defined by the
-sermon alone:
+At Tecklenburg the half day is defined by the sermon alone. **Tecklenburg, *Kirchenordnung*,
+1543** (Sehling 22, p. 245):
 
 <!-- doc 1505 -->
 > Up doße apostel- und andere kleine festdage sal nemant onder dem sermone arbeiden; darvoir
@@ -2462,8 +2473,8 @@ sermon alone:
 On these apostles' and other small feast days no man shall work during the sermon; to work
 before or after it shall be free.
 
-**Ermsleben, *Kirchen-Ordnung*, 1564** (Sehling 2, p. 486). The rule in two lines, from a town's
-report to the visitors:
+A town's report to the visitors gives the rule in two lines. **Ermsleben, *Kirchen-Ordnung*,
+1564** (Sehling 2, p. 486):
 
 <!-- doc 1260 -->
 > Alle aposteltage wird gepredigt und vor mittags gefeiret. In den hohen festtagen feieret man
@@ -2472,8 +2483,8 @@ report to the visitors:
 On all apostles' days there is preaching, and holy day is kept before noon. On the high feast
 days holy day is kept the whole day, and there is preaching twice.
 
-**Brieg, *Kirchenordnung*, 1592** (Sehling 3, p. 445). A Silesian order in which the three
-Marian feasts of Christ, with John the Baptist and Michaelmas, are whole days:
+Brieg is a Silesian order in which the three Marian feasts of Christ, with John the Baptist and
+Michaelmas, are whole days. **Brieg, *Kirchenordnung*, 1592** (Sehling 3, p. 445):
 
 <!-- doc 1809 -->
 > Die drei Marien-fest, als Annunciationis, Visitationis und Purificationis, item festum
@@ -2500,8 +2511,8 @@ of a high feast has two sermons and the last day one.
 On all high feasts there are three sermons on the first day, at the times of matins, the office
 and vespers; on the following feast day two; on the last, one.
 
-**Henneberg, *Kirchenordnung* of Georg Ernst, 1582** (Sehling 2, pp. 312–313). The four chief
-feasts have two sermons and all other feasts one. The Ascension is one of the four:
+In Henneberg the four chief feasts have two sermons and all other feasts one. The Ascension is
+one of the four. **Henneberg, *Kirchenordnung* of Georg Ernst, 1582** (Sehling 2, pp. 312–313):
 
 <!-- doc 1247 -->
 > Von den festen. Uber die sontag sollen zu betrachtung der wolthaten Jesu Christi, unsers
@@ -2540,9 +2551,9 @@ The rank of the summer feasts was often cut down because of the harvest. The fea
 Paul (29 June), the Visitation (2 July), James (25 July), Mary Magdalene (22 July), Laurence (10
 August), the Assumption (15 August) and Bartholomew (24 August) are the ones most affected.
 
+The Mediasch synod gives the only technical term for the half day in the corpus, *intercise*.
 **Transylvanian Saxons, Mediasch synod, 1578**
-(Sehling 24, pp. 427–428; the report printed in the apparatus from Teutsch's *Urkundenbuch*).
-This gives the only technical term for the half day in the corpus, *intercise*:
+(Sehling 24, pp. 427–428; the report printed in the apparatus from Teutsch's *Urkundenbuch*):
 
 <!-- doc 1707 -->
 > In hac synodo ex deliberatione pastorum quorundam remota fuerunt duo festa apostolorum Petri
@@ -2563,9 +2574,8 @@ Nativity, wholly.
 **Note.** *Intercisi dies* was the Roman calendar's term for days that were holy in the morning
 and evening but lawful for business in between.
 
-**Burzenland (Transylvania), *Visitationsartikel*, 1578**
-(Sehling 24, p. 452; German version B in the apparatus). The article is headed *De feriis
-hebdomadatibus*:
+The Burzenland article is headed *De feriis hebdomadatibus*. **Burzenland (Transylvania),
+*Visitationsartikel*, 1578** (Sehling 24, p. 452; German version B in the apparatus):
 
 <!-- doc 1710 -->
 > Der wochen gemeiner feuer-täge wegen ist verordnet von der geistlicher universität, daß sie
@@ -2582,8 +2592,8 @@ man may attend to his own and the common work.
 abolished "sic ut nullum divorum festum celebraretur", so that no saint's feast was celebrated,
 and was brought back at the synod of Birthälm in 1580.
 
-**Mansfeld, *Kirchen-agenda*, 1580** (Sehling 2, p. 240). Apostles' Gospels in the harvest are
-moved to the Sunday, but only in the villages:
+In Mansfeld the apostles' Gospels in the harvest are moved to the Sunday, but only in the
+villages. **Mansfeld, *Kirchen-agenda*, 1580** (Sehling 2, p. 240):
 
 <!-- doc 1241 -->
 > Nach dem aber in der ernte zeit die tage Petri Pauli und Jacobi gefallen, und die leute in
@@ -2598,8 +2608,8 @@ the villages be laid, each one, on the next following Sunday. But in the towns o
 on the day whereon they fall or come; if they come on a Saturday, they may also be transferred
 to the next Sunday.
 
-**Nassau-Dillenburg, *Kirchenordnung*, 1537** (Sehling 10, p. 74). The whole block of summer
-feasts is moved to Sunday:
+Nassau-Dillenburg moves the whole block of summer feasts to Sunday. **Nassau-Dillenburg,
+*Kirchenordnung*, 1537** (Sehling 10, p. 74):
 
 <!-- doc 169 -->
 > Sanct Johans des tauffers tag, item sanct Peter unnd Paulus, Maria haimsuchung, visitationis
@@ -2628,9 +2638,9 @@ The day of Peter and Paul. The day of the Visitation of Mary. The day of James t
 day of Bartholomew. Because the said apostles' feasts fall in the harvest, they shall be kept
 holy before noon only.
 
-**Nürnberg, Veit Dietrich, *Agendbüchlein*, 1545** (Sehling 11, p. 538). To avoid too many
-summer holy days, the Visitation is moved to 15 August, where it takes the place of the
-Assumption:
+To avoid too many summer holy days, Veit Dietrich moves the Visitation to 15 August, where it
+takes the place of the Assumption. **Nürnberg, Veit Dietrich, *Agendbüchlein*, 1545**
+(Sehling 11, p. 538):
 
 <!-- doc 297 -->
 > Weil aber gemeinlich das fest Visitationis Marie in ein wochen, mit S.Peter und Paul felt und
@@ -2694,17 +2704,17 @@ next following shall be kept solemnly before and after noon and celebrated with 
 the Circumcision; the Three Kings or Epiphany; the Purification, the Annunciation and the
 Visitation of the Virgin Mary; John the Baptist; St Michael.
 
-**Danzig, draft *Feiertagsordnung* and St Mary's order of 1567** (Sehling 4, p. 187). The St
-Mary's order made the third day lesser, with two early sermons. In the margin a
-sixteenth-century hand wrote the contrary:
+The St Mary's order at Danzig made the third day lesser, with two early sermons. In the margin a
+sixteenth-century hand wrote the contrary. **Danzig, draft *Feiertagsordnung* and St Mary's
+order of 1567** (Sehling 4, p. 187):
 
 <!-- doc 1844 -->
 > Der dritte festtag soll gleich den andern zween gehalten werden.
 
 The third feast day shall be kept like the other two.
 
-**Regensburg, *Kirchenordnung*, 1567** (Sehling 13, p. 475). All three days are kept, but the
-third has neither communion nor the midday sermon:
+At Regensburg all three days are kept, but the third has neither communion nor the midday
+sermon. **Regensburg, *Kirchenordnung*, 1567** (Sehling 13, p. 475):
 
 <!-- doc 450 -->
 > An festen Christi, allen und jeden, wird neben den predigten frue auch das abendmahl gehalten
@@ -2718,8 +2728,8 @@ morning, and therefore also vespers on the evening before, for the communicants'
 Christmas, Easter and Whitsuntide the Supper is held only the first two days, and on the third
 day, being the Tuesday, the midday sermon is left off in both churches, as followeth below.
 
-**Anhalt, *Kirchenordnung* of Prince Bernhard, 1568** (Sehling 2, p. 569). The third day is
-graded by its music:
+In Prince Bernhard's Anhalt order the third day is graded by its music. **Anhalt,
+*Kirchenordnung* of Prince Bernhard, 1568** (Sehling 2, p. 569):
 
 <!-- doc 1262 -->
 > Zu hohen festen soll man zwene heilige tage figural und den dritten tag den lateinischen coral
@@ -2736,8 +2746,8 @@ sermon instead of two or three. Nassau-Weilburg 1609 (§6.2) makes it a half hol
 Most Upper German orders keep the feast and the next day: "Der Ostertag sampt dem nächsten
 darnach" (Württemberg 1553, §5.3). Two orders show the difference plainly.
 
-**Goldlauter (Henneberg), parish order, 1566** (Sehling 2, p. 333; printed "Groldlauter"). The
-pastor's report to the visitors:
+The pastor of Goldlauter describes his practice in his report to the visitors. **Goldlauter
+(Henneberg), parish order, 1566** (Sehling 2, p. 333; printed "Groldlauter"):
 
 <!-- doc 1248 -->
 > Also pfleg ich es auch zu halten auf die hohe fest, wie oben stehet, one allein die lieder von
@@ -2773,8 +2783,8 @@ those days (§3.1). The orders then choose among three answers:
 B: Christmas day together with St Stephen's day, so that St Stephen's and St John's, the day
 following, be kept for one holy day and not two
 
-**Wolfenbüttel, *Kirchenordnung*, 1543** (Sehling 6/1, p. 62). The saints are joined to the
-"festival sermon" of the second and third Christmas days as themes of their own:
+At Wolfenbüttel the saints are joined to the "festival sermon" of the second and third Christmas
+days as themes of their own. **Wolfenbüttel, *Kirchenordnung*, 1543** (Sehling 6/1, p. 62):
 
 <!-- doc 1972 -->
 > Am dage Stephani neven der festpredike schal men ock prediken van den diaken edder gemeinen
@@ -2851,8 +2861,8 @@ of the common labouring country-folk. Yet on that feast the history of our Lady'
 the Visitation, whereof there is witness in the holy Gospel, shall be kept in the churches with
 singing and reading
 
-**Tecklenburg, *Kirchenordnung*, 1543** (Sehling 22, p. 245). The same text in Low German. Here
-the day also counts as one of the four chief feasts:
+Tecklenburg has the same text in Low German, and there the day also counts as one of the four
+chief feasts. **Tecklenburg, *Kirchenordnung*, 1543** (Sehling 22, p. 245):
 
 <!-- doc 1505 -->
 > Unser leven frouwen hemelvaertdes dag, assumptionis genant, alß ein veerhochtydsfeest, nicht
@@ -2936,8 +2946,8 @@ in the morning as in the afternoon, one shall preach of the angels, that every m
 understand what good we have received from God through their service, that we also may thank God
 therefor.
 
-**Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1, p. 397). The *Te Deum* is sung before the
-Gospel:
+In Braunschweig the *Te Deum* is sung before the Gospel. **Braunschweig, *Kirchenordnung*,
+1528** (Sehling 6/1, p. 397):
 
 <!-- doc 1983 -->
 > Denne schal eyn predicante, wen de epistole gelesen is, vor deme evangelio vormanen dat volk,
@@ -3013,8 +3023,8 @@ the Gospel, as is the day of the Conversion of Paul, Mary Magdalene, St John's b
 the preachers may read and handle the same text and histories in the sermon on such working day,
 namely Wednesday or Friday, as is next to such holy day.
 
-**Solms-Laubach, *Kirchenzuchtordnung*, 1603** (Sehling 9, p. 356). A reason for keeping the
-Beheading of John:
+Solms-Laubach gives a reason for keeping the Beheading of John. **Solms-Laubach,
+*Kirchenzuchtordnung*, 1603** (Sehling 9, p. 356):
 
 <!-- doc 2311 -->
 > Der tag Johannis enthauptung oder [decollatio Johannis] mag uf ein gemeinen wochenpredigttag
@@ -3026,8 +3036,8 @@ The day of John's beheading may be laid on a common week-day sermon day (since t
 glorious history and witness how the world is wont to reward godly preachers), as also the
 Gospel of Mary Magdalene, since it containeth a profitable and comfortable history.
 
-**Prussia, *Kirchenordnung und Ceremonien*, 1568** (Sehling 4, p. 87). Mary Magdalene's Gospel
-is given a fixed Sunday:
+In Prussia Mary Magdalene's Gospel is given a fixed Sunday. **Prussia, *Kirchenordnung und
+Ceremonien*, 1568** (Sehling 4, p. 87):
 
 <!-- doc 1833 -->
 > Das evangelium Mariä Magdalenä Luc. 7 soll ordinarie und hinfort jährlich Dominica septima
@@ -3134,7 +3144,8 @@ a Latin Mass.
 
 ### 9.1 The four times named
 
-**Lübeck, *Kirchenordnung* (Bugenhagen), 1531** (Sehling 5, p. 362). The treasure-chest:
+Bugenhagen's Lübeck order describes the treasure-chest. **Lübeck, *Kirchenordnung* (Bugenhagen),
+1531** (Sehling 5, p. 362):
 
 <!-- doc 1949 -->
 > In desse caste schal kamen de veer tide pennink ut allen caspelen. De veer tide sint: paschen,
@@ -3147,8 +3158,8 @@ Easter, Whitsuntide, Michaelmas, Christmas. Then shall a great basin stand in al
 the altar before the choir. Two churchwardens shall have an eye thereon and not be far from it;
 and all folk of twelve years and above, young and old, shall bring thither the times-penny.
 
-**Waldeck, *Landordnung*, 1525** (Sehling 9, p. 179). A pre-Reformation police ordinance names
-the four *Hochzeiten* first among the days on which attendance at Mass is enforced:
+A pre-Reformation police ordinance of Waldeck names the four *Hochzeiten* first among the days
+on which attendance at Mass is enforced. **Waldeck, *Landordnung*, 1525** (Sehling 9, p. 179):
 
 <!-- doc 2300 -->
 > Auch setzen, ordiniren und wollen wir, ernstlich gebietthende, das ein ider unßer undersaße,
@@ -3161,7 +3172,8 @@ to his years of discretion shall, on the four high-tide feasts and Sundays, and 
 Lady's and apostles' days, hear in his parish church the office of the holy mass and the holy
 Gospel from their parson
 
-**Pomerania, *Kerckenordeninge*, 1569** (Sehling 4, p. 414). The due itself:
+The Pomeranian order sets out the due itself. **Pomerania, *Kerckenordeninge*, 1569**
+(Sehling 4, p. 414):
 
 <!-- doc 1862 -->
 > De veertiden pennink, alle quartal van jeder person bauen 12. jar, ein veerken, schal gegeven
@@ -3170,8 +3182,8 @@ Gospel from their parson
 The four-times penny, every quarter, from every person above twelve years, a farthing, shall be
 given either to the pastor or to the church, as is the custom in every place.
 
-**Jülich-Cleves-Berg, *Visitationsinstruktion*, 1559** (Sehling 21, p. 87). The same dues in the
-lower Rhineland, where they are called the "four high-tide offerings":
+The same dues are found in the lower Rhineland, where they are called the "four high-tide
+offerings". **Jülich-Cleves-Berg, *Visitationsinstruktion*, 1559** (Sehling 21, p. 87):
 
 <!-- doc 1425 -->
 > yedoch das einem yeden die vier hochzeitoffer unnd -broder, wie hiebevor verordent, gegeben
@@ -3223,8 +3235,8 @@ the Assumption or Ascension of Mary, whereon the doctrine of the holy angels sha
 to the people. Likewise also on the same feast, after the epistle is read, a common thanksgiving
 shall be made for the fruits received, and the *Te Deum laudamus* be sung thereto.
 
-**Harlingerland, *Kirchenordnung*, 1573/74** (Sehling 7/1, p. 735). The payment is the reason
-given for Michaelmas taking the place:
+In the Harlingerland order the payment is the reason given for Michaelmas taking the place.
+**Harlingerland, *Kirchenordnung*, 1573/74** (Sehling 7/1, p. 735):
 
 <!-- doc 2122 -->
 > Ordnen derohalben, daß der [!] letzste und vierte hochfesttagzeit solle S. Michaelis tag sein.
@@ -3237,8 +3249,9 @@ land-rent, and give and pay it without hindrance.
 
 ### 9.3 The *Vierzeiten* as a liturgical rank
 
-**Wolfenbüttel, *Kirchenordnung*, 1543** (Sehling 6/1, p. 62). The same words stand in
-Hildesheim 1544 (Sehling 7/2.1, p. 858). A sermon at first vespers is allowed only on the four:
+At Wolfenbüttel a sermon at first vespers is allowed only on the four. The same words stand in
+Hildesheim 1544 (Sehling 7/2.1, p. 858). **Wolfenbüttel, *Kirchenordnung*, 1543**
+(Sehling 6/1, p. 62):
 
 <!-- doc 1972 -->
 > In den grösten festen edder veer tyden: Wynachten, Paschen, Pinxsten und Michaelis mach men
@@ -3247,7 +3260,7 @@ Hildesheim 1544 (Sehling 7/2.1, p. 858). A sermon at first vespers is allowed on
 On the greatest feasts, or four times, Christmas, Easter, Whitsuntide and Michaelmas, one may
 preach for an hour at the first vespers. On the other feasts it is not needful.
 
-**Hoya, *Kirchenordnung*, 1571** (Sehling 6/2, p. 1151). The Mass in Latin throughout:
+Hoya has the Mass in Latin throughout. **Hoya, *Kirchenordnung*, 1571** (Sehling 6/2, p. 1151):
 
 <!-- doc 2065 -->
 > VI. Von den vierzeitenfesten. Auf den vierzeitenfesten sol man das meßampt in unsern kirchen,
@@ -3260,9 +3273,9 @@ our churches, where it can be had, throughout in Latin, with the introit, Kyrie 
 in excelsis*, collects, epistles, sequences, Gospels, etc.; yet so that the wonted German psalms
 which are appointed for the feasts (that the church also may sing) be not forgotten.
 
-**Lauenburg, *Kirchenordnung*, 1585** (Sehling 5, p. 421). The *hohe Vierzeitenfeste* are the
-days for the alms collection. The meal the pastor used to give the churchwardens on those days
-is abolished:
+In Lauenburg the *hohe Vierzeitenfeste* are the days for the alms collection, and the meal the
+pastor used to give the churchwardens on those days is abolished. **Lauenburg, *Kirchenordnung*,
+1585** (Sehling 5, p. 421):
 
 <!-- doc 1953 -->
 > Zum vierzehenden sollen sie alle sontage und auf den feiertagen und hohen vierzeiten festen
@@ -3275,9 +3288,9 @@ diligently gather the collection from the people during the sermon, write it dow
 […] And lastly there shall be wholly done away on the high four-times feasts the collation and
 feasting which the pastor hath hitherto had to give the churchwardens on such feasts.
 
-**Neumark (Brandenburg), instruction of Margrave Johann for the visitors, 1540**
-(Sehling 3, p. 36). The churchwardens are to take the collection plate round on the high feasts
-generally, not only on the four:
+In the Neumark the churchwardens are to take the collection plate round on the high feasts
+generally, not only on the four. **Neumark (Brandenburg), instruction of Margrave Johann for the
+visitors, 1540** (Sehling 3, p. 36):
 
 <!-- doc 1745 -->
 > Dieselben gottesleute sollen auch alle hohe feier feste, nicht allein die vier zeiten mit der
@@ -3337,8 +3350,8 @@ is also unseemly that the chants be all alike on all feasts, it were good that o
 glorious feasts there were sung the Latin introits, *Gloria in excelsis Deo*, Alleluia, the pure
 sequences, Sanctus, *Agnus Dei*.
 
-**Saxony (Ernestine), *Gemeine Verordnung*, 1533** (Sehling 1, p. 192). The rule depends on the
-place as well as the day:
+In Ernestine Saxony the rule depends on the place as well as the day. **Saxony (Ernestine),
+*Gemeine Verordnung*, 1533** (Sehling 1, p. 192):
 
 <!-- doc 14 -->
 > In steten und flecken da knabenschulen und leut sind, die lateinisch versteen, mag man an
@@ -3353,8 +3366,8 @@ understandeth Latin, one shall hold mass in German throughout […] Note: even w
 in Latin on high feasts, yet the epistle, the Gospel, the words of the Sacrament and the Lord's
 Prayer are all read in German and aloud
 
-**Schleswig-Holstein, *Kirchenordnung*, 1542** (Sehling 23, p. 91). The high feasts are named,
-and Trinity is one of them:
+In Schleswig-Holstein the high feasts are named, and Trinity is one of them.
+**Schleswig-Holstein, *Kirchenordnung*, 1542** (Sehling 23, p. 91):
 
 <!-- doc 1576 -->
 > In den Hogen Festen Christi, alse dar sint Winachten, Paschen, Pingesten und Trinitatis, schal
@@ -3369,7 +3382,8 @@ item Latin prefaces, which the priest beginneth thus: *Dominus vobiscum*, etc., 
 etc.; thereafter the Sanctus; lastly the *Pater noster* with the words of the Supper, yet these
 always in the German tongue
 
-**Buxtehude, *Kirchenordnung*, 1552** (Sehling 7/1, p. 74). The Gloria follows the rank:
+At Buxtehude the *Gloria* follows the rank. **Buxtehude, *Kirchenordnung*, 1552**
+(Sehling 7/1, p. 74):
 
 <!-- doc 2082 -->
 > Volgende schall gesungen werden dat Kyrie eleison na gelegenheit, Gloria in excelsis unde dat
@@ -3380,8 +3394,8 @@ Next shall be sung the Kyrie eleison as occasion serveth, *Gloria in excelsis* a
 terra*: on the high feasts always in Latin, on the Sundays and otherwise in German or in Latin,
 as the time will allow.
 
-**Thorn, *Kirchenordnung*, 1575** (Sehling 4, p. 238). The reverse rule. On Sundays the chants
-before the sermon are in Latin, but the small feasts are wholly German:
+Thorn has the reverse rule. On Sundays the chants before the sermon are in Latin, but the small
+feasts are wholly German. **Thorn, *Kirchenordnung*, 1575** (Sehling 4, p. 238):
 
 <!-- doc 1844 -->
 > Sonsten die gesänge, collecten und lectiones für der predigt werden alles lateinisch gehalten.
@@ -3397,7 +3411,8 @@ office is held in German, both in the Old and the New Town
 The lower feasts have their own marks in several orders. They are enough to set them off from
 working days without matching Sundays.
 
-**Pomerania, *Agenda*, 1569** (Sehling 4, p. 469). The apostles' days:
+The Pomeranian *Agenda* gives the rule for the apostles' days. **Pomerania, *Agenda*, 1569**
+(Sehling 4, p. 469):
 
 <!-- doc 1865 -->
 > Dise navolgenden aposteldage schal men viren vor middage. Des sondages to vörne schölen se de
@@ -3416,8 +3431,8 @@ hold the office before the altar before the sermon, read the *Gloria*, collect, 
 Gospel with the tone, that there may be a difference between these days and the common working
 days. When church is out, every man goeth to his work.
 
-**Aschersleben, *Kirchen-Agenda*, 1575** (Sehling 2, p. 480). The apostles' day Mass and
-vespers:
+The Aschersleben agenda sets out the apostles' day Mass and vespers. **Aschersleben,
+*Kirchen-Agenda*, 1575** (Sehling 2, p. 480):
 
 <!-- doc 1260 -->
 > Von der vesper an der apostel abend. Die vesper soll gehalten werden wie am sonnabende, doch
@@ -3437,7 +3452,8 @@ introit.
    […] Of vespers on the apostles' days. Vespers are sung without the organist, as otherwise on
    a working day, since no sermon is held.
 
-**Riga, *Kirchenordnung*, 1530** (Sehling 5, p. 15). The melody of the Kyrie:
+The Riga order gives the melody of the Kyrie. **Riga, *Kirchenordnung*, 1530**
+(Sehling 5, p. 15):
 
 <!-- doc 1897 -->
 > Auf den introit, singt man das kyrie eleison, mit wenig noten (ausgenommen auf die hohen fest,
@@ -3450,8 +3466,8 @@ one may take the paschal note)
 
 Proper prefaces belonged only to the great feasts, and the orders use them to mark those days.
 
-**Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1, p. 441). The same text is in Hamburg
-1529, p. 528:
+The same text is in Hamburg 1529 (Sehling 5, p. 528). **Braunschweig, *Kirchenordnung*, 1528**
+(Sehling 6/1, p. 441):
 
 <!-- doc 1983 -->
 > Darnä keret he sick tome altare unde in den groten festen, de sunderge prefatien hebben, unde
@@ -3464,8 +3480,8 @@ else, when he will, on certain Sundays with the preface of the Trinity (which wa
 the Arians, as was the Nicene Creed also), he shall begin in Latin the preface *Dominus
 vobiscum* and sing it to the end; whereupon let the choir sing a Latin Sanctus.
 
-**Pfalz-Neuburg, *Kirchenordnung* of Ottheinrich, second printing 1547** (Sehling 14, p. 109).
-The preface itself has two grades:
+In Ottheinrich's order the preface itself has two grades. **Pfalz-Neuburg, *Kirchenordnung* of
+Ottheinrich, second printing 1547** (Sehling 14, p. 109):
 
 <!-- doc 473 -->
 > Es seind aber auf etliche hohe fest, Osterfest, Auffart, Pfingsten, Trinitatis etc., besondere
@@ -3480,8 +3496,8 @@ may note out or write out, and have always on the desk beside the church order
 medieval preface: the festal tone for the feast itself, the ferial or Sunday tone for the days
 within its season. The order prints the Trinity preface as its example.
 
-**Hatzkerode (Harzgerode, Anhalt), *Kirchenordnunge*, 1534(?)** (Sehling 2, p. 587). On ordinary
-days an exhortation, on the great feasts the preface:
+At Hatzkerode there is an exhortation on ordinary days and the preface on the great feasts.
+**Hatzkerode (Harzgerode, Anhalt), *Kirchenordnunge*, 1534(?)** (Sehling 2, p. 587):
 
 <!-- doc 1263 -->
 > Als dan sol sich der priester umb keren und die exhortatio, wie die in der agende stehet, inen
@@ -3503,8 +3519,8 @@ After the sermon followeth a German hymn; thereupon the priests on high feasts s
 *de tempore* to the wonted notes; but on the common Sundays and holy days [the priest], without
 the same, turneth to the people straightway after the German hymn
 
-**Kurland, *Kirchenordnung*, 1570** (Sehling 5, p. 89). German proper prefaces for the high
-feasts are allowed, "for variety":
+Kurland allows German proper prefaces for the high feasts, "for variety". **Kurland,
+*Kirchenordnung*, 1570** (Sehling 5, p. 89):
 
 <!-- doc 1907 -->
 > Dar man aber auf die hohe fest zur verendrung (wie an dem fürstlichen hofe geschicht) diese
@@ -3522,8 +3538,9 @@ the feasts of Christ (§5.2). Lippe 1571 restricts them to the *Vierzeiten* (§9
 
 ### 10.4 Sequences
 
-**Schleswig-Holstein, *Kirchenordnung*, 1542** (Sehling 23, p. 90). Sequences are dropped except
-on the three great feasts, and each great feast keeps its own sequence:
+In Schleswig-Holstein sequences are dropped except on the three great feasts, and each great
+feast keeps its own sequence. **Schleswig-Holstein, *Kirchenordnung*, 1542**
+(Sehling 23, p. 90):
 
 <!-- doc 1576 -->
 > De Sequentien unde prosen scholen alle underlaten unde nicht gesungen werden, uthgenamen yn
@@ -3555,9 +3572,9 @@ Sancte Spiritus*, with its German song.
 Also the figural song shall on the chiefest feasts be orderly observed and sung in one parish as
 well as in the others.
 
-**Hof, *Ordo ecclesiasticus*, 1592**
-(Sehling 11, p. 477, in the table of contents; the collection itself begins on p. 456). The
-title of the order's collection of polyphonic music:
+The Hof order gives the title of its collection of polyphonic music in the table of contents;
+the collection itself begins on p. 456. **Hof, *Ordo ecclesiasticus*, 1592**
+(Sehling 11, p. 477):
 
 <!-- doc 294 -->
 > XVI. Ordo suavissimarum et optimarum ex prastantissimis artificibus tum veteribus tum
@@ -3568,8 +3585,8 @@ XVI. An order of the sweetest and best songs, chosen out of the most excellent m
 and new, which are sung in figural music under the leading of the cantor, directed to the chief
 feasts of the whole year
 
-**Pomerania, *Agenda*, 1569** (Sehling 4, p. 466). In Rogation week there is no figural music or
-organ, except on the Ascension and its vigil:
+In the Pomeranian *Agenda* there is no figural music or organ in Rogation week, except on the
+Ascension and its vigil. **Pomerania, *Agenda*, 1569** (Sehling 4, p. 466):
 
 <!-- doc 1865 -->
 > Up disen sondach unde in der weke schal men kenen figural sang singen, ock nicht orglen,
@@ -3591,8 +3608,8 @@ of the Ascension of the Lord, with its vigil
 
 ### 10.6 Vestments and elevation
 
-**Anhalt, *Kirchenordnung* of Prince Bernhard, 1568** (Sehling 2, p. 570). The elevation of the
-Sacrament is kept only on the high feasts:
+In Prince Bernhard's Anhalt order the elevation of the Sacrament is kept only on the high
+feasts. **Anhalt, *Kirchenordnung* of Prince Bernhard, 1568** (Sehling 2, p. 570):
 
 <!-- doc 1262 -->
 > Weil die elevation des hochwirdigen sacraments des waren leibes und blutes Christi in einer
@@ -3638,7 +3655,8 @@ The great feasts are rung in with the great bell and the three larger bells chim
 
 ### 10.8 The Athanasian Creed and the *Te Deum*
 
-**Mecklenburg, *Klosterordnung*, 1572** (Sehling 5, p. 258). The convents' matins:
+The Mecklenburg convent order gives the rule for the convents' matins. **Mecklenburg,
+*Klosterordnung*, 1572** (Sehling 5, p. 258):
 
 <!-- doc 1926 -->
 > Auf die hohen feste, als weinacht, epiphania, ostern, himmelfahrt, pfingsten, trinitatis, soll
@@ -4565,8 +4583,8 @@ Gospels that fall on the apostles' feasts in the afternoon.
 **Note.** St Stephen and St John count here as "great feasts", as days of Christmas, while the
 apostles do not.
 
-**Mansfeld, *Kirchen-agenda*, 1580** (Sehling 2, p. 240). The apostles' days, by the day of the
-week on which they fall:
+Mansfeld sets out the apostles' days by the day of the week on which they fall. **Mansfeld,
+*Kirchen-agenda*, 1580** (Sehling 2, p. 240):
 
 <!-- doc 1241 -->
 > Felt ein apostel tag auf einen sontag, so mag er gehalten werden wie er gefellet, doch das man
@@ -4699,9 +4717,9 @@ Christ and his holy Passion, together with the history of the resurrection.
 the day after Easter "nach alter gewonheit", after the old custom, which is the medieval
 practice of transferring the Annunciation to the week after Low Sunday.
 
-**Burzenland chapter (Transylvania), resolutions of 25 February 1573** (Sehling 24, p. 371). In
-1573 Easter fell on 22 March, so the Annunciation fell on the Wednesday after Easter. The dean
-writes:
+In 1573 Easter fell on 22 March, so the Annunciation fell on the Wednesday after Easter. The
+dean of the Burzenland chapter writes. **Burzenland chapter (Transylvania), resolutions of 25
+February 1573** (Sehling 24, p. 371):
 
 <!-- doc 1694 -->
 > 6. In veteri ecclesiae computo festum Annuntiationis Mariae sive Conceptionis Christi
@@ -4719,8 +4737,8 @@ writes:
    marketing than to the celebration of feasts. I will therefore celebrate that feast on the
    fifth day before Easter, which is called the day of the Lord's Supper.
 
-**Thorn, *Kirchenordnung*, 1575** (Sehling 4, pp. 239–240). The order admits that practice
-varies:
+The Thorn order admits that practice varies. **Thorn, *Kirchenordnung*, 1575**
+(Sehling 4, pp. 239–240):
 
 <!-- doc 1844 -->
 > Weil es aber mit erwehlung eines bequemen tages nicht in allen orten gleichförmig gehalten
@@ -4737,8 +4755,8 @@ cared for.
 
 ### 14.3 Saturdays, harvests and two feasts in one week
 
-**Henneberg, *Kirchenordnung*, 1582** (Sehling 2, p. 313). For the "common feasts" of the second
-rank:
+Henneberg gives a rule for the "common feasts" of the second rank. **Henneberg,
+*Kirchenordnung*, 1582** (Sehling 2, p. 313):
 
 <!-- doc 1247 -->
 > Wenn aber ein gemein fest auf einen sontag gefiele, sol desselbigen sontags verordnetes
@@ -4767,8 +4785,8 @@ But when the feast falleth on a Saturday, it is removed until the Sunday afterno
 because the day of James the apostle cometh in the harvest, it is the custom, when it falleth on
 a Friday or Saturday, to handle the feast on the next Sunday after, in the afternoon.
 
-**Schwarzburg, *Ordnung der fest und feiertage*, 1587** (Sehling 2, p. 137). Apostles' days are
-not moved, except from a Saturday:
+In Schwarzburg apostles' days are not moved, except from a Saturday. **Schwarzburg, *Ordnung der
+fest und feiertage*, 1587** (Sehling 2, p. 137):
 
 <!-- doc 1230 -->
 > die festa der aposteln, sollen ohne unterlassung und ohne einige vorlegung auf den tag, do sie
@@ -4810,8 +4828,8 @@ Neither shall any parson have power to remove the same feasts or holy days to ot
 shall content himself to keep them holy on the days whereon they fall, that no inequality be
 held, to offence and evil report, etc.
 
-**Kosd and Schelken chapters (Transylvania), statutes, 1577** (Sehling 24, p. 400). Following
-the sentence quoted in §3.7:
+The Kosd and Schelken statutes continue after the sentence quoted in §3.7. **Kosd and Schelken
+chapters (Transylvania), statutes, 1577** (Sehling 24, p. 400):
 
 <!-- doc 1704 -->
 > Si quis vero in gratiam suorum colonorum aliquem diem festum celebraverit, qui in cathalogo
@@ -4831,10 +4849,10 @@ there are the few feasts of Christ that remain. They are mostly Upper German cit
 Zwinglian or Bucerian influence, and later Reformed territories. Their history shows how
 unstable the minimum was.
 
-**Mülhausen (Alsace), council decree on processions and holy days, 1524**
-(Sehling 20/2, p. 196). The first step keeps four "high-tides" with the Marian feasts and the
-apostles, and abolishes the local and lesser days. Among them is "der achtest Sannt Steffans",
-the octave of St Stephen, the only octave named in any list of abolished feasts:
+Mülhausen's first step keeps four "high-tides" with the Marian feasts and the apostles, and
+abolishes the local and lesser days. Among them is "der achtest Sannt Steffans", the octave of
+St Stephen, the only octave named in any list of abolished feasts. **Mülhausen (Alsace), council
+decree on processions and holy days, 1524** (Sehling 20/2, p. 196):
 
 <!-- doc 1377 -->
 > Das unnd anders angesehen, ist geordent, das man hinfur den heiligen Sonntag vorab unnd darzu
@@ -4861,8 +4879,8 @@ offices of the mass, as the custom is
 11 October. The "four high-tides" at Mülhausen are Christmas, Easter, Ascension and Pentecost
 (see the next quotation).
 
-**Mülhausen, opinion on the Basel and Strasbourg orders, 1529** (Sehling 20/2, pp. 214–215).
-Five years later the town adopted the Basel order:
+Five years later Mülhausen adopted the Basel order. **Mülhausen, opinion on the Basel and
+Strasbourg orders, 1529** (Sehling 20/2, pp. 214–215):
 
 <!-- doc 1382 -->
 > Item mit den feyertagen sols noch Baßler ordnung gehalten werden, die nit meer dann den
@@ -4896,8 +4914,9 @@ his face.
 third days of the great feasts. The Saturday evening, from three o'clock, is treated as part of
 the Sunday.
 
-**Esslingen, council decrees of 1537** (Sehling 17/2, pp. 389–390). The council first abolished
-everything but Sunday and Christmas (22a), then brought the apostles' days back (22b):
+The Esslingen council first abolished everything but Sunday and Christmas (22a), then brought
+the apostles' days back (22b). **Esslingen, council decrees of 1537**
+(Sehling 17/2, pp. 389–390):
 
 <!-- doc 883 -->
 > Dweil aber ein ersamer rath vermerckt, das an solichen feirtagen das gemein volck meher zu
@@ -4929,9 +4948,9 @@ apostles' days be kept holy again, and God's Word be preached and heard thereon
 council learned that abolishing holy days did not abolish holidays, and restored the apostles'
 days in order to have days for preaching.
 
-**Strasbourg, synodal decrees, 1544** (Sehling 20/1, pp. 342–343). Only Sunday is a holy day in
-the city. The saints are remembered in the sermon, and the countryside may keep its half and
-whole days:
+At Strasbourg only Sunday is a holy day in the city. The saints are remembered in the sermon,
+and the countryside may keep its half and whole days. **Strasbourg, synodal decrees, 1544**
+(Sehling 20/1, pp. 342–343):
 
 <!-- doc 1312 -->
 > Weil inn der stat allein der Sonnetag gefeiret würt, sollen die prediger das volck offt und
@@ -4952,8 +4971,8 @@ are had in the Scripture or else in approved books […] But where in the countr
 still have their holy day, the whole or the half day, there they shall be kept in Christian
 wise.
 
-**Nassau-Dillenburg (Reformed), *Kirchenordnung*, 1582** (Sehling 10, p. 163). After the county
-turned Reformed:
+The Nassau-Dillenburg order after the county turned Reformed. **Nassau-Dillenburg (Reformed),
+*Kirchenordnung*, 1582** (Sehling 10, p. 163):
 
 <!-- doc 184 -->
 > 48. Omnia festa sanctorum et abusus feriarum abrogentur et soli Dominici dies atque festa
@@ -4965,9 +4984,9 @@ turned Reformed:
 **Note.** The same county's Lutheran order of 1537 had kept Corpus Christi, the Assumption and
 the Nativity of Mary (§5.7, §8.9).
 
-**Kurpfalz (Reformed), *Kirchenordnung*, 1563** (Sehling 14, p. 397). The Palatine order of 1556
-had followed Württemberg (§5.3). Its Reformed successor keeps only the three great feasts, New
-Year and Ascension:
+The Palatine order of 1556 had followed Württemberg (§5.3). Its Reformed successor keeps only
+the three great feasts, New Year and Ascension. **Kurpfalz (Reformed), *Kirchenordnung*, 1563**
+(Sehling 14, p. 397):
 
 <!-- doc 504 -->
 > Ordnung der feiertägen. An den feyertagen soll es gehalten werden wie am Sontag. Diese
@@ -4983,8 +5002,8 @@ with the next day after; the Ascension of Christ; Whitsunday with the Monday fol
 und Aposteltage, Johannis Baptistae und Michaelis": it still had Epiphany, the Marian and
 apostles' days, John the Baptist and Michaelmas.
 
-**Anhalt, Prince Johann Georg to the superintendent, 4 March 1599** (Sehling 2, p. 535). When
-Anhalt turned Reformed, the prince ordered a new agenda on the Palatine model:
+When Anhalt turned Reformed, the prince ordered a new agenda on the Palatine model. **Anhalt,
+Prince Johann Georg to the superintendent, 4 March 1599** (Sehling 2, p. 535):
 
 <!-- doc 1261 -->
 > eine algemeine agenda dieses fursten thums kirchen, auf und nach der pfälzischen gerichtet und
