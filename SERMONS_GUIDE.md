@@ -197,8 +197,8 @@ heads.
   pulpit after the sermon.
 - [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md) covers the daily lessons with exposition (§3.1) and the
   sermon inside Vespers (§7.4).
-- [`FEAST_RANKING_GUIDE.md`](FEAST_RANKING_GUIDE.md) covers the half-holidays kept "with a
-  sermon".
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the half-holidays kept
+  "with a sermon", Lent and the other seasons, and the days of fasting and prayer.
 - [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) covers the
   deacons and chaplains who preached the lesser sermons.
 - [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md) covers the oaths by

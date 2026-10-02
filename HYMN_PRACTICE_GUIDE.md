@@ -1279,7 +1279,7 @@ like the medieval Kyrie melodies. Most orders cut it back to three petitions, on
 Person of the Trinity. The Kyrie melodies of the chant books (*summum*, *paschale*,
 *dominicale*, *angelicum*, *apostolicum*, *in adventu*, *de beata Virgine*) survived as seasonal
 grades in the Lutheran cantionals of Spangenberg and Lossius. The grades themselves are
-treated in `FEAST_RANKING_GUIDE.md` §3.2. This section deals with the texts sung to them.
+treated in `LITURGICAL_CALENDAR_GUIDE.md` §4.2. This section deals with the texts sung to them.
 
 ### 6.1 Three times, not nine
 
