@@ -1,0 +1,4040 @@
+# Extraordinary Rites in the Sehling Church Orders
+
+This guide covers the occasional and extraordinary rites of the church in the evangelical church
+orders of the sixteenth century, as printed in Emil Sehling's *Die evangelischen
+Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
+
+- **Was it kept, recast or abolished?** Which medieval sacraments, consecrations and blessings
+  survived in an evangelical form, and on what grounds were the others given up?
+- **What was the full liturgy?** Where an order prints a form, what is its order of service, and
+  what are its formulas, vows and prayers?
+- **How did the orders differ?** How do the Lutheran, Upper German and Reformed forms compare,
+  and which orders copied which?
+- **Who performed it, and where?** The pastor, the superintendent, the consistory, the elders or
+  the congregation; in the church, at the font, at the altar, in the house or at the grave.
+
+**How the guide is laid out.**
+- §1 summarizes the findings, and §2 sets out the scope, sources and method.
+- §§3–9 deal with the sacramental acts and the rites of life and death:
+  - §3, baptism;
+  - §4, exorcism;
+  - §5, churching;
+  - §6, confirmation;
+  - §7, marriage;
+  - §8, the sick, the dying, the condemned and the possessed;
+  - §9, funerals and burial.
+- §§10–13 deal with offices:
+  - §10, ordination;
+  - §11, installation of pastors, superintendents, abbots and bishops;
+  - §12, minor orders, lay offices and church workers;
+  - §13, magistrates and civil offices.
+- §14 covers the dedication of churches and the *Kirchweih*, and §15 the blessings of objects
+  and their abolition.
+- §16 covers the ban, excommunication, public penance and reconciliation.
+- §17 covers other occasional rites, chiefly the parish visitation.
+- §18 is a table by order, and §19 a concordance of every order quoted.
+
+Each topic is supported by quotations in the original language (Early New High German, Low
+German or Latin), each followed by an English translation.
+
+**Conventions**
+
+- **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built
+  from the digitized edition.
+  - Footnote numbers, sigla, folio markers, the editor's dates in square brackets and
+    interleaved apparatus are left out.
+  - Sehling's own supplied letters in square brackets are kept, as are "[!]" and his other
+    signs.
+  - Spelling and punctuation are as printed.
+  - "[…]" marks an omission.
+  - Every quotation has been checked against the database text, allowing for OCR noise: at least
+    90 per cent of its words must be found there in order. Its page has been checked against the
+    edition's page markers.
+  - Each quotation is preceded by an HTML comment, invisible when rendered, that names the
+    `eko.db` document it was checked against.
+- **Translations.** The English is formal-equivalence, in the idiom of the Authorized Version:
+  - Word order and clause structure are kept where English allows.
+  - Stock terms are rendered the same way throughout. *Taufe* is "baptism". *Bann* is "ban".
+    *weihen* is "hallow". *Kirchendiener* is "minister of the church". *Amtmann* is "officer".
+  - Words the translation supplies are in square brackets.
+- **Citations.** Citations are in the form "Sehling volume, page".
+  - The half-volumes of the edition are written 6/1, 6/2, 7/1, 7/2.1, 7/2.2, 17/1, 17/2, 19/1,
+    19/2, 20/1 and 20/2, following the digitized volumes.
+  - Each order is named by place, title and date as they appear in Sehling's running heads.
+    These sometimes differ from the database's record headings (see §2.3).
+
+## Contents
+
+- [1. Summary of findings](#1-summary-of-findings)
+- [2. Scope, sources and method](#2-scope-sources-and-method)
+- [3. Baptism](#3-baptism)
+- [4. Exorcism](#4-exorcism)
+- [5. Churching of women after childbirth](#5-churching-of-women-after-childbirth)
+- [6. Confirmation](#6-confirmation)
+- [7. Marriage](#7-marriage)
+- [8. The sick, the dying, the condemned and the possessed](#8-the-sick-the-dying-the-condemned-and-the-possessed)
+- [9. Funerals and burial](#9-funerals-and-burial)
+- [10. Ordination](#10-ordination)
+- [11. Installation of pastors, superintendents, abbots and bishops](#11-installation-of-pastors-superintendents-abbots-and-bishops)
+- [12. Minor orders, lay offices and church workers](#12-minor-orders-lay-offices-and-church-workers)
+- [13. Magistrates and civil offices](#13-magistrates-and-civil-offices)
+- [14. Dedication of churches and the *Kirchweih*](#14-dedication-of-churches-and-the-kirchweih)
+- [15. Blessings of objects and their abolition](#15-blessings-of-objects-and-their-abolition)
+- [16. The ban, excommunication, public penance and reconciliation](#16-the-ban-excommunication-public-penance-and-reconciliation)
+- [17. Other occasional rites](#17-other-occasional-rites)
+- [18. Table by order](#18-table-by-order)
+- [19. Concordance of the orders quoted](#19-concordance-of-the-orders-quoted)
+
+---
+
+## 1. Summary of findings
+
+### 1.1 The main findings
+
+**1. The sacraments: one rite kept whole, the rest reduced to Word and prayer.** Baptism was the
+rite the orders printed most often and most fully (§3). Of the other medieval sacraments, none
+survived as a sacrament, but all left an evangelical rite in their place:
+
+- **Confirmation** became a catechetical examination with prayer and, in many orders, the laying
+  on of hands (§6).
+- **Marriage** became a "worldly business" blessed by the church (§7).
+- **Ordination** became a call, examination, prayer and the laying on of hands (§10).
+- **Penance** became private confession and, for open sinners, public penance and absolution
+  (§16).
+- **Extreme unction** was replaced by visitation and communion of the sick (§8).
+
+**2. Baptism fell into four families** (§3):
+
+- the received rite in German (Luther 1523, Nuremberg and Strasbourg 1524, Ansbach 1526,
+  Brandenburg 1540);
+- Luther's revised *Taufbüchlein* of 1526, the Lutheran standard;
+- the Upper German rite of Strasbourg and Württemberg, without exorcism or cross;
+- the Reformed rite of the Palatinate and the stranger churches, which forbade emergency baptism
+  by women.
+
+Salt, spittle, oil, the candle and the font blessing went almost everywhere. The chrism was kept
+only in Electoral Brandenburg 1540 and Pfalz-Neuburg 1543 (§§3.2, 15.4).
+
+**3. Exorcism became the confessional marker** (§4). The Lutheran orders kept Luther's shortened
+exorcism, glossed as a prayer and confession of original sin. The Upper German orders never had
+it after the 1520s. From the 1560s the Philippist and Reformed territories abolished it by
+mandate, and some Lutheran ones tolerated or softened it.
+
+**4. No chrismation, no consecrations, no blessings of things.** No order:
+
+- anoints at confirmation (§6);
+- consecrates a bishop with a separate rite (§11.4);
+- consecrates a church, altar or churchyard (§14);
+- blesses water, salt, candles, ashes, palms, fire, the font, *Fladen*, herbs, wine or bells
+  (§15).
+
+The abolition lists run in nearly the same words from 1524 to the 1590s. Their grounds are that
+creatures are sanctified by God's word and by thanksgiving, that no command or promise of God
+stands behind the blessing, and that the blessed objects had become means of superstition.
+
+**5. Churching survived in some places as thanksgiving** (§5). Many orders abolished the
+"leading in" of the mother after childbirth. Others kept her first churchgoing as a thanksgiving
+with prayer, and a few printed a form.
+
+**6. The rites of the sick replaced unction with Word and Sacrament** (§8). The reserved
+sacrament and its procession were abolished, and communion was given in the house. Forms were
+written for the dying, the plague-stricken and the condemned. Pomerania 1569 gave a rite of
+prayer over the possessed in place of exorcism.
+
+**7. Funerals became a testimony of faith** (§9). Vigils, soul-Masses and the Masses of the
+seventh and thirtieth day were abolished. Burial with procession, hymns, bells and, later, a
+sermon was kept as the church's witness to the resurrection, and it could therefore be refused
+to the impenitent and the excommunicate.
+
+**8. Ordination was kept, mostly on the Wittenberg pattern** (§10). The Wittenberg pattern was a
+public call, examination, prayer, laying on of hands by the ministers and a charge. In Saxony it
+was given centrally at Wittenberg or Leipzig; in Hesse, Lippe and many later orders it was given
+in the candidate's own parish, joined to his installation. The vesting, the anointing of the
+hands and the delivery of chalice and paten were dropped. Installation (*Investitur*) of a
+pastor in his parish was a separate rite, led by the superintendent (§11).
+
+**9. Lay offices were filled by oath, pledge or election, not by rite** (§12). Laying on of
+hands for elders and deacons is found only in Hesse 1566, the London church and the Palatinate
+1592. Sextons, schoolmasters, churchwardens and midwives were bound by pledge or oath.
+
+**10. Magistrates had no rite** (§13). The orders give the council-election sermon, the
+intercession for the magistrate and the clergy's place in the oath of homage, but no coronation
+or installation.
+
+**11. The ban was rebuilt on Matthew 18** (§16). The lesser ban (exclusion from the Sacrament)
+was distinguished from the greater ban (public exclusion and "delivering to Satan"). The
+Lutheran territories gave the decision to the consistory. Wittenberg 1542 and Saxe-Lauenburg
+1585 print full forms of excommunication, public penance and absolution. The Reformed gave the
+decision to the congregation through its elders; Micron's London order prints a full liturgy of
+excision and readmission.
+
+### 1.2 Where the full liturgies are
+
+The forms printed in full or quoted at length in this guide are:
+
+| Rite | Principal full forms (§) |
+|---|---|
+| Baptism | Luther 1523 and 1526 (3.2–3.3); Saxony 1539 (3.4); Württemberg 1536/1553 and Strasbourg 1537 (3.5); Palatinate 1563 (3.6) |
+| Emergency baptism and its confirmation | Saxony 1539 (3.7) |
+| Exorcism | Luther 1526 (3.3); its glosses and abolitions (4) |
+| Churching | Mansfeld 1580 (5.2) |
+| Confirmation | Ziegenhain 1539 (6.2); Calenberg-Göttingen 1542 (6.3); Brandenburg 1540 (6.4); Mansfeld 1580 (6.5) |
+| Marriage | Luther 1529 (7.1); Brandenburg-Nürnberg 1533 (7.2); Strasbourg 1537 (7.3) |
+| Sick and dying | Saxony 1539 (8.3); Dietrich 1545 (8.4, 8.6); Pomerania 1569 (8.7) |
+| Burial | Saxony 1539/1540 (9.2); Brandenburg-Nürnberg 1533 (9.3) |
+| Ordination | Luther 1537–1539 (10.2); Merseburg 1545 (10.3); Regensburg 1553 (10.4); Hesse 1574 and the Palatinate 1592 (10.5) |
+| Installation | Saxony 1580 and Wolfenbüttel 1569 (11.1); the Palatinate 1592 (11.2); Württemberg prelates (11.3) |
+| Elders and lay officers | the Palatinate 1592 (12.1); Lippe 1571 (12.2) |
+| Dedication anniversary | Hof 1592 (14.3) |
+| Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Micron 1554 (16.4) |
+| Visitation | Pfalz-Neuburg 1560 (17.1) |
+
+---
+
+## 2. Scope, sources and method
+
+### 2.1 The corpus and the rites covered
+
+**The corpus.** The corpus is Sehling's edition, volumes 1–24, as held in `eko.db`. This guide
+quotes the sixteenth- and early seventeenth-century texts; the editors' introductions and notes
+are cited as such where they matter.
+
+**The rites covered.** "Extraordinary" here means every rite outside the ordinary Sunday and
+weekday services, what German liturgics calls the *Kasualien* and the episcopal acts. The guide
+covers:
+
+- the sacramental acts: baptism, exorcism, confirmation, marriage;
+- the rites of passage around birth, sickness and death: churching, the visitation of the sick,
+  funerals and burial;
+- the acts of the ministry: ordination, installation of pastors and prelates, the consecration
+  of bishops;
+- the lay offices: elders, deacons, sextons, schoolmasters, cantors, churchwardens, midwives;
+- civil offices: magistrates and oaths of homage;
+- consecrations and blessings: churches, churchyards, altars, chrism, water, candles, palms,
+  bells, wreaths;
+- discipline: the lesser and greater ban, excommunication, public penance and reconciliation;
+- other occasional services, such as the parish visitation.
+
+**Full liturgies and summaries.** Where an order prints a full rite, the guide gives its order
+of service step by step and quotes its central texts: the formula of baptism, the vows, the
+prayers, the formula at the laying on of hands, the sentence of excommunication. Where many
+orders repeat one form, the guide quotes the principal witness and lists the others. Where an
+order only mentions or abolishes a rite, the guide summarizes it with a citation.
+
+### 2.2 How the corpus was searched
+
+Every document was scanned with regular expressions for the groups of terms below. Matches were
+read in context, and then the full passages were pulled from the relevant orders.
+
+- **Baptism and exorcism.** *Tauf*, *Taufbüchlein*, *Nottaufe*, *Gevatter*, *Pate*,
+  *exorcismus*, *beschweren*, *Westerhemd*, *Chresem*, *Chrisam*, *Salz*, *Speichel*, *Juden*.
+- **Churching and confirmation.** *Sechswöchnerin*, *Kindbetterin*, *einleiten*, *einsegnen*,
+  *aussegnen*, *Kirchgang*; *Firmung*, *Confirmation*, *Handauflegung*, *Katechismusverhör*.
+- **Marriage.** *Trauung*, *zusammengeben*, *copuliren*, *Brautmesse*, *Aufgebot*,
+  *proclamiren*, *Kranz*, *Kirchgang*, *Witwe*.
+- **The sick and the dead.** *Kranke*, *Ölung*, *Sterbende*, *Pest*, *Gefangene*, *zum Tode
+  verurteilt*, *Besessene*; *Begräbnis*, *Leiche*, *Leichpredigt*, *Vigilien*, *Seelmesse*,
+  *Begängnis*, *Kirchhof*, *Gottesacker*.
+- **Ministry.** *Ordination*, *ordiniren*, *Priesterweihe*, *Investitur*, *einweisen*,
+  *installiren*, *praesentiren*, *Superintendent*, *Bischof*, *Prälat*; *Küster*, *Mesner*,
+  *Opfermann*, *Schulmeister*, *Kantor*, *Organist*, *Kirchvater*, *Kastenherr*, *Hebamme*;
+  *Senioren*, *Älteste*, *Diakon*.
+- **Magistrates.** *Obrigkeit*, *Ratswahl*, *Ratspredigt*, *Huldigung*, *Erbhuldigung*.
+- **Consecrations and blessings.** *Einweihung*, *Kirchweih*, *Kirmes*, *Kirchmesse*, *Kirbe*,
+  *dedicatio*, *consecratio*; *weihen* and *segnen* with *Wasser*, *Salz*, *Kerzen*, *Licht*,
+  *Palmen*, *Kräuter*, *Wurz*, *Feuer*, *Fladen*, *Eier*, *Wein*, *Johannissegen*; *Glocken*,
+  *Glockentaufe*, *Wetterläuten*.
+- **Discipline.** *Bann*, *kleiner* and *großer Bann*, *excommunicatio*, *dem Satan übergeben*,
+  *ausschließen*, *abschneiden*, *öffentliche Buße*, *Kirchenbuße*, *Absolution*, *wieder
+  aufnehmen*, *reconciliatio*.
+
+**Related guides.**
+
+- [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) covers the
+  minor orders, the diaconate and the eldership, with the installation of each office (§12 here
+  summarizes it).
+- [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md) covers the oaths
+  and vows taken at ordination, installation and confirmation.
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the closed seasons for
+  weddings, the prayer and fast days, and the *Kirchweih* as a holiday.
+- [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) covers the intercessions for
+  magistrates, the sick and the dying.
+- [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers wedding and funeral sermons.
+- [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) covers the hymns sung at baptism, weddings
+  and burials.
+
+### 2.3 Cautions
+
+- **Record headings and dates in the database.** A database record often holds more than one
+  order, and its year field can be wrong. In this guide every order is named from the running
+  head of the page on which the quotation stands. Some examples:
+  - The Henneberg record dated 1555 holds the *Kirchenordnung* of Georg Ernst of 1582 and a
+    consistory report of 1635.
+  - The record for Müntzer's Allstedt text is filed with the Saxon visitation of 1533.
+  - The Grubenhagen order of 1581 is dated "1506" in the database.
+  - The Solms record dated 1603 holds the discipline orders of 1582, 1584 and 1594.
+  - The Danzig church order of 1612 stands in a record headed with the Danzig order of 1557.
+  - The Schwäbisch Hall *Kirchenordnung* of 1543/1615 is split across records whose headings are
+    taken from stray lines of the text ("Psalm oder ein Bußpsalm …", dated 1614).
+- **Summaries by the editor.** Some rites survive only in Sehling's summary of a manuscript,
+  such as the Merseburg ordination draft of 1545 (§10.3). These are marked as the editor's.
+- **What the orders do not print.** The orders print what the church controlled. Civil oaths,
+  coronations and the installation of magistrates were matters for the territorial and town
+  constitutions and are mostly absent (§13). A missing rite is not proof that nothing was done.
+
+---
+
+## 3. Baptism
+
+The orders print more baptismal forms than forms for any other rite. They fall into four
+families, and nearly every form in the corpus can be placed in one of them:
+
+- **The received rite in German.** These are translations of the Latin *ordo baptismi* with
+  nearly all its ceremonies: Luther's *Taufbüchlein* of 1523, Nuremberg 1524, the Strasbourg
+  German baptism of 1524 and the Ansbach "Würzburg rubrics" of 1526. Electoral Brandenburg in
+  1540 kept most of these ceremonies.
+- **Luther's revised *Taufbüchlein* of 1526.** This keeps the exorcism, the sign of the cross,
+  the Flood prayer, the Gospel of the children, the renunciation and the threefold creed. It
+  drops salt, spittle, oil, chrism and candle. It was taken into most Lutheran orders, often
+  with an exhortation added before it and an address to the godparents after it.
+- **The Upper German rite.** This is Strasbourg after 1525, Württemberg in 1536 and 1553 and
+  their many dependants. It has no exorcism and no sign of the cross. It is built from teaching,
+  prayer, the Gospel and the creed, and the child is baptized by pouring.
+- **The Reformed rite.** This is the Palatinate in 1563, the London strangers' church and the
+  Lower Rhine. It is a covenant exhortation, a recast Flood prayer, the Lord's Prayer and the
+  creed, a question to the parents, pouring and a thanksgiving. Emergency baptism by women is
+  forbidden.
+
+Exorcism, the point on which the families divided most sharply, is treated on its own in §4.
+
+### 3.1 What God instituted and what men added
+
+The orders sort the ceremonies of baptism by one test: what Christ commanded, and what was added
+by human beings. What was added is then judged by whether it is free, useful or superstitious.
+Brandenburg-Nürnberg in 1533 states the test most clearly. Prayer, the Gospel and godparents are
+kept. The blessing of the font, oil, salt and spittle ("kot") are dropped.
+**Brandenburg-Nürnberg, *Kirchenordnung*, 1533** (Sehling 11, p. 174):
+
+<!-- doc 270 -->
+> Nun hat Gott die tauf selbs eingesetzt und geordent, das man taufen soll mit wasser im namen
+> des Vaters und des Suns und des Heiligen Gaists. So haben die menschen darzu getan aus aigner
+> bewegung gebet, evangelion, gevattern, westerhembd, taufsegnen, öl, salz und kot etc. […] Das
+> man nun gebet darbei spricht. und das heilig evangelion liset, ist nicht allein frei, sunder
+> auch nütz und gut. Darumb soll mans lassen bleiben. Desgleichen auch die gevattern […] Aber
+> das taufsegnen, öl, salz und kot verdunkeln mer die wesenlichen stück der tauf; dann sie
+> fürdern und dienen nur zu aberglauben.
+
+Now God hath Himself instituted and ordained baptism, that one shall baptize with water in the
+name of the Father and of the Son and of the Holy Ghost. To this men have added of their own
+motion prayer, gospel, godparents, chrisom-robe, the blessing of the font, oil, salt and
+spittle, etc. […] Now that prayer be spoken withal, and the holy gospel read, is not only free,
+but also profitable and good. Therefore shall it be let remain. Likewise also the godparents […]
+But the blessing of the font, oil, salt and spittle darken rather the essential parts of
+baptism; for they further and serve only superstition.
+
+Luther had made the same distinction in the epilogue to the *Taufbüchlein*, printed with both
+versions. The outward ceremonies are "the least" part of baptism. What matters is that the
+godparents stand in faith, hear the Word and pray in earnest. **Luther, *Das taufbuchlin
+verdeutscht*, 1523, epilogue** (Sehling 1, p. 20):
+
+<!-- doc 3 -->
+> So gedenke nu, das in dem teufen disse eusserliche stücke das geringste sind, als da ist,
+> unter augen blasen, creuze an streichen, salz in den mund geben, speichel und kot in die oren
+> und nasen thun, mit öle auf der brust und schuldern salben, und mit chresem die scheitel
+> bestreichen, westerhemd anzihen, und brennend kerzen in die hend geben, und was das mehr ist,
+> das von menschen die tauf zu zieren hinzu gethan ist. Denn auch wol on solchs alles die taufe
+> geschehen mag, und nicht die • rechte griffe sind, die der teufel scheuet oder fleucht.
+
+So consider now, that in baptizing these outward pieces are the least, as namely to breathe
+under the eyes, to sign with crosses, to put salt in the mouth, to put spittle and clay in the
+ears and nose, to anoint with oil on the breast and shoulders, and to smear the crown with
+chrism, to put on the chrisom-robe, and to give burning candles in the hand, and whatsoever more
+there is that hath been added by men to adorn baptism. For baptism may well be done without all
+such, and they are not the right grips that the devil feareth or fleeth.
+
+### 3.2 The received rite: Luther's *Taufbüchlein* of 1523
+
+Luther's first German baptismal book translated the Wittenberg form of the Latin rite almost
+whole. Its order can stand for all the early German translations. Nuremberg in 1524, Strasbourg
+in 1524 and Ansbach in 1526 differ from it only in detail. Sehling 1, pp. 18–20:
+
+1. **Exsufflation and first exorcism.** The minister breathes three times under the child's
+   eyes: "Far aus, du unreiner geist, und gib raum dem heiligen geist" ("Depart, thou unclean
+   spirit, and give place to the Holy Ghost").
+2. **Sign of the cross** on forehead and breast.
+3. **Two prayers.** The first is "O almechtiger ewiger gott … Du woltist sehen auf diesen N."
+   ("O almighty everlasting God … look upon this N."). The second is "O gott, du unsterblicher
+   trost aller die was fodern" ("O God, the immortal comfort of all that ask aught").
+4. **Salt** is put in the mouth: "Nim N. das salz der weisheit" ("Take, N., the salt of
+   wisdom").
+5. **The Flood prayer** (*Sintflutgebet*), Luther's own composition (quoted in full in §3.3).
+6. **Two exorcisms.** The first is "Darumb, du leidiger teufel, erkenne dein urteil"
+   ("Therefore, thou wretched devil, acknowledge thy sentence"). The second is "Ich beschwere
+   dich, du unreiner geist" ("I adjure thee, thou unclean spirit").
+7. **A prayer for enlightenment**: "Herr heiliger vater, almechtiger ewiger got, von dem alle
+   liecht der warheit komt" ("O Lord, holy Father, almighty everlasting God, from whom cometh
+   all light of truth").
+8. **The Gospel of the children**, Mark 10:13–16, with the greeting.
+9. **The Lord's Prayer**, the priest laying his hands on the child's head and kneeling with the
+   godparents.
+10. **The *Ephphatha*.** Spittle is touched to the ears and nose, the child is led into the
+    church, and the minister says "The Lord preserve thy going in and thy coming out".
+11. **Renunciation and creed.** The threefold renunciation, then the threefold creed in question
+    and answer.
+12. **Anointing** with oil on the breast and between the shoulders.
+13. **The question and the baptism.** "Wilt thou be baptized?", then immersion in the font with
+    the Trinitarian formula.
+14. **Chrism** on the crown, with the blessing "Der allmechtige got und vater unsers herrn Jhesu
+    Christi, der dich ander weit geporn hatt" ("The almighty God and Father of our Lord Jesus
+    Christ, who hath begotten thee again").
+15. **The white robe and the candle.** The hood or chrisom-robe is put on, and a burning candle
+    is given into the hand.
+
+The ceremonies after the Gospel, which Luther dropped three years later, read as follows.
+**Luther, *Das taufbuchlin verdeutscht*, 1523** (Sehling 1, pp. 19–20):
+
+<!-- doc 3 -->
+> Darnach neme er mit dem finger speichel und rüre da mit das rechte ohr und sprech: Ephthah,
+> das ist, thu dich auf. Zu der nasen und zum lincken ore: Du teufel aber fleuch, denn gotis
+> gericht komt herbei. […] Darnach salbe er das kind mit heiligem öle auf der brust und zwischen
+> den schuldern und sprech: Und ich salbe dich mit heilsamen ole in Jhesu Christo unserm herrn.
+> Und frage: willtu getauft sein ? Antwort. Ja. Da neme er das kind und tauche es in die taufe,
+> und sprech: Und ich teufe dich im namen des vaters und des sons und des heiligen geists. Denn
+> sollen die paten das kindlin halten in der taufe, und der priester mache ihm ein creuz mit dem
+> öle auf der scheitel […] Nim das weisse, heilige und unbefleckts kleid, das du on flecken
+> bringen solt fur den richtstuel Christi, das du das ewige leben habst. Frid mit dir. Darnach
+> heb man es aus der taufe und der priester geb ihm ein kerzen in die hand. Nim diese brennende
+> fackel und beware dein taufe unstreflich, auf das, wenn der herr komt zur hochzeit, du ihm
+> mugest entgegen gehen, sampt den heiligen in den himelischen saal, und das ewige leben habst,
+> Amen.
+
+Then let him take spittle with the finger and touch therewith the right ear and say:
+*Ephphatha*, that is, Be thou opened. To the nose and to the left ear: But thou, devil, flee,
+for God's judgement cometh near. […] Then let him anoint the child with holy oil on the breast
+and between the shoulders and say: And I anoint thee with saving oil in Jesus Christ our Lord.
+And let him ask: Wilt thou be baptized? Answer: Yes. Then let him take the child and dip it in
+the font, and say: And I baptize thee in the name of the Father and of the Son and of the Holy
+Ghost. Then shall the godparents hold the child in the font, and the priest make it a cross with
+the oil on the crown […] Take the white, holy and undefiled garment, which thou shalt bring
+without spot before the judgement seat of Christ, that thou mayest have eternal life. Peace be
+with thee. Then let it be lifted out of the font, and the priest give it a candle in the hand:
+Take this burning torch and keep thy baptism blameless, that when the Lord cometh to the wedding
+thou mayest go to meet him, together with the saints, into the heavenly hall, and have eternal
+life. Amen.
+
+The other early translations kept still more. The Strasbourg German baptism of 1524 prints the
+blessing of the salt with its own exorcism, and four exorcisms of the child where Luther has
+two. **Strasbourg, the early agendas: the German baptism, 1524** (Sehling 20/1, p. 124):
+
+<!-- doc 1279 -->
+> Hie nach segnet man das saltz mit nachvolgenden worten: Ich beschwer dich, geschöpff des
+> saltz, in dem namen Gottes [+], des almechtigen vatters, und in der liebe unsers herren Jesu
+> Christi [+] und in der krafft des heiligen geist [+].
+
+Hereafter the salt is blessed with the following words: I adjure thee, creature of salt, in the
+name of God [+], the almighty Father, and in the love of our Lord Jesus Christ [+] and in the
+power of the Holy Ghost [+].
+
+**Brandenburg 1540: salt and chrism kept.** Electoral Brandenburg is the one territorial order
+that kept the old ceremonies on principle. Its baptism has the long prayers of 1523, the salt
+and the chrism, with a careful explanation. The chrism signifies the royal priesthood of
+Christians. It is not "of the substance" of baptism, and a child baptized in an emergency is not
+to be chrismed afterwards, lest the chrism seem necessary. **Brandenburg (Electorate),
+*Kirchenordnung* of Joachim II, 1540** (Sehling 3, p. 54):
+
+<!-- doc 1746 -->
+> Und weil denn auch insonderheit ein alte hergebrachte ceremonia, den chresem bei der tauf zu
+> brauchen, wollen wir denselben nachmals auch im brauch bleiben lassen, aber doch sol die
+> meinung desselben in nachfolgendem verstande sein. […] darneben aber sol gleichwol das volk
+> gnugsam unterricht werden, das alleine der heilig geist in der tauf uns salbe und zu christen
+> mache, und nicht der chresem, der solchs nur ein bedeutung ist, das auch diejenigen, so gleich
+> mit chresem nicht gesalbet, nichts minder volkomene christen, und inen des gar nicht schedlich
+> sei, darumb auch unnötig die kinder, so in der eil und not von weibern oder sonst getauft,
+> dieselben hernacher zu chresemen, denn so würde es als notwendig angesehen.
+
+And because there is in particular an old received ceremony, to use the chrism at baptism, we
+will let the same still remain in use, but yet the meaning of it shall be in the understanding
+following. […] but therewithal the people shall nevertheless be sufficiently taught that only
+the Holy Ghost anointeth us in baptism and maketh us Christians, and not the chrism, which is
+only a signification of it; that those also who are not anointed with chrism are none the less
+perfect Christians, and it is no hurt to them at all; therefore also [it is] needless to chrism
+afterwards the children that have been baptized in haste and need by women or otherwise, for so
+it would be regarded as necessary.
+
+The same order has the salt: "N. nim hin das salz der weisheit, das du in Christo Jesu, unserm
+herrn, habst das ewig leben" ("N., take the salt of wisdom, that thou mayest have eternal life
+in Christ Jesus our Lord"; Sehling 3, p. 56). Brandenburg-Nürnberg had already ruled against the
+oil in 1528, because it was given "in the meaning" that the child was thereby anointed with the
+Holy Ghost. **Brandenburg-Nürnberg, *Kirchenordnung*, 1528** (Sehling 11, p. 135):
+
+<!-- doc 269 -->
+> Und wiewol es scheinet, als sollte die kinder mit öl zu salben, frei sein, so ists doch nit
+> frei, das kind der mainung zu salben, das es also mit dem H. Gaist gesalbet werde: dann Got
+> hats nit gehaissen noch zugesagt, das er sein Gaist woll eben dahin geben, da man mit dem öl
+> salbe. Dweil es aber von bebstischen der meinung aufgesetzt ist, soll mans auch fallen lassen,
+> desgleichen das salz, spaicheln und kot.
+
+And although it seemeth as though to anoint the children with oil should be free, yet it is not
+free to anoint the child in the meaning that it be thereby anointed with the Holy Ghost: for God
+hath neither bidden nor promised that he will give his Spirit just there where one anointeth
+with oil. But since it was set up by the papists in that meaning, it shall be let fall, likewise
+the salt, spittle and clay.
+
+### 3.3 Luther's revised *Taufbüchlein* of 1526: the Lutheran standard
+
+In 1526 Luther reissued the book shortened. Sehling's headnote lists the orders that took it
+over: Göttingen 1530, Brandenburg-Nürnberg 1533, Northeim 1539, Duke Henry's Saxon agenda 1539,
+Halle 1541, Schleswig-Holstein 1542, Pomerania 1542, Schweinfurt 1543, Ritzebüttel 1544 and
+Mecklenburg 1552 (Sehling 1, p. 21). The whole rite is short enough to give entire. **Luther,
+*Das taufbuchlin verdeudscht aufs neu zu gericht*, 1526** (Sehling 1, pp. 22–23):
+
+<!-- doc 3 -->
+> Der taufer spreche: Far aus, du unreiner geist, und gib raum dem heiligen geist. Darnach mach
+> er ihm ein creuz an die stirn und brust und spreche: Nim das zeichen des heiligen creuzs,
+> beide an der stirn und an der brust. Last uns beten. O almechtiger ewiger gott, vater unsers
+> herrn Jhesu Christi. Ich rufe dich an uber diesen N., deinen diener, der deiner taufe gabe
+> bittet und dein ewige gnade durch die geistliche wider gepurt begerd. Nim ihn auf, HERRE, und
+> wie du gesagt hast ʻBittet, so werdet ihr nehmen, sucht, so werdet ihr finden, klopfet an, so
+> wird euch aufgethanʼ, so reiche nu das gut dem der da bittet, und offen die thur dem der da
+> anklopfet: das er den ewigen segen dieses himelischen bades erlange und das verheissen reich
+> deiner gabe entpfahe, durch Christum, unsern herrn. Amen. Last uns beten. Almechtiger ewiger
+> gott, der du hast durch die sindflut nach deinem gestrengen gericht die ungleubige welt
+> verdamt und den gleubigen Noe selb acht nach deiner grossen barmherzigkeit erhalten, und den
+> verstockten Pharao mit allen seinen im roten meer erseuft, und dein volk Israel trocken durch
+> hin gefurt, da mit dis bad deiner heiligen taufe zukunftig bezeichnet, und durch die taufe
+> deines lieben kindes, unsers herren Jhesu Christi den Jordan und alle wasser zur seligen
+> sindflut und reichlicher abwaschung der sunden geheiliget und eingesetzt: Wir bitten durch die
+> selbe deine grundlose barmherzickeit, du woltest disen N. gnediglich ansehen und mit rechtem
+> glauben im geist beseligen, das durch dise heilsame sindflut an ihm ersaufe und untergehe
+> alles, was ihm von Adam angeporn ist, und er selb dazu gethan hat; und er aus der ungleubigen
+> zal gesundert, in der heiligen arca der christenheit trocken und sicher behalten, alzeit
+> brunstig im geist, frolich in hoffnung, deinem namen diene, auf das er mit allen gleubigen
+> deiner verheissung ewigs lebens zu erlangen wirdig werde, durch Jhesum Christum unsern herrn.
+> Amen. Ich beschwere dich, du unreiner geist, bei dem namen des vaters † und des sons † und des
+> heiligen geists †, das du aus farest und weichest von disem diener Jhesu Christi .N. Amen.
+> Last uns hören das heilig evangelion S. Marcus. Zu der zeit brachten sie kindlin zu Jhesu, das
+> er sie solt anrüren. Aber die iunger bedraueten die so sie brachten. Da das Jhesus sahe,
+> verdros ihn und sprach zu ihn: Last die kindlin zu mir komen und weret ihn nicht, denn solcher
+> ist das himelreich. Warlich ich sage euch, wer nicht das reich gottis nimpt wie ein kindlin,
+> der wird nicht hinein komen. Und er herzet sie und leget die hende auf sie und segnet sie.
+> Denn lege der priester seine hende aufs kinds heubt und bete das Vater unser samt den paten
+> nider geknihet. […] Darnach leite man das kindlin zu der taufe und der priester spreche: Der
+> herr behüte deinen eingang und ausgang von nu an bis zu ewigen zeiten. Darnach lass der
+> priester das kind durch seine paten dem teufel absagen und spreche: N. Entsagestu dem teufel?
+> Antwort: Ja. Und alle seinen wercken? Antwort: Ja. Und alle seinem wesen? Antwort: Ja. Darnach
+> frage er: Gleubestu an got den almechtigen vater, schepfer himels und erden? Antwort: Ja.
+> Gleubestu an Jhesum Christ seinen einigen sohn, unsern herrn, geporn und gelitten? Antwort:
+> Ja. Gleubestu an den heiligen geist, ein heilige christliche kirche, gemeine der heiligen,
+> vergebung der sunde, auferstehung des fleischs, und nach dem tod ein ewiges leben? Antwort:
+> Ja. Wiltu getaufft sein? Antwort: Ja. Da neme er das kind und tauche es in die taufe und
+> spreche: Und ich teufe dich im namen des vaters und des sons und des heiligen geistes. Denn
+> sollen die paten des kindlin halten in der taufe, und der priester spreche, weil er das
+> westerhemd an zeucht: Der almechtige gott und vater unsers herrn Jhesu Christi, der dich
+> anderweit geporn hat durchs wasser und den heiligen geist, und hat dir alle deine sunde
+> vergeben, der sterke dich mit seiner gnade zum ewigen leben. Amen. Frid mit dir. Antwort:
+> Amen.
+
+Let the baptizer say: Depart, thou unclean spirit, and give place to the Holy Ghost. Then let
+him make a cross on its forehead and breast and say: Receive the sign of the holy cross, both on
+the forehead and on the breast. Let us pray. O almighty everlasting God, Father of our Lord
+Jesus Christ, I call upon thee for this N., thy servant, who asketh the gift of thy baptism and
+desireth thy everlasting grace through the spiritual new birth. Receive him, O LORD, and as thou
+hast said, "Ask, and ye shall receive; seek, and ye shall find; knock, and it shall be opened
+unto you", so give now the good thing to him that asketh, and open the door to him that
+knocketh: that he may obtain the everlasting blessing of this heavenly washing and receive the
+promised kingdom of thy gift, through Christ our Lord. Amen. Let us pray. Almighty everlasting
+God, who by the flood didst according to thy strict judgement condemn the unbelieving world, and
+according to thy great mercy didst preserve believing Noah, himself the eighth, and didst drown
+hardened Pharaoh with all his in the Red Sea, and didst lead thy people Israel through dry,
+thereby signifying beforehand this washing of thy holy baptism, and by the baptism of thy dear
+Child, our Lord Jesus Christ, didst hallow and ordain Jordan and all waters to be a blessed
+flood and an abundant washing away of sins: we pray through the same thy bottomless mercy, that
+thou wouldest graciously look upon this N. and bless him with right faith in the spirit, that by
+this saving flood there may be drowned in him and go under all that is born in him from Adam,
+and that he himself hath added thereto; and that he, being severed from the number of the
+unbelieving, kept dry and safe in the holy ark of Christendom, may serve thy name always fervent
+in spirit, joyful in hope, that with all the faithful he may be made worthy to obtain thy
+promise of everlasting life, through Jesus Christ our Lord. Amen. I adjure thee, thou unclean
+spirit, in the name of the Father † and of the Son † and of the Holy Ghost †, that thou come out
+and depart from this servant of Jesus Christ, N. Amen. Let us hear the holy gospel of Saint
+Mark. At that time they brought young children to Jesus, that he should touch them. But the
+disciples rebuked those that brought them. When Jesus saw it, he was much displeased, and said
+unto them: Suffer the little children to come unto me, and forbid them not, for of such is the
+kingdom of heaven. Verily I say unto you, whosoever shall not receive the kingdom of God as a
+little child, he shall not enter therein. And he took them up in his arms, and put his hands
+upon them, and blessed them. Then let the priest lay his hands on the child's head and pray the
+Our Father together with the godparents, kneeling. […] Then let the child be led to the font and
+the priest say: The Lord preserve thy going in and thy coming out from this time forth for
+evermore. Then let the priest cause the child through its godparents to renounce the devil, and
+say: N., renouncest thou the devil? Answer: Yes. And all his works? Answer: Yes. And all his
+ways? Answer: Yes. Then let him ask: Believest thou in God the Father almighty, maker of heaven
+and earth? Answer: Yes. Believest thou in Jesus Christ his only Son our Lord, born and suffered?
+Answer: Yes. Believest thou in the Holy Ghost, one holy Christian church, the communion of
+saints, forgiveness of sins, resurrection of the flesh, and after death an everlasting life?
+Answer: Yes. Wilt thou be baptized? Answer: Yes. Then let him take the child and dip it in the
+font and say: And I baptize thee in the name of the Father and of the Son and of the Holy Ghost.
+Then shall the godparents hold the child in the font, and the priest say, while he putteth on
+the chrisom-robe: The almighty God and Father of our Lord Jesus Christ, who hath begotten thee
+again through water and the Holy Ghost, and hath forgiven thee all thy sins, strengthen thee
+with his grace unto everlasting life. Amen. Peace be with thee. Answer: Amen.
+
+The 1526 order thus keeps:
+
+- one exorcism at the door ("Far aus") and one before the Gospel ("Ich beschwere dich");
+- the sign of the cross;
+- the prayer "Nim ihn auf" ("Receive him") and the Flood prayer;
+- Mark 10 and the Lord's Prayer with the laying on of hands;
+- the procession to the font with Psalm 121:8;
+- the threefold renunciation and the threefold creed, answered by the godparents in the child's
+  name;
+- "Wilt thou be baptized?", immersion, the *Westerhemd* and the closing blessing.
+
+It drops salt, spittle, oil, chrism, candle and the second set of prayers and exorcisms.
+
+### 3.4 The Saxon agenda and Brandenburg-Nürnberg: exhortations around Luther's rite
+
+The territorial agendas did not change Luther's 1526 text, but framed it with teaching.
+
+**Saxony 1539.** Duke Henry's agenda opens with an exhortation to "those who bring children to
+baptism". It sets out original sin and Christ's command to bring the children to him, and asks
+the bystanders to "help to pray". Then comes Luther's rite. **Saxony (Albertine),
+*Kirchenordnung*, 1539** (Sehling 1, p. 266):
+
+<!-- doc 30 -->
+> Auf nachfolgende weise sollen die pfarherr, die leute, so kinder zur tauf tragen, anreden und
+> vermanen. Lieben freunde in Christo, wir hören alle tage aus gottes wort, erfarens auch, beide
+> an unserm leben und sterben, das wir von Adam her, allesampt in sünden empfangen und geborn
+> werden, darinnen wir denn unter gottes zorn in ewigkeit verdampt und verloren sein müssen, wo
+> uns nicht durch den eingebornen gottes son, unsern lieben herrn Jesum Christum daraus geholfen
+> were. […] derhalben so wollet aus christlicher liebe dieses gegenwertigen armen kindlins gegen
+> gott dem herrn, euch mit ernst auch annemen, dasselbige dem herrn Christo furtragen umb
+> vergebung der sünden, und das es ins reichder gnaden und seligkeit auch aufgenomen werden
+> möge, vorbitten helfen.
+
+In the manner following shall the pastors address and exhort the people that bear children to
+baptism. Dear friends in Christ, we hear every day out of God's word, and find it also, both in
+our life and in our dying, that from Adam onward we are all conceived and born in sins, wherein
+we must be under God's wrath condemned and lost for ever, if we were not helped out of them by
+the only-begotten Son of God, our dear Lord Jesus Christ. […] therefore of Christian love take
+earnestly upon you also the cause of this present poor little child before God the Lord, bear it
+to the Lord Christ, and help to pray for the forgiveness of sins, and that it may be received
+also into the kingdom of grace and salvation.
+
+The editions from 1540 and from 1555 (Sehling's A and B) add two things. One is a short sermon
+on the Gospel "if there be time and the child is not weak". The other is a long address to the
+godparents before the renunciation, binding them to see the child taught the commandments, creed
+and Lord's Prayer. It ends with the godparents' "yes" and the minister's "Das verleihe uns unser
+lieber herr gott und erfülle mit seinen gnaden, das wir nicht vermögen" ("This grant us our dear
+Lord God, and fulfil with his grace what we are not able"; Sehling 1, p. 267). Both may be left
+out "where it would be too long or the child is weak".
+
+**Brandenburg-Nürnberg 1533.** The Franconian order recast Luther's 1526 epilogue as a spoken
+admonition: "Ir allerliebsten! Ich vermane und bitt euch alle …" ("Dearly beloved! I exhort and
+pray you all …"; Sehling 11, p. 178). It then gave Luther's rite with the full Apostles' Creed
+in the second question. It added a charge to the godparents after the baptism, which many later
+orders copied. **Brandenburg-Nürnberg, *Kirchenordnung*, 1533** (Sehling 11, p. 180):
+
+<!-- doc 270 -->
+> Nach der tauf sollen die pfarherr oder kirchendiener die gevattern ermanen ungeferlich auf die
+> weise: Ich verman euch in kraft der christenlichen liebe, die ir jetzo an des kindleins stat
+> bei der tauf geton habt, wann es seiner eltern durch tods- oder andern unfal beraubt würde,
+> ehe dann es zum brauch seiner vernunft köme, das irs fleißig und treulich wolt unterrichten
+> und leren erstlich die zehen gepot, auf das es den willen Gottes und seine sünd dardurch lerne
+> erkennen, darnach den christlichen glauben, durch welichen wir gnad, vergebung der sünde und
+> den Heiligen Gaist empfahen, zuletzt auch das Vater unser, damit es Gott anrufen und hilf
+> bitten könne, dem Satan widerstand zu tun und christlich zu leben, bis Gott an ime erfüllet,
+> was er jetzo in der tauf angefangen hat, und es selig werde.
+
+After the baptism shall the pastors or ministers of the church exhort the godparents somewhat
+after this manner: I exhort you, by virtue of the Christian love which ye have now shown in the
+child's stead at the baptism, that if it should be bereaved of its parents by death or other
+mishap before it come to the use of its reason, ye will diligently and faithfully instruct it
+and teach it first the ten commandments, that it may thereby learn to know the will of God and
+its sin; then the Christian faith, through which we receive grace, forgiveness of sins and the
+Holy Ghost; lastly also the Our Father, that it may call upon God and pray for help to withstand
+Satan and to live as a Christian, until God fulfil in it what he hath now begun in baptism, and
+it be saved.
+
+### 3.5 The Upper German rite: Strasbourg and Württemberg
+
+**Württemberg 1536.** Brenz's first Württemberg order kept Luther's spoken admonition, the
+prayer "Nim ihn auf", the Flood prayer, the Gospel and the Lord's Prayer. It has no exorcism and
+no sign of the cross, and it does not have the renunciation or the creed. There is one question
+to those who bring the child, and the child is sprinkled three times. **Württemberg,
+*Kirchenordnung*, 1536** (Sehling 16, p. 113):
+
+<!-- doc 651 -->
+> Darnach trage man das kindlin zu dem Tauff und der priester frage diejhenigen, so das kind
+> herzu tragen haben, auff die meynung: Ir aller liebsten, ir begeren, das dis kind auff
+> Christum Jesum getaufft und durch das eusserlich zeichen des tauffs seiner heiligen gemein
+> eingeleibt werde. Darauff sollen sie antworten: Ja. Als dann nimpt er das kind und besprengt
+> es drey mal mit wasser und spricht: N., ich tauff dich in namen des vatters und des suns und
+> des heyligen geists; und sprech darauff: Der allmechtig Gott und vatter unsers herren Jesu
+> Christi, der dich anderwerts geborn hat durchs wasser und den heyligen geist unnd hat dir alle
+> deine sünd vergeben, der sterck dich mit seiner gnad zum ewigen leben, Amen. Der frid sey mit
+> dir, Amen.
+
+Then let the child be borne to the font and the priest ask those that have borne the child
+thither, to this effect: Dearly beloved, ye desire that this child be baptized into Christ Jesus
+and be incorporated into his holy congregation through the outward sign of baptism. Thereto
+shall they answer: Yes. Then he taketh the child and sprinkleth it three times with water and
+saith: N., I baptize thee in the name of the Father and of the Son and of the Holy Ghost; and
+let him say thereupon: The almighty God and Father of our Lord Jesus Christ, who hath begotten
+thee again through water and the Holy Ghost and hath forgiven thee all thy sins, strengthen thee
+with his grace unto everlasting life. Amen. Peace be with thee. Amen.
+
+**Württemberg 1553.** The great order of 1553 became the form of the south-west. Sehling's
+apparatus records its baptism in the Baden orders of 1556 and 1598 and in Mömpelgard in 1560 and
+1571, and Nassau-Weilburg in 1576 opens its baptism with the same words. Its order is:
+
+1. The name is asked, and whether the child was baptized in an emergency.
+2. **An opening address** (*Form des Tauffs*): a child is brought "to be commended to the prayer
+   of the common Christian church".
+3. **The Gospel of the children** (Mark 10), read first.
+4. **An exhortation** on original sin and Christ's love for children.
+5. **Two prayers**: "Nim ihn auf", and the Flood prayer as an alternative (*Ein ander Gebett*).
+6. **The Lord's Prayer.**
+7. Psalm 121:8 over the child.
+8. **An address to the godparents**: whoever joins the church "entereth a spiritual battle".
+9. **Renunciation** in one question, and **the Apostles' Creed** in three questions.
+10. "Wilt thou be baptized thereon?"
+11. **Pouring** on the unwrapped child, "with clear, loud and distinct voice".
+12. **The blessing** "Der Allmechtig Gott".
+13. **A thanksgiving prayer**, then **an admonition** to parents, kin and godparents to bring
+    the child to the catechism.
+
+The rubric on the mode of baptism declares immersion, pouring and sprinkling all indifferent. It
+then orders pouring on the naked child, except in cold weather or weakness. **Württemberg,
+*Kirchenordnung*, 1553** (Sehling 16, pp. 232–233):
+
+<!-- doc 671 -->
+> Das aber das Kind im Tauffen inn- oder auß gewickelt, ein- oder drey mal begossen, in das
+> wasser eingedaucht oder mit wasser besprengt werde, ist an im selbs mittelmässig. Jedoch,
+> dieweil in der kirchen alles ordenlich und zur besserung gesche hen soll, haben wir für
+> nutzlich bedacht, das die kindlin außgewickelt, doch, allerlei gefahr zuverhüten, nicht ins
+> Wasser gedaucht, sonder mit dem wasser also nackend begossen werden, es were dann sach, das
+> das Kind so schwach, das es den lufft oder kelte nicht wol leiden möchte, als dann mage es
+> eingewickelt wol getaufft werden.
+
+But that the child in baptizing be wrapped or unwrapped, poured upon once or three times, dipped
+into the water or sprinkled with water, is in itself indifferent. Yet, since in the church all
+things should be done orderly and to edifying, we have thought it profitable that the children
+be unwrapped, yet, to prevent all manner of danger, not dipped into the water, but poured upon
+with the water naked as they are, unless it be that the child be so weak that it could not well
+bear the air or the cold; then it may well be baptized wrapped.
+
+**Strasbourg 1537.** Strasbourg had moved furthest from the old rite. Its agenda sets fixed
+times for baptism: in the Minster on Sundays after the noon sermon and on Wednesdays after the
+morning sermon, and in the other parishes at Sunday vespers. The service is a sermon in brief,
+with four heads of exhortation. Then come silent prayer, two prayers, the Gospel, the creed said
+by all, an address to the whole congregation and the godparents, threefold pouring, a
+thanksgiving and a dismissal. There is no exorcism, no cross and no question to the godparents.
+The words at the font are these. **Strasbourg, *Agende*, 1537** (Sehling 20/1, p. 269):
+
+<!-- doc 1302 -->
+> Uff dises begeret der Diener im das kindlin nach ordnung darzu geben. Das nimet er dan in
+> seine hend, entplösset es und als er gefraget, wie es heissen solle, nennet er es mit seinem
+> namen, begeusset es dristet und sagt: N., Ich teuffe dich im namen des Vatters und des Suns
+> und des heiligen Geists, Amen. […] Geht hin im friden. Der Herre gebe, das seine heiligen
+> Engel, die sein angesicht sehen im himel, dis kind (dise kindlin) vor allem argen zu allem
+> guten bewaren und fürderen, Amen.
+
+Hereupon the minister desireth the child to be given him in order. This he then taketh in his
+hands, uncovereth it, and when he hath asked what it shall be called, nameth it with its name,
+poureth upon it thrice and saith: N., I baptize thee in the name of the Father and of the Son
+and of the Holy Ghost. Amen. […] Go hence in peace. The Lord grant that his holy angels, which
+see his face in heaven, may keep this child (these children) from all evil and further it unto
+all good. Amen.
+
+### 3.6 The Reformed rite: the Palatinate 1563
+
+The Palatine order of 1563 drew its baptism from Zurich, Geneva, Frankfurt and the London
+strangers' church (Sehling's notes, Sehling 14, pp. 337–341). It begins with the *adjutorium*
+"Unser hilf stehet im namen des herrn". There follows a long exhortation on the three names: the
+Father as the covenant God of us and our seed, the Son as Saviour, the Spirit as teacher and
+comforter. The children's right to baptism is drawn from the covenant with Abraham and from Mark
+10. Then come:
+
+- the Flood prayer, recast so that the waters "signify" baptism and the child is asked to be
+  "engrafted" into Christ;
+- the Lord's Prayer;
+- the Apostles' Creed, said "with me" by all;
+- one question to the parents and godparents;
+- the uncovering of the head only;
+- pouring with the formula;
+- a thanksgiving and a charge to the parents and godparents.
+
+There is no exorcism, no renunciation by the godparents in the child's name, no sign of the
+cross and no *Westerhemd*. **Kurpfalz, *Kirchenordnung*, 1563** (Sehling 14, p. 340):
+
+<!-- doc 499 -->
+> Frag. Begeret ir dann auß warem glauben an die verheissung Gottes in Jesu Christo, welche uns
+> und unsern kindern gegeben ist, daß er nit allein unser, sonder auch unsers samens Gott sein
+> wölle bis ins tausendt glid, daß dises kind darauf getauft werde und die versiglung der
+> kindschaft Gottes empfahe ? Antwort. Ja. Hie ist unvonnöten, das kind aufzuwicklen, sonder
+> genug, daß im das haupt entblösset werde. Und alsdann sage der kirchendiener, daß sie das kind
+> nennen, und darnach begiesse er es mit wasser und sprech: N., ich tauf dich in dem namen
+> Gottes, des vaters, des sohns und des heiligen geistes.
+
+Question. Do ye then desire, out of true faith in the promise of God in Jesus Christ which is
+given to us and to our children, that he will be not only our God but also the God of our seed
+unto the thousandth generation, that this child be baptized thereupon and receive the sealing of
+the adoption of God? Answer: Yes. Here it is not needful to unwrap the child, but enough that
+its head be uncovered. And then let the minister of the church bid them name the child, and
+thereafter let him pour water upon it and say: N., I baptize thee in the name of God, the
+Father, the Son and the Holy Ghost.
+
+The same order reserves baptism to ministers of the Word and forbids baptism by any person "to
+whom the office of preaching is forbidden". This was directed, Sehling notes, against the
+emergency baptism allowed in the Palatine order of 1556. It requires baptism in the assembled
+congregation, the presence of the father and the keeping of a baptismal register. **Kurpfalz,
+*Kirchenordnung*, 1563** (Sehling 14, p. 337):
+
+<!-- doc 499 -->
+> In diesen worten befilcht der herr Christus denen allein zu taufen, so sein heyliges wort zu
+> predigen berufen seind, und fast also beyde, das predigen und taufen, in einen bevelch und
+> ampt zusammen. Derhalben keiner creatur gebürt, disen bevelch zu trennen und einer person das
+> taufen zuzulassen, der das predigtampt verboten ist. Derhalben so sollen die kinder zu jeder
+> gebürlicher zeit, so es von irentwegen ordentlich begeret und sie in die kirchen für die
+> diener des worts gebracht, von den predigern getauft werden. Und solches soll fürnemlich
+> geschehen auf Sontag, feiertag oder sonst in der wochen, wann die gemein Gottes beyeinander,
+> auf daß sich ein jeder seins taufs wisse zu erinnern und die christlich gemein einhelliglich
+> den namen Gottes uber das kind anrufe.
+
+In these words the Lord Christ commandeth those only to baptize who are called to preach his
+holy Word, and so bindeth both, preaching and baptizing, together in one commandment and office.
+Therefore it behoveth no creature to sunder this commandment and to allow baptizing to a person
+to whom the office of preaching is forbidden. Therefore shall the children, at every fit time
+when it is orderly desired on their behalf and they are brought into the church before the
+ministers of the Word, be baptized by the preachers. And this shall be done chiefly on Sunday,
+holy day or otherwise in the week when the congregation of God is gathered, that every one may
+know to remember his baptism, and the Christian congregation with one accord call upon the name
+of God over the child.
+
+### 3.7 Emergency baptism and its confirmation in church
+
+Every Lutheran order allowed baptism in danger of death by the midwife or any Christian. All
+forbade rebaptism "under condition", and most printed a form for receiving the child in church
+if it lived. This is the *Bestätigung der Nottaufe*, later called "confirmation of emergency
+baptism". The Saxon form of 1539 was the model, taken word for word into Brandenburg 1540 and
+many others. The pastor asks five questions:
+
+1. Was the child brought to Christ and baptized?
+2. By whom, and who was present?
+3. Did you call upon God and pray?
+4. With what did you baptize?
+5. With what words?
+
+If the answers are sure, he declares the baptism right, reads Mark 10 and prays the closing
+blessing of the rite. If they are unsure, the child is baptized "as unbaptized", without
+condition. **Saxony (Albertine), *Kirchenordnung*, 1539** (Sehling 1, pp. 267–268):
+
+<!-- doc 30 -->
+> So frage er weiter. Womit habt ir getauft? Antwortet man denn. Mit wasser. So frage er. Mit
+> was worten habt ir getauft? So man denn sagt. Ich teufe dich im namen des vaters, und des
+> sons, und des heiligen geists. So frage er endlich. Wisset ir, das ir der wort nach dem befel
+> Christi gebraucht habt? Und wo sie darauf antworten. Ja wir wissens. So sagt er. Nu meine
+> lieben freund, weil ir denn im namen und auf den befel unsers lieben herr gottes, solchs alles
+> gethan, so sage ich, das ir recht und wol gethan habt […] Würden aber die leute, so das
+> kindlin zu der tauf bringen, auf des pfarers frage ungewis antwort geben, und sagen, sie
+> wüsten nicht was sie gedacht, viel weniger was sie geredt oder gethan in solcher grosser not
+> (als denn oftmals zu geschehen pflegt) so mache man nicht viel disputirens, sondern neme das
+> kind, als ungetauft, und forder es zur tauf, also wie man alle ungetaufte zur tauf zu fordern
+> und zu teufen pflegt.
+
+Then let him ask further: Wherewith did ye baptize? If they answer: With water, then let him
+ask: With what words did ye baptize? If they then say: I baptize thee in the name of the Father,
+and of the Son, and of the Holy Ghost, then let him ask lastly: Know ye that ye used the words
+according to the command of Christ? And if they answer thereto: Yes, we know it, then he saith:
+Now, my dear friends, since ye have done all this in the name and by the command of our dear
+Lord God, I say that ye have done right and well […] But if the people that bring the child to
+baptism should give uncertain answer to the pastor's question, and say they knew not what they
+thought, much less what they said or did in such great need (as is then wont often to happen),
+let there be no great disputing, but let the child be taken as unbaptized and brought forward to
+baptism, as all the unbaptized are wont to be brought forward and baptized.
+
+Württemberg in 1536 required the midwife to call two or three witnesses. Brandenburg-Nürnberg in
+its 1591 revision added a question that betrays the old practice of baptism in the womb: "Ob das
+kind vollkommlich geboren und ganz ledig von der mutter gewesen, als man es getaufet?" ("Whether
+the child was fully born and quite free of the mother when it was baptized?"; Sehling 11, p.
+181). For "no child shall be baptized in emergency that is not wholly born into the world."
+
+Brandenburg-Nürnberg in 1528 asked that strong children wait for the next feast day, "that such
+baptism take place in the presence of so much the more people". In danger they were to be
+brought at once or baptized at home. Later orders set limits: three days (Schulenburg 1572),
+eight days (Pfalz-Zweibrücken 1557; Leiningen 1584). The Palatinate in 1563, as above, abolished
+emergency baptism by laypeople outright.
+
+### 3.8 Godparents, feasts and registers
+
+**Number and quality.** The orders limited the number of godparents and excluded the openly
+wicked. Württemberg 1553 forbade "frivolous persons, who are bound in public vices without
+repentance" (Sehling 16, p. 233). The Palatinate 1563 had the father consult the minister in
+advance about the godparents (Sehling 14, p. 338). Breslau held to a rule, confirmed by the
+council eighty years before, of three godparents only (Sehling 3, p. 402). Duke August's Saxon
+order set the same limit under a fine of a hundred gulden. **Saxony, *Ordnung* of Duke August,
+1580** (Sehling 1, p. 426):
+
+<!-- doc 44 -->
+> so sollen hinfüro nicht mehr denn drei gevattern, bei aufgesetzter straf ein hundert gülden,
+> welche wir hiemit wiederumb erneuert haben wollen, gebeten, und hierüber niemands zugelassen
+> werden.
+
+so shall henceforth no more than three godparents be bidden, under the penalty laid of a hundred
+gulden, which we will hereby have renewed, and none be admitted above this.
+
+**The christening feast.** The *Kindtaufe* meal was regulated with the wedding. Sarcerius's
+Mansfeld visitation form of 1554 lists, among the faults to be punished, more than three
+godparents, more than eight women at the meal, and men at the meal at all. **Mansfeld, *Form und
+weise einer visitation*, 1554** (Sehling 2, p. 192):
+
+<!-- doc 1240 -->
+> Nicht mehr denn drei gefattern zum kindtauf bitten. Das nicht mehr denn acht weiber bei dem
+> kindtauf essen sollen. Das keine menner in die kindtaufe gehen, alda zu essen oder zu trinken.
+
+Not to bid more than three godparents to the christening. That not more than eight women shall
+eat at the christening. That no men go to the christening to eat or drink there.
+
+**Registers.** The Palatinate in 1563 ordered the minister to enter "the name of the father, the
+mother, the child and the godparents" in a book kept at every church (Sehling 14, p. 338).
+Pfalz-Veldenz did the same in its Lützelstein order of 1605 (Sehling 18, p. 596).
+
+### 3.9 The baptism of adults and of Jews
+
+The rite assumed infants. The orders made room for adults in three ways:
+
+- **A clause in the Flood prayer.** Luther's words "and that he himself hath added thereto"
+  (*und er selb dazugethan hat*) were marked in Württemberg as the clause to add "when an older
+  person is baptized" (Sehling 16, pp. 112, 234).
+- **The Hessian catechumenate.** The Hessian order of 1566 described the ancient catechumenate
+  at length. Its section on baptism was taken into the Austrian agenda of 1571 as "a short
+  Christian instruction for baptizing older persons" (Sehling 8, p. 268). In the ancient church,
+  it says, the instructed made their confession "before the whole congregation on certain
+  appointed feasts". They renounced the devil, confessed the creed and were baptized "in and
+  before the whole church, which looked on".
+- **Separate forms for Jews.** Sehling notes a liturgical form for the baptism of an adult Jew
+  among the Mainz possessions, "perhaps the first in the evangelical church"
+  (Sehling 2, p. 365). He prints a Friedberg *Judentaufformular* of about 1600. There the
+  baptism followed catechetical instruction and examination and was done in the service of the
+  congregation (Sehling 9, pp. 625, 635–637).
+
+---
+
+## 4. Exorcism
+
+The orders mean three different things by exorcism:
+
+- the **baptismal exorcism**: the "Far aus" at the door, and the adjurations "Ich beschwere
+  dich" in the rite (§3);
+- the **exorcisms of creatures**: the exorcisms of salt and water in the blessing of holy water
+  and the baptismal font, treated with the other blessings in §15;
+- the **exorcism of the possessed**, the work of the minor order of exorcist and of the "devil
+  banishers". This is treated with the rites for the sick in §8.
+
+Only the first was in dispute among evangelicals. For the minor order of exorcist see
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §3.
+
+### 4.1 Luther's exorcism and its defenders
+
+**Luther's view.** Luther kept a shortened exorcism in 1526 and defended it as an earnest act of
+the church: "it is no jest to deal against the devil". In his epilogue the church "confesseth
+before God that the child is possessed of the devil" (*es sei vom teufel besessen*; Sehling 1,
+p. 21).
+
+**Dietrich's gloss: the exorcism is a prayer.** The Lutheran defenders explained the formula as
+a confession of original sin and a kind of prayer, not a charm. Veit Dietrich's Nuremberg agenda
+put a gloss against the "Ich beschwere dich" to say so. **Nuremberg, *Agendbüchlein* of Veit
+Dietrich, 1545** (Sehling 11, p. 506):
+
+<!-- doc 297 -->
+> Ich beschwere dich, du unrainer geist, (R: Diser exorcismus ist nicht unrecht; denn er ist
+> eben als ein gebeth) bei dem namen des Vaters und des Suns, und des Heiligen Geistes, das du
+> ausfarest und weichest von disem diener (dieser dienerin) Jesu Christi, N. Amen.
+
+I adjure thee, thou unclean spirit (margin: This exorcism is not wrong; for it is even as a
+prayer), in the name of the Father and of the Son and of the Holy Ghost, that thou come out and
+depart from this servant (this handmaid) of Jesus Christ, N. Amen.
+
+**Zweibrücken 1539: optional, but grounded in the fathers.** The Zweibrücken order kept it
+"where it can fitly be kept". It appealed to the fathers and to its use in showing "what harm
+original sin bringeth". **Pfalz-Zweibrücken, *Form und Ordnung*, 1539** (Sehling 18, p. 59):
+
+<!-- doc 965 -->
+> Der Exorcismus, wa er fuglich kan gehalten werden oder ist, bleybt. Den hatt fast die gantz
+> christlich Kyrch gebraucht, wie Sanct Augustin anzeigt de Ecclesiasticis dogmatibus, cap. 21,
+> und ist fast dienstlich zu beweisen, was schaden die erbsund bringt und wie der teuffel, ein
+> furst der welt, allein durch Christum ußgetrieben werde.
+
+The exorcism, where it can fitly be kept or is [kept], remaineth. Almost the whole Christian
+church hath used it, as Saint Augustine showeth, *De ecclesiasticis dogmatibus*, chapter 21, and
+it is very serviceable to show what harm original sin bringeth, and how the devil, a prince of
+the world, is driven out by Christ alone.
+
+**Verden 1606: a reminder, not a cause.** The late Lutheran orders kept it under an explicit
+caveat. The Verden order of 1606 says the child is rescued by baptism, not by the exorcism.
+Sehling's editor notes that the exorcism was kept in the Lüneburg, Wolfenbüttel and Mecklenburg
+orders as well. **Stift Verden, *Kirchenordnung*, 1606** (Sehling 7/1, p. 172):
+
+<!-- doc 2091 -->
+> Allhie ist zu merken, nachdem wir in den kirchen dieses unsers stifts Verden aus erheblichen
+> und in Gottes wort wolgegründeten ursachen den exorcismum behalten, das die prediger das volk
+> zu zeiten erinnern sollen, das dieselbige keinesweges also verstanden werde, als solte das
+> kind durch den exorcismum und nicht vielmehr durch die heilige taufe auß der gewalt des
+> teufels genonnnen und errettet werden, sondern das es allein ein erinnerung sey, in was
+> grosser not und gefehrlichen jammer das kindlein seiner sünden halben stecke, warumb ihme die
+> heilige taufe nötig, und was durch dieselbige bey den kindlein außgerichtet werde.
+
+Here it is to be noted: since in the churches of this our foundation of Verden we have kept the
+exorcism for weighty causes well grounded in God's word, the preachers shall from time to time
+remind the people that it be in no wise so understood as though the child were taken and rescued
+out of the power of the devil through the exorcism, and not rather through holy baptism; but
+that it is only a reminder in what great need and perilous misery the little child is sunk by
+reason of its sins, why holy baptism is needful for it, and what is wrought in the little
+children thereby.
+
+Other late Lutheran orders took the same line:
+
+- **Schaumburg 1614** kept it "as an outward ceremony ordained by the most ancient teachers of
+  the church, in its free use hitherto" (Sehling 7/2.2, p. 151).
+- **Soest 1609** kept it but left it free to the preachers. It cited Polycarp Leyser's *Vom
+  Exorcismo* against the "Anhalt sacramentarians" (Sehling 22, p. 492).
+- **Pomerania 1569** forbade anyone to dispute the exorcism and the crosses in public, and ruled
+  that the child might be baptized naked or with only the head bared, "for one baptizeth not the
+  swaddling clothes but the man". **Pomerania, *Kerckenordeninge*, 1569** (Sehling 4, p. 386):
+
+<!-- doc 1862 -->
+> De hilige döpe schal geholden werden mit den ceremonien, de im catechismo unde in der agenda
+> beschreven sint, unde schal nemande gestadet werden, öffentlick vam exorcismo edder crützen,
+> so im catechismo stan, to disputeren, de kinder schölen ock ane underscheed, naket, effte
+> allene up dat hövet in den windelen gedöfft, unde nene disputation edder bekümmernisse hir van
+> gemaket werden, wente men döpet, nicht de windelen, sunder den minschen.
+
+Holy baptism shall be held with the ceremonies that are written in the catechism and in the
+agenda, and none shall be suffered to dispute openly of the exorcism or the crosses which stand
+in the catechism; the children shall also be baptized without distinction, naked, or only on the
+head in the swaddling clothes, and no disputation or trouble be made hereof, for one baptizeth
+not the swaddling clothes, but the man.
+
+### 4.2 No exorcism over the child already baptized
+
+Even the orders that kept the exorcism agreed that it must not be read over a child brought to
+church after emergency baptism. To do so would call the Holy Spirit, who is with the baptized
+child, an unclean spirit. Bugenhagen gave the reason in Braunschweig in 1528. The same rule
+stands in Hamburg 1529, Lübeck 1531, the Haderslev articles of 1528, Pomerania 1535, Buxtehude,
+the Wittenberg town order of 1533 and the Mansfeld agenda of 1580
+(Sehling 7/1, p. 73; 23, p. 67; 4, p. 330; 1, p. 703; 2, p. 219). **Braunschweig,
+*Kirchenordnung*, 1528** (Sehling 6/1, p. 360):
+
+<!-- doc 1983 -->
+> Overs de prester schal nicht over deme so gedofften kyndeken den exorcismum lesen, den düvel
+> uthtobannen, dat he nicht mit deme lesen den hilgen Geist lestere, de gewislick by deme
+> gedofften kynde is.
+
+But the priest shall not read the exorcism over the child so baptized, to ban the devil out,
+lest with the reading he blaspheme the Holy Ghost, who is surely with the baptized child.
+
+### 4.3 Toleration and mitigation
+
+**Henneberg 1582: tolerated for a time.** Some Lutheran territories held the exorcism free but
+removed it from the printed rite, tolerating it "for a while" where it was still used. The
+reason was that, bordering on the papacy, they found it "often thriving into superstition and
+misuse". **Henneberg, *Kirchenordnung* of Georg Ernst, 1582** (Sehling 2, pp. 304–305):
+
+<!-- doc 1247 -->
+> Vom exorcismo. Den exorcismum oder beschwerung des bösen geistes anlangende, lassen wir wol
+> dieselbige in rechtem gesunden verstande fur ein bekentnis, oder wie etliche wollen, fur eine
+> art eines gebets, bei iren wirden bleiben, verweisen es auch niemand, der solche beschwerung
+> aus christlicher freiheit, so wol als dieselbige auch aus gleicher freiheit unterlassen und
+> abgethan werden mag, im brauch behelt. Doch haben wir unsers orts, als an das babstumb
+> grenzend, im werk befunden, das solche bei den leuten oftmals in aberglauben und missbrauch
+> gedeien wollen. […] als ist dieselbige in vorgeschriebener action der heiligen taufe
+> unterlassen und dahin geschlossen worden, das solche beschwerung noch ein zeitweile, darmit
+> der gemeine mann der gelegenheit derhalben desto besser und gründlicher in den predigten
+> unterrichtet, und als denn soviel mehr ohne ergernus abgethan und unterlassen werden möge,
+> tolerirt und zugebrauchen nachgelassen werden solle, jedoch an denen orten unserer fürstlichen
+> grafschaft allein, do dieselbige noch im gebrauch.
+
+Of the exorcism. As touching the exorcism or adjuring of the evil spirit, we let the same
+indeed, in a right and sound understanding, as a confession, or as some will, as a kind of
+prayer, remain in its worth, and blame no one who keepeth such adjuring in use out of Christian
+liberty, even as the same may also out of like liberty be left off and done away. Yet we in our
+place, as bordering on the papacy, have found in practice that it will often thrive among the
+people into superstition and misuse. […] therefore it is left out in the prescribed action of
+holy baptism, and it is concluded that such adjuring shall for a while yet be tolerated and
+allowed to be used, that the common man may be the better and more thoroughly instructed
+meanwhile in the sermons, and it may then be done away and left off so much the more without
+offence, yet only in those places of our princely county where it is still in use.
+
+**Brandenburg-Ansbach 1591: "Ich gebiete dir".** The Franconian margraviate softened the words
+of the general visitation of 1591. "Ich beschwere dich" became "Ich gebiete dir" ("I command
+thee"), the crosses were dropped, and the consistory ordered the mitigated form to be used
+everywhere "to prevent offence and needless strife". **Brandenburg-Ansbach-Kulmbach,
+*Konsistorialordnung*, 1594** (Sehling 11, p. 392):
+
+<!-- doc 291 -->
+> Weil auch der exorcismus in unser kirchenordnung aus erheblichen ursachen in der
+> generalvisitation mit etlichen worten mitigirt und gelindert, auch die papistischen creuz
+> abgeton worden, soll vortan solche mitigation von den kirchendienern an allen orten im
+> fürstentumb under- und oberhalb des gebirgs, ärgernis und unnötig gezenk zu verhueten, gleich
+> gehalten und derenthalben keine spaltung angefangen werden.
+
+Since also the exorcism in our church order hath for weighty causes been mitigated and softened
+in some words at the general visitation, and the papistical crosses done away, such mitigation
+shall henceforth be kept alike by the ministers of the church in all places in the principality
+below and above the mountains, to prevent offence and needless strife, and no division be begun
+on that account.
+
+**Ysenburg-Birstein 1588: let it fall gradually.** The Ysenburg order of 1588 directed that the
+exorcism, "since it hath for the most part fallen among all the orthodox", should not be brought
+back where it had lapsed, and should be dropped gradually elsewhere. **Ysenburg-Birstein,
+*Kirchenordnung*, 1588** (Sehling 10, p. 628):
+
+<!-- doc 228 -->
+> Zu mercken: Weil der Exorcismus bey allen rechtgleubigen meystlich gefallen, daß man in an
+> denen Orten, da er bißher nicht gewesen ist, nicht wider eynführen soll. Da er aber noch im
+> brauch gehalten wirdt, soll man ihn hinfurt allgemach, so viel ohne ergernuß der gemeynen
+> Leuth geschehen mag, fallen lassen.
+
+To be noted: since the exorcism hath for the most part fallen among all the orthodox, it shall
+not be brought in again in those places where it hath not been hitherto. But where it is still
+kept in use, it shall henceforth be let fall by degrees, so far as may be done without offence
+of the common people.
+
+### 4.4 Abolition
+
+**Strasbourg and the Upper German orders** never had the exorcism after the mid-1520s.
+Württemberg in 1536 and 1553 has none (§3.5). Sehling's editor notes that the Kassel order of
+1539 "following Strasbourg forms" leaves it out (Sehling 8, p. 119). The Hessian order of 1566
+also omits it from its two baptismal forms. It mentions "the prayers together with the
+exorcisms" only in the section on emergency baptism, which it copied from the Saxon agenda
+(Sehling 8, p. 284).
+
+**Abolition by mandate, 1567–1613.** From the 1560s the Reformed and Philippist territories
+abolished it by mandate:
+
+| Territory | Date | Source |
+| --- | --- | --- |
+| Upper Palatinate (Amberg) | 1567 | mandate of 20 January (Sehling 13, p. 303) |
+| Nassau-Dillenburg | 1575 | agenda (Sehling 10, p. 150) |
+| Hohenlohe | 1578 | order (Sehling 15, p. 235) |
+| Nördlingen | 1579 | order, at Andreae's wish (Sehling 12, p. 352) |
+| Moers | 1581 | order (Sehling 22, p. 194) |
+| Waldeck | 1584 | mandate of 21 August, with the *Westerhemd* (Sehling 9, p. 300) |
+| Bentheim-Tecklenburg | 1588 | order (Sehling 22, p. 269) |
+| Anhalt | 1590 | princely command of 27 July, and a new *Taufbüchlein* (Sehling 2, p. 531) |
+| Electoral Saxony | 1591 | under Christian I; Sehling records the negotiations and the "unrest" (Sehling 1, p. 137) |
+| Gottorf | 1613 | (Sehling 23, p. 324) |
+
+**Nassau-Dillenburg 1575.** The Nassau agenda gives the Reformed case. Baptism by Christ's
+institution is strong enough against the devil. The exorcism has no ground in Scripture or
+apostolic tradition, and it breeds an *opinio cultus et necessitatis*. **Nassau-Dillenburg,
+*Agende*, 1575** (Sehling 10, p. 150):
+
+<!-- doc 182 -->
+> Zum andern soll auch der exorcismus unnd teuffelsbeschwerung bey der tauff nit meher gepraucht
+> werden, dan wir die heylige tauff weis der einsatzungh unsers hern Jesu Cristi ohn einige
+> menschliche tradition kreftig genug erkennen und halten, dem teuffel zu begegenen unnd ihm
+> alle seine gewalt unnd reich zu nemen. Darzu ist der exorcismus bey der tauffe in Gottes wort
+> und den apostolischen tradicionen nicht gegrundet, auch unnotig, unnd haben noch vill einen
+> aberglaubischen misverstandt darbey, opinionem cultus et necessitatis, welches das werck an
+> ihm selbß verdunckelt, unnd helt die einfaltigen von betrachtung notige dinge ab.
+
+Secondly, the exorcism and adjuring of the devil shall no more be used at baptism, for we know
+and hold holy baptism, according to the institution of our Lord Jesus Christ, without any human
+tradition, to be strong enough to meet the devil and to take from him all his power and kingdom.
+Moreover the exorcism at baptism is not grounded in God's word and the apostolic traditions, and
+is also needless, and many have yet a superstitious misunderstanding therewith, an *opinion of
+worship and of necessity*, which darkeneth the work in itself and holdeth the simple back from
+the consideration of needful things.
+
+**Waldeck 1584.** The Waldeck counts' mandate abolishing both the exorcism and the *Westerhemd*
+shows the care taken over the people's consciences. Pastors were to teach that children already
+baptized with them had been rightly baptized, and that future children would lack nothing.
+**Waldeck, mandate on the baptismal exorcism and robe, 21 August 1584** (Sehling 9, p. 300):
+
+<!-- doc 2301 -->
+> daß nun hinfurtter in unsern kirchen uß darzu sonderlich bewegenden ursachen der exorcismus
+> undt westerhempt bey der kinderlein tauff ußgelassen undt nitt mehr gebraucht werden soll […]
+> Undt damitt ewere gemeine darunter nitt geergertt werden undt es nit etwa davor achten möge,
+> alß weren ihre vorige kinder ohnrecht getaufft oder die kunfftigen nitt vollenkommene taufft,
+> wan die gedachte beiden stücke darbey ußgelassen wurden, bekommen soltten
+
+that henceforth in our churches, for causes especially moving thereto, the exorcism and the
+chrisom-robe shall be left out at the baptism of little children and no more used […] And that
+your congregation be not offended thereat, and do not perchance account it as though their
+former children were wrongly baptized, or the future ones should not receive a perfect baptism
+when the said two pieces were left out therewith
+
+**Bentheim-Tecklenburg 1588.** The Bentheim order states the Reformed objection in a sentence:
+the exorcisms "have no ground in the Word of God" and were not used at circumcision, nor in the
+time of Christ and the apostles. **Bentheim-Tecklenburg, *Kirchenordnung*, 1588**
+(Sehling 22, p. 269):
+
+<!-- doc 1508 -->
+> daß die bißanhero bey der Tauff gebrauchte aberglaubische Ceremonien und fürnemblich die
+> Exorcismi, die keinen grundt im Wort Gottes haben und im alten Testament bey der Beschneidung
+> und hernach in den zeiten Christi unnd der heiligen Aposteln nicht im brauch gewesen und mehr
+> die Tauff und alle andere Ceremonien zuvertunckelen dann zuerklaren dienen, abgeschaffet
+> werden
+
+that the superstitious ceremonies hitherto used at baptism, and chiefly the exorcisms, which
+have no ground in the Word of God, and were not in use in the Old Testament at circumcision, nor
+thereafter in the times of Christ and the holy apostles, and serve rather to darken than to
+explain baptism and all other ceremonies, be done away
+
+**Anhalt 1590: a new baptismal book.** Sehling describes the Anhalt book. It "agreeth almost
+wholly with Luther's *Taufbüchlein*". The exorcism formula is left out, and the opening
+exhortation of Duke Henry's agenda is added (Sehling 2, p. 531). The exorcism thus became the
+outward sign by which a Lutheran territory was suspected of Calvinism. Sehling notes for Anhalt
+that the abolition, "objectively taken", involved no change of confession "with the removal of
+this adiaphoron", but that the estates took it otherwise (Sehling 2, p. 530).
+
+---
+
+## 5. Churching of women after childbirth
+
+The medieval church received the mother back at her first churching, about six weeks after the
+birth. The priest "led her in" (*einleiten*, *introductio*) and blessed her (*einsegnen*,
+*aussegnen*). The rite was modelled on the purification of Leviticus 12, and popular belief held
+that the woman in childbed was in the devil's power until it was done. The evangelical orders
+took three positions on it:
+
+- **abolition**, because it implied that childbirth defiled;
+- **recasting as a thanksgiving**, the *Kirchgang* of the *Sechswöchnerin*;
+- **leaving it free**, as a thanksgiving the mother might make of her own accord.
+
+### 5.1 Abolished as a papal superstition
+
+The Saxon visitors of 1540 put "leading in" the bride and the woman after childbirth among the
+ceremonies to be wholly abolished, with sprinkling, the blessing of salt and water, ringing for
+souls and ringing against storms. **Saxony (Albertine), *Gemeiner Bericht der Visitatorn*,
+1540** (Sehling 1, p. 285):
+
+<!-- doc 32 -->
+> Vom einleiten und dergleichen. Forthin soll genzlich abgeschaffet sein der braut und
+> sechswochnerin einleiten, sprengen, salz und wasser weihen, für die seelen, und das wetter
+> leuten, und was des dinges mehr ist.
+
+Of leading in and the like. Henceforth shall be wholly done away the leading in of the bride and
+of the woman after childbed, sprinkling, the hallowing of salt and water, ringing for the souls
+and ringing against the weather, and whatever more there is of such things.
+
+The same words recur at Saalfeld in 1533, in the general report for the Meissen district of 1540
+and in Quedlinburg (Sehling 1, pp. 654, 565; 2, p. 262). Brandenburg-Nürnberg in 1533 joined the
+abolition to pastoral teaching for the women themselves. Women in childbed are not in the
+devil's power, and their visions and dreams come from bodily weakness. **Brandenburg-Nürnberg,
+*Kirchenordnung*, 1533** (Sehling 11, p. 177):
+
+<!-- doc 270 -->
+> Es sollen auch die pfarherr und prediger die kindbetterin unterrichten, das sie nicht in
+> gewalt des Teufels sein, wie mans bisher nicht on sundern nachtail der gewissen darfür
+> gehalten und gröblich daran geirret hat. […] Darumb ist auch das einsegnen nach dem kindbett
+> nicht von nöten; dann es aus lauter aberglauben fleust, gleich als weren sie durch die geburt,
+> die aus Gottes segnen kumbt, entheiliget. Doch sollen sie nichts dester weniger ir gebürliche
+> zeit sich innen halten, auf das sie inen selbs und den kindlein nicht schaden zufügen an iren
+> leibs gesundheiten
+
+The pastors and preachers shall also instruct the women in childbed that they are not in the
+power of the devil, as hath hitherto been held, not without especial hurt to consciences, and
+grossly erred therein. […] Therefore also the blessing after childbed is not needful; for it
+floweth from mere superstition, as though they were unhallowed by the birth, which cometh of
+God's blessing. Yet shall they none the less keep within doors their due time, that they do no
+hurt to themselves and to the little children in their bodily health
+
+The fullest argument is in the order for Thüngen, a lordship in Franconia, of 1564. It gives six
+reasons against the blessing. One is that it had bred "superstition and sorcery with blessings,
+St John's Gospel, hallowed waters, salt, herbs, candles and the like". It insists that the six
+weeks' lying-in be kept for the mother's health, against "hard, tyrannical husbands" who drove
+their wives back to work on the third or fourth day. And it says that abolishing the blessing
+does not abolish thanksgiving. **Thüngen, *Kirchenordnung*, 1564** (Sehling 11, p. 740):
+
+<!-- doc 326 -->
+> Wir wollen auch das abschaffen, das das einsegnen keinesweges dohin gemeint oder verstanden
+> wird, als ob die kindbetterin Gott dem Allmechtigen die schuldige und gebürliche danksagung
+> fur die leibesfrucht und fur den gnedigen beistand, schutz und erhaltung nicht erzeigen und
+> tun solten, sondern sollen in viel wege darzu ermahnet sein, doch darneben gelehrt werden, daß
+> solche notwendige danksagung an keinen gewissen ort, stunde oder zeit gebunden sei
+
+We will also abolish it in such wise that the abolishing of the blessing be in no wise meant or
+understood as though the women in childbed should not show and render to God Almighty due and
+fitting thanksgiving for the fruit of the womb and for his gracious help, protection and
+preservation; but they shall be exhorted thereto in many ways, yet withal be taught that such
+needful thanksgiving is bound to no certain place, hour or time
+
+The Lutheran Harlingerland order of 1573/74 kept the six weeks "not for the sake of the law of
+Moses, which we in no wise accept". It forbade husbands to force their wives out early, and
+"rejects the introduction or leading in of the women, as was customary in the papacy"
+(Sehling 7/1, p. 731).
+
+### 5.2 Kept as a thanksgiving: the *Kirchgang*
+
+Many Lutheran territories kept the mother's first churching as a public thanksgiving at the
+altar.
+
+**Querfurt.** The Magdeburg visitors in Querfurt asked "whether he leadeth in the woman after
+childbirth". Sehling's note records the outcome: the custom had already ceased in the town but
+not in the villages, and "from now on a thanksgiving shall take place from the pulpit or before
+the altar when the woman goeth to church" (Sehling 2, p. 460).
+
+**Brandenburg.** The Brandenburg town recesses of 1558 (Wusterhausen among them) and the
+visitation and consistorial order of 1573 kept the "laudably received" offering at the altar by
+the woman at her churching, as by the bride at her wedding, and gave it to the pastor
+(Sehling 3, pp. 232, 353, 119). A Frankfurt (Oder) church book described in 1600 contained an
+*Einsegnung der Sechswöchnerinnen in ihrem Kirchgang*, "as in the Mark agenda of 1572"
+(Sehling 3, p. 215).
+
+**Lippe.** The Lippe order kept the churching but left it free. Such a woman "may of her own
+free mind go to church, thank God and pray further for grace" (Sehling 21, p. 315).
+
+**The Mansfeld *Einsegenbüchlein*, 1580.** The Mansfeld agenda prints a complete form, the
+*Einsegenbüchlein*. The order is:
+
+1. An address to the women.
+2. The Lord's Prayer.
+3. Psalms 127 and 128.
+4. A collect of thanksgiving and intercession for the child.
+5. A blessing of the child with the sign of the cross.
+
+**Mansfeld, *Kirchen-Agenda*, 1580** (Sehling 2, p. 222):
+
+<!-- doc 1241 -->
+> III. Das einsegen büchlein. Was man aus gottes wort uber die weiber zu lesen und beten
+> pfleget, wenn sie die kinder nach den sechswochen in die kirche bringen. Ir lieben weiber
+> (oder da nur eine person sol eingesegnet werden, liebes weib) weil euch der liebe gott
+> genediglich geholfen und zur geburt einen frölichen anblick gegeben, dem (oder den) kindlein
+> die heilige taufe und uber das auch euch einen frölichen kirchgang bescheret hat, so seid ir
+> ime dafür zu danken schuldig und zu bitten, das er euch ferner sampt dem (oder den) kindlein
+> an leib und seele sterken, in allem guten führen und leiten und für allem argen bewaren wolle.
+> Demnach so betet mit mir also: [Folgt das Vaterunser.] Der 127. psalm [folgt der Psalm]. Der
+> 128. psalm [folgt der Psalm]. Lasst uns beten. O allmechtiger barmherziger gott, der du diesem
+> weibe, in ihrer grossen angst (diesen weibern, in ihren grossen engsten) und kindes nöten
+> gehulfen, und darzu fröliche frucht (früchte) bescheret, mit der taufe und heiligen geist
+> begnadet hast, wir loben dich und danken dir ewiglich und bitten dich durch Jesum Christum
+> deinen lieben son, du woltest dich uber dis (diese) kindlein erbarmen, das (die) auch behüten
+> für allem ubel, sterken, mit deinem geist pflegen und warten, damit es (sie) in rechtem
+> glauben erzogen, und böstendiglich dir allzeit gehorsam zu sein, dich lobe, ehre und preise,
+> (loben, ehren und preisen), mit allen auserwehlten, hier und dort ewiglich, amen. Und du (ir)
+> kindlein, der herr gesegne dich, auf allen deinen (euch, auf allen euren) wegen, von nu an bis
+> in ewigkeit, ✝ . Amen.
+
+III. The churching book. What is wont to be read out of God's word and prayed over the women
+when they bring the children into church after the six weeks. Ye dear women (or where only one
+person is to be churched, dear woman), since the dear God hath graciously helped you and given
+you a joyful sight at the birth, hath granted to the child (or the children) holy baptism and to
+you moreover a joyful churching, ye are bound to thank him therefor and to pray that he will
+further strengthen you together with the child (or the children) in body and soul, guide and
+lead you in all good and keep you from all evil. Therefore pray with me thus: [The Our Father
+follows.] The 127th psalm [the psalm follows]. The 128th psalm [the psalm follows]. Let us pray.
+O almighty, merciful God, who hast helped this woman in her great anguish (these women in their
+great anguish) and travail, and hast moreover granted joyful fruit (fruits), and endued it with
+baptism and the Holy Ghost: we praise thee and thank thee for ever, and pray thee through Jesus
+Christ thy dear Son that thou wouldest have mercy upon this (these) little child(ren), keep it
+also from all evil, strengthen it, tend and care for it with thy Spirit, that it may be brought
+up in right faith and constantly, being obedient to thee always, may praise, honour and glorify
+thee with all the elect, here and there for ever. Amen. And thou (ye) little child(ren), the
+Lord bless thee on all thy (you on all your) ways, from this time forth for evermore, ✝. Amen.
+
+The same agenda adds pastoral rubrics for the hard cases:
+
+- **If the mother dies before her churching**, the midwife brings the child, and a prayer of
+  thanks for the child's birth and baptism is said over it.
+- **If the child dies within the six weeks**, the woman is not led to the altar, "for that one
+  should bid her step before the priest to the Lord's altar without her little child might
+  grieve her yet more". She is to go to church quietly with the other Christians.
+- **If a woman refuses the churching "out of mere defiance"**, despising the prayers over
+  herself and her child, the pastor is to admonish her. If she will not hear, he is to report
+  her to the superintendent and consistory.
+
+**Mansfeld, *Kirchen-Agenda*, 1580** (Sehling 2, p. 223):
+
+<!-- doc 1241 -->
+> Wenn sich solche felle zutragen, das den müttern ire kindlein mit tode abgehen, ehe die zeit
+> irer sechs wochen umb ist, so lesset mans mit dem kirchgange bleiben, das solche weiber nicht
+> dürfen zum altar geleitet, und für den priester gestelt werden, sondern das dieselben (wenn
+> sie zu irer gesundheit komen sind, und die zeit ires kirchganges verhanden ist)
+> stillschweigend mit andern christen zur kirchen gehen und ir betrübnis, darinnen sie von wegen
+> des tödlichen abgangs irer kinderlein sein, in warer demut unserem lieben herrn gotte
+> fürtragen, im glauben umb gedult und trost und umb fernern segen nach gottes willen bitten.
+> Denn das man sie ohne kinderlein solte heissen für den priester zum altar des herrn treten,
+> möchte sie vielleicht noch mehr und höher betrüben.
+
+When such cases befall that the mothers' little children depart by death before the time of
+their six weeks is out, the churching is let be, so that such women need not be led to the altar
+and set before the priest; but they shall (when they are come to their health and the time of
+their churching is at hand) go silently to church with other Christians, and lay their sorrow,
+wherein they are by reason of the death of their little children, before our dear Lord God in
+true humility, and pray in faith for patience and comfort and for further blessing according to
+God's will. For that one should bid them step before the priest to the altar of the Lord without
+their little children might perhaps grieve them yet more and more deeply.
+
+**Sayn 1590.** Sayn printed a long prayer "which the ministers of the church shall use when the
+women after six weeks go out of childbed to church". It thanks God that he "hath been a faithful
+helper in need and stood by her in her deadly anguish" (Sehling 19/1, p. 401).
+
+**Solms 1603.** Solms forbade the woman in childbed to go out before four weeks. She was then to
+present herself to the pastor, and the christening feast was to be put off until her churching
+(Sehling 9, p. 340).
+
+---
+
+## 6. Confirmation
+
+**No chrismation.** No evangelical order in the corpus anoints at confirmation, and none keeps
+confirmation as a sacrament. The papal *Firmung* is rejected everywhere: its claim that no one
+is a full Christian until anointed by the bishop, and its formula "Signo te signo crucis et
+confirmo te chrismate salutis". The one order that kept the chrism at all, Electoral Brandenburg
+in 1540, kept it at baptism (§3.2), not at confirmation.
+
+**What replaced it.** Most orders kept or created an evangelical confirmation with three parts:
+
+1. **Instruction** in the catechism.
+2. **A public examination and confession of faith** before the congregation, usually at a feast,
+   by children of about ten to fourteen who were to be admitted to the Lord's Supper.
+3. **Prayer, usually with the laying on of hands.**
+
+The Saxon orders, by contrast, often treated the examination itself as "the right Christian
+confirmation" and had no separate rite.
+
+### 6.1 The reformers' proposal
+
+The *Wittenberg Reformation* of 1545, signed by Luther, Melanchthon and the other Wittenberg
+theologians, proposed confirmation as "a profitable ceremony". It was "not for show", but for
+the keeping of right doctrine and good discipline. **Electoral Saxony, *Wittenbergische
+Reformation*, 1545** (Sehling 1, p. 211):
+
+<!-- doc 20 -->
+> Confirmation. Dieses wäre hochnöthig in allen kirchen, den catechismum auf bestimpte tage zu
+> halten, die jugend in allen nöthigen artikeln christlicher lehre zu unterweisen. Dazu möcht
+> die confirmation angericht werden, nämlich, so ein kind zu seinen mündigen jaren kommen,
+> öffentlich sein bekenntniss zu hören, und zu fragen, ob es bei dieser einigen göttlicher lehre
+> und kirchen bleiben wollt, und nach der bekenntniss und zusage mit auflegung der hände ein
+> gebet thuen. Dieses wäre ein nützliche ceremonien, nicht allein zum schein, sondern viel mehr
+> zu erhaltung rechter lahr und reines verstands und zu guter zucht dienlich.
+
+Confirmation. This were most needful in all churches: to hold the catechism on set days, to
+instruct the youth in all needful articles of Christian doctrine. Thereto might confirmation be
+set up, namely, when a child is come to its years of discretion, to hear its confession
+publicly, and to ask whether it would abide by this one divine doctrine and church, and after
+the confession and promise to make a prayer with laying on of hands. This were a profitable
+ceremony, not only for show, but much rather serviceable to the keeping of right doctrine and
+pure understanding, and to good discipline.
+
+### 6.2 Hesse 1539: the Ziegenhain and Kassel forms
+
+**Ziegenhain 1539.** The Hessian confirmation, devised with Bucer in the Ziegenhain order on
+discipline and the Kassel church order of 1539, is the source of most later forms. Sehling's
+editor traces its spread to Calenberg-Göttingen 1542, Waldeck 1556/57, Braunschweig-Wolfenbüttel
+1569 and Hoya 1581, among others (Sehling 8, p. 104, n. 17). The Ziegenhain rule sets out the
+whole act:
+
+- the children are presented by their parents and godparents at a chief feast;
+- the elders and ministers stand round;
+- the pastor examines them in the chief articles of faith;
+- they give themselves publicly to Christ and his church;
+- the congregation prays;
+- the pastor lays on hands and admits them to the Lord's table.
+
+**Hesse, *Ziegenhainer Zuchtordnung*, 1539** (Sehling 8, p. 104):
+
+<!-- doc 2252 -->
+> Es sollen auch die eltesten und prediger versehen, daß die kinder, so nun durch die
+> catechismos im christlichen verstande so weit bracht sein, daß man sie billich solle zum tisch
+> des Herren zulassen, uf ein fürnemes fest, als Ostern, Pfingsten und Weihnachten, für aller
+> gemein dem pfarherr an darzu verordnetem ort von ihren eltern und pettern dargestellet werden,
+> umb den die eltesten und alle ander diener des worts stehen sollen. Da solle der pfarherr
+> dieselbigen kinder die fürnemsten stücke des christlichen glaubens befragen, und nachdem die
+> kinder darauf geantwort, sich auch da offentlich Christo dem Herren und seiner kirchen ergeben
+> haben, soll der pfarherr die gemein vermanen, den Herrn diesen kindern umb bestendigkeit und
+> merung des h. Geistes zu bitten und solches gebet mit einer collect beschließen. Dem allem
+> nach soll dann der pfarherr denselbigen kindern die hende auflegen und sie also im namen des
+> Herrn confirmieren und zu christlicher gemeinschaft bestetigen, auch darauf zum tisch des
+> Herren gehen heißen
+
+The elders and preachers shall also provide that the children who are now brought so far in
+Christian understanding through the catechisms that they may rightly be admitted to the table of
+the Lord be presented on a chief feast, as Easter, Pentecost and Christmas, before all the
+congregation, to the pastor at a place appointed thereto, by their parents and godparents, round
+about whom the elders and all other ministers of the word shall stand. There shall the pastor
+question the same children in the chief parts of the Christian faith; and after the children
+have answered thereto, and have also there publicly given themselves to Christ the Lord and his
+church, the pastor shall exhort the congregation to pray the Lord for these children for
+steadfastness and increase of the Holy Ghost, and conclude such prayer with a collect. After all
+this the pastor shall then lay hands on the same children, and so confirm them in the name of
+the Lord and establish them in Christian fellowship, and thereupon bid them go to the table of
+the Lord
+
+### 6.3 A full form: Calenberg-Göttingen 1542
+
+The Calenberg order of Duchess Elisabeth printed a separate *Ordnung der confirmation oder
+firmung*. It took its prayers and formula from the Erfurt edition of the Kassel order. Its rite
+is:
+
+1. **Times.** Three times a year, at Easter, Pentecost and Christmas, after vespers.
+2. **Ministers.** Two or three neighbouring pastors and, if near, the superintendent, "with due
+   reverence".
+3. **An exhortation** against the papal *Firmung* and its oil. The ceremony has two parts:
+   *catechesis* and *impositio manuum*.
+4. **The hymn** *Kom, heiliger Geist*.
+5. **The examination** through the whole catechism, "kindly and gently, that they be not
+   frightened".
+6. **A bidding and two long prayers**, the first ending in a paraphrase of the Lord's Prayer.
+7. **The laying on of hands** on each child, with the formula below.
+8. ***Te Deum*** or a psalm of thanks.
+
+The rubric even asks for a place in the middle of the church where all can see and hear. The
+exhortation gives the order's view of the old rite. **Calenberg-Göttingen, *Ordnung der
+confirmation oder firmung*, 1542** (Sehling 6/2, pp. 838–839):
+
+<!-- doc 2037 -->
+> Denn ists nicht ein nerrische lahr, darin sie furgeben, es konne keiner ein Christ sein, wenn
+> er gleich die tauf empfangen, er seye dan auch gesalbet und gefirmet durch den bisschoff? Ja,
+> wie wöllen sie beweisen, das solcher oley der firmung ein oley des heils sey? […] Aber wir
+> wollen diese affen mit ihrer falschen lahr und unnützen salbungen faren lassen, der heiligen
+> taufe ihre wirde nicht rauben und auch keinem leiblichen oley das heil, sonder allein dem
+> Herrn Christo zuschreiben. Doch weil diese ceremonia des confirmirens, wenn sie recht
+> gebraucht wird, dennoch wol zu leiden und zu erhaltung der kinderzucht sehre nütze ist, so
+> wöllen wir mit Gotts hülfe unterstehen, den rechten brauch derselbigen widerumb in unser
+> kirchen zu bringen
+
+For is it not a foolish doctrine wherein they pretend that none can be a Christian, though he
+have received baptism, unless he be also anointed and confirmed by the bishop? Yea, how will
+they prove that such oil of confirmation is an oil of salvation? […] But we will let these apes
+go with their false doctrine and needless anointings, not rob holy baptism of its worth, and
+ascribe salvation to no bodily oil, but to the Lord Christ alone. Yet since this ceremony of
+confirming, when it is rightly used, is nevertheless well to be suffered and very profitable to
+the keeping of discipline among children, we will undertake with God's help to bring the right
+use of it again into our church
+
+The words at the laying on of hands, taken from Kassel, became the most widely used evangelical
+confirmation formula. **Calenberg-Göttingen, *Ordnung der confirmation oder firmung*, 1542**
+(Sehling 6/2, p. 843):
+
+<!-- doc 2037 -->
+> Wenn solch gebet geschehen, sol der pfarherr einem jeden kinde insonderheit die hand auflegen
+> und also sagen: Nim hin den heiligen Geist, schutz und schirm fur allem argen, sterke und
+> hülfe zu allem guten, von der gnedigen hand Gottes des Vaters, des Sohns und des heiligen
+> Geists. Amen. Darauf singe dan die gemein einen dankpsalm oder das Te Deum laudamus.
+
+When such prayer is done, the pastor shall lay his hand upon each child severally and say thus:
+Receive the Holy Ghost, protection and defence against all evil, strength and help unto all
+good, from the gracious hand of God the Father, the Son and the Holy Ghost. Amen. Thereupon let
+the congregation sing a psalm of thanks or the *Te Deum laudamus*.
+
+The order is careful to deny that the Spirit is given "for the sake of the outward ceremony of
+laying on". He is given "for the sake of the word and prayer of the church", for "Augustine
+calleth such laying on of hands nothing else than prayer" (Sehling 6/2, p. 841).
+
+### 6.4 Brandenburg 1540: confirmation by the bishop
+
+Electoral Brandenburg, which kept its bishops, restored confirmation "according to the old
+custom". The bishop examines the children at his visitation and confirms with the laying on of
+hands. Because the bishops were few, pastors might confirm in the presence of one of the
+bishop's learned men, at Easter and Pentecost. The order describes the ancient use as including
+a cross on the forehead "that they should not be ashamed of the cross of Christ", but prescribes
+only the laying on of hands and prayer. **Brandenburg (Electorate), *Kirchenordnung* of Joachim
+II, 1540** (Sehling 3, p. 59):
+
+<!-- doc 1746 -->
+> Wollen wir, das die confirmation nach dem alten brauch gehalten werde, nemlich also: wenn die
+> getauften zu iren jaren komen, das sie wissen, was sie gleuben und beten, auch nach inhalt des
+> catechismi wissen, wie sie christlich leben und ein erlichen wandel füren sollen, sollen sie
+> in der visitation des bischofs erfordert und verhöret werden, und wo befunden, das sie des
+> glaubens und christlichen wandels guten bericht haben, sol, als obstet, der bischof mit
+> auflegung der hende, gott den allmechtigen bitten, das sie darin bestendig bleiben, erhalten
+> und noch mehr gesterkt werden, und sie also darauf confirmiren und bestetigen.
+
+We will that confirmation be held according to the old custom, namely thus: when the baptized
+come to their years, so that they know what they believe and pray, and also know according to
+the content of the catechism how they ought to live as Christians and lead an honest
+conversation, they shall be summoned and heard at the bishop's visitation; and where it is found
+that they have good knowledge of the faith and of Christian conversation, the bishop shall, as
+is said above, with laying on of hands pray God Almighty that they may remain steadfast therein,
+be preserved and be strengthened yet more, and so thereupon confirm and establish them.
+
+### 6.5 Mansfeld 1580 and Pomerania 1569: confirmation before first communion
+
+**Mansfeld 1580.** The Mansfeld agenda ties confirmation to the first communion. The children
+recite the catechism with Luther's explanation and are examined publicly, and this is announced
+to the congregation. One of two prayers is said, then hands are laid on with a formula that
+names the absolution and the sacrament the child now desires. **Mansfeld, *Kirchen-Agenda*,
+1580** (Sehling 2, p. 234):
+
+<!-- doc 1241 -->
+> (Nach dieser gebete einem, leget man den kindern die hand auf, und betet ferner also. Dieweil
+> du (ihr) den catechismum gelernet und für dieser christlichen gemeine offentlich bekentnis
+> deines (eures) glaubens gethan hast (habt), und zugesagt, dabei bestendig zuverharren, und
+> begerest (begeret) hierauf die absolution und das hochwirdige sacrament zu entpfahen, so
+> verleihe dir (euch) gott darzu den heiligen geist, der dich (euch) regiere, schütze, und zum
+> ewigen leben im rechten glauben, und göttlichem gehorsam erhalte, durch Christum seinen son,
+> amen. Der segen gottes des vaters, und des sons, und des heiligen geists, komme auf dich
+> (euch), und bleibe uber dir (euch) ewiglich, amen.
+
+(After one of these prayers the hand is laid on the children, and [the minister] prayeth further
+thus:) Forasmuch as thou hast (ye have) learned the catechism and made public confession of thy
+(your) faith before this Christian congregation, and promised to continue steadfastly therein,
+and desirest (desire) thereupon to receive the absolution and the most worthy sacrament, God
+grant thee (you) thereto the Holy Ghost, who may rule thee (you), protect thee, and keep thee
+unto eternal life in right faith and godly obedience, through Christ his Son. Amen. The blessing
+of God the Father, and of the Son, and of the Holy Ghost come upon thee (you), and abide upon
+thee (you) for ever. Amen.
+
+**Pomerania 1569.** The Pomeranian order required confirmation once a year in every parish, or
+twice in the towns, in Lent and at Michaelmas, after the quarterly catechism examination. It
+called it "confirmation and benediction" as described in the agenda, which "hath been in use for
+many years in these Pomeranian churches" (Sehling 4, pp. 385–386). The agenda chapter is headed
+*Van der confirmation, wo men de kinder im catechismo vorhören unde insegenen schal, eer men se
+tom hochwerdigen sacramente tolet* ("Of confirmation, how one shall hear the children in the
+catechism and bless them before they are admitted to the most worthy sacrament"; Sehling 4, p.
+441). **Lauenburg** in 1585 and **Hesse** in 1566 and 1574 likewise printed confirmation forms
+with question and answer, and the Hessian form was copied by Nassau-Weilburg (1576), Corvey
+(1603) and Hanau-Münzenberg (1609)
+(Sehling 5, p. 458; 8, pp. 300, 430; 10, pp. 251, 498; 21, p. 255).
+
+### 6.6 Strasbourg and the south-west
+
+Strasbourg came to confirmation late, against the Anabaptist charge that infant baptism had
+destroyed church discipline. Marbach's draft order of 1553 has a chapter *Von der kinder
+firmung* and a *Forma* "as it is held with the children in the parish of St Nicholas". The city
+clergy approved both in 1557 (Sehling 20/1, pp. 395, 446). Marbach had announced to Bucer in
+1551 "a public example of confirmation and imposition of hands, a pious and Christian ceremony,
+with about twenty boys" after Easter (Sehling 20/1, p. 79, n. 433).
+
+### 6.7 Examination without a rite: Electoral Saxony
+
+The great Saxon order of 1580 did not adopt the laying on of hands. It instructed the pastors to
+teach the people that the public catechism examination of children and servants is itself "the
+right Christian confirmation or *Firmung*". This confirmation is the confirming of the faith
+that the godparents confessed at baptism. **Saxony, *Ordnung* of Duke August, 1580**
+(Sehling 1, p. 425):
+
+<!-- doc 44 -->
+> Und sollen die pfarrer und kirchendiener das volk fleissig unterweisen, und. mit gutem grund
+> berichten, das dis sei die rechte christliche confirmation oder firmung, das ist die
+> bestetigung des glaubens, so die paten an stadt des neugetauften kindleins bekant, darauf auch
+> das kind getauft worden, wann sie nemlich solches in diesem examine erinnert, und demselben in
+> ihrem ganzen leben nachzukommen, fleissig ermanet werden. Welches die papisten anstelien
+> lassen und an stadt dieser christlichen firmung ein schauspiel mit den kindern angestellet
+
+And the pastors and ministers of the church shall diligently instruct the people and inform them
+on good ground that this is the right Christian confirmation or *Firmung*, that is, the
+confirming of the faith which the godparents confessed in the stead of the newly baptized child,
+whereon also the child was baptized: namely when they are reminded of it in this examination,
+and diligently exhorted to follow it all their life long. Which the papists have let alone, and
+in the stead of this Christian confirmation have set up a show with the children
+
+Waldeck in 1556 used nearly the same words of the papal *Firmung*, "a show full of superstition
+and error". It nonetheless printed a chapter on "how young boys and girls shall be received into
+the Christian congregation" (Sehling 9, pp. 283–284). The Reuss lordships ordered that "instead
+of confirmation" the young be drilled in the catechism through Lent. Those found fit received
+the sacrament on Maundy Thursday "and are thereafter to be held confirmed Christians"
+(Sehling 2, p. 156).
+
+---
+
+## 7. Marriage
+
+**Marriage as a "worldly business".** For the evangelical orders marriage is not a sacrament but
+"a worldly business" (*ein weltlich geschäft*), governed by civil law and local custom and
+judged by the marriage courts. The church's part is to proclaim the banns, to join the couple if
+asked, and to read God's Word over them, pray and bless. The marriage law itself lies outside
+this guide:
+
+- the forbidden degrees;
+- parental consent;
+- secret betrothals;
+- divorce;
+- the marriage courts (*Ehegerichte*).
+
+What follows is the liturgy:
+
+- the banns;
+- the joining (*Trauung*, *Zusammensprechen*), usually at the church door or before the altar;
+- the blessing with readings and prayer at the altar (*Einsegnung*, *Einleitung*);
+- the wedding service that replaced the nuptial Mass (*Brautmesse*);
+- the rules on times, on brides who had fallen, and on widows.
+
+Two formulas divided the country. Luther's North German "Ich spreche sie ehelich zusammen" ("I
+pronounce them joined in marriage") stood against the South German "Die eheliche Pflicht …
+bestätige ich" ("The marriage bond … I confirm"). Sehling's Franconian editor traces both to
+halves of one medieval formula (Sehling 11, p. 202, n. 21).
+
+### 7.1 Luther's *Traubüchlein*
+
+Luther's *Traubüchlein für die einfeltigen pfarherrn* is dated variously to 1529 and 1534
+(Sehling 1, p. 23). It was printed with the Small Catechism and became the Lutheran standard.
+Its preface gives the principle. Marriage "is a worldly business", and "every town and land" is
+to keep its own customs, such as two processions to church or one and the number of banns. "But
+when it is desired of us to bless them before the church or in the church, to pray over them, or
+also to marry them, we are bound to do the same." The form follows. **Luther, *Traubüchlein*,
+1529** (Sehling 1, p. 24):
+
+<!-- doc 3 -->
+> Zum ersten, auf der Kanzel aufbieten mit solchen Worten: Hanns N. und Greta N. wollen nach
+> göttlicher ordenung zum heiligen stande der ehe greifen; begehren dess ein gemein geistlich
+> gebet für sie, dass sie es in gottes namen anfahen, und wohl gerathe. Und hätte jemand was
+> darein zu sprechen, der thue es beizeit, oder schweige darnach; gott gebe ihnen seinen segen,
+> Amen. Für der kirchen trauen mit solchen worten: Hanns, willt du Greten zum ehelichen gemahl
+> haben ? Dicat: Ja. Greta, willt du Hannsen zum ehelichen gemahl haben? Dicat: Ja. Hie lasse
+> sie die trauringe einander geben, und füge ihre beide rechten hand zusammen, und spreche: Was
+> gott zusammen füget, soll kein Mensch scheiden. Weil denn Hanns N. und Greta N. einander zur
+> ehe begehren, und solchs hie öffentlich fur gott und der welt bekennen, darauf sie die hände
+> und trauringe einander gegeben haben, so sprech ich sie ehelich zusammen, im namen des vaters,
+> und des sohns, und des heiligen geistes, Amen.
+
+First, to publish the banns from the pulpit with such words: Hans N. and Greta N. will according
+to God's ordinance take hold of the holy estate of matrimony; they desire for themselves the
+common prayer of the church, that they may begin it in God's name and that it may prosper well.
+And if any have aught to speak against it, let him do it betimes, or hold his peace thereafter.
+God give them his blessing. Amen. Before the church to marry them with such words: Hans, wilt
+thou have Greta to thy wedded spouse? Let him say: Yes. Greta, wilt thou have Hans to thy wedded
+spouse? Let her say: Yes. Here let him have them give the wedding rings to each other, and join
+their two right hands together, and say: What God hath joined together, let no man put asunder.
+Forasmuch then as Hans N. and Greta N. desire each other in marriage, and acknowledge the same
+here openly before God and the world, whereupon they have given each other their hands and
+wedding rings, I pronounce them joined in marriage, in the name of the Father, and of the Son,
+and of the Holy Ghost. Amen.
+
+At the altar the minister reads four lessons:
+
+1. **The institution of marriage**, Genesis 2:18, 21–24.
+2. **God's commandment for the estate**, Ephesians 5:22–29.
+3. **The cross laid on it**, Genesis 3:16–19.
+4. **Its comfort**, Genesis 1:27–28, 31 and Proverbs 18:22.
+
+Then he stretches his hands over the couple and prays. **Luther, *Traubüchlein*, 1529**
+(Sehling 1, p. 24):
+
+<!-- doc 3 -->
+> Hie recke er die hände uber sie und bete also: Herr gott, der du mann und weib geschaffen, und
+> zum ehestand verordnet hast, dazu mit früchte des leibes gesegnet, und das sacrament deines
+> lieben sohns, Jesu Christi, und der kirchen, seine braut darin bezeichnet; wir bitten deine
+> grundlose güte, du wollest solch dein geschäft, ordenung und segen nicht lassen verrücken noch
+> verderben, sondern gnädiglich in uns bewahren, durch Jesum Christum, deinen sohn, unsern
+> herrn, Amen.
+
+Here let him stretch out his hands over them and pray thus: Lord God, who hast created man and
+woman and ordained them to the married estate, hast blessed them moreover with fruit of the
+body, and hast therein signified the sacrament of thy dear Son Jesus Christ and of the church
+his bride: we pray thy bottomless goodness that thou wilt not let this thy work, ordinance and
+blessing be displaced or marred, but graciously preserve it in us, through Jesus Christ thy Son
+our Lord. Amen.
+
+Luther's form passed into the Saxon agenda of 1539 ("as in the *Traubüchlein*", Sehling 1, p.
+274) and most North German orders. Mansfeld in 1580 prefaced it with a warning against deserters
+and bigamists and an address to the congregation, and added a second exhortation to the couple
+(Sehling 2, pp. 223–225).
+
+### 7.2 The South German form: Brandenburg-Nürnberg 1533
+
+The Franconian order adapted Luther "freely" (Sehling's note). Its rite is:
+
+1. **Notice.** The couple are to give the pastor notice "a good time before", so that
+   impediments can be searched out.
+2. **The banns.** They are to be proclaimed once in towns and three times in villages, on feast
+   days.
+3. **At the church.** The questions; four readings with headings, "Zum ersten … Zum andern …"
+   (Genesis 2, Matthew 19, Ephesians 5, Genesis 3, Genesis 1 and Proverbs 18); the rings ("if
+   they have rings"); the joining of hands; vows spoken after the minister.
+4. **The confirmation of the vows.**
+5. **Luther's prayer**, then Psalm 128 and the peace.
+
+Several couples may be married together, and the names entered in a register with the baptisms.
+**Brandenburg-Nürnberg, *Kirchenordnung*, 1533** (Sehling 11, pp. 201–202):
+
+<!-- doc 270 -->
+> Darnach sprech er: Wölt ir nun soliche pflicht und treu einander laisten, so gebt einander die
+> ring darauf (haben sie anderst ring) und gebt einander die hende! Darnach sprech er dem man
+> vor und laß ine nach sprechen also: Ich N. nime dich N. mir zu einem eelichen gemahle und
+> gelobe dir mein treu. Desgleichen soll er dem weib auch vorsagen und darauf weiter sprechen:
+> Die eeliche pflicht, die ir da vor Gott und seiner gemain einander gelobt habt, bestetige ich
+> ans befelch der christenlichen gemain im namen des Vaters und des Suns und des Heiligen
+> Gaists. Amen. Was Gott zusammenfügt, soll kein mensch schaiden.
+
+Then let him say: If ye will now perform such duty and troth one to another, give one another
+the rings thereupon (if they have rings) and give one another your hands! Then let him say it
+before the man and let him say after him thus: I N. take thee N. to my wedded spouse and plight
+thee my troth. Likewise shall he say it before the woman also, and thereupon say further: The
+marriage duty which ye have here vowed one to another before God and his congregation I confirm
+by command of the Christian congregation, in the name of the Father and of the Son and of the
+Holy Ghost. Amen. What God joineth together, let no man put asunder.
+
+Württemberg in 1536 and 1553 used the same form, done before "the most convenient altar" after
+two banns (Sehling 16, p. 114).
+
+### 7.3 Strasbourg 1537: the impediments asked thrice
+
+The Strasbourg agenda puts the church's inquiry into the rite itself:
+
+1. The minister asks the couple whether they will live in marriage and confirm their purpose
+   before the congregation.
+2. He calls three times for anyone who knows an impediment.
+3. He takes their right hands and asks each for consent.
+4. He "strengthens" the vows "by command of the Christian congregation".
+5. A lesson (Genesis 2, Matthew 19 or Ephesians 5) and an exhortation under four heads.
+6. Psalm 128, silent prayer, a long prayer that paraphrases the Lord's Prayer, and a dismissal
+   with a charge to remember the poor.
+
+**Strasbourg, *Agende*, 1537** (Sehling 20/1, pp. 263–264):
+
+<!-- doc 1302 -->
+> Ist jemans hie, dem zu wissen sei hindernüs der Ehe ann disen personen sip oder magtschafft
+> halben, aus götlichem gebott, uns durch unser ordenliche Oberkeit erkennet, oder das ir eins
+> gegen anderen personen sunst verpflicht und der Ehe halb verbunden were, oder das sie ir Ehe
+> nitt redlich unnd nach rechter ordnung versprochen hetten, der wölle das melden: Zum ersten,
+> Zum andern, Zum dritten mal. Wo dann nichts anzeigt würt, spricht der Diener ferner: Dieweil
+> dann niemans ist, der solichs widersprechen wille, so bestetige Gott, das er an euch gewircket
+> hat. […] Die Eheliche pflicht, die ir da vor Gott und seiner Gemeind einander gelobt haben,
+> besterke ich aus befelch der christlichen Gemeind, im namen des Vaters, Süns unnd Heilgen
+> Geists, Amen.
+
+Is there any here who knoweth of an impediment to the marriage of these persons by reason of
+kinship or affinity by God's commandment, as made known to us by our ordinary magistrates; or
+that either of them were otherwise pledged and bound in marriage to another person; or that they
+had not promised their marriage honestly and in right order: let him make it known. The first,
+the second, the third time. Where then nothing is shown, the minister saith further: Forasmuch
+then as there is none that will gainsay it, God confirm that which he hath wrought in you. […]
+The marriage duty which ye have here vowed one to another before God and his congregation I
+strengthen by command of the Christian congregation, in the name of the Father, the Son and the
+Holy Ghost. Amen.
+
+The prayer has a clause that is left out "when couples are blessed who by God's common order
+have no children to hope for" (Sehling 20/1, p. 266).
+
+### 7.4 The nuptial Mass replaced
+
+**Herford 1532.** The medieval wedding Mass was abolished. In its place came the Word, the
+blessing and, in many places, a wedding sermon and hymns. Herford describes the change: the
+bridal Mass that used to be sung "before the soup" on the Monday is gone. Instead God's Word is
+preached and the blessing given, and the couple's offering goes to the poor chest rather than on
+the altar. **Herford, *Kirchenordnung*, 1532** (Sehling 21, p. 192):
+
+<!-- doc 1442 -->
+> Desgeliken ock, wen de brudegam und bruddes mandages tho kerken gan, is ein wise gewest, vor
+> de soppen ene brutmisse tho singen mit groter lasteringe godes und lichtverdicheit der lüde.
+> So dat nu dorch Godes gnaden aff is und in stede der misse dat wort Godes geprediket wert, der
+> brüdt und brüdegam de segen gegeven, is vorordent van unser gemeine, dat de brudt und brudegam
+> mit orer fruntschop in stede des offers up dat altar, nu vortan in der armen kisten solck ein
+> offer geven
+
+Likewise also, when the bridegroom and the bride go to church on the Monday, it hath been a
+custom to sing a bridal Mass before the soup, with great blasphemy of God and frivolity of the
+people. Since this is now by God's grace done away, and in place of the Mass God's word is
+preached and the blessing given to the bride and bridegroom, it is ordained by our congregation
+that the bride and bridegroom with their kin shall henceforth give such an offering into the
+poor chest instead of the offering upon the altar
+
+**The *Brautmesse* in the Ansbach order.** The name *Brautmesse* survived for the wedding
+service with its music, as the fees paid to schoolmasters for singing it show (Brandenburg,
+Sehling 3, pp. 124, 165, 186). The Ansbach *Ordo ecclesiasticus* of 1592 describes one held at a
+weekday service:
+
+- a wedding sermon in place of the second lesson;
+- before it, *Wol dem, der in Gottes furchten steht* or a motet;
+- after the joining, *Wo Gott zum haus nicht gibt sein gunst* or *Dein ehe soltu bewahren rein*,
+  the commandment stanza of Luther's metrical Decalogue;
+- figural music.
+
+**Brandenburg-Ansbach-Kulmbach, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 456):
+
+<!-- doc 294 -->
+> Wann aber ein brautmeß, dabei dann der cantor sein mus, wird dieser actus bis umb neun hor
+> aufgezogen, da man allererst zusamschlegt, und stat der andern lection (vor welcher man die
+> tauf verrichtet, so ein kind vorhanden zu taufen) wird eine hochzeitpredigt gelesen, auch zu
+> zeiten vom predigstul getun. Darvor pflegt man zu singen: Wol dem, der in Gottes furchten
+> steht, oder ein mutetam in cantu figurali. Nach der copulation: Wo Gott zum haus nicht gibt
+> sein gunst, oder Dein ehe soltu bewahren rein, sambt dem letzten gesetz des decalogi rhythmici
+> d. Lutheri oder auch ein muteten in figuralgesang
+
+But when there is a bridal Mass, at which the cantor must be present, this office is put off
+until about nine o'clock, when the bell is first struck together; and in place of the second
+lesson (before which baptism is done, if there be a child to baptize) a wedding sermon is read,
+and also at times delivered from the pulpit. Before it they are wont to sing *Wol dem, der in
+Gottes furchten steht*, or a motet in figural song. After the joining: *Wo Gott zum haus nicht
+gibt sein gunst*, or *Dein ehe soltu bewahren rein*, together with the last commandment of the
+rhymed Decalogue of Dr Luther, or also a motet in figural song
+
+Mansfeld in 1580 lists the hymns "for the bridal Masses": the *Te Deum* in German, *Am dritten
+tage eine hochzeit ward* (on John 2) and Psalm 127, *Vergebens ist alle mühe*
+(Sehling 2, p. 236).
+
+### 7.5 Days, hours and banns
+
+The banns were proclaimed one to three times, on Sundays or feast days. The orders varied:
+
+| Order | Banns | Source |
+| --- | --- | --- |
+| Württemberg 1536 | twice, in the towns and market towns | (Sehling 16, p. 114) |
+| Brandenburg-Nürnberg 1533 | once in towns, three times in villages | (Sehling 11, p. 200) |
+| Ysenburg 1587 | on three Sundays, the couple applying fourteen days before | (Sehling 10, p. 587) |
+
+**Hours and days.** Konstanz in 1537 required the banns three or four days before, on a Sunday
+or feast. It forbade weddings "before daybreak" and the marriage of strangers without inquiry
+(Sehling 17, p. 415). In much of Lower Saxony the couple went to church on the Monday (Herford,
+above).
+
+**Closed seasons.** Weddings were forbidden at the high feasts, in Advent and in Lent. These
+rules are collected in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) §§11.3 and
+12.6.
+
+### 7.6 The bride who had fallen: no wreath
+
+**Württemberg 1553.** The wreath (*Kranz*, *Kränzlein*) worn by the bride on her way to church
+(*Kirchgang*) was the sign of maidenhood. The marriage orders forbade it to a bride who had lain
+with her bridegroom before the marriage was allowed, and with it music, guests and a public
+wedding feast. **Württemberg, *Eheordnung*, 1553** (Sehling 16, p. 279):
+
+<!-- doc 672 -->
+> So sollen sie doch beide von wegen des heimlichen beischlaffens vor zulassung der Ee unnd auch
+> dem Kirchgang gestrafft werden, nämlich die Mannsperson acht tag in Turn an boden mit Wasser
+> und Brot, und die Fraw vier tag in ein Frawengefencknuß gelegt werden, und darzu inen beiden
+> Spil oder Gest auff der Hochzeit zuhaben oder ir ein Crentzlin zum Kirchgang zutragen
+> verbotten sein.
+
+Yet shall they both be punished by reason of the secret lying together before the marriage was
+allowed and before the going to church; namely, the man shall be laid eight days in the tower on
+the ground with water and bread, and the woman four days in a women's prison; and moreover music
+or guests at the wedding shall be forbidden to them both, or that she wear a wreath at the going
+to church.
+
+**Ulm, Baden and Strasbourg.** The same rule stands in the Baden marriage order of 1581 and the
+Ulm *Zuchtordnung* of 1558. Ulm complained of brides "great with child" who went to church "with
+the procession and other maidenly adornment" as if they were "honourable, unblemished virgins"
+(Sehling 16, p. 546; 17, pp. 229, 233). Strasbourg in 1544 complained of the opposite fault:
+some would not let maidens be named at the *Kirchgang* at all (Sehling 20/1, p. 342).
+
+### 7.7 Widows and widowers
+
+Remarriage was free, but not too soon. Ysenburg-Ronneburg in 1587 and Brandenburg-Ansbach in
+1573 forbade widows and widowers to marry within a quarter of a year of their spouse's death
+(Sehling 10, p. 587; 11, p. 369). Others limited the feast. The lordship of Homburg's wedding
+and baptism order of 1570 required widowers and widows to go to church without music or
+bridesmaids and to hold no "gift wedding" (*giftbrutlofft*, the wedding at which gifts were
+received), only a meal of three dishes at most (Sehling 22, p. 137). Divorced persons might
+remarry only with the leave of the consistory or marriage judges (Nördlingen 1579; Kurpfalz
+1563; Sehling 12, p. 346; 14, p. 285).
+
+---
+
+## 8. The sick, the dying, the condemned and the possessed
+
+The orders handle the sick with private ministry rather than with a fixed rite:
+
+- instruction and comfort;
+- private confession and absolution;
+- communion in the house.
+
+The medieval "last rites" were dismantled. Extreme unction disappears. The reserved sacrament is
+no longer carried through the streets: the minister consecrates bread and wine at the bedside.
+The candle in the dying person's hand is taken away. What remains is the Word, the absolution,
+the sacrament and prayer. The same pastoral pattern was applied to the condemned criminal and,
+in Pomerania, to the possessed.
+
+### 8.1 Extreme unction
+
+No evangelical order prescribes the anointing of the sick. The Ansbach visitors of 1528 asked
+the clergy "what the right Christian unction and visitation of the sick may be"
+(Sehling 11, p. 127). The question implies an answer from James 5 without the sacrament. One
+early Nuremberg order is the exception that proves the change. Prior Volprecht's German Mass of
+1524 still allowed "if any at his last end desire the anointing, it shall be given him"
+(Sehling 11, p. 44). Nothing of the kind appears after the visitations.
+
+### 8.2 No reserved sacrament: communion in the house
+
+**The ciboria broken.** The reserved sacrament was carried through the streets to the sick in
+procession, with bell and light, and the reformers made this a chief complaint. The Wittenberg
+consistory in 1542 ordered all ciboria broken up and communion held at the sickbed. **Electoral
+Saxony, *Constitution und artikel des geistlichen consistorii zu Wittemberg*, 1542**
+(Sehling 1, p. 202):
+
+<!-- doc 19 -->
+> Item sie sollen darauf achtung geben, damit das heilige sacrament nicht in ciboriis behalten ,
+> noch uber die gassen nach papistischem gebrauch getragen, sondern bei den kranken die
+> communion halten, darumb sollen alle ciboria abgebrochen sein und bleiben.
+
+Item they shall take heed that the holy sacrament be not kept in ciboria, nor carried over the
+streets after the papistical use, but [that they] hold the communion with the sick; therefore
+all ciboria shall be and remain broken down.
+
+Brandenburg-Nürnberg in 1533 ("they shall not keep, lock up nor carry about the holy sacrament",
+Sehling 11, p. 184), Hohenlohe in 1553 and Thomas Stieber's instruction for Wolfstein in 1574
+say the same (Sehling 15, p. 77; 13, p. 574). The visitors' order for Belgern ordered the pastor
+"not to keep the host in the sacrament-house any more, but to consecrate it with the sick"
+(Sehling 1, p. 525).
+
+**Not a private Mass.** Württemberg in 1536 answered the objection that communion in a house was
+a "private Mass" (*Winkelmesse*). The minister does not commune himself but gives the sacrament
+to another, and the sick man "is not excommunicate by reason of his sickness, but rather by
+reason of the sickness, if he believe, in the communion of all saints". **Württemberg,
+*Kirchenordnung*, 1536** (Sehling 16, p. 111):
+
+<!-- doc 651 -->
+> So ist der kranck von seiner kranckheyt wegen nit excommunicatus, sonder ist vilmer von der
+> kranckheit wegen, so er glaubt, in communione omnium sanctorum, darumb gehört ime auch das
+> Sacrament Communionis zu und sol ime zu trost seines gewissens keines wegs verhalten werden.
+
+So the sick man is not *excommunicatus* by reason of his sickness, but is rather by reason of
+the sickness, if he believe, *in communione omnium sanctorum*; therefore the Sacrament of
+Communion belongeth to him also, and shall in no wise be withheld from him, to the comfort of
+his conscience.
+
+The Württemberg order is:
+
+1. 1 Corinthians 11 is read, with a short exhortation.
+2. The sick man is heard alone, the others being sent out, and taught and comforted.
+3. The general confession and absolution.
+4. The consecration with the Words of Institution.
+5. Distribution, comfort from the Gospel, and commendation to God.
+
+### 8.3 The Saxon form for the sick, 1539
+
+Duke Henry's agenda gives the order most widely copied in the north. Duke August's order of 1580
+reprinted it "word for word" (Sehling 1, p. 370). It has three parts.
+
+**Instruction and comfort.** "How sick folk shall be instructed and comforted" is an address in
+four points:
+
+1. Sickness comes for sin.
+2. Christ cleanses us through the Gospel and the sacraments, and will cleanse our nature at the
+   last.
+3. Sickness and death are sent in grace, to drive us to repentance and faith.
+4. All our sins are laid on Christ.
+
+The address ends: "Der herr ist mein licht, fur wem solt ich mich fürchten? … in deine hende
+befelhe ich meinen geist" ("The Lord is my light, whom shall I fear? … into thy hands I commend
+my spirit"; Sehling 1, pp. 269–270).
+
+**Absolution.** It is given in the form for private confession, which ends "Zeuch hin im friede"
+("Go hence in peace").
+
+**Communion.** The Saxon order of communion is printed below. **Saxony (Albertine),
+*Kirchenordnung*, 1539** (Sehling 1, pp. 270–271):
+
+<!-- doc 30 -->
+> Wie man die kranken communiciren sol. Wenn der kranke zuvor durch gottes wort unterrichtet,
+> und mit dem wort der absolution getröstet ist, so bereite man den tisch mit brot und wein
+> ehrlich, mit aufgelegtem tuch etc. zu der communio, und wenn solchs geschehen, spreche man dem
+> kranken einen feinen tröstlichen betpsalmen für, als den xxv. Nach dir herr verlanget mich,
+> mein gott, ich hoffe auf dich, las mich nicht zu schanden werden, das sich meine feinde nicht
+> freuen uber mich etc. oder der gleichen kurzer psalmen. Nach dem psalmen lese man dem kranken
+> einen tröstlichen text aus dem evangelio, als ungeferlich diesen. Johannis am 3. Also hat gott
+> die welt geliebet, das er seinen einigen son dargab, auf das alle so an in gleuben, nicht
+> verloren werden, sondern das ewige leben haben. Nach dem evangelio bete man mit dem kranken
+> das vater unser. Und spreche darauf die wort des testaments. Unser herr Jesus Christ [folgen
+> die worte der einsetzung] Solchs thut zu meinem gedechtnis. Auf diese wort reiche man dem
+> kranken den leib des herrn unter dem brot, also sprechend: Der leib unsers herrn Jesu Christi,
+> fur dich in tod gegeben, sterke und beware dich im glauben zum ewigen leben, amen. […] Und auf
+> solche wort reiche man dem kranken denn auch das blut des herrn, also sprechend. Das blut
+> unsers lieben herrn Jesu Christi fur deine sünde vergossen, sterke und beware dich in rechtem
+> glauben zum ewigen leben, amen. Darnach spreche man mit dem kranken den 111. psalm. Ich danke
+> dem herrn von ganzem herzen, im rat der fromen und in der gemeine. Oder an stat des psalmes
+> ein kurzem psalm oder das vater unser. Benedictio. Der herr segne dich und behüte dich. Der
+> herr erleuchte sein angesicht uber dich, und sei dir gnedig. Der herr hebe sein angesicht auf
+> dich, und gebe dir friede, amen.
+
+How the sick shall be communicated. When the sick person hath first been instructed by God's
+word and comforted with the word of absolution, let the table be made ready with bread and wine
+honourably, with a cloth laid upon it etc., for the communion; and when that is done, let a fine
+comfortable psalm of prayer be said before the sick person, as the twenty-fifth: Unto thee, O
+Lord, do I lift up my soul; O my God, I trust in thee: let me not be ashamed, let not mine
+enemies triumph over me, etc., or such like short psalms. After the psalm let a comfortable text
+out of the gospel be read to the sick person, as about this, John 3: For God so loved the world,
+that he gave his only begotten Son, that whosoever believeth in him should not perish, but have
+everlasting life. After the gospel let the Our Father be prayed with the sick person, and
+thereupon the words of the testament be spoken: Our Lord Jesus Christ [the words of institution
+follow] This do in remembrance of me. Upon these words let the body of the Lord under the bread
+be given to the sick person, saying thus: The body of our Lord Jesus Christ, given into death
+for thee, strengthen and preserve thee in the faith unto everlasting life. Amen. […] And upon
+such words let the blood of the Lord also be given to the sick person, saying thus: The blood of
+our dear Lord Jesus Christ, shed for thy sins, strengthen and preserve thee in right faith unto
+everlasting life. Amen. Thereafter let the hundred and eleventh psalm be said with the sick
+person: I will praise the Lord with my whole heart, in the assembly of the upright, and in the
+congregation. Or instead of the psalm a short psalm, or the Our Father. The Blessing. The Lord
+bless thee and keep thee. The Lord make his face shine upon thee, and be gracious unto thee. The
+Lord lift up his countenance upon thee, and give thee peace. Amen.
+
+The later editions offer shorter psalms (Psalm 125 or 130) and add John 6. After the communion
+they add Psalms 91 and 117 "if he have repentance and devotion thereto".
+
+Brandenburg-Nürnberg in 1533 had the minister hold the same order in church for a single person
+who could not wait for the Sunday communion: "with such a person one shall deal in the church
+even as one dealeth with a sick man in the house" (Sehling 11, p. 200). Veit Dietrich's
+Nuremberg *Agendbüchlein* of 1545 adds a chapter of "cases that befall touching the sacrament
+with the sick" (Sehling 11, pp. 520–521):
+
+- the godless who will not confess their faith are to be left, "for our Lord Christ forbiddeth
+  hard that one cast pearls before swine";
+- the sacrament is never to be given in one kind; rather let the sick die without it;
+- for one who cannot take wine, "some advise" a drop or two from the chalice in a drink of
+  water, though such may also rely on the Word and spiritual eating;
+- rough folk who have long stayed away are to be brought to repentance and then communicated
+  "without delay";
+- those in open vice who will not promise amendment are refused;
+- those who cannot keep the sacrament down are to be comforted with the Word until they can;
+- those already in their last throes or out of their minds are to be prayed for, but not given
+  the sacrament.
+
+The chapter ends with an exhortation not to save the sacrament for the last need, but to receive
+it in health.
+
+### 8.4 The dying
+
+**Veit Dietrich 1545.** When the end came, Dietrich told the minister not to shout long
+exhortations into the dying person's ears. He was to kneel, pray the Lord's Prayer aloud with
+those present, and close with a short collect commending the dying person, "since he was
+baptized in the name of Jesus". The candle was not to be put into the hand. A crucifix was
+permitted, but "the best crucifix" is the Word. **Nuremberg, *Agendbüchlein* of Veit Dietrich,
+1545** (Sehling 11, p. 522):
+
+<!-- doc 297 -->
+> Im fall, daß der kirchendiener bei dem kranken wer und er jetzund in die züge griffe, da ists
+> nit mer von nöten, den leuten, so zuvor also unterrichtet, lang und vil in die ohren schreien,
+> wie man doch gemeiniglich pflegt, sonder er, der kirchendiener, sol niderknien und andere auch
+> zum gebet vermanen. Erstlich laut ein Vater unser beten und andere im heißen nachbeten […] Es
+> soll auch der kirchendiener oder pfarrherr, kerzen und anders, so man zuvor bei kranken
+> gebraucht, abschaffen, das man es dem kranken nit in die hende gebe; denn weil solches
+> geschehen, das sie damit bekennen sollen, sie wöllen als christen sterben, wissen wir, das die
+> einige und rechte bekentnus ist dise: wenn man Christum Jesum als den einigen mitler und
+> erlöser erkennet. […] Das man ein crucifix bei den sterbenden hat, ist an im selb nit bös.
+> Aber wer den trost im wort hat, der hat das best crucifix, welchs nit allein die augen
+> ansehen, sonder die ohren fassen und das herz in sich bilden kan.
+
+In case the minister of the church be with the sick person and he now fall into the throes of
+death, it is no more needful to cry long and much into the ears of people who have been so
+instructed before, as is yet commonly done; but the minister shall kneel down and exhort others
+also to prayer. First pray an Our Father aloud and bid the others pray after him […] The
+minister of the church or pastor shall also do away with candles and other things which were
+formerly used with the sick, that they be not given into the sick person's hands; for since this
+was done that they should thereby confess that they would die as Christians, we know that the
+one and right confession is this: when one acknowledgeth Christ Jesus as the only mediator and
+redeemer. […] That one have a crucifix by the dying is not evil in itself. But whoso hath the
+comfort in the Word hath the best crucifix, which not only the eyes behold, but the ears grasp
+and the heart forms within itself.
+
+### 8.5 Plague
+
+**Regensburg 1562.** In plague time the orders laid the danger on one minister at a time.
+Regensburg's order of 1562 made the deacon "of the week" serve all the plague-sick in the pest
+house, the town and the countryside with the sacrament and God's Word. He was to keep away from
+church, baths and gatherings for that week, while the next deacon served the other sick, the
+baptisms and the rest. **Regensburg, *Ordnung für die Geistlichen zur Pestzeit*, 1562**
+(Sehling 13, p. 435):
+
+<!-- doc 446 -->
+> Nachdem erstlich vier diaconi seien, so soll derjenig, der wochner ist, bis auf fernere
+> fursehung eines erbarn rats schuldig sein, alle die, so im lazaret, in der stat und eines rats
+> gebiet mit der schweren krankheit oder pestilenz beladen sind, mit dem hochwirdigen sacrament
+> zu fursehen und si mit Gottes wort zu trösten. Doch soll er sich die selbe wochen in allweg
+> anhaimbs enthalten und nit in die kirchen, offenliche bad oder ladschaften unter die gemain
+> komen, sondern allein den kranken, wie ob gemelt, auswarten.
+
+Since firstly there are four deacons, he that is weekly minister shall be bound, until further
+provision of an honourable council, to provide with the most worthy sacrament and to comfort
+with God's word all those who are laden with the grievous sickness or pestilence in the pest
+house, in the town and in the council's territory. Yet he shall in every wise keep himself at
+home that same week, and not come among the commons into the churches, public baths or
+gatherings, but only wait upon the sick, as aforesaid.
+
+**Wittenberg, Halle and Torgau.** Wittenberg's town order of 1533 likewise kept the fourth
+deacon for the plague-stricken villages "that the other three deacons bring not the pestilence
+among the people in the town" (Sehling 1, p. 702). The Halle church order (1573?) told the
+people to confess and receive the sacrament "with healthy body" in time of plague, so as to
+spare the minister the danger of infected houses (Sehling 2, p. 441). Torgau in 1575 bound every
+pastor to visit the plague-stricken "unless God should strike his own person"
+(Sehling 1, p. 683).
+
+### 8.6 The condemned
+
+**Veit Dietrich 1545.** The prisoner condemned to death was the pastor's charge from sentence to
+scaffold. Veit Dietrich's chapter "How one shall instruct and comfort prisoners condemned to
+death" was copied by Pfalz-Zweibrücken (1557), Regensburg (1567), Hohenlohe (1578) and others
+(Sehling 18, p. 28; 13, p. 484; 15, p. 290). It is a pastoral method in two parts:
+
+- **"Terror".** Through the Ten Commandments the condemned is brought to know his sin against
+  God, the magistrate and his neighbour.
+- **"Comfort".** The first comfort is for the conscience: God's grace in sending him a minister
+  rather than letting him die "in the fresh deed". The second is against "the shameful death"
+  itself.
+
+It begins with the question why the man lies captive. **Nuremberg, *Agendbüchlein* of Veit
+Dietrich, 1545** (Sehling 11, pp. 531–532):
+
+<!-- doc 297 -->
+> Wie man gefangene und zum tod verarteilte unterrichten und trösten sol. Zum aller erstem mag
+> man fragen, warumb sie da gefangen ligen. Da würt man dann an der antwort bald merken, wie es
+> umb ir herz steh. Etlicher wird schweigen, nichts bekennen oder sich anheben zu entschuldigen,
+> wie er unschuldig drein kommen etc. Etlicher wurds bekennen, aber doch mit eim trotz. […]
+> Etlicher würds also bekennen, das man an worten und geberden sehen muß, das er seer bekummert,
+> vol leids und jammer sei. […] ist er blöd und forchtig, das man ihn mit Gottes güte und
+> barmherzigkeit tröste, ist er verwegen und trotzig oder ungeduldig, das man im die sünde wol
+> einreibe und ein schrecken in in jage, das er sich erkennen und uber seiner mißhandlung reu
+> und leid lerne haben.
+
+How one shall instruct and comfort prisoners and those condemned to death. First of all one may
+ask them why they lie there captive. Then by the answer one will soon mark how it standeth with
+their heart. One will be silent, confess nothing, or begin to excuse himself, how he came into
+it innocently, etc. Another will confess it, but yet with defiance. […] Another will confess it
+so that one must see by words and bearing that he is sore troubled, full of sorrow and misery.
+[…] if he be timid and fearful, that one comfort him with God's goodness and mercy; if he be
+bold and defiant or impatient, that one rub the sin well into him and drive a terror into him,
+that he may know himself and learn to have repentance and sorrow over his misdeed.
+
+Pfalz-Neuburg's general articles of 1576 add a chapter on "the instruction and comfort of
+prisoners condemned to death, and the burial of their bodies" (Sehling 13, p. 170). The
+Schwarzburg order of 1574 required that the ministers be told three or four days before an
+execution (Sehling 2, p. 135).
+
+### 8.7 The possessed: prayer instead of exorcism
+
+**Pomerania 1569.** The Pomeranian agenda of 1569 gives the only full evangelical rite for the
+possessed in the corpus. It forbids exorcism and "devil-banning" "as in the papacy", including
+the earnest exorcisms that some of "ours" have used. It orders that wandering sextons and others
+who pass themselves off as devil-banishers be examined by the superintendent and, if need be,
+punished by the secular arm. The pastor is first to warn the people against believing too
+readily in possession, "as is often alleged in sickness of the head, with the senseless and
+raving". Prayer is to be made in the neighbouring parishes. The visit itself runs thus:
+
+1. Two or three ministers go together, having prepared themselves by prayer and fasting.
+2. The greeting "The peace of our Lord Jesus Christ be in this house".
+3. The Lord's Prayer with a few chosen Christians.
+4. The sick man is reminded of his baptism and asked to say the creed and a confession of
+   Christ. "If he can, he is not possessed."
+5. If possession is not certain, the physicians are to be called.
+6. If it is, there is to be no "pomp" of adjuration: Satan is resisted "with prayers and
+   contempt".
+7. A defiance of Satan, the laying of the hand on the sick man's head with the Lord's Prayer, a
+   long prayer to Christ, and the Aaronic blessing in Trinitarian form.
+8. On preaching days he is brought to a separate, guarded place in the church, and the
+   congregation prays for him until God turns the need.
+
+**Pomerania, *Agenda*, 1569** (Sehling 4, pp. 461–462):
+
+<!-- doc 1865 -->
+> Wenn men överst spüret, dat de satan dorch gades vorhenkenisse, uns andren tom exempel unde
+> tor boetpredige, vorhanden is, schal men neen geprenge mit beswerende unde der geliken
+> vörnemen: Sed obsistendum est ei orationibus et contemptu satanae, in nomine domini Jesu
+> Christi, dat is, men schal den homödigen satan vorachten, unde sick mit dem gebede im namen
+> unses herren Jesu Christi, wedder en setten […] Hir lege de prester de hand up des kranken
+> hövet unde spreke: Unse vader, de du bist in dem hemmel etc.
+
+But when it is perceived that Satan by God's sufferance is present, for an example to us others
+and for a preaching of repentance, no pomp shall be undertaken with adjuring and the like: *but
+he is to be withstood with prayers and contempt of Satan, in the name of the Lord Jesus Christ*,
+that is, one shall despise the proud Satan and set oneself against him with prayer in the name
+of our Lord Jesus Christ […] Here let the priest lay his hand upon the sick man's head and say:
+Our Father, which art in heaven, etc.
+
+The chapter ends: "More we cannot do. We must commend the need herewith to God, watch, pray,
+wait upon the Lord, and not grow weary" (Sehling 4, p. 463).
+
+---
+
+## 9. Funerals and burial
+
+The evangelical funeral is the medieval funeral stripped of prayer for the dead. Gone are:
+
+- the vigils (the office of the dead);
+- the requiem Mass and the Masses of the seventh and thirtieth day and the anniversary
+  (*Siebenter*, *Dreißigster*, *Jahrtag*);
+- the sprinkling of holy water and the censing;
+- the endowed "soul baths" and "soul gifts" (*Seelbad*, *Seelgerät*).
+
+What remained was:
+
+- the procession to the grave led by the schoolmaster and pupils;
+- hymns of faith in the resurrection;
+- a lesson or exhortation (usually 1 Thessalonians 4) and a collect;
+- increasingly, a funeral sermon in the church.
+
+The orders took great care over who might receive this "Christian burial". To refuse it was a
+sanction of church discipline.
+
+### 9.1 What was abolished
+
+**Vigils and soul-Masses.** The Saxon visitors of 1528 ordered that "soul-Masses and other
+bought Masses shall no more be held" (Sehling 1, p. 164). The Ansbach diet of 1526 forbade
+anyone to be "compelled to hold any *Begängnis*, seventh or thirtieth day of a departed person"
+(Sehling 11, p. 90). Veit Dietrich's Nuremberg agenda opens its chapter on burial by abolishing
+"all papal pomp with holy water, singing over [the dead] and the rest". **Nuremberg,
+*Agendbüchlein* of Veit Dietrich, 1545** (Sehling 11, p. 528):
+
+<!-- doc 297 -->
+> Wie man es mit dem begrebnus halten soll. Bei den leichen, wenn man sie zur erden bestattet,
+> soll alles bebstisch gebreng mit weichwasser, besingen und anderm abgeschaffet sein; denn
+> solches alles nit allein on Gottes wort, sonder auch wider Gottes wort vom bapst angerichtet,
+> als soll es zur seligkeit fürderlich sein. Wo nun ein schule ist, da mögen die schuler das
+> Media vita, Nunc dimitis oder ein andern gesang deutsch oder lateinisch singen und mag der
+> kirchendiener oder pfarherr ungeferlich dise kurze vermanung mit solchen oder andern worten
+> bei den begrebnus tun
+
+How one shall hold the burial. At the dead, when they are committed to the earth, all papal pomp
+with holy water, singing over [them] and the rest shall be done away; for all this hath been set
+up by the pope not only without God's word but also against God's word, as though it should
+further salvation. Now where there is a school, the scholars may sing the *Media vita*, the
+*Nunc dimittis*, or another hymn in German or Latin, and the minister of the church or pastor
+may make this short exhortation, in these or other words, at the burial
+
+**Müntzer at Allstedt.** Even the earliest German orders kept the procession and dropped the
+vigils. Thomas Müntzer described the Allstedt practice of about 1523–1524. The text stands at
+the foot of Sehling 1, p. 507, before the visitation order of 1533. The dead were fetched "with
+the Benedictus in German, without vigils", the people sang *Mitten in dem leben* after the
+burial, and in church 1 Thessalonians 4 and John 5 were read (Sehling 1, p. 507).
+
+### 9.2 The Saxon burial, 1539–1540
+
+Duke Henry's agenda gives the North German pattern.
+
+**1539.** The 1539 text only prescribes the hymn of Simeon, *Mit fried und freud ich far dahin*,
+or *Mitten wir im leben sind* at the burial.
+
+**1540 and 1555.** The editions of 1540 and 1555 expand it:
+
+1. In towns the schoolmaster and pupils lead the body "honourably"; in the villages the pastor
+   does.
+2. A Latin responsory, such as *Si bona suscepimus*.
+3. German hymns with the people: *Aus tiefer not*, *Mitten wir im leben sind*, and at the grave
+   the hymn of Simeon; "if there is time", *Wir gleuben all an einen gott*.
+4. No sermon is required, but a priest present may close with a collect.
+
+**Saxony (Albertine), *Kirchenordnung*, 1539, texts of 1540 and 1555** (Sehling 1, p. 275):
+
+<!-- doc 30 -->
+> Wo man schuler hat, lasse man sie erstlich ein latinisch reponsorium singen, als si bona
+> suscepimus etc. Darnach singe das volk mit inen etliche deudsche gesang, als aus tiefer not,
+> mitten wir im leben sind, und bei dem grabe den gesang des heiligen Simeonis, In stedten
+> sollen die leichen ehrlich durch den schulmeister und schuler geleitet werden, nach
+> gelegenheit, mit obangezeigten gesengen, dergleichen aufn dörfern, durch den pfarherr und mit
+> fried und freud etc. item (so man zeit hat) wir gleuben all an einen gott etc. Ist on not, das
+> man bei der begrebnis ein sondere predigt thue, so aber ein priester fürhanden, mag er mit
+> dieser collect beschliessen. Allmechtiger gott, der du durch den tod deines sons die sünd und
+> tod zu nicht gemacht und durch sein auferstehung unschuld und ewiges leben widerbracht hast,
+> auf das wir von der gewalt des teufels erlöset und durch die kraft derselbigen auferstehung
+> auch unsere sterbliche leibe von den todten auferwecket sollen werden, verleihe uns
+> gnediglich, das wir solches festiglich und von ganzem herzen gleuben und die fröliche
+> auferstehung unsers leibs mit allen seligen erlangen mügen, durch denselbigen deinen son,
+> Jesum Christum, unsern herrn, amen.
+
+Where there are scholars, let them first sing a Latin responsory, as *Si bona suscepimus*, etc.
+Thereafter let the people sing with them some German hymns, as *Aus tiefer not*, *Mitten wir im
+leben sind*, and at the grave the hymn of holy Simeon. In towns the bodies shall be honourably
+escorted by the schoolmaster and scholars, as occasion serveth, with the aforesaid hymns;
+likewise in the villages by the pastor, and with *Mit fried und freud*, etc.; item (if there be
+time) *Wir gleuben all an einen gott*, etc. It is not needful that a special sermon be made at
+the burial; but if a priest be present, he may conclude with this collect: Almighty God, who by
+the death of thy Son hast brought sin and death to nought, and by his resurrection hast restored
+innocence and everlasting life, that we, being delivered from the power of the devil, should by
+the power of the same resurrection have our mortal bodies also raised from the dead: grant us
+graciously that we may believe this steadfastly and with our whole heart, and obtain the joyful
+resurrection of our body with all the blessed, through the same thy Son Jesus Christ our Lord.
+Amen.
+
+**1580.** Duke August's order of 1580 kept this text and added the funeral sermon. After the
+body has been carried to the churchyard with the ministers and people, and the people have
+gathered in the church, the minister reads one of the printed sermons that follow, or "if it be
+specially desired of him" preaches a fitting sermon of his own, and closes with a collect. Model
+*Leichpredigten* follow, the first on 1 Thessalonians 4 (Sehling 1, p. 371).
+
+### 9.3 The Franconian burial: Brandenburg-Nürnberg 1533
+
+The Franconian order gives the procession and the graveside exhortation. Where there are
+scholars and priests they sing:
+
+- the Benedictus, or the "prayer of Moses", Psalm 90 (*Domine, refugium*);
+- an antiphon such as *Media vita in morte sumus* or *Ego sum resurrectio et vita*, or a German
+  hymn.
+
+Then an exhortation on 1 Thessalonians 4:13–18 is made, at the house or at the grave.
+**Brandenburg-Nürnberg, *Kirchenordnung*, 1533** (Sehling 11, p. 203):
+
+<!-- doc 270 -->
+> Ir andechtigen lieben brüder und schwestern in dem Herrn, dieweil der allmechtig Gott N.,
+> unsern lieben freunde bruder und glid Christi, durch den tod von disem elenden leben in dem
+> rechten, christenlichen glauben (als wir hoffen) zu seiner ewigen rue hat gefordert und
+> hingenummen und wir dardurch zu trauern, klagen und laid zu tragen bewegt werden, auf das wir
+> uns christenlich darin halten, wöllen wir hören die tröstlichen wort des heiligen Pauli, der
+> also spricht […] Soliche vermanung mag geschehen im haus, da man die leich austregt, oder bei
+> dem grabe, wo am maisten volks darbei ist.
+
+Ye devout, dear brethren and sisters in the Lord: forasmuch as Almighty God hath called and
+taken N., our dear friend, brother and member of Christ, through death out of this wretched life
+in the right Christian faith (as we hope) to his eternal rest, and we are thereby moved to
+mourn, lament and bear sorrow; that we may bear ourselves as Christians therein, we will hear
+the comfortable words of holy Paul, who saith thus […] Such exhortation may be made in the house
+whence the body is carried out, or at the grave, where most people are present.
+
+**The 1591 revision.** The revision of 1591 allowed other texts and "funeral sermons and
+Christian hymns", and kept the Latin figural music for processional funerals "if specially
+desired". For "godless and epicurean people" who had not come to church or sacrament for years,
+or died in drunkenness or rage, it changed the hymns. *Mit fried und freud ich fahr dahin* was
+not to be sung. Instead *Mitten wir im leben sind* was sung at the door, and penitential hymns
+on the way (Sehling 11, p. 202, apparatus).
+
+### 9.4 Who received Christian burial
+
+**Regensburg 1560.** Burial with hymns, bells and sermon was the church's testimony that the
+dead had died in the faith, and it could therefore be refused. Regensburg's council set out the
+principle. The funeral sermon and hymns are "not to be given to every one without distinction as
+an adiaphoron or worldly thing and friendship". They belong to those who confessed the true
+doctrine and used Word and sacrament, and not to despisers who died without repentance. These
+may still be "carried out honourably and laid in the common churchyard … only the ceremonies
+that belong to Christianity excluded". Suicides are buried outside the churchyard by the
+executioner. **Regensburg, *Erklärung … welchen … leichpredig und leichgesänge nit mögen
+zugelassen werden*, 1560** (Sehling 13, p. 448):
+
+<!-- doc 448 -->
+> Nachdem leichpredig und leichgesäng so vil auf ihnen haben, das die kirche den verstorbenen
+> damit fur ir glied erkent, ihm damit christlichs lebens und sterbens ir zeugnus gibt, ir selb
+> domit auch so vil auflegt, daß sie mit ihme zu gleichem gericht fur Gott steen will auf eben
+> den glauben, welchen der verstorbene bekant und im leben erzaigt hat (so vil si wais oder
+> wissen kan), so sind die bemelten beede, leichpredig und leichgesang nit jederman also gar one
+> unterscheid mitzutailn als ein adiaphoron oder weltlich ding und freundschaft, sondern Gottes,
+> gewissens und christenlicher zucht halb mit vleiß zu erwegen, wem si mitzutailn oder nit
+> mitzutailn sind. […] Weil es alzeit fur ein sonderbare, hohe sünde und unbußfertigkait ist
+> geachtet worden, sich selb fursetzlich und verstendiglich zu entleiben, aus was ursachen es
+> sei, so wirdet darauf auch altem herkommen nach fur billich angesehen, das dieselben personen
+> nit auf den gemainen freithof gelegt, sondern außerhalb freitshof dem nachrichter oder
+> schlegel zu begraben oder zu verbrennen bevolhen werden, andern zum schrecken und zum exempel.
+
+Since the funeral sermon and the funeral hymns signify so much, that the church thereby
+acknowledgeth the departed for her member, beareth him witness thereby of a Christian life and
+death, and also layeth so much upon herself that she will stand with him at the same judgement
+before God upon the very faith which the departed confessed and showed in his life (so far as
+she knoweth or can know), therefore the said two, funeral sermon and funeral hymn, are not to be
+imparted to every one without distinction as an adiaphoron or worldly thing and friendship, but
+for God's, conscience's and Christian discipline's sake it is to be diligently weighed to whom
+they are to be imparted or not. […] Since it hath always been held a peculiar, high sin and
+impenitence to slay oneself wilfully and knowingly, from whatever cause, it is accordingly also,
+after old custom, deemed right that such persons be not laid in the common churchyard, but be
+committed to the executioner or knacker to be buried or burned outside the churchyard, for a
+terror and example to others.
+
+The same order makes allowance for those who die by accident, drowning or falling. These cases
+are to be judged one by one.
+
+**Mansfeld 1580.** Mansfeld went further. Heretics, open despisers of the sacraments and those
+who died impenitent in open vice had always been refused "Christian burial and the customary
+ceremonies" there. They were not laid with other Christians nor "accompanied with bells or
+hymns". Pastors were to keep it so. **Mansfeld, *Kirchen-Agenda*, 1580** (Sehling 2, p. 246):
+
+<!-- doc 1241 -->
+> solchen sind bis daher in dieser grafschaft Mansfelt nach gottes wort aus gnugsamen ursachen
+> die christlichen begrebnis und gewönlichen ceremonien, das man sie nicht zu andern christen
+> geleget und weder mit dem geleute oder mit gesengen beleitet hat, abgeschlagen und versaget
+> wurden. Bei solchem brauche sol es auch nochmals erhalten werden.
+
+to such have hitherto in this county of Mansfeld, according to God's word and for sufficient
+causes, Christian burial and the customary ceremonies been refused and denied, so that they were
+not laid with other Christians, and were accompanied neither with ringing nor with hymns. By
+such custom it shall still be kept.
+
+**Children: Brandenburg-Ansbach 1594.** Children were a particular case. The Ansbach consistory
+noted in 1594 that unbaptized children were not buried with other Christians. It noted too that
+baptized children under twelve who had not yet communicated were buried in some places with
+procession and scholars and in others "silently", "whereby Christian parents are not only made
+sore troubled, but oftentimes the mother, as the weaker vessel, falleth into great temptation".
+It then laid down a common order (Sehling 11, p. 392). At Soest the theologians' articles
+provided, as Sehling's editor summarizes them, that no funeral sermon be preached for children
+who had not yet gone to the Lord's Supper (Sehling 22, p. 380).
+
+---
+
+## 10. Ordination
+
+The evangelical ordination is a public rite of the church. It confirms a man already examined
+and called to the office of preaching and the sacraments. It has three parts:
+
+- the prayer of the congregation;
+- the reading of 1 Timothy 3 and Acts 20 with the ordinand's promise;
+- the laying on of hands by the ordinator and the other ministers, with the Lord's Prayer and a
+  prayer for the Holy Spirit.
+
+**What was dropped.** It drops the vesting, the anointing of the hands and the delivery of
+chalice and paten, the parts of the medieval rite that conferred the power to offer sacrifice.
+The Merseburg draft of 1545 names them, "the putting on of the garments, and unction etc.", as
+"needless, abusive ceremonies, which did nothing for the ordination" (Sehling 2, p. 6). How far
+the evangelical diaconate was also conferred by ordination is treated in
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §§5 and 7.
+
+**Where it was done.** The orders differ in this:
+
+- **Centrally.** In Saxony ordination was done at Wittenberg or Leipzig before the candidate
+  went to his parish.
+- **In the parish.** In Hesse, Lippe and many later orders it was done in the candidate's own
+  parish by the superintendent, joined with his installation (§11).
+
+### 10.1 Why the evangelicals ordained
+
+**The *Wittenberg Reformation* of 1545.** The first Wittenberg ordination was held in 1535.
+Ordination had belonged to the bishops, but they had "long persecuted the divine truth". It
+could not be sought from them while they required an oath to false doctrine. The *Wittenberg
+Reformation* of 1545 nevertheless kept the door open: if the bishops would accept right doctrine
+and appoint able examiners, "they could do much good". **Electoral Saxony, *Wittenbergische
+Reformation*, 1545** (Sehling 1, p. 211):
+
+<!-- doc 20 -->
+> so sind doch die regenten schuldig, ihre arbeit dazu zu thuen, dass man prediger und priester
+> haben möge, und dass die selbigen an gewissen örten von gelehrten gottfürchtigen leuten dazu
+> verordnet, verhöret, angenommen oder verworfen werden. Diese arbeit ist den bischofen befohlen
+> gewesen. Nu haben sie nu lange zeit die göttliche wahrheit verfolget, und lassen die kirchen
+> in ihren eignen gebieten ledig stehen, wüst und heidnisch werden. […] Denn wo sie verfolger
+> christlicher lehr bleiben, und nicht wollen ordiniren ohne verpflichtung zu falscher lehr und
+> zu verfolgung der wahrheit: so kann man die ordinatio bei ihnen nicht suchen.
+
+yet are the rulers bound to do their part thereto, that men may have preachers and priests, and
+that the same be ordained, examined, accepted or rejected at certain places by learned and
+God-fearing men. This work hath been committed to the bishops. Now they have for a long time
+persecuted the divine truth, and let the churches in their own territories stand empty and
+become waste and heathen. […] For where they remain persecutors of Christian doctrine, and will
+not ordain without an obligation to false doctrine and to the persecution of the truth,
+ordination cannot be sought from them.
+
+**Albertine Saxony 1557.** The Albertine general articles of 1557 fixed the places: "The
+ordination of priests shall be undertaken at Leipzig and Wittenberg, and be done and held in all
+wise as it hath been customary at those places from the time of the pure evangelical doctrine".
+The candidate was to be examined in doctrine, asked where he had studied and how he had lived,
+and made to preach publicly once or more (Sehling 1, p. 322).
+
+### 10.2 The Wittenberg form, 1537–1539
+
+**Sources.** Sehling prints Luther's *Forma der Ordination* of 1537 in what Rietschel held to be
+its oldest form. His apparatus gives Bugenhagen's expanded Wittenberg text of 1539 and the form
+Melanchthon gave to two Kulmbach preachers in 1538. After it comes the Latin form "used when
+foreigners come to seek ordination who do not understand German". Sehling's headnote traces the
+form into the Braunschweig-Wolfenbüttel order of 1543, Hildesheim, Mecklenburg 1552 and
+Sarcerius's Mansfeld *Ordinatien form* (Sehling 1, pp. 24–26).
+
+**The rite** is in seven parts:
+
+1. **Prayer before.** After the examination, the congregation is asked in the sermon to pray for
+   the ordinands and the whole ministry.
+2. **The hymn.** All kneel before the altar, the ordinator and the presbyters with the
+   ordinands, and the choir sings *Veni sancte spiritus* with the versicle *Cor mundum crea in
+   me, Deus* and the collect of the Holy Spirit.
+3. **The lessons.** The ordinator goes up the altar step and reads 1 Timothy 3:1–7 and Acts
+   20:28–31.
+4. **The charge and promise.** He addresses the ordinands: they are not set to keep "geese or
+   cows" but the church bought with God's blood, to feed it with the pure Word, guard it against
+   wolves and sects, and live honestly with their households. Then he asks "Seid ir nu solches
+   zu thun bereit?" ("Are ye now ready to do this?"). They answer "Ja".
+5. **The laying on of hands.** With the hands of the ordinator and all the presbyters on the
+   ordinands' heads, the Lord's Prayer is said aloud, then the prayer "Barmherziger gott,
+   himlischer vater … die ernte ist gros" ("Merciful God, heavenly Father … the harvest is
+   great").
+6. **The sending.** 1 Peter 5:2–4: "So gehet nu hin und weidet die herde Christi" ("Go ye now
+   therefore and feed the flock of Christ"). In Bugenhagen's text the ordinator then blesses
+   them with the sign of the cross: "Benedicat vobis dominus, ut faciatis fructum multum".
+7. ***Nu bitten wir den heiligen geist*** is sung, the Mass follows, and the newly ordained
+   commune first.
+
+The Latin form gives the charge, the question, the laying on of hands and the prayer in one
+continuous text. **Luther, *Forma ordinationis latina*, 1539** (Sehling 1, p. 28):
+
+<!-- doc 3 -->
+> Haec vos facturos esse pro virili, clara voce hic in publico promittite: Dicatis: promitto.
+> Imponite manus. Oremus coniunctis precibus. Pater noster qui es in coelis. […] Clementissime
+> deus, aeterne pater domini nostri Jesu Christi, qui per os dilecti filii tui, domini nostri,
+> Jesu Christi ad nos dixisti „Messis quidem copiosa, operarii vero pauci. Rogate ergo dominum
+> messis, ut ipse extrudat operarios in messem suam.“ Huic tuo mandato divino obsequentes toto
+> pectore oramus, ut hisce petentibus ab hac ecclesia confirmationem suae vocationis, et nobis,
+> et universis vocatis ad ministerium verbi tui, spiritum sanctum tuum benigne digneris largiri,
+> quo possimus esse magno numero consociati fideles et constantes ministri evangelii tui, muniti
+> et roborati ope tua et praesidio adversus diabolum, mundum et carnem, ut per nos quamvis
+> indignos et imbecilles, tamen sanctificetur nomen tuum, augeatur regnum tuum, et fiant aliqua
+> tibi grata et multis salutaria. […] Nunc igitur abeuntes iuxta praeceptum Petri apostoli,
+> pascite gregem Christi eum, qui vobis commissus est […] Benedicat vobis dominus, ut faciatis
+> fructum multum. Amen.
+
+That ye will do these things to the utmost of your power, promise here in public with a clear
+voice: Say, I promise. Lay on hands. Let us pray with joined prayers. Our Father, which art in
+heaven. […] Most merciful God, eternal Father of our Lord Jesus Christ, who by the mouth of thy
+beloved Son our Lord Jesus Christ hast said unto us, "The harvest truly is plenteous, but the
+labourers are few. Pray ye therefore the Lord of the harvest, that he send forth labourers into
+his harvest": obeying this thy divine command, we pray with our whole heart that thou wouldest
+vouchsafe graciously to bestow thy Holy Spirit upon these who seek from this church the
+confirmation of their calling, and upon us, and upon all that are called to the ministry of thy
+word, whereby we may be, joined in great number, faithful and steadfast ministers of thy gospel,
+fortified and strengthened by thy help and defence against the devil, the world and the flesh,
+that through us, though unworthy and weak, thy name may yet be hallowed, thy kingdom increased,
+and some things be done well-pleasing to thee and saving to many. […] Now therefore, going forth
+according to the precept of the apostle Peter, feed the flock of Christ which is committed to
+you […] The Lord bless you, that ye may bring forth much fruit. Amen.
+
+The ordinands are said to seek "the confirmation of their calling" from the church. The call
+comes first, through the congregation and magistrate. Ordination confirms it publicly with
+prayer.
+
+### 10.3 Ordination within the Mass: Merseburg 1545
+
+**The draft.** When Luther was at Merseburg in 1545, Prince Georg of Anhalt, administrator of
+the see in spiritual things, drafted the order for the first evangelical ordination there.
+Sehling summarizes it from the Zerbst manuscript:
+
+1. A sermon explaining ordination and the laying on of hands, and why the vesting and the
+   unction were dropped.
+2. A sung Latin Mass: *Veni sancte spiritus*, the introit *Benedicta sit sancta trinitas*, Kyrie
+   and Gloria.
+3. A German collect for the ordinands, and the epistle Ephesians 4:7.
+4. The *scrutinium*: questions on faith, on heresies, and on life and office.
+5. The Alleluia, the Gospel John 20, the Creed, and the *Veni creator* while ordinator and
+   ordinands kneel.
+6. 1 Timothy 3 and John 20 read.
+7. The commission of "the ministry of the word and the administration of the sacraments, the use
+   of the keys … and authority to ordain others".
+8. The laying on of hands by the ordinator and all the priests in turn, with Luther's prayer
+   *Barmherziger gott*.
+9. 1 Peter 5, and the blessing with the sign of the cross, received kneeling.
+10. The preface, Sanctus, Lord's Prayer and consecration "in the usual manner".
+11. The communion of the ordained, with *Ite in orbem* or *Jesus Christus unser heiland*.
+12. The *Te Deum*.
+
+**Merseburg, Georg of Anhalt's draft *Ordinations-Ordnung*, 1545, as summarized by Sehling**
+(Sehling 2, p. 7):
+
+<!-- doc 1210 -->
+> Ordinator liest text Thimo. 3. 1 und si placet spruch Johannes cap. 20. Und Jesus sprach zu
+> seinen Jüngern: Friede sei etc. „Hierauf befel der ordinator ministerium verbi et
+> administrationem sacramentorum, usurn clavium (etiam si placet) autoritatem alios ordinandi
+> expresse propter astantes.“ (Auflegung der Hände durch Ordinator und alle Priester der Reihe
+> nach.)
+
+The ordinator readeth the text 1 Timothy 3:1, and if it please, the saying John 20: And Jesus
+said unto his disciples, Peace be unto you, etc. "Hereupon let the ordinator commit the ministry
+of the word and the administration of the sacraments, the use of the keys (also, if it please)
+the authority to ordain others, expressly, for the sake of the bystanders." (Laying on of hands
+by the ordinator and all the priests in turn.)
+
+**Georg as bishop.** Sehling adds that Georg "had himself consecrated bishop on 2 August 1545,
+and thereafter performed the ordinations in person; in all he ordained 81 preachers"
+(Sehling 2, p. 8). This, with the ordination by Bugenhagen of Tilemann von Hussen as the first
+evangelical bishop of Schleswig in May 1542 (Sehling 23, p. 300), is the corpus's evidence for
+the consecration of evangelical bishops. The orders print no form for it.
+
+### 10.4 Regensburg 1553: the Spirit as the "true priestly ordination and unction"
+
+The Regensburg *Form der Ordination oder Priesterweihe*, probably by Nikolaus Gallus, opens with
+the *Veni sancte spiritus* and a defence of the right to ordain. The power of the keys, and with
+it the power to call and ordain ministers, belongs to the true church. Within the church, "for
+the sake of order", it is exercised by the ministers. The defence ends with a declaration of
+what ordination gives. **Regensburg, *Form der Ordination oder Priesterweihe*, 1553?**
+(Sehling 13, p. 429):
+
+<!-- doc 442 -->
+> Wir halten aber die ordination nach apostolischem brauch mit auflegung der hende der
+> priesterschaft und gemeinem gebet, glauben, das dardurch der Heilig Geist geben werde zum
+> ampt, das er durch dasselbig kreftig sein wolle, wie Christus spricht: Nemet hin den Heiligen
+> Geiste usw.; welcher geist die rechte priesterweihe und ölung ist, so gewisse zeugnus der
+> schrift hat und gegeben wird, Gotts word zu predigen und sacrament zu reichen, nit zu opfern
+> für die lebendigen und toten, davon die schrift nichts weis.
+
+But we hold ordination according to apostolic use with the laying on of the hands of the
+priesthood and common prayer, and believe that thereby the Holy Ghost is given unto the office,
+that he will be mighty through the same, as Christ saith: Receive ye the Holy Ghost, etc.; which
+Spirit is the true priestly ordination and unction, which hath sure witness of Scripture and is
+given to preach God's word and to administer the sacraments, not to offer for the living and the
+dead, whereof the Scripture knoweth nothing.
+
+The rest of the rite follows this order:
+
+1. **Prayer and lessons.** The Lord's Prayer, then 1 Timothy 3 and Acts 20 with a short
+   exposition.
+2. **The vow.** The ordinand vows "in place of an oath" to preach purely according to the
+   prophets, the apostles and the Augsburg Confession, to administer the sacraments as Christ
+   instituted them, and to adhere to no false doctrine: "Ich, N., gelobe hiemit offentlich fur
+   Gott und seiner gemeine, das ich solches alles treulich halten wil. So war mir Gott helfe"
+   ("I, N., vow hereby publicly before God and his congregation that I will faithfully keep all
+   this. So help me God").
+3. **The commission**, with the laying on of hands by all the ministers.
+4. **A prayer and the blessing** "Gehe hin und bringe viel frucht" ("Go and bring forth much
+   fruit").
+
+**Regensburg, *Form der Ordination oder Priesterweihe*, 1553?** (Sehling 13, pp. 430–431):
+
+<!-- doc 442 -->
+> Darnach legen alle diener die hende auf und wird ihm das ampt solcher weise befolen: So du
+> dann solchs angelobt hast und Christus seiner kirchen befolen, diener des worts zu senden,
+> gleich wie ihn der Vater und er seine lieben aposteln gesendet hat, so geben wir dir jezt
+> kraft desselben befels himit gewalt, zu predigen das evangelium und sacrament zu reichen, wie
+> er spricht: Leret sie halten alles, was ich euch befolen habe, im namen des Vaters und des
+> Sons und des Heiligen Geistes! Amen.
+
+Then all the ministers lay on their hands, and the office is committed to him in this wise:
+Forasmuch then as thou hast vowed this, and Christ hath commanded his church to send ministers
+of the word, even as the Father sent him and he his dear apostles, so we give thee now, by
+virtue of the same commandment, power hereby to preach the gospel and to administer the
+sacraments, as he saith: Teach them to observe all things whatsoever I have commanded you, in
+the name of the Father and of the Son and of the Holy Ghost. Amen.
+
+### 10.5 Ordination in the parish: Hesse 1574 and the Palatinate 1592
+
+**Hesse 1574.** The Hessian agenda of 1574 joins ordination to the first installation of a
+pastor in his own church. Two or three neighbouring pastors attend as witnesses. The rite runs:
+
+1. A sermon of half to three-quarters of an hour on the office of preacher and hearers.
+2. *Kom heiliger Geist*, the superintendent and pastors facing the people and the ordinand
+   facing the superintendent.
+3. An address on the vacancy and the lawful call.
+4. A long reading on the pastor's office: Matthew 28, Titus 1, 2 Timothy 3–4 and others.
+5. A list of the pastor's duties, and the ordinand's vow.
+6. The laying on of hands, kneeling at the altar, with the formula below.
+7. A prayer, and the commendation of the church to the new pastor and of the pastor to the
+   people.
+
+**Hesse, *Agende*, 1574** (Sehling 8, pp. 454–455):
+
+<!-- doc 2272 -->
+> Nach diesem gebet söllen dem ordinando, welcher für dem altar kniend bleibt, die hende
+> aufgelegt werden, und sofl der superintendens oder sein substitut also sagen: So ordene und
+> bestetige ich nun von wegen der kirchen Gottes euch auf euwere getane zusage zum ordentlichen
+> diener der kirchen und lehrer des heiligen evangelii, im namen Gottes des Vaters und des Sohns
+> und des heiligen Geistes. Amen.
+
+After this prayer hands shall be laid upon the ordinand, who remaineth kneeling before the
+altar, and the superintendent or his substitute shall say thus: So I now ordain and confirm you,
+on behalf of the church of God, upon your promise made, as an ordinary minister of the church
+and teacher of the holy gospel, in the name of God the Father and of the Son and of the Holy
+Ghost. Amen.
+
+Sehling's editor notes that these words are new against the Hessian tradition of 1539 and 1566
+(Sehling 8, p. 454, n. 55).
+
+**The Palatinate 1592.** The Reformed Palatinate used a *Heidelbergische forma ordinationis*. It
+read 1 Timothy 3 and 4 and Titus 1 and prayed for the Spirit. Then, with the laying on of hands,
+came a formula close to the Saxon investiture of 1580 (§11). **Kurpfalz, *Ordnung der
+Ordination*, 1592** (Sehling 19/2, p. 792):
+
+<!-- doc 1156 -->
+> Nachdem wir nun im namen Gottes versamlet, Gott, unsern himlischen vater, durch Jesum Christum
+> miteinander angerufen und gebeten und nicht zweifeln, daß er uns laut seiner göttlichen zusag
+> gnediglich erhört und gewehret habe, so ordne, confirmire und bestätige ich als ein
+> ordentlicher diener der gemein Gottes euch hiemit zum predigampt und jetzo zu eim diener und
+> seelsorger der christlichen gemein zu N. mit ernstlichem befelch, daß ihr der gemein Gottes
+> ohne ärgernus fleißig und treulich, wie ihr vor Gott schuldig, vorstehet, im namen des vaters
+> und des sohns und des heyligen geysts, Amen. Imponatur manus.
+
+Now since we are gathered in the name of God and have together called upon God our heavenly
+Father through Jesus Christ and prayed, and doubt not that he hath graciously heard and granted
+us according to his divine promise, I, as an ordinary minister of the congregation of God,
+ordain, confirm and establish you herewith to the office of preaching, and now to be a minister
+and pastor of the Christian congregation at N., with earnest charge that ye preside over the
+congregation of God without offence, diligently and faithfully, as ye are bound before God, in
+the name of the Father and of the Son and of the Holy Ghost. Amen. *Let the hand be laid on.*
+
+**Other forms.** Other orders with their own ordination forms include:
+
+- Pomerania's agenda of 1569, whose first chapter is "How priests shall be ordained in Christian
+  wise to the holy office of preaching" (Sehling 4, p. 421);
+- Marbach's Strasbourg order of 1553, where pastors and helpers are examined in the clergy
+  convent and then "confirmed and ordained with laying on of hands and prayer" before the whole
+  congregation on the following Sunday (Sehling 20/1, p. 424);
+- the Lippe order of 1571 (Sehling 21, p. 436);
+- the Schaumburg order of 1614, which follows "the reading, prayer and laying on of hands" of
+  Luther's form (Sehling 7/2.2, p. 140).
+
+---
+
+## 11. Installation of pastors, superintendents, abbots and bishops
+
+Ordination happened once, but every move to a new cure needed a public installation. The orders
+call it variously:
+
+- *Investitur* (investiture);
+- *Einweisung* (induction);
+- *Präsentation* (presentation);
+- *commendiren, einleiben und installiren* (commending, incorporating and installing).
+
+The superintendent, or a neighbouring pastor in his name, came with the patron's or prince's
+officer. He preached on the ministry, prayed over the new minister and commended the people to
+him and him to the people. Where the candidate was newly called, ordination and installation
+were often one act (§10.5). The same pattern served for superintendents and, in Württemberg, for
+the evangelical abbots of the monastery schools. For evangelical bishops the orders say only
+that they were ordained "with prayer and the laying on of hands", like other ministers.
+
+### 11.1 The Saxon investiture, 1580
+
+**The form and its spread.** The most widely used form was printed in the
+Braunschweig-Wolfenbüttel order of 1569 under the heading "In what wise a new minister of the
+church shall be commended, incorporated and installed by the superintendents in his church".
+Sehling's editors note it at Oldenburg 1573 (Sehling 7/2.1, p. 1127, n. 2). The same text stands
+in:
+
+- Lippe 1571 (Sehling 21, p. 438);
+- Pfalz-Neuburg 1576 (Sehling 13, p. 173);
+- Duke August's Saxon order of 1580, where it is joined to ordination (Sehling 1, p. 382).
+
+**The rite.** The superintendent or his adjunct comes "with the officer, the collator or the
+lord of the place, together with a neighbouring pastor as witnesses of the act". The rite then
+runs:
+
+1. *Nun bitten wir den heiligen geist* or *Kom heiliger geist*.
+2. A sermon on the ministry of the Word, urging the people to love God's Word and honour its
+   ministers.
+3. The Creed sung, during which the superintendent goes to the altar and has the new pastor or
+   deacon kneel.
+4. A short address on the lawful choice and call.
+5. A collect for the preservation of the ministry, John 20:21–23, 1 Timothy 3:1–7 and Acts
+   20:28–31.
+6. A second prayer, or Luther's ordination prayer "Barmherziger gott".
+7. The Lord's Prayer, said or sung.
+8. The laying on of the right hand on the bare head, with the formula below.
+9. The *Te Deum* or another hymn.
+
+**Saxony, *Ordnung* of Duke August, 1580** (Sehling 1, p. 383):
+
+<!-- doc 44 -->
+> Nach dem gebet oder gesang des vater unsers, sol sich der superintendens vor dem altar gegen
+> dem volk wenden, und wie (nach christlicher freiheit, so von dem herrn Christo der kirchen in
+> eusserlichen mittelmessigen ceremonien gegeben) gebreuchlich, sein rechte hand dem neuen
+> pfarrer oder diacon auf sein blos heubt legen, und also sagen. Dieweil wir im heiligen geist
+> versamlet, gott unsern himlischen vater durch Jesum Christum unsern herrn und heiland uber
+> dich angerufen und gebeten, und deshalben nicht zweifeln, er werde uns, laut seiner göttlichen
+> zusagung, gnediglich erhört und gewert haben, demnach so ordne, confirmire und bestetige ich
+> dich, aus göttlichem befehl und ordnung, zu einem diener und seelsorger dieser gemein, mit
+> ernstlichem befehl, das du solcher in warhaftiger furcht gottes ehrlich, ohn alle ergernis,
+> mit höchstem fleis und treuen vorstehen wollest, wie solches einem getreuen hirten der
+> schäflein Christi gebüret, und wie du vor dem gerichtstul unsers herrn Jesu Christi an jenem
+> tag, dem ernsten gerechten richter zur antwort derenthalben stehen, und seines urteils
+> gewarten must, im namen des vaters, und des sohns, und des heiligen geistes, amen.
+
+After the prayer or the singing of the Our Father, the superintendent shall turn before the
+altar toward the people, and, as is customary (according to the Christian liberty given by the
+Lord Christ to the church in outward, indifferent ceremonies), lay his right hand upon the bare
+head of the new pastor or deacon, and say thus: Forasmuch as we, gathered in the Holy Ghost,
+have called upon God our heavenly Father through Jesus Christ our Lord and Saviour over thee and
+prayed, and therefore doubt not that he will have graciously heard and granted us according to
+his divine promise: therefore I ordain, confirm and establish thee, by divine command and
+ordinance, to be a minister and pastor of this congregation, with earnest charge that thou
+preside over it in true fear of God honourably, without any offence, with the utmost diligence
+and faithfulness, as becometh a faithful shepherd of the sheep of Christ, and as thou must stand
+before the judgement seat of our Lord Jesus Christ on that day to answer therefor to the earnest
+and righteous Judge, and await his sentence: in the name of the Father, and of the Son, and of
+the Holy Ghost. Amen.
+
+**Where it was done.** In the Reuss lordships the newly ordained were "inducted, invested,
+presented and commended to the people" by the superintendent of each place (Sehling 2, p. 155).
+In Brandenburg the visitors recorded that a town's pastor, called by the council, had been
+"confirmed and solemnly invested by the superintendent" at the visitation (Sehling 3, p. 183).
+Baden in 1556 distinguished two cases (Sehling 16, p. 526):
+
+- a man new to the ministry was "installed by the superintendent before the whole congregation";
+- one already in the ministry was only "commended to the church with the ordinary prayer".
+
+### 11.2 Presentation in the Reformed Palatinate, 1592
+
+The Palatine *Forma praesentationis* of 1592 puts four questions to the new minister before the
+congregation, after the sermon and at the place of the Lord's Supper, with the officer present.
+**Kurpfalz, *Ordnung der Einführung der Kirchendiener*, 1592** (Sehling 19/2, p. 793):
+
+<!-- doc 1157 -->
+> Erstlich, ob er das zeugnus des heyligen geistes in seinem hertzen empfinde, das er solchen
+> hohen dienst nicht umb eigen nutzes oder ehr, sondern allein umb der ehrn Gottes und erbauung
+> seiner christlichen kirchen willen begeret? Zum andern, ob er entschlossen, ohn allen falsch
+> und heuchelei die prophetische und apostolische schriften als den einigen, unbeweglichen
+> grundt unser seeligkheit seinen anbevolhenen zuhörern mit höchstem vleis und treu offentlich
+> und insonderheit eines jeden notturft und gelegenheit zu verkündigen und zu ercleren? Zum
+> dritten, ob er auch die h. und hochwürdigen sacramenta unsers herren Jesu Christi nach
+> deßselben stiftung und einsatzung ohn allen menschligen tandt und zusatz raichen und ußthailen
+> wolle? […] Fürs vierdt, ob er durch Gottes gnadt für sich und die seinigen also leben und
+> wandeln wolle, das sich seine zuhörer an ihme nicht zu ergern, sonder zu bessern haben?
+
+First, whether he feeleth in his heart the witness of the Holy Ghost, that he desireth so high a
+service not for his own profit or honour, but only for the honour of God and the edification of
+his Christian church? Secondly, whether he be resolved, without all falsehood and hypocrisy, to
+proclaim and expound the prophetic and apostolic Scriptures, as the only immovable foundation of
+our salvation, to the hearers committed to him, with the utmost diligence and faithfulness,
+publicly and privately according to each one's need and occasion? Thirdly, whether he will also
+administer and dispense the holy and most worthy sacraments of our Lord Jesus Christ according
+to his institution and ordinance, without any human trifling and addition? […] Fourthly, whether
+he will, by God's grace, so live and walk for himself and his household that his hearers may
+have no offence in him, but be bettered?
+
+After his "express yes" to each, he is "presented to the church" with a prayer to Christ "who
+alone awakeneth, calleth and maketh fit such ministers". The same questions, adapted, were put
+to the lay elders at their installation (see
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §6.3).
+
+### 11.3 The evangelical abbots of Württemberg
+
+**An installation in place of an abbatial blessing.** Württemberg kept its great monasteries as
+schools for future ministers, with evangelical "prelates" as their abbots. An order of about
+1556 for "the presentation and investiture of new prelates" replaced the abbatial blessing with
+a civil oath and an evangelical installation:
+
+1. **The oath.** On the morning of the installation the new abbot's obligation is read to him by
+   the secretary of the church council. He takes the oath with three fingers of his right hand
+   laid in the Gospel of John.
+2. **In the church.** He is led to the abbot's stall. The schoolboys sing German psalms, the
+   Creed or the Lord's Prayer. The provost or a theologian preaches on the ministry and on the
+   true use of monasteries.
+3. **The investiture.** *Kom heiliger Geist* is sung. Before the altar the new prelate kneels
+   and is "invested or installed according to the agenda", which is the Württemberg order of
+   1553. The act ends with "a fine hymn or motet and the blessing".
+4. **The presentation.** He is then presented to the school, where the eldest preceptor gives a
+   Latin oration and the pupils give their handfast promise of obedience. Next he is presented
+   to the officials and household of the monastery, and to its subjects, who also give their
+   hands.
+5. **The meal.** A breakfast follows, to which the neighbouring pastors are invited.
+
+**Württemberg, *Investiturordnung für evangelische Prälaten*, after 1556**
+(Sehling 16, pp. 321–322):
+
+<!-- doc 679 -->
+> Würt ime sein Obligation oder Reverß, so vorhin inn gewohnlicher, gemeiner form begriffen unnd
+> uff Pergamen ingrossiert, durch den Kürchenraths Secretarium fürgeleßen unnd volgends ime
+> durch den Probst oder den Theologum, so inn ihren eines Abweßen zum actu verordnet, die Bibel
+> oder new Testament fürgehallten, darein er drey finger der rechten hanndt inn das Evangelium
+> Ioannis legt […] Wann nhun die Predig geendet, singet man: Khum hayliger Gaist, teutsch, unnd
+> geet der Probst oder verordnet Theologus für den Alltar, zu wölchem der Herr Landthoffmeister
+> unnd director oder ihren zwen usser den verordneten Commissariis den newen Prelaten füeren,
+> der vor dem alltar nider knüet unnd vermög deß agend Büchlins ordenlich investiert oder
+> installiert unnd endtlich mit einem schon gesanng oder muteten unnd dem Seegen beschlossen
+> würt.
+
+His obligation or bond, drawn up beforehand in the usual common form and engrossed on parchment,
+is read to him by the secretary of the church council, and thereafter the Bible or New Testament
+is held before him by the provost or the theologian appointed to the act in his absence, into
+which he layeth three fingers of his right hand in the Gospel of John […] When now the sermon is
+ended, *Kum heiliger Geist* is sung in German, and the provost or the appointed theologian goeth
+before the altar, to which the Lord Steward and the director, or two of the appointed
+commissioners, lead the new prelate, who kneeleth down before the altar and is duly invested or
+installed according to the agenda, and it is concluded at last with a fine hymn or motet and the
+blessing.
+
+### 11.4 Bishops and superintendents
+
+**No consecration rite.** No order in the corpus prints a rite for consecrating a bishop. The
+evangelical bishops of Schleswig, Samland and Pomesania, and Merseburg under Georg of Anhalt,
+were ordained like other ministers.
+
+**Schleswig-Holstein 1542.** The Schleswig-Holstein order of 1542 makes the ceremonies for
+bishop and presbyter the same: prayer from the pulpit, a lesson, and prayer with the laying on
+of hands. The first evangelical bishop, Tilemann von Hussen, was ordained in Schleswig cathedral
+by Bugenhagen in May 1542 (Sehling 23, pp. 120, 300). **Schleswig-Holstein, *Kirchenordnung*,
+1542** (Sehling 23, p. 120):
+
+<!-- doc 1576 -->
+> Wen he Visitert, mach he erwelde unde tho eme geschickede Prester ordineren, wor he wil; süs
+> anders schal he ordineren tho Slesewick yn syner Kercken. Wo averst unde mit welcken
+> Ceremonien de ordinatio Episcopi et Presbytery schal thoghan, Nömlick mit vorghandem bede vam
+> Predigstole, mit Lection uth der Hilligen Schrifft, mit bede unde uplegginge der hende, Alse
+> de hilligen Apostel hebben gedan, Dat alle schal yn ein sonderlick Bock werden gestellet.
+
+When he visiteth, he may ordain priests that are chosen and sent to him, wherever he will;
+otherwise he shall ordain at Schleswig in his church. But how and with what ceremonies the
+*ordinatio Episcopi et Presbyterii* shall be done, namely with prayer going before from the
+pulpit, with a lesson out of the Holy Scripture, with prayer and laying on of hands, as the holy
+apostles have done, all this shall be set in a special book.
+
+**Prussia 1568.** The Prussian order of 1568 regulated the election of the bishops of Samland
+and Pomesania. They were to be chosen "with the good counsel of the bishop then living, of all
+the princely court and land councillors", with eight deputies of the nobility and eight of the
+towns and other learned ministers. It confirmed their "spiritual government and full
+jurisdiction" (Sehling 4, p. 107).
+
+**Superintendents.** The orders give no separate liturgy for installing a superintendent beyond
+the investiture of §11.1. Sehling's introductions record such installations only as events:
+Jacob Runge, for instance, "was installed into the office of general superintendent of
+Pomerania-Wolgast" on 7 March 1557 (Sehling 4, p. 323).
+
+---
+
+## 12. Minor orders, lay offices and church workers
+
+### 12.1 The minor orders and the lay offices of the congregation
+
+**No conferral of minor orders.** The evangelical orders did not confer the minor orders
+(porter, lector, exorcist, acolyte) or the subdiaconate. Their functions passed to sextons,
+schoolmasters, schoolboys and the deacons of the poor. The full evidence, with the installation
+of each office, is set out in
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §§3 and 7. In
+brief:
+
+- **Laying on of hands** was used, besides ministers of the Word, only:
+  - for deacons of the poor in Hesse 1566 and the London strangers' church;
+  - for lay elders in Hesse 1566, the London church and the Palatinate (1592);
+  - for the Bohemian Brethren's clerical deacons.
+- **Prayer, a handfast vow or an oath** installed:
+  - Reformed elders elsewhere (Kurpfalz about 1601, Hanau 1609, Veldenz, Solms);
+  - Lutheran deacons of the poor in Pomerania;
+  - churchwardens.
+- **Nothing** is described for the Bohemian acolytes, Lutheran almoners and most churchwardens
+  beyond appointment.
+
+**The Palatine elders, 1592.** The Palatine form of 1592 for installing the elders "who labour
+not in the word" is a short rite after the sermon:
+
+1. The minister reports their election from the pulpit.
+2. Three questions are put to them: whether they feel the Spirit's witness, whether they believe
+   the Scriptures contain all things necessary, and whether they will support the ministers and
+   submit to correction.
+3. A prayer and the Lord's Prayer.
+4. The laying on of hands by "the other ministers and by the minister of the word", with a
+   blessing.
+5. An exhortation to the congregation and to the elders, and a psalm.
+
+**Kurpfalz, *Einführung der Senioren*, 9 December 1592** (Sehling 19/2, pp. 789–790):
+
+<!-- doc 1155 -->
+> Darnach werden ihnen die händt aufgelegt von den andern dienern und vom diener des worts,
+> welcher spricht mit heller stim also: Gott und unser himlischer vater, der euch mit uns zu dem
+> regiment diser seiner gemeindt (nach der lehr seines worts) berufen und ausgesondert hat, der
+> erleuchte euch auch durch seinen heiligen geist und stercke euch mit der kraft seiner
+> unuberwindtlicher handt, das ihr euern dihnst treulich und bestendig volnfuhren moget zu ehren
+> seines namens und erbauung seiner gemeindt, Amen.
+
+Thereafter hands are laid upon them by the other ministers and by the minister of the word, who
+saith with a clear voice thus: God our heavenly Father, who hath called and set you apart with
+us to the government of this his congregation (according to the doctrine of his word), enlighten
+you also by his Holy Spirit and strengthen you with the power of his invincible hand, that ye
+may fulfil your service faithfully and steadfastly to the honour of his name and the edification
+of his congregation. Amen.
+
+### 12.2 Sextons
+
+The sexton (*Küster*, *Opfermann*, *Mesner*, *Sigrist*, *Glöckner*) was chosen with the pastor's
+and the officer's knowledge and examined in reading, writing, singing and the catechism. He then
+bound himself to the pastor and parish by a pledge rather than with a rite. The Lippe order of
+1571 gives the pledge in full:
+
+- reverence and obedience to the pastor;
+- an honest life "as an example to the flock";
+- learning and leading the hymns of the feasts;
+- opening and locking the church;
+- keeping the font filled with clean water;
+- keeping church, ornaments and churchyard clean.
+
+It adds a warning against sextons who still dealt in "godless devil's blessings or charms" or
+wrote out "St John's Gospel" as an amulet. **Lippe, *Kirchenordnung*, 1571**
+(Sehling 21, p. 447):
+
+<!-- doc 1462 -->
+> Nach solcher Exploration oder erkündigung soll sich der angenommen Küster dem Pastor unnd
+> Pfarleuten obligirn oder verpflichten in massen, wie volgt: Das er gegen seinem Pastor in
+> allen Christlichen und seinem Ampt zugehörigen diensten ohn unlust, murren oder verzug sich
+> willig und bereit finden lasse, Item Im billiche Reverentz und Ehrerbietung erzeigen und
+> beweisen wolle, Auch ein zuchtig, Erbarlich und eingezogen Leben und wandel mit dem Pastor als
+> ein Exemplar gregis füren, Deßgleichen, das er auch die schöne Geistliche Lieder und heilsame,
+> nützliche Psalm von den Fürnembsten Festen und Feyrtagen fleissig lerne und mit rechter
+> andacht dem Volcke vorsinge […] Hierneben sol auch der Küster zu rechter, gewönlicher zeit die
+> Kirchen auff- und zuschliessen, den Tauffstein offt mit reinem, frischem Wasser füllen, die
+> Kirchen und derselbigen Ornamenta, auch Kirchhöfe, seuberlich, reinlich und, wie es sich
+> eigent und gebüret, zierlich halten und verwaren.
+
+After such exploration or inquiry the sexton that is accepted shall oblige or bind himself to
+the pastor and parishioners in manner as followeth: that he be found willing and ready toward
+his pastor in all Christian services belonging to his office, without displeasure, murmuring or
+delay; item, that he will show and prove to him due reverence and respect; also lead a modest,
+honourable and retired life and conversation with the pastor, as an example to the flock;
+likewise, that he also diligently learn the fine spiritual songs and wholesome, profitable
+psalms of the chief feasts and holy days, and sing them before the people with right devotion
+[…] Besides this, the sexton shall also open and lock the church at the right and customary
+time, often fill the font with clean, fresh water, and keep and preserve the church and its
+ornaments, and the churchyards also, cleanly, neatly and, as is meet and fitting, seemly.
+
+### 12.3 Schoolmasters, cantors and organists
+
+**The schoolmaster's oath.** Schoolmasters, who with their pupils sang the services, were sworn
+to the council that employed them. Mulhouse's oath of 1551 binds the schoolmaster and his
+assistant to loyalty to the burgomaster and council, to diligent teaching of their lessons and
+the catechism, and to a good example. **Mulhouse, *Eid des Schulmeisters*, 1551**
+(Sehling 20/2, p. 251):
+
+<!-- doc 1390 -->
+> Ein schulmeyster unnd sein provisor sollendt schweeren, burgermeyster und rath der statt
+> Mülhusenn, alls irenn herren und obern, jederzyt getreüw, holdt, gehorsam, dienstlich unnd
+> gewertig zusein aller billicher, zimlicher, gerechter dingen […] ires ampts unnd der schulenn
+> zu angesetzter unnd bestimbter zeytt emsigklich zuwarten, uf ir undergebne jungenn ein treüw,
+> flyßigs ufsehenn zuhabenn, ire geordnette lectiones unnd den cathechißmum mit verhörungen der
+> kinder, ordenlichenn und wie sich jederzeytt geburt, hallten
+
+A schoolmaster and his assistant shall swear to the burgomaster and council of the town of
+Mulhouse, as their lords and superiors, at all times to be faithful, loyal, obedient,
+serviceable and ready in all fit, seemly and just things […] diligently to attend to their
+office and the school at the appointed and fixed time, to have a faithful and diligent oversight
+of the youths committed to them, and to hold their appointed lessons and the catechism, with the
+hearing of the children, in order and as is fitting at all times
+
+Cantors and organists appear in the orders mainly through their pay, their duties at service and
+funeral, and their fees for the *Brautmesse*. Sehling notes an organist's oath at Öhringen among
+the Hohenlohe oaths (Sehling 15, p. 560). No rite of installation is printed for them.
+
+### 12.4 Churchwardens and stewards
+
+**Leisnig 1529.** Churchwardens (*Kirchväter*, *Kirchenpfleger*, *Kastenherren*) were elected
+yearly and sworn. In Leisnig the Saxon visitors of 1529 had two "upright, able, pious men"
+chosen each year on the Sunday before Michaelmas, by the officer, the pastor, the council and
+eight deputies of the parish. They were sworn, took over the registers, deeds, stores, cash and
+keys from the old wardens on Michaelmas Day, and rendered a yearly account. **Leisnig,
+*Verordnung der Visitatoren für das Amt Leisnig*, 1529** (Sehling 1, p. 609):
+
+<!-- doc 104 -->
+> also das alle jar jerlich uf den nechsten suntag fur S. Michels tag durch den ambtman,
+> pfarrer, regirenden rath und die acht personen dem ausschuss, so das gemein kirchspil unter
+> sich zu machen haben, sollen zwene ufrichtige geschickte, frome menner aus den inwonern der
+> stadt zu kirchvetern erwelet, und zu nodturft desselben ambts voreidet. Auf den tag S. Michels
+> sollen alweg die alden kirchveter den nau vorordenten uberantwurten und anweisen alle
+> erbregister, vorschreibung, urkunden, forrat, barschaft
+
+so that every year, on the next Sunday before St Michael's Day, by the officer, the pastor, the
+council in office and the eight persons of the committee which the common parish hath to make
+among itself, two upright, able, pious men from among the inhabitants of the town shall be
+elected churchwardens and sworn as the need of that office requireth. On St Michael's Day the
+old churchwardens shall always deliver and show over to the newly appointed ones all registers
+of inheritance, bonds, deeds, stores, cash
+
+**Prussia 1575 and the Palatinate 1577.** In Prussia in 1575 the churchwardens were "chosen with
+the pastor's counsel and sworn and confirmed by the patrons" (Sehling 4, p. 153). The stewards
+of the church's property in the Palatinate (*Kirchenschaffner*) swore an oath of fidelity to the
+Elector and to Duke Johann Casimir in 1577 (Sehling 19/2, p. 749).
+
+### 12.5 Midwives
+
+**Lüneburg 1564.** The midwife was in law a minister of baptism (§3.7). Many orders therefore
+had her chosen with the pastor and sworn. Lüneburg in 1564 ordered midwives to be appointed in
+every district by the officers, the pastor and the church jurors "with the counsel of
+understanding women". They were bound to use "no idolatry" at the birth but to seek help from
+God by prayer, and to serve the poor as faithfully as the rich. The pastors were to instruct
+them in emergency baptism, publicly and privately. **Lüneburg, *Kirchenordnung*, 1564**
+(Sehling 6/1, pp. 557–558):
+
+<!-- doc 2005 -->
+> so wollen wir erstlich, das von allen ampten jedes orts sampt dem pastor und den kirchschworen
+> mit radt verstendiger frauen allenthalben hebammen verordnet werden sollen, so gottfürchtig,
+> fleissig, treu, düchtig sein und bey jederman ein gut gerücht haben. […] Es sollen auch solche
+> verordente hebammen sich verpflichten, in der not bey den frauen keine abgötterey zu
+> gebrauchen, wie oftermals gespüret, sondern allenthalben alleine bey Gott durchs christliche
+> gebet hülf zu suchen und verordente christliche mittel zu gebrauchen, desgleichen auch
+> verpflichtet sein, bey den armen so fleissig, willig und getreu zu sein als bey den reichen
+
+so we will firstly that by all the offices of every place, together with the pastor and the
+church jurors, with the counsel of understanding women, midwives be appointed everywhere who are
+God-fearing, diligent, faithful, able, and have a good name with every one. […] Such appointed
+midwives shall also bind themselves to use no idolatry with the women in their need, as hath
+often been found, but everywhere to seek help from God alone by Christian prayer and to use the
+appointed Christian means; likewise also be bound to be as diligent, willing and faithful with
+the poor as with the rich
+
+The Ansbach theologians' agreement of 1556 required midwives to be "examined and instructed by
+the pastors", that they baptize no child unless it be wholly born (Sehling 11, p. 336). At
+Sangerhausen in 1540 the visitors had the midwives "sworn to the council" (Sehling 1, p. 656).
+
+---
+
+## 13. Magistrates and civil offices
+
+**No rite in the orders.** The church orders contain no rite for installing a magistrate,
+swearing in a council or crowning a prince. These acts belonged to the civil constitution of
+each town and territory, and their oaths and ceremonies are not printed by Sehling. What the
+orders do contain falls into three groups.
+
+### 13.1 The council-election sermon
+
+**Schwäbisch Hall.** Some cities joined the yearly change of council to a sermon on the office
+of the magistrate. Schwäbisch Hall's order (1543, as revised in 1615) appoints a "special sermon
+on the office of the magistrate (called the election or council sermon)" every year in St
+Michael's on the Sunday before St Mary Magdalene. It gives the texts for it. **Schwäbisch Hall,
+*Kirchenordnung*, 1543/1615** (Sehling 17/1, p. 165):
+
+<!-- doc 762 -->
+> Es soll auch Jährlich am Sontag vor Mariae Magdalenae in der Kirchen zu S. Michel ein
+> sonderliche Predigt vom Ampt der Obrigkeit (die Wahl- oder Raths Predigt genannt) gehalten
+> werden, darbey dann auch die Unterthanen Ihres Ampts zuerinnern, darzu seind sonderliche
+> dienstliche Text Exodi 18; Deut. 16; 2. Par. 19; Rom. 13; Tit. 3; 1. Petri 2 etc.
+
+There shall also be held yearly on the Sunday before St Mary Magdalene in the church of St
+Michael a special sermon on the office of the magistrate (called the election or council
+sermon), whereat the subjects also are to be reminded of their office; thereto are especially
+serviceable the texts Exodus 18; Deuteronomy 16; 2 Chronicles 19; Romans 13; Titus 3; 1 Peter 2,
+etc.
+
+**Memmingen and Konstanz.** Memmingen in 1532 had half the churchwardens step down "every year
+at the new council" (Sehling 12, p. 252). At Konstanz the yearly council election also chose the
+spokesmen who sat on the city's disciplinary court (Sehling 17, p. 386, editor's note).
+
+### 13.2 Prayer for the magistrate
+
+The standing intercession for "the emperor, princes and lords, and all magistrates" in the
+general prayer of every service was the church's ordinary act toward the civil power. The forms
+are collected in [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md).
+
+### 13.3 Oaths of homage
+
+**Homage oaths.** When a new prince succeeded, all subjects owed him the oath of homage
+(*Erbhuldigung*), clergy included. The orders mention this only where the clergy's position was
+in question:
+
+- **Württemberg, about 1563.** The Württemberg instruction for the evangelical prelates printed
+  the homage oath they swore to the duke as protector of their monasteries (Sehling 16, p. 441).
+- **The Palatinate, 1585.** In 1585 the administrator Johann Casimir ordered the officers to
+  take all ministers and schoolmasters "into the obligation of homage". He gave as the reason
+  that in the Palatinate "even the meanest peasant" did not go without "the customary homage of
+  the land" (Sehling 19/2, p. 756).
+- **The Palatinate, 1601.** In 1601 the Elector reminded the clergy of the Upper Palatinate that
+  in "political and civil matters" they stood under his officers like other subjects
+  (Sehling 14, p. 590).
+
+---
+
+## 14. Dedication of churches and the *Kirchweih*
+
+**No consecration rite.** No evangelical order in Sehling contains a rite for consecrating a
+church, an altar or a churchyard. The bishop's consecration had been one of the episcopal acts
+that the Reformation lost along with the bishops (§10). The orders treat it in two ways: as a
+superstition to be abolished, and, in one case, as an anniversary to be kept with a sermon on
+the history of the building. The annual *Kirchweih* (also called *Kirchmesse*, *Kirmes* or
+*Kirbe*), the dedication festival with its fair, feasting and dancing, was handled as a matter
+of police: it was restricted, moved off Sunday or forbidden.
+
+### 14.1 Dedication rejected
+
+**Homberg 1526.** The Homberg synod forbade the churches to keep dedications at all. There is no
+stone temple in the church after Christ; the faithful themselves are the living temples. Each
+believer is to keep the "consecration of the church" in his heart, by thanksgiving for his
+calling. **Hesse, *Reformatio ecclesiarum Hassiae* (Homberg), 1526** (Sehling 8, p. 50):
+
+<!-- doc 2249 -->
+> Interdicimus universis ecclesiis nostris in virtute Christi ne ultra dedicationes celebrent,
+> quod non conveniant verbo Domini […] Denique post Christum nullum proprie lapideum templum est
+> in Dei ecclesia, sed soli fideles et ipsa ecclesia sunt viva Dei templa. […] Iam si nullum est
+> templum, profecto illorum dedicatio non est celebranda. Celebret quisque fidelium in corde suo
+> ecclesiae consecrationem, qua sanctius potest, quod toties facit, quoties laetus in Domino de
+> sua et omnium fidelium vocatione gratias agit
+
+We forbid all our churches, in the power of Christ, to celebrate dedications any longer, because
+they agree not with the word of the Lord […] Finally, after Christ there is in the church of God
+no temple of stone, properly so called, but the faithful alone and the church itself are the
+living temples of God. […] Now if there be no temple, then truly the dedication thereof is not
+to be celebrated. Let every one of the faithful celebrate in his own heart the consecration of
+the church, as holily as he can; which he doth as often as, rejoicing in the Lord, he giveth
+thanks for his own calling and that of all the faithful.
+
+**Halberstadt 1588.** The Halberstadt visitation instruction of 1588 made the point within the
+general rule on ceremonies. Indifferent things (vestments, candles on the altar, Latin or German
+singing) were to stay as each church had them. But "offensive, superstitious ceremonies, even if
+they were old", were to be abolished. Among them it names the church dedication and the blessing
+of the font. **Halberstadt, *Instruktion für die Visitation*, 8 August 1588**
+(Sehling 2, p. 470):
+
+<!-- doc 1259 -->
+> aber ergerliche abergleubische ceremonien, ob die wol alt weren, soll man abschaffen, als
+> abgöttische bilder, da etwa ein cultus würde angewant, sacrament haus und monstranz, elevatio,
+> adoratio, kirchweihe, taufweihe und dergleichen.
+
+but offensive, superstitious ceremonies, though they were old, shall be abolished: as idolatrous
+images, where any worship be paid them, the sacrament-house and monstrance, the elevation, the
+adoration, church-hallowing, font-hallowing and the like.
+
+**Churchyards.** The same reasoning applied to churchyards. The Schwäbisch Hall order, in its
+funeral sermon, explains that the churchyard is kept honourable and holy for the dead who lie in
+it, not for any consecration of the ground. **Schwäbisch Hall, *Kirchenordnung*, 1543/1615**
+(Sehling 17/1, p. 175):
+
+<!-- doc 763 -->
+> Daß aber die Kirchhöff Ehrlich und Heylig sollen gehalten werden, das ist nit dem Orth selbst
+> und seiner Einweyhung, wie die Widersacher fürgeben, zuzumessen, Sondern geschicht wegen der
+> verstorbenen Leichnam, so darinnen ligen […] Dann nit der Orth den Todten, sondern der Todte
+> den Orth heylig machet.
+
+But that the churchyards should be kept honourable and holy, that is not to be ascribed to the
+place itself and its hallowing, as the adversaries pretend, but is done because of the bodies of
+the dead that lie therein […] For the place maketh not the dead holy, but the dead maketh the
+place holy.
+
+### 14.2 Opening a new church or churchyard
+
+**A sermon in place of a rite.** Where a new church or burial ground was brought into use, the
+orders give no form. The evidence points to a sermon in place of a consecration:
+
+- **Hohenlohe, 1562.** Johann Hofmann preached a "sermon on the right consecration of a
+  churchyard and its church" at the opening of a new cemetery and its church on 16 July 1562. It
+  was printed with his funeral sermons in 1599 (Sehling 15, p. 243, editor's note).
+- **Henneberg, 1635.** The Henneberg consistory reported in 1635 that "when a new church or
+  pulpit is built, the dedication is done by the special superintendent" (Sehling 2, p. 326).
+  This report falls outside the period, and no form is given.
+
+### 14.3 The anniversary kept: Hof 1592
+
+**Hof 1592.** The one evangelical dedication festival described in detail is that of St
+Michael's at Hof in the margraviate of Kulmbach. The church was rebuilt and "dedicated" on the
+eighth Sunday after Trinity, 27 July 1572, in the presence of the captain, the superintendent
+Andreas Pangratius and the clergy and schoolmasters. Pangratius ordered that the day be kept
+every year. The order of 1592 describes the festival:
+
+- **The procession.** The clergy, council and whole town gathered at the Franciscan church after
+  the second peal. They went in procession with the schoolboys, crowned with wreaths, and the
+  schoolgirls to St Michael's. They sang *Sei Lob und Ehr mit hohem Preis*, *Erhalt uns, Herr,
+  bei deinem Wort* and *Laetatus sum*. The lane was strewn with grass and set with May-boughs.
+- **The sermon.** The superintendent, in alternate years, either recited the history of the
+  building at length or summarized it and then expounded the Sunday Gospel.
+
+**Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 467):
+
+<!-- doc 294 -->
+> Solches alles geschicht der ursach halben, das anno Christi 1572, demnach die schöne
+> pfarrkirchen ad d[ivum] Michaelem ganz und gar ausgebauet und in diese form, so sie izt hat,
+> gebracht, die dedication oder bezihung derselben uf diesen achten sontag Trinitatis, welcher
+> damals war der 27. Julii, ist furgenommen und christlich verrichtet worden […] Damit aber
+> solche dedicatio in frischer gedechtnus erhalten und die ursach derselben den leuten zu
+> gewieser zeit eingebildet werde, so ist löblich und wol vom ehrengedachten herren m.Andreas
+> Pangratio angeordnet und seinen herren succesoren hinderlassen, daß sie jerlich begangen und
+> solemniter celebrirt werden soll.
+
+All this is done for this cause: that in the year of Christ 1572, after the fair parish church
+of St Michael had been wholly built out and brought into the form it now hath, the dedication or
+entering thereof was undertaken and performed in Christian wise upon this eighth Sunday after
+Trinity, which was then the 27th of July […] But that such dedication may be kept in fresh
+remembrance, and the cause thereof be impressed upon the people at a set time, it was laudably
+and well ordained by the aforesaid Master Andreas Pangratius, and left to his successors, that
+it should be kept yearly and solemnly celebrated.
+
+**The propers.** The order then gives the music of the *Officium dedicationis templi*. It keeps
+the texts of the old Mass of a church's dedication in polyphonic settings:
+
+- **Introit:** *Terribilis est locus iste*, followed by a Mass of Georg Forster.
+- **After the epistle:** *Verba mea auribus percipe* (Lassus).
+- **After the Gospel:** *Levavi oculos meos* (Lassus).
+- **In place of *Nun bitten wir*:** *Benedic, Domine, domum istam* (Johannes de Hollande).
+- **At Vespers:** the antiphon *In domum Domini ibimus*, Psalm 116 (*Dilexi*), the responsory
+  *Si bona suscepimus*, the hymn *O lux beata*, and *Erhalt uns, Herr, bei deinem Wort* in place
+  of the Magnificat (Sehling 11, p. 468).
+
+**Regensburg, about 1567.** Regensburg kept a comparable anniversary. On the Sunday after 15
+October the choir sang figural music "on account of the dedication of the temple". That day
+marked the beginning, in 1542, of evangelical preaching and the Lord's Supper in the church
+(Sehling 13, p. 475). There was no consecration; the festival commemorated the Reformation of
+the church.
+
+### 14.4 The *Kirchweih* festival
+
+**A police matter.** The popular *Kirchweih* survived the abolition of the rite. Most orders
+handled it only as a problem of police: the feasting, drinking and dancing, and the fairs that
+kept people from the Sunday sermon. Three degrees of severity appear:
+
+| Treatment | Examples |
+|---|---|
+| Moved off Sunday or kept behind the sermon | Mecklenburg 1552: no *Kirchmessen* or fairs on Sunday (Sehling 5, p. 220); Hesse 1571: the Landgraves' instruction proposed Monday (Sehling 8, p. 359, editor's note); archbishopric of Bremen (Vörde) 1577: no booths opened until sermon and service were over (Sehling 7/1, p. 24) |
+| Tolerated with limits | Saxony 1580: one day of dancing at each village *Kirmes*, by daylight (Sehling 1, p. 442); Nassau-Weilburg 1609: dancing at customary *Kirmes* and fairs once or twice a year, for an hour or three (Sehling 10, p. 339) |
+| Abolished outright | Baden 1548 and 1564 (Sehling 16, pp. 518, 537); Waldeck 1583; Hohenlohe 1586 (Sehling 15, p. 521), with Schwäbisch Hall the same year (Sehling 15, p. 587, editor's note); a Palatine police ordinance (Sehling 14, p. 66, editor's note); Solms 1582 and 1594 (Sehling 9, pp. 325, 337). Hohenlohe in 1579 forbade the clergy to go to one another's *Kirchweih* (Sehling 15, p. 380) |
+
+**Waldeck 1583.** Waldeck's mandate of 1583 is typical. The festivals "derive from the papacy"
+and breed "all wantonness and levity". They had already been abolished in the neighbouring
+electorates, principalities and counties, and the pastors were to announce the abolition from
+the pulpit on two Sundays. **Waldeck, *Mandat zur Abschaffung der Kirchweihfeste*, 8 August
+1583** (Sehling 9, p. 299):
+
+<!-- doc 2301 -->
+> Nachdem wir uß relation unserer kirchenvisitatorn berichtet, daß uff den kirmessen, welche uß
+> dem bapsthumb herruren undt von unsern underthanen biß noch behaltten werden, alle uppigkeitt
+> undt leichtfertigkeitt zuwidder Gottes heiliges wortt undt gebotten getrieben, gehegt undt
+> furtgesetzt werden […] undt wir derowegen solche kermisse, die vorlengst in unsern
+> benachpartten chur- undt furstenthumben graff- undt herschafften abgeschafft, auch nitt lenger
+> undter unsern underthanen zu dulden undt zu gestatten wissen
+
+Whereas we are informed by the report of our church visitors that at the church-ales, which come
+from the papacy and are kept by our subjects until now, all wantonness and levity is practised,
+cherished and carried on contrary to God's holy word and commandments […] and we therefore know
+not to suffer and permit any longer among our subjects such church-ales, which have long since
+been abolished in our neighbouring electorates and principalities, counties and lordships
+
+**Danzig 1612.** In 1612 Danzig noted in its list of the sexton's fees that the church's
+dedication festival, with three feasts of Mary, was "now no longer held for a great feast, nor
+kept" (Sehling 4, p. 206). Mulhouse in 1524 had already struck the dedication feast of Basel
+minster from its calendar (Sehling 20, p. 163, editor's note).
+
+---
+
+## 15. Blessings of objects and their abolition
+
+**The medieval blessings.** The late medieval church year carried a cycle of blessings of
+things:
+
+- holy water and salt every Sunday, with the sprinkling (*Asperges*);
+- candles at Candlemas;
+- ashes on Ash Wednesday and palms on Palm Sunday;
+- the new fire, the paschal candle and the font on Holy Saturday;
+- the Easter basket (*Fladen*, eggs, meat) on Easter Day;
+- herbs at the Assumption;
+- St John's wine (*Johannisminne*) on 27 December;
+- bells "baptized" against storms.
+
+The chrism and holy oils were consecrated by the bishop on Maundy Thursday.
+
+**Uniform abolition.** No evangelical order kept any of these blessings. They are abolished in
+almost the same words from the Pomesanian bishop's articles of 1524 to the end of the century.
+The grounds are always the same three:
+
+- the creatures are already sanctified by God's word at creation and by thanksgiving (1 Timothy
+  4:4–5);
+- there is no command or promise of God for the blessing;
+- the blessed things had become means of "superstition and sorcery".
+
+What survived were the bare actions where they served preaching or prayer: the Sunday procession
+without water, bell-ringing as a call to prayer, the chrism at baptism in two orders. The wreath
+survived as a civil sign of honour, not a blessed object.
+
+### 15.1 The lists of abolished blessings
+
+**Pomesania 1524.** The earliest list is in the articles which Erhard von Queiss, bishop of
+Pomesania, published at the end of 1524. **Pomesania, *Themata episcopi Risenburgensis*, 1524**
+(Sehling 4, p. 29):
+
+<!-- doc 1831 -->
+> Es soll forthin kein wasser, salz, asche, palmen, lichte, kräuter und dergleichen geweihet
+> werden; denn das ist alles menschentandt und ist nirgends zu nütze.
+
+Henceforth no water, salt, ashes, palms, candles, herbs and the like shall be hallowed; for it
+is all men's toys and profiteth nowhere.
+
+**Pfalz-Neuburg 1543.** The fullest list is in the Pfalz-Neuburg order of 1543, which follows
+Brandenburg-Nürnberg 1533 (Sehling 11, p. 203). It goes through the year feast by feast.
+**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, pp. 96–97):
+
+<!-- doc 386 -->
+> Man sol auch nicht mer weihen oder segnen weihwasser und salz, wie alle sonntag beschehen,
+> noch wachs zu Lichtmeß noch aeschen am Aschermitwoch noch palmen am palmtag noch osterstock
+> noch tauf noch feur am osterabent noch fladen, eier, fleisch am Ostertag noch wurz oder
+> kreüter Assumptionis Mariae noch wein an S. Johannis des evangelisten; dann solche segen sein
+> dem wort Gottis alle ungemeß und zuwider, zum teil auch abgöttisch und dienen mer zu
+> abeglauben dann zur gotseligkeit
+
+Neither shall men any more hallow or bless holy water and salt, as was done every Sunday, nor
+wax at Candlemas, nor ashes on Ash Wednesday, nor palms on Palm Sunday, nor the Easter candle,
+nor the font, nor fire on Easter Eve, nor cakes, eggs, flesh on Easter Day, nor roots or herbs
+at the Assumption of Mary, nor wine on the day of St John the Evangelist; for such blessings are
+all unagreeable and contrary to the word of God, in part also idolatrous, and serve more to
+superstition than to godliness.
+
+**The reasons.** Nassau-Dillenburg's order of 1537 sets out the reasons at length. Pastors are
+not merely to stop blessing but to teach the people why. **Nassau-Dillenburg, *Kirchenordnung*,
+1537** (Sehling 10, p. 76):
+
+<!-- doc 169 -->
+> Es sollen auch die pfarhern unnd kirchenndhiener hinfuro weder saltz, feur, liecht, obs, kraut
+> nit meher weihen, aber doch das volck furhien underrichten, warumb solichs pillich
+> unnderlassen werde. Dan solich creaturen seint von Gott gut beschaffen, ein jegliche aber zu
+> irem gebrauch, Ge[nesis] 1, unnd seint von Gott gehailiget unnd geweihet, den glaubigen mit
+> dancksagung zugeniessen, 1. Timo. 4, darumb bedurffen sie unnsers weihens nit […] wo ist ein
+> wort Gottes, das da sage, das weywasser hinweckneme oder abwesch die tegliche sunde, erquick
+> die selen auff dem kirchoff, vertreibe den teuffel aus den heussern, item das geweihet kraut
+> oder geweihet liecht unnd palmen dienen widder das ungewitter?
+
+The pastors and ministers of the church also shall henceforth no more hallow salt, fire, light,
+fruit, herb, but shall nevertheless instruct the people why this is rightly left off. For such
+creatures are created good by God, each one for its use, Genesis 1, and are sanctified and
+hallowed by God, for the faithful to enjoy with thanksgiving, 1 Timothy 4; therefore they need
+not our hallowing […] where is there a word of God that saith that holy water taketh away or
+washeth off daily sins, refresheth the souls in the churchyard, driveth the devil out of houses;
+item, that hallowed herb or hallowed light and palms avail against the tempest?
+
+**Further lists.** The same list, shorter or longer, recurs throughout the corpus:
+
+| Order | Blessings named | Sehling |
+|---|---|---|
+| Brandenburg-Nürnberg 1533 | St John's blessing, wax, palms, fire, *Fladen*, salt, water, herbs | 11, p. 203 |
+| Nassau-Dillenburg 1537 | salt, fire, light, fruit, herbs; holy water, palms | 10, p. 76 |
+| Freiberg 1538 | water, salt, *Fladen*, roots, palms, oats | 1, p. 467 |
+| Brandenburg 1540 | water and salt, Sunday sprinkling, herbs, candles | 3, p. 88 |
+| Saxony (Albertine) 1540 | sprinkling, salt and water | 1, p. 285 |
+| Calenberg-Göttingen 1542 | salt, water, herbs, palms, *Fladen* | 6/2, p. 799 |
+| Merseburg 1544 | water, salt, light, roots | 2, p. 13 |
+| Hohenlohe 1553 | as Pfalz-Neuburg 1543 | 15, p. 76 |
+| Lüneburg convents 1555 | palms, Easter candle, water, fire (blessed by the prioress) | 6/1, p. 615 |
+| Thüngen 1564 | waters, salt, herbs, candles, "St John's Gospel" | 11, p. 740 |
+| Wolfstein 1574 | water, fire, herbs, fruit, *Fladen*, eggs, bacon, meat | 13, p. 574 |
+| Teschen 1584 | candles, herbs, water, salt | 3, p. 460 |
+| Halberstadt 1588 | water, fire, salt, herbs (visitation question) | 2, p. 470 |
+
+**Calenberg-Göttingen 1542.** Calenberg-Göttingen gives the shortest form of the argument.
+**Calenberg-Göttingen, *Kirchenordnung*, 1542** (Sehling 6/2, p. 799):
+
+<!-- doc 2036 -->
+> Vom salz-, wasser-, kraut-, palmen- und fladenweihen. Weil alle creaturen reichlich und
+> gnungsam durchs wort zur zeit der schepfung gesegnet und geweihet sein und hie vom gleubigen
+> weiter nichts gefordert wird, dan das er dieselbigen mit danksagung und wol brauche, 1. Timo.
+> 4, so sol solch weihen, weils in der schrift keinen grund hat, ganz abgeschafft sein.
+
+Of the hallowing of salt, water, herbs, palms and cakes. Since all creatures were richly and
+sufficiently blessed and hallowed by the word at the time of the creation, and nothing further
+is here required of the believer but that he use them well and with thanksgiving, 1 Timothy 4,
+therefore such hallowing, since it hath no ground in Scripture, shall be wholly abolished.
+
+**Lüneburg convents 1555.** The Lüneburg convent reform of 1555 shows how long the blessings
+could survive inside the cloister. The prioress (*domina*) had for a time been blessing the
+palms, the Easter candle, water and fire herself. This "did not belong to her", and was to stop
+(Sehling 6/1, p. 615).
+
+### 15.2 What was kept in place of the blessing
+
+**Brandenburg 1540.** Electoral Brandenburg abolished the blessings but kept the Sunday
+procession round the church, now without water, with a pure responsory or a seasonal hymn.
+**Brandenburg (Electorate), *Kirchenordnung* of Joachim II, 1540** (Sehling 3, p. 88):
+
+<!-- doc 1746 -->
+> Das wasser- und salzweihen, samt dem sontaglichen sprengen, dergleichen kreuter, lichter und
+> anders zu weihen, sol vorbleiben, denn es keinen göttlichen befelch hat und zu grossem
+> misbrauch und zauberei geraten, aber der sonteglich circuitus mit einem reinen responsorio
+> oder anderm gesange, wie es die zeit gibt, und mit nachlassung obbemelter misbreuch sol
+> bleiben.
+
+The hallowing of water and salt, together with the Sunday sprinkling, and likewise the hallowing
+of herbs, candles and other things, shall be left off, for it hath no divine command and is
+turned to great abuse and sorcery; but the Sunday procession, with a pure responsory or other
+chant as the season giveth, and with the leaving off of the abuses aforesaid, shall remain.
+
+### 15.3 The blessing of the font
+
+**Font blessing abolished.** The solemn blessing of the font on Holy Saturday and the eve of
+Pentecost, with the chrism and the paschal candle, was dropped everywhere. The
+Brandenburg-Nürnberg articles of 1528 already said that "blessing of the font shall be left off,
+since we have neither command nor example for it in Scripture". The people were to be taught why
+before it was stopped (Sehling 11, p. 136). Bugenhagen's Lübeck order of 1531 put the reason in
+a phrase: "water is water, blessing is blessing" (Sehling 5, p. 354). The water in which a child
+is baptized is ordinary water, and the word of institution makes the sacrament (§3.1).
+
+### 15.4 Chrism and holy oils
+
+**Chrism dropped.** The chrism and the oils, which only a bishop could consecrate, disappeared
+with the post-baptismal anointing (§3.2) and extreme unction (§8.1). The *Straßburger
+Kirchenampt* of 1525 said that oil, chrism and "the enchanted water" were no longer used at
+baptism, because the people trusted in them (Sehling 20, p. 153). Luther's Saxon visitors in
+1528 would not quarrel over the chrism: "the right chrism, with which all Christians are
+anointed by God himself, is the Holy Ghost" (Sehling 1, p. 158).
+
+**Kept by two orders.** Two orders kept the chrism at baptism as an "ancient ceremony" with a
+teaching meaning: Electoral Brandenburg in 1540 and Pfalz-Neuburg in 1543, which copied it.
+Brandenburg explained that the anointing signified the royal priesthood of Christians. The
+people were to be taught that the Holy Ghost, not the chrism, anoints, and children baptized in
+emergency were not to be anointed afterwards (Sehling 3, p. 54; quoted in §3.2). Neither order
+says who consecrated the chrism. In Pfalz-Neuburg Ottheinrich suspended the chrism section and
+issued a new baptismal order (Sehling 13, p. 22, editor's note). When he succeeded to the
+Palatinate in 1556 he ordered baptism "without chrism" (Sehling 14, p. 112).
+
+### 15.5 Bells and weather-ringing
+
+**Bell baptism.** Bells were "baptized" with chrism and salt and named. The rung bell was
+believed to drive off storms, hail and the demons in them. The evangelical orders never blessed
+a bell. They divided over the ringing itself.
+
+**Saxony 1528.** The Saxon *Unterricht der Visitatoren* of 1528 (repeated in 1539) let
+weather-ringing continue, re-explained as a call to prayer. **Saxony (Ernestine), *Unterricht
+der Visitatoren*, 1528** (Sehling 1, p. 170):
+
+<!-- doc 9 -->
+> Dieweil aber das selbige leuten hernachmals misgebraucht, und dafür gehalten ist worden, das
+> die glocken, und villeicht umb des willen, das man eine zeitlang fürgenomen die selben zu
+> weihen, das wetter vertreiben solten, were nicht böse, das die prediger in sommerzeit, das
+> volk vermaneten, so sich ungewitter hebet, und wo man leutet, das solche gewonheit darümb
+> gehalten werde, nicht das der glocken dohn und weihung der glocken das wetter oder frost
+> vertreibe, wie bisher geleret und gehalten ist worden, sondern das man dadurch erinnert würde,
+> gott zu bitten, uns die früchte der erden behüten.
+
+But since the same ringing was afterwards misused, and it was held that the bells (and perchance
+for this cause, that men had for a time undertaken to hallow them) should drive away the
+weather, it were not amiss that the preachers in summertime admonished the people that, when a
+storm ariseth and men ring, this custom is kept to this end: not that the sound of the bells and
+the hallowing of the bells driveth away the weather or the frost, as hath been taught and held
+hitherto, but that men be thereby reminded to pray God to preserve us the fruits of the earth.
+
+**Saxony 1580.** The later Saxon order of 1580 abolished weather-ringing outright, because of
+the bell baptism behind it. **Saxony, *Ordnung* of Duke August, 1580** (Sehling 1, p. 453):
+
+<!-- doc 44 -->
+> Sonderlich aber sol das aberglaubisch und abgöttische wetterleuten, (der ursach die glocken im
+> babsthumb mit lesterlichem missbrauche der stiftung Christi getauft werden, das sie die kraft
+> haben sollen, den hagel und schedliche wetter abzuwenden) wo das noch im brauch, abgeschaffet
+> und nicht gestadtet, dargegen aber das volk zur buss und christlichem eiferigem gebete
+> vermanet werden
+
+But especially shall the superstitious and idolatrous weather-ringing (for which cause the bells
+in the papacy are baptized, with blasphemous misuse of Christ's institution, that they may have
+the power to turn away hail and harmful weather), where it is still in use, be abolished and not
+permitted; but instead the people shall be exhorted to repentance and to Christian, fervent
+prayer.
+
+**Hohenlohe 1582.** Hohenlohe in 1582 kept a middle way. The people had been taught that "bell
+baptism is a horrible misuse of holy baptism, a blasphemy". One bell might be rung moderately as
+a call to prayer, but not all bells together nor for as long as the storm lasted
+(Sehling 15, p. 452).
+
+**Other territories.** Other territories ended weather-ringing by mandate:
+
+- Coburg 1554/55 (Sehling 1, p. 544, cited by the editor);
+- Thüngen 1564 (Sehling 11, p. 741);
+- Pfalz-Neuburg 1560 and 1576 (Sehling 13, pp. 139, 194);
+- the Upper Palatinate 1557 and 1579, which in 1579 allowed one bell at night "to rouse and
+  exhort the people to prayer" (Sehling 13, pp. 296, 316);
+- Nassau-Weilburg 1576 (Sehling 10, p. 310);
+- Ysenburg-Birstein 1583 (Sehling 10, p. 616);
+- Limpurg 1610, which regulated it (Sehling 16, p. 623).
+
+### 15.6 Wreaths and other signs
+
+**Wreaths.** The bridal wreath was not blessed but survived as a sign of honour. It was withheld
+from a bride who had lost her virginity (§7). At Hof in 1592 the schoolboys walked crowned with
+wreaths in the dedication procession (§14.3).
+
+**Popular survivals.** Rural police ordinances dealt with surviving popular rites as
+superstition rather than liturgy, including the Easter and St John's fires and the use of "St
+John's Gospel" as a charm (§12.2): Nassau-Weilburg 1576 (Sehling 10, p. 310), Hesse 1608
+(Sehling 9, p. 61) and the Thüngen order.
+
+---
+
+## 16. The ban, excommunication, public penance and reconciliation
+
+**The medieval ban rejected.** The evangelical orders began by rejecting the medieval ban, which
+was pronounced by officials for debts and fees and enforced by interdict. The Pomesanian
+articles of 1524 declared that "henceforth there shall be no ban which burdens consciences
+without ground in God's word and compels by human ordinance alone" (Sehling 4, p. 29).
+
+**Matthew 18 and 1 Corinthians 5.** In its place almost every order set up a scriptural ban on
+the pattern of Matthew 18:15–17 and 1 Corinthians 5. The steps were:
+
+1. private admonition;
+2. admonition before witnesses;
+3. report to the church (the consistory, the superintendent or the elders);
+4. exclusion.
+
+Exclusion was in two grades:
+
+- **The lesser ban** (*kleiner Bann*, *separatio*, *excommunicatio minor*): exclusion from the
+  Sacrament and from standing as godparent, without public announcement.
+- **The greater ban** (*großer Bann*, *excommunicatio major*): public exclusion from the
+  congregation, "delivering to Satan", with civil consequences.
+
+The return was by public penance (*öffentliche Buße*, *Kirchenbuße*) and absolution before the
+congregation.
+
+**Who could ban.** The orders differ chiefly on who held the power:
+
+- **Lutheran consistories.** In the Lutheran territories the consistory decided and the pastor
+  pronounced. The consistory was a court of theologians and jurists acting for the prince.
+- **Hesse (Ziegenhain 1539).** Hesse set elders beside the pastor, and the ban was pronounced
+  before them "and for the time being not before the whole congregation" (Sehling 8, p. 108).
+- **The Reformed.** In the Reformed orders the power lay "not with one or several ministers" but
+  with the whole congregation, exercised through elders: the Palatinate 1563
+  (Sehling 14, p. 388) and the London stranger church (Micron).
+
+### 16.1 Lesser and greater ban
+
+**Grubenhagen 1581.** Grubenhagen distinguished ordinary church discipline from the ban proper.
+The public rebuke of open sinners and their quiet refusal at confession "is no excommunication
+or ban, but a reminder to repentance". The ban is final. **Grubenhagen, *Kirchenordnung*, 1581**
+(Sehling 6/2, p. 1052):
+
+<!-- doc 2058 -->
+> Es ist aber zum dritten ein unterscheid zwischen gemeinen kirchenstraffen und der
+> excommunication oder bann; denn die offentliche straffe der offenbaren sünder sampt der
+> heimlichen abweisung vom sacrament, so in der beicht oder sonst geschicht, ist keine
+> excommunication oder bann, sondern eine erinnerung zur busse und hinlegung des gegebenen
+> ergernis. Der bann aber ist eine endliche ausschliessung der verstockten von der christlichen
+> gemein und ubergebung dem sathan zum verderben des fleisches
+
+But thirdly there is a difference between the common punishments of the church and
+excommunication or the ban. For the public rebuke of open sinners, together with the secret
+turning away from the sacrament which taketh place in confession or otherwise, is no
+excommunication or ban, but a reminder to repentance and to the putting away of the offence
+given. But the ban is a final shutting out of the obdurate from the Christian congregation, and
+a delivering to Satan for the destruction of the flesh.
+
+**Lauenburg 1585: the lesser ban.** Lauenburg names the grades. After the general preaching of
+the law and private admonition by the pastor and superintendent, the obstinate sinner is turned
+away from the Supper, from standing godparent and from leading a bride. **Saxe-Lauenburg,
+*Kirchenordnung*, 1585** (Sehling 5, p. 448):
+
+<!-- doc 1953 -->
+> sol man einen solchen halsstarrigen menschen als einem unchristen und gottlosen ein zeitlang
+> vom heiligen abendmal, von gefatterschaft bei der taufe und bei der braut zustehende, oder die
+> zu fürende in der vortrauunge abweisen, bis so lang, dass er rechte warhaftige busse thut.
+> Diss ist die separatio oder kleiner bann, wie es die alten nennen, und geschicht ohn
+> öffentliche ankündigunge für dem volke von der canzel, allein insonderheit, oder in gegenwart
+> eins oder mehr prediger, oder auch dazu erfoderten christen.
+
+such an obstinate man shall be turned away for a time, as an unchristian and ungodly man, from
+the holy Supper, from standing godfather at baptism and from standing by the bride or leading
+her at the betrothal, until he do right and true repentance. This is the *separatio* or lesser
+ban, as the ancients call it, and it is done without public announcement before the people from
+the pulpit, but privately only, or in the presence of one or more preachers, or of Christians
+called thereto.
+
+### 16.2 The Lutheran form of excommunication: Wittenberg 1542
+
+**Wittenberg 1542.** The Wittenberg consistory's constitution of 1542 was the first evangelical
+order to give a written form. No pastor may excommunicate without the consistory's judge. The
+consistory decides, and the pastor announces the sentence publicly in church "before the
+congregation, for St Paul says *congregatis omnibus vobis*". The excommunicate may come only to
+the sermon. He is denied the sacrament and the office of godparent, and is to be buried without
+song or ceremony, "in the field". A civil penalty follows: suspension from office or the
+council, or from his trade. **Electoral Saxony, *Constitution und artikel des geistlichen
+consistorii zu Wittemberg*, 1542** (Sehling 1, p. 206):
+
+<!-- doc 19 -->
+> Forma excommunicationis. Nach dem Hans N. seiner tauf vergessen, dem teufel gefolget, und ein
+> ehebruch (hic nominetur peccatum commissum) begangen, darumb er vielfeltig brüderlich vermanet
+> und erinnert, davon abzustehen, und doch fursetzlich zu seiner seelen selbst verderben,
+> darinne verharret, also, das kein rad noch hülf seiner besserung, zu hoffen ist, so thun wir
+> genanten Hansen N. aus kraft der schlüssel, die Christus seiner kirchen gegeben, und die
+> unbussfertigen damit zu binden, auf erden gelassen hat, in den bann, schliessen in aus der
+> versamlung der heiligen christlichen kirchen. Verbieten im auch hiemit den brauch der
+> christlichen sacrament, bis so lange, das er sich selbs bekeret und erkennet, widerumb zu dem,
+> der dem sinkenden Petro die hand reichte, und keinen sünder wil verloren haben. Erinnere auch
+> hierneben alle, so gehorsame glieder christlicher kirchen sich erkennen, das sie denselben
+> Hansen N. als ein mutwilligen und unbussfertigen meiden wolten, auf das sie sich mit im nicht
+> beschmitzen, und sich frembder sünd teilhaftig machen.
+
+Form of excommunication. Forasmuch as Hans N. hath forgotten his baptism, followed the devil and
+committed adultery (here let the sin committed be named), for which he hath been many times
+brotherly admonished and reminded to desist therefrom, and yet wilfully, to the destruction of
+his own soul, continueth therein, so that no counsel nor help for his amendment is to be hoped
+for: therefore we put the said Hans N. into the ban, by the power of the keys which Christ hath
+given to his church and left on earth to bind the impenitent therewith, and shut him out of the
+assembly of the holy Christian church. We forbid him also hereby the use of the Christian
+sacraments, until he turn himself and acknowledge, and return again to him who reached his hand
+to the sinking Peter and will have no sinner lost. I remind also herewith all who know
+themselves obedient members of the Christian church, that they shun the same Hans N. as a wilful
+and impenitent man, lest they defile themselves with him and make themselves partakers of other
+men's sins.
+
+**Reconciliation.** The order provides for reconciliation only in outline. The banned man asks
+grace, gives a pledge of amendment, and "is absolved by the congregation, who shall pray for him
+and rejoice heartily at his return" (Sehling 1, p. 207).
+
+### 16.3 The full Lutheran rite: Saxe-Lauenburg 1585
+
+**Lauenburg 1585.** Saxe-Lauenburg gives the most complete Lutheran liturgy of the ban and of
+public penance in Sehling. The procedure runs:
+
+1. Private admonition by the pastor; then before two or three witnesses (churchwardens or
+   elders).
+2. Report to the superintendent, then to the consistory, which summons and hears the sinner.
+3. If he remains obstinate, the consistory sentences him to the greater ban.
+4. The sentence is announced the next Sunday. After the sermon the sinner is set "in the choir
+   before all the people". The superintendent or pastor reads the sentence from the pulpit or
+   before the altar.
+5. Before communion begins, the sexton leads the excommunicate out through the people.
+6. The officer forbids him weddings, feasts, taverns and "honourable company". He may work, buy
+   and sell, and must stand in a separate place in church at every sermon, leaving before the
+   rest of the service.
+
+**The sentence.** The sentence closes with a prayer for the banned man. **Saxe-Lauenburg,
+*Kirchenordnung*, 1585** (Sehling 5, p. 449):
+
+<!-- doc 1953 -->
+> so haben die vorordente des kirchenrats im consistorio nach genuchsamer gepflogener
+> handlungen, diesen menschen dahin erkennet, dass er solle in aller eurer gegenwart von der
+> heiligen christlichen kirchen ausgeschlossen, und auch zugleich vom heiligen abendmal des
+> waren und lebendigmachenden gegenwertigen leibs und bluts Christi als ein unwirdiger
+> abgewiesen sein, auch bei der heiligen taufe nicht zu gefattern stehen, noch braut oder
+> breutigam zur vertrauunge zu führen […] bis so lange, dass er an sich öffentliche busse, reue
+> und leid, wegen seiner solcher schrecklichen sünden, neben rechter christlicher besserunge
+> vormerken und erscheinen lasse. Doch zur predigt mag und sol er frei unvorhindert kommen […]
+> Der allmechtige, ewiger gott, der nicht wil den todt des gottlosen, erbarme sich uber ihn
+> durch Christum, und vorleihe ihm ware rechtschaffene busse, damit er vom künftigen zorn
+> errettet werde. Amen. Diss heissen die alten canones den grossen bann, excommunicationem
+> majorem. […] Nach dieser renunciation und ankündigunge des bannes sol der cüster alsbald, ehe
+> man die communion oder etwas weiters in der kirchen anfenget, die excommunicirte person
+> öffentlich durch das volk aus der kirchen ausweisen, und seiner wege gehen lassen.
+
+the appointed members of the church council in the consistory, after sufficient proceedings
+held, have judged this man to this end: that in the presence of you all he shall be shut out of
+the holy Christian church, and also at the same time be turned away as one unworthy from the
+holy Supper of the true, life-giving and present body and blood of Christ, and also not stand
+godfather at holy baptism, nor lead bride or bridegroom to the betrothal […] until he let open
+repentance, contrition and sorrow for these his terrible sins, together with right Christian
+amendment, be perceived and appear in him. Yet to the sermon he may and shall come freely and
+unhindered […] Almighty, everlasting God, who willeth not the death of the wicked, have mercy
+upon him through Christ, and grant him true and right repentance, that he may be delivered from
+the wrath to come. Amen. This the ancient canons call the greater ban, *excommunicatio major*.
+[…] After this renunciation and announcement of the ban, the sexton shall forthwith, before the
+communion or anything further in the church be begun, lead the excommunicated person publicly
+out of the church through the people, and let him go his way.
+
+**Public penance and absolution.** A sinner who repented, whether before or after the ban, was
+first examined before the officer, the patron, the churchwardens and other honourable men. Five
+questions were put: does he confess his sin, is he sorry, does he desire forgiveness and public
+absolution, will he amend, does he desire the Supper.
+
+On a communion Sunday the pastor then led him before the altar, where he knelt with two friends
+beside him. The rite has five parts:
+
+1. An address to the people on the binding and loosing keys, naming the sin and the penitent's
+   repentance.
+2. The Lord's Prayer.
+3. Psalm 67 (*Es wolt uns Gott genädig sein*) or Psalm 51 (*Erbarm dich mein, o Herre Gott*).
+4. The five questions, each answered "Yes".
+5. The absolution and readmission.
+
+An exhortation to the people follows: they are to thank God, pray for the penitent, forgive the
+offence and never cast it up to him. The penitent then communicates. **Saxe-Lauenburg,
+*Kirchenordnung*, 1585** (Sehling 5, p. 453):
+
+<!-- doc 1953 -->
+> Also spreche ich hierauf, als ein vorordenter diener Jesu Christi, an gottes stat und von
+> seinent wegen zu dir: Sei getrost mein son (oder tochter), deine sünde sind dir vorgeben. Auch
+> nemen wir dich wiederumb an zu einem geliede des geistlichen leibs Christi, welche ist die
+> gemeine seiner heiligen und gleubigen, von welchem leibe du dich selbst, durch deine laster,
+> schand, sünd und ergernisse abgerissen hattest, dass du demselbigen hiemit nun widerumb
+> einvorleibet sein sollest, im namen gottes des vaters, und des sons, und des heiligen geistes.
+> Amen.
+
+Therefore I say hereupon to thee, as an ordained minister of Jesus Christ, in God's stead and on
+his behalf: Be of good cheer, my son (or daughter), thy sins are forgiven thee. We receive thee
+also again to be a member of the spiritual body of Christ, which is the congregation of his
+saints and faithful, from which body thou hadst torn thyself by thy vices, shame, sin and
+offences; that thou shalt hereby now be again incorporated into the same, in the name of God the
+Father, and of the Son, and of the Holy Ghost. Amen.
+
+### 16.4 The Reformed form: Micron's London order
+
+**Micron's order.** The fullest Reformed rite is that of the Dutch stranger church in London, in
+Marten Micron's *Ordinancien* of 1554. Sehling prints it in the German translation used in East
+Frisia (1565). The procedure runs:
+
+1. Private, then public admonition.
+2. The sinner's name is announced twice to the congregation as a despiser of admonition.
+3. A day is set, and anyone with objections from God's word has a week to bring them to the
+   ministers and elders.
+4. On the day, the morning sermon is shortened and the minister expounds the nature and end of
+   the ban:
+   - it is Christ's ordinance;
+   - it punishes contempt of admonition rather than the sin itself;
+   - the papal ban is void;
+   - the power lies with the whole congregation, not with the ministers alone;
+   - it is not contrary to love.
+5. All the ministers stand before the congregation. The minister rehearses the case and asks his
+   colleagues whether it is so; they answer "Yes".
+6. All kneel for a prayer that God would break "the stony heart of our brother N.", followed by
+   the Lord's Prayer.
+7. If the sinner comes forward and shows true repentance, public penance replaces the ban. If
+   not, the minister pronounces the excommunication in the form of a prayer to Christ.
+8. The congregation is instructed how to treat him: as a heathen and publican, avoiding his
+   company except in civil matters, yet seeking his amendment like a physician. Psalm 101 is
+   sung.
+
+**The prayer of excision.** **Micron, *Ordinancien* (1554), East Frisian German edition, 1565**
+(Sehling 7/1, p. 652):
+
+<!-- doc 2116 -->
+> so folgen wir, o Herr Jesu Christe, deinem heiligen gebot und schneiden ihn als ein faul glied
+> offentlich ab von dem heiligen leib deiner gemeine, und das mit grosser trübnuß unserer herzen
+> und mitleiden seiner verderbnuß. Wir binden hie auf erden seine sünden und sind auß deinem
+> wort versichert, daß sie auch bey dir im himmel gebunden sind. Wir werfen ihn hie auß deinem
+> seligen reich (auf daß er bey allen glaubigen für ein heid und zölner geachtet werde) und
+> geben ihn durch dein gebot dem teufel zur verderbung seines fleisches, auf daß sein geist
+> selig werde, durch deinen heihgen namen, der du lebest und regierest mit dem Vater und dem
+> heiligen Geist, ein einiger und ewiger Gott, gepriesen in ewigkeit. Amen.
+
+we follow, O Lord Jesus Christ, thy holy commandment, and cut him off publicly as a rotten
+member from the holy body of thy congregation, and that with great sorrow of our hearts and
+compassion for his destruction. We bind here on earth his sins, and are assured out of thy word
+that they are bound also with thee in heaven. We cast him here out of thy blessed kingdom (that
+he may be accounted of all the faithful as a heathen and a publican), and give him by thy
+commandment to the devil for the destruction of his flesh, that his spirit may be saved; through
+thy holy name, who livest and reignest with the Father and the Holy Ghost, one only and eternal
+God, blessed for ever. Amen.
+
+**Readmission.** The return of the excommunicate (chapter 26) follows the same pattern in
+reverse:
+
+1. The elders visit him and examine his repentance.
+2. A day is announced a week ahead, so that the congregation may "receive with joyful heart" the
+   one it had cut off with sorrow.
+3. On the day the ministers and elders stand beside him. The minister proves from Scripture that
+   the fallen obtain forgiveness, and that "public offences require public reconciliation".
+4. A prayer is said in which the whole congregation joins its sins to his.
+5. He confesses and is received again (Sehling 7/1, pp. 653–655).
+
+### 16.5 Other orders
+
+The same pattern, with local variations, appears in:
+
+- **Hesse.** The *Ziegenhainer Zuchtordnung* of 1539 introduced elders, and its ban was
+  pronounced before pastor and elders. The Hesse order of 1566 required the banned sinner to do
+  penance "before the whole congregation which he had offended" (Sehling 8, p. 212).
+- **The Palatinate 1563.** Exclusion from the sacraments was to lie "not in the power of one or
+  several ministers or other persons, but with a whole Christian congregation". Elders admonish
+  three times and then separate the offender by forbidding the sacraments (Sehling 14, p. 388).
+  Later Palatine ordinances add chapters *De excommunicatione* and *De receptione*
+  (Sehling 14, pp. 423–424).
+- **Mecklenburg 1567 and Mansfeld.** These orders treat the ban, public penance and "absolution
+  from the ban" in dedicated chapters on the consistory pattern of Wittenberg
+  (Sehling 5, p. 246; 2, p. 216).
+- **Town of Brandenburg 1542.** A dissenting voice: the sacrament was to be refused to no one,
+  since one whom God's word does not move will not be moved by exclusion; grave crimes belong to
+  the civil power (Sehling 3, p. 255).
+- **Ysenburg-Ronneburg 1591 and Solms.** Counts with Reformed leanings imposed "Christian ban
+  and exclusion from the congregation" through a presbytery, with the magistrate's help
+  (Sehling 10, pp. 596, 599; 9, p. 328).
+
+**Burial of the excommunicate.** Burial followed the ban. Wittenberg 1542 ordered that the
+excommunicate be buried "not with song or ceremonies, nor in the common churchyard of the
+Christians, but in the field" (Sehling 1, p. 206).
+
+---
+
+## 17. Other occasional rites
+
+### 17.1 The visitation service
+
+**Pfalz-Neuburg 1560.** The church visitation was the evangelical substitute for the bishop's
+visitation. At the parish level it had its own service. Pfalz-Neuburg's visitation order of
+1560/1566 describes it:
+
+1. Two stanzas of *Nun bitten wir den Heiligen Geist*.
+2. The public confession.
+3. The last two stanzas (*Du süße Lieb, schenk uns deine Gunst*).
+4. A collect, the epistle and the Creed (*Wir glauben all*).
+5. A short sermon by the pastor.
+
+One of the visitors then addresses the people in the prince's name. The youth are examined in
+the catechism in church, boys and men-servants on one side and girls and maids on the other. A
+second address follows, rebuking parents and masters for negligence, and the newly appointed
+censors are presented by name. **Pfalz-Neuburg, *Visitationsordnung*, 1560/1566**
+(Sehling 13, p. 140):
+
+<!-- doc 399 -->
+> Erstlich, wenn das volk versamlet, singet man zwei gsetz vom lied Nu bitten wir den Heiligen
+> Geist. Darnach verlieset man die effentliche beicht. Zum dritten singet man die letzten zwen
+> vers. Du süße lieb dein gunst und darauf volget ein collecten, auf die collect die epistel und
+> nach der epistel singt man den glauben. Nach dem glauben tut der pfarrer ein kurze predigt.
+> Nach gehaltner predig spricht einer aus den visitatoribus das volk an auf diese nachfolgende
+> weise
+
+First, when the people are gathered, they sing two stanzas of the hymn *Nun bitten wir den
+Heiligen Geist*. Thereafter the public confession is read. Thirdly they sing the last two
+verses, *Du süße Lieb, [schenk uns] dein Gunst*; and thereupon followeth a collect, upon the
+collect the epistle, and after the epistle the Creed is sung. After the Creed the pastor maketh
+a short sermon. After the sermon is held, one of the visitors addresseth the people after this
+manner following.
+
+### 17.2 Rites treated in other guides
+
+Some occasional services are treated elsewhere, or only touched on here:
+
+- **Prayer days and fast days.** Days of prayer against the Turk, plague, dearth and war, and
+  the litany days, are in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md).
+- **Private confession and absolution.** Confession before communion is outside the scope of
+  this guide; its relation to public penance is noted in §16.1 and §16.3.
+- **Confessional oaths.** The oaths sworn by ministers, schoolmasters and church officers at
+  ordination, installation and visitation are in
+  [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md).
+
+---
+
+## 18. Table by order
+
+**How to read the table.** The table lists the orders that give the principal forms. For each
+order it shows which rites it supplies in full or in quotation, and what it abolishes. Section
+numbers refer to this guide.
+
+| Order | Forms given (§) | Abolished, rejected or omitted (§) |
+|---|---|---|
+| Luther, *Taufbüchlein* 1523 and 1526 | baptism with the received ceremonies (3.2); revised baptism (3.3) | salt, spittle, oil, chrism, candle in 1526 (3.3) |
+| Luther, *Traubüchlein* 1529 | betrothal and marriage at the church door and before the altar (7.1) | the nuptial Mass |
+| Luther, ordination form 1539 | ordination with laying on of hands (10.2) | episcopal consecration |
+| Saxony (Ernestine), *Unterricht der Visitatoren* 1528 | weather-ringing kept as a call to prayer (15.5) | the trust in blessed bells |
+| Saxony (Albertine), *Kirchenordnung* 1539 | baptism with exhortation (3.4); emergency baptism (3.7); communion of the sick (8.3); funerals (9.2) | extreme unction (8.1) |
+| Saxony (Albertine), *Gemeiner Bericht* 1540 | — | churching of women and brides, sprinkling, salt and water, weather-ringing (5.1) |
+| Electoral Saxony, Wittenberg consistory 1542 | communion of the sick (8.2); form of excommunication and reconciliation (16.2) | reserved sacrament (8.2) |
+| Electoral Saxony, *Wittenbergische Reformation* 1545 | confirmation (6.1); ordination (10.1) | — |
+| Saxony, *Ordnung* of Duke August 1580 | godparents (3.8); confirmation (6.7); investiture of pastors (11.1); *Kirmes* dancing limited (14.4) | weather-ringing and bell baptism (15.5) |
+| Electoral Brandenburg 1540 | baptism with chrism (3.2, 15.4); confirmation (6.4); Sunday procession without water (15.2) | blessings of water, salt, herbs, candles (15.2) |
+| Brandenburg-Nürnberg 1533 | baptism with exhortations (3.1, 3.4); marriage (7.2); funerals (9.3) | churching (5.1); oil and salt at baptism (3.2); font blessing 1528 (15.3); the yearly blessings (15.1) |
+| Nuremberg, Dietrich's *Agendbüchlein* 1545 | exorcism glossed as prayer (4.1); the dying (8.4); the condemned (8.6); funerals (9.1) | — |
+| Brandenburg-Ansbach-Kulmbach | marriage, Hof 1592 (7.4); dedication anniversary, Hof 1592 (14.3) | exorcism mitigated 1591–1594 (4.3) |
+| Württemberg 1536 and 1553 | baptism (3.5); visitation of the sick (8.2); marriage and the wreath (7.6); investiture of prelates (11.3) | exorcism (3.5) |
+| Strasbourg 1525 and 1537 | baptism (3.5); marriage with the impediments asked thrice (7.3) | exorcism (3.5); oil and chrism, 1525 (15.4) |
+| Hesse | confirmation, Ziegenhain 1539 (6.2); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
+| Calenberg-Göttingen 1542 | confirmation (6.3) | blessings of salt, water, herbs, palms, *Fladen* (15.1) |
+| Mansfeld 1554 and 1580 | godparents (3.8); churching as thanksgiving (5.2); confirmation (6.5); funerals (9.4); ban and public penance (16.5) | — |
+| Pomerania 1569 | exorcism (4.1); prayer over the possessed (8.7) | — |
+| Regensburg | ordination 1553? (10.4); funerals 1560 (9.4); plague order 1562 (8.5); dedication anniversary about 1567 (14.3) | — |
+| Merseburg 1545 | ordination within the Mass (10.3) | — |
+| Schleswig-Holstein 1542 | ordination of bishops (11.4) | — |
+| Kurpfalz 1563 and 1592 | Reformed baptism (3.6); ordination (10.5); presentation of ministers (11.2); installation of elders (12.1); exclusion by elders (16.5) | emergency baptism by women; exorcism (3.6) |
+| Saxe-Lauenburg 1585 | lesser and greater ban; public penance and absolution (16.1, 16.3) | — |
+| Micron's *Ordinancien* 1554 (East Frisia 1565) | Reformed excommunication and readmission (16.4) | — |
+| Lippe 1571 | the sexton's pledge (12.2) | charms and amulets (12.2) |
+| Leisnig 1529 | election of churchwardens (12.4) | — |
+| Lüneburg 1564 | appointment of midwives (12.5) | — |
+| Mulhouse 1551 | the schoolmaster's oath (12.3) | — |
+| Schwäbisch Hall 1543/1615 | council-election sermon (13.1) | consecration of churchyards (14.1) |
+| Pfalz-Neuburg 1543 and 1560 | visitation service (17.1) | the yearly blessings (15.1); weather-ringing (15.5) |
+| Waldeck 1583 and 1584 | — | *Kirchweih* (14.4); exorcism and the baptismal robe (4.4) |
+| Halberstadt 1588 | — | church dedication and font blessing (14.1) |
+| Thüngen 1564 | — | churching (5.1); weather-ringing (15.5) |
+
+---
+
+## 19. Concordance of the orders quoted
+
+**The concordance.** Every order quoted in this guide is listed below, with the volume and pages
+of Sehling and the sections where it is quoted. Orders cited only in summary can be found
+through the table in §18 and the text.
+
+| Order | Title | Date | Sehling | Quoted in § |
+|---|---|---|---|---|
+| Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 269 | 4.4 |
+| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 59, 88 | 3.2, 6.4, 15.2 |
+| Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | 7.4 |
+| Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | 4.3 |
+| Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, p. 135 | 3.2 |
+| Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, pp. 174, 177, 180, 201–202, 203 | 3.1, 3.4, 5.1, 7.2, 9.3 |
+| Braunschweig | *Kirchenordnung* | 1528 | 6/1, p. 360 | 4.2 |
+| Calenberg-Göttingen | *Ordnung der confirmation oder firmung* | 1542 | 6/2, pp. 838–839, 843 | 6.3 |
+| Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, p. 799 | 15.1 |
+| Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | 8.2, 16.2 |
+| Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | 6.1, 10.1 |
+| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, p. 1052 | 16.1 |
+| Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | 14.1 |
+| Henneberg | *Kirchenordnung* | of Georg Ernst, 1582 | 2, pp. 304–305 | 4.3 |
+| Herford | *Kirchenordnung* | 1532 | 21, p. 192 | 7.4 |
+| Hesse | *Reformatio ecclesiarum Hassiae* | (Homberg), 1526 | 8, p. 50 | 14.1 |
+| Hesse | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | 6.2 |
+| Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
+| Hof | *Ordo ecclesiasticus* | 1592 | 11, p. 467 | 14.3 |
+| Kurpfalz | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | 3.6 |
+| Kurpfalz | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | 10.5 |
+| Kurpfalz | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | 11.2 |
+| Kurpfalz | *Einführung der Senioren* | 9 December 1592 | 19/2, pp. 789–790 | 12.1 |
+| Leisnig | *Verordnung der Visitatoren für das Amt Leisnig* | 1529 | 1, p. 609 | 12.4 |
+| Lippe | *Kirchenordnung* | 1571 | 21, p. 447 | 12.2 |
+| Luther | *Das taufbuchlin verdeutscht* | 1523, epilogue | 1, p. 20 | 3.1 |
+| Luther | *Das taufbuchlin verdeutscht* | 1523 | 1, pp. 19–20 | 3.2 |
+| Luther | *Das taufbuchlin verdeudscht aufs neu zu gericht* | 1526 | 1, pp. 22–23 | 3.3 |
+| Luther | *Traubüchlein* | 1529 | 1, p. 24 | 7.1 |
+| Luther | *Forma ordinationis latina* | 1539 | 1, p. 28 | 10.2 |
+| Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 557–558 | 12.5 |
+| Mansfeld | *Form und weise einer visitation* | 1554 | 2, p. 192 | 3.8 |
+| Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 246 | 5.2, 6.5, 9.4 |
+| Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | 10.3 |
+| Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, p. 652 | 16.4 |
+| Mulhouse | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | 12.3 |
+| Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | 15.1 |
+| Nassau-Dillenburg | *Agende* | 1575 | 10, p. 150 | 4.4 |
+| Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1 |
+| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 96–97 | 15.1 |
+| Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 17.1 |
+| Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, p. 59 | 4.1 |
+| Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | 4.1 |
+| Pomerania | *Agenda* | 1569 | 4, pp. 461–462 | 8.7 |
+| Pomesania | *Themata episcopi Risenburgensis* | 1524 | 4, p. 29 | 15.1 |
+| Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | 10.4 |
+| Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | 9.4 |
+| Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | 8.5 |
+| Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 448, 449, 453 | 16.1, 16.3 |
+| Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 453 | 3.8, 6.7, 11.1, 15.5 |
+| Saxony (Albertine) | *Kirchenordnung* | 1539 | 1, pp. 266, 267–268, 270–271, 275 | 3.4, 3.7, 8.3, 9.2 |
+| Saxony (Albertine) | *Gemeiner Bericht der Visitatorn* | 1540 | 1, p. 285 | 5.1 |
+| Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, p. 170 | 15.5 |
+| Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | 11.4 |
+| Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 175 | 13.1, 14.1 |
+| Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | 4.1 |
+| Strasbourg | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | 3.2 |
+| Strasbourg | *Agende* | 1537 | 20/1, pp. 263–264, 269 | 3.5, 7.3 |
+| Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
+| Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | 4.4 |
+| Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | 14.4 |
+| Württemberg | *Kirchenordnung* | 1536 | 16, pp. 111, 113 | 3.5, 8.2 |
+| Württemberg | *Kirchenordnung* | 1553 | 16, pp. 232–233 | 3.5 |
+| Württemberg | *Eheordnung* | 1553 | 16, p. 279 | 7.6 |
+| Württemberg | *Investiturordnung für evangelische Prälaten* | after 1556 | 16, pp. 321–322 | 11.3 |
+| Ysenburg-Birstein | *Kirchenordnung* | 1588 | 10, p. 628 | 4.3 |
