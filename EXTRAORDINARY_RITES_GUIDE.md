@@ -163,10 +163,10 @@ or installation.
 
 **11. The ban was rebuilt on Matthew 18** (§16). The lesser ban (exclusion from the Sacrament)
 was distinguished from the greater ban (public exclusion and "delivering to Satan"). The
-Lutheran territories gave the decision to the consistory. Wittenberg 1542 and Saxe-Lauenburg
-1585 print full forms of excommunication, public penance and absolution. The Reformed gave the
-decision to the congregation through its elders; Micron's London order prints a full liturgy of
-excision and readmission.
+Lutheran territories gave the decision to the consistory. Wittenberg 1542, Mecklenburg 1570,
+Mansfeld 1580 and Saxe-Lauenburg 1585 print full forms of excommunication, public penance and
+absolution. The Reformed gave the decision to the congregation through its elders; Micron's
+London order prints a full liturgy of excision and readmission.
 
 ### 1.2 Where the full liturgies are
 
@@ -174,7 +174,7 @@ The forms printed in full or quoted at length in this guide are:
 
 | Rite | Principal full forms (§) |
 |---|---|
-| Baptism | Luther 1523 and 1526 (3.2–3.3); Saxony 1539 (3.4); Württemberg 1536/1553 and Strasbourg 1537 (3.5); Palatinate 1563 (3.6) |
+| Baptism | Luther 1523 and 1526 (3.2–3.3); the anointings of Brandenburg 1540 and Pfalz-Neuburg 1543 (3.2); Saxony 1539 (3.4); Württemberg 1536/1553 and Strasbourg 1537 (3.5); Palatinate 1563 (3.6) |
 | Emergency baptism and its confirmation | Saxony 1539 (3.7) |
 | Exorcism | Luther 1526 (3.3); its glosses and abolitions (4) |
 | Churching | Mansfeld 1580 (5.2) |
@@ -184,9 +184,10 @@ The forms printed in full or quoted at length in this guide are:
 | Burial | Saxony 1539/1540 (9.2); Brandenburg-Nürnberg 1533 (9.3) |
 | Ordination | Luther 1537–1539 (10.2); Merseburg 1545 (10.3); Regensburg 1553 (10.4); Hesse 1574 and the Palatinate 1592 (10.5) |
 | Installation | Saxony 1580 and Wolfenbüttel 1569 (11.1); the Palatinate 1592 (11.2); Württemberg prelates (11.3) |
-| Elders and lay officers | the Palatinate 1592 (12.1); Lippe 1571 (12.2) |
-| Dedication anniversary | Hof 1592 (14.3) |
-| Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Micron 1554 (16.4) |
+| Elders and deacons | Hesse 1566, Micron 1554 and the Palatinate 1592 (12.1) |
+| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (12.2); Mulhouse 1551, the Palatinate 1580, Gengenbach 1536, Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (12.4) |
+| Church dedication | Hof: the dedication of 1572, its yearly festival, and the school dedication of 1546 (14.3) |
+| Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Micron 1554 (16.6) |
 | Visitation | Pfalz-Neuburg 1560 (17.1) |
 
 ---
@@ -460,6 +461,86 @@ only a signification of it; that those also who are not anointed with chrism are
 perfect Christians, and it is no hurt to them at all; therefore also [it is] needless to chrism
 afterwards the children that have been baptized in haste and need by women or otherwise, for so
 it would be regarded as necessary.
+
+**The anointings in the Brandenburg rite.** The Brandenburg baptism has both medieval
+anointings. After the renunciation and the threefold creed the priest anoints the child with the
+oil of catechumens on the breast and between the shoulders. After the baptism and the prayer
+"Der allmechtig gott" he anoints the crown of the head with chrism in the form of a cross, while
+the godparents take their hands away. The white cap (*Westerhäublein*) and the burning candle
+follow. **Brandenburg (Electorate), *Kirchenordnung* of Joachim II, 1540**
+(Sehling 3, pp. 58–59):
+
+<!-- doc 1746 -->
+> Darauf ungirt der priester das kind an der brust und zwischen den schultern mit dem öl
+> cathecuminorum und spricht: So salbe ich dich mit dem öl der freuden in Christo † Jesu. Und
+> bald nimmt der priester das kind in seine hende, halte es uber den taufstein, salbe es
+> zwischen den schultern und spreche: Unserm herrn. Bald darauf frage er, wie das kind heiss und
+> spreche: N. Wil du getauft werden. Antwort: Ja, ich will. Da neme er das kind abermal und
+> spreche: Und ich taufe dich im namen des vaters und des sons und des heiligen geists. Darnach
+> treten die paten hinzu, halten das kind uber den taufbrun und der priester spricht: Last uns
+> beten. Der allmechtig gott und vater unsers herrn Jesu Christi, der dich anderweit geborn hat
+> durchs wasser und den heiligen geist, und hat dir all dein sund vergeben, Da ungirt der
+> priester das getauft kind mit dem Chresem auf der schetteln creuzweis, und die paten thun ire
+> hende ab, so spricht der priester: Derselbig salbe dich mit dem chresem seins heils † zum
+> ewigen leben, amen. Der fried sei mit dir und mit deinem geist. Darnach ruren die paten das
+> kind an, und der priester setzt dem kinde das westerheublein auf und spricht: Nim hin das
+> weisse kleid, welches da bedeutet die unschuld, so du in der tauf empfangen hast, dasselbe
+> solt du on makel fur den richterstul Jesu Christi bringen, auf das du habest durch das
+> verdienstnis Jesu Christi das ewig leben. Der fried sei mit dir und mit deinem geist. Alsdenn
+> hebt man das kind vom taufbrun, und wenn das geschehen ist, so gibt der priester dem kind ein
+> brennend kerzen, welche auch die paten angreifen und spricht: Nim hin die brinnend fackel, die
+> da bedeut das licht des christlichen glaubens, welchen du in der tauf itzt empfangen und
+> angelobet hast, und beware dein tauf unstreflich, auf das, wenn der herr zur hochzeit komen
+> wird, du im entgegen laufen mögst mit sampt den heiligen in den himlischen saal, das du in
+> Christo Jesu habst das ewig leben, amen.
+
+Thereupon the priest anointeth the child on the breast and between the shoulders with the oil of
+catechumens, and saith: So I anoint thee with the oil of gladness in Christ † Jesus. And
+straightway the priest taketh the child in his hands, holdeth it over the font, anointeth it
+between the shoulders, and saith: Our Lord. Soon thereafter he asketh what the child is called,
+and saith: N., wilt thou be baptized? Answer: Yea, I will. Then he taketh the child again and
+saith: And I baptize thee in the name of the Father and of the Son and of the Holy Ghost.
+Thereafter the godparents come near and hold the child over the font, and the priest saith: Let
+us pray. The almighty God and Father of our Lord Jesus Christ, who hath begotten thee again by
+water and the Holy Ghost, and hath forgiven thee all thy sins — Then the priest anointeth the
+baptized child with the chrism on the crown of the head crosswise, and the godparents take away
+their hands, and the priest saith: The same anoint thee with the chrism of his salvation † unto
+everlasting life. Amen. Peace be with thee and with thy spirit. Thereafter the godparents touch
+the child, and the priest setteth the chrisom-cap upon the child and saith: Take the white
+garment, which signifieth the innocence which thou hast received in baptism; the same shalt thou
+bring without spot before the judgement-seat of Jesus Christ, that thou mayest have eternal life
+through the merit of Jesus Christ. Peace be with thee and with thy spirit. Then the child is
+lifted from the font, and when that is done the priest giveth the child a burning candle, which
+the godparents also take hold of, and saith: Take the burning torch, which signifieth the light
+of the Christian faith which thou hast now received and vowed in baptism, and keep thy baptism
+unblameable, that when the Lord cometh to the marriage thou mayest run to meet him with all the
+saints into the heavenly hall, that thou mayest have eternal life in Christ Jesus. Amen.
+
+**Pfalz-Neuburg 1543.** Pfalz-Neuburg copied the Brandenburg rite, with its defence of the
+chrism (Sehling 13, pp. 46–47), word for word in its substance. Its anointings read:
+**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 55):
+
+<!-- doc 386 -->
+> Darauf salbet der priester das kind mit dem oleo catechumenorum erstlich an der brust und
+> spricht: So salbe ich dich mit dem öle der freuden in Christo † Jesu. Und alsbald nimpt der
+> priester das kind in seine hend und helt es uber den taufstein und salbet es auch zwischen den
+> schultern und spricht: Unserm † Herren. […] Da salbet der priester das getauft kind mit dem
+> chresem auf der scheitel kreuzweis und die doten tun ire hend ab und er spricht: Derselbig
+> salbe dich mit dem chresem des heils zum ewigen leben! Amen. Der frid sei mit dir und mit
+> deinem geist! Darnach rüren die doten das kind wider an und der priester setzt im das
+> westerheublin auf
+
+Thereupon the priest anointeth the child with the oil of catechumens, first on the breast, and
+saith: So I anoint thee with the oil of gladness in Christ † Jesus. And straightway the priest
+taketh the child in his hands and holdeth it over the font, and anointeth it also between the
+shoulders, and saith: Our † Lord. […] Then the priest anointeth the baptized child with the
+chrism on the crown crosswise, and the godparents take away their hands, and he saith: The same
+anoint thee with the chrism of salvation unto everlasting life! Amen. Peace be with thee and
+with thy spirit! Thereafter the godparents touch the child again, and the priest setteth the
+chrisom-cap upon it
+
+Pfalz-Neuburg gives no candle. Its chrism did not last: Ottheinrich suspended the chrism section
+and issued a new baptismal order (Sehling 13, p. 22, editor's note; §15.4).
 
 The same order has the salt: "N. nim hin das salz der weisheit, das du in Christo Jesu, unserm
 herrn, habst das ewig leben" ("N., take the salt of wisdom, that thou mayest have eternal life
@@ -2958,19 +3039,188 @@ brief:
 - **Nothing** is described for the Bohemian acolytes, Lutheran almoners and most churchwardens
   beyond appointment.
 
-**The Palatine elders, 1592.** The Palatine form of 1592 for installing the elders "who labour
-not in the word" is a short rite after the sermon:
+**Three full forms.** Three forms in the corpus install elders and deacons with prayer and the
+laying on of hands, as a true ordination to a lay office. They are given here in full.
 
-1. The minister reports their election from the pulpit.
-2. Three questions are put to them: whether they feel the Spirit's witness, whether they believe
-   the Scriptures contain all things necessary, and whether they will support the ministers and
-   submit to correction.
-3. A prayer and the Lord's Prayer.
-4. The laying on of hands by "the other ministers and by the minister of the word", with a
-   blessing.
-5. An exhortation to the congregation and to the elders, and a psalm.
+**Hesse 1566: elders.** The Hessian order of 1566 has the elders chosen in each church by its
+ministers with members of the council and congregation, by vote (Acts 14:23). They are examined
+on their willingness and then "ordained" in their own church by the superintendent at
+visitation, or by a pastor with one or two other ministers. The rite runs:
 
-**Kurpfalz, *Einführung der Senioren*, 9 December 1592** (Sehling 19/2, pp. 789–790):
+1. A short address, as at the ordination of pastors.
+2. The lesson Acts 20:28–31 ("Take heed therefore unto yourselves, and to all the flock").
+3. A charge expounding the elders' office in five points:
+   - to guard with the ministers against false doctrine and to see that the sacraments are
+     rightly given;
+   - to keep the ministers in unity and the congregation free of hatred and schism;
+   - to admonish negligent ministers;
+   - to exercise the church's judgement: to rebuke the fallen, put the obstinate in the ban, and
+     loose the penitent;
+   - to help the ministers in answering questions, reconciling enemies and relieving the poor.
+4. The question: will they do all this "before the face of God and of our Lord Jesus Christ and
+   all the elect angels, with the whole congregation here present"? Each answers in turn, as the
+   pastors do at ordination.
+5. The people kneel, and the pastor prays.
+6. The pastor and the other ministers lay on hands.
+7. The charge, "We commit unto you this church".
+8. An exhortation to the congregation to receive them with goodwill.
+9. Psalm 23, *Der Herr ist mein Hirte*; the blessing; the names entered in the church book.
+
+**Hesse, *Kirchenordnung*, 1566** (Sehling 8, p. 209):
+
+<!-- doc 2257 -->
+> Demnach soll der pfarherr jedermann zum gebet kurzlich vermanen und, wenn sie niedergekniet,
+> ihnen also vorbeten: Almechtiger, ewiger Gott, himlischer Vatter, nachdem dein geliebter Sohn,
+> unser Herr und hoherpriester Jesus Christus verheißen, er wolle allezeit bei uns bleiben bis
+> ans ende der welt, und hat gleichwol den menschen mancherlei gaben verlihen, under diesen aber
+> auch hulf, beistand und gewalt, die kirchen recht zu ordiniren und zu erhalten, so bitten wir
+> demütiglich, daß du dieser deiner diener herzen mit deinem h. Geist begnadigest, lerest und
+> heiligest, uf daß sie mit weisheit und heilsamen rat jederzeit gefaßt, lustig und von herzen
+> diese deine kirch sampt den pfarherrn und eltesten, so im wort arbeiten, treulich und
+> bestendiglich regieren, damit man die geistliche frucht an allen gleubigen volkomlich und
+> uberflüssig spüren möge durch denselben deinen Sohn Christum unsern H. etc. Darauf antworten
+> sie alle: Amen. Darnach soll der pfarherr und die andern ministri ihnen die hende auflegen,
+> wie auch zuvor gesagt, etc. Nach dem allen soll man die ordinanden in die mit stellen und ihn
+> die kirch zu versorgen und zu verwalten mit solchen worten befehlen: So befehlen wir euch
+> diese kirch, in welcher ihr zu eltesten seid erwelet worden, daß ihr die herde des Herrn, so
+> er mit seinem blut erlöset, und vom heiligen Geist euch vertrauet ist, wol regiret und gesund
+> behaltet, und daß ihr solchs alles verrichten möget, so seid vorsichtig, habt fleißig acht uf
+> alles, was sich zutregt, seid den dienern des worts in allen dingen behülflich. Wan sie
+> ratschlagen, so handelt weislich und ufrichtig, in vermanungen seid sittig, im straffen
+> allezeit ingedechtig der liebe. Wan ihr urteilet oder richtet, so legt alle menschliche affect
+> von euch; alles, was ihr oder andere vorbringet, das handelt nach der regel des göttlichen
+> worts. Es soll euch nichts heftigers angelegen sein, dan Gottes ehr und die erbauung der
+> gleubigen.
+
+Then shall the pastor briefly exhort every one to prayer, and when they have kneeled down, pray
+before them thus: Almighty, everlasting God, heavenly Father, forasmuch as thy beloved Son, our
+Lord and high priest Jesus Christ, hath promised that he will abide with us alway unto the end
+of the world, and hath nevertheless given unto men divers gifts, and among these also helps,
+assistance and authority rightly to order and maintain the churches: we beseech thee humbly that
+thou wouldest endue, teach and sanctify the hearts of these thy servants with thy Holy Spirit,
+that they, being at all times furnished with wisdom and wholesome counsel, may gladly and
+heartily govern this thy church faithfully and steadfastly, together with the pastors and elders
+which labour in the word; that the spiritual fruit may be perceived in all the faithful fully
+and abundantly; through the same thy Son Christ our Lord, etc. Whereupon they all answer: Amen.
+Thereafter the pastor and the other ministers shall lay their hands upon them, as was said
+before, etc. After all this the ordinands shall be set in the midst, and the church shall be
+committed unto them to care for and to govern with such words as these: We commit unto you this
+church, in which ye have been chosen elders, that ye govern well and keep in health the flock of
+the Lord which he hath redeemed with his blood and which the Holy Ghost hath entrusted unto you;
+and that ye may perform all this, be circumspect, take diligent heed to all that befalleth, be
+helpful to the ministers of the word in all things. When they take counsel, deal wisely and
+uprightly; in admonitions be modest; in rebuking be ever mindful of love. When ye judge or give
+sentence, lay aside all human affection; all that ye or others bring forward, handle it
+according to the rule of the divine word. Let nothing lie more heavily upon you than the honour
+of God and the edification of the faithful.
+
+**Hesse 1566: deacons.** The deacons of the poor are chosen by the preachers or elders with
+members of the council and congregation, at least two in each church, and put on probation (1
+Timothy 3:10). At their ordination the minister reads them a charge in three points: to show
+that they have the Holy Ghost by seeking only God's honour; to live honourably and rule their
+households; and to gather the alms, rents and dues with care, keep them in a register, pay the
+ministers' wages, relieve the poor in due time, and keep the church fabric in repair. The charge
+ends with the vow. The laying on of hands follows "with common prayer", on the apostles' example
+in Acts 6 (Sehling 8, pp. 207–208). **Hesse, *Kirchenordnung*, 1566** (Sehling 8, p. 211):
+
+<!-- doc 2257 -->
+> Sollet auch allezeit eingedenk sein, daß ihr nit allein menschen, sondern auch Gottes diener
+> seit, und derwegen nit allein den menschen, sondern auch Gott dem Herrn, der sich nit triegen
+> lesset, von euerm ampt rechenschaft geben müsset. Dies seint der diacon in der gemein Gottes
+> vornemste empter, welche in der heiligen schrift angezeigt sein. Darumb beger ich nun von euch
+> vor dem angesicht Gottes und seiner h. engeln, daß ihr wollet angeloben und zusagen, solchs
+> alles treulich zu halten.
+
+Ye shall also be ever mindful that ye are servants not of men only but of God also, and must
+therefore give account of your office not to men only but also to God the Lord, who is not
+deceived. These are the chief duties of the deacons in the congregation of God, which are shewn
+in the holy Scripture. Therefore I now desire of you, before the face of God and of his holy
+angels, that ye will vow and promise to keep all this faithfully.
+
+**Hesse 1566: sextons.** The same order has the sextons (*Opfermänner*, *aeditui*, *custodes*)
+taken on by the pastor and elders with the superintendent's knowledge, with no rite
+(Sehling 8, p. 211).
+
+**Micron's London order: elders.** The Dutch stranger church in London installed both elders and
+deacons by a public "confirmation" (*bestetigung*) with laying on of hands. Its *Ordinancien*
+(1554) are printed by Sehling in the East Frisian German edition of 1565. The elders' rite, in
+chapter 6, runs:
+
+1. After the sermon the elders are set before the congregation. The minister reports from the
+   pulpit that their election was lawful and no hindrance was found.
+2. Three questions:
+   - Do they feel the witness of the Holy Ghost that they take the office for God's honour and
+     not their own?
+   - Do they believe that the prophetic and apostolic doctrine contains all that is needful to
+     salvation?
+   - Will they support the ministers, edify the congregation by their life, and submit to
+     Christian discipline if they offend?
+3. A prayer to Christ and the Lord's Prayer.
+4. The laying on of hands by "the other ministers and the minister of the word", with the
+   blessing quoted below under the Palatinate.
+5. Exhortations to the congregation (to pray for the elders) and to the elders (to fear no man,
+   watch over the ministers' doctrine and life, and guard the flock from wolves).
+6. A psalm and the dismissal.
+
+**Micron, *Ordinancien* (1554), East Frisian German edition, 1565** (Sehling 7/1, p. 596):
+
+<!-- doc 2116 -->
+> Herr Jesu Christe, du Sohn des lebendigen Gottes, der du deine gemeine hie auf erden durch den
+> dienst der menschen, darzu ordenlich beruffen, biß ans ende der welt regieren wilst, wir
+> bitten dich demütiglich, du wollest dise menner, unsere brüder (welche zu dem dienst des
+> regiments dieser deiner gemeine erwehlet sind), mit den gaben deines heiligen Geistes
+> dermassen erleuchten, daß sie in ihrem beruff treulich wandlen und denselbigen biß zum ende
+> ihres lebens aufrichtig treiben mögen, zu deiner und deines himlischen Vaters ehre, welchen
+> wir durch deinen namen demütiglich anruffen, wie wir von dir gelehret sind, sprechende: Unser
+> Vater, der du bist in den himlen etc.
+
+Lord Jesus Christ, thou Son of the living God, who wilt govern thy congregation here on earth
+unto the end of the world by the service of men orderly called thereto: we beseech thee humbly
+that thou wouldest so enlighten these men, our brethren (who are chosen to the service of the
+government of this thy congregation), with the gifts of thy Holy Spirit, that they may walk
+faithfully in their calling and carry it on uprightly unto the end of their life, to the honour
+of thee and of thy heavenly Father, whom we humbly call upon through thy name, as we are taught
+of thee, saying: Our Father, which art in heaven, etc.
+
+**Micron's London order: deacons.** The deacons' rite, in chapter 7, follows the same pattern
+"exactly", as the editor notes. The four questions add a vow to gather and distribute the alms
+"without any respect of persons". The prayer asks Christ, who has commended the poor to us, to
+"root out all roots of covetousness" and give these men his Spirit "as thou didst of old to
+Stephen". After the laying on of hands the minister exhorts the rich to give, the whole
+congregation to sobriety and labour, and the poor to pray for the rich. **Micron, *Ordinancien*
+(1554), East Frisian German edition, 1565** (Sehling 7/1, pp. 597–598):
+
+<!-- doc 2116 -->
+> Herr Jesu Christe, der du uns dich selbst in uns armen und unsere armen in dir selbst
+> eigentlich befohlen hast, daß man ein besondere sorge derselbigen in deiner gemeine tragen
+> sol, darzu diaken durch deine aposteln geordnet sind, wir biten [!] dich demütiglich, du
+> wollest alle wurzelen des geizes auß unsern herzen rotten und diesen männern deinen Geist
+> geben, wie du vorzeiten Stephano, deinem ersten mertler, so zu diesem dienst geordnet war,
+> uberflüssig mitgeteilet hast, auf daß sie deinen armen unter uns gottseliglich und treulich
+> dienen in warer liebe one einiges ansehen der personen oder bewegung ihrer affecten […] Wann
+> das gebet volendet ist, werden ihnen die hende aufgelegt, und der diener spricht mit heller
+> stimme also: Gott der Herr und unser himlischer Vater, der euch zu dem dienst der diakeney
+> beruffen hat, der regiere euch gendiglich mit seiner göttlichen kraft, weißheit und gütigkeit,
+> daß ihr in ihm wirdiglich wandlen möget, zu seiner ehren und seiner gemeinen besserung, umb
+> seines eingebornen Sons Jesu Christi, unsers Herren willen. Amen.
+
+Lord Jesus Christ, who hast expressly commended thyself unto us in our poor, and our poor in
+thyself, that a special care should be had of them in thy congregation, whereunto deacons were
+ordained by thine apostles: we beseech thee humbly that thou wouldest root out of our hearts all
+roots of covetousness, and give unto these men thy Spirit, as thou didst of old impart it
+abundantly to Stephen thy first martyr, who was ordained to this service; that they may serve
+thy poor among us godly and faithfully in true love, without any respect of persons or motion of
+their affections […] When the prayer is ended, hands are laid upon them, and the minister saith
+with a clear voice thus: God the Lord and our heavenly Father, who hath called you to the
+service of the diaconate, govern you graciously with his divine power, wisdom and goodness, that
+ye may walk worthily in him, to his honour and the edification of his congregation, for the sake
+of his only-begotten Son Jesus Christ our Lord. Amen.
+
+**The Palatinate 1592: elders.** The Palatine form of 9 December 1592 for installing the elders
+"who labour not in the word" is Micron's elders' rite almost word for word: the same report from
+the pulpit, the same three questions, the same prayer, laying on of hands, exhortations and
+psalm. No Palatine form for deacons is printed. **Kurpfalz, *Einführung der Senioren*, 9
+December 1592** (Sehling 19/2, pp. 789–790):
 
 <!-- doc 1155 -->
 > Darnach werden ihnen die händt aufgelegt von den andern dienern und vom diener des worts,
@@ -3029,6 +3279,54 @@ psalms of the chief feasts and holy days, and sing them before the people with r
 time, often fill the font with clean, fresh water, and keep and preserve the church and its
 ornaments, and the churchyards also, cleanly, neatly and, as is meet and fitting, seemly.
 
+**Heidelberg 1572: the bell-ringer's appointment and pledge.** In the Palatinate the sexton's
+place was filled by a written appointment (*Bestallung*), to which the appointee answered with a
+signed pledge (*Revers*). The bell-ringer of the collegiate church of the Holy Ghost at
+Heidelberg, Philipp Reysing, was appointed on 15 May 1572 by the steward of the church's
+property. His articles bound him:
+
+1. to take his orders from the ministers, serve the sick as told, and help hear the children in
+   the catechism;
+2. to ring for every sermon and stay in church during it, keeping order;
+3. to keep the cloths, silver and vessels for the Supper and baptism, received by inventory;
+4. to clear out the chests and lumber that hucksters put in the church, and keep the doors
+   clear;
+5. to drive out "the wicked boys and other rabble" who soil the pews between sermons;
+6. to set up and take down the candles and lanterns, and in plague time and damp weather to
+   fumigate the church with burning juniper;
+7. to grease and keep the bells, above all the two great bells and the two choir bells;
+8. to keep the royal, electoral and princely tombs clean and locked, and open them only in his
+   own presence.
+
+His wages were 16 florins 15 albus and money for six pounds of hellers from the foundation,
+three albus for every funeral he rang, three for every wedding, four pence for every baptism in
+the church, two pence from every house at Christmas, and a house or eight florins' rent. The
+Bestallung was renewed for his successor Hans Geyer in 1577. **Heidelberg, *Bestallung eines
+Glöckners*, 15 May 1572** (Sehling 14, p. 457):
+
+<!-- doc 504 -->
+> Solle er gute sorg und achtung zu allen glogken haben undt besonder uf die zwo grösten sampt
+> den 2 kohrglögken, welche dem stieft zu erhalten gebüren, dieselben alle monat schmiren und in
+> gutem wesen erhalten. Soll er die konigliche, chur- und fürstliche greber in und ausser dem
+> chor rein und sauber, auch wol verschlossen halten, das die nicht durch unnütz gesindt
+> zergentzet werden. […] Das hat er also angenomen undt demselben getreulich und bestes vleiß
+> nachzukomen versprochen in urkund dieser ime ubergebner bestallung […] Derwegen bekenn ich
+> mich, daß also angenomen haben, und gelobe hiemit mit gueten treuen, diesem meinem dienst, so
+> lang ich darin verharren werde, müglichstes vleis nach einem vermögen abzuwarten und, was mein
+> bestallung inhelt, mir auch sunsten der kirchen wegen befolhen würt, treulich zu geleben undt
+> zu verrichten.
+
+He shall take good care and heed to all the bells, and specially to the two greatest, together
+with the two choir bells, which the foundation is bound to maintain, and shall grease them every
+month and keep them in good condition. He shall keep the royal, electoral and princely tombs
+within and without the choir clean and neat, and also well locked, that they be not defaced by
+idle rabble. […] This he hath so accepted and promised to perform faithfully and with his best
+diligence, in witness of this appointment delivered unto him […] Therefore I confess that I have
+so accepted, and vow herewith in good faith to attend upon this my service, so long as I shall
+continue therein, with all possible diligence according to my ability, and faithfully to live by
+and perform what my appointment containeth, and what else is commanded me on the church's
+behalf.
+
 ### 12.3 Schoolmasters, cantors and organists
 
 **The schoolmaster's oath.** Schoolmasters, who with their pupils sang the services, were sworn
@@ -3052,9 +3350,95 @@ office and the school at the appointed and fixed time, to have a faithful and di
 of the youths committed to them, and to hold their appointed lessons and the catechism, with the
 hearing of the children, in order and as is fitting at all times
 
-Cantors and organists appear in the orders mainly through their pay, their duties at service and
-funeral, and their fees for the *Brautmesse*. Sehling notes an organist's oath at Öhringen among
-the Hohenlohe oaths (Sehling 15, p. 560). No rite of installation is printed for them.
+**The Palatinate 1580: the schoolmaster's promise.** The Palatine order of 1580 lists the
+"chapters on which every schoolmaster received in the Electoral Palatinate shall make promise".
+He is to remember that he must give account to God for his school; to teach the youth "with all
+friendliness" Luther's catechism as printed in the church order and no other, and nothing
+against the Book of Concord; to keep the school hours; to do what his office requires in church
+as well as school; to live without offence; to obey the church council, superintendent and
+pastor, answer at visitation and appear before the consistory; to be loyal to the Elector; to
+bring civil causes before the officers and spiritual causes before the church council; and not
+to leave his post without leave. The promise closes with handfast, oath and signature.
+**Palatinate, *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun
+solle*, 1580** (Sehling 14, pp. 508–509):
+
+<!-- doc 505 -->
+> Ihr als ein berufener schulmeister sollt euch allezeit und fleissig erinnern euers berufs und
+> befohlenen schulampts und, daß ihr von wegen desselbigen Gott, dem allmächtigen, rechnung thun
+> werdet. Derowegen sollet ihr die jugendt euerer schulen mit allem fleiß getreulich lehren und
+> underweisen, mit aller freundtlichkeit und holdtseligkeit den catechismum Lutheri, wie der
+> unsers gnedigsten herrn kirchenordnung eynverleibt, wol eynbilden, dabey bleiben und keinen
+> andern in euer schul gebrauchen, deßgleichen wider das christlich Concordibuch nichts lehren
+> […] Dieses alles stät, fest und unverbrüchlich zu halten, auch alles anders zu leisten, was
+> einem getreuen schuldiener und gehorsamen underthanen gebürt und wol anstehet, werdet ihr
+> verspruch thun und mit handtgegebner treu angeloben, auch einen leiblichen eydt zu Gott
+> schweren und euch dessen mit eygener underschrift verpflichten und verbinden.
+
+Ye, as a called schoolmaster, shall at all times diligently remember your calling and the school
+office committed unto you, and that ye shall give account thereof to God Almighty. Wherefore ye
+shall teach and instruct the youth of your school faithfully with all diligence, and with all
+friendliness and gentleness impress upon them well the catechism of Luther, as it is
+incorporated in the church order of our most gracious lord, abide thereby and use no other in
+your school; likewise teach nothing against the Christian Book of Concord […] All this to keep
+steadfast, firm and inviolable, and to perform all things else that become and befit a faithful
+servant of the school and an obedient subject, ye shall make promise and vow with hand given in
+faith, and swear also a bodily oath to God, and bind and oblige yourselves thereto by your own
+signature.
+
+**Gengenbach 1536.** The schoolmaster of the imperial town of Gengenbach was bound by his
+*Bestallung* to obey the council and two councillors and one minister set over him as
+"school-lords", to live blamelessly, and to follow the class divisions of Freiburg.
+**Gengenbach, *Bestallung eines Schulmeysters der Statt Gengenbach*, 1536**
+(Sehling 17/1, p. 483):
+
+<!-- doc 804 -->
+> Ein Schulmeyster der Statt Gengenbach soll einem ersamen Rhatt in allen billichen sachen
+> gehorsamen. Auff das erst sollen zwen des Rhats unnd einer uß den dienern der kirchen als
+> schulherren geordnett und sonderlichs uffsehen haben sollen, mit deren Rhat er auch, waß
+> yederzeit der Jugent beßerlich ist, handlen soll. Ein schulmeyster soll onsträfflichs lebens
+> sein, aller beser geselschafft müeßig sten und der Jugent uffß christenlichest, sie
+> christenlichen uffzuziehen, obligen. […] Wie die kirch, also soll auch die schul dahin dienen,
+> das die Jugent in christenlicher kinderleer uffs vleyßigst underricht und also zum himmell,
+> daran es alles ligt, gelert werde.
+
+A schoolmaster of the town of Gengenbach shall obey an honourable council in all fit things.
+First, two of the council and one of the ministers of the church shall be ordained as
+school-lords and shall have special oversight, with whose counsel he shall also deal in
+whatsoever is at any time most profitable for the youth. A schoolmaster shall be of blameless
+life, keep himself from all evil company, and apply himself in most Christian wise to the youth,
+to bring them up Christianly. […] As the church, so also shall the school serve to this end,
+that the youth be instructed most diligently in the Christian children's doctrine and so be
+taught for heaven, whereon all dependeth.
+
+**Organists: Hildesheim 1581.** No organist's oath is printed in the corpus; Sehling notes one
+for Öhringen among the Hohenlohe oaths but does not print it (Sehling 15, p. 560). The
+organist's duties appear instead in contracts. The churchwardens of St Andrew's at Hildesheim
+engaged Severus Kroschen in 1581 for ten years, to play at Saturday Vespers and at Mass and
+Vespers on Sundays and feasts, and to keep the new organ in repair. In return he had a free
+house, sixty thalers a year paid quarterly "like the other ministers of church and school", and
+corn. **Hildesheim, *Bestallung des Organisten Severus Kroschen*, 1581**
+(Sehling 7/2.1, p. 901):
+
+<!-- doc 2138 -->
+> das wir den achtparn und ehrhaftigen Seuerus Kroschen aufs neie wiederumb zehen jarlang, von
+> itzt kunftigen Michaelis ahn zu rechnen, zu einem diener und organisten ahngenomen und bestalt
+> haben, folgender gestalt: Das er alle Sonnabent die vesper, des Sontags und andere festage die
+> messe und vesper obberurter kirche schlagen und sich in seinem ampte, wie dan bißhero auch
+> anderst nicht geschehen, christlich verhalten soll. Zudeme soll er darbeneben der neuen orgeln
+> treulich und vleissig furstehen, mit nichten etwaß vorwarlosen oder verseumen, dadurch das
+> werk in schaden geraten und verderben muchte
+
+that we have taken on and appointed the worshipful and honest Severus Kroschen anew for ten
+years, to be reckoned from Michaelmas next coming, to be a servant and organist after the manner
+following: that he shall play every Saturday the Vespers, and on Sundays and other feast days
+the Mass and Vespers of the aforesaid church, and shall behave himself Christianly in his
+office, as hath not been otherwise hitherto. Moreover he shall also have the charge of the new
+organ faithfully and diligently, and in no wise neglect or omit anything whereby the work might
+come to harm and decay
+
+**Cantors.** The cantor was one of the masters of the Latin school (at Hof in 1546 the cantor
+Georg Hertweg was the schoolmaster's colleague; §14.3) and was bound with the school staff. No
+separate cantor's oath is printed.
 
 ### 12.4 Churchwardens and stewards
 
@@ -3080,10 +3464,69 @@ elected churchwardens and sworn as the need of that office requireth. On St Mich
 old churchwardens shall always deliver and show over to the newly appointed ones all registers
 of inheritance, bonds, deeds, stores, cash
 
-**Prussia 1575 and the Palatinate 1577.** In Prussia in 1575 the churchwardens were "chosen with
-the pastor's counsel and sworn and confirmed by the patrons" (Sehling 4, p. 153). The stewards
-of the church's property in the Palatinate (*Kirchenschaffner*) swore an oath of fidelity to the
-Elector and to Duke Johann Casimir in 1577 (Sehling 19/2, p. 749).
+**Prussia 1575.** In Prussia in 1575 the churchwardens were "chosen with the pastor's counsel
+and sworn and confirmed by the patrons" (Sehling 4, p. 153).
+
+**Saxe-Lauenburg 1585: the churchwarden's oath.** Lauenburg gives the oath in the first person.
+It is followed by the reading of the warden's duties from the church order: to keep a book with
+copies of all the church's seals and deeds and the originals locked in the church; to record all
+its lands, rents and dues; and to render account. **Saxe-Lauenburg, *Kirchenordnung*, 1585**
+(Sehling 5, p. 420):
+
+<!-- doc 1953 -->
+> Eid eines kirchengeschworens. Ich, N., schwere und gelobe gott dem allmechtigen, dass ich in
+> diesem meinem ampte eines kirchgeschworen, darzu ich jtzo ordentlicher weise erwehlet und
+> vorordnet bin, wolle treu und fleissig sein, der kirchen und des pfarrherrn bestes, an dem
+> ihrem unvorseumlich wissen und befodern, und ihren schaden vorhüten, und in diesem ganzen
+> ampte alles, was dem zugehörig ist, getreulich nach meinem besten vormügen und vorstande
+> vorrichten, als mir gott helfe und sein heiliges wort.
+
+The oath of a churchwarden. I, N., swear and vow to God Almighty that in this my office of
+churchwarden, whereunto I am now orderly chosen and appointed, I will be faithful and diligent;
+will know and further without neglect the good of the church and of the pastor in what is
+theirs, and prevent their harm; and in this whole office will perform faithfully all that
+belongeth thereto, according to my best ability and understanding: so help me God and his holy
+word.
+
+**The Palatinate 1577: the stewards of church property.** The *Kirchenschaffner*, the stewards
+of the former ecclesiastical property, swore loyalty to their two lords. **Palatinate, *Eid der
+Kirchenschaffner*, May 1577** (Sehling 19/2, p. 749):
+
+<!-- doc 1141 -->
+> Ihr werdet geloben und schweren, meinem gnädigen fürsten und herrn, hertzogen Johann
+> Casimiren, pfaltzgrafen etc., alß euerm castenvogt, schutz- und schirmherrn und landtsfürsten
+> etc., und dem pfaltzgrafen Ludwigen, churfürsten etc., von wegen der halben nutzung der gefel
+> getreu, holdt, gehorsamb und gewertig zu seyn, ihrer chur- und f. gnaden schaden zu warnen und
+> zu wenden, frommen und bestes zu werben und zu fördern, treulich und ohne gefährde.
+
+Ye shall vow and swear to my gracious prince and lord, Duke John Casimir, Count Palatine, etc.,
+as your advocate, protector and defender and prince of the land, etc., and to the Count Palatine
+Lewis, Elector, etc., by reason of the half share in the revenues, to be faithful, loyal,
+obedient and ready, to warn and turn away harm from their electoral and princely graces, to seek
+and further their profit and good, faithfully and without guile.
+
+**Strasbourg 1523: the steward of the poor.** The Strasbourg poor order of 1523 set a
+*Schaffner* over the alms, who swore to the poor themselves. **Strasbourg, *Armenordnung*,
+longer version, 4 August 1523** (Sehling 20/1, p. 113):
+
+<!-- doc 1276 -->
+> schaffner sol schwören einen eydt liplichen zuo Got unnd den heyligen, den armen luten getruw
+> unnd holt zuo sin, iren nutze unnd frommen zuoschaffen, iren schaden zuowarnen unnd zuowenden,
+> ouch den obgemelten verordenten herren unnd nun pflegern gehorsam unnd gewärtig zuo sin unnd
+> den selben umb sin innemmen unnd ußgeben alle fierteil jars ein erbere, uffrechte rechnunge
+> zuothuon
+
+the steward shall swear a bodily oath to God and the saints, to be faithful and loyal to the
+poor folk, to procure their profit and advantage, to warn and turn away their harm, and also to
+be obedient and ready to the aforesaid appointed lords and nine wardens, and to render unto them
+every quarter of a year an honest, upright account of his receipts and expenses
+
+**Wittenberg 1533.** At Wittenberg the six "pious, God-fearing" wardens (*Vorsteher*) of the
+common chest were appointed and sworn each year by the council and pastor (Sehling 1, p. 708).
+
+**Secretaries.** No oath of a church secretary or clerk is printed. The Dithmarschen privilege
+of 1605 confirms the parishes' right of election, vocation and appointment (*bestallung*) of
+"all priests, schoolmasters, sextons, organists, parish clerks" (Sehling 23, p. 509).
 
 ### 12.5 Midwives
 
@@ -3241,52 +3684,111 @@ place holy.
 ### 14.2 Opening a new church or churchyard
 
 **A sermon in place of a rite.** Where a new church or burial ground was brought into use, the
-orders give no form. The evidence points to a sermon in place of a consecration:
+orders give no form. What the corpus records are the occasions, and they point to a festal
+service with a sermon in place of a consecration:
 
 - **Hohenlohe, 1562.** Johann Hofmann preached a "sermon on the right consecration of a
   churchyard and its church" at the opening of a new cemetery and its church on 16 July 1562. It
   was printed with his funeral sermons in 1599 (Sehling 15, p. 243, editor's note).
+- **Hof, 1546 and 1572.** The two Hof dedications are described in §14.3.
+- **Colmar, 1575.** The Franciscan church in the hospital at Colmar was "brought to the right
+  use and dedicated" (*eingeweyhet*) for evangelical preaching on 15 May 1575. The deacon David
+  Hiemeyer recalled the first service in a print of 1590 (Sehling 20/2, p. 478, editor's note).
+- **Waldenburg, 1591.** The new church at Waldenburg in Hohenlohe was to be "dedicated" on 1
+  January 1591. Count Georg Friedrich asked for a share of the old Mass vestments and copes of
+  Öhringen "for its adornment" (Sehling 15, p. 431, editor's note).
 - **Henneberg, 1635.** The Henneberg consistory reported in 1635 that "when a new church or
   pulpit is built, the dedication is done by the special superintendent" (Sehling 2, p. 326).
   This report falls outside the period, and no form is given.
 
-### 14.3 The anniversary kept: Hof 1592
+### 14.3 Hof: the dedication of 1572 and its yearly festival
 
-**Hof 1592.** The one evangelical dedication festival described in detail is that of St
-Michael's at Hof in the margraviate of Kulmbach. The church was rebuilt and "dedicated" on the
-eighth Sunday after Trinity, 27 July 1572, in the presence of the captain, the superintendent
-Andreas Pangratius and the clergy and schoolmasters. Pangratius ordered that the day be kept
-every year. The order of 1592 describes the festival:
+**The dedication of 1572.** St Michael's at Hof in the margraviate of Kulmbach is the one
+evangelical church whose dedication is described with its participants, date and yearly
+commemoration. The church was rebuilt and "dedicated or entered" (*dedication oder bezihung*) on
+the eighth Sunday after Trinity, 27 July 1572. The order of 1592 names those who performed it:
 
-- **The procession.** The clergy, council and whole town gathered at the Franciscan church after
-  the second peal. They went in procession with the schoolboys, crowned with wreaths, and the
-  schoolgirls to St Michael's. They sang *Sei Lob und Ehr mit hohem Preis*, *Erhalt uns, Herr,
-  bei deinem Wort* and *Laetatus sum*. The lane was strewn with grass and set with May-boughs.
-- **The sermon.** The superintendent, in alternate years, either recited the history of the
-  building at length or summarized it and then expounded the Sunday Gospel.
+- the captain of Hof, Hans Paul von Schaumberg;
+- the superintendent, Master Andreas Pangratius;
+- Johann Sahr, pastor of the hospital;
+- Jacob Schlemmer, schoolmaster, and Laurentius Codomannus, rector of the school.
 
-**Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 467):
+The order does not print the form used in 1572. It does give the festival by which the
+dedication was kept every year, and that festival repeats what the 1592 order says was done "in
+Christian wise" on the day: a procession of the whole town, the sermon on the building, and the
+dedication Mass and Vespers. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 467):
 
 <!-- doc 294 -->
 > Solches alles geschicht der ursach halben, das anno Christi 1572, demnach die schöne
 > pfarrkirchen ad d[ivum] Michaelem ganz und gar ausgebauet und in diese form, so sie izt hat,
 > gebracht, die dedication oder bezihung derselben uf diesen achten sontag Trinitatis, welcher
-> damals war der 27. Julii, ist furgenommen und christlich verrichtet worden […] Damit aber
-> solche dedicatio in frischer gedechtnus erhalten und die ursach derselben den leuten zu
-> gewieser zeit eingebildet werde, so ist löblich und wol vom ehrengedachten herren m.Andreas
-> Pangratio angeordnet und seinen herren succesoren hinderlassen, daß sie jerlich begangen und
-> solemniter celebrirt werden soll.
+> damals war der 27. Julii, ist furgenommen und christlich verrichtet worden, da der gestrenge,
+> edle und ehrenveste Hanns Paulus von Schaumberg allhie haubtman, der ehrwirdige und wolgelerte
+> herr m.Andreas Pangratius p[iae] m[emoriae] superattendens, Herr Johann Sahr p[iae] m[emoriae]
+> pfarrherr im spital, herr Jacob Schlemmer schulmeister und neben ihm herr Laurentius Codomanus
+> (hernach pfarrherr zu Baireuth) scholae nostrae rector gewesen ist. Damit aber solche
+> dedicatio in frischer gedechtnus erhalten und die ursach derselben den leuten zu gewieser zeit
+> eingebildet werde, so ist löblich und wol vom ehrengedachten herren m.Andreas Pangratio
+> angeordnet und seinen herren succesoren hinderlassen, daß sie jerlich begangen und solemniter
+> celebrirt werden soll.
 
 All this is done for this cause: that in the year of Christ 1572, after the fair parish church
 of St Michael had been wholly built out and brought into the form it now hath, the dedication or
 entering thereof was undertaken and performed in Christian wise upon this eighth Sunday after
-Trinity, which was then the 27th of July […] But that such dedication may be kept in fresh
-remembrance, and the cause thereof be impressed upon the people at a set time, it was laudably
-and well ordained by the aforesaid Master Andreas Pangratius, and left to his successors, that
-it should be kept yearly and solemnly celebrated.
+Trinity, which was then the 27th of July; when the strict, noble and worshipful Hans Paul von
+Schaumberg was captain here, the reverend and well-learned Master Andreas Pangratius, of pious
+memory, superintendent, Master Johann Sahr, of pious memory, pastor in the hospital, Master
+Jacob Schlemmer schoolmaster, and beside him Master Laurentius Codomannus (afterwards pastor at
+Bayreuth) rector of our school. But that such dedication may be kept in fresh remembrance, and
+the cause thereof be impressed upon the people at a set time, it was laudably and well ordained
+by the aforesaid Master Andreas Pangratius, and left to his successors, that it should be kept
+yearly and solemnly celebrated.
 
-**The propers.** The order then gives the music of the *Officium dedicationis templi*. It keeps
-the texts of the old Mass of a church's dedication in polyphonic settings:
+**The yearly festival.** The rite of the festival runs:
+
+1. **Assembly.** After the second peal the clergy, the council, the whole town and the
+   schoolgirls gather at the Franciscan (cloister) church, the schoolboys at the school.
+2. **Procession.** At the full peal the schoolboys, crowned with wreaths, go in through the old
+   cloister door, round behind the stalls under the nuns' gallery and out at the great door,
+   singing *Sei Lob und Ehr mit hohem Preis*. The whole town follows them in procession to St
+   Michael's. On the way the boys sing *Erhalt uns, Herr, bei deinem Wort*, *Laetatus sum*
+   (Gallus Dressler) and *Laus Deo fonti bonorum*. The schoolgirls and women follow, singing
+   *Sei Lob und Ehr* and *Herr Gott, dich loben wir*. The neighbours strew the lane with grass
+   and set May-boughs on either side "to the honour of God and his church".
+3. **Sermon.** The superintendent, in alternate years, either summarizes the Gospel and tells at
+   length the history of the church "from trustworthy old letters, the report of old people and
+   other sure evidence", or summarizes that history and expounds a point of the Sunday Gospel.
+4. **Mass and Vespers** with the dedication propers (below).
+
+**Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 467):
+
+<!-- doc 294 -->
+> Dominica VIII. Trinitatis, qua celebratur dedicatio templi divi Michaelis. Es wird dieser
+> achte sontag nach Trinitatis, an welchem man das fest der kirchweih zu S.Michaelis zu halten
+> pflegt, mit sonderlichen ceremonien und kirchengebreng begangen, indeme sich der geistliche
+> und weltliche stand sowol die ganze burgerschaft, mann- und weibspersonen, auch die
+> schulmägdlein nach gehörtem andern puls für die closterkirchen (die schuler aber in die schul)
+> versamlen und, wann man zusammen schlegt, mit den schulern (welche als dann mit schönen
+> krenzlein geschmuckt zur tur, da vor alters der creuzgang gewesen, hienein in die
+> closterkirchen, dann hinden umb die stul bei der nonnenporkirchen und zur fördersten grosen
+> tur, neben ihren praeceptorn widerumb hinausgehen, singende: Sei lob und ehr mit hohem preis)
+> in einer ordentlichen procession, wie droben bei dem pfingstmontag auch gedacht, in sanct
+> Michaelis oder die pfarrkirchen sich verfügen und allda des gottesdienst abwarten.
+
+The eighth Sunday after Trinity, on which is celebrated the dedication of the church of St
+Michael. This eighth Sunday after Trinity, on which the feast of the church-hallowing at St
+Michael's is wont to be kept, is observed with special ceremonies and church pomp: in that the
+spiritual and the temporal estate, and also the whole burghership, men and women, and the
+schoolgirls also, after the second peal is heard, gather before the cloister church (but the
+scholars in the school); and when all the bells are rung together, with the scholars (who then,
+adorned with fair wreaths, go in at the door where of old the cloister walk was, into the
+cloister church, then round behind the stalls by the nuns' gallery and out again at the foremost
+great door beside their masters, singing *Sei Lob und Ehr mit hohem Preis*), they betake
+themselves in an orderly procession, as is said above at Whit Monday also, into St Michael's or
+the parish church, and there wait upon the divine service.
+
+**The propers.** The order gives the music of the *Officium dedicationis templi*. It keeps the
+texts of the old Mass and Office of a church's dedication in polyphonic settings:
 
 - **Introit:** *Terribilis est locus iste*, followed by a Mass of Georg Forster.
 - **After the epistle:** *Verba mea auribus percipe* (Lassus).
@@ -3295,6 +3797,33 @@ the texts of the old Mass of a church's dedication in polyphonic settings:
 - **At Vespers:** the antiphon *In domum Domini ibimus*, Psalm 116 (*Dilexi*), the responsory
   *Si bona suscepimus*, the hymn *O lux beata*, and *Erhalt uns, Herr, bei deinem Wort* in place
   of the Magnificat (Sehling 11, p. 468).
+- **In the psalter of the Office:** for the feast of the dedication, the antiphon *In domum
+  Domini laetantes ibimus* with Psalm 84, *Quam dilecta tabernacula* (Sehling 11, p. 422).
+
+**The school dedication of 1546.** The same order describes a second dedication at Hof, kept
+yearly on Whit Monday with the same kind of procession. Margrave Albrecht gave the empty
+Franciscan friary to the town in 1543 for a school. Its "dedication", set for 1545, was put off
+by plague. On Whit Monday 1546 the town went in procession from the parish church to the
+cloister church, and after the service the schoolmaster and his colleagues led the boys into the
+new school, where the superintendent exhorted them. Each year the town walked, with the
+schoolboys in wreaths (the lower classes in the white shirts their godparents had given them),
+from St Michael's to the cloister church singing *Veni Sancte Spiritus*, *Apparuerunt apostolis*
+and *Sei Lob und Ehr*. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 464):
+
+<!-- doc 294 -->
+> in welchen man uf vorbemelten pfingstmontag aus der pfarrkirchen eine procession in die
+> closterkirchen gehalten und nach verrichtetem gottesdinst Herr Jacob Schlemmer, schulmeister
+> […] neben seinen zweien collegen als Georgen Hertweg, cantorn, und Wolfgang Döberlein,
+> baccalaureo […] die schuler in die neue schul geführt, sie in gegenwart des herren Leonhardi
+> Eberhardi als pastoris und superattendentis zu allem gutem vermahnet und dann nach wenig tagen
+> ihre exercitia darinnen zu verrichten angefangen haben.
+
+in which, upon the aforesaid Whit Monday, a procession was held out of the parish church into
+the cloister church; and after the divine service was done, Master Jacob Schlemmer, schoolmaster
+[…] together with his two colleagues, namely Georg Hertweg, cantor, and Wolfgang Döberlein,
+bachelor […] led the scholars into the new school, exhorted them to all good in the presence of
+Master Leonhard Eberhard as pastor and superintendent, and then after a few days they began to
+do their exercises therein.
 
 **Regensburg, about 1567.** Regensburg kept a comparable anniversary. On the Sunday after 15
 October the choir sang figural music "on account of the dedication of the temple". That day
@@ -3514,8 +4043,11 @@ believed to drive off storms, hail and the demons in them. The evangelical order
 a bell. They divided over the ringing itself.
 
 **Saxony 1528.** The Saxon *Unterricht der Visitatoren* of 1528 (repeated in 1539) let
-weather-ringing continue, re-explained as a call to prayer. **Saxony (Ernestine), *Unterricht
-der Visitatoren*, 1528** (Sehling 1, p. 170):
+weather-ringing continue, re-explained as a call to prayer. Between the two passages quoted it
+explains that God sends storms as punishment and good weather as his gift (Leviticus 26,
+Deuteronomy 28). The passage (with the whole end of its chapter) is missing from the edition of
+1538, according to Sehling's apparatus. **Saxony (Ernestine), *Unterricht der Visitatoren*,
+1528** (Sehling 1, pp. 170–171):
 
 <!-- doc 9 -->
 > Dieweil aber das selbige leuten hernachmals misgebraucht, und dafür gehalten ist worden, das
@@ -3524,7 +4056,11 @@ der Visitatoren*, 1528** (Sehling 1, p. 170):
 > volk vermaneten, so sich ungewitter hebet, und wo man leutet, das solche gewonheit darümb
 > gehalten werde, nicht das der glocken dohn und weihung der glocken das wetter oder frost
 > vertreibe, wie bisher geleret und gehalten ist worden, sondern das man dadurch erinnert würde,
-> gott zu bitten, uns die früchte der erden behüten.
+> gott zu bitten, uns die früchte der erden behüten. […] Wenn nu das leuten abgethan, so würde
+> villeicht das volk deste weniger erinnert, das von gott das wetter kömpt, und rüfet gott deste
+> minder an. Es würden auch die leute deste wilder, wenn sie nicht vermanet werden, gott umb
+> leben und narung zu bitten. Doch mus das der prediger viel bas ausrichten, denn die glocken,
+> sonst würde ein teufelstreudel daraus, wie zuvor gewest.
 
 But since the same ringing was afterwards misused, and it was held that the bells (and perchance
 for this cause, that men had for a time undertaken to hallow them) should drive away the
@@ -3532,6 +4068,10 @@ weather, it were not amiss that the preachers in summertime admonished the peopl
 storm ariseth and men ring, this custom is kept to this end: not that the sound of the bells and
 the hallowing of the bells driveth away the weather or the frost, as hath been taught and held
 hitherto, but that men be thereby reminded to pray God to preserve us the fruits of the earth.
+[…] If now the ringing were done away, the people would perchance be the less reminded that the
+weather cometh from God, and would call upon God the less. The people would also grow the wilder
+if they were not admonished to pray God for life and sustenance. Yet the preacher must do this
+far better than the bells, else a devil's game would come of it, as it was before.
 
 **Saxony 1580.** The later Saxon order of 1580 abolished weather-ringing outright, because of
 the bell baptism behind it. **Saxony, *Ordnung* of Duke August, 1580** (Sehling 1, p. 453):
@@ -3782,7 +4322,205 @@ saints and faithful, from which body thou hadst torn thyself by thy vices, shame
 offences; that thou shalt hereby now be again incorporated into the same, in the name of God the
 Father, and of the Son, and of the Holy Ghost. Amen.
 
-### 16.4 The Reformed form: Micron's London order
+### 16.4 The Mecklenburg consistory order of 1570
+
+**The procedure.** The Mecklenburg consistory order of 1570 gives the fullest Lutheran account
+of the procedure (its chapter "Von der excommunication"). It begins from Matthew 18 and the rule
+of Deuteronomy 17, "judge with right judgement": a preacher must not only mean well but keep "a
+due and orderly process". The order distinguishes secret sins, which are to be rebuked in secret
+and never named from the pulpit, from notorious sins (*notoria facti* and *notoria iuris*).
+Grubenhagen in 1581 repeats much of this text word for word (§16.1). The steps are:
+
+1. **Admonition.** The pastor admonishes the open sinner once or twice, alone or before two or
+   three witnesses, warning that he will otherwise have to proceed further. A sinner who
+   repents, even on his deathbed, is absolved without further penalty.
+2. **Citation.** If he despises the admonition, the pastor reports him to the consistory, which
+   is "the church" of Matthew 18: not "the common unlearned rabble", nor a pope or bishop, but
+   "godly, Christian, learned, understanding men and elders" of all estates. The consistory
+   cites him.
+3. **Hearing.** He is admonished again and, if he denies the deed, convicted by two or three
+   witnesses, or, if the case is one of doctrine, by God's word. If he then recants, he incurs
+   no civil infamy, and the pastor announces his conversion to the church.
+4. **Sentence.** If he still despises the consistory or fails to appear, he is named from the
+   pulpit of his own parish and put in the ban by public sentence of the consistory.
+5. **Execution.** The officer forbids him weddings, taverns and honourable company, but not his
+   trade. He stands at a separate place in church at every sermon, and on communion Sundays the
+   sexton leads him out through the people after the sermon and prayer.
+6. **Absolution.** After a time of probation the pastor and officer report his amendment in
+   writing; the consistory releases him and orders the pastor to reconcile him publicly on the
+   next Sunday.
+7. **Burial.** If he dies impenitent, the parish is not to attend his burial; he is to be buried
+   "as a member cut off".
+
+**The form of excommunication.** The pastor's address opens with a long exposition: God's
+unchangeable order is that men either obey his word or, if they sin wilfully and openly, are
+cursed; therefore God has commanded not only the magistrate to punish public crimes but the
+church to cast out those who despise its admonition. The pastor then names the sinner and the
+sin, rehearses the admonitions, and pronounces the sentence. **Mecklenburg,
+*Consistorialordnung*, 1570** (Sehling 5, pp. 245–246):
+
+<!-- doc 1926 -->
+> Nun wisset ihr, wie in dieser kirchen N. N. bishero öffentliche falsche lehre und rotterei
+> ausgebreitet und verteidinget (oder ein öffentlicher bekannter todschleger, ehebrecher, hurer,
+> wucherer, trunkenboltz ist). Derhalben er auch etliche mal von mir als seinem pastor, in
+> beisein zweier oder dreier zeugen, letzlich auch von dem erwirdigen consistorio treulich und
+> ernstlich vermanet ist, von diesem irrtum oder laster abzustehen, und sich mit gott und der
+> geergerten kirchen zu versönen. Dieweil er aber alle treue vermanung verachtet und in seinem
+> muthwilligen ungehorsam, wider gottes wort und willen, trotziglich und halsstarriglich
+> verharret, so hat das erwirdige consistorium beschlossen und mir befohlen, demselben
+> ungehorsamen, halsstarrigen verfürer (wann er falscher lehre halben verdammt wird) oder sünder
+> N. N., in diesem kirchspiel wonhaftig, auf heutigen sonntag in den öffentlichen bann
+> abzukündigen und aus dieser christlichen kirchengemeinschaft aus zuschliessen. Derhalben ich,
+> als dieser christlichen kirchen gemeiner diener und seelssorger, in dem namen unsers herrn
+> Jesu Christi, diesen unbussfertigen offentlichen (verführer, lasterer, ehebrecher, hurer,
+> wucherer) N. N. dem teufel itzundt ubergebe zum verderben des fleisches, auf dass sein geist
+> selig werde am tage des herrn, wann er sich wiederum bekeren wird. Verkündige im hiemit gottes
+> schrecklichen zorn und ungnade, und dass er von aller gemeinschaft aller heiligen im himmel
+> und auf erden ausgeschlossen und abgeschnitten, und mit allen teufeln in der helle verflucht
+> und ewiglich verdammt sei, so lange er in dieser unbussfertigkeit verharret. Versage ihm auch
+> hiemit alle kirchenrecht und aller heiligen sacrament gemeinschaft, ausgenommen die anhörung
+> der predigt. Bitte auch und vermane alle christen, dass sie mit diesem N. N. forthin nichts zu
+> schaffen haben, und sich seiner gemeinschaft ganz entschlahen, nicht mit ime essen oder
+> drinken, ihn nicht zu gevattern bitten, zu keiner hochzeit oder anderer ehrliche gesellschaft
+> laden, auch auf der strassen oder sonst nicht grüssen, damit er beschemet und gedemütiget
+> werde und seine sünde desto ehr bekenne und sich zu gott bekehre und mit der christlichen
+> kirchen, die er mit seinem ungehorsam zum höchsten beleidiget und geergert hat, versüne etc.
+
+Now ye know how in this church N. N. hath hitherto spread abroad and defended public false
+doctrine and faction (or is an open, known manslayer, adulterer, whoremonger, usurer, drunkard).
+For which cause he hath been several times faithfully and earnestly admonished by me as his
+pastor, in the presence of two or three witnesses, and lastly also by the reverend consistory,
+to desist from this error or vice and to be reconciled with God and the offended church. But
+since he hath despised all faithful admonition and continueth defiantly and obstinately in his
+wilful disobedience against God's word and will, the reverend consistory hath resolved and
+commanded me to proclaim the same disobedient, obstinate seducer (when he is condemned for false
+doctrine) or sinner N. N., dwelling in this parish, on this present Sunday into the public ban,
+and to shut him out of this Christian fellowship of the church. Therefore I, as the common
+minister and pastor of this Christian church, in the name of our Lord Jesus Christ, do now
+deliver this impenitent, public (seducer, blasphemer, adulterer, whoremonger, usurer) N. N. unto
+the devil for the destruction of the flesh, that his spirit may be saved in the day of the Lord,
+when he shall turn again. I declare unto him herewith God's terrible wrath and displeasure, and
+that he is shut out and cut off from all fellowship of all saints in heaven and on earth, and
+cursed and eternally damned with all devils in hell, so long as he continueth in this
+impenitence. I deny him also herewith all rights of the church and the fellowship of all holy
+sacraments, save the hearing of the sermon. I beseech and exhort also all Christians that they
+have nothing more to do with this N. N., and withdraw themselves wholly from his company; not
+eat or drink with him, not ask him to stand godfather, not bid him to any wedding or other
+honourable company, nor greet him in the street or elsewhere; that he may be ashamed and
+humbled, and the sooner confess his sin and turn to God, and be reconciled with the Christian
+church, which he hath offended and scandalized in the highest degree by his disobedience, etc.
+
+**The absolution from the ban.** On the Sunday appointed the pastor announces the consistory's
+release and bids the people pray. The excommunicate kneels before the congregation; the pastor
+says the public confession and the absolution "as is customary in our churches", and the act
+ends with the usual hymn. **Mecklenburg, *Consistorialordnung*, 1570** (Sehling 5, p. 246):
+
+<!-- doc 1926 -->
+> Ihr geliebten in Christo, nachdem bis anher dieser N. ein zeitlang von wegen seiner
+> misshandlung und verstockung aus der heiligen christlichen kirchen, als ein unnutz glied,
+> abgesondert, und von dem heiligen sacrament des nachtmals, auch andern ehrlichen
+> kirchenversammlungen ausgeschlossen gewesen, und aber sich seither aus gottes gnaden in dieser
+> straf gehorsamlich, geduldig und christlich gehalten, auch versprochen, er wolle forthin durch
+> gottes gnade ein christlich unergerlich leben führen. So haben die verordenten des consistorii
+> nach empfangenen bericht und eingenommener kundschaft erkennet, dass der bemeldte N. seiner
+> kirchenstraf zu diesemmal, vergangener sachen halben erledigt und wiederum zu der empfahung
+> des heiligen sacraments des abendmals, auch andern ehrlichen kirchenversammlungen zugelassen
+> werde. Und sollet ir alle hierauf verwarnet sein, fleissig zu bitten, dass der allmechtige
+> barmherzige gott diesem N. und uns allen unsere sünde durch Jesum Christum gnediglich
+> vergeben, und mit dem heiligen geist begnaden wolle, dass wir bis in unsern tod ein züchtig,
+> ehrlich leben führen, durch Jesum Christum, unsern herrn. Darauf soll der pfarrherr den
+> excommunicirten, so vor angesicht der gemeine nieder gekniet, die öffentliche beichte und
+> alsbalt auch die absolution, wie die in unsern kirchen ublich, fürsprechen und den acctum
+> ecclesiae mit dem gewöhnlichen gesange beschliessen.
+
+Dearly beloved in Christ, forasmuch as this N. hath hitherto for a time been separated, as an
+unprofitable member, from the holy Christian church because of his misdeed and obstinacy, and
+shut out from the holy sacrament of the Supper and from other honourable assemblies of the
+church; and hath since, by God's grace, behaved himself obediently, patiently and Christianly
+under this punishment, and hath also promised that he will henceforth by God's grace lead a
+Christian life without offence: therefore the appointed members of the consistory, after report
+received and inquiry made, have judged that the said N. is released from his church punishment
+for this time, as touching things past, and admitted again to the receiving of the holy
+sacrament of the Supper and to other honourable assemblies of the church. And ye shall all be
+warned hereupon diligently to pray that the almighty, merciful God will graciously forgive this
+N. and us all our sins through Jesus Christ, and endue us with the Holy Ghost, that we may lead
+a chaste and honourable life unto our death, through Jesus Christ our Lord. Thereupon the pastor
+shall say before the excommunicate, who kneeleth before the face of the congregation, the public
+confession and forthwith the absolution as is customary in our churches, and shall close the act
+of the church with the usual hymn.
+
+### 16.5 Mansfeld 1580: discipline, the ban and open penance
+
+**The ban.** The Mansfeld agenda of 1580 (chapter 19) records the agreement of the Mansfeld
+synod of 1562 to keep the discipline "which hath been customary in the churches of this county
+now many years". The ban is "the public separation from the Christian congregation and
+delivering to Satan of the impenitent and persistent sinners". As in Saxony and Mecklenburg, no
+pastor may proceed of himself: the consistory weighs the case, and if it resolves on the ban it
+commits the pastor of the parish and gives him a written form (*notel*) from which he may not
+depart or mix in his own feelings (Sehling 2, p. 241). The pronouncement follows Paul's words in
+1 Corinthians 5.
+
+**Open penance without the ban.** Chapter 19 defends the Mansfeld practice of requiring open
+penance not only from the excommunicate but from every notorious sinner, against those who
+called it defamation. Such sinners "are de facto in the ban, though the church hath not yet shut
+them out", and what was sinned against all must be made good before all. **Mansfeld,
+*Kirchen-Agenda*, 1580** (Sehling 2, pp. 241–242):
+
+<!-- doc 1241 -->
+> Man sol aber auch das wissen, das gott in seiner schrift zwischen den offentlich verbanneten
+> und anderen beharlichen und ergerlichen sündern keinen unterscheid machet, denn solche sind de
+> facto im bann, ob sie schon die kirche noch nicht hat ausgeschlossen […] Wenn nu aber eine
+> ganze kirche und gemeine beleidiget und geergert ist durch offentliche sünde und laster, wie
+> kan denn die abbittung und versöhnung gegen dieselbe anders denn offentlichen geschehen, was
+> gegen allen offentlich gesündiget worden, das muss je gegen allen offentlich abgetragen werden
+
+But this also is to be known, that God in his Scripture maketh no difference between those
+publicly banned and other persistent and offensive sinners; for such are de facto in the ban,
+though the church hath not yet shut them out […] But now when a whole church and congregation is
+offended and scandalized by public sin and vice, how then can the begging of pardon and the
+reconciliation toward it be done otherwise than publicly? What hath been sinned publicly against
+all must surely be made good publicly toward all.
+
+**The rite of open penance.** Chapter 20 gives the "process how those who do open penance are
+received again into the fellowship of the church":
+
+1. A time of probation, to see that the repentance is earnest.
+2. A day is appointed. After the sermon the pastor names from the pulpit, in the penitent's
+   presence, his fall and sin, his conversion and his begging pardon for the offence.
+3. The penitent kneels or stands before the altar, and the minister asks him publicly three
+   questions: whether he confesses that he has sinned openly, angered God and offended many
+   Christians; whether he is heartily sorry and desires to be reconciled by open penance with
+   God and the offended congregation; whether he means by God's help to amend, and truly
+   believes that for Christ's sake his sins are forgiven him by the holy absolution. He answers
+   "Yes".
+4. The public absolution, below.
+5. An exhortation to the people to recognize their own weakness, "for whoso standeth, let him
+   take heed lest he fall" (1 Corinthians 10:12).
+
+**Mansfeld, *Kirchen-Agenda*, 1580** (Sehling 2, pp. 242–243):
+
+<!-- doc 1241 -->
+> Absolutio. Gott der vater unsers herrn Jesu Christi, der dich zuerkentnis deiner sünden bracht
+> hat, und geschworen: Als war ich lebe, ich wil nicht den tod des Sünders, sondern das er sich
+> bekere und lebe, der hat dir umb seines lieben sons willen alle deine sünde verziehen. Und
+> ich, als ein unwirdiger diener, spreche dich an seiner stat, und in seinem namen, auch
+> offentlich, und für dieser gemeine allhie von denselben los, und neme dich auf zu dieser
+> seiner heiligen kirchen gemeinschaft, daraus du gefallen warest. Auf das du von im mit seinem
+> heiligen geist regieret werdest, und mit uns andren seines heiligen sacraments nützlich und
+> wirdiglich, zu sterkung deines glaubens und des lebens besserung brauchen, und ewig selig
+> werden mögest. Im namen gottes des vaters, und des sons, und des heiligen geistes, † Amen.
+
+Absolution. God the Father of our Lord Jesus Christ, who hath brought thee to the knowledge of
+thy sins, and hath sworn: As I live, I will not the death of the sinner, but that he turn and
+live; he hath forgiven thee all thy sins for his dear Son's sake. And I, as an unworthy
+minister, in his stead and in his name, do also publicly and before this congregation here loose
+thee from the same, and receive thee into the fellowship of this his holy church, out of which
+thou hadst fallen; that thou mayest be governed by him with his Holy Spirit, and use with us
+others his holy sacrament profitably and worthily, to the strengthening of thy faith and the
+amendment of life, and be saved for ever. In the name of God the Father, and of the Son, and of
+the Holy Ghost. † Amen.
+
+### 16.6 The Reformed form: Micron's London order
 
 **Micron's order.** The fullest Reformed rite is that of the Dutch stranger church in London, in
 Marten Micron's *Ordinancien* of 1554. Sehling prints it in the German translation used in East
@@ -3842,7 +4580,7 @@ reverse:
 4. A prayer is said in which the whole congregation joins its sins to his.
 5. He confesses and is received again (Sehling 7/1, pp. 653–655).
 
-### 16.5 Other orders
+### 16.7 Other orders
 
 The same pattern, with local variations, appears in:
 
@@ -3854,9 +4592,6 @@ The same pattern, with local variations, appears in:
   three times and then separate the offender by forbidding the sacraments (Sehling 14, p. 388).
   Later Palatine ordinances add chapters *De excommunicatione* and *De receptione*
   (Sehling 14, pp. 423–424).
-- **Mecklenburg 1567 and Mansfeld.** These orders treat the ban, public penance and "absolution
-  from the ban" in dedicated chapters on the consistory pattern of Wittenberg
-  (Sehling 5, p. 246; 2, p. 216).
 - **Town of Brandenburg 1542.** A dissenting voice: the sacrament was to be refused to no one,
   since one whom God's word does not move will not be moved by exclusion; grave crimes belong to
   the civil power (Sehling 3, p. 255).
@@ -3936,28 +4671,33 @@ numbers refer to this guide.
 | Electoral Saxony, Wittenberg consistory 1542 | communion of the sick (8.2); form of excommunication and reconciliation (16.2) | reserved sacrament (8.2) |
 | Electoral Saxony, *Wittenbergische Reformation* 1545 | confirmation (6.1); ordination (10.1) | — |
 | Saxony, *Ordnung* of Duke August 1580 | godparents (3.8); confirmation (6.7); investiture of pastors (11.1); *Kirmes* dancing limited (14.4) | weather-ringing and bell baptism (15.5) |
-| Electoral Brandenburg 1540 | baptism with chrism (3.2, 15.4); confirmation (6.4); Sunday procession without water (15.2) | blessings of water, salt, herbs, candles (15.2) |
+| Electoral Brandenburg 1540 | baptism with oil of catechumens, chrism, white cap and candle (3.2, 15.4); confirmation (6.4); Sunday procession without water (15.2) | blessings of water, salt, herbs, candles (15.2) |
 | Brandenburg-Nürnberg 1533 | baptism with exhortations (3.1, 3.4); marriage (7.2); funerals (9.3) | churching (5.1); oil and salt at baptism (3.2); font blessing 1528 (15.3); the yearly blessings (15.1) |
 | Nuremberg, Dietrich's *Agendbüchlein* 1545 | exorcism glossed as prayer (4.1); the dying (8.4); the condemned (8.6); funerals (9.1) | — |
-| Brandenburg-Ansbach-Kulmbach | marriage, Hof 1592 (7.4); dedication anniversary, Hof 1592 (14.3) | exorcism mitigated 1591–1594 (4.3) |
+| Brandenburg-Ansbach-Kulmbach | marriage, Hof 1592 (7.4); dedication of 1572, its yearly festival and the school dedication of 1546, Hof 1592 (14.3) | exorcism mitigated 1591–1594 (4.3) |
 | Württemberg 1536 and 1553 | baptism (3.5); visitation of the sick (8.2); marriage and the wreath (7.6); investiture of prelates (11.3) | exorcism (3.5) |
 | Strasbourg 1525 and 1537 | baptism (3.5); marriage with the impediments asked thrice (7.3) | exorcism (3.5); oil and chrism, 1525 (15.4) |
-| Hesse | confirmation, Ziegenhain 1539 (6.2); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
+| Hesse | confirmation, Ziegenhain 1539 (6.2); ordination of elders and deacons 1566 (12.1); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
 | Calenberg-Göttingen 1542 | confirmation (6.3) | blessings of salt, water, herbs, palms, *Fladen* (15.1) |
-| Mansfeld 1554 and 1580 | godparents (3.8); churching as thanksgiving (5.2); confirmation (6.5); funerals (9.4); ban and public penance (16.5) | — |
+| Mansfeld 1554 and 1580 | godparents (3.8); churching as thanksgiving (5.2); confirmation (6.5); funerals (9.4); ban, open penance and absolution (16.5) | — |
 | Pomerania 1569 | exorcism (4.1); prayer over the possessed (8.7) | — |
 | Regensburg | ordination 1553? (10.4); funerals 1560 (9.4); plague order 1562 (8.5); dedication anniversary about 1567 (14.3) | — |
 | Merseburg 1545 | ordination within the Mass (10.3) | — |
 | Schleswig-Holstein 1542 | ordination of bishops (11.4) | — |
-| Kurpfalz 1563 and 1592 | Reformed baptism (3.6); ordination (10.5); presentation of ministers (11.2); installation of elders (12.1); exclusion by elders (16.5) | emergency baptism by women; exorcism (3.6) |
-| Saxe-Lauenburg 1585 | lesser and greater ban; public penance and absolution (16.1, 16.3) | — |
-| Micron's *Ordinancien* 1554 (East Frisia 1565) | Reformed excommunication and readmission (16.4) | — |
+| Kurpfalz 1563 and 1592 | Reformed baptism (3.6); ordination (10.5); presentation of ministers (11.2); installation of elders 1592 (12.1); stewards' oath 1577 (12.4); schoolmaster's promise 1580, Heidelberg bell-ringer 1572 (12.2–12.3); exclusion by elders (16.7) | emergency baptism by women; exorcism (3.6) |
+| Saxe-Lauenburg 1585 | churchwarden's oath (12.4); lesser and greater ban; public penance and absolution (16.1, 16.3) | — |
+| Mecklenburg 1570 | consistory process, form of excommunication, absolution from the ban (16.4) | — |
+| Grubenhagen 1581 | lesser and greater ban (16.1) | — |
+| Micron's *Ordinancien* 1554 (East Frisia 1565) | installation of elders and deacons (12.1); Reformed excommunication and readmission (16.6) | — |
 | Lippe 1571 | the sexton's pledge (12.2) | charms and amulets (12.2) |
 | Leisnig 1529 | election of churchwardens (12.4) | — |
 | Lüneburg 1564 | appointment of midwives (12.5) | — |
 | Mulhouse 1551 | the schoolmaster's oath (12.3) | — |
+| Gengenbach 1536 | the schoolmaster's appointment (12.3) | — |
+| Hildesheim 1581 | the organist's contract (12.3) | — |
+| Strasbourg 1523 | the oath of the steward of the poor (12.4) | — |
 | Schwäbisch Hall 1543/1615 | council-election sermon (13.1) | consecration of churchyards (14.1) |
-| Pfalz-Neuburg 1543 and 1560 | visitation service (17.1) | the yearly blessings (15.1); weather-ringing (15.5) |
+| Pfalz-Neuburg 1543 and 1560 | baptism with oil and chrism (3.2); visitation service (17.1) | the yearly blessings (15.1); weather-ringing (15.5) |
 | Waldeck 1583 and 1584 | — | *Kirchweih* (14.4); exorcism and the baptismal robe (4.4) |
 | Halberstadt 1588 | — | church dedication and font blessing (14.1) |
 | Thüngen 1564 | — | churching (5.1); weather-ringing (15.5) |
@@ -3973,7 +4713,7 @@ through the table in §18 and the text.
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
 | Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 269 | 4.4 |
-| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 59, 88 | 3.2, 6.4, 15.2 |
+| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 88 | 3.2, 6.4, 15.2 |
 | Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | 7.4 |
 | Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | 4.3 |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, p. 135 | 3.2 |
@@ -3983,14 +4723,18 @@ through the table in §18 and the text.
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, p. 799 | 15.1 |
 | Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | 8.2, 16.2 |
 | Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | 6.1, 10.1 |
+| Gengenbach | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | 12.3 |
 | Grubenhagen | *Kirchenordnung* | 1581 | 6/2, p. 1052 | 16.1 |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | 14.1 |
+| Heidelberg | *Bestallung eines Glöckners* | 15 May 1572 | 14, p. 457 | 12.2 |
 | Henneberg | *Kirchenordnung* | of Georg Ernst, 1582 | 2, pp. 304–305 | 4.3 |
 | Herford | *Kirchenordnung* | 1532 | 21, p. 192 | 7.4 |
 | Hesse | *Reformatio ecclesiarum Hassiae* | (Homberg), 1526 | 8, p. 50 | 14.1 |
 | Hesse | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | 6.2 |
+| Hesse | *Kirchenordnung* | 1566 | 8, pp. 209, 211 | 12.1 |
 | Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
-| Hof | *Ordo ecclesiasticus* | 1592 | 11, p. 467 | 14.3 |
+| Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
+| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 464, 467 | 14.3 |
 | Kurpfalz | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | 3.6 |
 | Kurpfalz | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | 10.5 |
 | Kurpfalz | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | 11.2 |
@@ -4004,14 +4748,17 @@ through the table in §18 and the text.
 | Luther | *Forma ordinationis latina* | 1539 | 1, p. 28 | 10.2 |
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 557–558 | 12.5 |
 | Mansfeld | *Form und weise einer visitation* | 1554 | 2, p. 192 | 3.8 |
-| Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 246 | 5.2, 6.5, 9.4 |
+| Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 241–242, 242–243, 246 | 5.2, 6.5, 9.4, 16.5 |
+| Mecklenburg | *Consistorialordnung* | 1570 | 5, pp. 245–246, 246 | 16.4 |
 | Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | 10.3 |
-| Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, p. 652 | 16.4 |
+| Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.6 |
 | Mulhouse | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | 12.3 |
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | 15.1 |
 | Nassau-Dillenburg | *Agende* | 1575 | 10, p. 150 | 4.4 |
 | Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1 |
-| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 96–97 | 15.1 |
+| Palatinate | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
+| Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | 12.3 |
+| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 96–97 | 3.2, 15.1 |
 | Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 17.1 |
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, p. 59 | 4.1 |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | 4.1 |
@@ -4020,16 +4767,17 @@ through the table in §18 and the text.
 | Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | 10.4 |
 | Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | 9.4 |
 | Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | 8.5 |
-| Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 448, 449, 453 | 16.1, 16.3 |
+| Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 420, 448, 449, 453 | 12.4, 16.1, 16.3 |
 | Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 453 | 3.8, 6.7, 11.1, 15.5 |
 | Saxony (Albertine) | *Kirchenordnung* | 1539 | 1, pp. 266, 267–268, 270–271, 275 | 3.4, 3.7, 8.3, 9.2 |
 | Saxony (Albertine) | *Gemeiner Bericht der Visitatorn* | 1540 | 1, p. 285 | 5.1 |
-| Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, p. 170 | 15.5 |
+| Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, pp. 170–171 | 15.5 |
 | Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | 11.4 |
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 175 | 13.1, 14.1 |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | 4.1 |
 | Strasbourg | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | 3.2 |
 | Strasbourg | *Agende* | 1537 | 20/1, pp. 263–264, 269 | 3.5, 7.3 |
+| Strasbourg | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | 12.4 |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | 4.4 |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | 14.4 |
