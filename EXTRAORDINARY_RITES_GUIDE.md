@@ -20,8 +20,8 @@ Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
   - §4, exorcism;
   - §5, churching;
   - §6, confirmation;
-  - §7, marriage;
-  - §8, the sick, the dying, the condemned and the possessed;
+  - §7, marriage, with betrothal, its dissolution, divorce and annulment;
+  - §8, the sick (including extreme unction), the dying, the condemned and the possessed;
   - §9, funerals and burial.
 - §§10–13 deal with offices:
   - §10, ordination;
@@ -30,9 +30,12 @@ Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
   - §13, magistrates and civil offices.
 - §14 covers the dedication of churches and the *Kirchweih*, and §15 the blessings of objects
   and their abolition.
-- §16 covers the ban, excommunication, public penance and reconciliation.
-- §17 covers other occasional rites, chiefly the parish visitation.
-- §18 is a table by order, and §19 a concordance of every order quoted.
+- §16 covers the ban, excommunication, public penance and the restoration of the penitent, and
+  §17 private confession and absolution.
+- §18 covers processions, and §19 the tonsure, the return of churches and vessels to common use,
+  and the deposition of ministers.
+- §20 covers other occasional rites, chiefly the parish visitation.
+- §21 is a table by order, and §22 a concordance of every order quoted.
 
 Each topic is supported by quotations in the original language (Early New High German, Low
 German or Latin), each followed by an English translation.
@@ -71,7 +74,7 @@ German or Latin), each followed by an English translation.
 - [4. Exorcism](#4-exorcism)
 - [5. Churching of women after childbirth](#5-churching-of-women-after-childbirth)
 - [6. Confirmation](#6-confirmation)
-- [7. Marriage](#7-marriage)
+- [7. Betrothal, marriage and divorce](#7-betrothal-marriage-and-divorce)
 - [8. The sick, the dying, the condemned and the possessed](#8-the-sick-the-dying-the-condemned-and-the-possessed)
 - [9. Funerals and burial](#9-funerals-and-burial)
 - [10. Ordination](#10-ordination)
@@ -81,9 +84,12 @@ German or Latin), each followed by an English translation.
 - [14. Dedication of churches and the *Kirchweih*](#14-dedication-of-churches-and-the-kirchweih)
 - [15. Blessings of objects and their abolition](#15-blessings-of-objects-and-their-abolition)
 - [16. The ban, excommunication, public penance and reconciliation](#16-the-ban-excommunication-public-penance-and-reconciliation)
-- [17. Other occasional rites](#17-other-occasional-rites)
-- [18. Table by order](#18-table-by-order)
-- [19. Concordance of the orders quoted](#19-concordance-of-the-orders-quoted)
+- [17. Private confession and absolution](#17-private-confession-and-absolution)
+- [18. Processions](#18-processions)
+- [19. Tonsure, deconsecration and the deposition of ministers](#19-tonsure-deconsecration-and-the-deposition-of-ministers)
+- [20. Other occasional rites](#20-other-occasional-rites)
+- [21. Table by order](#21-table-by-order)
+- [22. Concordance of the orders quoted](#22-concordance-of-the-orders-quoted)
 
 ---
 
@@ -99,9 +105,10 @@ survived as a sacrament, but all left an evangelical rite in their place:
   on of hands (§6).
 - **Marriage** became a "worldly business" blessed by the church (§7).
 - **Ordination** became a call, examination, prayer and the laying on of hands (§10).
-- **Penance** became private confession and, for open sinners, public penance and absolution
-  (§16).
-- **Extreme unction** was replaced by visitation and communion of the sick (§8).
+- **Penance** became private confession and absolution, without enumeration of sins (§17), and,
+  for open sinners, public penance and absolution (§16).
+- **Extreme unction** was abolished as without command; the orders read James 5 as the elders'
+  prayer and replaced the oil with the Word, absolution and communion of the sick (§8.1).
 
 **2. Baptism fell into four families** (§3):
 
@@ -168,6 +175,20 @@ Mansfeld 1580 and Saxe-Lauenburg 1585 print full forms of excommunication, publi
 absolution. The Reformed gave the decision to the congregation through its elders; Micron's
 London order prints a full liturgy of excision and readmission.
 
+**12. Betrothal and divorce came under the church's eye** (§§7.8–7.10). Secret betrothals were
+made void; the pastor examined the betrothed before the banns (at Wertheim he presided at the
+betrothal itself); only the consistory could release a betrothed person or declare a spouse free
+after adultery or desertion; annulment was a declaration that no marriage had existed; and the
+innocent party's remarriage was quiet, without banns or pomp.
+
+**13. The marks of the sacred state were dropped without rites of their own** (§§18–19). The
+processions with the sacrament, relics and holy water went, except in Electoral Brandenburg,
+which kept the Sunday, Palm Sunday and Rogation processions in a purified form. The tonsure was
+abolished and forbidden to the remaining old-believing clergy. Churches, altars and vessels were
+cleared out by authority and their goods turned to the common chest, without a rite of
+deconsecration. Unworthy ministers were deposed by a sentence read to the congregation, not
+degraded.
+
 ### 1.2 Where the full liturgies are
 
 The forms printed in full or quoted at length in this guide are:
@@ -187,8 +208,12 @@ The forms printed in full or quoted at length in this guide are:
 | Elders and deacons | Hesse 1566, Micron 1554 and the Palatinate 1592 (12.1) |
 | Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (12.2); Mulhouse 1551, the Palatinate 1580, Gengenbach 1536, Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (12.4) |
 | Church dedication | Hof: the dedication of 1572, its yearly festival, and the school dedication of 1546 (14.3) |
-| Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Micron 1554 (16.6) |
-| Visitation | Pfalz-Neuburg 1560 (17.1) |
+| Betrothal, divorce, remarriage | Wertheim 1530 (7.8); Prussia 1575 (7.9); Saxony 1556, the Palatinate 1563, Brandenburg 1573 (7.10) |
+| Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Grubenhagen 1581 (16.6); Micron 1554 (16.7) |
+| Private confession and absolution | the catechism form, Palatinate 1556; Brandenburg 1540 (17.2–17.3) |
+| Processions | Brandenburg 1540 (18.2) |
+| Deposition of a minister | Hesse 1566 (19.3) |
+| Visitation | Pfalz-Neuburg 1560 (20.1) |
 
 ---
 
@@ -204,7 +229,8 @@ are cited as such where they matter.
 weekday services, what German liturgics calls the *Kasualien* and the episcopal acts. The guide
 covers:
 
-- the sacramental acts: baptism, exorcism, confirmation, marriage;
+- the sacramental acts: baptism, exorcism, confirmation, marriage (with betrothal, its
+  dissolution, divorce and annulment), private confession and absolution, extreme unction;
 - the rites of passage around birth, sickness and death: churching, the visitation of the sick,
   funerals and burial;
 - the acts of the ministry: ordination, installation of pastors and prelates, the consecration
@@ -213,7 +239,11 @@ covers:
 - civil offices: magistrates and oaths of homage;
 - consecrations and blessings: churches, churchyards, altars, chrism, water, candles, palms,
   bells, wreaths;
-- discipline: the lesser and greater ban, excommunication, public penance and reconciliation;
+- discipline: the lesser and greater ban, excommunication, public penance and the restoration of
+  the penitent, the deposition of ministers;
+- marks of the clerical and sacred state: the tonsure, the deconsecration of churches and
+  vessels;
+- processions;
 - other occasional services, such as the parish visitation.
 
 **Full liturgies and summaries.** Where an order prints a full rite, the guide gives its order
@@ -245,6 +275,13 @@ read in context, and then the full passages were pulled from the relevant orders
   *dedicatio*, *consecratio*; *weihen* and *segnen* with *Wasser*, *Salz*, *Kerzen*, *Licht*,
   *Palmen*, *Kräuter*, *Wurz*, *Feuer*, *Fladen*, *Eier*, *Wein*, *Johannissegen*; *Glocken*,
   *Glockentaufe*, *Wetterläuten*.
+- **Betrothal, divorce, confession, unction.** *Verlöbnis*, *Ehegelübde*, *Eheversprechen*,
+  *sponsalia*, *Handschlag*, *Weinkauf*, *ledig sprechen*, *Ehescheidung*, *divortium*,
+  *Scheidebrief*, *impotentia*; *Beicht*, *Ohrenbeicht*, *Privatabsolution*, *Beichtgeld*;
+  *Ölung*, *olye*, *unctio*, James 5.
+- **Tonsure, profanation, deposition, processions.** *Platte*, *Tonsur*, *Krone scheren*;
+  *profan*, *abbrechen* with *Altar* and *Kapelle*, *Kelch* and *Ornat* with *verkaufen*;
+  *entsetzen*, *absetzen*, *degradieren*; *Procession*, *Kreuzgang*, *Umgang*, *circuitus*.
 - **Discipline.** *Bann*, *kleiner* and *großer Bann*, *excommunicatio*, *dem Satan übergeben*,
   *ausschließen*, *abschneiden*, *öffentliche Buße*, *Kirchenbuße*, *Absolution*, *wieder
   aufnehmen*, *reconciliatio*.
@@ -1712,19 +1749,15 @@ the sacrament on Maundy Thursday "and are thereafter to be held confirmed Christ
 
 ---
 
-## 7. Marriage
+## 7. Betrothal, marriage and divorce
 
 **Marriage as a "worldly business".** For the evangelical orders marriage is not a sacrament but
 "a worldly business" (*ein weltlich geschäft*), governed by civil law and local custom and
 judged by the marriage courts. The church's part is to proclaim the banns, to join the couple if
-asked, and to read God's Word over them, pray and bless. The marriage law itself lies outside
-this guide:
-
-- the forbidden degrees;
-- parental consent;
-- secret betrothals;
-- divorce;
-- the marriage courts (*Ehegerichte*).
+asked, and to read God's Word over them, pray and bless. The marriage law itself (the forbidden
+degrees, parental consent, the marriage courts) lies outside this guide, except where it gave
+the pastor a part to play: at the betrothal, at its dissolution, and at divorce and remarriage
+(§§7.8–7.10).
 
 What follows is the liturgy:
 
@@ -1994,6 +2027,166 @@ received), only a meal of three dishes at most (Sehling 22, p. 137). Divorced pe
 remarry only with the leave of the consistory or marriage judges (Nördlingen 1579; Kurpfalz
 1563; Sehling 12, p. 346; 14, p. 285).
 
+### 7.8 Betrothal
+
+**The betrothal made the marriage.** In sixteenth-century law the betrothal (*Verlöbnis*,
+*Ehegelübde*, *Eheversprechen*, *sponsalia*), sealed by the handshake (*Handschlag*,
+*Handstreich*), the ring or the *Weinkauf* drink, bound the couple, and the church wedding
+(*Kirchgang*) confirmed it. Hohenlohe's editor notes that the hand-joining and ring of the
+church rite came from the betrothal, and that in Hohenlohe the betrothal was still held to found
+the marriage (Sehling 15, pp. 79, 291). The evangelical orders made the betrothal public and
+brought the pastor into it in three ways:
+
+- **Secret betrothals void.** Betrothals made "in corners", without the knowledge of parents or
+  guardians, were declared null: Saxony 1540 (*winkelehegelübde*), Henneberg 1545, Erbach 1572
+  and many others (Sehling 1, p. 285; 2, p. 283; 9, p. 450). Luther had advised that "secret
+  betrothals be abolished and count for nothing" (quoted by Sehling 7/2.1, p. 895, editor's
+  note).
+- **The pastor's examination.** Before the banns the pastor was to question the betrothed: are
+  they free, are they related within the forbidden degrees, have they their parents' consent?
+  Brandenburg-Ansbach 1556 and Wolfstein 1574 give the questions
+  (Sehling 11, p. 335; 13, p. 584). Nassau-Weilburg in 1576 required those who meant to marry to
+  report to the officers and pastor "before the promise is made and confirmed with the yea"
+  (Sehling 10, p. 268).
+- **Betrothal before the pastor.** Wertheim went furthest. Its order of 1530 required every
+  marriage to be "contracted before the pastor, in the presence of the *Schultheiß* and two
+  jurors", and gave the pastor seven questions. The handshake itself was to wait until the banns
+  had been read three times and the couple came "before the church or altar on the wedding day".
+
+**Wertheim, *Kirchenordnung*, about 1555, incorporating the instruction of 1530**
+(Sehling 11, p. 717):
+
+<!-- doc 323 -->
+> Darumb gefält uns, daß ein jegliche ehe betaidinget werde vor dem pfarrer, in beisein des
+> schultheißen und zweier schöpfen. Doch soll der handschlag nicht geschehen, bis die eheleute
+> dreimal verkündiget und ausgeschrien werden. […] Erstlichs soll er die personen, so einander
+> zu der ehe begeren, fragen, ob sie auch mit gunst ihrer eltern und vormund heiraten und ob sie
+> beweisen können, daß sie von denselben gunst und willen erlangt haben. Zum andern soll er sie
+> fragen, ob sie vorhin die ehe einander verheißen - zwischen ihnen beeden allein oder vor
+> andern, welche doch nit von der herrschaft dazu verordnet sein. […] Ztm dritten soll er
+> fragen, ob kein verhinderung solcher ehe, deren von Gott verboten grad oder sippschaft
+> vorhanden sei.
+
+Therefore it pleaseth us that every marriage be contracted before the pastor, in the presence of
+the *Schultheiß* and two jurors. Yet shall the handshake not take place until the couple have
+been proclaimed and cried three times. […] First he shall ask the persons that desire one
+another in marriage whether they marry with the favour of their parents and guardians, and
+whether they can prove that they have obtained favour and consent from them. Secondly he shall
+ask them whether they have before promised marriage to one another, between them two alone or
+before others who were not appointed thereto by the lordship. […] Thirdly he shall ask whether
+there be no hindrance to such marriage, of the degrees or kinship forbidden by God.
+
+The remaining questions ask whether either belongs to a foreign lordship. The couple are then
+told to settle the dowry now, and to promise nothing "by word or sign" until the wedding day,
+when the pastor will enter them for the three banns.
+
+### 7.9 Breaking a betrothal
+
+**No private dissolution.** Because a public betrothal bound, it could not be broken by the
+parties, their friends or the pastor. Only the consistory or marriage court could release a
+betrothed person. Prussia in 1575 put it plainly. **Prussia, *Visitationsabschied für Zinten*,
+1575** (Sehling 4, p. 153):
+
+<!-- doc 1840 -->
+> Wenn aber personen im beisein der eltern oder vormünder sich offentlich mit einander verlobt
+> haben, soll sich niemant unterstehen, durch vertrag oder rezess solche von einander zu
+> scheiden. Kein teil sol auch für sich das ander ledig zahlen, sondern was für irrungen und
+> spaltungen in ehesachen fur fallen, sollen die parten in obgedachts consistorium bringen.
+
+But when persons have betrothed themselves publicly to one another in the presence of their
+parents or guardians, let no man presume to part them from one another by contract or agreement.
+Neither shall either party of himself count the other free; but whatever errors and divisions
+fall out in marriage causes, the parties shall bring them before the aforesaid consistory.
+
+**Other orders.** The Prussian consistory order of 1584 punished both parties and the go-between
+(*Scheidemann*) who arranged a private separation (Sehling 4, p. 133). Calenberg-Göttingen in
+1588 forbade pastors and officers to part betrothed couples who had "changed their minds"
+without weighty cause (Sehling 6/2, p. 884). The Palatine marriage-court order of 1563 punished
+one who betrothed a second partner without first obtaining the court's release from the first
+(Sehling 14, p. 301). The Dresden marriage order of 1556 allowed a betrothed person deserted for
+two years to be "declared free" if the absent party did not answer the citation
+(Sehling 1, p. 344). No order gives a liturgical form for the release; it was a sentence of the
+court, which the pastor was bound to see before he proclaimed a new betrothal.
+
+### 7.10 Divorce, annulment and the remarriage of the innocent party
+
+**Divorce.** The orders allowed divorce for adultery and malicious desertion (Matthew 19, 1
+Corinthians 7). It was a judgement of the consistory, preceded by an attempt at reconciliation.
+The Albertine Saxon marriage order of 1556 (Dresden) explained that the court does not part the
+marriage; the guilty party has broken it, and the court only declares the innocent party free.
+**Saxony (Albertine), *Dresdener Ehe-Ordnung*, 1556** (Sehling 1, p. 343):
+
+<!-- doc 39 -->
+> Wie nun die unschuldige person claget, soll erstlich die reconciliation versucht werden, und
+> so dieselbe nicht erhalten wurd, und die unschuldige person begert, das sie ledig gesprochen
+> werde, sol der richter nach erkundung, ob auch die clagende person ein gut zeugnuss habe, sie
+> ledig sprechen, und zulassen, das sie sich wieder umb in einen christlichen ehestand mit einer
+> andern person begebe, und wurd diese ehe nicht durch den richter zertrennet, sondern durch die
+> schuldige person, die wider gotes willen ihren ehestand selbmutwilliglich zerreist, und in
+> gotes gericht und zorn stelt, aber der richter ercleret nach gotes wort, das die unschuldige
+> person ledig sei
+
+Now when the innocent person complaineth, reconciliation shall first be attempted; and if that
+be not obtained, and the innocent person desireth to be declared free, the judge, after inquiry
+whether the complaining person have a good report, shall declare her free and permit her to
+enter again into a Christian state of marriage with another person. And this marriage is not
+severed by the judge, but by the guilty person, who wilfully teareth his estate of marriage
+contrary to God's will and setteth himself in God's judgement and wrath; but the judge declareth
+according to God's word that the innocent person is free
+
+**Annulment.** A marriage void from the beginning was not dissolved but declared null. The
+Palatine marriage-court order of 1563, on impotence existing before the marriage, says that the
+other party is declared free, "which also is properly no divorce, but only a declaration and
+explanation that between them there hath never been a marriage". **Palatinate,
+*Ehegerichtsordnung*, 1563** (Sehling 14, p. 327):
+
+<!-- doc 497 -->
+> Hieruf, wha ein ehegemahl vor anfang seiner ehe der natur halben oder sonst zufelligerweiß zu
+> der ehe untuchtig oder ungeschickt ist, alßo das bey rechten, erbarn und gottsfurchtigen
+> leuthen ohne ein wunderwerckh Gottes durch die ordentliche mittel, so unß Gott gegen den
+> vorfallenden unvermuglickhaiten gegeben, nicht zu verhoffen ist, das ihm sein gemahl ihmmer zu
+> ehelichen dinsten daugenlich werde, so khann dasselb khein rechte, naturliche ehe mit einem
+> andern besitzen. Darumb soll das ander ledig gezelt werden, welches auch eigentlich kheine
+> ehescheidung ist, sondern allein ein declaration und erclerung, das zwischen denselben khein
+> ehe nie gewesen sey.
+
+Hereupon, if a spouse be before the beginning of the marriage unfit or unable for marriage by
+nature or otherwise by accident, so that among right, honest and God-fearing people it is not to
+be hoped, without a miracle of God, through the ordinary means which God hath given us against
+such infirmities as befall, that the spouse will ever become fit for the duties of marriage,
+then such a one can have no right and natural marriage with another. Therefore the other shall
+be counted free; which also is properly no divorce, but only a declaration and explanation that
+between them there hath never been a marriage.
+
+**The remarriage of the innocent party.** The church's one liturgical act in divorce came at the
+remarriage. The innocent party might marry again, but quietly. Brandenburg-Ansbach's marriage
+court of 1567 required "a quiet church-going and wedding", and the proclamation summoning a
+deserting spouse was read from the pulpit of the parish where he had lived (Sehling 11, p. 374).
+Electoral Brandenburg in 1573 gave the procedure: the bill of divorce shown to the pastor four
+weeks before, no public banns, and the marriage in the house before two tables of kin.
+**Brandenburg (Electorate), *Visitation- und Consistorialordnung*, 1573** (Sehling 3, p. 128):
+
+<!-- doc 1748 -->
+> Wann sich die unschuldige gescheidene person wider verehelichen will, soll sie dem pfarrer,
+> darunter die hochzeit geschehen solle, den scheidebrief, welchen sie von unsern consistorio
+> erlangt, vier wochen zuvor zeigen und ihnen berichten, das sie sich darauf mit einem andern
+> ehelich versprochen und willens were, sich vortrauen zu lassen, und soll der pfarrer sie nicht
+> öffentlich aufbieten, sondern sich indes sonst mit fleisse erkunden und erforschen, ob andere
+> verhindernus da weren […] fünde er keine, soll die hochzeit auf einen gelegenen tag angesatzt
+> und dazu etwa zwei tische freundschaft, neben dem priester, geladen werden und die traue im
+> hause ohne alle öffentliche hochzeitliche geprenge geschehen, auf das jederman sehe, das diss
+> nicht eine freie, sondern eine nothsache sei, dadurch dem unschuldigen theil geholfen wirdet.
+
+When the innocent divorced person will marry again, he shall show the pastor under whom the
+wedding is to take place the bill of divorce which he hath obtained from our consistory, four
+weeks before, and inform him that he hath thereupon promised himself in marriage to another and
+is minded to be wedded; and the pastor shall not proclaim them publicly, but shall meanwhile
+inquire and search diligently whether there be any other hindrance […] If he find none, the
+wedding shall be set on a convenient day, and some two tables of kinsfolk, besides the priest,
+invited thereto, and the marrying done in the house without any public wedding pomp; that every
+man may see that this is no matter of choice but of necessity, whereby the innocent party is
+helped.
+
 ---
 
 ## 8. The sick, the dying, the condemned and the possessed
@@ -2012,12 +2205,64 @@ in Pomerania, to the possessed.
 
 ### 8.1 Extreme unction
 
-No evangelical order prescribes the anointing of the sick. The Ansbach visitors of 1528 asked
-the clergy "what the right Christian unction and visitation of the sick may be"
-(Sehling 11, p. 127). The question implies an answer from James 5 without the sacrament. One
-early Nuremberg order is the exception that proves the change. Prior Volprecht's German Mass of
-1524 still allowed "if any at his last end desire the anointing, it shall be given him"
-(Sehling 11, p. 44). Nothing of the kind appears after the visitations.
+**Abolished.** No evangelical order prescribes the anointing of the sick. The orders give three
+reasons: it has no command of Christ; the anointing of James 5 belonged to the apostolic gift of
+healing and cannot now be used "according to St James's meaning"; and it had been turned into a
+sacrament of the dying. In its place stand the Word, the absolution, the Supper and the prayer
+of the church, which is what James 5:14–16 actually commands.
+
+**One survival in 1524.** Prior Volprecht's German Mass at Nuremberg in 1524 still allowed "if
+any at his last end desire the anointing, it shall be given him" (Sehling 11, p. 44). The
+Ansbach visitors of 1528 already asked the clergy "what the right Christian unction and
+visitation of the sick may be" (Sehling 11, p. 127).
+
+**Zweibrücken 1539: James 5 read as a visitation.** The Zweibrücken order explains James 5 as
+the calling of the elders to comfort and pray for the sick, which the church now does with the
+gospel, the reminder of baptism and the Supper, given in the presence of other Christians. The
+oil it lets fall. **Pfalz-Zweibrücken, *Form und Ordnung*, 1539** (Sehling 18, p. 61):
+
+<!-- doc 965 -->
+> Von Krancken zu besuchen. Zu den Krancken wurden die Eltesten, das ist die diener der gemein,
+> beruffen, sie zu trosten und gott vor sie zu bitten, davon Jaco. 5: Das gebett des glaubens
+> wurt den Krancken helffen, und der her wurt in auffrichten, und so er hatt sunde gethan,
+> werden sie im vergeben sein. Nu hatt der barmhertzig got das heilig Evangelium zum trost geben
+> denen die sund und todt schreckt und zu verzweiffeln, treibt, und darzu auch die heilige
+> sacrament verordnet. Darumb trosten wyr die Kranken beide mit verkundigung des heiligen
+> Evangeliums und reichung des heiligen sacraments des leibs und bluts Christi, und erynnern sie
+> des entpfangnen tauffs […] Das oell aber, weil es nit kan nach sanct Jacobs meinung gebraucht
+> werden und sich myßverstandt und mißbrauch zugetragen haben, ist auch kein sacrament noch
+> befelch des herren, laßen wyrs underwegen.
+
+Of visiting the sick. To the sick the elders, that is, the ministers of the congregation, were
+called, to comfort them and pray God for them; whereof James 5: The prayer of faith shall help
+the sick, and the Lord shall raise him up, and if he have committed sins, they shall be forgiven
+him. Now the merciful God hath given the holy gospel for a comfort to those whom sin and death
+affright and drive to despair, and hath ordained the holy sacraments thereto. Therefore we
+comfort the sick both with the preaching of the holy gospel and with the giving of the holy
+sacrament of the body and blood of Christ, and remind them of the baptism they have received […]
+But the oil, since it cannot be used according to St James's meaning, and misunderstanding and
+misuse have arisen, and it is also no sacrament nor commandment of the Lord, we leave aside.
+
+**Lippe 1538: the Gospel instead of the last oil.** The Lippe order has a short chapter "Of the
+last oil": the oil, used among the Jews for the healthy, was given to the sick without ground in
+Scripture, and the gospel and Christian prayers are to be read in its place. **Lippe,
+*Kirchenordnung*, 1538** (Sehling 21, p. 319):
+
+<!-- doc 1459 -->
+> Von der lesten olye De lestenn olie, so auch ahine grundt gotlicher schrift ingesat den
+> krancken, de tho behoff der gesunden bi den Joden gebruket wort, sal abe sein unnd darvor dat
+> evangelium unnd andere christliche gebeder gelesenn werdenn, dardurch de krancken getrostet
+> unnd im geloven mogen gestercket werdenn.
+
+Of the last oil. The last oil, which hath also been appointed for the sick without ground of
+divine Scripture, and which was used among the Jews for the behoof of the healthy, shall be done
+away; and instead thereof the gospel and other Christian prayers shall be read, whereby the sick
+may be comforted and strengthened in faith.
+
+**Freiberg 1537.** The Albertine visitors at Freiberg ordered in one breath that the sacrament
+no longer be reserved or carried about, that "the anointing shall henceforth also be done away",
+and that the sick be communed in German in the presence of others of the household
+(Sehling 1, p. 466).
 
 ### 8.2 No reserved sacrament: communion in the house
 
@@ -4520,7 +4765,56 @@ others his holy sacrament profitably and worthily, to the strengthening of thy f
 amendment of life, and be saved for ever. In the name of God the Father, and of the Son, and of
 the Holy Ghost. † Amen.
 
-### 16.6 The Reformed form: Micron's London order
+### 16.6 Grubenhagen 1581: the form of absolution from the ban
+
+**Grubenhagen 1581.** Grubenhagen took over the Mecklenburg form of excommunication (§16.4) and
+added its own "form of the absolution from the ban and the public receiving of the penitent
+sinner into the congregation of God". The penitent has given signs of repentance on three
+appointed Sundays. The pastor addresses the people on God's mercy to fallen sinners (Adam and
+Eve, Aaron, David, Manasseh, the sinful woman, the thief on the cross), announces the
+consistory's mandate, puts three questions, and absolves with the formula of John 20:23.
+**Grubenhagen, *Kirchenordnung*, 1581** (Sehling 6/2, p. 1058):
+
+<!-- doc 2058 -->
+> Derwegen frage ich dich, N.N., ob du bekennest, das du mit deinem fall Gott erzörnet, viel
+> Christen betrübet und diese kirche und gemeine geergert hast? Antwort: Ja. Ich frage dich
+> ferner, ob du von herzen aus dem bann begerest, mit Gott und dieser kirchen, auch jederman,
+> versöhnet zu sein, und bittest diese christliche gemeine, das sie dir umb Gottes willen
+> verzeihen wolte, das du sie mit deinem fall betrübet und mit deinem halstarrigen ungehorsam
+> geergert hast? Antwort: Ja. Ich frage dich zum dritten, ob du auch gleubest dem heiligen
+> evangelio, das dir Gott umb seines Sones und desselben theuren verdienstes willen alle deine
+> sünde vergeben wil, und das meine vergebung Gottes vergebung sey, gedenkest auch, forthin in
+> solchem glauben christlich zu wandeln, erbarlich zu leben und an diese veterliche züchtigung
+> dein leben lang zu gedenken und Gott zu bitten, das du nimmermehr in sicherheit fallest?
+> Antwort: Ja. […] Und ich anstat und [auf] befehl meines Herrn Jhesu Christi vermöge seiner
+> eigenen, warhaftigen, ewigen, unwandelbaren wort, aus seinem göttlichen herzen und munde
+> gesprochen, da er gesaget hat: Welchen ihr die sünde erlasset, denen sind sie erlassen,
+> vergebe dir, N. N., hiermit alle deine sünde und verkündige dir Gottes gnad, freud, trost und
+> ewiges leben, und das du widerumb zur gemeinschaft der christlichen kirchen aufgenommen bist
+> im namen des Vaters, Sons und heiligen Geistes. Amen. Was nu auf erden gelöset ist, das soll
+> auch im himmel loß sein, spricht Christus.
+
+Therefore I ask thee, N. N., whether thou confessest that by thy fall thou hast angered God,
+grieved many Christians and offended this church and congregation? Answer: Yea. I ask thee
+further whether thou desirest from thy heart to be loosed from the ban and reconciled with God
+and this church, and with every man, and beseechest this Christian congregation that it would
+forgive thee for God's sake that thou hast grieved it by thy fall and offended it by thy
+obstinate disobedience? Answer: Yea. I ask thee thirdly whether thou believest also the holy
+gospel, that God will forgive thee all thy sins for the sake of his Son and his precious merit,
+and that my forgiveness is God's forgiveness; and whether thou purposest henceforth to walk
+Christianly in such faith, to live honestly, and to remember this fatherly chastisement all thy
+life long, and to pray God that thou never fall into security? Answer: Yea. […] And I, in the
+stead and by the command of my Lord Jesus Christ, by virtue of his own true, eternal,
+unchangeable word, spoken out of his divine heart and mouth, when he said, Whose sins ye remit,
+they are remitted unto them, do forgive thee, N. N., herewith all thy sins, and proclaim unto
+thee God's grace, joy, comfort and eternal life, and that thou art received again into the
+fellowship of the Christian church; in the name of the Father, Son and Holy Ghost. Amen. What
+now is loosed on earth shall be loosed also in heaven, saith Christ.
+
+The pastor then warns the people, "Let him that standeth take heed lest he fall", and forbids
+them to cast up the fall to the penitent or to think him of ill civil repute (*infamia*).
+
+### 16.7 The Reformed form: Micron's London order
 
 **Micron's order.** The fullest Reformed rite is that of the Dutch stranger church in London, in
 Marten Micron's *Ordinancien* of 1554. Sehling prints it in the German translation used in East
@@ -4580,7 +4874,7 @@ reverse:
 4. A prayer is said in which the whole congregation joins its sins to his.
 5. He confesses and is received again (Sehling 7/1, pp. 653–655).
 
-### 16.7 Other orders
+### 16.8 Other orders
 
 The same pattern, with local variations, appears in:
 
@@ -4595,6 +4889,12 @@ The same pattern, with local variations, appears in:
 - **Town of Brandenburg 1542.** A dissenting voice: the sacrament was to be refused to no one,
   since one whom God's word does not move will not be moved by exclusion; grave crimes belong to
   the civil power (Sehling 3, p. 255).
+- **Couples who anticipated marriage.** The commonest public penance in practice was that of a
+  couple who had lain together before their wedding. Nassau-Weilburg in 1609 required such a
+  couple to do "public church penance" before they could be blessed, unless they had already
+  been betrothed, in which case the fault was rebuked at the wedding itself; Hohenlohe in 1572
+  had both "set forth to public church penance and begging of pardon"
+  (Sehling 10, p. 353; 15, p. 177).
 - **Ysenburg-Ronneburg 1591 and Solms.** Counts with Reformed leanings imposed "Christian ban
   and exclusion from the congregation" through a presbytery, with the magistrate's help
   (Sehling 10, pp. 596, 599; 9, p. 328).
@@ -4605,9 +4905,397 @@ Christians, but in the field" (Sehling 1, p. 206).
 
 ---
 
-## 17. Other occasional rites
+## 17. Private confession and absolution
 
-### 17.1 The visitation service
+**Auricular confession abolished, private absolution kept.** Every evangelical order abolished
+the medieval sacrament of penance as a duty to enumerate all mortal sins to a priest, with
+satisfaction imposed. The Pomesanian articles of 1524 already ended confession "by which one
+would be bound to name all sins" (Sehling 4, p. 29). But the Lutheran orders kept, and generally
+required, private confession and absolution before communion. They kept it for three reasons:
+
+- the absolution is the gospel spoken to the single person, "as if God by a voice from heaven
+  promised thee grace";
+- the pastor could examine those coming to the Supper in the catechism;
+- the troubled conscience could be comforted.
+
+Many Upper German orders replaced it with an examination of communicants (§17.4). The private
+and public forms of absolution after open sin and the ban are in §16.
+
+### 17.1 The Lutheran position
+
+**Dietrich 1545: no enumeration, no compulsion.** Veit Dietrich's Nuremberg agenda states the
+principle: the papal auricular confession is not commanded by God, and no minister may refuse
+absolution until the sins have been counted. It is enough that the person confesses himself a
+sinner and desires grace (Sehling 11, p. 528).
+
+**Saxony 1580: private absolution required before communion.** The Saxon order of 1580 treats
+private absolution as a free thing, not a papal compulsion, yet requires everyone to present
+himself to his pastor and seek it before communion, "for the sake of Christian discipline and
+specially for the sake of the ignorant". **Saxony, *Ordnung* of Duke August, 1580**
+(Sehling 1, p. 427):
+
+<!-- doc 44 -->
+> VII. Von der rechten christlichen beicht und privat absolution. Nach dem der pfarrer und
+> kirchendiener das volk gründlich aus gottes wort unterrichtet, was der unterscheid zwischen
+> der papistischen ohrenbeicht, da die leut gemartert und gezwungen alle sünde, das unmüglich
+> ist Psalm 19. zu erzelen, und der warhaftigen christlichen beicht sei, darinnen die jugend zu
+> bekentnis und rechenschaft ihres glaubens angehalten, jeder seines berufs in sonderheit
+> erinnert, fürnemlich aber die kleinmütigen angefochtene gewissen aus gottes wort in iren
+> schweren besondern anliegen getröstet werden, sollen sie die ganze gemeine fleissig zu solcher
+> vermanen, und öffentlich anzeigen, das man niemand zum hochwirdigen sacrament des leibes und
+> bluts des herrn Christi zulassen werde, er habe denn zuvor sich bei seinen ordentlichen
+> pastorn angezeigt, und die privat absolution gesucht.
+
+VII. Of right Christian confession and private absolution. After the pastor and ministers of the
+church have thoroughly taught the people out of God's word what is the difference between the
+papistical ear-confession, wherein people were tormented and forced to recount all their sins,
+which is impossible (Psalm 19), and the true Christian confession, wherein the youth are held to
+confession and account of their faith, every one is admonished of his calling in particular, but
+chiefly the faint-hearted, tempted consciences are comforted out of God's word in their heavy
+particular troubles: they shall diligently exhort the whole congregation thereto, and declare
+publicly that none shall be admitted to the most worthy sacrament of the body and blood of the
+Lord Christ unless he have first presented himself to his ordinary pastor and sought the private
+absolution.
+
+### 17.2 The form of confession: Luther's catechism
+
+**The catechism form.** The common form was the one Luther added to the Small Catechism, "How
+the simple shall be taught to confess". Many orders print it; the Palatinate under Ottheinrich
+(1556) gives it entire. The rite is:
+
+1. The penitent: "Worthy, dear sir, I pray you hear my confession and pronounce forgiveness to
+   me for God's sake."
+2. A general confession before God of all sins, and a particular confession before the confessor
+   of the sins one knows and feels, according to one's station under the Ten Commandments (a
+   servant's, a master's or mistress's). One who knows of no particular sin is not to invent
+   any, but to take the forgiveness on the general confession.
+3. "God be merciful to thee and strengthen thy faith."
+4. "Believest thou that my forgiveness is God's forgiveness?" "Yea, dear sir."
+5. The absolution: "As thou believest, so be it unto thee", and the dismissal.
+
+**Palatinate, *Kirchenordnung* of Ottheinrich, 1556** (Sehling 14, p. 140):
+
+<!-- doc 479 -->
+> Darauf sol der beichtiger sagen: Gott sey dir gnedig und stercke deinen glauben, Amen. Sprich:
+> Glaubstu auch, daß meine vergebung Gottes vergebung sey? Ja, lieber herr. Darauf spreche er:
+> Wie du glaubst, so geschehe dir. Und ich auß befehl unsers herrn Jhesu Christi vergeb dir
+> deine sünde im namen des vaters und des sohns und des heiligen geists, Amen. Gehe hin im
+> friede. Welche aber grosse beschwerung des gewissens haben oder betrübt und angefochten sind,
+> die wird ein beichtiger wol wissen, mit mehr sprüchen zu trösten und zu glauben raitzen.
+
+Thereupon shall the confessor say: God be merciful unto thee and strengthen thy faith. Amen.
+Say: Believest thou also that my forgiveness is God's forgiveness? Yea, dear sir. Thereupon let
+him say: As thou believest, so be it unto thee. And I, by the command of our Lord Jesus Christ,
+forgive thee thy sins, in the name of the Father and of the Son and of the Holy Ghost. Amen. Go
+in peace. But those who have great burden of conscience, or are grieved and tempted, the
+confessor will well know how to comfort with more sayings and to stir to faith.
+
+The same form stands in the Lippe order of 1566, where the five catechism questions on the
+Supper precede it (Sehling 21, p. 379).
+
+### 17.3 The form of absolution: Brandenburg 1540
+
+**Brandenburg 1540.** Electoral Brandenburg gives a pastoral form in two parts, with the laying
+on of hands:
+
+- **For the careless.** The confessor first asks whether the penitent knows the Ten
+  Commandments. If not, he shows him that this is "the greatest sin a man may commit", to ask
+  nothing after God, and bids him learn God's word.
+- **For the contrite.** To one who confesses himself a poor sinner he says that this knowledge
+  of sin is itself a work of the Holy Ghost, and explains that the absolution gives him in
+  person the grace preached to all the world: "this word of absolution … thou shalt regard as if
+  God by a voice from heaven promised thee grace and forgiveness of thy sins". Then he lays his
+  hands on him and absolves.
+
+**Brandenburg (Electorate), *Kirchenordnung* of Joachim II, 1540** (Sehling 3, pp. 62–63):
+
+<!-- doc 1746 -->
+> Nach solcher unterricht, so er die absolution begeret, so sprech er mit auflegung der hende zu
+> im wie folget: Form der absolution. Der allmechtig gott und vater unsers herrn Jesu Christ wil
+> dir gnedig und barmherzig sein, und wil dir alle deine sunde vergeben um des willen, das sein
+> lieber son Jesus Christus dafur gelitten hat und gestorben ist und im namen desselbigen unsers
+> herrn Jesu Christi, auf seinen befelch und in kraft seiner wort, da er sagt: welchen ir die
+> sunde erlasset, den sind sie erlassen etc., spreche ich dich aller deiner sunden frei, ledig
+> und los, das sie dir alzumal, sollen vergeben sein, so reichlich und volkomen, als Jesus
+> Christus dasselbige durch sein leiden und sterben verdienet und durchs evangelium in alle welt
+> zu predigen befohlen und dieser tröstlichen zusage, die ich dir itzt im namen des herrn
+> Christi gethan, der wollest dich tröstlich annemen, dein gewissen darauf zufrieden stellen und
+> festiglich glauben, deine sund sind dir gewislich vergeben. Im namen des vaters und des sons
+> und des heiligen geists. Gehe hin im friede.
+
+After such instruction, if he desireth the absolution, let him speak to him with laying on of
+hands as followeth: Form of absolution. The almighty God and Father of our Lord Jesus Christ
+will be gracious and merciful unto thee, and will forgive thee all thy sins, for this cause,
+that his dear Son Jesus Christ hath suffered and died for them; and in the name of the same our
+Lord Jesus Christ, at his command and in the power of his word, where he saith, Whose sins ye
+remit, they are remitted unto them, etc., I pronounce thee free, quit and loosed of all thy
+sins, that they shall be all forgiven thee, as richly and completely as Jesus Christ hath
+merited the same by his suffering and death and commanded it to be preached through the gospel
+in all the world. And this comfortable promise, which I have now made thee in the name of the
+Lord Christ, receive thou with comfort, set thy conscience at rest thereupon, and believe firmly
+that thy sins are surely forgiven thee. In the name of the Father and of the Son and of the Holy
+Ghost. Go in peace.
+
+**Refusal.** The same order tells pastors to refuse absolution and the Sacrament to heretics,
+blasphemers, open sinners and those who will not learn the commandments, the creed and the
+Lord's Prayer, until they show signs of amendment, and then to absolve and readmit them
+(Sehling 3, p. 63). The Saxon form for the sick of 1539 used the same private absolution, ending
+"Zeuch hin im friede" (§8.3).
+
+### 17.4 Without private confession: the examination of communicants
+
+**Upper German orders.** Several south-western cities kept no private confession. In its place
+came the examination of communicants (*Verhör*), deliberately designed so that it could not be
+mistaken for auricular confession. Reutlingen, about 1531, had the children brought by father or
+mother, girls with the mother and boys with the father, to give account of their faith openly in
+church, "that it may not be suspected for a papistical ear-confession and snare of consciences"
+(Sehling 17/1, pp. 43–44).
+
+**Confession money abolished.** The confession penny (*Beichtgeld*, *Beichtpfennig*) went with
+the old penance. Baden in 1533 relieved the people of stole fees "for confession, for the
+sacrament of the altar, for the holy anointing", and Hohenlohe in 1588 forbade pastors to take
+confession pennies (Sehling 16, p. 502; 15, p. 549).
+
+---
+
+## 18. Processions
+
+**What went and what stayed.** The medieval church walked in procession constantly: round the
+church with holy water every Sunday, through the fields on the Rogation days and St Mark's day,
+with palms and the Palm-Sunday ass, with the sacrament on Corpus Christi, with relics, banners
+and crosses on patronal feasts and against hail and plague. The evangelical orders abolished the
+processions that carried the sacrament, relics or images or that invoked the saints, and almost
+all of the field processions. What stayed were processions that served the Word, prayer or
+common order:
+
+- the funeral procession with hymns (§9);
+- the bride's procession to church (*Kirchgang*, §7);
+- the schoolboys' and townspeople's festal processions at Hof (§14.3);
+- in Electoral Brandenburg and Mulhouse, the Sunday procession, Palm Sunday and the Rogation
+  prayers in a purified form.
+
+The fate of Corpus Christi, the Rogation days and the *Hagelfeier* in the calendar is treated in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) §§8.9 and 12.5.
+
+### 18.1 Abolished
+
+**Pfalz-Neuburg 1543.** The Pfalz-Neuburg order, following Brandenburg-Nürnberg 1533, put the
+abolition of processions at the head of its list of abolished blessings (§15.1).
+**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 96):
+
+<!-- doc 386 -->
+> Darnach sollen auch unterwegen bleiben alle procession und umbgenge umb die kirchen mit dem
+> weichwasser und mit dem heiligen sacrament in der monstranzen.
+
+Thereafter also all processions and goings about the church with the holy water and with the
+holy sacrament in the monstrance shall be left off.
+
+Brandenburg-Nürnberg in 1533 likewise counted "going with the crosses" and "carrying about the
+holy sacrament" among the ceremonies done away (Sehling 11, pp. 203–204). A Feuchtwangen text of
+1563 named the processions "with statues, banners, wooden crosses", the "impious pomp of the
+feast of Corpus Christi" and the carrying about of the Eucharist among the papal ceremonies
+(Sehling 11, p. 406). The Pomesanian articles of 1524 ended processions "as having no ground in
+God's word" (Sehling 4, p. 29).
+
+### 18.2 Kept and purified: Electoral Brandenburg 1540
+
+**Brandenburg 1540.** Joachim II's order is the great exception. It kept the Sunday procession
+round the church without holy water (§15.2), the Palm Sunday procession without the blessing of
+the palms, and the Rogation processions "before the church", purged of the invocation of saints;
+and it added a weekly German litany. **Brandenburg (Electorate), *Kirchenordnung* of Joachim II,
+1540** (Sehling 3, p. 88):
+
+<!-- doc 1746 -->
+> Den palmentag sol man halten mit der procession und gesengen wie von alters, doch das die
+> weihung der palmen vorbleibe […] Von der creuzwochen. Als auch hergekomen, das am tage Marci
+> und die drei folgende tage nach dem sontage Vocem Jocunditatis und an etlichen sonderlichen
+> ortern, auf ander mehr gezeiten, gemeine gebet fur der kirchen und anderer notturft gehalten,
+> so denn der heilig Sant Paul 1. Timot. 2. getreulich vermanet, für die öbrigkeit und sonst
+> fleissig zu bitten, so ist auch darauf unser gemtüt, das solchs also bleibe, als es jeders
+> orts von alters christlich hergebracht und desselben gelegenheit geben wil, doch in allweg das
+> reine und christliche gesenge, gebet und collecten darzu gebraucht werden […] Es sollen auch
+> die misbreuch, so etwan bei solchen processionen gewesen, mit anrufung der heiligen abthan
+> werden und alle gebet und gesenge dahin gerichtet werden, das wir all unser not und anligen
+> bei niemand anders denn dem herrn Christo suchen und von im hülf bitten sollen.
+
+Palm Sunday shall be kept with the procession and chants as of old, yet so that the hallowing of
+the palms be left off […] Of Rogation week. Whereas it hath also come down that on St Mark's day
+and the three days following the Sunday *Vocem jucunditatis*, and in some particular places at
+other times also, common prayers have been held for the church and other necessities, and holy
+St Paul, 1 Timothy 2, faithfully exhorteth us to pray diligently for the magistrates and others,
+it is also our mind that this so remain, as it hath come down from of old in Christian wise in
+every place and as the occasion of each will give, yet in all ways that pure and Christian
+chants, prayers and collects be used thereto […] Also the abuses that have been at such
+processions, with the invocation of the saints, shall be done away, and all prayers and chants
+directed to this end, that we seek all our need and concern from none other but the Lord Christ
+and ask help of him.
+
+**Mulhouse 1524.** Mulhouse kept the Rogation processions on St George's and St Mark's days and
+the three Rogation days, but only within the parish church of St Stephen, "since the common
+prayer of Christians together is most pleasing to God", and without "running to particular
+saints or churches" (Sehling 20/2, p. 195).
+
+### 18.3 Processions that remained
+
+**Funerals, weddings, festivals.** The common evangelical processions were those of the life of
+the parish:
+
+- **Funerals.** The body was fetched from the house and carried to the churchyard with the
+  schoolboys singing, the minister and the people following (§§9.2–9.3).
+- **Weddings.** The bride's *Kirchgang* with her maidens and the bridegroom's company to the
+  church door or altar (§7); withheld from the bride who had fallen (§7.6) and from the divorced
+  who remarried (§7.10).
+- **Festivals.** At Hof the whole town walked in procession to the church dedication festival
+  and to the school festival on Whit Monday, with wreathed schoolboys and hymns (§14.3).
+
+---
+
+## 19. Tonsure, deconsecration and the deposition of ministers
+
+**Rites of separation without rites.** Three medieval acts marked a person or thing as set apart
+for God, or withdrew that mark: the tonsure, which made a man a cleric; the consecration of
+churches and vessels, and their execration when profaned; and the degradation of a cleric, which
+stripped him of his orders piece by piece. The evangelical orders kept none of these as rites.
+The tonsure was abolished as a human ordinance. Churches, chapels, altars and vessels were taken
+out of use by order of the magistrate and turned to the use of the parish and the poor, without
+any rite of deconsecration. A minister was removed from office by a public sentence, not
+degraded.
+
+### 19.1 The tonsure abolished
+
+**A human ordinance.** The evangelical orders give no rite of first tonsure and no clerical
+tonsure. The Albertine visitors at Freiberg in 1537 counted the tonsure among "all human
+ordinances hitherto held necessary" which "shall be done away": "ringing other than for divine
+services, going with the cross, wearing tonsures and cowls, fast days" (Sehling 1, p. 466). The
+Schleswig-Holstein order of 1542 lists "shaving the tonsure" (*Platten scheren*) with holy
+water, the blessing of bells, anointing and the separate holy vestments among the inventions of
+the papists (Sehling 23, p. 83). Bugenhagen reminded Hamburg in 1529 that St Lawrence "wore no
+tonsure nor deacon's robe, yet was a deacon, as is written in Acts 6 and 1 Timothy 3"
+(Sehling 5, p. 514).
+
+**Old-believing clergy ordered to let it grow.** Where priests and monks remained, the
+magistrates forbade them the tonsure as a mark of the papal clergy. The Saxon visitors at the
+collegiate church of Altenburg in 1533 ordered the canons "to abstain from the offensive papal
+dress and tonsure" (Sehling 1, p. 515). Esslingen in 1532 laid a fine of ten florins on any
+chaplain or religious who had his crown shaved. **Esslingen, *Mandat für die altgläubigen
+Geistlichen*, 10 August 1532** (Sehling 17/2, p. 371):
+
+<!-- doc 876 -->
+> Deßgleichen will ir ersam weißheit, das hinfüro kheiner derselbigen caplen, auch die
+> ordenspersonen, khein kron oder blatten mehr scheren, besonder sich in demselbigen andern
+> cristenlichen burgern gemeß halten unnd erzeigen und also khein sünderung, wie im bapstumb
+> beschehen, machen oder undernemmen sollen, den welcher über das straffpar betretten, den
+> wirdet ir ersam weißheit jedes verbrechen umb x gulden straffen. […] Daneben soll auch allen
+> ordens personen gesagt und eingebunden werden, die ordensklaider von inen zulegen unnd die
+> krentzlin vom haupt herab zuscheren und sich in klaidungen andern burgern gemeß erzeigen bey
+> ernstlicher straff eines ersamen Raths.
+
+Likewise their honourable wisdom willeth that henceforth none of the same chaplains, nor the
+persons of religious orders, shall shave any more a crown or tonsure, but shall hold and show
+themselves therein like other Christian burghers, and so make or undertake no separation as was
+done in the papacy; and whosoever is found punishable beyond this, their honourable wisdom will
+punish him ten florins for every offence. […] Moreover it shall be told and enjoined upon all
+persons of religious orders to lay aside their habits, and to shave the little crowns off their
+heads, and to show themselves in clothing like other burghers, on pain of the earnest punishment
+of an honourable council.
+
+**One later case.** Sehling records that Heinrich Julius of Brunswick, postulated bishop of
+Halberstadt as a Lutheran child, received the first tonsure on 27 November 1578. It caused
+"great stir in Protestant circles" and was "sharply blamed by most", though Jakob Andreae called
+it an adiaphoron (Sehling 2, p. 464, editor's introduction).
+
+### 19.2 Churches, altars and vessels returned to common use
+
+**No execration.** The orders give no rite for deconsecrating a church or altar, and no rite of
+execration when a church was profaned. What they give are orders to remove altars, images and
+chapels decently and by authority, and to turn the material and the vessels to the use of the
+parish, the common chest and the poor.
+
+**Orderly removal.** Strasbourg in 1525 forbade any burgher, cleric or layman, to remove or
+break "images, altars, panels, iron or stonework" on his own authority; anyone with a grievance
+was to bring it to the council (Sehling 20/1, p. 166). The Saxon visitors at Saalfeld in 1533
+ordered the council to clear the churches of their screens, candles, banners and images and of
+all altars but one, to put pews in their place, to close the minster and pull down a chapel,
+using its stone and timber for the bridge. **Saalfeld, visitation order, 1533**
+(Sehling 1, p. 654):
+
+<!-- doc 125 -->
+> Derwegen sol ein erbar rat alle gitter, kerzen, fanen, abgottische bildnus und hindernus und
+> bevorn alle altarn bis uf einen und das gemeuer, so im augustiner kloster fur dem chor stehet,
+> aus den kirchen reumen und abbrechen lassen, damit man an stat derselben stule machen und
+> gottes wort deste bas hören und der hochwirdigen sacrament handelung sehen mogen. Insonderheit
+> sol man die tumkirche zu St. Stefen zuschleessen und die capella in Niderhöfen abbrechen
+> lassen, die stein und holzwerk zur brucken und ander notturft gebrauchen.
+
+Therefore an honourable council shall cause to be cleared out of the churches and broken down
+all screens, candles, banners, idolatrous images and hindrances, and above all every altar save
+one, and the masonry which standeth before the choir in the Augustinian cloister; that in their
+stead pews may be made, and God's word the better heard and the administration of the most
+worthy sacrament seen. In particular the minster church of St Stephen shall be shut, and the
+chapel in Niederhofen pulled down, and its stone and timber used for the bridge and other
+necessities.
+
+Württemberg in 1555 ordered the field chapels in which there was no preaching and no burial to
+be "broken down and razed", and complained that the duke still found them standing, and the
+little image-houses with their altars newly roofed (Sehling 16, p. 292).
+
+**Vessels and vestments sold.** The surplus chalices, monstrances and vestments were sold for
+the common chest. The Schönewalde order of 1529 allowed the judge and jurors "to sell the
+superfluous chasubles and vestments profitably" for the chest (Sehling 1, p. 667). In the
+lordship of Homburg in 1605 the vestments, patens and chalices were to be sold, "one cup kept at
+each place", and all accounted for (Sehling 22, p. 149).
+
+**But not to profane use.** The property itself remained God's. The Courland order of 1570
+states the principle: what has once been given and hallowed to God's honour may not, under any
+pretext, be turned "to profane use", and its holders are to restore it (Sehling 5, p. 52). The
+Pomeranian synod of 1574 bade pastors see that church goods were not "transferred to profane
+uses" (Sehling 4, p. 490). The sacred character passed from the stones and vessels to the
+purpose they served.
+
+### 19.3 The deposition of ministers
+
+**Removal, not degradation.** No order has the medieval degradation, in which a bishop stripped
+a condemned cleric of his vestments and the instruments of each order in turn. A minister
+unworthy of office was deposed by sentence of the superintendent, synod or consistory, and the
+sentence was announced to the congregation. Wittenberg in 1542 removed from office a minister
+put in the ban (§16.2).
+
+**Hesse 1566.** Hesse gives the fullest procedure, under the heading "How ministers of the
+church shall be removed from office". For negligence: admonition by the elders, then sharper
+warning by the superintendent, then sentence before several pastors or in the synod, after which
+the deposed man must leave the parsonage. For a public scandal: immediate inquiry by the
+superintendent with neighbouring pastors, and sentence whether the accused is present or not. In
+both cases the sentence is read in his church on the next Sunday by another pastor, who bids the
+people pray for a new minister. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, pp. 211–212):
+
+<!-- doc 2257 -->
+> So derhalben ein diener der kirchen durch großen unfleiß in seinem ampt oder offentlicher
+> sünden halber, als trunkenheit, ehebruch, hurerei, diebstal, falsch schweren, aufrur,
+> todschlag, ketzerei, spaltung oder dergleichen, des ampts sich selbst unwirdig macht, will es
+> warlich vonnoten sein, daß ein solcher auch offentlich vor der ganzen gemein seines ampts
+> entsetzet werde. […] Diesen gesprochnen sentenz des superintendenten soll den nechst volgenden
+> sontag ein ander pfarherr von wegen des superintendentis oder des ganzen synodi in der
+> kirchen, darin der beurlaubte zuvor geleret, nachdem das ganze ampt in der kirchen verrichtet,
+> verkündigen. Auch soll man zugleich denjenigen, welchen dies gebüret, befehlen, daß sie nach
+> einem andern beizeiten trachten und mitlerweil Gott den himlischen Vatter fleißig bitten, er
+> wöl einen andern tüchtigen und fleißigen senden und geben.
+
+If therefore a minister of the church maketh himself unworthy of the office by great negligence
+in his office, or by reason of open sins, as drunkenness, adultery, whoredom, theft, false
+swearing, sedition, manslaughter, heresy, schism or the like, it is truly needful that such a
+one be also publicly put out of his office before the whole congregation. […] This sentence
+pronounced by the superintendent shall be proclaimed on the next following Sunday by another
+pastor, on behalf of the superintendent or of the whole synod, in the church wherein the
+dismissed man formerly taught, after the whole service in the church hath been performed. And at
+the same time those whom it concerneth shall be bidden to seek in good time after another, and
+meanwhile to pray God the heavenly Father diligently that he will send and give another, apt and
+diligent.
+
+---
+
+## 20. Other occasional rites
+
+### 20.1 The visitation service
 
 **Pfalz-Neuburg 1560.** The church visitation was the evangelical substitute for the bishop's
 visitation. At the parish level it had its own service. Pfalz-Neuburg's visitation order of
@@ -4640,7 +5328,7 @@ collect the epistle, and after the epistle the Creed is sung. After the Creed th
 a short sermon. After the sermon is held, one of the visitors addresseth the people after this
 manner following.
 
-### 17.2 Rites treated in other guides
+### 20.2 Rites treated in other guides
 
 Some occasional services are treated elsewhere, or only touched on here:
 
@@ -4654,7 +5342,7 @@ Some occasional services are treated elsewhere, or only touched on here:
 
 ---
 
-## 18. Table by order
+## 21. Table by order
 
 **How to read the table.** The table lists the orders that give the principal forms. For each
 order it shows which rites it supplies in full or in quotation, and what it abolishes. Section
@@ -4671,24 +5359,31 @@ numbers refer to this guide.
 | Electoral Saxony, Wittenberg consistory 1542 | communion of the sick (8.2); form of excommunication and reconciliation (16.2) | reserved sacrament (8.2) |
 | Electoral Saxony, *Wittenbergische Reformation* 1545 | confirmation (6.1); ordination (10.1) | — |
 | Saxony, *Ordnung* of Duke August 1580 | godparents (3.8); confirmation (6.7); investiture of pastors (11.1); *Kirmes* dancing limited (14.4) | weather-ringing and bell baptism (15.5) |
-| Electoral Brandenburg 1540 | baptism with oil of catechumens, chrism, white cap and candle (3.2, 15.4); confirmation (6.4); Sunday procession without water (15.2) | blessings of water, salt, herbs, candles (15.2) |
+| Electoral Brandenburg 1540 | baptism with oil of catechumens, chrism, white cap and candle (3.2, 15.4); private confession and absolution with laying on of hands (17.3); Sunday, Palm Sunday and Rogation processions (18.2); confirmation (6.4); Sunday procession without water (15.2) | blessings of water, salt, herbs, candles (15.2) |
 | Brandenburg-Nürnberg 1533 | baptism with exhortations (3.1, 3.4); marriage (7.2); funerals (9.3) | churching (5.1); oil and salt at baptism (3.2); font blessing 1528 (15.3); the yearly blessings (15.1) |
 | Nuremberg, Dietrich's *Agendbüchlein* 1545 | exorcism glossed as prayer (4.1); the dying (8.4); the condemned (8.6); funerals (9.1) | — |
 | Brandenburg-Ansbach-Kulmbach | marriage, Hof 1592 (7.4); dedication of 1572, its yearly festival and the school dedication of 1546, Hof 1592 (14.3) | exorcism mitigated 1591–1594 (4.3) |
 | Württemberg 1536 and 1553 | baptism (3.5); visitation of the sick (8.2); marriage and the wreath (7.6); investiture of prelates (11.3) | exorcism (3.5) |
 | Strasbourg 1525 and 1537 | baptism (3.5); marriage with the impediments asked thrice (7.3) | exorcism (3.5); oil and chrism, 1525 (15.4) |
-| Hesse | confirmation, Ziegenhain 1539 (6.2); ordination of elders and deacons 1566 (12.1); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
+| Hesse | confirmation, Ziegenhain 1539 (6.2); ordination of elders and deacons 1566 (12.1); deposition of ministers 1566 (19.3); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
 | Calenberg-Göttingen 1542 | confirmation (6.3) | blessings of salt, water, herbs, palms, *Fladen* (15.1) |
 | Mansfeld 1554 and 1580 | godparents (3.8); churching as thanksgiving (5.2); confirmation (6.5); funerals (9.4); ban, open penance and absolution (16.5) | — |
 | Pomerania 1569 | exorcism (4.1); prayer over the possessed (8.7) | — |
 | Regensburg | ordination 1553? (10.4); funerals 1560 (9.4); plague order 1562 (8.5); dedication anniversary about 1567 (14.3) | — |
 | Merseburg 1545 | ordination within the Mass (10.3) | — |
 | Schleswig-Holstein 1542 | ordination of bishops (11.4) | — |
-| Kurpfalz 1563 and 1592 | Reformed baptism (3.6); ordination (10.5); presentation of ministers (11.2); installation of elders 1592 (12.1); stewards' oath 1577 (12.4); schoolmaster's promise 1580, Heidelberg bell-ringer 1572 (12.2–12.3); exclusion by elders (16.7) | emergency baptism by women; exorcism (3.6) |
+| Kurpfalz 1556, 1563 and 1592 | Luther's catechism form of confession, 1556 (17.2); Reformed baptism (3.6); annulment, 1563 (7.10); ordination (10.5); presentation of ministers (11.2); installation of elders 1592 (12.1); stewards' oath 1577 (12.4); schoolmaster's promise 1580, Heidelberg bell-ringer 1572 (12.2–12.3); exclusion by elders (16.8) | emergency baptism by women; exorcism (3.6) |
 | Saxe-Lauenburg 1585 | churchwarden's oath (12.4); lesser and greater ban; public penance and absolution (16.1, 16.3) | — |
 | Mecklenburg 1570 | consistory process, form of excommunication, absolution from the ban (16.4) | — |
-| Grubenhagen 1581 | lesser and greater ban (16.1) | — |
-| Micron's *Ordinancien* 1554 (East Frisia 1565) | installation of elders and deacons (12.1); Reformed excommunication and readmission (16.6) | — |
+| Wertheim 1530/1555 | the pastor's examination at the betrothal (7.8) | secret betrothals |
+| Saxony (Albertine), *Dresdener Ehe-Ordnung* 1556 | divorce for adultery (7.10) | — |
+| Electoral Brandenburg 1573 | remarriage of the innocent divorced party (7.10) | — |
+| Pfalz-Zweibrücken 1539 | visitation of the sick by James 5 (8.1) | the oil of the sick (8.1) |
+| Lippe 1538 | the gospel in place of the last oil (8.1) | extreme unction (8.1) |
+| Esslingen 1532 | — | the tonsure (19.1) |
+| Saalfeld 1533 | — | altars, images, a chapel (19.2) |
+| Grubenhagen 1581 | lesser and greater ban (16.1); absolution from the ban (16.6) | — |
+| Micron's *Ordinancien* 1554 (East Frisia 1565) | installation of elders and deacons (12.1); Reformed excommunication and readmission (16.7) | — |
 | Lippe 1571 | the sexton's pledge (12.2) | charms and amulets (12.2) |
 | Leisnig 1529 | election of churchwardens (12.4) | — |
 | Lüneburg 1564 | appointment of midwives (12.5) | — |
@@ -4697,23 +5392,24 @@ numbers refer to this guide.
 | Hildesheim 1581 | the organist's contract (12.3) | — |
 | Strasbourg 1523 | the oath of the steward of the poor (12.4) | — |
 | Schwäbisch Hall 1543/1615 | council-election sermon (13.1) | consecration of churchyards (14.1) |
-| Pfalz-Neuburg 1543 and 1560 | baptism with oil and chrism (3.2); visitation service (17.1) | the yearly blessings (15.1); weather-ringing (15.5) |
+| Pfalz-Neuburg 1543 and 1560 | baptism with oil and chrism (3.2); visitation service (20.1) | the yearly blessings (15.1); weather-ringing (15.5) |
 | Waldeck 1583 and 1584 | — | *Kirchweih* (14.4); exorcism and the baptismal robe (4.4) |
 | Halberstadt 1588 | — | church dedication and font blessing (14.1) |
 | Thüngen 1564 | — | churching (5.1); weather-ringing (15.5) |
 
 ---
 
-## 19. Concordance of the orders quoted
+## 22. Concordance of the orders quoted
 
 **The concordance.** Every order quoted in this guide is listed below, with the volume and pages
 of Sehling and the sections where it is quoted. Orders cited only in summary can be found
-through the table in §18 and the text.
+through the table in §21 and the text.
 
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
 | Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 269 | 4.4 |
-| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 88 | 3.2, 6.4, 15.2 |
+| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 88 | 3.2, 6.4, 15.2, 17.3, 18.2 |
+| Brandenburg (Electorate) | *Visitation- und Consistorialordnung* | 1573 | 3, p. 128 | 7.10 |
 | Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | 7.4 |
 | Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | 4.3 |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, p. 135 | 3.2 |
@@ -4723,15 +5419,16 @@ through the table in §18 and the text.
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, p. 799 | 15.1 |
 | Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | 8.2, 16.2 |
 | Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | 6.1, 10.1 |
+| Esslingen | *Mandat für die altgläubigen Geistlichen* | 10 August 1532 | 17/2, p. 371 | 19.1 |
 | Gengenbach | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | 12.3 |
-| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, p. 1052 | 16.1 |
+| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1052, 1058 | 16.1, 16.6 |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | 14.1 |
 | Heidelberg | *Bestallung eines Glöckners* | 15 May 1572 | 14, p. 457 | 12.2 |
 | Henneberg | *Kirchenordnung* | of Georg Ernst, 1582 | 2, pp. 304–305 | 4.3 |
 | Herford | *Kirchenordnung* | 1532 | 21, p. 192 | 7.4 |
 | Hesse | *Reformatio ecclesiarum Hassiae* | (Homberg), 1526 | 8, p. 50 | 14.1 |
 | Hesse | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | 6.2 |
-| Hesse | *Kirchenordnung* | 1566 | 8, pp. 209, 211 | 12.1 |
+| Hesse | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | 12.1, 19.3 |
 | Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
 | Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 464, 467 | 14.3 |
@@ -4740,6 +5437,7 @@ through the table in §18 and the text.
 | Kurpfalz | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | 11.2 |
 | Kurpfalz | *Einführung der Senioren* | 9 December 1592 | 19/2, pp. 789–790 | 12.1 |
 | Leisnig | *Verordnung der Visitatoren für das Amt Leisnig* | 1529 | 1, p. 609 | 12.4 |
+| Lippe | *Kirchenordnung* | 1538 | 21, p. 319 | 8.1 |
 | Lippe | *Kirchenordnung* | 1571 | 21, p. 447 | 12.2 |
 | Luther | *Das taufbuchlin verdeutscht* | 1523, epilogue | 1, p. 20 | 3.1 |
 | Luther | *Das taufbuchlin verdeutscht* | 1523 | 1, pp. 19–20 | 3.2 |
@@ -4751,26 +5449,31 @@ through the table in §18 and the text.
 | Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 241–242, 242–243, 246 | 5.2, 6.5, 9.4, 16.5 |
 | Mecklenburg | *Consistorialordnung* | 1570 | 5, pp. 245–246, 246 | 16.4 |
 | Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | 10.3 |
-| Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.6 |
+| Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.7 |
 | Mulhouse | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | 12.3 |
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | 15.1 |
 | Nassau-Dillenburg | *Agende* | 1575 | 10, p. 150 | 4.4 |
 | Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1 |
+| Palatinate | *Kirchenordnung* | of Ottheinrich, 1556 | 14, p. 140 | 17.2 |
+| Palatinate | *Ehegerichtsordnung* | 1563 | 14, p. 327 | 7.10 |
 | Palatinate | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
 | Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | 12.3 |
-| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 96–97 | 3.2, 15.1 |
-| Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 17.1 |
-| Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, p. 59 | 4.1 |
+| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 96–97, 96 | 3.2, 15.1, 18.1 |
+| Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 20.1 |
+| Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | 4.1, 8.1 |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | 4.1 |
 | Pomerania | *Agenda* | 1569 | 4, pp. 461–462 | 8.7 |
 | Pomesania | *Themata episcopi Risenburgensis* | 1524 | 4, p. 29 | 15.1 |
+| Prussia | *Visitationsabschied für Zinten* | 1575 | 4, p. 153 | 7.9 |
 | Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | 10.4 |
 | Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | 9.4 |
 | Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | 8.5 |
+| Saalfeld | *Visitation order* | 1533 | 1, p. 654 | 19.2 |
 | Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 420, 448, 449, 453 | 12.4, 16.1, 16.3 |
-| Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 453 | 3.8, 6.7, 11.1, 15.5 |
+| Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 427, 453 | 3.8, 6.7, 11.1, 15.5, 17.1 |
 | Saxony (Albertine) | *Kirchenordnung* | 1539 | 1, pp. 266, 267–268, 270–271, 275 | 3.4, 3.7, 8.3, 9.2 |
 | Saxony (Albertine) | *Gemeiner Bericht der Visitatorn* | 1540 | 1, p. 285 | 5.1 |
+| Saxony (Albertine) | *Dresdener Ehe-Ordnung* | 1556 | 1, p. 343 | 7.10 |
 | Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, pp. 170–171 | 15.5 |
 | Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | 11.4 |
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 175 | 13.1, 14.1 |
@@ -4781,6 +5484,7 @@ through the table in §18 and the text.
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | 4.4 |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | 14.4 |
+| Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | 7.8 |
 | Württemberg | *Kirchenordnung* | 1536 | 16, pp. 111, 113 | 3.5, 8.2 |
 | Württemberg | *Kirchenordnung* | 1553 | 16, pp. 232–233 | 3.5 |
 | Württemberg | *Eheordnung* | 1553 | 16, p. 279 | 7.6 |
