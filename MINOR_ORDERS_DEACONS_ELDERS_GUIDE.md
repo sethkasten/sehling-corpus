@@ -2,7 +2,7 @@
 
 This guide covers what became of the medieval grades and liturgical offices below the priesthood
 in the evangelical church orders printed in Emil Sehling's *Die evangelischen Kirchenordnungen
-des XVI. Jahrhunderts*. It also covers the new offices that took their place. It asks eight
+des XVI. Jahrhunderts*. It also covers the new offices that took their place. It asks nine
 questions:
 
 - Were any of the **minor orders** (porter, lector, exorcist, acolyte) or the **subdiaconate**
@@ -18,12 +18,16 @@ questions:
 - What did each of these offices do, and what were they forbidden to do?
 - Which offices were **abolished** or **forbidden**?
 - On what **grounds** were the offices kept, created or abolished?
+- What became of the **sacristan**, of lay **care of the altar**, of **deaconesses**, and of
+  **monks**, **nuns**, **tertiaries** and other members of religious communities? How were they
+  received or installed?
 
 The findings are summarised in §1, and §2 explains the method and the words that most often
 mislead. §3 deals with the minor orders and the subdiaconate, and §4 with the liturgical roles.
 §5 covers the diaconate in its three forms and the question of divine or human right. §6 covers
-elders. §7 gathers how each office was installed, and whether it was ordained. §8 is a table by
-order, and §9 a concordance of every order quoted.
+elders. §7 covers sacristans, altar care, deaconesses, monks, nuns, tertiaries and
+confraternities. §8 gathers how each office was installed, and whether it was ordained. §9 is a
+table by order, and §10 a concordance of every order quoted.
 
 **Conventions**
 
@@ -67,9 +71,10 @@ order, and §9 a concordance of every order quoted.
 - [4. The liturgical roles](#4-the-liturgical-roles)
 - [5. The diaconate](#5-the-diaconate)
 - [6. Elders](#6-elders)
-- [7. Ordained or not: how each office was installed](#7-ordained-or-not-how-each-office-was-installed)
-- [8. Table by order](#8-table-by-order)
-- [9. Concordance of the orders quoted](#9-concordance-of-the-orders-quoted)
+- [7. Sacristans, altar care, deaconesses and the religious life](#7-sacristans-altar-care-deaconesses-and-the-religious-life)
+- [8. Ordained or not: how each office was installed](#8-ordained-or-not-how-each-office-was-installed)
+- [9. Table by order](#9-table-by-order)
+- [10. Concordance of the orders quoted](#10-concordance-of-the-orders-quoted)
 
 ---
 
@@ -190,6 +195,32 @@ right* above the people and below the presbyter in the Roman sense. The position
   was settled in 1569 by opinions of Beza, Ursinus and Zanchi, and in 1570 an edict set up
   church discipline (Sehling 14, p. 53; §6.3).
 
+**9. Sacristans, altar care, deaconesses and the religious.**
+- **Sacristans.** No order has a sacristan distinct from the sexton. The *Küster*, *Custos*,
+  *Mesner* or *Sigrist* kept the chalices, vestments and font, prepared the altar, vested the
+  pastor and went with him to the sick. Anhalt (1594) and Sayn (1590) spell out the duties;
+  Heilbronn (1543) forbids women to serve at the font (§7.1).
+- **Altar guild.** None exists in the corpus. The altar was kept by the sexton and the lay
+  churchwardens or deacons. Pomerania (1574) charges the *diaconi* with "the altar with its
+  ornament". The confraternities and Kalands that had kept altars and lights were dissolved into
+  the common chest from Leisnig (1523) onward (§7.2).
+- **Deaconesses.** There is no order of deaconesses. The word *diaconissa* appears once, for the
+  almoner of the convent of Keppel (1570). The nearest equivalents are the Bohemian
+  *presbyterae* and the *Seelfrauen* and beguines appointed to nurse the sick under the pastor
+  (Regensburg 1543, Nördlingen 1544, Heilbronn 1531) (§7.3).
+- **Monks.** New professions ended everywhere. Monks might leave and marry with a settlement or
+  stay with maintenance. A few abbeys (Herrenalb, Ravengiersburg) were kept as evangelical
+  schools for the ministry under an evangelical abbot or prior, without vows (§7.4).
+- **Nuns.** Many women's houses survived as evangelical convents. Admission was put under the
+  prince or council; the vows were declared not binding; the consecrated habit was abolished or
+  made optional, "for all Christians alike are clothed in baptism" (Mecklenburg 1572). Keppel
+  (1570) prints a full evangelical rite of clothing with an oath, and elected *dominae*,
+  abbesses and prioresses swore oaths of office (§7.5).
+- **Tertiaries and confraternities.** Beguine and Lollard houses were closed to new members.
+  Heilbronn turned its beguines into visitors of the sick. Herford counted the separate houses
+  of the Brethren and Sisters of the Common Life among "factions and sects". No order kept or
+  founded a third order (§7.6).
+
 ---
 
 ## 2. Scope, sources and the words that mislead
@@ -207,7 +238,11 @@ question, in German, Low German and Latin spellings. The searches covered:
 - *crucifer*, *Kreuz vortragen*, *Kreuzträger*;
 - *ceremoniarius*, *magister caerimoniarum*;
 - *Diaconus*, *Diakon*, *diaken*, *Helfer*, *Kaplan*;
-- *Eltesten*, *Senior*, *Presbyter*, *Kirchenpfleger*, *Kirchenälteste*, *Censor*.
+- *Eltesten*, *Senior*, *Presbyter*, *Kirchenpfleger*, *Kirchenälteste*, *Censor*;
+- for §7: *Sakristei*, *Sigrist*, *Mesner*, *Küster*, *Custos*, *Glöckner*; *Oblaten*,
+  *Altartuch*, *Bruderschaft*, *Kaland*; *diaconissa*, *Seelfrau*, *Seelnonne*,
+  *Krankenwärterin*; *Kloster*, *Novize*, *Profess*, *Gelübde*, *einkleiden*, *Kappe*, *Weihel*,
+  *Domina*, *Äbtissin*, *Priorin*; *Begine*, *Nollhart*, *Fraterhaus*, *Terziarin*.
 
 The registers of the edition were used to find further passages. The passages were then read in
 context.
@@ -474,7 +509,7 @@ apprenticeship.
 
 The order calls their admission an *ordinatio*, "the first grade of calling". It takes place
 before the synod, after an examination, and it has **no laying on of hands**; the Brethren kept
-that for deacons and ministers (§5.3, §7). **Bohemian Brethren, *Ordo ecclesiasticus*, 1576,
+that for deacons and ministers (§5.3, §8). **Bohemian Brethren, *Ordo ecclesiasticus*, 1576,
 "Acoluthorum ordinatio"** (Sehling 4, p. 279):
 
 <!-- doc 1846 -->
@@ -1868,7 +1903,506 @@ with a share in the power of the keys belongs to the Bucerian, Hessian and Refor
 
 ---
 
-## 7. Ordained or not: how each office was installed
+## 7. Sacristans, altar care, deaconesses and the religious life
+
+This section treats six groups that stood beside the clergy without being clergy:
+- the **sacristan**, who kept the vessels, vestments and font (§7.1);
+- the people who cared for the **altar**, the nearest thing in the corpus to an altar guild
+  (§7.2);
+- **deaconesses** and the women who served the sick (§7.3);
+- **monks** (§7.4) and **nuns** (§7.5);
+- **beguines**, **tertiaries**, the **Brethren of the Common Life** and the lay
+  **confraternities** (§7.6).
+
+How each of them was received or installed is set out with the full forms in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §§12.2 and 12.6–12.10, and
+summarised in the table of §8 below.
+
+### 7.1 Sacristans
+
+**No separate office.** No evangelical order has a sacristan distinct from the sexton. The
+medieval sacristan (*sacrista*, *custos*, *Sigrist*, *Mesner*) and the bell-ringer, sweeper and
+doorkeeper were one lay servant, called *Küster*, *Custos*, *Kirchner*, *Glöckner*, *Opfermann*,
+*Mesner* or *Sigrist* according to region. The porter's keys passed to him (§3.5). So did the
+sacristan's charge: the chalices, the vestments and linen, the font and its water, the bread and
+wine, and the lights. In most villages he was also the schoolmaster.
+
+**Anhalt 1594: the sacristan's duties.** The appointment of the sexton of Törten in Anhalt is
+printed by Sehling as a "sexton's ordinance". It lists the sacristan's work with the rest:
+ringing, singing, opening and shutting the church, sweeping, "preparing the altar and font", and
+"vesting and unvesting the pastor". The post was granted for one year at a time. **Anhalt,
+*Ordnung für den Küster zu Törten*, 8 November 1594** (Sehling 2, pp. 579–580):
+
+<!-- doc 1262 -->
+> Der custos sol nicht allein in gemein alles, was ihme mit leuten, singen, kirchuf und
+> zuschliessen, kehren, altar und taufstein bereiten, an und auskleidung des pfarners, nichts
+> ausgenommen, zustendig und gehorig, hochstes und treues vleisses vorrichten, sondern auch
+> insonderheit alle tage in der wochen, wie in schulen breuchlich, vor und nachmittage idesmals
+> zwo stunden […] vor knaben und megdlein (die ernte ausgenommen) schule halten […] alles bei
+> vorlust des dienstes, welcher dan einem jeden custodi nur ein jahr lang sol zugesagt werden,
+> und er schuldig sein, kurz vor michaelis bei dem pfarner von neuen darumb zu werben.
+
+The sexton shall not only perform in general, with highest and faithful diligence, all that
+pertaineth and belongeth to him in ringing, singing, opening and shutting the church, sweeping,
+preparing the altar and font, [and] vesting and unvesting the pastor, nothing excepted; but also
+in particular every day in the week, as is customary in schools, before and after noon, two
+hours each time […] keep school for boys and maidens (the harvest excepted) […] all on pain of
+losing the service, which shall be promised to every sexton for one year only; and he shall be
+bound, shortly before Michaelmas, to sue anew for it with the pastor.
+
+**The keeper of the vessels.** Because the vessels and vestments were in his keeping, the sexton
+had to be of known honesty or give surety. **Sayn, *Kirchenordnung*, 1590**
+(Sehling 19/1, p. 438):
+
+<!-- doc 1090 -->
+> Weil auch den Glöcknern die Kelch, Kirchen Ornat und anders, so in der Kirchen verwahret
+> werden soll, vertrauwet, soll keiner zum Glöckner angenommen werden, er sey dann wol bekandt
+> oder habe einen Vorstandt oder Bürgen, damit, wann etwas durch seinen Unfleiß oder Untreuw der
+> Kirchen entwendet, die Kirch sich deß erlittenen Schadens widerumb bey im zuerholen habe.
+
+Forasmuch also as the chalices, the church's ornaments and other things which are to be kept in
+the church are entrusted to the bell-ringers, none shall be received as bell-ringer unless he be
+well known or have a warrantor or surety; that if anything be taken away from the church through
+his negligence or unfaithfulness, the church may recover the loss suffered again from him.
+
+The Heidelberg bell-ringer of 1572 likewise received "the cloths, silver and vessels for the
+Supper and baptism" by inventory ([`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md)
+§12.2).
+
+**At the altar and the font.** The sacristan's liturgical tasks recur across the orders:
+- **The sick.** In Hohenlohe the pastor called to the sick takes "with him, together with his
+  sexton, the particles, chalice, corporal, surplice" (Sehling 15, p. 73). Württemberg's
+  German-school order of 1559 bids schoolmasters who also held the *Meßnerei* go with the pastor
+  to the sick "and carry the chalice" (Sehling 17/1, p. 585).
+- **The font.** The Lippe sexton was to "fill the font often with clean, fresh water"
+  (Sehling 21, p. 447). Baden in 1601 told the *Sigristen* to bring fresh water, "yet not too
+  cold", and not to let it stand for weeks in the font (Sehling 16, p. 551).
+- **Bread and wine.** Veit Dietrich forbade pastors to set hosts and wine on the altar without
+  measure and leave the rest "to the sexton for his use at home" (Sehling 11, p. 531). In the
+  Schönburg lordships in 1542 the sexton was no longer to buy the communion wine with his own
+  money; the church was to pay and he to fetch it (Sehling 2, p. 176).
+
+**Not women.** At Heilbronn in 1543 the council reserved the sacristan's office at the font to
+the sexton, and forbade it to women and maids, lest "the holy act of baptism be mocked by wicked
+people". **Heilbronn, *Kirchenordnung*, 1543** (Sehling 17/1, p. 315):
+
+<!-- doc 781 -->
+> Darzu will ein Er. w. für. Rath haben, das die Mesner unnd nicht Fraw oder Medlen den Tauff
+> zuund aufthuendt oder dem pfarrherrn, seinen diacon, die handtzweel, zu trocknen die hend,
+> reichent, sonder er soll es selbs thon, damit der heilig actus des tauffs von bösen leuten
+> nicht verlacht werdte.
+
+Moreover an honourable, wise [and] provident council will have it that the sextons, and not
+women or maids, open and shut the font, or reach the towel to the pastor [and] his deacon to dry
+the hands; but he shall do it himself, that the holy act of baptism be not mocked by wicked
+people.
+
+**The old abuses.** The sacristan's access to the font water and the hosts made him suspect of
+the old "sorcery". Electoral Saxony in 1580, copied by Brandenburg-Ansbach in 1594
+(Sehling 11, p. 391), ordered the pastors to stop it. **Electoral Saxony, *Kirchenordnung* of
+Elector August, 1580** (Sehling 1, p. 426):
+
+<!-- doc 44 -->
+> Nach dem an etlichen orten noch von der papistischen zauberei geblieben, das die glöckner das
+> ubergeblieben taufwasser verkaufen, wie auch etliche mit den ubergebliebenen hostien handlen,
+> welche nachmals zu zauberei gebraucht, sollen die pfarrer die glöckner deshalben ernstlich
+> vermanen, das sie es abschaffen, und da es nachmals wieder geschehe, hertiglich gestraft
+> werden sol.
+
+Forasmuch as in some places there yet remaineth of the papistical sorcery, that the bell-ringers
+sell the baptismal water left over, as also some deal in the hosts left over, which are
+afterward used for sorcery, the pastors shall earnestly admonish the bell-ringers thereof, that
+they put it away; and if it happen again afterward, it shall be sharply punished.
+
+**Appointment.** The sacristan was appointed, not ordained. In Strasbourg the vacant offices of
+"helpers or *Sigristen*" were filled "by the pastors and parish churchwardens, and not
+otherwise" (Sehling 20/1, p. 226). Elsewhere the council, the patron or the pastor with the
+parish chose him, and he bound himself by pledge, oath or written *Revers* (§8).
+
+**In the convents.** The one sacristan with a distinct title is a woman: the **custorin** among
+the "spiritual or church offices" of the evangelical convent of Keppel (§7.5).
+
+### 7.2 Altar care: no altar guild
+
+**No guild.** The corpus knows no altar guild: no society of women or laymen charged with
+washing the altar linen, baking the hosts or adorning the altar. The care of the altar fell to
+three others:
+- the **sexton** or sacristan (§7.1);
+- the **lay churchwardens**, deacons of the chest or *Altarleute*, who bought the bread, wine
+  and candles and kept the church's ornaments;
+- in the convents, the sisters who held the church offices (§7.5).
+
+**The deacons of the church keep the altar.** The Pomeranian synodal statutes of 1574 charge the
+lay *diaconi ecclesiae et pauperum* (§5.2) with the altar and its ornaments. **Pomerania,
+*Statuta synodica*, 1574** (Sehling 4, p. 491):
+
+<!-- doc 1868 -->
+> Vigilent etiam pastores, ne structuram ecclesiae diaconi negligant, sed in templis aram, cum
+> ornatu suo, suggestum, baptisterium, sedilia, et omnia honeste et decenter conservent, et
+> coemiteria honeste muniri curent.
+
+Let the pastors also watch that the deacons neglect not the fabric of the church, but that in
+the churches they keep the altar with its ornament, the pulpit, the font, the seats, and all
+things honestly and decently, and take care that the churchyards be honestly fenced.
+
+In Pfalz-Neuburg it was the churchwardens who received a florin "for the buying of hosts and
+wine" (Sehling 13, p. 208).
+
+**The confraternities dissolved.** Before the Reformation the lights and adornment of many
+altars were kept by lay confraternities. These were dissolved, and their goods went to the
+common chest. The first such order, Leisnig's, names the brotherhoods of the Kaland, of St Anne
+and of the shoemakers' journeymen. **Leisnig, *Ordnung eines gemeinen Kastens*, 1523**
+(Sehling 1, p. 599):
+
+<!-- doc 102 -->
+> Was an barem gelde, zinskaufen, cleinoden silberwerk, vorrathe und farende habe, zu den
+> berumbten bruderschaften, des kalands, Sanct Annen, und der schuknechte, bis anher
+> eingesamlet, und den selbigen zustendig ist, mit den brivlichen urkunden, verzeichnussen und
+> registern, allenthalben in diesen gemeinen kasten geschlagen und verordent, dabei zubleiben.
+
+Whatsoever in ready money, bought rents, jewels, silver plate, stores and movable goods hath
+been gathered hitherto for the said brotherhoods, of the Kaland, of St Anne and of the
+shoemakers' journeymen, and belongeth to the same, together with the deeds, inventories and
+registers, is altogether cast into and ordained for this common chest, there to remain.
+
+**Women at the altar.** No order gives women a role at the altar. Heilbronn forbade them even to
+open the font or hand the towel (§7.1).
+
+### 7.3 Deaconesses, sick-women and *Seelfrauen*
+
+**The word.** The word *diaconissa* occurs once in an order of the corpus, at Keppel in 1570,
+for the sister "who distributeth the alms" (§7.5). There is no order of deaconesses and no rite
+for them. But three kinds of women did work that the early Church had given to deaconesses and
+widows:
+- the **convent almoner** at Keppel;
+- the **women elders** (*presbyterae*) of the Bohemian Brethren, elected by the women of the
+  congregation and bound by handfast vow (§6.4);
+- the **sick-women** (*Seelfrauen*, *Krankenwärterinnen*), appointed by the council or the
+  pastor to nurse and comfort the sick and dying. Some had been beguines.
+
+**Keppel 1570: the deaconess as almoner.** **Nassau-Dillenburg, *Ordnung für das Kloster
+Keppel*, 1570** (Sehling 10, p. 141):
+
+<!-- doc 181 -->
+> Geystliche oder kirchenambter seindt: Leßmeisterin oder priorin, vorsengerin, diaconissa, das
+> ist, die almusenn außtheylett, […] catecheten, […] custorin. Weltliche ampter seind: Kellerin,
+> kirchenmeisterin, kuchenmeisterin, speichermeisterinn, die der scheiben wartet, die die kinder
+> nehen, stickhen unnd wirckhen lernen […]
+
+The spiritual or church offices are: the lecturess or prioress; the precentress; the deaconess,
+that is, she who distributeth the alms; […] the catechists; […] the sacristaness. The temporal
+offices are: the cellaress, the church-mistress, the kitchen-mistress, the granary-mistress, she
+that keepeth the plate, [and] they that teach the children to sew, embroider and weave […]
+
+**The *Seelfrauen*.** In the Franconian and Bavarian towns the *Seelfrauen* were the inmates of
+the *Seelhäuser*, foundations for poor widows and single women who nursed the sick and prayed
+for the dying (Sehling 11, p. 320, editors' note). The orders kept them, but under the pastor
+and the word:
+- **Brandenburg-Ansbach 1536.** The visitors asked for oversight "of the *Seelfrau* and other
+  such women who may serve the sick", that they serve for a reasonable wage
+  (Sehling 11, p. 320).
+- **Regensburg 1543.** The order appointed *Seelfrauen*, and men also, to attend the sick and
+  dying, and prescribed what they were to say. **Regensburg, *Kirchenordnung des Noppus*, 1543**
+  (Sehling 13, p. 410):
+
+<!-- doc 436 -->
+> Das sünst verordnet werden seelfrauen, auch manspersonen, die zu den kranken, wu man ir
+> begert, sich gebrauchen lassen und der sterbenden warten. Und solche sollen ein christlichen
+> verstand haben, das sie die sterbenden allein auf das verdinst Christi weisen, nicht auf eigen
+> verdinst oder fürpitt der heiligen, inen das vaterunser und den glauben fürsprechen und, wus
+> zeit hat, gegründete psalm und geseng, als: Aus tiefer not schrei ich zu dir etc., In fried
+> und freud ich far dahin, Nun freut euch, lieben christen gemein, von der tauf, vom sacrament
+> des leibs und bluts etc., nicht alte, irrige gebet und spruch.
+
+That besides there be appointed *Seelfrauen*, and men also, who shall let themselves be used for
+the sick where they are desired, and attend upon the dying. And such shall have a christian
+understanding, that they point the dying to the merit of Christ alone, not to their own merit or
+the intercession of the saints; [that they] say the Lord's Prayer and the Creed before them,
+and, where there is time, well-grounded psalms and songs, as: *Aus tiefer Not schrei ich zu
+dir*, etc., *In Fried und Freud ich fahr dahin*, *Nun freut euch, lieben Christen gmein*, [the
+hymns] of baptism [and] of the sacrament of the body and blood, etc.; not old, erroneous prayers
+and sayings.
+
+- **Nördlingen 1544.** Kaspar Löner asked that the women whom the council had appointed to tend
+  the sick be sent to him, so that he might examine their faith and understanding and teach them
+  what they did not know (Sehling 12, p. 315). Sehling's editors note that this had been the
+  task of the *Seelnonnen* of the town's beguine house, closed in 1536.
+- **Wolfstein 1574.** Women who served the sick were to visit them often (Sehling 13, p. 582);
+  the editors compare the Nuremberg *Seelfrauen*.
+
+**Beguines turned sick-visitors.** Heilbronn in 1531 gathered its beguines into one house and
+charged them, as their service, to visit the sick and instruct them by God's word (§7.6).
+
+**Hospital nurses.** The later Reformed orders put the sick-nurse under the hospital master. The
+Heidelberg hospital order of 1594 lets the hospital master engage "fit sick-nurses"
+(*kranckenwärterin*) and dismiss them for misconduct, with the advice of the inspectors,
+preacher, physician and surgeon (Sehling 19/2, p. 827). Here the office is a domestic service,
+without any churchly character.
+
+### 7.4 Monks
+
+**Profession ended.** Every evangelical territory ended new professions. The monks were offered
+three choices:
+- to leave, marry or take up a trade, with their goods or a pension;
+- to stay for life in a house set apart for them, with maintenance;
+- in a few great abbeys, to live under an evangelical rule as teachers and students for the
+  ministry.
+
+**Württemberg 1535.** The first Württemberg monastery order forbade all new admissions, to the
+monasteries and to the houses of beguines and Lollards alike, and sent the unprofessed novices
+home. **Württemberg, *Klosterordnung*, 1535** (Sehling 16, p. 79):
+
+<!-- doc 647 -->
+> Fürohin söllen ouch kaine personen in die Clöster auffgenomen werden, desgleichen ouch in die
+> beginen- und Nollhart haußer. Wa ouch jetzund novitzien, die noch nit profession gethon,
+> vorhanden weren, söllen mit zimlicher zerung iren eltern oder frainden unverzogenlich
+> haimgeschickt werden.
+
+Henceforth also no persons shall be received into the cloisters, nor likewise into the houses of
+the beguines and Lollards. And where there be now novices which have not yet made profession,
+they shall be sent home to their parents or kinsfolk without delay, with reasonable provision
+for the way.
+
+Those who left received back what they had brought in, or forty florins a year for life. The few
+remaining mendicant friars were gathered into one house, the old and weak to be cared for "that
+they may so die in peace" (Sehling 16, pp. 79–80). In 1552 Duke Christoph forbade the abbots to
+"entangle" boys with "superstitious ceremonies and vows" to remain in the cloister
+(Sehling 16, p. 199).
+
+**Esslingen 1535: the friars who stayed.** Esslingen's order for the remaining Franciscans let
+any friar marry with a settlement from the council. Those who stayed received board and a yearly
+allowance. **Esslingen, *Ordnung für die Konventualen im Barfüßerkloster*, 6 September 1535**
+(Sehling 17/2, p. 382):
+
+<!-- doc 882 -->
+> Welcher under den ordenspersonen sich in ain ander erbar, christenlich wesen schicken und sich
+> in den ehelichen stannd wurde begeben, des ainem jeden nach Gottes lob und seiner seelen hail
+> anzerichten erlaubt sein soll, derselbig soll durch ainen ersamen rath als die obrigkait nach
+> einkomen ains jeden klosters mit zimblicher leibsunderhaltung, wie es ainem ersamen rath
+> gefellig, außgesteurt und versorgt werden. Und welche ordenspersonen nit herausser khomen,
+> besonder also im kloster zuverharren gedechten, dieselbigen sollen mit zimblicher leibsnarung
+> versorgt und demselbigen, so er ain priester gewesen, zehen guldin unnd ainem layen bruder
+> funff guldin alle jar fur klaidung und anndere leibs notturfft gegeben werden.
+
+Whosoever among the persons of the order would betake himself to another honest, christian
+estate and enter into the estate of matrimony, which shall be permitted to every one to
+undertake to the praise of God and the health of his soul, the same shall be set out and
+provided for by an honourable council, as the magistrate, according to the revenue of each
+cloister, with reasonable maintenance, as it shall please an honourable council. And those
+persons of the order which come not out, but purpose so to remain in the cloister, shall be
+provided with reasonable sustenance; and to him that hath been a priest ten florins, and to a
+lay brother five florins, shall be given every year for clothing and other bodily necessity.
+
+**Evangelical monasteries.** Where the princes kept the great abbeys, they kept them as schools
+for the ministry. Their "conventuals" and "novices" were students under an evangelical abbot:
+- **Württemberg.** At Herrenalb in 1556 the first Lutheran abbot agreed statutes by which "the
+  conventuals and novices" were to pray morning and evening a Latin prayer for the church, the
+  emperor, the duke and the abbot, and to live under discipline and study (Sehling 16, p. 317).
+  The installation of the Württemberg prelates is in
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §11.3.
+- **Pfalz-Simmern.** At the Augustinian house of Ravengiersburg in 1560 no novice or prebendary
+  was to be received without the duke's and the prior's knowledge. The young men were to be
+  trained for the preaching office, and the convent might sing in Latin. **Pfalz-Simmern,
+  *Klosterordnung Ravengiersburg*, 1560** (Sehling 19/2, p. 658):
+
+<!-- doc 1125 -->
+> Further soll auch kein Junger oder Prebender on unser, Hertzog Georg als Landtßfürsten, auch
+> mein, des Paters, wissen und willen angenommen werden, und soln solige junge herrn und
+> schuler, so jetzundt albereit im Closter oder konfftiglich mit unserm wissen, wie obgemelt,
+> angenommen, dahin mit Ernst geleret, gewiesen und gehalten werden, das sie konfftiglichen in
+> unserm Fürstenthumb das PredigAmt oder sunst ein ander ehrlig Kirchendienst, darzu sie duchtig
+> erkhannt, verwessen und verwalten mugen
+
+Further also no youth or prebendary shall be received without the knowledge and will of us, Duke
+George, as prince of the land, and of me, the Father [prior]; and such young lords and scholars
+as are now already in the cloister, or shall hereafter be received with our knowledge as
+aforesaid, shall be taught, directed and held earnestly to this end, that they may hereafter in
+our principality hold and administer the preaching office or some other honourable church
+service for which they are found apt.
+
+**No vows.** None of these houses required a vow. Ravengiersburg's scholar who was sent to the
+university bound himself only to serve the duke and the house (Sehling 19/2, p. 658).
+
+### 7.5 Nuns
+
+**The women's houses survived longest.** Many nunneries, above all the noble foundations of the
+north, survived the Reformation as evangelical convents or *Stifte*. They became homes and
+schools for unmarried women, keeping a rule, a habit of sorts, the hours in German or Latin, and
+an elected head (abbess, prioress or *domina*). The orders reformed them on four points:
+- **Admission.** No one was to be clothed without the prince's or council's consent. At Goslar's
+  convent of Frankenberg (1542) and in Württemberg no one was to be admitted at all.
+- **Vows.** The vows of perpetual chastity and the cloister were not binding. A sister might
+  leave and marry with her goods.
+- **Habit.** The consecrated habit (cowl, scapular, veil and crown) was abolished or made
+  optional. Baptism was declared the true clothing.
+- **Worship.** The hours and the Mass were reformed. Daily preaching, the catechism and
+  schooling for girls were added.
+
+**Goslar 1542: no new nuns, free to marry.** **Goslar, *Ordnung für das Frauenkloster
+Frankenberg*, 1542** (Sehling 7/2.2, p. 275):
+
+<!-- doc 2198 -->
+> 5. Nullas imposterum personas ad habitum sui ordinis admittent, eas vero, quae nondum
+> professionem emiserint, cum omnibus, quae coenobio contulerunt, ab se dimittent. 6. Unicuique
+> conventus personae liberum licitumque erit vel in coenobio toto tempore vitae permanere vel
+> cum honesto aliquo matrimonium inire.
+
+5. They shall admit no persons hereafter to the habit of their order; but those which have not
+   yet made profession they shall send away from them, with all that they brought to the
+   convent. 6. It shall be free and lawful to every person of the convent either to remain in
+   the convent all the time of her life, or to enter into matrimony with some honest man.
+
+**Lüneburg 1574: clothing kept, the habit changed.** The Lüneburg houses still received girls,
+but under the duke's control. The cowl, scapular, veil and crown were replaced by a plain black
+or white gown. **Lüneburg, *Klosterordnung* of Duke William the Younger, 1574**
+(Sehling 6/1, p. 622):
+
+<!-- doc 2010 -->
+> So soll auch kein kind und jungfrau eingekleidet werden ohne unsern vorwissen und befelch. Und
+> weil die kappen und schepler und weichel und kreuz auf dem haupt, wie sie die klosterpersonen
+> itz dragen, vielen frommen Christen ergernuß geben […] so sollen furder keine jungfrau in
+> kappen und mit wichel und kreuz bekleidet werden, sonder sie sollen ehrliche schwarze oder
+> weisse rocke von einerlei art und wande und auf dem haupt weisse tucher, wie sie itz haben,
+> ohne seitenburten oder gewirkten hauben tragen, aber keine weichel oder kreuz. […] Es soll
+> auch keine klosterperson in kappen, schefflern, weicheln etc., sondern wie andere Christen in
+> leinenlaken begraben werden.
+
+So also no child or maiden shall be clothed without our foreknowledge and command. And whereas
+the cowls and scapulars and veils and the cross upon the head, as the persons of the cloister
+now wear them, give offence to many godly Christians […] henceforth no maiden shall be clothed
+in cowl and with veil and cross; but they shall wear honest black or white gowns of one fashion
+and cloth, and upon the head white kerchiefs, as they now have, without side-bands or wrought
+hoods, but no veil or cross. […] Also no person of the cloister shall be buried in cowl,
+scapular, veil, etc., but in a linen sheet like other Christians.
+
+**Mecklenburg 1572: baptism the true clothing.** The Mecklenburg convent order of 1572 rejects
+the blessing of the habit "with certain little prayers" and holy water, and the "superstitious
+little books of consecration". **Mecklenburg, *Klosterordnung*, 1572** (Sehling 5, p. 254):
+
+<!-- doc 1926 -->
+> Desgleichen abergläubischer irthum ist, dass die closterkleider oder cappen, scheppler und
+> weihler, mit gewissen gebetlein eingeweihet und mit weiwasser besprenget, geistlich und
+> herlichere kleider sein, als andere, dadurch sie ihre sünde vor gottes angesicht bedecken und
+> für des teufels anlauf als mit einem harnisch bewahret, Christum anziehen und Christi braut
+> und königinnen werden. Da doch alle christen zugleich in der taufe in einerlei geistlich kleid
+> eingekleidet, den herrn Jesum Christum anziehen
+
+Likewise it is a superstitious error that the cloister garments, or cowls, scapulars and veils,
+consecrated with certain little prayers and sprinkled with holy water, should be spiritual and
+more glorious garments than others, whereby they cover their sins before the face of God and are
+preserved against the assault of the devil as with a harness, put on Christ, and become Christ's
+bride and queens; whereas all Christians alike are clothed in baptism in one spiritual garment,
+[and] put on the Lord Jesus Christ […]
+
+On vows the same order teaches that "there is no higher vow than that which we have made in holy
+baptism", and that vows against God's command are not to be kept (Sehling 5, p. 255).
+Brunswick-Wolfenbüttel in 1569 argues the same at length. In baptism all Christians are clothed
+"in a red cowl, which is the most holy rose-coloured blood of our Lord Jesus Christ" and
+crowned, so that the sister who lays aside her habit and crown loses nothing
+(Sehling 6/1, pp. 324–326). The form of words for laying it aside is in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §12.10.
+
+**Admission by the magistrate.** Strasbourg in 1555 took admission to its remaining women's
+houses out of the hands of the prioress. The council was to decide, and no girl was to be
+received under eight years old (Sehling 20/1, p. 454).
+
+**Keppel 1570: an evangelical clothing.** The fullest evangelical form for receiving a nun is
+the Nassau order for the convent of Keppel. It has the following elements:
+- a probation of at least two years;
+- questions to the parents, the *domina* and the candidate;
+- an oath;
+- a sermon;
+- the clothing in the sacristy;
+- *Veni Sancte Spiritus* and an exhortation at the altar;
+- the *Te Deum*.
+
+The exhortation tells the new sister that her vows earn nothing, that the convent is "not a
+prison" but "as it were a school", and that she may marry in an orderly way. The full rite is in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §12.7.
+
+**The offices of the convent.** Keppel divides the sisters' offices into "spiritual or church
+offices" and "temporal offices" (quoted in §7.3):
+- *Spiritual.* The lecturess or prioress, the precentress, the deaconess or almoner, the
+  catechists and the sacristaness (*custorin*).
+- *Temporal.* The cellaress, the church-mistress (*kirchenmeisterin*), the kitchen-mistress, the
+  granary-mistress, the keeper of the plate and the needlework teachers.
+
+The *domina* assigned these offices. She herself was proposed by the convent from two or three
+names, confirmed by the count and deposable by him, and swore an oath (Sehling 10, pp. 141–142).
+
+**Abbess and prioress.** In Schleswig-Holstein the abbess of Itzehoe and the prioresses of the
+other houses were still elected by the convent "according to old custom", under oath in the
+provost's presence. The sisters swore obedience to them (Sehling 23, p. 182). At Strasbourg the
+"mother or prioress" and six elder "council-mothers" were chosen and gave a promise
+(Sehling 20/1, p. 456). Both forms are in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §12.8.
+
+### 7.6 Beguines, tertiaries, Brethren of the Common Life and confraternities
+
+**Semi-religious communities.** The orders say little about the beguines, the tertiaries of the
+mendicant orders, the *Nollharden* or Lollards (lay brothers who nursed the sick and buried the
+dead), and the Brethren and Sisters of the Common Life. What they say is of three kinds:
+- the houses were closed to new members;
+- the existing members were maintained or bought out;
+- the communities were turned to the service of the sick or the school.
+
+No order creates a third order or a lay religious community.
+
+**Closed to new members.** Württemberg's order of 1535 shut the "houses of the beguines and
+Lollards" with the monasteries (§7.4). The beguines might keep or divide what they had brought
+in, and sell the houses they had built themselves, with the duke's knowledge
+(Sehling 16, p. 80). Sehling's editors record four houses of tertiary sisters at Reutlingen
+before the Reformation (Sehling 17/2, p. 28, editors' introduction). In Württemberg only the
+Franciscan tertiaries of Weiler used their right to emigrate, and went as a community to a
+convent near Augsburg (Sehling 16, p. 50, editors' introduction).
+
+**Heilbronn 1531: beguines as visitors of the sick.** Heilbronn gathered its beguines into one
+house and gave them a service, which comes closest in the corpus to an evangelical diaconate of
+women. **Heilbronn, *Instruktion zur Zusammenlegung beider Beginenhäuser*, 8 December 1531**
+(Sehling 17/1, p. 298):
+
+<!-- doc 776 -->
+> Item, so sy dan also bey einander wonen werden, sollen sy uff ansuchen zu den kranken zu geen
+> willig sein und die kranken gottlichem wort gemeß underweysen. Item, so wolle sich ain rate
+> versehen, sy werden in bedacht, das irenthalb ain gut ansehen gepere, nit […] uff
+> underschiedlicher klaydung hafften, sonder sonsten erbarlich beklayden und fleyssig in das
+> wort Gottes zu horen geen.
+
+Item, when they shall so dwell together, they shall be willing upon request to go to the sick,
+and to instruct the sick according to God's word. Item, a council trusteth that they,
+considering that a good appearance becometh them, will not […] cleave to a distinct clothing,
+but otherwise clothe themselves honestly, and go diligently to hear the word of God.
+
+**Herford: the Brethren of the Common Life.** Herford had both a brothers' and a sisters' house
+of the Common Life, and its Brethren were early supporters of the Reformation
+(Sehling 21, p. 160, editors' introduction). Its church order of 1532 nonetheless counted the
+separate communion of such houses as sectarian. **Herford, *Kirchenordnung*, 1532**
+(Sehling 21, pp. 173–174):
+
+<!-- doc 1442 -->
+> dat enhet jo nicht Convenire, wen me sick van der gemeine affsundert inn Fraterhuse,
+> Susterhuse und ander Rotten und Secten, sunder mit den gemeinen Christen tho der gedechtnisse
+> des Heren sick vorgadderen tho dem bruck des Sacramentes.
+
+That is surely not called *convenire* [to come together], when one separateth oneself from the
+congregation into brothers' houses, sisters' houses and other factions and sects; but [it is] to
+gather with the common Christians to the remembrance of the Lord, to the use of the sacrament.
+
+**Confraternities.** The lay brotherhoods (*Bruderschaften*) and the Kalands, which had kept
+altars, lights and anniversary Masses, were dissolved and their goods put into the common chest
+from Leisnig in 1523 onward (§7.2). Lemgo in 1537 gave the revenues of the brotherhoods and of
+the Kaland of Corpus Christi to the schoolmaster and preachers (Sehling 21, p. 302). Nassau in
+1537 kept a common meal for its clergy synod, but without the "disorderly feasting … as hitherto
+at the Kalands" (Sehling 10, p. 84).
+
+**The answer in brief.** The Reformation in the Sehling corpus kept no third order and founded
+none. It turned the surviving beguines and *Seelfrauen* into nurses of the sick under the
+pastor. The lay confraternities were dissolved into the common chest, and the Brethren of the
+Common Life were absorbed into the parish and the school.
+
+---
+
+## 8. Ordained or not: how each office was installed
 
 **Words that do not settle the question.** "Ordain" (*ordiniren*, *ordinatio*) is not decisive
 in these texts:
@@ -1913,6 +2447,19 @@ does, in four degrees, from strongest to weakest:
 | Churchwarden (*Kirchenpfleger*) | Strasbourg 1553 | — | — | §6.1 |
 | Churchwarden | Memmingen 1532, Dinkelsbühl 1574, Augsburg 1591 | Council (and citizens) | **none** described | §6.5 |
 | Sexton (*Opfermann*) | Hesse 1566 | Pastor and elders, with the superintendent | **none** | §3.5 |
+| Sexton and sacristan (*custos*) | Anhalt (Törten) 1594 | Prince's councillors with the superintendent; for one year, renewable at Michaelmas | **none**; written appointment | §7.1 |
+| Bell-ringer, keeper of the vessels | Sayn 1590 | —; must be well known or give surety | **none** | §7.1 |
+| *Sigrist* | Strasbourg 1531 | Pastors and parish churchwardens | **none** described | §7.1 |
+| Convent deaconess (almoner), sacristaness and other sisters' offices | Keppel 1570 | Assigned by the *domina* | **none** | §7.3, §7.5 |
+| *Seelfrau* (sick-woman) | Regensburg 1543, Nördlingen 1544 | Council; examined by the pastor (Nördlingen) | **none** | §7.3 |
+| Beguines as visitors of the sick | Heilbronn 1531 | Council | **none**; troth "in place of an oath" to declare their goods | §7.6 |
+| Monk staying in the cloister | Württemberg 1535, Esslingen 1535 | — | **none**; no new professions | §7.4 |
+| Novice or scholar of an evangelical monastery | Ravengiersburg 1560 | Duke and prior | **none**; no vow | §7.4 |
+| Nun | Keppel 1570 | Count; parents, *domina* and candidate questioned | **vow** (oath with hand on breast), sermon, clothing, *Veni Sancte Spiritus*, exhortation, *Te Deum* | §7.5 |
+| Nun | Lüneburg 1574 | Duke's foreknowledge and command | clothing in a plain gown; rite not described | §7.5 |
+| *Domina* | Keppel 1570 | Convent proposes two or three; count confirms and may depose | **vow** (promise in place of oath); presented with an exhortation | §7.5 |
+| Abbess, prioress | Schleswig-Holstein 1610 | Convent, sworn to choose well, in the provost's presence | **vow** (oath); the sisters swear obedience | §7.5 |
+| Mother (prioress) and six council-mothers | Strasbourg 1555 | Chosen from the eldest and fittest | **vow** (promise) | §7.5 |
 
 **Summary.** Laying on of hands was used for four groups:
 - ministers of the word, everywhere;
@@ -1921,6 +2468,7 @@ does, in four degrees, from strongest to weakest:
 - the Bohemian Brethren's clerical deacons.
 
 It was not used for:
+- sacristans, sick-women, nuns, convent heads or the scholars of the evangelical monasteries;
 - Lutheran deacons of the poor or churchwardens;
 - the Reformed elders of the Kurpfalz *Presbyterordnung*, Hanau, Veldenz or Solms;
 - any minor grade, including the Bohemian acolytes.
@@ -1932,18 +2480,20 @@ Veldenz, which uses it of the apostles.
 
 ---
 
-## 8. Table by order
+## 9. Table by order
 
 The table summarises, for each order quoted, the offices below or beside the pastorate that it
 knows. The columns are:
-- **Minor or liturgical**: minor orders and liturgical roles.
+- **Minor, liturgical or religious**: minor orders, liturgical roles, sacristans, and religious
+  and semi-religious persons (§7).
 - **Deacon**: the form of diaconate.
 - **Elder**: the form of eldership.
 - **Kept, abolished or forbidden**: what is said to be kept, abolished or forbidden.
 
-| Order | Volume | Minor or liturgical | Deacon | Elder | Kept, abolished or forbidden |
+| Order | Volume | Minor, liturgical or religious | Deacon | Elder | Kept, abolished or forbidden |
 |---|---|---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1 | Candles and incense free | — | — | Neither forbidden nor required |
+| Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1 | Brotherhoods of the Kaland, St Anne, shoemakers | — | — | Dissolved into the common chest |
 | Nürnberg, *Gottesdienstordnung*, 1524 | 11 | Ministrant | — | — | Kept |
 | Hadeln, *Kirchenordnung*, 1526 | 5 | — | Lay *leviten* of the poor | — | Created |
 | Homberg, 1526 | 8 | Deacon's and subdeacon's vestments | Deacon of the poor only | Bishop = presbyter | Mass-deacons and subdeacons rejected as unscriptural |
@@ -1951,7 +2501,12 @@ knows. The columns are:
 | Nürnberg, report for Goslar, 1528 | 7/2.2 | Levites read the lesson and exhort | — | — | Kept |
 | Hamburg, 1529 | 5 | Sexton hired by deacons | Sixteen lay deacons of the poor, plus treasury deacons | — | Created |
 | Heilbronn, 1530 | 17/1 | — | Two *Diaconi* (assistant preachers) distribute | — | Kept |
+| Heilbronn, beguine houses, 1531 | 17/1 | Beguines to visit the sick; no distinct clothing | — | — | Kept as one house |
+| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 | 20/1 | *Sigristen* appointed by pastors and churchwardens | — | — | Kept |
 | Memmingen, *Zuchtordnung*, 1532 | 12 | — | — | *Kirchenpfleger*, no temporal jurisdiction | Limited |
+| Herford, *Kirchenordnung*, 1532 | 21 | Brothers' and sisters' houses of the Common Life | — | — | Separate communion rejected |
+| Württemberg, *Klosterordnung*, 1535 | 16 | Monks, nuns, novices, beguines, Lollards | — | — | Admissions forbidden; novices sent home |
+| Esslingen, Franciscan convent, 1535 | 17/2 | Friars | — | — | Free to marry; those staying maintained |
 | Freiberg, Visitation articles, 1537 | 1 | Cross, tonsure | — | — | Abolished as human ordinances |
 | Naumburg, St Wenzel, 1537 | 2 | — | Twelve lay *subdiaconi oder Bittherren* | — | Created |
 | Lippe, 1538 | 21 | Incense abolished; vestments and lights free | Lay *diaconi* of the poor | — | Created |
@@ -1962,39 +2517,54 @@ knows. The columns are:
 | Brandenburg, 1540 | 3 | Ministrants in dalmatics; lights | — | — | Kept where clergy suffice |
 | Stendal, 1541 | 3 | Cross before procession | — | — | Kept |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | 13 | Two levites (gospeller, epistoler) | — | — | Kept |
+| Goslar, convent of Frankenberg, 1542 | 7/2.2 | Nuns | — | — | No admission to the habit; free to marry |
 | Pfalz-Neuburg, 1543 | 13 | Ministrants; deacon and subdeacon read, deacon gives cup | — | — | Kept "where there are ministrants" |
+| Heilbronn, *Kirchenordnung*, 1543 | 17/1 | Sexton, not women, at the font | — | — | Kept |
+| Regensburg, *Kirchenordnung des Noppus*, 1543 | 13 | *Seelfrauen* and men for the sick and dying | — | — | Kept under the word |
+| Nördlingen, *Kirchenordnung Kaspar Löners*, 1544 | 12 | Sick-women examined by the pastor | — | — | Kept |
 | *Wittenbergische Reformation*, 1545 | 1 | — | — | Bishops a grade above priests by human foresight | — |
 | Strasbourg, Marbach, 1553 | 20/1 | — | — | *Kirchenpfleger* = *seniores* | Created |
 | Regensburg, Jonas, 1553 | 13 | Rota of ordained ministers as ministrants or deacons | — | — | Kept |
+| Hohenlohe, *Kirchenordnung*, 1553 | 15 | Sexton carries chalice, corporal, surplice to the sick | — | — | Kept |
 | Regensburg, 29 April 1554 | 13 | Levites and Mass vestments | — | — | Abolished |
 | Micron, *Ordinancien*, 1554/65 | 7/1 | — | Deacons of the poor, hands | Ruling elders, hands; one presiding superintendent | Created |
+| Strasbourg, mandate on the women's convents, 1555 | 20/1 | Nuns; prioress and council-mothers | — | — | Admission by the council |
+| Herrenalb, *Statuten*, 1556 | 16 | Evangelical conventuals and novices | — | — | Kept as a school |
 | Erbach, *Erbacher Kirchenordnung*, 1560 | 9 | — | — | "Elders" = pastors | — |
 | Württemberg, 1559 | 16 | — | *Diacon*, *Subdiacon* (ministers) | — | Kept as benefices |
 | Rostock, *Conformitas*, 1560–76 | 5 | Boys read the epistle | — | — | — |
+| Ravengiersburg, *Klosterordnung*, 1560 | 19/2 | Novices trained for the ministry | — | — | Kept as a school; Latin chant allowed |
 | Brandenburg-Ansbach, *Kapitelsordnung*, 1565/78 | 11 | Levites | — | Two clerical *seniores* | Levites forbidden |
 | Hesse, *Kirchenordnung*, 1566 | 8 | Sexton as *ianitor*, *aedituus* | Deacons of the poor, ordained with hands | Ruling elders, ordained with hands; elders lay hands on ministers | Created |
 | Regensburg, *Kirchenordnung*, 1567(?) | 13 | Levites, vestments, lights | — | — | Abolished |
+| Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1 | Nuns' cowl, veil and crown | — | — | Habit to be laid aside |
+| Keppel, *Ordnung für das Kloster*, 1570 | 10 | Nuns clothed with oath; *domina*; *diaconissa*, *custorin* | — | — | Kept, reformed |
+| Mecklenburg, *Klosterordnung*, 1572 | 5 | Nuns' habit and consecration books | — | — | Consecrated habit abolished |
 | Halle, 1573(?) | 2 | — | Pastor and two *diaconi*; *unterdiaconi* | — | Kept |
 | Pfalz-Veldenz, 1574 | 18 | — | (Acts 6) | Censors, prayer | Created |
-| Pomerania, *Statuta synodica*, 1574 | 4 | — | *Diaconi ecclesiae et pauperum*, oath | Clerical *seniores* | Created |
+| Pomerania, *Statuta synodica*, 1574 | 4 | Lay *diaconi* keep the altar and its ornament | *Diaconi ecclesiae et pauperum*, oath | Clerical *seniores* | Created |
+| Lüneburg, *Klosterordnung*, 1574 | 6/1 | Nuns' clothing under the duke; cowl, veil and crown | — | — | Plain habit |
 | Bohemian Brethren, *Ordo ecclesiasticus*, 1576 | 4 | Acolytes (ordained grade) | Clerical deacons, hands | Lay presbyters and *presbyterae*, handfast | Kept; deacon "not to be cast out" |
-| Electoral Saxony, 1580 | 1 | — | *Diaconat*, *Subdiaconat*; same ordination as pastor | — | Diaconate may be dispensed |
+| Electoral Saxony, 1580 | 1 | Bell-ringers' sale of font water and hosts forbidden | *Diaconat*, *Subdiaconat*; same ordination as pastor | — | Diaconate may be dispensed |
 | Wittgenstein, 1581 | 22 | — | *Diaconi oder Almusenpfleger* | — | Created |
 | Nassau-Dillenburg, 1582 | 10 | *Aeditui* elected by presbytery | Deacons of the poor | Seniors; four offices | Created |
 | Frankfurt, Dutch congregation (Augsburg Confession), 1585 | 9 | — | Two *diaconi* | — | Created |
 | Bentheim-Tecklenburg, 1588/1619 | 22 | Baptismal exorcism | *Diaconi oder Almusenpfleger* | Seniors | Exorcism abolished |
+| Sayn, *Kirchenordnung*, 1590 | 19/1 | Bell-ringer keeps chalices and ornaments | — | — | Kept |
 | Augsburg, *Vergleichsartikel*, 1591 | 12 | — | — | Six *Kirchenpfleger* | — |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11 | Subdeacon reads epistle | *Subdiaconus* (minister) | — | Kept |
 | Kurpfalz, *Einführung der Senioren*, 1592 | 19/2 | — | — | Ruling elders, hands | Created |
+| Anhalt, sexton of Törten, 1594 | 2 | Sexton prepares altar and font, vests the pastor | — | — | Kept |
 | Kurpfalz, *Presbyterordnung*, about 1601 | 14 | — | — | Yearly elders, handfast vow and prayer; Matthew 18 | Created |
 | Solms-Laubach, 1603 | 9 | — | — | Elders, oath | Created |
 | Wild- and Rhinegraviate, 1603 | 19/2 | — | — | Censors, oath | Created |
 | Hanau-Münzenberg, 1609 | 10 | — | — | Elders, handfast vow and prayer; "of God" | Created |
 | Schwäbisch Hall, 1543/1615 | 17/1 | Cross before coffin, "significatively" | — | — | Allowed |
+| Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610 | 23 | Abbess and prioress elected under oath | — | — | Kept |
 
 ---
 
-## 9. Concordance of the orders quoted
+## 10. Concordance of the orders quoted
 
 Every order quoted or cited in this guide is listed below by region. The table gives:
 - **Sehling**: the volume and pages in Sehling's edition.
@@ -2011,9 +2581,12 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Luther, *Formula missae et communionis pro ecclesia Wittembergensi*, 1523 | 1, p. 5 | 2 | 4.4 |
 | Freiberg, *Visitationsartikel* of Dr Jacob Schenk, 1537 | 1, p. 466 | 48 | 3.3 |
 | Ernestine Saxony, *Wittenbergische Reformation*, 1545 | 1, pp. 217–218 | 20 | 5.4 |
-| Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 375, 381–383 | 44 | 3.3, 5.1, 5.4 |
+| Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 375, 381–383, 426 | 44 | 3.3, 5.1, 5.4, 7.1 |
 | Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537 | 2, p. 64 | 1219 | 5.2 |
 | Halle, *Kirchen-Ordnung der christlichen Gemein zu Hall in Sachsen*, 1573(?) | 2, pp. 441–442 | 1257 | 3.3, 5.1 |
+| Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1, p. 599 | 102 | 7.2, 7.6 |
+| Schönburg, *Kirchen-Ordnung* of Johann Pfeffinger, 18 October 1542 | 2, p. 176 | 1235 | 7.1 |
+| Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594 | 2, pp. 579–580 | 1262 | 7.1 |
 
 **Brandenburg, Pomerania and the North Sea and Baltic cities**
 
@@ -2022,11 +2595,13 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Brandenburg, *Kirchenordnung* of Joachim II, 1540 | 3, p. 71 | 1746 | 4.1, 4.4 |
 | Stendal, ordinance of the visitors of the Mark Brandenburg, 1541 | 3, p. 314 | 1785 | 4.5 |
 | Pyritz, *Abschied*, 1539 | 4, p. 519 | 1879 | 5.2 |
-| Pomerania, *Statuta synodica*, 1574 | 4, pp. 489, 491 | 1868 | 5.2, 6.5 |
+| Pomerania, *Statuta synodica*, 1574 | 4, pp. 489, 491 | 1868 | 5.2, 6.5, 7.2 |
 | Rostock, *Conformitas ceremoniarum in singulis templis ecclesiae Rostochiensis*, 1560–1576 | 5, p. 289 | 1936 | 3.5 |
 | Hamburg, *Hamburger Kirchenordnung*, 1529 | 5, pp. 512–514, 535 | 1960 | 3.3, 3.5, 5.2 |
 | Lübeck, *Kirchenordnung*, 1531 | 5, p. 359 | 1949 | 1, 5.2 |
 | Hadeln, *Hadelner Kirchenordnung*, 1526 | 5, p. 472 | 1955 | 5.2 |
+| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 254–255 | 1926 | 7.5 |
+| Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610 | 23, p. 182 | 1584 | 7.5 |
 
 **Lower Saxony, East Frisia and Westphalia**
 
@@ -2036,9 +2611,16 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Hildesheim, editors' introduction on Bugenhagen's order of 1544 | 7/2.1, p. 811 | 2132 | 1, 5.2, 5.4 |
 | East Frisia, editors' introduction to Micron's *Ordinancien* | 7/1, pp. 554–555 | 2115 | 5.3 |
 | Micron, *Ordinancien* (1554) 1565 | 7/1, pp. 583, 587–588, 596–598 | 2116 | 5.3, 6.3 |
-| Lippe, *Lippische Kirchenordnung*, 1538 | 21, pp. 318, 335 | 1459 | 4.4, 5.2, 7 |
+| Lippe, *Lippische Kirchenordnung*, 1538 | 21, pp. 318, 335 | 1459 | 4.4, 5.2, 8 |
 | Wittgenstein, *Kirchenordnung*, 1581 | 22, p. 201 | 1502 | 5.3 |
 | Bentheim-Tecklenburg, *Bentheim-Tecklenburger Kirchenordnung*, 1588/1619 | 22, pp. 269, 276 | 1508 | 3.5, 5.3 |
+| Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1, pp. 324–326 | 1978 | 7.5 |
+| Lüneburg, *Klosterordnung* of Duke William the Younger, 1574 | 6/1, p. 622 | 2010 | 7.5 |
+| Goslar, *Ordnung für das Frauenkloster Frankenberg*, 1542 | 7/2.2, p. 275 | 2198 | 7.5 |
+| Lemgo, *Lemgoer Kirchenordnung*, 1537 | 21, p. 302 | 1458 | 7.6 |
+| Lippe, *Kirchenordnung*, 1571 | 21, p. 447 | 1462 | 7.1 |
+| Herford, *Kirchenordnung*, 1532 | 21, pp. 173–174 | 1442 | 7.6 |
+| Herford, editors' introduction | 21, p. 160 | 1441 | 7.6 |
 
 **Hesse, the Wetterau and the Middle Rhine**
 
@@ -2054,6 +2636,9 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Ysenburg-Ronneburg, *Memorial zur Kirchenzuchtordnung*, 1592 | 10, p. 601 | 223 | 6.3 |
 | Hanau-Münzenberg, *Presbyteriumsordnung*, 1609 | 10, p. 508 | 211 | 6.3 |
 | Wild- and Rhinegraviate, *Kirchenordnung*, 1603 | 19/2, p. 600 | 1121 | 6.3 |
+| Nassau-Dillenburg, *Kirchenordnung*, 1537 | 10, p. 84 | 169 | 7.6 |
+| Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 | 10, pp. 141–142 | 181 | 7.3, 7.5 |
+| Sayn, *Kirchenordnung*, 1590 | 19/1, p. 438 | 1090 | 7.1 |
 
 **The Palatinates**
 
@@ -2066,6 +2651,9 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Kurpfalz, editors' introduction to the *Einführung der Senioren* | 19/2, p. 695 | 1133 | 6.3 |
 | Pfalz-Zweibrücken, *Kirchenordnung „Form und Ordnung“*, 1539 | 18, p. 63 | 965 | 5.4 |
 | Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, p. 573 | 1011 | 6.3 |
+| Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 208 | 404 | 7.2 |
+| Pfalz-Simmern, *Klosterordnung Ravengiersburg*, 1560 | 19/2, p. 658 | 1125 | 7.4 |
+| Heidelberg, *Spitalordnung*, 1594 | 19/2, p. 827 | 1163 | 7.3 |
 
 **Franconia, Bavaria, Swabia and Alsace**
 
@@ -2087,9 +2675,28 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Schwäbisch Hall, *Kirchenordnung* 1543/1615 | 17/1, p. 173 | 763 | 4.5 |
 | Strasbourg, *Examensordnung*, Latin version, 1539 | 20/1, pp. 304, 310 | 1308 | 3.1, 6.1 |
 | Strasbourg, *Kirchenordnung* of Johannes Marbach, 1553 | 20/1, p. 441 | 1321 | 6.1 |
+| Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, p. 531 | 297 | 7.1 |
+| Brandenburg-Ansbach-Kulmbach, *Kirchenvisitation*, 1536 | 11, p. 320 | 277 | 7.3 |
+| Brandenburg-Ansbach-Kulmbach, *Konsistorialordnung*, 1594 | 11, p. 391 | 291 | 7.1 |
+| Nördlingen, *Kirchenordnung Kaspar Löners*, 1544 | 12, p. 315 | 372 | 7.3 |
+| Regensburg, *Kirchenordnung des Noppus*, 1543 | 13, p. 410 | 436 | 7.3 |
+| Wolfstein, *Christliche Instructio* of Thomas Stieber, 1574 | 13, p. 582 | 463 | 7.3 |
+| Hohenlohe, *Kirchenordnung*, 1553 | 15, p. 73 | 539 | 7.1 |
+| Württemberg, editors' introduction | 16, p. 50 | 644 | 7.6 |
+| Württemberg, *Klosterordnung*, 1535 | 16, pp. 79–80 | 647 | 7.4, 7.6 |
+| Württemberg, *Mandat gegen Aufnahme von Novizen in den Klöstern*, 1552 | 16, p. 199 | 669 | 7.4 |
+| Herrenalb, *Statuten für das Zisterzienserkloster*, 1556 | 16, p. 317 | 678 | 7.4 |
+| Württemberg, *Ordnung der deutschen Schulen*, 1559 | 17/1, p. 585 | 813 | 7.1 |
+| Baden, *Kirchenordnungsmandat*, 1601 | 16, p. 551 | 713 | 7.1 |
+| Heilbronn, *Instruktion zur Zusammenlegung beider Beginenhäuser*, 1531 | 17/1, p. 298 | 776 | 7.3, 7.6 |
+| Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | 7.1, 7.2 |
+| Reutlingen, editors' introduction | 17/2, p. 28 | 825 | 7.6 |
+| Esslingen, *Ordnung für die Konventualen im Barfüßerkloster*, 1535 | 17/2, p. 382 | 882 | 7.4 |
+| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 | 20/1, p. 226 | 1292 | 7.1 |
+| Strasbourg, *Mandat zu den noch bestehenden Frauenklöstern*, 1555 | 20/1, pp. 454, 456 | 1323 | 7.5 |
 
 **Poland**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Bohemian Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576 | 4, pp. 275–276, 279, 289 | 1846 | 3.4, 5.3, 6.4 |
+| Bohemian Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576 | 4, pp. 275–276, 279, 289 | 1846 | 3.4, 5.3, 6.4, 7.3 |

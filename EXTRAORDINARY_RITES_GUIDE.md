@@ -26,7 +26,8 @@ Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
 - §§10–13 deal with offices:
   - §10, ordination;
   - §11, installation of pastors, superintendents, abbots and bishops;
-  - §12, minor orders, lay offices and church workers;
+  - §12, minor orders, lay offices, church workers, and the religious (sick-women, nuns, convent
+    heads, monks and novices);
   - §13, magistrates and civil offices.
 - §14 covers the dedication of churches and the *Kirchweih*, and §15 the blessings of objects
   and their abolition.
@@ -79,7 +80,7 @@ German or Latin), each followed by an English translation.
 - [9. Funerals and burial](#9-funerals-and-burial)
 - [10. Ordination](#10-ordination)
 - [11. Installation of pastors, superintendents, abbots and bishops](#11-installation-of-pastors-superintendents-abbots-and-bishops)
-- [12. Minor orders, lay offices and church workers](#12-minor-orders-lay-offices-and-church-workers)
+- [12. Minor orders, lay offices, church workers and religious communities](#12-minor-orders-lay-offices-church-workers-and-religious-communities)
 - [13. Magistrates and civil offices](#13-magistrates-and-civil-offices)
 - [14. Dedication of churches and the *Kirchweih*](#14-dedication-of-churches-and-the-kirchweih)
 - [15. Blessings of objects and their abolition](#15-blessings-of-objects-and-their-abolition)
@@ -162,26 +163,38 @@ pastor in his parish was a separate rite, led by the superintendent (§11).
 
 **9. Lay offices were filled by oath, pledge or election, not by rite** (§12). Laying on of
 hands for elders and deacons is found only in Hesse 1566, the London church and the Palatinate
-1592. Sextons, schoolmasters, churchwardens and midwives were bound by pledge or oath.
+1592. Sextons, schoolmasters, churchwardens and midwives were bound by pledge or oath. The
+sexton was also the sacristan; no order has a separate sacristan or an altar guild. No order
+ordains or blesses a deaconess. Sick-women and beguines who nursed the sick were appointed by
+the council and examined or instructed by the pastor.
 
-**10. Magistrates had no rite** (§13). The orders give the council-election sermon, the
+**10. Nuns were received with an evangelical rite; monks were not** (§§12.7–12.10). Keppel 1570
+prints the one evangelical clothing of a nun. It consists of questions to parents, *domina* and
+candidate, an oath with the hand on the breast, a sermon, the clothing in the sacristy, *Veni
+Sancte Spiritus*, an exhortation that the vows earn nothing and the convent is "no prison" but a
+school, and the *Te Deum*. Abbesses, prioresses and *dominae* were elected and swore oaths of
+office. No order admits a monk by profession: monasteries kept as schools received novices as
+scholars without vows. Brunswick-Wolfenbüttel 1569 supplies the words with which a sister laid
+aside her cowl and crown, since baptism is the true clothing.
+
+**11. Magistrates had no rite** (§13). The orders give the council-election sermon, the
 intercession for the magistrate and the clergy's place in the oath of homage, but no coronation
 or installation.
 
-**11. The ban was rebuilt on Matthew 18** (§16). The lesser ban (exclusion from the Sacrament)
+**12. The ban was rebuilt on Matthew 18** (§16). The lesser ban (exclusion from the Sacrament)
 was distinguished from the greater ban (public exclusion and "delivering to Satan"). The
 Lutheran territories gave the decision to the consistory. Wittenberg 1542, Mecklenburg 1570,
 Mansfeld 1580 and Saxe-Lauenburg 1585 print full forms of excommunication, public penance and
 absolution. The Reformed gave the decision to the congregation through its elders; Micron's
 London order prints a full liturgy of excision and readmission.
 
-**12. Betrothal and divorce came under the church's eye** (§§7.8–7.10). Secret betrothals were
+**13. Betrothal and divorce came under the church's eye** (§§7.8–7.10). Secret betrothals were
 made void; the pastor examined the betrothed before the banns (at Wertheim he presided at the
 betrothal itself); only the consistory could release a betrothed person or declare a spouse free
 after adultery or desertion; annulment was a declaration that no marriage had existed; and the
 innocent party's remarriage was quiet, without banns or pomp.
 
-**13. The marks of the sacred state were dropped without rites of their own** (§§18–19). The
+**14. The marks of the sacred state were dropped without rites of their own** (§§18–19). The
 processions with the sacrament, relics and holy water went, except in Electoral Brandenburg,
 which kept the Sunday, Palm Sunday and Rogation processions in a purified form. The tonsure was
 abolished and forbidden to the remaining old-believing clergy. Churches, altars and vessels were
@@ -206,7 +219,12 @@ The forms printed in full or quoted at length in this guide are:
 | Ordination | Luther 1537–1539 (10.2); Merseburg 1545 (10.3); Regensburg 1553 (10.4); Hesse 1574 and the Palatinate 1592 (10.5) |
 | Installation | Saxony 1580 and Wolfenbüttel 1569 (11.1); the Palatinate 1592 (11.2); Württemberg prelates (11.3) |
 | Elders and deacons | Hesse 1566, Micron 1554 and the Palatinate 1592 (12.1) |
-| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (12.2); Mulhouse 1551, the Palatinate 1580, Gengenbach 1536, Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (12.4) |
+| Deaconesses and sick-women | Nördlingen 1544, Heilbronn 1531 (12.6) |
+| Clothing of a nun | Keppel 1570 (12.7) |
+| Convent heads | Keppel 1570, Schleswig-Holstein after 1610 (12.8) |
+| Novices and monks | Ravengiersburg 1560 (12.9); Württemberg prelates (11.3) |
+| Laying aside the habit | Brunswick-Wolfenbüttel 1569 (12.10) |
+| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572, Anhalt 1594 (12.2); Mulhouse 1551, the Palatinate 1580, Gengenbach 1536, Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (12.4) |
 | Church dedication | Hof: the dedication of 1572, its yearly festival, and the school dedication of 1546 (14.3) |
 | Betrothal, divorce, remarriage | Wertheim 1530 (7.8); Prussia 1575 (7.9); Saxony 1556, the Palatinate 1563, Brandenburg 1573 (7.10) |
 | Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Grubenhagen 1581 (16.6); Micron 1554 (16.7) |
@@ -289,8 +307,8 @@ read in context, and then the full passages were pulled from the relevant orders
 **Related guides.**
 
 - [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) covers the
-  minor orders, the diaconate and the eldership, with the installation of each office (§12 here
-  summarizes it).
+  minor orders, the diaconate, the eldership, sacristans, deaconesses and the religious, with
+  the installation of each office (§12 here summarizes it).
 - [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md) covers the oaths
   and vows taken at ordination, installation and confirmation.
 - [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the closed seasons for
@@ -2778,7 +2796,7 @@ chalice and paten, the parts of the medieval rite that conferred the power to of
 The Merseburg draft of 1545 names them, "the putting on of the garments, and unction etc.", as
 "needless, abusive ceremonies, which did nothing for the ordination" (Sehling 2, p. 6). How far
 the evangelical diaconate was also conferred by ordination is treated in
-[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §§5 and 7.
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §§5 and 8.
 
 **Where it was done.** The orders differ in this:
 
@@ -3262,7 +3280,7 @@ Pomerania-Wolgast" on 7 March 1557 (Sehling 4, p. 323).
 
 ---
 
-## 12. Minor orders, lay offices and church workers
+## 12. Minor orders, lay offices, church workers and religious communities
 
 ### 12.1 The minor orders and the lay offices of the congregation
 
@@ -3270,7 +3288,7 @@ Pomerania-Wolgast" on 7 March 1557 (Sehling 4, p. 323).
 (porter, lector, exorcist, acolyte) or the subdiaconate. Their functions passed to sextons,
 schoolmasters, schoolboys and the deacons of the poor. The full evidence, with the installation
 of each office, is set out in
-[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §§3 and 7. In
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §§3 and 8. In
 brief:
 
 - **Laying on of hands** was used, besides ministers of the Word, only:
@@ -3572,6 +3590,24 @@ continue therein, with all possible diligence according to my ability, and faith
 and perform what my appointment containeth, and what else is commanded me on the church's
 behalf.
 
+**The sexton as sacristan.** No order has a separate sacristan; the sexton kept the vessels,
+vestments, font and lights (see
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §7.1). His
+installation therefore took the same forms:
+- **A yearly appointment: Anhalt 1594.** The village of Törten petitioned for a sexton of its
+  own who could keep school and read in church in the pastor's absence. It agreed a levy for his
+  wages, and the superintendent and the district officer advised on the matter. The prince's
+  court councillors then summoned the whole community and, "with the consent and obligation of
+  them all in common and of each in particular", set down the sexton's office and wages in a
+  written decree. The office itself was granted "for one year only", and the sexton had to sue
+  for it anew with the pastor before every Michaelmas (Sehling 2, pp. 579–580).
+- **Surety for the vessels: Sayn 1590.** Because the chalices and ornaments were entrusted to
+  him, no bell-ringer was to be received unless he was "well known" or gave a warrantor or
+  surety (Sehling 19/1, p. 438).
+- **Appointment by the parish: Strasbourg 1531.** Vacant offices "of helpers or *Sigristen*"
+  were to be filled "by the pastors and parish churchwardens, and not otherwise"
+  (Sehling 20/1, p. 226).
+
 ### 12.3 Schoolmasters, cantors and organists
 
 **The schoolmaster's oath.** Schoolmasters, who with their pupils sang the services, were sworn
@@ -3803,6 +3839,339 @@ the poor as with the rich
 The Ansbach theologians' agreement of 1556 required midwives to be "examined and instructed by
 the pastors", that they baptize no child unless it be wholly born (Sehling 11, p. 336). At
 Sangerhausen in 1540 the visitors had the midwives "sworn to the council" (Sehling 1, p. 656).
+
+### 12.6 Deaconesses and sick-women
+
+**No ordination of deaconesses.** No order ordains, blesses or installs a deaconess. The word
+*diaconissa* occurs only at Keppel in 1570, for the convent sister "who distributeth the alms",
+one of the offices the *domina* assigned among the sisters without any rite
+(Sehling 10, p. 141; §12.8). The women who did the work of the ancient deaconesses were received
+in three ways:
+- **By election and handfast vow.** The Bohemian Brethren elected women elders (*presbyterae*)
+  by the free vote of the women, with only women present. The elected bound themselves "by voice
+  and by hand given" and received a place of honour, without laying on of hands
+  (Sehling 4, p. 289). The form is quoted in
+  [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §6.4.
+- **By appointment and examination.** The *Seelfrauen* and sick-women were appointed by the
+  council. Regensburg in 1543 laid down what they were to say to the dying (Sehling 13, p. 410).
+  At Nördlingen the superintendent asked that the women appointed by the council be sent to him
+  to be examined and taught. This examination was their only induction. **Nördlingen,
+  *Kirchenordnung Kaspar Löners*, 1544** (Sehling 12, p. 315):
+
+<!-- doc 372 -->
+> Hette auch ein erbar weiser rat, wie ich here, etliche weiber darzu verordnet und angenummen,
+> daß si der kranken warten sollten, die, bitte ich, wollen zu mir gewisen werden, auf daß ich
+> mich ires glaubens und verstands, auch, wie si pflegen die kranken zu trösten und dern zu
+> warten, erkundige und, was si nicht wissen, sie leren.
+
+If an honourable, wise council hath also, as I hear, appointed and taken on certain women for
+this, that they should tend the sick, I pray that they be sent to me, that I may inquire of
+their faith and understanding, and how they are wont to comfort and tend the sick, and teach
+them what they know not.
+
+- **By instruction read to them.** Heilbronn in 1531 gathered its beguines into one house and
+  set them to visit the sick and instruct them by God's word (see
+  [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §7.6). The
+  council's deputies first had each house give its troth "in place of an oath" to declare all
+  its goods for an inventory, and then read the instruction to them. **Heilbronn, *Instruktion
+  zur Zusammenlegung beider Beginenhäuser*, 8 December 1531** (Sehling 17/1, p. 298):
+
+<!-- doc 776 -->
+> Zum aller vordersten, die beginnen lassen ir trew an ayds stat geben, das sy alles das jhenig,
+> ir clausen zugehorig, barschafft, klainat, silbergeschirr, gultbrieff, haußrat ob und under
+> erd, nichzit ußgenomen, es sey bey iren handen oder an andern orten, anzuzeigen und gar
+> nichzit verhalten, damit es alles beschriben und inventirt werde. Damit seye nit gemaint, das
+> mans inen nemen oder sy dessen entsetzen wolle, sonder zum pesten iren nutz ain weg wie den
+> andern komen lassen. Und so alles inventiert ist, alsdan sol man inen die instruction
+> furlesen.
+
+First of all, let the beguines give their troth in place of an oath that they will declare, and
+keep back nothing at all of, all that belongeth to their house: ready money, jewels, silver
+plate, letters of rent, household stuff above and under ground, nothing excepted, whether it be
+in their hands or in other places, that it may all be written down and inventoried. Hereby it is
+not meant that it shall be taken from them, or they dispossessed of it, but that it come to
+their profit for the best in the one way as in the other. And when all is inventoried, then
+shall the instruction be read to them.
+
+### 12.7 The clothing of a nun: Keppel 1570
+
+**The only evangelical rite of clothing.** The order of Count John VI of Nassau-Dillenburg for
+the convent of Keppel prints the one complete evangelical form in the corpus for receiving a
+sister into a convent. Its conditions, set out first (Sehling 10, pp. 135–137), are these:
+- the girl must have been brought up in the convent for at least two years and know the
+  Christian doctrine;
+- she must be at least twenty years old;
+- her parents and kin must deliver a written bond (*Revers*) setting out what she renounces of
+  her inheritance;
+- she must bring a hundred gold florins.
+
+**The order of the rite.** The rite itself (Sehling 10, pp. 137–141) runs as follows:
+1. **In the convent hall,** at seven in the morning before the sermon, the candidate appears
+   with her parents and kin before the count's officers, the *domina* and the whole convent. The
+   superintendent declares that the count has consented to her clothing and reception, "yet in
+   no other form and manner than our reformation and order bringeth with it".
+2. **The order is read** through, except the articles on the election of the *domina*.
+3. **Five questions to the parents and kin.** They are asked whether they are content with the
+   order; whether they hold to the doctrine preached; whether they understand that the clothing
+   does not mean that she may never marry or leave the convent, and will help her to an
+   honourable marriage if she wishes; whether she has made any renunciation beyond the bond; and
+   whether they will be thankful to the count and the convent. They promise this "with troth
+   given by the hand", and two noblemen are set as sureties.
+4. **Four questions to the *domina*.** Has the girl lived godly, obediently and modestly in the
+   convent? Is the *domina* willing to receive her? Have the parents maintained her? Have the
+   hundred florins been paid?
+5. **Five questions to the candidate,** and the oath.
+6. **The sermon,** on the true spiritual life, chastity, humility and obedience.
+7. **The clothing.** The *domina* and the sisters lead her into the sacristy and put on her the
+   convent's ordinary dress.
+8. ***Veni Sancte Spiritus*** is sung before the altar.
+9. **The exhortation** at the altar by the superintendent.
+10. **The *Te Deum***, with *Benedicamus* and *Deo gratias*.
+
+**The questions and the oath.** **Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570**
+(Sehling 10, p. 138):
+
+<!-- doc 181 -->
+> Die jungfraw soll gefragt werden: 1. Ob sie ungezwungenn sich inn diß closter begebe? 2. Ob
+> sie die hauptstückhe christlicher lehr verstehe unnd bey derselbigen bekhendtnüß mitt Gottes
+> hülff pleiben und sich zu keiner anderer religion nimmermehr begeben wölle? 3. Ob sie unsere
+> ordnung gelesenn, die genugsam erwogen unnd verstanden und in allem sich nach derselbigen
+> halten wölle? 4. Ob sie bey iren eltern, brudern oder freunden einigen verzig, heimlich oder
+> offendtlich, gethan oder noch zuthun verheyssenn und zugesagt habe, anderer gestalt als die
+> ordnung inhelt? 5. Ob sie den gewohnlichen eydt vermög der ordnung leisten wölle. […] Form des
+> eydes, so die jungfrawen thun sollen Jungfraw N. etc., ir werdet schwerenn zu Godt unnd seinem
+> heyligen wortt, das ir bey der eynigen, wahren christlichenn religion, der seligmachenden lahr
+> des heyligenn evangelii […] dergleichen bey dem rechtmessigen geprauch der heyligen sacramente
+> nach der stifftung unnd einsatzung unsers herrn Jesu Christi vermittels godtlicher gnaden
+> bestendig pleiben unnd beharren wöllet, euch auch inn disem standt, darinn ir euch
+> ungezwungenn unnd willig begebet, christlich unnd ehrlich haltenn […] euch gegen die matersche
+> unnd den prediger inn allenn godtlichenn, christlichenn, ehrlichen und pillichenn dingenn die
+> zeitt ewers pleybens inn disem closter gehorsam erzeigen, mitt den andern convents persohnen
+> friedtlich und einig leben […] das ir euch auch ohn wissen und rath der obrigkheit, matersche
+> unnd ewerer eltern unnd freundtschafft nicht bestatten oder auß dem closter begeben wöllet,
+> damit alles ordenlich, erbar unnd ehrlich zugehe, alles trewlich unnd ungevarlich, das auch
+> godt helff und sein heyliges wort. Unnd da sie solchenn eydt zuthun willig, soll sie mit
+> ufflegung der rechten handt uff die linckhe brust unnd eigener mundt rede solchen becrefftigen
+> unnd würckhlich leisten.
+
+The maiden shall be asked: 1. Whether she betaketh herself into this convent unconstrained? 2.
+Whether she understandeth the chief parts of Christian doctrine, and will with God's help abide
+in the confession thereof, and never betake herself to any other religion? 3. Whether she hath
+read our order, sufficiently weighed and understood it, and will keep herself according to it in
+all things? 4. Whether she hath made, or promised and pledged yet to make, any renunciation to
+her parents, brothers or kin, secretly or openly, otherwise than the order containeth? 5.
+Whether she will take the customary oath according to the order. […] Form of the oath which the
+maidens shall take. Maiden N., etc., ye shall swear to God and his holy word that ye will by
+means of God's grace abide and continue steadfast in the one true christian religion, the saving
+doctrine of the holy gospel […] and likewise in the right use of the holy sacraments according
+to the institution and ordinance of our Lord Jesus Christ; that ye will also keep yourselves
+christianly and honourably in this estate, into which ye betake yourselves unconstrained and
+willingly […] that ye will show yourselves obedient toward the mother and the preacher in all
+godly, christian, honourable and reasonable things for the time of your abiding in this convent,
+[and] live peaceably and in unity with the other persons of the convent […] that ye will also
+not marry nor betake yourselves out of the convent without the knowledge and counsel of the
+magistrate, the mother and your parents and kin, that all may be done orderly, decently and
+honourably; all faithfully and without guile, so help you God and his holy word. And if she be
+willing to take this oath, she shall confirm and actually perform it by laying her right hand
+upon her left breast and with words from her own mouth.
+
+**The clothing.** **Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570**
+(Sehling 10, p. 139):
+
+<!-- doc 181 -->
+> Nach der predig sollenn die domina unnd die andere jungfrawen des convents die jungfraw inn
+> die sacristey füeren unnd ir die gewonliche kleyder, wie die andere convents persohnen sonst
+> bekleydet seindt […] anthun. Darnach sollen sie die fur den althar pringen unnd das Veni
+> sancte spiritus singen. Der superintendens aber soll ir ein declaration unnd außlegung ires
+> gethanen gelübdts unnd eydes thun mit underweisung zu einem gottseligen, christlichenn,
+> ehrlichen, tugendtsamen und züchtigen leben unnd vermahnung zu allem pillichenn gehorsam,
+> ungefehrlich uff dise weyse.
+
+After the sermon the *domina* and the other maidens of the convent shall lead the maiden into
+the sacristy, and put on her the ordinary garments, as the other persons of the convent are
+otherwise clothed […] Thereafter they shall bring her before the altar and sing the *Veni Sancte
+Spiritus*. But the superintendent shall make to her a declaration and exposition of the vow and
+oath she hath taken, with instruction to a godly, christian, honourable, virtuous and modest
+life and exhortation to all due obedience, after this manner or thereabouts.
+
+**The exhortation.** The superintendent tells the new sister that the true spiritual estate is
+the one she entered at baptism. She is to beware of thinking that vows and habits earn
+forgiveness or are better than baptism. The convent is no prison but a school, from which God
+may call her to marriage, and if so she should marry in an orderly way with her family's help.
+**Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570** (Sehling 10, p. 139):
+
+<!-- doc 181 -->
+> Ir sollt auch nicht wehnen unnd es darfur halten, das ir hierinnen im closter als inn einen
+> kerkher geschlossenn seyet unnd ewer lebtage darinnen pleiben mussen, oder das die gelubde der
+> keuscheit unnd zucht euch die ehe (darinnen auch keuscheit ist) abschneide unnd verbiete unnd
+> also ewer gewissenn verstrickht, sondern das ir inn keinem andernn stande seyet als sunst
+> andere rechtschaffene christen, so inn der wellt leben, auch ohn allein, das ir gleich als inn
+> einer schulen inn stetiger ubung christlicher andacht inn der lahr, im gebet, gehorsam, zucht,
+> erbarkheit unnd allerley tugenden angehalten werdet, damitt ir hernachmahls, so euch Godt zum
+> ehestandt oder sonst zu etwas anders beruffen wurde, ir vilen mitt lahr unnd underweisung auch
+> christlichem wandell und guten exempelln aller tugendten dienen unnd vorgehen kundt
+
+Ye shall also not suppose nor hold that ye are shut up here in the convent as in a prison and
+must abide therein all your life long, or that the vow of chastity and discipline cutteth off
+and forbiddeth you marriage (wherein is chastity also) and so entangleth your conscience; but
+that ye are in no other estate than other upright Christians which live in the world, save only
+that ye are held, as it were in a school, in continual exercise of christian devotion, in
+doctrine, in prayer, obedience, discipline, honesty and all manner of virtues; that hereafter,
+if God should call you to the estate of marriage or to aught else, ye may serve and go before
+many with doctrine and instruction, and also with christian conversation and good examples of
+all virtues.
+
+The exhortation ends with a prayer that God "will grant his Holy Spirit both to you and to us
+all", and the rite closes. **Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570**
+(Sehling 10, p. 141):
+
+<!-- doc 181 -->
+> Hieruff sollenn die jungfrawen den hymnum Te deum laudamus singen und mit dem Benedicamus und
+> Deo gratias beschliessenn.
+
+Hereupon the maidens shall sing the hymn *Te Deum laudamus*, and conclude with the *Benedicamus*
+and *Deo gratias*.
+
+**Elsewhere.** The other convent orders put the clothing under the prince or council but print
+no rite. Lüneburg in 1574 allowed no child or maiden to be "clothed without our foreknowledge
+and command", and in a plain gown and white kerchief instead of the consecrated cowl, veil and
+crown (Sehling 6/1, p. 622). Strasbourg in 1555 required a petition to the council and a minimum
+age of eight (Sehling 20/1, p. 454). Goslar's convent of Frankenberg (1542) and Württemberg
+(1535) admitted no one (Sehling 7/2.2, p. 275; 16, p. 79).
+
+### 12.8 The *domina*, the abbess and the prioress
+
+**Keppel 1570: election, confirmation, oath and presentation.** The convent proposed two or
+three of its sisters. The count chose and confirmed one, and could depose her if she misbehaved.
+Before taking office she promised "in place of an oath" to keep the church and other orders, to
+govern the house faithfully, to hold the sisters to godliness and discipline, to alienate
+nothing of the convent's goods, to render a yearly account, to eat with the convent, and to tell
+the count and the kin if any sister meant to leave. **Nassau-Dillenburg, *Ordnung für das
+Kloster Keppel*, 1570, "Eydt der dominae"** (Sehling 10, pp. 141–142):
+
+<!-- doc 181 -->
+> Die domina soll uns und dem convent an eides statt gelobenn unnd zusagen, das sie bey unsernn
+> christlichenn kirchen- unnd allen andern ordnungen, itzundt ubergeben unnd hernachmahls
+> angestellt und ubergeben werden sollen, inn allen und jedenn punctenn pleiben unnd darob
+> ernstlich und vest haltenn wölle, dem closter trewlich und wol furstehen, ire jungfrawen zu
+> aller gottesforcht, gehorsam, zucht unnd redlicheit zum vleissigstenn anhalten […] unnd
+> endtlich sich für ire person christlich, ehrlich, redlich, züchtig, uffrichtig und
+> unstrefflich inn allen obgesagten stuckhen und articuln halten als ir Gott helff und sein
+> gottlicher nahme.
+
+The *domina* shall vow and promise to us and the convent, in place of an oath, that she will
+abide by our christian church orders and all other orders, now delivered and hereafter to be set
+up and delivered, in all and every point, and hold to them earnestly and firmly; govern the
+convent faithfully and well; hold her maidens most diligently to all fear of God, obedience,
+discipline and honesty […] and finally keep herself for her own person christianly, honourably,
+uprightly, modestly, sincerely and blamelessly in all the aforesaid points and articles, so help
+her God and his divine name.
+
+At her presentation to the convent the superintendent exhorts the sisters to obedience and
+reminds the *domina* of her "high office and heavy burden". He sets before her St Augustine's
+rule that the superior should "not exalt herself in her power" but serve in love, and be "loved
+more than feared" (Sehling 10, p. 142).
+
+**Schleswig-Holstein after 1610: election under oath.** In the noble convents of the duchies the
+abbess of Itzehoe and the prioresses of the other houses were elected by the whole convent
+"according to old custom". The electors were sworn in the provost's presence to choose without
+favour, and the elected bound herself by oath to the convent. Then every sister swore obedience
+to her. **Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610**
+(Sehling 23, p. 182):
+
+<!-- doc 1584 -->
+> so sollen hinfuhro, so offt eine abtissin und priorin abgehet, die vorsamblung nicht nach
+> gunst oder aus neidt gegen den andern oder umb geniesses willen, sondern ohne alle affection
+> einhelligh eine person ihres mittels, die des closters gelegenheit weiß und zu dem ambte
+> dauglich ist und demselbigen wie auch dem closter ersprießlich vor sein könne, vermuge eines
+> in ihres probstes gegenwarth geleisteten eydts nach altem gebrauch erwehlen, welche sich dem
+> closter, demselben getreuwlich vorzusein, eydtlich vorpflichten soll. […] Gleichergestaldt
+> sollen auch, so offt ein abtissinne zu Itzehoe oder priorin in den andern clöstern gewehlet
+> wirdt, alle andere jungkfrouwen und hernach ein jede, wann sie zu ihrer hebung kombt, dem
+> alten gebrauch nach eydtlich angeloben, der abtissennen und priorinnen gehorsamb zu sein und
+> sich derselben nicht zuwiedersetzen.
+
+[It is ordained] that henceforth, as often as an abbess or prioress departeth, the assembly
+shall elect, not for favour or out of envy against others or for the sake of gain, but without
+any affection, with one accord, a person of their own number who knoweth the circumstances of
+the convent and is fit for the office, and can be profitable to preside over it and the convent,
+by virtue of an oath taken in the presence of their provost according to old custom; and she
+shall bind herself by oath to the convent, to preside over it faithfully. […] In like manner
+also, as often as an abbess at Itzehoe or a prioress in the other convents is elected, all the
+other maidens, and thereafter each one when she cometh to her raising, shall vow by oath,
+according to old custom, to be obedient to the abbesses and prioresses and not to set themselves
+against them.
+
+**Strasbourg 1555.** In the city's remaining women's houses a "mother" and six
+"council-mothers", none under twenty-five, were to be chosen from the eldest and fittest. The
+mother and council-mothers were to "vow" to seek the convent's profit, ward off its harm and see
+that the sisters lived in christian discipline (Sehling 20/1, p. 456).
+
+### 12.9 Monks, novices and evangelical abbots
+
+**No profession.** No evangelical order admits a monk by profession or vow. Württemberg in 1535
+and Goslar in 1542 forbade all admissions and sent unprofessed novices home
+(Sehling 16, p. 79; 7/2.2, p. 275). Duke Christoph in 1552 forbade the abbots to bind boys "with
+superstitious ceremonies and vows" to stay in the cloister (Sehling 16, p. 199).
+
+**Novices as scholars: Ravengiersburg 1560.** Where a monastery was kept as a school, a youth
+was "received" with the prince's and the prior's knowledge and trained for the ministry. The
+only obligation laid on him was that of a stipendiary. **Pfalz-Simmern, *Klosterordnung
+Ravengiersburg*, 1560** (Sehling 19/2, p. 658):
+
+<!-- doc 1125 -->
+> Wo auch einiger Junger fürhanden, der seins Ingenii und Profectus halben weiter zu schicken,
+> so soll derselbig uff Universitet unser Religion verordnet und nach notturfft erhalten werden.
+> Derselbig, [der] auch so also erhalten wurde, soll sich verpflichten, keinen herrn weiter dann
+> uns und dem Gotshaus zu diehnen.
+
+And where there is any youth who for his wit and progress should be sent further, he shall be
+appointed to a university of our religion and maintained as need requireth. The same, [who] is
+so maintained, shall bind himself to serve no other lord than us and the house of God.
+
+**Evangelical abbots.** The Württemberg prelates were invested with an oath, a sermon, *Komm
+Heiliger Geist*, prayer at the altar and a blessing, and were presented to the school, the
+officers and the subjects (§11.3).
+
+**Monks who stayed.** Esslingen in 1535 required no rite of the friars who chose to stay, and
+none of those who left to marry. The council simply gave a settlement to the one and maintenance
+to the other (Sehling 17/2, p. 382).
+
+### 12.10 Laying aside the habit
+
+**A rite of separation without a rite.** The medieval consecration of virgins gave the nun a
+blessed veil and crown with the words of the bridal antiphons. When she left, she was said to
+have lost "the crown of her head". The evangelical orders gave no rite for laying the habit
+aside. But Brunswick-Wolfenbüttel in 1569 supplied the words with which a sister might answer
+that reproach. She has not lost her spiritual garment and crown, for she received them in
+baptism. She lays the cowl and crown aside in God's name, so that no one may think she trusts in
+them, and so that her sisters "the maidens and wives" take no offence. **Brunswick-Wolfenbüttel,
+*Klosterordnung*, 1569** (Sehling 6/1, pp. 325–326):
+
+<!-- doc 1978 -->
+> Derhalben wenn eine jungfrau solche klosterkleider sampt ihrer kron hinlegt, kan man zu ihr
+> mit warheit nicht sagen, das sie die geistlichen kleider hingelegt habe, noch viel weniger:
+> Cecidit corona capitis tui, du hast die kron deines breutigams verlorn, sondern sie kans
+> umbkeren und sagen: Eben darumb, das ich mein geistlich kleid rein und unbefleckt, desgleichen
+> die kron auf meinem heupt behalte, die mir in der heiligen taufe angezogen und aufgesetzt
+> worden sind, habe ich die kappen und eusserliche kron hingelegt […] so wil ich im namen des
+> allmechtigen Gottes meine kappen, schepler und eusserliche kron von mir legen, auf das
+> meniglich sehen und in dem werk spüren möge, das mirs ernst sey, das ich keine hoffenung der
+> seligkeit darauf gesetzt und solch kleid anderst nicht denn ein ander kleid in meinem herzen
+> halte
+
+Therefore when a maiden layeth down such cloister garments together with her crown, it cannot be
+said to her with truth that she hath laid down the spiritual garments, much less: *Cecidit
+corona capitis tui*, thou hast lost the crown of thy bridegroom; but she can turn it about and
+say: Even for this cause, that I may keep my spiritual garment pure and unspotted, and likewise
+the crown upon my head, which were put on me and set upon me in holy baptism, have I laid down
+the cowl and the outward crown […] so will I in the name of almighty God lay from me my cowl,
+scapular and outward crown, that every one may see and perceive in the deed that I am in
+earnest, that I have set no hope of salvation thereon, and hold such a garment in my heart no
+otherwise than another garment.
+
+**Burial.** Lüneburg in 1574 ordered that no person of the cloister be buried "in cowl,
+scapular, veil, etc., but in a linen sheet like other Christians" (Sehling 6/1, p. 622).
 
 ---
 
@@ -5049,7 +5418,7 @@ came the examination of communicants (*Verhör*), deliberately designed so that 
 mistaken for auricular confession. Reutlingen, about 1531, had the children brought by father or
 mother, girls with the mother and boys with the father, to give account of their faith openly in
 church, "that it may not be suspected for a papistical ear-confession and snare of consciences"
-(Sehling 17/1, pp. 43–44).
+(Sehling 17/2, pp. 43–44).
 
 **Confession money abolished.** The confession penny (*Beichtgeld*, *Beichtpfennig*) went with
 the old penance. Baden in 1533 relieved the people of stole fees "for confession, for the
@@ -5391,6 +5760,20 @@ numbers refer to this guide.
 | Gengenbach 1536 | the schoolmaster's appointment (12.3) | — |
 | Hildesheim 1581 | the organist's contract (12.3) | — |
 | Strasbourg 1523 | the oath of the steward of the poor (12.4) | — |
+| Strasbourg 1531 | appointment of *Sigristen* (12.2) | — |
+| Sayn 1590 | surety for the bell-ringer who keeps the vessels (12.2) | — |
+| Anhalt 1594 | the sexton's yearly appointment (12.2) | — |
+| Nördlingen 1544 | examination of the sick-women by the pastor (12.6) | — |
+| Heilbronn 1531 | the beguines' troth and instruction (12.6) | — |
+| Nassau-Dillenburg, Keppel 1570 | clothing of a nun with questions, oath, sermon and exhortation (12.7); election, oath and presentation of the *domina* (12.8) | binding vows; the convent as a prison (12.7) |
+| Lüneburg 1574 | clothing under the duke's command (12.7); burial in a linen sheet (12.10) | cowl, veil and crown (12.7, 12.10) |
+| Strasbourg 1555 | admission by the council (12.7); promise of the mother and council-mothers (12.8) | — |
+| Schleswig-Holstein after 1610 | election of abbess and prioress under oath; the sisters' oath of obedience (12.8) | — |
+| Württemberg 1535 and 1552 | — | admission of monks, nuns, beguines and Lollards; novices' vows (12.7, 12.9) |
+| Goslar, Frankenberg 1542 | — | admission to the habit (12.7, 12.9) |
+| Esslingen 1535 | settlement or maintenance of the friars (12.9) | — |
+| Pfalz-Simmern, Ravengiersburg 1560 | reception of novices as scholars; the stipendiary's obligation (12.9) | — |
+| Brunswick-Wolfenbüttel 1569 | words for laying aside the habit (12.10) | — |
 | Schwäbisch Hall 1543/1615 | council-election sermon (13.1) | consecration of churchyards (14.1) |
 | Pfalz-Neuburg 1543 and 1560 | baptism with oil and chrism (3.2); visitation service (20.1) | the yearly blessings (15.1); weather-ringing (15.5) |
 | Waldeck 1583 and 1584 | — | *Kirchweih* (14.4); exorcism and the baptismal robe (4.4) |
@@ -5415,6 +5798,7 @@ through the table in §21 and the text.
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, p. 135 | 3.2 |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, pp. 174, 177, 180, 201–202, 203 | 3.1, 3.4, 5.1, 7.2, 9.3 |
 | Braunschweig | *Kirchenordnung* | 1528 | 6/1, p. 360 | 4.2 |
+| Brunswick-Wolfenbüttel | *Klosterordnung* | 1569 | 6/1, pp. 325–326 | 12.10 |
 | Calenberg-Göttingen | *Ordnung der confirmation oder firmung* | 1542 | 6/2, pp. 838–839, 843 | 6.3 |
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, p. 799 | 15.1 |
 | Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | 8.2, 16.2 |
@@ -5424,6 +5808,7 @@ through the table in §21 and the text.
 | Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1052, 1058 | 16.1, 16.6 |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | 14.1 |
 | Heidelberg | *Bestallung eines Glöckners* | 15 May 1572 | 14, p. 457 | 12.2 |
+| Heilbronn | *Instruktion zur Zusammenlegung beider Beginenhäuser* | 8 December 1531 | 17/1, p. 298 | 12.6 |
 | Henneberg | *Kirchenordnung* | of Georg Ernst, 1582 | 2, pp. 304–305 | 4.3 |
 | Herford | *Kirchenordnung* | 1532 | 21, p. 192 | 7.4 |
 | Hesse | *Reformatio ecclesiarum Hassiae* | (Homberg), 1526 | 8, p. 50 | 14.1 |
@@ -5452,14 +5837,18 @@ through the table in §21 and the text.
 | Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.7 |
 | Mulhouse | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | 12.3 |
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | 15.1 |
+| Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570 | 10, pp. 138, 139, 141 | 12.7 |
+| Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570, "Eydt der dominae" | 10, pp. 141–142 | 12.8 |
 | Nassau-Dillenburg | *Agende* | 1575 | 10, p. 150 | 4.4 |
 | Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1 |
+| Nördlingen | *Kirchenordnung Kaspar Löners* | 1544 | 12, p. 315 | 12.6 |
 | Palatinate | *Kirchenordnung* | of Ottheinrich, 1556 | 14, p. 140 | 17.2 |
 | Palatinate | *Ehegerichtsordnung* | 1563 | 14, p. 327 | 7.10 |
 | Palatinate | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
 | Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | 12.3 |
 | Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 96–97, 96 | 3.2, 15.1, 18.1 |
 | Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 20.1 |
+| Pfalz-Simmern | *Klosterordnung Ravengiersburg* | 1560 | 19/2, p. 658 | 12.9 |
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | 4.1, 8.1 |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | 4.1 |
 | Pomerania | *Agenda* | 1569 | 4, pp. 461–462 | 8.7 |
@@ -5476,6 +5865,7 @@ through the table in §21 and the text.
 | Saxony (Albertine) | *Dresdener Ehe-Ordnung* | 1556 | 1, p. 343 | 7.10 |
 | Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, pp. 170–171 | 15.5 |
 | Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | 11.4 |
+| Schleswig-Holstein | *Klosterordnung für Frauenklöster* | after 1610 | 23, p. 182 | 12.8 |
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 175 | 13.1, 14.1 |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | 4.1 |
 | Strasbourg | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | 3.2 |
