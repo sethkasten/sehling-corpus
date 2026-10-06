@@ -37,7 +37,7 @@ Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
   and the deposition of ministers.
 - §20 covers other occasional rites, chiefly the parish visitation.
 - §21 covers the rites of particular feasts and seasons: Christmas, Candlemas, Ash Wednesday,
-  Palm Sunday, Holy Week, Easter, Ascension and Whitsun.
+  Palm Sunday, Holy Week, Easter, Ascension, Whitsun, Septuagesima and Trinity.
 - §22 is a table by order, and §23 a concordance of every order quoted.
 
 Each topic is supported by quotations in the original language (Early New High German, Low
@@ -216,7 +216,8 @@ read to the congregation, not degraded.
 Brandenburg 1540 alone kept the Palm Sunday procession, the Maundy Thursday foot-washing and the
 representations of Christ's burial and resurrection. Christmas and Easter Matins were moved
 from midnight to the morning, and the Good Friday solemn prayers survived at Mülhausen and
-Waldeck.
+Waldeck. No order buries the Alleluia at Septuagesima ("the Alleluia is the perpetual voice of
+the church", Luther), but several make the Athanasian Creed the text of Trinity Sunday.
 
 ### 1.2 Where the full liturgies are
 
@@ -6604,6 +6605,88 @@ itself abolishes the candle.
 and Whitsun, and that this is why the two feasts were kept (Schwäbisch Hall 1527, Sehling 17/1,
 p. 43; Württemberg 1553, Sehling 16, p. 232). None restores the seasons of baptism.
 
+### 21.7 Septuagesima and Trinity Sunday
+
+**No farewell to the Alleluia.** No order in the corpus has the medieval "deposition" or
+farewell of the Alleluia at Vespers or Compline on the eve of Septuagesima (*Alleluia, dulce
+carmen*, the burial of the Alleluia). Luther's *Formula missae* states the opposite principle:
+Lent, Holy Week and Good Friday are not to be paraded with other rites than the rest of the
+year, "for the Alleluia is the perpetual voice of the church". **Luther, *Formula missae et
+communionis*, 1523** (Sehling 1, p. 5):
+
+<!-- doc 2 -->
+> Sed nec ipsam quadragesimam sive maiorem hebdomadam aut sextam feriam penosam aliis ritibus
+> ostentare decet, quam alias quascunque, ne semimissa et altera sacramenti parte Christum
+> amplius ludere et ridere velle videamur. Alleluia enim vox perpetua est ecclesiae, sicut
+> perpetua est memoria passionis et victoriae eius.
+
+But neither is it fitting to show off Lent itself, or the Great Week, or the sixth day [Good
+Friday] as penitential with other rites than any other [days], lest we seem to wish further to
+mock and deride Christ with a half-Mass and with one part of the sacrament. For the Alleluia is
+the perpetual voice of the church, as the memorial of his passion and victory is perpetual.
+
+The Hildesheim order of 1544 repeats the phrase when it orders the children to sing the Alleluia
+with its verse, though without the long melisma. **Hildesheim, *Christlike kerckenordeninge*,
+1544** (Sehling 7/2.1, p. 853):
+
+<!-- doc 2136 -->
+> Alleluja, welckör eine ewige stemme der kercken ys, singen de kinder mit dem versche, doch
+> utgelaten de velen noten, de men plach hinden antohengende.
+
+The Alleluia, which is an everlasting voice of the church, the children sing with the verse, yet
+leaving out the many notes which men were wont to hang on at the end.
+
+**The season still marked.** Other orders kept the old seasonal exchange without any rite of
+farewell. Electoral Brandenburg sings after the epistle "the Alleluia and the sequence, if one
+be kept, or according to the season a tract in Latin" (Sehling 3, p. 68). The Palatinate in 1546
+and the Transylvanian order of 1547 likewise put a tract such as *Domine, non secundum* in Lent
+(Sehling 14, p. 96; 24, p. 223). At Hof in 1592 Septuagesima is marked by the Lenten Kyrie at
+Mass and the plain *Benedicamus dominicale* "from Septuagesima until the feast of Easter". The
+Septuagesima Vespers hymn *Dies absoluti praetereunt* is noted as "formerly sung"
+(Sehling 11, pp. 414, 436).
+
+**The Athanasian Creed on Trinity Sunday.** Several orders make the Athanasian Creed the text of
+Trinity Sunday:
+- **Regensburg [1567]** reads it at Trinity Vespers, after Isaiah 6 at the vigil and Genesis 18
+  and Matthew 3 in the morning.
+- **Thüngen 1587** reads it at the vigil and on the feast (Sehling 11, p. 744).
+- **Albrechtshain 1554** takes it as the text of the afternoon catechism sermon on Trinity
+  (Sehling 1, p. 519).
+- **Pomerania 1569** has it preached in German on Trinity afternoon in town and village. The
+  Pomeranian hymn list and the Kolberg convent statutes of 1586 set it, in German, among the
+  Trinity songs (Sehling 4, pp. 478, 502).
+- **The Mecklenburg convents** sing it in German after the *Benedictus* on all the high feasts,
+  Trinity among them ([`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.8).
+
+**Regensburg, *Kirchenordnung*, [1567]** (Sehling 13, p. 478):
+
+<!-- doc 450 -->
+> Trinitatis. In vigilia zur vesper wird gelesen visio Jes[ajae] cap. 6. Früe - loco epistolae:
+> Visio Abrahae, Gene[sis] 18. Evangelii loco die offenbarung der treifaltigkeit in der tauf
+> Christi, Matth. 3. Zur vesper symbolum Athanasii.
+
+Trinity. On the eve at Vespers is read the vision of Isaiah, chapter 6. In the morning, in place
+of the epistle, the vision of Abraham, Genesis 18; in place of the gospel, the revelation of the
+Trinity in the baptism of Christ, Matthew 3. At Vespers the Athanasian Creed.
+
+**Pomerania, *Agenda*, 1569** (Sehling 4, p. 477):
+
+<!-- doc 1865 -->
+> Predigen am festdage Trinitatis. Am dage der hiligen drevoldicheit schal men na middage in
+> steden unde up dörperen predigen dat düdische symbolum Athanasii, welckere herna volget, de
+> gemeine van den personen der godtheit vlitich und errichten, nicht hoger kunst sick
+> bevlitigen, alle christen vormanen, dat se to sölcker predige sick hüpich vorsamlen.
+
+Preaching on the feast day of Trinity. On the day of the Holy Trinity one shall preach in the
+afternoon, in towns and in villages, the German Athanasian Creed, which followeth hereafter;
+[shall] instruct the congregation diligently of the persons of the Godhead, not study after
+higher art, [and] exhort all Christians to gather in numbers to such preaching.
+
+The Pomeranian order of 1542 had already prescribed the *Quicunque vult* once a week before the
+sermon, with an antiphon *de Trinitate* (Sehling 4, p. 357). Its use at Sunday Prime and in the
+schools is treated in [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), and in the Mass after the gospel
+in [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md).
+
 ---
 
 ## 22. Table by order
@@ -6692,6 +6775,8 @@ numbers refer to this guide.
 | Kurpfalz *Bedenken* 1546, Pfalz-Neuburg 1543, Anhalt 1532 | Christmas and Easter Matins toward morning; Ascension and Whitsun None (21.2, 21.6) | midnight watch; water, hosts, fire, figures and dove at Ascension and Whitsun (21.6) |
 | Naumburg 1537, Nördlingen 1555, Hof 1592 | Christmas Matins lessons with *Liber generationis*; *Gloria, laus* on Palm Sunday; Tenebrae as an evening office (21.2–21.4) | — |
 | Schweinfurt 1543, Mülhausen 1528, Waldeck 1556 | Good Friday Matins and Passion; solemn prayers in German (21.4) | Easter candle, fire-blessing, font procession (Mülhausen, 21.5) |
+| Luther *Formula missae* 1523, Hildesheim 1544 | Alleluia as "the perpetual voice of the church" (21.7) | penitential rites peculiar to Lent and Holy Week (21.7) |
+| Regensburg [1567], Thüngen 1587, Albrechtshain 1554, Pomerania 1569, Kolberg 1586 | Athanasian Creed read, sung or preached on Trinity Sunday (21.7) | — |
 
 ---
 
@@ -6734,6 +6819,7 @@ through the table in §22 and the text.
 | Hesse | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | 6.2 |
 | Hesse | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | 12.1, 19.3 |
 | Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
+| Hildesheim | *Christlike kerckenordeninge* | 1544 | 7/2.1, p. 853 | 21.7 |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
 | Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 439, 463, 464, 467 | 14.3, 18.4, 21.3 |
 | Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 72 | 20.5 |
@@ -6748,6 +6834,7 @@ through the table in §22 and the text.
 | Lippe | *Kirchenordnung* | 1571 | 21, p. 447 | 12.2 |
 | Luther | *Das taufbuchlin verdeutscht* | 1523, epilogue | 1, p. 20 | 3.1 |
 | Luther | *Das taufbuchlin verdeutscht* | 1523 | 1, pp. 19–20 | 3.2 |
+| Luther | *Formula missae et communionis* | 1523 | 1, p. 5 | 21.7 |
 | Luther | *Das taufbuchlin verdeudscht aufs neu zu gericht* | 1526 | 1, pp. 22–23 | 3.3 |
 | Luther | *Deudsche messe und ordnung gottis diensts* | 1526 | 1, p. 16 | 21.1 |
 | Luther | *Traubüchlein* | 1529 | 1, p. 24 | 7.1 |
@@ -6781,12 +6868,13 @@ through the table in §22 and the text.
 | Pfalz-Simmern | *Klosterordnung Ravengiersburg* | 1560 | 19/2, p. 658 | 12.9 |
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | 4.1, 8.1 |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | 4.1 |
-| Pomerania | *Agenda* | 1569 | 4, pp. 461–462 | 8.7 |
+| Pomerania | *Agenda* | 1569 | 4, pp. 461–462, 477 | 8.7, 21.7 |
 | Pomesania | *Themata episcopi Risenburgensis* | 1524 | 4, p. 29 | 15.1 |
 | Prussia | *Visitationsabschied für Zinten* | 1575 | 4, p. 153 | 7.9 |
 | Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | 10.4 |
 | Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | 9.4 |
 | Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | 8.5 |
+| Regensburg | *Kirchenordnung* | [1567] | 13, p. 478 | 21.7 |
 | Rostock | *Conformitas ceremoniarum* | about 1560 | 5, p. 290 | 20.4 |
 | Saalfeld | *Visitation order* | 1533 | 1, p. 654 | 19.2 |
 | Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 420, 448, 449, 453 | 12.4, 16.1, 16.3 |
