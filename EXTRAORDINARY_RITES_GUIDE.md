@@ -36,7 +36,9 @@ Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
 - §18 covers processions, and §19 the tonsure, the return of churches and vessels to common use,
   and the deposition of ministers.
 - §20 covers other occasional rites, chiefly the parish visitation.
-- §21 is a table by order, and §22 a concordance of every order quoted.
+- §21 covers the rites of particular feasts and seasons: Christmas, Candlemas, Ash Wednesday,
+  Palm Sunday, Holy Week, Easter, Ascension and Whitsun.
+- §22 is a table by order, and §23 a concordance of every order quoted.
 
 Each topic is supported by quotations in the original language (Early New High German, Low
 German or Latin), each followed by an English translation.
@@ -89,8 +91,9 @@ German or Latin), each followed by an English translation.
 - [18. Processions](#18-processions)
 - [19. Tonsure, deconsecration and the deposition of ministers](#19-tonsure-deconsecration-and-the-deposition-of-ministers)
 - [20. Other occasional rites](#20-other-occasional-rites)
-- [21. Table by order](#21-table-by-order)
-- [22. Concordance of the orders quoted](#22-concordance-of-the-orders-quoted)
+- [21. Rites of the feasts and seasons](#21-rites-of-the-feasts-and-seasons)
+- [22. Table by order](#22-table-by-order)
+- [23. Concordance of the orders quoted](#23-concordance-of-the-orders-quoted)
 
 ---
 
@@ -147,11 +150,10 @@ with prayer, and a few printed a form.
 **6. The rites of the sick replaced unction with Word and Sacrament** (§8). The reserved
 sacrament and its procession were abolished, and communion was given in the house. Only the
 Ansbach diet of 1526 still kept leftovers in the sacrament house; the later orders count the
-communicants and have the minister or communicants consume what remains (§§20.3, 20.5). No
-order keeps the Mass of the Presanctified: on Good Friday there was a full communion or none
-(§20.4). Forms were
-written for the dying, the plague-stricken and the condemned. Pomerania 1569 gave a rite of
-prayer over the possessed in place of exorcism.
+communicants and have the minister or communicants consume what remains (§§20.3, 20.5). No order
+keeps the Mass of the Presanctified: on Good Friday there was a full communion or none (§20.4).
+Forms were written for the dying, the plague-stricken and the condemned. Pomerania 1569 gave a
+rite of prayer over the possessed in place of exorcism.
 
 **7. Funerals became a testimony of faith** (§9). Vigils, soul-Masses and the Masses of the
 seventh and thirtieth day were abolished. Burial with procession, hymns, bells and, later, a
@@ -208,6 +210,13 @@ book carried (§18.4). The tonsure was abolished and forbidden to the remaining 
 clergy. Churches, altars and vessels were cleared out by authority and their goods turned to the
 common chest, without a rite of deconsecration. Unworthy ministers were deposed by a sentence
 read to the congregation, not degraded.
+
+**15. The rites of the feasts were reduced to their history** (§21). No order keeps the
+*Exsultet*, the new fire, the paschal candle, the ashes or the Christmas Kalenda. Electoral
+Brandenburg 1540 alone kept the Palm Sunday procession, the Maundy Thursday foot-washing and the
+representations of Christ's burial and resurrection. Christmas and Easter Matins were moved
+from midnight to the morning, and the Good Friday solemn prayers survived at Mülhausen and
+Waldeck.
 
 ### 1.2 Where the full liturgies are
 
@@ -6108,6 +6117,13 @@ herewith.
 kept from one celebration to the next. The orders instead count the communicants beforehand so
 that only enough is consecrated (§20.5).
 
+**Veil, lamp and colour.** No order says anything about veiling the reserved sacrament, the
+ciborium or the pyx, or about the colour of a lamp, its glass or its candle. The lamp before the
+sacrament house appears only to be forbidden: Schönburg 1542 lets no sacrament be kept in the
+sacrament house "nor suffer burning lamps before it" (Sehling 2, p. 175). The Transylvanian
+order rejects serving the hidden hosts "with candles and lamps" (above). The lights that remain
+are those set on the table at a sick-communion in the house (§8.2).
+
 ### 20.4 Good Friday: no Mass of the Presanctified
 
 The medieval Good Friday rite gave communion, to the priest alone, from a host consecrated on
@@ -6145,11 +6161,13 @@ On Good Friday one shall read the history of the Passion of Christ to the people
 six, according to the evangelists. Thereafter there is singing at seven and the office held;
 from seven to nine there is preaching, and thereafter the communion held.
 
-The Brandenburg order of 1572 has the Passion read at four in the morning "as of old", then "the
-sermon and communion" (Sehling 3, p. 102, from the editor's apparatus to the order of 1540).
-Waldeck 1556 has the solemn prayers of Good Friday said "before the communion"
-(Sehling 9, p. 277). The Hof order of 1592 provides music "under the communion" on Good Friday
-(Sehling 11, p. 439).
+Electoral Brandenburg in 1540 kept the Good Friday office with "the representation of the
+burial", but required "a complete consecration and administration of the sacrament" within it
+(§21.3). The Brandenburg order of 1572 has the Passion read at four in the morning "as of old",
+then "the sermon and communion"
+(Sehling 3, p. 102, from the editor's apparatus to the order of 1540). Waldeck 1556 has the
+solemn prayers of Good Friday said "before the communion" (Sehling 9, p. 277). The Hof order of
+1592 provides music "under the communion" on Good Friday (Sehling 11, p. 439).
 
 **The sepulchre abolished.** The burial of the cross or host in the Easter sepulchre, with its
 watch until Easter morning, went with the rest. Mülhausen in 1528 asks that "the burial of the
@@ -6292,7 +6310,303 @@ handled, as that which one taketh, eateth and drinketh.
 
 ---
 
-## 21. Table by order
+## 21. Rites of the feasts and seasons
+
+The medieval year had rites that belonged to one day only: the blessing of candles at Candlemas,
+the ashes of Ash Wednesday, the palms and procession of Palm Sunday, the washing of feet and of
+altars on Maundy Thursday, the Passion, the solemn prayers, the showing of the cross and the
+sepulchre on Good Friday, the new fire, paschal candle, *Exsultet* and blessing of the font on
+Easter Eve, the vigils of Christmas and Easter night, and the figures and dove of Ascension and
+Whitsun. This section sets out what the evangelical orders kept of them. The blessings
+themselves are treated in §15.1, and the image plays in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.10.
+
+### 21.1 The pattern
+
+**Luther's rule.** Luther would have Holy Week kept like any other week, except that the Passion
+is preached, without the "juggling-work" of the old ceremonies and without eight hours of
+Passion-preaching on Good Friday. **Luther, *Deudsche messe und ordnung gottis diensts*, 1526**
+(Sehling 1, p. 16):
+
+<!-- doc 3 -->
+> doch nicht also, das man das hunger tuch, palmen schiessen, bilde decken und was des gauckel
+> werks mehr ist, halten oder vier passion singen oder acht stunden am karfreitag an der passion
+> zu predigen haben, sonder die marterwoche sol gleich wie ander wochen sein, on das man die
+> passion predige des tages eine stunde durch die woche oder wie viel tage es gelustet, und das
+> sacrament neme wer do wil.
+
+yet not so that one keep the hunger cloth, palm-shooting, covering of images and whatever more
+of the juggling-work there is, or sing four Passions, or have eight hours of preaching on the
+Passion on Good Friday; but Holy Week shall be like other weeks, save that the Passion be
+preached an hour a day through the week, or as many days as one pleaseth, and that whoso will
+take the sacrament.
+
+**What the orders kept.** Most orders follow Luther: the feast keeps its history, read and
+preached, its proper chant and hymns, and the Supper. A few, chiefly Electoral Brandenburg in
+1540, kept much of the old ceremonial with the blessings removed (§21.3–21.5).
+
+**What is not found.** The searches found none of the following in any evangelical order:
+- the *Exsultet* or Easter *praeconium*;
+- the Christmas Kalenda (the proclamation of the Nativity from the martyrology);
+- the imposition of ashes on Ash Wednesday;
+- the putting out of the paschal candle at Ascension.
+
+The paschal candle and new fire appear only to be abolished, and the ashes only in the lists of
+abolished blessings. The only Ash Wednesday custom named is a folk one: the Sponheim visitors of
+1560 complain of people choosing "a mayor or king" on Ash Wednesday (Sehling 18, p. 640).
+
+### 21.2 Christmas and the night vigils
+
+**Matins moved to the morning.** Christmas and Easter Matins were kept, but not at midnight. The
+Palatine reform of the collegiate churches in 1546 moves them "somewhat nearer the day than at
+midnight". Pfalz-Neuburg 1543 sets Christmas Matins at four in the morning "to avoid all manner
+of danger" (Sehling 13, p. 95). **Kurpfalz, *Bedenken zur Reformation der Stiftskirchen*, 1546**
+(Sehling 14, p. 92):
+
+<!-- doc 470 -->
+> Weyhennacht und Ostermetten sollen gehalten werden etwas neher dem tag dan zu mitternacht in
+> massen, wie oben de horis canonicis gesagt ist.
+
+Christmas and Easter Matins shall be held somewhat nearer the day than at midnight, in such
+manner as is said above of the canonical hours.
+
+Nicolaus Hausmann's Anhalt order of 1532 says why. The night watch at Christmas and Easter would
+not be bad in itself, but it had brought sorcery and wantonness, and people are sleepy at
+midnight. **Anhalt, *Ordnung* of Nicolaus Hausmann, 1532** (Sehling 2, pp. 542–543):
+
+<!-- doc 1262 -->
+> Es wer auch nicht bose, das die christnacht und ostern mit der wache gehalden wurden, wie für
+> alters. Man weis aber den grosen misbrauch und zeuberei, leichtfertickeit, auch fleischlich
+> wollust, die sich begeben haben, davon dan mehr sunden kommen, wan gote gedint und sein ere
+> gesucht. Das junge und grobe volk kan kegen dem morgen gleichwol zu gotis furcht und zucht
+> gehalten [fehlt: werden] wie in mitternacht, und bas. Es ist auch iderman schleferig und
+> ungeschickt zum gebete.
+
+It were also not evil that Christmas night and Easter were kept with the watch, as of old. But
+men know the great abuse and sorcery, wantonness, also fleshly lust, which have come about
+thereby, whence more sins came than God was served and his honour sought. The young and rough
+folk can be kept in the fear of God and in discipline toward the morning just as well as at
+midnight, and better. Every man is also sleepy and unapt for prayer.
+
+The Brandenburg visitors of 1574 still had to tell the council to drive out "the wicked boys who
+do all manner of knavery in the churches on Christmas night and Easter night"
+(Sehling 3, p. 167).
+
+**The Christmas lessons.** Where Christmas Matins survived as a morning service, it kept three
+lessons, the third the genealogy of Matthew 1 (*Liber generationis*). This is the nearest the
+orders come to the Kalenda. **Naumburg, St Wenzel, *Kirchen-Ordnung*, 1537/1538**
+(Sehling 2, p. 71):
+
+<!-- doc 1219 -->
+> und zue weihnachten list man drei lectiones und singt drei responsoria. Die erste lectio ist
+> Esa. 9. Puer natus est nobis etc. Das ander evangelium Johannis, die dritte, liber
+> generationis. 3. Alsdan thut man ein predigt vom fest, als zue Weinachten. Ex evangelio Luc.
+> 2.
+
+and at Christmas one readeth three lessons and singeth three responsories. The first lesson is
+Isaiah 9, *Puer natus est nobis*, etc.; the second the gospel of John; the third *Liber
+generationis*. 3. Then one maketh a sermon on the feast, as at Christmas, out of the gospel of
+Luke 2.
+
+Nördlingen (in the revision of 1555) has the same three lessons, with the responsories *Hodie
+nobis caelorum rex*, *Hodie nobis de caelo* and *Verbum caro factum est*, and the *Te Deum* on
+the organ after the sermon (Sehling 12, p. 320). The Hof order of 1592 gives a full Latin
+Christmas Matins with invitatory, psalms, lessons and responsories (Sehling 11, pp. 412–413).
+The rocking of the Christ-child's cradle was abolished
+([`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.10).
+
+### 21.3 Candlemas, Ash Wednesday and Palm Sunday
+
+**Candlemas.** The candles were no longer blessed (§15.1). What remained of the feast is its
+gospel and Simeon's song. Henneberg 1555 has the German *Nunc dimittis* sung "from the Sunday
+after Purification" (Sehling 2, p. 310), and the Mansfeld hymn list gives "Mit Fried und Freud
+ich fahr dahin" for the day (Sehling 2, p. 235).
+
+**Ash Wednesday.** No order keeps the ashes or gives a rite for the day. The day appears only as
+the beginning of Lent and in the lists of abolished blessings (§15.1).
+
+**Palm Sunday: the procession kept, the blessing dropped.** Electoral Brandenburg kept the old
+Palm Sunday procession and chants, but not the blessing of palms. The same paragraph orders the
+rest of Holy Week (§§21.4–21.5). **Brandenburg (Electorate), *Kirchenordnung* of Joachim II,
+1540** (Sehling 3, p. 88):
+
+<!-- doc 1746 -->
+> Den palmentag sol man halten mit der procession und gesengen wie von alters, doch das die
+> weihung der palmen vorbleibe, folgende die andern tage mit lesung der passionen, nach dem text
+> der evangelisten. Den grünen donnerstag aber mit der ceremonien der füsswaschung (da es in
+> gebrauch gewesen) und des abends nach der metten gepredigt werde, vom abendmal bis zur
+> gefengnis Christi etc. Am guten freitag sol frue die passion aus allen vier evangelisten
+> zusamen gezogen vollend dem volk furgetragen werden und zu rechter zeit sol das gewonliche amt
+> volbracht werden, mit der representation der sepultur, wie von alters, doch das drinnen
+> volkömliche consecration und administration des sacraments geschehe. Der osterabend sol mit
+> gewönlichen solemniten und ceremonien volbracht werden, doch mit nachlassung der weihung des
+> feurs […]. So sol auch die osternacht mit der representation der auferstehung Christi, wie vor
+> alters, gehalten werden und der ostertag neben den folgenden tagen sol mit gewönlicher
+> herrligkeit zugebracht werden, dergleichen die vesper mit der solemnitet, bei der tauf
+> gebreuchlich, und so denn ungetaufte kinder verhanden zur selben zeit, die sollen mit getauft
+> werden.
+
+Palm Sunday shall be kept with the procession and chants as of old, yet so that the hallowing of
+the palms be left off; the following days with the reading of the Passions according to the text
+of the evangelists. But Maundy Thursday with the ceremony of the washing of feet (where it hath
+been in use), and in the evening after Matins let there be preaching from the Supper to the
+taking of Christ, etc. On Good Friday early the Passion, drawn together out of all four
+evangelists, shall be set forth to the people in full, and at the right time the customary
+office shall be performed, with the representation of the burial, as of old, yet so that therein
+a complete consecration and administration of the sacrament take place. Easter Eve shall be
+performed with the customary solemnities and ceremonies, yet with the leaving off of the
+hallowing of the fire […]. So shall also Easter night be kept with the representation of the
+resurrection of Christ, as of old; and Easter Day with the following days shall be spent in the
+customary glory; likewise the Vespers with the solemnity customary at baptism; and if there be
+unbaptized children present at that time, they shall be baptized withal.
+
+**The *Gloria, laus*.** Where there was no procession, the processional hymn *Gloria, laus et
+honor* stayed in the service. Naumburg 1537 sings it figurally as the Palm Sunday introit
+(Sehling 2, p. 71), and Nördlingen likewise (Sehling 12, p. 323). At Hof in 1592 it was sung
+after the sermon by three choirs. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 439):
+
+<!-- doc 294 -->
+> Post concionem: Gloria, laus et honor tibi sit, item: Glori und ehr sei dir sanftmutiger, in
+> dreien unterschidlichen choren, also das etliche discantisten, praeside cantore, für dem hohen
+> altar das lateinisch, darnach der ganze chor, gubernante ludimagistro, gegenuber das deudsche
+> und dann die megdlein allweg den versum intercalarem: Glori und ehr sei dir, singen.
+
+After the sermon: *Gloria, laus et honor tibi sit*, item "Glory and honour be to thee, thou meek
+one", in three several choirs: so that some trebles, the cantor presiding, sing the Latin before
+the high altar; thereafter the whole choir, the schoolmaster governing, the German over against
+them; and then the little girls always the refrain, "Glory and honour be to thee".
+
+Palm-shooting, the blessing of palms and the wooden ass were abolished everywhere else
+(Mülhausen 1528, Sehling 20/2, p. 206; §15.1).
+
+### 21.4 Maundy Thursday and Good Friday
+
+**Maundy Thursday.** Brandenburg 1540 kept the washing of feet where it had been in use (§21.3).
+It is the only order found that does so. Elsewhere the foot-washing became a sermon: Regensburg
+[1567] preaches on John 13 at midday (Sehling 13, p. 477), and Wolfstein 1574 preaches on it
+"that the communicants be stirred to brotherly love and unity" (Sehling 13, p. 570). The day's
+chief rite was the Supper, with a sermon on its institution. The washing of the altars was
+dropped at Mülhausen in 1528 ([`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §6.6).
+
+**Good Friday: the Passion and the solemn prayers.** The Good Friday service everywhere centres
+on the Passion read and preached. Schweinfurt keeps a Matins at five in the morning with three
+psalms and three lessons from the Passion, the reading of John's Passion "word for word" to the
+people, and the old Passion hymns. **Schweinfurt, *Kirchenordnung*, 1543** (Sehling 11, p. 636):
+
+<!-- doc 304 -->
+> Vom Carfreitag. Morgens frü zu fünf uren soll metten gesungen werden. Drei antiphon, drei
+> psalmen […] Drei responsoria. Die drei lectiones sol der magister oder cantor aus der
+> historien des leidens Christi ordenen. Denn sol der capellan auftreten und die historien des
+> leidens Christi vom dem evangelisten Johanne beschrieben von worten zu worten dem volk
+> fürlesen. Zu ende der passion sol man singen: Vexilia regis prodeunt, item: Crux fidelis.
+> Collecten, Benedicamus. Auf disen tag so anders communicanten verhanden sind, sol das abentmal
+> gehalten werden, weil solcher gebrauch vorhin alhier ist gewesen.
+
+Of Good Friday. In the morning early at five o'clock Matins shall be sung: three antiphons,
+three psalms […] three responsories. The three lessons the master or cantor shall arrange out of
+the history of the suffering of Christ. Then shall the chaplain stand forth and read to the
+people the history of the suffering of Christ described by the evangelist John, word for word.
+At the end of the Passion one shall sing *Vexilla regis prodeunt*, item *Crux fidelis*;
+collects, *Benedicamus*. On this day, if communicants be otherwise present, the Supper shall be
+held, since such use hath been here aforetime.
+
+The Mülhausen preachers of 1528 kept the Good Friday lessons and the old solemn prayers "for the
+heathen, Turks, Circassians and Jews", but read them in German (Sehling 20/2, p. 207). Waldeck
+kept the solemn prayers as a fixed part of the day. **Waldeck, *Kirchenordnung*, 1556**
+(Sehling 9, p. 277):
+
+<!-- doc 2300 -->
+> Es sollen auch die Precationes solennes, wie sie bißher in den beyden Kirchen Cörbach und
+> Wildungen gehalten worden, In allen Kirchen auff den Stillen Freitag vor der Communion mit
+> fleiß gehandelt werden
+
+The solemn prayers also, as they have hitherto been kept in the two churches of Korbach and
+Wildungen, shall be diligently performed in all churches on Good Friday before the communion.
+
+The order prints them in full as *Precationes solennes pro singulis ordinibus et necessitatibus
+die Parasceues dicendae*, with German bidding prayers.
+
+**Length.** No order asks for a specially long service. Luther rejected eight hours of
+Passion-preaching (§21.1). Bugenhagen's Brunswick order holds half an hour of preaching on the
+Passion to be enough, for "the long, tedious Passion-preaching, as men were wont to do, is not
+profitable" (Sehling 6/1, p. 379). Württemberg 1535 kept Good Friday as a holy day "only in the
+forenoon, for the Passion" (Sehling 16, p. 134). The length came instead from reading the whole
+Passion harmony, as at Brandenburg and Waldeck.
+
+**The cross and the sepulchre.** Brandenburg kept the "representation of the burial", but with a
+full consecration rather than the Mass of the Presanctified. Elsewhere the showing of the
+crucifix and the sepulchre were dropped (§20.4;
+[`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §6.6). Communion on Good Friday is treated
+in §20.4.
+
+**Tenebrae.** The Holy Week Matins survived at Hof as an evening office, "formerly called
+Tenebrae", with lessons, the responsories *In monte oliveti* and *Vinea mea electa*, a German
+responsory and a sermon (Sehling 11, pp. 415–416). Pfalz-Neuburg 1543 kept them "without all
+knocking, rumbling and din" (Sehling 13, p. 95).
+
+### 21.5 Easter Eve and Easter
+
+**No new fire and no paschal candle.** No evangelical order keeps the blessing of the new fire,
+the paschal candle or the *Exsultet*. Even Brandenburg, which kept Easter Eve "with the
+customary solemnities and ceremonies", left off "the hallowing of the fire" (§21.3). The
+Mülhausen preachers kept the consecration of the font on Easter Eve but thought the Easter
+candle unnecessary for it. They also dropped the fire-blessing and the daily procession to the
+font through Easter week. **Mülhausen, *Gutachten zu den Gottesdiensten in der Karwoche*,
+[1528]** (Sehling 20/2, p. 207):
+
+<!-- doc 1380 -->
+> Zum fünften: Am helgen obend der Ostern ist unser meinung, das man den touff conserver wie
+> bisher, ouch nit von nöten achtend, das man ein osterstock dar zu habe. Des glichen, das für
+> ze segen, mag mitt gutem fug underlassen werden. Und zum letsten: Das visitiern zum touff mitt
+> der procession die acht tag on alle irrung und gfar wol mag ab gethon werden, doch so witt,
+> das man die halb Vespern, die man vor by dem touff hatt gesungen, im chor sing, wie andere
+> vesperen.
+
+Fifthly: On the holy eve of Easter it is our mind that one consecrate the font as hitherto, yet
+not deem it needful to have an Easter candle thereto. Likewise the blessing of the fire may with
+good reason be left off. And lastly: the visiting of the font with the procession the eight days
+may well be put away without any error or danger; yet so far that the half Vespers which were
+formerly sung at the font be sung in the choir, like other Vespers.
+
+**The resurrection represented.** Brandenburg 1540 kept Easter night "with the representation of
+the resurrection of Christ, as of old", that is, the Easter play at the sepulchre, and Easter
+Vespers "with the solemnity customary at baptism", baptizing any children then waiting (§21.3).
+An Easter Matins of 1544 from Bibra survives with the German *Te Deum*, *Christ ist erstanden*
+and *Verleih uns Frieden* (Bibra, described by the editor, Sehling 2, p. 268). Elsewhere the
+Easter image plays were abolished
+([`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.10). The Easter *Leise*
+"Christ ist erstanden" is treated in [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §10.2.
+
+### 21.6 Ascension and Whitsun
+
+**The None kept, the figures dropped.** The Palatine reform of 1546 keeps the festal None of
+Ascension and Whitsun, but without the water poured, the hosts thrown from the vault, the fire
+cast down, the figure of Christ drawn up or the image of the Holy Ghost let down. **Kurpfalz,
+*Bedenken zur Reformation der Stiftskirchen*, 1546** (Sehling 14, p. 92):
+
+<!-- doc 470 -->
+> Die nonas am heyligen Auffartstag und Pfingsten sollen züchtiglich und bescheidenlich, wie
+> bißher, gesungen und gehalten werden, ausgeschlossen das wassergiessen, auch kein hostien oben
+> aus dem gewelb werfen noch kein feuer herabwerfen, darzu kein bildnus Christi aufziehen nach
+> kein bildnus des heyligen geists herablossen, sonder soll mit dem singen und der predig, so
+> daruf volget, gnung sein.
+
+The Nones on holy Ascension Day and Whitsun shall be sung and kept modestly and discreetly, as
+hitherto, excepting the pouring of water; also no hosts shall be thrown from above out of the
+vault, nor fire cast down; moreover no image of Christ drawn up, nor image of the Holy Ghost let
+down; but the singing and the sermon that followeth thereon shall be enough.
+
+No order mentions putting out or removing the paschal candle at Ascension. Pfalz-Neuburg's
+editor notes the old custom of burning it until Ascension (Sehling 13, p. 96), but the order
+itself abolishes the candle.
+
+**Whitsun and baptism.** Several orders explain that the early church baptized only at Easter
+and Whitsun, and that this is why the two feasts were kept (Schwäbisch Hall 1527, Sehling 17/1,
+p. 43; Württemberg 1553, Sehling 16, p. 232). None restores the seasons of baptism.
+
+---
+
+## 22. Table by order
 
 **How to read the table.** The table lists the orders that give the principal forms. For each
 order it shows which rites it supplies in full or in quotation, and what it abolishes. Section
@@ -6374,20 +6688,25 @@ numbers refer to this guide.
 | Goslar (Nuremberg report) 1528, Mülhausen 1528, Feuchtwangen 1563, Teschen 1584 | — | Easter sepulchre (20.4); ciborium (Teschen, 20.3) |
 | Merseburg 1544, Pfalz-Neuburg 1543, Hohenlohe 1553, Wolfstein 1574, Lüneburg 1575 | remaining elements consumed by minister or communicants (20.5) | reservation (20.3, 20.5) |
 | Transylvanian Saxons 1547 | — | communion from hosts kept "in corners" (20.3); anxiety over leftovers (20.5) |
+| Electoral Brandenburg 1540 (Holy Week) | Palm Sunday procession, Maundy Thursday foot-washing, Good Friday burial and Easter resurrection represented, Easter Vespers with baptism (21.3) | blessing of palms and of the fire (21.3) |
+| Kurpfalz *Bedenken* 1546, Pfalz-Neuburg 1543, Anhalt 1532 | Christmas and Easter Matins toward morning; Ascension and Whitsun None (21.2, 21.6) | midnight watch; water, hosts, fire, figures and dove at Ascension and Whitsun (21.6) |
+| Naumburg 1537, Nördlingen 1555, Hof 1592 | Christmas Matins lessons with *Liber generationis*; *Gloria, laus* on Palm Sunday; Tenebrae as an evening office (21.2–21.4) | — |
+| Schweinfurt 1543, Mülhausen 1528, Waldeck 1556 | Good Friday Matins and Passion; solemn prayers in German (21.4) | Easter candle, fire-blessing, font procession (Mülhausen, 21.5) |
 
 ---
 
-## 22. Concordance of the orders quoted
+## 23. Concordance of the orders quoted
 
 **The concordance.** Every order quoted in this guide is listed below, with the volume and pages
 of Sehling and the sections where it is quoted. Orders cited only in summary can be found
-through the table in §21 and the text.
+through the table in §22 and the text.
 
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
+| Anhalt | *Ordnung* of Nicolaus Hausmann | 1532 | 2, pp. 542–543 | 21.2 |
 | Baden | *Kirchenordnung* | 1533 | 16, p. 510 | 18.4 |
 | Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 269 | 4.4 |
-| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 81, 88 | 3.2, 6.4, 15.2, 17.3, 18.2, 18.4 |
+| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 81, 88 | 3.2, 6.4, 15.2, 17.3, 18.2, 18.4, 21.3 |
 | Brandenburg (Electorate) | *Visitation- und Consistorialordnung* | 1573 | 3, p. 128 | 7.10 |
 | Brandenburg-Ansbach-Kulmbach | *Landtagsabschied* | 1526 | 11, p. 91 | 20.3 |
 | Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | 7.4 |
@@ -6416,9 +6735,10 @@ through the table in §21 and the text.
 | Hesse | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | 12.1, 19.3 |
 | Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
-| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 463, 464, 467 | 14.3, 18.4 |
+| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 439, 463, 464, 467 | 14.3, 18.4, 21.3 |
 | Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 72 | 20.5 |
 | Kronstadt | *Reformationsbüchlein* | German version, 1543 | 24, p. 196 | 18.4 |
+| Kurpfalz | *Bedenken zur Reformation der Stiftskirchen* | 1546 | 14, p. 92 | 21.2, 21.6 |
 | Kurpfalz | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | 3.6 |
 | Kurpfalz | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | 10.5 |
 | Kurpfalz | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | 11.2 |
@@ -6429,6 +6749,7 @@ through the table in §21 and the text.
 | Luther | *Das taufbuchlin verdeutscht* | 1523, epilogue | 1, p. 20 | 3.1 |
 | Luther | *Das taufbuchlin verdeutscht* | 1523 | 1, pp. 19–20 | 3.2 |
 | Luther | *Das taufbuchlin verdeudscht aufs neu zu gericht* | 1526 | 1, pp. 22–23 | 3.3 |
+| Luther | *Deudsche messe und ordnung gottis diensts* | 1526 | 1, p. 16 | 21.1 |
 | Luther | *Traubüchlein* | 1529 | 1, p. 24 | 7.1 |
 | Luther | *Forma ordinationis latina* | 1539 | 1, p. 28 | 10.2 |
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 557–558 | 12.5 |
@@ -6441,10 +6762,12 @@ through the table in §21 and the text.
 | Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | 10.3 |
 | Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.7 |
 | Mulhouse | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | 12.3 |
+| Mülhausen | *Gutachten zu den Gottesdiensten in der Karwoche* | [1528] | 20/2, p. 207 | 21.5 |
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | 15.1 |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570 | 10, pp. 138, 139, 141 | 12.7 |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570, "Eydt der dominae" | 10, pp. 141–142 | 12.8 |
 | Nassau-Dillenburg | *Agende* | 1575 | 10, p. 150 | 4.4 |
+| Naumburg | *Kirchen-Ordnung für die St. Wenzelskirche* | 1537/1538 | 2, p. 71 | 21.2 |
 | Nuremberg | *Die Nürnberger 23 Lehrartikel* | 1528 | 11, p. 134 | 20.3 |
 | Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1, 20.5 |
 | Nördlingen | *Kirchenordnung Kaspar Löners* | 1544 | 12, p. 315 | 12.6 |
@@ -6474,6 +6797,7 @@ through the table in §21 and the text.
 | Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, pp. 170–171 | 15.5 |
 | Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | 11.4 |
 | Schleswig-Holstein | *Klosterordnung für Frauenklöster* | after 1610 | 23, p. 182 | 12.8 |
+| Schweinfurt | *Kirchenordnung* | 1543 | 11, p. 636 | 21.4 |
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 175 | 13.1, 14.1 |
 | Stendal | *Ordinance of the visitors of the Mark Brandenburg* | 1541 | 3, p. 314 | 18.4 |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | 4.1 |
@@ -6484,7 +6808,7 @@ through the table in §21 and the text.
 | Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | 20.3 |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
 | Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | 20.3, 20.5 |
-| Waldeck | *Kirchenordnung* | 1556 | 9, p. 256 | 18.4 |
+| Waldeck | *Kirchenordnung* | 1556 | 9, pp. 256, 277 | 18.4, 21.4 |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | 4.4 |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | 14.4 |
 | Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | 7.8 |
