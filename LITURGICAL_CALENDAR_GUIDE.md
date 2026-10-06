@@ -4354,8 +4354,8 @@ justification, nor be commanded on pain of a mortal sin, to ensnare the conscien
 item, that the difference of food cannot be suffered here, because Christ hath freed us from
 such ordinances
 
-The Mecklenburg articles of 1567 and the Braunschweig-Wolfenbüttel *Klosterordnung* of 1569
-explain the old fish days as a piece of the monastic "house order", which had wrongly been
+The Mecklenburg *Klosterordnung* of 1572 and the Braunschweig-Wolfenbüttel *Klosterordnung* of
+1569 explain the old fish days as a piece of the monastic "house order", which had wrongly been
 turned into "a special service of God" (Sehling 5, p. 252; 6/1, p. 307).
 
 ### 13.2 Fasting exhorted, but free
@@ -5100,7 +5100,6 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Stendal, *Visitations-Abschied*, 1551 | 3, p. 316 | 1786 | no weddings in Advent and Lent | 12.6 |
 | Zittau 1564 and Herwigsdorf 1595, church orders | 3, p. 379 | 1798 | catechism daily in Lent "at Salve time" | 12.3 |
 | Pomerania, *Karcken ordening* | 4, p. 354 | 1858 | Latin Litany when kept *dominicaliter*, in Advent and Lent | 10.11 |
-| Mecklenburg, *Articul und ordenunge*, 1567 | 5, p. 252 | 1926 | fish days a monastic house-rule | 13.1 |
 
 **The Low German north**
 
@@ -5116,7 +5115,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, pp. 200–201 | 1922 | high chief feasts of Christ; "over these chiefest feasts" apostles, John, Visitation, Michael (forenoon); Michaelmas replaces Assumption as four-times feast | 5.2, 8.8 |
 | Mecklenburg, *Visitations-Instruction*, 1557 | 5, p. 224 | 1925 | Assumption not to be kept; Michaelmas the four-times feast | 8.3 |
 | Rostock, *Conformitas ceremoniarum*, c. 1560 | 5, p. 288 | 1936 | great feasts on Sunday displace the Sunday Gospel; apostles do not | 14.1 |
-| Mecklenburg, *Klosterordnung*, 1572 | 5, p. 258 | 1926 | Athanasian Creed on high feasts | 10.8 |
+| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 252, 258 | 1926 | fish days a monastic house-rule; Athanasian Creed on high feasts | 10.8, 13.1 |
 | Hadersleben, *Artikel*, 1528 | 23, p. 64 | 1576 | Latin on "groten feste" (*summa festa*); holy days listed; apostles not kept; Annunciation to Palm eve | 4.2, 14.2 |
 | Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 90–95 | 1576 | three great feasts three days; feasts of Christ, Assumption, Visitation, John, Michael, All Saints; apostles on Sunday; Latin and sequences on high feasts | 3.3, 5.4, 8.5, 10.1, 10.4, 11.5 |
 | Hadersleben, *Zuchtordnung*, 1573 | 23, p. 244 | 1599 | no guild feasts on high feasts | 11.3 |
