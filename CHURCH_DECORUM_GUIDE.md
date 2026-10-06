@@ -207,7 +207,9 @@ slashed or coloured clothes, so that they may be known as ministers (Grubenhagen
 change of vestments or paraments. Coloured vestments nonetheless stayed in use. In 1578 the
 Fürstenberg church had a red-and-green velvet chasuble newly given by the Duke of Mecklenburg, a
 red velvet chasuble and red damask deacon's coats. At Sorau the boys who held the communion
-cloths wore red smocks and green garlands. The Lenten veil, the covering of images, the Easter
+cloths wore red smocks and green garlands. The Lenten veiling of images is named only to be
+ended: Luther rejects it, Mülhausen 1528 drops the unveiled crucifix shown on Good Friday, and
+at Regensburg a covered altarpiece was removed all the same. The Lenten veil, the Easter
 sepulchre, the paschal candle and the image plays of the feasts were all abolished (Luther 1526,
 Pfalz-Neuburg 1543, Hohenlohe 1553). Leiningen-Westerburg 1566 forbids May branches and decking
 the church with flowers as heathen customs; only at Hof (1592) did neighbours strew grass and
@@ -261,9 +263,10 @@ kneeling bench (*Altargitter*, *Kniebank*), liturgical colours, preaching bands 
 A second pass searched for reservation and the seasons: tabernacle (*Tabernakel*), ambry
 (*armarium*, *Almer*, *Wandschrank*, *Sakramentsnische*); colour words (*rot*, *grün*,
 *schwarz*, *violett*, *Farbe*) near vestments and cloths; the Lenten veil (*Hungertuch*,
-*Fastentuch*) and the covering of images; the Easter sepulchre (*heiliges Grab*) and paschal
-candle (*Osterkerze*, *Osterstock*); Candlemas candles (*Lichtmeß*, *Kerzenweihe*); *Tenebrae*
-and *Finstermette*; the eternal light (*ewiges Licht*); greenery and flowers (*Maien*, *Kirchen
+*Fastentuch*), the covering or veiling of images, crosses and altars (*decken*, *verdecken*,
+*verhüllen*, *velare*, *tegere*); the Easter sepulchre (*heiliges Grab*) and paschal candle
+(*Osterkerze*, *Osterstock*); Candlemas candles (*Lichtmeß*, *Kerzenweihe*); *Tenebrae* and
+*Finstermette*; the eternal light (*ewiges Licht*); greenery and flowers (*Maien*, *Kirchen
 blümen*, *Gras streuen*, *Kranz*, *Tannenbaum*, *Christbaum*, *Krippe*); and lights named
 together with feasts, Sundays and weekdays.
 
@@ -292,8 +295,9 @@ episcopal vocabulary of the request:
 - **Seasons.** No order prescribes liturgical colours or seasonal changes; the colour sequence
   appears only in the editor's notes, and coloured vestments only in an inventory and a later
   report (§6.6). No order varies the number of candles by feast or season. *Tabernakel* never
-  names a furnishing. There is no Advent wreath, Christmas tree, Easter garden or crib set up in
-  church, and the Tenebrae hearse is never mentioned.
+  names a furnishing. No order prescribes veiling images or crosses in Lent or Passiontide; the
+  veiling is mentioned only to be abolished (§6.6). There is no Advent wreath, Christmas tree,
+  Easter garden or crib set up in church, and the Tenebrae hearse is never mentioned.
 - **Vestments.** No order provides an evangelical mitre or crosier. The *Hirtenstab* occurs only
   as a metaphor for the preaching office, and Transylvanian *infulae* most likely means
   chasubles (§7.3). There are no preaching bands, cassock, cotta, cassock-alb, rochet, biretta,
@@ -1684,10 +1688,50 @@ The only other colours prescribed are those of mourning and penance: the black v
 a white cross on the Mansfeld oath table (§4.5), and the black cloths hired out for funerals at
 Breslau in 1528 (Sehling 3, p. 399).
 
-**Lent and Holy Week.** Luther's *Deutsche Messe* rejects the Lenten veil ("hunger cloth") and
-the covering of images in Holy Week (§4.1). No order keeps either. The image plays of the church
-year went with them, as did the Easter sepulchre, the paschal candle and the blessings of the
-seasons. **Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 96):
+**Veiling in Lent and Holy Week.** The Lenten veiling of images is mentioned in only a handful
+of places in the corpus, and always in order to end it. Luther's *Deutsche Messe* rejects the
+Lenten veil ("hunger cloth") and the covering of images (§4.1). No order keeps either, and none
+prescribes veiling crosses or images in Passiontide.
+
+The Mülhausen preachers' opinion on Holy Week of 1528 shows the other end of the veiling: the
+crucifix unveiled and shown at the Good Friday office. They ask that this "may well be left off,
+with some chants", together with the burial of the Lord in the sepulchre and the wooden
+clappers. **Mülhausen, *Gutachten zu den Gottesdiensten in der Karwoche*, [1528]**
+(Sehling 20/2, p. 207):
+
+<!-- doc 1380 -->
+> Des glichen die begrebniß des herrn yn das grab mitt andern brüchen abgestelt werde, ouch, das
+> man nit mitt den hulzernen tafeln klöpfet, sunder wie andere mol mitt den gloggen zu den
+> ämptern lüte. Man möcht auch wol das crucifix, so dann an dem selbigen tag in dem ampt zeigt
+> wirdt, mitt etlichen gsangen underlassen.
+
+Likewise that the burial of the Lord in the sepulchre, with other uses, be put down; also that
+one knock not with the wooden boards, but ring to the offices with the bells as at other times.
+One might also well leave off the crucifix which is shown on that same day in the office, with
+some chants.
+
+The same opinion stops the washing of the altars in Holy Week, unless a man wishes to wash his
+own altar (Sehling 20/2, p. 206).
+
+**Veiled, but removed all the same.** At Regensburg a carved Coronation of Mary on the high
+altar had been kept covered, apparently as a compromise. It was nonetheless taken away and
+replaced by a painted panel of the "sum of the evangelical preaching". **Regensburg,
+*Kirchenordnung*, [1567]** (Sehling 13, p. 481):
+
+<!-- doc 450 -->
+> Hernach ist gleicherweis die coronatio Mariae zur himmelkönigin auf dem hohen altar, wiewol
+> verdeckt, dennoch hinweggereumt, dargegen aber anstat aufgericht ein gemalte tafel auf
+> demselben altar, darin die summa der evangelischen predigten altes und neues testaments zu
+> sehen.
+
+Afterward the Coronation of Mary as Queen of Heaven on the high altar was likewise, although
+covered, nevertheless cleared away, and in its stead a painted panel set up upon the same altar,
+wherein the sum of the evangelical preaching of the Old and New Testament is to be seen.
+
+**Other Holy Week furnishings.** The image plays of the church year went with the veils, as did
+the Easter sepulchre, the paschal candle and the blessings of the seasons. For the sepulchre and
+the Good Friday rite, see [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §20.4.
+**Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 96):
 
 <!-- doc 386 -->
 > Dargegen sollen unterwegen bleiben erstlich alle spectacula und schauspil, so man mit bildern
@@ -2254,6 +2298,7 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Hesse, Homberg synod, 1526 | 8 | — | Candles commended; no reservation in ambries; no Candlemas blessing of candles | No new paraments, chasubles or copes; chasuble free; seemly chalice | Surplice at least; dalmatics and tunicles forbidden | 3.3, 5.4, 5.5, 6.4, 7.3 |
 | Schwäbisch Hall (Brenz), 1527 | 17/1 | — | — | — | Deacon may wear a cope at prayer, never a Mass vestment | 7.2 |
 | Brunswick (Bugenhagen), 1528 | 6/1 | Only worshipped images removed by authority; histories stay | — | Lights and banners at baptism needless | — | 4.1, 4.6 |
+| Mülhausen, Holy Week opinion, [1528] | 20/2 | Good Friday crucifix showing dropped | Sepulchre, clappers and altar washing dropped | — | — | 6.6 |
 | Schmiedeberg, visitation, 1528 | 1 | — | — | Two chalices and three best vestments kept; albs to the hospital; rest sold | — | 6.4 |
 | Breslau, *Schul- und Kirchenordnung*, 1528 | 3 | — | — | Black funeral cloths for a fee | — | 6.6 |
 | Colditz, visitation, 1529 | 1 | — | Altars arranged for the minister to face the people | — | — | 5.2 |
@@ -2313,7 +2358,7 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Leiningen-Westerburg, *Kirchenzuchtordnung*, 1566 | 19/1 | Banners not to be carried | May branches and decking the church with flowers forbidden | — | — | 6.6 |
 | Kurpfalz, *Befehl*, 1565 | 14 | Altars, crucifixes, Mounts of Olives removed | Sacrament houses, fonts, stoups removed | — | — | 4.4 |
 | Amberg, mandate, 1567 | 13 | — | — | Communion cloth abolished | — | 6.3 |
-| Regensburg, *Kirchenordnung*, [1567] | 13 | Middle way: histories kept, lying images removed | Lights dropped | — | Mass vestment and stole dropped; surplice kept; priestly dress outside | 4.1, 7.3, 8 |
+| Regensburg, *Kirchenordnung*, [1567] | 13 | Middle way: histories kept, lying images removed; covered Coronation of Mary removed | Lights dropped | — | Mass vestment and stole dropped; surplice kept; priestly dress outside | 4.1, 6.6, 7.3, 8 |
 | Prussia, *KO und Ceremonien*, 1568 | 4 | Against Calvinist image-storming | — | — | — | 4.4 |
 | Anhalt, Prince Bernhard, 1568 | 2 | — | — | — | Surplice at all Sunday sermons | 7.4 |
 | Wolfenbüttel, *Kirchenordnung*, 1569 | 6/1 | — | Clean cloths and lights on the altar | — | Albs and chasubles with communicants | 5.4, 7.1 |
@@ -2405,6 +2450,7 @@ through the table in §9 and the text.
 | Marienhafe | *Kirchenordnung* | 1593 | 7/1, p. 710 | 5.3 |
 | Mecklenburg | *Visitations-Instruction* | 12 November 1552 | 5, p. 220 | 4.2 |
 | Mecklenburg | *Ordnung der Visitatoren für Fürstenberg* | 1578 | 5, p. 265 | 6.6 |
+| Mülhausen | *Gutachten zu den Gottesdiensten in der Karwoche* | [1528] | 20/2, p. 207 | 6.6 |
 | Nassau-Weilburg | *Kirchenordnung* | 1576 | 10, p. 310 | 5.5 |
 | Nassau-Weilburg | *Erläuterungspunkte zur Kirchenordnung* | 1617 | 10, pp. 351, 353 | 4.5, 6.3 |
 | Neumark | *Kasten-Ordnung* | 1 March 1540 | 3, p. 32 | 5.4, 5.7 |
@@ -2420,7 +2466,7 @@ through the table in §9 and the text.
 | Prussia | *Befehl* | 1 February 1543 | 4, p. 60 | 7.4 |
 | Prussia | *Kirchenordnung und Ceremonien* | 1568 | 4, p. 73 | 4.4 |
 | Regensburg | *Kirchenordnung unter Justus Jonas* | 1553 | 13, p. 421 | 6.3 |
-| Regensburg | *Kirchenordnung* | [1567] | 13, pp. 480, 481 | 4.1, 7.3, 8 |
+| Regensburg | *Kirchenordnung* | [1567] | 13, pp. 480, 481 | 4.1, 6.6, 7.3, 8 |
 | Regensburg | *Warum die leviten- und meßgewand sollen abgetan werden* | 29 April 1554 | 13, pp. 432, 433 | 7.3 |
 | Riga | *Kirchenordnung* | 1530 | 5, p. 17 | 7.1 |
 | Saxony | *Ordnung Herzog Augusts* | 1580 | 1, p. 451 | 5.7 |

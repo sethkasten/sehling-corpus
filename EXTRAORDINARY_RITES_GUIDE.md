@@ -145,7 +145,11 @@ stands behind the blessing, and that the blessed objects had become means of sup
 with prayer, and a few printed a form.
 
 **6. The rites of the sick replaced unction with Word and Sacrament** (§8). The reserved
-sacrament and its procession were abolished, and communion was given in the house. Forms were
+sacrament and its procession were abolished, and communion was given in the house. Only the
+Ansbach diet of 1526 still kept leftovers in the sacrament house; the later orders count the
+communicants and have the minister or communicants consume what remains (§§20.3, 20.5). No
+order keeps the Mass of the Presanctified: on Good Friday there was a full communion or none
+(§20.4). Forms were
 written for the dying, the plague-stricken and the condemned. Pomerania 1569 gave a rite of
 prayer over the possessed in place of exorcism.
 
@@ -2331,6 +2335,9 @@ The Württemberg order is:
 3. The general confession and absolution.
 4. The consecration with the Words of Institution.
 5. Distribution, comfort from the Gospel, and commendation to God.
+
+Reservation outside the sick-call, the Good Friday rite and the consuming of the remaining
+elements are treated in §§20.3–20.5.
 
 ### 8.3 The Saxon form for the sick, 1539
 
@@ -5987,6 +5994,302 @@ Some occasional services are treated elsewhere, or only touched on here:
   ordination, installation and visitation are in
   [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md).
 
+### 20.3 Reservation of the sacrament
+
+§8.2 shows the orders ending the carrying of the reserved sacrament to the sick. This section
+gathers what they say about reservation as such: keeping consecrated hosts after the service,
+whether for the sick, for later communicants or for adoration.
+
+**Kept for the sick and for later communicants: Ansbach 1526.** One early Franconian decree
+still keeps the reserved sacrament. The diet of 1526 orders "all due reverence" to the sacrament
+in church and when it is carried to the sick through the streets. Whatever is left over after
+communion is not to be thrown away but kept reverently in the sacrament house for the sick and
+for other communicants. **Brandenburg-Ansbach-Kulmbach, *Landtagsabschied*, 1526**
+(Sehling 11, p. 91):
+
+<!-- doc 259 -->
+> sunder solchem heiligen sacrament in den kirchen und, wann das zu den kranken uber die gassen
+> getragen würdet, alle gebürliche ererbietung geton […] Und ob zu den zeiten und tagen, wann
+> die communicanten das heilig, hochwirdig sacrament empfahen, ichts von dem sacrament
+> uberblieb, so sol solchs nit verechtlich hinweg geton, sunder mit gebürlicher reverenz in den
+> sacramentheuslein zu bewarung der teglich zufelligen kranken oder anderer communicanten
+> behalten werden.
+
+but [that] to this holy sacrament, in the churches and when it is carried to the sick over the
+streets, all due reverence be done […] And if at the times and days when the communicants
+receive the holy, most worthy sacrament, aught of the sacrament remained over, the same shall
+not be put away contemptuously, but kept with due reverence in the sacrament houses, for the
+keeping [of it] for the sick that daily fall in, or for other communicants.
+
+**A free thing, to be given up: Nuremberg 1528.** Two years later the Nuremberg theologians
+treated reservation as one of the "free things". Osiander's answer is that it is free, but that
+since it serves neither faith nor love it should be given up, after teaching, where the weak are
+not offended. **Nuremberg, *Die Nürnberger 23 Lehrartikel*, 1528** (Sehling 11, p. 134):
+
+<!-- doc 268 -->
+> Ob man das sacrament soll einsperren? […] Antwort: Es ist auch frei. Darumb soll man das
+> nutzlichst tun, das ist: wo es die schwachen nicht ergert, soll mans nach guter underrichtung
+> underlassen und abtun; dann es dienet weder dem glauben noch der lieb etc.
+
+Whether one should lock up the sacrament? […] Answer: It is also free. Therefore one should do
+what is most profitable, that is: where it offendeth not the weak, one should, after good
+instruction, leave it off and put it away; for it serveth neither faith nor love, etc.
+
+The Brandenburg-Nürnberg church order of the same year gives the reasons. Christ commanded the
+body and blood to be eaten and drunk, not locked up or carried about. The wine would spoil
+sooner than the bread. The sacrament can be consecrated in the presence of the communicants
+whenever it is needed. **Brandenburg-Nürnberg, *Kirchenordnung*, 1528** (Sehling 11, p. 138):
+
+<!-- doc 269 -->
+> Von einsperrung des sacraments. Item dieweil wir des leibs und pluts Christi allein zu essen
+> und drinken und nit in heusle zu sperren oder umbzutragen, aus dem wort Gottes bevelch haben,
+> auch solch sacrament im wein ehe weder im prot, so es lang stunde, verdurb und bei solchem
+> einsperren ganz kein nutz ist, sondern daraus vil ergernus volget und in gegenwertigkeit der
+> communicanten consecrirt werden soll und mag, ist solch einsperren und umbtragen ditz
+> sacraments zu unterlassen. Doch das solchs vor mit dem wort werd abgericht.
+
+Of the locking up of the sacrament. Item, since we have command from the word of God only to eat
+and drink the body and blood of Christ, and not to lock them in little houses nor carry them
+about; also such sacrament in the wine would spoil sooner than in the bread, if it stood long;
+and in such locking up there is no profit at all, but much offence followeth therefrom; and it
+shall and may be consecrated in the presence of the communicants: such locking up and carrying
+about of this sacrament is to be left off. Yet so, that this be first set right with the word.
+
+The great Brandenburg-Nürnberg order of 1533 makes it a rule: "they shall not keep, lock up nor
+carry about the holy sacrament" (Sehling 11, p. 184; §8.2). Hohenlohe 1553, Wolfstein 1574 and
+the Merseburg synod of 1544 say the same (§20.5).
+
+**Old hosts not to be used: Transylvania 1547.** The church order of the Transylvanian Saxons
+forbids a priest to give communion from hosts consecrated long before and kept "in corners",
+without saying the words of the testament. Christ said "take, eat, drink", not "put it in a
+corner, lock it fast, serve it with candles and lamps". **Transylvanian Saxons, *Kirchenordnung*
+(German version), 1547** (Sehling 24, p. 235):
+
+<!-- doc 1669 -->
+> 6. Man sol auch hernach nit leiden, das der priester die wort des heiligen testaments außlasse
+> und wolt gebrauchen der partikel, die er nach sonderlichem segen wider die ordnung Christi
+> etlich zeitlang in winckeln verschlossen hat gehalten. […] 7. Darumb sol niemand aus unglauben
+> solche ubrige consecriert partikel in derley gestalt zum communicieren brauchen oder zum
+> ergernis inderthyn einschliessen und abgötterey damit treiben. Denn Christus spricht: Nempt
+> hyn, esset, trincket und thuts. Er spricht aber nindert: Setzts in ein winckel, sperret fest
+> zu, dienet im mit kerzen und lampen und tragts mit processen umb spaciern.
+
+6. Neither shall one suffer hereafter that the priest leave out the words of the holy testament
+   and would use the particles which, after a private blessing, against the ordinance of Christ,
+   he hath kept shut up in corners for some time. […] 7. Therefore let no one out of unbelief
+   use such leftover consecrated particles in such wise for communicating, or lock them up
+   anywhere to offence and practise idolatry therewith. For Christ saith: Take, eat, drink and
+   do this. But he saith nowhere: Set it in a corner, lock it fast, serve it with candles and
+   lamps, and carry it about walking in processions.
+
+The Latin version of the same order has the same rule (Sehling 24, p. 214).
+
+**Forbidden late: Teschen 1584.** In the Silesian duchy of Teschen the custom was still alive in
+the villages in 1584. The order forbids the adoration of the sacrament, locking it "in the
+ciborium, as they call it", processions with banners, and the Holy Week sepulchre. **Teschen,
+*Kirchenordnung*, 1584** (Sehling 3, p. 461):
+
+<!-- doc 1815 -->
+> Weil auch bei der messe und sonsten biesher sonderlich auf den dörfern viel abgöttische
+> ceremonien gehalten worden siend und noch gehalten werden, als adoratio des sacraments,
+> einsperrung des sacraments in das ciborium, wie sie es nennen, die processiones mit den fahnen
+> und andere dergleichen abgötterei mehr, insonderheit der abgöttische miessbrauch in der
+> marterwochen mit dem grabmachen und siengen vor dem grabe, diess soll alles gänzlichen hiermit
+> ernstlich verboten und abgethan sein
+
+Since also at the Mass and otherwise hitherto, especially in the villages, many idolatrous
+ceremonies have been held and are still held, as the adoration of the sacrament, the locking up
+of the sacrament in the ciborium, as they call it, the processions with the banners and other
+such idolatry more, especially the idolatrous abuse in Holy Week with making the sepulchre and
+singing before the sepulchre: this shall all be wholly and earnestly forbidden and done away
+herewith.
+
+**No reservation for the next service.** No Lutheran order after Ansbach 1526 allows hosts to be
+kept from one celebration to the next. The orders instead count the communicants beforehand so
+that only enough is consecrated (§20.5).
+
+### 20.4 Good Friday: no Mass of the Presanctified
+
+The medieval Good Friday rite gave communion, to the priest alone, from a host consecrated on
+Maundy Thursday and kept overnight at an altar of repose or in the Easter sepulchre. No
+evangelical order keeps the Mass of the Presanctified or an altar of repose. The orders either
+hold a full communion on Good Friday, consecrated like any other, or none.
+
+**Communion as on a Sunday.** Bugenhagen's Brunswick order lets those who wish to commune after
+the Good Friday Passion do so "as is customary on Sunday after the sermon". There is no sung
+Mass and no ceremony before the sermon, because the Passion preached is a good ceremony for
+communicating. **Brunswick, *Kirchenordnung*, 1528** (Sehling 6/1, p. 379):
+
+<!-- doc 1983 -->
+> So etlike na der passien in stillen Frydage willen communiceren, so geve me dat sacramente,
+> alse me plecht des Sundages na der predige, wowol dat up den dach de missensank unde geprenge
+> vor der predige nicht geholden is. De gepredigede passie is eyn gut geprenge tome
+> communiceren. Wente Christus secht: Sulck doht to myner gedechtnisse, dat is, alse Paulus
+> secht, vorkundiget mynen döt etc.
+
+If any after the Passion on Good Friday will communicate, let the sacrament be given as is the
+custom on Sunday after the sermon, although on that day the Mass-singing and ceremony is not
+held before the sermon. The Passion preached is a good ceremony for communicating. For Christ
+saith: This do in remembrance of me, that is, as Paul saith, shew forth my death, etc.
+
+Hamburg 1529 repeats the passage word for word (Sehling 5, p. 506). At Rostock about 1560 the
+Good Friday service ends with communion. **Rostock, *Conformitas ceremoniarum*, about 1560**
+(Sehling 5, p. 290):
+
+<!-- doc 1936 -->
+> Auf den stillen freitag sol man von 5 auf 6 die historiam passionis Christi dem volk furlesen
+> nach den evangelisten. Darnach wird gesungen uf sieben und das officium gehalten, von sieben
+> auf neun wirt geprediget und darnach die communio gehalten.
+
+On Good Friday one shall read the history of the Passion of Christ to the people from five to
+six, according to the evangelists. Thereafter there is singing at seven and the office held;
+from seven to nine there is preaching, and thereafter the communion held.
+
+The Brandenburg order of 1572 has the Passion read at four in the morning "as of old", then "the
+sermon and communion" (Sehling 3, p. 102, from the editor's apparatus to the order of 1540).
+Waldeck 1556 has the solemn prayers of Good Friday said "before the communion"
+(Sehling 9, p. 277). The Hof order of 1592 provides music "under the communion" on Good Friday
+(Sehling 11, p. 439).
+
+**The sepulchre abolished.** The burial of the cross or host in the Easter sepulchre, with its
+watch until Easter morning, went with the rest. Mülhausen in 1528 asks that "the burial of the
+Lord in the sepulchre, with other uses, be put down"
+(Sehling 20/2, p. 207; see [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §6.6).
+Nuremberg reported to Goslar that "the sepulchre in the church" was no longer set up. **Goslar,
+*Bericht der Stadt Nürnberg für den Goslarer Rat*, 30 March 1528** (Sehling 7/2.2, p. 232):
+
+<!-- doc 2186 -->
+> Das gauckelspiel mit dem hergott und ezel am Palmtag, die passionspiel am Karfreitag werden
+> nit mehr gespielt, das grab in der kirchen, das gespot myt der urstendt Christi wurth nit mehr
+> furgenohmen, desgleichen das fewer am osterabent nit mehr gesegnet.
+
+The juggling-play with the Lord-God and the ass on Palm Sunday, the Passion plays on Good Friday
+are no more played; the sepulchre in the church, the mockery with the resurrection of Christ, is
+no more undertaken; likewise the fire on Easter Eve is no more blessed.
+
+The Feuchtwangen memorial of 1563 recalls the reformers rejecting "on Good Friday the laying of
+the cross in the sepulchre, and the watches that followed" (Sehling 11, p. 406), and Teschen in
+1584 still had to forbid "making the sepulchre and singing before the sepulchre" (§20.3).
+
+### 20.5 The remaining elements consumed
+
+Since nothing was to be reserved, the orders had to say what became of consecrated bread and
+wine left after communion. They answer in three ways: count the communicants so that little or
+nothing is left; have the minister or the communicants consume the rest; and never mix it back
+with unconsecrated bread and wine, pour it away or give it to the sexton.
+
+**Consumed by the priest or the communicants: Merseburg 1544.** **Merseburg,
+*Synodalunterricht*, 1544** (Sehling 2, p. 18):
+
+<!-- doc 1211 -->
+> Sollen auch das hochwirdig sacrament ausser der Institution Christi nicht in andere wege
+> gebrauchen, umbdragen noch einsetzen. Wan auch etwas von particulen ader im kelch ubrig
+> bleibt, sol nicht bei gesetzt ader wegegossen, sondern vom pristern oder communicanten, so des
+> mahls des sacrament genossen, vollent absumirt werden.
+
+They shall also not use the most worthy sacrament in any other way outside the institution of
+Christ, nor carry it about nor set it in [the sacrament house]. When also aught of the particles
+or in the cup remaineth over, it shall not be set aside or poured away, but be fully consumed by
+the priest or the communicants who have partaken of the meal of the sacrament.
+
+**All distributed and used up: Pfalz-Neuburg 1543.** **Pfalz-Neuburg, *Kirchenordnung*, 1543**
+(Sehling 13, p. 76):
+
+<!-- doc 386 -->
+> Und, wiewol er von anfang sol fleiß haben, das er alle ding dermaßen verordne und in acht
+> habe, damit von dem heiligen sacrament nit uberbleib, so sol er doch insonderheit zu ende
+> darauf sehen, das es alles ausgeteilt werde und aufgehe, wie Christus befohlen hat, da er
+> spricht Luce 22 [17]: Dividite inter nos..., auf das sich kein beschwerliche oder ergerliche
+> unschicklicheit zutrag.
+
+And although from the beginning he shall be diligent so to order and have regard to all things
+that naught of the holy sacrament remain over, yet at the end especially he shall see to it that
+it be all distributed and used up, as Christ commanded when he saith, Luke 22 [17]: *Dividite
+inter vos*, that no grievous or offensive unseemliness befall.
+
+**The pastor consumes the remains: Hohenlohe 1553.** **Hohenlohe, *Kirchenordnung*, 1553**
+(Sehling 15, p. 72):
+
+<!-- doc 539 -->
+> Der pfarherr soll alsdann die reliquias sumiren und nichts laßen uberpleyben oder reservieren,
+> auch sondere achtung haben in administratione utriusque partis sacramenti, damit kain
+> inconveniens dem sacrament widerfarhe in effusione calicis etc.
+
+The pastor shall then consume the remains and let nothing remain over or be reserved; and he
+shall also have special heed in the administration of both parts of the sacrament, that no
+mishap befall the sacrament in the spilling of the cup, etc.
+
+**The pastor communes, and so takes the remains: Wolfstein 1574.** Thomas Stieber wants pastors
+always to commune with their people, for the example, and also so that the remains are consumed
+and nothing reserved. **Wolfstein, *Christliche Instructio des Thomas Stieber*, 1574**
+(Sehling 13, p. 575):
+
+<!-- doc 463 -->
+> Ist derhalben gut, das die pfarhern alweg mit communicirn umbs exempels willen. So dienets
+> auch zue guter ordnung, damit die reliquiae sacramenti vom kirchendiener genummen und nichts
+> vom hailigen sacrament dörf aufbehalten werden.
+
+It is therefore good that the pastors always communicate with [the people], for the example's
+sake. So it serveth also for good order, that the remains of the sacrament be taken by the
+minister and naught of the holy sacrament need be kept.
+
+Regensburg [1567] has the officiant commune last "and take what is left of the consecrated
+there" (Sehling 13, p. 463). The Danzig order of 1557, as Sehling describes it, wants everything
+blessed "to be used up cleanly, without leftover spilling or setting aside" (Sehling 4, p. 169).
+
+**Not mixed back with common bread and wine: Lüneburg 1575.** **Lüneburg, *Kirchenordnung*,
+1575** (Sehling 6/1, p. 660):
+
+<!-- doc 2017 -->
+> So auch nach geschehener communion etwas von brodt oder wein ubrig bleibet, so wirt dasselbe
+> nicht widerumb zu dem andern gemeinen brodt oder wein gethon oder weggesetzet, sondern wird
+> von dem diener, so das ampt vorrichtet, genossen oder den andern communicanten nach
+> gelegenheit gegeben.
+
+If also after communion is done aught of the bread or wine remaineth over, the same is not put
+back again to the other common bread or wine, nor set away, but is partaken of by the minister
+who performeth the office, or given to the other communicants as occasion serveth.
+
+**Not left to the sexton: Nuremberg 1545.** Veit Dietrich asks communicants to announce
+themselves so that the pastor knows how much to consecrate. "This disorder is fit in no wise",
+he says, that wafers and wine be carried to the altar without measure "and then the rest left to
+the sexton for his use at home". **Nuremberg, *Agendbüchlein* of Veit Dietrich, 1545**
+(Sehling 11, p. 531):
+
+<!-- doc 297 -->
+> Denn dise unordnung taug in keinen weg, das man oblaten und wein on gewisse maß auf den altar
+> tragen und darnach das ubrig dem custer wolt lassen zu seinem brauch im haus nützen.
+
+For this disorder is fit in no wise, that one should carry wafers and wine to the altar without
+certain measure, and thereafter would leave the rest to the sexton to use for his need in the
+house.
+
+Württemberg 1536 likewise counts the bread by the number of communicants and measures the wine
+"so that at the last nothing remain in the cup" (Sehling 16, p. 107). The Limpurg visitors of
+1611 still asked each pastor whether he consecrated more hosts than there were communicants, and
+what he did with any left over (Sehling 16, p. 629).
+
+**The Melanchthonian view: Transylvania 1547.** The Transylvanian order takes the opposite line
+on the leftovers themselves. Better to lay on too many particles than to have to consecrate
+again, "for one need not be anxious about what is left over". The words of consecration are to
+be understood with their effect, "so that only that is consecrated which is handled, as what is
+taken, eaten and drunk". **Transylvanian Saxons, *Kirchenordnung* (German version), 1547**
+(Sehling 24, p. 233):
+
+<!-- doc 1669 -->
+> doch wo viel mit einander auff ein mal vorhanden sein, auff das niemand seines begeren
+> betrogen werdt und die wort der consecration durch nachlessigkeit nit von newes widerumb
+> gesprochen müssen werden, ists besser, das man mehr partickel einleg; darff sich darumb des
+> ubrigen nit besorgen, denn die wort der consecration mussen mit der wirckung verstanden
+> werden, auff das allein consecriert sey, das da gehandelt wird, als das man nimpt, isset und
+> trincket.
+
+yet where many are present together at once, that no one be cheated of his desire and the words
+of consecration need not through negligence be spoken anew again, it is better that one lay on
+more particles; one need not therefore be anxious about what is left over, for the words of
+consecration must be understood with their effect, so that only that is consecrated which is
+handled, as that which one taketh, eateth and drinketh.
+
 ---
 
 ## 21. Table by order
@@ -6065,6 +6368,12 @@ numbers refer to this guide.
 | Kronstadt 1543 | communion of the sick (18.4) | candles, bells and pomp (18.4) |
 | Mecklenburg 1552 | — | banners and processional crosses (18.4) |
 | Strasbourg 1598 | the council procession to the Minster (18.4) | — |
+| Brandenburg-Ansbach-Kulmbach, *Landtagsabschied* 1526 | leftovers kept in the sacrament house for the sick and later communicants (20.3) | — |
+| Nuremberg *Lehrartikel* and Brandenburg-Nürnberg 1528 | — | locking up and carrying about the sacrament (20.3) |
+| Brunswick 1528, Hamburg 1529, Rostock about 1560 | communion on Good Friday as on a Sunday (20.4) | Mass of the Presanctified (20.4) |
+| Goslar (Nuremberg report) 1528, Mülhausen 1528, Feuchtwangen 1563, Teschen 1584 | — | Easter sepulchre (20.4); ciborium (Teschen, 20.3) |
+| Merseburg 1544, Pfalz-Neuburg 1543, Hohenlohe 1553, Wolfstein 1574, Lüneburg 1575 | remaining elements consumed by minister or communicants (20.5) | reservation (20.3, 20.5) |
+| Transylvanian Saxons 1547 | — | communion from hosts kept "in corners" (20.3); anxiety over leftovers (20.5) |
 
 ---
 
@@ -6080,11 +6389,13 @@ through the table in §21 and the text.
 | Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 269 | 4.4 |
 | Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 81, 88 | 3.2, 6.4, 15.2, 17.3, 18.2, 18.4 |
 | Brandenburg (Electorate) | *Visitation- und Consistorialordnung* | 1573 | 3, p. 128 | 7.10 |
+| Brandenburg-Ansbach-Kulmbach | *Landtagsabschied* | 1526 | 11, p. 91 | 20.3 |
 | Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | 7.4 |
 | Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | 4.3 |
-| Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, p. 135 | 3.2 |
+| Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, pp. 135, 138 | 3.2, 20.3 |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, pp. 174, 177, 180, 201–202, 203 | 3.1, 3.4, 5.1, 7.2, 9.3 |
 | Braunschweig | *Kirchenordnung* | 1528 | 6/1, p. 360 | 4.2 |
+| Brunswick | *Kirchenordnung* | 1528 | 6/1, p. 379 | 20.4 |
 | Brunswick-Wolfenbüttel | *Klosterordnung* | 1569 | 6/1, pp. 325–326 | 12.10 |
 | Calenberg-Göttingen | *Ordnung der confirmation oder firmung* | 1542 | 6/2, pp. 838–839, 843 | 6.3 |
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, p. 799 | 15.1 |
@@ -6092,6 +6403,7 @@ through the table in §21 and the text.
 | Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | 6.1, 10.1 |
 | Esslingen | *Mandat für die altgläubigen Geistlichen* | 10 August 1532 | 17/2, p. 371 | 19.1 |
 | Gengenbach | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | 12.3 |
+| Goslar | *Bericht der Stadt Nürnberg für den Goslarer Rat* | 30 March 1528 | 7/2.2, p. 232 | 20.4 |
 | Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1052, 1058 | 16.1, 16.6 |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | 14.1 |
 | Havelberg | *Abschied* | 1558 | 3, p. 232 | 18.4 |
@@ -6105,6 +6417,7 @@ through the table in §21 and the text.
 | Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
 | Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 463, 464, 467 | 14.3, 18.4 |
+| Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 72 | 20.5 |
 | Kronstadt | *Reformationsbüchlein* | German version, 1543 | 24, p. 196 | 18.4 |
 | Kurpfalz | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | 3.6 |
 | Kurpfalz | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | 10.5 |
@@ -6119,10 +6432,12 @@ through the table in §21 and the text.
 | Luther | *Traubüchlein* | 1529 | 1, p. 24 | 7.1 |
 | Luther | *Forma ordinationis latina* | 1539 | 1, p. 28 | 10.2 |
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 557–558 | 12.5 |
+| Lüneburg | *Kirchenordnung* | 1575 | 6/1, p. 660 | 20.5 |
 | Mansfeld | *Form und weise einer visitation* | 1554 | 2, p. 192 | 3.8 |
 | Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 241–242, 242–243, 246 | 5.2, 6.5, 9.4, 16.5 |
 | Mecklenburg | *Visitations-Instruction* | 12 November 1552 | 5, p. 220 | 18.4 |
 | Mecklenburg | *Consistorialordnung* | 1570 | 5, pp. 245–246, 246 | 16.4 |
+| Merseburg | *Synodalunterricht* | 1544 | 2, p. 18 | 20.5 |
 | Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | 10.3 |
 | Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.7 |
 | Mulhouse | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | 12.3 |
@@ -6130,14 +6445,15 @@ through the table in §21 and the text.
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570 | 10, pp. 138, 139, 141 | 12.7 |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570, "Eydt der dominae" | 10, pp. 141–142 | 12.8 |
 | Nassau-Dillenburg | *Agende* | 1575 | 10, p. 150 | 4.4 |
-| Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1 |
+| Nuremberg | *Die Nürnberger 23 Lehrartikel* | 1528 | 11, p. 134 | 20.3 |
+| Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1, 20.5 |
 | Nördlingen | *Kirchenordnung Kaspar Löners* | 1544 | 12, p. 315 | 12.6 |
 | Palatinate | *Kirchenordnung* | of Ottheinrich, 1556 | 14, p. 140 | 17.2 |
 | Palatinate | *Ehegerichtsordnung* | 1563 | 14, p. 327 | 7.10 |
 | Palatinate | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
 | Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | 12.3 |
 | Perleberg | *Visitations-Abschied* | 1581 | 3, p. 256 | 18.4 |
-| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 96–97, 96 | 3.2, 15.1, 18.1 |
+| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 76, 96–97 | 3.2, 15.1, 18.1, 20.5 |
 | Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 20.1 |
 | Pfalz-Simmern | *Klosterordnung Ravengiersburg* | 1560 | 19/2, p. 658 | 12.9 |
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | 4.1, 8.1 |
@@ -6148,6 +6464,7 @@ through the table in §21 and the text.
 | Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | 10.4 |
 | Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | 9.4 |
 | Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | 8.5 |
+| Rostock | *Conformitas ceremoniarum* | about 1560 | 5, p. 290 | 20.4 |
 | Saalfeld | *Visitation order* | 1533 | 1, p. 654 | 19.2 |
 | Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 420, 448, 449, 453 | 12.4, 16.1, 16.3 |
 | Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 427, 453 | 3.8, 6.7, 11.1, 15.5, 17.1 |
@@ -6164,11 +6481,14 @@ through the table in §21 and the text.
 | Strasbourg | *Agende* | 1537 | 20/1, pp. 263–264, 269 | 3.5, 7.3 |
 | Strasbourg | *Kirchenordnung* | 1598 | 20/1, p. 592 | 18.4 |
 | Strasbourg | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | 12.4 |
+| Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | 20.3 |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
+| Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | 20.3, 20.5 |
 | Waldeck | *Kirchenordnung* | 1556 | 9, p. 256 | 18.4 |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | 4.4 |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | 14.4 |
 | Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | 7.8 |
+| Wolfstein | *Christliche Instructio des Thomas Stieber* | 1574 | 13, p. 575 | 20.5 |
 | Württemberg | *Kirchenordnung* | 1536 | 16, pp. 111, 113 | 3.5, 8.2 |
 | Württemberg | *Kirchenordnung* | 1553 | 16, pp. 232–233 | 3.5 |
 | Württemberg | *Eheordnung* | 1553 | 16, p. 279 | 7.6 |
