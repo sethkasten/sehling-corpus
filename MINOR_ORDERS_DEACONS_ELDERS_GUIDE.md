@@ -115,10 +115,14 @@ synod with a handshake, a promise and a blessing.
   of 1565/78 forbade "levites after the papistical use" (§4.3).
 - **Thurifer:** Luther left incense free in 1523, "we neither forbid it nor require it". Incense
   then disappears from the rubrics (§4.4).
-- **Cross:** a **cross** is carried in a rogation procession at Stendal (1541). At burials in
-  Schwäbisch Hall (1615) it is allowed "significatively, not effectively" (§4.5).
+- **Cross:** a **cross** is carried in a rogation procession at Stendal (1541) and before the
+  coffin at funerals in many orders (Brandenburg 1540, Waldeck 1556, Anhalt, Prenzlau 1557). The
+  bearer is a schoolboy or the sexton. Schwäbisch Hall (1615) allows it "significatively, not
+  effectively" (§4.5).
 - **Not found:** the corpus holds no candle-bearer (*accensor*, *ceroferarius*), torch-bearer,
-  boat-bearer or master of ceremonies as a prescribed role.
+  boat-bearer or master of ceremonies as a prescribed role. Lights might still be carried at
+  Brandenburg funerals and before the sacrament in Baden 1533, by bearers the orders do not
+  name.
 
 **4. The diaconate survived in three distinct forms, which the same word hides:**
 - **The Lutheran *Diaconus*.** This is the second or third minister of a town church: a
@@ -605,9 +609,11 @@ schoolmaster and boys as the choir and the sexton ringing the bells. The roles a
 mostly absent:
 - **Common:** the reader (§3.5).
 - **Occasional:** the server or ministrant, and the assisting deacon and subdeacon at the altar.
-- **Rare:** the cross-bearer.
-- **Never prescribed:** the thurifer, the boat-bearer, the candle-bearer and torch-bearer, and
-  the master of ceremonies.
+- **Common only at funerals:** the cross-bearer, who is a schoolboy or the sexton, never a
+  cleric.
+- **Never prescribed as a role:** the thurifer, the boat-bearer, the candle-bearer and
+  torch-bearer, and the master of ceremonies. Lights could still be carried at Brandenburg
+  funerals (§4.4).
 
 The early Mass-shaped orders of Nürnberg, Brandenburg, Pfalz-Neuburg and Regensburg are the
 exception. They keep assisting ministers at the altar for a time. Where those assistants are
@@ -864,7 +870,11 @@ lists of things abolished.
 Altar lights were kept in many Lutheran territories, as in Brandenburg 1540 above. But they were
 lit and tended by the **sexton**, and no order makes carrying them a liturgical role. **No
 candle-bearer (*accensor*, *ceroferarius*) or torch-bearer is prescribed**, not even at the
-gospel or the elevation. Regensburg let its lights fall with the levites (§4.3).
+gospel or the elevation. Regensburg let its lights fall with the levites (§4.3). Lights were
+still carried in two places outside the service. Electoral Brandenburg let the old custom of
+carrying lights at funerals "remain with measure" (Sehling 3, p. 81). The early Baden order of
+1533 kept the sacrament carried to the sick "with light and bells going before"
+(Sehling 16, p. 510). Neither names who carried them.
 
 ### 4.5 Cross-bearer, and the roles not found
 
@@ -895,7 +905,18 @@ Inasmuch as it is also not in itself wrong to carry a cross before the corpse, w
 without superstition and idolatry; namely so, that it be used not effectively but
 significatively, to shew that the dead man died upon the cross of Jesus Christ.
 
-Neither passage names a **crucifer** as an office. The bearer is not identified.
+No order makes the **crucifer** an office, but several name the bearer, and he is never a
+cleric:
+- **A schoolboy.** In Anhalt's order of the German hymns (before 1551) "a boy from the school
+  shall carry a cross on a staff before the procession" at burials (Sehling 2, p. 555). At
+  Prenzlau in 1557 the cross is "carried before by the scholars" (Sehling 3, p. 261).
+- **The sexton.** In Waldeck in 1556 "the sexton or *Opfermann* shall go with a cross", followed
+  by the schoolboys, the schoolmaster and the pastor (Sehling 9, p. 256).
+
+In Electoral Brandenburg the cross went before the schoolboys and the priests at every funeral
+(Sehling 3, p. 81). Freiberg in 1538 required a crucifix at every burial (Sehling 1, p. 468).
+The full evidence on who walked in processions and what was carried is in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §18.4.
 
 **Not found.** The corpus contains no prescribed role of **candle-bearer** (*accensor*,
 *ceroferarius*), **torch-bearer**, **boat-bearer** or **master of ceremonies**. The nearest
@@ -2514,7 +2535,7 @@ knows. The columns are:
 | Strasbourg, *Examensordnung*, 1539 | 20/1 | History of minor orders; exorcism a gift | Deacon apostolic; schoolmasters in the deacons' place | Two orders of presbyters | Minor orders treated as later additions |
 | Ziegenhain, *Zuchtordnung*, 1539 | 8 | — | — | Lay elders, confirmed with prayer | Created |
 | Pfalz-Zweibrücken, 1539 | 18 | — | — | Pastors = bishops = elders | — |
-| Brandenburg, 1540 | 3 | Ministrants in dalmatics; lights | — | — | Kept where clergy suffice |
+| Brandenburg, 1540 | 3 | Ministrants in dalmatics; lights; cross and lights at funerals | — | — | Kept where clergy suffice |
 | Stendal, 1541 | 3 | Cross before procession | — | — | Kept |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | 13 | Two levites (gospeller, epistoler) | — | — | Kept |
 | Goslar, convent of Frankenberg, 1542 | 7/2.2 | Nuns | — | — | No admission to the habit; free to marry |
@@ -2529,6 +2550,7 @@ knows. The columns are:
 | Regensburg, 29 April 1554 | 13 | Levites and Mass vestments | — | — | Abolished |
 | Micron, *Ordinancien*, 1554/65 | 7/1 | — | Deacons of the poor, hands | Ruling elders, hands; one presiding superintendent | Created |
 | Strasbourg, mandate on the women's convents, 1555 | 20/1 | Nuns; prioress and council-mothers | — | — | Admission by the council |
+| Waldeck, *Kirchenordnung*, 1556 | 9 | Sexton carries the cross before the coffin | — | — | Kept |
 | Herrenalb, *Statuten*, 1556 | 16 | Evangelical conventuals and novices | — | — | Kept as a school |
 | Erbach, *Erbacher Kirchenordnung*, 1560 | 9 | — | — | "Elders" = pastors | — |
 | Württemberg, 1559 | 16 | — | *Diacon*, *Subdiacon* (ministers) | — | Kept as benefices |
@@ -2580,20 +2602,23 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 |---|---|---|---|
 | Luther, *Formula missae et communionis pro ecclesia Wittembergensi*, 1523 | 1, p. 5 | 2 | 4.4 |
 | Freiberg, *Visitationsartikel* of Dr Jacob Schenk, 1537 | 1, p. 466 | 48 | 3.3 |
+| Freiberg, *Artikel*, 1538 | 1, p. 468 | 49 | 4.5 |
 | Ernestine Saxony, *Wittenbergische Reformation*, 1545 | 1, pp. 217–218 | 20 | 5.4 |
 | Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 375, 381–383, 426 | 44 | 3.3, 5.1, 5.4, 7.1 |
 | Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537 | 2, p. 64 | 1219 | 5.2 |
 | Halle, *Kirchen-Ordnung der christlichen Gemein zu Hall in Sachsen*, 1573(?) | 2, pp. 441–442 | 1257 | 3.3, 5.1 |
 | Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1, p. 599 | 102 | 7.2, 7.6 |
 | Schönburg, *Kirchen-Ordnung* of Johann Pfeffinger, 18 October 1542 | 2, p. 176 | 1235 | 7.1 |
+| Anhalt, *Ordnung der deutschen Gesänge*, before 1551 | 2, p. 555 | 1262 | 4.5 |
 | Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594 | 2, pp. 579–580 | 1262 | 7.1 |
 
 **Brandenburg, Pomerania and the North Sea and Baltic cities**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Brandenburg, *Kirchenordnung* of Joachim II, 1540 | 3, p. 71 | 1746 | 4.1, 4.4 |
+| Brandenburg, *Kirchenordnung* of Joachim II, 1540 | 3, pp. 71, 81 | 1746 | 4.1, 4.4, 4.5 |
 | Stendal, ordinance of the visitors of the Mark Brandenburg, 1541 | 3, p. 314 | 1785 | 4.5 |
+| Prenzlau, *Abschied*, 1557 | 3, p. 261 | 1776 | 4.5 |
 | Pyritz, *Abschied*, 1539 | 4, p. 519 | 1879 | 5.2 |
 | Pomerania, *Statuta synodica*, 1574 | 4, pp. 489, 491 | 1868 | 5.2, 6.5, 7.2 |
 | Rostock, *Conformitas ceremoniarum in singulis templis ecclesiae Rostochiensis*, 1560–1576 | 5, p. 289 | 1936 | 3.5 |
@@ -2636,6 +2661,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Ysenburg-Ronneburg, *Memorial zur Kirchenzuchtordnung*, 1592 | 10, p. 601 | 223 | 6.3 |
 | Hanau-Münzenberg, *Presbyteriumsordnung*, 1609 | 10, p. 508 | 211 | 6.3 |
 | Wild- and Rhinegraviate, *Kirchenordnung*, 1603 | 19/2, p. 600 | 1121 | 6.3 |
+| Waldeck, *Kirchenordnung*, 1556 | 9, p. 256 | 2300 | 4.5 |
 | Nassau-Dillenburg, *Kirchenordnung*, 1537 | 10, p. 84 | 169 | 7.6 |
 | Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 | 10, pp. 141–142 | 181 | 7.3, 7.5 |
 | Sayn, *Kirchenordnung*, 1590 | 19/1, p. 438 | 1090 | 7.1 |
@@ -2687,6 +2713,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Württemberg, *Mandat gegen Aufnahme von Novizen in den Klöstern*, 1552 | 16, p. 199 | 669 | 7.4 |
 | Herrenalb, *Statuten für das Zisterzienserkloster*, 1556 | 16, p. 317 | 678 | 7.4 |
 | Württemberg, *Ordnung der deutschen Schulen*, 1559 | 17/1, p. 585 | 813 | 7.1 |
+| Baden, *Kirchenordnung*, 1533 | 16, p. 510 | 702 | 4.4 |
 | Baden, *Kirchenordnungsmandat*, 1601 | 16, p. 551 | 713 | 7.1 |
 | Heilbronn, *Instruktion zur Zusammenlegung beider Beginenhäuser*, 1531 | 17/1, p. 298 | 776 | 7.3, 7.6 |
 | Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | 7.1, 7.2 |

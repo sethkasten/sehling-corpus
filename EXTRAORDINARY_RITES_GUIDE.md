@@ -196,11 +196,14 @@ innocent party's remarriage was quiet, without banns or pomp.
 
 **14. The marks of the sacred state were dropped without rites of their own** (§§18–19). The
 processions with the sacrament, relics and holy water went, except in Electoral Brandenburg,
-which kept the Sunday, Palm Sunday and Rogation processions in a purified form. The tonsure was
-abolished and forbidden to the remaining old-believing clergy. Churches, altars and vessels were
-cleared out by authority and their goods turned to the common chest, without a rite of
-deconsecration. Unworthy ministers were deposed by a sentence read to the congregation, not
-degraded.
+which kept the Sunday, Palm Sunday and Rogation processions in a purified form. The processions
+that remained were led by a cross carried by a schoolboy or the sexton, then the singing
+schoolboys, then the clergy in surplices, then the people. No order puts a bishop, a deacon or
+any minor order in a procession, or has a thurible, torches, banner, canopy, crosier or Gospel
+book carried (§18.4). The tonsure was abolished and forbidden to the remaining old-believing
+clergy. Churches, altars and vessels were cleared out by authority and their goods turned to the
+common chest, without a rite of deconsecration. Unworthy ministers were deposed by a sentence
+read to the congregation, not degraded.
 
 ### 1.2 Where the full liturgies are
 
@@ -229,7 +232,7 @@ The forms printed in full or quoted at length in this guide are:
 | Betrothal, divorce, remarriage | Wertheim 1530 (7.8); Prussia 1575 (7.9); Saxony 1556, the Palatinate 1563, Brandenburg 1573 (7.10) |
 | Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Grubenhagen 1581 (16.6); Micron 1554 (16.7) |
 | Private confession and absolution | the catechism form, Palatinate 1556; Brandenburg 1540 (17.2–17.3) |
-| Processions | Brandenburg 1540 (18.2) |
+| Processions | Brandenburg 1540 (18.2); order of march and objects carried: Stendal 1541, Brandenburg 1540, Waldeck 1556, Havelberg 1558, Hof 1592, Strasbourg 1598 (18.4) |
 | Deposition of a minister | Hesse 1566 (19.3) |
 | Visitation | Pfalz-Neuburg 1560 (20.1) |
 
@@ -5443,6 +5446,8 @@ common order:
 - in Electoral Brandenburg and Mulhouse, the Sunday procession, Palm Sunday and the Rogation
   prayers in a purified form.
 
+Who walked in these processions and what was carried in them is set out in §18.4.
+
 The fate of Corpus Christi, the Rogation days and the *Hagelfeier* in the calendar is treated in
 [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) §§8.9 and 12.5.
 
@@ -5516,6 +5521,279 @@ the parish:
   who remarried (§7.10).
 - **Festivals.** At Hof the whole town walked in procession to the church dedication festival
   and to the school festival on Whit Monday, with wreathed schoolboys and hymns (§14.3).
+
+### 18.4 Who walked and what was carried
+
+**The answer in brief.** Where the orders describe a procession, the people in it are almost
+always the same four groups, in this order:
+1. **the cross**, carried by a schoolboy or by the sexton;
+2. **the schoolboys** with their schoolmaster or cantor, singing;
+3. **the clergy**: the pastor (the "priest" or celebrant, who was also the preacher) and his
+   chaplains or deacons, in surplices;
+4. **the people**: men first, then maidens, then women; at a funeral, the mourners after the
+   coffin.
+
+No evangelical order names any of the following in a procession:
+- **Persons.** A bishop or superintendent as such (at Hof the clergy walk as a body); a deacon
+  or subdeacon with a distinct liturgical role; any of the minor orders.
+- **Objects.** A thurible, incense boat, torches, candle-snuffer, crosier, mitre, canopy,
+  banner, Gospel book, Bible or hymnal.
+
+The only things carried in the evangelical processions are these:
+- **the cross or crucifix**;
+- **lights**, tolerated at Brandenburg funerals "with measure", and borne before the sacrament
+  in Baden 1533;
+- **the sacramental vessels** taken to the sick (§8.2);
+- **the corpse** on its bier.
+
+What the medieval processions had carried was abolished: banners, wooden crosses, statues, the
+Palm-Sunday ass, the Easter image, the monstrance, relics and holy water. The ministers of the
+minor orders analysed in
+[`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §4 had no place
+in any procession; their work was done by schoolboys and the sexton.
+
+**The order of march: Stendal 1541.** The fullest description is the visitors' order for the
+Rogation procession at Stendal. The priests, schoolboys and people of each parish gather at
+seven in the morning, sing *Exurge Domine*, and go in order to the Church of Our Lady, singing
+*Media vita* and then *Mitten wir im Leben sind*. There a Mass or the office is sung and a
+sermon on prayer is preached. **Stendal, ordinance of the visitors of the Mark Brandenburg,
+1541** (Sehling 3, p. 314):
+
+<!-- doc 1785 -->
+> also das uf den Montag in der kreuzwochen die priester, schuler und das volk, so in jede
+> pfarkirche bei euch gehort, sollen des morgens um VII hora in derselben pfarkirche zusammen
+> kommen und am ersten vor der procession singen das Antiphon exurge domine und hernach die
+> processionen ordentlich halten, als am ersten ein kreuz vorher tragen, dornach die schuler,
+> folgend die priester und hernach die man, junkfrauen und frauen und sollen die schuler und
+> priester in der procession singen das Antiphon media vita lateinisch, wan das aus ist, alsdan
+> den deutschen gesang: „Mitten wir im leben sein,“
+
+[…] so that on the Monday in Rogation week the priests, scholars and people belonging to each
+parish church among you shall come together in the same parish church at seven o'clock in the
+morning, and first, before the procession, sing the antiphon *Exurge Domine*, and afterward hold
+the processions in order: as, first, to carry a cross before, thereafter the scholars, following
+them the priests, and after them the men, maidens and women; and the scholars and priests shall
+sing in the procession the antiphon *Media vita* in Latin, and when that is ended, then the
+German hymn *Mitten wir im Leben sind* […]
+
+**Funerals: cross, school, clergy, coffin.** The funeral procession is the one procession found
+in nearly every Lutheran order (§9). Its order matches Stendal's. Electoral Brandenburg puts the
+cross first, then the schoolboys and then the priests, and leaves the old custom of carrying
+lights. **Brandenburg (Electorate), *Kirchenordnung* of Joachim II, 1540** (Sehling 3, p. 81):
+
+<!-- doc 1746 -->
+> in deductione funeris sol man ein creuz furtragen, darauf die schüler und denn die priester
+> folgen. Bei etlichen alten ists auch gebreuchlich gewesen, licht mit zu tragen, und do solchs
+> in ubung were, mag es mit mass auch bleiben, und so man die leiche tregt, mag man singen,
+> media vita und die drei deutsche vers, mitten wir im leben sind, und so der weg zu lang, das
+> deudsche deprofundis, aus tiefer not, oder sonst das responsorium libera me domine.
+
+In the leading forth of the body a cross shall be carried before, whereupon the scholars and
+then the priests follow. With some of old it hath also been customary to carry lights withal,
+and where that is in use, it may also remain with measure; and while the body is carried, they
+may sing *Media vita* and the three German verses *Mitten wir im Leben sind*, and if the way be
+too long, the German *De profundis*, *Aus tiefer Not*, or else the responsory *Libera me,
+Domine*.
+
+In Waldeck the sexton carries the cross, and the schoolboys, schoolmaster and pastor walk before
+the coffin. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 256):
+
+<!-- doc 2300 -->
+> Darnach gehet der Priester vor des verstorbenen hauß, und soll der Custer oder Opfferman mit
+> eynem Creutz unnd nehest ime die Schuler sampt dem Schulmeyster und Pastor vor der Leich
+> hergehen Unnd, an welchen ortten Schuler sein, eyn Christlich gesenge, Als mit namen: Si bona
+> suscepimus, Item: Auß tieffer not, Oder: Erbarm dich mein, O Herre Gott, auff dem wege singen.
+
+Thereafter the priest goeth before the house of the departed, and the sexton or *Opfermann*
+shall go with a cross, and next to him the scholars together with the schoolmaster and pastor,
+before the corpse; and in places where there are scholars, they shall sing a Christian hymn on
+the way, as by name: *Si bona suscepimus*; item, *Aus tiefer Not*; or, *Erbarm dich mein, o
+Herre Gott*.
+
+The same pattern recurs elsewhere:
+- **Who carries the cross.** In Anhalt's order of the German hymns (before 1551) "a boy from the
+  school shall carry a cross on a staff before the procession" (Sehling 2, p. 555); at Prenzlau
+  "a cross shall be carried before by the scholars, which the body followeth with the school"
+  (Sehling 3, p. 261).
+- **The pastor fetches the dead.** At Gottleuba the dead are fetched "with the school", and "a
+  cross is carried before the corpse" (Sehling 1, p. 568). A Henneberg pastor reports, "I fetch
+  the body with the sexton, scholars and cross" (Sehling 2, p. 342).
+- **The crucifix.** Freiberg in 1538 required "a crucifix to be carried before at every burial,
+  specially in honour of the high and comfortable article of the resurrection of the dead"
+  (Sehling 1, p. 468). Wolfstein in 1574 allowed it "as a testimony on whom the Christians die,
+  namely on the crucified Lord Jesus Christ", but called lights for the dead useless
+  (Sehling 13, p. 586). Schwäbisch Hall allowed the cross "significatively, not effectively"
+  (Sehling 17/1, p. 173).
+- **Refused.** The impenitent were buried without bells, hymns, "cross-bearing, accompaniment or
+  processions" (Schönburg 1542, Sehling 2, p. 175; §9.4).
+
+**What the clergy wore.** The surplice (*Chorrock*) was the processional vestment. The visitors
+at Perleberg in 1581 required the pastor, chaplains and sexton to wear it at funerals "that they
+be not taken for craftsmen". **Perleberg, *Visitations-Abschied*, 1581** (Sehling 3, p. 256):
+
+<!-- doc 1774 -->
+> Und weil der seelsorger amt erfordert und von alters christlich herbracht, die toten mit
+> gewenlichen christlichen gesengen zur erden zu bestettigen, so sollen demnach der pfarrer,
+> caplene und kuster in begleitunge der toten ire chorrocke antragen, auf das sie nicht vor
+> handwerker angesehen werden
+
+And forasmuch as the office of the curates of souls requireth, and it hath come down in
+Christian wise from of old, to commit the dead to the earth with customary Christian hymns, the
+pastor, chaplains and sexton shall therefore put on their surplices in accompanying the dead,
+that they be not taken for craftsmen […]
+
+The Upper German orders went the other way. Amberg in 1555 left it free whether the ministers
+wore surplices "over the street", but the one who gave the exhortation was to wear his in church
+(Sehling 13, p. 294). Hohenlohe in 1590 told its pastors to accompany the dead "on the street or
+outside the town" in the plain church gown, not the surplice (Sehling 15, p. 622).
+
+**The Sunday circuit.** Electoral Brandenburg kept the Sunday procession round the church, the
+*circuitus*, "with a pure responsory or other chant", without holy water
+(Sehling 3, p. 88; §15.2). The Havelberg visitors of 1558 show who walked in it. The pastor and
+chaplain lead it, the schoolmaster and his assistants sing, and the council and congregation
+follow. **Havelberg, *Abschied*, 1558** (Sehling 3, p. 232):
+
+<!-- doc 1769 -->
+> Der pfarrer und caplan sollen ihrem berufe in predigen, sacramentreichung und sonst fleissig
+> nachkommen, das creuze semtlich legen, desgleichen alle sontage und in hohen festen den
+> circuitum mit gesengen, vormuge hochgedachts unsers gnedigsten herrn christlichen
+> kirchenordnung, halten, auch der rath samt der gemeine fein ordentlich volgen.
+
+The pastor and chaplain shall diligently follow their calling in preaching, administering the
+sacrament and otherwise, [and] lay the cross together; likewise every Sunday and on high feasts
+hold the circuit with chants, according to the Christian church order of our most gracious lord
+aforesaid; and the council together with the congregation [shall] follow in good order.
+
+(The phrase *das creuze semtlich legen* is obscure; it may refer to setting down the
+processional cross.)
+
+**Entering the church and going to the altar.** The only evangelical entrance rite is
+Brandenburg's: "the priest who holdeth the Mass, together with his ministrants, in their
+customary church ornaments, according to the custom of each church", goes to the altar and says
+the *Confiteor* (Sehling 3, p. 68). Elsewhere the minister simply "steps before the altar". No
+order describes a clergy procession at ordination or installation, beyond the new prelate being
+led to the altar by the prince's commissioners in Württemberg (§11.3).
+
+**Festal and civic processions.** Two orders describe processions of the whole town:
+- **Hof 1592.** On Whit Monday the clergy, the prince's captain and officials, the burgomasters,
+  the council and the whole town gather in St Michael's. With the schoolboys, crowned with
+  wreaths and the younger classes "clothed white in their christening shirts", they go round the
+  high altar and out in procession to the convent church, singing *Veni Sancte Spiritus*. The
+  girls' schoolmaster with the girls and maidens follows the men, and the women come last
+  (§14.3). **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 463):
+
+<!-- doc 294 -->
+> Uff diesen tag pflegt sich die ehrwirdige priesterschaft neben dem herren haubtman und andern
+> fürstlichen dienern, auch bürgermeister und rat sowol die ganze gemein dieser stad nach
+> gehörtem andern puls in sanct Michelskirchen, zu vorsamlen, von dannen mit der schulmeng
+> (welche, so bald man zusammenschlegt, sich in die gedachte kirchen mit schönen krenzen wol
+> geziret findet [R.: NB. Die inferiores dasses sollen mit ihren schönen batenhembdern weis
+> bekleidet sein und ihre gehenge anhaben], umb den hohen altar gehet und das Veni, Sancte
+> Spiritus choraliter, Sei lob und ehr mit hohen preis singet bis zur fördersten grosen tur
+> gegen dem markt), in der procession in die klosterkirchen zu gehen […] Uf die mannspersonen
+> folget der jungfrauschulmeister neben seinen schulmegdlein und anderen jungfrauen und hinder
+> denselben das weibervolk in gleicher ordentlichen procession
+
+On this day the reverend clergy, together with the lord captain and other princely servants, and
+also the burgomasters and council as well as the whole congregation of this town, are wont to
+gather in St Michael's church after the second peal has been heard; and from thence, with the
+company of the school (which, as soon as the bells are rung together, is found in the said
+church well adorned with fair wreaths [margin: NB. The lower classes shall be clothed white in
+their fair christening shirts and have on their hangings], goeth about the high altar and
+singeth the *Veni Sancte Spiritus* in plainsong [and] *Sei Lob und Ehr mit hohem Preis* as far
+as the foremost great door toward the market), to go in procession into the convent church […]
+After the menfolk followeth the girls' schoolmaster with his schoolgirls and other maidens, and
+behind them the womenfolk in like orderly procession.
+
+- **Strasbourg 1598.** On the Wednesday after the election of the new *Ammeister* and the
+  oath-day, the whole magistracy with all the officers of the city went "in an orderly
+  procession from the Pfalz into the Minster". There a sermon was preached on the office of
+  rulers and subjects, followed by prayer for good government and thanksgiving for the past
+  year. **Strasbourg, *Kirchenordnung*, 1598** (Sehling 20/1, p. 592):
+
+<!-- doc 1344 -->
+> Das den folgenden Mitwoch der gantze Magistrat Sampt allen Verampteten in einer ordenlichen
+> Procession von der Pfaltz in das Münster geht, Da dann ein besondere Predigt von dem Ampt der
+> Oberkeit und der Unterthanen gehalten Und nach vollendeter Predigt das gemeine Gebett umb
+> glückliche unnd friedliche Regierung angestellet und zugleich Gott, dem Herrn, danck gesagt
+> wird
+
+That on the following Wednesday the whole magistracy, together with all that bear office, goeth
+in an orderly procession from the Pfalz into the Minster, where a special sermon is held of the
+office of the magistrate and of the subjects; and after the sermon is ended, the common prayer
+for a happy and peaceable government is made, and at the same time thanks are given to God the
+Lord […]
+
+**The sacrament to the sick.** The medieval sacrament was carried through the streets to the
+sick with a light and a bell, and the people followed. Feuchtwangen recalls how it was done
+"publicly by the parish priest, many following him" (Sehling 11, p. 406). The early Baden order
+of 1533, still on the old pattern, kept it. **Baden, *Kirchenordnung*, 1533**
+(Sehling 16, p. 510):
+
+<!-- doc 702 -->
+> das auch sollich Sacrament mit gepurenden Eernn, mit vorgeendem liecht und schellen umb oder
+> uber die gassen getragen werden soll, ist im vorigen unnsers gnedigen herren ausschreiben
+> lautter gnueg angezaigt, dabei man es peleiben last.
+
+[…] that also this sacrament shall be carried about or over the streets with due honours, with
+light and bells going before, is shewn clearly enough in our gracious lord's former mandate, and
+there they let it rest.
+
+The evangelical orders replaced this with the minister going to the house, with or without the
+sexton carrying the vessels (§8.2). Kronstadt in 1543 named what was dropped. **Kronstadt,
+*Reformationsbüchlein*, German version, 1543** (Sehling 24, p. 196):
+
+<!-- doc 1666 -->
+> darumb ist beschlossen, das der dyener an kerczenn, schellen und ander gepreng, so dy
+> ungelertenn zur abgötterey reyczent, mit denenn, dy yn geruffen habenn, mit dem prott und
+> kelch zum haws des krankenn geen soll
+
+Therefore it is resolved that the minister, without candles, bells and other pomp, which entice
+the unlearned to idolatry, shall go with them that have called him, with the bread and cup, to
+the house of the sick […]
+
+**What was taken out of the processions.** The orders that abolished the processions also
+cleared out what had been carried in them:
+- **Images and dramatic figures.** The Palatine reform of 1546, following Pfalz-Neuburg 1543
+  (§18.1), did away with "all spectacles and plays that were made with images: on Palm Sunday
+  with the ass, on Good Friday with the crucifix and the sepulchre, on Easter Day with carrying
+  about the image of the resurrection of Christ, on Ascension Day with drawing it up, on
+  Whitsunday with letting down the dove" (Sehling 14, p. 93). Feuchtwangen in 1563 lists
+  "processions with statues, banners, wooden crosses" (Sehling 11, p. 406).
+- **Relics.** Veit Dietrich asks the magistrate to abolish "setting out and carrying about
+  relics" (*heiltumb aufsetzen und umbtragen*) (Sehling 11, p. 550).
+- **Banners.** The banners ended with the processions that carried them. Calenberg-Göttingen in
+  1542 abolished the "monkey-play" of running about in Rogation week "with the banners and
+  saints", keeping the days with sermon, sacrament and litany (Sehling 6/2, p. 812). Teschen in
+  1584 forbade "the processions with the banners" (Sehling 3, p. 461). Leiningen-Westerburg in
+  1566 forbade carrying banners over the fields (Sehling 19/1, p. 227). Mecklenburg ordered its
+  visitors to remove the banners and crosses from the churches. **Mecklenburg,
+  *Visitations-Instruction*, 12 November 1552** (Sehling 5, p. 220):
+
+<!-- doc 1923 -->
+> insonderheit unchristliche ceremonien und abgotterei abschaffen, auch die fanen und creuze, so
+> man in papatu pflegt umzutragen, aus den kirchen hinweg thuen.
+
+[…] and in particular abolish unchristian ceremonies and idolatry, and also put away out of the
+churches the banners and crosses which in the papacy they were wont to carry about.
+
+- **The treasures.** The processional crosses, monstrances, *viatica* (pyxes for the sick) and
+  *pacificalia* (paxes) of the old processions were inventoried by the visitors and turned to
+  the common chest (for example Grimma 1529, Sehling 1, p. 573; Zahna 1528, Sehling 1, p. 714).
+
+**Table of processions.**
+
+| Procession | Who walks, in order | What is carried | Sources (§) |
+|---|---|---|---|
+| Rogation (where kept) | cross; schoolboys; priests; men, maidens, women | cross | Stendal 1541; Brandenburg 1540 (18.2, 18.4) |
+| Sunday circuit (Brandenburg) | pastor and chaplain; schoolmaster and boys singing; council and congregation | — (holy water dropped) | Brandenburg 1540; Havelberg 1558 (15.2, 18.4) |
+| Palm Sunday (Brandenburg) | "as of old" | — (the blessing of palms dropped) | Brandenburg 1540 (18.2) |
+| Funeral | cross (schoolboy or sexton); schoolboys with schoolmaster; pastor and chaplains in surplices; coffin; mourners | cross or crucifix; lights (Brandenburg, "with measure"); bier | Brandenburg 1540; Waldeck 1556; Anhalt 1551; Prenzlau 1557; Freiberg 1538; Perleberg 1581 (9, 18.4) |
+| Whit Monday and dedication festival (Hof) | clergy; prince's officers; council; wreathed schoolboys, younger ones in white; men; girls' schoolmaster with girls; women | wreaths and white shirts worn by the boys | Hof 1592 (14.3, 18.4) |
+| Council procession (Strasbourg) | the whole magistracy and all officers | — | Strasbourg 1598 (18.4) |
+| Wedding (*Kirchgang*) | bride with maidens, bridegroom with his company | the bride's wreath | §7 |
+| Sacrament to the sick | old: priest with light and bell, people following; new: minister alone or with the sexton | old: light, bell; new: bread and cup, corporal, surplice | Baden 1533; Kronstadt 1543; Hohenlohe 1553 (8.2, 18.4) |
+| Abolished | — | monstrance, holy water, banners, statues, wooden crosses, the Palm-Sunday ass, the Easter image, relics | §§18.1, 18.4 |
 
 ---
 
@@ -5779,6 +6057,14 @@ numbers refer to this guide.
 | Waldeck 1583 and 1584 | — | *Kirchweih* (14.4); exorcism and the baptismal robe (4.4) |
 | Halberstadt 1588 | — | church dedication and font blessing (14.1) |
 | Thüngen 1564 | — | churching (5.1); weather-ringing (15.5) |
+| Stendal 1541 | order of the Rogation procession: cross, schoolboys, priests, people (18.4) | — |
+| Waldeck 1556 | funeral procession: sexton with cross, schoolboys, schoolmaster, pastor (18.4) | — |
+| Havelberg 1558 | the Sunday circuit with council and congregation following (18.4) | — |
+| Perleberg 1581 | surplices for pastor, chaplains and sexton at funerals (18.4) | — |
+| Baden 1533 | the sacrament carried to the sick with light and bells (18.4) | — |
+| Kronstadt 1543 | communion of the sick (18.4) | candles, bells and pomp (18.4) |
+| Mecklenburg 1552 | — | banners and processional crosses (18.4) |
+| Strasbourg 1598 | the council procession to the Minster (18.4) | — |
 
 ---
 
@@ -5790,8 +6076,9 @@ through the table in §21 and the text.
 
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
+| Baden | *Kirchenordnung* | 1533 | 16, p. 510 | 18.4 |
 | Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 269 | 4.4 |
-| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 88 | 3.2, 6.4, 15.2, 17.3, 18.2 |
+| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 81, 88 | 3.2, 6.4, 15.2, 17.3, 18.2, 18.4 |
 | Brandenburg (Electorate) | *Visitation- und Consistorialordnung* | 1573 | 3, p. 128 | 7.10 |
 | Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | 7.4 |
 | Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | 4.3 |
@@ -5807,6 +6094,7 @@ through the table in §21 and the text.
 | Gengenbach | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | 12.3 |
 | Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1052, 1058 | 16.1, 16.6 |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | 14.1 |
+| Havelberg | *Abschied* | 1558 | 3, p. 232 | 18.4 |
 | Heidelberg | *Bestallung eines Glöckners* | 15 May 1572 | 14, p. 457 | 12.2 |
 | Heilbronn | *Instruktion zur Zusammenlegung beider Beginenhäuser* | 8 December 1531 | 17/1, p. 298 | 12.6 |
 | Henneberg | *Kirchenordnung* | of Georg Ernst, 1582 | 2, pp. 304–305 | 4.3 |
@@ -5816,7 +6104,8 @@ through the table in §21 and the text.
 | Hesse | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | 12.1, 19.3 |
 | Hesse | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
-| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 464, 467 | 14.3 |
+| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 463, 464, 467 | 14.3, 18.4 |
+| Kronstadt | *Reformationsbüchlein* | German version, 1543 | 24, p. 196 | 18.4 |
 | Kurpfalz | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | 3.6 |
 | Kurpfalz | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | 10.5 |
 | Kurpfalz | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | 11.2 |
@@ -5832,6 +6121,7 @@ through the table in §21 and the text.
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 557–558 | 12.5 |
 | Mansfeld | *Form und weise einer visitation* | 1554 | 2, p. 192 | 3.8 |
 | Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 241–242, 242–243, 246 | 5.2, 6.5, 9.4, 16.5 |
+| Mecklenburg | *Visitations-Instruction* | 12 November 1552 | 5, p. 220 | 18.4 |
 | Mecklenburg | *Consistorialordnung* | 1570 | 5, pp. 245–246, 246 | 16.4 |
 | Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | 10.3 |
 | Micron | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | 12.1, 16.7 |
@@ -5846,6 +6136,7 @@ through the table in §21 and the text.
 | Palatinate | *Ehegerichtsordnung* | 1563 | 14, p. 327 | 7.10 |
 | Palatinate | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
 | Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | 12.3 |
+| Perleberg | *Visitations-Abschied* | 1581 | 3, p. 256 | 18.4 |
 | Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 96–97, 96 | 3.2, 15.1, 18.1 |
 | Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | 20.1 |
 | Pfalz-Simmern | *Klosterordnung Ravengiersburg* | 1560 | 19/2, p. 658 | 12.9 |
@@ -5867,11 +6158,14 @@ through the table in §21 and the text.
 | Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | 11.4 |
 | Schleswig-Holstein | *Klosterordnung für Frauenklöster* | after 1610 | 23, p. 182 | 12.8 |
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 175 | 13.1, 14.1 |
+| Stendal | *Ordinance of the visitors of the Mark Brandenburg* | 1541 | 3, p. 314 | 18.4 |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | 4.1 |
 | Strasbourg | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | 3.2 |
 | Strasbourg | *Agende* | 1537 | 20/1, pp. 263–264, 269 | 3.5, 7.3 |
+| Strasbourg | *Kirchenordnung* | 1598 | 20/1, p. 592 | 18.4 |
 | Strasbourg | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | 12.4 |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
+| Waldeck | *Kirchenordnung* | 1556 | 9, p. 256 | 18.4 |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | 4.4 |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | 14.4 |
 | Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | 7.8 |
