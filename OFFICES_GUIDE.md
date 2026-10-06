@@ -27,7 +27,8 @@ The guide asks:
   canons and monks, and the women's convents.
 - §5 shows where the system was cut down to morning and evening, and why.
 - §6 asks who prayed the offices, and what obligations were laid on whom.
-- §7 describes the shape of the reformed offices.
+- §7 describes the shape of the reformed offices, with the *preces*, suffrages and Litany
+  (§7.5).
 - §8 deals with language, and §9 with the music.
 - §10 is a table by order, and §11 a concordance.
 
@@ -118,7 +119,7 @@ The guide asks:
   by the school. These fold Matins, Lauds, an octonary of the Prime psalm, Vespers and on feasts
   Compline into two services. "With such singing … it is enough for the parish churches."
 - **Freed from the hours.** Some orders free chapters and convents from the hours altogether:
-  Lippe 1538, Mecklenburg 1540, and the Mecklenburg convents 1567.
+  Lippe 1538, Mecklenburg 1540, and the Mecklenburg convents 1572.
 - **Decline.** The little hours lapsed (Feuchtwangen 1563). Saxony 1580 moved the weekday office
   from the Latin to the German school.
 
@@ -143,6 +144,13 @@ The guide asks:
   *Te Deum*, *Quicunque*, Kyrie, Our Father, collect, *Benedicamus*.
 - **Cut**: saints' suffrages, homilies and legends, the *preces*, the blessings before the
   lessons, and in Bugenhagen even *Deus in adiutorium*.
+- **Intercession** (§7.5): the full *preces* were dropped (Wittenberg 1525, Ansbach 1533), but a
+  short kneeling form of Kyrie, Our Father and *Ostende nobis* stayed in the Bugenhagen orders,
+  and the Mecklenburg convents (1572) kept a full German set. Of the suffrages only those for
+  peace, for sins and for the ruler stayed (Ansbach 1533, Transylvania 1547). Luther's Latin
+  Litany took the place of the *Magnificat* at Saturday and eve Vespers (Pomerania 1535, 1542,
+  1569; Braunschweig-Wolfenbüttel 1543), and the German Litany was sung after Prime or the
+  *Benedictus* in the convents.
 - **Added**: the psalter and the Bible in course, German lessons with Dietrich's summaries,
   German hymns, and sermons joined to Vespers.
 
@@ -150,7 +158,7 @@ The guide asks:
 - **Latin** in the chapters and schools. At Wittenberg 1533 the scholars were "not to sing in
   German, save when the people sing with them".
 - **German** in the convents (Pfalz-Neuburg 1543 "teutsch psallirn in gewonlichem ton"; Remse
-  1533; Keppel 1570; Mecklenburg 1567) and in the villages (Lippe 1571).
+  1533; Keppel 1570; Mecklenburg 1572) and in the villages (Lippe 1571).
 - **Both** in many towns and convents: a Latin lesson repeated in German, and Latin and German
   psalms in the same hour (Lüneburg 1574).
 
@@ -648,7 +656,7 @@ ceremonies, and with the putting away of the abuses, the sacrificial Mass, the i
 saints, vows and cowls, etc. They shall also not be burdened with the canonical hours.
 
 The Lippe order of 1538 has the same words in Low German: "Schollen oick nicht mit den horis
-canonicis beladen syn" (Sehling 21, p. 343). The Mecklenburg convent order of 1567 frees the
+canonicis beladen syn" (Sehling 21, p. 343). The Mecklenburg convent order of 1572 frees the
 nuns too: "none of the virgins shall be burdened with the canonical hours *de tempore*", for
 true prayer "is not bound to certain times and places" and does not please God "for the sake of
 the work, especially when it is babbled without understanding in the Latin unknown tongue"
@@ -1019,7 +1027,7 @@ Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common featur
   Marian antiphons;
 - the **homilies and legends** at Matins, replaced by Scripture;
 - the **preces**, which are dropped (Wittenberg 1525, Ansbach 1533) or replaced by the Litany
-  (Altenburg 1533);
+  (Altenburg 1533), though a short form survived (§7.5);
 - the blessings before the lessons, ***Jube, domne, benedicere*** and ***Tu autem, Domine***
   (Braunschweig 1528, Pomerania 1535, Frankenberg 1542);
 - in Bugenhagen's orders, even the opening ***Deus in adiutorium*** and ***Domine, labia mea***
@@ -1039,11 +1047,11 @@ Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common featur
 
 **Added:**
 - the **psalter in course**, sung through in order from day to day rather than by the old weekly
-  distribution: monthly at Feuchtwangen 1563 and in the Mecklenburg convents 1567;
+  distribution: monthly at Feuchtwangen 1563 and in the Mecklenburg convents 1572;
 - the **Bible in course** (*lectio continua*): Old Testament at Matins, New Testament at
   Vespers, or the reverse, read through "twice or more in a year" (Pomerania 1535), "in one or
   two years" (Ansbach 1533), or "the Old Testament once and the New Testament three times a
-  year" (Mecklenburg 1567);
+  year" (Mecklenburg 1572);
 - a **German lesson** after the Latin one, or a German chapter with Veit Dietrich's
   **summaries** (Naumburg, Saxony 1580, Keppel 1570);
 - **German hymns** and the German Litany, especially in the convents and village offices;
@@ -1132,6 +1140,225 @@ Latin lesson out of the New Testament, and next another boy [read] it in German.
 organist shall play the hymn. After the hymn a German psalm is sung. Thereupon followeth the
 sermon. After the sermon a German psalm is sung again, thereupon the *Magnificat*. After the
 *Magnificat* the collect and the *Benedicamus*.
+
+### 7.5 The *preces*, the suffrages and the Litany
+
+**What the old office had.** Three kinds of intercession closed the medieval hours. The *preces*
+were a chain of Kyrie, Our Father, Creed and versicles said kneeling on ferias, chiefly at
+Lauds, Prime, Vespers and Compline. The editor of the Ansbach order glosses them as
+"intercessions (as in the Litany), inserted in a set, changing manner into the several orders of
+prayer" (Sehling 11, p. 313, n. 10). The *suffragia* were commemorations with antiphon, versicle
+and collect, chiefly of the saints, added after the collect of the day. The **Litany** of the
+Saints belonged to Rogation and to particular days. The orders treat the three differently: the
+full *preces* were cut, a short form was kept, the saints' suffrages were dropped, and the
+Litany came in, in Luther's corrected Latin and his German, as the new common intercession.
+
+**The full preces cut.** Wittenberg's castle church dropped them in 1525. **Wittenberg, *Wie es
+einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525** (Sehling 1, p. 699):
+
+<!-- doc 147 -->
+> Ad primam vero legatur collecta vulgaris, preces (quas vocant) ubique omnino omittantur.
+
+But at Prime let the common collect be read; the *preces* (as they call them) shall be wholly
+left out everywhere.
+
+The Ansbach chapters were told the same in 1533, and in the same breath given the Litany and two
+suffrages. **Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533**
+(Sehling 11, pp. 313–314):
+
+<!-- doc 276 -->
+> Die preces sollen sie alle tag underlassen. […] Uns sehe auch fur gut an, das sie am
+> wenigstens ain mal in der wochen als am freitag die letanei hielten, dieweil sant Paulus
+> vermanet, man soll fur alle stend bitten, 1.Tim.2, [1f.], damit das gemain gebet auch in der
+> kirchen plib. Alle suffragia de sanctis sollen sie underlassen; dann sie stellen das vertrauen
+> in die hailigen wider das erst gebot Gottes. Allein mogen sie an den werktagen suffragia pro
+> pace und pro peccatis halten.
+
+The *preces* they shall leave off every day. […] It seemeth good to us also that at the least
+once in the week, as on Friday, they hold the Litany, since Saint Paul exhorteth that one should
+pray for all estates, 1 Timothy 2, that the common prayer may abide in the church also. All
+suffrages *de sanctis* they shall leave off, for they set trust in the saints, against the first
+commandment of God. Only on the working days they may hold the suffrages *pro pace* and *pro
+peccatis*.
+
+**The short preces kept.** What survived in the Bugenhagen orders was the core of the old ferial
+*preces*, said kneeling after the gospel canticle: *Kyrie*, Our Father, *Et ne nos*, the
+versicle *Ostende nobis*, *Dominus vobiscum*, the collect and *Benedicamus*. Braunschweig 1528
+is quoted above (§7.3). The same chain stands in Wittenberg 1525 after the *Magnificat*
+(Sehling 1, p. 698), Hamburg 1529 (Sehling 5, p. 523), Lübeck 1531 (Sehling 5, p. 348), the
+Pomeranian *Pia ordinatio* of 1535 after the *Benedictus* (Sehling 4, p. 349), Goslar 1534
+(Sehling 7/2.2, pp. 263–264), Frankenberg 1542 (Sehling 7/2.2, p. 277), Schleswig-Holstein 1542
+(Sehling 23, p. 142), Braunschweig-Wolfenbüttel 1543 (Sehling 6/1, p. 50) and Hildesheim 1544
+(Sehling 7/2.1, p. 849). In the parish orders the children kneel and a preacher or one of the
+boys says the versicle.
+
+**A full German preces: the Mecklenburg convents.** The Mecklenburg convent order of 1572 kept a
+complete set of *preces* in German after the *Benedictus* every day: Kyrie, Creed, Our Father,
+and a chain of versicles for mercy, the magistrates, the clergy, the people and peace, ending in
+three collects. **Mecklenburg, *Klosterordnung*, 1572** (Sehling 5, pp. 258–259):
+
+<!-- doc 1926 -->
+> Hierauf folgen diese gebete durch das ganze jahr: Kyrie eleison, Christe eleison, Kyrie
+> eleison. oder Herre erbarme dich, Christe erbarme dich, Herre erbarme dich. Darnach spricht
+> die jungfrau, so das gebet angefangen, mit lauter stimme die bekäntniss des christlichen
+> glaubens: Ich glaube in gott vater etc. und das Vater unser etc. Der chor antwortet: Sondern
+> erlöse uns von dem bösen. Die jungfrau: Herr erzeige uns deine gnad Der chor: Und beweise uns
+> deine hülfe. Die jungfrau: Herr hilf unser obrigkeit Der chor: Und höre uns, wen wir dich
+> anrufen. Die jungfrau : Deine priester wollest mit gerechtigkeit kleiden Der chor: Und deine
+> heiligen sollen frölig sein. Die jungfrau: Hilf deinem volke, herr Jesu Christ, Der chor: Und
+> segne, was dein erbtheil ist. Die jungfrau: Verleihe uns frieden gnediglich, Herr gott zu
+> unsern zeiten. Der chor: Den es ist kein ander nicht, Der für uns könnte streiten, Den du,
+> unser gott, alleine. Die jungfrau: Schaff in uns gott ein rein herze. Der chor: Und nim deinen
+> heiligen geist nicht von uns. Die jungfrau : Der herr sei mit euch Der chor: Und mit deinem
+> geist. Lasset uns beten: Hierauf folgen täglich drei collecten: Die erste von der zeit, Die
+> andere vom frieden. […] Die dritte für gottes wort und erhaltung in wahren glauben.
+
+Hereupon follow these prayers through the whole year: *Kyrie eleison, Christe eleison, Kyrie
+eleison*; or, Lord, have mercy; Christ, have mercy; Lord, have mercy. Thereafter the virgin who
+began the prayer saith with a loud voice the confession of the Christian faith, I believe in God
+the Father etc., and the Our Father etc. The choir answereth: But deliver us from evil. The
+virgin: Lord, show us thy grace. The choir: And show us thy help. The virgin: Lord, help our
+magistrates. The choir: And hear us when we call upon thee. The virgin: Thy priests wilt thou
+clothe with righteousness. The choir: And thy saints shall be joyful. The virgin: Help thy
+people, Lord Jesus Christ. The choir: And bless that which is thine inheritance. The virgin:
+Grant us peace graciously, Lord God, in our days. The choir: For there is none other that could
+fight for us, but thou, our God, alone. The virgin: Create in us, God, a clean heart. The choir:
+And take not thy Holy Spirit from us. The virgin: The Lord be with you. The choir: And with thy
+spirit. Let us pray. Hereupon follow daily three collects: the first of the season, the other
+for peace, […] the third for God's word and preservation in the true faith.
+
+The versicles are the old *preces* of Lauds and Vespers in German: *Ostende nobis*, *Domine
+salvum fac regem*, *Sacerdotes tui induantur iustitia*, *Salvum fac populum tuum*, *Da pacem*
+and *Cor mundum*, with Luther's "Verleih uns Frieden" in place of *Fiat pax*. At Vespers the
+same order sets the Kyrie, Creed, Ten Commandments and Our Father before "*Ostende nobis domine
+misericordiam tuam* […] *Domine salvum fac regem* […] together with the other suffrages, in
+German (or in Latin, if the virgins understand it), as they are set down above at Matins"
+(Sehling 5, p. 259).
+
+**The saints' suffrages dropped.** The Saxon visitors of 1529 close Vespers "with the customary
+versicles and collects, the suffrages of the saints excepted". **Belzig, *Ordnung der Stadt
+Belzig*, 1529** (Sehling 1, p. 527):
+
+<!-- doc 63 -->
+> darnach aber das magnificat mit den gewonlichen versikeln und collecten, suffragia sanctorum
+> ausgenomen, und durch die kirchen etwan geistlich lied gesungen werden.
+
+but thereafter the *Magnificat* with the customary versicles and collects, the *suffragia
+sanctorum* excepted, and some spiritual song be sung by the church.
+
+The same clause stands in the visitation orders for Eilenburg (Sehling 1, p. 560) and Niemegk
+(Sehling 1, p. 616). Coburg 1545 ends Vespers with the collect of the season and *Benedicamus*,
+"so that all suffrages be left out" (Sehling 1, p. 543). Bonnus's order for the Osnabrück
+chapters (1543) puts the "*Suffragia et invocationes sanctorum*" with vigils and prayers for the
+dead among things "contrary to the word of God" (Sehling 7/1, p. 229).
+
+**Suffrages that stayed.** Only intercessions for the living stayed. Ansbach kept *pro pace* and
+*pro peccatis* (above). The Transylvanian Saxons kept three suffrages, for the king, for the
+remission of sins and for peace, with their versicles and collects, after the Creed in the
+service that replaced the Mass when no one communed
+(Sehling 24, p. 223; [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.1).
+
+The suffrage for peace survived most widely as the *Da pacem* in Latin and German, with a
+collect *pro pace*, after the *Magnificat* (Dresden, Kreuzkirche 1574, Sehling 1, p. 555;
+Pomerania 1542, Sehling 4, p. 354).
+
+**The Litany at Vespers.** The Litany most often took the place of the *Magnificat* or followed
+it, and the Saturday and feast-eve Vespers were its usual hour. Bugenhagen's Pomeranian order
+has the boys read Luther's Latin Litany after the Saturday Vespers lessons, but not on the eve
+of a feast. **Pomerania, *Kirchenordnung*, 1535** (Sehling 4, p. 340):
+
+<!-- doc 1856 -->
+> Balde up de lectiones schölen dree eder veere iungen, wo de scholmeisters will, de latinische
+> letanie lesen ut dem sankbökeken doctoris Martini Luther. Unde dat chor schal stedes
+> entwerden, wo im sankbökeken vorvatet is, dar up lest de predicant eine collect, pro ecclesia,
+> unde na dem amen singe man benedicamus. Overst tor vesper, went idt des anderen dages
+> sunderlick fest is, so schal me na den lectionibus nicht de letanie lesen, sundern dat
+> magnificat latinisch singen mit einer antiphen
+
+Straightway after the lessons shall three or four boys, as the schoolmasters will, read the
+Latin Litany out of Doctor Martin Luther's little song-book; and the choir shall always answer,
+as is set down in the song-book; thereupon the preacher readeth a collect *pro ecclesia*, and
+after the Amen let *Benedicamus* be sung. But at Vespers, when the next day is a special feast,
+one shall not read the Litany after the lessons, but sing the *Magnificat* in Latin with an
+antiphon.
+
+Once a week the boys sang the German Litany with the people before the sermon instead of the
+office (Sehling 4, p. 342). The Pomeranian order of 1542 allows the Latin Litany in place of the
+*Magnificat* "when one keepeth plainly *dominicaliter*, as in Advent and Lent, and otherwise
+when one will", followed by the collect *pro ecclesia* and *Da pacem* (Sehling 4, p. 354). The
+*Agenda* of 1569 makes it monthly. **Pomerania, *Agenda*, 1569** (Sehling 4, p. 435):
+
+<!-- doc 1865 -->
+> Alle maente schal men in der vesper am viravende singen, ein mal loco magnificat, dat düdische
+> magnificat, mit siner antiphen, Christum unsen heiland etc., unde ein mal de latinische
+> letanie, loco magnificat. Dar na lest de prester eine collecte düdisch edder latinisch, unde
+> beslüt dat chor mit dem benedicamus, unde singet dar up, da pacem domine, flexis genibus,
+> latinisch edder düdisch.
+
+Every month one shall sing at Vespers on the eve [of the holy day], once *loco Magnificat*, the
+German *Magnificat* with its antiphon, "Christum unsern Heiland" etc., and once the Latin Litany
+*loco Magnificat*. Thereafter the priest readeth a collect in German or Latin, and the choir
+closeth with the *Benedicamus*, and singeth thereupon *Da pacem, Domine*, on bended knees, in
+Latin or German.
+
+Braunschweig-Wolfenbüttel puts the Latin Litany after the hymn at the Vespers of holy eves, sung
+by two or three children, and leaves the German Litany for the weekday sermon. **Brunswick-
+Wolfenbüttel, *Christlike kerken-ordeninge*, 1543** (Sehling 6/1, p. 51):
+
+<!-- doc 1972 -->
+> Na dem hymno scholen twe edder dre kindere balde de latinische litania singen. Darna eine
+> collecten und Benedicamus. Overst de düdesche litania mach men in der weken einmal na der
+> predike laten singen, dat de ganze kercke antwerde, wenn de parhere wil.
+
+After the hymn shall two or three children straightway sing the Latin Litany; thereafter a
+collect and *Benedicamus*. But the German Litany one may let be sung once in the week after the
+sermon, that the whole church answer, if the parson will.
+
+The Sunday and feast-day Vespers are to be held "without the litany" (Sehling 6/1, p. 53), and
+Hildesheim 1544 copies the rule (Sehling 7/2.1, pp. 850–851). Other places:
+- **Wittenberg 1533**: the Latin Litany in the choir after the sermon at Saturday Vespers,
+  closed with a Latin versicle, collect and *Benedicamus* (Sehling 1, pp. 703, 705);
+- **Bremen 1534**: the German Litany after the *Magnificat* at the daily evening office of the
+  schools (Sehling 7/2.2, p. 458);
+- **Osnabrück 1543**: the German or Latin Litany at times "in the morning, also at Vespers, for
+  all needs of body and soul that lie upon us" (Sehling 7/1, p. 256);
+- **Danzig 1557**: at the Neustadt church on alternate weeks a figured Passion, or the Latin
+  Litany with a collect, in place of Vespers (Sehling 4, p. 239).
+
+**The Litany at the morning office.** The Litany was also joined to the morning office:
+- **Hamburg 1556**: after the *Benedictus* "at times the *Quicunque vult*, at times the Litany
+  in Latin or German *cum oratione*" (Sehling 5, p. 553);
+- **Danzig 1557**: on Friday the weekday Matins "with the litanies to be sung besides"
+  (Sehling 4, p. 181);
+- **Remse 1533** (with the Altenburg convent): the nuns hold the German Litany "every week on
+  Wednesday and Friday after the *Benedictus*, before the collect" (Sehling 1, p. 652).
+
+The Brandenburg convents sang it after Prime. **Crevese, *Visitations-Rezess* for the
+Benedictine convent, 1541** (Sehling 3, p. 203):
+
+<!-- doc 1762 -->
+> Doch schollen die junkfrowen alle sondage, mondage, middewoke und fridage die litanei, wo in
+> drudde deil der ordnung to finden mit aller andacht des morgens na der prime singen und alle
+> dartho kommen.
+
+Yet the virgins shall every Sunday, Monday, Wednesday and Friday sing the Litany, as it is to be
+found in the third part of the order, with all devotion in the morning after Prime, and all
+shall come thereto.
+
+The visitors repeated the rule, for Monday, Wednesday and Friday, at Spandau in 1541
+(Sehling 3, p. 305) and in the Salzwedel convent in 1579 (Sehling 3, p. 272).
+
+**The Litany in place of the *preces* and the *Salve*.** At the Altenburg chapter in 1533 the
+canons were to hold "for the *preces* the pure new Litany" (§4.2). At Heilbronn in 1532 the
+evening *Salve* became "a blessing for sleep": the schoolmaster and his boys sing "a German song
+of praise, as the Litany, or *Mitten wir im Leben sind*, or *Da pacem Domine*", with a collect
+(Sehling 17/1, p. 302).
+
+**What was not found.** No order keeps the Litany of the Saints with its invocations in any
+office, and no order uses *suffragia* in the liturgy for anything but the saints'
+commemorations or the three intercessions for peace, sins and the ruler. The Mass and the
+weekday prayer services, where the Litany was most at home, are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.
 
 ---
 
@@ -1229,7 +1456,7 @@ Breviary" (Sehling 10, pp. 133–134). Sehling's introduction notes an earlier N
 1558 that "prescribed the keeping of the seven hours in the German language"
 (Sehling 10, p. 31).
 
-**The Mecklenburg convents, 1567.** The Mecklenburg convents read the whole psalter monthly and
+**The Mecklenburg convents, 1572.** The Mecklenburg convents read the whole psalter monthly and
 the Bible yearly, "in understandable German mother tongue" (Sehling 5, p. 257). Their daily
 office is led by the domina and the nuns in weekly turn. It opens with the German versicle "Herr
 thue meine lippen uf" and its *Gloria Patri* (Sehling 5, p. 257).
@@ -1464,8 +1691,10 @@ in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
 | Stendal 1540; Cölln 1540; Salzwedel 1541 | 3 | hours *de tempore* daily | vicars and beneficed priests | L | on pain of losing the benefice |
 | Naumburg cathedral, c. 1541–1543 | 2 | All | chapter, scholars, people | L, lesson in G | German chapter and people's psalm |
 | Spandau convent, 1541 | 3 | Matins, Prime, Terce, Sext, None | nuns | ? | Breviary corrected; catechism in refectory |
+| Crevese convent, 1541 | 3 | Hours *de tempore*; Litany after Prime | nuns | ? | Litany Sunday, Monday, Wednesday, Friday |
 | Calenberg convents, 1542 | 6/2 | All; Lauds Sundays only | nuns | ? | |
 | Frankenberg convent, 1542 | 7/2.2 | Matins, little hours etc., "in place of the hours" | nuns, voluntary | L | |
+| Pomerania, *Karcken ordening*, 1542 | 4 | Saturday and eve Vespers | boys, chaplain | L | Latin Litany for the *Magnificat* in Advent and Lent; *Da pacem* |
 | Pfalz-Neuburg 1543; Heidelberg 1546 | 13; 14 | All, where customary | chapters, convents, parishes | L; G lessons in parishes; G psalmody for nuns | nine lessons in course |
 | Quakenbrück (Bonnus), 1543 | 7/1 | All | canons, scholars | L | |
 | Merseburg synod, 1544 | 2 | — | pastors | — | exhorted to daily prayer and psalter |
@@ -1478,10 +1707,10 @@ in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
 | Tübingen Stipendium, 1559 | 17/1 | morning and evening psalms | stipendiaries | ? | psalter recited in course |
 | Mecklenburg, *Conformitas*, c. 1560 | 5 | — | choir | — | Lossius's *Psalmodia* required |
 | Feuchtwangen chapter, 1563 | 11 | Matins and Lauds daily; little hours lapsed, then one a day | canons | L | psalter monthly |
-| Mecklenburg convents, 1567 | 5 | daily office in place of the hours | nuns, domina in turn | G | psalter monthly, OT yearly, NT thrice |
 | Prussia, 1568 | 4 | Saturday, Sunday and weekday Vespers | boys; village pastors | L, lesson in G; G in villages | boys learn to speak before the people |
 | Pomerania *Agenda*, 1569 | 4 | Vespers | school, organist | L/G | organ alternation |
 | Keppel convent (Nassau), 1570 | 10 | All | nuns, taught by the preacher | G | Leipzig psalm-books with notes |
+| Mecklenburg convents, 1572 | 5 | daily office in place of the hours | nuns, domina in turn | G | German *preces* daily; psalter monthly, OT yearly, NT thrice |
 | Lippe 1571; Oldenburg 1573 | 21; 7/2.1 | Vespers in villages; summer Matins | pastor, sexton, boys, people | G | |
 | Oldenburg, 1573 | 7/2.1 | Vespers | school, organist | L/G | Spangenberg or Lossius required |
 | Lüneburg convents, 1574 | 6/1 | All | nuns | L/G | 3 Latin + 1 German psalm at Matins |
@@ -1511,20 +1740,25 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Luther, *Formula missae et communionis*, 1523 | 1, p. 9 | 2 | 3.2 |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | 3.3, 8.1 |
 | Ernestine Saxony, deliberations for the visitation (Sehling's introduction) | 1, p. 38 | 6 | 4.1 |
-| Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525 | 1, pp. 698–699 | 147 | 4.1, 7.1, 9.4 |
+| Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525 | 1, pp. 698–699 | 147 | 4.1, 7.1, 7.5, 9.4 |
 | Ernestine Saxony, *Unterricht der visitatoren an die pfarrherrn*, 1528 | 1, p. 167 | 9 | 3.4 |
 | Nimbschen, *Verordnung der Visitatoren für das Kloster*, 1529 | 1, p. 617 | 110 | 4.4 |
 | Torgau, *Ordnung der Visitatoren*, 1529 | 1, p. 677 | 139 | 5.3 |
-| Kloster Remse, *Ein kurze christliche ordnung in das junkfrau closter*, 1533 | 1, p. 652 | 125 | 8.2 |
-| Altenburg, *Verordnung … fur den stift aufm schloss*, 1533 | 1, p. 515 | 56 | 4.2 |
-| Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, pp. 701–705 | 148 | 5.2, 6.1, 8.1, 9.1, 9.3, 9.4 |
+| Belzig, *Ordnung der Stadt Belzig*, 1529 | 1, p. 527 | 63 | 7.5 |
+| Eilenburg, visitation order, 1529 | 1, p. 560 | 82 | 7.5 |
+| Niemegk, *Verordnung der Visitatoren*, 1529 | 1, p. 616 | 110 | 7.5 |
+| Kloster Remse, *Ein kurze christliche ordnung in das junkfrau closter*, 1533 | 1, p. 652 | 125 | 7.5, 8.2 |
+| Altenburg, *Verordnung … fur den stift aufm schloss*, 1533 | 1, p. 515 | 56 | 4.2, 7.5 |
+| Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, pp. 701–705 | 148 | 5.2, 6.1, 7.5, 8.1, 9.1, 9.3, 9.4 |
 | Leipzig, *Visitations-Artikel für die Klöster*; *Gemeines Fürhalten*, 1539 | 1, pp. 589–590 | 97, 98 | 4.4 |
 | Albertine Saxony, *Kirchenordnunge zum anfang* (Duke Henry), 1539 | 1, p. 564 | 85 | 5.2 |
 | Naumburg, *Gottesdienst-Ordnung in der Domkirche*, 1543 (1541?) | 2, p. 596 | 1265 | 4.2, 6.4, 8.1 |
 | Merseburg, synodal decree, 1544 | 2, p. 13 | 1211 | 6.5 |
 | Zwickau, *Ordenung der pfarren und kirchen*, 1545 | 1, p. 725 | 154 | 5.1 |
 | Schönburg lordships, church order | 2, p. 170 | 1235 | 5.3 |
+| Coburg, *Verordnung und bestellung des kirchendiensts*, 1545 | 1, p. 543 | 73 | 7.5 |
 | Senftenberg, *Kirchen-Ordnung für die Stadt Senftenberg*, 1555 | 1, pp. 671–672 | 136 | 5.2, 7.1 |
+| Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1, p. 555 | 78 | 7.5 |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, pp. 368, 370, 422 | 44 | 5.2, 5.3, 6.5 |
 
 **Franconia, Swabia and the Palatinate**
@@ -1532,7 +1766,8 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Brandenburg-Ansbach-Kulmbach, *Gottesdienstmandat*, 1531 | 11, pp. 311–312 | 275 | 4.2 |
-| Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, pp. 313–316 | 276 | 4.2, 7.1 |
+| Heilbronn, draft *Gottesdienstordnung*, 1532 | 17/1, p. 302 | 778 | 7.5 |
+| Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, pp. 313–316 | 276 | 4.2, 7.1, 7.5 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 171 | 270 | 3.4 |
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 77–78 | 386 | 4.2, 7.2, 8.2, 8.3, 9.1 |
 | Schwäbisch Hall, *Kirchenordnung*, 1543 | 17/1, p. 170 | 762 | 6.4 |
@@ -1552,37 +1787,46 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Pomerania, *Kirchenordnung*, 1535 | 4, p. 342 | 1856 | 5.2 |
-| Pomerania, *Pia ordinatio caeremoniarum*, 1535 | 4, pp. 345–350 | 1857 | 4.3, 5.1, 7.1, 9.1 |
+| Pomerania, *Kirchenordnung*, 1535 | 4, pp. 340, 342 | 1856 | 5.2, 7.5 |
+| Pomerania, *Pia ordinatio caeremoniarum*, 1535 | 4, pp. 345–350 | 1857 | 4.3, 5.1, 7.1, 7.5, 9.1 |
 | Brandenburg, *Kirchen-ordnung* of Joachim II, 1540 | 3, pp. 71–72 | 1746 | 4.2, 9.1 |
 | Cölln on the Spree, order of 1540 | 3, p. 156 | 1755 | 6.2 |
 | Stendal, *Verordnung für die übrigen Kirchen*, 1540 | 3, p. 310 | 1784 | 6.2 |
 | Mecklenburg, *Kirchenordnung*, 1540 | 5, p. 196 | 1922 | 5.1 |
-| Spandau, *Verordnung für das Kloster*, 1541 | 3, p. 305 | 1783 | 4.4 |
+| Spandau, *Verordnung für das Kloster*, 1541 | 3, p. 305 | 1783 | 4.4, 7.5 |
 | Salzwedel-Altstadt, *Ordnung und Abschied*, 1541 | 3, p. 267 | 1778 | 6.2 |
+| Crevese nunnery, recess, 1541 | 3, p. 203 | 1762 | 7.5 |
+| Pomerania, *Karcken ordening*, 1542 | 4, p. 354 | 1858 | 7.5 |
 | Breslau, order of 1550 | 3, p. 405 | 1807 | 4.4 |
+| Danzig, *Kirchenordnung*, 1557 | 4, pp. 181, 239 | 1844 | 7.5 |
 | Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, p. 288 | 1936 | 9.2 |
-| Mecklenburg, *Articul und ordenunge* for the convents, 1567 | 5, pp. 257–258 | 1926 | 5.1, 7.1, 8.2 |
+| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 257–259 | 1926 | 5.1, 7.1, 7.5, 8.2 |
 | Prussia, *Kirchenordnung und Ceremonien*, 1568 | 4, pp. 74–75 | 1833 | 5.2, 6.1, 6.4, 9.1, 9.4 |
-| Pomerania, *Agenda*, 1569 | 4, p. 435 | 1865 | 9.4 |
+| Pomerania, *Agenda*, 1569 | 4, p. 435 | 1865 | 7.5, 9.4 |
 | Kurland, *Kirchenordnung*, 1570 | 5, p. 83 | 1907 | 6.4 |
+| Salzwedel (Altstadt), visitation recess, 1579 | 3, p. 272 | 1779 | 7.5 |
 
 **Lower Saxony, Westphalia, Hesse-Nassau and the North**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Braunschweig, *Kirchenordnung*, 1528 | 6/1, pp. 399–401 | 1983 | 5.2, 7.3, 8.1, 9.1 |
-| Hamburg, *Kirchenordnung*, 1529 | 5, p. 493 | 1958 | 5.1 |
+| Braunschweig, *Kirchenordnung*, 1528 | 6/1, pp. 399–401 | 1983 | 5.2, 7.3, 7.5, 8.1, 9.1 |
+| Hamburg, *Kirchenordnung*, 1529 | 5, pp. 493, 523 | 1958, 1960 | 5.1, 7.5 |
+| Lübeck, *Kirchenordnung*, 1531 | 5, p. 348 | 1949 | 7.5 |
 | Herford, *Kirchenordnung*, 1532 | 21, p. 170 | 1442 | 5.1 |
-| Goslar, *Ordnung für das Stundengebet am Stift St. Simon und Judas*, 1534 (and Sehling's introduction) | 7/2.2, pp. 199, 263 | 2183, 2194 | 4.2, 8.1 |
+| Goslar, *Ordnung für das Stundengebet am Stift St. Simon und Judas*, 1534 (and Sehling's introduction) | 7/2.2, pp. 199, 263–264 | 2183, 2194 | 4.2, 7.5, 8.1 |
+| Bremen, *Kirchenordnung*, 1534 | 7/2.2, p. 458 | 2217 | 7.5 |
 | Lippe, *Kirchenordnung*, 1538 | 21, p. 343 | 1459 | 5.1 |
 | Calenberg-Göttingen, *Klosterordnung*, 1542 | 6/2, p. 851 | 2037 | 4.4 |
-| Frankenberg at Goslar, *Ordnung für das Frauenkloster*, 1542 | 7/2.2, p. 277 | 2198 | 4.4 |
-| Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 131, 142 | 1576 | 4.3, 5.1 |
-| Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 49, 81 | 1972 | 4.3, 5.1 |
-| Stift Osnabrück, *Ordinatio Magistri Hermanni Bonni* (Quakenbrück), 1543 | 7/1, p. 229 | 2097 | 4.2, 6.2 |
+| Frankenberg at Goslar, *Ordnung für das Frauenkloster*, 1542 | 7/2.2, p. 277 | 2198 | 4.4, 7.5 |
+| Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 131, 142 | 1576 | 4.3, 5.1, 7.5 |
+| Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 49–53, 81 | 1972 | 4.3, 5.1, 7.5 |
+| Stift Osnabrück, *Ordinatio Magistri Hermanni Bonni* (Quakenbrück), 1543 | 7/1, p. 229 | 2097 | 4.2, 6.2, 7.5 |
+| Osnabrück (city), *Kirchenordnung*, 1543 | 7/1, p. 256 | 2099 | 7.5 |
+| Hildesheim (city), *Kirchenordnung*, 1544 | 7/2.1, pp. 849–851 | 2136 | 7.5 |
 | Lüneburg, *Reformatio coenobiorum ducatus Luneburgensis*, 1555 | 6/1, pp. 611–612 | 2009 | 4.4 |
 | Lüneburg, *Emendatio Breviarii virginum ordinis Sancti Benedicti*, 1555 | 6/1, p. 624 | 2011 | 4.4 |
+| Hamburg, *Kirchenordnung*, 1556 | 5, p. 553 | 1963 | 7.5 |
 | Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 (and Sehling's introduction) | 10, pp. 31, 133–134 | 166, 181 | 8.2, 9.3 |
 | Lippe, *Kirchenordnung*, 1571 | 21, pp. 395–396 | 1462 | 6.4, 8.2 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 1085, 1111 | 2149, 2151 | 6.4, 9.2, 9.4 |
@@ -1592,3 +1836,9 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Leeden (Tecklenburg), *Ordnung für das Zisterzienserinnenkloster*, 1585 | 22, p. 247 | 1506 | 6.3 |
 | Verden, *Kirchenordnung*, 1606 | 7/1, p. 153 | 2089 | 4.2, 9.1 |
 | Buxtehude, *Agende*, 1565 (Sehling's introduction) | 7/1, p. 67 | 2080 | 9.2 |
+
+**Transylvania**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Transylvanian Saxons, *Kirchenordnung*, 1547 | 24, p. 223 | 1669 | 7.5 |
