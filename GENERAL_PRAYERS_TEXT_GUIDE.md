@@ -80,14 +80,15 @@ the afflicted and the other needs of Christendom. The orders call it:
 
 - *das gemein gebet*, the common prayer. This is the usual name: Württemberg 1553 has "Ordnung
   des gemeinen gebets", Leipzig 1567 "Gemein gebet".
-- *Vermanung zum gebet*, the exhortation to prayer: Hessen 1566, Strasbourg 1598. Nürnberg 1545
-  has "Vermanung zu bitten für allerlei stende".
-- *Fürbitt* or *Vorbitt*, intercession: Augsburg 1537 (Sehling's heading), Öhringen 1544.
+- *Vermanung zum gebet*, the exhortation to prayer: Hessen 1566 (mediating), Strasbourg 1598.
+  Nürnberg 1545 has "Vermanung zu bitten für allerlei stende".
+- *Fürbitt* or *Vorbitt*, intercession: Augsburg 1537 (mediating; Sehling's heading), Öhringen
+  1544.
 - *Exhortatio edder vormaninge*, exhortation or admonition: Braunschweig 1528, Hamburg 1529.
-- *Oratio*: the Latin order of the French church at Frankfurt, 1554.
+- *Oratio*: the Latin order of the French church at Frankfurt, 1554 (Reformed).
 
-Hessen 1566 gives it as the fifth part of the service and grounds it in the practice of the
-first Church:
+Hessen 1566 (mediating) gives it as the fifth part of the service and grounds it in the practice
+of the first Church:
 
 > Von solchem gebet, so uf die auslegung der schrift und predigt gefolget hat in der ersten
 > kirchen, redet sehr kurz Iustinus in der andern Apologia, da er spricht: Post exhortationes ab
@@ -114,8 +115,10 @@ to the items around it:
 - **Before it, in many orders:** an open confession and absolution, or the publishing of banns
   and notices. Examples:
   - confession and absolution in Neckarbischofsheim 1560, Erbach 1560, Hohenlohe 1578, the
-    Ysenburg orders, Braunschweig-Wolfenbüttel 1569, Oldenburg 1573 and Kurpfalz 1563;
-  - banns and notices in Hohenlohe 1578, Solms-Laubach 1576, Strasbourg 1598 and Frankfurt 1554.
+    Ysenburg orders, Braunschweig-Wolfenbüttel 1569, Oldenburg 1573 and Kurpfalz 1563
+    (Reformed);
+  - banns and notices in Hohenlohe 1578, Solms-Laubach 1576, Strasbourg 1598 and Frankfurt 1554
+    (Reformed).
 - **After it:** the Our Father, which closes almost every form. Then:
   - a psalm or hymn, such as "Erhalt uns Herr", "Verleih uns Frieden" or "Danck sagen wir alle";
   - a collect and the blessing when there is no Communion;
@@ -152,7 +155,7 @@ a cope. The people take part:
 
 - by saying the Our Father;
 - by the confession, which they say after the minister in Braunschweig ("spreket ock de bicht
-  mit my") and in the Ysenburg orders ("Bekennet mit mir vor Gott ewer sunde");
+  mit my") and in Ysenburg-Ronneburg 1582 ("Bekennet mit mir vor Gott ewer sunde");
 - by praying "mit mund und herzen" (with mouth and heart), as the Leipzig print of 1567 directs.
 
 ### 1.3 Its forms
@@ -189,12 +192,14 @@ The short form became the most copied prayer in the corpus (17 witnesses, 1553�
 - **The Litany instead.** The Litany is the second form of the common prayer in Württemberg 1553
   and Rothenburg 1559. It is prayed on Fridays in the towns of Kursachsen 1580 and on alternate
   Sundays in Rothenberg 1618.
-- **A choice of texts.** Kurpfalz 1563 offers a Lord's-Prayer paraphrase, "Oder also" (or thus),
-  beside its Sunday prayer (R2). Augsburg 1537 offers two texts against the Turk.
+- **A choice of texts.** Kurpfalz 1563 (Reformed) offers a Lord's-Prayer paraphrase, "Oder also"
+  (or thus), beside its Sunday prayer (R2). Augsburg 1537 (mediating) offers two texts against
+  the Turk.
 - **Local adaptation.**
-  - Hessen 1566 lets each church make the form "kürzer oder lenger" (shorter or longer).
+  - Hessen 1566 (mediating) lets each church make the form "kürzer oder lenger" (shorter or
+    longer).
   - Hanau-Lichtenberg 1573 tells the pastor to refer to the sermon and to present needs.
-  - Bentheim-Tecklenburg 1588 lets ministers add to the prayer in time of need.
+  - Bentheim-Tecklenburg 1588 (Reformed) lets ministers add to the prayer in time of need.
   - Many forms end with a rubric that lets the sick and other particular needs be named (the
     category *Special intercessions*).
 
@@ -216,10 +221,17 @@ GENERAL_PRAYERS_GUIDE.md, *What the comparison shows*, sets out the other patter
 
 **Traditions.**
 
-- Twelve families are Lutheran: A to E and G to L.
-- F (Augsburg 1537) is Upper German and Bucerian.
-- M (Norden 1528) is early evangelical: East Frisian, and later Reformed.
+The traditions follow the inventory in [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3. Every
+order of another tradition than the Lutheran is marked where it is cited, by its tradition in
+brackets after it, as "Kurpfalz 1563 (Reformed)".
+- Eleven families are Lutheran: A to E and H to L.
+- F (Augsburg 1537) is mediating: Upper German and Bucerian.
+- G (Hessen 1566) is mediating: the church of Philip of Hesse, between Wittenberg and the Upper
+  Germans.
+- M (Norden 1528) is an early East Frisian evangelical order, which Sehling prints among the
+  Reformed orders of East Frisia; it is marked Reformed here.
 - R1–R4 are Reformed. Schaumburg 1614, a Lutheran order, takes over the Heidelberg prayer of R1.
+- No Interim order is among the witnesses.
 
 ## 2. How the texts are given here
 
@@ -277,14 +289,14 @@ in the representative text given below.
 | [C](#7-family-c-bidding-exhortation-strasbourg-type) | Bidding exhortation (Strasbourg type) | Lutheran | German | bidding exhortation + Our Father | 1 | 1573 | 8 |
 | [D](#8-family-d-nürnberg-type-vermahnung-zum-gebet) | Nürnberg-type Vermahnung zum Gebet | Lutheran | German | bidding exhortation + Our Father | 5 | 1545–1582 | 15 |
 | [E](#9-family-e-saxon-gemein-gebet-melanchthonpfeffinger) | Saxon Gemein Gebet (Melanchthon/Pfeffinger) | Lutheran | German | continuous prayer | 1 | 1567 | 6 |
-| [F](#10-family-f-upper-german-pulpit-intercession-strasbourgzürich) | Upper German pulpit intercession (Strasbourg/Zürich) | Upper German (Bucerian) | German | continuous prayer with rubrics + Our Father | 1 | 1537 | 16 |
-| [G](#11-family-g-hessian-vermanung-zum-gebet) | Hessian Vermanung zum Gebet | Lutheran | German | numbered bidding exhortation | 1 | 1566 | 9 |
+| [F](#10-family-f-upper-german-pulpit-intercession-strasbourgzürich) | Upper German pulpit intercession (Strasbourg/Zürich) | Mediating (Upper German, Bucerian) | German | continuous prayer with rubrics + Our Father | 1 | 1537 | 16 |
+| [G](#11-family-g-hessian-vermanung-zum-gebet) | Hessian Vermanung zum Gebet | Mediating (Hessian) | German | numbered bidding exhortation | 1 | 1566 | 9 |
 | [H](#12-family-h-bugenhagen-pulpit-exhortation) | Bugenhagen pulpit exhortation | Lutheran | Low German | pulpit exhortation: Creed, confession, biddings, Our Father | 3 | 1528–1543 | 9 |
 | [I](#13-family-i-huberinus-vorbitt-lords-prayer-order) | Huberinus Vorbitt (Lord’s-Prayer order) | Lutheran | German | bidding exhortation + Our Father | 1 | 1544 | 9 |
 | [J](#14-family-j-lower-saxon-notel-lüneburgwolfenbüttel) | Lower Saxon notel (Lüneburg/Wolfenbüttel) | Lutheran | German | bidding exhortation + Our Father | 3 | 1564–1573 | 8 |
 | [K](#15-family-k-three-collects-from-the-pulpit) | Three collects from the pulpit | Lutheran | German | exhortation + three collects | 1 | 1560 | 5 |
 | [L](#16-family-l-intercessions-under-the-sanctus-brandenburg-1540) | Intercessions under the Sanctus (Brandenburg 1540) | Lutheran | German | collects said by the priest under the Sanctus | 3 | 1540–1543 | 5 |
-| [M](#17-family-m-pulpit-biddings-in-the-prone-pattern) | Pulpit biddings in the Prone pattern | Early evangelical (East Frisian; later Reformed) | Low Dutch | biddings, then Decalogue, confession, Creed, Our Father | 1 | 1528 | 4 |
+| [M](#17-family-m-pulpit-biddings-in-the-prone-pattern) | Pulpit biddings in the Prone pattern | Reformed (early East Frisian evangelical order) | Low Dutch | biddings, then Decalogue, confession, Creed, Our Father | 1 | 1528 | 4 |
 | [R1](#18-family-r1-heidelberg-1563-prayer) | Heidelberg 1563 prayer | Reformed (Schaumburg 1614 Lutheran) | German | confession + absolution + continuous prayer + Our Father | 5 | 1563–1614 | 10 |
 | [R2](#19-family-r2-heidelberg-lords-prayer-paraphrase) | Heidelberg Lord’s-Prayer paraphrase | Reformed | German | Lord's Prayer paraphrase | 2 | 1563–1588 | 9 |
 | [R3](#20-family-r3-calvins-grande-prière-strasbourggeneva) | Calvin’s “grande prière” (Strasbourg/Geneva) | Reformed | Latin | continuous prayer ending in a Lord's Prayer paraphrase | 1 | 1554 | 10 |
@@ -1881,7 +1893,7 @@ Upper German (Bucerian/Zwinglian) intercession after the sermon, a continuous pr
 rubrics, related to Zürich 1535 and the Strasbourg forms.
 
 - **Earliest witness (archetype):** Augsburg 1537.
-- **Tradition:** Upper German (Bucerian).
+- **Tradition:** mediating (Upper German, Bucerian).
 - **Language:** German.
 - **Form:** continuous prayer with rubrics + Our Father.
 - **Place in the service (Augsburg 1537):** At the end of the sermon service (after the
@@ -1889,7 +1901,7 @@ rubrics, related to Zürich 1535 and the Strasbourg forms.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1537 | Augsburg, Kirchenordnung (Die zehen gebot, Articul des Glaubens, Und das Vater unser) | Augsburg (Imperial city) | Sehling 12, I.8a, pp. 70–71 | prayer with rubrics + Lord’s Prayer |
+| 1537 | Augsburg, Kirchenordnung (Die zehen gebot, Articul des Glaubens, Und das Vater unser) (mediating) | Augsburg (Imperial city) | Sehling 12, I.8a, pp. 70–71 | prayer with rubrics + Lord’s Prayer |
 
 **Sequence:** F.1 Exhortation / preface > F.2 All men > F.3 Civil authority > F.4 Ministers of
 the Word > F.5 All estates / households > F.6 Special intercessions > F.7 Women with child > F.8
@@ -2148,7 +2160,7 @@ Hessian "Vermanung zum Gebet": a numbered bidding exhortation which the order al
 shortened or lengthened locally.
 
 - **Earliest witness (archetype):** Hessen 1566.
-- **Tradition:** Lutheran.
+- **Tradition:** mediating (Philip of Hesse's church).
 - **Language:** German.
 - **Form:** numbered bidding exhortation.
 - **Place in the service (Hessen 1566):** The fifth part of the service: after the Creed and the
@@ -2157,7 +2169,7 @@ shortened or lengthened locally.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1566 | Hessen, Kirchenordnung 1566 | Landgraviate of Hesse | Sehling 8, I/Hessen Nr. 17 (KO 1566), pp. 245–246 | bidding exhortation (numbered) |
+| 1566 | Hessen, Kirchenordnung 1566 (mediating) | Landgraviate of Hesse | Sehling 8, I/Hessen Nr. 17 (KO 1566), pp. 245–246 | bidding exhortation (numbered) |
 
 **Sequence:** G.1 Exhortation / preface > G.2 Ministers of the Word > G.3 Civil authority > G.4
 The erring & unbelievers > G.5 Enemies > G.6 The afflicted > G.7 Deliverance from calamities >
@@ -3148,16 +3160,17 @@ Early East Frisian pulpit biddings after the medieval Prone: three biddings, the
 confession, Creed and Our Father.
 
 - **Earliest witness (archetype):** Norden 1528.
-- **Tradition:** Early evangelical (East Frisian; later Reformed).
+- **Tradition:** Reformed
+  (an early East Frisian evangelical order, printed by Sehling among the Reformed orders of East Frisia).
 - **Language:** Low Dutch.
 - **Form:** biddings, then Decalogue, confession, Creed, Our Father.
 - **Place in the service (Norden 1528):** Every Sunday after the sermon (“na dat sermoen”):
-  three biddings, then the Ten Commandments, a confession of sins, the Creed with a confession of
-  faith, and the Our Father.
+  three biddings, then the Ten Commandments, a confession of sins, the Creed with a confession
+  of faith, and the Our Father.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1528 | Norden (East Frisia), Gottesdienstordnung [ca. 1528] | Norden, County of East Frisia | Sehling 7/1, IV/Ostfriesland Nr. 6, p. 431 | biddings + Decalogue + confession + Creed + Lord’s Prayer |
+| 1528 | Norden (East Frisia), Gottesdienstordnung [ca. 1528] (Reformed) | Norden, County of East Frisia | Sehling 7/1, IV/Ostfriesland Nr. 6, p. 431 | biddings + Decalogue + confession + Creed + Lord’s Prayer |
 
 **Sequence:** M.1 Civil authority > M.2 Ministers of the Word > M.3 Enemies > M.4 Ten
 Commandments.
@@ -3215,7 +3228,7 @@ congregation), then the Our Father. Copied in Moers, Bentheim-Tecklenburg, Ysenb
 1598 and, abridged, Lutheran Schaumburg 1614.
 
 - **Earliest witness (archetype):** Kurpfalz 1563 (Heidelberg).
-- **Tradition:** Lutheran; Reformed.
+- **Tradition:** Reformed (Schaumburg 1614 Lutheran).
 - **Language:** German.
 - **Form:** confession + absolution + continuous prayer + Our Father.
 - **Place in the service (Kurpfalz 1563):** Sunday morning after the sermon: exhortation to
@@ -3224,11 +3237,11 @@ congregation), then the Our Father. Copied in Moers, Bentheim-Tecklenburg, Ysenb
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1563 | Kurpfalz, Kirchenordnung (Friedrich III.) | Electoral Palatinate | Sehling 14, Regierungszeit Friedrichs III. Nr. 60 (KO 1563), pp. 389–390 | confession + absolution + continuous prayer + Lord’s Prayer |
-| 1581 | Moers, Kirchenordnung [1581] (Graf Adolf von Neuenahr) | County of Moers | Sehling 22, III/Moers Nr. 5 (KO [1581]), pp. 182–183 | continuous prayer + Lord’s Prayer |
-| 1588 | Bentheim-Tecklenburg, Kirchenordnung 1588/1619 | Counties of Bentheim, Tecklenburg and Steinfurt | Sehling 22, IV/3, pp. 256–257 | continuous prayer + Lord’s Prayer |
-| 1598 | Ysenburg-Birstein, Kirchenordnung 1598 (Graf Wolfgang Ernst) | County of Ysenburg-Büdingen-Birstein | Sehling 10, III/Ysenburg-Birstein Nr. 17, pp. 664–666 | confession + absolution + continuous prayer + Lord’s Prayer |
-| 1614 | Schaumburg, Kirchenordnung 1614 (Graf/Fürst Ernst) | County of Holstein-Schaumburg | Sehling 7/1, I/21, pp. 147–149 | confession + absolution + continuous prayer |
+| 1563 | Kurpfalz, Kirchenordnung (Friedrich III.) (Reformed) | Electoral Palatinate | Sehling 14, Regierungszeit Friedrichs III. Nr. 60 (KO 1563), pp. 389–390 | confession + absolution + continuous prayer + Lord’s Prayer |
+| 1581 | Moers, Kirchenordnung [1581] (Graf Adolf von Neuenahr) (Reformed) | County of Moers | Sehling 22, III/Moers Nr. 5 (KO [1581]), pp. 182–183 | continuous prayer + Lord’s Prayer |
+| 1588 | Bentheim-Tecklenburg, Kirchenordnung 1588/1619 (Reformed) | Counties of Bentheim, Tecklenburg and Steinfurt | Sehling 22, IV/3, pp. 256–257 | continuous prayer + Lord’s Prayer |
+| 1598 | Ysenburg-Birstein, Kirchenordnung 1598 (Graf Wolfgang Ernst) (Reformed) | County of Ysenburg-Büdingen-Birstein | Sehling 10, III/Ysenburg-Birstein Nr. 17, pp. 664–666 | confession + absolution + continuous prayer + Lord’s Prayer |
+| 1614 | Schaumburg, Kirchenordnung 1614 (Graf/Fürst Ernst) (Lutheran) | County of Holstein-Schaumburg | Sehling 7/1, I/21, pp. 147–149 | confession + absolution + continuous prayer |
 
 Schaumburg 1614 is a Lutheran order that takes over the Heidelberg confession, absolution and
 prayer, abridged.
@@ -3469,8 +3482,8 @@ and the Heidelberg Catechism qq. 122-127).
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1563 | Kurpfalz, Kirchenordnung (Friedrich III.) | Electoral Palatinate | Sehling 14, Regierungszeit Friedrichs III. Nr. 60 (KO 1563), pp. 390–391 | Lord’s Prayer paraphrase |
-| 1588 | Bentheim-Tecklenburg, Kirchenordnung 1588/1619 | Counties of Bentheim, Tecklenburg and Steinfurt | Sehling 22, IV/3, pp. 256–258 | Lord’s Prayer paraphrase + Creed |
+| 1563 | Kurpfalz, Kirchenordnung (Friedrich III.) (Reformed) | Electoral Palatinate | Sehling 14, Regierungszeit Friedrichs III. Nr. 60 (KO 1563), pp. 390–391 | Lord’s Prayer paraphrase |
+| 1588 | Bentheim-Tecklenburg, Kirchenordnung 1588/1619 (Reformed) | Counties of Bentheim, Tecklenburg and Steinfurt | Sehling 22, IV/3, pp. 256–258 | Lord’s Prayer paraphrase + Creed |
 
 Each rubric is the clause of the Lord's Prayer that the paragraph expounds. Sehling prints the
 clauses in square brackets in Kurpfalz 1563. Bentheim-Tecklenburg 1588 adds R2.9.
@@ -3662,7 +3675,7 @@ paraphrase of the Lord's Prayer.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1554 | Frankfurt, Liturgia sacra of the stranger congregation (Valérand Poullain) | Frankfurt am Main: French/Walloon refugee church | Sehling 9, VI/Frankfurt Nr. 14, pp. 563–566 | continuous prayer with Lord’s-Prayer paraphrase |
+| 1554 | Frankfurt, Liturgia sacra of the stranger congregation (Valérand Poullain) (Reformed) | Frankfurt am Main: French/Walloon refugee church | Sehling 9, VI/Frankfurt Nr. 14, pp. 563–566 | continuous prayer with Lord’s-Prayer paraphrase |
 
 The words between asterisks in R3.8 are said only when the Supper is celebrated.
 
@@ -3957,7 +3970,7 @@ still praying for the King of England and the city of London.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1554 | London, Dutch stranger church: Marten Micron, Christlicke Ordinancien (1554; German edition 1565) | London Dutch refugee church (edition for East Frisia) | Sehling 7/1, IV/Ostfriesland Nr. 23 (Microns Ordinancien 1554/1565), pp. 603–604 | continuous prayer + Lord’s Prayer |
+| 1554 | London, Dutch stranger church: Marten Micron, Christlicke Ordinancien (1554; German edition 1565) (Reformed) | London Dutch refugee church (edition for East Frisia) | Sehling 7/1, IV/Ostfriesland Nr. 23 (Microns Ordinancien 1554/1565), pp. 603–604 | continuous prayer + Lord’s Prayer |
 
 **Sequence:** R4.1 Thanksgiving > R4.2 The Church > R4.3 Civil authority > R4.4 The present
 congregation > R4.5 The present congregation > R4.6 The erring & unbelievers > R4.7 The

@@ -119,6 +119,10 @@ Weissenfels is the closest thing in the corpus to a modern *Hauptlied* /
 finds nothing; these tables are what the concept actually looks like in
 the 16th century.
 
+All eight are Lutheran orders, and none is an Interim order (traditions as in
+[`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md)). The hymnals and compilations below are
+Lutheran too.
+
 ### The hymnal and compilation sources
 
 | Source | Rows | Witnesses | What it is |

@@ -129,7 +129,7 @@ German differs. The patches fail the build if their target text is missing.
 **Included.** The prayer of intercession for all estates and needs in the
 chief Sunday service. This is normally after the sermon, from the pulpit.
 It is in the Mass itself in family L and in the Prone position in Norden
-1528. The following count as part of it:
+1528 (Reformed). The following count as part of it:
 
 - an exhortation or preface to it;
 - confession and absolution, when the order places them inside the prayer;
@@ -155,17 +155,17 @@ Also included, as orders that *prescribe the contents* in indirect speech:
 - **Prayer-day, occasional and emergency prayers.** For example the
   Wild- und Rheingraf "drey Gebett" and the Nassau 1618 Agende variant.
 - **Afternoon, weekday and vespers forms.** For example the afternoon forms
-  of Henneberg, Strasbourg 1598 and Kurpfalz 1563.
+  of Henneberg, Strasbourg 1598 and Kurpfalz 1563 (Reformed).
 - **Orders that only mention the prayer, or give it by reference:**
   - Strasbourg 1577;
-  - Hessen 1574;
+    - Hessen 1574 (mediating);
   - Mecklenburg 1552;
   - Sponheim 1590;
-  - Emden 1594 (free prayer);
+    - Emden 1594 (Reformed; free prayer);
   - Saxony 1539 (Luther's paraphrase, by reference only);
   - the references to Veit Dietrich's bank.
 - **Orders that Sehling prints only as variants of another order.**
-  Kurpfalz 1601 is identical to 1563.
+    Kurpfalz 1601 (Reformed) is identical to 1563.
 
 ## Dates
 
@@ -201,18 +201,30 @@ sheet are real local changes. Examples:
 | C | Strasbourg-type bidding exhortation: Hanau-Lichtenberg 1573 | 1 |
 | D | Nürnberg *Vermahnung zum Gebet*: Veit Dietrich 1545 | 5 |
 | E | Saxon *Gemein Gebet*: Leipzig 1567 (Pfeffinger) | 1 |
-| F | Upper German pulpit intercession: Augsburg 1537 | 1 |
-| G | Hessian *Vermanung zum Gebet*: 1566 | 1 |
+| F | Upper German pulpit intercession: Augsburg 1537 (mediating) | 1 |
+| G | Hessian *Vermanung zum Gebet*: 1566 (mediating) | 1 |
 | H | Bugenhagen pulpit exhortation: Braunschweig 1528 | 3 |
 | I | Huberinus *Vorbitt*: Öhringen 1544 | 1 |
 | J | Lower Saxon *notel*: Lüneburg 1564 | 3 |
 | K | Three collects from the pulpit: Worms 1560 | 1 |
 | L | Intercessions under the Sanctus: Brandenburg 1540 | 3 |
-| M | Pulpit biddings in the Prone pattern: Norden 1528 | 1 |
-| R1 | Heidelberg 1563 Sunday prayer | 5 |
-| R2 | Heidelberg Lord's-Prayer paraphrase | 2 |
-| R3 | Calvin's *grande prière* (Latin): Frankfurt 1554 | 1 |
-| R4 | à Lasco/Micron: London 1554 | 1 |
+| M | Pulpit biddings in the Prone pattern: Norden 1528 (Reformed) | 1 |
+| R1 | Heidelberg 1563 Sunday prayer (Reformed; Schaumburg 1614 Lutheran) | 5 |
+| R2 | Heidelberg Lord's-Prayer paraphrase (Reformed) | 2 |
+| R3 | Calvin's *grande prière* (Latin): Frankfurt 1554 (Reformed) | 1 |
+| R4 | à Lasco/Micron: London 1554 (Reformed) | 1 |
+
+**Traditions.** The witnesses are Lutheran except for these, whose tradition follows the
+inventory in [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3, and is recorded in
+`witnesses.tradition`:
+- F, Augsburg 1537: mediating (the Upper German, Bucerian city before the Interim);
+- G, Hessen 1566: mediating (Philip of Hesse's church);
+- M, Norden 1528: an early East Frisian evangelical order, which Sehling prints among the
+  Reformed orders of East Frisia;
+- R1–R4: Reformed. Schaumburg 1614, in R1, is a Lutheran order that borrows the Heidelberg
+  prayer.
+
+No Interim order is among the witnesses.
 
 `witnesses.form` describes the shape of each order's prayer, for example:
 
@@ -495,8 +507,8 @@ this place)".
   feature. It occurs only in:
   - R1 (Heidelberg), including the Lutheran Schaumburg 1614, which borrows
     the Heidelberg prayer;
-  - R3 (Calvin);
-  - Augsburg 1537.
+    - R3 (Calvin);
+  - Augsburg 1537 (mediating).
 - **The Word and its fruit is named in almost every family except the
   Brenz/Württemberg line.** There it is folded into the petition for the
   Church. Only two witnesses of that line add it:
@@ -507,7 +519,7 @@ this place)".
   - the Nürnberg exhortation (D);
   - Bugenhagen/Osnabrück (H);
   - the Lower Saxon *notel* (J);
-  - Heidelberg (R1, R2).
+    - Heidelberg (R1, R2; Reformed).
 - **Women with child is nearly universal.** It is named in 42 of the 57
   orders:
   - as a petition of its own in the Brenz and Württemberg long forms;
@@ -516,9 +528,9 @@ this place)".
 
   It is absent from:
   - the Mass intercessions (L);
-  - Calvin, à Lasco and the Heidelberg paraphrase;
+    - Calvin, à Lasco and the Heidelberg paraphrase (all Reformed);
   - Veit Dietrich's exhortation (Nürnberg 1545 and Waldeck 1556);
-  - Osnabrück, Magdeburg, Leipzig, Hessen, Worms and Norden.
+    - Osnabrück, Magdeburg, Leipzig, Hessen (mediating), Worms and Norden (Reformed).
 - **Brandenburg 1540 and its followers (family L) put the intercessions in
   the Mass under the Sanctus.** These are collects for the ministers, the
   magistrates and peace, standing where the Roman Canon had its prayers of
