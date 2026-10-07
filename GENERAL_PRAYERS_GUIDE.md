@@ -455,6 +455,10 @@ following five rules.
    The same applies when no petition, or no group of related texts, has
    half the witnesses.
 
+`GENERAL_PRAYERS_TEXT_GUIDE.md` prints the representative texts family by family, in the order
+in which each family's prayer runs, with the original and the English of each rubric, bid and
+prayer.
+
 **English.** The English is not voted on separately. Each English
 variation unit takes the reading of the witnesses whose reading the original
 chose at the same place. It is matched to the original by relative position
