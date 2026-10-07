@@ -52,14 +52,14 @@ files are produced.
 
 ## Two layers of evidence
 
-The database holds **4,156 prescriptions** from **48 witnesses**, in two
+The database holds **4,144 prescriptions** from **48 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 466 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 3,690 | later hymnals and modern conflations, read from separate documents |
+| Hymnals and compilations | 3,678 | later hymnals and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -87,7 +87,7 @@ WHERE source LIKE 'Selnecker%' AND source LIKE '%;%';
 > `Sunday after Ascension (Exaudi) | Wo Gott der Herr nicht bei uns hält |`
 > `Selnecker (via Hymn of the Day table; Liliencron concordance; Selnecker's own account)`
 
-40 such overlapping attestations were folded this way. Counting sources
+53 such overlapping attestations were folded this way. Counting sources
 rather than witnesses would have inflated Selnecker roughly threefold.
 
 ### Sigla do not mean the same thing in different compilations
@@ -126,7 +126,7 @@ the 16th century.
 | Liliencron, *de tempore* concordance (pp. 61–77) | 1,823 | 15 | Collates fifteen hymnals, 1545–1694, Sunday by Sunday |
 | Krusemark, *Hymns ABC* (2018) | 1,141 | 18 | Three-year series collating seventeen lists for the LSB one-year lectionary |
 | Hymn of the Day conflation table | 371 | 12 | Modern table collating Carpzov, Gehrke, SELK, Selnecker, Zion, LW, LSB and others |
-| Ludecus, *Ordo cantionum Germanicarum* (1589) | 309 | 1 | A single order, German incipits with English translation |
+| Ludecus, *Ordo cantionum Germanicarum* (1589) | 310 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
 
 #### Krusemark, and why only part of it is here
@@ -199,9 +199,11 @@ One row per (occasion, hymn) pair, in liturgical order.
 
 ### `hymns` — the lexicon
 
-One row per distinct hymn (136: 117 German, 19 Latin). `canonical_title`
+One row per distinct hymn (205: 186 German, 19 Latin), from the Sehling
+orders and the hymnal and compilation sources alike. `canonical_title`
 is the modern standard spelling; this is what joins the printed variants
-together.
+together. Hymns that a source names only in a form the lexicon does not
+know are not in this table (see *Hymn identity across languages* below).
 
 ### `hymn_prescriptions_by_hymn` — view
 
@@ -249,15 +251,69 @@ prescriptions. If a `SUM` over your grouping doesn't come to 466, the
 join is wrong. The `hymn_prescriptions_by_hymn` view does this correctly
 and is the easier path.
 
+## Hymn identity across languages
+
+The hymnal and compilation sources cite a hymn in four ways: by its German
+incipit (Liliencron's hymnals, Ludecus), by a Low German or Latin form, by
+an English title only (Selnecker's own account, Carpzov, Bach, the plan of
+c. 1700, Thompson and the modern lists), or by both. One hymn has one
+identity in all of them:
+
+- **`lexicon.py`** matches printed German, Low German and Latin incipits to
+  a canonical title. It covers the hymns of the Sehling orders and the
+  hymns of the hymnal sources. Without the latter, a hymn named only by
+  the hymnals either stayed unresolved, so that its German and English
+  citations were counted as different hymns, or was fuzzy-matched to the
+  nearest Sehling hymn.
+- **`bridge.py`** maps an English title to its German hymn: first through
+  its own table of English titles (`EN_ALIAS`), then through the English
+  column of Liliencron's concordance.
+- **Hymns with the same or a similar opening are kept apart:**
+  - Eber's *Herr Gott, dich loben alle wir*, on the angels, is not the German
+    Te Deum *Herr Gott, dich loben wir*.
+  - Luther's Easter hymn *Jesus Christus, unser Heiland, der den Tod
+    überwand* is not his Communion hymn *Jesus Christus, unser Heiland, der
+    von uns den Gotteszorn wandt*. A source that prints only the opening
+    words for an Easter occasion means the Easter hymn
+    (`resolve.by_occasion`). This applies to Pommern, Hohenlohe, Weissenfels
+    and Mansfeld.
+  - *Als Jesus Christus, Gottes Sohn* is not *Jesus Christus, wahrer
+    Gottes Sohn*.
+  - *Mag ich dem Tod nicht widerstahn* is not *Mag ich Unglück nicht
+    widerstahn*.
+
+Because the identity of a hymn decides the deduplication key, a witness
+that cites the same hymn on the same day in German and in English is
+counted once. Selnecker, cited in German by Liliencron and in English in
+his own account, is the main case.
+
 ## `common_english` is an editorial judgment, not a fact
 
-**47 of 136 hymns have no `common_english` at all.** These are hymns that
-never entered the English-language tradition — mostly Low German psalm
-paraphrases and local compositions. `NULL` there means "no received
-English title exists", not "not yet filled in". Don't backfill it with a
-translation; that's what `literal_english` is for.
+**38 of 205 hymns have no `common_english` at all** (three of them are
+group rubrics such as "the Christmas hymns"). These are hymns that never
+entered the English-language tradition — mostly Low German psalm
+paraphrases and local compositions — and that Matthew Carver has not
+translated either (see below). `NULL` there means "no English title
+exists", not "not yet filled in". Don't backfill it with a translation;
+that's what `literal_english` is for.
 
-Of the 89 that do have one, **7 have genuine rivals in current use**, and
+**36 hymns carry the title of Matthew Carver's translation.** For hymns
+with no received English title, `common_english` gives the English title
+of Carver's translation, from *Walther's Hymnal* (Concordia, 2012), which
+he translated, or from his blog *Hymnoglypt*
+(matthaeusglyptes.blogspot.com). The titles are the ones Krusemark prints
+with the references "WH" and "HG" (his pp. 95–96 name Carver as the
+translator). Each was matched to its German hymn by the Ludecus and
+Thompson entries for the same day. They are listed in
+`hymn_tables/lexicon.py` (`CARVER`), and each has a row in
+`translation_candidates` whose `status` names the source:
+
+```sql
+SELECT canonical_title, candidate, status FROM translation_candidates
+WHERE status LIKE 'matthew_carver%';
+```
+
+Of the 131 hymns with a received English title, **7 have genuine rivals in current use**, and
 the choice between them is a real editorial decision:
 
 ```sql
@@ -267,7 +323,8 @@ ORDER BY canonical_title, chosen DESC;
 ```
 
 `chosen = 1` marks the title currently used in `hymn_prescriptions`;
-`status = 'awaiting_adjudication'` marks the whole set as unsettled. The
+`status = 'awaiting_adjudication'` marks the whole set as unsettled, and
+`status = 'matthew_carver_translation (…)'` marks a Carver title. The
 rejected alternatives are kept rather than discarded so the decision can
 be revisited — the same way `eko.db` keeps its `ambiguous` index links.
 

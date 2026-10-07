@@ -6,6 +6,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
+from resolve import by_occasion
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DB  = os.path.join(HERE, '..', 'hymns.db')
@@ -59,8 +60,12 @@ def load():
             key = (orig, com)
             if key not in cache:
                 c, _l, _c, _how = bridge.identify(orig, com)
+                if not c:                   # an English-only source: its title is English
+                    c, _l, _c, _how = bridge.identify(None, orig)
                 cache[key] = c
             ident = cache[key]
+        if ident:                           # Luther's Easter vs Communion "Jesus Christus, unser Heiland"
+            ident = by_occasion(ident, occ, orig)[0]
         if not ident:                       # unresolved: group on the normalised title
             ident = (com or orig or '').strip()
             ident = GROUPED.setdefault(norm(ident), ident)
@@ -69,7 +74,7 @@ def load():
             if a: ident = a; break
         rows.append({'occ': occ, 'orig': orig, 'lit': lit, 'com': com, 'src': src,
                      'wit': wit, 'ident': ident,
-                     'eng': english.get(ident) or com or ''})
+                     'eng': english.get(ident) or (com if com != ident else '') or ''})
     return rows
 
 GROUPED = {}      # normalised title -> first surface form seen, so case/spacing collapse
@@ -87,13 +92,13 @@ _ALIAS_SRC = {
  'Praise the Almighty, my soul, adore Him!': 'Nun lob, mein Seel, den Herren',
  'Our Father, who from heaven above':        'Vater unser im Himmelreich',
  'Our Father, Thou in Heaven Above':         'Vater unser im Himmelreich',
- 'Why art thou cast down, my heart?':        'Why Art Thou Thus Cast Down, My Heart',
+ 'Why art thou cast down, my heart?':        'Warum betrübst du dich, mein Herz',
  'Lord, to You I make confession':           'Lord, to Thee I Make Confession',
  'O Lord Our God, Thy Holy Word':            'O Herre Gott, dein göttlich Wort',
  'O Lord God, Thy Divine Word':              'O Herre Gott, dein göttlich Wort',
  'Menschen kind merck eben':                 'Menschenkind, merk eben',
  'Jr lieben Christen frewdt euch nu':        'Ihr lieben Christen, freut euch nun',
- 'O Lord, how shall I meet Thee':            'O Lord, How Shall I Meet You',
+ 'O Lord, how shall I meet Thee':            'Wie soll ich dich empfangen',
  'We praise You, Jesus, at Your birth':      'Gelobet seist du, Jesu Christ',
  'We Praise Thee, Jesus, at Thy Birth':      'Gelobet seist du, Jesu Christ',
  'Weltlich ehr vnd zeitlich gut':            'Weltlich Ehr und zeitlich Gut',
