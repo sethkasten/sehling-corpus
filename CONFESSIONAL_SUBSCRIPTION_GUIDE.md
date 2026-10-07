@@ -67,19 +67,24 @@ order, and §19 a concordance of every order quoted.
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
   - **Reformed–Lutheran treaty**: the East Frisian settlements of 1595 and 1599.
   - The mark follows the order cited, not the territory, since a territory could change its
     tradition: Kurpfalz is Lutheran under Ottheinrich (1556) and Ludwig VI (1576–1583) and
-    Reformed under Frederick III and from 1583; Bremen is Lutheran to 1561, mediating
-    (Philippist) from 1556 to 1575 and Reformed from 1582; Hesse is mediating until the
-    division, after which Hessen-Kassel turned Reformed and Hessen-Darmstadt stayed Lutheran.
+    Reformed under Frederick III and from 1583; Bremen is Lutheran to 1561, Philippist from 1556
+    to 1575 and Reformed from 1582; Hesse is Moderate Reformed under Philip (to 1566) and
+    Philippist under his sons until the division, after which Hessen-Kassel turned Reformed and
+    Hessen-Darmstadt stayed Lutheran.
   - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
     (`CHURCH_ORDERS_GUIDE.md`, §4).
-  - "Philippist" in this guide names a party within the Lutheran churches. Only the Philippist
-    churches that the inventory counts as mediating (Bremen and Colmar) are marked.
+  - "Philippist" in this guide also names a party within the Lutheran churches, as in Electoral
+    Saxony before 1574. An order is marked "(Philippist)" only where the inventory counts it so:
+    Hesse 1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594.
 
 ---
 
@@ -128,7 +133,7 @@ moved through five stages:
 - **The 1560s and 1570s: territorial *corpora doctrinae*.** Princes and cities gathered their
   own bodies of doctrine, which pastors had to own, follow and often subscribe. These were the
   Philippist *Corpus doctrinae* of 1560 (adopted in Electoral Saxony, Kurland, Brieg, Oldenburg,
-  Bremen and Hesse, the last two mediating), the Pomeranian, the Prussian (1567), the
+  Bremen and Hesse, the last two Philippist), the Pomeranian, the Prussian (1567), the
   Thuringian, the Wolfenbüttel *Corpus Julium* (1576), the Brunswick city corpus (1571), the
   Ansbach-Nürnberg *norma doctrinae* (1573) and the Hohenlohe corpus (1578). Some local
   confessions also served as corpora: Mansfeld 1565, the Lüneburg Articles of 1561, Danzig's
@@ -142,9 +147,9 @@ moved through five stages:
   into the vow itself, answered with "Yea" (Henneberg 1582, Waldeck, Frankfurt 1589 and
   Strasbourg 1598).
 - **The refusers and the Reformed turn.** Some refused the FC outright: Anhalt (§6.6), Hesse
-  (mediating), Danzig, Nürnberg and its neighbours, Gottorp and the Danish lands, Colmar and
-  Bremen (both mediating). Pomerania kept its own corpus and took only three points of the FC
-  against the Calvinists, in
+  (Philippist), Danzig, Nürnberg and its neighbours, Gottorp and the Danish lands, Colmar
+  (Moderate Reformed) and Bremen (Philippist). Pomerania kept its own corpus and took only three
+  points of the FC against the Calvinists, in
   1593. Some ceased to require it when they turned Reformed: Kurpfalz after 1583 and the Upper
         Palatinate in 1585. Others kept a pre-1577 norm or replaced the FC with a local formula,
         such as Hohenlohe's *Gründlicher Bericht* of 1603–1605. Where the Reformed took over,
@@ -174,8 +179,8 @@ handwritten "7. Die formulam concordiae" (§13.3). The Kurpfalz formula of 1556 
   Verden 1606, Osnabrück 1610 and Hoya 1581.
 - *Philippist or Reformed party.* Phrases such as "as repeated at Frankfurt and Naumburg", the
   *Corpus doctrinae Philippi* and the *Repetitio* (*Confessio Saxonica*) mark the Philippist or
-  Reformed party. Examples are Bremen 1572 (mediating), the Upper Palatinate 1585 (Reformed) and
-  Kurland 1570 (Lutheran).
+  Reformed party. Examples are Bremen 1572 (Philippist), the Upper Palatinate 1585 (Reformed)
+  and Kurland 1570 (Lutheran).
 
 **4. The form of binding hardened.** The forms run from a book list, through a question at the
 visitation and a promise, to a sworn oath and a signature in one's own hand. In the oldest
@@ -200,8 +205,8 @@ to subscribe the CA or the FC.** The laity were bound in other ways (§17):
 
 - by the catechism examination before first communion and before marriage;
 - by a public profession and vow at confirmation, chiefly in Hesse from 1539 and Strasbourg
-  (both mediating), the Reformed refugee churches and Electoral Saxony's confirmation of the
-  baptismal faith;
+  (both Moderate Reformed), the Reformed refugee churches and Electoral Saxony's confirmation of
+  the baptismal faith;
 - by the confession and exploration required before each communion (Schweinfurt 1543, after the
   CA itself);
 - by rules for godparents and for admission as a burgher.
@@ -231,10 +236,10 @@ The Reformed orders alone required an explicit "confession of the Reformed doctr
 | Goslar, Hildesheim | — | FC and Erfurt Apology; officials sign (1593) | Lower Saxon Confession 1571 in corpus (Goslar 1591/95) |
 | Verden, Osnabrück | — | — | CA "as explained" by Apol, SA, catechisms (1606); CA, Wittenberg Concord, SA, BoC (1610) |
 | Oldenburg | CA, Apol, SA, catechism and *CPhil* (1573) | FC added in *Bestallungen* (1586) | FC; anti-Calvinist visitation 1609 |
-| Bremen (mediating 1556–1575; Reformed from 1582) | CA, *CPhil*, Frankfurt Recess | Refused | Reformed |
+| Bremen (Philippist 1556–1575; Reformed from 1582) | CA, *CPhil*, Frankfurt Recess | Refused | Reformed |
 | East Frisia | — | FC in a Lutheran congregation (1583) | Only "the CA" by treaty (1599; a Reformed–Lutheran treaty) |
 | Soest | — | — | Corpus includes the FC; subscription required (1590) |
-| Hesse (mediating; after the division Hessen-Kassel Reformed, Hessen-Darmstadt Lutheran) | CA, Apol, SA, catechism, *CPhil* (1571) | Rejected jointly by the landgraves (editors' account; but see Darmstadt, §11) | Variant positions; Darmstadt oath on the unaltered CA (1617); Kassel anti-ubiquity oath (1598) |
+| Hesse (Moderate Reformed to 1566, then Philippist; after the division Hessen-Kassel Reformed, Hessen-Darmstadt Lutheran) | CA, Apol, SA, catechism, *CPhil* (1571) | Rejected jointly by the landgraves (editors' account; but see Darmstadt, §11) | Variant positions; Darmstadt oath on the unaltered CA (1617); Kassel anti-ubiquity oath (1598) |
 | Waldeck, Frankfurt | — | FC in the ordination vow | — |
 | Nassau (Dillenburg Reformed from 1581) | *Revers* on CA and *Loci* (1564) | Not adopted | Reformed (Dillenburg 1582); Weilburg unaltered CA |
 | Kurpfalz (Lutheran 1556 and 1576–1583; Reformed 1563–1576 and from 1583) | CA, Apol, SA, catechism (1556) | BoC (1580) | BoC dropped; Heidelberg Catechism (1586, Reformed) |
@@ -247,8 +252,8 @@ The Reformed orders alone required an explicit "confession of the Reformed doctr
 | Ansbach | Oath on the gospel (1528); Ansbach-Nürnberg *norma* 1573 | BoC in the oath (1588) | BoC "our *corpus doctrinae*" (1594) |
 | Nürnberg | *Norma doctrinae* 1573 | Refused | *Norma doctrinae* |
 | Regensburg | CA, Apol, SA (1567) | BoC signed by every minister (1572/88) | BoC |
-| Strasbourg (mediating to 1548) | CA (1549, under the Interim); CA and Apol "*stipulata manu*" (1562); Concord 1563 | FC "*corde et manu*" (1577) | FC in the ordination question (1598) |
-| Colmar (mediating from 1578) | Oath on Scripture, Fathers, CA and Apol (1575) | Refused (1578) | — |
+| Strasbourg (Moderate Reformed to 1548) | CA (1549, under the Interim); CA and Apol "*stipulata manu*" (1562); Concord 1563 | FC "*corde et manu*" (1577) | FC in the ordination question (1598) |
+| Colmar (Moderate Reformed from 1578) | Oath on Scripture, Fathers, CA and Apol (1575) | Refused (1578) | — |
 | Transylvania | Oath on the CA (Burzenland 1573) | — | Superintendent's oath on CA, SA and the creeds (1601) |
 
 ---
@@ -306,7 +311,8 @@ officials.
   misleading, this is said (as at Anhalt, p. 579, where a passage of the 1588 *Instructio* runs
   onto a page headed with the next order).
 - **OCR errors.** OCR errors are quoted as printed. Thus Calenberg's "Gorpus doctrinae Julium"
-  is printed as such, and the Kassel KO of 1539 (mediating) carries the running head "1589".
+  is printed as such, and the Kassel KO of 1539 (Moderate Reformed) carries the running head
+  "1589".
 
 ### 2.4 How to read the regional sections
 
@@ -335,8 +341,8 @@ the later volumes cite in their footnotes.
 - **The three creeds** (*drei Hauptsymbola*, *symbola oecumenica*): the Apostles', the Nicene
   and the Athanasian. They come first after Scripture in almost every list.
 - **The four councils** (Nicaea, Constantinople, Ephesus and Chalcedon). These are named in
-  Kurland (1570), the Katzenelnbogen pastors' oath (1598, mediating, together with Leo's Tome to
-  Flavian), Strasbourg (1598) and the Upper Palatinate (1585, Reformed). In Hessen-Kassel and
+  Kurland (1570), the Katzenelnbogen pastors' oath (1598, Philippist, together with Leo's Tome
+  to Flavian), Strasbourg (1598) and the Upper Palatinate (1585, Reformed). In Hessen-Kassel and
   the Upper Palatinate they are aimed against the ubiquity doctrine.
 
 ### 3.2 The Lutheran confessions
@@ -367,13 +373,13 @@ the later volumes cite in their footnotes.
   Albertine Saxony (1540), Württemberg (*Loci recentiores*, 1547), Pomerania, Nassau-Diez (1564)
   and Ansbach (1573).
 - ***Repetitio* or *Confessio Saxonica*, 1551.** Written for the Council of Trent. Albertine
-  Saxony (1557), Ansbach (1573) and Bremen (1570, mediating) name it.
+  Saxony (1557), Ansbach (1573) and Bremen (1570, Philippist) name it.
 - ***Examen ordinandorum*** (Melanchthon's examination of ordinands, 1552) and the
   ***Responsiones* to the Bavarian articles**.
 - ***Corpus doctrinae Philippicum* (or *Misnicum*), 1560.** Melanchthon's collected doctrinal
   works, printed by Vögelin in Leipzig. It was official in Electoral Saxony until 1574 and was
   adopted in Kurland (1570), Silesia (Brieg 1592), Oldenburg (1573), Bremen (1570–1575) and
-  Hesse (1571), both mediating, and Pfalz-Zweibrücken.
+  Hesse (1571), both Philippist, and Pfalz-Zweibrücken.
 
 ### 3.4 Territorial corpora and local confessions
 
@@ -409,7 +415,7 @@ the later volumes cite in their footnotes.
   Reformed Kurpfalz *Bestallung* of 1586 (§12.1).
 - **The CA as "repeated" at Frankfurt (1558) and Naumburg (1561)**: the CA read in the *variata*
   sense, in the Upper Palatinate (1585, Reformed) and in Bremen (the Frankfurt Recess, 1575,
-  mediating).
+  Philippist).
 - **"The confession of the Reformed doctrine"** required for admission to the Supper in
   Nassau-Dillenburg (1582, Reformed) (§17.2).
 
@@ -1677,13 +1683,14 @@ most worthy sacraments" (Sehling 7/2.1, p. 1175).
 
 ### 10.5 Bremen: the *Corpus Philippicum* and the road to the Reformed (1570–1575)
 
-The Bremen texts of these years are mediating (Philippist) orders; the city's Reformed orders begin in 1582.
+The Bremen texts of these years are Philippist orders; the city's Reformed orders begin in 1582.
 
 
-Bremen's ministerium (mediating) agreed in 1572 on a "simple confession", by which all future
+Bremen's ministerium (Philippist) agreed in 1572 on a "simple confession", by which all future
 ministers were to be bound. It names Scripture, the creeds, the CA and the *Corpus doctrinae* of
 Melanchthon, "which the Electoral Saxon and other churches have received". **Bremen, *Einigung
-des geistlichen Ministeriums über die in Bremen gültige Lehre*, 1572** (mediating; Sehling 7/2.2, p. 548):
+des geistlichen Ministeriums über die in Bremen gültige Lehre*, 1572**
+(Philippist; Sehling 7/2.2, p. 548):
 
 <!-- doc 2226 -->
 > sind wir auff folgende einfältige bekändtnuß (darnach sich auch alle kirchendiener, so noch
@@ -1785,7 +1792,7 @@ Soest was biconfessional in other respects. In 1583 it admitted godparents of bo
 
 ## 11. Hesse, Waldeck, Frankfurt, Nassau and Ysenburg
 
-By the editors' account the Hessian landgraves (mediating) together rejected the FC
+By the editors' account the Hessian landgraves (Philippist) together rejected the FC
 (Sehling 8, p. 344; Sehling 9, p. 33), although the introduction to Hessen-Darmstadt speaks of
 Darmstadt's signature in 1577 (Sehling 9, p. 45). After Philip's death (1567) its general synods
 held to the CA, the Apology, the SA, Luther's catechism and the Wittenberg *Corpus doctrinae*.
@@ -1802,9 +1809,9 @@ counties show the same spread:
 
 ### 11.1 Hesse: the synod, the Agende, and the divided landgraviate (1571–1617)
 
-The general synod's *Abschied* of 1571 (mediating) records the pastors' undertaking to teach
+The general synod's *Abschied* of 1571 (Philippist) records the pastors' undertaking to teach
 according to a mixed norm: the SA beside the Wittenberg *Corpus doctrinae*. **Hesse, *Abschied*
-of the general synod, 1571** (mediating; Sehling 8, p. 355):
+of the general synod, 1571** (Philippist; Sehling 8, p. 355):
 
 <!-- doc 2263 -->
 > und nicht allein vor sich selbst nach der heiligen gottlichen geschrift und darein begrundten
@@ -1819,10 +1826,10 @@ Confession, the Apology following thereon, the Smalcald Articles, Luther's catec
 *corpus doctrinae* that came forth at Wittenberg, but also to labour with the utmost diligence
 that the like be done by others, both in schools and in churches.
 
-The Agende of 1574 (mediating) puts Scripture alone as the *norma iudicii*, with the creeds and
+The Agende of 1574 (Philippist) puts Scripture alone as the *norma iudicii*, with the creeds and
 the CA as "the symbol of this our time". One witness of the text (B) adds the Apology and the
 *Corpus doctrinae* of "P. M." (Philip Melanchthon). **Hesse, *Agende*, 1574**
-(mediating; Sehling 8, p. 415):
+(Philippist; Sehling 8, p. 415):
 
 <!-- doc 2272 -->
 > so söllen in allen und jeden punkten christlicher lehr die prophetischen und apostolische
@@ -1842,11 +1849,11 @@ prophetic and apostolic writings and sufficient for proper and needful instructi
 every article.
 
 After the division, the pastors of the Lower County of Katzenelnbogen, under Hessen-Kassel
-(still mediating in 1598), swore a service oath with a long Christological section. It names the
-four councils and Leo's Tome alongside the CA, the Apology, the SA and the Hessian synodal
+(still Philippist in 1598), swore a service oath with a long Christological section. It names
+the four councils and Leo's Tome alongside the CA, the Apology, the SA and the Hessian synodal
 *Abschiede*, and it rejects the "newly introduced bodily ubiquity". **Hessen-Kassel, *Diensteid
 der Pfarrer in der Niedergrafschaft Katzenelnbogen*, 20 February 1598**
-(mediating; Sehling 9, p. 54):
+(Philippist; Sehling 9, p. 54):
 
 <!-- doc 2287 -->
 > In sonderheit aber bekennen wir uns mit mund und hertzen zu der reinen lehr von der person
@@ -2733,8 +2740,8 @@ within one ring wall with the papists", polemic is to be kept within bounds.
 
 ## 15. Strasbourg and Alsace
 
-Strasbourg, which had signed the *Tetrapolitana* in 1530 as a mediating city, had subscribed the
-CA by 1532. Its path then ran in four steps:
+Strasbourg, which had signed the *Tetrapolitana* in 1530 as a Moderate Reformed city, had
+subscribed the CA by 1532. Its path then ran in four steps:
 
 1. **1549:** the CA in the examination of ministers, an order issued under the Interim.
 2. **1562:** a public confession at admission according to the CA and the Apology, promised
@@ -2743,7 +2750,7 @@ CA by 1532. Its path then ran in four steps:
 4. **1577:** the FC signed "*corde et manu*".
 
 In 1598 the FC was put into the ordination vow. Colmar, by contrast, swore its preachers to the
-CA and Apology in 1575 and, now mediating, refused to add the FC in 1578.
+CA and Apology in 1575 and, now Moderate Reformed, refused to add the FC in 1578.
 
 ### 15.1 The CA in the examination (1549)
 
@@ -2849,9 +2856,9 @@ will also openly condemn no one, be he of what religion he will, and especially 
 still at variance in certain points in the reformed church.
 
 The words "and the Apology thereof" are a later addition in the margin. When the FC was urged on
-the city in 1578, the council, by now mediating, declined. It had already tendered its preachers
-an oath, and it would not press the FC on them against that oath. **Colmar, *Ablehnung des
-Beitritts zur Konkordienformel*, 10 May 1578** (mediating; Sehling 20/2, p. 509):
+the city in 1578, the council, by now Moderate Reformed, declined. It had already tendered its
+preachers an oath, and it would not press the FC on them against that oath. **Colmar, *Ablehnung
+des Beitritts zur Konkordienformel*, 10 May 1578** (Moderate Reformed; Sehling 20/2, p. 509):
 
 <!-- doc 1408 -->
 > jedoch so will unnß auß vorangeregten unnd erzelten ursachen, binn unnserm ann e[wer]
@@ -2920,8 +2927,8 @@ the hearers are taught. It does not mean they are to sign it. The laity were bou
 ways:
 
 1. by **confirmation**, where a confirmation rite existed: a public profession of the catechism,
-   a vow to remain in it, and, in the Hessian (mediating) and Reformed forms, a submission to
-   church discipline;
+   a vow to remain in it, and, in the Hessian (Moderate Reformed) and Reformed forms, a
+   submission to church discipline;
 2. by the **examination before communion**, and in Reformed churches by an explicit confession
    of the Reformed doctrine;
 3. by the **catechism test before marriage**, and in one case before admission as a burgher;
@@ -2930,11 +2937,11 @@ ways:
 
 ### 17.1 Confirmation: profession, vow and discipline
 
-The Hessian church orders of 1539 (mediating), written with Bucer's help, created the evangelical
-confirmation. The children are questioned on the chief articles before the congregation and
-"give themselves publicly to Christ the Lord and his church". The pastor lays hands on them and
-"confirms them to Christian fellowship". **Hesse, *Ziegenhainer Zuchtordnung*, 1539**
-(mediating; Sehling 8, p. 104):
+The Hessian church orders of 1539 (Moderate Reformed), written with Bucer's help, created the
+evangelical confirmation. The children are questioned on the chief articles before the
+congregation and "give themselves publicly to Christ the Lord and his church". The pastor lays
+hands on them and "confirms them to Christian fellowship". **Hesse, *Ziegenhainer Zuchtordnung*,
+1539** (Moderate Reformed; Sehling 8, p. 104):
 
 <!-- doc 2252 -->
 > Es sollen auch die eltesten und prediger versehen, daß die kinder, so nun durch die
@@ -2963,10 +2970,11 @@ After all this the pastor shall lay hands on the same children, and so confirm t
 of the Lord and establish them in Christian fellowship, and thereupon bid them go to the Lord's
 table,
 
-The Kassel church order of the same year (mediating) gives the questions. The child professes
-that he is in the church by baptism and vows to remain in its fellowship. He also promises to
-obey God's word and to accept rebuke from the elders. The running head of the page is misprinted
-"1589". **Hesse, *Kasseler Kirchenordnung*, 1539** (mediating; Sehling 8, p. 125):
+The Kassel church order of the same year (Moderate Reformed) gives the questions. The child
+professes that he is in the church by baptism and vows to remain in its fellowship. He also
+promises to obey God's word and to accept rebuke from the elders. The running head of the page
+is misprinted "1589". **Hesse, *Kasseler Kirchenordnung*, 1539**
+(Moderate Reformed; Sehling 8, p. 125):
 
 <!-- doc 2253 -->
 > Frag: Bistu auch in der kirch und gemein Christi ? Antwort: Ja - Frag: Wie bistu darein
@@ -3367,10 +3375,10 @@ Scripture and "Cr" the three creeds. Qualifiers the order itself uses are in bra
 
 | Order | Date | Norm | Bound | Form | § |
 |---|---|---|---|---|---|
-| Bremen, *Berufung von Markus Mening* (mediating) | 1570 | Cr, CA, Apol, *Saxonica*, *CPhil* | preacher | call (*Berufung*) | 10.5 |
-| Bremen, *Einigung des geistlichen Ministeriums* (mediating) | 1572 | Scr, Cr, CA, *CPhil*, Verden recess | ministry, future ministers | decl. | 10.5 |
+| Bremen, *Berufung von Markus Mening* (Philippist) | 1570 | Cr, CA, Apol, *Saxonica*, *CPhil* | preacher | call (*Berufung*) | 10.5 |
+| Bremen, *Einigung des geistlichen Ministeriums* (Philippist) | 1572 | Scr, Cr, CA, *CPhil*, Verden recess | ministry, future ministers | decl. | 10.5 |
 | Oldenburg, *Kirchenordnung* | 1573 | Scr, Cr, CA, Apol, SA, catechism, *CPhil* (*Repetitio*, *Loci*, *Examen*, *Responsiones*) | pastors | list | 10.4 |
-| Bremen, settlement of the Naso conflict (mediating) | 1575 | adds the Frankfurt Recess | ministry | decl. | 10.5 |
+| Bremen, settlement of the Naso conflict (Philippist) | 1575 | adds the Frankfurt Recess | ministry | decl. | 10.5 |
 | Peine (Hildesheim), *Eid und obligation der prediger* | 1574/89 | Scr, Cr (Christology), CA, Apol, SA, catechisms | preachers | oath | 10.1 |
 | Oldenburg, *Bestallungen* | 1574–1608 | CA, catechism, KO; + FC (1586); CA "incorporated in the FC" (1608) | pastors, superintendent | promise | 10.4 |
 | Soest, *Artikel der Prediger* | 1590 | Bible, Cr, CA 1530, Apol, SA, SC, LC, FC | all ministers | sign | 10.7 |
@@ -3387,14 +3395,14 @@ Scripture and "Cr" the three creeds. Qualifiers the order itself uses are in bra
 | Order | Date | Norm | Bound | Form | § |
 |---|---|---|---|---|---|
 | Nassau-Diez, *Revers der Kirchendiener* | 1564 | Scr, Cr, CA, *Loci* | new preachers | promise | 11.4 |
-| Hesse, *Abschied* (mediating) | 1571 | Scr, Cr, CA, Apol, SA, SC, *CPhil* | synod's pastors | decl. | 11.1 |
-| Hesse, *Agende* (mediating) | 1574 | Scr (sole *norma iudicii*), Cr, CA ("symbol of our time"); var. + Apol, *CPhil* | pastors | decl. | 11.1 |
+| Hesse, *Abschied* (Philippist) | 1571 | Scr, Cr, CA, Apol, SA, SC, *CPhil* | synod's pastors | decl. | 11.1 |
+| Hesse, *Agende* (Philippist) | 1574 | Scr (sole *norma iudicii*), Cr, CA ("symbol of our time"); var. + Apol, *CPhil* | pastors | decl. | 11.1 |
 | Nassau-Weilburg, *Kirchenordnung* | 1574/76 | Scr, CA (unalt.) | pastors | vis. | 11.5 |
 | Nassau-Dillenburg, *Kirchenordnung* (Reformed) | 1582 | "the Reformed doctrine" | communicants | confession before Supper | 17.2 |
 | Ysenburg-Birstein, *Kirchenordnung* | 1588 | Scr, Cr, CA (unalt.), Apol, SA, SC, LC | pastors | decl. | 11.5 |
 | Frankfurt, *Agende* | 1589 | Scr, CA, SA, SC, LC, BoC | ordinands | vow | 11.3 |
 | Waldeck, revised ordination form | about 1584 | Scr, Cr, CA, Apol, SA, SC, LC, FC | ordinands | vow | 11.2 |
-| Hessen-Kassel, Katzenelnbogen *Diensteid* (mediating) | 1598 | Scr, Cr, four councils, Leo's Tome, CA, Apol, SA, synodal *Abschiede*; against ubiquity | pastors | oath | 11.1 |
+| Hessen-Kassel, Katzenelnbogen *Diensteid* (Philippist) | 1598 | Scr, Cr, four councils, Leo's Tome, CA, Apol, SA, synodal *Abschiede*; against ubiquity | pastors | oath | 11.1 |
 | Hessen-Darmstadt, *Mandat zur Beibehaltung der CA* | 1617 | Scr, CA (unalt.); against papists, Zwinglians, Calvinists, Anabaptists | theologians, professors, preachers, schoolmasters | oath | 11.1 |
 
 **The Palatinates**
@@ -3450,7 +3458,7 @@ Scripture and "Cr" the three creeds. Qualifiers the order itself uses are in bra
 | Strasbourg, *Gottesdienstordnung* | 1577 | FC | ministers | sign ("*corde et manu*") | 15.2 |
 | Burzenland chapter | 1573 | CA | new ministers | oath | 16 |
 | Colmar, *Eid der Prediger* | 1575 | Scr, Fathers, CA, Apol | preachers | oath | 15.3 |
-| Colmar, refusal of the FC (mediating) | 1578 | — | — | — | 15.3 |
+| Colmar, refusal of the FC (Moderate Reformed) | 1578 | — | — | — | 15.3 |
 | Strasbourg, *Kirchenordnung* | 1598 | Scr, Apostles' Creed, four councils, CA, Apol 1530, FC 1580 | ordinands | vow | 15.2 |
 | Transylvanian Saxons, *Superintendentenwahl* | 1601 | Scr, CA, SA, ecumenical creeds | superintendent | oath | 16 |
 
@@ -3458,7 +3466,7 @@ Scripture and "Cr" the three creeds. Qualifiers the order itself uses are in bra
 
 | Order | Date | What is required | Of whom | § |
 |---|---|---|---|---|
-| Ziegenhain *Zuchtordnung*; Kassel KO (Hesse; mediating) | 1539 | catechism examination, self-surrender to Christ and the church, vow to remain in the fellowship and accept discipline | confirmands | 17.1 |
+| Ziegenhain *Zuchtordnung*; Kassel KO (Hesse; Moderate Reformed) | 1539 | catechism examination, self-surrender to Christ and the church, vow to remain in the fellowship and accept discipline | confirmands | 17.1 |
 | Heilbronn, council oath | 1530 | to stand by the council "in the matter of the gospel" | councillors | 17.5 |
 | Schweinfurt, KO | 1543 | announcement and exploration before communion, per CA and Apol | communicants | 17.2 |
 | Baden, Anabaptist mandate (var. C) | 1543 | proof of not belonging to the sect | new burghers | 17.3 |
@@ -3556,7 +3564,7 @@ The table gives:
 | Osnabrück, *Superintendenten- und Predigerordnung*, 1610 | 7/1, pp. 296–297 | 2102 | 10.3 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 987–988 | 2147 | 10.4 |
 | Oldenburg, *Bestallung* of Superintendent Gottfried Schlüter, 1608, quoted in Sehling's apparatus | 7/2.1, p. 964 | 2142 | 10.4 |
-| Bremen, *Einigung des geistlichen Ministeriums über die in Bremen gültige Lehre*, 1572 (mediating) | 7/2.2, p. 548 | 2226 | 10.5 |
+| Bremen, *Einigung des geistlichen Ministeriums über die in Bremen gültige Lehre*, 1572 (Philippist) | 7/2.2, p. 548 | 2226 | 10.5 |
 | East Frisia, *Marienhafer Kirchenordnung*, 1593 | 7/1, p. 684 | 2119 | 10.6 |
 | East Frisia, *Die Konkordaten*, 1599 (Reformed–Lutheran treaty) | 7/1, p. 421 | 2110 | 10.6 |
 | Soest, *Artikel der Prediger*, 1 September 1590 | 22, p. 480 | 1536 | 10.7 |
@@ -3565,9 +3573,9 @@ The table gives:
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Abschied* of the general synod, 1571 (mediating) | 8, p. 355 | 2263 | 11.1 |
-| Hesse, *Agende*, 1574 (mediating) | 8, p. 415 | 2272 | 11.1 |
-| Hessen-Kassel, *Diensteid der Pfarrer in der Niedergrafschaft Katzenelnbogen*, 20 February 1598 (mediating) | 9, p. 54 | 2287 | 11.1 |
+| Hesse, *Abschied* of the general synod, 1571 (Philippist) | 8, p. 355 | 2263 | 11.1 |
+| Hesse, *Agende*, 1574 (Philippist) | 8, p. 415 | 2272 | 11.1 |
+| Hessen-Kassel, *Diensteid der Pfarrer in der Niedergrafschaft Katzenelnbogen*, 20 February 1598 (Philippist) | 9, p. 54 | 2287 | 11.1 |
 | Hessen-Darmstadt, *Mandat zur Beibehaltung der Confessio Augustana*, 28 July 1617 | 9, p. 152 | 2287 | 11.1 |
 | Waldeck, *Kirchenordnung* 1556, ordination form in the revision of about 1584 | 9, p. 292 | 2300 | 11.2 |
 | Frankfurt, *Agende*, 1589 | 9, p. 541 | 2332 | 11.3 |
@@ -3621,7 +3629,7 @@ The table gives:
 | Strasbourg, *Gottesdienstordnung*, [after August 1577] | 20/1, p. 512 | 1336 | 15.2 |
 | Strasbourg, *Kirchenordnung*, 9 April 1598 | 20/1, pp. 640–641 | 1344 | 15.2 |
 | Colmar, *Eid der Prediger*, 22 October 1575 | 20/2, p. 501 | 1408 | 15.3 |
-| Colmar, *Ablehnung des Beitritts zur Konkordienformel*, 10 May 1578 (mediating) | 20/2, p. 509 | 1408 | 15.3 |
+| Colmar, *Ablehnung des Beitritts zur Konkordienformel*, 10 May 1578 (Moderate Reformed) | 20/2, p. 509 | 1408 | 15.3 |
 | Burzenland, *Beschlüsse des Burzenländer Kapitels zum Eid auf die Confessio Augustana*, 1573 | 24, p. 371 | 1694 | 16 |
 | Transylvanian Saxons, *Ordnung der Superintendentenwahl*, 1601 | 24, p. 480 | 1722 | 16 |
 
@@ -3629,8 +3637,8 @@ The table gives:
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Ziegenhainer Zuchtordnung*, 1539 (mediating) | 8, p. 104 | 2252 | 17.1 |
-| Hesse, *Kasseler Kirchenordnung*, 1539 (mediating) | 8, p. 125 | 2253 | 17.1 |
+| Hesse, *Ziegenhainer Zuchtordnung*, 1539 (Moderate Reformed) | 8, p. 104 | 2252 | 17.1 |
+| Hesse, *Kasseler Kirchenordnung*, 1539 (Moderate Reformed) | 8, p. 125 | 2253 | 17.1 |
 | Strasbourg, *Kirchenordnung von Johannes Marbach*, 1553 | 20/1, p. 396 | 1321 | 17.1 |
 | East Frisia (Reformed), *Microns Ordinancien* (1554), 1565 | 7/1, p. 607 | 2116 | 17.1 |
 | Schweinfurt, *Kirchenordnung*, 1543 | 11, p. 640 | 304 | 17.2 |

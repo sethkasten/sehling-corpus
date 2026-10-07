@@ -56,9 +56,12 @@ evangelischen Kirchenordnungen des XVI. Jahrhunderts* say about the **sermon**. 
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar.
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594.
   - The mark follows the order cited, not the territory, since a territory could change its
     tradition: Kurpfalz is Lutheran under Ottheinrich (1556) and Reformed from 1563.
 
@@ -133,9 +136,9 @@ German".
 - **The chief Sunday sermon: one hour at most**, often three quarters.
 - **Weekday, afternoon, catechism, funeral and wedding sermons: half an hour.**
 - The reason given is the hearer. "The common people can in no wise remain attentive longer"
-  (Augsburg 1537, mediating). The common man is like "a sick man, to whom one must set things
-  often, but little at once" (Württemberg 1536). "Long sermons … weaken the memory and make the
-  hearers weary" (Regensburg 1572).
+  (Augsburg 1537, Moderate Reformed). The common man is like "a sick man, to whom one must set
+  things often, but little at once" (Württemberg 1536). "Long sermons … weaken the memory and
+  make the hearers weary" (Regensburg 1572).
 - Sermons were to be shorter in winter cold (Castell 1579). Overrunning to an hour and a half
   drew complaints (Hohenlohe 1594).
 
@@ -229,11 +232,12 @@ heads.
   sermon) show the abuses the rules were made against. They do not show how common the abuses
   were.
 - **Orders of other traditions.** Sehling prints Reformed orders for the Palatinate,
-  Hesse-Kassel, Nassau, Ysenburg, Hanau, Anhalt, East Frisia and the Lower Rhine, and the
-  mediating orders of the Upper German cities, Philip's Hesse and Philippist Bremen. They are
-  cited here where they bear on the same questions (the Palatine class conventions, the
-  greeting, books in course, the length of the sermon), and each is marked with its tradition.
-  The wider Reformed practice of Sunday preaching in course is noted but not pursued.
+  Hesse-Kassel, Nassau, Ysenburg, Hanau, Anhalt, East Frisia and the Lower Rhine, the Moderate
+  Reformed orders of the Upper German cities and Philip's Hesse, and the Philippist orders of
+  Bremen and of Hesse under Philip's sons. They are cited here where they bear on the same
+  questions (the Palatine class conventions, the greeting, books in course, the length of the
+  sermon), and each is marked with its tradition. The wider Reformed practice of Sunday
+  preaching in course is noted but not pursued.
 - **Dates.** Several texts survive in later copies, or are pastors' reports undated except by
   the visitation. Their dates are given as Sehling gives them.
 
@@ -506,7 +510,7 @@ grasp, learn and retain [it].
 **Days of repentance.** From the 1540s, and above all in time of war, plague and the Turkish
 threat, the orders appoint **prayer days** (*Bettage*). These were weekly, monthly or
 occasional, with a sermon of repentance at their centre. **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, p. 260):
+(Moderate Reformed; Sehling 8, p. 260):
 
 <!-- doc 2257 -->
 > Derhalben werden bei uns uf gewisse bestimpte tage bettage angestelt und gehalten, in welchen
@@ -767,9 +771,10 @@ office and cure of souls, and drive the same with all faithful diligence by the 
 repentance, of the law and the gospel, faith and love, patience, and also the good works
 commanded of God; without which no cure of souls nor right Christian congregation can stand.
 
-**The uses of the sermon.** The Hessian order of 1566 (mediating) lists the uses of a sermon
-from 2 Timothy 3:16. It sets the limit of an hour, and it points to the short but weighty
-sermons of the Fathers. **Hesse, *Kirchenordnung*, 1566** (mediating; Sehling 8, p. 242):
+**The uses of the sermon.** The Hessian order of 1566 (Moderate Reformed) lists the uses of a
+sermon from 2 Timothy 3:16. It sets the limit of an hour, and it points to the short but weighty
+sermons of the Fathers. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, p. 242):
 
 <!-- doc 2257 -->
 > Es sollen aber die predigten nit uber ein stund weren und dahin gerichtet sein, daß sie leren,
@@ -839,8 +844,8 @@ and not "Netherlandish phrases", and whether he spoke slowly enough (§11.3).
 
 **The common rule.** Almost every order that sets a length gives the chief Sunday sermon **one
 hour at most**. Many give it three quarters. The reason given is always the hearer: the common
-man cannot attend longer, nor carry more away. **Augsburg, *Kirchenordnung*, 1537** (mediating;
-Sehling 12, p. 58):
+man cannot attend longer, nor carry more away. **Augsburg, *Kirchenordnung*, 1537**
+(Moderate Reformed; Sehling 12, p. 58):
 
 <!-- doc 338 -->
 > Es sollen auch dise alle gemaine sontägspredigen nit uber ain stund weren; dann das gemain
@@ -950,14 +955,14 @@ sermon; "afternoon" covers the midday, Vespers and catechism sermons.
 
 | Order | Sehling | Sun. | Afternoon | Weekday | Other |
 |---|---|---|---|---|---|
-| Augsburg, *Kirchenordnung*, 1537 (mediating) | 12, p. 58 | ≤ 1 h | | | |
+| Augsburg, *Kirchenordnung*, 1537 (Moderate Reformed) | 12, p. 58 | ≤ 1 h | | | |
 | Württemberg, *Kirchenordnung*, 1536 | 16, p. 104 | ≤ 1 h | | | |
 | Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, p. 91 | ≤ 1 h | | | |
 | Zwickau, *Verordnung der Visitatoren*, 1556 | 1, p. 726 | | | early sermon ≤ ½ h | |
 | Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, p. 290 | | | | funeral ≤ ½ h |
 | Regensburg, *Ordnung für die Geistlichen zur Pestzeit*, 1562 | 13, p. 435 | about ½ h (plague time) | | about ½ h | |
 | Ritschenhausen, *Gottesdienst-Ordnung*, 1562 | 2, p. 345 | ≤ ¾ h | | | |
-| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, p. 242 | ≤ 1 h | | | |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, p. 242 | ≤ 1 h | | | |
 | Gottleuba, 1567–1577 | 1, p. 567 | about 1 h | | | |
 | Prussia, *Kirchenordnung und ceremonien*, 1568 | 4, p. 74 | | | catechism sermons ≤ ½ h | |
 | Regensburg, *Kirchenregimentsordnung*, 1572 | 13, p. 510 | ≤ 1 h | | shorter still | |
@@ -1141,9 +1146,9 @@ in general by the holy Scripture and its examples, but attack no one specificall
 upon themselves to put [any] under the ban, and refrain from reviling and unseemly railing in
 the pulpit and elsewhere.
 
-An Augsburg preacher's contract of 1535 (mediating) has him swear to rebuke "gently and
+An Augsburg preacher's contract of 1535 (Moderate Reformed) has him swear to rebuke "gently and
 modestly", "but neither with naming nor with pointing at particular persons". **Augsburg,
-*Bestallung eines Predigers*, 1535** (mediating; Sehling 12, p. 46):
+*Bestallung eines Predigers*, 1535** (Moderate Reformed; Sehling 12, p. 46):
 
 <!-- doc 336 -->
 > daneben das ubel der notturft nach anregen, wie ainem getreuen christenlichen predicanten
@@ -1242,7 +1247,7 @@ preachers, and such an undertaking is not only against God's command and Christi
 rather great hostility and mistrust between high and low persons, and also contempt of all
 religion, ariseth thereby
 
-The same year the Philippist Bremen council (mediating) forbade railing in the pulpit and bound
+The same year the Bremen council (Philippist) forbade railing in the pulpit and bound
 preaching to Scripture and the Augsburg Confession (Sehling 7/2.2, p. 540). Johann Casimir's
 Reformed government in the Palatinate issued a mandate "against condemnations" in 1584
 (Sehling 14, p. 512). In 1609 Duke Johann Adolf of Gottorf forbade "unedifying school questions"
@@ -1605,7 +1610,7 @@ shillings for the weekday sermon.
 
 **Stay to the end.** Leaving after the sermon, before the Supper and the prayers, was a common
 complaint. The orders tell the preachers to exhort the people often to stay until the whole
-service is done. **Augsburg, *Kirchenordnung*, 1537** (mediating; Sehling 12, p. 58):
+service is done. **Augsburg, *Kirchenordnung*, 1537** (Moderate Reformed; Sehling 12, p. 58):
 
 <!-- doc 338 -->
 > Von vermanung an das volk, das es bis zu end bei der gemaind beleibe. Und sollen die prediger
@@ -1642,7 +1647,7 @@ and general prayer to after the sermon "because then the number of the people is
 | Schlieben, 1529 | 1 | ? | Thursday, not midsummer or midwinter | ? | catechism through the year |
 | Reutlingen, c. 1531 | 17/2 | ? | villages: weekly in winter | ? | catechism four times a year |
 | Wittenberg, 1533 | 1 | ? | Monday, Tuesday, Thursday, Friday | ? | |
-| Augsburg, 1535–1537 (mediating) | 12 | ? | ? | ≤ 1 h | no names in rebuke; stay to the end |
+| Augsburg, 1535–1537 (Moderate Reformed) | 12 | ? | ? | ≤ 1 h | no names in rebuke; stay to the end |
 | Württemberg, 1536 | 16 | ? | ? | ≤ 1 h | the common man as a sick man |
 | Schleswig-Holstein, 1542 | 23 | ? | ? | ≤ 1 h | prayer, text, exposition; no names |
 | Wurzen, 1542 | 2 | ? | ? | ? | repentance, law and gospel |
@@ -1652,10 +1657,10 @@ and general prayer to after the sermon "because then the number of the people is
 | Zwickau, 1556 | 1 | ? | early sermon Tuesday, Friday, Saturday | early sermon ≤ ½ h | for servants and craftsmen |
 | Albertine Saxony, *General-Artikel*, 1557 | 1 | morning gospel; afternoon catechism | once | ? | epistle moved to weekday in farming places |
 | Mecklenburg, *Conformitas*, c. 1560 | 5 | ? | ? | ? | funeral ≤ ½ h |
-| Lower Saxon Circle, 1562; Bremen, 1562 (mediating) | 23; 7/2.2 | ? | ? | ? | against railing and condemning |
+| Lower Saxon Circle, 1562; Bremen, 1562 (Philippist) | 23; 7/2.2 | ? | ? | ? | against railing and condemning |
 | Ritschenhausen, 1562 | 2 | festivals and Sundays | Wednesday and Friday | ≤ ¾ h | prayer, text, summary, doctrines, application, repetition |
 | Kurpfalz, 1563–1564 (Reformed) | 14 | ? | ? | ? | funeral: no praise; trial sermon |
-| Hesse, 1566 (mediating) | 8 | ? | ? | ≤ 1 h | teach, reprove, comfort; prayer days |
+| Hesse, 1566 (Moderate Reformed) | 8 | ? | ? | ≤ 1 h | teach, reprove, comfort; prayer days |
 | Gottleuba, 1567–1577 | 1 | gospel | Wednesday | about 1 h | summary, propositions, repetition |
 | Prussia, 1568 | 4 | ? | catechism sermons | catechism ≤ ½ h | banns from the pulpit |
 | Ansbach, 1570 | 11 | ? | ? | ? | disputations belong in the schools |
@@ -1730,9 +1735,9 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Reutlingen, *Kirchenordnung*, c. 1531 | 17/2, p. 42 | 827 | 4.2, 4.3 |
-| Augsburg, *Bestallung eines Predigers*, 1535 (mediating) | 12, p. 46 | 336 | 9.1 |
+| Augsburg, *Bestallung eines Predigers*, 1535 (Moderate Reformed) | 12, p. 46 | 336 | 9.1 |
 | Württemberg, *Kirchenordnung*, 1536 | 16, p. 104 | 651 | 7.1, 7.5 |
-| Augsburg, *Kirchenordnung*, 1537 (mediating) | 12, p. 58 | 338 | 7.1, 7.5, 12.3 |
+| Augsburg, *Kirchenordnung*, 1537 (Moderate Reformed) | 12, p. 58 | 338 | 7.1, 7.5, 12.3 |
 | Nördlingen, *Ordnung der ceremonien in der pfarkirchen zu Sant Georgen*, 1544 | 12, p. 319 | 373 | 10.2 |
 | Regensburg, *Ordnung für die Geistlichen zur Pestzeit*, 1562 | 13, p. 435 | 446 | 7.5 |
 | Kurpfalz, *Kirchenordnung*, 1563 (Reformed) | 14, p. 406 | 504 | 4.6 |
@@ -1765,7 +1770,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 242, 260 | 2257 | 4.5, 6.2, 7.5 |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 242, 260 | 2257 | 4.5, 6.2, 7.5 |
 | Nassau-Dillenburg, *Visitationsabschied*, 1570 | 10, p. 110 | 180 | 8.2 |
 | Nassau-Weilburg, *Kirchenordnung*, 1576 | 10, pp. 229, 232, 235 | 198 | 7.2, 7.5 |
 | Ysenburg-Birstein, *Kirchenzuchtordnung*, 1588 | 10, p. 638 | 229 | 12.1 |
@@ -1793,7 +1798,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | East Frisia, Norden, 1528 (Reformed) (editor's note on the medieval pulpit office) | 7/1, p. 431 | 2111 | 10.1 |
 | Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, p. 91 | 1576 | 6.3, 7.5, 9.1 |
 | Lower Saxon Circle, *Abschied des Lüneburger Kreistages*, 1562 | 23, p. 177 | 1582 | 9.3 |
-| Bremen, *Mandat zum Verbot des Scheltens auf der Kanzel*, 1562 (mediating) | 7/2.2, p. 540 | 2223 | 9.3 |
+| Bremen, *Mandat zum Verbot des Scheltens auf der Kanzel*, 1562 (Philippist) | 7/2.2, p. 540 | 2223 | 9.3 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, p. 1109 | 2151 | 4.6 |
 | Grubenhagen, *Kirchenordnung*, 1581 | 6/2, p. 1065 | 2058 | 4.7 |
 | Osnabrück, *Agende* (1588), 1618 | 7/1, p. 287 | 2101 | 11.2 |

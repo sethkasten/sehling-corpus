@@ -78,11 +78,14 @@ the church. It asks:
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar.
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594.
   - The mark follows the order cited, not the territory, since a territory could change its
-    tradition: Nassau-Dillenburg is Lutheran to 1570, mediating in 1575 and Reformed from 1581.
+    tradition: Nassau-Dillenburg is Lutheran to 1570, Philippist in 1575 and Reformed from 1581.
   - The Transylvanian Saxons' own orders and synods are Lutheran; only the diet decrees of the
     principality are multi-confessional.
 
@@ -171,14 +174,14 @@ home, and the youth to pray "morning and evening, also before and after meals an
 
 **7. Church workers: a higher standard** (§8.4). Sextons, schoolmasters and organists were held
 to the conduct required of ministers: "like other ministers of the church, of honest and godly
-conduct, no drunkards" (Hesse 1566, mediating). They were barred from taverns (Hoya 1581) and
-questioned at visitation about their own communion. The minister's wife, children and servants
-were inspected with him.
+conduct, no drunkards" (Hesse 1566, Moderate Reformed). They were barred from taverns (Hoya
+1581) and questioned at visitation about their own communion. The minister's wife, children and
+servants were inspected with him.
 
 **8. Schoolmasters: the catechism as primer** (§9). The schoolmaster taught the catechism, used
 it as the reading book, led the boys to sermon and catechism, led the singing, and was visited
-four times a year by the pastor (Esslingen 1534, mediating; Saxony 1555, 1580). In the towns
-schoolmistresses brought the girls (Palatinate 1595, Reformed).
+four times a year by the pastor (Esslingen 1534, Moderate Reformed; Saxony 1555, 1580). In the
+towns schoolmistresses brought the girls (Palatinate 1595, Reformed).
 
 **9. The magistrate: keeper of both tables** (§10). The Lutheran magistrate was to "uphold both
 tables of the Ten Commandments … in maintaining outward discipline" (Mecklenburg 1552). He was
@@ -202,27 +205,27 @@ The Reformed limited his office to "the body and temporal goods" (Hanau 1609, Re
 
 **11. First communion and confirmation: usually one act** (§11.3). Where the orders have
 confirmation, the children are "confirmed and admitted to communion for the first time" together
-(Hesse 1566, mediating). One course of instruction served both. Mansfeld (1580) examined them
-publicly the day before, monthly. Lauenburg (1585) confirmed twice a year, and Hessen-Kassel
-(1610, Reformed) heard them again after six months. Where there was no rite, as in Electoral
-Saxony, examination alone admitted to communion.
+(Hesse 1566, Moderate Reformed). One course of instruction served both. Mansfeld (1580) examined
+them publicly the day before, monthly. Lauenburg (1585) confirmed twice a year, and
+Hessen-Kassel (1610, Reformed) heard them again after six months. Where there was no rite, as in
+Electoral Saxony, examination alone admitted to communion.
 
 **12. Infant communion: acknowledged as ancient, set aside** (§11.6). No order gives the Supper
 to infants or argues for it. Four orders name the practice:
-- Hesse (1566, mediating) and Hohenlohe (1578) grant that infants communed in the time of
-  Cyprian and Augustine, but defer the Supper because of 1 Corinthians 11:28 and "the common
+- Hesse (1566, Moderate Reformed) and Hohenlohe (1578) grant that infants communed in the time
+  of Cyprian and Augustine, but defer the Supper because of 1 Corinthians 11:28 and "the common
   judgment of the first church". Hesse leaves the old custom "in its worth".
 - Oldenburg (1573) says that infants cannot examine themselves or discern the Lord's body.
-- The Reformed preacher at Markirch (1561) calls it an error of the ancients, who
-  thought that the uncommunicated were lost.
+- The Reformed preacher at Markirch (1561) calls it an error of the ancients, who thought that
+  the uncommunicated were lost.
 
 Children who died before first communion were buried like adults (Regensburg 1572/1588;
 Henneberg 1582). A dying child who knew the catechism might commune before confirmation
-(Nassau-Dillenburg 1575, mediating).
+(Nassau-Dillenburg 1575, Philippist).
 
 **13. Before marriage: examination, not counselling** (§§11.4–11.5). From the 1560s many orders
 refused to proclaim or marry young people who did not know the catechism (Saxony 1580; Hesse
-1566, mediating; Zweibrücken 1574), "since they are to keep house and get children and
+1566, Moderate Reformed; Zweibrücken 1574), "since they are to keep house and get children and
 servants". Some married them on a pledge, backed if need be by sureties, to attend the catechism
 afterwards (Wied 1616, Reformed). There was no counselling course. What the orders required was:
 - an interview some weeks before, on freedom to marry, parents' consent and the catechism
@@ -475,8 +478,8 @@ was chosen by the pastor together with the council (Sehling 1, p. 323).
 
 **One overseer, many names.** The evangelical orders replaced the bishop's oversight with a
 superintendent (*Superattendens*, *Inspector*, *Dechant*, *Decanus*, *Propst*). Augsburg in 1537
-(mediating) justifies the office from the apostolic church and says outright that the titles are
-one. **Augsburg, *Kirchenordnung*, 1537** (mediating; Sehling 12, p. 55):
+(Moderate Reformed) justifies the office from the apostolic church and says outright that the
+titles are one. **Augsburg, *Kirchenordnung*, 1537** (Moderate Reformed; Sehling 12, p. 55):
 
 <!-- doc 338 -->
 > derhalb bei den aposteln und hernacher in den kirchen allweg ain oder gar wenig furnemer
@@ -491,9 +494,9 @@ which names all mean one thing, that here the flock be not the worse kept throug
 […] In sum: they shall in all things have upon them, oversee and provide the highest care and
 provision of the congregation of Christ.
 
-At Augsburg (1537, mediating) the office rotated quarterly between the council's president and
-the senior provost. In the territories it was a standing office. Its installation is in
-[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §11.4.
+At Augsburg (1537, Moderate Reformed) the office rotated quarterly between the council's
+president and the senior provost. In the territories it was a standing office. Its installation
+is in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §11.4.
 
 ### 4.2 Electoral Saxony, 1555–1557: visitation, synod, report
 
@@ -727,13 +730,13 @@ theology only where their work touched the church's government.
   and the youth not neglected in their studies" (Sehling 1, p. 402).
 - **Examining and ordaining.** Candidates were examined and ordained at Wittenberg and Leipzig
   (Saxony 1557, Sehling 1, p. 321), at Marburg before "the teachers of God's word and the
-  professors of holy Scripture" (Hesse 1566, mediating, Sehling 8, p. 201), and by the
+  professors of holy Scripture" (Hesse 1566, Moderate Reformed, Sehling 8, p. 201), and by the
   theological faculty of Helmstedt, which was not to keep a candidate more than two days nor
   take more than two thalers (Gandersheim recess 1601, Sehling 6/2, p. 892).
 - **Overseeing the stipendiaries.** The prefect of the Marburg stipendiaries examined them twice
   a year "in the presence of all the professors of theology, that the examination may have the
   more weight and the wits be stirred to greater diligence". **Hesse, *Stipendiatenordnung*,
-  1546** (mediating; Sehling 8, p. 159):
+  1546** (Moderate Reformed; Sehling 8, p. 159):
 
 <!-- doc 2255 -->
 > Zum vierten soll er sie alle, des jars zweimal in beisein aller professoren theologiae
@@ -850,9 +853,9 @@ them with his person, delivery, bearing [and] repute" (1555, Sehling 2, p. 294).
 simply rejected. The superintendent was to send him to Wittenberg "with warning that he be
 provided beforehand by those that called him to the pastorate with needful expenses, that he may
 be instructed at Wittenberg some weeks, if need be, and await ordination without burdening
-anyone" (Saxony 1555, Sehling 1, p. 312). Hesse in 1566 (mediating) told examiners to keep
-promising candidates at Marburg for a time. **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, p. 201):
+anyone" (Saxony 1555, Sehling 1, p. 312). Hesse in 1566 (Moderate Reformed) told examiners to
+keep promising candidates at Marburg for a time. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, p. 201):
 
 <!-- doc 2257 -->
 > So aber die examinatores etlich aus denen, so zum examen gesant und geschickt befunden werden,
@@ -1058,8 +1061,8 @@ examination (*Verhör*) ([`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUID
 
 **Lay officers held to the minister's standard.** Sextons, organists, schoolmasters and church
 wardens were not ordained, but the orders held them to the conduct required of ministers. Hesse
-in 1566 (mediating) says so of the sextons ("*Opfermänner*"). **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, p. 211):
+in 1566 (Moderate Reformed) says so of the sextons ("*Opfermänner*"). **Hesse, *Kirchenordnung*,
+1566** (Moderate Reformed; Sehling 8, p. 211):
 
 <!-- doc 2257 -->
 > Es sollen auch dieselbige gleich wie andere diener der kirchen eines erbaren und gottseligen
@@ -1102,8 +1105,9 @@ and schools" and was bound to the same life (§3.3). His church duties were:
 
 His installation and oath are in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md),
 §12.3, and the choir service in [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §6.1. Esslingen's ten
-articles for the German schoolmaster (1534, mediating) are the shortest complete statement.
-**Esslingen, *Artikel für den deutschen Schulmeister*, [1534]** (mediating; Sehling 17/2, p. 381):
+articles for the German schoolmaster (1534, Moderate Reformed) are the shortest complete
+statement. **Esslingen, *Artikel für den deutschen Schulmeister*, [1534]**
+(Moderate Reformed; Sehling 17/2, p. 381):
 
 <!-- doc 881 -->
 > 1. Er sol sich beflyssen, die kinder zu underwysen und uffzuziehen in gottesforcht, zucht und
@@ -1411,12 +1415,12 @@ school.
 
 **Usually one act.** Was first communion separate from confirmation? In most orders that have a
 confirmation it is the same occasion: the children are examined, confirmed, and admitted to
-their first communion together. The Hessian form of 1566 (mediating) is headed "Questions and
-answers for the children who are to be confirmed and admitted to communion for the first time"
-(Sehling 8, p. 300). The heading recurs in the Hessian *Agende* of 1574 (mediating),
-Nassau-Weilburg 1576 and Hanau 1609 (Reformed) (Sehling 8, p. 433; 10, pp. 254, 498). Mansfeld
-held the examination publicly in church the day before. **Mansfeld, *Kirchen-agenda*, 1580**
-(Sehling 2, p. 233):
+their first communion together. The Hessian form of 1566 (Moderate Reformed) is headed
+"Questions and answers for the children who are to be confirmed and admitted to communion for
+the first time" (Sehling 8, p. 300). The heading recurs in the Hessian *Agende* of 1574
+(Philippist), Nassau-Weilburg 1576 and Hanau 1609 (Reformed)
+(Sehling 8, p. 433; 10, pp. 254, 498). Mansfeld held the examination publicly in church the day
+before. **Mansfeld, *Kirchen-agenda*, 1580** (Sehling 2, p. 233):
 
 <!-- doc 1241 -->
 > Nach dem auch in unsern kirchen bis daher diese christliche gewonheit erhalten ist, das man
@@ -1516,13 +1520,13 @@ house and get children and servants, it is profitable indeed, yea, the high nece
 earnest command of God require it, that they know how to instruct and bring up themselves and
 them rightly in the confession of Christian doctrine and true religion.
 
-Hesse (1566, mediating) has the same rule (Sehling 8, p. 322). The rule was repeated across the
-later century:
+Hesse (1566, Moderate Reformed) has the same rule (Sehling 8, p. 322). The rule was repeated
+across the later century:
 - Mansfeld, by resolution of its ministers, 1580 (Sehling 2, p. 233);
 - the Transylvanian synod of Hermannstadt, 1565: if they cannot answer, "one shall delay the
   copulation until they learn" (Sehling 24, p. 296);
 - Prussia, 1568 (Sehling 4, p. 93);
-- the Hessian *Reformationsordnung* of 1572 (mediating): the ignorant were not to be married,
+- the Hessian *Reformationsordnung* of 1572 (Philippist): the ignorant were not to be married,
   nor admitted to communion or to stand godparent, and were to be reported to the authorities
   (Sehling 8, p. 398);
 - Nassau-Diez 1585 (Reformed), Ysenburg-Birstein 1588, Marienhafe 1593 and the Solms discipline
@@ -1620,13 +1624,13 @@ it aside. Their reasons are three:
 - the children of Christians are saved by baptism and faith without the Supper, so to wait does
   them no harm.
 
-The orders of Hesse (mediating) and Hohenlohe (Lutheran) grant that infant communion was the
-custom in the time of Cyprian and Augustine. Hesse leaves the custom "in its worth" and does not
-condemn it. The Reformed preacher at Markirch (1561) calls it an error of the ancients.
+The orders of Hesse (Moderate Reformed) and Hohenlohe (Lutheran) grant that infant communion was
+the custom in the time of Cyprian and Augustine. Hesse leaves the custom "in its worth" and does
+not condemn it. The Reformed preacher at Markirch (1561) calls it an error of the ancients.
 
-**Hesse: the ancient custom left unjudged.** The Hessian order of 1566 (mediating) prefaces its
-rite of confirmation with the history. **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, pp. 286–287):
+**Hesse: the ancient custom left unjudged.** The Hessian order of 1566 (Moderate Reformed)
+prefaces its rite of confirmation with the history. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, pp. 286–287):
 
 <!-- doc 2257 -->
 > Vor zeiten ward den kindern gleich wie den alten, so bald sie getauft, auch das sacrament des
@@ -1759,9 +1763,9 @@ are, henceforth no difference shall be made herein, but the children shall be br
 with the ceremonies set down above, no less than the old.
 
 **The sick child.** The one exception to the order of instruction, confirmation and communion
-was the child in danger of death. Nassau-Dillenburg (1575, mediating) kept the unconfirmed from
+was the child in danger of death. Nassau-Dillenburg (1575, Philippist) kept the unconfirmed from
 the sacrament, but not a dying child who understood the catechism and asked for it.
-**Nassau-Dillenburg, *Agende*, 1575** (mediating; Sehling 10, p. 155):
+**Nassau-Dillenburg, *Agende*, 1575** (Philippist; Sehling 10, p. 155):
 
 <!-- doc 182 -->
 > Welche kinder auff solche weis noch nit verhort und confirmirt seint, die soll man vom
@@ -1792,9 +1796,9 @@ question, in date order. Section numbers refer to this guide.
 | Belzig and the Saxon visitations, 1529 | 1 | quarterly catechism series, a fortnight each, enforced by penalties (11.1) |
 | Brück, 1530 | 1 | daily catechism sermons before the high feasts; girls under eleven taught catechism (9.3, 11.1) |
 | Brandenburg-Nürnberg, 1533 | 11 | householders to bring children and servants to sermon and sacrament (8.2) |
-| Esslingen, 1534 (mediating) | 17/2 | ten articles for the German schoolmaster; catechism as primer (9.1) |
-| Augsburg, 1537 (mediating) | 12 | superattendent and bishop "one thing"; rotating oversight (4.1) |
-| Hesse, *Stipendiatenordnung*, 1546 (mediating) | 8 | stipendiaries examined twice a year before all theology professors (6) |
+| Esslingen, 1534 (Moderate Reformed) | 17/2 | ten articles for the German schoolmaster; catechism as primer (9.1) |
+| Augsburg, 1537 (Moderate Reformed) | 12 | superattendent and bishop "one thing"; rotating oversight (4.1) |
+| Hesse, *Stipendiatenordnung*, 1546 (Moderate Reformed) | 8 | stipendiaries examined twice a year before all theology professors (6) |
 | Nassau-Dillenburg synod, 1552 | 10 | *loci* set from synod to synod; pastors to buy books (7.5) |
 | Mecklenburg, 1552 | 5 | magistrate keeper of both tables (10.1) |
 | Electoral Saxony, *Generalia*, 1555 | 1 | superintendents' visitation and synod; weeks of instruction at Wittenberg; practice sermons; house-to-house examination; deacons' duties (3.5, 4.2, 7.2, 7.3, 11.1) |
@@ -1803,12 +1807,12 @@ question, in date order. Section numbers refer to this guide.
 | Markirch (Rappoltstein), 1561 (Reformed) | 20/2 | infant communion an error of the ancients (11.6) |
 | Weimar, 1561; Jena, 1569 | 1 | prince as supreme president; superintendent as president of the consistory (5.1, 5.2) |
 | Palatinate, *Kirchenratsordnung*, 1564; report, 1571 (Reformed) | 14 | trial sermon; new men to serve first as deacons; monthly convents with sermon criticism (7.3–7.5) |
-| Hesse, 1566 (mediating) | 8 | candidates kept at Marburg for lectures; sextons held to ministers' conduct; confirmation and first communion together; infant communion deferred; catechism before marriage (7.3, 8.4, 11.3, 11.4, 11.6) |
+| Hesse, 1566 (Moderate Reformed) | 8 | candidates kept at Marburg for lectures; sextons held to ministers' conduct; confirmation and first communion together; infant communion deferred; catechism before marriage (7.3, 8.4, 11.3, 11.4, 11.6) |
 | Lasseln (Transylvania), 1572; Mediasch synod, 1572 | 24 | elected deans; magistrate nourisher of churches and schools (4.4, 10.1) |
 | Regensburg, 1572/1588 | 13 | children of eight to ten not hurried to communion; buried like adults if they die first (11.2, 11.6) |
 | Oldenburg, 1573 | 7/2.1 | infants cannot examine themselves (11.6) |
 | Pfalz-Zweibrücken, 1574 | 18 | catechism before marriage, for the household's sake (11.4) |
-| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10 | sick child communicated before confirmation (11.6) |
+| Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10 | sick child communicated before confirmation (11.6) |
 | Nassau-Weilburg, 1576 | 10 | absentees counted house by house and fined; registers of confirmations (3.4, 8.1) |
 | Pfalz-Neuburg, 1576 | 13 | four-point examination before marriage; consistory book of candidates (7.4, 11.4) |
 | Hohenlohe, 1578; 1588 | 15 | daily hour of instruction in Lent before first communion at about twelve; communion once or twice a year; children saved without the Supper (8.1, 11.2, 11.6) |
@@ -1838,17 +1842,17 @@ Orders cited only in summary can be found through the table in §12 and the text
 
 | Order | Sehling | Doc | Quoted in § |
 |---|---|---|---|
-| Augsburg, *Kirchenordnung*, 1537 (mediating) | 12, p. 55 | 338 | 4.1 |
+| Augsburg, *Kirchenordnung*, 1537 (Moderate Reformed) | 12, p. 55 | 338 | 4.1 |
 | Belzig, *Ordnung der Stadt Belzig*, 1529 | 1, p. 527 | 63 | 11.1 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 188 | 270 | 8.2 |
 | Electoral Saxony, *Generalia, alle superintendentes belangende*, 1555 | 1, pp. 313, 314, 315 | 36 | 3.5, 7.2, 11.1 |
 | Electoral Saxony, *General-Artikel und gemeiner Bericht*, 1557 | 1, pp. 320–321, 322 | 37 | 3.2, 3.3, 4.2, 7.3 |
-| Esslingen, *Artikel für den deutschen Schulmeister*, [1534] (mediating) | 17/2, p. 381 | 881 | 9.1 |
+| Esslingen, *Artikel für den deutschen Schulmeister*, [1534] (Moderate Reformed) | 17/2, p. 381 | 881 | 9.1 |
 | Grubenhagen, *Officium superintendentis Grubenhagici*, 1600 | 6/2, p. 1109 | 2058 | 4.3 |
 | Hanau-Münzenberg, *Presbyteriumsordnung*, [1609] (Reformed) | 10, p. 512 | 211 | 10.3 |
 | Henneberg, *Kirchenordnung*, 1582 | 2, p. 316 | 1247 | 11.6 |
-| Hesse, *Stipendiatenordnung*, 1546 (mediating) | 8, p. 159 | 2255 | 6 |
-| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 201, 211, 286–287 | 2257 | 7.3, 8.4, 11.6 |
+| Hesse, *Stipendiatenordnung*, 1546 (Moderate Reformed) | 8, p. 159 | 2255 | 6 |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 201, 211, 286–287 | 2257 | 7.3, 8.4, 11.6 |
 | Hessen-Kassel, *Konsistoriumsordnung*, 1610 (Reformed) | 9, p. 118 | 2287 | 11.3 |
 | Hohenlohe, *Kirchenordnung*, 1578 | 15, pp. 277, 334 | 574 | 11.2, 11.6 |
 | Hohenlohe, *Polizei- und Rügordnung*, 1588 | 15, p. 594 | 613 | 8.1 |
@@ -1858,7 +1862,7 @@ Orders cited only in summary can be found through the table in §12 and the text
 | Mansfeld, *Kirchen-agenda*, 1580 | 2, p. 233 | 1241 | 11.3 |
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, p. 189 | 1922 | 10.1 |
 | Nassau-Dillenburg, *Synodalabschied*, 1552 | 10, p. 93 | 172 | 7.5 |
-| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10, p. 155 | 182 | 11.6 |
+| Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10, p. 155 | 182 | 11.6 |
 | Nassau-Dillenburg, *Abschied der Dillenburger Generalsynode*, 1582 (Reformed) | 10, p. 173 | 186 | 8.2 |
 | Nassau-Weilburg, *Kirchenordnung*, 1576 | 10, p. 309 | 198 | 8.1 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, p. 1047 | 2148 | 11.6 |

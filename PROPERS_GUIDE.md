@@ -59,12 +59,15 @@ then made from the Latin, with notes on where the German shortens, adds to or ch
   another tradition is marked where it is cited, by its name in brackets after the order, as
   "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
   - **Radical Reformation**: Thomas Müntzer's Allstedt orders.
   - The mark follows the order cited, not the territory, since a territory could change its
-    tradition: Strasbourg is mediating until the Interim of 1548 and Lutheran after it.
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it.
   - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
     (`CHURCH_ORDERS_GUIDE.md`, §4).
   - The orders that took over Müntzer's German propers (Erfurt 1525,
@@ -197,7 +200,7 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
 - **German translations of the Latin:**
     - **Müntzer's** (1524, Radical Reformation), carried on by Erfurt, Calenberg-Göttingen and
       the Lippe villages;
-    - **Strasbourg's** (1524, mediating);
+    - **Strasbourg's** (1524, Moderate Reformed);
   - **Dortmund's** Low German (1554), which alone translates the whole Roman series, Lent,
     Cross, the Virgin and the Apostles included.
 - **New German Prefaces.** There are four:
@@ -231,9 +234,10 @@ read in context.
   introit, gradual, sequence, offertory and communion. This guide deals with the propers
   themselves: the Latin chant, German prose versions, and the lessons and Prefaces.
 - [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md) gives the German **common** Prefaces
-  of the early German Masses (Kantz, Worms (mediating), Volprecht, Döber, Bremen) and the
-  Preface sections of Müntzer (Radical Reformation), Strasbourg (mediating), the Kiel Mass and
-  Lippe. Those texts are cited here, not repeated, except where a Proper Preface is concerned.
+  of the early German Masses (Kantz, Worms (Moderate Reformed), Volprecht, Döber, Bremen) and
+  the Preface sections of Müntzer (Radical Reformation), Strasbourg (Moderate Reformed), the
+  Kiel Mass and Lippe. Those texts are cited here, not repeated, except where a Proper Preface
+  is concerned.
 
 **Cautions.** Four things limit what the corpus can show:
 - **Silence is not absence.** Many orders say only "the introit" or "the gradual", or "as
@@ -364,10 +368,10 @@ German Mass for the Sundays and the feasts with German epistles, gospels, allelu
 Prefaces, but it has a German psalm "in place of the offertory" (Sehling 6/2, pp. 813–833).
 Sehling's editors trace its Prefaces to Müntzer and to the Erfurt *Kirchenamt*.
 
-**Strasbourg 1524** (mediating). The **Strasbourg *Teutsche Meß*** of 1524 gives German Prefaces
-for the feasts (Sehling 20/1, pp. 133–134). Its Augsburg reprint explains each Latin heading for
-the reader: "Introitus – Das nennet man anfang oder eingang", "that is called the beginning or
-entrance" (p. 135). Its successors drop the Preface (§8.1).
+**Strasbourg 1524** (Moderate Reformed). The **Strasbourg *Teutsche Meß*** of 1524 gives German
+Prefaces for the feasts (Sehling 20/1, pp. 133–134). Its Augsburg reprint explains each Latin
+heading for the reader: "Introitus – Das nennet man anfang oder eingang", "that is called the
+beginning or entrance" (p. 135). Its successors drop the Preface (§8.1).
 
 **Later German prose propers.** These are fewer:
 - Wittgenstein 1555 lets the festal introits be "learned and sung in German in the villages"
@@ -491,11 +495,11 @@ between Christmas and Candlemas shall be sung in the villages for an introit. [�
 *Resurrexi*; at the Ascension: *Viri Galilaei*; at Pentecost: *Spiritus Domini*; on Trinity:
 *Benedicta sit sancta Trinitas*.
 
-**Hesse, late in the century.** The Hessian *Agende* of 1574 (mediating) allows a Latin psalm
+**Hesse, late in the century.** The Hessian *Agende* of 1574 (Philippist) allows a Latin psalm
 "or introit" only where there are people who understand it, and only "at the beginning, before
 the whole congregation cometh together". In the villages German songs only are to be sung, and
 in the towns German songs for the most part. **Hesse, *Agende*, 1574**
-(mediating; Sehling 8, p. 411):
+(Philippist; Sehling 8, p. 411):
 
 <!-- doc 2272 -->
 > ein lateinischer psalm oder introitus gesungen werden, doch daß auf den dorfen durchaus, in
@@ -928,7 +932,7 @@ public exhortation and paraphrase of the Our Father, which the priest shall make
 in prescribed words, right loud and audibly […]
 
 - The Prussian order of 1568 repeats it (Sehling 4, p. 81).
-- The Strasbourg agendas after 1525 (mediating) have no Preface or Sanctus
+- The Strasbourg agendas after 1525 (Moderate Reformed) have no Preface or Sanctus
   (Sehling 20/1, p. 63, editor's introduction).
 - The Engerhafe liturgy in East Frisia (1583) replaces the Preface with Psalm 111
   (Sehling 7/1, p. 677, n. 20).
@@ -1365,7 +1369,7 @@ by side in the same order.
 | Volprecht, Nürnberg, 1524 | 11 | L | ? | L | — ("never said") | Common, cut | L (*de quo sit missa*) | — |
 | Wittenberg report, 1525 | 1 | L | L | L (no sequence) | L | L | ? | — |
 | Erfurt *Deutsches Kirchenamt*, 1525 | 2 | G | G | G | G (Easter, Pentecost); H (Trinity) | G (Müntzer's, plus Trinity) | G; H (Advent) | Notated |
-| Strasbourg *Teutsche Meß*, 1524 (mediating) | 20/1 | ? | G | ? | ? | G (Christmas, Epiphany, Easter, Ascension, Pentecost; Cross in Schwarz) | ? | — |
+| Strasbourg *Teutsche Meß*, 1524 (Moderate Reformed) | 20/1 | ? | G | ? | ? | G (Christmas, Epiphany, Easter, Ascension, Pentecost; Cross in Schwarz) | ? | — |
 | Luther, *Deutsche Messe*, 1526 | 1 | H | G (8th and 5th tones) | H | — | — | H | New tones |
 | Nürnberg report for Goslar, 1528 | 7/2.2 | L | G (levites) | gradual "in a tone made for it" | — | Common, cut | ? | New tone |
 | Hamburg, 1529 | 5 | ? | ? | ? | ? | L on feasts; Trinity on Sundays | ? | Prophecy cadence written out |
@@ -1395,7 +1399,7 @@ by side in the same order.
 | Kurland, 1570 | 5 | ? | ? | ? | ? | G "customary noted" daily; G festal (3) | ? | Notated |
 | Lippe, 1571 | 21 | L on feasts of Christ | ? | ? | ? | L in towns / G in villages: Christmas, Easter, Pentecost, Michaelmas | ? | Notated |
 | Brandenburg visitation, 1573 | 3 | ? | **L "old melody", then G read** | ? | ? | ? | ? | Old melody required |
-| Hesse *Agende*, 1574 (mediating) | 8 | L only before the people gather; H | ? | ? | ? | ? | ? | — |
+| Hesse *Agende*, 1574 (Philippist) | 8 | L only before the people gather; H | ? | ? | ? | ? | ? | — |
 | Nördlingen, 1579 | 12 | Organ plus scholars *figuraliter* on feasts; H on Sundays | ? | ? | ? | ? | ? | Polyphony, organ |
 | Grubenhagen, 1581; Hoya, 1581 | 6/2 | L (Hoya: pastor) | ? | ? | ? | L where schools; Michaelmas (Hoya); German Isaiah 53 Preface (Grubenhagen) | ? | Notated |
 | Hof, 1592 | 11 | L figural on feasts / G on Sundays; organ and three choirs | L then G | L from the Missal or Lossius; tract | ? | L from Lossius on chief feasts | Motets | Senfl, Lassus, Clemens, Victoria |
@@ -1490,7 +1494,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Agende*, 1574 (mediating) | 8, p. 411 | 2272 | 4.2 |
+| Hesse, *Agende*, 1574 (Philippist) | 8, p. 411 | 2272 | 4.2 |
 
 **Franconia, Bavaria, the Palatinates and Swabia**
 
@@ -1521,7 +1525,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Strasbourg, Mass of Diebold Schwarz, and *Teutsche Meß und Tauff*, 1524 (mediating) | 20/1, pp. 121, 133–135 | 1279 | 3.2, 8.1, A.2, A.3, A.5–A.8 |
+| Strasbourg, Mass of Diebold Schwarz, and *Teutsche Meß und Tauff*, 1524 (Moderate Reformed) | 20/1, pp. 121, 133–135 | 1279 | 3.2, 8.1, A.2, A.3, A.5–A.8 |
 
 ---
 
@@ -1569,7 +1573,7 @@ Their texts are not in the corpus. Where their headings are given, they match th
 set.
 
 **Already in the Canon guide.** The *common* Preface in German is also rendered in
-[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), for Kantz, Worms (mediating),
+[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), for Kantz, Worms (Moderate Reformed),
 Volprecht, Döber and Bremen. Those renderings are not repeated here.
 
 ### A.1 The dialogue and the common Preface (*Quotidiana*, *Praefatio communis*)
@@ -1683,8 +1687,8 @@ Dörffern an Weihenachten" (21, p. 410). **Allstedt, Thomas Müntzer, *Deutsch e
 - **Lippe 1571** substitutes "Lobgesang deines preyses", "a song of praise of thy glory", for
   *eine leisen*.
 
-**German (2): Strasbourg** (mediating). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Etliche
-vorreden"** (mediating; Sehling 20/1, p. 133):
+**German (2): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Etliche vorreden"** (Moderate Reformed; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 > So du in der oben angezeigten Prefation gelesen hast das wörtlin Ewiger Gott, so folget: Dann
@@ -1743,8 +1747,8 @@ host, we sing the hymn of thy glory, evermore saying:
 
 *Note.* The Lower Saxon orders print *qui cum* where the Missal has *quia cum*.
 
-**German: Strasbourg** (mediating). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander
-Vorred"** (mediating; Sehling 20/1, p. 133):
+**German: Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein
+ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 > Ewiger Gott, So dein eingeborner sun in dem wesen unser tödtlicheit erschinen ist, hat er uns
@@ -1785,8 +1789,8 @@ the common Preface.
 ### A.5 Passiontide and the Holy Cross (*Qui salutem humani generis in ligno crucis*)
 
 **Witnesses:** Müntzer 1524 (Radical Reformation; 1, p. 502), Erfurt 1525 (2, p. 380),
-Calenberg-Göttingen 1542 (6/2, p. 826), Strasbourg 1524 (mediating; 20/1, p. 121) and Dortmund
-1554 (21, p. 210).
+Calenberg-Göttingen 1542 (6/2, p. 826), Strasbourg 1524 (Moderate Reformed; 20/1, p. 121) and
+Dortmund 1554 (21, p. 210).
 - Müntzer, Erfurt and Calenberg use it in the Mass "of the suffering of Christ".
 - Strasbourg puts it in its ordinary Sunday Mass.
 - Dortmund uses it "of the Cross and Passion of Christ".
@@ -1815,9 +1819,9 @@ quoque vinceretur*, "and that he who by a tree overcame might also by a tree be 
 Erfurt and Calenberg follow him. Calenberg completes the ending with the full German common
 Preface, "durch welchen loben die engel … ohne ende sagende".
 
-**German (2): Strasbourg, Schwarz** (mediating). Diebold Schwarz's Strasbourg Mass expands that
-last clause with a reference to Adam and to the obedience shown on the tree. **Strasbourg, Mass
-of Diebold Schwarz, 1524** (mediating; Sehling 20/1, p. 121):
+**German (2): Strasbourg, Schwarz** (Moderate Reformed). Diebold Schwarz's Strasbourg Mass
+expands that last clause with a reference to Adam and to the obedience shown on the tree.
+**Strasbourg, Mass of Diebold Schwarz, 1524** (Moderate Reformed; Sehling 20/1, p. 121):
 
 <!-- doc 1279 -->
 > Es geburt sich furwor und ist billich, recht und heilsam, das wir dir alweg an allen orten
@@ -1932,8 +1936,8 @@ Kirchenordnung*, 1570, "Auf ostern"** (Sehling 5, p. 90):
 "sacrificed for us", and it says that Christ by his death "overcame death" instead of "destroyed
 our death".
 
-**German (3): Strasbourg** (mediating). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander
-Vorred"** (mediating; Sehling 20/1, p. 133):
+**German (3): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Ein ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 > Recht und heylsam, das man dich allweg herrlich rüm und preyße, Dann unser osterlamb Christus
@@ -2007,8 +2011,8 @@ all his disciples, and in their sight was lifted up into heaven, that he might g
 partakers of his Godhead. And therefore with Angels and Archangels, with Thrones and Dominions,
 and with all the company of the heavenly host, we sing the hymn of thy glory, evermore saying:
 
-**German (1): Strasbourg** (mediating). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander
-Vorred"** (mediating; Sehling 20/1, p. 134):
+**German (1): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Ein ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 134):
 
 <!-- doc 1279 -->
 > Ewiger Gott, durch Christum, unnsern herrn, Der nach seiner aufferstendtnuß seinen jüngern
@@ -2105,8 +2109,8 @@ office of the Holy Ghost** (Radical Reformation; Sehling 1, p. 504):
 - ***Supernae virtutes atque angelicae potestates*** becomes "all the heavenly host", who "sing
   a *Leise*".
 
-**German (2): Strasbourg** (mediating). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander
-Vorred"** (mediating; Sehling 20/1, p. 134):
+**German (2): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Ein ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 134):
 
 <!-- doc 1279 -->
 > Ewiger Gott, durch Christum, unnsern hern, Der, auffgestigen über alle hymmel und sitzend zuo
@@ -2441,14 +2445,14 @@ heavenly hosts we sing a song of praise of thy glory, without end saying:
 
 | Preface | Latin in the corpus | German or Low German in the corpus |
 |---|---|---|
-| Common (*Quotidiana*) | Lüneburg 1564, Wolfenbüttel 1569, Verden 1606; for Michaelmas: Hoya 1581, Osnabrück 1618, Lippe 1571; cut short: Luther 1523, Nürnberg 1524 | Dortmund 1554; Kantz, Worms (mediating), Volprecht, Döber, Bremen (see the Canon guide) |
-| Christmas | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer 1524 (Radical Reformation), Erfurt 1525, Calenberg 1542, Lippe 1571; Strasbourg 1524 (mediating); Dortmund 1554; Kurland 1570 (new text, §A.14) |
-| Epiphany | Lüneburg, Wolfenbüttel, Verden | Strasbourg 1524 (mediating); Dortmund 1554 |
+| Common (*Quotidiana*) | Lüneburg 1564, Wolfenbüttel 1569, Verden 1606; for Michaelmas: Hoya 1581, Osnabrück 1618, Lippe 1571; cut short: Luther 1523, Nürnberg 1524 | Dortmund 1554; Kantz, Worms (Moderate Reformed), Volprecht, Döber, Bremen (see the Canon guide) |
+| Christmas | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer 1524 (Radical Reformation), Erfurt 1525, Calenberg 1542, Lippe 1571; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Kurland 1570 (new text, §A.14) |
+| Epiphany | Lüneburg, Wolfenbüttel, Verden | Strasbourg 1524 (Moderate Reformed); Dortmund 1554 |
 | Lent | — | Dortmund 1554 |
-| Passion and Cross | — | Müntzer (Radical Reformation), Erfurt, Calenberg; Strasbourg (Schwarz) 1524 (mediating); Dortmund 1554; Grubenhagen 1581 (new Isaiah 53 text, §A.12) |
-| Easter | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571, Kiel; Kurland 1570; Strasbourg 1524 (mediating); Dortmund 1554; Calenberg's Sunday form |
-| Ascension | Lüneburg, Wolfenbüttel, Hoya, Verden | Strasbourg 1524 (mediating); Calenberg 1542; Dortmund 1554 |
-| Pentecost | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571; Strasbourg 1524 (mediating); Dortmund 1554; Kurland 1570 (§A.15) |
+| Passion and Cross | — | Müntzer (Radical Reformation), Erfurt, Calenberg; Strasbourg (Schwarz) 1524 (Moderate Reformed); Dortmund 1554; Grubenhagen 1581 (new Isaiah 53 text, §A.12) |
+| Easter | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571, Kiel; Kurland 1570; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Calenberg's Sunday form |
+| Ascension | Lüneburg, Wolfenbüttel, Hoya, Verden | Strasbourg 1524 (Moderate Reformed); Calenberg 1542; Dortmund 1554 |
+| Pentecost | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Kurland 1570 (§A.15) |
 | Trinity | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden | Lippe 1525; Dortmund 1554 |
 | Blessed Virgin | — | Dortmund 1554; Müntzer (Radical Reformation), Erfurt, Calenberg (reworded for Advent and Trinity) |
 | Apostles | — | Dortmund 1554 |

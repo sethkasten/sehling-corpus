@@ -68,12 +68,15 @@ The guide asks:
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar.
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594.
   - The mark follows the order cited, not the territory, since a territory could change its
-    tradition: Strasbourg is mediating until the Interim of 1548 and Lutheran after it, and
-    Kurpfalz Lutheran in 1556 and Reformed from 1563.
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it,
+    and Kurpfalz Lutheran in 1556 and Reformed from 1563.
   - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
     (`CHURCH_ORDERS_GUIDE.md`, §4).
 
@@ -200,14 +203,15 @@ The guide asks:
 - **When.** Usually Sunday at noon or one o'clock (Mecklenburg 1552; Neckarbischofsheim 1560;
   Lippe 1571); sometimes early in the morning (Schwäbisch Hall 1543), inside Vespers (Naumburg
   1537; Sangerhausen 1555; Thorn 1575), or as a recitation of the bare text in the morning
-  service (Strasbourg 1548, mediating, on the Interim; Palatinate 1563, Reformed; Saxony 1580).
-- **How long.** Half an hour for the exposition or the examination (Hesse 1566, mediating; Thorn
-  1575; Emden 1565 and Palatinate 1601, Reformed), an hour at most for the whole (Rostock c.
-  1560; Hohenlohe 1596).
+  service (Strasbourg 1548, Moderate Reformed, on the Interim; Palatinate 1563, Reformed; Saxony
+  1580).
+- **How long.** Half an hour for the exposition or the examination (Hesse 1566, Moderate
+  Reformed; Thorn 1575; Emden 1565 and Palatinate 1601, Reformed), an hour at most for the whole
+  (Rostock c. 1560; Hohenlohe 1596).
 - **The order.** Bell; a catechism hymn; the Our Father or a prayer; the text of the chief parts
   said by the pastor or recited by boys; one part expounded in course; the children examined by
   question and answer; a prayer, often for the children; hymn and blessing (Neckarbischofsheim
-  1560; Hesse 1566, mediating; Lippe 1571).
+  1560; Hesse 1566, Moderate Reformed; Lippe 1571).
 - **The Reformed form.** The Heidelberg Catechism was divided into Sundays; the youth recited
   the portion and the minister expounded the next, preaching it through yearly (Palatinate
   1563). Hanau (1609, Reformed) examined the young in five classes, and kept the adults back
@@ -1772,8 +1776,8 @@ Thorn (1575, Sehling 4, pp. 236, 238).
 
 **The length.** The orders that set a length give **half an hour** for the exposition or the
 examination, and **an hour** at most for the whole:
-- Hesse (1566, mediating): the youth "is questioned and taught in the catechism about half an
-  hour" every Sunday (Sehling 8, p. 252);
+- Hesse (1566, Moderate Reformed): the youth "is questioned and taught in the catechism about
+  half an hour" every Sunday (Sehling 8, p. 252);
 - the Palatinate (1601, Reformed): "some questions … expounded for half an hour"
   (Sehling 14, p. 558);
 - Thorn (1575): "half a little hour" of catechism preaching between the hymn and the
@@ -1789,8 +1793,8 @@ Veit Dietrich's Nürnberg *Agendbüchlein* (1545) joins a catechism sermon, read
 book, to the Litany on the one weekday when the people met, "so that this be ended in about half
 an hour at the longest, and the people come again to their work" (Sehling 11, p. 504).
 
-**The season.** Nassau-Dillenburg (1575, mediating) held the Sunday afternoon *Kinderlehre* only
-"from Whitsun until Michaelmas", with a weekday hour through the whole year in the towns
+**The season.** Nassau-Dillenburg (1575, Philippist) held the Sunday afternoon *Kinderlehre*
+only "from Whitsun until Michaelmas", with a weekday hour through the whole year in the towns
 (Sehling 10, p. 148). At Obermaßfeld (Henneberg, 1563) the pastor took the Passion history
 instead of the catechism in Lent, and gave the children questions on the Passion
 (Sehling 2, p. 343). Limpurg (1610) let the catechism sermon and the children's recitation fall
@@ -1879,9 +1883,9 @@ saith: Let us thank God the Lord with the song of praise. Hereupon the schoolmas
 in his stead, singeth the last stanza of the hymn *Herr Gott, dein Treu mit Gnaden leist*.
 Thereafter the pastor stepeth before the altar and giveth the blessing.
 
-**Hesse, 1566: two kinds of hearer.** The Hessian order (mediating) gives the fullest rationale,
-and divides the exposition between "the children and simple" and those who have grasped the
-text. **Hesse, *Kirchenordnung*, 1566** (mediating; Sehling 8, pp. 251–252):
+**Hesse, 1566: two kinds of hearer.** The Hessian order (Moderate Reformed) gives the fullest
+rationale, and divides the exposition between "the children and simple" and those who have
+grasped the text. **Hesse, *Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, pp. 251–252):
 
 <!-- doc 2257 -->
 > Wenn nun die gemeine zum catechismo kommen, werden diese ding nacheinander verrichtet:
@@ -1917,9 +1921,9 @@ go.
 Between the recitation and the examination came the sermon, divided into two parts: first "with
 short and understandable words" for the children and simple, then "with proofs of the sayings of
 holy Scripture" for those who had the text already (Sehling 8, pp. 251–252). Where the people
-met only once on Sunday afternoon, Hesse (mediating) folded the catechism into the afternoon
-service: psalm, epistle, its exposition, the catechism read, one part expounded, the children
-questioned, a psalm and the blessing (Sehling 8, p. 253).
+met only once on Sunday afternoon, Hesse (Moderate Reformed) folded the catechism into the
+afternoon service: psalm, epistle, its exposition, the catechism read, one part expounded, the
+children questioned, a psalm and the blessing (Sehling 8, p. 253).
 
 **Württemberg, 1553: exposition, hearing, prayer.** The Württemberg order is briefer. It asks
 each pastor or deacon to set "a special time" on Sunday for the catechism, chiefly for the
@@ -2109,11 +2113,11 @@ part each Monday, "and begun again" (Sehling 4, p. 236).
 
 **The text before the gospel or after the sermon.** Many orders had the bare text of the
 catechism said in the morning service, so that the whole congregation heard it every Sunday:
-- **Strasbourg 1548** (mediating; an agreement of the clergy on the Interim): after the morning
-  sermon, which was not to run "beyond a third of an hour" at the cathedral and half an hour
-  elsewhere, "the recitation of the six *loci* of the catechism ought to follow the exposition
-  of the gospel"; at the cathedral the first three one Sunday, the other three the next
-  (Sehling 20/1, p. 355).
+- **Strasbourg 1548** (Moderate Reformed; an agreement of the clergy on the Interim): after the
+  morning sermon, which was not to run "beyond a third of an hour" at the cathedral and half an
+  hour elsewhere, "the recitation of the six *loci* of the catechism ought to follow the
+  exposition of the gospel"; at the cathedral the first three one Sunday, the other three the
+  next (Sehling 20/1, p. 355).
 - **Albertine Saxony 1580**: the visitors asked whether the pastor "speak the catechism to the
   people on Sundays and holy days before the gospel is read" (Sehling 1, p. 393).
 - **Pomerania 1569**: in the villages the sexton is to read a piece of the catechism "after the
@@ -2260,7 +2264,7 @@ prayer; B = blessing; V = set within Vespers.
 | Rostock, *Conformitas*, c. 1560 | 5, p. 289 | Sunday 12 noon | psalms from 11; X; P; psalm | X ≤ 1 hour |
 | Palatinate, 1563 (Reformed) | 14, p. 342 | Sunday afternoon | H, P, T (Decalogue), beginners heard, R (Sunday portion), X | catechism yearly |
 | Emden (Micron), 1565 (Reformed) | 7/1, p. 606 | Sunday | X (great catechism), E of little children twice a year, exhortation, thanksgiving | X ½ hour |
-| Hesse, 1566 (mediating) | 8, pp. 251–253 | Sunday afternoon | psalm, catechism hymn, T, X (two parts), E, psalm, B | E about ½ hour |
+| Hesse, 1566 (Moderate Reformed) | 8, pp. 251–253 | Sunday afternoon | psalm, catechism hymn, T, X (two parts), E, psalm, B | E about ½ hour |
 | Sulzfeld, 1566 | 2, p. 353 | Sunday Vespers (V) | psalm, H, R, *Te Deum*, T, E, X, *Magnificat*, C, *Benedicamus* | — |
 | Lippe, 1571 (Oldenburg 1573) | 21, p. 397 | Sunday 1 p.m., villages | bell, catechism hymn, T, X by question and answer, E | — |
 | Pfalz-Veldenz, 1574 | 18, p. 523 | Sunday 1 or 2 p.m. | H, P, E with R, psalm, T, X, P, H, B | — |
@@ -2409,9 +2413,9 @@ Christendom. Three boys, clad in white surplices, kneel before the altar and sin
 choir. The schoolboys and the common assembly answer and sing the second choir.
 
 The same arrangement appears elsewhere:
-- **Cologne, the prayer-day order of 1546** (mediating): three or four boys "vor eynen altar
-  knyende" begin the Litany, and the whole choir with the pastor, chaplains and priests answers
-  (Sehling 22, p. 45).
+- **Cologne, the prayer-day order of 1546** (Moderate Reformed): three or four boys "vor eynen
+  altar knyende" begin the Litany, and the whole choir with the pastor, chaplains and priests
+  answers (Sehling 22, p. 45).
 - **Waldeck 1556**: "etliche der Schüler oder der Pfarrherr, vor dem Altar niderkniend"
   (Sehling 9, p. 277).
 - **Marggrabowa 1581**: every Friday, "zwen oder drei knaben furm altar knien", Luther's Litany
@@ -2625,7 +2629,7 @@ Nördlingen (1579) likewise has only "solt du dich segnen und also sagen" (Sehli
 | Schwäbisch Hall 1543 | Sunday catechism | children set in pairs | 17/1, p. 162 |
 | Schweinfurt 1543 | Vespers; catechism | lesson read "zum volk"; good speakers step out facing | 11, pp. 631, 642 |
 | Coburg 1545 | Vespers | lesson from pulpit or middle altar | 1, p. 543 |
-| Cologne 1546 (mediating) | Litany on prayer days | boys kneel before an altar | 22, p. 45 |
+| Cologne 1546 (Moderate Reformed) | Litany on prayer days | boys kneel before an altar | 22, p. 45 |
 | Stolberg-Königstein 1552 | morning lesson | three collects sung kneeling | 9, p. 468 |
 | Waldeck 1556 | Litany after the sermon | scholars or pastor kneel before the altar | 9, p. 277 |
 | Palatinate 1556 | household blessing | sign of the cross; creed kneeling or standing | 14, p. 141 |
@@ -2779,7 +2783,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Nördlingen, *Ordnung der ceremonien in der pfarkirchen zu Sant Georgen*, 1544 | 12, p. 319 | 373 | 10.3, 10.7 |
 | Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, p. 504 | 297 | 10.2, 10.5 |
 | Kurpfalz, *Bedenken zur Reformation der Stiftskirchen*, 1546 | 14, p. 91 | 470 | 4.2 |
-| Strasbourg, *Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung*, 1548 (mediating; on the Interim) | 20/1, p. 355 | 1316 | 10.5 |
+| Strasbourg, *Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung*, 1548 (Moderate Reformed; on the Interim) | 20/1, p. 355 | 1316 | 10.5 |
 | Regensburg, *Kirchenordnung* under Justus Jonas, 1553 | 13, p. 421 | 440 | 10.4 |
 | Württemberg, *Kirchenordnung*, 1553 | 16, pp. 243, 246 | 671 | 10.2, 10.3, 10.7 |
 | Öhringen, *Reformation und Ordnung des Öhringer Stifts*, 1556 | 15, p. 102 | 545 | 4.2 |
@@ -2854,7 +2858,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Stift Osnabrück, *Ordinatio Magistri Hermanni Bonni* (Quakenbrück), 1543 | 7/1, p. 229 | 2097 | 4.2, 6.2, 7.5 |
 | Osnabrück (city), *Kirchenordnung*, 1543 | 7/1, p. 256 | 2099 | 7.5 |
 | Hildesheim (city), *Kirchenordnung*, 1544 | 7/2.1, pp. 849–851 | 2136 | 7.5 |
-| Cologne and Paderborn, *Buß-, Fasten-, Bet- und Danktagsordnung*, 1546 (mediating) | 22, p. 45 | 1484 | 11.3 |
+| Cologne and Paderborn, *Buß-, Fasten-, Bet- und Danktagsordnung*, 1546 (Moderate Reformed) | 22, p. 45 | 1484 | 11.3 |
 | Stolberg-Königstein, order of the services, 1552 | 9, p. 468 | 2320 | 11.2 |
 | Lüneburg, *Reformatio coenobiorum ducatus Luneburgensis*, 1555 | 6/1, pp. 611–612 | 2009 | 4.4 |
 | Lüneburg, *Emendatio Breviarii virginum ordinis Sancti Benedicti*, 1555 | 6/1, p. 624 | 2011 | 4.4 |
@@ -2862,12 +2866,12 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Waldeck, *Kirchenordnung*, 1556 | 9, p. 277 | 2300 | 11.3 |
 | Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 (and Sehling's introduction) | 10, pp. 31, 133–134 | 166, 181 | 8.2, 9.3 |
 | Emden, Micron's *Ordinancien*, German edition, 1565 (Reformed) | 7/1, p. 606 | 2116 | 10.2, 10.6, 10.7 |
-| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 251–253 | 2257 | 10.2, 10.3, 10.7 |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 251–253 | 2257 | 10.2, 10.3, 10.7 |
 | Lippe, *Kirchenordnung*, 1571 | 21, pp. 395–397 | 1462 | 6.4, 8.2, 10.2, 10.3, 10.7 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 1085, 1095, 1111, 1113 | 2149, 2150, 2151 | 6.4, 9.2, 9.4, 10.2, 10.3 |
 | Lüneburg, *Klosterordnung* of Duke Wilhelm the Younger, 1574 | 6/1, pp. 620–621 | 2010 | 7.1, 8.3 |
 | Lüneburg, *Kirchenordnung der Stadt Lüneburg*, 1575 | 6/1, p. 658 | 2017 | 9.2 |
-| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10, p. 148 | 182 | 10.2 |
+| Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10, p. 148 | 182 | 10.2 |
 | Hoya, *Kirchenordnung*, 1581 | 6/2, p. 1150 | 2065 | 7.4, 9.4 |
 | Leeden (Tecklenburg), *Ordnung für das Zisterzienserinnenkloster*, 1585 | 22, p. 247 | 1506 | 6.3 |
 | Ysenburg-Birstein, *Kirchenordnung*, 1588 | 10, p. 627 | 228 | 10.3, 10.7 |

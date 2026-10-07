@@ -68,12 +68,12 @@ it, among them versions of the old Missal prayers.
   another tradition is marked where it is cited, by its name in brackets after the order, as
   "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
   - **Radical Reformation**: Thomas Müntzer's Allstedt orders.
   - The mark follows the order cited, not the territory, since a territory could change its
-    tradition: Strasbourg is mediating until the Interim of 1548 and Lutheran after it.
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it.
   - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
     (`CHURCH_ORDERS_GUIDE.md`, §4).
 
@@ -144,7 +144,8 @@ it, among them versions of the old Missal prayers.
 
 **4. The postcommunion: an ordinary prayer, but never only one** (§6).
 - **Luther's 1523 prayers.** They were kept in Latin as the priest's devotion (Brandenburg 1540,
-  Pfalz-Neuburg 1543) and put into German as the *Complenda* (Strasbourg 1524, mediating).
+  Pfalz-Neuburg 1543) and put into German as the *Complenda* (Strasbourg 1524, Moderate
+  Reformed).
 - **Proper postcommunions kept for a time.** Some orders kept the proper postcommunions of the
   Missal:
   - the Nürnberg parish Mass and Volprecht (1524), and Coburg 1524;
@@ -787,10 +788,10 @@ texts are given in [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §1
 Here they have become the priest's own devotion again, said after the people's thanksgiving,
 which is what they had been in the Roman rite.
 
-**In German.** The Strasbourg Mass of Theobald Schwarz (1524, mediating) gives *Quod ore
+**In German.** The Strasbourg Mass of Theobald Schwarz (1524, Moderate Reformed) gives *Quod ore
 sumpsimus* in German under the old name *Complenda*. It also allows "any other that seemeth
 Christian". **Strasbourg, the early agendas: Schwarz's German Mass, 1524**
-(mediating; Sehling 20/1, p. 123):
+(Moderate Reformed; Sehling 20/1, p. 123):
 
 <!-- doc 1279 -->
 > Complenda Laßt uns bitten: Das wir mit mund haben zu uns genomen, verlyhe uns, herr, uff das
@@ -802,7 +803,7 @@ the same with a pure mind; and that from the temporal gift there may be made unt
 everlasting medicine; through Christ Jesus our Lord. Amen. Or some other that seemeth Christian.
 
 The printed *Teutsche Meß* of 1524 has the same text (Sehling 20/1, p. 133). The Strasbourg
-*Ordenung und inhalt Teutscher Mess* (also mediating) explains the term for the people:
+*Ordenung und inhalt Teutscher Mess* (also Moderate Reformed) explains the term for the people:
 "Complenda: the conclusion with a common prayer" (Sehling 20/1, p. 135). Volprecht's German Mass
 has a German *Quod ore* too ([`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §7.2).
 
@@ -1336,7 +1337,7 @@ shows no other Lutheran use of the *super populum*.
 | Nürnberg parish Mass, 1524 | 11 | L proper (*Sancti tui nominis*) | — | — (with the offertory) | L proper (*complenda*) | — |
 | Coburg proposal, 1524 | 1 | ? | ? | — (with the offertory) | "the complenda" | — |
 | Müntzer, Allstedt, 1524 (Radical Reformation) | 1 | G proper (Missal) | — | *Per omnia* only | G proper (Missal postcommunions) | — |
-| Strasbourg, Schwarz, 1524 (mediating) | 20/1 | G | ? | — | G *Quod ore* as *Complenda* | "any other that seemeth Christian" |
+| Strasbourg, Schwarz, 1524 (Moderate Reformed) | 20/1 | G | ? | — | G *Quod ore* as *Complenda* | "any other that seemeth Christian" |
 | Döber, Nürnberg, 1525 | 11 | ? | Optional "common prayer" before the Sanctus | — | G, new (Döber's) | — |
 | Erfurt, *Deutsches Kirchenamt*, 1525 | 2 | G proper | — | ? | G proper (Pentecost, *Proficiat*) | — |
 | Prussia, *Artikel*, 1525 | 4 | Proper series by the year | ? | — ("of necessity left out") | Two common complendas, alternating | — |
@@ -1463,7 +1464,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Strasbourg, the early agendas: Schwarz's German Mass and the *Teutsche Meß*, 1524 (mediating) | 20/1, pp. 123, 133, 135 | 1279 | 3.1, 6.1, A |
+| Strasbourg, the early agendas: Schwarz's German Mass and the *Teutsche Meß*, 1524 (Moderate Reformed) | 20/1, pp. 123, 133, 135 | 1279 | 3.1, 6.1, A |
 
 ---
 
@@ -1477,7 +1478,7 @@ identification is this guide's own. The texts and translations are given in the 
 |---|---|---|---|---|
 | (Latin) *Quod ore sumpsimus, Domine, pura mente capiamus* | Priest's prayer at the ablutions, Ordo Missae | Luther 1523 | Luther 1523; Brandenburg 1540; Pfalz-Neuburg 1543 | 3.2, 6.1 |
 | (Latin) *Corpus tuum, Domine, quod sumpsimus …* | Priest's prayer at the ablutions, Ordo Missae | Luther 1523 | Luther 1523; Brandenburg 1540; Pfalz-Neuburg 1543 | 3.2, 6.1 |
-| "Das wir mit mund haben zu uns genomen, verlyhe uns, herr …" | *Quod ore sumpsimus* | Evident from the text | Strasbourg 1524 (*Complenda*; mediating); Volprecht 1524 | 6.1 |
+| "Das wir mit mund haben zu uns genomen, verlyhe uns, herr …" | *Quod ore sumpsimus* | Evident from the text | Strasbourg 1524 (*Complenda*; Moderate Reformed); Volprecht 1524 | 6.1 |
 | "Die empfahung deines sacraments, o Herr, unser Gott …" / "O herre got, lass uns zu nutz kummen … die entphahunge des heiligen sacraments" | *Proficiat nobis ad salutem corporis et animae* (Trinity Sunday, postcommunion) | Canon guide (Volprecht); this guide (Erfurt) | Volprecht 1524 (Trinity); Erfurt 1525 (Trinity) | 6.2 |
 | "O herr geuss in uns den geist der liebe …" / "Herr, uberschütte uns mit deinem Geiste …" | *Spiritum nobis, Domine, tuae caritatis infunde* (Easter, postcommunion) | Ed. (Calenberg-Göttingen); this guide (Müntzer) | Müntzer 1524 (Radical Reformation); Calenberg-Göttingen 1542 | 6.2 |
 | "O herr vorlei uns die gnad des heiligen geists, auf das der thau deiner güte …" | *Sancti Spiritus, Domine, corda nostra mundet infusio* (Pentecost, postcommunion) | Ed. (Calenberg-Göttingen); canon guide | Müntzer 1524 (Radical Reformation); Erfurt 1525; Calenberg-Göttingen 1542 | 6.2 |

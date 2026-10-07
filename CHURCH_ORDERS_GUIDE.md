@@ -6,8 +6,8 @@ parts). For each order it gives:
 - its number in Sehling, its title, and its date;
 - the page in Sehling and the `eko.db` document that holds the text;
 - what kind of order it is (church order, agenda, visitation order, mandate, and so on);
-- the confessional tradition it belongs to: Lutheran, Reformed, moderate or mediating (Bucerian
-  and other middle positions), Anglican, Hussite, and a few others;
+- the confessional tradition it belongs to: Lutheran, Reformed, Moderate Reformed (Bucer's
+  circle and the Upper German cities), Philippist, Anglican, Hussite, and a few others;
 - whether it is an Interim order, or otherwise tied to the Augsburg Interim of 1548.
 
 **Layout**
@@ -36,7 +36,8 @@ parts). For each order it gives:
 - **Trad.** uses the codes of §3:
   - **L** = Lutheran;
   - **R** = Reformed;
-  - **M** = Moderate / mediating (Bucerian, Upper German, Philippist);
+  - **MR** = Moderate Reformed (Bucerian and Upper German);
+  - **PH** = Philippist;
   - **A** = Anglican;
   - **H** = Hussite (Unity of the Bohemian Brethren);
   - **C** = Sandomierz consensus (Lutheran, Reformed and Brethren together);
@@ -128,7 +129,8 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 |---|---|---|
 | Lutheran | L | 1953 |
 | Reformed | R | 336 |
-| Moderate / mediating (Bucerian, Upper German, Philippist) | M | 232 |
+| Moderate Reformed (Bucerian and Upper German) | MR | 199 |
+| Philippist | PH | 33 |
 | Anglican | A | 1 |
 | Hussite (Unity of the Bohemian Brethren) | H | 3 |
 | Sandomierz consensus (Lutheran, Reformed and Brethren together) | C | 6 |
@@ -149,11 +151,13 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
   (1600/1605), Lippe (1600), Anhalt (1596), Bremen (from 1580), Emden and the East Frisian
   Reformed congregations, the London Dutch church, Mülhausen (Mulhouse), and the French refugee
   churches of Frankfurt, Wetzlar and the Lebertal.
-- **Moderate or mediating** (232): Bucer's Strasbourg and the Upper German cities before the
-  Interim (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach, Gengenbach,
-  Landau, Worms, early Frankfurt); Philip's Hesse and the joint Hessian orders to 1582; Hermann
-  von Wied's Cologne Reformation (1543-1546); Rothmann's Münster (1532/33); Philippist Bremen
-  (1562-1579); Colmar after 1578; East Frisia under Countess Anna.
+- **Moderate Reformed** (199): Bucer's Strasbourg and the Upper German cities before the Interim
+  (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach, Gengenbach, Landau,
+  Worms, early Frankfurt); Philip's Hesse to 1566; Hermann von Wied's Cologne Reformation
+  (1543-1546); Rothmann's Münster (1532/33); East Frisia under Countess Anna; Colmar after 1578,
+  whose pastors came from Basel.
+- **Philippist** (33): the joint Hessian synods and orders of 1568-1582 and the Hessian orders
+  that followed them to 1598; Bremen (1556-1575); Nassau-Dillenburg (1575); Anhalt (1590-1594).
 - **Anglican** (1): the order of the English exile congregation at Frankfurt, the "Old
   Discipline" and "New Discipline" of 1557 (§3.4).
 - **Hussite** (3): the order of the Unity of the Bohemian Brethren (synod of Zerawitz, 1616) and
@@ -189,7 +193,7 @@ Augsburg Interim of 1548 (§2.2). Only four Interim orders proper are in the set
 within the century, and their orders change with them:
 - **Electoral Palatinate**: Lutheran → Reformed (1561/63) → Lutheran (1577) → Reformed (1583).
 - **Upper Palatinate**: Lutheran → Reformed (1559) → Lutheran (1577) → Reformed (1583).
-- **Nassau-Dillenburg**: Lutheran → mediating (1573) → Reformed (1578).
+- **Nassau-Dillenburg**: Lutheran → Philippist (1573) → Reformed (1578).
 - **Bremen**: Lutheran → Philippist (1562) → Reformed (1580).
 - **Hanau-Münzenberg** (1595), **Sayn** (1605), **Lippe** (1600), **Pfalz-Zweibrücken** (1588),
   **Wittgenstein** (about 1574), **Moers** (1578) and **Bentheim-Tecklenburg** (1580s): Lutheran
@@ -308,14 +312,17 @@ order.
 
 - **Coding by territory.** The tradition codes follow the territory and its ruler. They do not
   judge each text's theology; a Lutheran territory's marriage or poor-law order is coded L.
-- **"Moderate / mediating" is a broad label.** It covers:
-  - Bucer's Strasbourg and the Upper German Zwinglian-Bucerian cities;
-  - Philip of Hesse's church, which stood within the Wittenberg Concord but bore Bucer's stamp.
-    Many would simply call it Lutheran;
-  - Hermann von Wied's Cologne order;
-  - Philippist Bremen, and Colmar after it refused the Formula of Concord.
+- **Moderate Reformed and Philippist.** The orders that stood between the Lutheran and the
+  Reformed are divided into two groups (§3.3):
+  - **Moderate Reformed**: Bucer's Strasbourg and the Upper German Zwinglian-Bucerian cities;
+    Philip of Hesse's church, which stood within the Wittenberg Concord but bore Bucer's stamp;
+    Hermann von Wied's Cologne order; and the other orders of Bucer's sphere;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and would not accept the Formula of Concord: the joint Hessian synods, Bremen,
+    Nassau-Dillenburg and Anhalt, each on its way to the Reformed.
 
-  Use the territory notes for the finer distinctions.
+  Where an order could be placed in either group, it is counted as Moderate Reformed. Use the
+  territory notes for the finer distinctions.
 
 - **Early orders** (1522-1530) come before the confessional lines were fixed. They are coded by
   what the territory became; Müntzer's orders are coded as radical.
@@ -334,9 +341,9 @@ order.
 Orders of territories and cities that held to the Augsburg Confession in its Lutheran reading,
 from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,953 texts.
 Volumes 3, 5, 6/1, 6/2, 7/2.1, 11, 15, 16 and 23 are wholly Lutheran, and volume 1 is too, save
-Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded
-mediating), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1 (Strasbourg) and 20/2
-(Alsace).
+Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded Moderate
+Reformed and Philippist), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1
+(Strasbourg) and 20/2 (Alsace).
 
 ### 3.2 Reformed (R)
 
@@ -373,25 +380,26 @@ Swiss-allied city of Mülhausen.
 - County of Moers (Sehling 22, §33): 3 texts, 1581-1603.
 - County of Bentheim-Tecklenburg (Sehling 22, §33): 10 texts, 1601-1619.
 
-### 3.3 Moderate / mediating (M)
+### 3.3 Moderate Reformed (MR) and Philippist (PH)
 
-Orders that stood between the Lutheran and the Swiss Reformed:
+Between the Lutheran and the Swiss Reformed stood two groups of orders. They are coded apart,
+and where an order could belong to either, it is counted as Moderate Reformed.
+
+**Moderate Reformed (MR)**, 199 texts: the Bucerian and Upper German orders, and others close to
+them:
 - the Upper German Reformation of Bucer, Capito, Blarer and Zwick in the southern imperial
   cities before the Interim;
-- Bucer's influence in Philip of Hesse's church;
+- Philip of Hesse's church, which bore Bucer's stamp. Bucer had a decisive share in the orders
+  of 1539, and Philip's testament gave the Wittenberg Concord, Bucer's work, almost confessional
+  weight. The editors place the Kirchenordnung of 1566 in the Strasbourg sphere;
 - Hermann von Wied's Cologne order (written by Bucer and Melanchthon);
-- the Philippist churches (Bremen 1562-1579, Colmar after 1578);
-- a few early evangelical orders that moved toward Zurich (Rothmann's Münster).
+- a few early evangelical orders that moved toward Zurich (Rothmann's Münster) or took their
+  pastors from Basel and ended Reformed (Colmar after 1578), and East Frisia under Countess Anna
+  and John a Lasco.
 
-- Principality of Anhalt (Sehling 2, §7): 2 texts, 1590-1594.
 - East Frisia: comital orders (Sehling 7/1, §13): 1 text, 1545.
-- City of Bremen (Sehling 7/2.2, §15): 9 texts, 1556-1575.
 - Landgraviate of Hesse under Philip (to 1567) (Sehling 8, §16): 21 texts, 1526-1566.
-- The Hessian landgraviates: joint synods and orders (1567-1582) (Sehling 8, §16): 16 texts,
-  1568-1582.
-- Divided Hesse (1582-1618) (Sehling 9, §17): 5 texts, 1574-1598.
 - Imperial city of Frankfurt (Sehling 9, §17): 4 texts, 1530-1533.
-- Nassau-Dillenburg (Sehling 10, §18): 1 text, 1575.
 - Imperial city of Augsburg (Sehling 12, §20): 14 texts, 1523-1548.
 - Imperial city of Lindau (Sehling 12, §20): 3 texts, 1533-1539.
 - Imperial city of Memmingen (Sehling 12, §20): 4 texts, 1528-1542.
@@ -407,6 +415,23 @@ Orders that stood between the Lutheran and the Swiss Reformed:
 - Imperial city of Colmar (Sehling 20/2, §31): 12 texts, 1578-1615.
 - Archbishopric of Cologne (Sehling 22, §33): 1 text, 1546.
 - City of Münster (Sehling 22, §33): 4 texts, 1532-1533.
+
+**Philippist (PH)**, 33 texts: churches that held to Melanchthon's later teaching and his
+*Corpus doctrinae* of 1560, and would not accept the Formula of Concord. Most of them later
+turned Reformed:
+- the joint synods of the Hessian landgraviates (1568-1582), which took the Wittenberg *Corpus
+  doctrinae* as their norm, and the Hessian orders that followed to 1598;
+- Bremen, from Albert Hardenberg's dispute (1556) to the Reformed turn of 1580;
+- Nassau-Dillenburg's Agende of 1575, which binds the pastors to the Augsburg Confession and the
+  *Examen* of Philip Melanchthon;
+- Anhalt under Prince Johann Georg before the Reformed turn of 1596.
+
+- Principality of Anhalt (Sehling 2, §7): 2 texts, 1590-1594.
+- City of Bremen (Sehling 7/2.2, §15): 9 texts, 1556-1575.
+- The Hessian landgraviates: joint synods and orders (1567-1582) (Sehling 8, §16): 16 texts,
+  1568-1582.
+- Divided Hesse (1582-1618) (Sehling 9, §17): 5 texts, 1574-1598.
+- Nassau-Dillenburg (Sehling 10, §18): 1 text, 1575.
 
 ### 3.4 Anglican (A)
 
@@ -504,8 +529,8 @@ prints it for the Polish congregations. No Utraquist order is in the set.
   passing, by Luther and in the editors' notes), the Lollards, the Utraquists, the
   Schwenckfelders, the Hutterites, the Mennonites or the Antitrinitarians. Mandates against
   Anabaptists, Schwenckfelders, Davidjorists, Mennonites and "Sakramentierer" are coded by the
-  authority that issued them: Lutheran, Reformed, moderate or, in Jülich, Roman Catholic
-  humanist.
+  authority that issued them: Lutheran, Reformed, Moderate Reformed or, in Jülich, Roman
+  Catholic humanist.
 - **Treaty (R/L).** The East Frisian Delfzijl settlement of 1595 and the Concordats of 1599,
   between the Lutheran count and Reformed Emden.
 
@@ -538,9 +563,9 @@ Those in the set fall into four groups:
 | Mandat zur Abschaffung der Messe 1552 | 1552 | Duchy of Württemberg (with Mömpelgard and Horburg) | 16, p. 198 | 668 | End of the Interim | L |
 | Täufermandate: Verbot, mit den Täufern Handel zu treiben 1548 | 1548 | Imperial city of Schwäbisch Hall | 17/1, p. 195 | 763 | Under the Interim | L |
 | Statuten des Landkapitels [1553] | 1553 | Imperial city of Schwäbisch Hall | 17/1, p. 197 | 763 | Under the Interim | L |
-| Ratsmandat für die Prediger zur Gewissensfreiheit nach Annahme des Interims [1548] | 1548 | Imperial city of Biberach an der Riß | 17/2, p. 449 | 907 | Interim order | M |
+| Ratsmandat für die Prediger zur Gewissensfreiheit nach Annahme des Interims [1548] | 1548 | Imperial city of Biberach an der Riß | 17/2, p. 449 | 907 | Interim order | MR |
 | Täufermandat [1549] | 1549 | Imperial city of Biberach an der Riß | 17/2, p. 451 | 908 | Under the Interim | L |
-| Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung [Nach 2. Juli] 1548 | 1548 | Imperial city of Strasbourg | 20/1, p. 352 | 1316 | On the Interim | M |
+| Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung [Nach 2. Juli] 1548 | 1548 | Imperial city of Strasbourg | 20/1, p. 352 | 1316 | On the Interim | MR |
 | Agende für die Taufe und Trauung 27. Juni 1549 | 1549 | Imperial city of Strasbourg | 20/1, p. 357 | 1317 | Under the Interim | L |
 | Examensordnung 1549 | 1549 | Imperial city of Strasbourg | 20/1, p. 364 | 1318 | Under the Interim | L |
 | Schiedsvertrag zwischen dem Bischof von Straßburg und dem Magistrat der Stadt über die Durchführung … | 1549 | Imperial city of Strasbourg | 20/1, p. 368 | 1319 | Interim settlement | L |
@@ -584,7 +609,7 @@ Interimszeit" (Sehling 11, p. 292).
 | Mainz possessions (Eichsfeld, Erfurt, Querfurt) | 2 | 7.10 | 4 | 1525-1583 | Lutheran |
 | Imperial cities of Mühlhausen and Nordhausen | 2 | 7.11 | 6 | 1541-1571 | Lutheran |
 | Archbishopric of Magdeburg and Bishopric of Halberstadt | 2 | 7.12 | 28 | 1524-1589 | Lutheran |
-| Principality of Anhalt | 2 | 7.13 | 32 | 1532-1599 | Lutheran; Moderate from 1590; Reformed from 1596 |
+| Principality of Anhalt | 2 | 7.13 | 32 | 1532-1599 | Lutheran; Philippist from 1590; Reformed from 1596 |
 | Naumburg cathedral (supplement) | 2 | 7.14 | 1 | 1543-1543 | Lutheran |
 | Electorate of Brandenburg | 3 | 8.1 | 7 | 1540-1600 | Lutheran |
 | Lordships of Beeskow and Storkow | 3 | 8.2 | 3 | 1570-1585 | Lutheran |
@@ -630,19 +655,19 @@ Interimszeit" (Sehling 11, p. 292).
 | Lordship of Jever | 7/2.1 | 14.4 | 11 | 1558-1596 | Lutheran |
 | County of Schaumburg | 7/2.2 | 15.1 | 25 | 1559-1615 | Lutheran |
 | Imperial city of Goslar | 7/2.2 | 15.2 | 35 | 1528-1617 | Lutheran |
-| City of Bremen | 7/2.2 | 15.3 | 38 | 1525-1616 | Lutheran; Moderate from 1562; Reformed from 1580 |
-| Landgraviate of Hesse under Philip (to 1567) | 8 | 16.1 | 21 | 1526-1566 | Moderate |
-| The Hessian landgraviates: joint synods and orders (1567-1582) | 8 | 16.2 | 16 | 1568-1582 | Moderate |
-| Divided Hesse (1582-1618) | 9 | 17.1 | 19 | 1574-1618 | Moderate |
+| City of Bremen | 7/2.2 | 15.3 | 38 | 1525-1616 | Lutheran; Philippist from 1562; Reformed from 1580 |
+| Landgraviate of Hesse under Philip (to 1567) | 8 | 16.1 | 21 | 1526-1566 | Moderate Reformed |
+| The Hessian landgraviates: joint synods and orders (1567-1582) | 8 | 16.2 | 16 | 1568-1582 | Philippist |
+| Divided Hesse (1582-1618) | 9 | 17.1 | 19 | 1574-1618 | Philippist; Reformed (Hessen-Kassel) from 1600 |
 | County of Waldeck | 9 | 17.2 | 27 | 1525-1590 | Lutheran |
 | County of Solms | 9 | 17.3 | 10 | 1580-1616 | Lutheran |
 | County of Erbach | 9 | 17.4 | 6 | 1544-1587 | Lutheran |
 | County of Stolberg-Königstein | 9 | 17.5 | 1 | 1540-1540 | Lutheran |
-| Imperial city of Frankfurt | 9 | 17.6 | 26 | 1530-1618 | Moderate; Lutheran from 1535 |
+| Imperial city of Frankfurt | 9 | 17.6 | 26 | 1530-1618 | Moderate Reformed; Lutheran from 1535 |
 | Imperial castle and city of Friedberg | 9 | 17.7 | 4 | 1565-1619 | Lutheran |
 | Imperial city of Gelnhausen | 9 | 17.8 | 3 | 1566-1599 | Lutheran |
 | Imperial city of Wetzlar | 9 | 17.9 | 5 | 1561-1596 | Lutheran |
-| Nassau-Dillenburg | 10 | 18.1 | 29 | 1532-1618 | Lutheran; Moderate from 1573; Reformed from 1578 |
+| Nassau-Dillenburg | 10 | 18.1 | 29 | 1532-1618 | Lutheran; Philippist from 1573; Reformed from 1578 |
 | Nassau-Weilburg and Nassau-Saarbrücken | 10 | 18.2 | 7 | 1554-1617 | Lutheran |
 | Nassau-Wiesbaden and Nassau-Idstein | 10 | 18.3 | 4 | 1582-1590 | Lutheran |
 | County of Hanau-Münzenberg | 10 | 18.4 | 29 | 1543-1614 | Lutheran; Reformed from 1595 |
@@ -660,12 +685,12 @@ Interimszeit" (Sehling 11, p. 292).
 | County of Rieneck | 11 | 19.11 | 2 | 1544-1588 | Lutheran |
 | County of Wertheim | 11 | 19.12 | 2 | 1524-1555 | Lutheran |
 | Lordship of Thüngen | 11 | 19.13 | 2 | 1564-1587 | Lutheran |
-| Imperial city of Augsburg | 12 | 20.1 | 17 | 1523-1591 | Moderate; Lutheran from 1549 |
+| Imperial city of Augsburg | 12 | 20.1 | 17 | 1523-1591 | Moderate Reformed; Lutheran from 1549 |
 | Imperial city of Dinkelsbühl | 12 | 20.2 | 9 | 1535-1574 | Lutheran |
 | Imperial city of Donauwörth | 12 | 20.3 | 1 | 1545-1545 | Lutheran |
 | Imperial city of Kempten | 12 | 20.4 | 1 | 1553-1553 | Lutheran |
-| Imperial city of Lindau | 12 | 20.5 | 5 | 1533-1573 | Moderate; Lutheran from 1549 |
-| Imperial city of Memmingen | 12 | 20.6 | 5 | 1528-1569 | Moderate; Lutheran from 1549 |
+| Imperial city of Lindau | 12 | 20.5 | 5 | 1533-1573 | Moderate Reformed; Lutheran from 1549 |
+| Imperial city of Memmingen | 12 | 20.6 | 5 | 1528-1569 | Moderate Reformed; Lutheran from 1549 |
 | Imperial city of Nördlingen | 12 | 20.7 | 7 | 1522-1579 | Lutheran |
 | County of Oettingen-Oettingen | 12 | 20.8 | 1 | 1591-1591 | Lutheran |
 | Duchy of Pfalz-Neuburg | 13 | 21.1 | 28 | 1542-1577 | Lutheran |
@@ -683,15 +708,15 @@ Interimszeit" (Sehling 11, p. 292).
 | Lordship of Neckarbischofsheim | 16 | 24.5 | 1 | 1560-1560 | Lutheran |
 | Imperial city of Schwäbisch Hall | 17/1 | 25.1 | 21 | 1526-1615 | Lutheran |
 | Imperial city of Heilbronn | 17/1 | 25.2 | 18 | 1528-1603 | Lutheran |
-| Imperial city of Konstanz | 17/1 | 25.3 | 19 | 1524-1548 | Moderate |
-| Imperial city of Isny | 17/1 | 25.4 | 5 | 1533-1600 | Moderate; Lutheran from 1549 |
-| Imperial city of Gengenbach | 17/1 | 25.5 | 8 | 1538-1545 | Moderate |
+| Imperial city of Konstanz | 17/1 | 25.3 | 19 | 1524-1548 | Moderate Reformed |
+| Imperial city of Isny | 17/1 | 25.4 | 5 | 1533-1600 | Moderate Reformed; Lutheran from 1549 |
+| Imperial city of Gengenbach | 17/1 | 25.5 | 8 | 1538-1545 | Moderate Reformed |
 | Württemberg: school orders of the Great Church Order of 1559 (supplement to vol. 16) | 17/1 | 25.6 | 7 | 1559-1559 | Lutheran |
 | Imperial city of Reutlingen | 17/2 | 26.1 | 5 | 1528-1574 | Lutheran |
-| Imperial city of Ulm | 17/2 | 26.2 | 35 | 1528-1600 | Moderate; Lutheran from 1549 |
-| Imperial city of Esslingen | 17/2 | 26.3 | 40 | 1531-1602 | Moderate; Lutheran from 1549 |
+| Imperial city of Ulm | 17/2 | 26.2 | 35 | 1528-1600 | Moderate Reformed; Lutheran from 1549 |
+| Imperial city of Esslingen | 17/2 | 26.3 | 40 | 1531-1602 | Moderate Reformed; Lutheran from 1549 |
 | Imperial city of Giengen an der Brenz | 17/2 | 26.4 | 1 | 1583-1583 | Lutheran |
-| Imperial city of Biberach an der Riß | 17/2 | 26.5 | 6 | 1531-1563 | Moderate; Lutheran from 1549 |
+| Imperial city of Biberach an der Riß | 17/2 | 26.5 | 6 | 1531-1563 | Moderate Reformed; Lutheran from 1549 |
 | Imperial city of Ravensburg | 17/2 | 26.6 | 11 | 1545-1610 | Lutheran |
 | Imperial city of Wimpfen | 17/2 | 26.7 | 8 | 1545-1589 | Lutheran |
 | Imperial city of Leutkirch | 17/2 | 26.8 | 5 | 1562-1605 | Lutheran |
@@ -702,9 +727,9 @@ Interimszeit" (Sehling 11, p. 292).
 | Counties of Sponheim | 18 | 27.3 | 11 | 1560-1617 | Lutheran |
 | Lordship of Sickingen | 18 | 27.4 | 2 | 1564-1572 | Lutheran |
 | County of Manderscheid-Schleiden | 18 | 27.5 | 1 | 1566-1566 | Lutheran |
-| Imperial city of Landau | 19/1 | 28.1 | 12 | 1526-1611 | Moderate; Lutheran from 1555 |
+| Imperial city of Landau | 19/1 | 28.1 | 12 | 1526-1611 | Moderate Reformed; Lutheran from 1555 |
 | Imperial city of Speyer | 19/1 | 28.2 | 10 | 1525-1612 | Lutheran |
-| Imperial city of Worms | 19/1 | 28.3 | 4 | 1524-1560 | Moderate; Lutheran from 1552 |
+| Imperial city of Worms | 19/1 | 28.3 | 4 | 1524-1560 | Moderate Reformed; Lutheran from 1552 |
 | Counties of Leiningen | 19/1 | 28.4 | 11 | 1566-1617 | Lutheran |
 | County of Sayn | 19/1 | 28.5 | 16 | 1560-1619 | Lutheran; Reformed from 1605 |
 | County of Wied | 19/1 | 28.6 | 8 | 1564-1619 | Reformed |
@@ -712,7 +737,7 @@ Interimszeit" (Sehling 11, p. 292).
 | Principality of Pfalz-Simmern | 19/2 | 29.2 | 3 | 1560-1598 | Lutheran; Reformed from 1598 |
 | County of Pfalz-Veldenz (supplement to vol. 18) | 19/2 | 29.3 | 1 | 1571-1571 | Lutheran |
 | Electoral Palatinate (supplement to vol. 14) | 19/2 | 29.4 | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577; Reformed from 1583 |
-| Imperial city of Strasbourg | 20/1 | 30.1 | 79 | 1523-1617 | Moderate; Lutheran from 1549 |
+| Imperial city of Strasbourg | 20/1 | 30.1 | 79 | 1523-1617 | Moderate Reformed; Lutheran from 1549 |
 | County of Hanau-Lichtenberg | 20/2 | 31.1 | 7 | 1545-1614 | Lutheran |
 | Lordship of Fleckenstein | 20/2 | 31.2 | 1 | n.d. | Lutheran |
 | Lordship of Rappoltstein | 20/2 | 31.3 | 12 | 1553-1569 | Lutheran |
@@ -720,7 +745,7 @@ Interimszeit" (Sehling 11, p. 292).
 | Imperial city of Weißenburg (Alsace) | 20/2 | 31.5 | 2 | 1560-1613 | Lutheran |
 | Münster im Gregoriental | 20/2 | 31.6 | 7 | 1575-1604 | Lutheran |
 | Imperial city of Hagenau | 20/2 | 31.7 | 12 | 1565-1617 | Lutheran |
-| Imperial city of Colmar | 20/2 | 31.8 | 16 | 1575-1615 | Lutheran; Moderate from 1578 |
+| Imperial city of Colmar | 20/2 | 31.8 | 16 | 1575-1615 | Lutheran; Moderate Reformed from 1578 |
 | United Duchies of Jülich-Cleves-Berg | 21 | 32.1 | 18 | 1525-1572 | Roman Catholic humanist |
 | Bishopric and town of Minden | 21 | 32.2 | 7 | 1530-1604 | Lutheran |
 | Imperial abbey and town of Herford | 21 | 32.3 | 1 | 1532-1532 | Lutheran |
@@ -728,12 +753,12 @@ Interimszeit" (Sehling 11, p. 292).
 | Imperial abbey of Corvey (Höxter) | 21 | 32.5 | 3 | 1533-1603 | Lutheran |
 | County of Lippe | 21 | 32.6 | 12 | 1537-1617 | Lutheran; Reformed from 1600 |
 | Imperial abbey and town of Essen | 21 | 32.7 | 5 | 1561-1581 | Lutheran |
-| Archbishopric of Cologne | 22 | 33.1 | 3 | 1546-1583 | Moderate; Reformed from 1583 |
+| Archbishopric of Cologne | 22 | 33.1 | 3 | 1546-1583 | Moderate Reformed; Reformed from 1583 |
 | County of Wittgenstein | 22 | 33.2 | 21 | 1555-1611 | Lutheran; Reformed from 1574 |
 | County of Moers | 22 | 33.3 | 6 | 1561-1603 | Lutheran; Reformed from 1578 |
 | County of Bentheim-Tecklenburg | 22 | 33.4 | 12 | 1543-1619 | Lutheran; Reformed from 1586 |
 | County of Rietberg | 22 | 33.5 | 2 | 1566-1568 | Lutheran |
-| City of Münster | 22 | 33.6 | 6 | 1532-1534 | Moderate |
+| City of Münster | 22 | 33.6 | 6 | 1532-1534 | Moderate Reformed |
 | City of Soest | 22 | 33.7 | 13 | 1532-1619 | Lutheran |
 | Town of Neuenrade | 22 | 33.8 | 1 | 1564-1564 | Lutheran |
 | County of Lippe (supplement) | 22 | 33.9 | 1 | 1538-1538 | Lutheran |
@@ -1208,14 +1233,14 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 7.13 Principality of Anhalt
 
-- **Tradition**: Lutheran; Moderate / mediating from 1590; Reformed from 1596.
+- **Tradition**: Lutheran; Philippist from 1590; Reformed from 1596.
 - **Note**: Lutheran until Prince Johann Georg's reforms: exorcism dropped 1589/90, Reformed
   usages from 1596, formal Reformed confession 1606.
-- **Texts by tradition**: Lutheran 27, Reformed 3, Moderate / mediating 2.
+- **Texts by tradition**: Lutheran 27, Reformed 3, Philippist 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 148 | Reskript von Hans Georg von Anhalt | 1590 | 2, p. 531 | 1261 | Mandate / decree | M |  |
+| 148 | Reskript von Hans Georg von Anhalt | 1590 | 2, p. 531 | 1261 | Mandate / decree | PH |  |
 | 151 | Ausschreiben von Hans Georg von Anhalt | 1599 | 2, p. 535 | 1261 | Mandate / decree | R |  |
 | 27 | Die von Jonas für Zerbst verfasste Ordnung | 1538 | 2, p. 544 | 1262 | Other | L |  |
 | 31 | Ausschreiben der Fürsten Wolfgang, Johann, Georg und Joachim von Anhalt | 1541 | 2, p. 547 | 1262 | Mandate / decree | L |  |
@@ -1237,7 +1262,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 138 | Visitations-Instruktion für Anhalt | 1582 | 2, p. 574 | 1262 | Visitation | L |  |
 | 144 | Visitations-Instruktion für Anhalt | 1587 | 2, p. 577 | 1262 | Visitation | L |  |
 | 146 | Instructio commissariorum in potestate executionis für Anhalt | 1588 | 2, p. 578 | 1262 | Articles / statutes | L |  |
-| 149 | Ordnung für den Küster zu Törten | 1594 | 2, p. 579 | 1262 | Consistory / synod / government | M |  |
+| 149 | Ordnung für den Küster zu Törten | 1594 | 2, p. 579 | 1262 | Consistory / synod / government | PH |  |
 | 150 | Verordnung von Johann Georg von Anhalt | 1596 | 2, p. 580 | 1262 | Mandate / decree | R |  |
 | 152 | Kirchen-Ordnung für Anhalt | 1599 | 2, p. 581 | 1262 | Church order | R |  |
 | 23 | Bericht von Schlaginhaufen über die von ihm in Cöthen beobachtete Gottesdienst-Ordnung | 1532 | 2, p. 582 | 1263 | Agenda / liturgy | L |  |
@@ -1930,7 +1955,7 @@ Interimszeit" (Sehling 11, p. 292).
 - **Tradition**: Lutheran.
 - **Note**: The counts' orders of 1529 and 1535 are Lutheran; under Countess Anna (1540-1561)
   and John a Lasco East Frisia was mixed, with Emden Reformed and much of the country Lutheran.
-- **Texts by tradition**: Lutheran 5, Moderate / mediating 1.
+- **Texts by tradition**: Lutheran 5, Moderate Reformed 1.
 - **Interim**: 1 text(s) tied to the Augsburg Interim (see the last column).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
@@ -1940,7 +1965,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 2 | Karckenordenynge vor dem pastoren unde kerckendenern ... [1535] | 1535 | 7/1, p. 373 | 2107 | Church order | L |  |
 |  | Volget, wes de Luinenborger predicanten, belangende des superattendenten und der predicanten, wo de schoelen geschickt und wat eer ampt sy | n.d. | 7/1, p. 383 | 2107 | Consistory / synod / government | L |  |
 |  | Wo de beiden graven to Oestfreeslandt umtrent 20 articulen up de ordinantie ... hebben in allen karcken der gravesscup Oestfreeslandt publiceren … | 1535 | 7/1, p. 393 | 2107 | Church order | L |  |
-| 3 | Polizeiordnung der Gräfin Anna 1545 | 1545 | 7/1, p. 398 | 2108 | Discipline / police | M | Countess Anna; John a Lasco superintendent 1543-1549 |
+| 3 | Polizeiordnung der Gräfin Anna 1545 | 1545 | 7/1, p. 398 | 2108 | Discipline / police | MR | Countess Anna; John a Lasco superintendent 1543-1549 |
 
 ### 13.8 East Frisia: treaties
 
@@ -2135,10 +2160,10 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 15.3 City of Bremen
 
-- **Tradition**: Lutheran; Moderate / mediating from 1562; Reformed from 1580.
-- **Note**: Lutheran from 1525; the Hardenberg dispute (1556-1562) led to a Philippist church
-  (1562-1579) and from 1580 to the 'Second Reformation'.
-- **Texts by tradition**: Lutheran 16, Reformed 13, Moderate / mediating 9.
+- **Tradition**: Lutheran; Philippist from 1562; Reformed from 1580.
+- **Note**: Lutheran from 1525; the dispute over Albert Hardenberg, a pupil of Melanchthon
+  (1556-1562), led to a Philippist church (1562-1579) and from 1580 to the 'Second Reformation'.
+- **Texts by tradition**: Lutheran 16, Reformed 13, Philippist 9.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -2153,20 +2178,20 @@ Interimszeit" (Sehling 11, p. 292).
 | 7 | Zuchtordnung 1546 | 1546 | 7/2.2, p. 493 | 2220 | Discipline / police | L |  |
 | 8 | Durchführung der Visitationen in den Landgemeinden 1551 | 1551 | 7/2.2, p. 497 | 2221 | Visitation | L |  |
 | 9a | Vom Rat geforderte Erklärung der Bremer Prediger zum Abendmahl 21. Oktober 1556 | 1556 | 7/2.2, p. 499 | 2221 | Agenda / liturgy | L |  |
-| 9b | Erklärung des Dompredigers Albert Hardenberg zum Abendmahl 9. November 1556 | 1556 | 7/2.2, p. 503 | 2221 | Agenda / liturgy | M | Hardenberg |
+| 9b | Erklärung des Dompredigers Albert Hardenberg zum Abendmahl 9. November 1556 | 1556 | 7/2.2, p. 503 | 2221 | Agenda / liturgy | PH | Hardenberg |
 | 10 | Mandat des Rates zum Verhalten der Bürger, nachdem der Streit zwischen Albert Hardenberg und den Bremer Predigern durch den Niedersächsischen Kreis … | 1561 | 7/2.2, p. 505 | 2221 | Mandate / decree | L |  |
 | 11a | Ordnung für das Stundengebet am Stift St. Simon und Judas [1534/35]: Kirchenordnung [nach 10. Oktober] 1561 | 1561 | 7/2.2, p. 506 | 2221 | Church order | L |  |
 | 11b | Anfage der Wittheit an das Ministerium zu bestimmten Teilen der Kirchenordnung [November] 1561 | 1561 | 7/2.2, p. 518 | 2221 | Church order | L |  |
 | 11c | Stellungnahme der Prediger zu den Anfragen der Wittheit [November oder Dezember] 1561 | 1561 | 7/2.2, p. 520 | 2221 | Other | L |  |
 | 11d | Beschluß des Rates zu verschiedenen Artikeln der Kirchenordnung [Dezember 1561] | 1561 | 7/2.2, p. 530 | 2221 | Church order | L |  |
-| 11e | Entscheidung des Rates zum Artikel über die Binde- und Lösegewalt der Prediger in der Kirchenordnung [vor 3. Januar 1562] | 1562 | 7/2.2, p. 533 | 2221 | Church order | M |  |
-| 12 | Erlaß des Rates zu den Sakramentierern 3. Januar 1562 | 1562 | 7/2.2, p. 537 | 2222 | Discipline / police | M |  |
-| 13 | Mandat zur Enthaltung aller Streitigkeiten in Religionsangelegenheiten [Januar 1562] | 1562 | 7/2.2, p. 539 | 2223 | Mandate / decree | M |  |
-| 14 | Mandat zum Verbot des Scheltens auf der Kanzel und zur Predigt und Lehre gemäß der Heiligen Schrift und der Confessio Augustana [24. August 1562] | 1562 | 7/2.2, p. 540 | 2223 | Mandate / decree | M |  |
-| 15 | Erklärung zum Festhalten an der Confessio Augustana, der Kirchenordnung von 1534, an Luthers Katechismus und dem Frankfurter Rezeß 25. Juli 1563 | 1563 | 7/2.2, p. 541 | 2224 | Confession / doctrine | M |  |
-| 16 | Berufung von Markus Mening zum bremischen Superintendenten 7. September 1570 | 1570 | 7/2.2, p. 543 | 2225 | Consistory / synod / government | M |  |
-| 17 | Einigung des geistlichen Ministeriums über die in Bremen gültige Lehre 1572 | 1572 | 7/2.2, p. 546 | 2226 | Consistory / synod / government | M |  |
-| 18 | Austrag des Konfliktes zwischen den Predigern und Jodokus Glaneus vor dem Rat 1. Januar 1575 | 1575 | 7/2.2, p. 564 | 2227 | Other | M |  |
+| 11e | Entscheidung des Rates zum Artikel über die Binde- und Lösegewalt der Prediger in der Kirchenordnung [vor 3. Januar 1562] | 1562 | 7/2.2, p. 533 | 2221 | Church order | PH |  |
+| 12 | Erlaß des Rates zu den Sakramentierern 3. Januar 1562 | 1562 | 7/2.2, p. 537 | 2222 | Discipline / police | PH |  |
+| 13 | Mandat zur Enthaltung aller Streitigkeiten in Religionsangelegenheiten [Januar 1562] | 1562 | 7/2.2, p. 539 | 2223 | Mandate / decree | PH |  |
+| 14 | Mandat zum Verbot des Scheltens auf der Kanzel und zur Predigt und Lehre gemäß der Heiligen Schrift und der Confessio Augustana [24. August 1562] | 1562 | 7/2.2, p. 540 | 2223 | Mandate / decree | PH |  |
+| 15 | Erklärung zum Festhalten an der Confessio Augustana, der Kirchenordnung von 1534, an Luthers Katechismus und dem Frankfurter Rezeß 25. Juli 1563 | 1563 | 7/2.2, p. 541 | 2224 | Confession / doctrine | PH |  |
+| 16 | Berufung von Markus Mening zum bremischen Superintendenten 7. September 1570 | 1570 | 7/2.2, p. 543 | 2225 | Consistory / synod / government | PH |  |
+| 17 | Einigung des geistlichen Ministeriums über die in Bremen gültige Lehre 1572 | 1572 | 7/2.2, p. 546 | 2226 | Consistory / synod / government | PH |  |
+| 18 | Austrag des Konfliktes zwischen den Predigern und Jodokus Glaneus vor dem Rat 1. Januar 1575 | 1575 | 7/2.2, p. 564 | 2227 | Other | PH |  |
 | 19a | Bestallung des Predigers Joseph Naso 1582 | 1582 | 7/2.2, p. 566 | 2227 | Appointment / oath | R |  |
 | 19b | Bestallung des Predigers Johannes Varrelmann 1588 | 1588 | 7/2.2, p. 568 | 2227 | Appointment / oath | R |  |
 | 20 | Katechismus [1582/83] | 1582 | 7/2.2, p. 570 | 2228 | Catechism / instruction | R |  |
@@ -2187,57 +2212,59 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 16.1 Landgraviate of Hesse under Philip (to 1567)
 
-- **Tradition**: Moderate / mediating.
+- **Tradition**: Moderate Reformed.
 - **Note**: Philip's church stood within the Wittenberg Concord but bore Bucer's stamp
-  (Ziegenhain and Kassel, 1539); here counted as mediating.
+  (Ziegenhain and Kassel, 1539), and the Kirchenordnung of 1566 belongs to the Strasbourg
+  sphere; here counted as Moderate Reformed.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | a) Unser Landgrave Philipsen Reformation und ordenung von allerley gebrechlicheyt und unordenung 1526 | 1526 | 8, p. 37 | 2245 | Other | M |  |
-| 1 | Reformatio Ecclesiarum Hassiae 1526 | 1526 | 8, p. 43 | 2247 | Church order | M |  |
-| 2 | Stipendiatenordnung 1529 | 1529 | 8, p. 66 | 2250 | School / university | M |  |
-| 3 | Wye sich die kastenmeinster halten sollen in irem ampt 1530 | 1530 | 8, p. 68 | 2251 | Poor relief | M |  |
-| 4 | Ordenung, welcher massen hinfuro die pfarrer und ire helfer, diakon und alle kirchen diener verordenet, gehanthabet, ... abgesatzt werden sall 1531 | 1531 | 8, p. 71 | 2251 | Consistory / synod / government | M |  |
-| 5 | Ordenung der Christlichen kirchen in furstenthumb zu Hessen 1532 | 1532 | 8, p. 75 | 2252 | Church order | M |  |
-| 6 | Ordtnung der Gottes- und Almosen-Casten 1533 | 1533 | 8, p. 80 | 2252 | Poor relief | M |  |
-| 7 | Unser Philipsen von Gottes gnaden Lantgraven Zu Hessen ... Reformation und gemeine lands ordnung ... Auch ordenung und maß wie man mit den … | 1537 | 8, p. 82 | 2252 | Agenda / liturgy | M |  |
-| 8 | Ordenung wilcher masse hinfur die Visitatores, Pfarher, und yre helffer, Diacon und alle Kirchenndiener verordnet gehandthabt, und ... abgesatzt … | 1537 | 8, p. 92 | 2252 | Visitation | M |  |
-| 9 | Ordenung der Christlichen Kirchenn zucht, Für die Kirchen im Fürstenthumb Hessen 1539 | 1539 | 8, p. 101 | 2252 | Church order | M |  |
-| 10 | Ordenung der Kirchenn übung, Für die Kirchen zu Cassel 1539 | 1539 | 8, p. 113 | 2253 | Agenda / liturgy | M |  |
-| 10 | a) Der kurtze Catechismus... Für die Schüler und andere kinder zu Cassel 1539 | 1539 | 8, p. 131 | 2253 | Catechism / instruction | M |  |
-| 11 | Von Gots gnaden unser Philipsen Landgraven zu Hessen... Ordnung und bevelch, Wie es hinfürter mit den Stipendijs und Stipendiaten... gehalten werden … | 1539 | 8, p. 143 | 2253 | School / university | M |  |
-| 12 | Ordenung durch den durchleuchtigen, Hochgebornen Fürsten und herrn, herrn Philipsen, Landtgraven zu Hessen, ... Wie es mit den Stipendiaten... … | 1542 | 8, p. 145 | 2254 | School / university | M |  |
-| 13 | Ordenung von Gots gnaden, Unser Philipsen Landtgraven zu Hessen, ... Jn etlichen Notwendigen, zu erhaltung Christlicher Zucht .. .dienlichen Puncten … | 1543 | 8, p. 148 | 2254 | Discipline / police | M |  |
-| 14 | Stipendiatenordnung 1546 | 1546 | 8, p. 155 | 2255 | School / university | M |  |
-| 15 | Ordenung Christlicher Lehre und Zuchtt 1557 | 1557 | 8, p. 161 | 2256 | Discipline / police | M |  |
-| 16 | Ordenung Unser Philipsen von Gots gnaden Landtgraven zu Hessen ... Wie wir wöllen, Das es hinfürter in unserer Universitet zu Marpurg mit den … | 1560 | 8, p. 166 | 2256 | School / university | M |  |
-| 17 | Ordenung wie mans mit den pfar und castengüter allenthalben halten soll 1564 | 1564 | 8, p. 176 | 2257 | Local order | M |  |
-| 18 | Kirchen Ordnung: Wie sich die Pfarherrn und Seelsorger in jrem beruff ... halten sollen 1566 | 1566 | 8, p. 178 | 2257 | Other | M |  |
-| 19 | Fürstliche ordnunge von ... der kyrchenn dieners und Gotts kastenn. o.J | n.d. | 8, p. 338 | 2257 | Poor relief | M |  |
+| 1 | a) Unser Landgrave Philipsen Reformation und ordenung von allerley gebrechlicheyt und unordenung 1526 | 1526 | 8, p. 37 | 2245 | Other | MR |  |
+| 1 | Reformatio Ecclesiarum Hassiae 1526 | 1526 | 8, p. 43 | 2247 | Church order | MR |  |
+| 2 | Stipendiatenordnung 1529 | 1529 | 8, p. 66 | 2250 | School / university | MR |  |
+| 3 | Wye sich die kastenmeinster halten sollen in irem ampt 1530 | 1530 | 8, p. 68 | 2251 | Poor relief | MR |  |
+| 4 | Ordenung, welcher massen hinfuro die pfarrer und ire helfer, diakon und alle kirchen diener verordenet, gehanthabet, ... abgesatzt werden sall 1531 | 1531 | 8, p. 71 | 2251 | Consistory / synod / government | MR |  |
+| 5 | Ordenung der Christlichen kirchen in furstenthumb zu Hessen 1532 | 1532 | 8, p. 75 | 2252 | Church order | MR |  |
+| 6 | Ordtnung der Gottes- und Almosen-Casten 1533 | 1533 | 8, p. 80 | 2252 | Poor relief | MR |  |
+| 7 | Unser Philipsen von Gottes gnaden Lantgraven Zu Hessen ... Reformation und gemeine lands ordnung ... Auch ordenung und maß wie man mit den … | 1537 | 8, p. 82 | 2252 | Agenda / liturgy | MR |  |
+| 8 | Ordenung wilcher masse hinfur die Visitatores, Pfarher, und yre helffer, Diacon und alle Kirchenndiener verordnet gehandthabt, und ... abgesatzt … | 1537 | 8, p. 92 | 2252 | Visitation | MR |  |
+| 9 | Ordenung der Christlichen Kirchenn zucht, Für die Kirchen im Fürstenthumb Hessen 1539 | 1539 | 8, p. 101 | 2252 | Church order | MR |  |
+| 10 | Ordenung der Kirchenn übung, Für die Kirchen zu Cassel 1539 | 1539 | 8, p. 113 | 2253 | Agenda / liturgy | MR |  |
+| 10 | a) Der kurtze Catechismus... Für die Schüler und andere kinder zu Cassel 1539 | 1539 | 8, p. 131 | 2253 | Catechism / instruction | MR |  |
+| 11 | Von Gots gnaden unser Philipsen Landgraven zu Hessen... Ordnung und bevelch, Wie es hinfürter mit den Stipendijs und Stipendiaten... gehalten werden … | 1539 | 8, p. 143 | 2253 | School / university | MR |  |
+| 12 | Ordenung durch den durchleuchtigen, Hochgebornen Fürsten und herrn, herrn Philipsen, Landtgraven zu Hessen, ... Wie es mit den Stipendiaten... … | 1542 | 8, p. 145 | 2254 | School / university | MR |  |
+| 13 | Ordenung von Gots gnaden, Unser Philipsen Landtgraven zu Hessen, ... Jn etlichen Notwendigen, zu erhaltung Christlicher Zucht .. .dienlichen Puncten … | 1543 | 8, p. 148 | 2254 | Discipline / police | MR |  |
+| 14 | Stipendiatenordnung 1546 | 1546 | 8, p. 155 | 2255 | School / university | MR |  |
+| 15 | Ordenung Christlicher Lehre und Zuchtt 1557 | 1557 | 8, p. 161 | 2256 | Discipline / police | MR |  |
+| 16 | Ordenung Unser Philipsen von Gots gnaden Landtgraven zu Hessen ... Wie wir wöllen, Das es hinfürter in unserer Universitet zu Marpurg mit den … | 1560 | 8, p. 166 | 2256 | School / university | MR |  |
+| 17 | Ordenung wie mans mit den pfar und castengüter allenthalben halten soll 1564 | 1564 | 8, p. 176 | 2257 | Local order | MR |  |
+| 18 | Kirchen Ordnung: Wie sich die Pfarherrn und Seelsorger in jrem beruff ... halten sollen 1566 | 1566 | 8, p. 178 | 2257 | Other | MR |  |
+| 19 | Fürstliche ordnunge von ... der kyrchenn dieners und Gotts kastenn. o.J | n.d. | 8, p. 338 | 2257 | Poor relief | MR |  |
 
 ### 16.2 The Hessian landgraviates: joint synods and orders (1567-1582)
 
-- **Tradition**: Moderate / mediating.
-- **Note**: The Agenda of 1574 continues the mediating Hessian line.
+- **Tradition**: Philippist.
+- **Note**: The joint synods held to the Wittenberg *Corpus doctrinae* of 1560 and refused the
+  Formula of Concord; the Agenda of 1574 keeps the Hessian order of 1566.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 20 | Abschied der ersten Generalsynode zu Marburg 1568 | 1568 | 8, p. 347 | 2262 | Consistory / synod / government | M |  |
-| 21 | Abschied der zweiten Generalsynode zu Kassel 1569 | 1569 | 8, p. 351 | 2263 | Consistory / synod / government | M |  |
-| 22 | Abschied der dritten Generalsynode zu Marburg 1571 | 1571 | 8, p. 354 | 2263 | Consistory / synod / government | M |  |
-| 23 | Abschied der vierten Generalsynode zu Kassel 1572 | 1572 | 8, p. 364 | 2263 | Consistory / synod / government | M |  |
-| 24 | Abschied der fünften Generalsynode zu Marburg 1573 | 1573 | 8, p. 367 | 2263 | Consistory / synod / government | M |  |
-| 25 | Abschied der sechsten Generalsynode zu Kassel 1574 | 1574 | 8, p. 371 | 2265 | Consistory / synod / government | M |  |
-| 26 | Abschied der siebten Generalsynode zu Marburg 1575 | 1575 | 8, p. 373 | 2266 | Consistory / synod / government | M |  |
-| 27 | Die achte Generalsynode zu Kassel 1576 | 1576 | 8, p. 377 | 2267 | Consistory / synod / government | M |  |
-| 28 | Abschied des Konvents zu Treysa 1577 | 1577 | 8, p. 377 | 2267 | Consistory / synod / government | M |  |
-| 29 | Abschied der neunten Generalsynode zu Marburg 1578 | 1578 | 8, p. 379 | 2268 | Consistory / synod / government | M |  |
-| 30 | Abschied der zehnten Generalsynode zu Kassel 1579 | 1579 | 8, p. 383 | 2269 | Consistory / synod / government | M |  |
-| 31 | Abschied der elften Generalsynode zu Marburg 1580 | 1580 | 8, p. 386 | 2270 | Consistory / synod / government | M |  |
-| 32 | Abschied der zwölften Generalsynode zu Kassel 1581 | 1581 | 8, p. 389 | 2271 | Consistory / synod / government | M |  |
-| 33 | Abschied der dreizehnten Generalsynode zu Marburg 1582 | 1582 | 8, p. 392 | 2272 | Consistory / synod / government | M |  |
-| 34 | Ordnung und Reformation Unser von Gotts gnaden Wilhelms, Ludwigs, Philipsen und Georgens, Gebrüder Landtgraven zu Hessen 1572 | 1572 | 8, p. 394 | 2272 | Local order | M |  |
-| 35 | Agenda Das ist: Kirchenordnung wie es im Fürstenthumb Hessen mit verkündigung Göttliches worts, reichung der heiligen Sacramenten und andern … | 1574 | 8, p. 408 | 2272 | Church order | M |  |
+| 20 | Abschied der ersten Generalsynode zu Marburg 1568 | 1568 | 8, p. 347 | 2262 | Consistory / synod / government | PH |  |
+| 21 | Abschied der zweiten Generalsynode zu Kassel 1569 | 1569 | 8, p. 351 | 2263 | Consistory / synod / government | PH |  |
+| 22 | Abschied der dritten Generalsynode zu Marburg 1571 | 1571 | 8, p. 354 | 2263 | Consistory / synod / government | PH |  |
+| 23 | Abschied der vierten Generalsynode zu Kassel 1572 | 1572 | 8, p. 364 | 2263 | Consistory / synod / government | PH |  |
+| 24 | Abschied der fünften Generalsynode zu Marburg 1573 | 1573 | 8, p. 367 | 2263 | Consistory / synod / government | PH |  |
+| 25 | Abschied der sechsten Generalsynode zu Kassel 1574 | 1574 | 8, p. 371 | 2265 | Consistory / synod / government | PH |  |
+| 26 | Abschied der siebten Generalsynode zu Marburg 1575 | 1575 | 8, p. 373 | 2266 | Consistory / synod / government | PH |  |
+| 27 | Die achte Generalsynode zu Kassel 1576 | 1576 | 8, p. 377 | 2267 | Consistory / synod / government | PH |  |
+| 28 | Abschied des Konvents zu Treysa 1577 | 1577 | 8, p. 377 | 2267 | Consistory / synod / government | PH |  |
+| 29 | Abschied der neunten Generalsynode zu Marburg 1578 | 1578 | 8, p. 379 | 2268 | Consistory / synod / government | PH |  |
+| 30 | Abschied der zehnten Generalsynode zu Kassel 1579 | 1579 | 8, p. 383 | 2269 | Consistory / synod / government | PH |  |
+| 31 | Abschied der elften Generalsynode zu Marburg 1580 | 1580 | 8, p. 386 | 2270 | Consistory / synod / government | PH |  |
+| 32 | Abschied der zwölften Generalsynode zu Kassel 1581 | 1581 | 8, p. 389 | 2271 | Consistory / synod / government | PH |  |
+| 33 | Abschied der dreizehnten Generalsynode zu Marburg 1582 | 1582 | 8, p. 392 | 2272 | Consistory / synod / government | PH |  |
+| 34 | Ordnung und Reformation Unser von Gotts gnaden Wilhelms, Ludwigs, Philipsen und Georgens, Gebrüder Landtgraven zu Hessen 1572 | 1572 | 8, p. 394 | 2272 | Local order | PH |  |
+| 35 | Agenda Das ist: Kirchenordnung wie es im Fürstenthumb Hessen mit verkündigung Göttliches worts, reichung der heiligen Sacramenten und andern … | 1574 | 8, p. 408 | 2272 | Church order | PH |  |
 
 ## 17. Volume 9: Hesse II: divided Hesse, Waldeck, Solms, Erbach, Frankfurt, Wetterau cities
 
@@ -2245,17 +2272,17 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 17.1 Divided Hesse (1582-1618)
 
-- **Tradition**: Moderate / mediating.
+- **Tradition**: Philippist; Reformed in Hessen-Kassel from 1600; Lutheran in Hessen-Darmstadt.
 - **Note**: Hessen-Marburg (to 1604) and Hessen-Darmstadt stayed Lutheran; Hessen-Kassel under
   Moritz turned Reformed (Katzenelnbogen 1600, 'Verbesserungspunkte' 1605).
-- **Texts by tradition**: Reformed 11, Moderate / mediating 5, Lutheran 3.
+- **Texts by tradition**: Reformed 11, Philippist 5, Lutheran 3.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Reversformular für die Theologen der Universität Marburg [1583] | 1583 | 9, p. 49 | 2287 | School / university | M |  |
-| 2 | Artikel und Revers der Theologen an der Universität Marburg 1592 | 1592 | 9, p. 51 | 2287 | Articles / statutes | M |  |
-| 3a | Diensteid der Pfarrer in der Niedergrafschaft Katzenelnbogen 1597 | 1597 | 9, p. 53 | 2287 | Appointment / oath | M |  |
-| 3b | Diensteid der Pfarrer in der Niedergrafschaft Katzenelnbogen 1598 | 1598 | 9, p. 54 | 2287 | Appointment / oath | M |  |
+| 1 | Reversformular für die Theologen der Universität Marburg [1583] | 1583 | 9, p. 49 | 2287 | School / university | PH |  |
+| 2 | Artikel und Revers der Theologen an der Universität Marburg 1592 | 1592 | 9, p. 51 | 2287 | Articles / statutes | PH |  |
+| 3a | Diensteid der Pfarrer in der Niedergrafschaft Katzenelnbogen 1597 | 1597 | 9, p. 53 | 2287 | Appointment / oath | PH |  |
+| 3b | Diensteid der Pfarrer in der Niedergrafschaft Katzenelnbogen 1598 | 1598 | 9, p. 54 | 2287 | Appointment / oath | PH |  |
 | 4a | Konfessionswechsel in der Niedergrafschaft Katzenelnbogen 1600: Visitationsbericht des Superintendenten Christian Zindel | 1600 | 9, p. 57 | 2287 | Visitation | R |  |
 | 4b | Konfessionswechsel in der Niedergrafschaft Katzenelnbogen 1600: Resolution Landgraf Moritz’ zum Visitationsbericht | 1600 | 9, p. 66 | 2287 | Visitation | R |  |
 | 5 | Mandat zur Einführung der Verbesserungspunkte 1605 | 1605 | 9, p. 69 | 2287 | Mandate / decree | R |  |
@@ -2267,7 +2294,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 9 | Eheordnung 1608 | 1608 | 9, p. 122 | 2287 | Marriage | R |  |
 | 10 | Visitationsinstruktion für das Konsistorium [1610] | 1610 | 9, p. 133 | 2287 | Visitation | R |  |
 | 11 | Schulordnung 1618 | 1618 | 9, p. 136 | 2287 | School / university | R |  |
-| 12 | Polizeiordnung [1574] | 1574 | 9, p. 139 | 2287 | Discipline / police | M |  |
+| 12 | Polizeiordnung [1574] | 1574 | 9, p. 139 | 2287 | Discipline / police | PH |  |
 | 13 | Predigerwitwenmandat 1604 | 1604 | 9, p. 149 | 2287 | Poor relief | L | Hessen-Darmstadt |
 | 14a | Regierungsordnung 1617: Mandat zur Beibehaltung der Confessio Augustana | 1617 | 9, p. 150 | 2287 | Mandate / decree | L | Hessen-Darmstadt |
 | 14b | Regierungsordnung 1617: Definitoriumsordnung zur Besetzung kirchlicher Stellen | 1617 | 9, p. 154 | 2287 | Consistory / synod / government | L | Hessen-Darmstadt |
@@ -2349,17 +2376,17 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 17.6 Imperial city of Frankfurt
 
-- **Tradition**: Moderate / mediating; Lutheran from 1535.
+- **Tradition**: Moderate Reformed; Lutheran from 1535.
 - **Note**: Upper German in the early 1530s, then Lutheran (Wittenberg Concord 1536); the
   refugee churches are listed under their own confessions.
-- **Texts by tradition**: Lutheran 19, Moderate / mediating 4, Reformed 2, Anglican 1.
+- **Texts by tradition**: Lutheran 19, Moderate Reformed 4, Reformed 2, Anglican 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Predigt- und Abendmahlsordnung 1530 | 1530 | 9, p. 495 | 2331 | Agenda / liturgy | M |  |
-| 2a | Suspendierung der Messe 1533: Ratsbefehl | 1533 | 9, p. 501 | 2331 | Mandate / decree | M |  |
-| 2b | Suspendierung der Messe 1533: Protestationsinstrument | 1533 | 9, p. 502 | 2331 | Other | M |  |
-| 3 | Predigt- und Kirchenordnung [1533] | 1533 | 9, p. 505 | 2332 | Church order | M |  |
+| 1 | Predigt- und Abendmahlsordnung 1530 | 1530 | 9, p. 495 | 2331 | Agenda / liturgy | MR |  |
+| 2a | Suspendierung der Messe 1533: Ratsbefehl | 1533 | 9, p. 501 | 2331 | Mandate / decree | MR |  |
+| 2b | Suspendierung der Messe 1533: Protestationsinstrument | 1533 | 9, p. 502 | 2331 | Other | MR |  |
+| 3 | Predigt- und Kirchenordnung [1533] | 1533 | 9, p. 505 | 2332 | Church order | MR |  |
 | 4a | Mandate gegen abweichende theologische Lehren: Täufermandat 1535 | 1535 | 9, p. 507 | 2332 | Discipline / police | L |  |
 | 4b | Mandat gegen Prediger zwinglischer und calvinischer Lehren [1537] | 1537 | 9, p. 508 | 2332 | Mandate / decree | L |  |
 | 5 | Resolution auf die Gravamina der Prediger 1542 | 1542 | 9, p. 509 | 2332 | Mandate / decree | L |  |
@@ -2423,10 +2450,10 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 18.1 Nassau-Dillenburg
 
-- **Tradition**: Lutheran; Moderate / mediating from 1573; Reformed from 1578.
+- **Tradition**: Lutheran; Philippist from 1573; Reformed from 1578.
 - **Note**: Lutheran under Wilhelm I and early Johann VI; from 1573 a 'Second Reformation',
   Reformed by 1578/1581.
-- **Texts by tradition**: Lutheran 14, Reformed 14, Moderate / mediating 1.
+- **Texts by tradition**: Lutheran 14, Reformed 14, Philippist 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -2444,7 +2471,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 12 | Anordnung einer Generalvisitation 1570 | 1570 | 10, p. 105 | 179 | Visitation | L |  |
 | 13 | Visitationsabschied und Kirchenordnung 1570 | 1570 | 10, p. 108 | 180 | Church order | L |  |
 | 14 | Ordnung für das Kloster Keppel 1570 | 1570 | 10, p. 130 | 181 | Monastery / chapter | L |  |
-| 15 | Agende [1575] | 1575 | 10, p. 146 | 182 | Agenda / liturgy | M |  |
+| 15 | Agende [1575] | 1575 | 10, p. 146 | 182 | Agenda / liturgy | PH |  |
 | 16 | Reformationsmandat für Stadt und Amt Siegen 1581 | 1581 | 10, p. 158 | 183 | Mandate / decree | R |  |
 | 17 | Kirchenordnung 1582 | 1582 | 10, p. 160 | 184 | Church order | R |  |
 | 18 | Ordnung für die Spezialkonsistorien [1582] | 1582 | 10, p. 165 | 185 | Consistory / synod / government | R |  |
@@ -2729,26 +2756,26 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 20.1 Imperial city of Augsburg
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: Upper German (Zwinglian-Bucerian) until the Interim; Lutheran after 1552/1555.
-- **Texts by tradition**: Moderate / mediating 14, Lutheran 3.
+- **Texts by tradition**: Moderate Reformed 14, Lutheran 3.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | M |  |
-| 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | n.d. | 12, p. 35 | 333 | Agenda / liturgy | M |  |
-| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | M |  |
-| 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | M |  |
-| 5 | Reformationsmandat vom 29. Juli 1534 | 1534 | 12, p. 44 | 335 | Mandate / decree | M |  |
-| 6 | Bestallung eines Predigers 1535 | 1535 | 12, p. 46 | 336 | Appointment / oath | M |  |
-| 7 | Dekret über die Wochengottesdienste vom 9. Juni 1537 | 1537 | 12, p. 49 | 337 | Mandate / decree | M |  |
-| 8a | Kirchenordnung von 1537 | 1537 | 12, p. 50 | 338 | Church order | M |  |
-| 8b | Auszug aus der Kirchenordnung | n.d. | 12, p. 65 | 338 | Church order | M |  |
-| 9 | Die zehen gebot, Articul des Glaubens, Und das Vater unser... (1537) | 1537 | 12, p. 67 | 338 | Other | M |  |
-| 10 | Forma, wie von dem hailigen Tauf, und dem hailigen Sacrament des leibs und bluts Christ,... vom Elichen Stand... zu reden sey... 1537 | 1537 | 12, p. 72 | 338 | Agenda / liturgy | M |  |
-|  | II. Feiertagsordnung vom 22. Juli 1537 | 1537 | 12, p. 84 | 339 | Discipline / police | M |  |
-| 12 | Forma. Wie vom hailigen Tauf, und dem H. Sacrament des Leibs und Bluts Christi... vom Eelichen Stand... zu reden sei... (1545) | 1545 | 12, p. 85 | 339 | Agenda / liturgy | M |  |
-| 13 | Gottesdienstformen um 1548 | 1548 | 12, p. 93 | 340 | Agenda / liturgy | M |  |
+| 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | MR |  |
+| 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | n.d. | 12, p. 35 | 333 | Agenda / liturgy | MR |  |
+| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | MR |  |
+| 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | MR |  |
+| 5 | Reformationsmandat vom 29. Juli 1534 | 1534 | 12, p. 44 | 335 | Mandate / decree | MR |  |
+| 6 | Bestallung eines Predigers 1535 | 1535 | 12, p. 46 | 336 | Appointment / oath | MR |  |
+| 7 | Dekret über die Wochengottesdienste vom 9. Juni 1537 | 1537 | 12, p. 49 | 337 | Mandate / decree | MR |  |
+| 8a | Kirchenordnung von 1537 | 1537 | 12, p. 50 | 338 | Church order | MR |  |
+| 8b | Auszug aus der Kirchenordnung | n.d. | 12, p. 65 | 338 | Church order | MR |  |
+| 9 | Die zehen gebot, Articul des Glaubens, Und das Vater unser... (1537) | 1537 | 12, p. 67 | 338 | Other | MR |  |
+| 10 | Forma, wie von dem hailigen Tauf, und dem hailigen Sacrament des leibs und bluts Christ,... vom Elichen Stand... zu reden sey... 1537 | 1537 | 12, p. 72 | 338 | Agenda / liturgy | MR |  |
+|  | II. Feiertagsordnung vom 22. Juli 1537 | 1537 | 12, p. 84 | 339 | Discipline / police | MR |  |
+| 12 | Forma. Wie vom hailigen Tauf, und dem H. Sacrament des Leibs und Bluts Christi... vom Eelichen Stand... zu reden sei... (1545) | 1545 | 12, p. 85 | 339 | Agenda / liturgy | MR |  |
+| 13 | Gottesdienstformen um 1548 | 1548 | 12, p. 93 | 340 | Agenda / liturgy | MR |  |
 | 14 | Forma. Wie vom hailigen tauf, und dem hailigen Sacrament des leibs und Bluts Christi... von dem trost der Kranken... vom Ehlichen Stand... zureden … | 1555 | 12, p. 95 | 340 | Agenda / liturgy | L |  |
 | 15 | Vergleichartikel von 1591 | 1591 | 12, p. 109 | 341 | Treaty / agreement | L |  |
 | 16 | Einzelbestimmungen zu den Berufungsverhandlungen 1591 | 1591 | 12, p. 112 | 342 | Appointment / oath | L |  |
@@ -2787,31 +2814,31 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 20.5 Imperial city of Lindau
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: A Tetrapolitan city (Upper German) until the Interim; Lutheran afterwards.
-- **Texts by tradition**: Moderate / mediating 3, Lutheran 2.
+- **Texts by tradition**: Moderate Reformed 3, Lutheran 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Zuchtordnung von 1533 | 1533 | 12, p. 186 | 357 | Discipline / police | M |  |
-| 2 | Bekanntmachungen zur Einschärfung der Zuchtordnung (Lasterstraf) 1539 | 1539 | 12, p. 198 | 358 | Discipline / police | M |  |
-| 3 | Almusenordnung in der statt Lindaw 1533 | 1533 | 12, p. 200 | 359 | Poor relief | M |  |
+| 1 | Zuchtordnung von 1533 | 1533 | 12, p. 186 | 357 | Discipline / police | MR |  |
+| 2 | Bekanntmachungen zur Einschärfung der Zuchtordnung (Lasterstraf) 1539 | 1539 | 12, p. 198 | 358 | Discipline / police | MR |  |
+| 3 | Almusenordnung in der statt Lindaw 1533 | 1533 | 12, p. 200 | 359 | Poor relief | MR |  |
 | 4 | Agenda,... wie es... in der Pfarrkirchen zu Lindaw... 1573 | 1573 | 12, p. 203 | 360 | Agenda / liturgy | L |  |
 | 5 | Agenda, wie es auf dem land... zu Rüte und Eschach... (1573) | 1573 | 12, p. 218 | 361 | Agenda / liturgy | L |  |
 
 ### 20.6 Imperial city of Memmingen
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: A Tetrapolitan city (Upper German) until the Interim; Lutheran afterwards.
-- **Texts by tradition**: Moderate / mediating 4, Lutheran 1.
+- **Texts by tradition**: Moderate Reformed 4, Lutheran 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Kirchenordnung von 1528 | 1528 | 12, p. 223 | 363 | Church order | M |  |
-| 2 | Ordnung und Brauch deß Herrennachtmals... (1529) | 1529 | 12, p. 239 | 364 | Agenda / liturgy | M |  |
-| 3 | Zuchtordnung von 1532 | 1532 | 12, p. 247 | 365 | Discipline / police | M |  |
+| 1 | Kirchenordnung von 1528 | 1528 | 12, p. 223 | 363 | Church order | MR |  |
+| 2 | Ordnung und Brauch deß Herrennachtmals... (1529) | 1529 | 12, p. 239 | 364 | Agenda / liturgy | MR |  |
+| 3 | Zuchtordnung von 1532 | 1532 | 12, p. 247 | 365 | Discipline / police | MR |  |
 | 4 | Kirchenordnung... 1569 | 1569 | 12, p. 256 | 366 | Church order | L |  |
-| 5 | Meßpfründenordnung 1542 | 1542 | 12, p. 267 | 367 | Agenda / liturgy | M |  |
+| 5 | Meßpfründenordnung 1542 | 1542 | 12, p. 267 | 367 | Agenda / liturgy | MR |  |
 
 ### 20.7 Imperial city of Nördlingen
 
@@ -3420,61 +3447,61 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 25.3 Imperial city of Konstanz
 
-- **Tradition**: Moderate / mediating.
+- **Tradition**: Moderate Reformed.
 - **Note**: Upper German (Zwick, Blarer); the Reformation ended when Konstanz fell to Austria in
   1548.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Reformationsratschlag für den Städtetag in Ulm 1524 | 1524 | 17/1, p. 347 | 786 | Other | M |  |
-| 2a | Konstanzer Reformationsordnung 1524-1529: Predigtmandat 1524 | 1524 | 17/1, p. 362 | 786 | Mandate / decree | M |  |
-| 2b | Konstanzer Reformationsordnung 1524-1529: Edikt gegen Ehebruch und Hurerei 1527 | 1527 | 17/1, p. 363 | 786 | Mandate / decree | M |  |
-| 2c | Konstanzer Reformationsordnung 1524-1529: Ordnung der Eheeinsegnungen [1528] | 1528 | 17/1, p. 364 | 786 | Marriage | M |  |
-| 2d | Konstanzer Reformationsordnung 1524-1529: Ordnung der Taufen [um 1529] | 1529 | 17/1, p. 366 | 786 | Agenda / liturgy | M |  |
-| 2e | Konstanzer Reformationsordnung 1524-1529: Ordnung der Feiertage 1527 | 1527 | 17/1, p. 368 | 786 | Discipline / police | M |  |
-| 3 | Ausschreiben gegen Fluchen, Gotteslästerung und Zutrinken [1526] | 1526 | 17/1, p. 370 | 787 | Mandate / decree | M |  |
-| 4 | Almosenordnung 1527 | 1527 | 17/1, p. 372 | 788 | Poor relief | M |  |
-| 5 | Almosenordnung 1532 | 1532 | 17/1, p. 378 | 789 | Poor relief | M |  |
-| 6 | Almosenordnung 1545 | 1545 | 17/1, p. 381 | 790 | Poor relief | M |  |
-| 7 | Mandat zur Eheschließung Minderjähriger, vor 5. April 1531 | 1531 | 17/1, p. 383 | 790 | Mandate / decree | M |  |
-| 8 | Zuchtordnung 1531 | 1531 | 17/1, p. 384 | 790 | Discipline / police | M |  |
-| 9 | Mandat zur Feiertagsheiligung 1531 | 1531 | 17/1, p. 410 | 790 | Mandate / decree | M |  |
-| 10 | Abschaffung der Klöpfleinsnächte 1535 | 1535 | 17/1, p. 411 | 790 | Mandate / decree | M |  |
-| 11 | Abschaffung des Neujahrsansingens 1544 | 1544 | 17/1, p. 412 | 790 | Mandate / decree | M |  |
-| 12 | Verbot, Hunde während des Gottesdienstes in der Kirche herumlaufen zu lassen 1537 | 1537 | 17/1, p. 413 | 790 | Mandate / decree | M |  |
-| 13 | Strafen gegen Hunde, die während des Gottesdienstes in der Kirche herumlaufen 1543 | 1543 | 17/1, p. 414 | 790 | Agenda / liturgy | M |  |
-| 14 | Ordnung der Eheaufgebote und Eheeinsegnungen 1537/1543/1548 | 1548 | 17/1, p. 415 | 791 | Marriage | M |  |
-| 15 | Ordnung der Kirchenpflege [1538] | 1538 | 17/1, p. 416 | 792 | Church order | M |  |
+| 1 | Reformationsratschlag für den Städtetag in Ulm 1524 | 1524 | 17/1, p. 347 | 786 | Other | MR |  |
+| 2a | Konstanzer Reformationsordnung 1524-1529: Predigtmandat 1524 | 1524 | 17/1, p. 362 | 786 | Mandate / decree | MR |  |
+| 2b | Konstanzer Reformationsordnung 1524-1529: Edikt gegen Ehebruch und Hurerei 1527 | 1527 | 17/1, p. 363 | 786 | Mandate / decree | MR |  |
+| 2c | Konstanzer Reformationsordnung 1524-1529: Ordnung der Eheeinsegnungen [1528] | 1528 | 17/1, p. 364 | 786 | Marriage | MR |  |
+| 2d | Konstanzer Reformationsordnung 1524-1529: Ordnung der Taufen [um 1529] | 1529 | 17/1, p. 366 | 786 | Agenda / liturgy | MR |  |
+| 2e | Konstanzer Reformationsordnung 1524-1529: Ordnung der Feiertage 1527 | 1527 | 17/1, p. 368 | 786 | Discipline / police | MR |  |
+| 3 | Ausschreiben gegen Fluchen, Gotteslästerung und Zutrinken [1526] | 1526 | 17/1, p. 370 | 787 | Mandate / decree | MR |  |
+| 4 | Almosenordnung 1527 | 1527 | 17/1, p. 372 | 788 | Poor relief | MR |  |
+| 5 | Almosenordnung 1532 | 1532 | 17/1, p. 378 | 789 | Poor relief | MR |  |
+| 6 | Almosenordnung 1545 | 1545 | 17/1, p. 381 | 790 | Poor relief | MR |  |
+| 7 | Mandat zur Eheschließung Minderjähriger, vor 5. April 1531 | 1531 | 17/1, p. 383 | 790 | Mandate / decree | MR |  |
+| 8 | Zuchtordnung 1531 | 1531 | 17/1, p. 384 | 790 | Discipline / police | MR |  |
+| 9 | Mandat zur Feiertagsheiligung 1531 | 1531 | 17/1, p. 410 | 790 | Mandate / decree | MR |  |
+| 10 | Abschaffung der Klöpfleinsnächte 1535 | 1535 | 17/1, p. 411 | 790 | Mandate / decree | MR |  |
+| 11 | Abschaffung des Neujahrsansingens 1544 | 1544 | 17/1, p. 412 | 790 | Mandate / decree | MR |  |
+| 12 | Verbot, Hunde während des Gottesdienstes in der Kirche herumlaufen zu lassen 1537 | 1537 | 17/1, p. 413 | 790 | Mandate / decree | MR |  |
+| 13 | Strafen gegen Hunde, die während des Gottesdienstes in der Kirche herumlaufen 1543 | 1543 | 17/1, p. 414 | 790 | Agenda / liturgy | MR |  |
+| 14 | Ordnung der Eheaufgebote und Eheeinsegnungen 1537/1543/1548 | 1548 | 17/1, p. 415 | 791 | Marriage | MR |  |
+| 15 | Ordnung der Kirchenpflege [1538] | 1538 | 17/1, p. 416 | 792 | Church order | MR |  |
 
 ### 25.4 Imperial city of Isny
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: Upper German (Fagius) before the Interim; Lutheran after.
-- **Texts by tradition**: Lutheran 3, Moderate / mediating 2.
+- **Texts by tradition**: Lutheran 3, Moderate Reformed 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Zuchtherrenordnung [1533] | 1533 | 17/1, p. 429 | 796 | Discipline / police | M |  |
-| 2 | Auszug aus der Stadtordnung zum Eherecht 1544 | 1544 | 17/1, p. 435 | 797 | Marriage | M |  |
+| 1 | Zuchtherrenordnung [1533] | 1533 | 17/1, p. 429 | 796 | Discipline / police | MR |  |
+| 2 | Auszug aus der Stadtordnung zum Eherecht 1544 | 1544 | 17/1, p. 435 | 797 | Marriage | MR |  |
 | 3 | Ehegerichtsordnung 1566/1600 | 1600 | 17/1, p. 439 | 798 | Consistory / synod / government | L |  |
 | 4 | Ordnung des Ehegerichts [1600] | 1600 | 17/1, p. 451 | 799 | Consistory / synod / government | L |  |
 | 5 | Agende [um 1600] | 1600 | 17/1, p. 455 | 800 | Agenda / liturgy | L |  |
 
 ### 25.5 Imperial city of Gengenbach
 
-- **Tradition**: Moderate / mediating.
+- **Tradition**: Moderate Reformed.
 - **Note**: A short Reformation (1525-1548) under Strasbourg influence.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Mandat zur Schulmeisteranstellung [1536-1544] | 1544 | 17/1, p. 483 | 804 | Mandate / decree | M |  |
-| 2 | Schulmeisterordnung [1536-1544] | 1544 | 17/1, p. 484 | 805 | School / university | M |  |
-| 3a | Schreiben der Prädikanten an den Rat, eine Kirchenordnung zu erlassen 1538 | 1538 | 17/1, p. 485 | 805 | Church order | M |  |
-| 3b | Kirchenordnung 1538: Reformationsartikel der evangelischen Geistlichen 1538 | 1538 | 17/1, p. 488 | 805 | Other | M |  |
-| 3c | Kirchenordnung 1538: Kirchenordnung [1538] | 1538 | 17/1, p. 491 | 805 | Church order | M |  |
-| 4 | Vertrag zum Unterhalt des Pfarrers, seines Helfers und des Schulmeisters 1540 | 1540 | 17/1, p. 499 | 806 | School / university | M |  |
-| 5 | Gengenbacher Katechismus 1545 | 1545 | 17/1, p. 501 | 807 | Catechism / instruction | M |  |
-| 6 | Ordnung zu Eherechtsfragen [1536-1544] | 1544 | 17/1, p. 512 | 808 | Marriage | M |  |
+| 1 | Mandat zur Schulmeisteranstellung [1536-1544] | 1544 | 17/1, p. 483 | 804 | Mandate / decree | MR |  |
+| 2 | Schulmeisterordnung [1536-1544] | 1544 | 17/1, p. 484 | 805 | School / university | MR |  |
+| 3a | Schreiben der Prädikanten an den Rat, eine Kirchenordnung zu erlassen 1538 | 1538 | 17/1, p. 485 | 805 | Church order | MR |  |
+| 3b | Kirchenordnung 1538: Reformationsartikel der evangelischen Geistlichen 1538 | 1538 | 17/1, p. 488 | 805 | Other | MR |  |
+| 3c | Kirchenordnung 1538: Kirchenordnung [1538] | 1538 | 17/1, p. 491 | 805 | Church order | MR |  |
+| 4 | Vertrag zum Unterhalt des Pfarrers, seines Helfers und des Schulmeisters 1540 | 1540 | 17/1, p. 499 | 806 | School / university | MR |  |
+| 5 | Gengenbacher Katechismus 1545 | 1545 | 17/1, p. 501 | 807 | Catechism / instruction | MR |  |
+| 6 | Ordnung zu Eherechtsfragen [1536-1544] | 1544 | 17/1, p. 512 | 808 | Marriage | MR |  |
 
 ### 25.6 Württemberg: school orders of the Great Church Order of 1559 (supplement to vol. 16)
 
@@ -3508,28 +3535,28 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 26.2 Imperial city of Ulm
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: Upper German (Bucer, Oecolampadius, Blarer: order of 1531) until the Interim;
   Lutheran after, on the Württemberg model.
-- **Texts by tradition**: Lutheran 20, Moderate / mediating 15.
+- **Texts by tradition**: Lutheran 20, Moderate Reformed 15.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Almosenordnung 1528 | 1528 | 17/2, p. 86 | 833 | Poor relief | M |  |
-| 2 | Ulmer Katechismus des Konrad Sam 1528/1536 | 1536 | 17/2, p. 97 | 834 | Catechism / instruction | M |  |
-| 3 | Täufermandat 1531 | 1531 | 17/2, p. 121 | 835 | Discipline / police | M |  |
-| 4 | Ratsbeschlüsse zu Taufen und Eheeinsegnungen 1531 | 1531 | 17/2, p. 123 | 836 | Agenda / liturgy | M |  |
-| 5 | Kirchenordnung 1531 | 1531 | 17/2, p. 124 | 837 | Church order | M |  |
-| 6 | Das „Handbüchlein“ - Die Ulmer Agende 1531 | 1531 | 17/2, p. 163 | 838 | Agenda / liturgy | M |  |
-| 7 | Ehegerichtsordnung 1534 | 1534 | 17/2, p. 184 | 839 | Consistory / synod / government | M |  |
-| 8 | Mandat zum Verbot des Messbesuchs außerhalb von Ulm 1537 | 1537 | 17/2, p. 191 | 840 | Mandate / decree | M |  |
-| 9a | Visitationsartikel o.D | n.d. | 17/2, p. 192 | 840 | Visitation | M |  |
-| 9b | Visitationsartikel 1534 | 1534 | 17/2, p. 195 | 840 | Visitation | M |  |
-| 9c | Visitationsartikel 1537 | 1537 | 17/2, p. 197 | 840 | Visitation | M |  |
-| 10 | Ordnung für die Superintendenten des Ulmer Landgebiets [1537?] | 1537 | 17/2, p. 199 | 841 | Consistory / synod / government | M |  |
-| 11 | Fragenkatalog für die Synode 1539 | 1539 | 17/2, p. 200 | 842 | Consistory / synod / government | M |  |
-| 12 | Mandat zur Sonntagsheiligung 1541 | 1541 | 17/2, p. 203 | 843 | Mandate / decree | M |  |
-| 13 | Verbot von Neuaufnahmen in Klöstern 1544 | 1544 | 17/2, p. 204 | 844 | Mandate / decree | M |  |
+| 1 | Almosenordnung 1528 | 1528 | 17/2, p. 86 | 833 | Poor relief | MR |  |
+| 2 | Ulmer Katechismus des Konrad Sam 1528/1536 | 1536 | 17/2, p. 97 | 834 | Catechism / instruction | MR |  |
+| 3 | Täufermandat 1531 | 1531 | 17/2, p. 121 | 835 | Discipline / police | MR |  |
+| 4 | Ratsbeschlüsse zu Taufen und Eheeinsegnungen 1531 | 1531 | 17/2, p. 123 | 836 | Agenda / liturgy | MR |  |
+| 5 | Kirchenordnung 1531 | 1531 | 17/2, p. 124 | 837 | Church order | MR |  |
+| 6 | Das „Handbüchlein“ - Die Ulmer Agende 1531 | 1531 | 17/2, p. 163 | 838 | Agenda / liturgy | MR |  |
+| 7 | Ehegerichtsordnung 1534 | 1534 | 17/2, p. 184 | 839 | Consistory / synod / government | MR |  |
+| 8 | Mandat zum Verbot des Messbesuchs außerhalb von Ulm 1537 | 1537 | 17/2, p. 191 | 840 | Mandate / decree | MR |  |
+| 9a | Visitationsartikel o.D | n.d. | 17/2, p. 192 | 840 | Visitation | MR |  |
+| 9b | Visitationsartikel 1534 | 1534 | 17/2, p. 195 | 840 | Visitation | MR |  |
+| 9c | Visitationsartikel 1537 | 1537 | 17/2, p. 197 | 840 | Visitation | MR |  |
+| 10 | Ordnung für die Superintendenten des Ulmer Landgebiets [1537?] | 1537 | 17/2, p. 199 | 841 | Consistory / synod / government | MR |  |
+| 11 | Fragenkatalog für die Synode 1539 | 1539 | 17/2, p. 200 | 842 | Consistory / synod / government | MR |  |
+| 12 | Mandat zur Sonntagsheiligung 1541 | 1541 | 17/2, p. 203 | 843 | Mandate / decree | MR |  |
+| 13 | Verbot von Neuaufnahmen in Klöstern 1544 | 1544 | 17/2, p. 204 | 844 | Mandate / decree | MR |  |
 | 14 | Mandat zur Religionstoleranz 1554 | 1554 | 17/2, p. 205 | 845 | Mandate / decree | L |  |
 | 15 | Verzeichnis der gültigen Feiertage 1554 | 1554 | 17/2, p. 206 | 846 | Discipline / police | L |  |
 | 16 | Mandat zur Sonn- und Feiertagsheiligung 1554 | 1554 | 17/2, p. 207 | 847 | Mandate / decree | L |  |
@@ -3553,46 +3580,46 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 26.3 Imperial city of Esslingen
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: Upper German (Blarer) until the Interim; Lutheran after.
-- **Texts by tradition**: Moderate / mediating 34, Lutheran 6.
+- **Texts by tradition**: Moderate Reformed 34, Lutheran 6.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Ratsverkündung zur Anstellung eines Predigers und Wahrung des innerstädtischen Friedens in der Religionsfrage 1531 | 1531 | 17/2, p. 329 | 864 | Appointment / oath | M |  |
-| 2 | Ratsdekret zur Einführung der Reformation 1531 | 1531 | 17/2, p. 331 | 865 | Mandate / decree | M |  |
-| 3 | Verbot, in anderen Orten die Messe zu besuchen 1531 | 1531 | 17/2, p. 333 | 866 | Mandate / decree | M |  |
-| 4 | Verbot, Kleriker und Ordensgeistliche zu beleidigen 1531 | 1531 | 17/2, p. 334 | 867 | Mandate / decree | M |  |
-| 5 | Zuchtordnung 1532 | 1532 | 17/2, p. 335 | 868 | Discipline / police | M |  |
-| 6 | Neuordnung des Esslinger Pfarrsprengels [1532] | 1532 | 17/2, p. 357 | 869 | Other | M |  |
-| 7 | Ordnung der Leibgedinge für Konventualen und Organisation der Barfüßerpfarrei [1532] | 1532 | 17/2, p. 359 | 870 | Consistory / synod / government | M |  |
-| 8 | Ordnung für die Bezirkszuchtherren 1532 | 1532 | 17/2, p. 361 | 871 | Discipline / police | M |  |
-| 9 | Aufgaben der Bezirkszuchtherren [1532] | 1532 | 17/2, p. 363 | 872 | Discipline / police | M |  |
-| 10 | Ratsverkündung gegen die Täufer 1532 | 1532 | 17/2, p. 364 | 873 | Discipline / police | M |  |
-| 11 | Artikel zu Gottesdienstbesuch und Abendmahlsempfang 1532 | 1532 | 17/2, p. 365 | 874 | Agenda / liturgy | M |  |
-| 12 | Instruktionen für die Verordneten im Dominikanerkloster 1532 | 1532 | 17/2, p. 370 | 875 | Monastery / chapter | M |  |
-| 13 | Mandat für die altgläubigen Geistlichen 1532 | 1532 | 17/2, p. 371 | 876 | Mandate / decree | M |  |
-| 14 | Verordnung für die Zunftherren zur Sonn- und Feiertagsheiligung 1533 | 1533 | 17/2, p. 372 | 877 | Discipline / police | M |  |
-| 15 | Prädikantenordnung [1533] | 1533 | 17/2, p. 373 | 878 | Other | M |  |
-| 16 | Ordnung zur Zusammenziehung der verbliebenen Mönche im Barfüßerkloster [1533] | 1533 | 17/2, p. 376 | 879 | Monastery / chapter | M |  |
-| 17 | Ordnung zum Besuch der Predigtgottesdienste 1534 | 1534 | 17/2, p. 378 | 880 | Agenda / liturgy | M |  |
-| 18 | Artikel für den deutschen Schulmeister [1534] | 1534 | 17/2, p. 381 | 881 | Articles / statutes | M |  |
-| 19 | Ordnung für die Konventualen im Barfüßerkloster 1535 | 1535 | 17/2, p. 382 | 882 | Consistory / synod / government | M |  |
-| 20 | Mandat zu Eheeinsegnungen 1535 | 1535 | 17/2, p. 384 | 883 | Mandate / decree | M |  |
-| 21a | Reformartikel und Ordnung kirchlicher Belange: Reformartikel 1536 | 1536 | 17/2, p. 385 | 883 | Other | M |  |
-| 21b | Reformartikel und Ordnung kirchlicher Belange: Ordnung kirchlicher Belange 1536 | 1536 | 17/2, p. 386 | 883 | Local order | M |  |
-| 22a | Mandate zu Sonntagsheiligung und Feiertagen: Gebot der Sonntagsheiligung und Ordnung der Feiertage 1537 | 1537 | 17/2, p. 389 | 883 | Discipline / police | M |  |
-| 22b | Mandate zu Sonntagsheiligung und Feiertagen: Ordnung der Feiertage [1537] | 1537 | 17/2, p. 390 | 883 | Discipline / police | M |  |
-| 23 | Protokoll zur Abfindung der Konventualen im Barfüßerkloster 1538 | 1538 | 17/2, p. 391 | 884 | Consistory / synod / government | M |  |
-| 24 | Artikel zum Kirchen- und Schulwesen 1538 | 1538 | 17/2, p. 392 | 885 | Articles / statutes | M |  |
-| 25 | Läuteordnung für den Predigtgottesdienst 1540 | 1540 | 17/2, p. 394 | 886 | Agenda / liturgy | M |  |
-| 26a | Ordnung des Gebetsgottesdiensts: Ratsverkündung für den Gebetsgottesdienst 1542 | 1542 | 17/2, p. 395 | 886 | Agenda / liturgy | M |  |
-| 26b | Ratssatzung, den Gebetsgottesdienst nicht vorzeitig zu verlassen [1543] | 1543 | 17/2, p. 396 | 886 | Agenda / liturgy | M |  |
-| 27 | Kanzelverkündung zur Zuchtordnung und Sonntagsheiligung 1543 | 1543 | 17/2, p. 397 | 887 | Discipline / police | M |  |
-| 28 | Täufermandat 1544 | 1544 | 17/2, p. 399 | 888 | Discipline / police | M |  |
-| 29 | Kanzelverkündung: Verbot von Rosenkränzen 1544 | 1544 | 17/2, p. 400 | 889 | Mandate / decree | M |  |
-| 30 | Mandat zur Einschärfung der Zuchtordnung 1547 | 1547 | 17/2, p. 401 | 890 | Mandate / decree | M |  |
-| 31 | Mandat zur Verkündung der Brautleute in der Kirche 1547 | 1547 | 17/2, p. 402 | 891 | Mandate / decree | M |  |
+| 1 | Ratsverkündung zur Anstellung eines Predigers und Wahrung des innerstädtischen Friedens in der Religionsfrage 1531 | 1531 | 17/2, p. 329 | 864 | Appointment / oath | MR |  |
+| 2 | Ratsdekret zur Einführung der Reformation 1531 | 1531 | 17/2, p. 331 | 865 | Mandate / decree | MR |  |
+| 3 | Verbot, in anderen Orten die Messe zu besuchen 1531 | 1531 | 17/2, p. 333 | 866 | Mandate / decree | MR |  |
+| 4 | Verbot, Kleriker und Ordensgeistliche zu beleidigen 1531 | 1531 | 17/2, p. 334 | 867 | Mandate / decree | MR |  |
+| 5 | Zuchtordnung 1532 | 1532 | 17/2, p. 335 | 868 | Discipline / police | MR |  |
+| 6 | Neuordnung des Esslinger Pfarrsprengels [1532] | 1532 | 17/2, p. 357 | 869 | Other | MR |  |
+| 7 | Ordnung der Leibgedinge für Konventualen und Organisation der Barfüßerpfarrei [1532] | 1532 | 17/2, p. 359 | 870 | Consistory / synod / government | MR |  |
+| 8 | Ordnung für die Bezirkszuchtherren 1532 | 1532 | 17/2, p. 361 | 871 | Discipline / police | MR |  |
+| 9 | Aufgaben der Bezirkszuchtherren [1532] | 1532 | 17/2, p. 363 | 872 | Discipline / police | MR |  |
+| 10 | Ratsverkündung gegen die Täufer 1532 | 1532 | 17/2, p. 364 | 873 | Discipline / police | MR |  |
+| 11 | Artikel zu Gottesdienstbesuch und Abendmahlsempfang 1532 | 1532 | 17/2, p. 365 | 874 | Agenda / liturgy | MR |  |
+| 12 | Instruktionen für die Verordneten im Dominikanerkloster 1532 | 1532 | 17/2, p. 370 | 875 | Monastery / chapter | MR |  |
+| 13 | Mandat für die altgläubigen Geistlichen 1532 | 1532 | 17/2, p. 371 | 876 | Mandate / decree | MR |  |
+| 14 | Verordnung für die Zunftherren zur Sonn- und Feiertagsheiligung 1533 | 1533 | 17/2, p. 372 | 877 | Discipline / police | MR |  |
+| 15 | Prädikantenordnung [1533] | 1533 | 17/2, p. 373 | 878 | Other | MR |  |
+| 16 | Ordnung zur Zusammenziehung der verbliebenen Mönche im Barfüßerkloster [1533] | 1533 | 17/2, p. 376 | 879 | Monastery / chapter | MR |  |
+| 17 | Ordnung zum Besuch der Predigtgottesdienste 1534 | 1534 | 17/2, p. 378 | 880 | Agenda / liturgy | MR |  |
+| 18 | Artikel für den deutschen Schulmeister [1534] | 1534 | 17/2, p. 381 | 881 | Articles / statutes | MR |  |
+| 19 | Ordnung für die Konventualen im Barfüßerkloster 1535 | 1535 | 17/2, p. 382 | 882 | Consistory / synod / government | MR |  |
+| 20 | Mandat zu Eheeinsegnungen 1535 | 1535 | 17/2, p. 384 | 883 | Mandate / decree | MR |  |
+| 21a | Reformartikel und Ordnung kirchlicher Belange: Reformartikel 1536 | 1536 | 17/2, p. 385 | 883 | Other | MR |  |
+| 21b | Reformartikel und Ordnung kirchlicher Belange: Ordnung kirchlicher Belange 1536 | 1536 | 17/2, p. 386 | 883 | Local order | MR |  |
+| 22a | Mandate zu Sonntagsheiligung und Feiertagen: Gebot der Sonntagsheiligung und Ordnung der Feiertage 1537 | 1537 | 17/2, p. 389 | 883 | Discipline / police | MR |  |
+| 22b | Mandate zu Sonntagsheiligung und Feiertagen: Ordnung der Feiertage [1537] | 1537 | 17/2, p. 390 | 883 | Discipline / police | MR |  |
+| 23 | Protokoll zur Abfindung der Konventualen im Barfüßerkloster 1538 | 1538 | 17/2, p. 391 | 884 | Consistory / synod / government | MR |  |
+| 24 | Artikel zum Kirchen- und Schulwesen 1538 | 1538 | 17/2, p. 392 | 885 | Articles / statutes | MR |  |
+| 25 | Läuteordnung für den Predigtgottesdienst 1540 | 1540 | 17/2, p. 394 | 886 | Agenda / liturgy | MR |  |
+| 26a | Ordnung des Gebetsgottesdiensts: Ratsverkündung für den Gebetsgottesdienst 1542 | 1542 | 17/2, p. 395 | 886 | Agenda / liturgy | MR |  |
+| 26b | Ratssatzung, den Gebetsgottesdienst nicht vorzeitig zu verlassen [1543] | 1543 | 17/2, p. 396 | 886 | Agenda / liturgy | MR |  |
+| 27 | Kanzelverkündung zur Zuchtordnung und Sonntagsheiligung 1543 | 1543 | 17/2, p. 397 | 887 | Discipline / police | MR |  |
+| 28 | Täufermandat 1544 | 1544 | 17/2, p. 399 | 888 | Discipline / police | MR |  |
+| 29 | Kanzelverkündung: Verbot von Rosenkränzen 1544 | 1544 | 17/2, p. 400 | 889 | Mandate / decree | MR |  |
+| 30 | Mandat zur Einschärfung der Zuchtordnung 1547 | 1547 | 17/2, p. 401 | 890 | Mandate / decree | MR |  |
+| 31 | Mandat zur Verkündung der Brautleute in der Kirche 1547 | 1547 | 17/2, p. 402 | 891 | Mandate / decree | MR |  |
 | 32 | Ordnung des Katechismusunterrichts 1551 | 1551 | 17/2, p. 403 | 892 | Catechism / instruction | L |  |
 | 33 | Kanzelverkündung zur Eheschließung unter Verwandten 1554 | 1554 | 17/2, p. 404 | 893 | Marriage | L |  |
 | 34 | Täufermandat für Möhringen und Vaihingen 1563 | 1563 | 17/2, p. 405 | 894 | Discipline / police | L |  |
@@ -3610,16 +3637,16 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 26.5 Imperial city of Biberach an der Riß
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
 - **Note**: Upper German (Zwinglian) until the Interim; biconfessional afterwards.
-- **Texts by tradition**: Moderate / mediating 3, Lutheran 3.
+- **Texts by tradition**: Moderate Reformed 3, Lutheran 3.
 - **Interim**: 2 text(s) tied to the Augsburg Interim (see the last column).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Ratsbeschluss zum Verbot der Messe 1531 | 1531 | 17/2, p. 439 | 905 | Mandate / decree | M |  |
-| 2 | Zucht- und Eheordnung 1531 | 1531 | 17/2, p. 440 | 906 | Marriage | M |  |
-| 3 | Ratsmandat für die Prediger zur Gewissensfreiheit nach Annahme des Interims [1548] | 1548 | 17/2, p. 449 | 907 | Mandate / decree | M | **Interim order**; council's mandate after accepting the Interim |
+| 1 | Ratsbeschluss zum Verbot der Messe 1531 | 1531 | 17/2, p. 439 | 905 | Mandate / decree | MR |  |
+| 2 | Zucht- und Eheordnung 1531 | 1531 | 17/2, p. 440 | 906 | Marriage | MR |  |
+| 3 | Ratsmandat für die Prediger zur Gewissensfreiheit nach Annahme des Interims [1548] | 1548 | 17/2, p. 449 | 907 | Mandate / decree | MR | **Interim order**; council's mandate after accepting the Interim |
 | 4 | Täufermandat [1549] | 1549 | 17/2, p. 451 | 908 | Discipline / police | L | **Under the Interim** |
 | 5 | Feiertagsmandat 1554 | 1554 | 17/2, p. 452 | 909 | Discipline / police | L |  |
 | 6 | Mandat Kaiser Ferdinands I. zur Biberacher Religionstoleranz 1563 | 1563 | 17/2, p. 453 | 910 | Mandate / decree | L |  |
@@ -3798,17 +3825,17 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 28.1 Imperial city of Landau
 
-- **Tradition**: Moderate / mediating; Lutheran from 1555.
+- **Tradition**: Moderate Reformed; Lutheran from 1555.
 - **Note**: Johannes Bader's early Reformation; Strasbourg Lutheranism after 1555.
-- **Texts by tradition**: Lutheran 7, Moderate / mediating 5.
+- **Texts by tradition**: Lutheran 7, Moderate Reformed 5.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Katechismus 1526 | 1526 | 19/1, p. 34 | 1039 | Catechism / instruction | M |  |
-| 2 | Katechismus 1544 | 1544 | 19/1, p. 45 | 1040 | Catechism / instruction | M |  |
-| 3 | Ratsprotokoll zu Fragen der Kirchenordnung 1554 | 1554 | 19/1, p. 57 | 1041 | Church order | M |  |
-| 4 | Ratsprotokoll zur Predigt 1554 | 1554 | 19/1, p. 58 | 1042 | Mandate / decree | M |  |
-| 5 | Ratsprotokoll zum Almosen 1554 | 1554 | 19/1, p. 59 | 1043 | Poor relief | M |  |
+| 1 | Katechismus 1526 | 1526 | 19/1, p. 34 | 1039 | Catechism / instruction | MR |  |
+| 2 | Katechismus 1544 | 1544 | 19/1, p. 45 | 1040 | Catechism / instruction | MR |  |
+| 3 | Ratsprotokoll zu Fragen der Kirchenordnung 1554 | 1554 | 19/1, p. 57 | 1041 | Church order | MR |  |
+| 4 | Ratsprotokoll zur Predigt 1554 | 1554 | 19/1, p. 58 | 1042 | Mandate / decree | MR |  |
+| 5 | Ratsprotokoll zum Almosen 1554 | 1554 | 19/1, p. 59 | 1043 | Poor relief | MR |  |
 | 6 | Feiertagsordnung 1562 | 1562 | 19/1, p. 60 | 1044 | Discipline / police | L |  |
 | 7 | Mandat zum Gottesdienstbesuch und zur Polizeiordnung 1571 | 1571 | 19/1, p. 62 | 1045 | Mandate / decree | L |  |
 | 8 | Verhandlungen gegen Calvinisten 1582 | 1582 | 19/1, p. 65 | 1046 | Treaty / agreement | L |  |
@@ -3836,15 +3863,15 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 28.3 Imperial city of Worms
 
-- **Tradition**: Moderate / mediating; Lutheran from 1552.
+- **Tradition**: Moderate Reformed; Lutheran from 1552.
 - **Note**: Upper German beginnings; Lutheran consolidation after 1552.
-- **Texts by tradition**: Moderate / mediating 3, Lutheran 1.
+- **Texts by tradition**: Moderate Reformed 3, Lutheran 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Deutsche Messe 1524 | 1524 | 19/1, p. 124 | 1066 | Agenda / liturgy | M |  |
-| 2 | Vertrag zwischen Stadt und Klerus 1525 | 1525 | 19/1, p. 130 | 1067 | Treaty / agreement | M |  |
-| 3 | Katechismus 1543 | 1543 | 19/1, p. 134 | 1068 | Catechism / instruction | M |  |
+| 1 | Deutsche Messe 1524 | 1524 | 19/1, p. 124 | 1066 | Agenda / liturgy | MR |  |
+| 2 | Vertrag zwischen Stadt und Klerus 1525 | 1525 | 19/1, p. 130 | 1067 | Treaty / agreement | MR |  |
+| 3 | Katechismus 1543 | 1543 | 19/1, p. 134 | 1068 | Catechism / instruction | MR |  |
 | 4 | Agendbüchlein 1560 | 1560 | 19/1, p. 160 | 1069 | Agenda / liturgy | L |  |
 
 ### 28.4 Counties of Leiningen
@@ -3941,7 +3968,10 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 29.2 Principality of Pfalz-Simmern
 
-- **Tradition**: Lutheran; Reformed from 1598. Duke Reichard held to the Augsburg Confession until his death on 14 January 1598, when the principality fell to the Electoral Palatinate. The two mandates of 1598 were issued from Heidelberg under Elector Frederick IV, and the first ordered the churches cleared "im reformierten Sinne" (Sehling 19/2, p. 656).
+- **Tradition**: Lutheran; Reformed from 1598. Duke Reichard held to the Augsburg Confession
+  until his death on 14 January 1598, when the principality fell to the Electoral Palatinate.
+  The two mandates of 1598 were issued from Heidelberg under Elector Frederick IV, and the first
+  ordered the churches cleared "im reformierten Sinne" (Sehling 19/2, p. 656).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -4043,60 +4073,60 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 30.1 Imperial city of Strasbourg
 
-- **Tradition**: Moderate / mediating; Lutheran from 1549.
-- **Note**: Bucer's church (Upper German, mediating) until the Interim; Lutheran orthodoxy under
-  Marbach afterwards (order of 1598).
-- **Texts by tradition**: Moderate / mediating 46, Lutheran 33.
+- **Tradition**: Moderate Reformed; Lutheran from 1549.
+- **Note**: Bucer's church (Upper German, Moderate Reformed) until the Interim; Lutheran
+  orthodoxy under Marbach afterwards (order of 1598).
+- **Texts by tradition**: Moderate Reformed 46, Lutheran 33.
 - **Interim**: 5 text(s) tied to the Augsburg Interim (see the last column).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1a | Armenordnung, längere Fassung 4. August 1523 | 1523 | 20/1, p. 107 | 1276 | Poor relief | M |  |
-| 1b | Armenordnung, kürzere Fassung [1. Oktober] 1523 | 1523 | 20/1, p. 115 | 1277 | Poor relief | M |  |
-| 2 | Mandat zur Predigt des Evangeliums 1. Dezember 1523 | 1523 | 20/1, p. 118 | 1278 | Mandate / decree | M |  |
-| 3a | Handschriftliche Agende mit der Deutschen Messe von Theobald Schwarz und Formularen für die Taufe und die Trauung 1524 | 1524 | 20/1, p. 120 | 1279 | Agenda / liturgy | M |  |
-| 3b | Die frühen Agenden: Teutsche Mess und Tauf 1524 | 1524 | 20/1, p. 130 | 1279 | Agenda / liturgy | M |  |
-| 3c | Die frühen Agenden: Ordenung und inhalt Teutscher Mess 1524 | 1524 | 20/1, p. 135 | 1279 | Agenda / liturgy | M |  |
-| 3d | Teutsch Kirchenampt mit lobgsengen und götlichen psalmen [1524/1525] | 1525 | 20/1, p. 136 | 1279 | Agenda / liturgy | M |  |
-| 3e | Die frühen Agenden: Ordnung des Herren Nachtmal 1525 | 1525 | 20/1, p. 142 | 1279 | Agenda / liturgy | M |  |
-| 3f | Die frühen Agenden: Straßburger kirchen ampt Mai 1525 | 1525 | 20/1, p. 151 | 1279 | Agenda / liturgy | M |  |
-| 3g | Die frühen Agenden: Psalmen gebett und kirchen übung 1526 | 1526 | 20/1, p. 163 | 1280 | Agenda / liturgy | M |  |
-| 4 | Verbot der konkubinarischen Verbindungen 15. März 1525 | 1525 | 20/1, p. 165 | 1281 | Mandate / decree | M |  |
-| 5 | Mandat über Bilder und Altäre 18. März 1525 | 1525 | 20/1, p. 166 | 1282 | Mandate / decree | M |  |
-| 6 | Mandat gegen die Täufer 27. Juli 1527 | 1527 | 20/1, p. 167 | 1283 | Mandate / decree | M |  |
-| 7 | Verbot der Bestattungen in Kirchen und auf Kirchhöfen 8. August 1527 | 1527 | 20/1, p. 169 | 1284 | Mandate / decree | M |  |
-| 8 | Der erste Straßburger Katechismus: Wolfgang Capitos „Kinder bericht“ 1527 | 1527 | 20/1, p. 170 | 1285 | Catechism / instruction | M |  |
-| 9a | Vortrag des Magistrats wegen der Abschaffung der Messe [9. Januar 1529] | 1529 | 20/1, p. 202 | 1286 | Agenda / liturgy | M |  |
-| 9b | Beschluß über die Abschaffung der Messe 20. Februar 1529 | 1529 | 20/1, p. 207 | 1287 | Agenda / liturgy | M |  |
-| 10 | Zuchtordnung „Constitution und Satzung“ 25. August 1529 | 1529 | 20/1, p. 208 | 1288 | Discipline / police | M |  |
-| 11 | Eheordnung [19. Februar 1530] | 1530 | 20/1, p. 218 | 1289 | Marriage | M |  |
-| 12 | Armenordnung 8. März 1531 | 1531 | 20/1, p. 222 | 1290 | Poor relief | M |  |
-| 13 | Verbot, an anderen Orten die Messe zu hören 3. April 1531 | 1531 | 20/1, p. 224 | 1291 | Mandate / decree | M |  |
-| 14 | Ordnung der Kirchenpfleger 30. Oktober 1531 | 1531 | 20/1, p. 225 | 1292 | Church order | M |  |
-| 15 | Mandat zum Besuch der Gottesdienste durch die Jugend und das Gesinde [22. April] 1532 | 1532 | 20/1, p. 227 | 1293 | Mandate / decree | M |  |
-| 16 | Anordnung eines Bettags wegen der Bedrohung durch die Osmanen 24. August 1532 | 1532 | 20/1, p. 228 | 1294 | Agenda / liturgy | M |  |
-| 17 | Kirchenordnung [24. Juni] 1534 | 1534 | 20/1, p. 230 | 1295 | Church order | M |  |
-| 18 | Mandat zur Sonntagsheiligung 28. Dezember 1534 | 1534 | 20/1, p. 246 | 1296 | Mandate / decree | M |  |
-| 19a | Disziplinarordnung 7. Februar 1535 | 1535 | 20/1, p. 248 | 1297 | Other | M |  |
-| 19b | Anweisung zur Taufe der Kinder 8. und 9. Februar 1535 | 1535 | 20/1, p. 254 | 1298 | Agenda / liturgy | M |  |
-| 20 | Statuten des Predigerkollegs [Vor 29. März 1535] | 1535 | 20/1, p. 255 | 1299 | Discipline / police | M |  |
-| 21 | Mandat zur Bekämpfung der Irrlehren und zur Stärkung der Kirchenzucht in den Gemeinden auf dem Land 28. April 1535 | 1535 | 20/1, p. 258 | 1300 | Mandate / decree | M |  |
-| 22 | Hochzeitsmandat 12. Februar 1537 | 1537 | 20/1, p. 261 | 1301 | Marriage | M |  |
-| 23 | Agende 1537 / 1541 | 1541 | 20/1, p. 262 | 1302 | Agenda / liturgy | M |  |
-| 24a | Mandat gegen die Täufer 23. März 1538 | 1538 | 20/1, p. 283 | 1303 | Mandate / decree | M |  |
-| 24b | Täuferartikel 23. März 1538 | 1538 | 20/1, p. 286 | 1304 | Discipline / police | M |  |
-| 25 | Mandat zur Vorladung vor die Kirchenpfleger 29. Januar 1539 | 1539 | 20/1, p. 288 | 1305 | Mandate / decree | M |  |
-| 26a | Munizipalstatut, lateinische Fassung [Vor 9. September 1539] | 1539 | 20/1, p. 290 | 1306 | Other | M |  |
-| 26b | Munizipalstatut, deutsche Fassung 9. September 1539 | 1539 | 20/1, p. 296 | 1307 | Other | M |  |
-| 27a | Examensordnung, lateinische Fassung [Nach 9. September 1539] | 1539 | 20/1, p. 300 | 1308 | Other | M |  |
-| 27b | Examensordnung, deutsche Fassung 1540 | 1540 | 20/1, p. 316 | 1309 | Other | M |  |
-| 28 | Bettagsmandat 24. September 1541 | 1541 | 20/1, p. 324 | 1310 | Agenda / liturgy | M |  |
-| 29 | Gottesdienstordnung [Nach 18. November] 1542 | 1542 | 20/1, p. 325 | 1311 | Agenda / liturgy | M |  |
-| 30 | Synodaldekrete [11. August 1544] | 1544 | 20/1, p. 332 | 1312 | Consistory / synod / government | M |  |
-| 31 | Weisung des Magistrats an den Kirchenkonvent, zu Buße und Beständigkeit im Glauben aufzurufen 17. Juni 1546 | 1546 | 20/1, p. 344 | 1313 | Consistory / synod / government | M |  |
-| 32 | Bettagsmandat für die Pfarreien auf dem Land [Nach 21. Juli 1546] | 1546 | 20/1, p. 345 | 1314 | Agenda / liturgy | M |  |
-| 33 | Mandat zur Kirchenzucht 29. Januar 1548 | 1548 | 20/1, p. 347 | 1315 | Mandate / decree | M |  |
-| 34 | Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung [Nach 2. Juli] 1548 | 1548 | 20/1, p. 352 | 1316 | Agenda / liturgy | M | **On the Interim** |
+| 1a | Armenordnung, längere Fassung 4. August 1523 | 1523 | 20/1, p. 107 | 1276 | Poor relief | MR |  |
+| 1b | Armenordnung, kürzere Fassung [1. Oktober] 1523 | 1523 | 20/1, p. 115 | 1277 | Poor relief | MR |  |
+| 2 | Mandat zur Predigt des Evangeliums 1. Dezember 1523 | 1523 | 20/1, p. 118 | 1278 | Mandate / decree | MR |  |
+| 3a | Handschriftliche Agende mit der Deutschen Messe von Theobald Schwarz und Formularen für die Taufe und die Trauung 1524 | 1524 | 20/1, p. 120 | 1279 | Agenda / liturgy | MR |  |
+| 3b | Die frühen Agenden: Teutsche Mess und Tauf 1524 | 1524 | 20/1, p. 130 | 1279 | Agenda / liturgy | MR |  |
+| 3c | Die frühen Agenden: Ordenung und inhalt Teutscher Mess 1524 | 1524 | 20/1, p. 135 | 1279 | Agenda / liturgy | MR |  |
+| 3d | Teutsch Kirchenampt mit lobgsengen und götlichen psalmen [1524/1525] | 1525 | 20/1, p. 136 | 1279 | Agenda / liturgy | MR |  |
+| 3e | Die frühen Agenden: Ordnung des Herren Nachtmal 1525 | 1525 | 20/1, p. 142 | 1279 | Agenda / liturgy | MR |  |
+| 3f | Die frühen Agenden: Straßburger kirchen ampt Mai 1525 | 1525 | 20/1, p. 151 | 1279 | Agenda / liturgy | MR |  |
+| 3g | Die frühen Agenden: Psalmen gebett und kirchen übung 1526 | 1526 | 20/1, p. 163 | 1280 | Agenda / liturgy | MR |  |
+| 4 | Verbot der konkubinarischen Verbindungen 15. März 1525 | 1525 | 20/1, p. 165 | 1281 | Mandate / decree | MR |  |
+| 5 | Mandat über Bilder und Altäre 18. März 1525 | 1525 | 20/1, p. 166 | 1282 | Mandate / decree | MR |  |
+| 6 | Mandat gegen die Täufer 27. Juli 1527 | 1527 | 20/1, p. 167 | 1283 | Mandate / decree | MR |  |
+| 7 | Verbot der Bestattungen in Kirchen und auf Kirchhöfen 8. August 1527 | 1527 | 20/1, p. 169 | 1284 | Mandate / decree | MR |  |
+| 8 | Der erste Straßburger Katechismus: Wolfgang Capitos „Kinder bericht“ 1527 | 1527 | 20/1, p. 170 | 1285 | Catechism / instruction | MR |  |
+| 9a | Vortrag des Magistrats wegen der Abschaffung der Messe [9. Januar 1529] | 1529 | 20/1, p. 202 | 1286 | Agenda / liturgy | MR |  |
+| 9b | Beschluß über die Abschaffung der Messe 20. Februar 1529 | 1529 | 20/1, p. 207 | 1287 | Agenda / liturgy | MR |  |
+| 10 | Zuchtordnung „Constitution und Satzung“ 25. August 1529 | 1529 | 20/1, p. 208 | 1288 | Discipline / police | MR |  |
+| 11 | Eheordnung [19. Februar 1530] | 1530 | 20/1, p. 218 | 1289 | Marriage | MR |  |
+| 12 | Armenordnung 8. März 1531 | 1531 | 20/1, p. 222 | 1290 | Poor relief | MR |  |
+| 13 | Verbot, an anderen Orten die Messe zu hören 3. April 1531 | 1531 | 20/1, p. 224 | 1291 | Mandate / decree | MR |  |
+| 14 | Ordnung der Kirchenpfleger 30. Oktober 1531 | 1531 | 20/1, p. 225 | 1292 | Church order | MR |  |
+| 15 | Mandat zum Besuch der Gottesdienste durch die Jugend und das Gesinde [22. April] 1532 | 1532 | 20/1, p. 227 | 1293 | Mandate / decree | MR |  |
+| 16 | Anordnung eines Bettags wegen der Bedrohung durch die Osmanen 24. August 1532 | 1532 | 20/1, p. 228 | 1294 | Agenda / liturgy | MR |  |
+| 17 | Kirchenordnung [24. Juni] 1534 | 1534 | 20/1, p. 230 | 1295 | Church order | MR |  |
+| 18 | Mandat zur Sonntagsheiligung 28. Dezember 1534 | 1534 | 20/1, p. 246 | 1296 | Mandate / decree | MR |  |
+| 19a | Disziplinarordnung 7. Februar 1535 | 1535 | 20/1, p. 248 | 1297 | Other | MR |  |
+| 19b | Anweisung zur Taufe der Kinder 8. und 9. Februar 1535 | 1535 | 20/1, p. 254 | 1298 | Agenda / liturgy | MR |  |
+| 20 | Statuten des Predigerkollegs [Vor 29. März 1535] | 1535 | 20/1, p. 255 | 1299 | Discipline / police | MR |  |
+| 21 | Mandat zur Bekämpfung der Irrlehren und zur Stärkung der Kirchenzucht in den Gemeinden auf dem Land 28. April 1535 | 1535 | 20/1, p. 258 | 1300 | Mandate / decree | MR |  |
+| 22 | Hochzeitsmandat 12. Februar 1537 | 1537 | 20/1, p. 261 | 1301 | Marriage | MR |  |
+| 23 | Agende 1537 / 1541 | 1541 | 20/1, p. 262 | 1302 | Agenda / liturgy | MR |  |
+| 24a | Mandat gegen die Täufer 23. März 1538 | 1538 | 20/1, p. 283 | 1303 | Mandate / decree | MR |  |
+| 24b | Täuferartikel 23. März 1538 | 1538 | 20/1, p. 286 | 1304 | Discipline / police | MR |  |
+| 25 | Mandat zur Vorladung vor die Kirchenpfleger 29. Januar 1539 | 1539 | 20/1, p. 288 | 1305 | Mandate / decree | MR |  |
+| 26a | Munizipalstatut, lateinische Fassung [Vor 9. September 1539] | 1539 | 20/1, p. 290 | 1306 | Other | MR |  |
+| 26b | Munizipalstatut, deutsche Fassung 9. September 1539 | 1539 | 20/1, p. 296 | 1307 | Other | MR |  |
+| 27a | Examensordnung, lateinische Fassung [Nach 9. September 1539] | 1539 | 20/1, p. 300 | 1308 | Other | MR |  |
+| 27b | Examensordnung, deutsche Fassung 1540 | 1540 | 20/1, p. 316 | 1309 | Other | MR |  |
+| 28 | Bettagsmandat 24. September 1541 | 1541 | 20/1, p. 324 | 1310 | Agenda / liturgy | MR |  |
+| 29 | Gottesdienstordnung [Nach 18. November] 1542 | 1542 | 20/1, p. 325 | 1311 | Agenda / liturgy | MR |  |
+| 30 | Synodaldekrete [11. August 1544] | 1544 | 20/1, p. 332 | 1312 | Consistory / synod / government | MR |  |
+| 31 | Weisung des Magistrats an den Kirchenkonvent, zu Buße und Beständigkeit im Glauben aufzurufen 17. Juni 1546 | 1546 | 20/1, p. 344 | 1313 | Consistory / synod / government | MR |  |
+| 32 | Bettagsmandat für die Pfarreien auf dem Land [Nach 21. Juli 1546] | 1546 | 20/1, p. 345 | 1314 | Agenda / liturgy | MR |  |
+| 33 | Mandat zur Kirchenzucht 29. Januar 1548 | 1548 | 20/1, p. 347 | 1315 | Mandate / decree | MR |  |
+| 34 | Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung [Nach 2. Juli] 1548 | 1548 | 20/1, p. 352 | 1316 | Agenda / liturgy | MR | **On the Interim** |
 | 35 | Agende für die Taufe und Trauung 27. Juni 1549 | 1549 | 20/1, p. 357 | 1317 | Agenda / liturgy | L | **Under the Interim** |
 | 36 | Examensordnung 1549 | 1549 | 20/1, p. 364 | 1318 | Other | L | **Under the Interim** |
 | 37a | Schiedsvertrag zwischen dem Bischof von Straßburg und dem Magistrat der Stadt über die Durchführung des Interims 23. November 1549 | 1549 | 20/1, p. 368 | 1319 | Treaty / agreement | L | **Interim settlement**; agreement with the bishop over the Interim |
@@ -4257,10 +4287,11 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 31.8 Imperial city of Colmar
 
-- **Tradition**: Lutheran; Moderate / mediating from 1578.
-- **Note**: Reformed 1575 on the Strasbourg model; refused the Formula of Concord (1578) and
-  moved toward the Reformed.
-- **Texts by tradition**: Moderate / mediating 12, Lutheran 4.
+- **Tradition**: Lutheran; Moderate Reformed from 1578.
+- **Note**: The Reformation came in 1575 with pastors from Basel (Serinus, on Simon Sulzer's
+  advice) and the Württemberg agenda; Colmar refused the Formula of Concord (1578), and by the
+  early 17th century its church was Reformed.
+- **Texts by tradition**: Moderate Reformed 12, Lutheran 4.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -4268,18 +4299,18 @@ Interimszeit" (Sehling 11, p. 292).
 | 2 | Eid der Prediger [22. Oktober 1575] | 1575 | 20/2, p. 501 | 1408 | Appointment / oath | L |  |
 | 3 | Feiertagsmandat 22. Oktober 1575 | 1575 | 20/2, p. 503 | 1408 | Discipline / police | L |  |
 | 4 | Zuchtordnung [1575] | 1575 | 20/2, p. 505 | 1408 | Discipline / police | L |  |
-| 5 | Ablehnung des Beitritts zur Konkordienformel 10. Mai 1578 | 1578 | 20/2, p. 509 | 1408 | Other | M |  |
-| 6 | Eid der Mitglieder des Ehegerichts [nach 1581] | 1581 | 20/2, p. 511 | 1408 | Consistory / synod / government | M |  |
-| 7 | Mandat zu den Kreuzgängen 4. Juni 1588 | 1588 | 20/2, p. 512 | 1408 | Mandate / decree | M |  |
-| 8a | Deklarationsschrift. Erläuterung zu den Artikeln 10 und 13 der Confessio Augustana [22. Dezember 1589] | 1589 | 20/2, p. 513 | 1408 | Confession / doctrine | M |  |
-| 8b | Gutachten der Weißenburger Prädikanten zur Colmarer Deklarationsschrift 25. Juli 1590 | 1590 | 20/2, p. 519 | 1408 | Mandate / decree | M |  |
-| 9 | Eid der Prediger [3. Februar 1590] | 1590 | 20/2, p. 523 | 1408 | Appointment / oath | M |  |
-| 10 | Eheordnung [vor 1593] | 1593 | 20/2, p. 525 | 1408 | Marriage | M |  |
-| 11 | Mandat gegen Gotteslästerung [vor 1593] | 1593 | 20/2, p. 528 | 1408 | Mandate / decree | M |  |
-| 12 | Hochzeitsmandat 11. April 1601 | 1601 | 20/2, p. 529 | 1408 | Marriage | M |  |
-| 13 | Gottesdienstordnung [zwischen 11. Januar 1601 und 6. Oktober 1603] | 1603 | 20/2, p. 530 | 1408 | Agenda / liturgy | M |  |
-| 14 | Hochzeitsmandat 3. Dezember 1608 | 1608 | 20/2, p. 532 | 1408 | Marriage | M |  |
-| 15 | Eid der Prediger [25. April 1615] | 1615 | 20/2, p. 535 | 1408 | Appointment / oath | M |  |
+| 5 | Ablehnung des Beitritts zur Konkordienformel 10. Mai 1578 | 1578 | 20/2, p. 509 | 1408 | Other | MR |  |
+| 6 | Eid der Mitglieder des Ehegerichts [nach 1581] | 1581 | 20/2, p. 511 | 1408 | Consistory / synod / government | MR |  |
+| 7 | Mandat zu den Kreuzgängen 4. Juni 1588 | 1588 | 20/2, p. 512 | 1408 | Mandate / decree | MR |  |
+| 8a | Deklarationsschrift. Erläuterung zu den Artikeln 10 und 13 der Confessio Augustana [22. Dezember 1589] | 1589 | 20/2, p. 513 | 1408 | Confession / doctrine | MR |  |
+| 8b | Gutachten der Weißenburger Prädikanten zur Colmarer Deklarationsschrift 25. Juli 1590 | 1590 | 20/2, p. 519 | 1408 | Mandate / decree | MR |  |
+| 9 | Eid der Prediger [3. Februar 1590] | 1590 | 20/2, p. 523 | 1408 | Appointment / oath | MR |  |
+| 10 | Eheordnung [vor 1593] | 1593 | 20/2, p. 525 | 1408 | Marriage | MR |  |
+| 11 | Mandat gegen Gotteslästerung [vor 1593] | 1593 | 20/2, p. 528 | 1408 | Mandate / decree | MR |  |
+| 12 | Hochzeitsmandat 11. April 1601 | 1601 | 20/2, p. 529 | 1408 | Marriage | MR |  |
+| 13 | Gottesdienstordnung [zwischen 11. Januar 1601 und 6. Oktober 1603] | 1603 | 20/2, p. 530 | 1408 | Agenda / liturgy | MR |  |
+| 14 | Hochzeitsmandat 3. Dezember 1608 | 1608 | 20/2, p. 532 | 1408 | Marriage | MR |  |
+| 15 | Eid der Prediger [25. April 1615] | 1615 | 20/2, p. 535 | 1408 | Appointment / oath | MR |  |
 
 ## 32. Volume 21: North Rhine-Westphalia I: Jülich-Cleves-Berg, Lippe and others
 
@@ -4396,14 +4427,14 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 33.1 Archbishopric of Cologne
 
-- **Tradition**: Moderate / mediating; Reformed from 1583.
+- **Tradition**: Moderate Reformed; Reformed from 1583.
 - **Note**: Hermann von Wied's Reformation attempt (1542-1547; Bucer and Melanchthon); Gebhard
   Truchsess's attempt (1583) was backed by the Reformed.
-- **Texts by tradition**: Reformed 2, Moderate / mediating 1.
+- **Texts by tradition**: Reformed 2, Moderate Reformed 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Buß-, Fasten-, Bet- und Danktagsordnung 1546 | 1546 | 22, p. 41 | 1484 | Agenda / liturgy | M |  |
+| 1 | Buß-, Fasten-, Bet- und Danktagsordnung 1546 | 1546 | 22, p. 41 | 1484 | Agenda / liturgy | MR |  |
 | 2 | Edikt zur evangelischen Religionsausübung 1583 | 1583 | 22, p. 47 | 1485 | Mandate / decree | R |  |
 | 3 | Ausschreiben zur freien Religionsausübung 1583 | 1583 | 22, p. 50 | 1486 | Mandate / decree | R |  |
 
@@ -4484,17 +4515,17 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 33.6 City of Münster
 
-- **Tradition**: Moderate / mediating.
+- **Tradition**: Moderate Reformed.
 - **Note**: Bernhard Rothmann's evangelical order moved from Lutheran to Zwinglian views before
   the Anabaptist kingdom of 1534/35.
-- **Texts by tradition**: Moderate / mediating 4, Anabaptist (toleration) 1, Roman Catholic 1.
+- **Texts by tradition**: Moderate Reformed 4, Anabaptist (toleration) 1, Roman Catholic 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Vereinbarung von Rat und Gemeinde über Anstellung evangelischer Prediger an den Stadtkirchen 1532 | 1532 | 22, p. 347 | 1518 | Appointment / oath | M |  |
-| 2 | Vertrag von Bischof und Stadt zur Reformation 1533 | 1533 | 22, p. 349 | 1519 | Treaty / agreement | M |  |
-| 3 | Zuchtordnung 1533 | 1533 | 22, p. 354 | 1520 | Discipline / police | M |  |
-| 4 | Summarium der Kirchenordnung [1533] | 1533 | 22, p. 361 | 1521 | Church order | M |  |
+| 1 | Vereinbarung von Rat und Gemeinde über Anstellung evangelischer Prediger an den Stadtkirchen 1532 | 1532 | 22, p. 347 | 1518 | Appointment / oath | MR |  |
+| 2 | Vertrag von Bischof und Stadt zur Reformation 1533 | 1533 | 22, p. 349 | 1519 | Treaty / agreement | MR |  |
+| 3 | Zuchtordnung 1533 | 1533 | 22, p. 354 | 1520 | Discipline / police | MR |  |
+| 4 | Summarium der Kirchenordnung [1533] | 1533 | 22, p. 361 | 1521 | Church order | MR |  |
 | 5 | Mandat zur Duldung der Täufer 1534 | 1534 | 22, p. 363 | 1522 | Mandate / decree | ANA | the council and guilds let each keep his faith, recognizing the Anabaptists (31 January 1534) |
 | 6 | Bischöfliches Edikt gegen die Täufer 1534 | 1534 | 22, p. 364 | 1523 | Discipline / police | RC | Bishop Franz von Waldeck's edict |
 

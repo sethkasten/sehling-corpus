@@ -85,21 +85,24 @@ Mass one by one. This guide puts them back together. It asks:
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
   - **Radical Reformation**: Thomas Müntzer's Allstedt orders;
   - **Sandomierz consensus**: the Polish synods at which Lutherans, Reformed and Brethren met
     together;
   - **Bohemian Brethren**: the Hussite Unity of the Brethren in Greater Poland.
   - The mark follows the order cited, not the territory, since a territory could change its
-    tradition: Strasbourg is mediating until the Interim of 1548 and Lutheran after it, and
-    Kurpfalz Lutheran in 1546 and 1556 and Reformed from 1563.
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it,
+    and Kurpfalz Lutheran in 1546 and 1556 and Reformed from 1563.
   - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
     (`CHURCH_ORDERS_GUIDE.md`, §4).
   - The family names of §4 are names of liturgical shape. "Upper German" there means the
-    south-western Lutheran service of Württemberg and its copies, not the mediating Upper German
-    Reformation of Bucer's circle.
+    south-western Lutheran service of Württemberg and its copies, not the Moderate Reformed
+    Upper German Reformation of Bucer's circle.
 - **Ordo shorthand.** In the tables, the parts are abbreviated: Intr. (introit or the hymn in
   its place), Ky. (Kyrie), Gl. (Gloria), Coll. (collect), Ep. (epistle), Grad. (gradual,
   alleluia, sequence or hymn after the epistle), Gosp. (gospel), Cr. (creed), Serm. (sermon),
@@ -159,7 +162,7 @@ Mass one by one. This guide puts them back together. It asks:
 **3. Kyrie: three, four or nine; never seven** (§6.1). Luther's "three times and not nine"
 became the parish norm. Nine survived for feasts and choirs (Wittenberg 1533; Pomerania 1542). A
 fourfold Kyrie (Kyrie, Christe, Kyrie, Kyrie) comes from Müntzer (1524, Radical Reformation) and
-survives in Calenberg-Göttingen 1542 and the Hessian *Agende* of 1574 (mediating).
+survives in Calenberg-Göttingen 1542 and the Hessian *Agende* of 1574 (Philippist).
 Braunschweig-Wolfenbüttel (1543) allows "three times, four times or nine times" in figured music
 "at the schoolmaster's pleasure", but three plainly "in the name of the Father and of the Son
 and of the Holy Ghost". No sevenfold Kyrie is found.
@@ -181,16 +184,17 @@ Saxon and northern orders). Prussia (1525) forbade the priest's intonation. Whic
 - **Nicene only**: the Saxon, Bugenhagen and Franconian orders, in Latin, in German verse by
   verse (Braunschweig 1528, Hamburg 1529), or as "Wir glauben".
 - **Apostles' only**:
-    - Strasbourg 1524 (mediating), sung after the sermon, "the great *Patrem* … sung by some";
+    - Strasbourg 1524 (Moderate Reformed), sung after the sermon, "the great *Patrem* … sung by
+      some";
   - the Goslar foundation 1534;
   - the Upper German pulpit (Württemberg 1553);
     - the Reformed Supper (Frankfurt's French church 1554 and the Palatinate 1563, both
       Reformed).
-- **A free choice**: Hesse 1574 (mediating; the Apostles' Creed, Luther's paraphrase, or the
+- **A free choice**: Hesse 1574 (Philippist; the Apostles' Creed, Luther's paraphrase, or the
   Nicene); Kurland 1570.
 - **By occasion**:
-    - Hesse 1566 (mediating): the Apostles' Creed every Sunday, the Nicene or Athanasian on the
-      feasts of Christ;
+    - Hesse 1566 (Moderate Reformed): the Apostles' Creed every Sunday, the Nicene or Athanasian
+      on the feasts of Christ;
   - Rothenberg 1618: "Wir glauben" on Sundays, the Apostles' Creed on other feasts;
   - Prussia 1568 and Feuchtwangen 1563: the Latin Nicene and the German creed on alternate
     Sundays.
@@ -220,14 +224,14 @@ before, during or after the distribution.
   - in Latin, in the *Formula missae* and the Franconian, Pfalz-Neuburg, Regensburg, Hohenlohe,
     Henneberg and Transylvanian orders;
     - in German, in the early German Masses (Müntzer (Radical Reformation), Erfurt, Lippe, Worms
-      and Strasbourg (both mediating)) and at Hof in 1592.
+      and Strasbourg (both Moderate Reformed)) and at Hof in 1592.
 - **Neither**: the *Deutsche Messe* and most Saxon, Bugenhagen and Upper German orders end with
   the collect and the blessing.
 - **The blessing**:
   - the Aaronic blessing is the rule;
-    - Worms and Strasbourg (1524, both mediating) and Regensburg (1542) used a Trinitarian
-      blessing alone;
-    - Strasbourg (1524, mediating) put both together;
+    - Worms and Strasbourg (1524, both Moderate Reformed) and Regensburg (1542) used a
+      Trinitarian blessing alone;
+    - Strasbourg (1524, Moderate Reformed) put both together;
   - Brandenburg-Nürnberg (1533) offered four forms (Numbers 6, Psalm 67 and two Trinitarian), a
     set copied by a dozen orders;
   - Prussia (1525) sang Psalm 67 on feasts and the Aaronic blessing on ordinary days;
@@ -241,24 +245,25 @@ service for its schoolboys, with the Kyrie, Sanctus and Agnus of the season and 
 **12. Few rubrics, and kneeling the chief gesture** (§15).
 - **Sign of the cross.** It was still printed in the early German Masses: over bread and cup at
   Allstedt 1523 (Müntzer, Radical Reformation), and at the greeting and the blessing at
-  Strasbourg 1524 (mediating). Hof printed it at the Pax and the blessing in 1592. Elsewhere it
-  was let go: "so many crosses" at Hannover 1536, and "without all papistical crossing" at
-  Danzig 1557.
+  Strasbourg 1524 (Moderate Reformed). Hof printed it at the Pax and the blessing in 1592.
+  Elsewhere it was let go: "so many crosses" at Hannover 1536, and "without all papistical
+  crossing" at Danzig 1557.
 - **Kneeling, never genuflection.** No order knows the Roman genuflection. The priest kneels at
   the preparation and after communion. The people kneel at the Kyrie (Schwäbisch Hall 1527), at
   the Lord's Prayer before the Verba (Hall 1535) and at the thanksgiving. Communicants kneel at
   the altar. The Polish synods of the Sandomierz consensus (1578, 1583) allowed standing or
-  kneeling but forbade sitting. Calvinizing Nassau (1575, mediating) warned against "folded
+  kneeling but forbade sitting. Calvinizing Nassau (1575, Philippist) warned against "folded
   hands and bending of the knee" as to an idol.
 - **Other gestures.**
   - Bows survive only in the Latin canons (Brandenburg 1540).
-    - Men are bareheaded and women covered (Hesse 1566, mediating).
+    - Men are bareheaded and women covered (Hesse 1566, Moderate Reformed).
   - Nothing is said of the celebrant's hands beyond what they hold.
   - The minister turns to the altar to pray and to the people to read, greet and exhort. Döber
     (1525) said everything toward the people.
 - **Not found.** No epistle or gospel horn, no turn over the right shoulder, no *orans* or
   joined hands, no kiss of altar, book or deacon, no biretta rubric, no incense and no *Lavabo*.
-  Strasbourg (1542, mediating) replaced the kiss of peace with a reading on reconciliation.
+  Strasbourg (1542, Moderate Reformed) replaced the kiss of peace with a reading on
+  reconciliation.
 
 ---
 
@@ -603,10 +608,11 @@ postcommunion, "and with the *Benedicamus* or *Ite missa est*" (Sehling 3, p. 40
 
 ### 4.6 The Upper German preaching service with communion
 
-**Württemberg, Baden, Strasbourg and their neighbours.** These are Lutheran orders: "Upper German" here names the south-western shape of service, not the mediating tradition. The Württemberg order of 1553 (and its
-copies in Baden 1556, Mömpelgard 1560 and the Palatinate of 1556) has no introit, Kyrie, Gloria,
-epistle, Preface, Sanctus or Agnus Dei. The service is the sermon service of every Sunday, to
-which the communion is added:
+**Württemberg, Baden, Strasbourg and their neighbours.** These are Lutheran orders: "Upper
+German" here names the south-western shape of service, not the Moderate Reformed tradition. The
+Württemberg order of 1553 (and its copies in Baden 1556, Mömpelgard 1560 and the Palatinate of
+1556) has no introit, Kyrie, Gloria, epistle, Preface, Sanctus or Agnus Dei. The service is the
+sermon service of every Sunday, to which the communion is added:
 1. a German hymn ("Komm heiliger Geist", "Nun bitten wir" or a psalm "agreeable to the season");
 2. the sermon, which on communion days includes "a short instruction" on the Supper;
 3. the creed sung in German;
@@ -660,12 +666,12 @@ The Bentheim-Tecklenburg order of 1588 (Reformed) has the same form and the same
 ### 4.8 The early German Masses
 
 **Before the territorial orders.** The German Masses of 1522–1526 (Kantz at Nördlingen, Müntzer
-at Allstedt (Radical Reformation), the Strasbourg and Worms Masses (mediating), Volprecht and
-Döber at Nürnberg, the Low German Masses of Bremen, Lippe and Kiel) are compared part by part in
-[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §§2–11. They keep the Roman shape and
-translate it, the canon included, before the *Deutsche Messe* set the pattern for the parishes.
-Two of their ordinaries recur below: Müntzer's fourfold Kyrie (§6.1) and Volprecht's
-*Benedicamus* "and never *Ite missa est*" (§13).
+at Allstedt (Radical Reformation), the Strasbourg and Worms Masses (Moderate Reformed),
+Volprecht and Döber at Nürnberg, the Low German Masses of Bremen, Lippe and Kiel) are compared
+part by part in [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §§2–11. They keep the
+Roman shape and translate it, the canon included, before the *Deutsche Messe* set the pattern
+for the parishes. Two of their ordinaries recur below: Müntzer's fourfold Kyrie (§6.1) and
+Volprecht's *Benedicamus* "and never *Ite missa est*" (§13).
 
 ---
 
@@ -693,7 +699,7 @@ prayers in the guides named in the introduction.
 | Württemberg, *Kirchenordnung*, 1553 | 16, pp. 252–255 | Upper German | German hymn → Serm → German Cr → Exh → general prayer → "Vater unser" sung → confession and absolution → Verba read → Comm with hymns → Thanks → Bl |
 | Breslau, report on the order of the churches, 1557 | 3, p. 404 | Latin frame | high Mass sung "as of old" to the Gosp and *Patrem* → Serm → Pref → elevation → Comm → San, Agn, communion chant → postcommunion → *Benedicamus* or *Ite missa est* |
 | Palatinate, *Kirchenordnung*, 1563 (Reformed) | 14, pp. 383–387 | Reformed | Serm on the Supper → Sunday prayer → the Form: Verba (1 Cor 11), self-examination, exclusion → prayer + PN → Apostles' Cr → hearts lifted up → breaking of bread (1 Cor 10:16) → Comm with singing or reading → Thanks (Ps 103) + prayer |
-| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 237–254 | Hessian | confession and absolution, or Ps 51 → German Ky + Gl → Coll → Ep → psalm or sequence → Gosp → Apostles' Cr sung by all → Serm → general prayer → confession → notices and alms → Supper |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 237–254 | Hessian | confession and absolution, or Ps 51 → German Ky + Gl → Coll → Ep → psalm or sequence → Gosp → Apostles' Cr sung by all → Serm → general prayer → confession → notices and alms → Supper |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, pp. 368–369 | Saxon | Intr → Ky → Latin Gl + *Et in terra* → Coll → Ep (German) → sequence or psalm → Gosp (German) → *Credo*, Latin *Patrem*, "Wir glauben" → Serm → paraphrase of PN + Exh → Verba sung → Comm with Latin Agn, Isaiah, Ps 111, hymns → Coll → Bl (Num 6) |
 | Bentheim-Tecklenburg, *Kirchenordnung*, 1588 (Reformed) | 22, pp. 271–275 | Reformed | as the Palatinate 1563 → psalm → Bl |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 425–426 | Franconian | Intr → Ky de tempore (three choirs) → Gl intoned, *Et in terra* in alternation → epistle prayer + Ep → German psalm → gospel prayer + Gosp → "Wir glauben" → "Nun bitten wir" kneeling → Serm → *Dominus vobiscum* + Coll → Exh → PN → Pax → Verba → Comm with San and Agn de tempore, Isaiah, hymns |
@@ -776,7 +782,7 @@ make it not too long with the singing and the organ, that the sermon be not hind
 - the German Masses of the Calenberg-Göttingen order of 1542, which take the chants of Müntzer
   (Radical Reformation): some have the fourfold form, others the threefold
   (Sehling 6/2, pp. 812, 817, 825, 827, 829; three: pp. 820, 823, 832);
-- the song appendix of the Hessian *Agende* of 1574 (mediating), after the German introit for
+- the song appendix of the Hessian *Agende* of 1574 (Philippist), after the German introit for
   Trinity: "Kyrie eleison. Christe eleison. Kyrie eleison. Kyrie eleison" (Sehling 8, p. 465).
 
 The fourth acclamation is the closing Kyrie of the chant, sung to its own melody, kept when the
@@ -860,8 +866,8 @@ tropes are not printed ([`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §6.
 ### 6.3 Which language
 
 **Latin, German, Greek.** The Kyrie is the one ordinary the orders most often leave
-untranslated. The Homberg synod of 1526 (mediating) kept "these accustomed little words, *Kyrie
-eleyson*, *Hallelujah*, *Hosiannah*, *Sabaoth*, *Amen*", to be explained to the people
+untranslated. The Homberg synod of 1526 (Moderate Reformed) kept "these accustomed little words,
+*Kyrie eleyson*, *Hallelujah*, *Hosiannah*, *Sabaoth*, *Amen*", to be explained to the people
 (Sehling 8, p. 45). Bugenhagen defended the Greek at length
 (Braunschweig 1528, Sehling 6/1, p. 438; [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md),
 §6.3). Prussia sang it in three languages, "since it is sung three times". **Prussia, *Artikel
@@ -940,11 +946,11 @@ the rest (Sehling 11, p. 425).
 the two as a single piece: "the Kyrie and the *Et in terra*" (Brandenburg-Nürnberg 1533;
 Kurpfalz 1546; Transylvania 1547; Nördlingen 1544), "Kyrie eleison with the *Gloria in excelsis
 et in terra pax*, as it is put into German and printed in the song-books"
-(Hesse 1566, mediating, Sehling 8, p. 239). The Hof order of 1592 assigns to each seasonal Kyrie
-its own *Et in terra*: "the Kyrie *Magne Deus potentiae* … to which the angelic *Et in terra* is
-joined" (§6.2). In East Frisia (1535) the Kyrie and Gloria together were sung "as it is sung in
-the song *Allein Gott in der Höh sei Ehr*" ([`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md),
-§6.5).
+(Hesse 1566, Moderate Reformed, Sehling 8, p. 239). The Hof order of 1592 assigns to each
+seasonal Kyrie its own *Et in terra*: "the Kyrie *Magne Deus potentiae* … to which the angelic
+*Et in terra* is joined" (§6.2). In East Frisia (1535) the Kyrie and Gloria together were sung
+"as it is sung in the song *Allein Gott in der Höh sei Ehr*"
+([`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §6.5).
 
 ---
 
@@ -1031,10 +1037,10 @@ German creed "the customary *Symbolum Nicaenum* in German" (Sehling 1, p. 658). 
 (1578) sometimes sang "the *Symbolum Nicenum*" in figured music before the German creed
 (Sehling 1, p. 693).
 
-**The Apostles' Creed in Hesse and the Reformed orders.** The Hessian order of 1566 (mediating)
-put the Apostles' Creed in the Mass, sung by everyone every Sunday, and kept the Nicene and
-Athanasian Creeds for the feasts of Christ. **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, pp. 242–243):
+**The Apostles' Creed in Hesse and the Reformed orders.** The Hessian order of 1566 (Moderate
+Reformed) put the Apostles' Creed in the Mass, sung by everyone every Sunday, and kept the
+Nicene and Athanasian Creeds for the feasts of Christ. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, pp. 242–243):
 
 <!-- doc 2257 -->
 > Es wird aber dies symbolum und bekentnus des glaubens von der ganzen kirchen allen sontag mit
@@ -1074,15 +1080,15 @@ unum Deum*, *Patrem*, *symbolum Nicenum*, *symbolum apostolicum*, *Credo in Deum
 glaub in Gott Vater", *Athanasii*) gives four practices:
 - **The Nicene Creed only**, in Latin, in German verse by verse, or as Luther's "Wir glauben
   all". This is the rule of the Saxon, Bugenhagen and Franconian orders.
-- **The Apostles' Creed only**, sung or said: Strasbourg (1524, mediating), the foundation Mass
-  at Goslar, the Upper German pulpit, the Reformed Supper.
+- **The Apostles' Creed only**, sung or said: Strasbourg (1524, Moderate Reformed), the
+  foundation Mass at Goslar, the Upper German pulpit, the Reformed Supper.
 - **A choice left open**, Nicene or Apostles', Latin or German, with no rule for when.
 - **A choice by occasion**: one creed on Sundays, another on feasts.
 
 **Strasbourg: the Apostles' Creed sung, the Nicene by some.** The Strasbourg German Mass of 1524
-(mediating) prints the Apostles' Creed with notes after the sermon, in Matthäus Greiter's
-setting, and leaves the Nicene to those who want it. **Strasbourg, *Ordenung und inhalt
-Teutscher Mess*, 1524** (mediating; Sehling 20/1, p. 138):
+(Moderate Reformed) prints the Apostles' Creed with notes after the sermon, in Matthäus
+Greiter's setting, and leaves the Nicene to those who want it. **Strasbourg, *Ordenung und
+inhalt Teutscher Mess*, 1524** (Moderate Reformed; Sehling 20/1, p. 138):
 
 <!-- doc 1279 -->
 > Folget die Predig Darnach der Glaub Ich glaub in Got Vater, den almechtigen, schöpffer himmels
@@ -1091,13 +1097,13 @@ Teutscher Mess*, 1524** (mediating; Sehling 20/1, p. 138):
 Then followeth the sermon. Thereafter the Creed: "I believe in God the Father Almighty, maker of
 heaven and earth" […] The great *Patrem*, which is called the Nicene Creed, is sung by some.
 
-The earlier Strasbourg Mass of Theobald Schwarz (1524, mediating) had the Nicene Creed in
-German, "Ich glaub in ein Gott, den almechtigen vattern" (Sehling 20/1, p. 121).
+The earlier Strasbourg Mass of Theobald Schwarz (1524, Moderate Reformed) had the Nicene Creed
+in German, "Ich glaub in ein Gott, den almechtigen vattern" (Sehling 20/1, p. 121).
 
-**By occasion: Sundays and feasts.** Hesse (1566, mediating) gave the Apostles' Creed to every
-Sunday and the Nicene or Athanasian to the feasts of Christ (§9.2). The Rothenberg ministers of
-1618 reversed the scheme: "Wir glauben" on Sundays, the Apostles' Creed word for word on the
-other feasts. **Rothenberg, *Christliche vereinigung* of the ministers, 1618**
+**By occasion: Sundays and feasts.** Hesse (1566, Moderate Reformed) gave the Apostles' Creed to
+every Sunday and the Nicene or Athanasian to the feasts of Christ (§9.2). The Rothenberg
+ministers of 1618 reversed the scheme: "Wir glauben" on Sundays, the Apostles' Creed word for
+word on the other feasts. **Rothenberg, *Christliche vereinigung* of the ministers, 1618**
 (Sehling 13, p. 548):
 
 <!-- doc 460 -->
@@ -1109,10 +1115,10 @@ After the boys have stepped down, let the customary creed be sung on the Sundays
 believe in one God", etc. But on the other holy days the Apostles' Creed in German, word for
 word: "I believe in God the Father Almighty", etc.
 
-**A free choice of three.** The Hessian *Agende* of 1574 (mediating) lets the Apostles' Creed,
+**A free choice of three.** The Hessian *Agende* of 1574 (Philippist) lets the Apostles' Creed,
 Luther's creed-hymn or the Nicene be sung after the gospel. On occasion the Nicene or the
 Athanasian Creed might instead be read aloud at the altar. **Hesse, *Agende*, 1574**
-(mediating; Sehling 8, p. 411):
+(Philippist; Sehling 8, p. 411):
 
 <!-- doc 2272 -->
 > Auf verlesung des evangelii wird gesungen das symbolum apostolicum teutsch, von wort zu wort,
@@ -1127,7 +1133,7 @@ German. One may also now and then, after the gospel, sing the German *Grates nun
 another short song, and thereupon read the Nicene or Athanasian Creed with a clear voice to the
 people before the altar.
 
-The Hessian *Agende* (mediating) counts "Wir glauben all" as a paraphrase of the Apostles'
+The Hessian *Agende* (Philippist) counts "Wir glauben all" as a paraphrase of the Apostles'
 Creed, not of the Nicene. The Corvey order for Bruchhausen (1603) does the same: "the Apostles'
 Creed, as Dr Luther set it in German in the manner of a song", where Sehling's editors identify
 the song as "Wir glauben all" (Sehling 21, p. 244). Most orders, and the modern editors, take it
@@ -1139,8 +1145,8 @@ as the Nicene.
 |---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1, p. 5 | Nicene, Latin, at the bishop's choice | — |
 | Volprecht, Nürnberg, 1524 | 11, p. 41 | Nicene in German, "Ich glaub in einen Gott" | — |
-| Schwarz, Strasbourg, 1524 (mediating) | 20/1, p. 121 | Nicene in German | — |
-| Strasbourg, *Ordenung und inhalt*, 1524 (mediating) | 20/1, p. 138 | Apostles' Creed, sung after the sermon | Nicene "by some" |
+| Schwarz, Strasbourg, 1524 (Moderate Reformed) | 20/1, p. 121 | Nicene in German | — |
+| Strasbourg, *Ordenung und inhalt*, 1524 (Moderate Reformed) | 20/1, p. 138 | Apostles' Creed, sung after the sermon | Nicene "by some" |
 | Luther, *Deutsche Messe*, 1526 | 1, p. 14 | "Wir glauben all" | — |
 | Braunschweig 1528; Hamburg 1529 | 6/1, p. 440; 5, p. 531 | priest intones "Ick love an eynen Got"; people sing the whole Nicene in Low German verse by verse; then "Wy gelöven" | — |
 | Goslar, town order, 1528 | 7/2.2, p. 242 | "the Nicene Creed or the German *Patrem*, Wir glauben" | — |
@@ -1156,11 +1162,11 @@ as the Nicene.
 | Ritzebüttel (Hamburg), 1556 | 5, p. 559 | Apostles' Creed after the gospel | on apostles' days and lesser holy days |
 | Feuchtwangen 1563 | 11, p. 399 | *Credo in unum Deum Patrem omnipotentem* one Sunday, the German creed the next | alternating Sundays |
 | Palatinate 1563 (Reformed) | 14, p. 386 | Apostles' Creed within the Supper form (§4.7) | — |
-| Hesse 1566 (mediating) | 8, pp. 242–243, 254 | Apostles' Creed every Sunday; "Wir glauben" or the Apostles' Creed in the shorter service | Nicene or Athanasian on the feasts of Christ |
+| Hesse 1566 (Moderate Reformed) | 8, pp. 242–243, 254 | Apostles' Creed every Sunday; "Wir glauben" or the Apostles' Creed in the shorter service | Nicene or Athanasian on the feasts of Christ |
 | Prussia 1568 | 4, p. 81 | Latin Nicene in the cathedral | elsewhere alternating Sunday by Sunday with "Wir glauben" |
 | Pomerania, *Agenda*, 1569 | 4, p. 438 | Nicene in Latin or Low German, or "Wi gelöven" | — |
 | Kurland 1570 | 5, p. 88 | Latin *Patrem*, or the Apostles' Creed sung ("Ich gleub an gott vater"), or "Wir gleuben" | — |
-| Hesse, *Agende*, 1574 (mediating) | 8, p. 411 | Apostles' word for word, Luther's paraphrase, or Nicene in German | Nicene or Athanasian sometimes read aloud |
+| Hesse, *Agende*, 1574 (Philippist) | 8, p. 411 | Apostles' word for word, Luther's paraphrase, or Nicene in German | Nicene or Athanasian sometimes read aloud |
 | Weissenfels 1578 | 1, p. 693 | figured Nicene before the German creed | some days |
 | Corvey (Bruchhausen) 1603 | 21, p. 244 | "Wir glauben all", called the Apostles' Creed | — |
 | Rothenberg 1618 | 13, p. 548 | "Wir glauben all" on Sundays | Apostles' word for word on other feasts |
@@ -1169,13 +1175,13 @@ as the Nicene.
 - The Nicene Creed, sung in Latin by the choir and in German by the people, is the Lutheran norm
   north and east.
 - The Apostles' Creed entered the Mass from three directions:
-  - the Upper German sermon service (Strasbourg 1524, mediating; Schwäbisch Hall and
+  - the Upper German sermon service (Strasbourg 1524, Moderate Reformed; Schwäbisch Hall and
     Württemberg's pulpit, Lutheran);
   - the Reformed Supper (Frankfurt's French church, the Palatinate; both Reformed);
-  - Hesse (mediating), where it was the creed of the whole congregation every Sunday.
+  - Hesse (Moderate Reformed), where it was the creed of the whole congregation every Sunday.
 - The Athanasian Creed was never the Sunday creed. It was read on the feasts of Christ in Hesse
-  (mediating) and on Trinity Sunday in a few places (§9.2), and otherwise belonged to the
-  morning office.
+  (Moderate Reformed) and on Trinity Sunday in a few places (§9.2), and otherwise belonged to
+  the morning office.
 - The weekday offices of Naumburg (1537) and Nördlingen (1544, 1579) gave the Nicene Creed its
   own day, Friday or Thursday, in a weekly round of canticles
   (Sehling 2, p. 72; 12, pp. 326, 377); that is office, not Mass.
@@ -1447,9 +1453,9 @@ it with its own melody in 1592:
   Aaronic blessing (Sehling 22, p. 569);
 - Volprecht's German Mass (1524), after the blessing: "Last uns den Herrn lob und dank sagen!
   Antwort: Gott sei gedankt" (Sehling 11, p. 42);
-- Worms (1524, mediating): "Last uns gott gebenedeien", then a Trinitarian blessing (quoted
-  below);
-- Strasbourg (1524, mediating): "Sagen danck dem herren", then the blessing
+- Worms (1524, Moderate Reformed): "Last uns gott gebenedeien", then a Trinitarian blessing
+  (quoted below);
+- Strasbourg (1524, Moderate Reformed): "Sagen danck dem herren", then the blessing
   (Sehling 20/1, pp. 133, 139);
 - Hof (1592): the deacon "addeth the German *Benedicamus*": "Last uns gebenedeien den Herren.
   Chorus: Gott sei gedankt", then the Aaronic blessing (Sehling 11, pp. 426–427).
@@ -1481,12 +1487,12 @@ Pater et Filius*), and 2 Corinthians 13:13. They give five practices:
   - Hof (1592);
   - the Palatinate's Sunday service (1563, Reformed, Sehling 14, p. 391).
 - **A Trinitarian blessing alone**: the early German Masses of Worms and Strasbourg (1524, both
-  mediating), and Regensburg (1542), all quoted below. Transylvania (1547) blesses "in the name
-  of the Holy Trinity" without printing the words (Sehling 24, p. 223).
+  Moderate Reformed), and Regensburg (1542), all quoted below. Transylvania (1547) blesses "in
+  the name of the Holy Trinity" without printing the words (Sehling 24, p. 223).
 - **The Aaronic and the Trinitarian together**, the second following the first: Strasbourg's
-  *Ordenung und inhalt Teutscher Mess* (1524, mediating): "Gesegne euch der herr … Der segen
-  Got, des vatters und des suns etc." (Sehling 20/1, p. 140); and the Strasbourg Supper of 1598
-  (quoted below).
+  *Ordenung und inhalt Teutscher Mess* (1524, Moderate Reformed): "Gesegne euch der herr … Der
+  segen Got, des vatters und des suns etc." (Sehling 20/1, p. 140); and the Strasbourg Supper of
+  1598 (quoted below).
 - **A choice of forms**: the Brandenburg-Nürnberg set of four, and its descendants (below).
 - **Different blessings for different occasions**: Prussia (1525) and Strasbourg (1598) (below).
 
@@ -1528,9 +1534,9 @@ The set passed, whole or shortened, into these orders:
 | Oldenburg 1573 | 7/2.1, p. 1145 | Aaronic (singular); Ps 67; the two Trinitarian forms |
 | Pfalz-Veldenz 1574; Lützelstein 1605 | 18, pp. 504, 607 | Aaronic with "Gehet hin, der Geist des Herrn geleite euch zum ewigen Leben", or "Der Segen Gottes, des Vaters und des Sohns und des heiligen Geistes … und sein heiliger Geist stärke und erhalte uns zum ewigen Leben" |
 
-**A Trinitarian blessing alone.** The first German Mass of Worms (mediating) closed with a
-German *Benedicamus* and the Trinitarian blessing only. **Worms, *Deutsche Messe*, 1524**
-(mediating; Sehling 19/1, p. 129):
+**A Trinitarian blessing alone.** The first German Mass of Worms (Moderate Reformed) closed with
+a German *Benedicamus* and the Trinitarian blessing only. **Worms, *Deutsche Messe*, 1524**
+(Moderate Reformed; Sehling 19/1, p. 129):
 
 <!-- doc 1066 -->
 > Last uns gott gebenedeien. Danck, lob, ere unnd preiß sei gott durch Christum, unsern herren,
@@ -1541,10 +1547,10 @@ Let us bless God. Thanks, laud, honour and praise be to God through Christ our L
 blessing: "The blessing of Almighty God, Father, Son and Holy Ghost, be with you and abide alway
 with you. Amen."
 
-The Nunc dimittis followed. The two Strasbourg Masses of 1524 (mediating) by Theobald Schwarz
-and in the *Teutsche Meß und Tauff* end the same way: "Der segen Gott, des vatters [+] und des
-suns [+] und des heiligen geists [+], sey mit uns und bleib alweg", with three signs of the
-cross (Sehling 20/1, pp. 123, 133). At Regensburg in 1542 the priest blessed with the
+The Nunc dimittis followed. The two Strasbourg Masses of 1524 (Moderate Reformed) by Theobald
+Schwarz and in the *Teutsche Meß und Tauff* end the same way: "Der segen Gott, des vatters [+]
+und des suns [+] und des heiligen geists [+], sey mit uns und bleib alweg", with three signs of
+the cross (Sehling 20/1, pp. 123, 133). At Regensburg in 1542 the priest blessed with the
 Trinitarian form alone. **Regensburg, *Wahrhaftiger Bericht*, 1542** (Sehling 13, p. 393):
 
 <!-- doc 432 -->
@@ -1589,8 +1595,8 @@ hence in the peace of the Lord.
 
 **2 Corinthians 13:13.** The apostolic blessing, "Die gnad unsers Herrn Jesu Christi und die
 liebe Gottes, sampt der gemeinschaft des heiligen Geistes", appears in two places:
-- Hesse (1566, mediating) gives it as the alternative to Numbers 6 when the minister dismisses the
-  congregation (Sehling 8, p. 248);
+- Hesse (1566, Moderate Reformed) gives it as the alternative to Numbers 6 when the minister
+  dismisses the congregation (Sehling 8, p. 248);
 - Nördlingen (1579) closes the pulpit prayers with it (Sehling 12, p. 368).
 
 **Psalm 67** stands beside the blessing in three forms:
@@ -1600,7 +1606,7 @@ liebe Gottes, sampt der gemeinschaft des heiligen Geistes", appears in two place
 
 Where it was sung as Luther's hymn, "Es wolle uns Gott genädig sein", it closed the service
 after the blessing: Nürnberg 1525 (Sehling 11, p. 57), Strasbourg 1525
-(mediating; Sehling 20/1, p. 147), and Hoya 1571, in a service without the Supper
+(Moderate Reformed; Sehling 20/1, p. 147), and Hoya 1571, in a service without the Supper
 (Sehling 6/2, p. 1152; [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §15).
 
 **After the blessing.**
@@ -1702,7 +1708,7 @@ three things:
 - turning, toward the altar to pray and toward the people to read, greet and exhort;
 - a warning against the old gestures.
 
-Much was left to custom. Nassau (1575, mediating) keeps "the customary old form of the
+Much was left to custom. Nassau (1575, Philippist) keeps "the customary old form of the
 administration" of the Supper, but drops the "rites and gesticulations" (Sehling 10, p. 151).
 
 **Not found.** No order in the corpus prescribes any of the following:
@@ -1725,12 +1731,12 @@ administration" of the Supper, but drops the "rites and gesticulations" (Sehling
   (1523) marks the bread and the cup at the Words of Institution: "gesegnete † das und brach
   es", "gesegnete † den". The minister raises his hand at "Das ist mein leichnam" (*Elevando
   manu*), and turns to the people with the cup (Sehling 1, p. 506).
-- **Strasbourg** (mediating). In Schwarz's German Mass of 1524 the places "where the cross is to
-  be made" are marked [+], according to the editors (Sehling 20/1, p. 120). The priest, turned
-  to the people, says "Gott begnade unnd erbarme sich uber uns alle [+]" at the beginning. He
-  blesses with three crosses at the end, "Der segen Gott, des vatters [+] und des suns [+] und
-  des heiligen geists [+]" (Sehling 20/1, pp. 120, 123). The *Teutsche Meß und Tauff* and the
-  *Ordenung und inhalt* of 1524 do the same (pp. 130, 133, 137).
+- **Strasbourg** (Moderate Reformed). In Schwarz's German Mass of 1524 the places "where the
+  cross is to be made" are marked [+], according to the editors (Sehling 20/1, p. 120). The
+  priest, turned to the people, says "Gott begnade unnd erbarme sich uber uns alle [+]" at the
+  beginning. He blesses with three crosses at the end, "Der segen Gott, des vatters [+] und des
+  suns [+] und des heiligen geists [+]" (Sehling 20/1, pp. 120, 123). The *Teutsche Meß und
+  Tauff* and the *Ordenung und inhalt* of 1524 do the same (pp. 130, 133, 137).
 - **Hof.** As late as 1592 the order prints a † after the deacon's Pax, "Der frid des Herren sei
   mit euch allen. †", and after the blessing (Sehling 11, pp. 426–427).
 
@@ -1873,8 +1879,9 @@ ecclesiasticus*, as Sehling prints it, explains that their forebears had brought
 received kneeling over a towel; the custom was abolished by 1546 at the latest
 (editors' note, Sehling 7/1, p. 377).
 
-**Reverence, not adoration.** The Calvinizing Nassau order of 1575 (mediating) warned the people
-off the old gestures. **Nassau-Dillenburg, *Agende*, 1575** (mediating; Sehling 10, p. 151):
+**Reverence, not adoration.** The Calvinizing Nassau order of 1575 (Philippist) warned the
+people off the old gestures. **Nassau-Dillenburg, *Agende*, 1575**
+(Philippist; Sehling 10, p. 151):
 
 <!-- doc 182 -->
 > Darbeneben soll man das vo[l]ck abmanen, das sie woll zuchtig und ehrerbietig, aber nicht als
@@ -1907,8 +1914,9 @@ by Müntzer (Radical Reformation) and those who copied him
 
 ### 15.5 Hats and heads
 
-**Men uncovered, women covered.** Hesse (mediating) puts the old rule of 1 Corinthians 11 into
-the church order. **Hesse, *Kirchenordnung*, 1566** (mediating; Sehling 8, p. 231):
+**Men uncovered, women covered.** Hesse (Moderate Reformed) puts the old rule of 1 Corinthians
+11 into the church order. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, p. 231):
 
 <!-- doc 2257 -->
 > Es gehört auch zum wolstand und christlicher zucht, daß in der gemeinen versamlung der
@@ -1940,7 +1948,7 @@ the service ([`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §8).
   vices utrunque tenens in manibus*) (Sehling 24, p. 223).
 
 **Folded hands.** Folded hands appear only for children at the table prayers (Sayn, Solms), and
-in Nassau's warning against folded hands (1575, mediating) before the sacrament (above). The
+in Nassau's warning against folded hands (1575, Philippist) before the sacrament (above). The
 laying on of hands belongs to ordination, confirmation, absolution and the reconciliation of
 penitents, outside the Mass.
 
@@ -1970,7 +1978,7 @@ for *Credo in unum Deum* (Sehling 1, p. 704). Other orders follow it:
 - **toward the people:**
   - Müntzer (Radical Reformation; *Vertens se minister … coram vulgo*);
   - Transylvania (*minister conversus ad populum*);
-  - Nassau (1575, mediating, above). Brandenburg (1540) turns to the people for the exhortation
+  - Nassau (1575, Philippist, above). Brandenburg (1540) turns to the people for the exhortation
     and the thanksgiving (*vertens se ad populum*, Sehling 3, pp. 69–70);
 - **toward the altar:**
   - Limpurg (1610): "he turneth himself toward the altar and saith with distinct voice the words
@@ -1995,7 +2003,7 @@ Mass), so that he be understood by the hearers.
 
 Heilbronn's draft of 1532 has the minister standing at the altar "by the cross", not in the Mass
 vestment, turn to the people to read the German collect (Sehling 17/1, p. 301). Hesse (1566,
-mediating) has the collect read "after he hath turned himself to the people"
+Moderate Reformed) has the collect read "after he hath turned himself to the people"
 (Sehling 8, p. 239). The visitations that rebuilt altars so that the minister should face the
 people throughout, and the condemnation of standing behind the table, are in
 [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §5.2.
@@ -2005,7 +2013,7 @@ people throughout, and the condemnation of standing behind the table, are in
 **No horns.** The orders do not speak of the epistle and gospel sides. The sides of the altar
 appear instead as the places of the communicants and of the two elements:
 - **Men right, women left.** Regensburg 1542 (above), Wertheim about 1555 (Sehling 11, p. 713),
-  Frankfurt 1530 (mediating; Sehling 9, p. 497).
+  Frankfurt 1530 (Moderate Reformed; Sehling 9, p. 497).
 - **Bread at one side, cup at the other.** The orders differ on which side:
   - the Palatinate (1546): the communicants "receive the sacrament of the body of Christ on the
     left side of the altar, and the sacrament of the blood on the right side"
@@ -2023,8 +2031,8 @@ appear instead as the places of the communicants and of the two elements:
 ### 15.9 The Peace, the kiss and incense
 
 **The kiss of peace replaced by a reading.** Luther made the Pax an absolution (§8). Strasbourg
-(mediating) replaced the kiss with a text. **Strasbourg, *Gottesdienstordnung*, 1542**
-(mediating; Sehling 20/1, p. 330):
+(Moderate Reformed) replaced the kiss with a text. **Strasbourg, *Gottesdienstordnung*, 1542**
+(Moderate Reformed; Sehling 20/1, p. 330):
 
 <!-- doc 1311 -->
 > Deinde, quia apud veteres in distributione coenae dominicae osculum pacis fuit usitatum
@@ -2050,15 +2058,15 @@ rinses his fingers over the chalice and gives the ablution to the sick person
 
 | Gesture | Prescribed | Rejected or absent |
 |---|---|---|
-| Sign of the cross | over bread and cup (Allstedt 1523, Radical Reformation); at the greeting and blessing (Strasbourg 1524, mediating); at the Pax and blessing (Hof 1592); over the elements in the Latin canons | "so many crosses" let go (Hannover 1536); "without all papistical crossing" (Danzig 1557); "rites and gesticulations" avoided (Nassau 1575, mediating) |
+| Sign of the cross | over bread and cup (Allstedt 1523, Radical Reformation); at the greeting and blessing (Strasbourg 1524, Moderate Reformed); at the Pax and blessing (Hof 1592); over the elements in the Latin canons | "so many crosses" let go (Hannover 1536); "without all papistical crossing" (Danzig 1557); "rites and gesticulations" avoided (Nassau 1575, Philippist) |
 | Genuflection | none | *flexis genibus* means kneeling |
-| Kneeling | priest at the preparation, the Kyrie and after communion; people at the Kyrie (Hall 1527), the Lord's Prayer (Hall 1535, Palatinate 1563 (Reformed)), the whole communion (Hatzkerode 1534), the thanksgiving (Heilbronn 1543, Lützelstein 1605); communicants at the altar; boys at *Da pacem*, the litany, *Veni sancte* | folded hands and kneeling "as to an idol" (Nassau 1575, mediating); kneeling at prayer struck out (Palatinate 1601, Reformed); sitting at communion forbidden (Petrikau 1578) |
+| Kneeling | priest at the preparation, the Kyrie and after communion; people at the Kyrie (Hall 1527), the Lord's Prayer (Hall 1535, Palatinate 1563 (Reformed)), the whole communion (Hatzkerode 1534), the thanksgiving (Heilbronn 1543, Lützelstein 1605); communicants at the altar; boys at *Da pacem*, the litany, *Veni sancte* | folded hands and kneeling "as to an idol" (Nassau 1575, Philippist); kneeling at prayer struck out (Palatinate 1601, Reformed); sitting at communion forbidden (Petrikau 1578) |
 | Bowing | at the elevation and the ablution prayer (Brandenburg 1540, Pfalz-Neuburg 1543); boys' foreheads to the step at "Mensch geboren" (Mansfeld, later report) | no bow at the name of Jesus |
-| Head | men bareheaded, women covered (Hesse 1566, mediating) | no rubric for the celebrant's cap |
+| Head | men bareheaded, women covered (Hesse 1566, Moderate Reformed) | no rubric for the celebrant's cap |
 | Hands | raise the hand at the bread (Allstedt, Radical Reformation); the chalice with both hands (Brandenburg); bread and cup held in turn (Transylvania) | no *orans*, joined hands or extended hands |
 | Turning | to the altar for collects and creed, to the people for readings, salutation, Pax and exhortation (Wittenberg 1533 and most); everything toward the people (Döber 1525) | no direction of turn, no right shoulder |
 | Places | men right, women left; bread and cup at two sides or ends | no epistle or gospel horn |
-| Kiss | a text on reconciliation in its place (Strasbourg 1542, mediating) | no kiss of altar, book or deacon; no pax-board |
+| Kiss | a text on reconciliation in its place (Strasbourg 1542, Moderate Reformed) | no kiss of altar, book or deacon; no pax-board |
 | Incense | free at the gospel (*Formula missae*) | "censing" let go (Hannover 1536); prescribed nowhere |
 
 ---
@@ -2074,8 +2082,8 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 |---|---|---|---|
 | Wittenberg, Luther, *Formula missae*, 1523 | 1, pp. 5, 6 | 2 | 3.2 |
 | Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524 | 11, p. 39 | 247 | 13.1 |
-| Strasbourg, *Ordenung und inhalt Teutscher Mess*, 1524 (mediating) | 20/1, p. 138 | 1279 | 9.4 |
-| Worms, *Deutsche Messe*, 1524 (mediating) | 19/1, p. 129 | 1066 | 13.2 |
+| Strasbourg, *Ordenung und inhalt Teutscher Mess*, 1524 (Moderate Reformed) | 20/1, p. 138 | 1279 | 9.4 |
+| Worms, *Deutsche Messe*, 1524 (Moderate Reformed) | 19/1, p. 129 | 1066 | 13.2 |
 | Nürnberg, *Deutsche Messe* of Andreas Döber, 1525 | 11, p. 51 | 249 | 15.7 |
 | Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525 | 4, pp. 32, 37–38 | 1832, 1833 | 4.4, 6.3, 12.1, 13.2 |
 | Wittenberg, Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | 3.3 |
@@ -2086,7 +2094,7 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 | Schwäbisch Hall, draft order of service, 1535 | 17/1, p. 102 | 760 | 15.3 |
 | Pomerania, *Kirchenordnung*, 1542 | 4, p. 356 | 1859 | 6.2 |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, p. 393 | 432 | 13.2 |
-| Strasbourg, *Gottesdienstordnung*, 1542 (mediating) | 20/1, p. 330 | 1311 | 15.9 |
+| Strasbourg, *Gottesdienstordnung*, 1542 (Moderate Reformed) | 20/1, p. 330 | 1311 | 15.9 |
 | Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 54, 55 | 1972 | 6.1, 7.2 |
 | Albertine Saxony, *Die Cellischen Ordnungen*, 1545 | 1, p. 301 | 33 | 12.1 |
 | Palatinate, *Gemaine maß, die kirchen- und gottesdinst anzurichten*, 1546 | 14, pp. 96–97 | 472 | 4.5 |
@@ -2094,9 +2102,9 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, p. 199 | 1922 | 10.1 |
 | Danzig, first order of the Sunday Mass, 1557 | 4, p. 168 | 1844 | 15.2 |
 | Palatinate, *Kirchenordnung*, 1563 (Reformed) | 14, p. 386 | 504 | 4.7 |
-| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 231, 242–243 | 2257 | 9.2, 15.5 |
-| Hesse, *Agende*, 1574 (mediating) | 8, p. 411 | 2272 | 9.4 |
-| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10, p. 151 | 182 | 15.3 |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 231, 242–243 | 2257 | 9.2, 15.5 |
+| Hesse, *Agende*, 1574 (Philippist) | 8, p. 411 | 2272 | 9.4 |
+| Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10, p. 151 | 182 | 15.3 |
 | Synod of Petrikau, 1–3 June 1578 (Sandomierz consensus) | 4, p. 263 | 1846 | 15.3 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, p. 472 | 294 | 6.2 |
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 613 | 1344 | 13.2 |

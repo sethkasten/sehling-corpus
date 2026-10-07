@@ -77,9 +77,12 @@ German or Latin), each followed by an English translation.
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
   - **Bohemian Brethren**: the Hussite Unity of the Brethren in Greater Poland;
   - **Roman Catholic humanist**: the Erasmian orders of Jülich-Cleves-Berg, which reform the old
     church without leaving it.
@@ -157,10 +160,10 @@ by the liturgical form of the service. They do so by:
   Purification and Annunciation);
 - the apostles' days as half holy days.
 
-Some orders draw two ranks only (Luther, Homberg 1526 (mediating), and in effect the Reformed
-orders of §15). Others number three classes (Grubenhagen 1544, Regensburg 1567, Hoya 1571,
-Harlingerland 1573/74). Sayn 1582 has four, the fourth being the abolished feasts (§5.5). Danzig
-and Thorn speak of "great" and "small" feasts (§5.6).
+Some orders draw two ranks only (Luther, Homberg 1526 (Moderate Reformed), and in effect the
+Reformed orders of §15). Others number three classes (Grubenhagen 1544, Regensburg 1567, Hoya
+1571, Harlingerland 1573/74). Sayn 1582 has four, the fourth being the abolished feasts (§5.5).
+Danzig and Thorn speak of "great" and "small" feasts (§5.6).
 
 **5. The families of orders follow their models.**
 
@@ -207,10 +210,10 @@ Sundays. The Transylvanian synod of 1578 has the technical term: the apostles' d
 Some orders forbid pastors to move feasts on their own authority.
 
 **10. The minimum** (§15). The Upper German cities (Mülhausen 1529, Reformed; Augsburg 1537,
-Esslingen 1537 and Strasbourg 1544, mediating) and the Reformed territories (Kurpfalz 1563,
-Nassau-Dillenburg 1582, Anhalt 1599) kept only Sunday and a few feasts of Christ, which reduced
-the ranking to Luther's two ranks. Esslingen's return to the apostles' days after the "blue
-Mondays" of 1537 shows how unstable that minimum was.
+Esslingen 1537 and Strasbourg 1544, Moderate Reformed) and the Reformed territories (Kurpfalz
+1563, Nassau-Dillenburg 1582, Anhalt 1599) kept only Sunday and a few feasts of Christ, which
+reduced the ranking to Luther's two ranks. Esslingen's return to the apostles' days after the
+"blue Mondays" of 1537 shows how unstable that minimum was.
 
 **11. Feasts in church** (§10). Besides the marks of rank, the orders abolished the acted
 ceremonies of the medieval year: the Palm Sunday ass, the Good Friday grave, the Easter image,
@@ -452,10 +455,11 @@ apostles, the Visitation, John the Baptist and Michaelmas at a lower rank.
 
 ### 3.2 Homberg, 1526: only the mysteries of redemption
 
-The Homberg synod's *Reformatio* is a mediating order of Philip of Hesse's church.
+The Homberg synod's *Reformatio* is a Moderate Reformed order of Philip of Hesse's church.
 
 
-**Hessen, *Reformatio ecclesiarum Hassiae* (Homberg), 1526, cap. 8** (mediating; Sehling 8, p. 49):
+**Hessen, *Reformatio ecclesiarum Hassiae* (Homberg), 1526, cap. 8**
+(Moderate Reformed; Sehling 8, p. 49):
 
 <!-- doc 2249 -->
 > De festis et commemorationibus cap. 8 [38] Praeter Dominicam diem nullum festum celebretur,
@@ -479,8 +483,8 @@ deeds, but in the frequent use of the holy Word and in works of mercy.
   Baptist and no Michaelmas.
 - **One day each.** Easter and Pentecost are kept for their "first day" only.
 
-The Homberg *Reformatio* was never put into force. The later Hessian orders (also mediating)
-keep more (§3.6, §6.1).
+The Homberg *Reformatio* was never put into force. The later Hessian orders (also Moderate
+Reformed) keep more (§3.6, §6.1).
 
 ### 3.3 "Not for the days' sake, but for the histories": Bugenhagen
 
@@ -599,8 +603,8 @@ chapter witnesseth; yet for the weak's sake, forasmuch as the Gospel is among us
 measure new, certain principal feasts have had to be ordained, that the Word may be the more
 worthily set forth and heard.
 
-The Hessian order of 1532 (mediating) also justifies the apostles' days by the need for rest.
-**Hessen, *Kirchenordnung*, 1532** (mediating; Sehling 8, p. 75):
+The Hessian order of 1532 (Moderate Reformed) also justifies the apostles' days by the need for
+rest. **Hessen, *Kirchenordnung*, 1532** (Moderate Reformed; Sehling 8, p. 75):
 
 <!-- doc 2252 -->
 > Nicht sagen wir, daß dise tage besser oder heiliger seint dan andere, sonder daß solchs des
@@ -633,7 +637,7 @@ named be proclaimed for holy days, and kept according to Christian duty
 
 ### 3.6 "The feast of all feasts": Hessen, 1566
 
-**Hessen, *Kirchenordnung*, 1566** (mediating; Sehling 8, pp. 257–258):
+**Hessen, *Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, pp. 257–258):
 
 <!-- doc 2257 -->
 > haben wir uns auch fürgenommen, etliche festa Christi zu halten. […] Chrysostomus […] in einer
@@ -2851,9 +2855,9 @@ how its rank was understood (§14.2).
 ### 8.2 The Visitation
 
 The Visitation (2 July) was a late-medieval feast, but its Gospel (Luke 1:39–56, with the
-*Magnificat*) made it acceptable. Homberg 1526 (mediating) already keeps it (§3.2). Riga 1530
-keeps it "because that was the first revelation of Christ, when he was yet in his mother's womb"
-(§3.7). Saxony 1539 keeps it "because of that history of the Gospel" (§5.2).
+*Magnificat*) made it acceptable. Homberg 1526 (Moderate Reformed) already keeps it (§3.2). Riga
+1530 keeps it "because that was the first revelation of Christ, when he was yet in his mother's
+womb" (§3.7). Saxony 1539 keeps it "because of that history of the Gospel" (§5.2).
 
 It usually stands in the second rank, beside John the Baptist and Michaelmas. In the Nürnberg
 family its date was moved to 15 August, to take the place of the Assumption and to spare the
@@ -3893,10 +3897,11 @@ keep the gates shut on the holy day before noon, [and] suffer no one [to go] out
 The same order recurs in the visitation recesses for Salzwedel 1579 and Stendal 1578
 (Sehling 3, pp. 285, 300, 331).
 
-**Fines.** The town mandates fix the fine. Strasbourg (1534, mediating) forbade every kind of
-handiwork on Sunday: stacking wood, unloading wood or sand, bucking and washing. The fine was
-thirty shillings. Milk and bread might be sold, and in Lent fish, until the last bell for the
-sermon. **Strasbourg, *Mandat zur Sonntagsheiligung*, 1534** (mediating; Sehling 20/1, p. 246):
+**Fines.** The town mandates fix the fine. Strasbourg (1534, Moderate Reformed) forbade every
+kind of handiwork on Sunday: stacking wood, unloading wood or sand, bucking and washing. The
+fine was thirty shillings. Milk and bread might be sold, and in Lent fish, until the last bell
+for the sermon. **Strasbourg, *Mandat zur Sonntagsheiligung*, 1534**
+(Moderate Reformed; Sehling 20/1, p. 246):
 
 <!-- doc 1296 -->
 > Erstlich, die weill der Sontag zu hörung Götlichs wortz verordnet, das niemantz in der stat
@@ -3966,9 +3971,9 @@ after mandate:
 - the Midsummer fires of St John's Eve;
 - the *Hagelfeier*, a day of processions against hail.
 
-The Hessian *Reformationsordnung* of 1572 (mediating) forbids "Sunday dances, especially during
+The Hessian *Reformationsordnung* of 1572 (Philippist) forbids "Sunday dances, especially during
 the sermon and the catechism", and all such "frivolous wantonness". **Hesse,
-*Reformationsordnung*, 1572** (mediating; Sehling 8, p. 401):
+*Reformationsordnung*, 1572** (Philippist; Sehling 8, p. 401):
 
 <!-- doc 2272 -->
 > Also auch sollen die sontagstänze, sonderlich under der predigte und kinderlehr, darzu auch
@@ -4483,9 +4488,9 @@ wise meant by us; but we will let all that the Lord God hath left free and witho
 used remain free and without sin, and herein have sought and meant nothing else than obedience
 and good order, police and moderation.
 
-**The fish market.** Strasbourg's Sunday mandate (1534, mediating) lets milk and bread be sold
-before the sermon, "and in Lent the fish" (Sehling 20/1, p. 246; §11.2). Lent still governed the
-market.
+**The fish market.** Strasbourg's Sunday mandate (1534, Moderate Reformed) lets milk and bread
+be sold before the sermon, "and in Lent the fish" (Sehling 20/1, p. 246; §11.2). Lent still
+governed the market.
 
 ### 13.5 Days of fasting and prayer
 
@@ -4511,13 +4516,13 @@ the popish superstitious fasting the rightful Christian fasting also was done aw
 
 A Nassau-Weilburg text printed with the order of 1576 makes the monthly prayer days fast days,
 on which betrothal feasts, guild banquets and all weddings in the week were stopped
-(Sehling 10, p. 239). Hesse (mediating) and Schleswig-Holstein ordered prayer days with fasting
-in the 1550s and 1560s (Sehling 8, p. 263; 23, p. 270). Kurland mentions extraordinary "fast
-days" set by edict in time of war (Sehling 5, p. 92).
+(Sehling 10, p. 239). Hesse (Moderate Reformed) and Schleswig-Holstein ordered prayer days with
+fasting in the 1550s and 1560s (Sehling 8, p. 263; 23, p. 270). Kurland mentions extraordinary
+"fast days" set by edict in time of war (Sehling 5, p. 92).
 
-**Fasting at the choice of ministers.** The Hessian order of 1566 (mediating) and the Reformed
-orders follow Acts 13 and 14: the church is to prepare "with fasting and prayer" for the
-election of a superintendent or minister. **Micron, *Christliche Ordinancien* (1554; German
+**Fasting at the choice of ministers.** The Hessian order of 1566 (Moderate Reformed) and the
+Reformed orders follow Acts 13 and 14: the church is to prepare "with fasting and prayer" for
+the election of a superintendent or minister. **Micron, *Christliche Ordinancien* (1554; German
 edition 1565)** (Reformed; Sehling 7/1, p. 588):
 
 <!-- doc 2116 -->
@@ -4529,18 +4534,18 @@ When the congregation is in need of one minister or more, then, according to the
 God, a common, certain fast day is appointed by the elders, which day is thereafter proclaimed
 from the pulpit to the whole congregation
 
-The Hessian rule (mediating) is at Sehling 8, p. 203, and the same provision is in Pfalz-Veldenz
-1574 (Sehling 18, p. 560).
+The Hessian rule (Moderate Reformed) is at Sehling 8, p. 203, and the same provision is in
+Pfalz-Veldenz 1574 (Sehling 18, p. 560).
 
 ### 13.6 Fasting before communion
 
 **Sober for the sacrament.** The one fast the orders still expected regularly was the
-communicant's. The Hessian order of 1566 (mediating) defends receiving the sacrament fasting
-with Augustine: "it hath pleased the Holy Ghost that, in honour of this most worthy sacrament,
-the body of the Lord should enter the Christian's mouth before other food" (Sehling 8, p. 309).
-The Saxon order of 1580 forbids banquets on the eves of Sundays and feasts, so that the
-household might come to the sacrament sober. **Albertine Saxony, *Ordnung* of Duke August,
-1580** (Sehling 1, p. 430):
+communicant's. The Hessian order of 1566 (Moderate Reformed) defends receiving the sacrament
+fasting with Augustine: "it hath pleased the Holy Ghost that, in honour of this most worthy
+sacrament, the body of the Lord should enter the Christian's mouth before other food"
+(Sehling 8, p. 309). The Saxon order of 1580 forbids banquets on the eves of Sundays and feasts,
+so that the household might come to the sacrament sober. **Albertine Saxony, *Ordnung* of Duke
+August, 1580** (Sehling 1, p. 430):
 
 <!-- doc 44 -->
 > Sollen derwegen auf die sonn und hoher fest abend nicht allein alle gastungen abschaffen,
@@ -4869,8 +4874,8 @@ punished with the chapter's penalty
 At the other end from the conservative lists of §5.7 stand the orders that kept only Sunday and
 a handful of high feasts. In these the question of rank hardly arises: there is Sunday, and
 there are the few feasts of Christ that remain. They are mostly Upper German cities under
-Zwinglian or Bucerian influence (Reformed or mediating), and later Reformed territories. Their
-history shows how unstable the minimum was.
+Zwinglian or Bucerian influence (Reformed or Moderate Reformed), and later Reformed territories.
+Their history shows how unstable the minimum was.
 
 Mülhausen's first step (Reformed) keeps four "high-tides" with the Marian feasts and the
 apostles, and abolishes the local and lesser days. Among them is "der achtest Sannt Steffans",
@@ -4914,7 +4919,8 @@ Item, with the holy days it shall be kept after the Basel order, which hath orda
 holy no more than Christmas day, Ascension day, Easter day and Whitsunday, together with the
 Sundays.
 
-**Augsburg, *Feiertagsordnung* of the council, 22 July 1537** (mediating; Sehling 12, p. 84):
+**Augsburg, *Feiertagsordnung* of the council, 22 July 1537**
+(Moderate Reformed; Sehling 12, p. 84):
 
 <!-- doc 339 -->
 > so hat ein rat derhalben angesehen und erkennet, das furohin allein die sonntäg - und alle
@@ -4937,9 +4943,9 @@ his face.
 third days of the great feasts. The Saturday evening, from three o'clock, is treated as part of
 the Sunday.
 
-The Esslingen council (mediating) first abolished everything but Sunday and Christmas (22a),
-then brought the apostles' days back (22b). **Esslingen, council decrees of 1537**
-(mediating; Sehling 17/2, pp. 389–390):
+The Esslingen council (Moderate Reformed) first abolished everything but Sunday and Christmas
+(22a), then brought the apostles' days back (22b). **Esslingen, council decrees of 1537**
+(Moderate Reformed; Sehling 17/2, pp. 389–390):
 
 <!-- doc 883 -->
 > Dweil aber ein ersamer rath vermerckt, das an solichen feirtagen das gemein volck meher zu
@@ -4971,9 +4977,9 @@ apostles' days be kept holy again, and God's Word be preached and heard thereon
 council learned that abolishing holy days did not abolish holidays, and restored the apostles'
 days in order to have days for preaching.
 
-At Strasbourg (1544, mediating) only Sunday is a holy day in the city. The saints are remembered
-in the sermon, and the countryside may keep its half and whole days. **Strasbourg, synodal
-decrees, 1544** (mediating; Sehling 20/1, pp. 342–343):
+At Strasbourg (1544, Moderate Reformed) only Sunday is a holy day in the city. The saints are
+remembered in the sermon, and the countryside may keep its half and whole days. **Strasbourg,
+synodal decrees, 1544** (Moderate Reformed; Sehling 20/1, pp. 342–343):
 
 <!-- doc 1312 -->
 > Weil inn der stat allein der Sonnetag gefeiret würt, sollen die prediger das volck offt und
@@ -5182,9 +5188,9 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | Notes | § |
 |---|---|---|---|---|
-| Hessen, Homberg *Reformatio*, 1526 (mediating) | 8, p. 49 | 2249 | only feasts of the mysteries of redemption, one day each, and the Visitation | 3.2 |
-| Hessen, *Kirchenordnung*, 1532 (mediating) | 8, p. 75 | 2252 | named saints' days forenoon only | 3.5 |
-| Hessen, *Kirchenordnung*, 1566 (mediating) | 8, pp. 257–258, 203, 263, 309 | 2257 | feasts of Christ; Christmas "das fest aller festen" | 3.6, 13.5, 13.6 |
+| Hessen, Homberg *Reformatio*, 1526 (Moderate Reformed) | 8, p. 49 | 2249 | only feasts of the mysteries of redemption, one day each, and the Visitation | 3.2 |
+| Hessen, *Kirchenordnung*, 1532 (Moderate Reformed) | 8, p. 75 | 2252 | named saints' days forenoon only | 3.5 |
+| Hessen, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 257–258, 203, 263, 309 | 2257 | feasts of Christ; Christmas "das fest aller festen" | 3.6, 13.5, 13.6 |
 | Waldeck, *Landordnung*, 1525 | 9, p. 179 | 2300 | four high-tide feasts, Marian and apostles' days | 9.1 |
 | Waldeck, *Kirchenordnung*, 1556 | 9, pp. 272–276 | 2300 | Mecklenburg scheme; Good Friday half; three apostles forenoon; Michaelmas fourth chief feast; three-lesson matins on high feasts | 4.3, 6.1, 14.2 |
 | Nassau-Dillenburg, *Kirchenordnung*, 1537 | 10, pp. 74, 77 | 169 | wide list incl. Corpus Christi, Assumption, Nativity of Mary; harvest feasts to Sunday | 5.7, 6.4, 8.9, 13.2 |
@@ -5201,7 +5207,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Pfalz-Zweibrücken, *Feiertagsordnung*, 1561 | 18, pp. 297–298 | 973 | eight high feasts whole; all others forenoon only | 6.2 |
 | Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, pp. 518–519, 520, 560 | 1011 | whole and half days; half days as days of prayer | 6.2, 12.3, 13.5 |
 | Kurpfalz (Reformed), *Kirchenordnung*, 1563 | 14, p. 397 | 504 | Christmas, New Year, Easter, Ascension, Whitsun only | 15 |
-| Hesse, *Reformationsordnung*, 1572 (mediating) | 8, p. 401 | 2272 | "heathen" Shrovetide, Walpurgis, Whitsun and St John customs | 11.4 |
+| Hesse, *Reformationsordnung*, 1572 (Philippist) | 8, p. 401 | 2272 | "heathen" Shrovetide, Walpurgis, Whitsun and St John customs | 11.4 |
 | Nassau-Dillenburg, visitation recesses, 1552 and 1570 | 10, pp. 95, 115 | 172, 180 | ordinances read at every Ember season | 12.7 |
 | Hanau-Münzenberg, *Reformationsmandat für das Amt Rodheim*, 1596 (Reformed) | 10, p. 414 | 206 | fines for Sunday trading and field work | 11.2 |
 | Ysenburg, *Fastnachtsmandate*, 1590 and 1612 (Reformed); police order | 10, pp. 593, 693, 707 | 221, 236, 239 | Shrovetide and folk customs forbidden | 11.4 |
@@ -5225,7 +5231,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Baden, *Kirchenordnungsmandat*, 1603 | 16, p. 559 | 715 | feasts and apostles forenoon *simpliciter*, field-work after | 5.3 |
 | Schwäbisch Hall, Brenz, *Kirchenordnung*, 1527 | 17/1, p. 53 | 755 | no holy day commanded by God; a civil list; Stephen and John as one day (B) | 3.5, 7.3 |
 | Schwäbisch Hall, Brenz, sermon, 1527 | 17/1, p. 78 | 756 | feasts a civil ordinance | 3.5 |
-| Esslingen, council decrees, 1537 (mediating) | 17/2, pp. 389–390 | 883 | all but Sunday and Christmas abolished; apostles' days restored | 15 |
+| Esslingen, council decrees, 1537 (Moderate Reformed) | 17/2, pp. 389–390 | 883 | all but Sunday and Christmas abolished; apostles' days restored | 15 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 204 | 270 | one list; Assumption kept for the peasants, preached as Visitation | 8.3 |
 | Brandenburg-Ansbach, chapter order, 1533 | 11, p. 314 | 276 | no saints' octaves or suffrages | 4.4 |
 | Nürnberg, Veit Dietrich, *Agendbüchlein*, 1545 | 11, p. 538 | 297 | Visitation moved to 15 August | 6.4 |
@@ -5233,7 +5239,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 411, 472, 477 | 294 | Kyrie and *Benedicamus* grades; vigils; figural music for the chief feasts | 4.2, 4.6, 10.5 |
 | Lohr (Rieneck), *Vesperordnung*, 1588 | 11, p. 699 | 318 | Latin first vespers of high and other feasts | 4.6 |
 | Nördlingen, *Ordnung der ceremonien*, 1544 | 12, pp. 321–322 | 373 | *Kyrie summum* at Pentecost and Trinity | 4.2 |
-| Augsburg, *Feiertagsordnung*, 1537 (mediating) | 12, p. 84 | 339 | Sundays, Christmas, Easter, Whitsun, New Year, Ascension, Annunciation only | 15 |
+| Augsburg, *Feiertagsordnung*, 1537 (Moderate Reformed) | 12, p. 84 | 339 | Sundays, Christmas, Easter, Whitsun, New Year, Ascension, Annunciation only | 15 |
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 71, 77–78, 94–95, 96 | 386 | wide list incl. Assumption; others "ungefeiret in gedechtnus"; Scripture-history feasts break the *lectio continua* | 3.7, 4.3, 5.7, 10.10 |
 | Pfalz-Neuburg, Ottheinrich's order, 1547 | 14, p. 109 | 473 | prefaces *solemnis* and *dominicalis* | 10.3 |
 | Regensburg, *Kirchenordnung*, 1567 | 13, pp. 474–475 | 450 | feasts of Christ; apostles; John and Michael; communion only on feasts of Christ | 3.7, 5.5, 7.1 |
@@ -5253,8 +5259,8 @@ Every order quoted or cited in this guide is listed below by region. The table g
 |---|---|---|---|---|
 | Mülhausen, council decree, 1524 (Reformed) | 20/2, p. 196 | 1377 | four high-tides, Marian and apostles' days; lesser days abolished | 15 |
 | Mülhausen, opinion on the Basel order, 1529 (Reformed) | 20/2, pp. 214–215 | 1382 | Sundays, Christmas, Ascension, Easter, Whitsun only | 15 |
-| Strasbourg, synodal decrees, 1544 (mediating) | 20/1, pp. 342–343 | 1312 | only Sunday in the city; countryside half and whole days | 15 |
-| Strasbourg, *Mandat zur Sonntagsheiligung*, 1534 (mediating) | 20/1, p. 246 | 1296 | Sunday work fined; fish sold in Lent | 11.2, 13.4 |
+| Strasbourg, synodal decrees, 1544 (Moderate Reformed) | 20/1, pp. 342–343 | 1312 | only Sunday in the city; countryside half and whole days | 15 |
+| Strasbourg, *Mandat zur Sonntagsheiligung*, 1534 (Moderate Reformed) | 20/1, p. 246 | 1296 | Sunday work fined; fish sold in Lent | 11.2, 13.4 |
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 636 | 1344 | closed seasons for weddings | 12.6 |
 | Colmar (Sehling's introduction; before the city's Reformation of 1575) | 20/2, p. 481 | 1407 | complaint of lax Lenten fasting, 1560 | 13.3 |
 

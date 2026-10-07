@@ -80,15 +80,15 @@ the afflicted and the other needs of Christendom. The orders call it:
 
 - *das gemein gebet*, the common prayer. This is the usual name: Württemberg 1553 has "Ordnung
   des gemeinen gebets", Leipzig 1567 "Gemein gebet".
-- *Vermanung zum gebet*, the exhortation to prayer: Hessen 1566 (mediating), Strasbourg 1598.
-  Nürnberg 1545 has "Vermanung zu bitten für allerlei stende".
-- *Fürbitt* or *Vorbitt*, intercession: Augsburg 1537 (mediating; Sehling's heading), Öhringen
-  1544.
+- *Vermanung zum gebet*, the exhortation to prayer: Hessen 1566 (Moderate Reformed), Strasbourg
+  1598. Nürnberg 1545 has "Vermanung zu bitten für allerlei stende".
+- *Fürbitt* or *Vorbitt*, intercession: Augsburg 1537 (Moderate Reformed; Sehling's heading),
+  Öhringen 1544.
 - *Exhortatio edder vormaninge*, exhortation or admonition: Braunschweig 1528, Hamburg 1529.
 - *Oratio*: the Latin order of the French church at Frankfurt, 1554 (Reformed).
 
-Hessen 1566 (mediating) gives it as the fifth part of the service and grounds it in the practice
-of the first Church:
+Hessen 1566 (Moderate Reformed) gives it as the fifth part of the service and grounds it in the
+practice of the first Church:
 
 > Von solchem gebet, so uf die auslegung der schrift und predigt gefolget hat in der ersten
 > kirchen, redet sehr kurz Iustinus in der andern Apologia, da er spricht: Post exhortationes ab
@@ -193,11 +193,11 @@ The short form became the most copied prayer in the corpus (17 witnesses, 1553�
   and Rothenburg 1559. It is prayed on Fridays in the towns of Kursachsen 1580 and on alternate
   Sundays in Rothenberg 1618.
 - **A choice of texts.** Kurpfalz 1563 (Reformed) offers a Lord's-Prayer paraphrase, "Oder also"
-  (or thus), beside its Sunday prayer (R2). Augsburg 1537 (mediating) offers two texts against
-  the Turk.
+  (or thus), beside its Sunday prayer (R2). Augsburg 1537 (Moderate Reformed) offers two texts
+  against the Turk.
 - **Local adaptation.**
-  - Hessen 1566 (mediating) lets each church make the form "kürzer oder lenger" (shorter or
-    longer).
+  - Hessen 1566 (Moderate Reformed) lets each church make the form "kürzer oder lenger" (shorter
+    or longer).
   - Hanau-Lichtenberg 1573 tells the pastor to refer to the sermon and to present needs.
   - Bentheim-Tecklenburg 1588 (Reformed) lets ministers add to the prayer in time of need.
   - Many forms end with a rubric that lets the sick and other particular needs be named (the
@@ -221,13 +221,13 @@ GENERAL_PRAYERS_GUIDE.md, *What the comparison shows*, sets out the other patter
 
 **Traditions.**
 
-The traditions follow the inventory in [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3. Every
-order of another tradition than the Lutheran is marked where it is cited, by its tradition in
-brackets after it, as "Kurpfalz 1563 (Reformed)".
+The traditions follow the inventory in [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3.
+Every order of another tradition than the Lutheran is marked where it is cited, by its tradition
+in brackets after it, as "Kurpfalz 1563 (Reformed)".
 - Eleven families are Lutheran: A to E and H to L.
-- F (Augsburg 1537) is mediating: Upper German and Bucerian.
-- G (Hessen 1566) is mediating: the church of Philip of Hesse, between Wittenberg and the Upper
-  Germans.
+- F (Augsburg 1537) is Moderate Reformed: Upper German and Bucerian.
+- G (Hessen 1566) is Moderate Reformed: the church of Philip of Hesse, between Wittenberg and
+  the Upper Germans, which bore Bucer's stamp.
 - M (Norden 1528) is an early East Frisian evangelical order, which Sehling prints among the
   Reformed orders of East Frisia; it is marked Reformed here.
 - R1–R4 are Reformed. Schaumburg 1614, a Lutheran order, takes over the Heidelberg prayer of R1.
@@ -289,8 +289,8 @@ in the representative text given below.
 | [C](#7-family-c-bidding-exhortation-strasbourg-type) | Bidding exhortation (Strasbourg type) | Lutheran | German | bidding exhortation + Our Father | 1 | 1573 | 8 |
 | [D](#8-family-d-nürnberg-type-vermahnung-zum-gebet) | Nürnberg-type Vermahnung zum Gebet | Lutheran | German | bidding exhortation + Our Father | 5 | 1545–1582 | 15 |
 | [E](#9-family-e-saxon-gemein-gebet-melanchthonpfeffinger) | Saxon Gemein Gebet (Melanchthon/Pfeffinger) | Lutheran | German | continuous prayer | 1 | 1567 | 6 |
-| [F](#10-family-f-upper-german-pulpit-intercession-strasbourgzürich) | Upper German pulpit intercession (Strasbourg/Zürich) | Mediating (Upper German, Bucerian) | German | continuous prayer with rubrics + Our Father | 1 | 1537 | 16 |
-| [G](#11-family-g-hessian-vermanung-zum-gebet) | Hessian Vermanung zum Gebet | Mediating (Hessian) | German | numbered bidding exhortation | 1 | 1566 | 9 |
+| [F](#10-family-f-upper-german-pulpit-intercession-strasbourgzürich) | Upper German pulpit intercession (Strasbourg/Zürich) | Moderate Reformed (Upper German, Bucerian) | German | continuous prayer with rubrics + Our Father | 1 | 1537 | 16 |
+| [G](#11-family-g-hessian-vermanung-zum-gebet) | Hessian Vermanung zum Gebet | Moderate Reformed (Hessian, Bucerian) | German | numbered bidding exhortation | 1 | 1566 | 9 |
 | [H](#12-family-h-bugenhagen-pulpit-exhortation) | Bugenhagen pulpit exhortation | Lutheran | Low German | pulpit exhortation: Creed, confession, biddings, Our Father | 3 | 1528–1543 | 9 |
 | [I](#13-family-i-huberinus-vorbitt-lords-prayer-order) | Huberinus Vorbitt (Lord’s-Prayer order) | Lutheran | German | bidding exhortation + Our Father | 1 | 1544 | 9 |
 | [J](#14-family-j-lower-saxon-notel-lüneburgwolfenbüttel) | Lower Saxon notel (Lüneburg/Wolfenbüttel) | Lutheran | German | bidding exhortation + Our Father | 3 | 1564–1573 | 8 |
@@ -1893,7 +1893,7 @@ Upper German (Bucerian/Zwinglian) intercession after the sermon, a continuous pr
 rubrics, related to Zürich 1535 and the Strasbourg forms.
 
 - **Earliest witness (archetype):** Augsburg 1537.
-- **Tradition:** mediating (Upper German, Bucerian).
+- **Tradition:** Moderate Reformed (Upper German, Bucerian).
 - **Language:** German.
 - **Form:** continuous prayer with rubrics + Our Father.
 - **Place in the service (Augsburg 1537):** At the end of the sermon service (after the
@@ -1901,7 +1901,7 @@ rubrics, related to Zürich 1535 and the Strasbourg forms.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1537 | Augsburg, Kirchenordnung (Die zehen gebot, Articul des Glaubens, Und das Vater unser) (mediating) | Augsburg (Imperial city) | Sehling 12, I.8a, pp. 70–71 | prayer with rubrics + Lord’s Prayer |
+| 1537 | Augsburg, Kirchenordnung (Die zehen gebot, Articul des Glaubens, Und das Vater unser) (Moderate Reformed) | Augsburg (Imperial city) | Sehling 12, I.8a, pp. 70–71 | prayer with rubrics + Lord’s Prayer |
 
 **Sequence:** F.1 Exhortation / preface > F.2 All men > F.3 Civil authority > F.4 Ministers of
 the Word > F.5 All estates / households > F.6 Special intercessions > F.7 Women with child > F.8
@@ -2160,7 +2160,7 @@ Hessian "Vermanung zum Gebet": a numbered bidding exhortation which the order al
 shortened or lengthened locally.
 
 - **Earliest witness (archetype):** Hessen 1566.
-- **Tradition:** mediating (Philip of Hesse's church).
+- **Tradition:** Moderate Reformed (Philip of Hesse's church).
 - **Language:** German.
 - **Form:** numbered bidding exhortation.
 - **Place in the service (Hessen 1566):** The fifth part of the service: after the Creed and the
@@ -2169,7 +2169,7 @@ shortened or lengthened locally.
 
 | Year | Witness | Territory | Sehling | Form |
 |---|---|---|---|---|
-| 1566 | Hessen, Kirchenordnung 1566 (mediating) | Landgraviate of Hesse | Sehling 8, I/Hessen Nr. 17 (KO 1566), pp. 245–246 | bidding exhortation (numbered) |
+| 1566 | Hessen, Kirchenordnung 1566 (Moderate Reformed) | Landgraviate of Hesse | Sehling 8, I/Hessen Nr. 17 (KO 1566), pp. 245–246 | bidding exhortation (numbered) |
 
 **Sequence:** G.1 Exhortation / preface > G.2 Ministers of the Word > G.3 Civil authority > G.4
 The erring & unbelievers > G.5 Enemies > G.6 The afflicted > G.7 Deliverance from calamities >

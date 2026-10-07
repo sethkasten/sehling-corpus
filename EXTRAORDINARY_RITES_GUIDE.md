@@ -76,16 +76,19 @@ German or Latin), each followed by an English translation.
   [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
   - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
     territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
-    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
-    Cologne order, and the Philippist churches of Bremen and Colmar;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
   - **Bohemian Brethren**: the Hussite Unity of the Brethren in Greater Poland;
   - **Radical Reformation**: Thomas Müntzer's Allstedt orders;
   - **Roman Catholic**.
   - The mark follows the order cited, not the territory, since a territory could change its
-    tradition: Strasbourg is mediating until the Interim of 1548 and Lutheran after it, and the
-    Palatinate Lutheran in 1556 and under Ludwig VI (1576–1583) and Reformed in 1563–1576 and
-    from 1583.
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it,
+    and the Palatinate Lutheran in 1556 and under Ludwig VI (1576–1583) and Reformed in
+    1563–1576 and from 1583.
   - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
     (`CHURCH_ORDERS_GUIDE.md`, §4).
 
@@ -137,11 +140,11 @@ survived as a sacrament, but all left an evangelical rite in their place:
 
 **2. Baptism fell into four families** (§3):
 
-- the received rite in German (Luther 1523, Nuremberg and Strasbourg 1524 (mediating), Ansbach
-  1526, Brandenburg 1540);
+- the received rite in German (Luther 1523, Nuremberg and Strasbourg 1524 (Moderate Reformed),
+  Ansbach 1526, Brandenburg 1540);
 - Luther's revised *Taufbüchlein* of 1526, the Lutheran standard;
-- the Upper German rite of Strasbourg (mediating) and Württemberg (Lutheran), without exorcism
-  or cross;
+- the Upper German rite of Strasbourg (Moderate Reformed) and Württemberg (Lutheran), without
+  exorcism or cross;
 - the Reformed rite of the Palatinate and the stranger churches, which forbade emergency baptism
   by women.
 
@@ -190,10 +193,10 @@ hands and the delivery of chalice and paten were dropped. Installation (*Investi
 pastor in his parish was a separate rite, led by the superintendent (§11).
 
 **9. Lay offices were filled by oath, pledge or election, not by rite** (§12). Laying on of
-hands for elders and deacons is found only in Hesse 1566 (mediating), the London church and the
-Palatinate 1592 (both Reformed). Sextons, schoolmasters, churchwardens and midwives were bound
-by pledge or oath. The sexton was also the sacristan; no order has a separate sacristan or an
-altar guild. No order ordains or blesses a deaconess. Sick-women and beguines who nursed the
+hands for elders and deacons is found only in Hesse 1566 (Moderate Reformed), the London church
+and the Palatinate 1592 (both Reformed). Sextons, schoolmasters, churchwardens and midwives were
+bound by pledge or oath. The sexton was also the sacristan; no order has a separate sacristan or
+an altar guild. No order ordains or blesses a deaconess. Sick-women and beguines who nursed the
 sick were appointed by the council and examined or instructed by the pastor.
 
 **10. Nuns were received with an evangelical rite; monks were not** (§§12.7–12.10). Keppel 1570
@@ -261,29 +264,29 @@ The forms printed in full or quoted at length in this guide are:
 
 | Rite | Principal full forms (§) |
 |---|---|
-| Baptism | Luther 1523 and 1526 (3.2–3.3); the anointings of Brandenburg 1540 and Pfalz-Neuburg 1543 (3.2); Saxony 1539 (3.4); Württemberg 1536/1553 and Strasbourg 1537 (mediating) (3.5); Palatinate 1563 (Reformed) (3.6) |
+| Baptism | Luther 1523 and 1526 (3.2–3.3); the anointings of Brandenburg 1540 and Pfalz-Neuburg 1543 (3.2); Saxony 1539 (3.4); Württemberg 1536/1553 and Strasbourg 1537 (Moderate Reformed) (3.5); Palatinate 1563 (Reformed) (3.6) |
 | Emergency baptism and its confirmation | Saxony 1539 (3.7) |
 | Exorcism | Luther 1526 (3.3); its glosses and abolitions (4) |
 | Churching | Mansfeld 1580 (5.2) |
-| Confirmation | Ziegenhain 1539 (mediating) (6.2); Calenberg-Göttingen 1542 (6.3); Brandenburg 1540 (6.4); Mansfeld 1580 (6.5) |
-| Marriage | Luther 1529 (7.1); Brandenburg-Nürnberg 1533 (7.2); Strasbourg 1537 (mediating) (7.3) |
+| Confirmation | Ziegenhain 1539 (Moderate Reformed) (6.2); Calenberg-Göttingen 1542 (6.3); Brandenburg 1540 (6.4); Mansfeld 1580 (6.5) |
+| Marriage | Luther 1529 (7.1); Brandenburg-Nürnberg 1533 (7.2); Strasbourg 1537 (Moderate Reformed) (7.3) |
 | Sick and dying | Saxony 1539 (8.3); Dietrich 1545 (8.4, 8.6); Pomerania 1569 (8.7) |
 | Burial | Saxony 1539/1540 (9.2); Brandenburg-Nürnberg 1533 (9.3) |
-| Ordination | Luther 1537–1539 (10.2); Merseburg 1545 (10.3); Regensburg 1553 (10.4); Hesse 1574 (mediating) and the Palatinate 1592 (Reformed) (10.5) |
+| Ordination | Luther 1537–1539 (10.2); Merseburg 1545 (10.3); Regensburg 1553 (10.4); Hesse 1574 (Philippist) and the Palatinate 1592 (Reformed) (10.5) |
 | Installation | Saxony 1580 and Wolfenbüttel 1569 (11.1); the Palatinate 1592 (Reformed) (11.2); Württemberg prelates (11.3) |
-| Elders and deacons | Hesse 1566 (mediating), Micron 1554 and the Palatinate 1592 (Reformed) (12.1) |
+| Elders and deacons | Hesse 1566 (Moderate Reformed), Micron 1554 and the Palatinate 1592 (Reformed) (12.1) |
 | Deaconesses and sick-women | Nördlingen 1544, Heilbronn 1531 (12.6) |
 | Clothing of a nun | Keppel 1570 (12.7) |
 | Convent heads | Keppel 1570, Schleswig-Holstein after 1610 (12.8) |
 | Novices and monks | Ravengiersburg 1560 (12.9); Württemberg prelates (11.3) |
 | Laying aside the habit | Brunswick-Wolfenbüttel 1569 (12.10) |
-| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (Reformed), Anhalt 1594 (mediating) (12.2); Mulhouse 1551 (Reformed), the Palatinate 1580, Gengenbach 1536 (mediating), Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (mediating) (12.4) |
+| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (Reformed), Anhalt 1594 (Philippist) (12.2); Mulhouse 1551 (Reformed), the Palatinate 1580, Gengenbach 1536 (Moderate Reformed), Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (Moderate Reformed) (12.4) |
 | Church dedication | Hof: the dedication of 1572, its yearly festival, and the school dedication of 1546 (14.3) |
 | Betrothal, divorce, remarriage | Wertheim 1530 (7.8); Prussia 1575 (7.9); Saxony 1556, the Palatinate 1563 (Reformed), Brandenburg 1573 (7.10) |
 | Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Grubenhagen 1581 (16.6); Micron 1554 (16.7) |
 | Private confession and absolution | the catechism form, Palatinate 1556; Brandenburg 1540 (17.2–17.3) |
 | Processions | Brandenburg 1540 (18.2); order of march and objects carried: Stendal 1541, Brandenburg 1540, Waldeck 1556, Havelberg 1558, Hof 1592, Strasbourg 1598 (18.4) |
-| Deposition of a minister | Hesse 1566 (mediating) (19.3) |
+| Deposition of a minister | Hesse 1566 (Moderate Reformed) (19.3) |
 | Visitation | Pfalz-Neuburg 1560 (20.1) |
 | Litany in place of the Mass; Good Friday solemn prayers | Pfalz-Neuburg 1543, Mecklenburg 1552, Grubenhagen 1544, Hof 1592 (22.1); Waldeck 1556 (22.2, 22.6); Pomerania 1569 (22.4) |
 
@@ -402,15 +405,16 @@ families, and nearly every form in the corpus can be placed in one of them:
 
 - **The received rite in German.** These are translations of the Latin *ordo baptismi* with
   nearly all its ceremonies: Luther's *Taufbüchlein* of 1523, Nuremberg 1524, the Strasbourg
-  German baptism of 1524 (mediating) and the Ansbach "Würzburg rubrics" of 1526. Electoral
-  Brandenburg in 1540 kept most of these ceremonies.
+  German baptism of 1524 (Moderate Reformed) and the Ansbach "Würzburg rubrics" of 1526.
+  Electoral Brandenburg in 1540 kept most of these ceremonies.
 - **Luther's revised *Taufbüchlein* of 1526.** This keeps the exorcism, the sign of the cross,
   the Flood prayer, the Gospel of the children, the renunciation and the threefold creed. It
   drops salt, spittle, oil, chrism and candle. It was taken into most Lutheran orders, often
   with an exhortation added before it and an address to the godparents after it.
-- **The Upper German rite.** This is Strasbourg after 1525 (mediating), Württemberg in 1536 and
-  1553 (Lutheran) and their many dependants. It has no exorcism and no sign of the cross. It is
-  built from teaching, prayer, the Gospel and the creed, and the child is baptized by pouring.
+- **The Upper German rite.** This is Strasbourg after 1525 (Moderate Reformed), Württemberg in
+  1536 and 1553 (Lutheran) and their many dependants. It has no exorcism and no sign of the
+  cross. It is built from teaching, prayer, the Gospel and the creed, and the child is baptized
+  by pouring.
 - **The Reformed rite.** This is the Palatinate in 1563, the London strangers' church and the
   Lower Rhine. It is a covenant exhortation, a recast Flood prayer, the Lord's Prayer and the
   creed, a question to the parents, pouring and a thanksgiving. Emergency baptism by women is
@@ -467,7 +471,8 @@ such, and they are not the right grips that the devil feareth or fleeth.
 
 Luther's first German baptismal book translated the Wittenberg form of the Latin rite almost
 whole. Its order can stand for all the early German translations. Nuremberg in 1524, Strasbourg
-in 1524 (mediating) and Ansbach in 1526 differ from it only in detail. Sehling 1, pp. 18–20:
+in 1524 (Moderate Reformed) and Ansbach in 1526 differ from it only in detail. Sehling 1, pp.
+18–20:
 
 1. **Exsufflation and first exorcism.** The minister breathes three times under the child's
    eyes: "Far aus, du unreiner geist, und gib raum dem heiligen geist" ("Depart, thou unclean
@@ -533,10 +538,10 @@ Take this burning torch and keep thy baptism blameless, that when the Lord comet
 thou mayest go to meet him, together with the saints, into the heavenly hall, and have eternal
 life. Amen.
 
-The other early translations kept still more. The Strasbourg German baptism of 1524 (mediating)
-prints the blessing of the salt with its own exorcism, and four exorcisms of the child where
-Luther has two. **Strasbourg, the early agendas: the German baptism, 1524**
-(mediating; Sehling 20/1, p. 124):
+The other early translations kept still more. The Strasbourg German baptism of 1524 (Moderate
+Reformed) prints the blessing of the salt with its own exorcism, and four exorcisms of the child
+where Luther has two. **Strasbourg, the early agendas: the German baptism, 1524**
+(Moderate Reformed; Sehling 20/1, p. 124):
 
 <!-- doc 1279 -->
 > Hie nach segnet man das saltz mit nachvolgenden worten: Ich beschwer dich, geschöpff des
@@ -915,14 +920,14 @@ be unwrapped, yet, to prevent all manner of danger, not dipped into the water, b
 with the water naked as they are, unless it be that the child be so weak that it could not well
 bear the air or the cold; then it may well be baptized wrapped.
 
-**Strasbourg 1537** (mediating). Strasbourg had moved furthest from the old rite. Its agenda
-sets fixed times for baptism: in the Minster on Sundays after the noon sermon and on Wednesdays
-after the morning sermon, and in the other parishes at Sunday vespers. The service is a sermon
-in brief, with four heads of exhortation. Then come silent prayer, two prayers, the Gospel, the
-creed said by all, an address to the whole congregation and the godparents, threefold pouring, a
-thanksgiving and a dismissal. There is no exorcism, no cross and no question to the godparents.
-The words at the font are these. **Strasbourg, *Agende*, 1537**
-(mediating; Sehling 20/1, p. 269):
+**Strasbourg 1537** (Moderate Reformed). Strasbourg had moved furthest from the old rite. Its
+agenda sets fixed times for baptism: in the Minster on Sundays after the noon sermon and on
+Wednesdays after the morning sermon, and in the other parishes at Sunday vespers. The service is
+a sermon in brief, with four heads of exhortation. Then come silent prayer, two prayers, the
+Gospel, the creed said by all, an address to the whole congregation and the godparents,
+threefold pouring, a thanksgiving and a dismissal. There is no exorcism, no cross and no
+question to the godparents. The words at the font are these. **Strasbourg, *Agende*, 1537**
+(Moderate Reformed; Sehling 20/1, p. 269):
 
 <!-- doc 1302 -->
 > Uff dises begeret der Diener im das kindlin nach ordnung darzu geben. Das nimet er dan in
@@ -1101,12 +1106,12 @@ The rite assumed infants. The orders made room for adults in three ways:
 - **A clause in the Flood prayer.** Luther's words "and that he himself hath added thereto"
   (*und er selb dazugethan hat*) were marked in Württemberg as the clause to add "when an older
   person is baptized" (Sehling 16, pp. 112, 234).
-- **The Hessian catechumenate.** The Hessian order of 1566 (mediating) described the ancient
-  catechumenate at length. Its section on baptism was taken into the Austrian agenda of 1571 as
-  "a short Christian instruction for baptizing older persons" (Sehling 8, p. 268). In the
-  ancient church, it says, the instructed made their confession "before the whole congregation
-  on certain appointed feasts". They renounced the devil, confessed the creed and were baptized
-  "in and before the whole church, which looked on".
+- **The Hessian catechumenate.** The Hessian order of 1566 (Moderate Reformed) described the
+  ancient catechumenate at length. Its section on baptism was taken into the Austrian agenda of
+  1571 as "a short Christian instruction for baptizing older persons" (Sehling 8, p. 268). In
+  the ancient church, it says, the instructed made their confession "before the whole
+  congregation on certain appointed feasts". They renounced the devil, confessed the creed and
+  were baptized "in and before the whole church, which looked on".
 - **Separate forms for Jews.** Sehling notes a liturgical form for the baptism of an adult Jew
   among the Mainz possessions, "perhaps the first in the evangelical church"
   (Sehling 2, p. 365). He prints a Friedberg *Judentaufformular* of about 1600. There the
@@ -1299,10 +1304,10 @@ of the common people.
 
 **Strasbourg and the Upper German orders** never had the exorcism after the mid-1520s.
 Württemberg in 1536 and 1553 has none (§3.5). Sehling's editor notes that the Kassel order of
-1539 (mediating) "following Strasbourg forms" leaves it out (Sehling 8, p. 119). The Hessian
-order of 1566 (mediating) also omits it from its two baptismal forms. It mentions "the prayers
-together with the exorcisms" only in the section on emergency baptism, which it copied from the
-Saxon agenda (Sehling 8, p. 284).
+1539 (Moderate Reformed) "following Strasbourg forms" leaves it out (Sehling 8, p. 119). The
+Hessian order of 1566 (Moderate Reformed) also omits it from its two baptismal forms. It
+mentions "the prayers together with the exorcisms" only in the section on emergency baptism,
+which it copied from the Saxon agenda (Sehling 8, p. 284).
 
 **Abolition by mandate, 1567–1613.** From the 1560s the Reformed and Philippist territories
 abolished it by mandate:
@@ -1310,20 +1315,20 @@ abolished it by mandate:
 | Territory | Date | Source |
 | --- | --- | --- |
 | Upper Palatinate (Amberg; Reformed) | 1567 | mandate of 20 January (Sehling 13, p. 303) |
-| Nassau-Dillenburg (mediating) | 1575 | agenda (Sehling 10, p. 150) |
+| Nassau-Dillenburg (Philippist) | 1575 | agenda (Sehling 10, p. 150) |
 | Hohenlohe | 1578 | order (Sehling 15, p. 235) |
 | Nördlingen | 1579 | order, at Andreae's wish (Sehling 12, p. 352) |
 | Moers (Reformed) | 1581 | order (Sehling 22, p. 194) |
 | Waldeck | 1584 | mandate of 21 August, with the *Westerhemd* (Sehling 9, p. 300) |
 | Bentheim-Tecklenburg (Reformed) | 1588 | order (Sehling 22, p. 269) |
-| Anhalt (mediating) | 1590 | princely command of 27 July, and a new *Taufbüchlein* (Sehling 2, p. 531) |
+| Anhalt (Philippist) | 1590 | princely command of 27 July, and a new *Taufbüchlein* (Sehling 2, p. 531) |
 | Electoral Saxony | 1591 | under Christian I; Sehling records the negotiations and the "unrest" (Sehling 1, p. 137) |
 | Gottorf | 1613 | (Sehling 23, p. 324) |
 
 **Nassau-Dillenburg 1575.** The Nassau agenda gives the Reformed case. Baptism by Christ's
 institution is strong enough against the devil. The exorcism has no ground in Scripture or
 apostolic tradition, and it breeds an *opinio cultus et necessitatis*. **Nassau-Dillenburg,
-*Agende*, 1575** (mediating; Sehling 10, p. 150):
+*Agende*, 1575** (Philippist; Sehling 10, p. 150):
 
 <!-- doc 182 -->
 > Zum andern soll auch der exorcismus unnd teuffelsbeschwerung bey der tauff nit meher gepraucht
@@ -1377,7 +1382,7 @@ have no ground in the Word of God, and were not in use in the Old Testament at c
 thereafter in the times of Christ and the holy apostles, and serve rather to darken than to
 explain baptism and all other ceremonies, be done away
 
-**Anhalt 1590: a new baptismal book** (mediating). Sehling describes the Anhalt book. It
+**Anhalt 1590: a new baptismal book** (Philippist). Sehling describes the Anhalt book. It
 "agreeth almost wholly with Luther's *Taufbüchlein*". The exorcism formula is left out, and the
 opening exhortation of Duke Henry's agenda is added (Sehling 2, p. 531). The exorcism thus
 became the outward sign by which a Lutheran territory was suspected of Calvinism. Sehling notes
@@ -1616,9 +1621,9 @@ pure understanding, and to good discipline.
 
 ### 6.2 Hesse 1539: the Ziegenhain and Kassel forms
 
-**Ziegenhain 1539** (mediating). The Hessian confirmation, devised with Bucer in the Ziegenhain
-order on discipline and the Kassel church order of 1539, is the source of most later forms.
-Sehling's editor traces its spread to Calenberg-Göttingen 1542, Waldeck 1556/57,
+**Ziegenhain 1539** (Moderate Reformed). The Hessian confirmation, devised with Bucer in the
+Ziegenhain order on discipline and the Kassel church order of 1539, is the source of most later
+forms. Sehling's editor traces its spread to Calenberg-Göttingen 1542, Waldeck 1556/57,
 Braunschweig-Wolfenbüttel 1569 and Hoya 1581, among others (Sehling 8, p. 104, n. 17). The
 Ziegenhain rule sets out the whole act:
 
@@ -1629,7 +1634,7 @@ Ziegenhain rule sets out the whole act:
 - the congregation prays;
 - the pastor lays on hands and admits them to the Lord's table.
 
-**Hesse, *Ziegenhainer Zuchtordnung*, 1539** (mediating; Sehling 8, p. 104):
+**Hesse, *Ziegenhainer Zuchtordnung*, 1539** (Moderate Reformed; Sehling 8, p. 104):
 
 <!-- doc 2252 -->
 > Es sollen auch die eltesten und prediger versehen, daß die kinder, so nun durch die
@@ -1780,9 +1785,9 @@ many years in these Pomeranian churches" (Sehling 4, pp. 385–386). The agenda 
 *Van der confirmation, wo men de kinder im catechismo vorhören unde insegenen schal, eer men se
 tom hochwerdigen sacramente tolet*
 ("Of confirmation, how one shall hear the children in the catechism and bless them before they are admitted to the most worthy sacrament"; Sehling 4, p. 441).
-**Lauenburg** in 1585 and **Hesse** (mediating) in 1566 and 1574 likewise printed confirmation
-forms with question and answer, and the Hessian form was copied by Nassau-Weilburg (1576),
-Corvey (1603) and Hanau-Münzenberg (1609, Reformed)
+**Lauenburg** in 1585 and **Hesse** in 1566 (Moderate Reformed) and 1574 (Philippist) likewise
+printed confirmation forms with question and answer, and the Hessian form was copied by
+Nassau-Weilburg (1576), Corvey (1603) and Hanau-Münzenberg (1609, Reformed)
 (Sehling 5, p. 458; 8, pp. 300, 430; 10, pp. 251, 498; 21, p. 255).
 
 ### 6.6 Strasbourg and the south-west
@@ -1965,7 +1970,7 @@ The Strasbourg agenda puts the church's inquiry into the rite itself:
 6. Psalm 128, silent prayer, a long prayer that paraphrases the Lord's Prayer, and a dismissal
    with a charge to remember the poor.
 
-**Strasbourg, *Agende*, 1537** (mediating; Sehling 20/1, pp. 263–264):
+**Strasbourg, *Agende*, 1537** (Moderate Reformed; Sehling 20/1, pp. 263–264):
 
 <!-- doc 1302 -->
 > Ist jemans hie, dem zu wissen sei hindernüs der Ehe ann disen personen sip oder magtschafft
@@ -2058,10 +2063,10 @@ The banns were proclaimed one to three times, on Sundays or feast days. The orde
 | Brandenburg-Nürnberg 1533 | once in towns, three times in villages | (Sehling 11, p. 200) |
 | Ysenburg 1587 | on three Sundays, the couple applying fourteen days before | (Sehling 10, p. 587) |
 
-**Hours and days.** Konstanz in 1537 (mediating) required the banns three or four days before,
-on a Sunday or feast. It forbade weddings "before daybreak" and the marriage of strangers
-without inquiry (Sehling 17, p. 415). In much of Lower Saxony the couple went to church on the
-Monday (Herford, above).
+**Hours and days.** Konstanz in 1537 (Moderate Reformed) required the banns three or four days
+before, on a Sunday or feast. It forbade weddings "before daybreak" and the marriage of
+strangers without inquiry (Sehling 17, p. 415). In much of Lower Saxony the couple went to
+church on the Monday (Herford, above).
 
 **Closed seasons.** Weddings were forbidden at the high feasts, in Advent and in Lent. These
 rules are collected in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) §§11.3 and
@@ -2090,7 +2095,7 @@ to church.
 **Ulm, Baden and Strasbourg.** The same rule stands in the Baden marriage order of 1581 and the
 Ulm *Zuchtordnung* of 1558. Ulm complained of brides "great with child" who went to church "with
 the procession and other maidenly adornment" as if they were "honourable, unblemished virgins"
-(Sehling 16, p. 546; 17, pp. 229, 233). Strasbourg in 1544 (mediating) complained of the
+(Sehling 16, p. 546; 17, pp. 229, 233). Strasbourg in 1544 (Moderate Reformed) complained of the
 opposite fault: some would not let maidens be named at the *Kirchgang* at all
 (Sehling 20/1, p. 342).
 
@@ -3073,7 +3078,7 @@ the name of the Father and of the Son and of the Holy Ghost. Amen.
 
 ### 10.5 Ordination in the parish: Hesse 1574 and the Palatinate 1592
 
-**Hesse 1574** (mediating). The Hessian agenda of 1574 joins ordination to the first
+**Hesse 1574** (Philippist). The Hessian agenda of 1574 joins ordination to the first
 installation of a pastor in his own church. Two or three neighbouring pastors attend as
 witnesses. The rite runs:
 
@@ -3087,7 +3092,7 @@ witnesses. The rite runs:
 7. A prayer, and the commendation of the church to the new pastor and of the pastor to the
    people.
 
-**Hesse, *Agende*, 1574** (mediating; Sehling 8, pp. 454–455):
+**Hesse, *Agende*, 1574** (Philippist; Sehling 8, pp. 454–455):
 
 <!-- doc 2272 -->
 > Nach diesem gebet söllen dem ordinando, welcher für dem altar kniend bleibt, die hende
@@ -3102,8 +3107,8 @@ on behalf of the church of God, upon your promise made, as an ordinary minister 
 and teacher of the holy gospel, in the name of God the Father and of the Son and of the Holy
 Ghost. Amen.
 
-Sehling's editor notes that these words are new against the Hessian (mediating) tradition of
-1539 and 1566 (Sehling 8, p. 454, n. 55).
+Sehling's editor notes that these words are new against the Hessian (Moderate Reformed)
+tradition of 1539 and 1566 (Sehling 8, p. 454, n. 55).
 
 **The Palatinate 1592.** The Reformed Palatinate used a *Heidelbergische forma ordinationis*. It
 read 1 Timothy 3 and 4 and Titus 1 and prayed for the Spirit. Then, with the laying on of hands,
@@ -3358,10 +3363,10 @@ of each office, is set out in
 brief:
 
 - **Laying on of hands** was used, besides ministers of the Word, only:
-  - for deacons of the poor in Hesse 1566 (mediating) and the London strangers' church
+  - for deacons of the poor in Hesse 1566 (Moderate Reformed) and the London strangers' church
     (Reformed);
-  - for lay elders in Hesse 1566 (mediating), the London church and the Palatinate (1592) (both
-    Reformed);
+  - for lay elders in Hesse 1566 (Moderate Reformed), the London church and the Palatinate
+    (1592) (both Reformed);
   - for the Bohemian Brethren's clerical deacons.
 - **Prayer, a handfast vow or an oath** installed:
     - Reformed elders elsewhere (Kurpfalz about 1601, Hanau 1609, Solms), and the elders of
@@ -3374,10 +3379,10 @@ brief:
 **Three full forms.** Three forms in the corpus install elders and deacons with prayer and the
 laying on of hands, as a true ordination to a lay office. They are given here in full.
 
-**Hesse 1566: elders** (mediating). The Hessian order of 1566 has the elders chosen in each
-church by its ministers with members of the council and congregation, by vote (Acts 14:23). They
-are examined on their willingness and then "ordained" in their own church by the superintendent
-at visitation, or by a pastor with one or two other ministers. The rite runs:
+**Hesse 1566: elders** (Moderate Reformed). The Hessian order of 1566 has the elders chosen in
+each church by its ministers with members of the council and congregation, by vote (Acts 14:23).
+They are examined on their willingness and then "ordained" in their own church by the
+superintendent at visitation, or by a pastor with one or two other ministers. The rite runs:
 
 1. A short address, as at the ordination of pastors.
 2. The lesson Acts 20:28–31 ("Take heed therefore unto yourselves, and to all the flock").
@@ -3398,7 +3403,7 @@ at visitation, or by a pastor with one or two other ministers. The rite runs:
 8. An exhortation to the congregation to receive them with goodwill.
 9. Psalm 23, *Der Herr ist mein Hirte*; the blessing; the names entered in the church book.
 
-**Hesse, *Kirchenordnung*, 1566** (mediating; Sehling 8, p. 209):
+**Hesse, *Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, p. 209):
 
 <!-- doc 2257 -->
 > Demnach soll der pfarherr jedermann zum gebet kurzlich vermanen und, wenn sie niedergekniet,
@@ -3446,15 +3451,15 @@ sentence, lay aside all human affection; all that ye or others bring forward, ha
 according to the rule of the divine word. Let nothing lie more heavily upon you than the honour
 of God and the edification of the faithful.
 
-**Hesse 1566: deacons** (mediating). The deacons of the poor are chosen by the preachers or
-elders with members of the council and congregation, at least two in each church, and put on
+**Hesse 1566: deacons** (Moderate Reformed). The deacons of the poor are chosen by the preachers
+or elders with members of the council and congregation, at least two in each church, and put on
 probation (1 Timothy 3:10). At their ordination the minister reads them a charge in three
 points: to show that they have the Holy Ghost by seeking only God's honour; to live honourably
 and rule their households; and to gather the alms, rents and dues with care, keep them in a
 register, pay the ministers' wages, relieve the poor in due time, and keep the church fabric in
 repair. The charge ends with the vow. The laying on of hands follows "with common prayer", on
 the apostles' example in Acts 6 (Sehling 8, pp. 207–208). **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, p. 211):
+(Moderate Reformed; Sehling 8, p. 211):
 
 <!-- doc 2257 -->
 > Sollet auch allezeit eingedenk sein, daß ihr nit allein menschen, sondern auch Gottes diener
@@ -3470,9 +3475,9 @@ deceived. These are the chief duties of the deacons in the congregation of God, 
 in the holy Scripture. Therefore I now desire of you, before the face of God and of his holy
 angels, that ye will vow and promise to keep all this faithfully.
 
-**Hesse 1566: sextons** (mediating). The same order has the sextons (*Opfermänner*, *aeditui*,
-*custodes*) taken on by the pastor and elders with the superintendent's knowledge, with no rite
-(Sehling 8, p. 211).
+**Hesse 1566: sextons** (Moderate Reformed). The same order has the sextons (*Opfermänner*,
+*aeditui*, *custodes*) taken on by the pastor and elders with the superintendent's knowledge,
+with no rite (Sehling 8, p. 211).
 
 **Micron's London order: elders** (Reformed). The Dutch stranger church in London installed both
 elders and deacons by a public "confirmation" (*bestetigung*) with laying on of hands. Its
@@ -3664,7 +3669,7 @@ behalf.
 vestments, font and lights (see
 [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) §7.1). His
 installation therefore took the same forms:
-- **A yearly appointment: Anhalt 1594** (mediating). The village of Törten petitioned for a
+- **A yearly appointment: Anhalt 1594** (Philippist). The village of Törten petitioned for a
   sexton of its own who could keep school and read in church in the pastor's absence. It agreed
   a levy for his wages, and the superintendent and the district officer advised on the matter.
   The prince's court councillors then summoned the whole community and, "with the consent and
@@ -3674,8 +3679,8 @@ installation therefore took the same forms:
 - **Surety for the vessels: Sayn 1590.** Because the chalices and ornaments were entrusted to
   him, no bell-ringer was to be received unless he was "well known" or gave a warrantor or
   surety (Sehling 19/1, p. 438).
-- **Appointment by the parish: Strasbourg 1531** (mediating). Vacant offices "of helpers or
-  *Sigristen*" were to be filled "by the pastors and parish churchwardens, and not otherwise"
+- **Appointment by the parish: Strasbourg 1531** (Moderate Reformed). Vacant offices "of helpers
+  or *Sigristen*" were to be filled "by the pastors and parish churchwardens, and not otherwise"
   (Sehling 20/1, p. 226).
 
 ### 12.3 Schoolmasters, cantors and organists
@@ -3736,11 +3741,11 @@ servant of the school and an obedient subject, ye shall make promise and vow wit
 faith, and swear also a bodily oath to God, and bind and oblige yourselves thereto by your own
 signature.
 
-**Gengenbach 1536** (mediating). The schoolmaster of the imperial town of Gengenbach was bound
-by his *Bestallung* to obey the council and two councillors and one minister set over him as
-"school-lords", to live blamelessly, and to follow the class divisions of Freiburg.
+**Gengenbach 1536** (Moderate Reformed). The schoolmaster of the imperial town of Gengenbach was
+bound by his *Bestallung* to obey the council and two councillors and one minister set over him
+as "school-lords", to live blamelessly, and to follow the class divisions of Freiburg.
 **Gengenbach, *Bestallung eines Schulmeysters der Statt Gengenbach*, 1536**
-(mediating; Sehling 17/1, p. 483):
+(Moderate Reformed; Sehling 17/1, p. 483):
 
 <!-- doc 804 -->
 > Ein Schulmeyster der Statt Gengenbach soll einem ersamen Rhatt in allen billichen sachen
@@ -3856,9 +3861,9 @@ Lewis, Elector, etc., by reason of the half share in the revenues, to be faithfu
 obedient and ready, to warn and turn away harm from their electoral and princely graces, to seek
 and further their profit and good, faithfully and without guile.
 
-**Strasbourg 1523: the steward of the poor** (mediating). The Strasbourg poor order of 1523 set a
-*Schaffner* over the alms, who swore to the poor themselves. **Strasbourg, *Armenordnung*,
-longer version, 4 August 1523** (mediating; Sehling 20/1, p. 113):
+**Strasbourg 1523: the steward of the poor** (Moderate Reformed). The Strasbourg poor order of
+1523 set a *Schaffner* over the alms, who swore to the poor themselves. **Strasbourg,
+*Armenordnung*, longer version, 4 August 1523** (Moderate Reformed; Sehling 20/1, p. 113):
 
 <!-- doc 1276 -->
 > schaffner sol schwören einen eydt liplichen zuo Got unnd den heyligen, den armen luten getruw
@@ -4203,9 +4208,9 @@ so maintained, shall bind himself to serve no other lord than us and the house o
 Heiliger Geist*, prayer at the altar and a blessing, and were presented to the school, the
 officers and the subjects (§11.3).
 
-**Monks who stayed.** Esslingen in 1535 (mediating) required no rite of the friars who chose to
-stay, and none of those who left to marry. The council simply gave a settlement to the one and
-maintenance to the other (Sehling 17/2, p. 382).
+**Monks who stayed.** Esslingen in 1535 (Moderate Reformed) required no rite of the friars who
+chose to stay, and none of those who left to marry. The council simply gave a settlement to the
+one and maintenance to the other (Sehling 17/2, p. 382).
 
 ### 12.10 Laying aside the habit
 
@@ -4272,9 +4277,9 @@ sermon), whereat the subjects also are to be reminded of their office; thereto a
 serviceable the texts Exodus 18; Deuteronomy 16; 2 Chronicles 19; Romans 13; Titus 3; 1 Peter 2,
 etc.
 
-**Memmingen and Konstanz** (both mediating). Memmingen in 1532 had half the churchwardens step
-down "every year at the new council" (Sehling 12, p. 252). At Konstanz the yearly council
-election also chose the spokesmen who sat on the city's disciplinary court
+**Memmingen and Konstanz** (both Moderate Reformed). Memmingen in 1532 had half the
+churchwardens step down "every year at the new council" (Sehling 12, p. 252). At Konstanz the
+yearly council election also chose the spokesmen who sat on the city's disciplinary court
 (Sehling 17, p. 386, editor's note).
 
 ### 13.2 Prayer for the magistrate
@@ -4313,11 +4318,11 @@ of police: it was restricted, moved off Sunday or forbidden.
 
 ### 14.1 Dedication rejected
 
-**Homberg 1526** (mediating). The Homberg synod forbade the churches to keep dedications at all.
-There is no stone temple in the church after Christ; the faithful themselves are the living
-temples. Each believer is to keep the "consecration of the church" in his heart, by thanksgiving
-for his calling. **Hesse, *Reformatio ecclesiarum Hassiae* (Homberg), 1526**
-(mediating; Sehling 8, p. 50):
+**Homberg 1526** (Moderate Reformed). The Homberg synod forbade the churches to keep dedications
+at all. There is no stone temple in the church after Christ; the faithful themselves are the
+living temples. Each believer is to keep the "consecration of the church" in his heart, by
+thanksgiving for his calling. **Hesse, *Reformatio ecclesiarum Hassiae* (Homberg), 1526**
+(Moderate Reformed; Sehling 8, p. 50):
 
 <!-- doc 2249 -->
 > Interdicimus universis ecclesiis nostris in virtute Christi ne ultra dedicationes celebrent,
@@ -4525,7 +4530,7 @@ kept people from the Sunday sermon. Three degrees of severity appear:
 
 | Treatment | Examples |
 |---|---|
-| Moved off Sunday or kept behind the sermon | Mecklenburg 1552: no *Kirchmessen* or fairs on Sunday (Sehling 5, p. 220); Hesse 1571 (mediating): the Landgraves' instruction proposed Monday (Sehling 8, p. 359, editor's note); archbishopric of Bremen (Vörde) 1577: no booths opened until sermon and service were over (Sehling 7/1, p. 24) |
+| Moved off Sunday or kept behind the sermon | Mecklenburg 1552: no *Kirchmessen* or fairs on Sunday (Sehling 5, p. 220); Hesse 1571 (Philippist): the Landgraves' instruction proposed Monday (Sehling 8, p. 359, editor's note); archbishopric of Bremen (Vörde) 1577: no booths opened until sermon and service were over (Sehling 7/1, p. 24) |
 | Tolerated with limits | Saxony 1580: one day of dancing at each village *Kirmes*, by daylight (Sehling 1, p. 442); Nassau-Weilburg 1609: dancing at customary *Kirmes* and fairs once or twice a year, for an hour or three (Sehling 10, p. 339) |
 | Abolished outright | Baden 1548 and 1564 (Sehling 16, pp. 518, 537); Waldeck 1583; Hohenlohe 1586 (Sehling 15, p. 521), with Schwäbisch Hall the same year (Sehling 15, p. 587, editor's note); a Palatine police ordinance (Sehling 14, p. 66, editor's note); Solms 1582 and 1594 (Reformed; Sehling 9, pp. 325, 337). Hohenlohe in 1579 forbade the clergy to go to one another's *Kirchweih* (Sehling 15, p. 380) |
 
@@ -4708,8 +4713,8 @@ is baptized is ordinary water, and the word of institution makes the sacrament (
 
 **Chrism dropped.** The chrism and the oils, which only a bishop could consecrate, disappeared
 with the post-baptismal anointing (§3.2) and extreme unction (§8.1). The *Straßburger
-Kirchenampt* of 1525 (mediating) said that oil, chrism and "the enchanted water" were no longer
-used at baptism, because the people trusted in them (Sehling 20, p. 153). Luther's Saxon
+Kirchenampt* of 1525 (Moderate Reformed) said that oil, chrism and "the enchanted water" were no
+longer used at baptism, because the people trusted in them (Sehling 20, p. 153). Luther's Saxon
 visitors in 1528 would not quarrel over the chrism: "the right chrism, with which all Christians
 are anointed by God himself, is the Holy Ghost" (Sehling 1, p. 158).
 
@@ -4833,8 +4838,8 @@ congregation.
 
 - **Lutheran consistories.** In the Lutheran territories the consistory decided and the pastor
   pronounced. The consistory was a court of theologians and jurists acting for the prince.
-- **Hesse (Ziegenhain 1539)** (mediating). Hesse set elders beside the pastor, and the ban was
-  pronounced before them "and for the time being not before the whole congregation"
+- **Hesse (Ziegenhain 1539)** (Moderate Reformed). Hesse set elders beside the pastor, and the
+  ban was pronounced before them "and for the time being not before the whole congregation"
   (Sehling 8, p. 108).
 - **The Reformed.** In the Reformed orders the power lay "not with one or several ministers" but
   with the whole congregation, exercised through elders: the Palatinate 1563
@@ -5320,9 +5325,10 @@ reverse:
 
 The same pattern, with local variations, appears in:
 
-- **Hesse** (mediating). The *Ziegenhainer Zuchtordnung* of 1539 introduced elders, and its ban
-  was pronounced before pastor and elders. The Hesse order of 1566 required the banned sinner to
-  do penance "before the whole congregation which he had offended" (Sehling 8, p. 212).
+- **Hesse** (Moderate Reformed). The *Ziegenhainer Zuchtordnung* of 1539 introduced elders, and
+  its ban was pronounced before pastor and elders. The Hesse order of 1566 required the banned
+  sinner to do penance "before the whole congregation which he had offended"
+  (Sehling 8, p. 212).
 - **The Palatinate 1563** (Reformed). Exclusion from the sacraments was to lie "not in the power
   of one or several ministers or other persons, but with a whole Christian congregation". Elders
   admonish three times and then separate the offender by forbidding the sacraments
@@ -5893,9 +5899,9 @@ tonsure nor deacon's robe, yet was a deacon, as is written in Acts 6 and 1 Timot
 **Old-believing clergy ordered to let it grow.** Where priests and monks remained, the
 magistrates forbade them the tonsure as a mark of the papal clergy. The Saxon visitors at the
 collegiate church of Altenburg in 1533 ordered the canons "to abstain from the offensive papal
-dress and tonsure" (Sehling 1, p. 515). Esslingen in 1532 (mediating) laid a fine of ten florins
-on any chaplain or religious who had his crown shaved. **Esslingen, *Mandat für die altgläubigen
-Geistlichen*, 10 August 1532** (mediating; Sehling 17/2, p. 371):
+dress and tonsure" (Sehling 1, p. 515). Esslingen in 1532 (Moderate Reformed) laid a fine of ten
+florins on any chaplain or religious who had his crown shaved. **Esslingen, *Mandat für die
+altgläubigen Geistlichen*, 10 August 1532** (Moderate Reformed; Sehling 17/2, p. 371):
 
 <!-- doc 876 -->
 > Deßgleichen will ir ersam weißheit, das hinfüro kheiner derselbigen caplen, auch die
@@ -5928,13 +5934,13 @@ execration when a church was profaned. What they give are orders to remove altar
 chapels decently and by authority, and to turn the material and the vessels to the use of the
 parish, the common chest and the poor.
 
-**Orderly removal.** Strasbourg in 1525 (mediating) forbade any burgher, cleric or layman, to
-remove or break "images, altars, panels, iron or stonework" on his own authority; anyone with a
-grievance was to bring it to the council (Sehling 20/1, p. 166). The Saxon visitors at Saalfeld
-in 1533 ordered the council to clear the churches of their screens, candles, banners and images
-and of all altars but one, to put pews in their place, to close the minster and pull down a
-chapel, using its stone and timber for the bridge. **Saalfeld, visitation order, 1533**
-(Sehling 1, p. 654):
+**Orderly removal.** Strasbourg in 1525 (Moderate Reformed) forbade any burgher, cleric or
+layman, to remove or break "images, altars, panels, iron or stonework" on his own authority;
+anyone with a grievance was to bring it to the council (Sehling 20/1, p. 166). The Saxon
+visitors at Saalfeld in 1533 ordered the council to clear the churches of their screens,
+candles, banners and images and of all altars but one, to put pews in their place, to close the
+minster and pull down a chapel, using its stone and timber for the bridge. **Saalfeld,
+visitation order, 1533** (Sehling 1, p. 654):
 
 <!-- doc 125 -->
 > Derwegen sol ein erbar rat alle gitter, kerzen, fanen, abgottische bildnus und hindernus und
@@ -5977,14 +5983,14 @@ unworthy of office was deposed by sentence of the superintendent, synod or consi
 sentence was announced to the congregation. Wittenberg in 1542 removed from office a minister
 put in the ban (§16.2).
 
-**Hesse 1566** (mediating). Hesse gives the fullest procedure, under the heading "How ministers
-of the church shall be removed from office". For negligence: admonition by the elders, then
-sharper warning by the superintendent, then sentence before several pastors or in the synod,
-after which the deposed man must leave the parsonage. For a public scandal: immediate inquiry by
-the superintendent with neighbouring pastors, and sentence whether the accused is present or
-not. In both cases the sentence is read in his church on the next Sunday by another pastor, who
-bids the people pray for a new minister. **Hesse, *Kirchenordnung*, 1566**
-(mediating; Sehling 8, pp. 211–212):
+**Hesse 1566** (Moderate Reformed). Hesse gives the fullest procedure, under the heading "How
+ministers of the church shall be removed from office". For negligence: admonition by the elders,
+then sharper warning by the superintendent, then sentence before several pastors or in the
+synod, after which the deposed man must leave the parsonage. For a public scandal: immediate
+inquiry by the superintendent with neighbouring pastors, and sentence whether the accused is
+present or not. In both cases the sentence is read in his church on the next Sunday by another
+pastor, who bids the people pray for a new minister. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, pp. 211–212):
 
 <!-- doc 2257 -->
 > So derhalben ein diener der kirchen durch großen unfleiß in seinem ampt oder offentlicher
@@ -7192,8 +7198,8 @@ numbers refer to this guide.
 | Nuremberg, Dietrich's *Agendbüchlein* 1545 | exorcism glossed as prayer (4.1); the dying (8.4); the condemned (8.6); funerals (9.1) | — |
 | Brandenburg-Ansbach-Kulmbach | marriage, Hof 1592 (7.4); dedication of 1572, its yearly festival and the school dedication of 1546, Hof 1592 (14.3) | exorcism mitigated 1591–1594 (4.3) |
 | Württemberg 1536 and 1553 | baptism (3.5); visitation of the sick (8.2); marriage and the wreath (7.6); investiture of prelates (11.3) | exorcism (3.5) |
-| Strasbourg 1525 and 1537 (mediating) | baptism (3.5); marriage with the impediments asked thrice (7.3) | exorcism (3.5); oil and chrism, 1525 (15.4) |
-| Hesse (mediating) | confirmation, Ziegenhain 1539 (6.2); ordination of elders and deacons 1566 (12.1); deposition of ministers 1566 (19.3); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
+| Strasbourg 1525 and 1537 (Moderate Reformed) | baptism (3.5); marriage with the impediments asked thrice (7.3) | exorcism (3.5); oil and chrism, 1525 (15.4) |
+| Hesse (Moderate Reformed to 1566; Philippist, 1574) | confirmation, Ziegenhain 1539 (6.2); ordination of elders and deacons 1566 (12.1); deposition of ministers 1566 (19.3); ordination, Agende 1574 (10.5) | dedications, Homberg 1526 (14.1) |
 | Calenberg-Göttingen 1542 | confirmation (6.3) | blessings of salt, water, herbs, palms, *Fladen* (15.1) |
 | Mansfeld 1554 and 1580 | godparents (3.8); churching as thanksgiving (5.2); confirmation (6.5); funerals (9.4); ban, open penance and absolution (16.5) | — |
 | Pomerania 1569 | exorcism (4.1); prayer over the possessed (8.7) | — |
@@ -7208,7 +7214,7 @@ numbers refer to this guide.
 | Electoral Brandenburg 1573 | remarriage of the innocent divorced party (7.10) | — |
 | Pfalz-Zweibrücken 1539 | visitation of the sick by James 5 (8.1) | the oil of the sick (8.1) |
 | Lippe 1538 | the gospel in place of the last oil (8.1) | extreme unction (8.1) |
-| Esslingen 1532 (mediating) | — | the tonsure (19.1) |
+| Esslingen 1532 (Moderate Reformed) | — | the tonsure (19.1) |
 | Saalfeld 1533 | — | altars, images, a chapel (19.2) |
 | Grubenhagen 1581 | lesser and greater ban (16.1); absolution from the ban (16.6) | — |
 | Micron's *Ordinancien* 1554 (East Frisia 1565) (Reformed) | installation of elders and deacons (12.1); Reformed excommunication and readmission (16.7) | — |
@@ -7216,12 +7222,12 @@ numbers refer to this guide.
 | Leisnig 1529 | election of churchwardens (12.4) | — |
 | Lüneburg 1564 | appointment of midwives (12.5) | — |
 | Mulhouse 1551 (Reformed) | the schoolmaster's oath (12.3) | — |
-| Gengenbach 1536 (mediating) | the schoolmaster's appointment (12.3) | — |
+| Gengenbach 1536 (Moderate Reformed) | the schoolmaster's appointment (12.3) | — |
 | Hildesheim 1581 | the organist's contract (12.3) | — |
-| Strasbourg 1523 (mediating) | the oath of the steward of the poor (12.4) | — |
-| Strasbourg 1531 (mediating) | appointment of *Sigristen* (12.2) | — |
+| Strasbourg 1523 (Moderate Reformed) | the oath of the steward of the poor (12.4) | — |
+| Strasbourg 1531 (Moderate Reformed) | appointment of *Sigristen* (12.2) | — |
 | Sayn 1590 | surety for the bell-ringer who keeps the vessels (12.2) | — |
-| Anhalt 1594 (mediating) | the sexton's yearly appointment (12.2) | — |
+| Anhalt 1594 (Philippist) | the sexton's yearly appointment (12.2) | — |
 | Nördlingen 1544 | examination of the sick-women by the pastor (12.6) | — |
 | Heilbronn 1531 | the beguines' troth and instruction (12.6) | — |
 | Nassau-Dillenburg, Keppel 1570 | clothing of a nun with questions, oath, sermon and exhortation (12.7); election, oath and presentation of the *domina* (12.8) | binding vows; the convent as a prison (12.7) |
@@ -7230,7 +7236,7 @@ numbers refer to this guide.
 | Schleswig-Holstein after 1610 | election of abbess and prioress under oath; the sisters' oath of obedience (12.8) | — |
 | Württemberg 1535 and 1552 | — | admission of monks, nuns, beguines and Lollards; novices' vows (12.7, 12.9) |
 | Goslar, Frankenberg 1542 | — | admission to the habit (12.7, 12.9) |
-| Esslingen 1535 (mediating) | settlement or maintenance of the friars (12.9) | — |
+| Esslingen 1535 (Moderate Reformed) | settlement or maintenance of the friars (12.9) | — |
 | Pfalz-Simmern, Ravengiersburg 1560 | reception of novices as scholars; the stipendiary's obligation (12.9) | — |
 | Brunswick-Wolfenbüttel 1569 | words for laying aside the habit (12.10) | — |
 | Schwäbisch Hall 1543/1615 | council-election sermon (13.1) | consecration of churchyards (14.1) |
@@ -7295,8 +7301,8 @@ through the table in §23 and the text.
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, pp. 799, 812 | 15.1, 22.4 |
 | Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | 8.2, 16.2 |
 | Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | 6.1, 10.1 |
-| Esslingen (mediating) | *Mandat für die altgläubigen Geistlichen* | 10 August 1532 | 17/2, p. 371 | 19.1 |
-| Gengenbach (mediating) | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | 12.3 |
+| Esslingen (Moderate Reformed) | *Mandat für die altgläubigen Geistlichen* | 10 August 1532 | 17/2, p. 371 | 19.1 |
+| Gengenbach (Moderate Reformed) | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | 12.3 |
 | Goslar | *Bericht der Stadt Nürnberg für den Goslarer Rat* | 30 March 1528 | 7/2.2, p. 232 | 20.4 |
 | Grubenhagen | *Kirchenordnung* | 1544 | 6/2, p. 1033 | 22.1 |
 | Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1052, 1058 | 16.1, 16.6 |
@@ -7306,10 +7312,10 @@ through the table in §23 and the text.
 | Heilbronn | *Instruktion zur Zusammenlegung beider Beginenhäuser* | 8 December 1531 | 17/1, p. 298 | 12.6 |
 | Henneberg | *Kirchenordnung* | of Georg Ernst, 1582 | 2, pp. 304–305 | 4.3 |
 | Herford | *Kirchenordnung* | 1532 | 21, p. 192 | 7.4 |
-| Hesse (mediating) | *Reformatio ecclesiarum Hassiae* | (Homberg), 1526 | 8, p. 50 | 14.1 |
-| Hesse (mediating) | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | 6.2 |
-| Hesse (mediating) | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | 12.1, 19.3 |
-| Hesse (mediating) | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
+| Hesse (Moderate Reformed) | *Reformatio ecclesiarum Hassiae* | (Homberg), 1526 | 8, p. 50 | 14.1 |
+| Hesse (Moderate Reformed) | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | 6.2 |
+| Hesse (Moderate Reformed) | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | 12.1, 19.3 |
+| Hesse (Philippist) | *Agende* | 1574 | 8, pp. 454–455 | 10.5 |
 | Hildesheim | *Christlike kerckenordeninge* | 1544 | 7/2.1, p. 853 | 21.7 |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | 12.3 |
 | Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 439, 455, 463, 464, 467 | 14.3, 18.4, 21.3, 22.1 |
@@ -7347,7 +7353,7 @@ through the table in §23 and the text.
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | 15.1 |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570 | 10, pp. 138, 139, 141 | 12.7 |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570, "Eydt der dominae" | 10, pp. 141–142 | 12.8 |
-| Nassau-Dillenburg (mediating) | *Agende* | 1575 | 10, p. 150 | 4.4 |
+| Nassau-Dillenburg (Philippist) | *Agende* | 1575 | 10, p. 150 | 4.4 |
 | Naumburg | *Kirchen-Ordnung für die St. Wenzelskirche* | 1537/1538 | 2, p. 71 | 21.2 |
 | Nuremberg | *Die Nürnberger 23 Lehrartikel* | 1528 | 11, p. 134 | 20.3 |
 | Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 498, 506, 522, 528, 531–532 | 4.1, 8.4, 8.6, 9.1, 20.5, 22.2 |
@@ -7384,10 +7390,10 @@ through the table in §23 and the text.
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 166, 175 | 13.1, 14.1, 22.6 |
 | Stendal | *Ordinance of the visitors of the Mark Brandenburg* | 1541 | 3, p. 314 | 18.4 |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | 4.1 |
-| Strasbourg (mediating) | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | 3.2 |
-| Strasbourg (mediating) | *Agende* | 1537 | 20/1, pp. 263–264, 269 | 3.5, 7.3 |
+| Strasbourg (Moderate Reformed) | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | 3.2 |
+| Strasbourg (Moderate Reformed) | *Agende* | 1537 | 20/1, pp. 263–264, 269 | 3.5, 7.3 |
 | Strasbourg | *Kirchenordnung* | 1598 | 20/1, p. 592 | 18.4 |
-| Strasbourg (mediating) | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | 12.4 |
+| Strasbourg (Moderate Reformed) | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | 12.4 |
 | Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | 20.3 |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | 5.1 |
 | Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | 20.3, 20.5 |

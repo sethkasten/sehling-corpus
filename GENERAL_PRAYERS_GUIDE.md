@@ -158,7 +158,7 @@ Also included, as orders that *prescribe the contents* in indirect speech:
   of Henneberg, Strasbourg 1598 and Kurpfalz 1563 (Reformed).
 - **Orders that only mention the prayer, or give it by reference:**
   - Strasbourg 1577;
-    - Hessen 1574 (mediating);
+    - Hessen 1574 (Philippist);
   - Mecklenburg 1552;
   - Sponheim 1590;
     - Emden 1594 (Reformed; free prayer);
@@ -201,8 +201,8 @@ sheet are real local changes. Examples:
 | C | Strasbourg-type bidding exhortation: Hanau-Lichtenberg 1573 | 1 |
 | D | Nürnberg *Vermahnung zum Gebet*: Veit Dietrich 1545 | 5 |
 | E | Saxon *Gemein Gebet*: Leipzig 1567 (Pfeffinger) | 1 |
-| F | Upper German pulpit intercession: Augsburg 1537 (mediating) | 1 |
-| G | Hessian *Vermanung zum Gebet*: 1566 (mediating) | 1 |
+| F | Upper German pulpit intercession: Augsburg 1537 (Moderate Reformed) | 1 |
+| G | Hessian *Vermanung zum Gebet*: 1566 (Moderate Reformed) | 1 |
 | H | Bugenhagen pulpit exhortation: Braunschweig 1528 | 3 |
 | I | Huberinus *Vorbitt*: Öhringen 1544 | 1 |
 | J | Lower Saxon *notel*: Lüneburg 1564 | 3 |
@@ -217,8 +217,8 @@ sheet are real local changes. Examples:
 **Traditions.** The witnesses are Lutheran except for these, whose tradition follows the
 inventory in [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3, and is recorded in
 `witnesses.tradition`:
-- F, Augsburg 1537: mediating (the Upper German, Bucerian city before the Interim);
-- G, Hessen 1566: mediating (Philip of Hesse's church);
+- F, Augsburg 1537: Moderate Reformed (the Upper German, Bucerian city before the Interim);
+- G, Hessen 1566: Moderate Reformed (Philip of Hesse's church, which bore Bucer's stamp);
 - M, Norden 1528: an early East Frisian evangelical order, which Sehling prints among the
   Reformed orders of East Frisia;
 - R1–R4: Reformed. Schaumburg 1614, in R1, is a Lutheran order that borrows the Heidelberg
@@ -507,7 +507,7 @@ place)".
   - R1 (Heidelberg), including the Lutheran Schaumburg 1614, which borrows
     the Heidelberg prayer;
     - R3 (Calvin);
-  - Augsburg 1537 (mediating).
+  - Augsburg 1537 (Moderate Reformed).
 - **The Word and its fruit is named in almost every family except the
   Brenz/Württemberg line.** There it is folded into the petition for the
   Church. Only two witnesses of that line add it:
@@ -529,7 +529,7 @@ place)".
   - the Mass intercessions (L);
     - Calvin, à Lasco and the Heidelberg paraphrase (all Reformed);
   - Veit Dietrich's exhortation (Nürnberg 1545 and Waldeck 1556);
-    - Osnabrück, Magdeburg, Leipzig, Hessen (mediating), Worms and Norden (Reformed).
+    - Osnabrück, Magdeburg, Leipzig, Hessen (Moderate Reformed), Worms and Norden (Reformed).
 - **Brandenburg 1540 and its followers (family L) put the intercessions in
   the Mass under the Sanctus.** These are collects for the ministers, the
   magistrates and peace, standing where the Roman Canon had its prayers of

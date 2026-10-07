@@ -4,7 +4,14 @@ For Corpus guide see `CORPUS_GUIDE.md`
 
 For DB guide see `DB_GUIDE.md`
 
-For an inventory of every order in the set (2,581 texts, volume by volume and territory by territory, with Sehling's number, title, date, page and `eko.db` document; the kind of order, from church orders and agendas to visitation orders, mandates and marriage, school and poor-law orders; the confessional tradition of each, Lutheran, Reformed, moderate or mediating (Bucerian, Upper German, Philippist), Anglican (the English exile congregation at Frankfurt) and Hussite (the Bohemian Brethren in Greater Poland), with the Sandomierz consensus, the Erasmian Jülich orders and the Transylvanian diets; the dates at which territories changed tradition; and the few Interim orders Sehling printed, with those he only described), see `CHURCH_ORDERS_GUIDE.md`
+For an inventory of every order in the set (2,581 texts, volume by volume and territory by
+territory, with Sehling's number, title, date, page and `eko.db` document; the kind of order,
+from church orders and agendas to visitation orders, mandates and marriage, school and poor-law
+orders; the confessional tradition of each, Lutheran, Reformed, Moderate Reformed (Bucerian and
+Upper German), Philippist, Anglican (the English exile congregation at Frankfurt) and Hussite
+(the Bohemian Brethren in Greater Poland), with the Sandomierz consensus, the Erasmian Jülich
+orders and the Transylvanian diets; the dates at which territories changed tradition; and the
+few Interim orders Sehling printed, with those he only described), see `CHURCH_ORDERS_GUIDE.md`
 
 For Hymn tables guide see `HYMN_GUIDE.md`
 
