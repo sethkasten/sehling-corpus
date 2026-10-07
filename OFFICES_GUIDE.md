@@ -114,8 +114,8 @@ The guide asks:
   Lüneburg convents keep all seven (1555, 1574), with a corrected Breviary of their own, the
   *Emendatio Breviarii virginum* of 1555. Keppel in Nassau (1570) kept all seven hours in
   German.
-- **Breslau** (1550), where the choralists still sang the hours of the Passion and of the
-  Visitation on weekday mornings.
+- **Breslau** (a report of 1557), where the choralists still sang the hours of the Passion and
+  of the Visitation on weekday mornings.
 
 **3. Where the system was cut down** (§5).
 - **In the parishes.** Most town orders follow Bugenhagen (Braunschweig 1528, Hamburg 1529,
@@ -613,9 +613,10 @@ Luneburgensi* of the same year, a revised Benedictine Breviary for the nuns. It 
 be "read and sung piously" and what may be "omitted without any scruple of conscience"
 (Sehling 6/1, p. 624).
 
-**Breslau, 1550.** In the Lutheran city of Breslau the choralists still sang Little Hours of the
-medieval type every weekday morning: "the hours of the Passion of the Lord", and on Fridays "the
-hours of the Visitation of the Blessed Virgin Mary", before the Mass (Sehling 3, p. 405).
+**Breslau, 1557.** A report of 1557 on the order of the Breslau churches says that in the
+Lutheran city the choralists still sang Little Hours of the medieval type every weekday morning:
+"the hours of the Passion of the Lord", and on Fridays "the hours of the Visitation of the
+Blessed Virgin Mary", before the Mass (Sehling 3, p. 405).
 
 ---
 
@@ -2273,10 +2274,10 @@ prayer; B = blessing; V = set within Vespers.
 | Quakenbrück (Bonnus), 1543 | 7/1 | All | canons, scholars | L | |
 | Merseburg synod, 1544 | 2 | — | pastors | — | exhorted to daily prayer and psalter |
 | Zwickau, 1545 | 1 | hospital hours abolished | preacher with the poor | G | psalm and lesson daily |
-| Breslau, 1550 | 3 | hours of the Passion; Friday hours of the Visitation | choralists | L | |
 | Lüneburg convents, 1555 | 6/1 | All | nuns | L | corrected Breviary (*Emendatio*) |
 | Senftenberg, 1555 | 1 | M+V daily; Sunday Matins | school | L, lesson in G | German responsory |
 | Öhringen chapter, 1556 | 15 | All | canons | L | |
+| Breslau, 1557 (report) | 3 | hours of the Passion; Friday hours of the Visitation | choralists | L | |
 | Württemberg cloister schools, 1559 | 16 | *preces*; morning and evening office | students | L | psalter in course; *Benedictus* / *Quicunque* alternately |
 | Tübingen Stipendium, 1559 | 17/1 | morning and evening psalms | stipendiaries | ? | psalter recited in course |
 | Mecklenburg, *Conformitas*, c. 1560 | 5 | — | choir | — | Lossius's *Psalmodia* required |
@@ -2389,9 +2390,9 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Salzwedel-Altstadt, *Ordnung und Abschied*, 1541 | 3, p. 267 | 1778 | 6.2 |
 | Crevese nunnery, recess, 1541 | 3, p. 203 | 1762 | 7.5 |
 | Pomerania, *Karcken ordening*, 1542 | 4, p. 354 | 1858 | 7.5 |
-| Breslau, order of 1550 | 3, p. 405 | 1807 | 4.4 |
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, pp. 196, 200 | 1922 | 5.1, 10.2, 10.3, 10.7 |
 | Danzig, *Kirchenordnung*, 1557 | 4, p. 181 | 1844 | 7.5 |
+| Breslau, report on the order of the churches, 1557 | 3, pp. 404–405 | 1807 | 4.4 |
 | Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, pp. 288, 289 | 1936 | 9.2, 10.2, 10.7 |
 | Pomerania, *Kerckenordeninge*, 1569 | 4, pp. 384–385 | 1862 | 10.2, 10.5 |
 | Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 257–259 | 1926 | 5.1, 7.1, 7.5, 8.2 |
