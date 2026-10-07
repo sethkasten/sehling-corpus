@@ -7,6 +7,7 @@ from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
 from resolve import by_occasion
+from editorial import EDITORIAL
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DB  = os.path.join(HERE, '..', 'hymns.db')
@@ -148,6 +149,8 @@ def main():
         ('The same hymn can appear under variant English titles ("Bless" vs "Praise thy Maker") and will not always group.', BODY),
         ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns.', BODY),
         ('Thompson\'s column collates Ludecus with twelve other 16th-c. lists and cannot be deduplicated against the Ludecus rows.', BODY),
+        ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
+         '(Quasimodogeniti, Maundy Thursday, Easter Monday, Pentecost Monday). It is not a witness and is not counted.', BODY),
         ('', BODY),
         ('See HYMN_GUIDE.md in the repository for the full account.', BODY),
     ]
@@ -172,9 +175,12 @@ def main():
     # ---------------- Compare by day ----------------
     last_data = len(rows) + 1          # last row of 'All prescriptions'
     ws = wb.create_sheet('Compare by day', 1)
-    heads = ['Occasion','Hymn','English title','Witnesses','Who']
+    heads = ['Occasion','Hymn','English title','Witnesses','Who','Editorial']
     ws.append(heads)
     by = collections.defaultdict(lambda: collections.defaultdict(set))
+    edit = {(o, h) for o, h, _n in EDITORIAL}
+    for o, h, _n in EDITORIAL:      # an assigned hymn is listed even without a witness
+        by[o][h]
     eng = {}
     for r in rows:
         by[r['occ']][r['ident']].add(r['wit'])
@@ -193,18 +199,20 @@ def main():
             # except Excel itself.
             ws.cell(row=rownum, column=4, value=len(wits))
             ws.cell(row=rownum, column=5, value='; '.join(sorted(wits)))
-            for col in range(1, 6):
+            if (occ, ident) in edit:
+                ws.cell(row=rownum, column=6, value='Assigned')
+            for col in range(1, 7):
                 cell = ws.cell(row=rownum, column=col)
-                cell.font = BOLD if (col <= 2 and len(wits) >= 3) else BODY
+                cell.font = BOLD if (col <= 2 and (len(wits) >= 3 or (occ, ident) in edit)) else BODY
                 cell.alignment = Alignment(vertical='top', wrap_text=(col == 5))
                 cell.border = Border(bottom=THIN)
                 if band: cell.fill = ALT_FILL
             rownum += 1
     style_header(ws, len(heads))
     ws.freeze_panes = 'C2'          # keep occasion and hymn in view while reading Who
-    for w, col in zip([30, 40, 38, 11, 78], 'ABCDE'):
+    for w, col in zip([30, 40, 38, 11, 78, 12], 'ABCDEF'):
         ws.column_dimensions[col].width = w
-    ws.auto_filter.ref = f'A1:E{ws.max_row}'
+    ws.auto_filter.ref = f'A1:F{ws.max_row}'
 
     # ---------------- Matrix ----------------
     ws = wb.create_sheet('Matrix', 2)

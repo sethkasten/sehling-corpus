@@ -104,6 +104,8 @@ _EN_ALIAS_SRC = {
  'Lord God, we all to Thee give praise': 'Herr Gott, dich loben alle wir',
  'Lord God, we all to Thee give': 'Herr Gott, dich loben alle wir',
  'Lord God, to Thee We Give All Praise': 'Herr Gott, dich loben alle wir',
+ 'O sons and daughters of the King': 'O filii et filiae',
+ 'Ye Sons and Daughters of the King': 'O filii et filiae',
  'Since Adam’s age, so long have we': 'Von Adam her so lange Zeit',
  'Blessed Is the Man Who Walketh Not': 'Wohl dem Menschen, der wandelt nicht',
  'O Darkest Woe': 'O Traurigkeit, o Herzeleid',

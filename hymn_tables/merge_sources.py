@@ -10,7 +10,7 @@ counted three times.
 import json, os, sys, re, sqlite3, collections
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import bridge
+import bridge, lexicon
 from resolve import norm, by_occasion
 
 FILES = ['rows_liliencron.json', 'rows_ludecus.json', 'rows_hotd.json', 'rows_selnecker.json']
@@ -88,10 +88,20 @@ def main():
     for m in rows:
         t = m['identity']
         if t.startswith(('DE:', 'EN:')) or t in have or t in new: continue
-        new[t] = (t, m['literal'], m['common'], 'German')
+        new[t] = (t, m['literal'], m['common'], 'Latin' if t in lexicon.LATIN_EN else 'German')
     c.executemany('INSERT OR IGNORE INTO hymns VALUES (?,?,?,?)', list(new.values()))
+    # editorial assignments for days the witnesses leave open (not prescriptions)
+    from editorial import EDITORIAL
+    from resolve import resolve
+    c.execute('CREATE TABLE editorial_assignments (occasion TEXT, canonical_title TEXT '
+              'REFERENCES hymns(canonical_title), note TEXT)')
+    c.executemany('INSERT INTO editorial_assignments VALUES (?,?,?)', EDITORIAL)
+    for _occ, t, _note in EDITORIAL:
+        canon, lit, com, _alt, ok = resolve(t)
+        assert ok and canon == t, t
+        c.execute('INSERT OR IGNORE INTO hymns VALUES (?,?,?,?)',
+                  (t, lit, com, 'Latin' if t in lexicon.LATIN_EN else 'German'))
     # provenance of the English titles taken from Matthew Carver's translations
-    import lexicon
     present = {r[0] for r in c.execute('SELECT canonical_title FROM hymns')}
     c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)',
                   [(k, 'common_english', t, 1, f'matthew_carver_translation ({src})')

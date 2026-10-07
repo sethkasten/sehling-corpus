@@ -34,6 +34,7 @@ CANON = [
  ('Beata nobis gaudia',          [r'beata\s+nobis']),
  ('Chorus novae Ierusalem',      [r'chorus\s+nov[ae]+']),
  ('Puer natus in Bethlehem',     [r'puer\s+natus']),
+ ('O filii et filiae',          [r'o\s+filii\s+et\s+filiae']),
 ]
 
 def canon(s):
