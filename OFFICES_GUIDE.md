@@ -62,6 +62,20 @@ The guide asks:
     on, following the digitized volumes.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     Where a passage is Sehling's own introduction or apparatus, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
+    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
+    Cologne order, and the Philippist churches of Bremen and Colmar.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Strasbourg is mediating until the Interim of 1548 and Lutheran after it, and
+    Kurpfalz Lutheran in 1556 and Reformed from 1563.
+  - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
+    (`CHURCH_ORDERS_GUIDE.md`, §4).
 
 ---
 
@@ -186,23 +200,24 @@ The guide asks:
 - **When.** Usually Sunday at noon or one o'clock (Mecklenburg 1552; Neckarbischofsheim 1560;
   Lippe 1571); sometimes early in the morning (Schwäbisch Hall 1543), inside Vespers (Naumburg
   1537; Sangerhausen 1555; Thorn 1575), or as a recitation of the bare text in the morning
-  service (Strasbourg 1548; Palatinate 1563; Saxony 1580).
-- **How long.** Half an hour for the exposition or the examination (Hesse 1566; Thorn 1575;
-  Emden 1565; Palatinate 1601), an hour at most for the whole (Rostock c. 1560; Hohenlohe 1596).
+  service (Strasbourg 1548, mediating, on the Interim; Palatinate 1563, Reformed; Saxony 1580).
+- **How long.** Half an hour for the exposition or the examination (Hesse 1566, mediating; Thorn
+  1575; Emden 1565 and Palatinate 1601, Reformed), an hour at most for the whole (Rostock c.
+  1560; Hohenlohe 1596).
 - **The order.** Bell; a catechism hymn; the Our Father or a prayer; the text of the chief parts
   said by the pastor or recited by boys; one part expounded in course; the children examined by
   question and answer; a prayer, often for the children; hymn and blessing (Neckarbischofsheim
-  1560; Hesse 1566; Lippe 1571).
+  1560; Hesse 1566, mediating; Lippe 1571).
 - **The Reformed form.** The Heidelberg Catechism was divided into Sundays; the youth recited
   the portion and the minister expounded the next, preaching it through yearly (Palatinate
-  1563). Hanau (1609) examined the young in five classes, and kept the adults back behind shut
-  doors.
+  1563). Hanau (1609, Reformed) examined the young in five classes, and kept the adults back
+  behind shut doors.
 
 **9. Ceremonial** (§11). The orders prescribe little for the body in the office.
 - **Kneeling** is the one gesture they ask for: for the short *preces* after the gospel canticle
   (Bremen 1534), for *Veni sancte Spiritus* and *Da pacem* at Vespers (Pomerania 1569), for the
   closing collects (Stolberg-Königstein 1552), and at the opening of the Reformed morning and
-  evening prayer (Palatinate 1563, softened to "humble ourselves" in 1601).
+  evening prayer (Palatinate 1563, Reformed, softened to "humble ourselves" in 1601).
 - **The Litany** was sung by two to four boys kneeling before the altar, the choir and people
   answering (Schwarzburg 1574; Waldeck 1556; Marggrabowa 1581).
 - **The choir** sang from stalls set facing, verse about verse (Mecklenburg convents 1572); the
@@ -831,8 +846,9 @@ causes, and not out of sloth or idleness, for some years been left off and not k
   castle "instead of such hours, since no one or very few are bettered by them". The Matins he
   then gives begins with "*Deus in adjutorium* in Latin" and has "*Venite*, 4 psalms in German"
   (Sehling 2, p. 170).
-- **Mülhausen 1524**: Sehling's introduction notes that the council left the singing of Matins,
-  Terce and Sext to the chaplains' discretion but kept None and Vespers (Sehling 20/2, p. 163).
+- **Mülhausen 1524** (Reformed): Sehling's introduction notes that the council left the singing
+  of Matins, Terce and Sext to the chaplains' discretion but kept None and Vespers
+  (Sehling 20/2, p. 163).
 
 ---
 
@@ -1756,13 +1772,14 @@ Thorn (1575, Sehling 4, pp. 236, 238).
 
 **The length.** The orders that set a length give **half an hour** for the exposition or the
 examination, and **an hour** at most for the whole:
-- Hesse (1566): the youth "is questioned and taught in the catechism about half an hour" every
-  Sunday (Sehling 8, p. 252);
-- the Palatinate (1601): "some questions … expounded for half an hour" (Sehling 14, p. 558);
+- Hesse (1566, mediating): the youth "is questioned and taught in the catechism about half an
+  hour" every Sunday (Sehling 8, p. 252);
+- the Palatinate (1601, Reformed): "some questions … expounded for half an hour"
+  (Sehling 14, p. 558);
 - Thorn (1575): "half a little hour" of catechism preaching between the hymn and the
   *Magnificat* at Sunday Vespers (Sehling 4, p. 238);
-- Emden (Micron, 1565): the children examined "when the minister hath preached half an hour"
-  (Sehling 7/1, p. 606);
+- Emden (Micron, 1565, Reformed): the children examined "when the minister hath preached half an
+  hour" (Sehling 7/1, p. 606);
 - Rostock (c. 1560): the midday sermon on the catechism "shall not last over an hour"
   (Sehling 5, p. 289);
 - Hohenlohe (1596): the whole act, sermon read, examination, summary, hymn, prayer and blessing,
@@ -1772,8 +1789,8 @@ Veit Dietrich's Nürnberg *Agendbüchlein* (1545) joins a catechism sermon, read
 book, to the Litany on the one weekday when the people met, "so that this be ended in about half
 an hour at the longest, and the people come again to their work" (Sehling 11, p. 504).
 
-**The season.** Nassau-Dillenburg (1575) held the Sunday afternoon *Kinderlehre* only "from
-Whitsun until Michaelmas", with a weekday hour through the whole year in the towns
+**The season.** Nassau-Dillenburg (1575, mediating) held the Sunday afternoon *Kinderlehre* only
+"from Whitsun until Michaelmas", with a weekday hour through the whole year in the towns
 (Sehling 10, p. 148). At Obermaßfeld (Henneberg, 1563) the pastor took the Passion history
 instead of the catechism in Lent, and gave the children questions on the Passion
 (Sehling 2, p. 343). Limpurg (1610) let the catechism sermon and the children's recitation fall
@@ -1862,9 +1879,9 @@ saith: Let us thank God the Lord with the song of praise. Hereupon the schoolmas
 in his stead, singeth the last stanza of the hymn *Herr Gott, dein Treu mit Gnaden leist*.
 Thereafter the pastor stepeth before the altar and giveth the blessing.
 
-**Hesse, 1566: two kinds of hearer.** The Hessian order gives the fullest Lutheran rationale,
+**Hesse, 1566: two kinds of hearer.** The Hessian order (mediating) gives the fullest rationale,
 and divides the exposition between "the children and simple" and those who have grasped the
-text. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, pp. 251–252):
+text. **Hesse, *Kirchenordnung*, 1566** (mediating; Sehling 8, pp. 251–252):
 
 <!-- doc 2257 -->
 > Wenn nun die gemeine zum catechismo kommen, werden diese ding nacheinander verrichtet:
@@ -1900,9 +1917,9 @@ go.
 Between the recitation and the examination came the sermon, divided into two parts: first "with
 short and understandable words" for the children and simple, then "with proofs of the sayings of
 holy Scripture" for those who had the text already (Sehling 8, pp. 251–252). Where the people
-met only once on Sunday afternoon, Hesse folded the catechism into the afternoon service: psalm,
-epistle, its exposition, the catechism read, one part expounded, the children questioned, a
-psalm and the blessing (Sehling 8, p. 253).
+met only once on Sunday afternoon, Hesse (mediating) folded the catechism into the afternoon
+service: psalm, epistle, its exposition, the catechism read, one part expounded, the children
+questioned, a psalm and the blessing (Sehling 8, p. 253).
 
 **Württemberg, 1553: exposition, hearing, prayer.** The Württemberg order is briefer. It asks
 each pastor or deacon to set "a special time" on Sunday for the catechism, chiefly for the
@@ -2092,10 +2109,11 @@ part each Monday, "and begun again" (Sehling 4, p. 236).
 
 **The text before the gospel or after the sermon.** Many orders had the bare text of the
 catechism said in the morning service, so that the whole congregation heard it every Sunday:
-- **Strasbourg 1548**: after the morning sermon, which was not to run "beyond a third of an
-  hour" at the cathedral and half an hour elsewhere, "the recitation of the six *loci* of the
-  catechism ought to follow the exposition of the gospel"; at the cathedral the first three one
-  Sunday, the other three the next (Sehling 20/1, p. 355).
+- **Strasbourg 1548** (mediating; an agreement of the clergy on the Interim): after the morning
+  sermon, which was not to run "beyond a third of an hour" at the cathedral and half an hour
+  elsewhere, "the recitation of the six *loci* of the catechism ought to follow the exposition
+  of the gospel"; at the cathedral the first three one Sunday, the other three the next
+  (Sehling 20/1, p. 355).
 - **Albertine Saxony 1580**: the visitors asked whether the pastor "speak the catechism to the
   people on Sundays and holy days before the gospel is read" (Sehling 1, p. 393).
 - **Pomerania 1569**: in the villages the sexton is to read a piece of the catechism "after the
@@ -2103,8 +2121,9 @@ catechism said in the morning service, so that the whole congregation heard it e
 - **Nördlingen 1579**: on Sundays and holy days, after the epistle and its hymn, "a piece of
   Luther's catechism is read in order, and when it is ended, it shall be begun again", before
   the German Creed (Sehling 12, p. 375).
-- **The Palatinate 1563**: the minister read a portion of the catechism before every Sunday and
-  feast-day sermon, "so that it be read through in nine Sundays" (Sehling 14, p. 342).
+- **The Palatinate 1563** (Reformed): the minister read a portion of the catechism before every
+  Sunday and feast-day sermon, "so that it be read through in nine Sundays"
+  (Sehling 14, p. 342).
 
 **An early catechism service: Schwäbisch Hall, 1543.** Brenz's Hall had the catechism as the
 first service on Sunday, before the main service, on alternate Sundays examined and preached. On
@@ -2151,9 +2170,9 @@ Hohenlohe order of 1596 have the catechism sermon "read" from the printed book, 
 
 ### 10.6 The Reformed catechism service
 
-**Divided by Sundays.** The Heidelberg Catechism of 1563 was printed in Sunday divisions so that
-it could be recited and expounded in a year. Its order sets the afternoon service. **Palatinate,
-*Kirchenordnung*, 1563** (Sehling 14, p. 342):
+**Divided by Sundays.** The Reformed Heidelberg Catechism of 1563 was printed in Sunday
+divisions so that it could be recited and expounded in a year. Its order sets the afternoon
+service. **Palatinate, *Kirchenordnung*, 1563** (Reformed; Sehling 14, p. 342):
 
 <!-- doc 499 -->
 > Ferners soll alle sontagnachmittag zu der stund, die einem jeden ort gelegen ist,
@@ -2182,28 +2201,28 @@ have thus been said off by some in the presence of the congregation, the ministe
 and expound certain following questions simply and briefly, so that he preach out the catechism
 at the least once every year.
 
-The Palatine order of 1601 kept this plan but timed it: in the towns, a first afternoon service
-with prayer, the summary and the texts of the five chief parts, "some questions … expounded for
-half an hour", the examination and blessing; and a second towards evening for "the old and
-grown", more fully. In the villages the youth were examined "when the second bell hath been
-rung", and the third bell then called the whole congregation to the half-hour sermon
-(Sehling 14, p. 558).
+The Palatine order of 1601 (Reformed) kept this plan but timed it: in the towns, a first
+afternoon service with prayer, the summary and the texts of the five chief parts, "some
+questions … expounded for half an hour", the examination and blessing; and a second towards
+evening for "the old and grown", more fully. In the villages the youth were examined "when the
+second bell hath been rung", and the third bell then called the whole congregation to the
+half-hour sermon (Sehling 14, p. 558).
 
-**Classes and the doors shut: Hanau, 1609.** The Hanau order of catechisation divided the young
-into five classes, boys from six to sixteen and girls under fourteen: the Our Father, the Creed,
-the Ten Commandments, all five chief parts, and the five parts with the added questions and the
-graces at table and the morning and evening prayers (Sehling 10, p. 487). In the villages the
-pastor began "with the customary prayer and hymn", read the five chief parts and the questions
-from the pulpit, and gave a short exposition. Then "pastor, schoolmaster and bell-ringer" heard
-the classes. After a closing prayer the congregation and children went home, but those summoned
-stayed behind, men and women, sons and daughters each in their place, "and the church doors also
-shut", and the pastor read the questions to them "slowly, clearly and distinctly", they
-repeating "quietly", until they knew them (Sehling 10, p. 491).
+**Classes and the doors shut: Hanau, 1609.** The Hanau order of catechisation (Reformed) divided
+the young into five classes, boys from six to sixteen and girls under fourteen: the Our Father,
+the Creed, the Ten Commandments, all five chief parts, and the five parts with the added
+questions and the graces at table and the morning and evening prayers (Sehling 10, p. 487). In
+the villages the pastor began "with the customary prayer and hymn", read the five chief parts
+and the questions from the pulpit, and gave a short exposition. Then "pastor, schoolmaster and
+bell-ringer" heard the classes. After a closing prayer the congregation and children went home,
+but those summoned stayed behind, men and women, sons and daughters each in their place, "and
+the church doors also shut", and the pastor read the questions to them "slowly, clearly and
+distinctly", they repeating "quietly", until they knew them (Sehling 10, p. 491).
 
-**Emden: the great catechism and the examination of the little ones.** In Micron's order the
-Sunday catechism sermon on the great catechism was interrupted for the examination of the young
-children twice a year. **Emden, Micron's *Ordinancien*, German edition, 1565**
-(Sehling 7/1, p. 606):
+**Emden: the great catechism and the examination of the little ones.** In Micron's order
+(Reformed) the Sunday catechism sermon on the great catechism was interrupted for the
+examination of the young children twice a year. **Emden, Micron's *Ordinancien*, German edition,
+1565** (Reformed; Sehling 7/1, p. 606):
 
 <!-- doc 2116 -->
 > Und diß examen geschicht allezeit des Sontags offentlich zur zeit der erklärung des grossen
@@ -2239,9 +2258,9 @@ prayer; B = blessing; V = set within Vespers.
 | Sangerhausen, 1555 | 1, p. 658 | Sunday 1 p.m. (V) | Latin psalm, responsory, H, lesson, H, X, H, E at the altar, *Verleih uns Frieden*, C | — |
 | Neckarbischofsheim, 1560 | 16, p. 672 | Sunday 12 noon | bell, H, X, T, R, T (next part), E, P, H, B | — |
 | Rostock, *Conformitas*, c. 1560 | 5, p. 289 | Sunday 12 noon | psalms from 11; X; P; psalm | X ≤ 1 hour |
-| Palatinate, 1563 | 14, p. 342 | Sunday afternoon | H, P, T (Decalogue), beginners heard, R (Sunday portion), X | catechism yearly |
-| Emden (Micron), 1565 | 7/1, p. 606 | Sunday | X (great catechism), E of little children twice a year, exhortation, thanksgiving | X ½ hour |
-| Hesse, 1566 | 8, pp. 251–253 | Sunday afternoon | psalm, catechism hymn, T, X (two parts), E, psalm, B | E about ½ hour |
+| Palatinate, 1563 (Reformed) | 14, p. 342 | Sunday afternoon | H, P, T (Decalogue), beginners heard, R (Sunday portion), X | catechism yearly |
+| Emden (Micron), 1565 (Reformed) | 7/1, p. 606 | Sunday | X (great catechism), E of little children twice a year, exhortation, thanksgiving | X ½ hour |
+| Hesse, 1566 (mediating) | 8, pp. 251–253 | Sunday afternoon | psalm, catechism hymn, T, X (two parts), E, psalm, B | E about ½ hour |
 | Sulzfeld, 1566 | 2, p. 353 | Sunday Vespers (V) | psalm, H, R, *Te Deum*, T, E, X, *Magnificat*, C, *Benedicamus* | — |
 | Lippe, 1571 (Oldenburg 1573) | 21, p. 397 | Sunday 1 p.m., villages | bell, catechism hymn, T, X by question and answer, E | — |
 | Pfalz-Veldenz, 1574 | 18, p. 523 | Sunday 1 or 2 p.m. | H, P, E with R, psalm, T, X, P, H, B | — |
@@ -2249,9 +2268,9 @@ prayer; B = blessing; V = set within Vespers.
 | Penig, 1575 | 1, p. 634 | Sunday Vespers (V) | *Magnificat*, T, X, R, H, C, B | catechism by Advent |
 | Ysenburg-Birstein, 1588 | 10, p. 627 | Sunday afternoon | H, catechism hymn, T, X, P, E, H, P, B | — |
 | Hohenlohe, 1596 | 15, p. 663 | Sunday | H, P, T, X read, E, summary, H, P, B | whole ≤ 1 hour |
-| Palatinate, 1601 | 14, p. 558 | Sunday afternoon; villages at the 2nd bell | H, P, T, X, E, P, B | X ½ hour |
+| Palatinate, 1601 (Reformed) | 14, p. 558 | Sunday afternoon; villages at the 2nd bell | H, P, T, X, E, P, B | X ½ hour |
 | Solms-Laubach, 1603 | 9, p. 357 | Saturday Vespers (V) | psalm, R, *Magnificat*, P, *Benedicamus* | — |
-| Hanau, 1609 | 10, pp. 487, 491 | Sunday, villages | P, H, T, X, E in five classes, P; adults kept back | — |
+| Hanau, 1609 (Reformed) | 10, pp. 487, 491 | Sunday, villages | P, H, T, X, E in five classes, P; adults kept back | — |
 
 ---
 
@@ -2342,9 +2361,9 @@ the priest readeth a collect in German or Latin, and the choir concludeth with t
   "mit Andacht und gantz kniendt" sing or read three German collects: for forgiveness, for
   wisdom in government, and for peace (Sehling 9, p. 468).
 
-**The Reformed morning and evening prayer.** The Palatinate order of 1563 bids the congregation
-kneel at the opening of its daily prayers. **Palatinate, *Kirchenordnung*, 1563**
-(Sehling 14, p. 396), the morning prayer:
+**The Reformed morning and evening prayer.** The Palatinate order of 1563 (Reformed) bids the
+congregation kneel at the opening of its daily prayers. **Palatinate, *Kirchenordnung*, 1563**
+(Reformed; Sehling 14, p. 396), the morning prayer:
 
 <!-- doc 504 -->
 > Geliebten in dem herrn Jesu Christo, lasset uns vor dem angesicht Gottes niderknien und in auß
@@ -2354,10 +2373,10 @@ Beloved in the Lord Jesus Christ, let us kneel down before the face of God, and 
 from the ground of our hearts on this wise.
 
 The evening prayer opens in the same words (Sehling 14, p. 397). The Palatinate order of 1601
-reprints both prayers but changes "niderknien" to "demütigen", "humble ourselves"
+(Reformed) reprints both prayers but changes "niderknien" to "demütigen", "humble ourselves"
 (Sehling 14, p. 572, nn. 12, 15). In East Frisia the editor's note on the Lütetsburg order of
-1606 quotes its morning prayer in Low German: "latet uns vor dem angesichte Gades nedderkneen"
-(Sehling 7/1, p. 541).
+1606 (Reformed) quotes its morning prayer in Low German: "latet uns vor dem angesichte Gades
+nedderkneen" (Sehling 7/1, p. 541).
 
 ### 11.3 The Litany: boys kneeling before the altar
 
@@ -2390,8 +2409,8 @@ Christendom. Three boys, clad in white surplices, kneel before the altar and sin
 choir. The schoolboys and the common assembly answer and sing the second choir.
 
 The same arrangement appears elsewhere:
-- **Cologne, the prayer-day order of 1546**: three or four boys "vor eynen altar knyende" begin
-  the Litany, and the whole choir with the pastor, chaplains and priests answers
+- **Cologne, the prayer-day order of 1546** (mediating): three or four boys "vor eynen altar
+  knyende" begin the Litany, and the whole choir with the pastor, chaplains and priests answers
   (Sehling 22, p. 45).
 - **Waldeck 1556**: "etliche der Schüler oder der Pfarrherr, vor dem Altar niderkniend"
   (Sehling 9, p. 277).
@@ -2606,12 +2625,12 @@ Nördlingen (1579) likewise has only "solt du dich segnen und also sagen" (Sehli
 | Schwäbisch Hall 1543 | Sunday catechism | children set in pairs | 17/1, p. 162 |
 | Schweinfurt 1543 | Vespers; catechism | lesson read "zum volk"; good speakers step out facing | 11, pp. 631, 642 |
 | Coburg 1545 | Vespers | lesson from pulpit or middle altar | 1, p. 543 |
-| Cologne 1546 | Litany on prayer days | boys kneel before an altar | 22, p. 45 |
+| Cologne 1546 (mediating) | Litany on prayer days | boys kneel before an altar | 22, p. 45 |
 | Stolberg-Königstein 1552 | morning lesson | three collects sung kneeling | 9, p. 468 |
 | Waldeck 1556 | Litany after the sermon | scholars or pastor kneel before the altar | 9, p. 277 |
 | Palatinate 1556 | household blessing | sign of the cross; creed kneeling or standing | 14, p. 141 |
 | Pfalz-Zweibrücken 1557 | household blessing | cross struck from the draft | 18, p. 179 |
-| Palatinate 1563 | morning and evening prayer | "lasset uns … niderknien" | 14, pp. 396–397 |
+| Palatinate 1563 (Reformed) | morning and evening prayer | "lasset uns … niderknien" | 14, pp. 396–397 |
 | Herpf 1566 | Saturday evening prayer | chapter read before the altar | 2, p. 334 |
 | Regensburg 1567 | Vespers; Wednesday catechism | boys kneel before the altar for *Benedicamus*; pairs stand on stools | 13, pp. 461, 464 |
 | Pomerania 1569 | Saturday Vespers | *Veni sancte Spiritus* and *Da pacem flexis genibus* | 4, p. 435 |
@@ -2626,8 +2645,8 @@ Nördlingen (1579) likewise has only "solt du dich segnen und also sagen" (Sehli
 | Hohenlohe 1596 | catechism | pastor stands before the altar | 15, p. 663 |
 | Strasbourg 1598 | catechism | children "in zwen Chöre"; a penny for reciting | 20/1, p. 692 |
 | Isny c. 1600 | Litany | "Laßt uns auff knien" | 17/1, p. 468 |
-| Palatinate 1601 | morning and evening prayer | "demütigen" for "niderknien" | 14, p. 572 |
-| Lütetsburg 1606 | morning prayer | "nedderkneen" | 7/1, p. 541 |
+| Palatinate 1601 (Reformed) | morning and evening prayer | "demütigen" for "niderknien" | 14, p. 572 |
+| Lütetsburg 1606 (Reformed) | morning prayer | "nedderkneen" | 7/1, p. 541 |
 | Rothenberg 1618 | catechism | table of duties recited facing | 13, p. 548 |
 
 ---
@@ -2760,7 +2779,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Nördlingen, *Ordnung der ceremonien in der pfarkirchen zu Sant Georgen*, 1544 | 12, p. 319 | 373 | 10.3, 10.7 |
 | Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, p. 504 | 297 | 10.2, 10.5 |
 | Kurpfalz, *Bedenken zur Reformation der Stiftskirchen*, 1546 | 14, p. 91 | 470 | 4.2 |
-| Strasbourg, *Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung*, 1548 | 20/1, p. 355 | 1316 | 10.5 |
+| Strasbourg, *Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung*, 1548 (mediating; on the Interim) | 20/1, p. 355 | 1316 | 10.5 |
 | Regensburg, *Kirchenordnung* under Justus Jonas, 1553 | 13, p. 421 | 440 | 10.4 |
 | Württemberg, *Kirchenordnung*, 1553 | 16, pp. 243, 246 | 671 | 10.2, 10.3, 10.7 |
 | Öhringen, *Reformation und Ordnung des Öhringer Stifts*, 1556 | 15, p. 102 | 545 | 4.2 |
@@ -2774,18 +2793,18 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Tübingen, *Ordnung des Tübinger Stipendiums*, 1559, statutes (supplement to vol. 16) | 17/1, p. 562 | 813 | 6.6 |
 | Neckarbischofsheim, *Kirchenordnung*, 1560 | 16, p. 672 | 742 | 10.2, 10.3, 10.7 |
 | Feuchtwangen, chapter order, 1563 | 11, p. 402 | 293 | 5.3, 7.1 |
-| Palatinate, *Kirchenordnung*, 1563 | 14, pp. 342, 396–397 | 499, 504 | 10.5, 10.6, 10.7, 11.2 |
+| Palatinate, *Kirchenordnung*, 1563 (Reformed) | 14, pp. 342, 396–397 | 499, 504 | 10.5, 10.6, 10.7, 11.2 |
 | Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, p. 523 | 1011 | 10.2, 10.3, 10.7 |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 178 | 404 | 6.5 |
 | Nördlingen, *Kirchenordnung*, 1579 | 12, pp. 357, 375 | 375 | 10.5, 11.8 |
 | Rieneck, *Vesperordnung zu Lohr*, 1588 | 11, p. 699 | 318 | 8.1, 9.2 |
 | Hohenlohe, Weikersheim orders on the daily prayer, 1588 | 15, pp. 538–550 | 604, 605 | 6.5 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 422, 429, 450 | 294 | 9.2, 9.4 |
-| Mülhausen, instructions for the schoolmaster and chaplains, 1524 (Sehling's introduction) | 20/2, p. 163 | 1374 | 5.3 |
+| Mülhausen, instructions for the schoolmaster and chaplains, 1524 (Sehling's introduction) (Reformed) | 20/2, p. 163 | 1374 | 5.3 |
 | Hohenlohe, *Schul- und Gesangsordnung* of Count Wolfgang, 1596 | 15, p. 663 | 629 | 10.2, 10.5, 10.7, 11.7 |
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 692 | 1344 | 11.7 |
 | Isny, *Agende*, c. 1600 | 17/1, p. 468 | 800 | 11.3 |
-| Palatinate, *Kirchenordnung*, 1601 | 14, pp. 558, 572 | 515 | 10.2, 10.6, 10.7, 11.2 |
+| Palatinate, *Kirchenordnung*, 1601 (Reformed) | 14, pp. 558, 572 | 515 | 10.2, 10.6, 10.7, 11.2 |
 | Limpurg, *Kirchenordnung*, 1610 | 16, p. 616 | 729 | 10.2 |
 | Rothenberg, *Christliche vereinigung* of the ministers, 1618 | 13, p. 548 | 460 | 11.7 |
 
@@ -2835,28 +2854,28 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Stift Osnabrück, *Ordinatio Magistri Hermanni Bonni* (Quakenbrück), 1543 | 7/1, p. 229 | 2097 | 4.2, 6.2, 7.5 |
 | Osnabrück (city), *Kirchenordnung*, 1543 | 7/1, p. 256 | 2099 | 7.5 |
 | Hildesheim (city), *Kirchenordnung*, 1544 | 7/2.1, pp. 849–851 | 2136 | 7.5 |
-| Cologne and Paderborn, *Buß-, Fasten-, Bet- und Danktagsordnung*, 1546 | 22, p. 45 | 1484 | 11.3 |
+| Cologne and Paderborn, *Buß-, Fasten-, Bet- und Danktagsordnung*, 1546 (mediating) | 22, p. 45 | 1484 | 11.3 |
 | Stolberg-Königstein, order of the services, 1552 | 9, p. 468 | 2320 | 11.2 |
 | Lüneburg, *Reformatio coenobiorum ducatus Luneburgensis*, 1555 | 6/1, pp. 611–612 | 2009 | 4.4 |
 | Lüneburg, *Emendatio Breviarii virginum ordinis Sancti Benedicti*, 1555 | 6/1, p. 624 | 2011 | 4.4 |
 | Hamburg, *Kirchenordnung*, 1556 | 5, p. 553 | 1963 | 7.5 |
 | Waldeck, *Kirchenordnung*, 1556 | 9, p. 277 | 2300 | 11.3 |
 | Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 (and Sehling's introduction) | 10, pp. 31, 133–134 | 166, 181 | 8.2, 9.3 |
-| Emden, Micron's *Ordinancien*, German edition, 1565 | 7/1, p. 606 | 2116 | 10.2, 10.6, 10.7 |
-| Hesse, *Kirchenordnung*, 1566 | 8, pp. 251–253 | 2257 | 10.2, 10.3, 10.7 |
+| Emden, Micron's *Ordinancien*, German edition, 1565 (Reformed) | 7/1, p. 606 | 2116 | 10.2, 10.6, 10.7 |
+| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 251–253 | 2257 | 10.2, 10.3, 10.7 |
 | Lippe, *Kirchenordnung*, 1571 | 21, pp. 395–397 | 1462 | 6.4, 8.2, 10.2, 10.3, 10.7 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 1085, 1095, 1111, 1113 | 2149, 2150, 2151 | 6.4, 9.2, 9.4, 10.2, 10.3 |
 | Lüneburg, *Klosterordnung* of Duke Wilhelm the Younger, 1574 | 6/1, pp. 620–621 | 2010 | 7.1, 8.3 |
 | Lüneburg, *Kirchenordnung der Stadt Lüneburg*, 1575 | 6/1, p. 658 | 2017 | 9.2 |
-| Nassau-Dillenburg, *Agende*, 1575 | 10, p. 148 | 182 | 10.2 |
+| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10, p. 148 | 182 | 10.2 |
 | Hoya, *Kirchenordnung*, 1581 | 6/2, p. 1150 | 2065 | 7.4, 9.4 |
 | Leeden (Tecklenburg), *Ordnung für das Zisterzienserinnenkloster*, 1585 | 22, p. 247 | 1506 | 6.3 |
 | Ysenburg-Birstein, *Kirchenordnung*, 1588 | 10, p. 627 | 228 | 10.3, 10.7 |
 | Solms-Laubach, *Kirchenzuchtordnung*, 1603 | 9, p. 357 | 2311 | 10.4, 10.7 |
 | Verden, *Kirchenordnung*, 1606 | 7/1, p. 153 | 2089 | 4.2, 9.1 |
 | Buxtehude, *Agende*, 1565 (Sehling's introduction) | 7/1, p. 67 | 2080 | 9.2 |
-| Lütetsburg, *Kirchenordnung*, 1606 (Sehling's note) | 7/1, p. 541 | 2115 | 11.2 |
-| Hanau-Münzenberg, *Ordnung der Katechisation*, 1609 | 10, pp. 487, 491 | 211 | 10.6, 10.7 |
+| Lütetsburg, *Kirchenordnung*, 1606 (Sehling's note) (Reformed) | 7/1, p. 541 | 2115 | 11.2 |
+| Hanau-Münzenberg, *Ordnung der Katechisation*, 1609 (Reformed) | 10, pp. 487, 491 | 211 | 10.6, 10.7 |
 
 **Transylvania**
 

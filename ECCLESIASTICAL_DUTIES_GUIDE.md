@@ -72,6 +72,19 @@ the church. It asks:
   - Each order is named by place, title and date as they appear in Sehling's running heads,
     which sometimes differ from the database's record headings. Where a passage is Sehling's own
     introduction or note, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **mediating**: orders that stood between the Lutheran and the Reformed: the Upper German
+    cities of Bucer's circle before the Interim, Philip of Hesse's church, Hermann von Wied's
+    Cologne order, and the Philippist churches of Bremen and Colmar.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Nassau-Dillenburg is Lutheran to 1570, mediating in 1575 and Reformed from 1581.
+  - The Transylvanian Saxons' own orders and synods are Lutheran; only the diet decrees of the
+    principality are multi-confessional.
 
 ---
 
@@ -141,12 +154,13 @@ vicarage year, but training had parts that did similar work:
 - practice sermons in the parish with the pastor's leave (Saxony 1555);
 - examination and a trial sermon before ordination, and if needed some weeks of instruction at
   Wittenberg or Marburg;
-- a probation as deacon before a parish, with a re-examination (Palatinate 1564), and the new
-  deacons' sermon outlines sent in for criticism after a year (Palatinate 1607).
+- a probation as deacon before a parish, with a re-examination (Palatinate 1564, Reformed), and
+  the new deacons' sermon outlines sent in for criticism after a year (Palatinate 1607,
+  Reformed).
 
 After ordination the synods set reading "that the priests may be moved the more diligently to
 read and the sooner to buy books" (Nassau 1552). The Reformed monthly convents criticized each
-member's sermon and disputed theological questions (Palatinate 1571).
+member's sermon and disputed theological questions (Palatinate 1571, Reformed).
 
 **6. Laity: attend, pray at home, commune, be examined** (§8). Every householder had to bring
 children and servants to sermon and catechism. Absentees were counted house by house and fined
@@ -157,13 +171,13 @@ home, and the youth to pray "morning and evening, also before and after meals an
 
 **7. Church workers: a higher standard** (§8.4). Sextons, schoolmasters and organists were held
 to the conduct required of ministers: "like other ministers of the church, of honest and godly
-conduct, no drunkards" (Hesse 1566). They were barred from taverns (Hoya 1581) and questioned at
-visitation about their own communion. The minister's wife, children and servants were inspected
-with him.
+conduct, no drunkards" (Hesse 1566, mediating). They were barred from taverns (Hoya 1581) and
+questioned at visitation about their own communion. The minister's wife, children and servants
+were inspected with him.
 
 **8. Schoolmasters: the catechism as primer** (§9). The schoolmaster taught the catechism, used
 it as the reading book, led the boys to sermon and catechism, led the singing, and was visited
-four times a year by the pastor (Esslingen 1534; Saxony 1555, 1580). In the towns
+four times a year by the pastor (Esslingen 1534, mediating; Saxony 1555, 1580). In the towns
 schoolmistresses brought the girls (Palatinate 1595).
 
 **9. The magistrate: keeper of both tables** (§10). The Lutheran magistrate was to "uphold both
@@ -173,10 +187,10 @@ the "defender and nourisher" of churches and schools (Transylvania 1572). In pra
 - appointed and paid ministers;
 - enforced attendance;
 - punished what the church could only admonish;
-- in the Palatinate (1599, 1608), refused citizenship and marriage to those who did not know the
-  catechism.
+- in the Palatinate (1599, 1608, Reformed), refused citizenship and marriage to those who did
+  not know the catechism.
 
-The Reformed limited his office to "the body and temporal goods" (Hanau 1609).
+The Reformed limited his office to "the body and temporal goods" (Hanau 1609, Reformed).
 
 **10. Catechesis: how often, how long, and what it required** (§11).
 - **Rhythm:** a weekly Sunday catechism of about half an hour, quarterly fortnight-long series
@@ -188,29 +202,29 @@ The Reformed limited his office to "the body and temporal goods" (Hanau 1609).
 
 **11. First communion and confirmation: usually one act** (§11.3). Where the orders have
 confirmation, the children are "confirmed and admitted to communion for the first time" together
-(Hesse 1566). One course of instruction served both. Mansfeld (1580) examined them publicly the
-day before, monthly. Lauenburg (1585) confirmed twice a year, and Hessen-Kassel (1610) heard
-them again after six months. Where there was no rite, as in Electoral Saxony, examination alone
-admitted to communion.
+(Hesse 1566, mediating). One course of instruction served both. Mansfeld (1580) examined them
+publicly the day before, monthly. Lauenburg (1585) confirmed twice a year, and Hessen-Kassel
+(1610, Reformed) heard them again after six months. Where there was no rite, as in Electoral
+Saxony, examination alone admitted to communion.
 
 **12. Infant communion: acknowledged as ancient, set aside** (§11.6). No order gives the Supper
 to infants or argues for it. Four orders name the practice:
-- Hesse (1566) and Hohenlohe (1578) grant that infants communed in the time of Cyprian and
-  Augustine, but defer the Supper because of 1 Corinthians 11:28 and "the common judgment of the
-  first church". Hesse leaves the old custom "in its worth".
+- Hesse (1566, mediating) and Hohenlohe (1578) grant that infants communed in the time of
+  Cyprian and Augustine, but defer the Supper because of 1 Corinthians 11:28 and "the common
+  judgment of the first church". Hesse leaves the old custom "in its worth".
 - Oldenburg (1573) says that infants cannot examine themselves or discern the Lord's body.
-- The Reformed preacher at Markirch (1561) calls it an error of the ancients, who thought that
-  the uncommunicated were lost.
+- The Reformed preacher at Markirch (1561) calls it an error of the ancients, who
+  thought that the uncommunicated were lost.
 
 Children who died before first communion were buried like adults (Regensburg 1572/1588;
 Henneberg 1582). A dying child who knew the catechism might commune before confirmation
-(Nassau-Dillenburg 1575).
+(Nassau-Dillenburg 1575, mediating).
 
 **13. Before marriage: examination, not counselling** (§§11.4–11.5). From the 1560s many orders
 refused to proclaim or marry young people who did not know the catechism (Saxony 1580; Hesse
-1566; Zweibrücken 1574), "since they are to keep house and get children and servants". Some
-married them on a pledge, backed if need be by sureties, to attend the catechism afterwards
-(Wied 1616). There was no counselling course. What the orders required was:
+1566, mediating; Zweibrücken 1574), "since they are to keep house and get children and
+servants". Some married them on a pledge, backed if need be by sureties, to attend the catechism
+afterwards (Wied 1616, Reformed). There was no counselling course. What the orders required was:
 - an interview some weeks before, on freedom to marry, parents' consent and the catechism
   (Limpurg 1610: three weeks);
 - confession and communion before the wedding (Schwäbisch Hall 1615; Freudenthal 1592);
@@ -246,10 +260,10 @@ often correct the database's record headings. Among the corrections:
 - the Mansfeld agenda quoted is of 1580, though its record is dated 1562;
 - the Schwäbisch Hall passages on marriage belong to the revision of 1615, not the order of
   1543;
-- the consistory order of 1608 is Ysenburg-Birstein's, and the deacons' rule of 1550 is
-  Breslau's;
-- the Palatine passages on probation and convents are from the *Kirchenratsordnung* of 1564 and
-  Wenzel Zuleger's report of 1571, though their record is dated 1585.
+- the consistory order of 1608 is Ysenburg-Birstein's (Reformed), and the deacons' rule of 1550
+  is Breslau's;
+- the Palatine passages (Reformed) on probation and convents are from the *Kirchenratsordnung*
+  of 1564 and Wenzel Zuleger's report of 1571, though their record is dated 1585.
 
 ### 2.2 What was not found
 
@@ -461,8 +475,8 @@ was chosen by the pastor together with the council (Sehling 1, p. 323).
 
 **One overseer, many names.** The evangelical orders replaced the bishop's oversight with a
 superintendent (*Superattendens*, *Inspector*, *Dechant*, *Decanus*, *Propst*). Augsburg in 1537
-justifies the office from the apostolic church and says outright that the titles are one.
-**Augsburg, *Kirchenordnung*, 1537** (Sehling 12, p. 55):
+(mediating) justifies the office from the apostolic church and says outright that the titles are
+one. **Augsburg, *Kirchenordnung*, 1537** (mediating; Sehling 12, p. 55):
 
 <!-- doc 338 -->
 > derhalb bei den aposteln und hernacher in den kirchen allweg ain oder gar wenig furnemer
@@ -477,8 +491,8 @@ which names all mean one thing, that here the flock be not the worse kept throug
 […] In sum: they shall in all things have upon them, oversee and provide the highest care and
 provision of the congregation of Christ.
 
-At Augsburg the office rotated quarterly between the council's president and the senior provost.
-In the territories it was a standing office. Its installation is in
+At Augsburg (1537, mediating) the office rotated quarterly between the council's president and
+the senior provost. In the territories it was a standing office. Its installation is in
 [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §11.4.
 
 ### 4.2 Electoral Saxony, 1555–1557: visitation, synod, report
@@ -648,9 +662,9 @@ Pfalz-Neuburg (1576) likewise set "a director among the three political councill
 
 **What the president did.** The director:
 - put the business to the members and took the vote, "the *umbfrage*", alternating clerical and
-  lay members at his discretion (Hanau 1612, Sehling 10, p. 539);
-- alone made the proposals, "to avoid confusion and ill-will" (Ysenburg-Birstein 1608, Sehling
-  10, p. 686).
+  lay members at his discretion (Hanau 1612, Reformed, Sehling 10, p. 539);
+- alone made the proposals, "to avoid confusion and ill-will"
+  (Ysenburg-Birstein 1608, Reformed, Sehling 10, p. 686).
 
 The Saxon president of 1580 also gave each newly examined pastor a formal charge on his office
 before he was sent to his parish (Sehling 1, p. 380).
@@ -690,9 +704,9 @@ knowledge, and set the president and political councillors over the endowments o
 schools (Sehling 11, p. 382).
 
 **Sessions and secrecy.** The consistories met weekly:
-- Hanau (1612): every Tuesday afternoon from one o'clock until evening, with extraordinary
+- Hanau (1612, Reformed): every Tuesday afternoon from one o'clock until evening, with extraordinary
   sessions at the director's discretion (Sehling 10, p. 538);
-- Ysenburg-Birstein (1608): every Wednesday afternoon from one until four or five, members
+- Ysenburg-Birstein (1608, Reformed): every Wednesday afternoon from one until four or five, members
   arriving late being fined (Sehling 10, p. 685).
 
 Members, secretary and copyists swore to keep the business "in the highest secrecy"
@@ -713,13 +727,13 @@ theology only where their work touched the church's government.
   and the youth not neglected in their studies" (Sehling 1, p. 402).
 - **Examining and ordaining.** Candidates were examined and ordained at Wittenberg and Leipzig
   (Saxony 1557, Sehling 1, p. 321), at Marburg before "the teachers of God's word and the
-  professors of holy Scripture" (Hesse 1566, Sehling 8, p. 201), and by the theological faculty
-  of Helmstedt, which was not to keep a candidate more than two days nor take more than two
-  thalers (Gandersheim recess 1601, Sehling 6/2, p. 892).
+  professors of holy Scripture" (Hesse 1566, mediating, Sehling 8, p. 201), and by the
+  theological faculty of Helmstedt, which was not to keep a candidate more than two days nor
+  take more than two thalers (Gandersheim recess 1601, Sehling 6/2, p. 892).
 - **Overseeing the stipendiaries.** The prefect of the Marburg stipendiaries examined them twice
   a year "in the presence of all the professors of theology, that the examination may have the
   more weight and the wits be stirred to greater diligence". **Hesse, *Stipendiatenordnung*,
-  1546** (Sehling 8, p. 159):
+  1546** (mediating; Sehling 8, p. 159):
 
 <!-- doc 2255 -->
 > Zum vierten soll er sie alle, des jars zweimal in beisein aller professoren theologiae
@@ -755,9 +769,9 @@ churches paid for it with stipends:
 - **Stipends from the old monastic goods.** Nassau in 1546 created stipends of 24 florins a year
   from surplus church income, for boys of at least seventeen (Sehling 10, p. 88).
 - **Boarding colleges.** Württemberg's boys passed from the *Pädagogium* at Stuttgart and the
-  cloister schools to the *Stipendium* at Tübingen (1559, Sehling 16, p. 359). The Palatinate
-  admitted to its stipend only those found fit in the half-yearly examinations of its four
-  *paedagogia* (1593, Sehling 14, p. 553).
+  cloister schools to the *Stipendium* at Tübingen (1559, Sehling 16, p. 359). The Reformed
+  Palatinate admitted to its stipend only those found fit in the half-yearly examinations of its
+  four *paedagogia* (1593, Sehling 14, p. 553).
 
 Stipendiaries were bound by a written obligation to serve the territory that paid for them
 (Württemberg 1559, Sehling 16, p. 364; Hohenlohe 1556, Sehling 15, p. 108).
@@ -826,18 +840,19 @@ found that he is unfit in doctrine and life, those that sent him and have called
 him to the parish shall be informed in writing of his unfitness and warned to think upon another
 who is fit for such a pastoral office.
 
-The trial sermon (*Probpredigt*) became standard. In the Palatinate it was to show "how he can
-teach the common people out of Scripture, exhort them to amendment and comfort them", with
-attention to "his pronunciation" (Kirchenratsordnung 1564, Sehling 14, p. 412). Henneberg sent
-the candidate to preach before the parish, which reported back "how the man sent pleased them
-with his person, delivery, bearing [and] repute" (1555, Sehling 2, p. 294).
+The trial sermon (*Probpredigt*) became standard. In the Reformed Palatinate it was to show "how
+he can teach the common people out of Scripture, exhort them to amendment and comfort them",
+with attention to "his pronunciation" (Kirchenratsordnung 1564, Sehling 14, p. 412). Henneberg
+sent the candidate to preach before the parish, which reported back "how the man sent pleased
+them with his person, delivery, bearing [and] repute" (1555, Sehling 2, p. 294).
 
 **Weeks of instruction at Wittenberg.** A candidate who was teachable but not yet fit was not
 simply rejected. The superintendent was to send him to Wittenberg "with warning that he be
 provided beforehand by those that called him to the pastorate with needful expenses, that he may
 be instructed at Wittenberg some weeks, if need be, and await ordination without burdening
-anyone" (Saxony 1555, Sehling 1, p. 312). Hesse in 1566 told examiners to keep promising
-candidates at Marburg for a time. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, p. 201):
+anyone" (Saxony 1555, Sehling 1, p. 312). Hesse in 1566 (mediating) told examiners to keep
+promising candidates at Marburg for a time. **Hesse, *Kirchenordnung*, 1566**
+(mediating; Sehling 8, p. 201):
 
 <!-- doc 2257 -->
 > So aber die examinatores etlich aus denen, so zum examen gesant und geschickt befunden werden,
@@ -854,7 +869,7 @@ prepared.
 
 **The diaconate as apprenticeship.** The closest thing to a vicarage is the rule that a new man
 should first serve as deacon under a pastor. **Palatinate, *Kirchenratsordnung*, 1564**
-(Sehling 14, p. 413):
+(Reformed; Sehling 14, p. 413):
 
 <!-- doc 504 -->
 > Und soll keinem neuling, der zuvor im ministerio nit gewesen, leichtlich eine pfarr bevolhen
@@ -871,10 +886,10 @@ but otherwise not lightly. Rather he shall first be used as a deacon, and after 
 one would commit a parish to him, be examined again, that one may judge thereby whether he hath
 increased in doctrine.
 
-The Kirchenratsordnung of about 1593 repeats the rule (Sehling 14, p. 548). In 1607 the
-Elector's church council found that "the young *sapientisten* and other new ministers sent out
-mostly do not increase but decrease". **Palatinate, *Mandat zu den Konventen, der
-Predigtaufsicht und den Diakonen*, 1607** (Sehling 19/2, p. 957):
+The Palatine *Kirchenratsordnung* of about 1593 (Reformed) repeats the rule
+(Sehling 14, p. 548). In 1607 the Elector's church council found that "the young *sapientisten*
+and other new ministers sent out mostly do not increase but decrease". **Palatinate, *Mandat zu
+den Konventen, der Predigtaufsicht und den Diakonen*, 1607** (Reformed; Sehling 19/2, p. 957):
 
 <!-- doc 1195 -->
 > Bevelhen demnach, das ihr allen solchen neuen diaconis, wen sie 1 jar in euer inspection
@@ -916,7 +931,8 @@ the sooner to buy books.
 
 **Monthly convents with sermon criticism.** The Reformed Palatinate made the convent of the
 pastors a monthly exercise. The president of the church council reported to the Elector in 1571.
-**Palatinate, Wenzel Zuleger's report on the classical convents, [1571]** (Sehling 14, p. 446):
+**Palatinate, Wenzel Zuleger's report on the classical convents, [1571]**
+(Reformed; Sehling 14, p. 446):
 
 <!-- doc 504 -->
 > Erstlich ist den kirchen- und schuldienern bevolhen, das sie alle monat einmal uf iren kosten
@@ -937,8 +953,8 @@ edification. Where he faileth, he shall be told so in a friendly way and exhorte
 After that the president […] shall propose a couple of theological questions, [which] they
 [shall] handle among themselves in Latin, or in German where it is edifying.
 
-The later Palatine and Hanau convent orders (1607, 1609) turned this into a full procedure, with
-the pastors bound by oath to "submit willingly to the censure of my brethren"
+The later Palatine and Hanau convent orders (1607, 1609, both Reformed) turned this into a full
+procedure, with the pastors bound by oath to "submit willingly to the censure of my brethren"
 (Sehling 14, p. 609; 10, p. 542).
 
 **Trial sermons for serving pastors.** In Brandenburg the village pastors took turns preaching
@@ -1042,8 +1058,8 @@ examination (*Verhör*) ([`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUID
 
 **Lay officers held to the minister's standard.** Sextons, organists, schoolmasters and church
 wardens were not ordained, but the orders held them to the conduct required of ministers. Hesse
-in 1566 says so of the sextons ("*Opfermänner*"). **Hesse, *Kirchenordnung*, 1566**
-(Sehling 8, p. 211):
+in 1566 (mediating) says so of the sextons ("*Opfermänner*"). **Hesse, *Kirchenordnung*, 1566**
+(mediating; Sehling 8, p. 211):
 
 <!-- doc 2257 -->
 > Es sollen auch dieselbige gleich wie andere diener der kirchen eines erbaren und gottseligen
@@ -1086,8 +1102,8 @@ and schools" and was bound to the same life (§3.3). His church duties were:
 
 His installation and oath are in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md),
 §12.3, and the choir service in [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §6.1. Esslingen's ten
-articles for the German schoolmaster (1534) are the shortest complete statement. **Esslingen,
-*Artikel für den deutschen Schulmeister*, [1534]** (Sehling 17/2, p. 381):
+articles for the German schoolmaster (1534, mediating) are the shortest complete statement.
+**Esslingen, *Artikel für den deutschen Schulmeister*, [1534]** (mediating; Sehling 17/2, p. 381):
 
 <!-- doc 881 -->
 > 1. Er sol sich beflyssen, die kinder zu underwysen und uffzuziehen in gottesforcht, zucht und
@@ -1147,10 +1163,10 @@ have learned from the sermon" (Sehling 1, p. 631).
 a schoolmaster for the girls:
 - Brück (1530) has the schoolmaster teach "the young maidens … under eleven years with reading
   and writing, also in the catechism and good sayings of Scripture" (Sehling 1, p. 535);
-- Wittenberg's maidens came on weekday mornings while the sermon bell rang (1533, Sehling 1, p.
-  706);
-- in the Palatinate in 1595 "every schoolmaster" was to lead his boys, and "every schoolwoman
-  her schoolgirls", to the catechism sermon and present them to the ministers
+- Wittenberg's maidens came on weekday mornings while the sermon bell rang
+  (1533, Sehling 1, p. 706);
+- in the Reformed Palatinate in 1595 "every schoolmaster" was to lead his boys, and "every
+  schoolwoman her schoolgirls", to the catechism sermon and present them to the ministers
   (Sehling 19/2, p. 856).
 
 ### 9.4 Oversight
@@ -1226,19 +1242,19 @@ maintained.
 
 - **To appoint, pay and protect ministers.** Patrons and councils called ministers, but subject
   to the superintendent's examination (§§4, 7). The Saxon articles forbade patrons to charge
-  "fief money" or to dismiss a pastor without cause shown before the consistory (1557, Sehling
-  1, p. 321). Councils paid ministers and schoolmasters from the common chest.
+  "fief money" or to dismiss a pastor without cause shown before the consistory
+  (1557, Sehling 1, p. 321). Councils paid ministers and schoolmasters from the common chest.
 - **To enforce attendance and the Sabbath.** The district officer and council punished those who
   kept children and servants from the catechism (Belzig 1529, Sehling 1, p. 527). Absentees were
-  fined (Nassau-Weilburg 1576, §8.1), and at Dillenburg in 1618 the fines went into the alms
-  chest (Sehling 10, p. 203).
+  fined (Nassau-Weilburg 1576, §8.1), and at Dillenburg in 1618 (Reformed) the fines went into
+  the alms chest (Sehling 10, p. 203).
 - **To punish what the church could only admonish.** The consistory handled "the degrees of
   admonition, and not the worldly punishment" (Saxony 1580, §5.3). What the church could not
   mend went to the magistrate: the Schulenburg lords were to punish or expel those who would not
   come to the sacrament (1572, Sehling 3, p. 149).
-- **To refuse citizenship and marriage to the ignorant.** The Elector Palatine in 1599 and 1608
-  forbade his officials to admit anyone as a citizen, or let anyone marry, who did not know the
-  catechism (§11.4).
+- **To refuse citizenship and marriage to the ignorant.** The Reformed Elector Palatine in 1599
+  and 1608 forbade his officials to admit anyone as a citizen, or let anyone marry, who did not
+  know the catechism (§11.4).
 - **To be preached to.** At Schwäbisch Hall a sermon "on the office of the magistrate" was
   preached each year before the council election (1615, Sehling 17/1, p. 165). The visitor began
   each rural visitation with an exhortation "on the office of Christian magistrates … namely,
@@ -1248,7 +1264,7 @@ maintained.
 ### 10.3 The Reformed limit
 
 **Bodies, not souls.** The Reformed orders drew the line more sharply. **Hanau-Münzenberg,
-*Presbyteriumsordnung*, [1609]** (Sehling 10, p. 512):
+*Presbyteriumsordnung*, [1609]** (Reformed; Sehling 10, p. 512):
 
 <!-- doc 211 -->
 > Dan erstlich erstreckt sich das ampt der obrigkeit allein uber den leib und zeitliche guter
@@ -1264,8 +1280,8 @@ other hand, the office of the elders goeth to the consciences of men, which they
 sin by their admonition, crush with the hammer of the divine law and lead to God, and raise up
 and comfort again by the promise of grace of the gospel.
 
-Even so, a Hanau sermon plan of 1609 still called the magistrate *custos utriusque tabulae quoad
-disciplinam externam*, keeper of both tables as far as outward discipline goes
+Even so, a Hanau sermon plan of 1609 (Reformed) still called the magistrate *custos utriusque
+tabulae quoad disciplinam externam*, keeper of both tables as far as outward discipline goes
 (Sehling 10, p. 469). The ceremonies by which magistrates were installed and prayed for are in
 [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §13.
 
@@ -1395,11 +1411,12 @@ school.
 
 **Usually one act.** Was first communion separate from confirmation? In most orders that have a
 confirmation it is the same occasion: the children are examined, confirmed, and admitted to
-their first communion together. The Hessian form of 1566 is headed "Questions and answers for
-the children who are to be confirmed and admitted to communion for the first time"
-(Sehling 8, p. 300). The heading recurs in the Hessian *Agende* of 1574, Nassau-Weilburg 1576
-and Hanau 1609 (Sehling 8, p. 433; 10, pp. 254, 498). Mansfeld held the examination publicly in
-church the day before. **Mansfeld, *Kirchen-agenda*, 1580** (Sehling 2, p. 233):
+their first communion together. The Hessian form of 1566 (mediating) is headed "Questions and
+answers for the children who are to be confirmed and admitted to communion for the first time"
+(Sehling 8, p. 300). The heading recurs in the Hessian *Agende* of 1574 (mediating),
+Nassau-Weilburg 1576 and Hanau 1609 (Reformed) (Sehling 8, p. 433; 10, pp. 254, 498). Mansfeld
+held the examination publicly in church the day before. **Mansfeld, *Kirchen-agenda*, 1580**
+(Sehling 2, p. 233):
 
 <!-- doc 1241 -->
 > Nach dem auch in unsern kirchen bis daher diese christliche gewonheit erhalten ist, das man
@@ -1428,9 +1445,9 @@ had their schoolmasters hear them, "that they may give good account … distinct
 voice, without shyness", and then presented them before the altar with the godparents
 (Sehling 5, pp. 458–459).
 
-**A second hearing.** Hessen-Kassel (1610) required the newly confirmed to repeat their
-confession half a year later before the second communion. **Hessen-Kassel,
-*Konsistoriumsordnung*, 1610** (Sehling 9, p. 118):
+**A second hearing.** Hessen-Kassel (1610, Reformed) required the newly confirmed to repeat
+their confession half a year later before the second communion. **Hessen-Kassel,
+*Konsistoriumsordnung*, 1610** (Reformed; Sehling 9, p. 118):
 
 <!-- doc 2287 -->
 > so sollen die kinder, beits, knaben und megtlein, nicht allein, wann sie zum ersten mahl zum
@@ -1499,25 +1516,25 @@ house and get children and servants, it is profitable indeed, yea, the high nece
 earnest command of God require it, that they know how to instruct and bring up themselves and
 them rightly in the confession of Christian doctrine and true religion.
 
-Hesse (1566) has the same rule (Sehling 8, p. 322). The rule was repeated across the later
-century:
+Hesse (1566, mediating) has the same rule (Sehling 8, p. 322). The rule was repeated across the
+later century:
 - Mansfeld, by resolution of its ministers, 1580 (Sehling 2, p. 233);
 - the Transylvanian synod of Hermannstadt, 1565: if they cannot answer, "one shall delay the
   copulation until they learn" (Sehling 24, p. 296);
 - Prussia, 1568 (Sehling 4, p. 93);
-- the Hessian *Reformationsordnung* of 1572: the ignorant were not to be married, nor admitted
-  to communion or to stand godparent, and were to be reported to the authorities
+- the Hessian *Reformationsordnung* of 1572 (mediating): the ignorant were not to be married,
+  nor admitted to communion or to stand godparent, and were to be reported to the authorities
   (Sehling 8, p. 398);
-- Nassau-Diez 1585, Ysenburg-Birstein 1588, Marienhafe 1593 and Solms-Laubach 1603
-  (Sehling 10, p. 177; 10, p. 632; 7/1, p. 717; 9, p. 339).
+- Nassau-Diez 1585 (Reformed), Ysenburg-Birstein 1588, Marienhafe 1593 and the Solms discipline
+  order of 1599 (Reformed) (Sehling 10, p. 177; 10, p. 632; 7/1, p. 717; 9, p. 339).
 
-The Elector Palatine in 1599 and 1608 forbade his officials to accept anyone as a citizen, or
-let anyone marry, without a pastor's written certificate that they could recite the chief parts
-(Sehling 19/2, pp. 963–964).
+The Reformed Elector Palatine in 1599 and 1608 forbade his officials to accept anyone as a
+citizen, or let anyone marry, without a pastor's written certificate that they could recite the
+chief parts (Sehling 19/2, pp. 963–964).
 
-**Married on a promise.** Where a wedding could not be put off, Wied (1616) married the couple
-on a pledge, backed if need be by sureties. **Wied, *Kirchen- und Polizeiordnung*, 1616**
-(Sehling 19/1, p. 500):
+**Married on a promise.** Where a wedding could not be put off, Wied (1616, Reformed) married
+the couple on a pledge, backed if need be by sureties. **Wied, *Kirchen- und Polizeiordnung*,
+1616** (Reformed; Sehling 19/1, p. 500):
 
 <!-- doc 1100 -->
 > Und da auß erheblichen ursachen etwa die copulation angehender, junger eheleut länger nicht
@@ -1603,12 +1620,13 @@ it aside. Their reasons are three:
 - the children of Christians are saved by baptism and faith without the Supper, so to wait does
   them no harm.
 
-The Lutheran orders of Hesse and Hohenlohe grant that infant communion was the custom in the
-time of Cyprian and Augustine. Hesse leaves the custom "in its worth" and does not condemn it.
-The Reformed preacher at Markirch (1561) calls it an error of the ancients.
+The orders of Hesse (mediating) and Hohenlohe (Lutheran) grant that infant communion was the
+custom in the time of Cyprian and Augustine. Hesse leaves the custom "in its worth" and does not
+condemn it. The Reformed preacher at Markirch (1561) calls it an error of the ancients.
 
-**Hesse: the ancient custom left unjudged.** The Hessian order of 1566 prefaces its rite of
-confirmation with the history. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, pp. 286–287):
+**Hesse: the ancient custom left unjudged.** The Hessian order of 1566 (mediating) prefaces its
+rite of confirmation with the history. **Hesse, *Kirchenordnung*, 1566**
+(mediating; Sehling 8, pp. 286–287):
 
 <!-- doc 2257 -->
 > Vor zeiten ward den kindern gleich wie den alten, so bald sie getauft, auch das sacrament des
@@ -1680,7 +1698,7 @@ Supper, and that the baptism and faith they have received are enough for them.
 congregation in the Leber valley at Markirch, in the lordship of Rappoltstein, explained in 1561
 why his church would not carry the Supper to the sick. Private communion, he wrote, rested on a
 false belief. **Rappoltstein, Arnaud Banc's report on the doctrine of the French congregation,
-1561** (Sehling 20/2, p. 142):
+1561** (Reformed; Sehling 20/2, p. 142):
 
 <!-- doc 1371 -->
 > Raichet uff die opinion unnd meinung deren, die vermeinen, das alle personen, so das nachtmal
@@ -1741,9 +1759,9 @@ are, henceforth no difference shall be made herein, but the children shall be br
 with the ceremonies set down above, no less than the old.
 
 **The sick child.** The one exception to the order of instruction, confirmation and communion
-was the child in danger of death. Nassau-Dillenburg kept the unconfirmed from the sacrament, but
-not a dying child who understood the catechism and asked for it. **Nassau-Dillenburg, *Agende*,
-1575** (Sehling 10, p. 155):
+was the child in danger of death. Nassau-Dillenburg (1575, mediating) kept the unconfirmed from
+the sacrament, but not a dying child who understood the catechism and asked for it.
+**Nassau-Dillenburg, *Agende*, 1575** (mediating; Sehling 10, p. 155):
 
 <!-- doc 182 -->
 > Welche kinder auff solche weis noch nit verhort und confirmirt seint, die soll man vom
@@ -1774,23 +1792,23 @@ question, in date order. Section numbers refer to this guide.
 | Belzig and the Saxon visitations, 1529 | 1 | quarterly catechism series, a fortnight each, enforced by penalties (11.1) |
 | Brück, 1530 | 1 | daily catechism sermons before the high feasts; girls under eleven taught catechism (9.3, 11.1) |
 | Brandenburg-Nürnberg, 1533 | 11 | householders to bring children and servants to sermon and sacrament (8.2) |
-| Esslingen, 1534 | 17/2 | ten articles for the German schoolmaster; catechism as primer (9.1) |
-| Augsburg, 1537 | 12 | superattendent and bishop "one thing"; rotating oversight (4.1) |
-| Hesse, *Stipendiatenordnung*, 1546 | 8 | stipendiaries examined twice a year before all theology professors (6) |
+| Esslingen, 1534 (mediating) | 17/2 | ten articles for the German schoolmaster; catechism as primer (9.1) |
+| Augsburg, 1537 (mediating) | 12 | superattendent and bishop "one thing"; rotating oversight (4.1) |
+| Hesse, *Stipendiatenordnung*, 1546 (mediating) | 8 | stipendiaries examined twice a year before all theology professors (6) |
 | Nassau-Dillenburg synod, 1552 | 10 | *loci* set from synod to synod; pastors to buy books (7.5) |
 | Mecklenburg, 1552 | 5 | magistrate keeper of both tables (10.1) |
 | Electoral Saxony, *Generalia*, 1555 | 1 | superintendents' visitation and synod; weeks of instruction at Wittenberg; practice sermons; house-to-house examination; deacons' duties (3.5, 4.2, 7.2, 7.3, 11.1) |
 | Electoral Saxony, *General-Artikel*, 1557 | 1 | pastors' reading list and conduct; superintendent's synod; ordination examination and public sermon (3.2, 3.3, 4.2, 7.3) |
 | Württemberg, 1559 | 16, 17/1 | Tübingen *Stipendium*: practice sermons corrected; visitation of the minister's household (3.3, 7.1, 7.2) |
-| Markirch (Rappoltstein), 1561 | 20/2 | infant communion an error of the ancients (11.6) |
+| Markirch (Rappoltstein), 1561 (Reformed) | 20/2 | infant communion an error of the ancients (11.6) |
 | Weimar, 1561; Jena, 1569 | 1 | prince as supreme president; superintendent as president of the consistory (5.1, 5.2) |
-| Palatinate, *Kirchenratsordnung*, 1564; report, 1571 | 14 | trial sermon; new men to serve first as deacons; monthly convents with sermon criticism (7.3–7.5) |
-| Hesse, 1566 | 8 | candidates kept at Marburg for lectures; sextons held to ministers' conduct; confirmation and first communion together; infant communion deferred; catechism before marriage (7.3, 8.4, 11.3, 11.4, 11.6) |
+| Palatinate, *Kirchenratsordnung*, 1564; report, 1571 (Reformed) | 14 | trial sermon; new men to serve first as deacons; monthly convents with sermon criticism (7.3–7.5) |
+| Hesse, 1566 (mediating) | 8 | candidates kept at Marburg for lectures; sextons held to ministers' conduct; confirmation and first communion together; infant communion deferred; catechism before marriage (7.3, 8.4, 11.3, 11.4, 11.6) |
 | Lasseln (Transylvania), 1572; Mediasch synod, 1572 | 24 | elected deans; magistrate nourisher of churches and schools (4.4, 10.1) |
 | Regensburg, 1572/1588 | 13 | children of eight to ten not hurried to communion; buried like adults if they die first (11.2, 11.6) |
 | Oldenburg, 1573 | 7/2.1 | infants cannot examine themselves (11.6) |
 | Pfalz-Zweibrücken, 1574 | 18 | catechism before marriage, for the household's sake (11.4) |
-| Nassau-Dillenburg, *Agende*, 1575 | 10 | sick child communicated before confirmation (11.6) |
+| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10 | sick child communicated before confirmation (11.6) |
 | Nassau-Weilburg, 1576 | 10 | absentees counted house by house and fined; registers of confirmations (3.4, 8.1) |
 | Pfalz-Neuburg, 1576 | 13 | four-point examination before marriage; consistory book of candidates (7.4, 11.4) |
 | Hohenlohe, 1578; 1588 | 15 | daily hour of instruction in Lent before first communion at about twelve; communion once or twice a year; children saved without the Supper (8.1, 11.2, 11.6) |
@@ -1798,17 +1816,17 @@ question, in date order. Section numbers refer to this guide.
 | Mansfeld, 1580 | 2 | monthly public examination and confirmation before first communion; no marriage without the catechism (11.3, 11.4) |
 | Hoya, 1581 | 6/2 | residence and leave; books bought by the parish; ministers and sextons out of taverns (3.2, 3.4, 8.4) |
 | Henneberg, 1582 | 2 | uncommunicated children buried like adults (11.6) |
-| Dillenburg synod, 1582 | 10 | domestic visitation; prayer at home morning, evening and at meals (8.2) |
+| Dillenburg synod, 1582 (Reformed) | 10 | domestic visitation; prayer at home morning, evening and at meals (8.2) |
 | Lauenburg, 1585 | 5 | confirmation twice a year, with parents and godparents (11.3) |
 | Regensburg, 1588 | 13 | lay president of the consistory (5.2) |
 | Strasbourg, 1598 | 20/1 | pastor's office in one visitation article (3.1) |
 | Grubenhagen, 1600 | 6/2 | superintendent's sworn instruction (4.3) |
-| Palatinate mandates, 1599, 1607, 1608 | 19/2 | new deacons' sermon outlines censured; no citizenship or marriage without the catechism (7.4, 11.4) |
-| Hanau, 1609, 1612; Ysenburg-Birstein, 1608 | 10 | magistrate over bodies, not souls; weekly consistory sessions (5.2, 5.3, 10.3) |
+| Palatinate mandates, 1599, 1607, 1608 (Reformed) | 19/2 | new deacons' sermon outlines censured; no citizenship or marriage without the catechism (7.4, 11.4) |
+| Hanau, 1609, 1612; Ysenburg-Birstein, 1608 (all Reformed) | 10 | magistrate over bodies, not souls; weekly consistory sessions (5.2, 5.3, 10.3) |
 | Limpurg, 1610 | 16 | couple to come three weeks before the wedding (11.5) |
-| Hessen-Kassel, 1610 | 9 | confession repeated half a year after confirmation (11.3) |
+| Hessen-Kassel, 1610 (Reformed) | 9 | confession repeated half a year after confirmation (11.3) |
 | Schwäbisch Hall, 1615 revision | 17/1 | confession and communion before the wedding; catechism examined in confession (11.5) |
-| Wied, 1616 | 19/1 | marriage on a pledge, with sureties, to attend catechism (11.4) |
+| Wied, 1616 (Reformed) | 19/1 | marriage on a pledge, with sureties, to attend catechism (11.4) |
 
 ---
 
@@ -1820,18 +1838,18 @@ Orders cited only in summary can be found through the table in §12 and the text
 
 | Order | Sehling | Doc | Quoted in § |
 |---|---|---|---|
-| Augsburg, *Kirchenordnung*, 1537 | 12, p. 55 | 338 | 4.1 |
+| Augsburg, *Kirchenordnung*, 1537 (mediating) | 12, p. 55 | 338 | 4.1 |
 | Belzig, *Ordnung der Stadt Belzig*, 1529 | 1, p. 527 | 63 | 11.1 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 188 | 270 | 8.2 |
 | Electoral Saxony, *Generalia, alle superintendentes belangende*, 1555 | 1, pp. 313, 314, 315 | 36 | 3.5, 7.2, 11.1 |
 | Electoral Saxony, *General-Artikel und gemeiner Bericht*, 1557 | 1, pp. 320–321, 322 | 37 | 3.2, 3.3, 4.2, 7.3 |
-| Esslingen, *Artikel für den deutschen Schulmeister*, [1534] | 17/2, p. 381 | 881 | 9.1 |
+| Esslingen, *Artikel für den deutschen Schulmeister*, [1534] (mediating) | 17/2, p. 381 | 881 | 9.1 |
 | Grubenhagen, *Officium superintendentis Grubenhagici*, 1600 | 6/2, p. 1109 | 2058 | 4.3 |
-| Hanau-Münzenberg, *Presbyteriumsordnung*, [1609] | 10, p. 512 | 211 | 10.3 |
+| Hanau-Münzenberg, *Presbyteriumsordnung*, [1609] (Reformed) | 10, p. 512 | 211 | 10.3 |
 | Henneberg, *Kirchenordnung*, 1582 | 2, p. 316 | 1247 | 11.6 |
-| Hesse, *Stipendiatenordnung*, 1546 | 8, p. 159 | 2255 | 6 |
-| Hesse, *Kirchenordnung*, 1566 | 8, pp. 201, 211, 286–287 | 2257 | 7.3, 8.4, 11.6 |
-| Hessen-Kassel, *Konsistoriumsordnung*, 1610 | 9, p. 118 | 2287 | 11.3 |
+| Hesse, *Stipendiatenordnung*, 1546 (mediating) | 8, p. 159 | 2255 | 6 |
+| Hesse, *Kirchenordnung*, 1566 (mediating) | 8, pp. 201, 211, 286–287 | 2257 | 7.3, 8.4, 11.6 |
+| Hessen-Kassel, *Konsistoriumsordnung*, 1610 (Reformed) | 9, p. 118 | 2287 | 11.3 |
 | Hohenlohe, *Kirchenordnung*, 1578 | 15, pp. 277, 334 | 574 | 11.2, 11.6 |
 | Hohenlohe, *Polizei- und Rügordnung*, 1588 | 15, p. 594 | 613 | 8.1 |
 | Hoya, *Kirchenordnung*, 1581 | 6/2, p. 1140 | 2065 | 3.4 |
@@ -1840,16 +1858,16 @@ Orders cited only in summary can be found through the table in §12 and the text
 | Mansfeld, *Kirchen-agenda*, 1580 | 2, p. 233 | 1241 | 11.3 |
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, p. 189 | 1922 | 10.1 |
 | Nassau-Dillenburg, *Synodalabschied*, 1552 | 10, p. 93 | 172 | 7.5 |
-| Nassau-Dillenburg, *Agende*, 1575 | 10, p. 155 | 182 | 11.6 |
-| Nassau-Dillenburg, *Abschied der Dillenburger Generalsynode*, 1582 | 10, p. 173 | 186 | 8.2 |
+| Nassau-Dillenburg, *Agende*, 1575 (mediating) | 10, p. 155 | 182 | 11.6 |
+| Nassau-Dillenburg, *Abschied der Dillenburger Generalsynode*, 1582 (Reformed) | 10, p. 173 | 186 | 8.2 |
 | Nassau-Weilburg, *Kirchenordnung*, 1576 | 10, p. 309 | 198 | 8.1 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, p. 1047 | 2148 | 11.6 |
-| Palatinate, *Mandat zu den Konventen, der Predigtaufsicht und den Diakonen*, 1607 | 19/2, p. 957 | 1195 | 7.4 |
-| Palatinate, *Kirchenratsordnung*, 1564 | 14, p. 413 | 504 | 7.4 |
-| Palatinate, Wenzel Zuleger's report on the classical convents, [1571] | 14, p. 446 | 504 | 7.5 |
+| Palatinate, *Mandat zu den Konventen, der Predigtaufsicht und den Diakonen*, 1607 (Reformed) | 19/2, p. 957 | 1195 | 7.4 |
+| Palatinate, *Kirchenratsordnung*, 1564 (Reformed) | 14, p. 413 | 504 | 7.4 |
+| Palatinate, Wenzel Zuleger's report on the classical convents, [1571] (Reformed) | 14, p. 446 | 504 | 7.5 |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 195 | 404 | 11.4 |
 | Pfalz-Zweibrücken, *Kirchenordnung*, 1574 | 18, p. 529 | 1011 | 11.4 |
-| Rappoltstein, Arnaud Banc's report on the doctrine of the French congregation, 1561 | 20/2, p. 142 | 1371 | 11.6 |
+| Rappoltstein, Arnaud Banc's report on the doctrine of the French congregation, 1561 (Reformed) | 20/2, p. 142 | 1371 | 11.6 |
 | Regensburg, *Kirchenregimentsordnung*, 1572/1588 | 13, p. 510 | 452 | 11.6 |
 | Regensburg, *Ordnung des consistorii*, 1588 | 13, pp. 513–514 | 453 | 5.2 |
 | Saxe-Weimar, *Ordnung und reformation ecclesiastici consistorii zu Jena*, 1569 | 1, p. 234 | 24 | 5.1 |
@@ -1859,5 +1877,5 @@ Orders cited only in summary can be found through the table in §12 and the text
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 689 | 1344 | 3.1 |
 | Transylvania, Statutes of the Chapter of Lasseln, 1572 | 24, p. 361 | 1692 | 4.4 |
 | Transylvania, *Bekenntnisformel der Mediascher Synode*, 1572 | 24, p. 349 | 1691 | 10.1 |
-| Wied, *Kirchen- und Polizeiordnung*, 1616 | 19/1, p. 500 | 1100 | 11.4 |
+| Wied, *Kirchen- und Polizeiordnung*, 1616 (Reformed) | 19/1, p. 500 | 1100 | 11.4 |
 | Württemberg, *Ordnung des Tübinger Stipendiums*, 1559 | 17/1, p. 561 | 813 | 7.2 |

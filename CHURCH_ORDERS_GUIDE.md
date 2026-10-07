@@ -126,8 +126,8 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 
 | Tradition | Code | Texts |
 |---|---|---|
-| Lutheran | L | 1955 |
-| Reformed | R | 334 |
+| Lutheran | L | 1953 |
+| Reformed | R | 336 |
 | Moderate / mediating (Bucerian, Upper German, Philippist) | M | 232 |
 | Anglican | A | 1 |
 | Hussite (Unity of the Bohemian Brethren) | H | 3 |
@@ -139,15 +139,16 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 | Anabaptist (civic toleration of the Anabaptists) | ANA | 1 |
 | Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received side by side) | T | 25 |
 
-- **Lutheran** (1,955): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
+- **Lutheran** (1,953): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
   Hanse towns, Lower Saxony, Franconia, Württemberg, Hohenlohe and most of the imperial cities
   after 1552.
-- **Reformed** (334): above all the Electoral Palatinate (from 1561/63) and the "Second
+- **Reformed** (336): above all the Electoral Palatinate (from 1561/63) and the "Second
   Reformation" counties of the Wetterau and the Rhine (Nassau-Dillenburg, Hanau-Münzenberg,
   Ysenburg, Solms-Braunfels, Sayn, Wied, Wittgenstein, Moers, Bentheim-Tecklenburg),
-  Pfalz-Zweibrücken (1588), Hessen-Kassel (1600/1605), Lippe (1600), Anhalt (1596), Bremen (from
-  1580), Emden and the East Frisian Reformed congregations, the London Dutch church, Mülhausen
-  (Mulhouse), and the French refugee churches of Frankfurt, Wetzlar and the Lebertal.
+  Pfalz-Zweibrücken (1588), Pfalz-Simmern (1598, under the Electoral Palatinate), Hessen-Kassel
+  (1600/1605), Lippe (1600), Anhalt (1596), Bremen (from 1580), Emden and the East Frisian
+  Reformed congregations, the London Dutch church, Mülhausen (Mulhouse), and the French refugee
+  churches of Frankfurt, Wetzlar and the Lebertal.
 - **Moderate or mediating** (232): Bucer's Strasbourg and the Upper German cities before the
   Interim (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach, Gengenbach,
   Landau, Worms, early Frankfurt); Philip's Hesse and the joint Hessian orders to 1582; Hermann
@@ -331,7 +332,7 @@ order.
 ### 3.1 Lutheran (L)
 
 Orders of territories and cities that held to the Augsburg Confession in its Lutheran reading,
-from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,955 texts.
+from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,953 texts.
 Volumes 3, 5, 6/1, 6/2, 7/2.1, 11, 15, 16 and 23 are wholly Lutheran, and volume 1 is too, save
 Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded
 mediating), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1 (Strasbourg) and 20/2
@@ -363,6 +364,7 @@ Swiss-allied city of Mülhausen.
 - County of Sayn (Sehling 19/1, §28): 3 texts, 1606-1619.
 - County of Wied (Sehling 19/1, §28): 8 texts, 1564-1619.
 - Electoral Palatinate (supplement to vol. 14) (Sehling 19/2, §29): 61 texts, 1585-1610.
+- Principality of Pfalz-Simmern (Sehling 19/2, §29): 2 texts, 1598.
 - Lordship of Rappoltstein (Sehling 20/2, §31): 10 texts, 1558-1569.
 - Imperial city of Mülhausen (Mulhouse) (Sehling 20/2, §31): 27 texts, 1523-1582.
 - County of Lippe (Sehling 21, §32): 1 text, 1600.
@@ -707,7 +709,7 @@ Interimszeit" (Sehling 11, p. 292).
 | County of Sayn | 19/1 | 28.5 | 16 | 1560-1619 | Lutheran; Reformed from 1605 |
 | County of Wied | 19/1 | 28.6 | 8 | 1564-1619 | Reformed |
 | Wild- and Rhinegraviate | 19/2 | 29.1 | 22 | 1563-1618 | Lutheran |
-| Principality of Pfalz-Simmern | 19/2 | 29.2 | 3 | 1560-1598 | Lutheran |
+| Principality of Pfalz-Simmern | 19/2 | 29.2 | 3 | 1560-1598 | Lutheran; Reformed from 1598 |
 | County of Pfalz-Veldenz (supplement to vol. 18) | 19/2 | 29.3 | 1 | 1571-1571 | Lutheran |
 | Electoral Palatinate (supplement to vol. 14) | 19/2 | 29.4 | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577; Reformed from 1583 |
 | Imperial city of Strasbourg | 20/1 | 30.1 | 79 | 1523-1617 | Moderate; Lutheran from 1549 |
@@ -3939,13 +3941,13 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 29.2 Principality of Pfalz-Simmern
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran; Reformed from 1598. Duke Reichard held to the Augsburg Confession until his death on 14 January 1598, when the principality fell to the Electoral Palatinate. The two mandates of 1598 were issued from Heidelberg under Elector Frederick IV, and the first ordered the churches cleared "im reformierten Sinne" (Sehling 19/2, p. 656).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
 | 1 | Klosterordnung 1560 | 1560 | 19/2, p. 657 | 1125 | Monastery / chapter | L |  |
-| 2 | Mandat zur Abschaffung der Bilder und Altäre 1598 | 1598 | 19/2, p. 661 | 1126 | Mandate / decree | L |  |
-| 3 | Mandat zur geistlichen Güterverwaltung 1598 | 1598 | 19/2, p. 662 | 1127 | Mandate / decree | L |  |
+| 2 | Mandat zur Abschaffung der Bilder und Altäre 1598 | 1598 | 19/2, p. 661 | 1126 | Mandate / decree | R |  |
+| 3 | Mandat zur geistlichen Güterverwaltung 1598 | 1598 | 19/2, p. 662 | 1127 | Mandate / decree | R |  |
 
 ### 29.3 County of Pfalz-Veldenz (supplement to vol. 18)
 
