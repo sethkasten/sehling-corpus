@@ -153,9 +153,22 @@ finished the Latin (Braunschweig-Wolfenbüttel 1543).
 
 **6. Creed: three layers, and two creeds** (§9). The priest intoned *Credo in unum Deum*, the
 scholars sang the Latin *Patrem*, and the people "Wir glauben all" (Wittenberg 1533 and most
-Saxon and northern orders). Prussia (1525) forbade the priest's intonation. Hesse (1566) put the
-**Apostles' Creed** in the Mass every Sunday, with the Nicene or Athanasian on the feasts of
-Christ; the Reformed did the same at the Supper.
+Saxon and northern orders). Prussia (1525) forbade the priest's intonation. Which creed (§9.4):
+- **Nicene only**: the Saxon, Bugenhagen and Franconian orders, in Latin, in German verse by
+  verse (Braunschweig 1528, Hamburg 1529), or as "Wir glauben".
+- **Apostles' only**:
+  - Strasbourg 1524, sung after the sermon, "the great *Patrem* … sung by some";
+  - the Goslar foundation 1534;
+  - the Upper German pulpit (Württemberg 1553);
+  - the Reformed Supper (Frankfurt's French church 1554, the Palatinate 1563).
+- **A free choice**: Hesse 1574 (the Apostles' Creed, Luther's paraphrase, or the Nicene);
+  Kurland 1570.
+- **By occasion**:
+  - Hesse 1566: the Apostles' Creed every Sunday, the Nicene or Athanasian on the feasts of
+    Christ;
+  - Rothenberg 1618: "Wir glauben" on Sundays, the Apostles' Creed on other feasts;
+  - Prussia 1568 and Feuchtwangen 1563: the Latin Nicene and the German creed on alternate
+    Sundays.
 
 **7. The Preface was optional; the Sanctus moved** (§10). The Preface was required in only a few
 orders, festal or optional in most, absent in the *Deutsche Messe*, Nürnberg, Albertine Saxony
@@ -175,10 +188,24 @@ in Prussia 1525 and Livonia 1533, "for brevity's sake", the first ending *misere
 the second *dona nobis pacem*. **Once** in the Albertine *Cellische Ordnungen* (1545). It stood
 before, during or after the distribution.
 
-**10. No *Ite missa est*; the Aaronic blessing** (§13). The *Ite* was replaced by *Benedicamus*
-(*Formula missae*; Volprecht, "and never *Ite missa est*"; Nürnberg 1533) or simply dropped.
-Only Breslau (1557) kept it beside the *Benedicamus*. The blessing of Numbers 6 is the rule,
-with Psalm 67, a Trinitarian blessing and 2 Corinthians 13 as alternatives.
+**10. No *Ite missa est*; Benedicamus or nothing; Aaronic, Trinitarian or both** (§13).
+- **The *Ite missa est***: kept only at Breslau (1557, beside the *Benedicamus*) and in the
+  Ansbach visitation of 1536.
+- **The *Benedicamus***, in its place:
+  - in Latin, in the *Formula missae* and the Franconian, Pfalz-Neuburg, Regensburg, Hohenlohe,
+    Henneberg and Transylvanian orders;
+  - in German, in the early German Masses (Müntzer, Erfurt, Lippe, Worms, Strasbourg) and at Hof
+    in 1592.
+- **Neither**: the *Deutsche Messe* and most Saxon, Bugenhagen and Upper German orders end with
+  the collect and the blessing.
+- **The blessing**:
+  - the Aaronic blessing is the rule;
+  - Worms and Strasbourg (1524) and Regensburg (1542) used a Trinitarian blessing alone;
+  - Strasbourg put both together;
+  - Brandenburg-Nürnberg (1533) offered four forms (Numbers 6, Psalm 67 and two Trinitarian), a
+    set copied by a dozen orders;
+  - Prussia (1525) sang Psalm 67 on feasts and the Aaronic blessing on ordinary days;
+  - Strasbourg (1598) closed the sermon with the Trinitarian blessing and the Supper with both.
 
 **11. Without communicants, no Mass** (§14). The service stopped after the sermon with a psalm,
 a collect and the blessing (Pomerania 1535; Mecklenburg 1552; Saxony 1580), or fell back to an
@@ -989,6 +1016,115 @@ Palatinate. The places of the creed-hymn as offertory, as cover for the preacher
 the pulpit, and as a substitute for "Nun bitten wir" are in
 [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §§9.1–9.4.
 
+### 9.4 Which creed, order by order
+
+**Four practices.** A search of the corpus for the creeds named in or near the Mass (*Credo in
+unum Deum*, *Patrem*, *symbolum Nicenum*, *symbolum apostolicum*, *Credo in Deum Patrem*, "Ich
+glaub in Gott Vater", *Athanasii*) gives four practices:
+- **The Nicene Creed only**, in Latin, in German verse by verse, or as Luther's "Wir glauben
+  all". This is the rule of the Saxon, Bugenhagen and Franconian orders.
+- **The Apostles' Creed only**, sung or said: Strasbourg, the foundation Mass at Goslar, the
+  Upper German pulpit, the Reformed Supper.
+- **A choice left open**, Nicene or Apostles', Latin or German, with no rule for when.
+- **A choice by occasion**: one creed on Sundays, another on feasts.
+
+**Strasbourg: the Apostles' Creed sung, the Nicene by some.** The Strasbourg German Mass of 1524
+prints the Apostles' Creed with notes after the sermon, in Matthäus Greiter's setting, and
+leaves the Nicene to those who want it. **Strasbourg, *Ordenung und inhalt Teutscher Mess*,
+1524** (Sehling 20/1, p. 138):
+
+<!-- doc 1279 -->
+> Folget die Predig Darnach der Glaub Ich glaub in Got Vater, den almechtigen, schöpffer himmels
+> und der erden […] Das groß Patrem, das man nennt Symbolum Nicenum, würt von etlichen gesungen
+
+Then followeth the sermon. Thereafter the Creed: "I believe in God the Father Almighty, maker of
+heaven and earth" […] The great *Patrem*, which is called the Nicene Creed, is sung by some.
+
+The earlier Strasbourg Mass of Theobald Schwarz (1524) had the Nicene Creed in German, "Ich
+glaub in ein Gott, den almechtigen vattern" (Sehling 20/1, p. 121).
+
+**By occasion: Sundays and feasts.** Hesse (1566) gave the Apostles' Creed to every Sunday and
+the Nicene or Athanasian to the feasts of Christ (§9.2). The Rothenberg ministers of 1618
+reversed the scheme: "Wir glauben" on Sundays, the Apostles' Creed word for word on the other
+feasts. **Rothenberg, *Christliche vereinigung* of the ministers, 1618** (Sehling 13, p. 548):
+
+<!-- doc 460 -->
+> Nach abtretung der knaben, sing man die sontäg den gewöhnlichen glauben: Wir glauben all an
+> einen Gott etc. Die andern feiertäg aber das symbolum apostolicum deutsch von worts zu worts:
+> Ich glaub in Gott Vater, allmechtigen etc.
+
+After the boys have stepped down, let the customary creed be sung on the Sundays: "We all
+believe in one God", etc. But on the other holy days the Apostles' Creed in German, word for
+word: "I believe in God the Father Almighty", etc.
+
+**A free choice of three.** The Hessian *Agende* of 1574 lets the Apostles' Creed, Luther's
+creed-hymn or the Nicene be sung after the gospel. On occasion the Nicene or the Athanasian
+Creed might instead be read aloud at the altar. **Hesse, *Agende*, 1574** (Sehling 8, p. 411):
+
+<!-- doc 2272 -->
+> Auf verlesung des evangelii wird gesungen das symbolum apostolicum teutsch, von wort zu wort,
+> oder wie es Doctor Luther paraphrastice in gesangsweise gestelt hat, oder das symbolum Nicenum
+> teutsch. Man mag auch je bisweilen nach dem evangelio das teutsch Grates nunc omnes, oder
+> einen andern kurzen gesang singen und darauf das symbolum Nicenum oder Athanasianum mit klarer
+> stimm dem volk für dem altar fürlesen
+
+Upon the reading of the gospel is sung the Apostles' Creed in German, word for word, or as
+Doctor Luther hath set it in the manner of a song by way of paraphrase, or the Nicene Creed in
+German. One may also now and then, after the gospel, sing the German *Grates nunc omnes*, or
+another short song, and thereupon read the Nicene or Athanasian Creed with a clear voice to the
+people before the altar.
+
+The Hessian *Agende* counts "Wir glauben all" as a paraphrase of the Apostles' Creed, not of the
+Nicene. The Corvey order for Bruchhausen (1603) does the same: "the Apostles' Creed, as Dr
+Luther set it in German in the manner of a song", where Sehling's editors identify the song as
+"Wir glauben all" (Sehling 21, p. 244). Most orders, and the modern editors, take it as the
+Nicene.
+
+**The table.** The orders that say which creed belongs in the Sunday Mass or service:
+
+| Order | Sehling | Creed | By occasion |
+|---|---|---|---|
+| Luther, *Formula missae*, 1523 | 1, p. 5 | Nicene, Latin, at the bishop's choice | — |
+| Volprecht, Nürnberg, 1524 | 11, p. 41 | Nicene in German, "Ich glaub in einen Gott" | — |
+| Schwarz, Strasbourg, 1524 | 20/1, p. 121 | Nicene in German | — |
+| Strasbourg, *Ordenung und inhalt*, 1524 | 20/1, p. 138 | Apostles' Creed, sung after the sermon | Nicene "by some" |
+| Luther, *Deutsche Messe*, 1526 | 1, p. 14 | "Wir glauben all" | — |
+| Braunschweig 1528; Hamburg 1529 | 6/1, p. 440; 5, p. 531 | priest intones "Ick love an eynen Got"; people sing the whole Nicene in Low German verse by verse; then "Wy gelöven" | — |
+| Goslar, town order, 1528 | 7/2.2, p. 242 | "the Nicene Creed or the German *Patrem*, Wir glauben" | — |
+| Goslar, foundation of St. Simon and Jude, 1534 | 7/2.2, p. 263 | *Credo in Deum Patrem* (Apostles') after the gospel | — |
+| Wittenberg 1533 and the Saxon and Bugenhagen orders | §9.1 | *Credo in unum Deum* intoned, Latin *Patrem*, "Wir glauben" | "Wir glauben" alone for brevity |
+| Northeim 1539 | 6/2, p. 925 | "the Nicene Creed or Wir glauben in German" | — |
+| Brandenburg 1540 | 3, p. 68 | Latin *Patrem* | in cathedrals and foundations; "Wir glauben" in parishes |
+| Schwäbisch Hall, 1543 (1615 revision) | 17/1, p. 163 | a hymn "with the Apostles' Creed, as a mark of the Church", or "Nun bitten wir", at the start of the Sunday service | — |
+| Württemberg 1553 | 16, pp. 239, 252 | German creed sung after the sermon; the Apostles' Creed said from the pulpit every Sunday with the Decalogue and Lord's Prayer | — |
+| Frankfurt, French Reformed church, 1554 | 9, p. 567 | Apostles' Creed sung by the people while the bread and wine are brought | — |
+| Sangerhausen 1555 | 1, p. 658 | "the customary Nicene Creed in German" | — |
+| Hamburg, Latin account, 1556 | 5, p. 543 | *symbolum apostolorum* after the gospel, before the Latin Preface | — |
+| Ritzebüttel (Hamburg), 1556 | 5, p. 559 | Apostles' Creed after the gospel | on apostles' days and lesser holy days |
+| Feuchtwangen 1563 | 11, p. 399 | *Credo in unum Deum Patrem omnipotentem* one Sunday, the German creed the next | alternating Sundays |
+| Palatinate 1563 | 14, p. 386 | Apostles' Creed within the Supper form (§4.7) | — |
+| Hesse 1566 | 8, pp. 242–243, 254 | Apostles' Creed every Sunday; "Wir glauben" or the Apostles' Creed in the shorter service | Nicene or Athanasian on the feasts of Christ |
+| Prussia 1568 | 4, p. 81 | Latin Nicene in the cathedral | elsewhere alternating Sunday by Sunday with "Wir glauben" |
+| Pomerania, *Agenda*, 1569 | 4, p. 438 | Nicene in Latin or Low German, or "Wi gelöven" | — |
+| Kurland 1570 | 5, p. 88 | Latin *Patrem*, or the Apostles' Creed sung ("Ich gleub an gott vater"), or "Wir gleuben" | — |
+| Hesse, *Agende*, 1574 | 8, p. 411 | Apostles' word for word, Luther's paraphrase, or Nicene in German | Nicene or Athanasian sometimes read aloud |
+| Weissenfels 1578 | 1, p. 693 | figured Nicene before the German creed | some days |
+| Corvey (Bruchhausen) 1603 | 21, p. 244 | "Wir glauben all", called the Apostles' Creed | — |
+| Rothenberg 1618 | 13, p. 548 | "Wir glauben all" on Sundays | Apostles' word for word on other feasts |
+
+**What the table shows.**
+- The Nicene Creed, sung in Latin by the choir and in German by the people, is the Lutheran norm
+  north and east.
+- The Apostles' Creed entered the Mass from three directions:
+  - the Upper German sermon service (Strasbourg, Schwäbisch Hall, Württemberg's pulpit);
+  - the Reformed Supper (Frankfurt's French church, the Palatinate);
+  - Hesse, where it was the creed of the whole congregation every Sunday.
+- The Athanasian Creed was never the Sunday creed. It was read on the feasts of Christ in Hesse
+  and on Trinity Sunday in a few places (§9.2), and otherwise belonged to the morning office.
+- The weekday offices of Naumburg (1537) and Nördlingen (1544, 1579) gave the Nicene Creed its
+  own day, Friday or Thursday, in a weekly round of canticles
+  (Sehling 2, p. 72; 12, pp. 326, 377); that is office, not Mass.
+
 ---
 
 ## 10. The Preface and the Sanctus
@@ -1187,18 +1323,31 @@ the Latin Agnus and the hymns during the communion: "but not longer than the com
 
 ## 13. The dismissal and the blessing
 
-**No *Ite missa est*.** The *Ite missa est* had marked the end of the sacrifice. The evangelical
-orders dropped it, with three exceptions:
-- **Replaced by *Benedicamus Domino*.** The *Formula missae* (§3.2); Volprecht at Nürnberg
-  (1524); Brandenburg-Nürnberg 1533 ("*Benedicamus Domino. Deo gratias*"); Transylvania 1547.
-- **Kept beside it.** The Breslau report of 1557: "with the *Benedicamus* or *Ite missa est* the
-  Mass is closed" (Sehling 3, p. 404). The Brandenburg-Ansbach visitation of 1536 kept the old
-  order of the Mass "from the *Confiteor* to the end of the Mass, *Ite missa est*", so far as it
-  was not against Scripture (Sehling 11, p. 326).
-- **Simply gone.** Most German orders end with the collect and the blessing.
+The Roman Mass ended with *Ite missa est* (or *Benedicamus Domino* in Masses without the
+Gloria), and then the priest's blessing, *Benedicat vos omnipotens Deus, Pater et Filius et
+Spiritus Sanctus*, a Trinitarian blessing (Sehling 11, p. 42, note 21). The evangelical orders
+changed both. The *Benedicamus* in the offices, its seasonal melodies and its German forms are
+treated in [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §§16.8–16.10; the closing hymns
+in §15 of the same guide.
 
-Volprecht's rubric is explicit. **Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524**
-(Sehling 11, p. 39):
+### 13.1 *Ite missa est*, *Benedicamus*, or neither
+
+**Three practices.** A search of every *Ite missa est* and every *Benedicamus* near the end of
+the Mass gives three practices:
+- **The *Ite* kept.** Only two places:
+  - the Breslau report of 1557: "with the *Benedicamus* or *Ite missa est* the Mass is closed"
+    (Sehling 3, p. 404);
+  - the Brandenburg-Ansbach visitation of 1536, which kept the old order "from the *Confiteor*
+    to the end of the Mass, *Ite missa est*", so far as it was not against Scripture
+    (Sehling 11, p. 326). The Ansbach order of 1548 then put "the *Benedicamus* for the *Ite
+    missa*" (Sehling 11, p. 327).
+- **The *Benedicamus* in its place**, in Latin or in German (lists below).
+- **Neither.** Luther's *Deutsche Messe* and most Saxon, Bugenhagen, Upper German and Reformed
+  orders end with the thanksgiving collect and the blessing, and at most a hymn after it.
+  Pomerania (1535): "after the Amen nothing more is sung" (Sehling 4, p. 341).
+
+**Never *Ite missa est*.** Volprecht's Nürnberg Mass makes the rule explicit. **Nürnberg,
+*Deutsche Messe* of the Prior Volprecht, 1524** (Sehling 11, p. 39):
 
 <!-- doc 247 -->
 > Benechctio: ista dicitur et nunquam dicitur Ite missa est; loco ejus dicitur Benedicamus
@@ -1207,21 +1356,200 @@ Volprecht's rubric is explicit. **Nürnberg, *Deutsche Messe* of the Prior Volpr
 The blessing: this is said, and never is *Ite missa est* said; in its place is said *Benedicamus
 Domino*; response: *Deo gratias*.
 
-**The blessing.** The Aaronic blessing of Numbers 6 is the rule from the *Formula missae*
-onward, in the singular ("Der Herr segne dich") in the *Deutsche Messe* and the Saxon orders, in
-the plural ("Der Herr gesegen euch") in Nürnberg 1533. Alternatives:
-- Psalm 67 ("God, even our own God, shall bless us"): the *Formula missae*;
-- "God be gracious unto us and merciful, and give us his divine blessing": Nürnberg 1533,
-  Württemberg 1553;
-- the Trinitarian blessing, "Bless and keep us, God the Father, Son and Holy Ghost": Nürnberg
-  1533, Württemberg 1553, Transylvania 1547;
-- 2 Corinthians 13:13: Hesse 1566 (Sehling 8, p. 248).
+**The Latin *Benedicamus*:**
+- Luther, *Formula missae* (1523): in the place of the *Ite*, "with alleluia added (where and
+  when it pleaseth)", or with the vesper melodies (§3.2; Sehling 1, p. 6);
+- Nürnberg, *Form und Ordnung einer christlichen Messe* (1525): "*Benedicamus Domino*,
+  *dominicaliter*", then "Es woll uns Gott genädig sein" (Sehling 11, p. 57);
+- Goslar (1528): the collect "with the *Benedicamus*" sung by the boys in the choir after the
+  distribution (Sehling 7/2.2, p. 242);
+- Brandenburg-Nürnberg (1533), followed by the blessing (quoted below, Sehling 11, p. 198);
+- Regensburg (1542): the gospeller sings *Deo dicamus gratias*; Regensburg (1553): the second
+  minister sings *Benedicamus Domino*, the choir *Deo dicamus gratias*
+  (Sehling 13, pp. 393, 421);
+- Pfalz-Neuburg (1543): sung by the priest or the deacons "in the tone in which the Kyrie was
+  sung", the choir answering in the same tone *Deo dicamus gratias* (Sehling 13, p. 76);
+- Transylvania (1547): *Dominus vobiscum*, collect and *Benedicamus*, all concluded "with the
+  blessing of the people in the name of the Holy Trinity" (Sehling 24, pp. 223, 244);
+- Hohenlohe (1553): "the collect with *Benedicamus Domino*", then the Aaronic blessing
+  (Sehling 15, p. 73); the Öhringen foundation (1556) prints its melody with the Mass
+  (Sehling 15, p. 104);
+- Suhl in Henneberg (1562): "Collect. *Benedicamus*. The blessing out of Moses"
+  (Sehling 2, p. 351);
+- Wolfstein (1574): "the thanksgiving, the *Benedicamus*, the choir answereth *Deo gratias*, and
+  the blessing" (Sehling 13, p. 577);
+- Chemnitz (1578): "the collect which is called the *complenda*, and the *Benedicamus* together
+  with the benediction, as is customary" (Sehling 1, p. 542).
 
-**After the blessing.** Pomerania (1535) ended there: "after the Amen nothing more is sung"
-(Sehling 4, p. 341). Mecklenburg (1552) added "Erhalt uns, Herr, bei deinem Wort" or "Verleih
-uns Frieden" (Sehling 5, p. 199), and Duke Henry's Saxony (1539) "Gott sei gelobet", "and so go
-home" (Sehling 1, p. 275). The closing hymns are in
-[`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §15.
+**The German *Benedicamus*.** The early German Masses put the versicle into German, and Hof kept
+it with its own melody in 1592:
+- Müntzer, Allstedt (1524): each German Mass ends with a prayer and the *Benedicamus*, "Last uns
+  gesegnen den herren, alleluia. Got sei ewiglich dank" (Sehling 1, pp. 497, 502);
+- Erfurt, *Deutsches Kirchenamt* (1525), after Müntzer: "Lasst uns gesegnen den herren. Gott sei
+  ewiglich dank", then the Aaronic blessing (Sehling 2, p. 380);
+- Lippe (1525), in Low German: "Ladt uns benedyen den hern, Gade sy ewich danck", then the
+  Aaronic blessing (Sehling 22, p. 569);
+- Volprecht's German Mass (1524), after the blessing: "Last uns den Herrn lob und dank sagen!
+  Antwort: Gott sei gedankt" (Sehling 11, p. 42);
+- Worms (1524): "Last uns gott gebenedeien", then a Trinitarian blessing (quoted below);
+- Strasbourg (1524): "Sagen danck dem herren", then the blessing (Sehling 20/1, pp. 133, 139);
+- Hof (1592): the deacon "addeth the German *Benedicamus*": "Last uns gebenedeien den Herren.
+  Chorus: Gott sei gedankt", then the Aaronic blessing (Sehling 11, pp. 426–427).
+
+**Before or after the blessing.** In most orders that kept it the *Benedicamus* came before the
+blessing, as in the Roman Mass. Brandenburg-Nürnberg 1528 put it after: "for the conclusion the
+benediction of Numbers 6 in German, thereafter *Benedicamus Domino* sung" (Sehling 11, p. 137).
+So did Volprecht's German Mass, and Nürnberg 1525, where the *Benedicamus* is followed by a
+hymn.
+
+### 13.2 The blessing: Aaronic, Trinitarian, or both
+
+**Five practices.** The blessings at the end of the Mass were searched in every form: Numbers 6,
+Psalm 67, the Trinitarian formulas ("Gott Vater, Sohn und heiliger Geist", *Benedicat vos …
+Pater et Filius*), and 2 Corinthians 13:13. They give five practices:
+- **The Aaronic blessing alone.** This is the rule, from the *Formula missae* onward. It is in
+  the singular ("Der Herr segne dich") in the *Deutsche Messe* and the Saxon orders, and in the
+  plural ("Der Herr gesegen euch") in Nürnberg and the south. Examples:
+  - Luther's *Deutsche Messe* (1526);
+  - Wittenberg (1533);
+  - Pomerania (1535);
+  - Mecklenburg (1552);
+  - Albertine Saxony (1580);
+  - Volprecht (1524) and Döber (1525) at Nürnberg;
+  - Lippe and Erfurt (1525);
+  - Weißenburg and Brandenburg-Nürnberg (1528);
+  - Hohenlohe (1553);
+  - Suhl (1562);
+  - Hof (1592);
+  - the Palatinate's Sunday service (1563, Sehling 14, p. 391).
+- **A Trinitarian blessing alone**: the early German Masses of Worms and Strasbourg (1524), and
+  Regensburg (1542), all quoted below. Transylvania (1547) blesses "in the name of the Holy
+  Trinity" without printing the words (Sehling 24, p. 223).
+- **The Aaronic and the Trinitarian together**, the second following the first: Strasbourg's
+  *Ordenung und inhalt Teutscher Mess* (1524): "Gesegne euch der herr … Der segen Got, des
+  vatters und des suns etc." (Sehling 20/1, p. 140); and the Strasbourg Supper of 1598 (quoted
+  below).
+- **A choice of forms**: the Brandenburg-Nürnberg set of four, and its descendants (below).
+- **Different blessings for different occasions**: Prussia (1525) and Strasbourg (1598) (below).
+
+**The Nürnberg set of four.** Brandenburg-Nürnberg gave four blessings to choose from: Numbers
+6; a paraphrase of Psalm 67; and two Trinitarian forms. **Brandenburg-Nürnberg,
+*Kirchenordnung*, 1533** (Sehling 11, p. 198):
+
+<!-- doc 270 -->
+> Benedicamus Domino. Deo gracias. Darnach segne er das volk also: Der Herr gesegen euch und
+> behüte euch! Der Herr erleuchte sein angesicht über euch und sei euch gnedig! Der Herr erhebe
+> sein angesicht auf euch und gebe euch fride! Amen. Oder also: Gott sei uns gnedig und
+> barmherzig und gebe uns seinen götlichen segen! Er laß uns sein angesicht leuchten und gebe
+> uns seinen frid! Amen. Oder also: Gesegen und behüte uns, Gott der Vater und der Sune und der
+> Heilig Gaist! Amen. Oder also: Der segen Gott des Vaters und des Suns und des Heiligen Gaists
+> sei mit euch und bleib allezeit mit uns allen! Amen.
+
+*Benedicamus Domino. Deo gratias.* Thereafter let him bless the people thus: "The Lord bless you
+and keep you! The Lord make his face shine upon you and be gracious unto you! The Lord lift up
+his countenance upon you and give you peace! Amen." Or thus: "God be gracious and merciful unto
+us and give us his divine blessing! May he cause his face to shine upon us and give us his
+peace! Amen." Or thus: "Bless and keep us, God the Father and the Son and the Holy Ghost! Amen."
+Or thus: "The blessing of God the Father and of the Son and of the Holy Ghost be with you and
+abide alway with us all! Amen."
+
+The set passed, whole or shortened, into these orders:
+
+| Order | Sehling | Forms offered |
+|---|---|---|
+| Brandenburg-Nürnberg 1533 | 11, p. 198 | Aaronic; Ps 67; "Gesegne und behüte uns, Gott der Vater …"; "Der Segen Gottes des Vaters …" |
+| Pfalz-Neuburg 1543 | 13, p. 76 | the same four |
+| Schwäbisch Hall 1543 | 17/1, p. 135 | Aaronic; the two Trinitarian forms |
+| Strasbourg 1553 (Marbach) | 20/1, p. 415 | the same four |
+| Württemberg 1553 | 16, p. 255 | Aaronic (singular); Ps 67; "Gesegne und behüte uns, Gott …" |
+| Kurpfalz 1556 | 14, p. 150 | as Württemberg, in the plural |
+| Worms, *Agendbüchlein*, 1560 | 19/1, p. 210 | the same four |
+| Leiningen-Westerburg 1566 | 19/1, p. 253 | Aaronic; Ps 67; "Gesegne und behüte uns, Gott …" |
+| Regensburg 1567 | 13, p. 463 | Aaronic (singular), or "Es segne und behüte euch Gott der Vater, Gott der Son und Gott der Heilig Geist" |
+| Hanau-Lichtenberg 1573 | 20/2, p. 67 | Aaronic; Ps 67; "Gesegne und behüte uns, Gott …" |
+| Oldenburg 1573 | 7/2.1, p. 1145 | Aaronic (singular); Ps 67; the two Trinitarian forms |
+| Pfalz-Veldenz 1574; Lützelstein 1605 | 18, pp. 504, 607 | Aaronic with "Gehet hin, der Geist des Herrn geleite euch zum ewigen Leben", or "Der Segen Gottes, des Vaters und des Sohns und des heiligen Geistes … und sein heiliger Geist stärke und erhalte uns zum ewigen Leben" |
+
+**A Trinitarian blessing alone.** The first German Mass of Worms closed with a German
+*Benedicamus* and the Trinitarian blessing only. **Worms, *Deutsche Messe*, 1524**
+(Sehling 19/1, p. 129):
+
+<!-- doc 1066 -->
+> Last uns gott gebenedeien. Danck, lob, ere unnd preiß sei gott durch Christum, unsern herren,
+> Amen. Benedictio: Der segen des Almechtigen gottes, vatters, suns und heyligen geyst, sei mit
+> euch und bleib alweg bei euch. Amen.
+
+Let us bless God. Thanks, laud, honour and praise be to God through Christ our Lord, Amen. The
+blessing: "The blessing of Almighty God, Father, Son and Holy Ghost, be with you and abide alway
+with you. Amen."
+
+The Nunc dimittis followed. The two Strasbourg Masses of 1524 by Theobald Schwarz and in the
+*Teutsche Meß und Tauff* end the same way: "Der segen Gott, des vatters [+] und des suns [+] und
+des heiligen geists [+], sey mit uns und bleib alweg", with three signs of the cross
+(Sehling 20/1, pp. 123, 133). At Regensburg in 1542 the priest blessed with the Trinitarian form
+alone. **Regensburg, *Wahrhaftiger Bericht*, 1542** (Sehling 13, p. 393):
+
+<!-- doc 432 -->
+> Darnach kert sich der priester umb gegen dem volk und segnet dasselbig mit disen worten: Es
+> gesegne und behüte uns Gott der Vater, Sone und Heiliger Geist. Amen
+
+Thereafter the priest turneth about toward the people and blesseth them with these words: "Bless
+and keep us God the Father, Son and Holy Ghost. Amen."
+
+**By occasion: feasts and weekdays.** Prussia assigned a sung blessing from Psalm 67 to the
+feasts, and the Aaronic blessing to ordinary days, at the end of matins, vespers and the Mass
+alike. **Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525**
+(Sehling 4, pp. 37–38):
+
+<!-- doc 1833 -->
+> Volgen die benediction oder beschluss gesang am encl der metten, vesper und mess. Diebus
+> Festivis. Es wol uns gott seinen segen geben, unser got segen uns. [p. 38] […] Responsio. Und
+> es sollen ihn ferchten alle ende der welt amen. Quotitiana benedictio. Der herr erleuchte sein
+> angesicht über uns und sei uns gnedig
+
+There follow the benediction or closing chant at the end of matins, vespers and Mass. On feast
+days: "God give us his blessing, our God bless us." Response: "And all the ends of the world
+shall fear him, Amen." The daily benediction: "The Lord make his face shine upon us and be
+gracious unto us."
+
+**By occasion: the sermon and the Supper.** Strasbourg in 1598 closed the plain preaching
+service with the Trinitarian blessing alone, "Die Benedeiung Gottes, des Vatters, des Sohns und
+des heiligen Geistes, seie jetzt und zu allen zeiten mit uns allen" (Sehling 20/1, p. 589). It
+closed the Supper with the Aaronic and the Trinitarian together. **Strasbourg, *Kirchenordnung*,
+1598** (Sehling 20/1, p. 613):
+
+<!-- doc 1344 -->
+> Der Herr segne Euch und behüte Euch. Der Herr laß sein Angesicht leuchten uber Euch und sei
+> Euch gnädig. Der Herr hebe sein Angesicht uber Euch und geb Euch den Frieden. Die Benedeihung
+> Gottes, des Vaters, des Sohns und des heil. Geistes, seie jetzt und zu allen zeiten mit uns
+> allen, Amen. Gehet hin im Frieden des Herren
+
+"The Lord bless you and keep you. The Lord make his face shine upon you and be gracious unto
+you. The Lord lift up his countenance upon you and give you peace. The benediction of God, of
+the Father, of the Son and of the Holy Ghost, be now and at all times with us all, Amen." Go
+hence in the peace of the Lord.
+
+**2 Corinthians 13:13.** The apostolic blessing, "Die gnad unsers Herrn Jesu Christi und die
+liebe Gottes, sampt der gemeinschaft des heiligen Geistes", appears in two places:
+- Hesse (1566) gives it as the alternative to Numbers 6 when the minister dismisses the
+  congregation (Sehling 8, p. 248);
+- Nördlingen (1579) closes the pulpit prayers with it (Sehling 12, p. 368).
+
+**Psalm 67** stands beside the blessing in three forms:
+- Luther's third option in the *Formula missae*;
+- the second form of the Nürnberg set;
+- the sung feast-day blessing of Prussia.
+
+Where it was sung as Luther's hymn, "Es wolle uns Gott genädig sein", it closed the service
+after the blessing: Nürnberg 1525 (Sehling 11, p. 57), Strasbourg 1525 (Sehling 20/1, p. 147),
+and Hoya 1571, in a service without the Supper
+(Sehling 6/2, p. 1152; [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §15).
+
+**After the blessing.**
+- Pomerania (1535) ended there (Sehling 4, p. 341).
+- Mecklenburg (1552) added "Erhalt uns, Herr, bei deinem Wort" or "Verleih uns Frieden"
+  (Sehling 5, p. 199).
+- Duke Henry's Saxony (1539) added "Gott sei gelobet", "and so go home" (Sehling 1, p. 275).
 
 ---
 
@@ -1288,13 +1616,16 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 | Order | Sehling | Doc | Quoted in § |
 |---|---|---|---|
 | Wittenberg, Luther, *Formula missae*, 1523 | 1, pp. 5, 6 | 2 | 3.2 |
-| Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524 | 11, p. 39 | 247 | 13 |
-| Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525 | 4, p. 32 | 1832 | 4.4, 6.3, 12.1 |
+| Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524 | 11, p. 39 | 247 | 13.1 |
+| Strasbourg, *Ordenung und inhalt Teutscher Mess*, 1524 | 20/1, p. 138 | 1279 | 9.4 |
+| Worms, *Deutsche Messe*, 1524 | 19/1, p. 129 | 1066 | 13.2 |
+| Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525 | 4, pp. 32, 37–38 | 1832, 1833 | 4.4, 6.3, 12.1, 13.2 |
 | Wittenberg, Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | 3.3 |
-| Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 196–197 | 270 | 4.3 |
+| Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 196–197, 198 | 270 | 4.3, 13.2 |
 | Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, p. 704 | 148 | 7.1, 9.1 |
 | Pomerania, *Kirchenordnung*, 1535 | 4, p. 341 | 1856 | 4.2 |
 | Pomerania, *Kirchenordnung*, 1542 | 4, p. 356 | 1859 | 6.2 |
+| Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, p. 393 | 432 | 13.2 |
 | Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 54, 55 | 1972 | 6.1, 7.2 |
 | Albertine Saxony, *Die Cellischen Ordnungen*, 1545 | 1, p. 301 | 33 | 12.1 |
 | Palatinate, *Gemaine maß, die kirchen- und gottesdinst anzurichten*, 1546 | 14, pp. 96–97 | 472 | 4.5 |
@@ -1302,4 +1633,7 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, p. 199 | 1922 | 10.1 |
 | Palatinate, *Kirchenordnung*, 1563 | 14, p. 386 | 504 | 4.7 |
 | Hesse, *Kirchenordnung*, 1566 | 8, pp. 242–243 | 2257 | 9.2 |
+| Hesse, *Agende*, 1574 | 8, p. 411 | 2272 | 9.4 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, p. 472 | 294 | 6.2 |
+| Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 613 | 1344 | 13.2 |
+| Rothenberg, *Christliche vereinigung* of the ministers, 1618 | 13, p. 548 | 460 | 9.4 |
