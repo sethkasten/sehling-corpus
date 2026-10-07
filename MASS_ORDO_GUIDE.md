@@ -29,7 +29,9 @@ Mass one by one. This guide puts them back together. It asks:
   collect and Pax (§8), Creed (§9), Preface and Sanctus (§10), the Lord's Prayer and the Words
   of Institution (§11), Agnus Dei (§12), and the dismissal and blessing (§13).
 - §14 deals with the Sunday service when nobody communicated.
-- §15 is a concordance of the orders quoted.
+- §15 gathers the ceremonial: the sign of the cross, kneeling, bowing, hats, hands, turning,
+  places at the altar, the kiss of peace and incense.
+- §16 is a concordance of the orders quoted.
 
 **Related guides.** This guide refers to the others constantly. They hold the detail:
 - the opening versicles, the confession and absolution, and the exhortation to communicants:
@@ -102,7 +104,8 @@ Mass one by one. This guide puts them back together. It asks:
 - [12. The Agnus Dei](#12-the-agnus-dei)
 - [13. The dismissal and the blessing](#13-the-dismissal-and-the-blessing)
 - [14. When nobody communicated](#14-when-nobody-communicated)
-- [15. Concordance of the orders quoted](#15-concordance-of-the-orders-quoted)
+- [15. Ceremonial: gestures, postures and places](#15-ceremonial-gestures-postures-and-places)
+- [16. Concordance of the orders quoted](#16-concordance-of-the-orders-quoted)
 
 ---
 
@@ -211,6 +214,26 @@ before, during or after the distribution.
 a collect and the blessing (Pomerania 1535; Mecklenburg 1552; Saxony 1580), or fell back to an
 office of psalm, chapter, creed and suffrages (Transylvania 1547). Hof kept a Mass-shaped daily
 service for its schoolboys, with the Kyrie, Sanctus and Agnus of the season and no communion.
+
+**12. Few rubrics, and kneeling the chief gesture** (§15).
+- **Sign of the cross.** It was still printed in the early German Masses: over bread and cup at
+  Allstedt 1523, and at the greeting and the blessing at Strasbourg 1524. Hof printed it at the
+  Pax and the blessing in 1592. Elsewhere it was let go: "so many crosses" at Hannover 1536, and
+  "without all papistical crossing" at Danzig 1557.
+- **Kneeling, never genuflection.** No order knows the Roman genuflection. The priest kneels at
+  the preparation and after communion. The people kneel at the Kyrie (Schwäbisch Hall 1527), at
+  the Lord's Prayer before the Verba (Hall 1535) and at the thanksgiving. Communicants kneel at
+  the altar. The Polish synods (1578, 1583) allowed standing or kneeling but forbade sitting.
+  Calvinizing Nassau (1575) warned against "folded hands and bending of the knee" as to an idol.
+- **Other gestures.**
+  - Bows survive only in the Latin canons (Brandenburg 1540).
+  - Men are bareheaded and women covered (Hesse 1566).
+  - Nothing is said of the celebrant's hands beyond what they hold.
+  - The minister turns to the altar to pray and to the people to read, greet and exhort. Döber
+    (1525) said everything toward the people.
+- **Not found.** No epistle or gospel horn, no turn over the right shoulder, no *orans* or
+  joined hands, no kiss of altar, book or deacon, no biretta rubric, no incense and no *Lavabo*.
+  Strasbourg (1542) replaced the kiss of peace with a reading on reconciliation.
 
 ---
 
@@ -1606,7 +1629,405 @@ sung by a boy "in the deacon's place"; "the Agnus Dei of the season"; and a coll
 
 ---
 
-## 15. Concordance of the orders quoted
+## 15. Ceremonial: gestures, postures and places
+
+Several gestures are treated elsewhere:
+- where the minister stands, and whether he faces the people:
+  [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §5.2;
+- vestments: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §7;
+- the elevation, the signs of the cross printed over the elements, and the bows of the
+  Latin-frame canons: [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md) (e.g. §§12.3,
+  12.8);
+- the priest kneeling at the preparation and after the Mass:
+  [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md), §§3.2–3.4, 6.3;
+- kneeling during *Veni sancte Spiritus*, "Nun bitten wir" and the hymn in the place of the
+  offertory: [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §§4.1, 11.3, 13.2;
+- deacons, subdeacons and ministrants at the altar:
+  [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §4.2.
+
+This section gathers what the orders prescribe for the body during the Mass, gesture by gesture.
+
+### 15.1 What the orders say, and what they do not
+
+**The searches.** The corpus was searched, near the Mass and the Supper, for each of the
+following:
+- the sign of the cross ("creutz machen", *signum crucis*, "segnen", and the † and [+] marks the
+  editions print in the text);
+- genuflection (*genuflexio*, "kniebeugen", *flexis genibus*);
+- kneeling, bowing (*inclinatio*, "neigen", "bücken") and standing or sitting;
+- hats and bare heads ("hut", "baret", *capite aperto*, "bloßes haupt");
+- the hands (*manibus iunctis*, *extensis*, "gefaltene hände", "aufgehobene hände");
+- turning ("kert sich zum volk", *conversus ad populum*), the sides and horns of the altar
+  (*cornu*, "rechte seite", "epistelseite");
+- the kiss and the pax, incense and the washing of hands.
+
+**Few rubrics.** The orders prescribe little. Where they say anything, it is usually one of
+three things:
+- kneeling, for prayer and for communion;
+- turning, toward the altar to pray and toward the people to read, greet and exhort;
+- a warning against the old gestures.
+
+Much was left to custom. Nassau (1575) keeps "the customary old form of the administration" of
+the Supper, but drops the "rites and gesticulations" (Sehling 10, p. 151).
+
+**Not found.** No order in the corpus prescribes any of the following:
+- the Roman genuflection on one knee. *Flexis genibus* and "mit gebogenen knien" always mean
+  kneeling;
+- the epistle and gospel horns of the altar, or carrying the book from one side to the other;
+- turning over the right shoulder, or any rule for the direction of a turn;
+- the hands of the celebrant joined, raised in the *orans* position, or extended toward the
+  people;
+- the kiss of the altar, of the book, of the paten, or of the deacon's hand. Nor are there any
+  honours paid to the deacon;
+- the celebrant's biretta, or taking it off and putting it on at the altar;
+- incense at the Mass;
+- the *Lavabo*.
+
+### 15.2 The sign of the cross
+
+**Kept in the early German Masses.** The first German Masses still print the crosses:
+- **Allstedt.** Müntzer's *Ordnung und berechnunge des teutschen ampts* (1523) marks the bread
+  and the cup at the Words of Institution: "gesegnete † das und brach es", "gesegnete † den".
+  The minister raises his hand at "Das ist mein leichnam" (*Elevando manu*), and turns to the
+  people with the cup (Sehling 1, p. 506).
+- **Strasbourg.** In Schwarz's German Mass of 1524 the places "where the cross is to be made"
+  are marked [+], according to the editors (Sehling 20/1, p. 120). The priest, turned to the
+  people, says "Gott begnade unnd erbarme sich uber uns alle [+]" at the beginning. He blesses
+  with three crosses at the end, "Der segen Gott, des vatters [+] und des suns [+] und des
+  heiligen geists [+]" (Sehling 20/1, pp. 120, 123). The *Teutsche Meß und Tauff* and the
+  *Ordenung und inhalt* of 1524 do the same (pp. 130, 133, 137).
+- **Hof.** As late as 1592 the order prints a † after the deacon's Pax, "Der frid des Herren sei
+  mit euch allen. †", and after the blessing (Sehling 11, pp. 426–427).
+
+The Latin-frame orders keep the signs over the elements at the Verba. They are printed in
+[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md) with ✠.
+
+**Rejected.** Hannover (1536) lets go of what is not needful, among it "so many crosses" and
+"such gestures" (Sehling 6/2, pp. 1007–1008). Danzig (1557), as Sehling quotes it, makes the
+point at the Words of Institution. **Danzig, first order of the Sunday Mass, 1557**
+(Sehling 4, p. 168):
+
+<!-- doc 1844 -->
+> nimpt der priester die paten mit der geordenten hostien in die hand ohn alles papistisches
+> creuzigen und andere geberde, also auch, wenn er die worte singt: nam er den kelch, nimmt er
+> den kelch in die hand
+
+The priest taketh the paten with the appointed host into his hand without all papistical
+crossing and other gestures; so also, when he singeth the words "he took the cup", he taketh the
+cup into his hand.
+
+**Outside the Mass.** The sign of the cross stayed in baptism, at the exorcism ("Nim das zeichen
+des heiligen creutzs", Luther's *Taufbüchlein*, Sehling 1, p. 18). It also stayed in the
+household prayers of the Small Catechism: "In the morning … thou shalt bless thyself with the
+holy cross and say: The will of God, Father, Son and Holy Ghost be done" (Kurpfalz 1556, Sehling
+14, p. 141).
+
+### 15.3 Kneeling, not genuflecting
+
+**The priest kneels.** The priest kneels at these points:
+- for his preparation or *Confiteor* at the foot of the altar (Pfalz-Neuburg, Mecklenburg,
+  Regensburg, Hildesheim and others;
+  [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md), §§3.2–3.4). At Solms (1603) he
+  does so "on the stool" before the altar (Sehling 9, p. 359);
+- for the Kyrie and the prayers at Schwäbisch Hall (1535, below);
+- through "Nun bitten wir" at Soest (1609), where the pastor "remains sitting on his knees"
+  (Sehling 22, p. 489);
+- after communion. At Hildesheim (1544) he kneels again before the altar and "thanketh God
+  secretly for himself" (Sehling 7/2.1, p. 855). In Mecklenburg (1540/1545) the priest kneels
+  before the altar and "the whole congregation shall do likewise", and they sing "Erhalt uns,
+  Herr, bei deinem Wort" (Sehling 5, p. 155).
+
+**The congregation kneels.** The Brenz order for Schwäbisch Hall makes the whole church kneel at
+the Kyrie, and says why. **Schwäbisch Hall, *Kirchenordnung*, 1527** (Sehling 17/1, p. 49):
+
+<!-- doc 755 -->
+> Nach dem psalmen sol gesungen werden das Kirieleyson wie vor gewonhait, doch dieweyl es ein
+> ernstlich, diemutig gebet ist, sol die gantz kirch darzu knien, nit das es etwas gegen got an
+> dem knien lieg, sonder das doch in der kirchen ein gemein Zucht sey und ein igklichs sein
+> ordnung
+
+After the psalm the Kyrie eleison shall be sung, as hath been customary. But since it is an
+earnest, humble prayer, the whole church shall kneel thereto; not that anything toward God lieth
+in the kneeling, but that there may be a common discipline in the church, and every thing its
+order.
+
+The Hall draft of 1535 kneels everyone for the Lord's Prayer before the Verba, and lets the
+pastor alone stand up to say them. **Schwäbisch Hall, draft order of service, 1535**
+(Sehling 17/1, p. 102):
+
+<!-- doc 760 -->
+> Am ende der Annunctiation soll beschlossen werden mit eim Vatter unser, das bette yederman
+> heimlich, auch nider kniend. Nach dem gebett steht der pfarrer allain auff und spreche die
+> wort Consecrationis: Dan in der nacht, do der HERR etc. uberlaut, teutsch
+
+At the end of the announcement it shall be concluded with an Our Father, which every man shall
+pray secretly, kneeling down also. After the prayer the pastor alone standeth up and saith the
+words of consecration, "For in the night in which the LORD," etc., aloud, in German.
+
+Other orders kneel the congregation at these points:
+- from the Lord's Prayer to the end of the communion: Hatzkerode (1534): "the whole church shall
+  kneel devoutly until the end of the communion" (Sehling 2, p. 587);
+- at the Lord's Prayer of the preparation for the Supper, after the examination and the
+  declaration of forgiveness: the Palatinate (1563): "Kniet nider und betet, wie uns der herr
+  gelehret hat: Unser vater" (Sehling 14, p. 383). The Palatine order of 1601 copied the
+  preparation but struck the kneeling out ("Getilgt ist das Knien beim Gebet", Sehling 14, p.
+  574);
+- at the thanksgiving: Heilbronn (1543): "Knieend nieder und hebt ewere hertzen zu gott"
+  (Sehling 17/1, p. 316); Lützelstein (1605): "Kniet und thut die Dancksagung"
+  (Sehling 18, p. 606);
+- at the prayers: in the penitential service of Wittgenstein (1555) the ministers kneel and bid
+  the people "also sit upon their knees" (Sehling 22, p. 139); Ulm (1556): the preachers asked
+  that the people, who sat through the common prayer "out of the convenience of the pews", be
+  taught to kneel, "as is customary in other churches" (Sehling 17/2, p. 213);
+- in the place of the offertory: Celle (1545) and Anhalt (1548)
+  ([`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §11.3).
+
+**Boys kneeling before the altar.** The singers of certain pieces knelt:
+- *Da pacem*, three times, in the Pomeranian Mass (1569, Sehling 4, p. 438);
+- "Kom, heiliger Geist" at Corvey's Bruchhausen (1603, Sehling 21, p. 244);
+- the litany at Marggrabowa in Prussia (1581, Sehling 4, p. 149);
+- *Veni sancte Spiritus* and "Nun bitten wir" at Hof, with the whole choir kneeling
+  ([`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §4.1).
+
+**At "and was made man".** One custom is reported only later. At Mansfeld, as a memorial against
+the Flacian error of Cyriacus Spangenberg, four choirboys knelt before the altar during the
+Creed. They sang alone "ist ein wahrer Mensch geboren" and touched the altar steps with their
+foreheads; the custom lasted into the eighteenth century
+(Sehling 2, p. 183, after Leopold's chronicle of 1817).
+
+**Communicants kneel.** Most orders that say how communion was received have the communicants
+kneel at the altar:
+- Regensburg (1542): the men on the right of the altar, the women on the left, "that at the end
+  of the *Patrem* they kneel down there" (Sehling 13, pp. 392–393);
+- Hohenlohe (1553): two honourable men set out a silk cloth and "little benches, on which the
+  communicants kneel" (Sehling 15, p. 71);
+- Lippe (1566): the men on one side, the women on the other (Sehling 21, p. 388);
+- Marienhafe in East Frisia (1593): "kneeling, at one end of the altar or table the blessed
+  bread, at the other the cup" (Sehling 7/1, p. 710);
+- Solms (1603): the communicants kneel in the choir while the pastor, turned toward them, reads
+  the exhortation (Sehling 9, p. 361);
+- Ermsleben (1564): "they kneel down devoutly; then I pray before them, and they pray after me
+  secretly; thereafter I do the consecration" (Sehling 2, p. 485).
+
+After receiving, the communicants in Bugenhagen's orders went back to their places and "sit on
+their knees or stand, until the last blessing" (Hamburg 1529, Sehling 5, p. 529; Wolfenbüttel
+1543, Sehling 6/1, p. 58).
+
+**Standing allowed, sitting forbidden.** In Poland the Lutheran, Reformed and Brethren churches
+of the Sandomierz consensus had to settle the posture together. **Synod of Petrikau, 1–3 June
+1578** (Sehling 4, p. 263):
+
+<!-- doc 1846 -->
+> ceremonias libertati christianae donamns, ac permittimus, ut stantes vel genua flectentes pii
+> sacramentum corporis et sanguinis Christi sumant. Sessionis vero ad mensam domini, quia,
+> praeter ritus in omnibus per Europam evangelicis ecclesiis vulgo consuetos, illi inter nos
+> primi autores extiterunt, qui […] a nobis ad arrianismum perfidi transfugae facti sunt […]
+> ceremoniam rejicimus
+
+We grant the ceremonies to Christian liberty, and permit that the godly receive the sacrament of
+the body and blood of Christ standing or kneeling. But the sitting at the Lord's table, since,
+besides the rites commonly used in all evangelical churches throughout Europe, those were the
+first authors of it among us who […] became faithless deserters from us to Arianism […] we
+reject as a ceremony.
+
+The synod of 1583 repeated the rule. Communion was to be given "to those standing or kneeling
+(with a protestation against the bread-worship customary among the papists)"
+(Sehling 4, p. 264). The Bohemian Brethren received kneeling. Their *Ordo ecclesiasticus*, as
+Sehling prints it, explains that their forebears had brought in standing in 1494 and gave it up
+under persecution (Sehling 4, p. 284). In Emden a Lasco still received kneeling over a towel;
+the custom was abolished by 1546 at the latest (editors' note, Sehling 7/1, p. 377).
+
+**Reverence, not adoration.** The Calvinizing Nassau order of 1575 warned the people off the old
+gestures. **Nassau-Dillenburg, *Agende*, 1575** (Sehling 10, p. 151):
+
+<!-- doc 182 -->
+> Darbeneben soll man das vo[l]ck abmanen, das sie woll zuchtig und ehrerbietig, aber nicht als
+> mit gefaltenen henden unnd kniebauw einen abgott (wie im bapstum geschicht und etliche der
+> unsern noch gewohnet seint) anbetten wollen, ertzeigen sollen. Nach verlessener vermanung: Ir
+> allerliebsten in Gott etc., sollen die kirchendiener also mit zugewentem angesicht zum volck
+> stehen pleiben
+
+Moreover the people shall be exhorted that they show themselves modest and reverent indeed, but
+not as though they would worship an idol with folded hands and bending of the knee (as is done
+in the papacy, and some of ours are still wont). After the exhortation "Dearly beloved in God",
+etc. has been read, the ministers shall remain standing thus with their face turned toward the
+people.
+
+### 15.4 Bowing
+
+**Only in the Latin canons.** The bows that survive are the priest's, in the orders that kept a
+Latin canon:
+- Brandenburg (1540) lifts the host "with a slight bow" (*Hic modica inclinatione, leva illud
+  reverenter in altum*), and has the priest bow for the ablution prayer *Corpus tuum, Domine*
+  (*Deinde inclinet se et dicat*) (Sehling 3, pp. 69–70);
+- Pfalz-Neuburg (1543) copies the second (Sehling 13, p. 76).
+
+The texts are in [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §§12.3, 12.8.
+
+**The name of Jesus.** No order prescribes a bow at the name of Jesus. The words of Philippians
+2:10, "Im namen Jesu sollen sich biegen alle knie", are sung as the introit of the Passion Mass
+by Müntzer and those who copied him (Sehling 1, p. 502; 6/2, p. 825; 2, p. 379), but no rubric
+turns them into a gesture.
+
+### 15.5 Hats and heads
+
+**Men uncovered, women covered.** Hesse puts the old rule of 1 Corinthians 11 into the church
+order. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, p. 231):
+
+<!-- doc 2257 -->
+> Es gehört auch zum wolstand und christlicher zucht, daß in der gemeinen versamlung der
+> christen die weiber mit bedecktem haupt, die menner aber mit bloßen heuptern erscheinen, davon
+> der apostel Paulus 1. Cor. 11
+
+It belongeth also to seemliness and Christian discipline, that in the common assembly of the
+Christians the women appear with covered head, but the men with bare heads, whereof the apostle
+Paul [speaketh], 1 Corinthians 11.
+
+A bare head appears elsewhere as a mark of humility:
+- the public penitent at Limpurg (1596) sits through the whole sermon "with bare head" on a
+  stool set before the altar or pulpit (Sehling 16, p. 609);
+- at an ordination the superintendent lays his hand "on the bare head" of the new pastor
+  (Württemberg 1559, Sehling 16, p. 356).
+
+No order regulates the clergy's caps at the altar. Clerical caps appear only as dress outside
+the service ([`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §8).
+
+### 15.6 Hands
+
+**No rule for the celebrant's hands.** The orders say only what the hands hold:
+- Müntzer: "raising the hand" at the bread (*Elevando manu*), and taking the cup "before the
+  people" (Sehling 1, p. 506);
+- Brandenburg (1540): "take the chalice with both hands" (*calicem accipe cum ambabus manibus*)
+  (Sehling 3, p. 69);
+- Transylvania (1547): the minister, turned to the people, says the Lord's Prayer and then the
+  Verba "from the book over the bread and the wine, holding each in turn in his hands" (*per
+  vices utrunque tenens in manibus*) (Sehling 24, p. 223).
+
+**Folded hands.** Folded hands appear only for children at the table prayers (Sayn, Solms), and
+in Nassau's warning against folded hands before the sacrament (above). The laying on of hands
+belongs to ordination, confirmation, absolution and the reconciliation of penitents, outside the
+Mass.
+
+### 15.7 Turning: toward the altar, toward the people
+
+**The common rule.** Where the minister stood at an altar against the wall, the orders turn him
+to the altar to pray and to the people to read, greet and exhort. Wittenberg (1533) sets the
+pattern: "the priest readeth a German collect turned toward the altar, and singeth the epistle
+turned toward the people"; the gospel "turned toward the people", then "again toward the altar"
+for *Credo in unum Deum* (Sehling 1, p. 704). Other orders follow it:
+- Prussia (1544): "the priest turneth to the people and singeth: Der herre sei mit euch, and
+  turneth again to the altar" for the collect (Sehling 4, p. 66);
+- Mecklenburg (1552): the collect "toward the altar", then "he turneth himself again toward the
+  people" for the epistle (Sehling 5, p. 202), followed by Lüneburg (1564, Sehling 6/1, p. 553);
+- Schwarzburg (1574): the gospel toward the people, the creed toward the altar
+  (Sehling 2, pp. 132–133);
+- Osnabrück (1613): the salutation toward the people, the collect and the thanksgiving toward
+  the altar (Sehling 7/1, pp. 268, 270).
+
+**Turned for the Pax.** The minister turns to the people for the Pax:
+- Regensburg (1542): "he turneth about toward the people and singeth: *Pax vobiscum*"
+  (Sehling 13, p. 393);
+- Pfalz-Neuburg (1543): "Darnach wende er sich zum volk" (Sehling 13, p. 75);
+- Hof (1592): *Diaconus spectans populum* (Sehling 11, p. 426).
+
+**Turned for the Verba, or away.** The orders divided over the Words of Institution:
+- **toward the people:**
+  - Müntzer (*Vertens se minister … coram vulgo*);
+  - Transylvania (*minister conversus ad populum*);
+  - Nassau (1575, above). Brandenburg (1540) turns to the people for the exhortation and the
+    thanksgiving (*vertens se ad populum*, Sehling 3, pp. 69–70);
+- **toward the altar:**
+  - Limpurg (1610): "he turneth himself toward the altar and saith with distinct voice the words
+    or institution of the Supper" (Sehling 16, p. 620);
+  - Sponheim (1607): the minister is to face the people always, "except when, in the action of
+    the Holy Supper, they speak the words of blessing over the elements standing on the altar
+    and pray the Our Father"; then they turn to the altar. But where the altar allows it, he
+    shall stand behind it and say the whole preface, prayer and consecration there, facing the
+    people (Sehling 18, p. 674).
+
+**Everything toward the people.** Döber's German Mass at the Nürnberg hospital went furthest.
+**Nürnberg, *Deutsche Messe* of Andreas Döber, 1525** (Sehling 11, p. 51):
+
+<!-- doc 249 -->
+> Mit ersten, wenn der priester über altar kumbt und den kelch aus dem sack geton hat, kert er
+> sich zum volk und spricht laut, wie hernach volgt (auch alle wort, die in der ganzen meß
+> sind), so das er doch verstentlich sei den zuhörer
+
+First, when the priest cometh to the altar and hath taken the chalice out of the bag, he turneth
+himself to the people and speaketh aloud as followeth (also all the words that are in the whole
+Mass), so that he be understood by the hearers.
+
+Heilbronn's draft of 1532 has the minister standing at the altar "by the cross", not in the Mass
+vestment, turn to the people to read the German collect (Sehling 17/1, p. 301). Hesse (1566) has
+the collect read "after he hath turned himself to the people" (Sehling 8, p. 239). The
+visitations that rebuilt altars so that the minister should face the people throughout, and the
+condemnation of standing behind the table, are in
+[`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §5.2.
+
+### 15.8 Places at the altar
+
+**No horns.** The orders do not speak of the epistle and gospel sides. The sides of the altar
+appear instead as the places of the communicants and of the two elements:
+- **Men right, women left.** Regensburg 1542 (above), Wertheim about 1555 (Sehling 11, p. 713),
+  Frankfurt 1530 (Sehling 9, p. 497).
+- **Bread at one side, cup at the other.** The orders differ on which side:
+  - the Palatinate (1546): the communicants "receive the sacrament of the body of Christ on the
+    left side of the altar, and the sacrament of the blood on the right side"
+    (Sehling 14, p. 97);
+  - Hatzkerode (1534) has it the other way round: the body "on the right side from the hand of
+    the pastor", the blood "on the left side from the deacon", with silk cloths held under on
+    both sides (Sehling 2, p. 587);
+  - Neckarbischofsheim (1560): the communicants "go round the altar on the right side to the
+    pastor, to receive the blood of the Lord" (Sehling 16, p. 684);
+  - Marienhafe 1593: bread at one end, cup at the other (above).
+- **At the cross-altar.** Heilbronn (1530): after the creed "the preacher turneth over the cross
+  altar with his two deacons in surplices toward the people" and proclaims the Lord's death
+  (Sehling 17/1, p. 285).
+
+### 15.9 The Peace, the kiss and incense
+
+**The kiss of peace replaced by a reading.** Luther made the Pax an absolution (§8). Strasbourg
+replaced the kiss with a text. **Strasbourg, *Gottesdienstordnung*, 1542**
+(Sehling 20/1, p. 330):
+
+<!-- doc 1311 -->
+> Deinde, quia apud veteres in distributione coenae dominicae osculum pacis fuit usitatum
+> reconciliationis mutuae signum, legat minister loco illius textum aliquem de reconciliatione
+> fraterna admonendo
+
+Then, since among the ancients at the distribution of the Lord's Supper the kiss of peace was in
+use as a sign of mutual reconciliation, let the minister in the stead of it read some text of
+brotherly reconciliation, admonishing [them].
+
+No order keeps a pax-board.
+
+**Incense.** None of the orders prescribes incense at the Mass:
+- the *Formula missae* leaves lights and incense at the gospel free (Sehling 1, p. 5);
+- Hannover (1536) lets go of "censing" with the other unneeded gestures (Sehling 6/2, p. 1007).
+
+**Ablutions.** In the sick communion of Brandenburg (1540) and Pfalz-Neuburg (1543) the priest
+rinses his fingers over the chalice and gives the ablution to the sick person
+(Sehling 3, p. 80; 13, p. 88). The Latin ablution prayers of the Mass are in
+[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §12.8.
+
+### 15.10 Summary
+
+| Gesture | Prescribed | Rejected or absent |
+|---|---|---|
+| Sign of the cross | over bread and cup (Allstedt 1523); at the greeting and blessing (Strasbourg 1524); at the Pax and blessing (Hof 1592); over the elements in the Latin canons | "so many crosses" let go (Hannover 1536); "without all papistical crossing" (Danzig 1557); "rites and gesticulations" avoided (Nassau 1575) |
+| Genuflection | none | *flexis genibus* means kneeling |
+| Kneeling | priest at the preparation, the Kyrie and after communion; people at the Kyrie (Hall 1527), the Lord's Prayer (Hall 1535, Palatinate 1563), the whole communion (Hatzkerode 1534), the thanksgiving (Heilbronn 1543, Lützelstein 1605); communicants at the altar; boys at *Da pacem*, the litany, *Veni sancte* | folded hands and kneeling "as to an idol" (Nassau 1575); kneeling at prayer struck out (Palatinate 1601); sitting at communion forbidden (Petrikau 1578) |
+| Bowing | at the elevation and the ablution prayer (Brandenburg 1540, Pfalz-Neuburg 1543); boys' foreheads to the step at "Mensch geboren" (Mansfeld, later report) | no bow at the name of Jesus |
+| Head | men bareheaded, women covered (Hesse 1566) | no rubric for the celebrant's cap |
+| Hands | raise the hand at the bread (Allstedt); the chalice with both hands (Brandenburg); bread and cup held in turn (Transylvania) | no *orans*, joined hands or extended hands |
+| Turning | to the altar for collects and creed, to the people for readings, salutation, Pax and exhortation (Wittenberg 1533 and most); everything toward the people (Döber 1525) | no direction of turn, no right shoulder |
+| Places | men right, women left; bread and cup at two sides or ends | no epistle or gospel horn |
+| Kiss | a text on reconciliation in its place (Strasbourg 1542) | no kiss of altar, book or deacon; no pax-board |
+| Incense | free at the gospel (*Formula missae*) | "censing" let go (Hannover 1536); prescribed nowhere |
+
+---
+
+## 16. Concordance of the orders quoted
 
 **The concordance.** Every order quoted in a block quotation is listed below in date order, with
 the volume and pages of Sehling, the `eko.db` document that holds the text, and the sections
@@ -1619,21 +2040,28 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 | Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524 | 11, p. 39 | 247 | 13.1 |
 | Strasbourg, *Ordenung und inhalt Teutscher Mess*, 1524 | 20/1, p. 138 | 1279 | 9.4 |
 | Worms, *Deutsche Messe*, 1524 | 19/1, p. 129 | 1066 | 13.2 |
+| Nürnberg, *Deutsche Messe* of Andreas Döber, 1525 | 11, p. 51 | 249 | 15.7 |
 | Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525 | 4, pp. 32, 37–38 | 1832, 1833 | 4.4, 6.3, 12.1, 13.2 |
 | Wittenberg, Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | 3.3 |
+| Schwäbisch Hall, *Kirchenordnung*, 1527 | 17/1, p. 49 | 755 | 15.3 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 196–197, 198 | 270 | 4.3, 13.2 |
 | Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, p. 704 | 148 | 7.1, 9.1 |
 | Pomerania, *Kirchenordnung*, 1535 | 4, p. 341 | 1856 | 4.2 |
+| Schwäbisch Hall, draft order of service, 1535 | 17/1, p. 102 | 760 | 15.3 |
 | Pomerania, *Kirchenordnung*, 1542 | 4, p. 356 | 1859 | 6.2 |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, p. 393 | 432 | 13.2 |
+| Strasbourg, *Gottesdienstordnung*, 1542 | 20/1, p. 330 | 1311 | 15.9 |
 | Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 54, 55 | 1972 | 6.1, 7.2 |
 | Albertine Saxony, *Die Cellischen Ordnungen*, 1545 | 1, p. 301 | 33 | 12.1 |
 | Palatinate, *Gemaine maß, die kirchen- und gottesdinst anzurichten*, 1546 | 14, pp. 96–97 | 472 | 4.5 |
 | Transylvania, *Kirchenordnung* (German), 1547 | 24, p. 244 | 1669 | 14 |
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, p. 199 | 1922 | 10.1 |
+| Danzig, first order of the Sunday Mass, 1557 | 4, p. 168 | 1844 | 15.2 |
 | Palatinate, *Kirchenordnung*, 1563 | 14, p. 386 | 504 | 4.7 |
-| Hesse, *Kirchenordnung*, 1566 | 8, pp. 242–243 | 2257 | 9.2 |
+| Hesse, *Kirchenordnung*, 1566 | 8, pp. 231, 242–243 | 2257 | 9.2, 15.5 |
 | Hesse, *Agende*, 1574 | 8, p. 411 | 2272 | 9.4 |
+| Nassau-Dillenburg, *Agende*, 1575 | 10, p. 151 | 182 | 15.3 |
+| Synod of Petrikau, 1–3 June 1578 | 4, p. 263 | 1846 | 15.3 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, p. 472 | 294 | 6.2 |
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 613 | 1344 | 13.2 |
 | Rothenberg, *Christliche vereinigung* of the ministers, 1618 | 13, p. 548 | 460 | 9.4 |
