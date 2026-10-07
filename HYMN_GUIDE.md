@@ -199,7 +199,7 @@ One row per (occasion, hymn) pair, in liturgical order.
 
 ### `hymns` — the lexicon
 
-One row per distinct hymn (205: 186 German, 19 Latin), from the Sehling
+One row per distinct hymn (206: 185 German, 21 Latin), from the Sehling
 orders and the hymnal and compilation sources alike. `canonical_title`
 is the modern standard spelling; this is what joins the printed variants
 together. Hymns that a source names only in a form the lexicon does not
@@ -218,6 +218,17 @@ using each and the number of distinct printed spellings. Does the
 `Nun komm der heyden`), and this table records every one of them against
 its canonical identity. Useful if you want to search the corpus text for
 a hymn and need all its spellings.
+
+### `editorial_assignments` — hymns assigned to days the witnesses leave open
+
+Five rows: the hymn the editor of the corpus assigns to Quasimodogeniti
+(*O filii et filiae*), Maundy Thursday (*Jesus Christus, unser Heiland*),
+Easter Monday (*Ach bleib bei uns, Herr Jesu Christ* and *Christ ist
+erstanden*) and Pentecost Monday (*Komm, Heiliger Geist, Herre Gott*). On
+these days no hymn has three old witnesses. The assignments come from
+`hymn_tables/editorial.py`. They are **not prescriptions**: they are not in
+`hymn_prescriptions` and are never counted as witnesses. The workbook's
+Compare by day sheet flags them "Assigned".
 
 ### `translation_candidates` — contested English titles
 
@@ -268,6 +279,9 @@ identity in all of them:
 - **`bridge.py`** maps an English title to its German hymn: first through
   its own table of English titles (`EN_ALIAS`), then through the English
   column of Liliencron's concordance.
+- **Different titles of one hymn are joined.** *O filii et filiae* (Jean
+  Tisserand) is cited in English as "O Sons and Daughters of the King" and
+  "Ye Sons and Daughters of the King"; both are one hymn.
 - **Hymns with the same or a similar opening are kept apart:**
   - Eber's *Herr Gott, dich loben alle wir*, on the angels, is not the German
     Te Deum *Herr Gott, dich loben wir*.
@@ -289,7 +303,7 @@ his own account, is the main case.
 
 ## `common_english` is an editorial judgment, not a fact
 
-**38 of 205 hymns have no `common_english` at all** (three of them are
+**38 of 206 hymns have no `common_english` at all** (three of them are
 group rubrics such as "the Christmas hymns"). These are hymns that never
 entered the English-language tradition — mostly Low German psalm
 paraphrases and local compositions — and that Matthew Carver has not

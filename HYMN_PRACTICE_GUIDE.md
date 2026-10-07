@@ -6986,6 +6986,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Transylvanian Saxons, *Kirchenordnung*, 1547 | 24, pp. 223–245 | 1669 | German Benedictus for the abolished procession; hymn before the sermon by season; office hymns of the season only | 4.3, 10.3, 16.1 |
 
 
+
 ---
 
 ## Appendix A. The chief hymn (*Hauptlied*) of each Sunday and feast in the old sources
@@ -7072,6 +7073,12 @@ Some of the old witnesses add nothing to the table, for these reasons:
   it stands alone. On Advent 2, *Gott hat das Evangelium* (11), *Es ist gewisslich an der Zeit*
   (8) and *Ihr lieben Christen, freut euch nun* (8) are shown. *Es wird schier der letzte Tag
   herkommen* (6), *Ach Gott, thu dich erbarmen* (5) and *Nun komm* (4) are not.
+- **Days the witnesses leave open.** On Quasimodogeniti, Maundy Thursday, Easter Monday and
+  Pentecost Monday no hymn has three old witnesses. For these four days the table gives the hymn
+  assigned by the editor of the corpus, marked ‡, with the number of old witnesses that do give
+  it. The assignments are kept in `hymn_tables/editorial.py` and the `editorial_assignments`
+  table of `hymns.db`, and flagged "Assigned" in the Compare by day sheet. They are not
+  prescriptions and are not counted as witnesses.
 - **Titles.**
   - **Original title:** the hymn's standard spelling from the `hymns` lexicon.
   - **Literal English:** a word-for-word rendering of the incipit.
@@ -7141,13 +7148,16 @@ Some of the old witnesses add nothing to the table, for these reasons:
 | **Palm Sunday** | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 5 of 16 |
 |  | *Hilf Gott, dass mir gelinge* | Help, God, that I may succeed | Assist Me, Great Creator † | 5 of 16 |
 |  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 4 of 16 |
+| **Maundy Thursday** | *Jesus Christus, unser Heiland* | Jesus Christ, our Savior | Jesus Christ, Our Blessed Savior | 2 of 3 ‡ |
 | **Good Friday** | *Da Jesus an dem Kreuze stund* | When Jesus on the cross stood | When Jesus on the Cross Was Bound | 10 of 12 |
 |  | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 6 of 12 |
 | **Easter Day** | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 18 of 22 |
 |  | *Christ lag in Todesbanden* | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 17 of 22 |
 |  | *Jesus Christus, unser Heiland, der den Tod überwand* | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Our Savior and King † | 15 of 22 |
 |  | *Erstanden ist der heilige Christ* | The holy Christ is risen | — | 14 of 22 |
-| **Easter 1 (Quasimodogeniti)** | *no hymn has three witnesses* | | | 2 of 6 at most |
+| **Easter Monday** | *Ach bleib bei uns, Herr Jesu Christ* | Abide with us, Lord Jesus Christ | Lord Jesus Christ, with Us Abide | 1 of 2 ‡ |
+|  | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 1 of 2 ‡ |
+| **Easter 1 (Quasimodogeniti)** | *O filii et filiae* | O sons and daughters | O Sons and Daughters of the King | 1 of 6 ‡ |
 | **Easter 2 (Misericordias Domini)** | *Der Herr ist mein getreuer Hirt* | The Lord is my faithful shepherd | The Lord’s My Shepherd, Faithful, True | 11 of 14 |
 | **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come unto Me, Ye Weary | 9 of 13 |
 |  | *Mag ich Unglück nicht widerstahn* | If I cannot withstand misfortune | May I My Fate No More Withstand † | 6 of 13 |
@@ -7159,6 +7169,7 @@ Some of the old witnesses add nothing to the table, for these reasons:
 | **Pentecost** | *Komm, Heiliger Geist, Herre Gott* | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 21 of 23 |
 |  | *Nun bitten wir den Heiligen Geist* | Now we pray to the Holy Spirit | We Now Implore God the Holy Ghost | 19 of 23 |
 |  | *Komm, Gott Schöpfer, Heiliger Geist* | Come, God Creator, Holy Spirit | Come, Holy Ghost, Creator Blest | 13 of 23 |
+| **Pentecost Monday** | *Komm, Heiliger Geist, Herre Gott* | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 1 of 2 ‡ |
 | **Trinity Sunday** | *Gott der Vater wohn uns bei* | God the Father, dwell with us | God the Father, Be Our Stay | 21 of 24 |
 | **Trinity 1** | *Es war einmal ein reicher Mann* | There was once a rich man | There Was a Rich and Wealthy Man † | 11 of 19 |
 | **Trinity 2** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 13 of 22 |
@@ -7223,15 +7234,21 @@ Some of the old witnesses add nothing to the table, for these reasons:
 † Title of Matthew Carver's translation, in *Walther's Hymnal* (2012) or on his blog
 *Hymnoglypt*; the hymn has no received English title.
 
+‡ Assigned by the editor; the old witnesses leave the day open (see §A.2). The figure is the
+number of old witnesses that do give this hymn.
+
 ### A.4 Notes on the table
 
-- **Days not in the table.** For the second feast days of Easter and Pentecost and for Maundy
-  Thursday, only two or three old witnesses give a hymn, and no hymn reaches three. The saints'
-  days not listed (St Paul, St Mary Magdalene, St Lawrence, St Martin, All Saints and others)
-  have one witness or two.
-- **Quasimodogeniti.** This is the one Sunday without a hymn of its own. Liliencron's
-  concordance records only a single coincidence for it, and no hymn has more than two old
-  witnesses.
+- **Days not in the table.** The saints' days not listed (St Paul, St Mary Magdalene, St
+  Lawrence, St Martin, All Saints and others) have one old witness or two.
+- **The assigned days.** Quasimodogeniti is the one Sunday the old witnesses leave open:
+  Liliencron's concordance records only a single coincidence for it, and no hymn has more than
+  two old witnesses. Only two or three old witnesses give a hymn for Maundy Thursday and the
+  second feast days of Easter and Pentecost. The hymns assigned to these days (‡) are mostly the
+  ones those few witnesses give: Luther's Communion hymn on Maundy Thursday (Carpzov,
+  Selnecker), *Ach bleib bei uns* and *Christ ist erstanden* on Easter Monday (Bach's Leipzig),
+  and *Komm, Heiliger Geist* on Pentecost Monday (Stiller). *O filii et filiae* on
+  Quasimodogeniti has one old witness (Stiller) and is the usual choice of the modern lists.
 - **Thin days.** On some days the evidence is divided or sparse, and the "of" figure should be
   read with the count:
   - the Sunday after Christmas;
@@ -7249,8 +7266,8 @@ Some of the old witnesses add nothing to the table, for these reasons:
   - Advent 2 would gain *Es wird schier der letzte Tag herkommen*;
   - Ascension would gain *Nun freut euch, Gottes Kinder, all*.
 - **What the table shows.**
-  - The core of the old *de tempore* scheme is very stable. On 36 of the 65 days, one hymn has
-    at least two thirds of the day's witnesses. Examples:
+  - The core of the old *de tempore* scheme is very stable. On 36 of the 64 days whose hymn the
+    witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:
     - Advent 1, *Nun komm*;
     - Epiphany, *Was fürchtst du, Feind Herodes*;
     - Easter 5, the Lord's Prayer hymn;

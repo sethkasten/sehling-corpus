@@ -350,6 +350,9 @@ L += [
 ]
 
 LATIN_EN['Puer natus in Bethlehem'] = ('A boy is born in Bethlehem', 'A Child Is Born in Bethlehem')
+# Jean Tisserand's Easter hymn; English as "O Sons and Daughters of the King" (TLH, LSB) or "Ye Sons
+# and Daughters of the King" (LW): two titles of one hymn.
+LATIN_EN['O filii et filiae'] = ('O sons and daughters', 'O Sons and Daughters of the King')
 
 L += [
  ('Nun freut euch, lieben Christen gmein', [r'gi leve?n christen fr[oö]u?w?t? [ji]uw'],
