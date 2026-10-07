@@ -334,7 +334,7 @@ a German introit with its whole psalm, Kyrie, Gloria, collect, epistle, gradual 
 gospel, offertory, Preface, Sanctus, Agnus Dei and communion. It is printed with notes.
 Müntzer's own explanation says the people are "led with the customary singing, in their own
 tongue, as children are brought up with milk". **Allstedt, Thomas Müntzer, *Ordnung und
-berechnunge des teutschen ampts*, 1523/24** (Sehling 1, pp. 504–505):
+berechnunge des teutschen ampts*, 1523/24** (Radical Reformation; Sehling 1, pp. 504–505):
 
 <!-- doc 52 -->
 > Demnach so nimpt man bei uns den eingang der geheim gotis aus dem psalter, do der schlussel
@@ -1661,7 +1661,7 @@ thy glory, evermore saying:
 Messe* (1524) has this translation. So do the Erfurt *Deutsches Kirchenamt*
 (1525; Sehling 2, p. 379), Calenberg-Göttingen (1542; 6/2, p. 821) and Lippe 1571, "auff den
 Dörffern an Weihenachten" (21, p. 410). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*,
-1524, Christmas office** (Sehling 1, pp. 501–502):
+1524, Christmas office** (Radical Reformation; Sehling 1, pp. 501–502):
 
 <!-- doc 51 -->
 > Dann durch das geheimnis des vormenschten wortes ist das neue licht deiner klarheit den augen
@@ -1894,7 +1894,7 @@ evermore saying:
 1525 (2, p. 376). It is also in Calenberg-Göttingen 1542 (6/2, p. 829) and Lippe 1571, "auff den
 Dörffern" (21, p. 410). The Low German Mass from Kiel has it too
 (Sehling 23, p. 56; rendered in the Canon guide, §11.2). **Allstedt, Thomas Müntzer, *Deutsch
-evangelisch Messe*, 1524, office of the Resurrection** (Sehling 1, p. 503):
+evangelisch Messe*, 1524, office of the Resurrection** (Radical Reformation; Sehling 1, p. 503):
 
 <!-- doc 51 -->
 > Warlich es ist wirdig und recht billich und gleich und ist heilsam, das wir herr almechtiger
@@ -2087,7 +2087,7 @@ thy glory, evermore saying:
 p. 377), Calenberg-Göttingen 1542 (6/2, p. 833) and Lippe 1571, "auff den Dörffern" (21, p.
 411). In Sehling's edition Müntzer's Pentecost office is printed at the head of the following
 document (*eko.db* doc 52). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524,
-office of the Holy Ghost** (Sehling 1, p. 504):
+office of the Holy Ghost** (Radical Reformation; Sehling 1, p. 504):
 
 <!-- doc 52 -->
 > Warlich es ist wirdig und recht billich und ist heilsam, das wir dir almechtiger ewiger got
@@ -2266,7 +2266,7 @@ Christ our Lord; through whom, etc., in the common Preface.
 
 **German (2): Müntzer's rewording for Advent** (Radical Reformation). Müntzer's form is also in
 Erfurt 1525 (2, p. 378) and Calenberg-Göttingen 1542 (6/2, p. 818). **Allstedt, Thomas Müntzer,
-*Deutsch evangelisch Messe*, 1524, office of Advent** (Sehling 1, p. 500):
+*Deutsch evangelisch Messe*, 1524, office of Advent** (Radical Reformation; Sehling 1, p. 500):
 
 <!-- doc 51 -->
 > Warlich, es ist billich und recht und ist heilsam, das wir dir, herr, o heiliger vater,

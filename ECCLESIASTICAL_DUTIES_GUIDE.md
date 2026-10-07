@@ -178,7 +178,7 @@ were inspected with him.
 **8. Schoolmasters: the catechism as primer** (§9). The schoolmaster taught the catechism, used
 it as the reading book, led the boys to sermon and catechism, led the singing, and was visited
 four times a year by the pastor (Esslingen 1534, mediating; Saxony 1555, 1580). In the towns
-schoolmistresses brought the girls (Palatinate 1595).
+schoolmistresses brought the girls (Palatinate 1595, Reformed).
 
 **9. The magistrate: keeper of both tables** (§10). The Lutheran magistrate was to "uphold both
 tables of the Ten Commandments … in maintaining outward discipline" (Mecklenburg 1552). He was
@@ -1025,7 +1025,7 @@ Saxony in 1580 tells parents to teach their children and servants "at home in th
 the catechism" before sending them to confession, "for some are found so unskilled that they
 know not even what the holy sacrament is" (Sehling 1, p. 427). The Reformed synod of Dillenburg
 in 1582 sent pastors and elders into the houses. **Nassau-Dillenburg, *Abschied der Dillenburger
-Generalsynode*, 1582** (Sehling 10, p. 173):
+Generalsynode*, 1582** (Reformed; Sehling 10, p. 173):
 
 <!-- doc 186 -->
 > 1. Die pfarherren oder seniores und presbyteri halten visitationem domesticam, dabey sie mitt

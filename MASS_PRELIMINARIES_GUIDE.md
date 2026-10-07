@@ -1355,7 +1355,7 @@ has first been made before the altar; Sehling 1, p. 504). The *Deutsch evangelis
 includes, as its fourth verse, the *Introibo ad altare Dei* that the Roman Mass uses as its
 antiphon. Then come the priest's confession, the people's *Misereatur*, the versicle *Deus, tu
 conversus*, and the prayer *Aufer a nobis*, all in German, all aloud, and all before the
-Introit. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524** (Sehling 1, p. 499):
+Introit. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524** (Radical Reformation; Sehling 1, p. 499):
 
 <!-- doc 51 -->
 > Ampt von der menschwerdung Christi unsers heilandes. Der 42. psalm wird gesprochen mit dem
@@ -3074,7 +3074,7 @@ exhortation in the corpus. It is read "bey dem tisch" (at the table) after the s
 Sunday prayer. It follows Geneva 1563 (Reformed) almost word for word at the beginning, and
 draws on London 1565 (à Lasco and Micron, Reformed) for the threefold examination and the
 fencing of the table, and on Kurpfalz 1556 (the Württemberg text) for the grains and grapes.
-**Palatinate, *Kirchenordnung*, 1563** (Sehling 14, pp. 383–386):
+**Palatinate, *Kirchenordnung*, 1563** (Reformed; Sehling 14, pp. 383–386):
 
 <!-- doc 504 -->
 > Ir geliebten in dem herrn Jesu Christo, höret an die wort der einsatzung deß heiligen
@@ -3529,7 +3529,7 @@ the prayer and generally according to the matter of the sermon preached), and pr
 example. It was given at St. Peter the Younger, Wolfgang Capito's church, on Reminiscere Sunday,
 12 March 1525, after a sermon on 1 Cor 1 (the word of the cross) and John 8 (Christ the light of
 the world). It is read after the Our Father and leads into the Words of Institution.
-**Strasbourg, *Die frühen Agenden*, 1525** (Sehling 20/1, pp. 158–159):
+**Strasbourg, *Die frühen Agenden*, 1525** (mediating; Sehling 20/1, pp. 158–159):
 
 <!-- doc 1279 -->
 > Lieben brüder und schwester, ir wöllen ein jedes bey im bedencken, mit was hertzlicher begird

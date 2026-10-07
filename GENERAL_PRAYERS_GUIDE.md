@@ -478,12 +478,11 @@ and by which witnesses vary there. Where only the English varies, meaning
 two translations of the same words, the parent's English is kept. The two
 columns therefore represent the same text.
 
-**Editorial brackets.** Sehling's editorial brackets are removed. His
-alternative in Kurpfalz 1563, "(auch einen erbern rath dieser statt)
-[einer erbaren gemein dieses orts.]", is rendered "(auch einen erbern rath
-dieser statt oder einer erbaren gemein dieses orts)". The English reads
-"(and also an honourable council of this city, or an honourable commune of
-this place)".
+**Editorial brackets.** Sehling's editorial brackets are removed. His alternative in Kurpfalz
+1563 (Reformed), "(auch einen erbern rath dieser statt) [einer erbaren gemein dieses orts.]", is
+rendered "(auch einen erbern rath dieser statt oder einer erbaren gemein dieses orts)". The
+English reads "(and also an honourable council of this city, or an honourable commune of this
+place)".
 
 ## What the comparison shows
 

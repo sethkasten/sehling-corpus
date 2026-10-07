@@ -155,11 +155,11 @@ crosses went with the processions (§4.6).
 **4. One altar; the minister before it, facing the people (§5.1–5.3).** Side altars were
 removed, leaving three (Wittenberg 1522) or one (Mecklenburg 1552, Upper Palatinate 1557,
 Kurland 1570). Colditz 1529 and Gotha 1555 order altars arranged so that the minister faces the
-people. The Wittenberg theologians condemned standing *behind* the table as Karlstadt's and
-Müntzer's disorder (Wittenbergische Reformation 1545, Allstedt 1533). Strasbourg 1537
-(mediating) set up an altar-table facing the people, and the Reformed orders put tables in place
-of altars (Siegen 1581, Casimir 1587, Anhalt 1596, Simmern 1598). In Transylvania the synod of
-1565 ordered altars pulled down by "turbulent men" to be restored.
+people. The Wittenberg theologians condemned standing *behind* the table as the disorder of
+Karlstadt and Müntzer (Radical Reformation) (Wittenbergische Reformation 1545, Allstedt 1533).
+Strasbourg 1537 (mediating) set up an altar-table facing the people, and the Reformed orders put
+tables in place of altars (Siegen 1581, Casimir 1587, Anhalt 1596, Simmern 1598). In
+Transylvania the synod of 1565 ordered altars pulled down by "turbulent men" to be restored.
 
 **5. Two candles, no sacrament house (§5.4–5.5).** The usual Lutheran altar has two lights
 during the Supper (Allstedt 1533, Calenberg 1544/45, Kurland 1570). Hildesheim 1544 explains
@@ -337,7 +337,7 @@ episcopal vocabulary of the request:
   zucchetto, galero, humeral veil, pallium, rationale, gloves, tippet or hood. The amice and
   cincture are never named. The stole and maniple appear only to be left free (Hildesheim 1544)
   or dropped (Regensburg 1567), and the dalmatic and tunicle only to be forbidden (Hesse 1526,
-  Regensburg 1554). The black gown appears once, in 1603 (§7.4).
+  mediating; Regensburg 1554). The black gown appears once, in 1603 (§7.4).
 
 ### 2.4 Method
 
@@ -974,7 +974,7 @@ Anhalt in 1596 Johann Georg ordered the ministers to lay aside lights, Mass vest
 chasubles, to step behind the table "be it of stone or of wood", face the people and break the
 bread; the village officers were to remove the panels from the altars and the carved crucifixes
 from the churches, and set up a table in place of the altar. **Anhalt, *Verordnung Johann
-Georgs*, 3 November 1596** (Sehling 2, p. 580):
+Georgs*, 3 November 1596** (Reformed; Sehling 2, p. 580):
 
 <!-- doc 1262 -->
 > die lichter uf den altaren, mesgewant und caseln ablegen, bei administrirung und auspendunge
@@ -1731,7 +1731,7 @@ The Mülhausen preachers' opinion on Holy Week of 1528 (Reformed) shows the othe
 veiling: the crucifix unveiled and shown at the Good Friday office. They ask that this "may well
 be left off, with some chants", together with the burial of the Lord in the sepulchre and the
 wooden clappers. **Mülhausen, *Gutachten zu den Gottesdiensten in der Karwoche*, [1528]**
-(Sehling 20/2, p. 207):
+(Reformed; Sehling 20/2, p. 207):
 
 <!-- doc 1380 -->
 > Des glichen die begrebniß des herrn yn das grab mitt andern brüchen abgestelt werde, ouch, das
