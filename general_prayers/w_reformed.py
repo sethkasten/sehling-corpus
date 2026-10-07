@@ -194,7 +194,7 @@ W.append(dict(
     key='schaumburg_1614', doc=2178, year=1614,
     order='Schaumburg, Kirchenordnung 1614 (Graf/Fürst Ernst)',
     territory='County of Holstein-Schaumburg',
-    citation='Sehling 7/1, I/21, pp. 147–149',
+    citation='Sehling 7/2.2, I/21, pp. 147–149',
     family='R1. Heidelberg 1563 prayer', form='confession + absolution + continuous prayer',
     tradition='Lutheran',
     position='Every Sunday after the chief morning sermon, read from the pulpit: general confession, absolution and retention, then the prayer; the collects follow in the Communion office.',

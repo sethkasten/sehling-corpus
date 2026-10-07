@@ -3241,7 +3241,7 @@ congregation), then the Our Father. Copied in Moers, Bentheim-Tecklenburg, Ysenb
 | 1581 | Moers, Kirchenordnung [1581] (Graf Adolf von Neuenahr) (Reformed) | County of Moers | Sehling 22, III/Moers Nr. 5 (KO [1581]), pp. 182–183 | continuous prayer + Lord’s Prayer |
 | 1588 | Bentheim-Tecklenburg, Kirchenordnung 1588/1619 (Reformed) | Counties of Bentheim, Tecklenburg and Steinfurt | Sehling 22, IV/3, pp. 256–257 | continuous prayer + Lord’s Prayer |
 | 1598 | Ysenburg-Birstein, Kirchenordnung 1598 (Graf Wolfgang Ernst) (Reformed) | County of Ysenburg-Büdingen-Birstein | Sehling 10, III/Ysenburg-Birstein Nr. 17, pp. 664–666 | confession + absolution + continuous prayer + Lord’s Prayer |
-| 1614 | Schaumburg, Kirchenordnung 1614 (Graf/Fürst Ernst) (Lutheran) | County of Holstein-Schaumburg | Sehling 7/1, I/21, pp. 147–149 | confession + absolution + continuous prayer |
+| 1614 | Schaumburg, Kirchenordnung 1614 (Graf/Fürst Ernst) (Lutheran) | County of Holstein-Schaumburg | Sehling 7/2.2, I/21, pp. 147–149 | confession + absolution + continuous prayer |
 
 Schaumburg 1614 is a Lutheran order that takes over the Heidelberg confession, absolution and
 prayer, abridged.
