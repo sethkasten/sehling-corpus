@@ -14,8 +14,8 @@ the church. It asks:
 - **Schoolmasters.** What were their church duties?
 - **The magistrate.** What were the prince's and the council's duties towards the church?
 - **Catechesis.** How often was the catechism taught, and for how long? What did it require? Was
-  first communion separate from confirmation, and did each require instruction? Was there
-  catechesis or counselling before marriage?
+  first communion separate from confirmation, and did each require instruction? Did any order
+  give communion to infants? Was there catechesis or counselling before marriage?
 
 **How the guide is laid out.**
 - §1 answers each question in brief, and §2 sets out the scope, the sources and the negative
@@ -29,7 +29,7 @@ the church. It asks:
 - §8 covers the laity and the church workers.
 - §9 covers schoolmasters, and §10 the magistrate.
 - §11 covers catechesis, where all the estates meet: its frequency and length, first communion,
-  confirmation, and instruction before marriage.
+  confirmation, instruction before marriage, and infant communion.
 - §12 is a table by order, and §13 a concordance of every order quoted.
 
 **Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
@@ -193,7 +193,20 @@ day before, monthly. Lauenburg (1585) confirmed twice a year, and Hessen-Kassel 
 them again after six months. Where there was no rite, as in Electoral Saxony, examination alone
 admitted to communion.
 
-**12. Before marriage: examination, not counselling** (§§11.4–11.5). From the 1560s many orders
+**12. Infant communion: acknowledged as ancient, set aside** (§11.6). No order gives the Supper
+to infants or argues for it. Four orders name the practice:
+- Hesse (1566) and Hohenlohe (1578) grant that infants communed in the time of Cyprian and
+  Augustine, but defer the Supper because of 1 Corinthians 11:28 and "the common judgment of the
+  first church". Hesse leaves the old custom "in its worth".
+- Oldenburg (1573) says that infants cannot examine themselves or discern the Lord's body.
+- The Reformed preacher at Markirch (1561) calls it an error of the ancients, who thought that
+  the uncommunicated were lost.
+
+Children who died before first communion were buried like adults (Regensburg 1572/1588;
+Henneberg 1582). A dying child who knew the catechism might commune before confirmation
+(Nassau-Dillenburg 1575).
+
+**13. Before marriage: examination, not counselling** (§§11.4–11.5). From the 1560s many orders
 refused to proclaim or marry young people who did not know the catechism (Saxony 1580; Hesse
 1566; Zweibrücken 1574), "since they are to keep house and get children and servants". Some
 married them on a pledge, backed if need be by sureties, to attend the catechism afterwards
@@ -223,6 +236,10 @@ question, in High and Low German and Latin spellings:
 - **Catechesis:** *Katechismus*, *Kinderlehre*, *Verhör*, *Examen*, *zum ersten Mal* with
   *Sakrament* or *Nachtmal*, *confirmieren*, and *Katechismus* within a short distance of
   *Braut*, *Eheleute*, *copulieren*, *aufbieten* or *Hochzeit*.
+- **Infant communion:** *kinder*, *kindlein*, *unmündig*, *infantes*, *parvuli* and *pueri*
+  within a short distance of *Nachtmal*, *Abendmahl*, *Sakrament*, *coena* or *communio*; *prüfe
+  sich selbst* and *probet se ipsum* near *Kinder*; *Cyprian*, *Augustin* and *alte Kirche* near
+  *Kinder*; *Böhmen*, *Picarden* and *Hussiten*.
 
 Each hit was read in its context. Pages were checked against Sehling's running heads, which
 often correct the database's record headings. Among the corrections:
@@ -247,6 +264,9 @@ often correct the database's record headings. Among the corrections:
 - **No premarital counselling course.** Instruction before marriage meant an examination in the
   catechism and in the freedom to marry, and often confession and communion. The teaching on
   marriage itself was given publicly in the wedding exhortation and sermon (§11.5).
+- **No paedocommunion.** No order gives the Supper to infants or defends the practice, and none
+  mentions the Bohemian communion of infants. The orders that name it treat it as an ancient
+  custom now set aside (§11.6).
 - **No separate confirmation course.** Where confirmation existed it coincided with first
   communion, and one instruction served both (§11.3).
 - **No prayer rule for lay church workers.** The lay offices had duties of conduct and
@@ -1365,7 +1385,7 @@ school.
   years" (Sehling 16, p. 629);
 - at Regensburg (1572/1588) children of "eight, nine, ten years" came to confession, and if they
   lacked understanding the parents were to be told "not to hurry with them"
-  (Sehling 13, p. 510);
+  (Sehling 13, p. 510; §11.6);
 - the Reformed church at Emden admitted children "about fourteen years", after a public
   profession before the congregation eight days before the Supper (Micron's *Ordinancien*,
   German edition of 1565, Sehling 7/1, p. 606).
@@ -1570,6 +1590,176 @@ new married folk" when there was no time for a sermon (1576, Sehling 13, p. 197)
 Hall's pastors were pointed for marriage cases to the handbooks of Hemmingsen, Heshusius,
 Bidembach, Beust, Porta's *Pastorale Lutheri* and Sarcerius (1615, Sehling 17/1, p. 155).
 
+### 11.6 Infant communion
+
+**No order gives the Supper to infants.** Did any order give communion to baptized infants, or
+argue for it? None does. Every order that speaks of first communion requires instruction and
+examination first (§11.2). Four orders name the communion of infants outright, and all four set
+it aside. Their reasons are three:
+- the Apostle's command to examine oneself and discern the Lord's body (1 Corinthians 11:28–29),
+  which infants cannot do;
+- the judgment of the early church;
+- the children of Christians are saved by baptism and faith without the Supper, so to wait does
+  them no harm.
+
+The Lutheran orders of Hesse and Hohenlohe grant that infant communion was the custom in the
+time of Cyprian and Augustine. Hesse leaves the custom "in its worth" and does not condemn it.
+The Reformed preacher at Markirch (1561) calls it an error of the ancients.
+
+**Hesse: the ancient custom left unjudged.** The Hessian order of 1566 prefaces its rite of
+confirmation with the history. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, pp. 286–287):
+
+<!-- doc 2257 -->
+> Vor zeiten ward den kindern gleich wie den alten, so bald sie getauft, auch das sacrament des
+> leibs und bluts Christi zu essen und zu trinken gereicht, wie das bezeugt Cyprianus in der
+> predig de lapsis und Augustinus, wie zuvor vermeldt. Solchs lassen wir in seinem wert beruhen.
+> Wir aber, zum teil bewegt durch den spruch des apostels: Der mensch prüffe sich selbst und
+> also esse er von diesem brot und trinke von diesem kelche, etc., zum teil folgende dem
+> gemeinen urteil der ersten kirchen, verziehen, das heilig abendmal den kindern zu reichen uf
+> ein ander zeit, und achten notwendiger sein, daß, welche in der kindheit, da sie noch nicht
+> vor sich selbst dem teufel absagen noch den glauben Christi bekennen mögen, durch die hei.
+> taufe gereiniget und dem Herrn Christo und seiner kirchen eingeleibt seind, so bald die zeit
+> kompt ihres verstands, daß sie mögen in den heuptartickeln christlicher lehr und religion
+> underwiesen werden und itzt etlichermaßen underrichtet sein, daß sie alsdenn ihren glauben vor
+> der kirchen bekennen und bericht geben von den vornemsten heuptpunkten christlicher religion
+> […]
+
+In times past the sacrament of the body and blood of Christ was given to the children to eat and
+to drink, even as to the old, as soon as they were baptized, as Cyprian testifieth in the sermon
+*de lapsis*, and Augustine, as was said before. That we leave in its worth. But we, moved partly
+by the saying of the apostle, Let a man examine himself, and so let him eat of this bread and
+drink of this cup, etc., and partly following the common judgment of the first church, defer the
+giving of the holy Supper to the children unto another time. And we hold it more needful that
+those who in their infancy, when they could not yet of themselves renounce the devil nor confess
+the faith of Christ, were cleansed by holy baptism and incorporated into the Lord Christ and his
+church, should, so soon as the time of their understanding cometh, that they may be instructed
+in the chief articles of Christian doctrine and religion and are now somewhat taught, then
+confess their faith before the church and give account of the foremost chief points of the
+Christian religion […]
+
+Earlier, the same order explains the ancient custom by the early church's joining of baptism and
+the Supper. The newly baptized "all went straightway to the holy Supper, and so also in the
+times of holy Augustine it was given to the children, which we yet leave in its worth"
+(Sehling 8, p. 273).
+
+**Oldenburg: infants cannot examine themselves.** The Oldenburg order of 1573 argues for infant
+baptism and, in passing, against infant communion. **Oldenburg, *Kirchenordnung*, 1573**
+(Sehling 7/2.1, p. 1047):
+
+<!-- doc 2148 -->
+> Nun kan man durchs blosse wort alleine mit den kinderlein nicht handeln, denn man kan sie noch
+> nicht lehren, derhalben mus es durch die sacrament geschehen, wie im Alten Testament durch die
+> beschneidung. Vom abentmal aber des Herrn spricht Paulus: Der mensch prüfe sich selbs, item,
+> er sol unterscheiden den leib des Herrn, 1.Cor. 11, welches die jungen kinderlein noch nicht
+> tun können.
+
+Now one cannot deal with the little children by the bare word alone, for one cannot yet teach
+them; therefore it must be done through the sacrament, as in the Old Testament through
+circumcision. But of the Supper of the Lord Paul saith, Let a man examine himself; and again, he
+shall discern the Lord's body, 1 Cor. 11; which the young little children cannot yet do.
+
+**Hohenlohe: children saved without the Supper.** Hohenlohe in 1578 answered those who held the
+Supper needless to the baptized believer. **Hohenlohe, *Kirchenordnung*, 1578**
+(Sehling 15, p. 334):
+
+<!-- doc 574 -->
+> Darnach, so ist es war, die kinder der Christen werden durch den glauben und tauf selig, on
+> den gebrauch des nachtmals, wie Christus sagt: Wer glaubt und getauft wird, der wird selig.
+> Wiewol es zu der zeit Augustini der brauch ist gewesen, das man die jungen kinder mit dem
+> kelch des Herrn getrenkt hat, jedoch so volget hierauß nicht, das die erwachsenen nicht
+> bedörfen des heiligen nachtmals und sey inen genug die empfangenen tauf und glauben.
+
+Moreover, it is true that the children of Christians are saved through faith and baptism,
+without the use of the Supper, as Christ saith, He that believeth and is baptized shall be
+saved. Although in the time of Augustine it was the custom that the young children were given to
+drink of the cup of the Lord, yet it followeth not hereof that the grown need not the holy
+Supper, and that the baptism and faith they have received are enough for them.
+
+**Markirch: an error of the ancients.** Arnaud Banc, preacher of the Reformed French
+congregation in the Leber valley at Markirch, in the lordship of Rappoltstein, explained in 1561
+why his church would not carry the Supper to the sick. Private communion, he wrote, rested on a
+false belief. **Rappoltstein, Arnaud Banc's report on the doctrine of the French congregation,
+1561** (Sehling 20/2, p. 142):
+
+<!-- doc 1371 -->
+> Raichet uff die opinion unnd meinung deren, die vermeinen, das alle personen, so das nachtmal
+> nit entpfanngen heten, verloren werden; in welchem die alten auch geirt haben, welche
+> deßhalben den kleinen kindern das nachtmal geraicht haben.
+
+This pertaineth to the opinion and belief of those who suppose that all persons who had not
+received the Supper are lost; wherein the ancients also erred, who for that cause gave the
+Supper to the little children.
+
+**Instruction first.** Other orders reach the same practice without naming the ancient custom.
+Brenz at Schwäbisch Hall in 1527 drew the line from the catechumenate of the early church.
+**Schwäbisch Hall, *Ordnung der Gottesdienste an Werk- und Feiertagen*, 1527**
+(Sehling 17/1, p. 66):
+
+<!-- doc 756 -->
+> Fuit et is mos in ecclesia recens orta, ut nemo ad baptismum admissus fuerit nisi qui ante sit
+> cathecuminus. Nunc cum baptisemur pueri, instituendi sumus in rebus fidei, priusquam ad
+> communionem cene dominice admittamur.
+
+This also was the custom in the church newly risen, that none was admitted to baptism but he
+that had first been a catechumen. Now, since we are baptized as children, we must be instructed
+in the things of faith before we be admitted to the communion of the Lord's Supper.
+
+The Limpurg visitors' question of 1611, whether the pastor "communicates children under twelve
+years" (§11.2), presumes the same rule.
+
+**No harm to the child who waits.** An order that deferred the Supper had to say what became of
+a child who died before first communion. Regensburg told the confessors to warn parents not to
+hurry children of eight, nine or ten years who lacked understanding. **Regensburg,
+*Kirchenregimentsordnung*, 1572/1588** (Sehling 13, p. 510):
+
+<!-- doc 452 -->
+> weil zu diesem sacrament ein sonderer verstand und prob gehörig, und daß ihnen an ihrer
+> seligkeit, da sie sonsten wol erzogen, nicht nachteilig, wie die dann, so sie Gott aus diesem
+> leben, ehe dann si zur communion kommen, abfordern solte, sowol als andere erwachsenen auf
+> ihrer, der eltern begern sollen mit der gewöhnlichen proceß und ceremonien, laut der
+> regimentsordnung zur erden bestättigt werden.
+
+because to this sacrament belongeth a special understanding and trial; and that it is no hurt to
+their salvation, if they be otherwise well brought up; as also such children, if God should call
+them out of this life before they come to the communion, shall at their parents' desire be laid
+in the earth with the accustomed procession and ceremonies, as well as other grown persons,
+according to the order of government.
+
+Henneberg abolished a custom of burying such children apart. **Henneberg, *Kirchenordnung*,
+1582** (Sehling 2, p. 316):
+
+<!-- doc 1247 -->
+> Weil auch an etlichen orten bisanhero der brauch gehalten, das man die kindlein, so das
+> abendmal Christi noch nicht empfangen, nicht mit den schülern, wie die alten, zur erden
+> bestattet, so sol doch hinfort hierinnen kein unterscheid gemacht, sondern die kinder weniger
+> nicht, als die alten, mit vorgesetzten ceremonien zum begrebnus gebracht werden.
+
+And whereas in some places the custom hath hitherto been kept that the little children which had
+not yet received the Supper of Christ were not laid in the earth with the scholars, as the old
+are, henceforth no difference shall be made herein, but the children shall be brought to burial
+with the ceremonies set down above, no less than the old.
+
+**The sick child.** The one exception to the order of instruction, confirmation and communion
+was the child in danger of death. Nassau-Dillenburg kept the unconfirmed from the sacrament, but
+not a dying child who understood the catechism and asked for it. **Nassau-Dillenburg, *Agende*,
+1575** (Sehling 10, p. 155):
+
+<!-- doc 182 -->
+> Welche kinder auff solche weis noch nit verhort und confirmirt seint, die soll man vom
+> sacrament abhalten, biß sie durch die confirmation aufgenomen werden. Doch so jemant under den
+> kindern kranck und die schwachheit sich etwa geferlich ansehen ließ, so dasselbige
+> zimlichermassen verstendigh und mit dem catechismo gefaßet und das abentmahell begeren wurde,
+> soll es ime keineswegs abgeschlagen werden, ohnerachtet, das es die confirmation noch nicht
+> entpfangen. Es soll aber nicht destoweniger ein solch kindt sich zur confirmation nach
+> gelangter gesundheit eintzustellen verpflichten.
+
+Those children that have not yet in such wise been heard and confirmed shall be kept from the
+sacrament, until they be received by confirmation. Yet if any among the children be sick, and
+the weakness seem somewhat dangerous, and the child be fairly understanding and grounded in the
+catechism, and desire the Supper, it shall in no wise be denied it, notwithstanding that it hath
+not yet received confirmation. But such a child shall none the less bind itself to present
+itself for confirmation when it hath recovered its health.
+
 ---
 
 ## 12. Table by order
@@ -1579,6 +1769,7 @@ question, in date order. Section numbers refer to this guide.
 
 | Order | Vol. | Provisions (§) |
 |---|---|---|
+| Schwäbisch Hall, 1527 | 17/1 | baptized as children, so instructed before communion (11.6) |
 | Belzig and the Saxon visitations, 1529 | 1 | quarterly catechism series, a fortnight each, enforced by penalties (11.1) |
 | Brück, 1530 | 1 | daily catechism sermons before the high feasts; girls under eleven taught catechism (9.3, 11.1) |
 | Brandenburg-Nürnberg, 1533 | 11 | householders to bring children and servants to sermon and sacrament (8.2) |
@@ -1590,17 +1781,22 @@ question, in date order. Section numbers refer to this guide.
 | Electoral Saxony, *Generalia*, 1555 | 1 | superintendents' visitation and synod; weeks of instruction at Wittenberg; practice sermons; house-to-house examination; deacons' duties (3.5, 4.2, 7.2, 7.3, 11.1) |
 | Electoral Saxony, *General-Artikel*, 1557 | 1 | pastors' reading list and conduct; superintendent's synod; ordination examination and public sermon (3.2, 3.3, 4.2, 7.3) |
 | Württemberg, 1559 | 16, 17/1 | Tübingen *Stipendium*: practice sermons corrected; visitation of the minister's household (3.3, 7.1, 7.2) |
+| Markirch (Rappoltstein), 1561 | 20/2 | infant communion an error of the ancients (11.6) |
 | Weimar, 1561; Jena, 1569 | 1 | prince as supreme president; superintendent as president of the consistory (5.1, 5.2) |
 | Palatinate, *Kirchenratsordnung*, 1564; report, 1571 | 14 | trial sermon; new men to serve first as deacons; monthly convents with sermon criticism (7.3–7.5) |
-| Hesse, 1566 | 8 | candidates kept at Marburg for lectures; sextons held to ministers' conduct; confirmation and first communion together; catechism before marriage (7.3, 8.4, 11.3, 11.4) |
+| Hesse, 1566 | 8 | candidates kept at Marburg for lectures; sextons held to ministers' conduct; confirmation and first communion together; infant communion deferred; catechism before marriage (7.3, 8.4, 11.3, 11.4, 11.6) |
 | Lasseln (Transylvania), 1572; Mediasch synod, 1572 | 24 | elected deans; magistrate nourisher of churches and schools (4.4, 10.1) |
+| Regensburg, 1572/1588 | 13 | children of eight to ten not hurried to communion; buried like adults if they die first (11.2, 11.6) |
+| Oldenburg, 1573 | 7/2.1 | infants cannot examine themselves (11.6) |
 | Pfalz-Zweibrücken, 1574 | 18 | catechism before marriage, for the household's sake (11.4) |
+| Nassau-Dillenburg, *Agende*, 1575 | 10 | sick child communicated before confirmation (11.6) |
 | Nassau-Weilburg, 1576 | 10 | absentees counted house by house and fined; registers of confirmations (3.4, 8.1) |
 | Pfalz-Neuburg, 1576 | 13 | four-point examination before marriage; consistory book of candidates (7.4, 11.4) |
-| Hohenlohe, 1578; 1588 | 15 | daily hour of instruction in Lent before first communion at about twelve; communion once or twice a year (8.1, 11.2) |
+| Hohenlohe, 1578; 1588 | 15 | daily hour of instruction in Lent before first communion at about twelve; communion once or twice a year; children saved without the Supper (8.1, 11.2, 11.6) |
 | Saxony, 1580 | 1 | parish registers; consistory composition and business; German schoolmasters at sermon; first communicants examined; no banns without the catechism (3.4, 5.2, 5.3, 9.2, 11.2, 11.4) |
 | Mansfeld, 1580 | 2 | monthly public examination and confirmation before first communion; no marriage without the catechism (11.3, 11.4) |
 | Hoya, 1581 | 6/2 | residence and leave; books bought by the parish; ministers and sextons out of taverns (3.2, 3.4, 8.4) |
+| Henneberg, 1582 | 2 | uncommunicated children buried like adults (11.6) |
 | Dillenburg synod, 1582 | 10 | domestic visitation; prayer at home morning, evening and at meals (8.2) |
 | Lauenburg, 1585 | 5 | confirmation twice a year, with parents and godparents (11.3) |
 | Regensburg, 1588 | 13 | lay president of the consistory (5.2) |
@@ -1631,10 +1827,11 @@ Orders cited only in summary can be found through the table in §12 and the text
 | Esslingen, *Artikel für den deutschen Schulmeister*, [1534] | 17/2, p. 381 | 881 | 9.1 |
 | Grubenhagen, *Officium superintendentis Grubenhagici*, 1600 | 6/2, p. 1109 | 2058 | 4.3 |
 | Hanau-Münzenberg, *Presbyteriumsordnung*, [1609] | 10, p. 512 | 211 | 10.3 |
+| Henneberg, *Kirchenordnung*, 1582 | 2, p. 316 | 1247 | 11.6 |
 | Hesse, *Stipendiatenordnung*, 1546 | 8, p. 159 | 2255 | 6 |
-| Hesse, *Kirchenordnung*, 1566 | 8, pp. 201, 211 | 2257 | 7.3, 8.4 |
+| Hesse, *Kirchenordnung*, 1566 | 8, pp. 201, 211, 286–287 | 2257 | 7.3, 8.4, 11.6 |
 | Hessen-Kassel, *Konsistoriumsordnung*, 1610 | 9, p. 118 | 2287 | 11.3 |
-| Hohenlohe, *Kirchenordnung*, 1578 | 15, p. 277 | 574 | 11.2 |
+| Hohenlohe, *Kirchenordnung*, 1578 | 15, pp. 277, 334 | 574 | 11.2, 11.6 |
 | Hohenlohe, *Polizei- und Rügordnung*, 1588 | 15, p. 594 | 613 | 8.1 |
 | Hoya, *Kirchenordnung*, 1581 | 6/2, p. 1140 | 2065 | 3.4 |
 | Limpurg, *Kirchenordnung*, 1610 | 16, p. 621 | 729 | 11.5 |
@@ -1642,16 +1839,21 @@ Orders cited only in summary can be found through the table in §12 and the text
 | Mansfeld, *Kirchen-agenda*, 1580 | 2, p. 233 | 1241 | 11.3 |
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, p. 189 | 1922 | 10.1 |
 | Nassau-Dillenburg, *Synodalabschied*, 1552 | 10, p. 93 | 172 | 7.5 |
+| Nassau-Dillenburg, *Agende*, 1575 | 10, p. 155 | 182 | 11.6 |
 | Nassau-Dillenburg, *Abschied der Dillenburger Generalsynode*, 1582 | 10, p. 173 | 186 | 8.2 |
 | Nassau-Weilburg, *Kirchenordnung*, 1576 | 10, p. 309 | 198 | 8.1 |
+| Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, p. 1047 | 2148 | 11.6 |
 | Palatinate, *Mandat zu den Konventen, der Predigtaufsicht und den Diakonen*, 1607 | 19/2, p. 957 | 1195 | 7.4 |
 | Palatinate, *Kirchenratsordnung*, 1564 | 14, p. 413 | 504 | 7.4 |
 | Palatinate, Wenzel Zuleger's report on the classical convents, [1571] | 14, p. 446 | 504 | 7.5 |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 195 | 404 | 11.4 |
 | Pfalz-Zweibrücken, *Kirchenordnung*, 1574 | 18, p. 529 | 1011 | 11.4 |
+| Rappoltstein, Arnaud Banc's report on the doctrine of the French congregation, 1561 | 20/2, p. 142 | 1371 | 11.6 |
+| Regensburg, *Kirchenregimentsordnung*, 1572/1588 | 13, p. 510 | 452 | 11.6 |
 | Regensburg, *Ordnung des consistorii*, 1588 | 13, pp. 513–514 | 453 | 5.2 |
 | Saxe-Weimar, *Ordnung und reformation ecclesiastici consistorii zu Jena*, 1569 | 1, p. 234 | 24 | 5.1 |
 | Saxony, *Kirchenordnung*, 1580 | 1, pp. 370, 397, 403, 424, 436 | 44 | 3.4, 5.3, 9.2, 11.2, 11.4 |
+| Schwäbisch Hall, *Ordnung der Gottesdienste an Werk- und Feiertagen*, 1527 | 17/1, p. 66 | 756 | 11.6 |
 | Schwäbisch Hall, *Kirchenordnung*, 1543, revised text of 1615 | 17/1, p. 155 | 762 | 11.5 |
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 689 | 1344 | 3.1 |
 | Transylvania, Statutes of the Chapter of Lasseln, 1572 | 24, p. 361 | 1692 | 4.4 |
