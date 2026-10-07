@@ -2,7 +2,7 @@
 import sqlite3, json, os, sys, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import lexicon
-from resolve import resolve, preclean
+from resolve import resolve, preclean, by_occasion
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'hymns.db')
 
@@ -61,6 +61,9 @@ def main():
         canon, lit, com, alt, ok = resolve(printed)
         if not ok:
             continue
+        canon2, lit2, com2 = by_occasion(canon, occ, printed)
+        if canon2 != canon:
+            canon, lit, com, alt = canon2, lit2, com2, None
         clean_printed = preclean(printed)
         lang = 'Latin' if canon in lexicon.LATIN_EN else 'German'
         if canon not in seen_hymn:

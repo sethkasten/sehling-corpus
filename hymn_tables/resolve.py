@@ -89,3 +89,18 @@ if __name__ == '__main__':
     print(f'rows: {len(rows)}   resolved: {hit} ({hit*100//len(rows)}%)   unresolved: {len(rows)-hit}')
     print(f'distinct unresolved: {len(miss)}\n')
     for t, n in miss.most_common(60): print(f'{n:>3}  {t}')
+
+
+# ---- identity that depends on the occasion -------------------------------------------------
+# Luther wrote two hymns that open "Jesus Christus, unser Heiland": the Easter hymn ("... der
+# den Tod überwand") and the Communion hymn ("... der von uns den Gotteszorn wandt").  A source
+# that prints only the opening words means the Easter hymn when it sets it for Easter.
+_LEX = {c: (lit, com) for c, pats, lit, com, alt in lexicon.L}
+
+def by_occasion(canon, occasion, printed=''):
+    """-> (canonical, literal_en, common_en) after the occasion-dependent corrections."""
+    if (canon == 'Jesus Christus, unser Heiland' and (occasion or '').startswith('Easter')
+            and norm(printed or '').startswith('jesus christus')):
+        canon = 'Jesus Christus, unser Heiland, der den Tod überwand'
+    lit, com = _LEX.get(canon, (None, None))
+    return canon, lit, com
