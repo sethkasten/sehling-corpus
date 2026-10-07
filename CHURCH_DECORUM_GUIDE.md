@@ -32,7 +32,8 @@ asks:
 - §5 covers the building and its furnishings: altars, the minister's position, tables in place
   of altars, lights, the sacrament house, the font, and the pulpit, screens, pews, galleries and
   windows.
-- §6 covers paraments, linens and vessels, and colours and the seasons.
+- §6 covers paraments, linens and vessels, colours and the seasons, and the paten, host box and
+  bread dish.
 - §7 covers vestments: the Mass vestment kept, the cope, the vestments abolished, and the
   surplice.
 - §8 covers clerical dress outside the service.
@@ -179,6 +180,14 @@ fall, or prescribes colours. What the orders ask for:
 Surplus vestments were sold or cut up for the hospital's bed sheets (Schmiedeberg 1528), or made
 into altar cloths (Sponheim 1590/91). The Reformed exchanged chalices for beakers (Siegen 1581,
 Casimir 1587, Zweibrücken 1595).
+
+The paten was kept as an ordinary vessel (Hannover 1536) and counted in the inventories (§6.7).
+The commonest rubric puts it, with as many hosts as communicants, into the minister's hand at
+the Words of Institution (Livonia 1533, the Palatinate 1546, Danzig 1557, Henneberg 1582). At
+the sick communion it was held under the communicant's chin (Brandenburg 1540). Havelberg (1558)
+forbade elevating it in the chalice's stead. Hohenlohe (1596) and Nassau-Weilburg (1617) stopped
+showing or handling it at the Verba. The Reformed melted or sold patens with the chalices
+(Zweibrücken 1595, Wittgenstein 1605) and passed the bread in a dish.
 
 **9. Vestments: chasuble, cope, surplice (§7).**
 - *The Mass vestment* (alb and chasuble) was kept, and in Saxony restored, for the Supper with
@@ -1783,6 +1792,137 @@ branches" on both sides for the procession, "to the honour of God and his church
 (only the rocking of the Christ-child, abolished), or Easter flowers. The Advent wreath and the
 church Christmas tree belong to later centuries.
 
+### 6.7 The paten, the host box and the bread dish
+
+**The searches.** The corpus was searched for the paten (*Patene*, *Paten*, *patena*, *patina*,
+*pateen*; 140 passages once the many godparents, also *Paten*, were set aside). It was also
+searched for the vessels beside it: the box for the hosts (*Büchse*, *Lade*, *Schachtel*,
+*Kapsel*, *pyxis*, *ciborium*) and the Reformed dish or plate (*Schüssel*, *Teller*, *Platte*).
+
+**An ordinary vessel, kept.** The Lutheran orders kept the paten as they kept the chalice, as a
+plain instrument of the Supper. Hannover (1536): "We use the customary vessels for the
+administration of the holy sacraments: chalice, paten, etc. For what Scripture doth not forbid,
+that we will not let be forbidden us" (Sehling 6/2, p. 1005). The paten was set out on the altar
+with the other things:
+- **Regensburg (1542):** the epistoler "setteth the chalice, book, particles and paten on the
+  altar" (Sehling 13, p. 391).
+- **Regensburg (1567):** the priest and the *secundus* carry chalice and paten out of the
+  sacristy, and the *secundus* unwraps them and makes them ready on the altar
+  (Sehling 13, p. 462).
+- **Ritzebüttel (1556):** the priest stands at the altar in the customary Mass vestment, with
+  "paten, chalice, bread and wine and burning wax lights" set on it (Sehling 5, p. 558).
+- **Gottleuba (1567):** "in the office they use lighted candles on the altar, chalice, paten,
+  Mass vestment and all other ornaments" (Sehling 1, p. 567).
+- **Danzig (1557):** the sexton is to watch "so long as the book, the can, the chalice and the
+  paten stand on the altar", that no harm or theft befall them (Sehling 4, p. 214).
+- **Strasbourg (1598):** a box with the particles, a can of wine, the chalice and the paten are
+  set on the altar at the beginning of the service (Sehling 20/1, p. 611).
+
+**In the hand at the Words of Institution.** The commonest rubric puts the paten, with as many
+hosts as there are communicants, into the minister's hand while he says or sings the words over
+the bread. **Kurpfalz, *Gemaine maß*, 1546** (Sehling 14, p. 97):
+
+<!-- doc 472 -->
+> Und wann er uf diese wort khompt: name er das brot, so nymbt er die paten, daruf die hostia
+> alle liegen, sovil der communicanten, die sich dann zuvor angezeigt, absolvirt und zugelassen
+> sein, in die hende und, wann die verba consecrationis vollendet sein, legt ers wider von sich.
+> Deßgleichen thut er auch nachvolgents mit dem kelch
+
+And when he cometh to these words, "he took the bread", he taketh the paten, on which lie all
+the hosts, as many as there are communicants who have announced themselves beforehand, been
+absolved and admitted, into his hands; and when the words of consecration are finished, he
+layeth it away from him again. Likewise doth he afterwards also with the chalice.
+
+The same rubric appears in many orders:
+- **Livonia (1533):** the priest takes "the bread upon the paten into his hand", turns about
+  over the altar toward the people, and speaks the words aloud (Sehling 5, p. 16).
+- **Mecklenburg (1540/1545):** after the Lord's Prayer he "taketh the paten with the bread into
+  his hand" and sings the Verba, turned toward the altar (Sehling 5, p. 154).
+- **The *Cellische Ordnungen* (1545):** the priest lays "as many particles as belong to the
+  communicants" in the paten, turns with it toward the people, and says the Verba in German
+  (Sehling 1, p. 301).
+- **Danzig (1557):** he takes "the paten with the appointed host into his hand without all
+  papistical crossing and other gestures" (Sehling 4, p. 168).
+- **Neuenrade (1564):** "he taketh the paten with the bread and turneth to the people"
+  (Sehling 22, p. 519).
+- **Schwarzburg (1574):** "he taketh the paten of the bread, wherein are as many particles as
+  there are communicants" (Sehling 2, p. 133).
+- **Henneberg (1582):** the minister shall "always have the paten with the particles in his
+  hand" when he says "This is my body" (Sehling 2, p. 309).
+
+The number of hosts on the paten was counted to the number of communicants. The Palatinate wants
+nothing left over to be reserved (above). Württemberg in 1562 found the minister in some places
+repeating the Verba "when there is no more bread and wine on the paten and in the chalice", and
+in others not (Sehling 16, p. 436).
+
+**Held under the chin.** At the sick communion of Brandenburg (1540) "the priest shall also
+specially hold the paten cleanly under" as he gives the host (Sehling 3, p. 80). Pfalz-Neuburg
+(1543) adds "that nothing fall" (Sehling 13, p. 88). The Palatine sick order of 1556 dropped the
+instruction (editors' note, Sehling 14, p. 111). In the Mass the same office passed to the
+communion cloth held by two men or boys (§6.3).
+
+**Shown, and then not shown.** The paten could be shown to the people with the chalice.
+Havelberg (1558) insists that the elevation of the sacrament remain, "much less shall the paten
+be elevated in the stead of the chalice" (Sehling 3, p. 230). Hohenlohe abolished the showing in
+1596. **Hohenlohe, *Verbesserungen der Kirchenzeremonien*, 1596** (Sehling 15, p. 659):
+
+<!-- doc 628 -->
+> Also auch die monstration belangend patinae et calicis under der recitation verborum coenae
+> achten wir auch, dieweyl brott und wein in der handlung des abendmalls ohne das auf dem altar
+> offentlich aufgestelt sind, das derowegen solche monstratio panis et vmi (weyl es unsere
+> gnedige herrschaft je also haben will) soll eingestelt werden
+
+So also concerning the showing of the paten and the chalice during the recitation of the words
+of the Supper, we also judge, since bread and wine in the action of the Supper are in any case
+set out openly on the altar, that therefore such showing of bread and wine (since our gracious
+lordship will have it so) shall be given up.
+
+Nassau-Weilburg's explanations of 1617 likewise call it "unnecessary that the minister, while he
+speaketh the words of institution of the holy Supper, layeth hold of the paten and the chalice
+severally", and order it stopped (Sehling 10, p. 351). At Hof, before Pangratius's time, the
+deacon of the week broke his large host, "left a particle lying in the paten after the old
+catholic custom", and after communion dropped it into the chalice (Sehling 11, p. 453).
+
+**In the inventories.** Patens were counted with the chalices:
+- Potsdam (1541): "2 patens" beside five chalices; at the chapel of St Gertrude "the patens and
+  vestments are burnt" (Sehling 3, pp. 259–260);
+- Oschatz (1555): "8 chalices with their patens" (Sehling 1, p. 628);
+- Fürstenberg in Mecklenburg (1578): "two silver gilt patens" (Sehling 5, p. 265; §6.6).
+
+The Merseburg visitors of 1544 asked what the church had "in store in patens, monstrances,
+chalices and other silver" (Sehling 2, p. 12). Other orders charge the church officers with the
+patens and other treasures:
+- the *Altermann* of Ermsleben (1564) hands over "the treasures of chalices, patens, albs,
+  chasubles" to his successors (Sehling 2, p. 488);
+- Pfalz-Neuburg (1576) orders the church doors and windows barred "with strong grilles and iron
+  bolts" for the sake of the "chalices, patens and other" treasures (Sehling 13, p. 207);
+- the Sponheim visitation order of 1590/91 lists, among the things each church must have, "a
+  chalice and a paten for the communion; a capsule or box for the wafers or hosts; a pewter can,
+  or where needful two, for the wine" (Sehling 18, p. 655).
+
+**The host box.** The particles were kept in a box (*Lade*, *Schachtel*, *Kapsel*): Sponheim and
+Strasbourg (above). The *ciborium* for reservation went with the monstrance: Pomerania 1535
+needs no ciborium (Sehling 4, p. 342), and Teschen 1584 names "the shutting of the sacrament
+into the ciborium" among idolatrous ceremonies (Sehling 3, p. 461). Reservation is treated in
+§5.5.
+
+**The Reformed dish.** The Reformed gave up the paten with the chalice:
+- **Pfalz-Zweibrücken (1595):** all chalices and patens were to be collected and made into
+  beakers (§6.5).
+- **Ysenburg-Birstein (1598):** the ministers are not to use "consecrated chalices, patens and
+  altars", but ordinary bread, broken and given into the hands, and "a clean drinking vessel"
+  for the wine (Sehling 10, p. 645).
+- **Wittgenstein (1605):** the Mass vestments, patens and chalices are to be sold to advantage
+  and a beaker bought for each place (Sehling 22, p. 149).
+- **The dish.** In its place the bread was carried in a dish (*Schüssel*). Micron's London
+  order, printed with the Emden orders, passes the dishes with the bread among those sitting at
+  the table (editors' comparison of the Supper forms, Sehling 7/1, p. 576). The Lutheran
+  Marienhafe order of 1593 also names "table cloth, chalice, dish and can" for the Supper
+  (Sehling 7/1, p. 710).
+
+**Not found.** No order regulates the paten's material or size, or the veil and burse that go
+with it. None mentions the paten's use at the offertory, or the minister's wiping of it.
+
 ---
 
 ## 7. Vestments
@@ -2330,7 +2470,7 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Albertine Saxony, *Cellische Ordnungen*, 1545 | 1 | — | — | — | Surplice always in church; long clothes, no slashed or coloured | 7.4, 8 |
 | Nuremberg, Dietrich's *Agendbüchlein*, 1545 | 11 | Crucifix at the deathbed not evil; the word the best crucifix | — | — | — | 4.5 |
 | *Wittenbergische Reformation*, 1545 | 1 | — | Against standing behind the table | — | — | 5.2 |
-| Kurpfalz, *Gemaine maß*, 1546 | 14 | — | One lamp only | — | — | 5.4 |
+| Kurpfalz, *Gemaine maß*, 1546 | 14 | — | One lamp only | Paten with the hosts taken in hand at the Verba | — | 5.4, 6.7 |
 | Ansbach, *Auctuarium*, 1548 | 11 | — | Altar candles lit throughout Mass and Vespers | — | — | 5.4 |
 | Mecklenburg, visitation, 1552 | 5 | Images nailed to the walls; banners and crosses removed | All altars but the high altar; ciboria removed | — | — | 4.2, 4.6, 5.1 |
 | Hohenlohe, *Kirchenordnung*, 1553 | 15 | Image plays abolished | No reservation | Silk cloth held by two men; kneeling benches | — | 4.6, 5.5, 6.3, 6.6 |
@@ -2386,6 +2526,7 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Hof, *Ordo ecclesiasticus*, 1592 | 11 | — | Grass and May branches for the dedication procession | — | — | 6.6 |
 | Marienhafe, *Kirchenordnung*, 1593 | 7/1 | — | "Altar or table" | Table-cloth, chalice, dish and can | — | 5.3 |
 | Pfalz-Zweibrücken, mandate, 1595 | 18 | — | — | Chalices and patens melted for beakers | — | 6.5 |
+| Hohenlohe, *Verbesserungen der Kirchenzeremonien*, 1596 | 15 | — | — | Showing of paten and chalice at the Verba stopped | — | 6.7 |
 | Sorau, *Kirchenordnung*, 1595 (extract) | 3 | — | — | Boys hold the communion cloths | Boys in red smocks with green garlands | 6.6 |
 | Anhalt, Johann Georg, 1596 | 2 | Panels and carved crucifixes removed | Behind the table; lights laid aside; table for altar | — | Mass vestment and chasubles laid aside | 5.2, 7.3 |
 | Simmern, mandate, 1598 | 19/2 | Idol-work removed | Altars and fonts abolished; tables | — | — | 5.3 |
@@ -2432,8 +2573,9 @@ through the table in §9 and the text.
 | Hildesheim | *Christlike kerckenordeninge* | 1544 | 7/2.1, p. 852 | 3.3, 5.4 |
 | Hintere Grafschaft Sponheim | *Kirchen- und Zensurordnung* | 1590/91 | 18, p. 653 | 6.1 |
 | Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 71 | 6.3 |
+| Hohenlohe | *Verbesserungen der Kirchenzeremonien* | 1596 | 15, p. 659 | 6.7 |
 | Kurland | *Kirchenordnung* | 1570 | 5, pp. 87, 98, 99 | 4.3, 5.4, 7.1 |
-| Kurpfalz | *Gemaine maß, die kirchen- und gottesdinst anzurichten* | 1546 | 14, p. 94 | 5.4 |
+| Kurpfalz | *Gemaine maß, die kirchen- und gottesdinst anzurichten* | 1546 | 14, pp. 94, 97 | 5.4, 6.7 |
 | Kurpfalz | *Heidelberger Katechismus*, Question 98, *Kirchenordnung* | 1563 | 14, p. 362 | 4.4 |
 | Kurpfalz | *Casimirianische Kirchenordnung*, mandate | 1587 | 19/2, p. 757 | 5.3 |
 | Kurpfalz | *Amberger Mandat* | 20 January 1567 | 13, p. 303 | 6.3 |
