@@ -1282,7 +1282,8 @@ Catechesis was the one duty shared by every estate:
 
 The confirmation rites themselves are in
 [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §6, and the catechism sermon in
-[`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §4.3.
+[`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §4.3. The catechism service itself, its hour, length and
+order, is in [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §10.
 
 ### 11.1 How often and how long
 
