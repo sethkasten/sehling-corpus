@@ -41,10 +41,12 @@ parts). For each order it gives:
   - **H** = Hussite (Unity of the Bohemian Brethren);
   - **C** = Sandomierz consensus (Lutheran, Reformed and Brethren together);
   - **R/L** = Reformed and Lutheran (treaty between the two);
-  - **E** = Erasmian Catholic reform;
-  - **T** = Multi-confessional diet decree;
-  - **X** = Radical (Müntzer; Anabaptist Münster);
-  - **K** = Catholic.
+  - **RCH** = Roman Catholic humanist (Erasmian reform);
+  - **RC** = Roman Catholic;
+  - **RAD** = Radical Reformation (Müntzer);
+  - **ANA** = Anabaptist (civic toleration of the Anabaptists);
+  - **T** = Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received
+    side by side).
 - Block quotations are Sehling's or his successors' own words, followed by an English
   translation.
 
@@ -131,10 +133,11 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 | Hussite (Unity of the Bohemian Brethren) | H | 3 |
 | Sandomierz consensus (Lutheran, Reformed and Brethren together) | C | 6 |
 | Reformed and Lutheran (treaty between the two) | R/L | 2 |
-| Erasmian Catholic reform | E | 18 |
-| Multi-confessional diet decree | T | 25 |
-| Radical (Müntzer; Anabaptist Münster) | X | 4 |
-| Catholic | K | 1 |
+| Roman Catholic humanist (Erasmian reform) | RCH | 18 |
+| Roman Catholic | RC | 1 |
+| Radical Reformation (Müntzer) | RAD | 3 |
+| Anabaptist (civic toleration of the Anabaptists) | ANA | 1 |
+| Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received side by side) | T | 25 |
 
 - **Lutheran** (1,955): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
   Hanse towns, Lower Saxony, Franconia, Württemberg, Hohenlohe and most of the imperial cities
@@ -156,11 +159,19 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
   the privileges for the Brethren's congregations at Ostroróg (1569) and Lissa (1580), in
   Greater Poland (§3.5). Six more Polish texts belong to the **Sandomierz consensus** of 1570,
   in which Lutherans, Reformed and Brethren joined.
-- **Others**: the Erasmian Catholic reform orders of Jülich-Cleves-Berg (18); the decrees of the
-  Transylvanian diets for a principality of several received confessions (25); Thomas Müntzer's
-  Allstedt orders (3); the Münster council's toleration of the Anabaptists and the bishop's
-  edict against them (1534); and two East Frisian treaties between the Lutheran count and
-  Reformed Emden.
+- **Others**, each labelled with its own affiliation (§3.6):
+  - **Roman Catholic humanist (Erasmian)** (18): the church orders of Jülich-Cleves-Berg;
+  - **Roman Catholic** (1): the Bishop of Münster's edict against the Anabaptists (1534);
+  - **Radical Reformation** (3): Thomas Müntzer's Allstedt orders;
+  - **Anabaptist** (1): the Münster council's mandate of January 1534 that let each keep his
+    faith and so recognized the Anabaptists;
+  - **Multi-confessional** (25): the decrees of the Transylvanian diets;
+  - **Reformed and Lutheran** (2): two East Frisian treaties between the Lutheran count and
+    Reformed Emden.
+- **Not in the set**: no order of the Waldensians, Lollards, Utraquists, Schwenckfelders,
+  Hutterites, Mennonites or Antitrinitarians. Anabaptists, Schwenckfelders, Davidjorists,
+  Mennonites and "Sakramentierer" appear only as the targets of some thirty mandates, which are
+  coded by the authority that issued them.
 
 **3. Almost no Interim orders.** Sehling deliberately left out the orders made under the
 Augsburg Interim of 1548 (§2.2). Only four Interim orders proper are in the set (§4):
@@ -470,16 +481,29 @@ prints it for the Polish congregations. No Utraquist order is in the set.
 
 ### 3.6 Others
 
-- **Erasmian Catholic reform (E).** The church orders of Duke Johann III of Jülich-Cleves-Berg
-  (1532/33) and their successors. They reform the old church on humanist lines without leaving
-  it. Sehling 21, §32.1.
+- **Roman Catholic humanist, Erasmian reform (RCH).** The church orders of Duke Johann III of
+  Jülich-Cleves-Berg (1532/33) and their successors. They reform the old church on humanist
+  lines without leaving it (Sehling 21; §32.1).
 - **Multi-confessional diet decrees (T).** The decrees of the Transylvanian diets (1552-1619)
   regulate a principality that received the Lutheran, Reformed, Unitarian and Catholic religions
   side by side. The Transylvanian Saxons' own orders are Lutheran. The *Consensus doctrinae* of
-  1557 is also coded L. Sehling 24, §35.
-- **Radical (X).** Thomas Müntzer's German Masses and order of service at Allstedt (1523/24),
-  and the Münster council's mandate tolerating the Anabaptists (1534).
-- **Catholic (K).** The Bishop of Münster's edict against the Anabaptists (1534).
+  1557 is also coded L (Sehling 24; §35).
+- **Radical Reformation (RAD).** Thomas Müntzer's German church office, German evangelical Mass
+  and order of the German service at Allstedt (1523/24). They are coded apart from the Lutheran
+  orders around them in vol. 1.
+- **Anabaptist (ANA).** The Münster council and guild masters' mandate of 31 January 1534, three
+  weeks before the Anabaptist council was elected. It bound the citizens to let each keep his
+  faith, and so recognized the Anabaptists as a religious group in the city
+  (Sehling 22, p. 363). It is not an order made by Anabaptists: no Anabaptist church order is in
+  the set.
+- **Roman Catholic (RC).** Bishop Franz von Waldeck's edict of 3 February 1534 against the
+  "verdampte ketterye unnde secte der wedderdoep" (Sehling 22, p. 364).
+- **Groups with no order in the set.** There are no orders of the Waldensians (named only in
+  passing, by Luther and in the editors' notes), the Lollards, the Utraquists, the
+  Schwenckfelders, the Hutterites, the Mennonites or the Antitrinitarians. Mandates against
+  Anabaptists, Schwenckfelders, Davidjorists, Mennonites and "Sakramentierer" are coded by the
+  authority that issued them: Lutheran, Reformed, moderate or, in Jülich, Roman Catholic
+  humanist.
 - **Treaty (R/L).** The East Frisian Delfzijl settlement of 1595 and the Concordats of 1599,
   between the Lutheran count and Reformed Emden.
 
@@ -695,7 +719,7 @@ Interimszeit" (Sehling 11, p. 292).
 | Münster im Gregoriental | 20/2 | 31.6 | 7 | 1575-1604 | Lutheran |
 | Imperial city of Hagenau | 20/2 | 31.7 | 12 | 1565-1617 | Lutheran |
 | Imperial city of Colmar | 20/2 | 31.8 | 16 | 1575-1615 | Lutheran; Moderate from 1578 |
-| United Duchies of Jülich-Cleves-Berg | 21 | 32.1 | 18 | 1525-1572 | Erasmian |
+| United Duchies of Jülich-Cleves-Berg | 21 | 32.1 | 18 | 1525-1572 | Roman Catholic humanist |
 | Bishopric and town of Minden | 21 | 32.2 | 7 | 1530-1604 | Lutheran |
 | Imperial abbey and town of Herford | 21 | 32.3 | 1 | 1532-1532 | Lutheran |
 | Imperial city of Dortmund | 21 | 32.4 | 6 | 1532-1596 | Lutheran |
@@ -836,13 +860,13 @@ Interimszeit" (Sehling 11, p. 292).
 ### 6.6 Towns of Ernestine and Albertine Saxony
 
 - **Tradition**: Lutheran.
-- **Texts by tradition**: Lutheran 130, Radical 3.
+- **Texts by tradition**: Lutheran 130, Radical Reformation (Müntzer) 3.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 5 | Münzer, Deutsch kirchenampt | n.d. | 1, p. 472 | 50 | Agenda / liturgy | X | Thomas Müntzer |
-| 13 | Münzer, Deutsch evangelisch messe | 1524 | 1, p. 497 | 51 | Agenda / liturgy | X | Thomas Müntzer |
-| 14 | Münzer, Ordnung und berechnung des teutschen ampts zu Alstadt | 1524 | 1, p. 504 | 52 | Agenda / liturgy | X | Thomas Müntzer |
+| 5 | Münzer, Deutsch kirchenampt | n.d. | 1, p. 472 | 50 | Agenda / liturgy | RAD | Thomas Müntzer |
+| 13 | Münzer, Deutsch evangelisch messe | 1524 | 1, p. 497 | 51 | Agenda / liturgy | RAD | Thomas Müntzer |
+| 14 | Münzer, Ordnung und berechnung des teutschen ampts zu Alstadt | 1524 | 1, p. 504 | 52 | Agenda / liturgy | RAD | Thomas Müntzer |
 | 73 | Ordnungen der Visitatoren für Allstedt, a) u. b) | 1533 | 1, p. 507 | 53 | Visitation | L |  |
 | 159 | Statuta .... einer .... polizei für die stadt Allstedt | 1564 | 1, p. 513 | 54 | Articles / statutes | L |  |
 | 22 | Ordnung des gemeinen kastens zu Altenburg | 1527 | 1, p. 514 | 55 | Poor relief | L |  |
@@ -4261,29 +4285,29 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 32.1 United Duchies of Jülich-Cleves-Berg
 
-- **Tradition**: Erasmian Catholic reform.
+- **Tradition**: Roman Catholic humanist (Erasmian).
 - **Note**: An Erasmian Catholic reform (orders of 1532/1533), not a Protestant church order.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 2 | Kirchenordnung 1532/ | 1532 | 21, p. 33 | 1420 | Church order | E |  |
-| 1 | Kirchenordnung 1525 | 1525 | 21, p. 49 | 1421 | Church order | E |  |
-| 2a | Kirchenordnung 1532 | 1532 | 21, p. 52 | 1421 | Church order | E |  |
-| 2b | Kirchenordnung 1532/: Visitationsinstruktion [1532] | 1532 | 21, p. 57 | 1421 | Visitation | E |  |
-| 2c | Kirchenordnung 1532/: Deklaration zur Kirchenordnung 1533 | 1533 | 21, p. 60 | 1421 | Church order | E |  |
-| 3a | Mandat gegen Täufer und Anhänger anderer abweichender Lehren 1534 | 1534 | 21, p. 73 | 1421 | Mandate / decree | E |  |
-| 3b | Täufermandate: Mandat gegen Täufer aus Münster 1535 | 1535 | 21, p. 75 | 1421 | Mandate / decree | E |  |
-| 4 | Mandat gegen Prozessionen 1554 | 1554 | 21, p. 77 | 1422 | Mandate / decree | E |  |
-| 5 | Armenordnung 1554 | 1554 | 21, p. 78 | 1423 | Poor relief | E |  |
-| 6 | Abendmahlsmandat [um 1558] | 1558 | 21, p. 81 | 1424 | Agenda / liturgy | E |  |
-| 7 | Visitationsinstruktion 1559 | 1559 | 21, p. 84 | 1425 | Visitation | E |  |
-| 8 | Mandat zum Lebenswandel der Geistlichen 1562 | 1562 | 21, p. 90 | 1426 | Mandate / decree | E |  |
-| 9a | Mandat gegen Täufer und Anhänger anderer abweichender Lehren 1565 | 1565 | 21, p. 91 | 1426 | Mandate / decree | E |  |
-| 9b | Täufermandat: Ausführungsbefehl zum Täufermandat 1565 | 1565 | 21, p. 96 | 1426 | Discipline / police | E |  |
-| 10 | Mandat gegen fremde Prediger [1567] | 1567 | 21, p. 97 | 1427 | Mandate / decree | E |  |
-| 11 | Mandat gegen eigenmächtige Neuerungen durch die Geistlichen 1567 | 1567 | 21, p. 99 | 1428 | Mandate / decree | E |  |
-| 12 | Mandat zur ordentlichen Approbation der Geistlichen 1570 | 1570 | 21, p. 100 | 1429 | Mandate / decree | E |  |
-| 13 | Mandat zu kirchlichen Zeremonien 1572 | 1572 | 21, p. 101 | 1430 | Mandate / decree | E |  |
+| 2 | Kirchenordnung 1532/ | 1532 | 21, p. 33 | 1420 | Church order | RCH |  |
+| 1 | Kirchenordnung 1525 | 1525 | 21, p. 49 | 1421 | Church order | RCH |  |
+| 2a | Kirchenordnung 1532 | 1532 | 21, p. 52 | 1421 | Church order | RCH |  |
+| 2b | Kirchenordnung 1532/: Visitationsinstruktion [1532] | 1532 | 21, p. 57 | 1421 | Visitation | RCH |  |
+| 2c | Kirchenordnung 1532/: Deklaration zur Kirchenordnung 1533 | 1533 | 21, p. 60 | 1421 | Church order | RCH |  |
+| 3a | Mandat gegen Täufer und Anhänger anderer abweichender Lehren 1534 | 1534 | 21, p. 73 | 1421 | Mandate / decree | RCH |  |
+| 3b | Täufermandate: Mandat gegen Täufer aus Münster 1535 | 1535 | 21, p. 75 | 1421 | Mandate / decree | RCH |  |
+| 4 | Mandat gegen Prozessionen 1554 | 1554 | 21, p. 77 | 1422 | Mandate / decree | RCH |  |
+| 5 | Armenordnung 1554 | 1554 | 21, p. 78 | 1423 | Poor relief | RCH |  |
+| 6 | Abendmahlsmandat [um 1558] | 1558 | 21, p. 81 | 1424 | Agenda / liturgy | RCH |  |
+| 7 | Visitationsinstruktion 1559 | 1559 | 21, p. 84 | 1425 | Visitation | RCH |  |
+| 8 | Mandat zum Lebenswandel der Geistlichen 1562 | 1562 | 21, p. 90 | 1426 | Mandate / decree | RCH |  |
+| 9a | Mandat gegen Täufer und Anhänger anderer abweichender Lehren 1565 | 1565 | 21, p. 91 | 1426 | Mandate / decree | RCH |  |
+| 9b | Täufermandat: Ausführungsbefehl zum Täufermandat 1565 | 1565 | 21, p. 96 | 1426 | Discipline / police | RCH |  |
+| 10 | Mandat gegen fremde Prediger [1567] | 1567 | 21, p. 97 | 1427 | Mandate / decree | RCH |  |
+| 11 | Mandat gegen eigenmächtige Neuerungen durch die Geistlichen 1567 | 1567 | 21, p. 99 | 1428 | Mandate / decree | RCH |  |
+| 12 | Mandat zur ordentlichen Approbation der Geistlichen 1570 | 1570 | 21, p. 100 | 1429 | Mandate / decree | RCH |  |
+| 13 | Mandat zu kirchlichen Zeremonien 1572 | 1572 | 21, p. 101 | 1430 | Mandate / decree | RCH |  |
 
 ### 32.2 Bishopric and town of Minden
 
@@ -4461,7 +4485,7 @@ Interimszeit" (Sehling 11, p. 292).
 - **Tradition**: Moderate / mediating.
 - **Note**: Bernhard Rothmann's evangelical order moved from Lutheran to Zwinglian views before
   the Anabaptist kingdom of 1534/35.
-- **Texts by tradition**: Moderate / mediating 4, Radical 1, Catholic 1.
+- **Texts by tradition**: Moderate / mediating 4, Anabaptist (toleration) 1, Roman Catholic 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -4469,8 +4493,8 @@ Interimszeit" (Sehling 11, p. 292).
 | 2 | Vertrag von Bischof und Stadt zur Reformation 1533 | 1533 | 22, p. 349 | 1519 | Treaty / agreement | M |  |
 | 3 | Zuchtordnung 1533 | 1533 | 22, p. 354 | 1520 | Discipline / police | M |  |
 | 4 | Summarium der Kirchenordnung [1533] | 1533 | 22, p. 361 | 1521 | Church order | M |  |
-| 5 | Mandat zur Duldung der Täufer 1534 | 1534 | 22, p. 363 | 1522 | Mandate / decree | X | toleration of the Anabaptists |
-| 6 | Bischöfliches Edikt gegen die Täufer 1534 | 1534 | 22, p. 364 | 1523 | Discipline / police | K | the bishop's edict |
+| 5 | Mandat zur Duldung der Täufer 1534 | 1534 | 22, p. 363 | 1522 | Mandate / decree | ANA | the council and guilds let each keep his faith, recognizing the Anabaptists (31 January 1534) |
+| 6 | Bischöfliches Edikt gegen die Täufer 1534 | 1534 | 22, p. 364 | 1523 | Discipline / police | RC | Bishop Franz von Waldeck's edict |
 
 ### 33.7 City of Soest
 
