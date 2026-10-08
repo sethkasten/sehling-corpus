@@ -1608,10 +1608,10 @@ everywhere; yet this shall be diligently forewarned of from the pulpits, and the
 it, faithfully admonished at all times to prayer. The ringing on Saturday for all faithful souls
 shall also be abolished, for it is offensive and smelleth of the papacy.
 
-**Equality and fees.** Ulm's undated visitation articles (Moderate Reformed) ask "that in the
-ringing in memory of the dead equality be kept" (Sehling 17/2, p. 193). In practice the number
-of bells was a matter of fees. Danzig's burial order of 1578 sets the schoolboys' pay by the
-bells rung. **Danzig, *Begräbnisordnung*, 1578** (Sehling 4, p. 191):
+**Equality and fees.** Ulm's undated visitation articles of the early 1530s (Moderate Reformed)
+ask "that in the ringing in memory of the dead equality be kept" (Sehling 17/2, p. 193). In
+practice the number of bells was a matter of fees. Danzig's burial order of 1578 sets the
+schoolboys' pay by the bells rung. **Danzig, *Begräbnisordnung*, 1578** (Sehling 4, p. 191):
 
 <!-- doc 1844 -->
 > das auf dem schlag zwei nachmittag die schüler fur der thuren sollen anfangen zu singen bis zu
@@ -1802,7 +1802,7 @@ bell, not a church bell.
 | Hatzkerode, 1534(?) | 2 | — | — | Bell sign during the German Sanctus to call communicants into the choir | 5.4 |
 | Denmark, *Ordinatio*, 1537 (apparatus to Schleswig-Holstein 1542) | 23 | — | — | Elevation at liberty, "the bells meanwhile sounding according to custom" | 5.4 |
 | Naumburg, St Wenzel, 1537/1538 | 2 | Organ begins each German song; three or four choirs in alternation | — | — | 3.3 |
-| Ulm, visitation articles, undated (Moderate Reformed) | 17/2 | — | — | "Equality" in ringing for the dead; weather-ringing to remain abolished | 5.6, 5.8 |
+| Ulm, visitation articles, undated, early 1530s (Moderate Reformed) | 17/2 | — | — | "Equality" in ringing for the dead; weather-ringing to remain abolished | 5.6, 5.8 |
 | Ansbach, mandate on figural singing, 1538 | 11 | — | Trombones and other instruments with the psalms at court, and at weddings in church | — | 4.1 |
 | Esslingen, *Läuteordnung*, 1540 (Moderate Reformed) | 17/2 | — | — | Fore-sign with the singing bell, second sign with the noon bell, then the sermon | 5.2 |
 | Meissen, visitation, 1540 | 2 | — | — | Death bell "that the living may consider"; *pro pace* morning and evening; ringing-money | 5.6 |

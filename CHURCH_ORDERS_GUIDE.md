@@ -58,7 +58,9 @@ marked. Every order of another tradition is marked where it is cited, as "Kurpfa
 - **No.** is the number Sehling (or the later editor) gives the text within its territory.
   Volumes 1-5 number their registers in their own way, and their numbers are given as they
   stand.
-- **Date** is the year in the title or in the register. "n.d." means none is given.
+- **Date** is the year in the title or in the register. A few undated texts are dated from the
+  text or from the editor's introduction or notes, as the notes column says. "n.d." means no
+  single year is known.
 - **Sehling** gives the volume and the page where the text begins (for volume 14, the
   introduction page where Sehling only describes the order).
 - **Doc** is the `eko.db` document that holds that page.
@@ -1284,7 +1286,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 84 | Vollmacht und Instruktion zur Visitation für Anhalt | 1560 | 2, p. 559 | 1262 | Visitation | L |  |
 | 93 | Kirchen-Ordnung auf dem Lande in Anhalt | 1562 | 2, p. 561 | 1262 | Church order | L |  |
 | 115 | Bericht des Anhalter Superintendenten Fabricius über seine Amtsführung | 1567 | 2, p. 564 | 1262 | Consistory / synod / government | L |  |
-| 7 | Verdracht unser g. f. und herrn und des ehrbarn rats zu Cervest der ehleute haben | n.d. | 2, p. 567 | 1262 | Marriage | L |  |
+| 7 | Verdracht unser g. f. und herrn und des ehrbarn rats zu Cervest der ehleute haben | n.d. | 2, p. 567 | 1262 | Marriage | L | between 1545 and 1570 (editor): addressed to Superintendent Fabricius |
 | 102 | Fürstlicher bevehl der kirchenlehn, stipendiaten und des examens halben in Anhalt | 1565 | 2, p. 567 | 1262 | School / university | L |  |
 | 116 | Kirchen-Ordnung des Fürsten Bernhard von Anhalt | 1568 | 2, p. 568 | 1262 | Church order | L |  |
 |  | Polizei- und Landes-Ordnung für Anhalt | 1572 | 2, p. 570 | 1262 | Discipline / police | L |  |
@@ -1301,7 +1303,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 66 | Verdracht-Artikel zwischen uns kirchendiener zu Zervest | 1551 | 2, p. 591 | 1263 | Consistory / synod / government | L |  |
 | 78 | Vergleich zwischen den Kirchendienern zu Zerbst | 1558 | 2, p. 592 | 1263 | Consistory / synod / government | L |  |
 | 57 | Vereinbarungen des Ministeriums zu Zerbst untereinander und mit dem Rathe zu Zerbst | 1545 | 2, p. 593 | 1263 | Consistory / synod / government | L |  |
-| 8 | Ordnung, wie es mit dem gottesdienst in der kirchen gehalten wird zu Gerenrode | n.d. | 2, p. 595 | 1264 | Agenda / liturgy | L |  |
+| 8 | Ordnung, wie es mit dem gottesdienst in der kirchen gehalten wird zu Gerenrode | 1541 | 2, p. 595 | 1264 | Agenda / liturgy | L | dated by the editor: the order Abbess Anna sent to Prince George on 23 July 1541 |
 
 ### 7.14 Naumburg cathedral (supplement)
 
@@ -2793,14 +2795,14 @@ Interimszeit" (Sehling 11, p. 292).
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
 | 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | MR |  |
-| 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | n.d. | 12, p. 35 | 333 | Agenda / liturgy | MR |  |
-| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | MR |  |
+| 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | 1529 | 12, p. 35 | 333 | Agenda / liturgy | MR | dated by the editor: oldest edition 1529 |
+| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | MR | between 1524 and 1530, when Rhegius was the city's preacher |
 | 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | MR |  |
 | 5 | Reformationsmandat vom 29. Juli 1534 | 1534 | 12, p. 44 | 335 | Mandate / decree | MR |  |
 | 6 | Bestallung eines Predigers 1535 | 1535 | 12, p. 46 | 336 | Appointment / oath | MR |  |
 | 7 | Dekret über die Wochengottesdienste vom 9. Juni 1537 | 1537 | 12, p. 49 | 337 | Mandate / decree | MR |  |
 | 8a | Kirchenordnung von 1537 | 1537 | 12, p. 50 | 338 | Church order | MR |  |
-| 8b | Auszug aus der Kirchenordnung | n.d. | 12, p. 65 | 338 | Church order | MR |  |
+| 8b | Auszug aus der Kirchenordnung | 1537 | 12, p. 65 | 338 | Church order | MR | dated by the editor: the summary of the church order of 1537, laid before the council with it |
 | 9 | Die zehen gebot, Articul des Glaubens, Und das Vater unser... (1537) | 1537 | 12, p. 67 | 338 | Other | MR |  |
 | 10 | Forma, wie von dem hailigen Tauf, und dem hailigen Sacrament des leibs und bluts Christ,... vom Elichen Stand... zu reden sey... 1537 | 1537 | 12, p. 72 | 338 | Agenda / liturgy | MR |  |
 |  | II. Feiertagsordnung vom 22. Juli 1537 | 1537 | 12, p. 84 | 339 | Discipline / police | MR |  |
@@ -3581,7 +3583,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 6 | Das „Handbüchlein“ - Die Ulmer Agende 1531 | 1531 | 17/2, p. 163 | 838 | Agenda / liturgy | MR |  |
 | 7 | Ehegerichtsordnung 1534 | 1534 | 17/2, p. 184 | 839 | Consistory / synod / government | MR |  |
 | 8 | Mandat zum Verbot des Messbesuchs außerhalb von Ulm 1537 | 1537 | 17/2, p. 191 | 840 | Mandate / decree | MR |  |
-| 9a | Visitationsartikel o.D | n.d. | 17/2, p. 192 | 840 | Visitation | MR |  |
+| 9a | Visitationsartikel o.D | n.d. | 17/2, p. 192 | 840 | Visitation | MR | early 1530s (editor), after the church order of 1531 |
 | 9b | Visitationsartikel 1534 | 1534 | 17/2, p. 195 | 840 | Visitation | MR |  |
 | 9c | Visitationsartikel 1537 | 1537 | 17/2, p. 197 | 840 | Visitation | MR |  |
 | 10 | Ordnung für die Superintendenten des Ulmer Landgebiets [1537?] | 1537 | 17/2, p. 199 | 841 | Consistory / synod / government | MR |  |
