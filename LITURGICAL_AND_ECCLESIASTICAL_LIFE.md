@@ -4769,7 +4769,7 @@ Interimszeit" (Sehling 11, p. 292).
 |---|---|---|---|---|---|---|---|
 | 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | MR |  |
 | 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | 1529 | 12, p. 35 | 333 | Agenda / liturgy | MR | dated by the editor: oldest edition 1529 |
-| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | L | between 1524 and 1530, when Rhegius was the city's preacher; coded by its author |
+| 3 | Taufritus des Urban Rhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | L | between 1524 and 1530, when Rhegius was the city's preacher; coded by its author |
 | 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | MR |  |
 | 5 | Reformationsmandat vom 29. Juli 1534 | 1534 | 12, p. 44 | 335 | Mandate / decree | MR |  |
 | 6 | Bestallung eines Predigers 1535 | 1535 | 12, p. 46 | 336 | Appointment / oath | MR |  |
@@ -64266,7 +64266,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Reichard, Duke of Pfalz-Simmern — [1.22.1](#s1-22-1), [1.29.2](#s1-29-2)
 - Reysing, Philipp — [13.12.2](#s13-12-2)
 - Rhau, Georg — [4.10.4](#s4-10-4)
-- Rhegius, Urbanus — [1.5](#s1-5), [1.12.4](#s1-12-4), [1.20.1](#s1-20-1), [3.5.14.2](#s3-5-14-2), [12.13.2](#s12-13-2)
+- Rhegius, Urbanus — [1.5](#s1-5), [1.11.4](#s1-11-4), [1.12.4](#s1-12-4), [1.20.1](#s1-20-1), [3.5.14.2](#s3-5-14-2), [12.13.2](#s12-13-2)
 - Rodtbart, Petrus — [1.14.4](#s1-14-4)
 - Rothmann, Bernhard — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.3.3](#s1-3-3), [1.33.6](#s1-33-6)
 - Runge, Jacob — [13.11.4](#s13-11-4)

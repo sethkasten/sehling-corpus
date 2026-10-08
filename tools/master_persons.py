@@ -70,7 +70,7 @@ PERSONS = [
         r'Johan Hussen']),
     ('Lossius, Lucas', [r'Lucas Lossius', r'Lossius']),
     ('Corvinus, Antonius', [r'Antonius Corvinus', r'Corvinus', r'Corvinum', r'D\. Anto\. Corvinum']),
-    ('Rhegius, Urbanus', [r'Urban(?:us)? ?Rhegius', r'Rhegius', r'D\. Urbanum Regium', r'Urbanum Regium']),
+    ('Rhegius, Urbanus', [r'Urban(?:us)? Rhegius', r'Rhegius', r'D\. Urbanum Rh?egium', r'Urbanum Rh?egium']),
     ('Andreae, Jakob', [r'D\. Jacob \[Andreä\]', r'Jakob Andreae', r'Jakob Andreäs',
         r'Dr Jacob \[?Andreae\]?', r'(?<!S\. )(?<!tag )(?<!\[)Andreae(?!, Thomae| Apostoli| Thomae)']),
     ('Chemnitz, Martin', [r'Martin Chemnitz', r'M\. Chemnitz',
