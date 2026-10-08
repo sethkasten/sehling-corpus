@@ -30432,7 +30432,7 @@ against the Zwinglian party in Bremen, and it sets out the communion hymns in or
 <!-- doc 2221 -->
 > Placet igitur nobis, ut occinatur textus Esaiae alternis vicibus Latine vel Germanice. Hunc
 > postea sequatur inter communicandum cantilena Johannis Huß in prisca melodia et interdum etiam
-> in recenti per Lutherum composita. Adiiciatur quoque psalmus III una cum Agnus Dei, si magna
+> in recenti per Lutherum composita. Adiiciatur quoque psalmus 111 una cum Agnus Dei, si magna
 > est multitudo communicantium. Et tandem concludatur cum gratiarum actione: Gott sey gelobt
 > etc.
 

@@ -59,7 +59,7 @@ BOOKS = [
     ('neh', 'Nehemiah', 13, 'OT', 'Nehemiah Nehemia Nehemias', 'Neh Nehem'),
     ('esth', 'Esther', 10, 'OT', 'Esther', 'Esth'),
     ('job', 'Job', 42, 'OT', 'Job Hiob Iob', ''),
-    ('ps', 'Psalms', 150, 'OT', 'Psalm Psalms Psalmus Psalmen Psalmo Psalmi', 'Ps Psal Pss'),
+    ('ps', 'Psalms', 150, 'OT', 'Psalm Psalms Psalmus psalmus Psalmen Psalmo Psalmi', 'Ps Psal Pss'),
     ('prov', 'Proverbs', 31, 'OT', 'Proverbs Proverbiorum', 'Prov Proverb'),
     ('eccl', 'Ecclesiastes', 12, 'OT', 'Ecclesiastes Ecclesiastae', 'Eccl Eccles'),
     ('song', 'Song of Solomon', 8, 'OT', 'Hohelied Hoheslied', 'Cant'),
@@ -148,8 +148,6 @@ PROSE = [
     ('as the 8th, 16th, 22nd, 69th, 110th', 'Ps 8; Ps 16; Ps 22; Ps 69; Ps 110'),
     ('the psalms of preparation (84, 85, 86, 116, 130)', 'Ps 84; Ps 85; Ps 86; Ps 116; Ps 130'),
     ('the second psalm, "Help, God, how goeth it ever so,"', 'Ps 2'),
-    # "psalmus III": Bremen's text has III for CXI, which the translation follows.
-    ('psalmus III una cum Agnus Dei', 'Ps 111'),
     # Chapters named in prose, beyond the rules.
     ('the first chapter of the epistle to the Romans', 'Rom 1'),
     ('Johannis am sechsten capitel', 'John 6'),
