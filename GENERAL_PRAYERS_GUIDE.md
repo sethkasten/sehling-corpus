@@ -215,8 +215,8 @@ sheet are real local changes. Examples:
 | R4 | à Lasco/Micron: London 1554 (Reformed) | 1 |
 
 **Traditions.** The witnesses are Lutheran except for these, whose tradition follows the
-inventory in [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3, and is recorded in
-`witnesses.tradition`:
+inventory in [`LITURGICAL_AND_ECCLESIASTICAL_LIFE.md`](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#s1-3),
+§1.3, and is recorded in `witnesses.tradition`:
 - F, Augsburg 1537: Moderate Reformed (the Upper German, Bucerian city before the Interim);
 - G, Hessen 1566: Moderate Reformed (Philip of Hesse's church, which bore Bucer's stamp);
 - M, Norden 1528: an early East Frisian evangelical order, which Sehling prints among the

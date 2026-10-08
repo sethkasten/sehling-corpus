@@ -22,7 +22,7 @@ The workbook sets these out with one row per category and one column per family,
 intention can be compared across the families. Here they are turned around: each family's column
 is printed as a single prayer.
 
-[GENERAL_PRAYERS_GUIDE.md](GENERAL_PRAYERS_GUIDE.md) describes the workbook and
+[GENERAL_PRAYERS_GUIDE.md](../GENERAL_PRAYERS_GUIDE.md) describes the workbook and
 `general_prayers.db`: how the texts were curated and checked against the corpus, the categories,
 the critical texts and how the representative texts are made. Use it to find:
 
