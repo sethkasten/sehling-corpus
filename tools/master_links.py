@@ -19,11 +19,12 @@ ANCHOR = re.compile(r'<a id="([^"]+)"></a>')
 
 
 def expected_label(aid):
-    """The section number a section anchor stands for: s2-3-2 -> 2.3.2, s4-a-1 -> 4.A.1."""
+    """The section number a section anchor stands for: s2-3-2 -> 2.3.2, s4-a-1 -> 4.A.1,
+    s6-18-r1-2 -> 6.18.R1.2."""
     m = re.fullmatch(r's(\d+)((?:-[0-9a-z]+)*)', aid)
     if not m:
         return None
-    parts = [m.group(1)] + [p.upper() if p.isalpha() else p for p in m.group(2).split('-')[1:]]
+    parts = [m.group(1)] + [p.upper() for p in m.group(2).split('-')[1:]]
     return '.'.join(parts)
 
 
