@@ -221,6 +221,17 @@ context.
 - [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) deals with the hymns, including *Verleih
   uns Frieden*, after which the peace collect is sung.
 
+Later guides take up related subjects:
+- [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md) covers the salutation and collect in the order of
+  the Mass, and the service when nobody communicated (§§8, 14).
+- [`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md) covers the three collects
+  read from the pulpit as a family of the general prayer (§15).
+- [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md) covers the collects of Matins and Vespers (§§7.1, 7.5).
+- [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) covers the Litany and its
+  collects (§22).
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the seasons whose
+  collects were kept (§12).
+
 Where an order gives the collect to a deacon or junior minister, as at Hof, see
 [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md).
 
@@ -1406,7 +1417,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Coburg, *Vorschaffung* of the visitation of 1554/55 | 1, p. 544 | 74 | 4.5 |
 | Senftenberg, *Kirchen-Ordnung*, 1555 | 1, p. 672 | 136 | 6.3 |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, pp. 369, 375 | 44 | 4.2, 6.3, 6.4, 6.5 |
-| Mansfeld, *Kirchen-agenda*, 1580 | 2, pp. 227–231 | 1241 | 4.1, 4.2, 6.4 |
+| Mansfeld, *Kirchen-agenda*, 1580 | 2, pp. 227–231 | 1241 | 4.2, 6.4 |
 | Henneberg, *Kirchen ordnung* of Georg Ernst, 1582 | 2, pp. 317, 320 | 1247 | 4.1, 4.2, 4.3 |
 | Henneberg, a pastor's report | 2, p. 330 | 1248 | 4.1 |
 

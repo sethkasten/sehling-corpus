@@ -29,6 +29,18 @@ elders. §7 covers sacristans, altar care, deaconesses, monks, nuns, tertiaries 
 confraternities. §8 gathers how each office was installed, and whether it was ordained. §9 is a
 table by order, and §10 a concordance of every order quoted.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the installation rites, with the full forms:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§10–12;
+- the duties of pastors and deacons, church workers and schoolmasters:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §§3, 8.4, 9;
+- the oaths and promises of ministers and church officers:
+  [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md), §4;
+- places at the altar in the ceremonial of the Mass: [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+  §15.8;
+- vestments and clerical dress: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §§7–8;
+- the offices kept in the convents: [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §§4.4, 6.3.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built

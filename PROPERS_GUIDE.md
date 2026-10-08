@@ -239,6 +239,17 @@ read in context.
   Kiel Mass and Lippe. Those texts are cited here, not repeated, except where a Proper Preface
   is concerned.
 
+Later guides take up related subjects:
+- [`COLLECTS_GUIDE.md`](COLLECTS_GUIDE.md) covers the collect, the secret and the postcommunion
+  (§§4–6).
+- [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md) covers the place of the propers in the order of the
+  Mass, and the Preface as part of the ordinary (§§5, 10).
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the feasts whose propers
+  were kept, and the proper prefaces and sequences as marks of rank (§§8, 10.3–10.4).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers the organ in
+  alternation (§3.3).
+- [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers preaching on the lessons (§5).
+
 **Cautions.** Four things limit what the corpus can show:
 - **Silence is not absence.** Many orders say only "the introit" or "the gradual", or "as
   hitherto", and assume the old books. Where an order is silent, the Latin chant may well have

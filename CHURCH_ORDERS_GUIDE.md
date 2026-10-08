@@ -20,6 +20,9 @@ parts). For each order it gives:
 - §§6-35 are the inventory itself, one section per volume. Each territory has a short note on
   its confessional history, followed by a table of its orders.
 
+**Related guides.** The topical guides listed in `README.md` mark every order by this
+inventory's traditions (§3) and Interim orders (§4).
+
 **Conventions**
 
 - **Titles** are Sehling's, as his tables of contents give them. For volumes 1-5 they come from

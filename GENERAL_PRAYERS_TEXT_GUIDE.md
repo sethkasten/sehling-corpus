@@ -30,6 +30,17 @@ the critical texts and how the representative texts are made. Use it to find:
 - the variants within a family, in the **Archetypes** sheet and the critical sheets;
 - the queries that compare the orders.
 
+**Related guides.** Several subjects are treated more fully elsewhere:
+- the place of the general prayer in the order of the Mass:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §§4–5;
+- the prayer before the sermon, the greeting and the notices:
+  [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §10;
+- the Litany and the bidding prayers:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22;
+- the intercessions under the Sanctus in the Masses that have them:
+  [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §§8.11, 12.2, 14.4;
+- the collects: [`COLLECTS_GUIDE.md`](COLLECTS_GUIDE.md), §4.
+
 **Conventions**
 
 - **Original language.** The text of Sehling's edition, with his apparatus removed. Spelling is

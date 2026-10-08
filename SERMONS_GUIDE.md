@@ -218,6 +218,14 @@ heads.
   deacons and chaplains who preached the lesser sermons.
 - [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md) covers the oaths by
   which preachers bound their doctrine to Scripture and the confessions.
+- [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md) covers the pastor's study
+  and books, the training of preachers, and the hearers' duties (§§3.2, 7, 8.1).
+- [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) covers the wedding and funeral
+  rites in which those sermons stood, and the council-election sermon (§§7, 9, 13.1).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers the sermon glass
+  (§5.9).
+- [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md) covers prayers before and after
+  the sermon in the communion service (§6.4).
 
 **Cautions.** Five things limit what the corpus can show:
 - **Church orders are not sermons.** Sehling prints rules, visitation articles and reports, not

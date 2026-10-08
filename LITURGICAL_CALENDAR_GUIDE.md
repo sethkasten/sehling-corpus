@@ -288,8 +288,8 @@ plain Kyrie and no *Gloria* in Advent and Lent, the Creed for "Nun bitten" in Ad
 | *hohe Feste*, *hohe heubtfest des herrn Christi*, *Hauptfeste* | the highest rank: the feasts of Christ, or the three or four great feasts | Saxony 1539, Mecklenburg 1552 (5.2); Henneberg 1582 (6.3) |
 | *de dre groten feste Christi* | Christmas, Easter, Whitsuntide | Braunschweig 1528, Schleswig-Holstein 1542 (5.4) |
 | *vier Zeiten*, *veer tide*, *vier hochzeitliche feste*, *Vierzeitenfest* | the four chief feasts on which the four-times penny was paid | Lübeck 1531, Waldeck 1525, Hoya 1571 (9) |
-| *summa festa*, *summae festivitates*, *in summis festis* | the highest feasts | Hadersleben 1528, Tangermünde 1603, Gottorf 1587 (3.2) |
-| *fürnembste*, *furnemliche*, *vornemlichste Feste* | the chiefest feasts (often the whole list of holy days) | Mecklenburg 1552 (5.2), Württemberg 1553 (4.5), Northeim 1539 (4.5) |
+| *summa festa*, *summae festivitates*, *in summis festis* | the highest feasts | Hadersleben 1528, Tangermünde 1603, Gottorf 1587 (4.2) |
+| *fürnembste*, *furnemliche*, *vornemlichste Feste* | the chiefest feasts (often the whole list of holy days) | Mecklenburg 1552 (5.2), Württemberg 1553 (3.5), Northeim 1539 (3.5) |
 | *andere herliche fest* | the second rank | Grubenhagen 1544 (5.5) |
 | *mittelmeßige festa* | middle feasts, kept as half days | Sayn 1582 (5.5) |
 | *gemeine Feste*, *gemeine Feiertage* | common feasts: the lower ranks | Pfalz-Zweibrücken 1561 (6.2), Henneberg 1582 (6.3) |
@@ -297,11 +297,11 @@ plain Kyrie and no *Gloria* in Advent and Lent, the Creed for "Nun bitten" in Ad
 | *ganz*, *halb gefeiert*; *bis Mittag*; *vormittag*; *bis die Sermon geendet* | whole and half holy days | 6 |
 | *ohne gebotene Feier* | declared, but without commanded rest | Merseburg 1544 (5.2) |
 | *ungefeiret in gedechtnus* | remembered, but not kept holy | Pfalz-Neuburg 1543 (5.7) |
-| *solenniter*, *festive*, *festivaliter* | in solemn, festal manner | Schwarzburg 1587 (7.1), Leisnig 1529 (3.5), Pomerania 1569 (10.2) |
-| *ferialiter* | (a) in the weekday form, without *Gloria*; (b) as a holiday | Anhalt 1551, 1568; Wied 1564 (Reformed) (3.5) |
+| *solenniter*, *festive*, *festivaliter* | in solemn, festal manner | Schwarzburg 1587 (7.1), Leisnig 1529 (4.5), Pomerania 1569 (10.2) |
+| *ferialiter* | (a) in the weekday form, without *Gloria*; (b) as a holiday | Anhalt 1551, 1568; Wied 1564 (Reformed) (4.5) |
 | *intercise*, *dimidiatim* | by halves | Mediasch 1578 (6.4) |
-| *per anticipationem* | moved back before its date | Wintzingerode (11.2) |
-| *de tempore*, *de festo*, *commune sanctorum* | the proper of the season or feast; the common of saints | Mecklenburg 1552 (5.2), Crevese 1541 (3.4) |
+| *per anticipationem* | moved back before its date | Wintzingerode (14.1) |
+| *de tempore*, *de festo*, *commune sanctorum* | the proper of the season or feast; the common of saints | Mecklenburg 1552 (5.2), Crevese 1541 (4.4) |
 
 ---
 
@@ -369,6 +369,15 @@ Sehling's subject registers were also used: *Feiertage* (380 page references), *
 - [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md) covers Vespers and the eves of feasts.
 - [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers Passion, prayer-day and catechism sermons and
   the duties of hearers.
+- [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) covers the rites of the feasts
+  and seasons, and the Litany days (§§21, 22.4).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers the organ and
+  the bells (§§3.6, 5).
+- [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md) covers vestments and colours (§§6.6, 7).
+- [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md) covers the Kyrie and the Gloria by season (§§6.2,
+  7.1).
+- [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md) covers the catechism
+  seasons as times of instruction (§11.1).
 
 ### 2.3 Cautions
 
@@ -484,7 +493,7 @@ deeds, but in the frequent use of the holy Word and in works of mercy.
 - **One day each.** Easter and Pentecost are kept for their "first day" only.
 
 The Homberg *Reformatio* was never put into force. The later Hessian orders (also Moderate
-Reformed) keep more (§3.6, §6.1).
+Reformed) keep more (§§3.5, 3.6).
 
 ### 3.3 "Not for the days' sake, but for the histories": Bugenhagen
 
@@ -1657,7 +1666,7 @@ Secondly are kept all the apostles' days. Thirdly: John the Baptist, Michael the
 
 **Note.** Regensburg's numbering is an order of listing, not of dignity. Communion and first
 vespers, which mark the rank in this order, are given only "an festen Christi, allen und jeden",
-on each and every feast of Christ (p. 475; see §11.3).
+on each and every feast of Christ (p. 475; see §10.9).
 
 Hoya has four ranks, the fourth being the abolished Assumption. **Hoya, *Kirchenordnung*, 1571**
 (Sehling 6/2, p. 1186):
@@ -1826,7 +1835,7 @@ the office, before noon only. But the working people may each attend to his hand
 
 ### 5.6 Great feasts and small feasts: Danzig and Thorn
 
-In Danzig the rank of a feast was marked above all by the bells (§10.8). The church fathers of
+In Danzig the rank of a feast was marked above all by the bells (§10.7). The church fathers of
 St Mary's set down the custom in 1612. Article 16 lists every feast of the year as *ein gross
 fest* or *ein klein fest*.
 
@@ -3019,7 +3028,7 @@ Mecklenburg 1552). Its rank is shown in four ways:
 
 - **The Kyrie.** It shares the *Kyrie summum* with Pentecost at Nördlingen and Buxtehude (§4.2).
 - **The Latin Mass.** It is one of the "Hogen Festen Christi" with a Latin Mass in
-  Schleswig-Holstein 1542 (§10.2).
+  Schleswig-Holstein 1542 (§10.1).
 - **The Athanasian Creed.** It is read on the day and its vigil in the Thüngen lessons of 1587.
 - **Solemnity.** It is kept "hochfeyerlich" in Verden 1606.
 
@@ -3340,7 +3349,7 @@ feast grades. Listed from the commonest to the rarest:
 |---|---|---|---|
 | Sermons | two or three, sometimes four; a sermon at first vespers | one sermon, in the forenoon | §6.3; Wolfenbüttel 1543 (§9.3); Danzig (§5.6) |
 | Latin chant | introit, *Gloria*, Alleluia, sequence, *Patrem*, preface, Sanctus, *Agnus Dei* in Latin | German hymns | §10.1 |
-| Kyrie grade | *summum*, *paschale*, *festivale* | *dominicale*, *angelicum*, *apostolicum*, *feriale* | §3.2, §10.2 |
+| Kyrie grade | *summum*, *paschale*, *festivale* | *dominicale*, *angelicum*, *apostolicum*, *feriale* | §4.2, §10.2 |
 | Proper preface | preface of the feast (*de tempore*, *solemnis*) | common preface, exhortation, or none | §10.3 |
 | Sequence | kept on the great feasts | dropped | §10.4 |
 | Figural music and organ | figural music, organ | plain-song or German; no organ | §10.5 |
@@ -3348,7 +3357,7 @@ feast grades. Listed from the commonest to the rarest:
 | Bells | more bells, chiming (*beiern*) the day before | one bell | §10.7 |
 | Creed and *Te Deum* | *Athanasianum*, Latin *Te Deum* | — | §10.8 |
 | Communion | communion and first vespers with confession | no communion on apostles' days | §10.9 |
-| Civil marks | no weddings, markets or guild feasts | — | §14.3 |
+| Civil marks | no weddings, markets or guild feasts | — | §11.3 |
 
 ### 10.1 Latin chant on the high feasts
 

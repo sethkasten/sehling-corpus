@@ -35,7 +35,11 @@ asks:
 - figural music, the organ and bells as marks of feast rank:
   [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §§10.5, 10.7;
 - bell baptism and weather-ringing, and the organist's contract:
-  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§12.3, 15.5.
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§12.3, 15.5;
+- the bell-ringer's appointment and pledge:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §12.2;
+- the length of the sermon that the sermon glass measured:
+  [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §7.
 
 **Conventions**
 

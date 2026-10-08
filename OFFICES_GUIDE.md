@@ -263,6 +263,15 @@ distance of *singen*, *Gesang*, *Psalm*, *Gebet*, *Glocke*, *läuten*, *Uhr*, *S
   collect series, and the Lenten *super populum* prayers kept at Lauds in Ansbach (§6.6).
 - [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md) covers the
   deacons, cantors and sextons who led the offices.
+- [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers the Vespers sermon and the weekday sermons
+  (§§4.1–4.3, 5.2).
+- [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) covers the Litany (§22).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers the organ at the
+  office and the daily prayer bells (§§3, 5.3).
+- [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md) covers the schoolmaster's
+  church duties and catechesis (§§9, 11).
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the eves and first
+  vespers of feasts (§4.6).
 
 **Cautions.** Four things limit what the corpus can show:
 - **Church orders are not breviaries.** Sehling prints the orders, not the books the choirs sang

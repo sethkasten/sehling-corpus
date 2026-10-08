@@ -42,7 +42,12 @@ the church. It asks:
   [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md);
 - the oaths and confessional subscriptions of ministers:
   [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md);
-- clerical dress: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §8.
+- clerical dress: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §8;
+- the catechism service, its hour, length and order: [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md),
+  §10;
+- private confession and the examination of communicants:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §17;
+- the hearers during the sermon: [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §12.
 
 **Conventions**
 

@@ -51,7 +51,11 @@ asks:
   the deacons' and sextons' care of altar, pulpit and font:
   [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §§3.3, 4.4,
   7.2;
-- bells and the organ: [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md).
+- bells and the organ: [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md);
+- the sign of the cross, kneeling and places at the altar in the Mass:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §15;
+- the conduct and dress required of ministers' households:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §3.3.
 
 **Conventions**
 

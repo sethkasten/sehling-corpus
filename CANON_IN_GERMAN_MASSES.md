@@ -27,6 +27,27 @@ sermon) to the dismissal. For Kantz, the Kiel Mass and Bugenhagen, the priest's 
 at the altar is included as well. The original comes first and the English follows. Annotations
 name the Roman text each piece comes from.
 
+**Related guides.** The rest of the Mass, and what stood around these texts, is treated
+elsewhere:
+- the order of the Mass as a whole, the families of ordo and the ceremonial at the altar:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §§4, 11, 15;
+- the preparation, the confession and absolution, and the exhortation to the communicants,
+  collated across the corpus: [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md),
+  §§3–5;
+- the collects, the abolished secret and the postcommunions:
+  [`COLLECTS_GUIDE.md`](COLLECTS_GUIDE.md), §§5–6;
+- the Proper Prefaces and the other propers: [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md), §8 and
+  Appendix A;
+- the hymns at the Sanctus, during the communion and after it:
+  [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §§12–15;
+- the intercessions under the Sanctus as a family of the general prayer:
+  [`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md), §16;
+- the lights and the vestments: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §§5.4, 7;
+- the elevation as a mark of the feast:
+  [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.6;
+- the ministrants, deacons and subdeacons at the altar:
+  [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §4.
+
 **Conventions**
 
 - **Original text.** This is Sehling's base text. His footnote numbers, sigla and variant

@@ -29,6 +29,22 @@ a concordance of every order quoted. Appendix A condenses the "Compare by day" s
 `hymns.xlsx` into one table: the chief hymn (*Hauptlied*) of each Sunday and feast in the old
 sources, with its original, literal English and common English titles and its witnesses.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the order of the Mass in which the slots stand: [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+  §§4–5;
+- the Latin propers that the hymns replaced: [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md), §§3–9;
+- the organ in alternation with choir and people:
+  [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §3;
+- the offices and the catechism service in which the office hymns were sung:
+  [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §§7, 10;
+- the Litany: [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22;
+- the feasts and seasons: [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §§10,
+  12;
+- the prayer before the sermon and the sermon itself: [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md),
+  §10;
+- the rites at which hymns were sung (baptism, marriage, burial and ordination):
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§3, 7, 9, 10.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built
@@ -484,8 +500,8 @@ straightway thereafter sing the Our Father and the words of the Supper in German
 the communion the sexton shall sing with the people "Jesus Christ" or "God be praised," one
 Sunday after the other, when the Lord's Supper is held.
 
-The same order closes with "Es wolt uns Gott genedig sein" and "Erhalt uns, Herr" on
-alternate Sundays (§15.4).
+The same order closes with "Es wolt uns Gott genedig sein" and "Erhalt uns, Herr" on alternate
+Sundays (§15.3).
 
 ### 3.4 Three shapes of service
 

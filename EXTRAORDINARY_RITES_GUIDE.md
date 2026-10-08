@@ -375,6 +375,15 @@ read in context, and then the full passages were pulled from the relevant orders
 - [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers wedding and funeral sermons.
 - [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) covers the hymns sung at baptism, weddings
   and burials.
+- [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md) covers catechesis before
+  confirmation and marriage, and the duties of the officers installed here (§§3–11).
+- [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md) covers the font, lights and vestments,
+  and the image plays of the feasts (§§4.6, 5.6, 7).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers bells for the
+  dead and at baptisms and weddings (§§5.6–5.7).
+- [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md) covers general confession at the
+  Mass and its relation to private confession (§4.6).
+- [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md) covers the Litany at the hours (§7.5).
 
 ### 2.3 Cautions
 

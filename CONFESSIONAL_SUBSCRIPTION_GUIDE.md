@@ -25,6 +25,19 @@ glossary of the documents the orders name. §4 sets out the forms of binding. §
 the territories region by region, each in date order. §17 covers the laity. §18 is a table by
 order, and §19 a concordance of every order quoted.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the rites at which the vows were taken (confirmation, ordination, installation, and the oaths
+  of sextons, schoolmasters, churchwardens and magistrates):
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§6, 10–13;
+- the examination, trial sermon and continuing study of ministers, and the consistories that
+  examined them: [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §§5, 7;
+- catechesis before first communion and before marriage:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §11;
+- how deacons, elders and the other church offices were installed:
+  [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §8;
+- the confessional tradition of every order: [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md),
+  §3.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built

@@ -34,6 +34,20 @@ The Canon, the Words of Institution and the prayers around communion are treated
 cross-referenced here: Kantz 1522, Döber's exhortation, the Kiel Mass and Bugenhagen's
 preparatory prayer.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the whole order of the Mass, and where the preliminaries fall in it:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §§4–5;
+- private confession and absolution, and the examination of communicants:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §17;
+- the hymns at the opening of the service: [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md),
+  §4;
+- the prayers and notices around the sermon: [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §10;
+- confession and communion as duties of the laity:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §8.3;
+- fasting before communion: [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md),
+  §13.6;
+- vestments: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §7.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built
@@ -87,7 +101,7 @@ preparatory prayer.
 - [2. Scope, sources and method](#2-scope-sources-and-method)
 - [3. Opening versicles and preliminaries](#3-opening-versicles-and-preliminaries)
 - [4. Confession and absolution: what the orders did with the *Confiteor*](#4-confession-and-absolution-what-the-orders-did-with-the-confiteor)
-- [5. The exhortation to the communicants](#5-the-exhortation-to-the-communicants)
+- [5. The exhortation to the communicants: the families collated](#5-the-exhortation-to-the-communicants-the-families-collated)
 - [6. Before and after the service](#6-before-and-after-the-service)
 - [7. Table by order](#7-table-by-order)
 - [8. Concordance of the orders quoted](#8-concordance-of-the-orders-quoted)
