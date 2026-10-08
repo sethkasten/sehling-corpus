@@ -13,11 +13,11 @@ parts). For each order it gives:
 **Confessional traditions and Interim orders**
 
 Sehling's title calls these the *evangelical* church orders, and most of them are Lutheran:
-1,949 of the 2,581 texts. The rest belong to other traditions:
+1,950 of the 2,581 texts. The rest belong to other traditions:
 
 - **Reformed** (340): the Swiss, Calvinist and Heidelberg churches, among them the German
   territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-- **Moderate Reformed** (199): the Bucerian and related orders that stood between the Lutheran
+- **Moderate Reformed** (198): the Bucerian and related orders that stood between the Lutheran
   and the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
   Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's Münster, East
   Frisia under John a Lasco, and Colmar after 1578;
@@ -159,9 +159,9 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 
 | Tradition | Code | Texts |
 |---|---|---|
-| Lutheran | L | 1949 |
+| Lutheran | L | 1950 |
 | Reformed | R | 340 |
-| Moderate Reformed (Bucerian and Upper German) | MR | 199 |
+| Moderate Reformed (Bucerian and Upper German) | MR | 198 |
 | Philippist | PH | 33 |
 | Anglican | A | 1 |
 | Hussite (Unity of the Bohemian Brethren) | H | 3 |
@@ -173,7 +173,7 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 | Anabaptist (civic toleration of the Anabaptists) | ANA | 1 |
 | Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received side by side) | T | 25 |
 
-- **Lutheran** (1,949): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
+- **Lutheran** (1,950): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
   Hanse towns, Lower Saxony, Franconia, Württemberg, Hohenlohe and most of the imperial cities
   after 1552.
 - **Reformed** (340): above all the Electoral Palatinate (from 1561/63) and the "Second
@@ -183,7 +183,7 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
   (1600/1605), Lippe (1600), Anhalt (1596), Bremen (from 1580), Emden and the East Frisian
   Reformed congregations, the London Dutch church, Mülhausen (Mulhouse), and the French refugee
   churches of Frankfurt, Wetzlar and the Lebertal.
-- **Moderate Reformed** (199): Bucer's Strasbourg and the Upper German cities before the Interim
+- **Moderate Reformed** (198): Bucer's Strasbourg and the Upper German cities before the Interim
   (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach, Gengenbach, Landau,
   Worms, early Frankfurt); Philip's Hesse to 1566; Hermann von Wied's Cologne Reformation
   (1543-1546); Rothmann's Münster (1532/33); East Frisia under Countess Anna; Colmar after 1578,
@@ -371,7 +371,7 @@ order.
 ### 3.1 Lutheran (L)
 
 Orders of territories and cities that held to the Augsburg Confession in its Lutheran reading,
-from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,949 texts.
+from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,950 texts.
 Volumes 3, 5, 6/1, 6/2, 7/2.1, 11, 15, 16 and 23 are wholly Lutheran, and volume 1 is too, save
 Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded Moderate
 Reformed and Philippist), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1
@@ -417,7 +417,7 @@ Swiss-allied city of Mülhausen.
 Between the Lutheran and the Swiss Reformed stood two groups of orders. They are coded apart,
 and where an order could belong to either, it is counted as Moderate Reformed.
 
-**Moderate Reformed (MR)**, 199 texts: the Bucerian and Upper German orders, and others close to
+**Moderate Reformed (MR)**, 198 texts: the Bucerian and Upper German orders, and others close to
 them:
 - the Upper German Reformation of Bucer, Capito, Blarer and Zwick in the southern imperial
   cities before the Interim;
@@ -432,7 +432,7 @@ them:
 - East Frisia: comital orders (Sehling 7/1, §13): 1 text, 1545.
 - Landgraviate of Hesse under Philip (to 1567) (Sehling 8, §16): 21 texts, 1526-1566.
 - Imperial city of Frankfurt (Sehling 9, §17): 4 texts, 1530-1533.
-- Imperial city of Augsburg (Sehling 12, §20): 14 texts, 1523-1548.
+- Imperial city of Augsburg (Sehling 12, §20): 13 texts, 1523-1548.
 - Imperial city of Lindau (Sehling 12, §20): 3 texts, 1533-1539.
 - Imperial city of Memmingen (Sehling 12, §20): 4 texts, 1528-1542.
 - Imperial city of Konstanz (Sehling 17/1, §25): 19 texts, 1524-1548.
@@ -717,7 +717,7 @@ Interimszeit" (Sehling 11, p. 292).
 | County of Rieneck | 11 | 19.11 | 2 | 1544-1588 | Lutheran |
 | County of Wertheim | 11 | 19.12 | 2 | 1524-1555 | Lutheran |
 | Lordship of Thüngen | 11 | 19.13 | 2 | 1564-1587 | Lutheran |
-| Imperial city of Augsburg | 12 | 20.1 | 17 | 1523-1591 | Moderate Reformed; Lutheran from 1549 |
+| Imperial city of Augsburg | 12 | 20.1 | 17 | 1523-1591 | Moderate Reformed (Rhegius's baptism rite Lutheran); Lutheran from 1549 |
 | Imperial city of Dinkelsbühl | 12 | 20.2 | 9 | 1535-1574 | Lutheran |
 | Imperial city of Donauwörth | 12 | 20.3 | 1 | 1545-1545 | Lutheran |
 | Imperial city of Kempten | 12 | 20.4 | 1 | 1553-1553 | Lutheran |
@@ -2788,15 +2788,18 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 20.1 Imperial city of Augsburg
 
-- **Tradition**: Moderate Reformed; Lutheran from 1549.
+- **Tradition**: Moderate Reformed, save Rhegius's baptism rite (no. 3, Lutheran); Lutheran from
+  1549.
 - **Note**: Upper German (Zwinglian-Bucerian) until the Interim; Lutheran after 1552/1555.
-- **Texts by tradition**: Moderate Reformed 14, Lutheran 3.
+  Rhegius's baptism rite is coded by its author, from 1531 superintendent of the Lutheran church
+  at Celle.
+- **Texts by tradition**: Moderate Reformed 13, Lutheran 4.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
 | 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | MR |  |
 | 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | 1529 | 12, p. 35 | 333 | Agenda / liturgy | MR | dated by the editor: oldest edition 1529 |
-| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | MR | between 1524 and 1530, when Rhegius was the city's preacher |
+| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | L | between 1524 and 1530, when Rhegius was the city's preacher; coded by its author |
 | 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | MR |  |
 | 5 | Reformationsmandat vom 29. Juli 1534 | 1534 | 12, p. 44 | 335 | Mandate / decree | MR |  |
 | 6 | Bestallung eines Predigers 1535 | 1535 | 12, p. 46 | 336 | Appointment / oath | MR |  |
