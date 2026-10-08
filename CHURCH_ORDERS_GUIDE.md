@@ -13,9 +13,9 @@ parts). For each order it gives:
 **Confessional traditions and Interim orders**
 
 Sehling's title calls these the *evangelical* church orders, and most of them are Lutheran:
-1,953 of the 2,581 texts. The rest belong to other traditions:
+1,949 of the 2,581 texts. The rest belong to other traditions:
 
-- **Reformed** (336): the Swiss, Calvinist and Heidelberg churches, among them the German
+- **Reformed** (340): the Swiss, Calvinist and Heidelberg churches, among them the German
   territories that turned Reformed after 1560 and the French and Dutch stranger churches;
 - **Moderate Reformed** (199): the Bucerian and related orders that stood between the Lutheran
   and the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
@@ -157,8 +157,8 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 
 | Tradition | Code | Texts |
 |---|---|---|
-| Lutheran | L | 1953 |
-| Reformed | R | 336 |
+| Lutheran | L | 1949 |
+| Reformed | R | 340 |
 | Moderate Reformed (Bucerian and Upper German) | MR | 199 |
 | Philippist | PH | 33 |
 | Anglican | A | 1 |
@@ -171,10 +171,10 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 | Anabaptist (civic toleration of the Anabaptists) | ANA | 1 |
 | Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received side by side) | T | 25 |
 
-- **Lutheran** (1,953): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
+- **Lutheran** (1,949): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
   Hanse towns, Lower Saxony, Franconia, Württemberg, Hohenlohe and most of the imperial cities
   after 1552.
-- **Reformed** (336): above all the Electoral Palatinate (from 1561/63) and the "Second
+- **Reformed** (340): above all the Electoral Palatinate (from 1561/63) and the "Second
   Reformation" counties of the Wetterau and the Rhine (Nassau-Dillenburg, Hanau-Münzenberg,
   Ysenburg, Solms-Braunfels, Sayn, Wied, Wittgenstein, Moers, Bentheim-Tecklenburg),
   Pfalz-Zweibrücken (1588), Pfalz-Simmern (1598, under the Electoral Palatinate), Hessen-Kassel
@@ -369,7 +369,7 @@ order.
 ### 3.1 Lutheran (L)
 
 Orders of territories and cities that held to the Augsburg Confession in its Lutheran reading,
-from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,953 texts.
+from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,949 texts.
 Volumes 3, 5, 6/1, 6/2, 7/2.1, 11, 15, 16 and 23 are wholly Lutheran, and volume 1 is too, save
 Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded Moderate
 Reformed and Philippist), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1
@@ -400,7 +400,7 @@ Swiss-allied city of Mülhausen.
 - Duchy of Pfalz-Zweibrücken (Sehling 18, §27): 13 texts, 1588-1617.
 - County of Sayn (Sehling 19/1, §28): 3 texts, 1606-1619.
 - County of Wied (Sehling 19/1, §28): 8 texts, 1564-1619.
-- Electoral Palatinate (supplement to vol. 14) (Sehling 19/2, §29): 61 texts, 1585-1610.
+- Electoral Palatinate (supplement to vol. 14) (Sehling 19/2, §29): 65 texts, 1577-1610.
 - Principality of Pfalz-Simmern (Sehling 19/2, §29): 2 texts, 1598.
 - Lordship of Rappoltstein (Sehling 20/2, §31): 10 texts, 1558-1569.
 - Imperial city of Mülhausen (Mulhouse) (Sehling 20/2, §31): 27 texts, 1523-1582.
@@ -729,7 +729,7 @@ Interimszeit" (Sehling 11, p. 292).
 | County of Ortenburg | 13 | 21.4 | 3 | 1563-1578 | Lutheran |
 | Lordship of Rothenberg | 13 | 21.5 | 3 | 1601-1618 | Lutheran |
 | Lordship of Wolfstein | 13 | 21.6 | 2 | 1574-1574 | Lutheran |
-| Electoral Palatinate (Kurpfalz) | 14 | 22.1 | 110 | 1546-1615 | Lutheran; Reformed 1561-1576; Lutheran 1577-1583; Reformed from 1583 |
+| Electoral Palatinate (Kurpfalz) | 14 | 22.1 | 110 | 1546-1615 | Lutheran; Reformed 1561-1576; Lutheran 1577-1583 (Reformed in Pfalz-Lautern); Reformed from 1583 |
 | County of Hohenlohe | 15 | 23.1 | 108 | 1544-1615 | Lutheran |
 | Duchy of Württemberg (with Mömpelgard and Horburg) | 16 | 24.1 | 73 | 1534-1614 | Lutheran |
 | Margraviate of Baden | 16 | 24.2 | 21 | 1528-1617 | Lutheran |
@@ -766,7 +766,7 @@ Interimszeit" (Sehling 11, p. 292).
 | Wild- and Rhinegraviate | 19/2 | 29.1 | 22 | 1563-1618 | Lutheran |
 | Principality of Pfalz-Simmern | 19/2 | 29.2 | 3 | 1560-1598 | Lutheran; Reformed from 1598 |
 | County of Pfalz-Veldenz (supplement to vol. 18) | 19/2 | 29.3 | 1 | 1571-1571 | Lutheran |
-| Electoral Palatinate (supplement to vol. 14) | 19/2 | 29.4 | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577; Reformed from 1583 |
+| Electoral Palatinate (supplement to vol. 14) | 19/2 | 29.4 | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577 (Reformed in Pfalz-Lautern); Reformed from 1583 |
 | Imperial city of Strasbourg | 20/1 | 30.1 | 79 | 1523-1617 | Moderate Reformed; Lutheran from 1549 |
 | County of Hanau-Lichtenberg | 20/2 | 31.1 | 7 | 1545-1614 | Lutheran |
 | Lordship of Fleckenstein | 20/2 | 31.2 | 1 | n.d. | Lutheran |
@@ -3032,7 +3032,8 @@ Interimszeit" (Sehling 11, p. 292).
 
 - **Tradition**: by reign (see note).
 - **Note**: Lutheran under Friedrich II and Ottheinrich; Reformed under Friedrich III (1563
-  order); Lutheran under Ludwig VI (1576-1583); Reformed again from 1583.
+  order); Lutheran under Ludwig VI (1576-1583), while his brother Johann Casimir kept the
+  Reformed order in Pfalz-Lautern (nos. 78-79); Reformed again from 1583.
 - **Texts by tradition**: Reformed 67, Lutheran 43.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
@@ -3065,7 +3066,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 76 | [ Christliche Eheordnung von 1583] | 1583 | 14, p. 70 | 468 | Marriage | L | described in the introduction only; Ludwig VI |
 | 77 | Mandat und constitution ... [von 1583] | 1583 | 14, p. 70 | 468 | Mandate / decree | L | described in the introduction only; Ludwig VI |
 | 78 | Kirchenordnung ... [von 1576/1577] | 1577 | 14, p. 72 | 468 | Church order | R | described in the introduction only; Johann Casimir in Pfalz-Lautern |
-| 79 | Des durchleuchtigen, hochgebornen fürsten und herrn, herrn Johann Casimirs, pfaltzgrafen bey Rhein, hertzogen in Bayern etc., christliche eheordnung … | 1578 | 14, p. 73 | 468 | Marriage | R | described in the introduction only; Johann Casimir as administrator |
+| 79 | Des durchleuchtigen, hochgebornen fürsten und herrn, herrn Johann Casimirs, pfaltzgrafen bey Rhein, hertzogen in Bayern etc., christliche eheordnung … | 1578 | 14, p. 73 | 468 | Marriage | R | described in the introduction only; Johann Casimir in Pfalz-Lautern |
 | 81 | Mandat und constitution ... [vom 17. Mai 1585] | 1585 | 14, p. 77 | 468 | Mandate / decree | R | described in the introduction only; Johann Casimir as administrator |
 | 82 | Kirchenordnung, wie es mit der christlichen lehre, heiligen sacramenten und ceremonien in der chur- und fürstlichen Pfaltz bey Rhein gehalten wirdt. … | 1585 | 14, p. 77 | 468 | Church order | R | described in the introduction only; Johann Casimir as administrator |
 | 88 | [Bestallung eines Glöckners, zwischen 1583 und 1592] | 1592 | 14, p. 81 | 468 | Appointment / oath | R | described in the introduction only; Johann Casimir as administrator |
@@ -4019,8 +4020,9 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 29.4 Electoral Palatinate (supplement to vol. 14)
 
-- **Tradition**: Lutheran; Reformed from 1561; Lutheran from 1577; Reformed from 1583.
-- **Texts by tradition**: Reformed 61, Lutheran 11.
+- **Tradition**: Lutheran; Reformed from 1561; Lutheran from 1577, save in Johann Casimir's
+  Reformed Pfalz-Lautern (nos. 8, 9 and 11); Reformed from 1583.
+- **Texts by tradition**: Reformed 65, Lutheran 7.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -4031,9 +4033,9 @@ Interimszeit" (Sehling 11, p. 292).
 | 5 | Kirchenbußordnung [1579] | 1579 | 19/2, p. 734 | 1138 | Agenda / liturgy | L |  |
 | 6 | Kirchenbußordnung 1580 | 1580 | 19/2, p. 739 | 1139 | Agenda / liturgy | L |  |
 | 7 | Verordnung von Senioren [1581] | 1581 | 19/2, p. 748 | 1140 | Mandate / decree | L |  |
-| 8 | Eid der Kirchenschaffner Mai 1577 | 1577 | 19/2, p. 749 | 1141 | Appointment / oath | L |  |
-| 9 | Stiftung der Neustädter Hochschule 1578 | 1578 | 19/2, p. 750 | 1142 | School / university | L |  |
-| 11 | Mandat zu den Bettagen 1580 | 1580 | 19/2, p. 754 | 1143 | Mandate / decree | L |  |
+| 8 | Eid der Kirchenschaffner Mai 1577 | 1577 | 19/2, p. 749 | 1141 | Appointment / oath | R | Johann Casimir in Pfalz-Lautern; sworn also to Ludwig VI |
+| 9 | Stiftung der Neustädter Hochschule 1578 | 1578 | 19/2, p. 750 | 1142 | School / university | R | Johann Casimir in Pfalz-Lautern |
+| 11 | Mandat zu den Bettagen 1580 | 1580 | 19/2, p. 754 | 1143 | Mandate / decree | R | Johann Casimir in Pfalz-Lautern; no. 10 in the editor's introduction |
 | 11 | Huldigung der Kirchendiener 1585 | 1585 | 19/2, p. 756 | 1143 | Consistory / synod / government | R |  |
 | 12 | Mandat zur Einhaltung der Kirchenordnung 1587 | 1587 | 19/2, p. 757 | 1144 | Church order | R |  |
 | 13 | Mandat zur Einhaltung der Polizeiordnung 1588 | 1588 | 19/2, p. 759 | 1145 | Mandate / decree | R |  |
@@ -4061,7 +4063,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 35 | Mandat zur Institution und Sonntagsheiligung 1595 | 1595 | 19/2, p. 855 | 1167 | Mandate / decree | R |  |
 | 36 | Mandat zur Institution [1595] | 1595 | 19/2, p. 865 | 1168 | Mandate / decree | R |  |
 | 37 | Mandat zur Institution und Polizeiordnung 1595 | 1595 | 19/2, p. 869 | 1169 | Mandate / decree | R |  |
-| 38 | Mandat zu Leben, Lehre und Wandel der Kirchendiener | n.d. | 19/2, p. 872 | 1170 | Mandate / decree | L |  |
+| 38 | Mandat zu Leben, Lehre und Wandel der Kirchendiener | 1596 | 19/2, p. 872 | 1170 | Mandate / decree | R | dated 15 April 1596 in the text |
 | 39 | Predigtmandat 1596 | 1596 | 19/2, p. 873 | 1171 | Mandate / decree | R |  |
 | 40 | Mandat zur Amtsführung der Kirchendiener 1597 | 1597 | 19/2, p. 875 | 1172 | Mandate / decree | R |  |
 | 41 | Visitationsinstruktion für die Nebenvisitatoren 1597 | 1597 | 19/2, p. 876 | 1173 | Visitation | R |  |

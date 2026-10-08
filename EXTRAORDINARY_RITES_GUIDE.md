@@ -280,7 +280,7 @@ The forms printed in full or quoted at length in this guide are:
 | Convent heads | Keppel 1570, Schleswig-Holstein after 1610 (12.8) |
 | Novices and monks | Ravengiersburg 1560 (12.9); Württemberg prelates (11.3) |
 | Laying aside the habit | Brunswick-Wolfenbüttel 1569 (12.10) |
-| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (Reformed), Anhalt 1594 (Philippist) (12.2); Mulhouse 1551 (Reformed), the Palatinate 1580, Gengenbach 1536 (Moderate Reformed), Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577, Strasbourg 1523 (Moderate Reformed) (12.4) |
+| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (Reformed), Anhalt 1594 (Philippist) (12.2); Mulhouse 1551 (Reformed), the Palatinate 1580, Gengenbach 1536 (Moderate Reformed), Hildesheim 1581 (12.3); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577 (Reformed), Strasbourg 1523 (Moderate Reformed) (12.4) |
 | Church dedication | Hof: the dedication of 1572, its yearly festival, and the school dedication of 1546 (14.3) |
 | Betrothal, divorce, remarriage | Wertheim 1530 (7.8); Prussia 1575 (7.9); Saxony 1556, the Palatinate 1563 (Reformed), Brandenburg 1573 (7.10) |
 | Excommunication, public penance, absolution | Wittenberg 1542 (16.2); Saxe-Lauenburg 1585 (16.3); Mecklenburg 1570 (16.4); Mansfeld 1580 (16.5); Grubenhagen 1581 (16.6); Micron 1554 (16.7) |
@@ -3867,9 +3867,9 @@ theirs, and prevent their harm; and in this whole office will perform faithfully
 belongeth thereto, according to my best ability and understanding: so help me God and his holy
 word.
 
-**The Palatinate 1577: the stewards of church property.** The *Kirchenschaffner*, the stewards
-of the former ecclesiastical property, swore loyalty to their two lords. **Palatinate, *Eid der
-Kirchenschaffner*, May 1577** (Sehling 19/2, p. 749):
+**The Palatinate 1577: the stewards of church property** (Reformed). The *Kirchenschaffner*, the
+stewards of the former ecclesiastical property, swore loyalty to their two lords. **Palatinate,
+*Eid der Kirchenschaffner*, May 1577** (Reformed; Sehling 19/2, p. 749):
 
 <!-- doc 1141 -->
 > Ihr werdet geloben und schweren, meinem gnädigen fürsten und herrn, hertzogen Johann
@@ -7390,7 +7390,7 @@ through the table in §23 and the text.
 | Nördlingen | *Kirchenordnung Kaspar Löners* | 1544 | 12, p. 315 | 12.6 |
 | Palatinate | *Kirchenordnung* | of Ottheinrich, 1556 | 14, p. 140 | 17.2 |
 | Palatinate (Reformed) | *Ehegerichtsordnung* | 1563 | 14, p. 327 | 7.10 |
-| Palatinate | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
+| Palatinate (Reformed) | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | 12.4 |
 | Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | 12.3 |
 | Perleberg | *Visitations-Abschied* | 1581 | 3, p. 256 | 18.4 |
 | Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 76, 77, 96–97 | 3.2, 15.1, 18.1, 20.5, 22.1 |
