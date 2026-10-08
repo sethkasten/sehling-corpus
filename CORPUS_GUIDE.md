@@ -58,6 +58,37 @@ None of these lose or corrupt text. Worst case, a document's
 auto-generated title or boundary is slightly off; the actual content is
 always fully present and readable.
 
+## Confessional traditions and Interim orders
+
+Sehling's title calls these the *evangelical* church orders, and most of them are Lutheran: 1,953
+of the 2,581 texts. The rest belong to other traditions:
+
+- **Reformed** (336): the Swiss, Calvinist and Heidelberg churches, among them the German
+  territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+- **Moderate Reformed** (199): the Bucerian and related orders that stood between the Lutheran
+  and the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+  Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's Münster,
+  East Frisia under John a Lasco, and Colmar after 1578;
+- **Philippist** (33): the churches that held to Melanchthon's later teaching and his *Corpus
+  doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+  1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
+- a few others: Anglican (the English exile congregation at Frankfurt), the Bohemian Brethren
+  (Hussite), the Sandomierz consensus of Lutherans, Reformed and Brethren in Poland, the
+  Roman Catholic humanist orders of Jülich-Cleves-Berg, Thomas Müntzer's orders (Radical
+  Reformation), one Roman Catholic and one Anabaptist-toleration text from Münster, two
+  Reformed–Lutheran treaties in East Frisia, and the multi-confessional Transylvanian diet decrees.
+
+A territory's tradition can change from one order to the next: Kurpfalz is Lutheran in 1556 and
+Reformed from 1563, and Strasbourg Moderate Reformed before the Interim of 1548 and Lutheran
+after it. [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md) gives the tradition of every order
+(§3 defines them). Where an order could be counted either Moderate Reformed or Philippist, it is
+counted Moderate Reformed. The guide also lists the few Interim orders and the texts tied to the
+Augsburg Interim (§4).
+
+The topical guides follow that identification. Lutheran orders are not marked. Every order of
+another tradition is marked where it is cited, as "Kurpfalz 1563 (Reformed)" or "Hesse 1566
+(Moderate Reformed)", and an Interim order is marked as such.
+
 ## Translating from this corpus
 
 Apply the existing two-command workflow directly to any document's text

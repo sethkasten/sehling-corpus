@@ -34,6 +34,20 @@ The Canon, the Words of Institution and the prayers around communion are treated
 cross-referenced here: Kantz 1522, Döber's exhortation, the Kiel Mass and Bugenhagen's
 preparatory prayer.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the whole order of the Mass, and where the preliminaries fall in it:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §§4–5;
+- private confession and absolution, and the examination of communicants:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §17;
+- the hymns at the opening of the service: [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md),
+  §4;
+- the prayers and notices around the sermon: [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §10;
+- confession and communion as duties of the laity:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §8.3;
+- fasting before communion: [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md),
+  §13.6;
+- vestments: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §7.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built
@@ -63,6 +77,23 @@ preparatory prayer.
     19/2, 20/1 and 20/2, following the digitized volumes.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     These sometimes differ from the database's record headings.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
+  - **Radical Reformation**: Thomas Müntzer's Allstedt orders.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it,
+    and Kurpfalz Lutheran in 1556 and Reformed from 1563.
+  - Swiss sources outside the corpus (Zürich 1525, Basel 1526, Geneva) are Reformed.
 
 ## Contents
 
@@ -70,7 +101,7 @@ preparatory prayer.
 - [2. Scope, sources and method](#2-scope-sources-and-method)
 - [3. Opening versicles and preliminaries](#3-opening-versicles-and-preliminaries)
 - [4. Confession and absolution: what the orders did with the *Confiteor*](#4-confession-and-absolution-what-the-orders-did-with-the-confiteor)
-- [5. The exhortation to the communicants](#5-the-exhortation-to-the-communicants)
+- [5. The exhortation to the communicants: the families collated](#5-the-exhortation-to-the-communicants-the-families-collated)
 - [6. Before and after the service](#6-before-and-after-the-service)
 - [7. Table by order](#7-table-by-order)
 - [8. Concordance of the orders quoted](#8-concordance-of-the-orders-quoted)
@@ -81,11 +112,12 @@ preparatory prayer.
 
 1. **The Roman preparation was broken up.** No evangelical order keeps the whole of the priest's
    preparation: *Introibo*, Ps 43 *Iudica me*, *Confiteor*, *Misereatur*, *Indulgentiam* and
-   *Aufer a nobis*. The one order that keeps most of it is Müntzer's Allstedt Mass (1523/1524):
-   Ps 43 said by priest and people, then the *Confiteor*, the *Misereatur*, *Deus, tu conversus*
-   and *Aufer a nobis*, all in German and aloud; *Introibo* survives there only as a verse of
-   the psalm (§3.8). Elsewhere *Iudica me* disappears, and *Aufer a nobis* survives only in the
-   *Cellische Ordnungen* of 1545 (after the sermon) and, on the editor's reading, at Regensburg
+   *Aufer a nobis*. The one order that keeps most of it is Müntzer's Allstedt Mass (1523/1524;
+   Radical Reformation): Ps 43 said by priest and people, then the *Confiteor*, the
+   *Misereatur*, *Deus, tu conversus* and *Aufer a nobis*, all in German and aloud; *Introibo*
+   survives there only as a verse of the psalm (§3.8). Elsewhere *Iudica me* disappears, and
+   *Aufer a nobis* survives only in the *Cellische Ordnungen* of 1545 (after the sermon) and, on
+   the editor's reading, at Regensburg
    1542. *Adiutorium nostrum* (Ps 124:8) is the one versicle that survives widely. The German
          missals' *Confitemini Domino quoniam bonus* survives in Döber and Mecklenburg 1540
          (§3.1).
@@ -100,13 +132,13 @@ preparatory prayer.
      the confession in the plural, "Wir armen, sündige menschen" (§3.4).
    - **D.** The medieval *Offene Schuld* of the preaching service moved into the Mass (Kantz,
      Bremen 1525, Volprecht, Naumburg, Nördlingen).
-   - **E.** The Strasbourg and Reformed opening: confession and comfortable word (Strasbourg,
-     Palatinate 1563).
+   - **E.** The Strasbourg and Reformed opening: confession and comfortable word (Strasbourg
+     1537, Moderate Reformed; Palatinate 1563, Reformed).
    - **F.** A hymn, a German psalm, or *Veni Sancte Spiritus* with its versicle and collect, the
      last a recasting of the medieval *accessus* as a preparation of the congregation (Luther
      1526, Amberg 1544, Verden 1606, Transylvania 1547).
-   - **G.** Müntzer's German *Stufengebet* at Allstedt, with Ps 43 said by priest and people
-     (§3.8).
+   - **G.** Müntzer's German *Stufengebet* at Allstedt (Radical Reformation), with Ps 43 said by
+     priest and people (§3.8).
 3. **The confession stands in four places** (§4.1): privately before the Introit; publicly
    before the Introit; after the sermon (Bugenhagen 1528, Amberg 1550, the Palatinate); and in
    the communion rite after the exhortation (Kantz, Württemberg 1536, Nürnberg after 1569).
@@ -121,7 +153,7 @@ preparatory prayer.
      the versicle.
    - **The people** keep silence and confess in their hearts (Mecklenburg), repeat the words
      after the priest (Döber, Bugenhagen's pulpit confession, Amberg's weekday prayer), or
-     answer "Ja" (Palatinate 1563).
+     answer "Ja" (Palatinate 1563, Reformed).
 5. **Before Mass.** The priest's *Confiteor* is said at the altar, not in the sacristy. The
    communicant's real preparation is private confession on the Saturday or before the service.
    The Brandenburg and Pfalz-Neuburg orders forbid a "gemeine beicht" (common confession) in its
@@ -138,7 +170,8 @@ preparatory prayer.
    - **declaration of grace** in the first person plural ("hat sich unser erbarmet … Das
      verleihe uns Got allen");
    - **indicative** ("sag euch frei, ledig und los"; "vorgebe ich euch"; "entbind ich euch");
-   - **conditional declaration** with retention (Strasbourg, Palatinate 1563);
+   - **conditional declaration** with retention (Strasbourg 1537, Moderate Reformed; Palatinate
+     1563, Reformed);
    - **none**, only a word of comfort (Bugenhagen 1528).
 
    At the beginning of Mass the declaration of grace prevails; in the communion rite, the
@@ -154,20 +187,21 @@ preparatory prayer.
 9. **The exhortation** (§5) falls in six places:
    - after the sermon, from the pulpit or altar (Luther 1526, left free);
    - at the altar before the Verba (Brandenburg-Nürnberg 1533, moved there at Luther's
-     suggestion; Württemberg; the Palatinate);
+     suggestion; Württemberg; the Palatinate 1563, Reformed);
    - before the Preface, as the "true Preface" (Bugenhagen);
    - after the Preface and Sanctus (Mecklenburg 1552; Naumburg 1537 before the Sanctus);
    - after the Verba and Our Father (Nürnberg 1524–1525, Osiander's original place);
-   - after communion (Memmingen 1528, Marienhafe 1593).
+   - after communion (Memmingen 1528, Moderate Reformed; Marienhafe 1593).
 
    There are eleven families of text, each collated word by word against its archetype (§5.2):
    Luther 1526; Osiander 1524, with the Braunschweig recension of the north;
    Brandenburg-Nürnberg 1533; Württemberg 1536, revised 1553; Bugenhagen 1528, in Low and High
-   German; Naumburg 1537; Mecklenburg 1552, which contains an absolution; the Palatinate 1563,
-   with its Lower Rhine recension; Pfalz-Veldenz 1574; the Basel text of Memmingen 1528 and
-   Neckarbischofsheim 1560; and Strasbourg 1525. Augsburg 1530, Buxtehude 1565 and Micron each
-   have an exhortation of their own (§5.14). Every archetype is given in full with a
-   translation.
+   German; Naumburg 1537; Mecklenburg 1552, which contains an absolution; the Palatinate 1563
+   (Reformed), with its Lower Rhine recension (Reformed); Pfalz-Veldenz 1574; the Basel text
+   (Reformed) of Memmingen 1528 (Moderate Reformed) and Neckarbischofsheim 1560; and Strasbourg
+   1525 (Moderate Reformed). Augsburg 1530 (Moderate Reformed), Buxtehude 1565 and Micron
+   (Reformed) each have an exhortation of their own (§5.14). Every archetype is given in full
+   with a translation.
 10. **No vesting prayers** (§6.1). None of the prayers in the Lutheran Missal Project's *Vesting
     Prayers* occurs in any order: the preparatory psalms, the antiphon *Ne reminiscaris*, the
     *preces* and collects, and the prayers at the washing of hands and at each vestment.
@@ -264,11 +298,11 @@ Many German diocesan missals also had the versicle *Confitemini Domino quoniam b
 in saeculum misericordia eius* (Ps 118:1) before the *Confiteor*.
 
 **What became of it.** No evangelical order in Sehling keeps the whole of this. One order keeps
-a large part of it: Thomas Müntzer's German Mass for Allstedt (1523, printed 1524). There Ps 43
-*Iudica me* is said by the priest and the whole people, and is followed by German forms of the
-*Confiteor*, the *Misereatur*, *Deus, tu conversus* and *Aufer a nobis*. *Introibo ad altare
-Dei* survives there only as the fourth verse of the psalm, not as an antiphon (§3.8). Elsewhere
-only fragments remain:
+a large part of it: Thomas Müntzer's German Mass for Allstedt (1523, printed 1524; Radical
+Reformation). There Ps 43 *Iudica me* is said by the priest and the whole people, and is
+followed by German forms of the *Confiteor*, the *Misereatur*, *Deus, tu conversus* and *Aufer a
+nobis*. *Introibo ad altare Dei* survives there only as the fourth verse of the psalm, not as an
+antiphon (§3.8). Elsewhere only fragments remain:
 - *Aufer a nobis* is sung in Latin after the sermon in the *Cellische Ordnungen* of 1545, and
   Sehling's editor takes the collect after the *Confiteor* at Regensburg 1542 to be the same
   prayer (§3.8).
@@ -285,14 +319,14 @@ What survives falls into the families set out below:
 | B | Bugenhagen's kneeling prayer: Our Father and the tract *Domine, non secundum* | The priest and the sexton, alternately | During the opening psalm | Wolfenbüttel 1543, Hildesheim 1544 (3.3) |
 | C | A public confession in the people's hearing, with *Adiutorium* and *Confitemini*, a recast *Misereatur* and a declaration of grace | The priest kneeling, with the sexton or a second minister; the people silently or repeating | At the very beginning of Mass | Döber 1525, Lippe [1525–1538], Kiel [after 1526], Mecklenburg 1540 and 1552, Amberg 1555, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln (3.4) |
 | D | The *Offene Schuld* moved into the Mass, with an indicative absolution | The priest to the people | Before the Introit, or before the Sacrament | Kantz 1522, Bremen 1525, Volprecht 1524, Naumburg 1537, Nördlingen 1544 (3.5) |
-| E | The Upper German and Reformed opening of the preaching service: confession of sins and a comfortable word | The minister for the congregation | At the beginning of the service, or after the sermon | Strasbourg 1537, Palatinate 1563, Wertheim 1524 (3.6; and §4) |
+| E | The Upper German and Reformed opening of the preaching service: confession of sins and a comfortable word | The minister for the congregation | At the beginning of the service, or after the sermon | Strasbourg 1537 (Moderate Reformed), Palatinate 1563 (Reformed), Wertheim 1524 (3.6; and §4) |
 | F | A hymn, a German psalm, or *Veni Sancte Spiritus* with its versicle and collect | Choir, schoolboys or congregation; the priest the collect | Before the Introit | Luther 1526, Amberg 1544, Verden 1606, Transylvania 1547, Buxtehude 1552, Mecklenburg villages, Sayn 1590 (3.7) |
-| G | Ps 43 *Iudica me*, the *Confiteor*, the *Misereatur*, *Deus, tu conversus* and *Aufer a nobis*, in German | The priest and the whole people | Before the Introit | Müntzer, Allstedt 1523 and 1524 (3.8) |
+| G | Ps 43 *Iudica me*, the *Confiteor*, the *Misereatur*, *Deus, tu conversus* and *Aufer a nobis*, in German | The priest and the whole people | Before the Introit | Müntzer, Allstedt 1523 and 1524 (Radical Reformation) (3.8) |
 
 **The versicles that survive.**
 - *Adiutorium nostrum* (Ps 124:8) is the one Roman versicle that survives widely: Kantz 1522,
   Döber 1525, Lippe, Mecklenburg 1540 and 1552, Pfalz-Zweibrücken 1557 and Poullain's French
-  liturgy at Frankfurt (Sehling 9, p. 563) all have it.
+  liturgy at Frankfurt (Reformed; Sehling 9, p. 563) all have it.
 - *Confitemini Domino quoniam bonus* (Ps 118:1) survives in Döber, Lippe and Mecklenburg 1540,
   but is dropped in Mecklenburg 1552.
 - In Verden 1606 the versicle is *Emitte Spiritum tuum* (Ps 104:30), which belongs with *Veni
@@ -1128,10 +1162,10 @@ Compare the Brandenburg and Pfalz-Neuburg prohibitions of a "gemeine beicht" (§
 
 ### 3.6 Family E: the Upper German and Reformed opening
 
-In Strasbourg and the Reformed orders the service begins with the minister's call to confession,
-a prayer of confession in the first person plural, and a comfortable word as absolution. This is
-the *Offene Schuld* of the preaching service, kept at its head. **Strasbourg, *Agende*,
-1537/1541** (Sehling 20/1, p. 270):
+In Strasbourg (Moderate Reformed, before the Interim) and the Reformed orders the service begins
+with the minister's call to confession, a prayer of confession in the first person plural, and a
+comfortable word as absolution. This is the *Offene Schuld* of the preaching service, kept at
+its head. **Strasbourg, *Agende*, 1537/1541** (Moderate Reformed; Sehling 20/1, p. 270):
 
 <!-- doc 1302 -->
 > Das Confiteor oder offene schuld: Bekennen Gott, dem Herren, und verjehen mitt mir ein jedes
@@ -1163,8 +1197,8 @@ pardon of sins and Christ's payment for our sins, as John 3: God so loved the wo
 gave his only Son, that whosoever believeth in him should not perish, but have everlasting life.
 
 **Note.**
-- **The name.** "Das Confiteor oder offene schuld": in Strasbourg the open confession *is* the
-  *Confiteor*.
+- **The name.** "Das Confiteor oder offene schuld": in Strasbourg (1537, Moderate Reformed) the
+  open confession *is* the *Confiteor*.
 - **The absolution** is conditional on each one's confession and faith ("Ein jedes bekenne sich
   … und glaube … so versprich ich euch"). Further comfortable words follow: John 3:35–36, Acts
   10:43 and 1 John 2:1–2 (p. 271).
@@ -1175,10 +1209,10 @@ gave his only Son, that whosoever believeth in him should not perish, but have e
   and slothful to all good …; p. 271). The Palatinate editor names this "other Confiteor" among
   the sources of the Palatinate prayer below.
 
-**The Palatinate 1563.** The Reformed order of Elector Frederick III opens the Sunday morning
-service with a prayer of confession before the sermon, and puts the confession, absolution and
-retention after the sermon (§4.4). The prayer before the sermon begins **Palatinate,
-*Kirchenordnung*, 1563** (Sehling 14, p. 388):
+**The Palatinate 1563** (Reformed). The Reformed order of Elector Frederick III opens the Sunday
+morning service with a prayer of confession before the sermon, and puts the confession,
+absolution and retention after the sermon (§4.4). The prayer before the sermon begins
+**Palatinate, *Kirchenordnung*, 1563** (Reformed; Sehling 14, p. 388):
 
 <!-- doc 504 -->
 > Für der predig, insonderheyt an den Son- und feyertagen morgens und an bettagen, soll diß
@@ -1202,12 +1236,13 @@ sinful life we transgress thy holy commandments without ceasing
 **Note.**
 - **The opening** is the apostolic greeting "Gnad, fried und barmhertzigkeyt" (Grace, peace and
   mercy) in the place of the versicles. The prayer ends with the Our Father (p. 389).
-- **The editor** traces the prayer to Geneva 1563, Frankfurt 1555 and "Straßburg … (das andere
-  Confiteor)", the second Strasbourg confession above.
-- **Poullain and Micron.** The French stranger church at Frankfurt opens with *Adiutorium
-  nostrum in nomine Domini* and a *Confessio peccatorum*, "Domine Deus, Pater aeterne …"
-  (Sehling 9, p. 563). Micron's Dutch order for London, also used at Emden, has an open
-  confession with a conditional declaration (Sehling 7/1, p. 602).
+- **The editor** traces the prayer to Geneva 1563 and Frankfurt 1555 (both Reformed) and
+  "Straßburg … (das andere Confiteor)", the second Strasbourg confession above (Moderate
+  Reformed).
+- **Poullain and Micron** (both Reformed). The French stranger church at Frankfurt opens with
+  *Adiutorium nostrum in nomine Domini* and a *Confessio peccatorum*, "Domine Deus, Pater
+  aeterne …" (Sehling 9, p. 563). Micron's Dutch order for London, also used at Emden, has an
+  open confession with a conditional declaration (Sehling 7/1, p. 602).
 
 **Wertheim 1524: the confession after the sermon.** The earliest report of a Mass after the
 sermon is Franz Kolb's letter to Luther. **Wertheim, Franz Kolb to Luther, 27 August 1524**
@@ -1331,7 +1366,7 @@ the Introit:
 
 ### 3.8 Family G: Müntzer's Allstedt Mass; *Iudica me* and *Aufer a nobis* elsewhere
 
-**Müntzer keeps the *Stufengebet*.** Thomas Müntzer's German Masses for Allstedt are the one
+**Müntzer keeps the *Stufengebet*.** Thomas Müntzer's German Masses (Radical Reformation) for Allstedt are the one
 place in Sehling where Ps 43 *Iudica me* survives as the preparation for Mass. In the order of
 1523 the Mass begins "So man zuvorn vorm altar gemeine beicht thut" (when the general confession
 has first been made before the altar; Sehling 1, p. 504). The *Deutsch evangelisch Messe* of
@@ -1339,7 +1374,7 @@ has first been made before the altar; Sehling 1, p. 504). The *Deutsch evangelis
 includes, as its fourth verse, the *Introibo ad altare Dei* that the Roman Mass uses as its
 antiphon. Then come the priest's confession, the people's *Misereatur*, the versicle *Deus, tu
 conversus*, and the prayer *Aufer a nobis*, all in German, all aloud, and all before the
-Introit. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524** (Sehling 1, p. 499):
+Introit. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524** (Radical Reformation; Sehling 1, p. 499):
 
 <!-- doc 51 -->
 > Ampt von der menschwerdung Christi unsers heilandes. Der 42. psalm wird gesprochen mit dem
@@ -1455,10 +1490,10 @@ Regensburg, however, the Mass *Confiteor* was also used in 1544 at Nördlingen; 
 391). For Nördlingen see §3.2.
 
 **The verdict.** *Introibo* as an antiphon and Ps 43 as the priest's preparatory psalm disappear
-from every order in Sehling except Müntzer's. *Aufer a nobis* survives at the beginning of Mass
-only at Allstedt and, if the editor is right, at Regensburg 1542; in the *Cellische Ordnungen*
-it moves to the offertory. Ps 43 itself remains in the Lutheran orders as the Introit of Judica
-Sunday (e.g. Nördlingen 1579, Sehling 12, p. 379).
+from every order in Sehling except Müntzer's (Radical Reformation). *Aufer a nobis* survives at
+the beginning of Mass only at Allstedt and, if the editor is right, at Regensburg 1542; in the
+*Cellische Ordnungen* it moves to the offertory. Ps 43 itself remains in the Lutheran orders as
+the Introit of Judica Sunday (e.g. Nördlingen 1579, Sehling 12, p. 379).
 
 ---
 
@@ -1472,9 +1507,9 @@ in two:
 | Place | Form | Orders |
 |---|---|---|
 | **Before the Introit, privately** | The priest's *Confiteor* or other prayer at the altar, during the Introit | Brandenburg-Nürnberg 1533, Brandenburg 1540, Pfalz-Neuburg 1543, Hohenlohe 1553, Regensburg 1542 and 1553, Amberg 1550, Buxtehude 1552, Bergedorf 1544, Schleswig-Holstein 1542, Nördlingen 1544; Bugenhagen's kneeling prayer at Wolfenbüttel 1543 and Hildesheim 1544 (§§3.2–3.3) |
-| **Before the Introit, publicly** | Address, confession and absolution in the people's hearing | Müntzer 1523/1524 (with Ps 43, no absolution; §3.8); Volprecht 1524, Döber 1525, Lippe, Kiel, Mecklenburg 1540 and 1552, Amberg 1555, Naumburg 1537, Nördlingen 1544, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln; Strasbourg 1537; Palatinate 1563 (prayer before the sermon) (§§3.4–3.6) |
-| **After the sermon** | Open confession from the pulpit, or at the altar before the Sacrament | Bugenhagen, Brunswick 1528; Wertheim 1524 (§3.6); Kurpfalz 1556; Palatinate 1563; Amberg 1550 (§4.4) |
-| **In the communion rite** | Confession and absolution after the exhortation, before the Verba | Kantz 1522 and Bremen 1525; Augsburg 1530 (the absolution inside the second exhortation); Regensburg c. 1544 and 1567; Hohenlohe 1553 (from the pulpit); Württemberg 1536 and its followers, among them Kurpfalz 1556 and Hanau-Lichtenberg 1573; Nürnberg after 1569; Mecklenburg 1552 (the absolution inside the exhortation); Marienhafe 1593 (a prayer of confession without absolution) (§§4.4, 5) |
+| **Before the Introit, publicly** | Address, confession and absolution in the people's hearing | Müntzer 1523/1524 (Radical Reformation; with Ps 43, no absolution; §3.8); Volprecht 1524, Döber 1525, Lippe, Kiel, Mecklenburg 1540 and 1552, Amberg 1555, Naumburg 1537, Nördlingen 1544, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln; Strasbourg 1537 (Moderate Reformed); Palatinate 1563 (Reformed; prayer before the sermon) (§§3.4–3.6) |
+| **After the sermon** | Open confession from the pulpit, or at the altar before the Sacrament | Bugenhagen, Brunswick 1528; Wertheim 1524 (§3.6); Kurpfalz 1556; Palatinate 1563 (Reformed); Amberg 1550 (§4.4) |
+| **In the communion rite** | Confession and absolution after the exhortation, before the Verba | Kantz 1522 and Bremen 1525; Augsburg 1530 (Moderate Reformed; the absolution inside the second exhortation); Regensburg c. 1544 and 1567; Hohenlohe 1553 (from the pulpit); Württemberg 1536 and its followers, among them Kurpfalz 1556 and Hanau-Lichtenberg 1573; Nürnberg after 1569; Mecklenburg 1552 (the absolution inside the exhortation); Marienhafe 1593 (a prayer of confession without absolution) (§§4.4, 5) |
 
 **Mecklenburg 1552** has it twice: the public confession at the beginning of every Mass (§3.4),
 and an absolution inside the exhortation before communion (§5.9). **Nördlingen 1544** has it
@@ -1482,9 +1517,9 @@ twice at the beginning: the celebrant's own *Confiteor*, absolved by a fellow mi
 the open confession to the people (§3.2).
 
 **The Palatinate** moves it. Kurpfalz 1556 sets the order "die predigt, offen beicht und
-gemeines gebet" (the sermon, open confession and common prayer; Sehling 14, p. 165). In 1563 the
-confession and absolution follow the Sunday morning sermon, and the Supper has its own
-examination by questions (§4.4).
+gemeines gebet" (the sermon, open confession and common prayer; Sehling 14, p. 165). In 1563,
+now Reformed, the confession and absolution follow the Sunday morning sermon, and the Supper has
+its own examination by questions (§4.4).
 
 ### 4.2 Who says it, and does the chancel party pray it together?
 
@@ -1513,9 +1548,9 @@ examination by questions (§4.4).
   - They **confess silently** with him: Mecklenburg 1540 and 1552, "sol die ganze kirch stille
     sein … auch mit dem priester also bekennen" (the whole church shall be still … and also
     confess likewise with the priest).
-  - They **confess in their hearts**: Strasbourg 1537, "Ein jedes bekenne sich … in seinem
-    hertzen" (let every one confess himself … in his heart).
-  - They **answer "Ja"** to questions: Palatinate 1563 (§4.4).
+  - They **confess in their hearts**: Strasbourg 1537 (Moderate Reformed), "Ein jedes bekenne
+    sich … in seinem hertzen" (let every one confess himself … in his heart).
+  - They **answer "Ja"** to questions: Palatinate 1563 (Reformed; §4.4).
 
 **Is it done privately before Mass?** In two senses, yes:
 - **The priest.** His *Confiteor* (family A) is private, but it is said at the altar at the
@@ -1542,8 +1577,8 @@ families of wording:
 | Döber–Mecklenburg | "Und ich armer, sündiger mensch bekenn Got dem allmechtigen, meinem schöpfer und erlöser, das ich nit allein gesündiget hab mit gedanken, worten oder werken …" | Döber 1525, Lippe, Kiel, Mecklenburg 1540, 1552, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574 |
 | Volprecht | "Ich armer, elender, sündiger maensch bekenn mich Gott meinem himlischen Vater … euch brüder und schwester …" | Volprecht 1524 |
 | Naumburg | "Ich armer sunder bekenne dir o almechtiger gott und barmherziger vater fur dieser ganzen gemein alle meine sunde und missethat …" | Naumburg 1537 |
-| Württemberg | "Ich armer sünder bekenn mich Gott, meinem himelischen vatter, das ich leider schwerlich und manigfalt gesündet hab, nit allein mit eusserlichen, groben sünden, sonder vil mer mit innerlicher angeborner plindtheit …" | Württemberg 1536; Kurpfalz 1556; Palatinate 1563 (in the second person, "für dir, meinem Gott und schöpfer") |
-| Strasbourg | "Almechtiger, ewiger Got und vatter, wir bekennen und verjehen dir, das wir inn ungerechtigkeiten empfangen …" | Strasbourg 1537; Palatinate 1563 (prayer before the sermon); Poullain; Micron |
+| Württemberg | "Ich armer sünder bekenn mich Gott, meinem himelischen vatter, das ich leider schwerlich und manigfalt gesündet hab, nit allein mit eusserlichen, groben sünden, sonder vil mer mit innerlicher angeborner plindtheit …" | Württemberg 1536; Kurpfalz 1556; Palatinate 1563 (Reformed; in the second person, "für dir, meinem Gott und schöpfer") |
+| Strasbourg | "Almechtiger, ewiger Got und vatter, wir bekennen und verjehen dir, das wir inn ungerechtigkeiten empfangen …" | Strasbourg 1537 (Moderate Reformed); Palatinate 1563 (Reformed; prayer before the sermon); Poullain and Micron (Reformed) |
 
 Bugenhagen's Brunswick confession of 1528 is a sixth, unique form: a confession against the
 Creed and the two tables of the law, with a pause for each to name his own sin (§4.4).
@@ -1588,8 +1623,8 @@ The absolutions fall into five types. The modern Common Service declaration of g
 | **1. Optative** (a wish or prayer) | "Der barmherzig Got wöl sich unser erbarmen und uns unsere sünd verzeihen …" (vouchsafe to have mercy upon us and forgive us) | Döber 1525 (the *Misereatur*); Lippe and Kiel; Mecklenburg 1540; Mecklenburg 1552 and Pfalz-Zweibrücken 1557 (as the second minister's prayer) |
 | **2. Declaration of grace** (first person plural, no "I") | "Der almechtich, barmherzig Got hat sich unser erbarmet … Das verleihe uns Got allen" (hath had mercy upon us … God grant this unto us all) | Döber 1525; Mecklenburg 1540 and 1552; Pfalz-Zweibrücken 1557; Pfalz-Veldenz 1574; Volprecht 1524 ("Gott hat sich unser erbarmet") |
 | **3. Indicative** (the minister, by Christ's command, looses) | "ich, us bevelch unsers Herren Jesu Christi an statt der heiligen kirchen, sag euch frei, ledig und los" (I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, pronounce you free, quit and loosed) | Kantz 1522; Kiel (read by the sexton); Naumburg 1537; Württemberg 1536; Nürnberg after 1569; Mecklenburg 1552 (in the exhortation) |
-| **4. Conditional declaration, with retention** | "Sovil nun euer sein, die … denselbigen … verkündige ich … Soviel aber under euch seind, die noch einen gefallen haben an iren sünden …" (As many of you as … to them I declare … But as many among you as still have pleasure in their sins …) | Strasbourg 1537 (without retention); Micron; Palatinate 1563 |
-| **5. No absolution**, only a word of comfort | "Jesus Christus is unse salicheit ewichlick" (Jesus Christ is our salvation for ever) | Bugenhagen, Brunswick 1528; Palatinate 1563 (Supper examination) |
+| **4. Conditional declaration, with retention** | "Sovil nun euer sein, die … denselbigen … verkündige ich … Soviel aber under euch seind, die noch einen gefallen haben an iren sünden …" (As many of you as … to them I declare … But as many among you as still have pleasure in their sins …) | Strasbourg 1537 (Moderate Reformed; without retention); Micron and Palatinate 1563 (Reformed) |
+| **5. No absolution**, only a word of comfort | "Jesus Christus is unse salicheit ewichlick" (Jesus Christ is our salvation for ever) | Bugenhagen, Brunswick 1528; Palatinate 1563 (Reformed; Supper examination) |
 
 **Type 2 and type 3.** The declaration of grace (type 2) is the commonest form at the
 *beginning* of the Mass. The indicative (type 3) is the commonest form in the *communion rite*,
@@ -1765,7 +1800,7 @@ and a German psalm.
 **The Palatinate 1563: confession, absolution and retention after the sermon.** The Reformed
 order puts the confession after the Sunday morning sermon. Its confession is Württemberg's, and
 its absolution is a conditional declaration with a retention of sins. **Palatinate,
-*Kirchenordnung*, 1563** (Sehling 14, p. 389):
+*Kirchenordnung*, 1563** (Reformed; Sehling 14, p. 389):
 
 <!-- doc 504 -->
 > Am Sontag nach der morgenpredig soll der kirchendiener sprechen: Ir geliebten in dem herrn,
@@ -1822,17 +1857,18 @@ converted.
 
 **Note.**
 - **The editor's sources.** "Fast wörtlich aus Kurpfalz 1556" (almost word for word from
-  Kurpfalz 1556) for the confession, and London 1565 (à Lasco and Micron's order) for the
-  address.
-- **John 3:16** is the Strasbourg *Trostspruch* (§3.6). Kurpfalz 1556 uses it as the absolution
-  in the communion of the sick (Sehling 14, p. 171).
+  Kurpfalz 1556) for the confession, and London 1565 (à Lasco and Micron's order, Reformed) for
+  the address.
+- **John 3:16** is the Strasbourg *Trostspruch* (1537, Moderate Reformed; §3.6). Kurpfalz 1556
+  uses it as the absolution in the communion of the sick (Sehling 14, p. 171).
 - **The verbs.** "verkündige ich … daß sie … in dem himmel entbunden seind" (I declare … that
   they are loosed in heaven) is a declaration, not a loosing: the minister announces what God
   has done, as in type 2, but to a defined class of hearers, with a retention for the rest.
 
-**The Palatinate's Supper examination.** Before the Supper the Palatinate puts three questions
-(on sin, redemption and thankfulness), each answered "Ja", and closes with an assurance in place
-of an absolution. **Palatinate, *Kirchenordnung*, 1563** (Sehling 14, p. 383):
+**The Palatinate's Supper examination.** Before the Supper the Reformed Palatinate (1563) puts
+three questions (on sin, redemption and thankfulness), each answered "Ja", and closes with an
+assurance in place of an absolution. **Palatinate, *Kirchenordnung*, 1563**
+(Reformed; Sehling 14, p. 383):
 
 <!-- doc 504 -->
 > Alle, die nun in ihrem hertzen diß befinden, die sollen nicht zweifelen, daß sie durch das
@@ -1970,11 +2006,11 @@ aloud the exhortation "doubled" them.
 | Place | Orders |
 |---|---|
 | **After the sermon, in the pulpit or at the altar, before the Our Father and Verba** | Luther, *Deutsche Messe* 1526 (pulpit or altar left free); Saxony 1539 and 1580; Mansfeld 1562; Grubenhagen 1581; Henneberg 1582 |
-| **At the altar after the sermon, before the Verba** | Brandenburg-Nürnberg 1533 (moved there "auf Luthers Anregung"); Württemberg 1536 and its family; Pfalz-Neuburg 1543; Hohenlohe; Verden 1606; Palatinate 1563 (at the table) |
+| **At the altar after the sermon, before the Verba** | Brandenburg-Nürnberg 1533 (moved there "auf Luthers Anregung"); Württemberg 1536 and its family; Pfalz-Neuburg 1543; Hohenlohe; Verden 1606; Palatinate 1563 (Reformed; at the table) |
 | **At the altar after the sermon, before the Preface** (as its "true" form) | Bugenhagen, Brunswick 1528, Hamburg 1529, Wolfenbüttel 1543, Hildesheim 1544; Kantz 1522 |
 | **After the Preface and Sanctus, before the Our Father and Verba** | Mecklenburg 1552 ("so man zeit hat", if there is time); Osnabrück 1543; Naumburg 1537 (before the Sanctus) |
 | **After the Verba and Our Father, before communion** | Nürnberg 1524, Döber 1525, *Form und Ordnung* 1525 (Osiander's original place) |
-| **After communion** | Memmingen 1528 and Marienhafe 1593 (a short exhortation to love and thanksgiving) |
+| **After communion** | Memmingen 1528 (Moderate Reformed) and Marienhafe 1593 (a short exhortation to love and thanksgiving) |
 
 **Editor's note on the move.** Sehling's editor comments on Brandenburg-Nürnberg 1533
 (Sehling 11, p. 195): "Die gegen dort erfolgte Umstellung vor den Beginn des Sakramentsteiles
@@ -1983,8 +2019,8 @@ with 1524, to before the beginning of the sacramental part goes back to Luther's
 his *Deutsche Messe*).
 
 **Who reads it.** The priest, facing the people, from the altar (most orders), or the preacher
-from the pulpit (Luther's option; Bugenhagen's pulpit exhortation; Micron). In Nürnberg 1525
-"der priester oder ministrant" (the priest or the minister) may read it.
+from the pulpit (Luther's option; Bugenhagen's pulpit exhortation; Micron, Reformed). In
+Nürnberg 1525 "der priester oder ministrant" (the priest or the minister) may read it.
 
 ### 5.2 The families and their witnesses
 
@@ -2005,21 +2041,21 @@ exhortations that occur in one order only:
 
 | § | Family (archetype) | Incipit | Witnesses in Sehling |
 |---|---|---|---|
-| 5.3 | **Luther**, Wittenberg 1526 | "Lieben freunde Christi, weil wir hie versamlet sind …" | Saxony 1539 (abridged in print), Prussia 1544 and 1568 (in place of the Preface), Albertine Saxony 1580, Mansfeld 1562, Grubenhagen 1581, Lindau 1573, Wertheim c. 1555 (as a prayer), Frankfurt 1543 and the French church at Frankfurt 1585 (paraphrase only), Henneberg 1582 (admonition only, rewritten) |
+| 5.3 | **Luther**, Wittenberg 1526 | "Lieben freunde Christi, weil wir hie versamlet sind …" | Saxony 1539 (abridged in print), Prussia 1544 and 1568 (in place of the Preface), Albertine Saxony 1580, Mansfeld 1562, Grubenhagen 1581, Lindau 1573, Wertheim c. 1555 (as a prayer), Frankfurt 1543 and the French church at Frankfurt 1585 (Reformed; paraphrase only), Henneberg 1582 (admonition only, rewritten) |
 | 5.4 | **Osiander**, Nürnberg 1524 | "Ir allerliebsten in Got! Dieweil wir jetzo das abentessen …" | Volprecht 1524, Nürnberg parish churches 1524, Döber 1525, *Form und Ordnung* 1525; the Braunschweig recension: Lüneburg 1564, Braunschweig-Wolfenbüttel 1569, Buxtehude 1565 (Low German, cited), Lippe 1571, Lüneburg 1575 (cited), Verden 1606, Waldeck (revised text B) |
-| 5.5 | **Brandenburg-Nürnberg** 1533 | "Ir allerliebsten in Got, dieweil wir jetzo das heilig abentmal …" | Brandenburg 1540, Calenberg-Göttingen 1542, Regensburg c. 1544 (rewritten 1567), Dietrich's *Agendbüchlein* 1543 (cited), Pfalz-Neuburg 1543, Schwäbisch Hall 1543, Hohenlohe 1553 and 1578, Strasbourg 1553 (Marbach), Nassau-Dillenburg 1575 (cited), Erbach 1587, Ysenburg-Birstein 1588 |
+| 5.5 | **Brandenburg-Nürnberg** 1533 | "Ir allerliebsten in Got, dieweil wir jetzo das heilig abentmal …" | Brandenburg 1540, Calenberg-Göttingen 1542, Regensburg c. 1544 (rewritten 1567), Dietrich's *Agendbüchlein* 1543 (cited), Pfalz-Neuburg 1543, Schwäbisch Hall 1543, Hohenlohe 1553 and 1578, Strasbourg 1553 (Marbach), Nassau-Dillenburg 1575 (Philippist; cited), Erbach 1587, Ysenburg-Birstein 1588 |
 | 5.6 | **Württemberg** 1536, revised 1553 | "Ir allerliebsten in Christo Jesu, dieweil wir yetzund das gnadreich abentmal …" | 1536 text: Worms 1560. 1553 text: Kurpfalz 1556, Worms 1560, Leiningen-Westerburg 1566, Lindau 1573, Hanau-Lichtenberg 1573, Nassau-Weilburg 1576 (in its Agende of 1618), Ysenburg-Ronneburg 1582, Strasbourg 1598, Isny c. 1600, Solms-Laubach 1603, Wild- und Rheingrafschaft 1603 |
 | 5.7 | **Bugenhagen**, Brunswick 1528 | "Myne allerlevesten, uns wert stedes dorch de predige des evangelii …" | Low German: Hamburg 1529, Lübeck 1531 (cited), Hadeln (cited), Wolfenbüttel 1543, Osnabrück 1543 (cited), Hildesheim 1544 (cited), Buxtehude (cited), Hamburg 1556 (cited). High German: Frankfurt 1543 (free paraphrase), Lüneburg 1564, Hildesheim 1561 (cited), Braunschweig-Wolfenbüttel 1569, Lippe 1571 (twice), Verden 1606, Osnabrück 1613 (abridged) |
 | 5.8 | **Naumburg** 1537 | "Lieben freunde, dieweil ihr itzund das testament unsers lieben herrn Jesu Christi …" | Nördlingen 1579 (and, according to Sehling's editor, Nördlingen 1544) |
 | 5.9 | **Mecklenburg** 1552 | "Lieben freunde, ir als christliche menschen, die ir zuvor bericht habt von gott …" | Pfalz-Zweibrücken 1557, Nassau-Weilburg 1576, Sayn 1590 (abridged); its prayer in Pfalz-Veldenz 1574 |
-| 5.10 | **The Palatinate** 1563 | "Ir geliebten in dem herrn Jesu Christo, höret an die wort der einsatzung …" | Ysenburg-Birstein 1598; the Lower Rhine recension: Moers 1581, Bentheim-Tecklenburg 1588/1619 |
+| 5.10 | **The Palatinate** 1563 (Reformed) | "Ir geliebten in dem herrn Jesu Christo, höret an die wort der einsatzung …" | Ysenburg-Birstein 1598; the Lower Rhine recension: Moers 1581, Bentheim-Tecklenburg 1588/1619 (all Reformed) |
 | 5.11 | **Pfalz-Veldenz** 1574 | "Ir geliebten in dem herrn Christo. Euch als Christen ist auß Gottes wortt …" | Lützelstein 1605 |
-| 5.12 | **Zürich and Basel** | "Lieben brüder! Ir habt gehört die unaussprechlich barmherzigkait Gottes …" | Memmingen 1528 (from Zürich 1525), Neckarbischofsheim 1560 (from Basel 1526) |
-| 5.13 | **Strasbourg** | "Lieben brüder und schwester, ir wöllen ein jedes bey im bedencken …" | the early Strasbourg agendas; its second half in Memmingen 1528 |
+| 5.12 | **Zürich and Basel** (Reformed) | "Lieben brüder! Ir habt gehört die unaussprechlich barmherzigkait Gottes …" | Memmingen 1528 (Moderate Reformed; from Zürich 1525), Neckarbischofsheim 1560 (from Basel 1526) |
+| 5.13 | **Strasbourg** (Moderate Reformed) | "Lieben brüder und schwester, ir wöllen ein jedes bey im bedencken …" | the early Strasbourg agendas; its second half in Memmingen 1528 (both Moderate Reformed) |
 
-The exhortations that belong to no family (Kantz 1522 and the Bremen Mass of 1525, Augsburg
-1530, Buxtehude 1565, Micron 1554/1565, Marienhafe 1593, and the Saturday exhortations of
-Hohenlohe 1578) are treated in §5.14.
+The exhortations that belong to no family (Kantz 1522 and the Bremen Mass of 1525, Augsburg 1530
+(Moderate Reformed), Buxtehude 1565, Micron 1554/1565 (Reformed), Marienhafe 1593, and the
+Saturday exhortations of Hohenlohe 1578) are treated in §5.14.
 
 **Not reproducible.** Mecklenburg 1540/45 has three Low German exhortations, "van düssen dren
 vormaninge eine tor tidt to lesende" (one of these three exhortations to be read at a time).
@@ -2127,7 +2163,7 @@ hath still remained that the common prayer is made in the pulpit, or the Our Fat
 | Grubenhagen, *Kirchenordnung*, 1581 | 6/2, p. 1075 | Verbatim, with "sein heiliges theuerbares" added in the admonition |
 | Henneberg, *Kirchenordnung*, 1582 | 2, p. 308 | Admonition only, rewritten (below) |
 | Frankfurt, *Agende* for baptism and the communion of the sick, 1543 | 9, pp. 521, 553 | Paraphrase as a prayer ("wir deine elende kinder auf erden bitten dich"); new admonition |
-| Frankfurt, French Reformed church, *Diakonieordnung*, 1585 | 9, p. 497 | Paraphrase only, from the draft of the order |
+| Frankfurt, French Reformed church, *Diakonieordnung*, 1585 (Reformed) | 9, p. 497 | Paraphrase only, from the draft of the order |
 
 **The significant variants.**
 - **No witness changes the paraphrase in substance** except by turning it into a direct prayer.
@@ -2470,7 +2506,7 @@ and drink of one cup.
 | Schwäbisch Hall, *Kirchenordnung*, 1543 | 17/1, pp. 136–137 | South-western subgroup (below) |
 | Hohenlohe, *Kirchenordnung*, 1553 | 15, pp. 69–70 | "das heylig hochwirdig sacrament des leibs und pluts unsers herren Jesu Christi wollen halten und empfangen" (will keep and receive the holy, most worthy sacrament of the body and blood of our Lord Jesus Christ) for "das heilig abentmal … bedenken und halten"; "disen worten … und diser gaben, so er … empfahet" (these words … and these gifts which he receiveth) for "disen zaichen" (these signs). The manuscript lacks the transition to the open confession. |
 | Strasbourg, *Kirchenordnung* of Marbach, 1553 | 20/1, p. 412 | South-western subgroup; begins "Lieben freundt, dieweyl wir jetz vermitelst gottlicher gnadenn das h. abentmall … haltenn wöllenn" (Dear friends, forasmuch as we will now, by means of divine grace, keep the holy Supper); read from the altar on Sundays between the psalms |
-| Nassau-Dillenburg, *Agende*, 1575 | 10, p. 151 | Incipit only, "Ir allerliebsten in Gott etc." |
+| Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10, p. 151 | Incipit only, "Ir allerliebsten in Gott etc." |
 | Hohenlohe, *Kirchenordnung*, 1578 | 15, pp. 286–287 | Verbatim ("haben" for "hetten") |
 | Erbach, *Kirchenordnung*, 1587 | 9, pp. 436–437 | South-western subgroup; "sein leib unnd blut zu einer geistlichen speise unnd tranck" (his body and blood for a spiritual meat and drink); "nachtmal" for "sacrament"; followed by the open confession |
 | Ysenburg-Birstein, *Kirchenordnung*, 1588 | 10, pp. 626–627 | Verbatim ("mit allem fleiß" for "mit großen fleiß") |
@@ -3052,12 +3088,12 @@ should in all places and at all times call upon our heavenly Father and holy God
 Christ, our Saviour.
 ### 5.10 The Palatinate family, 1563
 
-**The archetype.** The Reformed Palatinate order of Elector Frederick III has the longest
+**The archetype.** The Reformed Palatinate order of Elector Frederick III (1563) has the longest
 exhortation in the corpus. It is read "bey dem tisch" (at the table) after the sermon and the
-Sunday prayer. It follows Geneva 1563 almost word for word at the beginning, and draws on London
-1565 (à Lasco and Micron) for the threefold examination and the fencing of the table, and on
-Kurpfalz 1556 (the Württemberg text) for the grains and grapes. **Palatinate, *Kirchenordnung*,
-1563** (Sehling 14, pp. 383–386):
+Sunday prayer. It follows Geneva 1563 (Reformed) almost word for word at the beginning, and
+draws on London 1565 (à Lasco and Micron, Reformed) for the threefold examination and the
+fencing of the table, and on Kurpfalz 1556 (the Württemberg text) for the grains and grapes.
+**Palatinate, *Kirchenordnung*, 1563** (Reformed; Sehling 14, pp. 383–386):
 
 <!-- doc 504 -->
 > Ir geliebten in dem herrn Jesu Christo, höret an die wort der einsatzung deß heiligen
@@ -3276,16 +3312,16 @@ corda*.
 
 | Order | Sehling | Form and significant variants |
 |---|---|---|
-| Moers, *Kirchenordnung*, 1581 | 22, pp. 197–199 | Lower Rhine recension (below); the manuscript is supplemented by the editor from the Palatinate print where it has gaps |
-| Bentheim-Tecklenburg, *Kirchenordnung*, 1588/1619 | 22, pp. 271–274 | Lower Rhine recension; drops "und, die solchen segen glauben geben" from the list of the excluded |
-| Ysenburg-Birstein, *Kirchenordnung*, 1598 | 10, pp. 651–653 | Verbatim; the editor: the whole chapter, prayers included, "stammt wörtlich aus der kurpfälzischen kirchenordnung von 1563" (comes word for word from the Palatinate order of 1563) |
-| Palatinate, *Kirchenordnung*, 1585 (later edition) | 14, p. 384, apparatus | Allows the passage marked off in the margin to be left out "nach gelegenheit der kalten winterszeit oder sonst in nothfällen" (as the cold of winter or other need requireth) |
+| Moers, *Kirchenordnung*, 1581 (Reformed) | 22, pp. 197–199 | Lower Rhine recension (below); the manuscript is supplemented by the editor from the Palatinate print where it has gaps |
+| Bentheim-Tecklenburg, *Kirchenordnung*, 1588/1619 (Reformed) | 22, pp. 271–274 | Lower Rhine recension; drops "und, die solchen segen glauben geben" from the list of the excluded |
+| Ysenburg-Birstein, *Kirchenordnung*, 1598 (Reformed) | 10, pp. 651–653 | Verbatim; the editor: the whole chapter, prayers included, "stammt wörtlich aus der kurpfälzischen kirchenordnung von 1563" (comes word for word from the Palatinate order of 1563) |
+| Palatinate, *Kirchenordnung*, 1585 (later edition) (Reformed) | 14, p. 384, apparatus | Allows the passage marked off in the margin to be left out "nach gelegenheit der kalten winterszeit oder sonst in nothfällen" (as the cold of winter or other need requireth) |
 
-**The Lower Rhine recension.** Moers and Bentheim share a set of changes:
+**The Lower Rhine recension.** Moers and Bentheim (both Reformed) share a set of changes:
 - **A new transition after the Pauline text**, which recalls the opening of Micron's exhortation
-  ("Ihr habt, lieben brüder, auß dieser lehre des heiligen apostels Pauli gehöret, wer der
-  einsetzer des nachtmals sey …", Sehling 7/1, p. 631). **Moers, *Kirchenordnung*, 1581**
-  (Sehling 22, p. 197):
+  (Reformed)
+  ("Ihr habt, lieben brüder, auß dieser lehre des heiligen apostels Pauli gehöret, wer der einsetzer des nachtmals sey …", Sehling 7/1, p. 631).
+  **Moers, *Kirchenordnung*, 1581** (Reformed; Sehling 22, p. 197):
 
 <!-- doc 1502 -->
 > Auß dieser lehr deß heiligen apostels Pauli hört ihr, lieben christen, daß unnser herr unnd
@@ -3438,11 +3474,11 @@ the editor marks the section "aus KO Pfalz-Veldenz". It drops "warhafftig" (trul
 demütiglich mit mir" (say therefore humbly with me).
 ### 5.12 The Basel family: Memmingen 1528 and Neckarbischofsheim 1560
 
-**The archetype.** The Memmingen order of 1528 has an exhortation read *after* communion.
-Sehling's editor notes that it is not in the Zürich order, which Memmingen otherwise follows.
-Neckarbischofsheim 1560 has the same text, which its editor traces to Oecolampadius's Basel
-order, *Form und gstalt* (Basel 1526). **Memmingen, *Kirchenordnung*, 1528**
-(Sehling 12, p. 245):
+**The archetype.** The Memmingen order of 1528 (Moderate Reformed) has an exhortation read
+*after* communion. Sehling's editor notes that it is not in the Zürich order, which Memmingen
+otherwise follows. Neckarbischofsheim 1560 has the same text, which its editor traces to
+Oecolampadius's Basel order, *Form und gstalt* (Basel 1526, Reformed). **Memmingen,
+*Kirchenordnung*, 1528** (Moderate Reformed; Sehling 12, p. 245):
 
 <!-- doc 364 -->
 > Nach der nießung, so jederman geessen und trunken hat, folget nachgeende vermanung. Lieben
@@ -3470,8 +3506,8 @@ incorporated into him as the members that are redeemed by his blood and cleansed
 
 **What follows at Memmingen.** The deacons say Ps 113 in alternation ("Lobet, ir diener den
 Herren!"), and the leader then gives the second exhortation, which comes from Strasbourg
-(§5.13), ending with the Ten Commandments and the dismissal "Nun gond hin im frid Gottes" (Now
-go in the peace of God).
+(Moderate Reformed; §5.13), ending with the Ten Commandments and the dismissal "Nun gond hin im
+frid Gottes" (Now go in the peace of God).
 
 **The witness.** Neckarbischofsheim, *Kirchenordnung*, 1560 (Sehling 16, pp. 682–683). Its form:
 - **Placement.** The pastor reads it at the altar *before* communion, as "die Comunicanten
@@ -3506,13 +3542,14 @@ keep in remembrance of his bitter passion and death.
 
 ### 5.13 The Strasbourg family, 1525
 
-**The archetype.** The early Strasbourg agendas leave the exhortation to the pastor, "auff den
-inhalt des gepets und gemeinlich noch der getonen predig materien" (on the content of the prayer
-and generally according to the matter of the sermon preached), and print one as an example. It
-was given at St. Peter the Younger, Wolfgang Capito's church, on Reminiscere Sunday, 12 March
-1525, after a sermon on 1 Cor 1 (the word of the cross) and John 8 (Christ the light of the
-world). It is read after the Our Father and leads into the Words of Institution. **Strasbourg,
-*Die frühen Agenden*, 1525** (Sehling 20/1, pp. 158–159):
+**The archetype.** The early Strasbourg agendas (Moderate Reformed) leave the exhortation to the
+pastor, "auff den inhalt des gepets und gemeinlich noch der getonen predig materien" (on the
+content of the prayer and generally according to the matter of the sermon preached), and print
+one as an example. It was given at St. Peter the Younger, Wolfgang Capito's church, on
+Reminiscere Sunday, 12 March 1525, after a sermon on 1 Cor 1 (the word of the cross) and John 8
+(Christ the light of the world). It is read after the Our Father and leads into the Words of
+Institution. **Strasbourg, *Die frühen Agenden*, 1525**
+(Moderate Reformed; Sehling 20/1, pp. 158–159):
 
 <!-- doc 1279 -->
 > Lieben brüder und schwester, ir wöllen ein jedes bey im bedencken, mit was hertzlicher begird
@@ -3562,14 +3599,14 @@ invitation: "Ir, so mit mir wöllen des herren nachtmal entpfahen und so sich an
 kommen nun her" (Ye that will receive the Lord's Supper with me, and have announced yourselves,
 come now hither; Sehling 20/1, p. 159).
 
-**The witness.** Memmingen 1528 takes the second half, from "das ir euch lasset das wort des
-kreuz fahen", as the exhortation of the leader after Ps 113 and after communion
-(Sehling 12, pp. 245–246). It reads "nach art der bösen vergiften natur, bluets und flaischs"
-(after the manner of the evil, poisoned nature of blood and flesh), turns the warning into the
-past ("des Herren nachtmal unwirdig empfangen hetten", would have received the Lord's Supper
-unworthily), and ends with a prayer that God lead us "aus uns selbs und allen creaturen zuo
-seinem eingebornen Sun" (out of ourselves and all creatures to his only-begotten Son), followed
-by the Ten Commandments.
+**The witness.** Memmingen 1528 (Moderate Reformed) takes the second half, from "das ir euch
+lasset das wort des kreuz fahen", as the exhortation of the leader after Ps 113 and after
+communion (Sehling 12, pp. 245–246). It reads "nach art der bösen vergiften natur, bluets und
+flaischs" (after the manner of the evil, poisoned nature of blood and flesh), turns the warning
+into the past ("des Herren nachtmal unwirdig empfangen hetten", would have received the Lord's
+Supper unworthily), and ends with a prayer that God lead us "aus uns selbs und allen creaturen
+zuo seinem eingebornen Sun" (out of ourselves and all creatures to his only-begotten Son),
+followed by the Ten Commandments.
 ### 5.14 Exhortations outside the families
 
 The exhortations below belong to none of the families in §5.3–5.13. Four are printed in full;
@@ -3615,11 +3652,11 @@ presters" (the priest's confession). The absolution keeps Kantz's indicative for
 
 #### 5.14.2 Augsburg, St. Anna, 1530
 
-The order of the Supper "wie die gehalten worden ist, durch die diener des ewangelions zu sant
-Anna" (as it was kept by the ministers of the Gospel at St. Anna's) prints two exhortations. The
-first, the longer, is a sermon on 1 Cor 11:28 in three heads: why Christ died, the love of God
-in his death, and the example of love it leaves. **Augsburg, *Form und ordnung des Herren
-nachtmal*, 1530** (Sehling 12, pp. 40–41):
+The order of the Supper (Moderate Reformed) "wie die gehalten worden ist, durch die diener des
+ewangelions zu sant Anna" (as it was kept by the ministers of the Gospel at St. Anna's) prints
+two exhortations. The first, the longer, is a sermon on 1 Cor 11:28 in three heads: why Christ
+died, the love of God in his death, and the example of love it leaves. **Augsburg, *Form und
+ordnung des Herren nachtmal*, 1530** (Moderate Reformed; Sehling 12, pp. 40–41):
 
 <!-- doc 334 -->
 > Ir geliebten! Sant Paulus ermant uns 1. Corinth. am 11. [28], wir sollen uns vor probieren und
@@ -3808,7 +3845,7 @@ the body and blood of Jesus Christ in the Supper; for God is gracious to the hum
 andern cristlichen ermanungen aus gotlicher schrift" (used at the late Diet [of 1530] for
 brevity's sake, and afterwards commonly on Sunday, together with other Christian exhortations
 out of divine scripture). It contains an indicative general absolution. **Augsburg, *Form und
-ordnung des Herren nachtmal*, 1530** (Sehling 12, p. 42):
+ordnung des Herren nachtmal*, 1530** (Moderate Reformed; Sehling 12, p. 42):
 
 <!-- doc 334 -->
 > Ir geliebten! Ir wißt, das wir bevelch haben von Cristo, unserm Herrn und Got, das wir so
@@ -3989,11 +4026,11 @@ receive it worthily. Amen; Sehling 7/1, p. 125). Buxtehude is thus also a witnes
 
 #### 5.14.4 Micron, London 1554, German 1565
 
-Micron's order for the Dutch stranger church at London, in the German version of 1565 (with the
-Norden Dutch variants), has the minister read the institution from 1 Cor 11 from the pulpit and
-then exhort the congregation to examine itself "ihe sie an den tisch des Herren sitze" (before
-it sit at the table of the Lord). **Micron, *Ordinancien* (1554), German 1565**
-(Sehling 7/1, pp. 631–633):
+Micron's order for the Dutch stranger church at London (Reformed), in the German version of 1565
+(with the Norden Dutch variants), has the minister read the institution from 1 Cor 11 from the
+pulpit and then exhort the congregation to examine itself "ihe sie an den tisch des Herren
+sitze" (before it sit at the table of the Lord). **Micron, *Ordinancien* (1554), German 1565**
+(Reformed; Sehling 7/1, pp. 631–633):
 
 <!-- doc 2116 -->
 > Ihr habt, lieben brüder, auß dieser lehre des heiligen apostels Pauli gehöret, wer der
@@ -4114,19 +4151,18 @@ Christ, in our conscience unto eternal life. Amen.
 
 **Notes.**
 - **The place.** It is read after the Verba, from the pulpit; the minister then goes down to the
-  table and announces 1 Cor 5:7f. ("Nach diser vermanung gehet der diener von der kanzel und
-  stellet sich zu den andern dinern bey dem tisch", after this exhortation the minister goeth
-  from the pulpit and standeth with the other ministers by the table; Sehling 7/1, p. 633).
+  table and announces 1 Cor 5:7f.
+  ("Nach diser vermanung gehet der diener von der kanzel und stellet sich zu den andern dinern bey dem tisch", after this exhortation the minister goeth from the pulpit and standeth with the other ministers by the table; Sehling 7/1, p. 633).
 - **Sources.** Sehling's editor compares the second point, on the forgiveness won "am galgen des
   krützes" (on the gallows of the cross), with the third exhortation of Gellius Faber of Emden
-  (Sehling 7/1, p. 632).
+  (Reformed) (Sehling 7/1, p. 632).
 - **The *Sursum corda* turned to a doctrine.** "Wir müssen unsere sinne, herzen und verstand
   hinauf in himmel erheben, da Jesus Christus allein nach dem leib ist" (we must lift up our
   senses, hearts and understanding into heaven, where Jesus Christ alone is according to the
   body) is the Reformed reading of *Sursum corda*.
-- **Moers.** The Lower Rhine recension of the Palatinate exhortation (§5.10) opens with Micron's
-  words: "Auß dieser lehr deß heiligen apostels Pauli hört ihr …" (Out of this doctrine of the
-  holy apostle Paul ye hear …).
+- **Moers** (Reformed). The Lower Rhine recension of the Palatinate exhortation (§5.10) opens
+  with Micron's words: "Auß dieser lehr deß heiligen apostels Pauli hört ihr …" (Out of this
+  doctrine of the holy apostle Paul ye hear …).
 
 #### 5.14.5 Three short notes
 
@@ -4134,19 +4170,20 @@ Christ, in our conscience unto eternal life. Amen.
   von der liebe des nehesten" (the preacher maketh a short exhortation of the love of the
   neighbour), on 1 Cor 10:17 and the figure of many grains and grapes made into one bread and
   one wine. It turns into the thanksgiving: "so hebet nun eure herzen zu Godt (ihr geliebten)
-  und last uns frolick danksagen" (so lift up now your hearts to God, beloved, and let us
-  joyfully give thanks; Sehling 7/1, p. 713). The image of grains and grapes is the one that
-  closes the Palatinate exhortation of 1563 (§5.10). Sehling's editor also describes the Low
-  German Nürnberg hospital Mass, "De düdesche Misse" of a Hamburg hymnal of 1558, which has both
-  the Nürnberg and the Bugenhagen exhortations after the *Agnus Dei* (p. 714).
+  und last uns frolick danksagen"
+  (so lift up now your hearts to God, beloved, and let us joyfully give thanks; Sehling 7/1, p. 713).
+  The image of grains and grapes is the one that closes the Palatinate exhortation of 1563
+  (Reformed; §5.10). Sehling's editor also describes the Low German Nürnberg hospital Mass, "De
+  düdesche Misse" of a Hamburg hymnal of 1558, which has both the Nürnberg and the Bugenhagen
+  exhortations after the *Agnus Dei* (p. 714).
 - **Hohenlohe, *Kirchenordnung*, 1578.** Besides the Brandenburg-Nürnberg exhortation at the
   altar (§5.5), the order appends "Vermanungen vom heiligen abendmal, an dem sambstag zur vesper
-  den beichtkindern und communicanten vorzulesen" (exhortations of the holy Supper, to be read
-  at Saturday Vespers to the penitents and communicants; Sehling 15, p. 327). They are a cycle
-  of eight teaching homilies with a common opening, "Lieben freunde Christi. Dieweil wir
-  morgendes tags das hochwirdige und heilige abendmal … zu halten gedenken" (Dear friends of
-  Christ, forasmuch as we purpose to keep tomorrow the most worthy and holy Supper), which
-  begins with the words of Luther's address (§5.3). The editor traces them to the Saturday
+  den beichtkindern und communicanten vorzulesen"
+  (exhortations of the holy Supper, to be read at Saturday Vespers to the penitents and communicants; Sehling 15, p. 327).
+  They are a cycle of eight teaching homilies with a common opening, "Lieben freunde Christi.
+  Dieweil wir morgendes tags das hochwirdige und heilige abendmal … zu halten gedenken" (Dear
+  friends of Christ, forasmuch as we purpose to keep tomorrow the most worthy and holy Supper),
+  which begins with the words of Luther's address (§5.3). The editor traces them to the Saturday
   sermons of Johann Hofmann (pp. 243, 328).
 - **Mecklenburg 1540/45.** Its three Low German exhortations are not printed by Sehling (§5.2).
 
@@ -4346,17 +4383,17 @@ that desire the Christian prayer.
   the sermon he again exhorts to prayer, recites the Small Catechism, and prays for the prince,
   the preachers "und alle nothsaken" (and all needs) (Sehling 5, p. 468).
 - **Buxtehude 1552**: the chaplains "scholen … alle ore predige mit gesange, Godt umme syne
-  gnade to bidden, ahnfangen" (shall begin all their sermons with a hymn, to pray God for his
-  grace; Sehling 7/1, p. 72).
+  gnade to bidden, ahnfangen"
+  (shall begin all their sermons with a hymn, to pray God for his grace; Sehling 7/1, p. 72).
 - **Hanau-Lichtenberg 1573**, weekday sermons: "fur der Predig eynen Psalmen singen. Dem folg
   ein Vater unser und die Predig. Letzlich beschließ die Predig mit dem Gesang, Gebet und Segen"
-  (before the sermon sing a psalm; then follow an Our Father and the sermon; lastly close the
-  sermon with hymn, prayer and blessing; Sehling 20/2, p. 53). In the villages without a school
-  the pastor sings a German psalm, then "erzele er die offne Beicht, Absolution und Epistel"
-  (let him recite the open confession, absolution and epistle; ibid.).
-- **Palatinate 1563**: the prayer of confession before the sermon, ending in the Our Father,
-  said by the minister (§3.6); the confession, absolution and the long general prayer after it
-  (§4.4).
+  (before the sermon sing a psalm; then follow an Our Father and the sermon; lastly close the sermon with hymn, prayer and blessing; Sehling 20/2, p. 53).
+  In the villages without a school the pastor sings a German psalm, then "erzele er die offne
+  Beicht, Absolution und Epistel" (let him recite the open confession, absolution and epistle;
+  ibid.).
+- **Palatinate 1563** (Reformed): the prayer of confession before the sermon, ending in the Our
+  Father, said by the minister (§3.6); the confession, absolution and the long general prayer
+  after it (§4.4).
 
 The pulpit prayers, the greeting and the notices are treated more fully in
 [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) §10.
@@ -4396,11 +4433,10 @@ before or after receiving. What the communicant does is set out in three ways:
    - Pfalz-Veldenz 1574 has a "Gebett vor dem Abendmal", read by the minister to the people
      after the absolution. It asks "du wöllest uns allen, die wir von disem deinem heiligen
      abendtmal essen unnd trinckhen werden, die seelige gemeinschafft deines leibs und bluts
-     gnediglich schenckhen" (that thou wouldest graciously give unto all of us that shall eat
-     and drink of this thy holy Supper the blessed communion of thy body and blood; Sehling 18,
-     p. 499).
-   - Micron's Dutch order has a "Gebett vor dem nachtmal" (prayer before the Supper), said by
-     the minister from the pulpit while all kneel (Sehling 7/1, p. 630).
+     gnediglich schenckhen"
+     (that thou wouldest graciously give unto all of us that shall eat and drink of this thy holy Supper the blessed communion of thy body and blood; Sehling 18, p. 499).
+   - Micron's Dutch order (Reformed) has a "Gebett vor dem nachtmal" (prayer before the Supper),
+     said by the minister from the pulpit while all kneel (Sehling 7/1, p. 630).
    - Ysenburg 1588 prints more than one prayer after communion, all collects of the minister
      (Sehling 10, p. 627).
 3. **Hymns sung during the distribution.** *Jesus Christus unser Heiland*, *Gott sei gelobet*,
@@ -4437,7 +4473,7 @@ The orders that appear only as witnesses to an exhortation are listed in the wit
 | Order | Opening before the Introit | Confession: who and where | Absolution (type) | Exhortation (family; place) | § |
 |---|---|---|---|---|---|
 | Kantz, Nördlingen 1522 | Exhortation, absolution, *Adiutorium*, *Veni Sancte Spiritus* (D) | No confession text; before the Sacrament | "sag euch frei, ledig und los" (3) | Free, with a short address leading to the absolution; before the Preface | 3.5, 4.3, 5.14.1 |
-| Müntzer, Allstedt 1523 and 1524 | Ps 43 with priest and people; priest's confession; people's *Misereatur*; *Deus, tu conversus*; *Non nobis*; *Aufer a nobis* (G) | Priest, aloud "vor allem volk"; the people answer | — | — | 3.8 |
+| Müntzer, Allstedt 1523 and 1524 (Radical Reformation) | Ps 43 with priest and people; priest's confession; people's *Misereatur*; *Deus, tu conversus*; *Non nobis*; *Aufer a nobis* (G) | Priest, aloud "vor allem volk"; the people answer | — | — | 3.8 |
 | Volprecht, Nürnberg 1524 | *Offene beicht* "anstatt des Confiteor" (D) | Priest, to God and the brothers and sisters | "Gott hat sich unser erbarmet" (2) | Osiander (V); printed after the Mass, for days with communicants | 3.5, 5.4 |
 | Wertheim 1524 (Kolb) | Sermon | Priest kneeling, "Confiteor brevissimum" in German, after the sermon | — | None before communion ("sine omni adhortatione"); a short exhortation to thanksgiving after communion, and one "pro praeparatione" in the sermon | 3.6 |
 | Döber, Nürnberg 1525 | Address, *Adiutorium*, *Confitemini*, confession, *Misereatur*, declaration, *Veni Sancte Spiritus* (C) | Priest kneeling; people "sprecht mir nach" | Optative (1), then declaration (2) | Osiander; after the Our Father | 3.4, 5.4 |
@@ -4447,11 +4483,11 @@ The orders that appear only as witnesses to an exhortation are listed in the wit
 | Kiel, *Deutsche Messe* [after 1526] | Address and confession (C) | Priest; minister and sexton read the *Misereatur* | Read by the sexton (3) | After the Preface and bread-word ([`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md) §11.3) | 3.4 |
 | Lippe, *Deutsche Messe* [1525–1538] | *Adiutorium*, *Confitemini*, confession (C) | Priest reads it while the choir sings the Introit | Optative, headed "absolutio" (1) | — (Creed, offertory hymn, Preface) | 3.4 |
 | Bugenhagen, Brunswick 1528 | Introit or German psalm | Preacher and people, from the pulpit after the sermon, with the Creed | None; "Jesus Christus is unse salicheit" (5) | Bugenhagen; at the altar, in place of the Preface | 4.4, 5.7 |
-| Augsburg, St. Anna, 1530 | Not stated (the order covers the Supper only) | None in the first form | In the second exhortation: "sprech ich euch alle … ledig von euren sunden" (3) | Two of its own; before the Verba and after them | 5.14.2 |
+| Augsburg, St. Anna, 1530 (Moderate Reformed) | Not stated (the order covers the Supper only) | None in the first form | In the second exhortation: "sprech ich euch alle … ledig von euren sunden" (3) | Two of its own; before the Verba and after them | 5.14.2 |
 | Brandenburg-Nürnberg 1533 | Priest's *Confiteor* "oder, was ine sein andacht erinnert" (A) | Priest alone | — (the *Offene Schuld* added at Nürnberg after 1569) | Brandenburg-Nürnberg; after the sermon, before the Verba | 3.2, 5.5 |
 | Württemberg 1536 | *Veni Sancte* in German, psalms (Saturday admonition in the choir) | Pastor says it for all after the exhortation | Three forms, indicative (3) | Württemberg; at the altar after the sermon | 4.4, 5.6 |
 | Naumburg 1537 | *Kom heiliger geist* sung by the choir (D, F) | Priest leads; people say it | "vorgebe ich euch all eure sunde" (3) | Naumburg; to the communicants gathered in the choir, before the Sanctus | 3.5, 5.8 |
-| Strasbourg 1537 | "Confiteor oder offene schuld" (E) | Minister; each "in seinem hertzen" | Comfortable word, conditional (4) | Free: at the end of the sermon, in four points, or briefly after the prayer and Our Father, before the Verba | 3.6 |
+| Strasbourg 1537 (Moderate Reformed) | "Confiteor oder offene schuld" (E) | Minister; each "in seinem hertzen" | Comfortable word, conditional (4) | Free: at the end of the sermon, in four points, or briefly after the prayer and Our Father, before the Verba | 3.6 |
 | Mecklenburg 1540/45 | Address, *Adiutorium*, *Confitemini*, confession (C); German psalm in villages | Priest kneeling with the sexton "edder ein ander christen"; people silent | Optative by the minister (1), declaration by the priest (2) | Three Low German exhortations, one at a time; not printed by Sehling | 3.4, 5.2 |
 | Brandenburg 1540 | Priest's *Confiteor* with ministrants (A) | Priest and ministrants | — (common confession forbidden) | Brandenburg-Nürnberg; after the consecration | 3.2, 4.6, 5.5 |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | Litany; meanwhile the priest says the *Confiteor* with the gospeller (A); a collect, perhaps *Aufer a nobis* | Priest and gospeller, privately; an open confession after the exhortation | Indicative, in the exhortation of c. 1544 (3) | Brandenburg-Nürnberg (Regensburg c. 1544); read by the gospeller after the Creed | 3.8, 5.5 |
@@ -4470,10 +4506,10 @@ The orders that appear only as witnesses to an exhortation are listed in the wit
 | Hohenlohe 1553 | "Das reine Confiteor lateinisch" (A) | Pastor alone, kneeling; then a common confession from the pulpit after the exhortation (from Huberinus) | Comfortable word (John 6:51) and "verkundige euch solche vergebung" (3) | Brandenburg-Nürnberg; from the pulpit after the sermon | 3.2, 5.5 |
 | Regensburg 1553 | *Confiteor* (A) | Priest kneeling with the second ministrant; private confession on Saturday | Private absolution on Saturday | Brandenburg-Nürnberg (Regensburg c. 1544); read by the second minister after the Creed | 3.2, 5.5 |
 | Amberg 1555 | *Veni Sancte*; *Adiutorium*; the Mecklenburg form in the plural (C) | Priest kneeling with another minister; the church silent, confessing with him | Declaration (2) | "die exhortation, so bisher gebraucht", not printed; before the Preface | 3.4 |
-| Micron, London 1554, German 1565 | Bidding and prayer from the pulpit; after the sermon, the Ten Commandments and confession (E) | Minister, for the congregation | Conditional declaration (4) | Micron's own; from the pulpit after the Verba | 3.6, 5.14.4 |
+| Micron, London 1554, German 1565 (Reformed) | Bidding and prayer from the pulpit; after the sermon, the Ten Commandments and confession (E) | Minister, for the congregation | Conditional declaration (4) | Micron's own; from the pulpit after the Verba | 3.6, 5.14.4 |
 | Kurpfalz 1556 | Introit, Kyrie, *Et in terra* | Open confession after the sermon on Sundays, and at the preparation before communion | Two indicative forms: "verkündige euch … solche vergebung" and "sag euch frey, ledig und loß" (3) | Württemberg 1553 | 4.1, 5.6 |
 | Pfalz-Zweibrücken 1557 | Hymn of the Holy Ghost until the church gathers; Mecklenburg form (C, F) | As Mecklenburg 1552 | As Mecklenburg 1552 (1, 2) | Mecklenburg | 3.4, 5.9 |
-| Palatinate 1563 | Greeting; prayer of confession before the sermon (E) | Minister; people "sprecht mit mir"; after the sermon | Conditional, with retention (4); Supper examination (5) | Palatinate; at the table | 3.6, 4.4, 5.10 |
+| Palatinate 1563 (Reformed) | Greeting; prayer of confession before the sermon (E) | Minister; people "sprecht mit mir"; after the sermon | Conditional, with retention (4); Supper examination (5) | Palatinate; at the table | 3.6, 4.4, 5.10 |
 | Lüneburg 1564 | Introit | Private confession on Saturday after Vespers; a short form of confession read before the sermons, for teaching | Private | Osiander (Braunschweig recension), or Bugenhagen | 5.4, 5.7, 6.4 |
 | Buxtehude, *Agende*, 1565 | (see 1552) | (see 1552) | — | Its own, then Osiander (Braunschweig recension); after the Prefaces | 5.14.3 |
 | Nürnberg, Dietrich 1569 | Introit | Appended to the exhortation | "So ir solches tut, entbind ich euch" (3/4) | Brandenburg-Nürnberg | 4.4, 5.5 |
@@ -4494,11 +4530,11 @@ through the table in §7 and the text.
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
 | Albertine Saxony | *Die Cellischen Ordnungen* | 1545 | 1, p. 300 | 3.8 |
-| Allstedt, Thomas Müntzer | *Deutsch evangelisch Messe* | 1524 | 1, p. 499 | 3.8 |
+| Allstedt, Thomas Müntzer (Radical Reformation) | *Deutsch evangelisch Messe* | 1524 | 1, p. 499 | 3.8 |
 | Amberg | *Ordnung der kirchen* … *im spital* | 1544 | 13, p. 282 | 3.7, 6.1 |
 | Amberg | *Kirchenordnung* | 1550 | 13, pp. 285, 286–287 | 3.2, 4.4 |
 | Amberg | *Kirchenordnung* | 1555 | 13, p. 290 | 3.4 |
-| Augsburg | *Form und ordnung des Herren nachtmal* | 1530 | 12, pp. 40–41, 42 | 5.14 |
+| Augsburg (Moderate Reformed) | *Form und ordnung des Herren nachtmal* | 1530 | 12, pp. 40–41, 42 | 5.14 |
 | Bergedorf | *Kirchenordnung* | 1544 | 5, p. 387 | 3.2 |
 | Brandenburg | *Kirchenordnung* | 1540 | 3, pp. 60, 65, 67–68 | 3.2, 4.6, 6.1 |
 | Brandenburg-Ansbach | *Ordnung singens und lesens bei den Stiften* | 1533 | 11, p. 313 | 6.3 |
@@ -4514,9 +4550,9 @@ through the table in §7 and the text.
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 544–545, 547 | 5.4, 6.4 |
 | Mecklenburg | *Ordeninge der misse* | 1540/1545 | 5, pp. 150–151 | 3.4 |
 | Mecklenburg | *Kirchenordnung* | 1552 | 5, pp. 197–198, 202–204 | 3.4, 5.9 |
-| Memmingen | *Kirchenordnung* | 1528 | 12, p. 245 | 5.12 |
-| Micron | *Ordinancien* (1554), German | 1565 | 7/1, pp. 631–633 | 5.14 |
-| Moers | *Kirchenordnung* | 1581 | 22, p. 197 | 5.10 |
+| Memmingen (Moderate Reformed) | *Kirchenordnung* | 1528 | 12, p. 245 | 5.12 |
+| Micron (Reformed) | *Ordinancien* (1554), German | 1565 | 7/1, pp. 631–633 | 5.14 |
+| Moers (Reformed) | *Kirchenordnung* | 1581 | 22, p. 197 | 5.10 |
 | Nassau-Weilburg | *Agende* | 1618 | 10, p. 264 | 5.9 |
 | Naumburg | *Kirchen-Ordnung* for St. Wenzel's | 1537 | 2, pp. 77–78, 80 | 3.5, 5.8 |
 | Neckarbischofsheim | *Kirchenordnung* | 1560 | 16, p. 683 | 5.12 |
@@ -4526,7 +4562,7 @@ through the table in §7 and the text.
 | Nürnberg, Andreas Döber | *Von der evangelischen meß … im Newen Spital* | 1525 | 11, p. 51 | 3.4 |
 | Nürnberg, Veit Dietrich | *Agendbüchlein* | edition of 1569 | 11, p. 498 | 4.4 |
 | Osnabrück (city) | *Kirchenordnung* | 1613 | 7/1, p. 269 | 5.7 |
-| Palatinate | *Kirchenordnung* | 1563 | 14, pp. 383, 383–386, 388, 389 | 3.6, 4.4, 5.10 |
+| Palatinate (Reformed) | *Kirchenordnung* | 1563 | 14, pp. 383, 383–386, 388, 389 | 3.6, 4.4, 5.10 |
 | Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, p. 70 | 3.2 |
 | Pfalz-Veldenz | *Kirchenordnung* | 1574 | 18, pp. 498–499, 500–501 | 3.4, 5.11 |
 | Pfalz-Zweibrücken | *Kirchenordnung* | 1557 | 18, p. 187 | 3.4 |
@@ -4534,8 +4570,8 @@ through the table in §7 and the text.
 | Prussia | *Kirchenordnung* | 1544 | 4, p. 65 | 5.3 |
 | Regensburg | *Kirchenordnung* under Justus Jonas | 1553 | 13, pp. 419–420 | 3.2 |
 | Schleswig-Holstein | *Deutsche Messe* (Kiel) | [after 1526] | 23, p. 55 | 3.4 |
-| Strasbourg | *Die frühen Agenden* | 1525 | 20/1, pp. 158–159 | 5.13 |
-| Strasbourg | *Agende* | 1537/1541 | 20/1, p. 270 | 3.6 |
+| Strasbourg (Moderate Reformed) | *Die frühen Agenden* | 1525 | 20/1, pp. 158–159 | 5.13 |
+| Strasbourg (Moderate Reformed) | *Agende* | 1537/1541 | 20/1, p. 270 | 3.6 |
 | Transylvania | *Kirchenordnung* | 1547 | 24, p. 223 | 3.7 |
 | Verden | *Kirchenordnung* | 1606 | 7/1, pp. 155–156 | 3.7 |
 | Wertheim | *Kirchenordnung* | c. 1555 | 11, p. 713 | 5.3 |

@@ -29,6 +29,18 @@ elders. §7 covers sacristans, altar care, deaconesses, monks, nuns, tertiaries 
 confraternities. §8 gathers how each office was installed, and whether it was ordained. §9 is a
 table by order, and §10 a concordance of every order quoted.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the installation rites, with the full forms:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§10–12;
+- the duties of pastors and deacons, church workers and schoolmasters:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §§3, 8.4, 9;
+- the oaths and promises of ministers and church officers:
+  [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md), §4;
+- places at the altar in the ceremonial of the Mass: [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+  §15.8;
+- vestments and clerical dress: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §§7–8;
+- the offices kept in the convents: [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §§4.4, 6.3.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built
@@ -60,6 +72,23 @@ table by order, and §10 a concordance of every order quoted.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     Where a passage is Sehling's own introduction or apparatus, not the text of an order, this
     is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
+  - **Bohemian Brethren**: the Hussite Unity of the Brethren in Greater Poland.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it
+    (Marbach's order of 1553 is Lutheran), and Nassau-Dillenburg Lutheran in 1537 and 1570 and
+    Reformed from 1581.
 
 ---
 
@@ -83,25 +112,26 @@ table by order, and §10 a concordance of every order quoted.
 **1. The minor orders were not kept as orders anywhere in the German church orders.** No order
 in the corpus ordains a porter, lector, exorcist or acolyte, nor a subdeacon in the medieval
 sense. Their disappearance is mostly silent. Where it is argued, the grounds are three:
-- They have no warrant in Scripture. Homberg 1526 says "Scripture knows no other ministers than
-  bishops, that is presbyters, and deacons of the poor" (§3.2).
+- They have no warrant in Scripture. Homberg 1526 (Moderate Reformed) says "Scripture knows no
+  other ministers than bishops, that is presbyters, and deacons of the poor" (§3.2).
 - They were later human additions to the apostolic diaconate. The Strasbourg examination order
-  of about 1539 gives a short history of the grades (§3.1).
+  of about 1539 (Moderate Reformed) gives a short history of the grades (§3.1).
 - They belong with the tonsure, the "platten", and other merely human ordinances. Freiberg 1537
   and Brunswick 1528 say so (§3.3).
 
 **The one exception lies outside the Lutheran and Reformed territorial churches.** The *Ordo
-ecclesiasticus* of the Bohemian Brethren, printed among the Polish orders, keeps the **acolyte**
-as the first ordained grade, under the deacon (§3.4). The young men are received before the
-synod with a handshake, a promise and a blessing.
+ecclesiasticus* of the Bohemian Brethren (Hussite), printed among the Polish orders, keeps the
+**acolyte** as the first ordained grade, under the deacon (§3.4). The young men are received
+before the synod with a handshake, a promise and a blessing.
 
 **2. The functions of the minor orders survived without the orders.**
-- *Porter:* the porter's keys passed to the **sexton** (*Opfermann*, *Küster*). Hesse 1566 calls
-  him the *ianitor* of the Old Testament and the *aedituus* or *custos* of today (§3.5).
+- *Porter:* the porter's keys passed to the **sexton** (*Opfermann*, *Küster*). Hesse 1566
+  (Moderate Reformed) calls him the *ianitor* of the Old Testament and the *aedituus* or
+  *custos* of today (§3.5).
 - *Lector:* reading passed to the **schoolboys**, who read the epistle at Vespers (Rostock
   1560), and to the **deacon**, the assistant minister.
-- *Exorcist:* the office disappeared altogether. Strasbourg says exorcism was "rather a singular
-  gift than a common function".
+- *Exorcist:* the office disappeared altogether. Strasbourg (1539, Moderate Reformed) says
+  exorcism was "rather a singular gift than a common function".
 
 **3. The liturgical roles were rarely prescribed and soon dropped.**
 - **Ministrants:** in the 1520s–1540s some Mass-shaped orders still have ministrants
@@ -142,9 +172,9 @@ synod with a handshake, a promise and a blessing.
   - Elsewhere they are called *leviten* (Hadeln 1526), *subdiaconi oder bittherren* (Naumburg
     1537), or *diaconi ecclesiae et pauperum*. In Pomerania 1574 the *diaconi ecclesiae et
     pauperum* are bound by oath; in Pyritz 1539, by express decision, by no oath.
-  - In **Hesse 1566** and the **Reformed** churches (Micron 1554/65, Kurpfalz, Nassau, Bentheim)
-    the deacons of the poor are one of the four offices. They are elected, examined, and in
-    Hesse and Micron **ordained with laying on of hands** (§5.3).
+  - In **Hesse 1566** (Moderate Reformed) and the **Reformed** churches (Micron 1554/65,
+    Kurpfalz, Nassau, Bentheim) the deacons of the poor are one of the four offices. They are
+    elected, examined, and in Hesse and Micron **ordained with laying on of hands** (§5.3).
 
 **5. Divine or human right.** No church order sets the deacon as a separate order *by divine
 right* above the people and below the presbyter in the Roman sense. The positions are these:
@@ -156,37 +186,38 @@ right* above the people and below the presbyter in the Roman sense. The position
   - The Lutheran diaconate falls under this rule. It is one ministry, graded for order's sake
     (§5.4).
 - **The lay deacon of the poor as an apostolic institution.**
-  - Homberg 1526 says Scripture knows "deacons of the poor".
-  - Strasbourg says the diaconate was instituted "by the Holy Ghost through the Apostles", the
-    subdiaconate and the rest only "afterwards".
-  - Hesse 1566 cites Acts 6, and so do the Reformed orders. The editors of the Hildesheim volume
-    read Bugenhagen's ranking of poor relief among "divine ordinances" as making the deacon's
-    office one of divine right (Sehling 7/2.1, p. 811).
-  - The Bohemian Brethren keep the diaconate as a grade which "it is not fitting to cast out of
-    the church", though "the Antichrist drew it into abuse".
+  - Homberg 1526 (Moderate Reformed) says Scripture knows "deacons of the poor".
+  - Strasbourg (1539, Moderate Reformed) says the diaconate was instituted "by the Holy Ghost
+    through the Apostles", the subdiaconate and the rest only "afterwards".
+  - Hesse 1566 (Moderate Reformed) cites Acts 6, and so do the Reformed orders. The editors of
+    the Hildesheim volume read Bugenhagen's ranking of poor relief among "divine ordinances" as
+    making the deacon's office one of divine right (Sehling 7/2.1, p. 811).
+  - The Bohemian Brethren (Hussite) keep the diaconate as a grade which "it is not fitting to
+    cast out of the church", though "the Antichrist drew it into abuse".
 
 **6. Lay elders existed, chiefly in the Bucerian and Reformed orders, and were often ordained.**
-- **Strasbourg (about 1539)** teaches two "orders of presbyters": those who administer word and
-  sacraments, and those "employed only for the discipline of the church". Its churchwardens
-  (*Kirchenpfleger*) of 1553 are these *seniores* and *presbyteri* (§6.1).
-- **Hesse (1539, 1566)** has the elders elected by the ministers and congregation and confirmed
-  with prayer. In 1566 they are **"ordained" with laying on of hands** under Acts 14:23. Elders
-  also lay hands on new ministers at their ordination (§6.2).
+- **Strasbourg (about 1539)** (Moderate Reformed) teaches two "orders of presbyters": those who
+  administer word and sacraments, and those "employed only for the discipline of the church".
+  Its churchwardens (*Kirchenpfleger*) of 1553, in Marbach's Lutheran order, are these
+  *seniores* and *presbyteri* (§6.1).
+- **Hesse (1539, 1566)** (Moderate Reformed) has the elders elected by the ministers and
+  congregation and confirmed with prayer. In 1566 they are **"ordained" with laying on of
+  hands** under Acts 14:23. Elders also lay hands on new ministers at their ordination (§6.2).
 - **The Reformed orders** have elected elders who govern with the ministers, exercise discipline
   (Matthew 18) and oversee the ministers' doctrine and life. The installation forms differ:
-  - laying on of hands: Micron 1554/65 and Kurpfalz 1592;
+  - laying on of hands: Micron 1554/65 and Kurpfalz 1592 (both Reformed);
   - prayer and commendation only: Pfalz-Veldenz 1574;
-  - handfast vow and public prayer: Kurpfalz about 1601 and Hanau 1609;
-  - a sworn oath: Solms (§6.3).
-- **The Bohemian Brethren** elect lay "political presbyters" (*presbyteri politici*), and female
-  *presbyterae* for the women. These bind themselves by voice and handshake but receive no
-  laying on of hands (§6.4).
+  - handfast vow and public prayer: Kurpfalz about 1601 and Hanau 1609 (both Reformed);
+  - a sworn oath: Solms 1594 (Reformed; §6.3).
+- **The Bohemian Brethren** (Hussite) elect lay "political presbyters" (*presbyteri politici*),
+  and female *presbyterae* for the women. These bind themselves by voice and handshake but
+  receive no laying on of hands (§6.4).
 
 **7. In the Lutheran orders "elder" is usually not an office of governance.**
 - The *Kirchenväter*, *Kirchgeschworene*, *Kastenherren* and *Kirchenpfleger* are lay stewards
   of church goods and alms.
-- Memmingen (1532) gives its churchwardens "no temporal jurisdiction", "so that two temporal
-  authorities arise not again in our city" (§6.5).
+- Memmingen (1532, Moderate Reformed) gives its churchwardens "no temporal jurisdiction", "so
+  that two temporal authorities arise not again in our city" (§6.5).
 - *Seniores* in Ansbach, Pomerania and Silesia are senior **clergy** of a chapter or synod.
 
 **8. What the offices could not do.**
@@ -194,16 +225,16 @@ right* above the people and below the presbyter in the Roman sense. The position
 - In the Bohemian order even the ordained deacon might distribute the bread and the cup, but
   only a minister "having the power of the keys" might pronounce absolution and recite the words
   of institution (§5.3).
-- Reformed elders had spiritual discipline but no civil punishment. In Kurpfalz the advocates of
-  presbyteries pleaded their divine right against Erastus. By the editors' account the dispute
-  was settled in 1569 by opinions of Beza, Ursinus and Zanchi, and in 1570 an edict set up
-  church discipline (Sehling 14, p. 53; §6.3).
+- Reformed elders had spiritual discipline but no civil punishment. In the Reformed Kurpfalz the
+  advocates of presbyteries pleaded their divine right against Erastus. By the editors' account
+  the dispute was settled in 1569 by opinions of Beza, Ursinus and Zanchi, and in 1570 an edict
+  set up church discipline (Sehling 14, p. 53; §6.3).
 
 **9. Sacristans, altar care, deaconesses and the religious.**
 - **Sacristans.** No order has a sacristan distinct from the sexton. The *Küster*, *Custos*,
   *Mesner* or *Sigrist* kept the chalices, vestments and font, prepared the altar, vested the
-  pastor and went with him to the sick. Anhalt (1594) and Sayn (1590) spell out the duties;
-  Heilbronn (1543) forbids women to serve at the font (§7.1).
+  pastor and went with him to the sick. Anhalt (1594, Philippist) and Sayn (1590) spell out the
+  duties; Heilbronn (1543) forbids women to serve at the font (§7.1).
 - **Altar guild.** None exists in the corpus. The altar was kept by the sexton and the lay
   churchwardens or deacons. Pomerania (1574) charges the *diaconi* with "the altar with its
   ornament". The confraternities and Kalands that had kept altars and lights were dissolved into
@@ -255,22 +286,22 @@ The corpus is very uneven on these matters:
 - The **Lutheran** orders say almost nothing about the minor orders. They simply stopped
   ordaining them, and the Mass rubrics assume a pastor, a deacon (assistant minister), a sexton
   and a school choir.
-- The **Bucerian, Hessian and Reformed** orders (Strasbourg, Hesse, East Frisia, Kurpfalz,
-  Nassau and the Wetterau counties) say a great deal about elders and deacons. They argue for
-  them from Scripture and the early Church.
-- The **Bohemian Brethren's** *Ordo ecclesiasticus*, printed in Sehling's Polish volume (vol.
-  4), is the only order in the corpus with a graded clergy below the presbyter.
+- The **Bucerian, Hessian and Reformed** orders (Strasbourg and Hesse, Moderate Reformed; East
+  Frisia, Kurpfalz, Nassau and the Wetterau counties, Reformed) say a great deal about elders
+  and deacons. They argue for them from Scripture and the early Church.
+- The **Bohemian Brethren's** *Ordo ecclesiasticus* (Hussite), printed in Sehling's Polish
+  volume (vol. 4), is the only order in the corpus with a graded clergy below the presbyter.
 
 **Words that mislead.** The same word often names quite different offices:
 
 | Word | Usual meaning in the corpus | Also used for |
 |---|---|---|
-| *Diaconus*, *Diacon*, *Helfer*, *Kaplan* | In Lutheran towns, the second or third **ordained minister** of a parish (§5.1) | The **lay deacon of the poor** (Bugenhagen, Hesse, the Reformed churches; §5.2–5.3); the **ministrant at the altar** in a few early Mass orders (§4.2) |
+| *Diaconus*, *Diacon*, *Helfer*, *Kaplan* | In Lutheran towns, the second or third **ordained minister** of a parish (§5.1) | The **lay deacon of the poor** (Bugenhagen; Hesse, Moderate Reformed; the Reformed churches; §5.2–5.3); the **ministrant at the altar** in a few early Mass orders (§4.2) |
 | *Subdiaconus*, *Unterdiacon* | In Saxony, Württemberg and Halle, the **third minister** of a town church (§3.3) | Naumburg 1537: a **lay alms-collector** (*bittherr*, §5.2); Pfalz-Neuburg 1543: the **epistoler** at Mass (§4.2) |
 | *Levit*, *Leviten* | In Regensburg and Nürnberg, the **two assisting clergy** (gospeller and epistoler) at Mass (§4.3) | Hadeln 1526: the **lay deacons of the poor** (§5.2) |
-| *Eltesten*, *Seniores*, *Presbyteri* | In Hesse and the Reformed orders, **lay governing elders** (§6.2–6.3) | Also the **ministers of the word**, the "elders who labour in the word" (Hesse 1566, Micron, Kurpfalz 1592); in Ansbach, Pomerania and Silesia, the **senior clergy** of a chapter or synod (§6.5) |
-| *Kirchenpfleger*, *Kirchenväter*, *Kastenherren* | In most Lutheran orders, **lay stewards** of church goods (§6.5) | Strasbourg 1553: the **disciplinary elders**, "whom they named *seniores* and *presbyteri*" (§6.1) |
-| *Ordinieren* | The ordination of a **minister of the word** | Hesse 1566, Lippe 1538 and Pfalz-Veldenz 1574 also use it of **elders** and **deacons**. In Lippe it means simply to "appoint" deacons |
+| *Eltesten*, *Seniores*, *Presbyteri* | In Hesse (Moderate Reformed) and the Reformed orders, **lay governing elders** (§6.2–6.3) | Also the **ministers of the word**, the "elders who labour in the word" (Hesse 1566, Moderate Reformed; Micron and Kurpfalz 1592, Reformed); in Ansbach, Pomerania and Silesia, the **senior clergy** of a chapter or synod (§6.5) |
+| *Kirchenpfleger*, *Kirchenväter*, *Kastenherren* | In most Lutheran orders, **lay stewards** of church goods (§6.5) | Strasbourg 1553 (Lutheran): the **disciplinary elders**, "whom they named *seniores* and *presbyteri*" (§6.1) |
+| *Ordinieren* | The ordination of a **minister of the word** | Hesse 1566 (Moderate Reformed), Lippe 1538 and Pfalz-Veldenz 1574 also use it of **elders** and **deacons**. In Lippe it means simply to "appoint" deacons |
 
 Two consequences follow:
 - A list of the *Diaconi* of a Saxon or Württemberg town is a list of **clergy**. A list of the
@@ -297,9 +328,9 @@ the Bohemian Brethren, keeps the acolyte as a grade of its own.
 
 ### 3.1 Strasbourg: a short history of the grades
 
-The Strasbourg examination order for candidates for the ministry asks the candidate to account
-for the grades of the clergy. Its answers are the fullest statement in the corpus of how the
-reformers viewed them:
+The Strasbourg examination order for candidates for the ministry (1539, Moderate Reformed) asks
+the candidate to account for the grades of the clergy. Its answers are the fullest statement in
+the corpus of how the reformers viewed them:
 - There are two "orders of presbyters": those who preach and administer the sacraments, and the
   lay *seniores* "employed only for the discipline of the church" (on these see §6.1).
 - The diaconate alone was instituted "by the Holy Ghost through the Apostles".
@@ -308,7 +339,7 @@ reformers viewed them:
 - The exorcist's work was a charism, not an office.
 
 **Strasbourg, *Examensordnung*, Latin version, after 9 September 1539, questions 93–95**
-(Sehling 20/1, p. 310):
+(Moderate Reformed; Sehling 20/1, p. 310):
 
 <!-- doc 1308 -->
 > 93. Quot sunt ordines presbyterorum? Responsio: Duo. Unus eorum, qui Evangelium et Sacramenta
@@ -350,7 +381,7 @@ reformers viewed them:
 
 The same order gives the place once held by the deacons and subdeacons to the **schoolmasters**.
 They are to be "second from the order of priests". **Strasbourg, *Examensordnung*, Latin
-version, 1539** (Sehling 20/1, p. 304):
+version, 1539** (Moderate Reformed; Sehling 20/1, p. 304):
 
 <!-- doc 1308 -->
 > ut sit ordo eorum, qui in scholis ministrant, secundus ab ordine Sacerdotum. Inter ministros
@@ -364,11 +395,11 @@ of clerics, [together] with the care of alms.
 
 ### 3.2 Homberg 1526: "Scripture knoweth no other ministers"
 
-The Homberg church order, which Francis Lambert drafted for the Hessian synod of 1526 and which
-was never put into force, is the only order that rejects the higher grades in so many words. It
-forbids the dalmatic and tunicle of the deacon and subdeacon because the orders they signify
-were "brought in without the testimony of God's words". **Hesse, *Homberger Kirchenordnung*,
-1526, chapter [24]** (Sehling 8, p. 46):
+The Homberg church order (Moderate Reformed), which Francis Lambert drafted for the Hessian
+synod of 1526 and which was never put into force, is the only order that rejects the higher
+grades in so many words. It forbids the dalmatic and tunicle of the deacon and subdeacon because
+the orders they signify were "brought in without the testimony of God's words". **Hesse,
+*Homberger Kirchenordnung*, 1526, chapter [24]** (Moderate Reformed; Sehling 8, p. 46):
 
 <!-- doc 2247 -->
 > Dalmaticas, hoc est papisticorum diaconorum vestes aut subdiaconorum nemo de caetero induat.
@@ -476,15 +507,15 @@ sickness those whom they have communicated in bodily infirmities.
 
 ### 3.4 The one exception: the acolytes of the Bohemian Brethren
 
-The *Ordo ecclesiasticus in unitate fratrum Bohemorum* (1576), printed in Sehling's Polish
-section, keeps a five-step clergy:
+The *Ordo ecclesiasticus in unitate fratrum Bohemorum* (1576; Bohemian Brethren), printed in
+Sehling's Polish section, keeps a five-step clergy:
 - **acolytes**, then **deacons**, then **ministers** (presbyters);
 - above them, **con-seniors** and **seniors** (bishops).
 
 The acolytes are boys and young men taken into the pastor's household to be trained for the
 ministry. The order justifies the grade from Samuel under Eli, Elisha under Elijah, the sons of
 the prophets, Christ's disciples and Paul's companions, and calls it apostolic. **Bohemian
-Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576** (Sehling 4, pp. 275–276):
+Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576** (Bohemian Brethren; Sehling 4, pp. 275–276):
 
 <!-- doc 1846 -->
 > Acoluthi, sunt adolescentuli a pastoribus ecclesiarum in domesticam societatem, eo fine ut in
@@ -514,7 +545,7 @@ apprenticeship.
 The order calls their admission an *ordinatio*, "the first grade of calling". It takes place
 before the synod, after an examination, and it has **no laying on of hands**; the Brethren kept
 that for deacons and ministers (§5.3, §8). **Bohemian Brethren, *Ordo ecclesiasticus*, 1576,
-"Acoluthorum ordinatio"** (Sehling 4, p. 279):
+"Acoluthorum ordinatio"** (Bohemian Brethren; Sehling 4, p. 279):
 
 <!-- doc 1846 -->
 > Est autem ordinatio I. Acoluthorum. II. Diaconorum. III. Ministrorum. IV. Conseniorum. V.
@@ -535,9 +566,9 @@ with prayers, a blessing, and a sacred song.
 ### 3.5 Where the functions went
 
 **Porter.** The porter's keys passed to the **sexton** (*Opfermann*, *Küster*, *Kirchner*,
-*Mesner*). This was a lay church servant, engaged and paid by the parish. Hesse 1566 draws the
-line from the Old Testament gatekeepers to the *aeditui* and *custodes* of its own day. **Hesse,
-*Kirchenordnung*, 1566** (Sehling 8, p. 211):
+*Mesner*). This was a lay church servant, engaged and paid by the parish. Hesse 1566 (Moderate
+Reformed) draws the line from the Old Testament gatekeepers to the *aeditui* and *custodes* of
+its own day. **Hesse, *Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, p. 211):
 
 <!-- doc 2257 -->
 > Ahn die superintendenten, pfarherr, eltesten und diacon haben auch unser kirchen etlich andere
@@ -559,8 +590,8 @@ received by the pastors and elders, with the knowledge and will of a superintend
 
 Hamburg puts the sexton under the pastor "with locking, with ringing at the right time". He is
 hired and dismissed by the lay deacons who keep the church building (Sehling 5, p. 512).
-Nassau-Dillenburg 1582 has the *aeditui* elected by the presbytery with the elders and deacons
-(§5.3).
+Nassau-Dillenburg 1582 (Reformed) has the *aeditui* elected by the presbytery with the elders
+and deacons (§5.3).
 
 **Lector.** Public reading passed to three groups:
 - **Schoolboys.** At Rostock a boy reads the epistle at Vespers in Latin and another reads it in
@@ -589,13 +620,13 @@ Sunday or festival epistle; after that the epistle itself; and lastly the sum th
 - **The assisting minister (*levite*)** in Nürnberg, who reads a whole chapter "in place of the
   lesson" and expounds it (§4.3).
 
-**Exorcist.** No exorcist appears anywhere. Strasbourg's view that exorcism was a charism, not
-an office (§3.1), explains why. Where the exorcism in the baptismal rite was kept, the minister
-who baptised spoke it. The Reformed orders dropped even that. Bentheim-Tecklenburg orders the
-baptismal "exorcisms, which have no ground in the Word of God", to be abolished
-(Sehling 22, p. 269).
+**Exorcist.** No exorcist appears anywhere. Strasbourg's view (1539, Moderate Reformed) that
+exorcism was a charism, not an office (§3.1), explains why. Where the exorcism in the baptismal
+rite was kept, the minister who baptised spoke it. The Reformed orders dropped even that.
+Bentheim-Tecklenburg orders the baptismal "exorcisms, which have no ground in the Word of God",
+to be abolished (Sehling 22, p. 269).
 
-**Acolyte.** Outside the Bohemian Brethren (§3.4), the acolyte's tasks at the altar either
+**Acolyte.** Outside the Bohemian Brethren (Hussite; §3.4), the acolyte's tasks at the altar either
 lapsed or fell to the ministrants of the early Mass orders (§4.1–4.2). The training role that
 the Brethren gave their acolytes was filled elsewhere by the **school**. Strasbourg calls the
 school ministry "second after the order of priests" (§3.1).
@@ -727,6 +758,9 @@ to the people on the other side of the altar. But the deacon which is third hold
 cloth on the side of the priest which reacheth the body. And he which is fourth holdeth the
 cloth beside the deacon which reacheth the blood, in a surplice. But where no minister is at
 hand, then the preacher or the pastor doeth it.
+
+The places of the ministers at the altar are treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §15.8.
 
 ### 4.3 Levites: kept, then abolished
 
@@ -1004,6 +1038,9 @@ seniority and duties. It is not a sacramental grade. The *Diaconus* could do eve
 pastor did. He was subject to the pastor, as the pastor was to the superintendent, by "human"
 order (§5.4).
 
+The deacon's duties alongside the pastor are treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §3.5.
+
 ### 5.2 Lay deacons of the poor in the Lutheran orders
 
 Bugenhagen's orders for Brunswick (1528), Hamburg (1529) and Lübeck (1531) created the most
@@ -1128,7 +1165,7 @@ poor, and to set up a common chest […]
 The office spread to the Lutheran stranger churches. The **Dutch congregation of the Augsburg
 Confession at Frankfurt** founded its poor chest in 1585 and chose as its first *diaconi*
 Michael Bode and Lorenz, "the schoolmaster here". **Frankfurt, *Stiftungsbrief des Armenkastens
-der Niederländischen Gemeinde A. C.*, 1585** (Sehling 9, p. 604):
+der Niederländischen Gemeinde A. C.*, 1585** (Lutheran; Sehling 9, p. 604):
 
 <!-- doc 2332 -->
 > indem sie zu den ersten diaconis erwählet Michael Bode und Lorenz, allhiesigen schulmeister,
@@ -1145,13 +1182,13 @@ by its function, be of divine right (§5.4).
 
 ### 5.3 Hesse, the Reformed churches and the Bohemian Brethren: deacons as an ordained lay office
 
-In the Hessian order of 1566 and in the Reformed orders, the deacon of the poor becomes one of
-the **standing offices** of the congregation, alongside the ministers of the word and the
-elders. He is chosen by the Spirit's own rule (Acts 6:3; 1 Timothy 3:8–12), put on probation (1
-Timothy 3:10), and **ordained**.
+In the Hessian order of 1566 (Moderate Reformed) and in the Reformed orders, the deacon of the
+poor becomes one of the **standing offices** of the congregation, alongside the ministers of the
+word and the elders. He is chosen by the Spirit's own rule (Acts 6:3; 1 Timothy 3:8–12), put on
+probation (1 Timothy 3:10), and **ordained**.
 
-Hesse 1566 gives the scriptural qualifications. **Hesse, *Kirchenordnung*, 1566**
-(Sehling 8, p. 210):
+Hesse 1566 (Moderate Reformed) gives the scriptural qualifications. **Hesse, *Kirchenordnung*,
+1566** (Moderate Reformed; Sehling 8, p. 210):
 
 <!-- doc 2257 -->
 > hat uns der heilig Geist selbst gezeiget, was vor leut zu diesem ampt erwelet und gebraucht
@@ -1174,10 +1211,10 @@ exercise and employ themselves for a time with the others which are in this offi
 may prepare and make themselves apt for this office beforehand, to the end that hereby also
 their faith, diligence and uprightness may be proved and tried in them.
 
-Hesse holds that the apostles ordained deacons "with common prayer and laying on of hands". It
-therefore ordains both elders and deacons in their own church, while noting that the deacon's
-office "is not equal to the service of the elders". **Hesse, *Kirchenordnung*, 1566**
-(Sehling 8, pp. 207–208):
+Hesse (1566, Moderate Reformed) holds that the apostles ordained deacons "with common prayer and
+laying on of hands". It therefore ordains both elders and deacons in their own church, while
+noting that the deacon's office "is not equal to the service of the elders". **Hesse,
+*Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, pp. 207–208):
 
 <!-- doc 2257 -->
 > Es haben auch die aposteln mit dem gemeinen gebet und auflegung der hende die diacon ordiniret
@@ -1193,10 +1230,10 @@ elders, and the deacons also, shall always be ordained in the same church which 
 serve; and this shall be performed either by the superintendent, when he visiteth there, or else
 by some pastor together with one or two ministers of the word.
 
-**Micron's *Ordinancien*.** These are the order of the Dutch stranger church in London (1554),
-as printed for Norden in East Frisia in 1565. They set "four deacons or ministers of the poor,
-after the apostolic order" beside the elders. **Micron, *Ordinancien* (1554) 1565**
-(Sehling 7/1, p. 583):
+**Micron's *Ordinancien*** (Reformed). These are the order of the Dutch stranger church in
+London (1554), as printed for Norden in East Frisia in 1565. They set "four deacons or ministers
+of the poor, after the apostolic order" beside the elders. **Micron, *Ordinancien* (1554) 1565**
+(Reformed; Sehling 7/1, p. 583):
 
 <!-- doc 2116 -->
 > Bald darnach haben wir auch vier diaken oder diener der armen nach der apostolischen ordnung
@@ -1214,7 +1251,7 @@ to the congregation and questioned:
 
 The congregation prays, "as thou didst give thy Spirit to Stephen". Then hands are laid on them.
 **Micron, *Ordinancien* (1554) 1565, chapter VII, "Form der bestetigung der diaken oder
-almosenpfleger"** (Sehling 7/1, pp. 597–598):
+almosenpfleger"** (Reformed; Sehling 7/1, pp. 597–598):
 
 <!-- doc 2116 -->
 > Wollet ihr nicht die almussen zum nutz der armen fleisig samlen und die versamleten treulich
@@ -1233,19 +1270,19 @@ upon them, and the minister saith with a clear voice thus: God the Lord and our 
 which hath called you to the service of the diaconate, govern you graciously with his divine
 power, wisdom and goodness […]
 
-Sehling's editor notes that in **London** the elders and the deacons had been installed with
-prayer and laying on of hands since 1550. In **Emden** laying on of hands "is not attested", and
-the deacons there were apparently not installed after the same pattern as the elders
-(Sehling 7/1, pp. 554–555, editor's introduction).
+Sehling's editor notes that in **London** (Reformed) the elders and the deacons had been
+installed with prayer and laying on of hands since 1550. In **Emden** (Reformed) laying on of
+hands "is not attested", and the deacons there were apparently not installed after the same
+pattern as the elders (Sehling 7/1, pp. 554–555, editor's introduction).
 
 **Without laying on of hands.** Several Reformed orders install deacons with no laying on of
 hands:
 - **Kurpfalz (1563)**, followed by **Wittgenstein (1581)** and **Bentheim-Tecklenburg**
-  (1588/1619). They have "pious and godly men, whom they call *diaconi* or almoners", elected
-  per 1 Timothy 3:8. They collect the alms on Sundays and distribute them, and are confirmed
-  "with the knowledge and will of the pastors and appointed seniors". No laying on of hands is
-  mentioned. **Bentheim-Tecklenburg, *Bentheim-Tecklenburger Kirchenordnung*, 1588/1619**
-  (Sehling 22, p. 276):
+  (1588/1619), all Reformed. They have "pious and godly men, whom they call *diaconi* or
+  almoners", elected per 1 Timothy 3:8. They collect the alms on Sundays and distribute them,
+  and are confirmed "with the knowledge and will of the pastors and appointed seniors". No
+  laying on of hands is mentioned. **Bentheim-Tecklenburg, *Bentheim-Tecklenburger
+  Kirchenordnung*, 1588/1619** (Reformed; Sehling 22, p. 276):
 
 <!-- doc 1508 -->
 > fromme und gottselige Männer, die man Diaconos oder Almusenpfleger nennet, erwehlet und mit
@@ -1256,11 +1293,11 @@ hands:
 knowledge and will of the Pastors and the appointed Seniors, according to the doctrine and use
 of the holy Apostles […]
 
-- **Nassau-Dillenburg (1582).** Here the deacon is the fourth of four offices: ministers,
+- **Nassau-Dillenburg (1582)** (Reformed). Here the deacon is the fourth of four offices: ministers,
   doctors, seniors and deacons. The presbytery elects the seniors, the deacons of the poor and
   the sextons (*aeditui*), and the classis confirms them. The minister alone receives
   "confirmation or ordination". **Nassau-Dillenburg, *Kirchenordnung*, 23 January 1582**
-  (Sehling 10, p. 160):
+  (Reformed; Sehling 10, p. 160):
 
 <!-- doc 184 -->
 > Officia sunt quadruplicia, alia ministrorum, alia doctorum, alia seniorum, alia diaconorum.
@@ -1276,11 +1313,11 @@ ordination. […] 5. As touching the choosing of seniors, deacons of the poor an
 power of choosing be with the presbytery; who afterward shall be confirmed by the vote of the
 classical assembly and be diligently admonished of [their] office.
 
-**The Bohemian Brethren.** Their deacon is something else: an ordained **clerical** grade
-between acolyte and minister. The deacons are "older acolytes", preparing for the ministry. The
-order defends the grade as kept "constantly in the primitive church", which must not be cast out
-though Antichrist abused it. **Bohemian Brethren, *Ordo ecclesiasticus*, 1576**
-(Sehling 4, p. 276):
+**The Bohemian Brethren** (Hussite). Their deacon is something else: an ordained **clerical**
+grade between acolyte and minister. The deacons are "older acolytes", preparing for the
+ministry. The order defends the grade as kept "constantly in the primitive church", which must
+not be cast out though Antichrist abused it. **Bohemian Brethren, *Ordo ecclesiasticus*, 1576**
+(Hussite; Sehling 4, p. 276):
 
 <!-- doc 1846 -->
 > Diaconi sunt adultiores acoluthi, futuro ministerio iam iam sese praeparantes. Hos fratrum
@@ -1310,7 +1347,7 @@ What the Brethren's deacons did (same page):
 
 At a crowded communion they help distribute both the bread and the cup, but with one limit: only
 a minister "having the power of the keys" pronounces the absolution and recites the words of
-institution. **Bohemian Brethren, *Ordo ecclesiasticus*, 1576** (Sehling 4, p. 276):
+institution. **Bohemian Brethren, *Ordo ecclesiasticus*, 1576** (Hussite; Sehling 4, p. 276):
 
 <!-- doc 1846 -->
 > Quoties frequentiori coetu sacra coena administratur, nec sufficientes adsunt ministri,
@@ -1325,7 +1362,7 @@ to the people and solemnly set forth before the words of institution.
 
 They are ordained before the synod, with an examination by the seniors, a vow, prayer and the
 **laying on of hands**, "Acts 6:6". **Bohemian Brethren, *Ordo ecclesiasticus*, 1576,
-"Diaconorum ordinatio"** (Sehling 4, p. 279):
+"Diaconorum ordinatio"** (Hussite; Sehling 4, p. 279):
 
 <!-- doc 1846 -->
 > 3. Illi Christo et ecclesiae voto se obstringunt. 4. Preces pro ipsis fiunt, ordinatorque
@@ -1347,7 +1384,7 @@ They are ordained before the synod, with an examination by the seniors, a vow, p
 
 **One ministry; grades by human right.** The orders consistently say that bishop, presbyter and
 pastor are one office:
-- Homberg 1526: "bishops, or presbyters" (§3.2).
+- Homberg 1526 (Moderate Reformed): "bishops, or presbyters" (§3.2).
 - Bugenhagen 1528: "bishops or preachers (which is all one thing)" (§5.2).
 - Pfalz-Zweibrücken 1539. It describes the ancient Church as installing a minister "by one or
   two of the nearest bishops, whom men also call pastors". It says that it now has "certain of
@@ -1395,15 +1432,17 @@ and ordinance".
 
 **The deacon of the poor as apostolic.** The lay deacon of the poor is, by contrast, defended as
 apostolic in origin:
-- **Homberg** (§3.2) knows only "bishops, or presbyters, and deacons of the poor".
-- **Strasbourg** (§3.1) says the deacon alone of the lower grades was instituted "by the Holy
-  Ghost through the Apostles". Its list of the three ministries that every church needs "even
-  today" includes "the care of the poor".
-- **Hesse 1566** and **Micron** cite Acts 6 and 1 Timothy 3. They say the Holy Ghost "himself
-  hath shewed" what men should be chosen, and they ordain deacons as the apostles did.
-- **The Bohemian Brethren** hold that the diaconate "was constantly kept in the primitive
-  church" and must not be cast out. In practice, though, they treat it as a probationary step
-  towards the presbyterate.
+- **Homberg** (1526, Moderate Reformed; §3.2) knows only "bishops, or presbyters, and deacons of
+  the poor".
+- **Strasbourg** (1539, Moderate Reformed; §3.1) says the deacon alone of the lower grades was
+  instituted "by the Holy Ghost through the Apostles". Its list of the three ministries that
+  every church needs "even today" includes "the care of the poor".
+- **Hesse 1566** (Moderate Reformed) and **Micron** (Reformed) cite Acts 6 and 1 Timothy 3. They
+  say the Holy Ghost "himself hath shewed" what men should be chosen, and they ordain deacons as
+  the apostles did.
+- **The Bohemian Brethren** (Hussite) hold that the diaconate "was constantly kept in the
+  primitive church" and must not be cast out. In practice, though, they treat it as a
+  probationary step towards the presbyterate.
 
 Of Bugenhagen, the editors of the Hildesheim volume write
 (Sehling 7/2.1, p. 811, editor's introduction):
@@ -1438,26 +1477,27 @@ doctrine". From that verse it distinguishes two kinds of elder (*presbyter*, *se
 - those who **labour in the word**: the ministers;
 - those who **only govern**: the lay elders.
 
-**Lineage.** The lay elder came into the German orders through Bucer, at Strasbourg and in
-Hesse. It was then generalised in the Reformed orders of East Frisia, Kurpfalz, Nassau and the
-Wetterau counties.
+**Lineage.** The lay elder came into the German orders through Bucer, at Strasbourg and in Hesse
+(both Moderate Reformed). It was then generalised in the Reformed orders of East Frisia,
+Kurpfalz, Nassau and the Wetterau counties.
 
 **In the Lutheran orders** "elder" is either a churchwarden without spiritual jurisdiction or a
 senior pastor (§6.5).
 
 ### 6.1 Strasbourg: the disciplinary *seniores*
 
-The Strasbourg examination order of about 1539 already speaks of a second "order of presbyters",
-those "employed only for the discipline of the church" (§3.1). Its authority is twofold:
+The Strasbourg examination order of about 1539 (Moderate Reformed) already speaks of a second
+"order of presbyters", those "employed only for the discipline of the church" (§3.1). Its
+authority is twofold:
 - the elders of the synagogue;
 - Ambrose on 1 Timothy 5. Ambrose complains that such elders had lapsed through "the sloth or
   rather the pride of the teachers, who alone wish to seem something".
 
-Marbach's church order of 1553 identifies the city's *Kirchenpfleger* with those *seniores*.
-They are elected to oversee the "whole householding of the church", which the preachers cannot
-manage alone. It reads the "church" of Matthew 18 as these elected men, not the whole assembly.
-**Strasbourg, *Kirchenordnung* of Johannes Marbach, 1553, "Von den kirchenpflegern und irem
-ampt"** (Sehling 20/1, p. 441):
+Marbach's Lutheran church order of 1553 identifies the city's *Kirchenpfleger* with those
+*seniores*. They are elected to oversee the "whole householding of the church", which the
+preachers cannot manage alone. It reads the "church" of Matthew 18 as these elected men, not the
+whole assembly. **Strasbourg, *Kirchenordnung* of Johannes Marbach, 1553, "Von den
+kirchenpflegern und irem ampt"** (Sehling 20/1, p. 441):
 
 <!-- doc 1321 -->
 > Auß der Apostel geschicht ist zu sehen, das in der ersten christlichen kirchen neben den
@@ -1485,12 +1525,12 @@ behalf of the church all manner of church matters that fall out […]
 
 ### 6.2 Hesse: elders elected, "sanctified" and finally ordained
 
-**The Ziegenhain discipline order (1539)**, written under Bucer's influence, introduces elders
-into every Hessian congregation. They are chosen by the church "according to the canon of Paul",
-as the ministers are. It would be good, the order says, to confirm them publicly "with prayer
-and exhortation" and so to "sanctify their office". The civil authority is to uphold their
-office as the most necessary "after the office of teaching". **Hesse, *Ziegenhainer
-Zuchtordnung*, 1539** (Sehling 8, p. 103):
+**The Ziegenhain discipline order (1539)** (Moderate Reformed), written under Bucer's influence,
+introduces elders into every Hessian congregation. They are chosen by the church "according to
+the canon of Paul", as the ministers are. It would be good, the order says, to confirm them
+publicly "with prayer and exhortation" and so to "sanctify their office". The civil authority is
+to uphold their office as the most necessary "after the office of teaching". **Hesse,
+*Ziegenhainer Zuchtordnung*, 1539** (Moderate Reformed; Sehling 8, p. 103):
 
 <!-- doc 2252 -->
 > Diese eltesten solle jede kirche, wie auch die diener des wortes mit getreuem ufsehen auf den
@@ -1509,8 +1549,8 @@ Whose office and service the magistracy also shall faithfully exalt and uphold, 
 necessary and wholesome service and office that may be in the church after the office of
 teaching.
 
-**The Hessian church order of 1566** makes the elders a permanent college in every parish. The
-superintendent's instructions open with this (Sehling 8, p. 195):
+**The Hessian church order of 1566** (Moderate Reformed) makes the elders a permanent college in
+every parish. The superintendent's instructions open with this (Sehling 8, p. 195):
 
 <!-- doc 2257 -->
 > Das erste ist, daß in allen kirchen euers zirks seniores, das ist eltesten, erwelet und
@@ -1532,7 +1572,7 @@ congregation, prayed and fasted, and commended them to the Lord on whom they bel
 The ministers, together with men of the council and the congregation, elect the elders by vote
 (Acts 14:23). The elders must be of the same zeal and life as preachers, "only that they need
 not be so excellently learned". **Hesse, *Kirchenordnung*, 1566, "Wie man die eltesten zur
-verwaltung der kirchen erwelen und ordiniren sol"** (Sehling 8, p. 207):
+verwaltung der kirchen erwelen und ordiniren sol"** (Moderate Reformed; Sehling 8, p. 207):
 
 <!-- doc 2257 -->
 > Darumb sollen in einer jeden kirchen die diener derselbigen gemein sampt etlichen, beid vom
@@ -1553,7 +1593,7 @@ excellently learned.
 Holy Ghost to rule the church. They are to assist the ministers as councillors assist a
 burgomaster. Above all they are to guard against falsification of doctrine, whether by the
 public preachers or by "false teachers and wolves". **Hesse, *Kirchenordnung*, 1566**
-(Sehling 8, p. 208):
+(Moderate Reformed; Sehling 8, p. 208):
 
 <!-- doc 2257 -->
 > Ihr habt gehort, mein geliebten im Herrn, daß neben den bischoffen auch eltesten vom h. Geist
@@ -1602,17 +1642,17 @@ the ministers (Sehling 8, p. 205):
 After the prayer the superintendent, together with the other ministers of the word and elders,
 shall lay hands upon the ordinands […]
 
-The editor of the Hessian volume notes that Johannes a Lasco also knew an ordination of the
-governing elders and of the deacons (Sehling 8, p. 208, note 97).
+The editor of the Hessian volume notes that Johannes a Lasco (Reformed) also knew an ordination
+of the governing elders and of the deacons (Sehling 8, p. 208, note 97).
 
 ### 6.3 The Reformed orders: four offices, elders who govern with the ministers
 
-**Micron's *Ordinancien*** (London 1554, printed for Norden 1565) gives the classic Reformed
-account. There are two "kinds" (*geschlechte*) of elders. Some labour in word and doctrine, and
-are called bishops, shepherds and teachers. Others "minister not the public service of the word
-and sacraments", but are helpers of the ministers. Paul calls these "governments" (1 Corinthians
-12:28). One of the elders presides, and the king's charter calls him the superintendent.
-**Micron, *Ordinancien* (1554) 1565** (Sehling 7/1, pp. 587–588):
+**Micron's *Ordinancien*** (London 1554, printed for Norden 1565; Reformed) gives the classic
+Reformed account. There are two "kinds" (*geschlechte*) of elders. Some labour in word and
+doctrine, and are called bishops, shepherds and teachers. Others "minister not the public
+service of the word and sacraments", but are helpers of the ministers. Paul calls these
+"governments" (1 Corinthians 12:28). One of the elders presides, and the king's charter calls
+him the superintendent. **Micron, *Ordinancien* (1554) 1565** (Reformed; Sehling 7/1, pp. 587–588):
 
 <!-- doc 2116 -->
 > und die andere eltesten, wiewol sie den offentlichen dienst des worts und der sacramenten nit
@@ -1636,12 +1676,12 @@ privilege superintendent, that is, overseer. But the deacons take care for the p
 congregation.
 
 The elders are confirmed after questions and prayer by **laying on of hands**, "by the other
-ministers and by the minister of the word" (Sehling 7/1, p. 596). The words are nearly those
+ministers and by the minister of the word" (Reformed; Sehling 7/1, p. 596). The words are nearly those
 later used in Kurpfalz, given below.
 
-**Kurpfalz.** The elders of the Electoral Palatinate were set up by the edict of 1570, after the
-dispute with Erastus. Sehling's editors describe that dispute in their introduction
-(Sehling 14, p. 53, editors' introduction):
+**Kurpfalz** (Reformed). The elders of the Electoral Palatinate were set up by the edict of
+1570, after the dispute with Erastus. Sehling's editors describe that dispute in their
+introduction (Sehling 14, p. 53, editors' introduction):
 
 <!-- doc 468 -->
 > Umstritten war nicht die Zuchtübung als solche, sondern die Frage, von wem, in welchen Fällen
@@ -1672,7 +1712,7 @@ elders are questioned:
 - whether they will assist the ministers and accept correction themselves.
 
 The congregation prays, and then hands are laid on them. **Kurpfalz, *Einführung der Senioren*,
-9 December 1592** (Sehling 19/2, pp. 789–790):
+9 December 1592** (Reformed; Sehling 19/2, pp. 789–790):
 
 <!-- doc 1155 -->
 > Form, wie man die eltesten, so in dem wort nit arbeyten, in der gemein bestediget etc. […]
@@ -1704,16 +1744,16 @@ congregation together with the ministers of the word […]
 The editors of the volume stress the point: "it is especially noteworthy that they are
 **ordained by laying on of hands** by the minister of the church and the individual elders
 continuing in office" (Sehling 19/2, p. 695, editors' introduction). The same form was adopted
-in Ysenburg-Ronneburg in 1592 (Sehling 10, p. 601).
+in Ysenburg-Ronneburg in 1592 (Reformed) (Sehling 10, p. 601).
 
-**Kurpfalz about 1601.** The Palatine *Presbyterordnung* of about 1601 defines the presbytery as
-"certain persons chosen yearly" beside the ministers, "as elders and overseers", to deal with
-offences in doctrine and life. Their sanctions:
+**Kurpfalz about 1601** (Reformed). The Palatine *Presbyterordnung* of about 1601 defines the
+presbytery as "certain persons chosen yearly" beside the ministers, "as elders and overseers",
+to deal with offences in doctrine and life. Their sanctions:
 - admonition, once, twice and three times;
 - for the obstinate, being "quietly" warned off the sacraments.
 
 The order grounds the office on Christ's own institution in Matthew 18. **Kurpfalz,
-*Presbyterordnung*, about 1601** (Sehling 14, p. 595):
+*Presbyterordnung*, about 1601** (Reformed; Sehling 14, p. 595):
 
 <!-- doc 518 -->
 > daß durchs presbyterium oder eltistenrhat dieses und anders nicht verstanden werde, dan das
@@ -1742,7 +1782,7 @@ ordained and commanded it, the following sayings of holy scripture clearly shew.
 These elders take a handfast vow (*angeloben*) to the published order. They are "confirmed" and
 announced from the pulpit on New Year's Day, then "confirmed through the common christian
 prayer". There is no laying on of hands. **Kurpfalz, *Presbyterordnung*, about 1601**
-(Sehling 14, p. 598):
+(Reformed; Sehling 14, p. 598):
 
 <!-- doc 518 -->
 > angeloben laßen und sie also confirmirn und mit pflichten annehmen sollt. Nochmals sollen sie
@@ -1756,10 +1796,10 @@ day, and confirmed through the christian common prayer, with diligent admonition
 acknowledge them for orderly elders and governors of the congregation, hold them in due honour,
 and render them obedience.
 
-**Hanau-Münzenberg (1609)** copies this procedure. It adds that the minister must teach the
-congregation "that the office of elders is of God". This is said partly to comfort the elders,
-partly so that the people will not "exempt themselves" from their rebukes. **Hanau-Münzenberg,
-*Presbyteriumsordnung*, 1609** (Sehling 10, p. 508):
+**Hanau-Münzenberg (1609)** (Reformed) copies this procedure. It adds that the minister must
+teach the congregation "that the office of elders is of God". This is said partly to comfort the
+elders, partly so that the people will not "exempt themselves" from their rebukes.
+**Hanau-Münzenberg, *Presbyteriumsordnung*, 1609** (Reformed; Sehling 10, p. 508):
 
 <!-- doc 211 -->
 > in handgelübdnus genommen werden. Darauf fürters folgenden sontag nach einer kurzen predigt
@@ -1803,10 +1843,11 @@ pulpit by the Pastor be commended to the whole Congregation and set into this hi
 even as we see that the apostles ordained the Elders and commended them to the congregation,
 Acts 14; likewise also the Deacons, Acts 6.
 
-**Solms-Laubach (1603; variant of 1594)** binds its elders by an **oath**, "so help us God and
-his only Son", to watch over all offence and idolatry. They are to admonish offenders and, if
-admonition fails, report them to the proper authority. **Solms-Laubach, *Kirchenzuchtordnung*,
-1603, "Eyd der eltesten"** (Sehling 9, p. 338):
+**Solms (1594)** (Reformed), in the discipline order of Count Johann Albrecht of
+Solms-Braunfels, binds its elders by an **oath**, "so help us God and his only Son", to watch
+over all offence and idolatry. They are to admonish offenders and, if admonition fails, report
+them to the proper authority. **Solms, *Kirchenzuchtordnung*, 1594, "Eyd der eltesten"**
+(Reformed; Sehling 9, p. 338):
 
 <!-- doc 2311 -->
 > Wir schweren und geloben, daß nach ausweisung unsers hohen ampts wir fleißig uffsicht haben
@@ -1830,18 +1871,18 @@ Similar sworn **censors** are found in the **Wild- and Rhinegraviate** (1603). T
 by the pastor and the old censors and confirmed "under oath" by the superintendent and officials
 (Sehling 19/2, p. 600).
 
-**Nassau-Dillenburg (1582)** counts the seniors as the third of the four offices. They are
-elected by the presbytery and confirmed by the classis (§5.3).
+**Nassau-Dillenburg (1582)** (Reformed) counts the seniors as the third of the four offices.
+They are elected by the presbytery and confirmed by the classis (§5.3).
 
 ### 6.4 The Bohemian Brethren: lay presbyters and *presbyterae*
 
-The Bohemian Brethren have lay *presbyteri politici*. These are "political presbyters" or
+The Bohemian Brethren (Hussite) have lay *presbyteri politici*. These are "political presbyters" or
 "censors of manners", who oversee the life of the congregation and sit in a place of honour in
 church. The men of the congregation elect them by free vote after a visitor's admonition. They
 bind themselves "by voice and by hand given" to the bishops, the pastor and the church. The same
 is done for the **women elders** (*presbyterae*), with only women present. There is **no laying
 on of hands**. **Bohemian Brethren, *Ordo ecclesiasticus*, 1576, "Presbyterorum politicorum
-ordinatio"** (Sehling 4, p. 289):
+ordinatio"** (Bohemian Brethren; Sehling 4, p. 289):
 
 <!-- doc 1846 -->
 > Presbyterorum ordinatio, quum opus est, hoc ritu peragitur. Iubentur ante concionem
@@ -1874,10 +1915,10 @@ alone. This sets them clearly apart from the deacons and ministers, on whom hand
 **Churchwardens.** In the Lutheran orders the lay officers of the parish are the churchwardens,
 called *Kirchenväter*, *Kirchgeschworene*, *Kastenherren* or *Kirchenpfleger*. They administer
 church goods, buildings and alms, often with the council. They are not given spiritual
-jurisdiction. Memmingen's discipline order (1532) does give its *Kirchenpfleger* a wide advisory
-role over worship, schools, alms and the ban. But it expressly denies them any temporal
-jurisdiction, "so that two temporal authorities arise not again in our city". **Memmingen,
-*Zuchtordnung*, 1532** (Sehling 12, p. 248):
+jurisdiction. Memmingen's discipline order (1532, Moderate Reformed) does give its
+*Kirchenpfleger* a wide advisory role over worship, schools, alms and the ban. But it expressly
+denies them any temporal jurisdiction, "so that two temporal authorities arise not again in our
+city". **Memmingen, *Zuchtordnung*, 1532** (Moderate Reformed; Sehling 12, p. 248):
 
 <!-- doc 365 -->
 > Dann wir solchen kirchenpflegern thain zeitlich jurisdiction in unser stat geben noch furter
@@ -1920,7 +1961,11 @@ Sacraments, and diligently provide and perform all cure of souls and shepherd's 
 
 **No ruling elders in the Lutheran orders.** In short, a Lutheran order that speaks of "elders"
 is speaking of the pastors, of the senior pastors, or of the churchwardens. The **ruling elder**
-with a share in the power of the keys belongs to the Bucerian, Hessian and Reformed orders.
+with a share in the power of the keys belongs to the Bucerian and Hessian (Moderate Reformed)
+and the Reformed orders.
+
+The oaths of churchwardens and stewards are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §12.4.
 
 ---
 
@@ -1948,11 +1993,12 @@ doorkeeper were one lay servant, called *Küster*, *Custos*, *Kirchner*, *Glöck
 sacristan's charge: the chalices, the vestments and linen, the font and its water, the bread and
 wine, and the lights. In most villages he was also the schoolmaster.
 
-**Anhalt 1594: the sacristan's duties.** The appointment of the sexton of Törten in Anhalt is
-printed by Sehling as a "sexton's ordinance". It lists the sacristan's work with the rest:
-ringing, singing, opening and shutting the church, sweeping, "preparing the altar and font", and
-"vesting and unvesting the pastor". The post was granted for one year at a time. **Anhalt,
-*Ordnung für den Küster zu Törten*, 8 November 1594** (Sehling 2, pp. 579–580):
+**Anhalt 1594: the sacristan's duties** (Philippist). The appointment of the sexton of Törten in
+Anhalt is printed by Sehling as a "sexton's ordinance". It lists the sacristan's work with the
+rest: ringing, singing, opening and shutting the church, sweeping, "preparing the altar and
+font", and "vesting and unvesting the pastor". The post was granted for one year at a time.
+**Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594**
+(Philippist; Sehling 2, pp. 579–580):
 
 <!-- doc 1262 -->
 > Der custos sol nicht allein in gemein alles, was ihme mit leuten, singen, kirchuf und
@@ -1986,9 +2032,9 @@ the church are entrusted to the bell-ringers, none shall be received as bell-rin
 well known or have a warrantor or surety; that if anything be taken away from the church through
 his negligence or unfaithfulness, the church may recover the loss suffered again from him.
 
-The Heidelberg bell-ringer of 1572 likewise received "the cloths, silver and vessels for the
-Supper and baptism" by inventory ([`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md)
-§12.2).
+The Heidelberg bell-ringer of 1572 (Reformed) likewise received "the cloths, silver and vessels
+for the Supper and baptism" by inventory
+([`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §12.2).
 
 **At the altar and the font.** The sacristan's liturgical tasks recur across the orders:
 - **The sick.** In Hohenlohe the pastor called to the sick takes "with him, together with his
@@ -2035,10 +2081,11 @@ sell the baptismal water left over, as also some deal in the hosts left over, wh
 afterward used for sorcery, the pastors shall earnestly admonish the bell-ringers thereof, that
 they put it away; and if it happen again afterward, it shall be sharply punished.
 
-**Appointment.** The sacristan was appointed, not ordained. In Strasbourg the vacant offices of
-"helpers or *Sigristen*" were filled "by the pastors and parish churchwardens, and not
-otherwise" (Sehling 20/1, p. 226). Elsewhere the council, the patron or the pastor with the
-parish chose him, and he bound himself by pledge, oath or written *Revers* (§8).
+**Appointment.** The sacristan was appointed, not ordained. In Strasbourg (1531, Moderate
+Reformed) the vacant offices of "helpers or *Sigristen*" were filled "by the pastors and parish
+churchwardens, and not otherwise" (Sehling 20/1, p. 226). Elsewhere the council, the patron or
+the pastor with the parish chose him, and he bound himself by pledge, oath or written *Revers*
+(§8).
 
 **In the convents.** The one sacristan with a distinct title is a woman: the **custorin** among
 the "spiritual or church offices" of the evangelical convent of Keppel (§7.5).
@@ -2096,8 +2143,8 @@ for the sister "who distributeth the alms" (§7.5). There is no order of deacone
 for them. But three kinds of women did work that the early Church had given to deaconesses and
 widows:
 - the **convent almoner** at Keppel;
-- the **women elders** (*presbyterae*) of the Bohemian Brethren, elected by the women of the
-  congregation and bound by handfast vow (§6.4);
+- the **women elders** (*presbyterae*) of the Bohemian Brethren (Hussite), elected by the women
+  of the congregation and bound by handfast vow (§6.4);
 - the **sick-women** (*Seelfrauen*, *Krankenwärterinnen*), appointed by the council or the
   pastor to nurse and comfort the sick and dying. Some had been beguines.
 
@@ -2155,7 +2202,7 @@ and sayings.
 charged them, as their service, to visit the sick and instruct them by God's word (§7.6).
 
 **Hospital nurses.** The later Reformed orders put the sick-nurse under the hospital master. The
-Heidelberg hospital order of 1594 lets the hospital master engage "fit sick-nurses"
+Heidelberg hospital order of 1594 (Reformed) lets the hospital master engage "fit sick-nurses"
 (*kranckenwärterin*) and dismiss them for misconduct, with the advice of the inspectors,
 preacher, physician and surgeon (Sehling 19/2, p. 827). Here the office is a domestic service,
 without any churchly character.
@@ -2190,10 +2237,10 @@ they may so die in peace" (Sehling 16, pp. 79–80). In 1552 Duke Christoph forb
 "entangle" boys with "superstitious ceremonies and vows" to remain in the cloister
 (Sehling 16, p. 199).
 
-**Esslingen 1535: the friars who stayed.** Esslingen's order for the remaining Franciscans let
-any friar marry with a settlement from the council. Those who stayed received board and a yearly
-allowance. **Esslingen, *Ordnung für die Konventualen im Barfüßerkloster*, 6 September 1535**
-(Sehling 17/2, p. 382):
+**Esslingen 1535: the friars who stayed** (Moderate Reformed). Esslingen's order for the
+remaining Franciscans let any friar marry with a settlement from the council. Those who stayed
+received board and a yearly allowance. **Esslingen, *Ordnung für die Konventualen im
+Barfüßerkloster*, 6 September 1535** (Moderate Reformed; Sehling 17/2, p. 382):
 
 <!-- doc 882 -->
 > Welcher under den ordenspersonen sich in ain ander erbar, christenlich wesen schicken und sich
@@ -2428,8 +2475,8 @@ Common Life were absorbed into the parish and the school.
 **Words that do not settle the question.** "Ordain" (*ordiniren*, *ordinatio*) is not decisive
 in these texts:
 - Lippe uses it of appointing deacons of the poor.
-- The Bohemian Brethren use it of a handfast vow.
-- Hesse uses it of a full rite with laying on of hands.
+- The Bohemian Brethren (Hussite) use it of a handfast vow.
+- Hesse (Moderate Reformed) uses it of a full rite with laying on of hands.
 
 **How the table classifies.** The table below therefore classifies by what the rite actually
 does, in four degrees, from strongest to weakest:
@@ -2442,8 +2489,8 @@ does, in four degrees, from strongest to weakest:
 |---|---|---|---|---|
 | Pastor or *Diaconus* (assistant minister) | Electoral Saxony 1580 | Called by the church; examined; confirmed by the synod | **hands** (superintendent), prayer; "by divine command" | §5.1 |
 | Minister of the word | Pfalz-Zweibrücken 1539 | Congregation | **hands** (neighbouring pastors or "elders") | §5.4 |
-| Minister of the word | Hesse 1566 | — | **hands** (superintendent, ministers **and elders**) | §6.2 |
-| Minister of the word | Nassau-Dillenburg 1582 | Classis and seniors | "confirmation or ordination", public | §5.3 |
+| Minister of the word | Hesse 1566 (Moderate Reformed) | — | **hands** (superintendent, ministers **and elders**) | §6.2 |
+| Minister of the word | Nassau-Dillenburg 1582 (Reformed) | Classis and seniors | "confirmation or ordination", public | §5.3 |
 | Acolyte | Bohemian Brethren 1576 | Pastor; examined by synod | **vow** (*manu stipulata*), right hand of fellowship, blessing | §3.4 |
 | Deacon (clerical) | Bohemian Brethren 1576 | Chosen from acolytes; examined by seniors | **hands**, vow, prayer, blessing (Acts 6:6) | §5.3 |
 | Lay presbyter, *presbytera* | Bohemian Brethren 1576 | Free vote of the men (or women) | **vow** (*voce et stipulata manu*); place of honour | §6.4 |
@@ -2452,29 +2499,29 @@ does, in four degrees, from strongest to weakest:
 | *Diaconi ecclesiae et pauperum* | Pomerania 1574 | Chosen under the pastors' eye | **vow** (oath) | §5.2 |
 | *Leviten* (deacons of the poor) | Hadeln 1526 | — | **none** described | §5.2 |
 | *Subdiaconi oder Bittherren* | Naumburg 1537 | Council and community | **none** described | §5.2 |
-| Deacon of the poor | Hesse 1566 | Ministers with council and congregation; probation | **hands** and prayer (Acts 6) | §5.3 |
-| Deacon or almoner | Micron 1554/65 | Congregation | questions, prayer, **hands** | §5.3 |
-| Deacon or almoner | Kurpfalz 1563, Wittgenstein 1581, Bentheim-Tecklenburg 1588/1619 | —; confirmed by pastors and seniors | confirmation, rite not described | §5.3 |
-| Deacon, senior, sexton | Nassau-Dillenburg 1582 | Presbytery; confirmed by classis | confirmation and admonition | §5.3 |
-| Lay elder | Hesse (Ziegenhain) 1539 | Each church | **prayer** and exhortation ("sanctify their office") | §6.2 |
-| Lay elder | Hesse 1566 | Ministers with council and congregation | **hands** (pastor and ministers), prayer; "ordained" | §6.2 |
-| Lay elder | Micron 1554/65 | Congregation | questions, prayer, **hands** | §6.3 |
-| Lay elder | Kurpfalz 1592 (also Ysenburg-Ronneburg 1592) | Congregation | questions, prayer, **hands** (minister and elders) | §6.3 |
+| Deacon of the poor | Hesse 1566 (Moderate Reformed) | Ministers with council and congregation; probation | **hands** and prayer (Acts 6) | §5.3 |
+| Deacon or almoner | Micron 1554/65 (Reformed) | Congregation | questions, prayer, **hands** | §5.3 |
+| Deacon or almoner | Kurpfalz 1563, Wittgenstein 1581, Bentheim-Tecklenburg 1588/1619 (all Reformed) | —; confirmed by pastors and seniors | confirmation, rite not described | §5.3 |
+| Deacon, senior, sexton | Nassau-Dillenburg 1582 (Reformed) | Presbytery; confirmed by classis | confirmation and admonition | §5.3 |
+| Lay elder | Hesse (Ziegenhain) 1539 (Moderate Reformed) | Each church | **prayer** and exhortation ("sanctify their office") | §6.2 |
+| Lay elder | Hesse 1566 (Moderate Reformed) | Ministers with council and congregation | **hands** (pastor and ministers), prayer; "ordained" | §6.2 |
+| Lay elder | Micron 1554/65 (Reformed) | Congregation | questions, prayer, **hands** | §6.3 |
+| Lay elder | Kurpfalz 1592 (also Ysenburg-Ronneburg 1592; both Reformed) | Congregation | questions, prayer, **hands** (minister and elders) | §6.3 |
 | Censor (elder) | Pfalz-Veldenz 1574 | — | **prayer** from the pulpit; "set into this high office" | §6.3 |
-| Lay elder | Kurpfalz about 1601 | Yearly | **vow** (handfast), **prayer** of the congregation | §6.3 |
-| Lay elder | Hanau-Münzenberg 1609 | — | **vow** (handfast), **prayer**; "the office of elders is of God" | §6.3 |
-| Lay elder | Solms-Laubach 1594/1603 | — | **vow** (oath) | §6.3 |
+| Lay elder | Kurpfalz about 1601 (Reformed) | Yearly | **vow** (handfast), **prayer** of the congregation | §6.3 |
+| Lay elder | Hanau-Münzenberg 1609 (Reformed) | — | **vow** (handfast), **prayer**; "the office of elders is of God" | §6.3 |
+| Lay elder | Solms 1594 (Reformed) | — | **vow** (oath) | §6.3 |
 | Censor | Wild- and Rhinegraviate 1603 | Pastor and old censors | **vow** (oath), confirmed by superintendent | §6.3 |
 | Churchwarden (*Kirchenpfleger*) | Strasbourg 1553 | — | — | §6.1 |
-| Churchwarden | Memmingen 1532, Dinkelsbühl 1574, Augsburg 1591 | Council (and citizens) | **none** described | §6.5 |
-| Sexton (*Opfermann*) | Hesse 1566 | Pastor and elders, with the superintendent | **none** | §3.5 |
-| Sexton and sacristan (*custos*) | Anhalt (Törten) 1594 | Prince's councillors with the superintendent; for one year, renewable at Michaelmas | **none**; written appointment | §7.1 |
+| Churchwarden | Memmingen 1532 (Moderate Reformed), Dinkelsbühl 1574, Augsburg 1591 | Council (and citizens) | **none** described | §6.5 |
+| Sexton (*Opfermann*) | Hesse 1566 (Moderate Reformed) | Pastor and elders, with the superintendent | **none** | §3.5 |
+| Sexton and sacristan (*custos*) | Anhalt (Törten) 1594 (Philippist) | Prince's councillors with the superintendent; for one year, renewable at Michaelmas | **none**; written appointment | §7.1 |
 | Bell-ringer, keeper of the vessels | Sayn 1590 | —; must be well known or give surety | **none** | §7.1 |
-| *Sigrist* | Strasbourg 1531 | Pastors and parish churchwardens | **none** described | §7.1 |
+| *Sigrist* | Strasbourg 1531 (Moderate Reformed) | Pastors and parish churchwardens | **none** described | §7.1 |
 | Convent deaconess (almoner), sacristaness and other sisters' offices | Keppel 1570 | Assigned by the *domina* | **none** | §7.3, §7.5 |
 | *Seelfrau* (sick-woman) | Regensburg 1543, Nördlingen 1544 | Council; examined by the pastor (Nördlingen) | **none** | §7.3 |
 | Beguines as visitors of the sick | Heilbronn 1531 | Council | **none**; troth "in place of an oath" to declare their goods | §7.6 |
-| Monk staying in the cloister | Württemberg 1535, Esslingen 1535 | — | **none**; no new professions | §7.4 |
+| Monk staying in the cloister | Württemberg 1535, Esslingen 1535 (Moderate Reformed) | — | **none**; no new professions | §7.4 |
 | Novice or scholar of an evangelical monastery | Ravengiersburg 1560 | Duke and prior | **none**; no vow | §7.4 |
 | Nun | Keppel 1570 | Count; parents, *domina* and candidate questioned | **vow** (oath with hand on breast), sermon, clothing, *Veni Sancte Spiritus*, exhortation, *Te Deum* | §7.5 |
 | Nun | Lüneburg 1574 | Duke's foreknowledge and command | clothing in a plain gown; rite not described | §7.5 |
@@ -2484,20 +2531,21 @@ does, in four degrees, from strongest to weakest:
 
 **Summary.** Laying on of hands was used for four groups:
 - ministers of the word, everywhere;
-- deacons of the poor, in Hesse 1566 and in Micron;
-- lay elders, in Hesse 1566, Micron and Kurpfalz 1592;
-- the Bohemian Brethren's clerical deacons.
+- deacons of the poor, in Hesse 1566 (Moderate Reformed) and in Micron (Reformed);
+- lay elders, in Hesse 1566 (Moderate Reformed), Micron and Kurpfalz 1592 (Reformed);
+- the Bohemian Brethren's clerical deacons (Hussite).
 
 It was not used for:
 - sacristans, sick-women, nuns, convent heads or the scholars of the evangelical monasteries;
 - Lutheran deacons of the poor or churchwardens;
-- the Reformed elders of the Kurpfalz *Presbyterordnung*, Hanau, Veldenz or Solms;
+- the Reformed elders of the Kurpfalz *Presbyterordnung*, Hanau or Solms, and the elders of
+  Lutheran Veldenz;
 - any minor grade, including the Bohemian acolytes.
 
-**Answer to the question asked.** Were ruling elders ordained? Yes, in Hesse 1566, the
-London-Norden order of Micron and the Palatinate form of 1592. Elsewhere they were installed
-with prayer, a handfast vow or an oath, and none of these used the language of ordination except
-Veldenz, which uses it of the apostles.
+**Answer to the question asked.** Were ruling elders ordained? Yes, in Hesse 1566 (Moderate
+Reformed), the London-Norden order of Micron and the Palatinate form of 1592 (both Reformed).
+Elsewhere they were installed with prayer, a handfast vow or an oath, and none of these used the
+language of ordination except Veldenz, which uses it of the apostles.
 
 ---
 
@@ -2517,23 +2565,23 @@ knows. The columns are:
 | Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1 | Brotherhoods of the Kaland, St Anne, shoemakers | — | — | Dissolved into the common chest |
 | Nürnberg, *Gottesdienstordnung*, 1524 | 11 | Ministrant | — | — | Kept |
 | Hadeln, *Kirchenordnung*, 1526 | 5 | — | Lay *leviten* of the poor | — | Created |
-| Homberg, 1526 | 8 | Deacon's and subdeacon's vestments | Deacon of the poor only | Bishop = presbyter | Mass-deacons and subdeacons rejected as unscriptural |
+| Homberg, 1526 (Moderate Reformed) | 8 | Deacon's and subdeacon's vestments | Deacon of the poor only | Bishop = presbyter | Mass-deacons and subdeacons rejected as unscriptural |
 | Brunswick (Bugenhagen), 1528 | 6/1 | No tonsure or deacon's coat | Lay deacons of the chest and the poor | Bishops = preachers | Created; no ministry of word |
 | Nürnberg, report for Goslar, 1528 | 7/2.2 | Levites read the lesson and exhort | — | — | Kept |
 | Hamburg, 1529 | 5 | Sexton hired by deacons | Sixteen lay deacons of the poor, plus treasury deacons | — | Created |
 | Heilbronn, 1530 | 17/1 | — | Two *Diaconi* (assistant preachers) distribute | — | Kept |
 | Heilbronn, beguine houses, 1531 | 17/1 | Beguines to visit the sick; no distinct clothing | — | — | Kept as one house |
-| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 | 20/1 | *Sigristen* appointed by pastors and churchwardens | — | — | Kept |
-| Memmingen, *Zuchtordnung*, 1532 | 12 | — | — | *Kirchenpfleger*, no temporal jurisdiction | Limited |
+| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 (Moderate Reformed) | 20/1 | *Sigristen* appointed by pastors and churchwardens | — | — | Kept |
+| Memmingen, *Zuchtordnung*, 1532 (Moderate Reformed) | 12 | — | — | *Kirchenpfleger*, no temporal jurisdiction | Limited |
 | Herford, *Kirchenordnung*, 1532 | 21 | Brothers' and sisters' houses of the Common Life | — | — | Separate communion rejected |
 | Württemberg, *Klosterordnung*, 1535 | 16 | Monks, nuns, novices, beguines, Lollards | — | — | Admissions forbidden; novices sent home |
-| Esslingen, Franciscan convent, 1535 | 17/2 | Friars | — | — | Free to marry; those staying maintained |
+| Esslingen, Franciscan convent, 1535 (Moderate Reformed) | 17/2 | Friars | — | — | Free to marry; those staying maintained |
 | Freiberg, Visitation articles, 1537 | 1 | Cross, tonsure | — | — | Abolished as human ordinances |
 | Naumburg, St Wenzel, 1537 | 2 | — | Twelve lay *subdiaconi oder Bittherren* | — | Created |
 | Lippe, 1538 | 21 | Incense abolished; vestments and lights free | Lay *diaconi* of the poor | — | Created |
 | Pyritz, 1539 | 4 | — | Four lay *diaconi*, no oath | — | Created |
-| Strasbourg, *Examensordnung*, 1539 | 20/1 | History of minor orders; exorcism a gift | Deacon apostolic; schoolmasters in the deacons' place | Two orders of presbyters | Minor orders treated as later additions |
-| Ziegenhain, *Zuchtordnung*, 1539 | 8 | — | — | Lay elders, confirmed with prayer | Created |
+| Strasbourg, *Examensordnung*, 1539 (Moderate Reformed) | 20/1 | History of minor orders; exorcism a gift | Deacon apostolic; schoolmasters in the deacons' place | Two orders of presbyters | Minor orders treated as later additions |
+| Ziegenhain, *Zuchtordnung*, 1539 (Moderate Reformed) | 8 | — | — | Lay elders, confirmed with prayer | Created |
 | Pfalz-Zweibrücken, 1539 | 18 | — | — | Pastors = bishops = elders | — |
 | Brandenburg, 1540 | 3 | Ministrants in dalmatics; lights; cross and lights at funerals | — | — | Kept where clergy suffice |
 | Stendal, 1541 | 3 | Cross before procession | — | — | Kept |
@@ -2548,7 +2596,7 @@ knows. The columns are:
 | Regensburg, Jonas, 1553 | 13 | Rota of ordained ministers as ministrants or deacons | — | — | Kept |
 | Hohenlohe, *Kirchenordnung*, 1553 | 15 | Sexton carries chalice, corporal, surplice to the sick | — | — | Kept |
 | Regensburg, 29 April 1554 | 13 | Levites and Mass vestments | — | — | Abolished |
-| Micron, *Ordinancien*, 1554/65 | 7/1 | — | Deacons of the poor, hands | Ruling elders, hands; one presiding superintendent | Created |
+| Micron, *Ordinancien*, 1554/65 (Reformed) | 7/1 | — | Deacons of the poor, hands | Ruling elders, hands; one presiding superintendent | Created |
 | Strasbourg, mandate on the women's convents, 1555 | 20/1 | Nuns; prioress and council-mothers | — | — | Admission by the council |
 | Waldeck, *Kirchenordnung*, 1556 | 9 | Sexton carries the cross before the coffin | — | — | Kept |
 | Herrenalb, *Statuten*, 1556 | 16 | Evangelical conventuals and novices | — | — | Kept as a school |
@@ -2557,7 +2605,7 @@ knows. The columns are:
 | Rostock, *Conformitas*, 1560–76 | 5 | Boys read the epistle | — | — | — |
 | Ravengiersburg, *Klosterordnung*, 1560 | 19/2 | Novices trained for the ministry | — | — | Kept as a school; Latin chant allowed |
 | Brandenburg-Ansbach, *Kapitelsordnung*, 1565/78 | 11 | Levites | — | Two clerical *seniores* | Levites forbidden |
-| Hesse, *Kirchenordnung*, 1566 | 8 | Sexton as *ianitor*, *aedituus* | Deacons of the poor, ordained with hands | Ruling elders, ordained with hands; elders lay hands on ministers | Created |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8 | Sexton as *ianitor*, *aedituus* | Deacons of the poor, ordained with hands | Ruling elders, ordained with hands; elders lay hands on ministers | Created |
 | Regensburg, *Kirchenordnung*, 1567(?) | 13 | Levites, vestments, lights | — | — | Abolished |
 | Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1 | Nuns' cowl, veil and crown | — | — | Habit to be laid aside |
 | Keppel, *Ordnung für das Kloster*, 1570 | 10 | Nuns clothed with oath; *domina*; *diaconissa*, *custorin* | — | — | Kept, reformed |
@@ -2568,19 +2616,19 @@ knows. The columns are:
 | Lüneburg, *Klosterordnung*, 1574 | 6/1 | Nuns' clothing under the duke; cowl, veil and crown | — | — | Plain habit |
 | Bohemian Brethren, *Ordo ecclesiasticus*, 1576 | 4 | Acolytes (ordained grade) | Clerical deacons, hands | Lay presbyters and *presbyterae*, handfast | Kept; deacon "not to be cast out" |
 | Electoral Saxony, 1580 | 1 | Bell-ringers' sale of font water and hosts forbidden | *Diaconat*, *Subdiaconat*; same ordination as pastor | — | Diaconate may be dispensed |
-| Wittgenstein, 1581 | 22 | — | *Diaconi oder Almusenpfleger* | — | Created |
-| Nassau-Dillenburg, 1582 | 10 | *Aeditui* elected by presbytery | Deacons of the poor | Seniors; four offices | Created |
-| Frankfurt, Dutch congregation (Augsburg Confession), 1585 | 9 | — | Two *diaconi* | — | Created |
-| Bentheim-Tecklenburg, 1588/1619 | 22 | Baptismal exorcism | *Diaconi oder Almusenpfleger* | Seniors | Exorcism abolished |
+| Wittgenstein, 1581 (Reformed) | 22 | — | *Diaconi oder Almusenpfleger* | — | Created |
+| Nassau-Dillenburg, 1582 (Reformed) | 10 | *Aeditui* elected by presbytery | Deacons of the poor | Seniors; four offices | Created |
+| Frankfurt, Dutch congregation (Augsburg Confession), 1585 (Lutheran) | 9 | — | Two *diaconi* | — | Created |
+| Bentheim-Tecklenburg, 1588/1619 (Reformed) | 22 | Baptismal exorcism | *Diaconi oder Almusenpfleger* | Seniors | Exorcism abolished |
 | Sayn, *Kirchenordnung*, 1590 | 19/1 | Bell-ringer keeps chalices and ornaments | — | — | Kept |
 | Augsburg, *Vergleichsartikel*, 1591 | 12 | — | — | Six *Kirchenpfleger* | — |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11 | Subdeacon reads epistle | *Subdiaconus* (minister) | — | Kept |
-| Kurpfalz, *Einführung der Senioren*, 1592 | 19/2 | — | — | Ruling elders, hands | Created |
-| Anhalt, sexton of Törten, 1594 | 2 | Sexton prepares altar and font, vests the pastor | — | — | Kept |
-| Kurpfalz, *Presbyterordnung*, about 1601 | 14 | — | — | Yearly elders, handfast vow and prayer; Matthew 18 | Created |
+| Kurpfalz, *Einführung der Senioren*, 1592 (Reformed) | 19/2 | — | — | Ruling elders, hands | Created |
+| Anhalt, sexton of Törten, 1594 (Philippist) | 2 | Sexton prepares altar and font, vests the pastor | — | — | Kept |
+| Kurpfalz, *Presbyterordnung*, about 1601 (Reformed) | 14 | — | — | Yearly elders, handfast vow and prayer; Matthew 18 | Created |
 | Solms-Laubach, 1603 | 9 | — | — | Elders, oath | Created |
 | Wild- and Rhinegraviate, 1603 | 19/2 | — | — | Censors, oath | Created |
-| Hanau-Münzenberg, 1609 | 10 | — | — | Elders, handfast vow and prayer; "of God" | Created |
+| Hanau-Münzenberg, 1609 (Reformed) | 10 | — | — | Elders, handfast vow and prayer; "of God" | Created |
 | Schwäbisch Hall, 1543/1615 | 17/1 | Cross before coffin, "significatively" | — | — | Allowed |
 | Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610 | 23 | Abbess and prioress elected under oath | — | — | Kept |
 
@@ -2610,7 +2658,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1, p. 599 | 102 | 7.2, 7.6 |
 | Schönburg, *Kirchen-Ordnung* of Johann Pfeffinger, 18 October 1542 | 2, p. 176 | 1235 | 7.1 |
 | Anhalt, *Ordnung der deutschen Gesänge*, before 1551 | 2, p. 555 | 1262 | 4.5 |
-| Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594 | 2, pp. 579–580 | 1262 | 7.1 |
+| Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594 (Philippist) | 2, pp. 579–580 | 1262 | 7.1 |
 
 **Brandenburg, Pomerania and the North Sea and Baltic cities**
 
@@ -2634,11 +2682,11 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 |---|---|---|---|
 | Brunswick, *Kirchenordnung* of Johannes Bugenhagen, 1528 | 6/1, p. 449 | 1983 | 3.3, 5.2, 5.4 |
 | Hildesheim, editors' introduction on Bugenhagen's order of 1544 | 7/2.1, p. 811 | 2132 | 1, 5.2, 5.4 |
-| East Frisia, editors' introduction to Micron's *Ordinancien* | 7/1, pp. 554–555 | 2115 | 5.3 |
-| Micron, *Ordinancien* (1554) 1565 | 7/1, pp. 583, 587–588, 596–598 | 2116 | 5.3, 6.3 |
+| East Frisia, editors' introduction to Micron's *Ordinancien* (Reformed) | 7/1, pp. 554–555 | 2115 | 5.3 |
+| Micron, *Ordinancien* (1554) 1565 (Reformed) | 7/1, pp. 583, 587–588, 596–598 | 2116 | 5.3, 6.3 |
 | Lippe, *Lippische Kirchenordnung*, 1538 | 21, pp. 318, 335 | 1459 | 4.4, 5.2, 8 |
-| Wittgenstein, *Kirchenordnung*, 1581 | 22, p. 201 | 1502 | 5.3 |
-| Bentheim-Tecklenburg, *Bentheim-Tecklenburger Kirchenordnung*, 1588/1619 | 22, pp. 269, 276 | 1508 | 3.5, 5.3 |
+| Wittgenstein, *Kirchenordnung*, 1581 (Reformed) | 22, p. 201 | 1502 | 5.3 |
+| Bentheim-Tecklenburg, *Bentheim-Tecklenburger Kirchenordnung*, 1588/1619 (Reformed) | 22, pp. 269, 276 | 1508 | 3.5, 5.3 |
 | Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1, pp. 324–326 | 1978 | 7.5 |
 | Lüneburg, *Klosterordnung* of Duke William the Younger, 1574 | 6/1, p. 622 | 2010 | 7.5 |
 | Goslar, *Ordnung für das Frauenkloster Frankenberg*, 1542 | 7/2.2, p. 275 | 2198 | 7.5 |
@@ -2651,15 +2699,15 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Homberger Kirchenordnung*, 1526 | 8, p. 46 | 2247 | 3.2 |
-| Hesse, *Ziegenhainer Zuchtordnung*, 1539 | 8, p. 103 | 2252 | 6.2 |
-| Hesse, *Kirchenordnung*, 1566 | 8, pp. 195, 205, 207–211 | 2257 | 3.5, 5.3, 6.2 |
-| Solms-Laubach, *Kirchenzuchtordnung*, 1603 (variant 1594) | 9, p. 338 | 2311 | 6.3 |
+| Hesse, *Homberger Kirchenordnung*, 1526 (Moderate Reformed) | 8, p. 46 | 2247 | 3.2 |
+| Hesse, *Ziegenhainer Zuchtordnung*, 1539 (Moderate Reformed) | 8, p. 103 | 2252 | 6.2 |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 195, 205, 207–211 | 2257 | 3.5, 5.3, 6.2 |
+| Solms, *Kirchenzuchtordnung*, 1594 (Reformed) | 9, p. 338 | 2311 | 6.3 |
 | Erbach, *Erbacher Kirchenordnung*, 1560 | 9, p. 446 | 2316 | 6.5 |
-| Frankfurt, *Stiftungsbrief des Armenkastens der Niederländischen Gemeinde A. C.*, 1585 | 9, p. 604 | 2332 | 5.2 |
-| Nassau-Dillenburg, *Kirchenordnung*, 23 January 1582 | 10, p. 160 | 184 | 5.3, 6.3 |
-| Ysenburg-Ronneburg, *Memorial zur Kirchenzuchtordnung*, 1592 | 10, p. 601 | 223 | 6.3 |
-| Hanau-Münzenberg, *Presbyteriumsordnung*, 1609 | 10, p. 508 | 211 | 6.3 |
+| Frankfurt, *Stiftungsbrief des Armenkastens der Niederländischen Gemeinde A. C.*, 1585 (Lutheran) | 9, p. 604 | 2332 | 5.2 |
+| Nassau-Dillenburg, *Kirchenordnung*, 23 January 1582 (Reformed) | 10, p. 160 | 184 | 5.3, 6.3 |
+| Ysenburg-Ronneburg, *Memorial zur Kirchenzuchtordnung*, 1592 (Reformed) | 10, p. 601 | 223 | 6.3 |
+| Hanau-Münzenberg, *Presbyteriumsordnung*, 1609 (Reformed) | 10, p. 508 | 211 | 6.3 |
 | Wild- and Rhinegraviate, *Kirchenordnung*, 1603 | 19/2, p. 600 | 1121 | 6.3 |
 | Waldeck, *Kirchenordnung*, 1556 | 9, p. 256 | 2300 | 4.5 |
 | Nassau-Dillenburg, *Kirchenordnung*, 1537 | 10, p. 84 | 169 | 7.6 |
@@ -2671,15 +2719,15 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 70–71, 75 | 386 | 4.2 |
-| Kurpfalz, editors' introduction on the discipline dispute, 1568–1570 | 14, p. 53 | 468 | 1, 6.3 |
-| Kurpfalz, *Presbyterordnung*, about 1601 | 14, pp. 595, 598 | 518 | 6.3 |
-| Kurpfalz, *Einführung der Senioren*, 9 December 1592 | 19/2, pp. 789–790 | 1155 | 6.3 |
-| Kurpfalz, editors' introduction to the *Einführung der Senioren* | 19/2, p. 695 | 1133 | 6.3 |
+| Kurpfalz, editors' introduction on the discipline dispute, 1568–1570 (Reformed) | 14, p. 53 | 468 | 1, 6.3 |
+| Kurpfalz, *Presbyterordnung*, about 1601 (Reformed) | 14, pp. 595, 598 | 518 | 6.3 |
+| Kurpfalz, *Einführung der Senioren*, 9 December 1592 (Reformed) | 19/2, pp. 789–790 | 1155 | 6.3 |
+| Kurpfalz, editors' introduction to the *Einführung der Senioren* (Reformed) | 19/2, p. 695 | 1133 | 6.3 |
 | Pfalz-Zweibrücken, *Kirchenordnung „Form und Ordnung“*, 1539 | 18, p. 63 | 965 | 5.4 |
 | Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, p. 573 | 1011 | 6.3 |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 208 | 404 | 7.2 |
 | Pfalz-Simmern, *Klosterordnung Ravengiersburg*, 1560 | 19/2, p. 658 | 1125 | 7.4 |
-| Heidelberg, *Spitalordnung*, 1594 | 19/2, p. 827 | 1163 | 7.3 |
+| Heidelberg, *Spitalordnung*, 1594 (Reformed) | 19/2, p. 827 | 1163 | 7.3 |
 
 **Franconia, Bavaria, Swabia and Alsace**
 
@@ -2691,7 +2739,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, p. 425 | 294 | 3.5 |
 | Augsburg, *Vergleichsartikel*, 1591 | 12, pp. 109–110 | 341 | 6.5 |
 | Dinkelsbühl, *Kirchenpflegeordnung*, 1574 | 12, p. 131 | 348 | 6.5 |
-| Memmingen, *Zuchtordnung*, 1532 | 12, p. 248 | 365 | 6.5 |
+| Memmingen, *Zuchtordnung*, 1532 (Moderate Reformed) | 12, p. 248 | 365 | 6.5 |
 | Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, pp. 391, 393 | 432 | 4.3 |
 | Regensburg, *Kirchenordnung unter Justus Jonas*, 1553 | 13, pp. 419–421 | 440 | 4.2 |
 | Regensburg, *Warum die leviten- und meßgewand sollen abgetan werden*, 29 April 1554 | 13, p. 432 | 443 | 4.3 |
@@ -2699,7 +2747,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Württemberg, *Ordnung der Besetzung von Kirchendienerstellen*, 1559 | 16, p. 348 | 683 | 3.3 |
 | Heilbronn, *„Confessio Heilbronnensis“ und Kirchenordnung*, 1530 | 17/1, p. 285 | 770 | 4.2 |
 | Schwäbisch Hall, *Kirchenordnung* 1543/1615 | 17/1, p. 173 | 763 | 4.5 |
-| Strasbourg, *Examensordnung*, Latin version, 1539 | 20/1, pp. 304, 310 | 1308 | 3.1, 6.1 |
+| Strasbourg, *Examensordnung*, Latin version, 1539 (Moderate Reformed) | 20/1, pp. 304, 310 | 1308 | 3.1, 6.1 |
 | Strasbourg, *Kirchenordnung* of Johannes Marbach, 1553 | 20/1, p. 441 | 1321 | 6.1 |
 | Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, p. 531 | 297 | 7.1 |
 | Brandenburg-Ansbach-Kulmbach, *Kirchenvisitation*, 1536 | 11, p. 320 | 277 | 7.3 |
@@ -2718,12 +2766,12 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Heilbronn, *Instruktion zur Zusammenlegung beider Beginenhäuser*, 1531 | 17/1, p. 298 | 776 | 7.3, 7.6 |
 | Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | 7.1, 7.2 |
 | Reutlingen, editors' introduction | 17/2, p. 28 | 825 | 7.6 |
-| Esslingen, *Ordnung für die Konventualen im Barfüßerkloster*, 1535 | 17/2, p. 382 | 882 | 7.4 |
-| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 | 20/1, p. 226 | 1292 | 7.1 |
+| Esslingen, *Ordnung für die Konventualen im Barfüßerkloster*, 1535 (Moderate Reformed) | 17/2, p. 382 | 882 | 7.4 |
+| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 (Moderate Reformed) | 20/1, p. 226 | 1292 | 7.1 |
 | Strasbourg, *Mandat zu den noch bestehenden Frauenklöstern*, 1555 | 20/1, pp. 454, 456 | 1323 | 7.5 |
 
 **Poland**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Bohemian Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576 | 4, pp. 275–276, 279, 289 | 1846 | 3.4, 5.3, 6.4, 7.3 |
+| Bohemian Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576 (Hussite) | 4, pp. 275–276, 279, 289 | 1846 | 3.4, 5.3, 6.4, 7.3 |

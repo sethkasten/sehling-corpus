@@ -51,7 +51,11 @@ asks:
   the deacons' and sextons' care of altar, pulpit and font:
   [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §§3.3, 4.4,
   7.2;
-- bells and the organ: [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md).
+- bells and the organ: [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md);
+- the sign of the cross, kneeling and places at the altar in the Mass:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §15;
+- the conduct and dress required of ministers' households:
+  [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §3.3.
 
 **Conventions**
 
@@ -82,6 +86,24 @@ asks:
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     These sometimes differ from the database's record headings. Where a passage comes from the
     editor's introduction or notes rather than from an order, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Kurpfalz is Lutheran in 1546 and 1556 and Reformed from 1563, Pfalz-Zweibrücken
+    Lutheran until 1588, and Pfalz-Simmern Lutheran until it fell to the Electoral Palatinate in
+    1598.
+  - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
+    (`CHURCH_ORDERS_GUIDE.md`, §4).
+  - Some Lutheran orders took the Reformed line on images, vestments or vessels (Lichtenberg
+    1579, Sponheim 1590/91, the Upper Palatine visitation of 1579, Nassau-Weilburg 1617). They
+    are Lutheran orders, and the text says where they agree with the Reformed.
 
 ## Contents
 
@@ -109,55 +131,58 @@ one principle:
 - *Drop them* when they foster superstition or blur the difference from the Mass: Regensburg
   1554 and 1567, Transylvania 1557.
 - *Forbid them* as contrary to God's word, which is the Reformed position, not an indifferent
-  one: the Heidelberg Catechism, Kurpfalz 1565, the Casimirian mandate of 1587.
+  one: the Heidelberg Catechism, Kurpfalz 1565, the Casimirian mandate of 1587 (all Reformed).
 
 **2. Images: idols out, histories in (§4).** The Lutheran orders remove only images that were
 prayed to or had lights burned before them, and keep scriptural histories as "the laity's Bible"
 (Brunswick 1528, Thüngen 1564, Oldenburg 1573, Regensburg 1567). Removal is to be orderly and by
 authority, never by the crowd:
-- Strasbourg 1525 forbids citizens to touch anything.
+- Strasbourg 1525 (Moderate Reformed) forbids citizens to touch anything.
 - Mecklenburg 1552 nails the images to the walls.
 - The Upper Palatinate in 1557 removes them by night, takes the carved figures out of mixed
   panels and blacks over the painted ones.
 
 Kurland 1570 is the only order found that commissions new paintings: Old and New Testament
 histories, "especially of the resurrection and of the Last Judgement", for the native peasantry.
-The Reformed orders (Ulm 1531, Heidelberg Catechism Q. 98, Kurpfalz 1565, Lichtenberg 1579,
-Sponheim 1590/91) reject the "laity's books" argument and clear images and crucifixes alike. The
-Prussian order of 1568 answers them by name.
+Ulm 1531 (Moderate Reformed), the Heidelberg Catechism (Q. 98) and Kurpfalz 1565 (Reformed), and
+two Lutheran orders that follow them here, Lichtenberg 1579 and Sponheim 1590/91, reject the
+"laity's books" argument and clear images and crucifixes alike. The Prussian order of 1568
+answers them by name.
 
 **3. The crucifix is the image the Lutheran orders most often name as kept (§4.5).** Hannover
 1536, Grubenhagen 1544 (where it "shall stand in the midst of the church") and Anhalt 1562 keep
 it. It is carried before funerals at Freiberg 1538 and Wolfstein 1574, stands at the deathbed
-(Dietrich 1545) and on the Mansfeld oath table (1586). The Reformed removed it, and
+(Dietrich 1545) and on the Mansfeld oath table (1586). The Reformed removed it, and the Lutheran
 Nassau-Weilburg in 1617 stopped carrying it before corpses. Banners, poles and processional
 crosses went with the processions (§4.6).
 
 **4. One altar; the minister before it, facing the people (§5.1–5.3).** Side altars were
 removed, leaving three (Wittenberg 1522) or one (Mecklenburg 1552, Upper Palatinate 1557,
 Kurland 1570). Colditz 1529 and Gotha 1555 order altars arranged so that the minister faces the
-people. The Wittenberg theologians condemned standing *behind* the table as Karlstadt's and
-Müntzer's disorder (Wittenbergische Reformation 1545, Allstedt 1533). Strasbourg 1537 set up an
-altar-table facing the people, and the Calvinizing orders put tables in place of altars (Siegen
-1581, Casimir 1587, Anhalt 1596, Simmern 1598). In Transylvania the synod of 1565 ordered altars
-pulled down by "turbulent men" to be restored.
+people. The Wittenberg theologians condemned standing *behind* the table as the disorder of
+Karlstadt and Müntzer (Radical Reformation) (Wittenbergische Reformation 1545, Allstedt 1533).
+Strasbourg 1537 (Moderate Reformed) set up an altar-table facing the people, and the Reformed
+orders put tables in place of altars (Siegen 1581, Casimir 1587, Anhalt 1596, Simmern 1598). In
+Transylvania the synod of 1565 ordered altars pulled down by "turbulent men" to be restored.
 
 **5. Two candles, no sacrament house (§5.4–5.5).** The usual Lutheran altar has two lights
 during the Supper (Allstedt 1533, Calenberg 1544/45, Kurland 1570). Hildesheim 1544 explains
-them by the night of the Last Supper. Kurpfalz 1546 keeps a single lamp, and Regensburg and
-Anhalt 1596 drop the lights. No order varies the number of lights by feast or season. Where the
-lights vary, they vary with communion: lit when there are communicants (Marggrabowa and Sensburg
-1581), and at Suhl 1562 not lit at all. The endowments for the eternal light went to the common
-chest (Württemberg 1536), and the blessing of Candlemas and Easter candles was abolished (Hesse
-1526, Pfalz-Neuburg 1543, Lüneburg convents 1555). Since the Sacrament was not reserved,
-sacrament houses and ambries were emptied (Hesse 1526, Schönburg 1542, Hohenlohe 1553) or
-removed (Pfalz-Neuburg 1560, Nassau-Weilburg 1576, Magdeburg 1583, Kurpfalz 1565). No order uses
-"tabernacle" for a furnishing.
+them by the night of the Last Supper. Kurpfalz 1546 (Lutheran) keeps a single lamp, and
+Regensburg and Anhalt 1596 (Reformed) drop the lights. No order varies the number of lights by
+feast or season. Where the lights vary, they vary with communion: lit when there are
+communicants (Marggrabowa and Sensburg 1581), and at Suhl 1562 not lit at all. The endowments
+for the eternal light went to the common chest (Württemberg 1536), and the blessing of Candlemas
+and Easter candles was abolished (Hesse 1526, Moderate Reformed; Pfalz-Neuburg 1543, Lüneburg
+convents 1555). Since the Sacrament was not reserved, sacrament houses and ambries were emptied
+(Hesse 1526, Moderate Reformed; Schönburg 1542, Hohenlohe 1553) or removed (Pfalz-Neuburg 1560,
+Nassau-Weilburg 1576, Magdeburg 1583, Kurpfalz 1565 (Reformed)). No order uses "tabernacle" for
+a furnishing.
 
 **6. The font is moved into sight (§5.6).** The customary font is kept (Prussia 1525), railed
 and adorned (Nördlingen 1544), and moved before the choir, raised a step or two (Lüneburg 1564),
-or "out of the corners before the face of the church" (Bentheim 1588). Bremen 1534 warms the
-water in winter. The Reformed abolish the font (Kurpfalz 1565, Casimir 1587, Simmern 1598).
+or "out of the corners before the face of the church" (Bentheim 1588, Reformed). Bremen 1534
+warms the water in winter. The Reformed abolish the font (Kurpfalz 1565, Casimir 1587, Simmern
+1598, all Reformed).
 
 **7. Pulpit, pews and galleries (§5.7).** The pulpit appears among the things to be covered and
 kept. The choir screen is torn down at Zweibrücken 1558 so that the nuns can be seen at sermon.
@@ -174,20 +199,22 @@ fall, or prescribes colours. What the orders ask for:
   (Leiningen 1609);
 - a corporal and pall in the sick communion (Brandenburg 1540);
 - the silk cloth held under communicants by boys, deacons or honest men (Hohenlohe 1553,
-  Regensburg 1553, Speyer 1557, Thorn 1575). The Calvinists abolished it (Amberg 1567, Upper
-  Palatinate 1579, Nassau-Weilburg 1617).
+  Regensburg 1553, Speyer 1557, Thorn 1575). The Reformed Amberg mandate of 1567 abolished it,
+  and so later did two Lutheran orders, the Upper Palatine visitation of 1579 under the Lutheran
+  Elector Ludwig VI and Nassau-Weilburg 1617.
 
 Surplus vestments were sold or cut up for the hospital's bed sheets (Schmiedeberg 1528), or made
 into altar cloths (Sponheim 1590/91). The Reformed exchanged chalices for beakers (Siegen 1581,
-Casimir 1587, Zweibrücken 1595).
+Casimir 1587, Zweibrücken 1595, all Reformed).
 
 The paten was kept as an ordinary vessel (Hannover 1536) and counted in the inventories (§6.7).
 The commonest rubric puts it, with as many hosts as communicants, into the minister's hand at
 the Words of Institution (Livonia 1533, the Palatinate 1546, Danzig 1557, Henneberg 1582). At
 the sick communion it was held under the communicant's chin (Brandenburg 1540). Havelberg (1558)
-forbade elevating it in the chalice's stead. Hohenlohe (1596) and Nassau-Weilburg (1617) stopped
-showing or handling it at the Verba. The Reformed melted or sold patens with the chalices
-(Zweibrücken 1595, Wittgenstein 1605) and passed the bread in a dish.
+forbade elevating it in the chalice's stead. Hohenlohe (1596) and Nassau-Weilburg (1617), both
+Lutheran, stopped showing or handling it at the Verba. The Reformed melted or sold patens with
+the chalices (Zweibrücken 1595, Wittgenstein 1605, both Reformed) and passed the bread in a
+dish.
 
 **9. Vestments: chasuble, cope, surplice (§7).**
 - *The Mass vestment* (alb and chasuble) was kept, and in Saxony restored, for the Supper with
@@ -198,15 +225,16 @@ showing or handling it at the Verba. The Reformed melted or sold patens with the
   not think the private Mass had returned (Brandenburg 1540, Pfalz-Neuburg 1543). Brenz allowed
   it to the deacon at Schwäbisch Hall in 1527, but no chasuble, "neither man's nor woman's
   clothing".
-- *Abolished:* the dalmatic and tunicle at Homberg 1526; the "Levite and Mass vestments" at
-  Regensburg in 1554, with a reasoned statement read from the pulpit; the Mass vestment at Sayn
-  1575 and Anhalt 1596. Transylvania 1557 wants candles and *infulae* laid aside and a white
-  linen garment instead.
+- *Abolished:* the dalmatic and tunicle at Homberg 1526 (Moderate Reformed); the "Levite and
+  Mass vestments" at Regensburg in 1554, with a reasoned statement read from the pulpit; the
+  Mass vestment at Sayn 1575 and Anhalt 1596 (Reformed). Transylvania 1557 wants candles and
+  *infulae* laid aside and a white linen garment instead.
 - *The surplice* is the common minimum and the vestment most often named: Prussia 1543, Hesse
-  1532, Württemberg 1535 and 1553, the *Cellische Ordnungen* of 1545, Regensburg 1554 and 1567,
-  Wittgenstein 1563, Anhalt 1568. Ernestine Saxony and Coburg in 1554 limit it to the altar. The
-  Palatine Calvinists and Sayn 1582 abolish it. Wild- und Rheingrafschaft 1603 introduces a
-  black gown with sleeves, but keeps surplices where they are used.
+  1532 (Moderate Reformed), Württemberg 1535 and 1553, the *Cellische Ordnungen* of 1545,
+  Regensburg 1554 and 1567, Wittgenstein 1563, Anhalt 1568. Ernestine Saxony and Coburg in 1554
+  limit it to the altar. The Palatine Calvinists (Reformed) and the Lutheran Sayn 1582 abolish
+  it. Wild- und Rheingrafschaft 1603 introduces a black gown with sleeves, but keeps surplices
+  where they are used.
 
 **10. Outside the service (§8).** Ministers are to wear long, honest, priestly coats, not short,
 slashed or coloured clothes, so that they may be known as ministers (Grubenhagen 1544, the
@@ -217,12 +245,13 @@ change of vestments or paraments. Coloured vestments nonetheless stayed in use. 
 Fürstenberg church had a red-and-green velvet chasuble newly given by the Duke of Mecklenburg, a
 red velvet chasuble and red damask deacon's coats. At Sorau the boys who held the communion
 cloths wore red smocks and green garlands. The Lenten veiling of images is named only to be
-ended: Luther rejects it, Mülhausen 1528 drops the unveiled crucifix shown on Good Friday, and
-at Regensburg a covered altarpiece was removed all the same. The Lenten veil, the Easter
-sepulchre, the paschal candle and the image plays of the feasts were all abolished (Luther 1526,
-Pfalz-Neuburg 1543, Hohenlohe 1553). Leiningen-Westerburg 1566 forbids May branches and decking
-the church with flowers as heathen customs; only at Hof (1592) did neighbours strew grass and
-set up May branches for the dedication procession. There is no Advent wreath or Christmas tree.
+ended: Luther rejects it, Mülhausen 1528 (Reformed) drops the unveiled crucifix shown on Good
+Friday, and at Regensburg a covered altarpiece was removed all the same. The Lenten veil, the
+Easter sepulchre, the paschal candle and the image plays of the feasts were all abolished
+(Luther 1526, Pfalz-Neuburg 1543, Hohenlohe 1553). Leiningen-Westerburg 1566 forbids May
+branches and decking the church with flowers as heathen customs; only at Hof (1592) did
+neighbours strew grass and set up May branches for the dedication procession. There is no Advent
+wreath or Christmas tree.
 
 **12. What is absent (§2.3).** There is no evangelical mitre or crosier, and no preaching bands,
 cassock, rochet, biretta or episcopal insignia. Liturgical colours are never prescribed. The
@@ -313,7 +342,7 @@ episcopal vocabulary of the request:
   zucchetto, galero, humeral veil, pallium, rationale, gloves, tippet or hood. The amice and
   cincture are never named. The stole and maniple appear only to be left free (Hildesheim 1544)
   or dropped (Regensburg 1567), and the dalmatic and tunicle only to be forbidden (Hesse 1526,
-  Regensburg 1554). The black gown appears once, in 1603 (§7.4).
+  Moderate Reformed; Regensburg 1554). The black gown appears once, in 1603 (§7.4).
 
 ### 2.4 Method
 
@@ -444,10 +473,10 @@ gospel put them away with one accord. Then will we also not be singular. If our 
 not use the stoles and maniples, we ask nothing after that; it shall be free to them out of the
 same Christian liberty, as is said.
 
-**Hesse 1526.** Even the Homberg synod of 1526, which forbade new purchases of vestments (§7.3),
-commended a minimum "that all things be done decently": the minister should at least wear a
-surplice, candles should be lit, and the chalice should be seemly. **Hesse, *Homberger
-Kirchenordnung*, 1526** (Sehling 8, p. 45):
+**Hesse 1526** (Moderate Reformed). Even the Homberg synod of 1526, which forbade new purchases
+of vestments (§7.3), commended a minimum "that all things be done decently": the minister should
+at least wear a surplice, candles should be lit, and the chalice should be seemly. **Hesse,
+*Homberger Kirchenordnung*, 1526** (Moderate Reformed; Sehling 8, p. 45):
 
 <!-- doc 2247 -->
 > Servetur in ea ritus, quem servus Dei Martinus Lutherus ultimo germanice conscripsit, et ut
@@ -584,11 +613,12 @@ whatever more of the juggling-work there is".
 
 ### 4.2 Orderly removal
 
-**Strasbourg 1525.** The orders insist that images be removed by authority, not by the people.
-The Strasbourg council's mandate of March 1525 forbids every citizen to take down anything,
-"small or great, in church or in the street", of images, altars, panels, iron or stone work, on
-pain of severe punishment; whoever has a grievance is to bring it to the council. **Strasbourg,
-*Mandat über Bilder und Altäre*, 18 March 1525** (Sehling 20/1, p. 166):
+**Strasbourg 1525** (Moderate Reformed). The orders insist that images be removed by authority,
+not by the people. The Strasbourg council's mandate of March 1525 forbids every citizen to take
+down anything, "small or great, in church or in the street", of images, altars, panels, iron or
+stone work, on pain of severe punishment; whoever has a grievance is to bring it to the council.
+**Strasbourg, *Mandat über Bilder und Altäre*, 18 March 1525**
+(Moderate Reformed; Sehling 20/1, p. 166):
 
 <!-- doc 1282 -->
 > Unnser herren rete unnd XXI londt gebietten allen unnd yeden iren burgern, geistlichen unnd
@@ -692,9 +722,10 @@ best of the poor non-Germans.
 
 ### 4.4 The Reformed clearances
 
-**Ulm 1531.** The Upper German and Reformed orders made no distinction between idols and
-histories. Ulm, under Bucer's hand, orders "such worshipped images" removed from all churches as
-soon as the people have been taught. **Ulm, *Kirchenordnung*, 1531** (Sehling 17/2, p. 145):
+**Ulm 1531** (Moderate Reformed). The Upper German and Reformed orders made no distinction
+between idols and histories. Ulm, under Bucer's hand, orders "such worshipped images" removed
+from all churches as soon as the people have been taught. **Ulm, *Kirchenordnung*, 1531**
+(Moderate Reformed; Sehling 17/2, p. 145):
 
 <!-- doc 837 -->
 > So wöllen wir, das sölche verehrte bilder auß allen kirchen und anndern ortten, so bald das
@@ -705,9 +736,9 @@ So will we that such worshipped images be put away out of all churches and other
 as the people is somewhat informed of the truth through the word, by the officials of each
 place, to whom we will give command thereof.
 
-**The Heidelberg Catechism.** The Palatine catechism of 1563 refuses Gregory's argument
-outright. **Kurpfalz, *Heidelberger Katechismus*, Question 98, *Kirchenordnung*, 1563**
-(Sehling 14, p. 362):
+**The Heidelberg Catechism.** The Palatine catechism of 1563 (Reformed) refuses Gregory's
+argument outright. **Kurpfalz, *Heidelberger Katechismus*, Question 98, *Kirchenordnung*, 1563**
+(Reformed; Sehling 14, p. 362):
 
 <!-- doc 504 -->
 > [98.] Frag. Mögen aber nicht die bilder als der leyen bücher in den kirchen geduldet werden?
@@ -718,10 +749,10 @@ outright. **Kurpfalz, *Heidelberger Katechismus*, Question 98, *Kirchenordnung*,
 for we should not be wiser than God, who will not have his Christendom taught by dumb idols, but
 by the living preaching of his word.
 
-**Kurpfalz 1565.** Two years later Frederick III ordered his officials to clear what remained:
-altars, Mount of Olives groups, crucifixes in church, in the street and before the church,
-sacrament houses, fonts and holy-water stoups. **Kurpfalz, *Befehl an die Amtleute*, 3 October
-1565** (Sehling 14, p. 429):
+**Kurpfalz 1565** (Reformed). Two years later Frederick III ordered his officials to clear what
+remained: altars, Mount of Olives groups, crucifixes in church, in the street and before the
+church, sacrament houses, fonts and holy-water stoups. **Kurpfalz, *Befehl an die Amtleute*, 3
+October 1565** (Reformed; Sehling 14, p. 429):
 
 <!-- doc 504 -->
 > so befinden wir noch teglich, das noch hien und wieder viel abgötterey uberig plieben, als
@@ -734,10 +765,10 @@ churches, item sacrament houses, fonts, holy-water stoups, and more such idol-wo
 
 The Reformed clearances that followed are quoted in §5.3: Nassau-Dillenburg's Siegen mandate of
 1581 (images, panels, organs, altars and chalices), the Casimirian mandate of 1587 and Simmern
-1598. The Sponheim *Kirchen- und Zensurordnung* of 1590/91 (Sehling 18, p. 653) orders "crucifix
-      and other images which are still present" taken away, and the Lichtenberg instruction of
-      1579 does the same for crucifixes. **Lichtenberg, *Dienstanweisung für die Pfarrer*,
-      1579** (Sehling 18, p. 379):
+1598. Two Lutheran orders went the same way. The Sponheim *Kirchen- und Zensurordnung* of
+1590/91 (Sehling 18, p. 653) orders "crucifix and other images which are still present" taken
+away, and the Lichtenberg instruction of 1579, in Lutheran Pfalz-Zweibrücken, does the same for
+crucifixes. **Lichtenberg, *Dienstanweisung für die Pfarrer*, 1579** (Sehling 18, p. 379):
 
 <!-- doc 992 -->
 > 17. ) Sollen auch die abgöttische Bilder, Crucifix, wo deren noch vorhandenn, vermög der
@@ -803,7 +834,7 @@ Instructio des Thomas Stieber*, 1574** (Sehling 13, p. 586):
 But to carry a crucifix before, for a witness on whom the Christians die, namely on the
 crucified Lord Jesus Christ, that shall be unforbidden.
 
-The Calvinizing Nassau-Weilburg points of 1617 abolish the custom. **Nassau-Weilburg,
+The Nassau-Weilburg points of 1617, a Lutheran order, abolish the custom. **Nassau-Weilburg,
 *Erläuterungspunkte zur Kirchenordnung*, 1617** (Sehling 10, p. 353):
 
 <!-- doc 199 -->
@@ -860,6 +891,9 @@ The image plays of the great feasts went with them. Hohenlohe 1553 abolishes the
 of the image of the risen Christ at Easter, its drawing up on Ascension Day, the letting down of
 the dove at Pentecost and the rocking of the Christ-child at Christmas
 (Sehling 15, p. 77; see [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.10).
+
+The rites of the feasts in which the image plays stood are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §21.
 
 ---
 
@@ -936,20 +970,20 @@ suffered in the church; also that the altars shall be so arranged, that the prie
 their office with the face turned toward the people.
 
 **Not behind the table.** "Facing the people" did not yet mean standing behind a freestanding
-table. That posture was associated with Karlstadt and Müntzer, and the Wittenberg theologians
-condemned it. The *Wittenbergische Reformation* of 1545 hopes for a uniform Mass "with standing
-before the altar, that there be not such disorder as in some places, that the priests stand
-behind the table" (Sehling 1, p. 214). The Allstedt visitation of 1533, in Müntzer's former
-parish, orders every pastor to celebrate "not behind the altar, as some have done from the time
-of Thomas Müntzer until now, but to stand before the altar", and not to turn to the people at
-the elevation (Sehling 1, p. 510).
+table. That posture was associated with Karlstadt and Müntzer (Radical Reformation), and the
+Wittenberg theologians condemned it. The *Wittenbergische Reformation* of 1545 hopes for a
+uniform Mass "with standing before the altar, that there be not such disorder as in some places,
+that the priests stand behind the table" (Sehling 1, p. 214). The Allstedt visitation of 1533,
+in Müntzer's former parish, orders every pastor to celebrate "not behind the altar, as some have
+done from the time of Thomas Müntzer until now, but to stand before the altar", and not to turn
+to the people at the elevation (Sehling 1, p. 510).
 
-**Behind the table.** At the end of the century the Calvinizing princes ordered exactly that. In
+**Behind the table.** At the end of the century the Reformed princes ordered exactly that. In
 Anhalt in 1596 Johann Georg ordered the ministers to lay aside lights, Mass vestments and
 chasubles, to step behind the table "be it of stone or of wood", face the people and break the
 bread; the village officers were to remove the panels from the altars and the carved crucifixes
 from the churches, and set up a table in place of the altar. **Anhalt, *Verordnung Johann
-Georgs*, 3 November 1596** (Sehling 2, p. 580):
+Georgs*, 3 November 1596** (Reformed; Sehling 2, p. 580):
 
 <!-- doc 1262 -->
 > die lichter uf den altaren, mesgewant und caseln ablegen, bei administrirung und auspendunge
@@ -966,8 +1000,9 @@ distribution, and give the same to the people according to Christ's word and ins
 that the village headmen and wardens put away the panels from the altars and the carved wooden
 crucifixes out of the church, and in place of the altar a table of stone or of wood [set up].
 
-**Strasbourg 1537** had already set up an "altar-table" facing the people so that everyone might
-hear every word. **Strasbourg, *Agende*, 1537** (Sehling 20/1, p. 270):
+**Strasbourg 1537** (Moderate Reformed) had already set up an "altar-table" facing the people so
+that everyone might hear every word. **Strasbourg, *Agende*, 1537**
+(Moderate Reformed; Sehling 20/1, p. 270):
 
 <!-- doc 1302 -->
 > komet der pfarrer und gehet für den altartisch, so sie gegen dem volck, damit jederman alle
@@ -980,8 +1015,7 @@ following words.
 
 ### 5.3 Tables in place of altars
 
-The Reformed princes replaced altars with tables outright. **Simmern, *Mandat zur Abschaffung
-der Bilder und Altäre*, 2 October 1598** (Sehling 19/2, p. 661):
+The Reformed princes replaced altars with tables outright. **Simmern, *Mandat zur Abschaffung der Bilder und Altäre*, 2 October 1598** (Reformed, issued from Heidelberg after Simmern fell to the Electoral Palatinate; Sehling 19/2, p. 661):
 
 <!-- doc 1126 -->
 > das in diesem gantzen ambt Simern allenthalben in den kirchen das gotzenwerck, altaria,
@@ -991,8 +1025,8 @@ der Bilder und Altäre*, 2 October 1598** (Sehling 19/2, p. 661):
 that in this whole district of Simmern, everywhere in the churches, the idol-work, altars, fonts
 and the like shall be wholly abolished, and in the altars' stead ordinary tables be ordained.
 
-The Casimirian mandate for the Palatinate in 1587 is a list of such measures. **Kurpfalz,
-*Casimirianische Kirchenordnung*, mandate, 1587** (Sehling 19/2, p. 757):
+The Casimirian mandate for the Palatinate in 1587 (Reformed) is a list of such measures.
+**Kurpfalz, *Casimirianische Kirchenordnung*, mandate, 1587** (Reformed; Sehling 19/2, p. 757):
 
 <!-- doc 1144 -->
 > 13. An stat altarien soll man hultzern tisch in der kirchen machen und setzen lassen. 14. Kein
@@ -1003,9 +1037,9 @@ The Casimirian mandate for the Palatinate in 1587 is a list of such measures. **
     font shall be suffered in the church. 15. In place of the little round hosts one shall set
     broad cakes or loaves in a dish upon the table in the church.
 
-The Siegen mandate of 1581 likewise orders "the actual abolition of the idols, panels, organs,
-altars, chalices, and the ordering in their stead in each place of a table and a beaker"
-(Sehling 10, p. 158).
+The Siegen mandate of 1581 (Reformed) likewise orders "the actual abolition of the idols,
+panels, organs, altars, chalices, and the ordering in their stead in each place of a table and a
+beaker" (Sehling 10, p. 158).
 
 **Altar or table.** The Lutheran order of Marienhafe in East Frisia (1593), surrounded by
 Reformed churches, uses both words: each church is to have its own table-cloth, chalice, dish
@@ -1085,12 +1119,12 @@ service of God stood therein or the hallowing of this sacrament lay thereon, but
 as a free indifferent thing without all superstition.
 
 Here "reformed" means the neighbouring evangelical churches, not the Calvinists. **Ansbach
-1548** wants the altar candles lit at the beginning of Mass and Vespers and not put out until
-the very end (Sehling 11, p. 327). Thüngen 1564 keeps them for peace (§3.3).
+1548**, an Interim order, wants the altar candles lit at the beginning of Mass and Vespers and
+not put out until the very end (Sehling 11, p. 327). Thüngen 1564 keeps them for peace (§3.3).
 
-**One lamp.** The Palatine interim order of 1546 reduces the lights to a single lamp and turns
-the cost of oil and wax to other uses. **Kurpfalz, *Gemaine maß, die kirchen- und gottesdinst
-anzurichten*, 1546** (Sehling 14, p. 94):
+**One lamp.** The Palatine provisional order of 1546 (Lutheran; not an Interim order) reduces
+the lights to a single lamp and turns the cost of oil and wax to other uses. **Kurpfalz,
+*Gemaine maß, die kirchen- und gottesdinst anzurichten*, 1546** (Sehling 14, p. 94):
 
 <!-- doc 472 -->
 > 7. Man soll nur ein ampel in der kirchen lassen, den uberigen kosten des oles und wachs
@@ -1100,7 +1134,7 @@ anzurichten*, 1546** (Sehling 14, p. 94):
    [and] use [it] for other needful services of the church.
 
 **Abolished.** Regensburg dropped the lights with the Mass vestment (§7.3), and Anhalt in 1596
-ordered them laid aside (§5.2).
+(Reformed) ordered them laid aside (§5.2).
 
 **Lights for the Supper, not for the feast.** No order found varies the number of altar lights
 by the rank of a feast or by the season. Where the orders vary the lights, they vary them by
@@ -1170,7 +1204,7 @@ The Württemberg order of 1552 repeats the clause (Sehling 16, p. 202). The sing
 Kurpfalz 1546, which the editor takes for the eternal light, is the only one found kept.
 
 **Blessed candles.** The blessing of candles at Candlemas was abolished. **Hesse, *Homberger
-Kirchenordnung*, 1526** (Sehling 8, p. 49):
+Kirchenordnung*, 1526** (Moderate Reformed; Sehling 8, p. 49):
 
 <!-- doc 2249 -->
 > Interdicimus autem in virtute omnipotentis Dei, ne quis in ipsis festis quicquam agat eorum,
@@ -1220,8 +1254,9 @@ October 1542** (Sehling 2, p. 175):
 9. They shall keep no sacrament nor chrism or the like in the sacrament house, nor suffer
    burning lamps before it.
 
-**Ambries.** The Homberg synod forbids reservation in any form, "in ambries or little boxes".
-**Hesse, *Homberger Kirchenordnung*, 1526** (Sehling 8, p. 46):
+**Ambries.** The Homberg synod (Moderate Reformed) forbids reservation in any form, "in ambries
+or little boxes". **Hesse, *Homberger Kirchenordnung*, 1526**
+(Moderate Reformed; Sehling 8, p. 46):
 
 <!-- doc 2247 -->
 > [27] Quia usus sanctae eucharistiae est perceptio eius, et communio fidelium in Christi
@@ -1262,7 +1297,7 @@ with Christian discretion.
     also sacrament houses, which one shall wholly abolish, and bury and inter the dead men's
     bones in the earth in the churchyard.
 
-Magdeburg 1583 (§3.2) and Kurpfalz 1565 (§4.4) name the sacrament house too.
+Magdeburg 1583 (§3.2) and Kurpfalz 1565 (Reformed; §4.4) name the sacrament house too.
 
 ### 5.6 The font
 
@@ -1291,9 +1326,9 @@ sets the fonts "up before the choir and a step or two high". **Lüneburg, *Kirch
 Therefore we ordain and appoint that in all parishes of our principality the fonts, where it
 hath not already been done, shall be set up before the choir, and a step or two on high.
 
-Bentheim-Tecklenburg 1588 moves the fonts "out of the corners before the face of the church, as
-hath been done also in many reformed churches of the German nation". **Bentheim-Tecklenburg,
-*Kirchenordnung*, 1588** (Sehling 22, p. 268):
+Bentheim-Tecklenburg 1588 (Reformed) moves the fonts "out of the corners before the face of the
+church, as hath been done also in many reformed churches of the German nation".
+**Bentheim-Tecklenburg, *Kirchenordnung*, 1588** (Reformed; Sehling 22, p. 268):
 
 <!-- doc 1507 -->
 > Es sollen auch die Baptisteria oder Tauffsteine auß den Winckelen für das Angesicht der
@@ -1329,9 +1364,9 @@ own harm and hurt) in a basin, that the baptism, given for salvation, harm not t
 in its body.
 
 **Abolished.** The Reformed orders removed the font altogether: Kurpfalz 1565 (§4.4), the
-Casimirian mandate of 1587 and Simmern 1598 (§5.3). Sponheim in 1607 complains that the "old,
-abolished fonts and corner-Mass altars" ordered removed still lie broken in some churches, "a
-great unseemliness" (Sehling 18, p. 669).
+Casimirian mandate of 1587 and Simmern 1598 (§5.3), all Reformed. The Lutheran Sponheim in 1607
+complains that the "old, abolished fonts and corner-Mass altars" ordered removed still lie
+broken in some churches, "a great unseemliness" (Sehling 18, p. 669).
 
 ### 5.7 Pulpit, screens, pews, galleries and windows
 
@@ -1467,9 +1502,9 @@ und Täuferordnung*, 1609** (Sehling 19/1, p. 315):
 The reading desk (*Pult*) appears here among the furnishings to be covered. No order names a
 lectern fall, superfrontal, dossal or runner.
 
-**Old vestments made into altar cloths.** The Reformed Sponheim order of 1590/91 turns surplices
-and Mass vestments into altar cloths, and gives what is of little use to the poor. **Hintere
-Grafschaft Sponheim, *Kirchen- und Zensurordnung*, 1590/91** (Sehling 18, p. 653):
+**Old vestments made into altar cloths.** The Sponheim order of 1590/91, a Lutheran order, turns
+surplices and Mass vestments into altar cloths, and gives what is of little use to the poor.
+**Hintere Grafschaft Sponheim, *Kirchen- und Zensurordnung*, 1590/91** (Sehling 18, p. 653):
 
 <!-- doc 1021 -->
 > 15. Crucifix unnd anndere bilder, so noch vorhanndenn sein, soll mann hinweg thun unnd
@@ -1547,17 +1582,17 @@ chasuble and surplice, and reach to the people the sacrament of the body and blo
 Christ; where also on both sides of the altar boys stand, which hold silken little cloths, to
 prevent mishap.
 
-**Abolished.** The Palatine Calvinists abolished the cloth with the surplice. **Kurpfalz,
-*Amberger Mandat*, 20 January 1567** (Sehling 13, p. 303):
+**Abolished.** The Palatine Calvinists (Reformed) abolished the cloth with the surplice.
+**Kurpfalz, *Amberger Mandat*, 20 January 1567** (Reformed; Sehling 13, p. 303):
 
 <!-- doc 415 -->
 > Zum andern, das das tuchlein, so man den comunicanten underhelt, abgeschafft werde.
 
 Secondly, that the little cloth which is held under the communicants be abolished.
 
-The Upper Palatinate visitation of 1579 orders both things dropped; *verbleiben* here means "be
-left off", as the editor notes. **Upper Palatinate, *Visitationsordnung*, 1579**
-(Sehling 13, p. 315):
+The Upper Palatinate visitation of 1579, a Lutheran order of Elector Ludwig VI, orders both
+things dropped; *verbleiben* here means "be left off", as the editor notes. **Upper Palatinate,
+*Visitationsordnung*, 1579** (Sehling 13, p. 315):
 
 <!-- doc 416 -->
 > 3. Das der chorrock und die duchlein hinfort allerding verbleiben sollen, wie sich denn
@@ -1599,10 +1634,10 @@ and the remaining albs and chasubles sold, and the purchase money [put] into the
 
 Zahna 1528 has the same provision (Sehling 1, p. 713).
 
-**No new purchases.** The Homberg synod forbids any further outlay on altar paraments,
-chasubles, copes or mantles; what was spent on them is to go to the poor. A minister who has a
-chasuble may use it at the Supper or not. **Hesse, *Homberger Kirchenordnung*, 1526**
-(Sehling 8, p. 45):
+**No new purchases.** The Homberg synod (Moderate Reformed) forbids any further outlay on altar
+paraments, chasubles, copes or mantles; what was spent on them is to go to the poor. A minister
+who has a chasuble may use it at the Supper or not. **Hesse, *Homberger Kirchenordnung*, 1526**
+(Moderate Reformed; Sehling 8, p. 45):
 
 <!-- doc 2247 -->
 > [22] Amodo nullae fiant impensae pro altariorum paramentis, casulis, cappis seu chlamidibus et
@@ -1624,13 +1659,13 @@ bought.
 other for the sick" (Sehling 5, p. 99), and Brandenburg 1540 a separate chalice for the sick
 (§6.2).
 
-**Beakers.** The Reformed replaced chalices with beakers. The Casimirian mandate of 1587 orders
-all but one of the chalices sent to the treasury and silver beakers used instead
-(Sehling 19/2, p. 757), and Siegen 1581 orders "a table and a beaker" (§5.3). At Zweibrücken in
-1595 all chalices and patens were to be collected after Easter and handed to the goldsmiths to
-make beakers "for the more conformity with other reformed evangelical churches".
-**Pfalz-Zweibrücken, *Mandat zur Ablieferung der Vasa sacra*, 7 April 1595**
-(Sehling 18, p. 410):
+**Beakers.** The Reformed replaced chalices with beakers. The Casimirian mandate of 1587
+(Reformed) orders all but one of the chalices sent to the treasury and silver beakers used
+instead (Sehling 19/2, p. 757), and Siegen 1581 (Reformed) orders "a table and a beaker" (§5.3).
+At Zweibrücken in 1595, now Reformed, all chalices and patens were to be collected after Easter
+and handed to the goldsmiths to make beakers "for the more conformity with other reformed
+evangelical churches". **Pfalz-Zweibrücken, *Mandat zur Ablieferung der Vasa sacra*, 7 April
+1595** (Reformed; Sehling 18, p. 410):
 
 <!-- doc 998 -->
 > Nachdem auch ann statt der kelch, so mann bishero in administrirung des heilgen abentmals
@@ -1702,11 +1737,11 @@ of places in the corpus, and always in order to end it. Luther's *Deutsche Messe
 Lenten veil ("hunger cloth") and the covering of images (§4.1). No order keeps either, and none
 prescribes veiling crosses or images in Passiontide.
 
-The Mülhausen preachers' opinion on Holy Week of 1528 shows the other end of the veiling: the
-crucifix unveiled and shown at the Good Friday office. They ask that this "may well be left off,
-with some chants", together with the burial of the Lord in the sepulchre and the wooden
-clappers. **Mülhausen, *Gutachten zu den Gottesdiensten in der Karwoche*, [1528]**
-(Sehling 20/2, p. 207):
+The Mülhausen preachers' opinion on Holy Week of 1528 (Reformed) shows the other end of the
+veiling: the crucifix unveiled and shown at the Good Friday office. They ask that this "may well
+be left off, with some chants", together with the burial of the Lord in the sepulchre and the
+wooden clappers. **Mülhausen, *Gutachten zu den Gottesdiensten in der Karwoche*, [1528]**
+(Reformed; Sehling 20/2, p. 207):
 
 <!-- doc 1380 -->
 > Des glichen die begrebniß des herrn yn das grab mitt andern brüchen abgestelt werde, ouch, das
@@ -1782,10 +1817,10 @@ making St John's fires and leaping over them, and other godless fool's-work, car
 decking the church with flowers, and ringing against the weather: so will we that such offensive
 and ungodly conduct and work be abolished.
 
-The Palatine mandates of 1562 likewise forbid the young men and maids to set up May branches
-(Sehling 14, pp. 272–273). The one approving mention is at Hof. On the anniversary of the 1572
-dedication of St Michael's, the neighbours strewed the lane with grass and set up "fine May
-branches" on both sides for the procession, "to the honour of God and his church"
+The Palatine mandates of 1562 (Reformed) likewise forbid the young men and maids to set up May
+branches (Sehling 14, pp. 272–273). The one approving mention is at Hof. On the anniversary of
+the 1572 dedication of St Michael's, the neighbours strewed the lane with grass and set up "fine
+May branches" on both sides for the procession, "to the honour of God and his church"
 (Sehling 11, p. 467; see [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §14.3).
 
 **Not found.** No order mentions an Advent wreath, a Christmas tree, a crib set up in church
@@ -1850,10 +1885,10 @@ The same rubric appears in many orders:
 - **Henneberg (1582):** the minister shall "always have the paten with the particles in his
   hand" when he says "This is my body" (Sehling 2, p. 309).
 
-The number of hosts on the paten was counted to the number of communicants. The Palatinate wants
-nothing left over to be reserved (above). Württemberg in 1562 found the minister in some places
-repeating the Verba "when there is no more bread and wine on the paten and in the chalice", and
-in others not (Sehling 16, p. 436).
+The number of hosts on the paten was counted to the number of communicants. The Palatinate
+(Reformed) wants nothing left over to be reserved (above). Württemberg in 1562 found the
+minister in some places repeating the Verba "when there is no more bread and wine on the paten
+and in the chalice", and in others not (Sehling 16, p. 436).
 
 **Held under the chin.** At the sick communion of Brandenburg (1540) "the priest shall also
 specially hold the paten cleanly under" as he gives the host (Sehling 3, p. 80). Pfalz-Neuburg
@@ -1901,24 +1936,24 @@ patens and other treasures:
   or where needful two, for the wine" (Sehling 18, p. 655).
 
 **The host box.** The particles were kept in a box (*Lade*, *Schachtel*, *Kapsel*): Sponheim and
-Strasbourg (above). The *ciborium* for reservation went with the monstrance: Pomerania 1535
-needs no ciborium (Sehling 4, p. 342), and Teschen 1584 names "the shutting of the sacrament
-into the ciborium" among idolatrous ceremonies (Sehling 3, p. 461). Reservation is treated in
-§5.5.
+Strasbourg (above; both Lutheran). The *ciborium* for reservation went with the monstrance:
+Pomerania 1535 needs no ciborium (Sehling 4, p. 342), and Teschen 1584 names "the shutting of
+the sacrament into the ciborium" among idolatrous ceremonies (Sehling 3, p. 461). Reservation is
+treated in §5.5.
 
 **The Reformed dish.** The Reformed gave up the paten with the chalice:
-- **Pfalz-Zweibrücken (1595):** all chalices and patens were to be collected and made into
-  beakers (§6.5).
-- **Ysenburg-Birstein (1598):** the ministers are not to use "consecrated chalices, patens and
-  altars", but ordinary bread, broken and given into the hands, and "a clean drinking vessel"
-  for the wine (Sehling 10, p. 645).
-- **Wittgenstein (1605):** the Mass vestments, patens and chalices are to be sold to advantage
-  and a beaker bought for each place (Sehling 22, p. 149).
-- **The dish.** In its place the bread was carried in a dish (*Schüssel*). Micron's London
-  order, printed with the Emden orders, passes the dishes with the bread among those sitting at
-  the table (editors' comparison of the Supper forms, Sehling 7/1, p. 576). The Lutheran
-  Marienhafe order of 1593 also names "table cloth, chalice, dish and can" for the Supper
-  (Sehling 7/1, p. 710).
+- **Pfalz-Zweibrücken (1595, Reformed):** all chalices and patens were to be collected and made
+  into beakers (§6.5).
+- **Ysenburg-Birstein (1598, Reformed):** the ministers are not to use "consecrated chalices,
+  patens and altars", but ordinary bread, broken and given into the hands, and "a clean drinking
+  vessel" for the wine (Sehling 10, p. 645).
+- **Wittgenstein (1605, Reformed):** the Mass vestments, patens and chalices are to be sold to
+  advantage and a beaker bought for each place (Sehling 22, p. 149).
+- **The dish.** In its place the bread was carried in a dish (*Schüssel*). Micron's London order
+  (Reformed), printed with the Emden orders, passes the dishes with the bread among those
+  sitting at the table (editors' comparison of the Supper forms, Sehling 7/1, p. 576). The
+  Lutheran Marienhafe order of 1593 also names "table cloth, chalice, dish and can" for the
+  Supper (Sehling 7/1, p. 710).
 
 **Not found.** No order regulates the paten's material or size, or the veil and burse that go
 with it. None mentions the paten's use at the offertory, or the minister's wiping of it.
@@ -1929,11 +1964,11 @@ with it. None mentions the paten's use at the offertory, or the minister's wipin
 
 ### 7.1 The Mass vestment kept
 
-**Allstedt 1533.** In Electoral Saxony the visitors restored the Mass vestment where radicals
-had dropped it. At Allstedt, where Müntzer had celebrated in a surplice or in ordinary clothes,
-pastors are to wear alb and chasuble "as is now done at Allstedt and also at Wittenberg", with
-two burning lights. These ceremonies serve good discipline and do no harm. **Allstedt, *Ordnung
-der Visitatoren*, 1533** (Sehling 1, p. 510):
+**Allstedt 1533.** In Electoral Saxony the Lutheran visitors restored the Mass vestment where
+radicals had dropped it. At Allstedt, where Müntzer (Radical Reformation) had celebrated in a
+surplice or in ordinary clothes, pastors are to wear alb and chasuble "as is now done at
+Allstedt and also at Wittenberg", with two burning lights. These ceremonies serve good
+discipline and do no harm. **Allstedt, *Ordnung der Visitatoren*, 1533** (Sehling 1, p. 510):
 
 <!-- doc 53 -->
 > So auch etzliche bisanher ohne alben und casulen in einem korock, auch etzliche in schlechten
@@ -2100,9 +2135,9 @@ but altogether too foolish to look upon before the common assembly.
 
 ### 7.3 Vestments abolished
 
-**Dalmatic and tunicle.** The Homberg synod of 1526 forbids the vestments of deacons and
-subdeacons outright, since it will not favour orders without warrant in God's word. **Hesse,
-*Homberger Kirchenordnung*, 1526** (Sehling 8, p. 46):
+**Dalmatic and tunicle.** The Homberg synod of 1526 (Moderate Reformed) forbids the vestments of
+deacons and subdeacons outright, since it will not favour orders without warrant in God's word.
+**Hesse, *Homberger Kirchenordnung*, 1526** (Moderate Reformed; Sehling 8, p. 46):
 
 <!-- doc 2247 -->
 > [24] Dalmaticas, hoc est papisticorum diaconorum vestes aut subdiaconorum nemo de caetero
@@ -2193,8 +2228,8 @@ manifest from the testimony of the primitive church.
 the mitre.
 
 **Others.** The Sayn synod of 1575 drops the Mass vestment and keeps the surplice
-(Sehling 19/1, p. 356). Anhalt 1596 orders "Mass vestment and chasubles" laid aside (§5.2), and
-Sponheim 1590/91 turns them into altar cloths (§6.1).
+(Sehling 19/1, p. 356). Anhalt 1596 (Reformed) orders "Mass vestment and chasubles" laid aside
+(§5.2), and the Lutheran Sponheim 1590/91 turns them into altar cloths (§6.1).
 
 ### 7.4 The surplice
 
@@ -2215,9 +2250,9 @@ sacraments without at least a white surplice. **Prussia, *Befehl*, 1 February 15
 white surplice, that so herein also outwardly a worldly difference may be seen between the
 minister of the word, when he is in his office, and another who is not called thereto.
 
-**Hesse 1532.** The Hessian order uses the surplice "for the people's sake", to revive a
-reverence "almost wholly extinguished". **Hesse, *Ordenung der Christlichen kirchen*, 1532**
-(Sehling 8, p. 76):
+**Hesse 1532** (Moderate Reformed). The Hessian order uses the surplice "for the people's sake",
+to revive a reverence "almost wholly extinguished". **Hesse, *Ordenung der Christlichen
+kirchen*, 1532** (Moderate Reformed; Sehling 8, p. 76):
 
 <!-- doc 2252 -->
 > und, wen es versamlet ist, ists umb des volks willen fur geschickt angesehen (ut vel sic
@@ -2325,9 +2360,10 @@ Coburg in the same year limits it to the communion, worn only by the one who cel
 Sixthly, the surplice shall be used neither at burials nor in the pulpit nor otherwise in other
 church offices, but only at the communion, by the one person who holdeth the office.
 
-**Abolished.** The Palatine Calvinists abolished the surplice with the communion cloth, at
-Amberg in 1567 and in the Upper Palatinate in 1579 (§6.3). The Sayn consistory did the same in
-1582, in the same protocol that orders the remaining images removed (Sehling 19/1, p. 377).
+**Abolished.** The Palatine Calvinists abolished the surplice with the communion cloth at Amberg
+in 1567 (Reformed), and the Lutheran Upper Palatine visitation of 1579 dropped both again under
+Ludwig VI (§6.3). The Sayn consistory did the same in 1582, in the same protocol that orders the
+remaining images removed (Sehling 19/1, p. 377).
 
 **The black gown.** The Wild- und Rheingrafschaft order of 1603 is the only order found that
 prescribes a black gown. Each minister is to have a black church gown with sleeves made "at the
@@ -2417,6 +2453,9 @@ bound to "black or blue coats" any more than to surplices (§7.1).
 ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons (see
 [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §3.3).
 
+The conduct required of ministers and their households is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §3.3.
+
 ---
 
 ## 9. Table by order
@@ -2431,21 +2470,21 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Order | Vol. | Images and crucifix | Altar, lights, font, building | Paraments and vessels | Vestments | § |
 |---|---|---|---|---|---|---|
 | Wittenberg, *Kirchen-Ordnung*, 1522 | 1 | Images removed | Three altars without images enough | — | — | 5.1 |
-| Strasbourg, mandate, 1525 | 20/1 | No removal of images, altars, panels without the council | — | — | — | 4.2 |
+| Strasbourg, mandate, 1525 (Moderate Reformed) | 20/1 | No removal of images, altars, panels without the council | — | — | — | 4.2 |
 | Pomesania, *Themata*, 1525 | 4 | Not to be prayed to; no lights before them | — | — | — | 4.1 |
 | Prussia, *Artikel der ceremonien*, 1525 | 4 | — | Customary font kept | — | — | 5.6 |
 | Luther, *Deutsche Messe*, 1526 | 1 | No covering of images, hunger cloth or palm-shooting in Holy Week | — | — | — | 4.1, 6.6 |
-| Hesse, Homberg synod, 1526 | 8 | — | Candles commended; no reservation in ambries; no Candlemas blessing of candles | No new paraments, chasubles or copes; chasuble free; seemly chalice | Surplice at least; dalmatics and tunicles forbidden | 3.3, 5.4, 5.5, 6.4, 7.3 |
+| Hesse, Homberg synod, 1526 (Moderate Reformed) | 8 | — | Candles commended; no reservation in ambries; no Candlemas blessing of candles | No new paraments, chasubles or copes; chasuble free; seemly chalice | Surplice at least; dalmatics and tunicles forbidden | 3.3, 5.4, 5.5, 6.4, 7.3 |
 | Schwäbisch Hall (Brenz), 1527 | 17/1 | — | — | — | Deacon may wear a cope at prayer, never a Mass vestment | 7.2 |
 | Brunswick (Bugenhagen), 1528 | 6/1 | Only worshipped images removed by authority; histories stay | — | Lights and banners at baptism needless | — | 4.1, 4.6 |
-| Mülhausen, Holy Week opinion, [1528] | 20/2 | Good Friday crucifix showing dropped | Sepulchre, clappers and altar washing dropped | — | — | 6.6 |
+| Mülhausen, Holy Week opinion, [1528] (Reformed) | 20/2 | Good Friday crucifix showing dropped | Sepulchre, clappers and altar washing dropped | — | — | 6.6 |
 | Schmiedeberg, visitation, 1528 | 1 | — | — | Two chalices and three best vestments kept; albs to the hospital; rest sold | — | 6.4 |
 | Breslau, *Schul- und Kirchenordnung*, 1528 | 3 | — | — | Black funeral cloths for a fee | — | 6.6 |
 | Colditz, visitation, 1529 | 1 | — | Altars arranged for the minister to face the people | — | — | 5.2 |
 | Leisnig, visitation, 1529 | 1 | — | — | — | Mass vestment restored whenever consecrating | 7.1 |
 | Riga, *Kirchenordnung*, 1530 | 5 | — | — | — | Surplice on Sundays; cope or chasuble on feasts, to show freedom | 7.1 |
-| Ulm, *Kirchenordnung*, 1531 | 17/2 | Worshipped images removed by officials | — | — | — | 4.4 |
-| Hesse, *Ordenung*, 1532 | 8 | — | — | — | Surplice for the people's reverence | 7.4 |
+| Ulm, *Kirchenordnung*, 1531 (Moderate Reformed) | 17/2 | Worshipped images removed by officials | — | — | — | 4.4 |
+| Hesse, *Ordenung*, 1532 (Moderate Reformed) | 8 | — | — | — | Surplice for the people's reverence | 7.4 |
 | Brandenburg-Nürnberg, 1533 | 11 | — | Lights free | Altar covering and vessels free | Mass vestment free | 3.1 |
 | Allstedt, visitation, 1533 | 1 | — | Before, not behind, the altar; two lights | — | Alb and chasuble restored | 5.2, 5.4, 7.1 |
 | Saalfeld, visitation, 1533 | 1 | Banners and idolatrous images removed | All altars but one; screens removed | — | — | 4.6, 5.1, 5.7 |
@@ -2455,7 +2494,7 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Hannover, *Kirchenordnung*, 1536 | 6/2 | Crucifix and honest images kept | Lights on the altar; font; altar | Customary vessels | Customary priestly clothing at the altar | 3.1 |
 | Württemberg, *Kastenordnung*, 1536 | 16 | — | Endowments for the eternal light to the common chest | — | — | 5.4 |
 | Württemberg, *Kirchenordnung*, 1536 | 16 | — | Choose the most convenient altar | — | — | 5.1 |
-| Strasbourg, *Agende*, 1537 | 20/1 | — | Altar-table set up facing the people | — | — | 5.2 |
+| Strasbourg, *Agende*, 1537 (Moderate Reformed) | 20/1 | — | Altar-table set up facing the people | — | — | 5.2 |
 | Freiberg, visitation, 1538 | 1 | Crucifix carried before every funeral | — | — | — | 4.5 |
 | Brandenburg, *Kirchen-ordnung*, 1540 | 3 | — | Blessing of lights and herbs dropped | Sick chalice, corporal, pall | Cope or surplice, no chasuble, without communicants | 5.4, 6.2, 7.2 |
 | Neumark, *Kasten-Ordnung*, 1540 | 3 | — | Each guild to keep a window and give wax for winter lights | — | — | 5.4, 5.7 |
@@ -2471,7 +2510,7 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Nuremberg, Dietrich's *Agendbüchlein*, 1545 | 11 | Crucifix at the deathbed not evil; the word the best crucifix | — | — | — | 4.5 |
 | *Wittenbergische Reformation*, 1545 | 1 | — | Against standing behind the table | — | — | 5.2 |
 | Kurpfalz, *Gemaine maß*, 1546 | 14 | — | One lamp only | Paten with the hosts taken in hand at the Verba | — | 5.4, 6.7 |
-| Ansbach, *Auctuarium*, 1548 | 11 | — | Altar candles lit throughout Mass and Vespers | — | — | 5.4 |
+| Ansbach, *Auctuarium*, 1548 (Interim order) | 11 | — | Altar candles lit throughout Mass and Vespers | — | — | 5.4 |
 | Mecklenburg, visitation, 1552 | 5 | Images nailed to the walls; banners and crosses removed | All altars but the high altar; ciboria removed | — | — | 4.2, 4.6, 5.1 |
 | Hohenlohe, *Kirchenordnung*, 1553 | 15 | Image plays abolished | No reservation | Silk cloth held by two men; kneeling benches | — | 4.6, 5.5, 6.3, 6.6 |
 | Regensburg (Jonas), 1553 | 13 | — | — | Deacons in surplices hold the cloth | — | 6.3 |
@@ -2489,15 +2528,15 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Pfalz-Neuburg, visitation, 1560 | 13 | — | Sacrament houses and unused altars removed | — | — | 5.5 |
 | Anhalt, *Kirchenordnung auf dem Lande*, 1562 | 2 | Crucifix kept in honour | Altar and font kept clean | White linen or tapestries | Mass vestment kept | 4.5, 6.1 |
 | Suhl, *Ordnung des predigamts*, 1562 | 2 | — | Sunday service with communion held without lights | — | — | 5.4 |
-| Kurpfalz, mandates, 1562 | 14 | — | Young people not to set up May branches | — | — | 6.6 |
-| Heidelberg Catechism, 1563 | 14 | Images not to be suffered as laity's books | — | — | — | 4.4 |
+| Kurpfalz, mandates, 1562 (Reformed) | 14 | — | Young people not to set up May branches | — | — | 6.6 |
+| Heidelberg Catechism, 1563 (Reformed) | 14 | Images not to be suffered as laity's books | — | — | — | 4.4 |
 | Wittgenstein, *Kirchenordnung*, 1563 | 22 | — | — | Ornaments kept clean | Old vestments free; surplice kept | 7.4 |
 | Lüneburg, *Kirchenordnung*, 1564 | 6/1 | — | Fonts before the choir, raised a step or two | — | — | 5.6 |
 | Thüngen, *Kirchenordnung*, 1564 | 11 | Idols removed; scriptural histories kept as laity's Bible | Candles kept for peace | — | Mass vestment kept for peace | 3.3, 4.1 |
 | Hermannstadt, synod, 1565 | 24 | — | Altars not to be pulled down; restored | — | — | 5.1 |
 | Leiningen-Westerburg, *Kirchenzuchtordnung*, 1566 | 19/1 | Banners not to be carried | May branches and decking the church with flowers forbidden | — | — | 6.6 |
-| Kurpfalz, *Befehl*, 1565 | 14 | Altars, crucifixes, Mounts of Olives removed | Sacrament houses, fonts, stoups removed | — | — | 4.4 |
-| Amberg, mandate, 1567 | 13 | — | — | Communion cloth abolished | — | 6.3 |
+| Kurpfalz, *Befehl*, 1565 (Reformed) | 14 | Altars, crucifixes, Mounts of Olives removed | Sacrament houses, fonts, stoups removed | — | — | 4.4 |
+| Amberg, mandate, 1567 (Reformed) | 13 | — | — | Communion cloth abolished | — | 6.3 |
 | Regensburg, *Kirchenordnung*, [1567] | 13 | Middle way: histories kept, lying images removed; covered Coronation of Mary removed | Lights dropped | — | Mass vestment and stole dropped; surplice kept; priestly dress outside | 4.1, 6.6, 7.3, 8 |
 | Prussia, *KO und Ceremonien*, 1568 | 4 | Against Calvinist image-storming | — | — | — | 4.4 |
 | Anhalt, Prince Bernhard, 1568 | 2 | — | — | — | Surplice at all Sunday sermons | 7.4 |
@@ -2514,22 +2553,22 @@ ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons 
 | Salzwedel, visitation, 1579 | 3 | — | Guilds to repair their windows | — | — | 5.7 |
 | Upper Palatinate, visitation, 1579 | 13 | — | — | Communion cloth dropped | Surplice dropped | 6.3 |
 | Saxony, *Ordnung*, 1580 | 1 | — | No pews without leave; mischief on galleries | — | — | 5.7 |
-| Siegen, mandate, 1581 | 10 | Images and panels removed | Altars and organs removed; table | Beaker for chalice | — | 5.3, 6.5 |
+| Siegen, mandate, 1581 (Reformed) | 10 | Images and panels removed | Altars and organs removed; table | Beaker for chalice | — | 5.3, 6.5 |
 | Marggrabowa and Sensburg, *Gottesdienstordnungen*, 1581 | 4 | — | Altar lights lit when there are communicants | — | Mass vestment with communicants; surplice otherwise | 5.4 |
 | Sayn, consistory, 1582 | 19/1 | Remaining images removed | — | — | Surplice abolished | 7.4 |
 | Magdeburg, *Instruktion*, 1583 | 2 | Worshipped images removed | Sacrament houses removed; lights as each church has them | Altar cloths as each church has them | Mass vestment and surplice as each church has them | 3.2 |
 | Mansfeld, consistorial order, 1586 | 2 | Crucifix and Bible on the oath table | Two candles | Black pall with white cross | — | 4.5 |
-| Kurpfalz, Casimirian mandate, 1587 | 19/2 | — | Wooden tables for altars; no font | One chalice kept, silver beakers | — | 5.3, 6.5 |
+| Kurpfalz, Casimirian mandate, 1587 (Reformed) | 19/2 | — | Wooden tables for altars; no font | One chalice kept, silver beakers | — | 5.3, 6.5 |
 | Gottorf, *Visitationsartikel*, 1587 | 23 | — | Visitors ask whether candles are lit or removed | — | Linen and silk vestments: in use or abolished? | 5.4 |
-| Bentheim-Tecklenburg, 1588 | 22 | — | Fonts moved out of the corners | — | — | 5.6 |
+| Bentheim-Tecklenburg, 1588 (Reformed) | 22 | — | Fonts moved out of the corners | — | — | 5.6 |
 | Hintere Grafschaft Sponheim, 1590/91 and 1607 | 18 | Crucifix and images removed | Old fonts and altars to be cleared out | Surplices and vestments made into altar cloths | — | 4.4, 5.6, 6.1 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11 | — | Grass and May branches for the dedication procession | — | — | 6.6 |
 | Marienhafe, *Kirchenordnung*, 1593 | 7/1 | — | "Altar or table" | Table-cloth, chalice, dish and can | — | 5.3 |
-| Pfalz-Zweibrücken, mandate, 1595 | 18 | — | — | Chalices and patens melted for beakers | — | 6.5 |
+| Pfalz-Zweibrücken, mandate, 1595 (Reformed) | 18 | — | — | Chalices and patens melted for beakers | — | 6.5 |
 | Hohenlohe, *Verbesserungen der Kirchenzeremonien*, 1596 | 15 | — | — | Showing of paten and chalice at the Verba stopped | — | 6.7 |
 | Sorau, *Kirchenordnung*, 1595 (extract) | 3 | — | — | Boys hold the communion cloths | Boys in red smocks with green garlands | 6.6 |
-| Anhalt, Johann Georg, 1596 | 2 | Panels and carved crucifixes removed | Behind the table; lights laid aside; table for altar | — | Mass vestment and chasubles laid aside | 5.2, 7.3 |
-| Simmern, mandate, 1598 | 19/2 | Idol-work removed | Altars and fonts abolished; tables | — | — | 5.3 |
+| Anhalt, Johann Georg, 1596 (Reformed) | 2 | Panels and carved crucifixes removed | Behind the table; lights laid aside; table for altar | — | Mass vestment and chasubles laid aside | 5.2, 7.3 |
+| Simmern, mandate, 1598 (Reformed) | 19/2 | Idol-work removed | Altars and fonts abolished; tables | — | — | 5.3 |
 | Wild- und Rheingrafschaft, 1603 | 19/2 | — | — | — | Black gown with sleeves; white surplices kept where used | 7.4, 8 |
 | Leiningen-Hardenburg, visitation, 1609 | 19/1 | — | — | Altar, font, pulpit and desk to be covered | — | 6.1 |
 | Nassau-Weilburg, *Erläuterungspunkte*, 1617 | 10 | No crucifix before corpses | — | Communion cloth abolished | — | 4.5, 6.3 |
@@ -2548,8 +2587,8 @@ through the table in §9 and the text.
 | Allstedt | *Ordnung der Visitatoren* | 1533 | 1, p. 510 | 7.1 |
 | Anhalt | *Abschied* of Prince Bernhard | 1568 | 2, p. 570 | 7.4 |
 | Anhalt | *Kirchenordnung auf dem Lande* | 22 July 1562 | 2, p. 562 | 4.5 |
-| Anhalt | *Verordnung Johann Georgs* | 3 November 1596 | 2, p. 580 | 5.2 |
-| Bentheim-Tecklenburg | *Kirchenordnung* | 1588 | 22, p. 268 | 5.6 |
+| Anhalt (Reformed) | *Verordnung Johann Georgs* | 3 November 1596 | 2, p. 580 | 5.2 |
+| Bentheim-Tecklenburg (Reformed) | *Kirchenordnung* | 1588 | 22, p. 268 | 5.6 |
 | Brandenburg | *Kirchen-ordnung* | 1540 | 3, pp. 71, 80 | 6.2, 7.2 |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, p. 183 | 3.1 |
 | Bremen | *Kirchenordnung* | 1534 | 7/2.2, p. 439 | 5.6 |
@@ -2568,18 +2607,18 @@ through the table in §9 and the text.
 | Henneberg | *Abschied der Visitatoren für die Superintendenz zu Römhild* | 20 December 1556 | 2, p. 328 | 6.1 |
 | Hermannstadt | *Synodalbeschlüsse* | 1557 | 24, p. 262 | 4.2, 7.3 |
 | Hermannstadt | *Synodalartikel* | 1565 | 24, p. 293 | 5.1 |
-| Hesse | *Homberger Kirchenordnung* | 1526 | 8, pp. 45, 46, 49 | 3.3, 5.4, 5.5, 6.4, 7.3 |
-| Hesse | *Ordenung der Christlichen kirchen* | 1532 | 8, p. 76 | 7.4 |
+| Hesse (Moderate Reformed) | *Homberger Kirchenordnung* | 1526 | 8, pp. 45, 46, 49 | 3.3, 5.4, 5.5, 6.4, 7.3 |
+| Hesse (Moderate Reformed) | *Ordenung der Christlichen kirchen* | 1532 | 8, p. 76 | 7.4 |
 | Hildesheim | *Christlike kerckenordeninge* | 1544 | 7/2.1, p. 852 | 3.3, 5.4 |
 | Hintere Grafschaft Sponheim | *Kirchen- und Zensurordnung* | 1590/91 | 18, p. 653 | 6.1 |
 | Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 71 | 6.3 |
 | Hohenlohe | *Verbesserungen der Kirchenzeremonien* | 1596 | 15, p. 659 | 6.7 |
 | Kurland | *Kirchenordnung* | 1570 | 5, pp. 87, 98, 99 | 4.3, 5.4, 7.1 |
 | Kurpfalz | *Gemaine maß, die kirchen- und gottesdinst anzurichten* | 1546 | 14, pp. 94, 97 | 5.4, 6.7 |
-| Kurpfalz | *Heidelberger Katechismus*, Question 98, *Kirchenordnung* | 1563 | 14, p. 362 | 4.4 |
-| Kurpfalz | *Casimirianische Kirchenordnung*, mandate | 1587 | 19/2, p. 757 | 5.3 |
-| Kurpfalz | *Amberger Mandat* | 20 January 1567 | 13, p. 303 | 6.3 |
-| Kurpfalz | *Befehl an die Amtleute* | 3 October 1565 | 14, p. 429 | 4.4 |
+| Kurpfalz (Reformed) | *Heidelberger Katechismus*, Question 98, *Kirchenordnung* | 1563 | 14, p. 362 | 4.4 |
+| Kurpfalz (Reformed) | *Casimirianische Kirchenordnung*, mandate | 1587 | 19/2, p. 757 | 5.3 |
+| Kurpfalz (Reformed) | *Amberger Mandat* | 20 January 1567 | 13, p. 303 | 6.3 |
+| Kurpfalz (Reformed) | *Befehl an die Amtleute* | 3 October 1565 | 14, p. 429 | 4.4 |
 | Leiningen-Hardenburg | *Visitations- und Täuferordnung* | 1609 | 19/1, p. 315 | 6.1 |
 | Leiningen-Westerburg | *Kirchenzuchtordnung* | 1566 | 19/1, p. 227 | 6.6 |
 | Leisnig | *Verordnung der Visitatoren* | 1529 | 1, p. 605 | 7.1 |
@@ -2592,7 +2631,7 @@ through the table in §9 and the text.
 | Marienhafe | *Kirchenordnung* | 1593 | 7/1, p. 710 | 5.3 |
 | Mecklenburg | *Visitations-Instruction* | 12 November 1552 | 5, p. 220 | 4.2 |
 | Mecklenburg | *Ordnung der Visitatoren für Fürstenberg* | 1578 | 5, p. 265 | 6.6 |
-| Mülhausen | *Gutachten zu den Gottesdiensten in der Karwoche* | [1528] | 20/2, p. 207 | 6.6 |
+| Mülhausen (Reformed) | *Gutachten zu den Gottesdiensten in der Karwoche* | [1528] | 20/2, p. 207 | 6.6 |
 | Nassau-Weilburg | *Kirchenordnung* | 1576 | 10, p. 310 | 5.5 |
 | Nassau-Weilburg | *Erläuterungspunkte zur Kirchenordnung* | 1617 | 10, pp. 351, 353 | 4.5, 6.3 |
 | Neumark | *Kasten-Ordnung* | 1 March 1540 | 3, p. 32 | 5.4, 5.7 |
@@ -2602,7 +2641,7 @@ through the table in §9 and the text.
 | Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 77, 96 | 6.6, 7.2 |
 | Pfalz-Neuburg | *Visitationsordnung* | 1560 | 13, p. 135 | 5.5 |
 | Pfalz-Zweibrücken | *Visitationsordnung* | 1558 | 18, p. 270 | 5.7 |
-| Pfalz-Zweibrücken | *Mandat zur Ablieferung der Vasa sacra* | 7 April 1595 | 18, p. 410 | 6.5 |
+| Pfalz-Zweibrücken (Reformed) | *Mandat zur Ablieferung der Vasa sacra* | 7 April 1595 | 18, p. 410 | 6.5 |
 | Pomesania | *Themata episcopi Risenburgensis* | 1525 | 4, p. 29 | 4.1 |
 | Prussia | *Artikel der ceremonien und anderer kirchen ordnung* | 10 December 1525 | 4, p. 33 | 5.6 |
 | Prussia | *Befehl* | 1 February 1543 | 4, p. 60 | 7.4 |
@@ -2615,15 +2654,15 @@ through the table in §9 and the text.
 | Schmiedeberg | *Verordnung der Visitatoren* | 1528 | 1, p. 664 | 6.4 |
 | Schwäbisch Hall | *Kirchenordnung* | 1527 | 17/1, p. 50 | 7.2 |
 | Schönburg | *Kirchen-Ordnung* of Johann Pfeffinger | 18 October 1542 | 2, p. 175 | 5.5 |
-| Simmern | *Mandat zur Abschaffung der Bilder und Altäre* | 2 October 1598 | 19/2, p. 661 | 5.3 |
+| Simmern (Reformed) | *Mandat zur Abschaffung der Bilder und Altäre* | 2 October 1598 | 19/2, p. 661 | 5.3 |
 | Sorau | *Kirchenordnung*, extract after J. S. Magnus | 1595 | 3, p. 372 | 6.6 |
 | Speyer | *Kirchenordnung* | 1557 | 19/1, p. 92 | 6.3 |
-| Strasbourg | *Agende* | 1537 | 20/1, p. 270 | 5.2 |
-| Strasbourg | *Mandat über Bilder und Altäre* | 18 March 1525 | 20/1, p. 166 | 4.2 |
+| Strasbourg (Moderate Reformed) | *Agende* | 1537 | 20/1, p. 270 | 5.2 |
+| Strasbourg (Moderate Reformed) | *Mandat über Bilder und Altäre* | 18 March 1525 | 20/1, p. 166 | 4.2 |
 | Suhl | *Ordnung des predigamts und lektionen* | 1562 | 2, p. 351 | 5.4 |
 | Thorn | *Kirchenordnung* | 1575 | 4, p. 237 | 6.3 |
 | Thüngen | *Kirchenordnung* | 1564 | 11, pp. 736–737, 739 | 3.3, 4.1 |
-| Ulm | *Kirchenordnung* | 1531 | 17/2, p. 145 | 4.4 |
+| Ulm (Moderate Reformed) | *Kirchenordnung* | 1531 | 17/2, p. 145 | 4.4 |
 | Upper Palatinate | *Visitationsinstruktion* | 1557 | 13, p. 297 | 4.2 |
 | Upper Palatinate | *Visitationsordnung* | 1579 | 13, p. 315 | 6.3 |
 | Wild- und Rheingrafschaft | *Kirchenordnung* | 1603 | 19/2, p. 630 | 7.4, 8 |

@@ -64,6 +64,18 @@ it, among them versions of the old Missal prayers.
     on, following the digitized volumes.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     Where a passage is Sehling's own introduction or apparatus, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Radical Reformation**: Thomas Müntzer's Allstedt orders.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it.
+  - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
+    (`CHURCH_ORDERS_GUIDE.md`, §4).
 
 ---
 
@@ -123,8 +135,8 @@ it, among them versions of the old Missal prayers.
   one. It fell with the offertory: Prussia 1525 lists "offertory, secret, *canon minor* and
   *maior*" among the things "of necessity left out".
 - **Remnants.** What remains is:
-  - the secret's sung ending *Per omnia saecula saeculorum. Amen* before the Preface (Müntzer,
-    Lippe, Calenberg-Göttingen);
+  - the secret's sung ending *Per omnia saecula saeculorum. Amen* before the Preface (Müntzer
+    (Radical Reformation), Lippe, Calenberg-Göttingen);
   - its name and place in Dortmund 1554, where the priest makes "an open prayer for all
     magistrates, estates and needs of the whole Christendom" instead;
   - collects for the Church and rulers said aloud under the Sanctus (Döber 1525, Brandenburg
@@ -132,12 +144,13 @@ it, among them versions of the old Missal prayers.
 
 **4. The postcommunion: an ordinary prayer, but never only one** (§6).
 - **Luther's 1523 prayers.** They were kept in Latin as the priest's devotion (Brandenburg 1540,
-  Pfalz-Neuburg 1543) and put into German as the *Complenda* (Strasbourg 1524).
+  Pfalz-Neuburg 1543) and put into German as the *Complenda* (Strasbourg 1524, Moderate
+  Reformed).
 - **Proper postcommunions kept for a time.** Some orders kept the proper postcommunions of the
   Missal:
   - the Nürnberg parish Mass and Volprecht (1524), and Coburg 1524;
-  - Müntzer (1524), with German versions of the Easter postcommunion *Spiritum nobis … tuae
-    caritatis infunde* and the Pentecost *Sancti Spiritus … infusio*;
+    - Müntzer (1524, Radical Reformation), with German versions of the Easter postcommunion
+      *Spiritum nobis … tuae caritatis infunde* and the Pentecost *Sancti Spiritus … infusio*;
   - Erfurt (1525), which adds the Trinity *Proficiat*;
   - **Calenberg-Göttingen 1542**, which prints, for each feast, Luther's thanksgiving followed
     by a proper postcommunion from the Missal (Advent *Suscipiamus*, Easter, Pentecost). This is
@@ -207,6 +220,17 @@ context.
   lessons, gradual, offertory chant, Preface, communion chant.
 - [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) deals with the hymns, including *Verleih
   uns Frieden*, after which the peace collect is sung.
+
+Later guides take up related subjects:
+- [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md) covers the salutation and collect in the order of
+  the Mass, and the service when nobody communicated (§§8, 14).
+- [`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md) covers the three collects
+  read from the pulpit as a family of the general prayer (§15).
+- [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md) covers the collects of Matins and Vespers (§§7.1, 7.5).
+- [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) covers the Litany and its
+  collects (§22).
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the seasons whose
+  collects were kept (§12).
 
 Where an order gives the collect to a deacon or junior minister, as at Hof, see
 [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md).
@@ -413,10 +437,11 @@ hand which required yet another prayer. Each shall order the prayers according t
 that not always the same collect be read; nor at the feast of Easter the collects of Christmas;
 but [each shall] deal herein in order, as becometh faithful stewards.
 
-**Two collects as the rule: Ansbach 1548.** The Ansbach *Auctuarium* of 1548 goes back to the
-medieval pattern of a collect of the day followed by a second, votive collect. It requires two,
-and fixes their subjects: the first for spiritual things, the second for temporal goods.
-**Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548** (Sehling 11, p. 330):
+**Two collects as the rule: Ansbach 1548.** The Ansbach *Auctuarium* of 1548, an Interim order,
+goes back to the medieval pattern of a collect of the day followed by a second, votive collect.
+It requires two, and fixes their subjects: the first for spiritual things, the second for
+temporal goods. **Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548**
+(Interim order; Sehling 11, p. 330):
 
 <!-- doc 278 -->
 > Auf solch gesang volgen in der kirchenordnung etlich viel gestelte collecten oder gebet,
@@ -716,7 +741,7 @@ by a light change of wording.
 **Its last words.** The secret ended aloud with *Per omnia saecula saeculorum. Amen*, which ran
 straight into *Dominus vobiscum* and *Sursum corda*. Three German Masses keep this ending before
 the Preface dialogue, though the silent prayer is gone:
-- Müntzer: "durch alle ewigkeit der ewigkeit. Amen";
+- Müntzer (Radical Reformation): "durch alle ewigkeit der ewigkeit. Amen";
 - Lippe: "Durch alle ewicheit der ewicheit amen";
 - Calenberg-Göttingen 1542: "Gott sey preis von ewigkeit zu ewigkeit. Amen".
 
@@ -774,9 +799,10 @@ texts are given in [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §1
 Here they have become the priest's own devotion again, said after the people's thanksgiving,
 which is what they had been in the Roman rite.
 
-**In German.** The Strasbourg Mass of Theobald Schwarz (1524) gives *Quod ore sumpsimus* in
-German under the old name *Complenda*. It also allows "any other that seemeth Christian".
-**Strasbourg, the early agendas: Schwarz's German Mass, 1524** (Sehling 20/1, p. 123):
+**In German.** The Strasbourg Mass of Theobald Schwarz (1524, Moderate Reformed) gives *Quod ore
+sumpsimus* in German under the old name *Complenda*. It also allows "any other that seemeth
+Christian". **Strasbourg, the early agendas: Schwarz's German Mass, 1524**
+(Moderate Reformed; Sehling 20/1, p. 123):
 
 <!-- doc 1279 -->
 > Complenda Laßt uns bitten: Das wir mit mund haben zu uns genomen, verlyhe uns, herr, uff das
@@ -788,9 +814,9 @@ the same with a pure mind; and that from the temporal gift there may be made unt
 everlasting medicine; through Christ Jesus our Lord. Amen. Or some other that seemeth Christian.
 
 The printed *Teutsche Meß* of 1524 has the same text (Sehling 20/1, p. 133). The Strasbourg
-*Ordenung und inhalt Teutscher Mess* explains the term for the people: "Complenda: the
-conclusion with a common prayer" (Sehling 20/1, p. 135). Volprecht's German Mass has a German
-*Quod ore* too ([`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §7.2).
+*Ordenung und inhalt Teutscher Mess* (also Moderate Reformed) explains the term for the people:
+"Complenda: the conclusion with a common prayer" (Sehling 20/1, p. 135). Volprecht's German Mass
+has a German *Quod ore* too ([`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §7.2).
 
 ### 6.2 Proper postcommunions kept
 
@@ -815,11 +841,11 @@ the one falling due in each case". His German Mass for Trinity ends with the Tri
 postcommunion, *Proficiat nobis ad salutem corporis et animae*, in German (Sehling 11, p. 42).
 See [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §7.2.
 
-**Müntzer, 1524.** Each of Müntzer's five German Masses ends with a "prayer at the end of the
-office", most of them German versions of the Missal postcommunion. For Easter it is the Easter
-postcommunion, *Spiritum nobis, Domine, tuae caritatis infunde: ut quos sacramentis paschalibus
-satiasti, tua facias pietate concordes*. **Allstedt, Thomas Müntzer, *Deutsch evangelisch
-messe*, 1524** (Sehling 1, p. 503):
+**Müntzer, 1524** (Radical Reformation). Each of Müntzer's five German Masses ends with a
+"prayer at the end of the office", most of them German versions of the Missal postcommunion. For
+Easter it is the Easter postcommunion, *Spiritum nobis, Domine, tuae caritatis infunde: ut quos
+sacramentis paschalibus satiasti, tua facias pietate concordes*. **Allstedt, Thomas Müntzer,
+*Deutsch evangelisch messe*, 1524** (Radical Reformation; Sehling 1, p. 503):
 
 <!-- doc 51 -->
 > Unser osterlamp Christus ist geopfert vor uns alleluia alleluia. […] Gepet am ende des ampts
@@ -830,7 +856,7 @@ Christ our Passover is sacrificed for us, alleluia, alleluia. […] Prayer at th
 office of the Resurrection. O Lord, pour into us the spirit of love, and those whom thou hast
 filled with thine Easter lamb make of one mind in thy love; through Jesus, etc.
 
-The other postcommunions of Müntzer's Masses:
+The other postcommunions of Müntzer's Masses (Radical Reformation):
 - **Pentecost**: *Sancti Spiritus, Domine, corda nostra mundet infusio* ("O herr vorlei uns die
   gnad des heiligen geists, auf das der thau deiner güte …", Sehling 1, p. 504).
 - **Advent**: a new prayer, "O herr gott, steh hart bei uns"
@@ -839,9 +865,9 @@ The other postcommunions of Müntzer's Masses:
   abgrund unser selen …" and "O herr gib deinem armen volke zu erkennen deine veterliche zucht
   und ruthe …" (Sehling 1, p. 502). This guide has not found a Missal source for them.
 
-**Erfurt, 1525.** The Erfurt *Deutsches Kirchenamt* takes over Müntzer's offices and adds one
-for Trinity. Its "prayer at the end of the office" is the Trinity postcommunion *Proficiat*.
-**Erfurt, *Deutsches Kirchenamt*, 1525** (Sehling 2, p. 378):
+**Erfurt, 1525.** The Erfurt *Deutsches Kirchenamt* takes over the offices of Müntzer (Radical
+Reformation) and adds one for Trinity. Its "prayer at the end of the office" is the Trinity
+postcommunion *Proficiat*. **Erfurt, *Deutsches Kirchenamt*, 1525** (Sehling 2, p. 378):
 
 <!-- doc 1251 -->
 > Gebet am ende des ampts: O herre got, lass uns zu nutz kummen des leibes und der seelen die
@@ -917,11 +943,11 @@ concord, and never forget thy resurrection and thy coming again. Amen. The bless
 bless thee …
 
 Sehling's note: "On the following prayer compare the Roman Missal … (postcommunion on Easter
-Sunday and Easter Monday)" (Sehling 6/2, p. 829, n. 37a). The order's Pentecost Mass has
-Müntzer's Pentecost postcommunion in the same place (Sehling 6/2, p. 834). The order's common
-Mass, used outside the feasts, has in this slot the priest's prayer for peace *Domine Iesu
-Christe, qui dixisti* in German. See [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md),
-§13.3.
+Sunday and Easter Monday)" (Sehling 6/2, p. 829, n. 37a). The order's Pentecost Mass has the
+Pentecost postcommunion of Müntzer (Radical Reformation) in the same place
+(Sehling 6/2, p. 834). The order's common Mass, used outside the feasts, has in this slot the
+priest's prayer for peace *Domine Iesu Christe, qui dixisti* in German. See
+[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), §13.3.
 
 **Where the line ends.** Calenberg-Göttingen 1542 is the last order in the corpus to print
 proper postcommunions for the feasts. After it the proper postcommunion is gone from the Mass.
@@ -933,8 +959,8 @@ German collect books.
 postcommunion beside Luther's, lies outside the corpus, which ends in the early seventeenth
 century. Two things in the corpus bear on it:
 - The **Easter postcommunion *Spiritum nobis … tuae caritatis infunde*** is one of the Missal
-  postcommunions that Lutheran orders put into German and used after the communion: Müntzer,
-  then Calenberg-Göttingen.
+  postcommunions that evangelical orders put into German and used after the communion: first
+  Müntzer (Radical Reformation), then the Lutheran Calenberg-Göttingen.
 - The Sarum and Roman Missals share most of their collects and postcommunions. The corpus
   therefore cannot show whether a given prayer reached a later book from the Sarum or the Roman
   Missal. The German orders took theirs from the German diocesan Missals.
@@ -1205,6 +1231,10 @@ with a Christian hymn.
 The thanksgiving for the gift of the sacrament became, in the service without communion, a
 thanksgiving for the gift of the Word.
 
+The service when nobody communicated is treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+§14, and the Litany sung in place of the Mass in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.1.
+
 ### 6.6 The prayer over the people (*oratio super populum*)
 
 **The medieval use.** On the weekdays of Lent the Missal added a fourth proper prayer after the
@@ -1219,10 +1249,11 @@ corpus was searched for *super populum*, *super plebem*, *humiliate capita*, *in
 and German phrases such as "neiget eure Häupter". The Lutheran Mass had no weekday Lenten Masses
 to carry the prayer. Its place at the end of the Sunday Mass was held by the postcommunion
 collect and the Aaronic blessing. The orders describe that blessing in the same words: "the
-blessing over the people out of the book of Numbers" (*benediction uber das volk aus dem buch
-numeri*, Gnandstein 1539, Sehling 1, p. 564). Müntzer describes his postcommunion the same way:
-"after the communion one giveth thanks to God over the people, and blesseth the Lord"
-(Sehling 1, p. 506). Neither is a *super populum* prayer.
+blessing over the people out of the book of Numbers"
+(*benediction uber das volk aus dem buch numeri*, Gnandstein 1539, Sehling 1, p. 564). Müntzer
+(Radical Reformation) describes his postcommunion the same way: "after the communion one giveth
+thanks to God over the people, and blesseth the Lord" (Sehling 1, p. 506). Neither is a *super
+populum* prayer.
 
 **In the office: Ansbach 1533.** The one place where the *super populum* survives by name is in
 the Divine Office of the collegiate churches. The Brandenburg-Ansbach order of 1533 for the
@@ -1287,7 +1318,7 @@ shows no other Lutheran use of the *super populum*.
 | | Collect | Secret | Postcommunion | Prayer over the people (Lent) |
 |---|---|---|---|---|
 | **Medieval use** | Proper to the day; sung after the Gloria; multiplied by commemorations and votive collects | Proper to the day; said silently over the gifts; multiplied with the collects | Proper to the day; sung after the communion; multiplied with the collects | Proper to the Lenten weekdays; after the postcommunion, with the bidding *Humiliate capita vestra Deo*; also used as an office collect |
-| **Kept** | The collect of the season or feast (§4.2), mostly German versions of the Missal collects; the salutation, *Oremus*, long conclusion and Amen (§4.5); the seasonal versicle (Henneberg 1582, Hof 1592) | Only the closing *Per omnia saecula saeculorum. Amen* (Müntzer, Lippe, Calenberg-Göttingen), and the name in Dortmund 1554 (§5.2) | A collect after the communion, with salutation and Amen; often still called the *complenda* (§6.3). Proper postcommunions kept in Nürnberg and Volprecht 1524, Coburg 1524, Müntzer 1524, Erfurt 1525 and Calenberg-Göttingen 1542 (§6.2) | Only in the office: Ansbach 1533 allows the day's *super populum* at Lauds (§6.6) |
+| **Kept** | The collect of the season or feast (§4.2), mostly German versions of the Missal collects; the salutation, *Oremus*, long conclusion and Amen (§4.5); the seasonal versicle (Henneberg 1582, Hof 1592) | Only the closing *Per omnia saecula saeculorum. Amen* (Müntzer (Radical Reformation), Lippe, Calenberg-Göttingen), and the name in Dortmund 1554 (§5.2) | A collect after the communion, with salutation and Amen; often still called the *complenda* (§6.3). Proper postcommunions kept in Nürnberg and Volprecht 1524, Coburg 1524, Müntzer 1524 (Radical Reformation), Erfurt 1525 and Calenberg-Göttingen 1542 (§6.2) | Only in the office: Ansbach 1533 allows the day's *super populum* at Lauds (§6.6) |
 | **Stripped** | Collects of the saints and those asking their intercession (Hannover 1536); the automatic commemorations (Luther: "that one alone") | The prayer itself, everywhere (Prussia 1525: "of necessity left out"); no German secret exists | The proper postcommunion (Luther 1523: "they almost all sound of sacrifice"); gone from the printed orders after 1542 | At the Mass, everywhere; neither the prayer nor the bidding occurs |
 | **Added** | Veit Dietrich's gospel collects (Wolfenbüttel 1569, Soest 1609, Buxtehude 1565); new "common" collects for need; the collect for peace after *Verleih uns Frieden* | Open prayers for the magistrates and Christendom in its place (Dortmund 1554); collects for rulers under the Sanctus (Döber 1525, Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543) | Luther's fixed thanksgiving (1526); the Nürnberg thanksgiving (1533); Döber's prayer (1525); Prussia's second collect (1544); a collect or thanksgiving for the Word when there is no communion (Lippe 1571) | — |
 | **Altered** | Latin to German "that the people may say Amen" (Coburg 1554/55); one collect as the norm, a second only "for need" (Mecklenburg 1545) or by rule for temporal goods (Ansbach 1548); the Advent *Excita* reworded ("weck uns auf, dass wir bereit sein") | — | Proper to ordinary; Luther's 1523 ablution prayers made public, then expanded (Nürnberg 1533); the Missal postcommunion *Gratias tibi referimus* recast as Luther's thanksgiving; the Corpus Christi collect turned into a postcommunion; two thanksgivings joined "under one conclusion" (Brandenburg 1540, Pfalz-Neuburg 1543) | Moved from the end of the Mass to Lauds, in place of collects that "speak of the fast" (Ansbach 1533) |
@@ -1320,8 +1351,8 @@ shows no other Lutheran use of the *super populum*.
 | Volprecht, Nürnberg, 1524 | 11 | L "one only"; G proper (Trinity) | — | — | L proper (*de quo sit missa*); G *Proficiat* (Trinity) | — |
 | Nürnberg parish Mass, 1524 | 11 | L proper (*Sancti tui nominis*) | — | — (with the offertory) | L proper (*complenda*) | — |
 | Coburg proposal, 1524 | 1 | ? | ? | — (with the offertory) | "the complenda" | — |
-| Müntzer, Allstedt, 1524 | 1 | G proper (Missal) | — | *Per omnia* only | G proper (Missal postcommunions) | — |
-| Strasbourg, Schwarz, 1524 | 20/1 | G | ? | — | G *Quod ore* as *Complenda* | "any other that seemeth Christian" |
+| Müntzer, Allstedt, 1524 (Radical Reformation) | 1 | G proper (Missal) | — | *Per omnia* only | G proper (Missal postcommunions) | — |
+| Strasbourg, Schwarz, 1524 (Moderate Reformed) | 20/1 | G | ? | — | G *Quod ore* as *Complenda* | "any other that seemeth Christian" |
 | Döber, Nürnberg, 1525 | 11 | ? | Optional "common prayer" before the Sanctus | — | G, new (Döber's) | — |
 | Erfurt, *Deutsches Kirchenamt*, 1525 | 2 | G proper | — | ? | G proper (Pentecost, *Proficiat*) | — |
 | Prussia, *Artikel*, 1525 | 4 | Proper series by the year | ? | — ("of necessity left out") | Two common complendas, alternating | — |
@@ -1334,7 +1365,7 @@ shows no other Lutheran use of the *super populum*.
 | Württemberg, 1536 | 16 | Collect series | ? | ? | ? | Corpus Christi as *Oratio de Eucharistia* |
 | Saxony (Duke Henry), 1539 | 1 | L or G, "common or of the feasts" | Peace collect | ? | ? | — |
 | Brandenburg, 1540 | 3 | ? | Four G collects under the Sanctus | — | G: Nürnberg + Luther under one conclusion; then L *Corpus tuum*, *Quod ore* | — |
-| Calenberg-Göttingen, 1542 | 6/2 | G proper (Müntzer, Missal) | Collect for rulers under the Sanctus; peace collect at the end | *Per omnia* as "Gott sey preis …" | G: Luther (Nürnberg + Luther in the common Mass) then G proper (Missal) | *Qui dixisti* in the common Mass |
+| Calenberg-Göttingen, 1542 | 6/2 | G proper (Müntzer (Radical Reformation), Missal) | Collect for rulers under the Sanctus; peace collect at the end | *Per omnia* as "Gott sey preis …" | G: Luther (Nürnberg + Luther in the common Mass) then G proper (Missal) | *Qui dixisti* in the common Mass |
 | Schleswig-Holstein, 1542 | 23 | ? | ? | ? | "a collect of thanksgiving" | — |
 | Pfalz-Neuburg, 1543 | 13 | ? | Three collects under the Sanctus | Osiander's prayer over the gifts (new) | G: Nürnberg + Luther (to Christ) under one conclusion; then L *Corpus tuum*, *Quod ore* | — |
 | Prussia, *Kirchenordnung*, 1544 | 4 | ? | ? | ? | Luther | second collect on alternate Sundays |
@@ -1378,9 +1409,9 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Luther, *Formula missae et communionis*, 1523 | 1, pp. 3–6 | 2 | 3.2, 4.1, 4.3, 6.1, A |
-| Allstedt, Thomas Müntzer, *Deutsch evangelisch messe*, 1524 | 1, pp. 500–504 | 51, 52 | 5.2, 6.2, A |
+| Allstedt, Thomas Müntzer, *Deutsch evangelisch messe*, 1524 (Radical Reformation) | 1, pp. 500–504 | 51, 52 | 5.2, 6.2, A |
 | Coburg, *Gottesdienst-Ordnung* (proposal), 1524 | 1, p. 542 | 72 | 6.2 |
-| Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 | 1, p. 506 | 52 | 6.6 |
+| Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 (Radical Reformation) | 1, p. 506 | 52 | 6.6 |
 | Erfurt, *Deutsches Kirchenamt*, 1525 | 2, pp. 376–378 | 1251 | 6.2, A |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, pp. 14, 16 | 3 | 3.3, 4.5, A |
 | Hatzkerode, *Kirchenordnunge*, 1534(?) | 2, p. 587 | 1263 | 6.3 |
@@ -1390,7 +1421,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Coburg, *Vorschaffung* of the visitation of 1554/55 | 1, p. 544 | 74 | 4.5 |
 | Senftenberg, *Kirchen-Ordnung*, 1555 | 1, p. 672 | 136 | 6.3 |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, pp. 369, 375 | 44 | 4.2, 6.3, 6.4, 6.5 |
-| Mansfeld, *Kirchen-agenda*, 1580 | 2, pp. 227–231 | 1241 | 4.1, 4.2, 6.4 |
+| Mansfeld, *Kirchen-agenda*, 1580 | 2, pp. 227–231 | 1241 | 4.2, 6.4 |
 | Henneberg, *Kirchen ordnung* of Georg Ernst, 1582 | 2, pp. 317, 320 | 1247 | 4.1, 4.2, 4.3 |
 | Henneberg, a pastor's report | 2, p. 330 | 1248 | 4.1 |
 
@@ -1405,7 +1436,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 197 | 270 | 6.4, A |
 | Württemberg, *Gemein kirchenordnung*, 1536 | 16, p. 125 | 651 | 6.4 |
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, p. 76 | 386 | 5.2, 6.1, 6.4 |
-| Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548 | 11, p. 330 | 278 | 4.1 |
+| Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548 (Interim order) | 11, p. 330 | 278 | 4.1 |
 | Amberg (Kuroberpfalz), *Kirchenordnung*, 1550 | 13, p. 286 | 411 | 4.3, 4.5 |
 | Wolfstein, *Christliche Instructio* of Thomas Stieber, 1574 | 13, p. 576 | 463 | 4.1, 4.5 |
 | Nördlingen, *Kirchenordnung*, 1579 | 12, p. 382 | 375 | 6.3, 6.4 |
@@ -1448,7 +1479,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Strasbourg, the early agendas: Schwarz's German Mass and the *Teutsche Meß*, 1524 | 20/1, pp. 123, 133, 135 | 1279 | 3.1, 6.1, A |
+| Strasbourg, the early agendas: Schwarz's German Mass and the *Teutsche Meß*, 1524 (Moderate Reformed) | 20/1, pp. 123, 133, 135 | 1279 | 3.1, 6.1, A |
 
 ---
 
@@ -1462,12 +1493,12 @@ identification is this guide's own. The texts and translations are given in the 
 |---|---|---|---|---|
 | (Latin) *Quod ore sumpsimus, Domine, pura mente capiamus* | Priest's prayer at the ablutions, Ordo Missae | Luther 1523 | Luther 1523; Brandenburg 1540; Pfalz-Neuburg 1543 | 3.2, 6.1 |
 | (Latin) *Corpus tuum, Domine, quod sumpsimus …* | Priest's prayer at the ablutions, Ordo Missae | Luther 1523 | Luther 1523; Brandenburg 1540; Pfalz-Neuburg 1543 | 3.2, 6.1 |
-| "Das wir mit mund haben zu uns genomen, verlyhe uns, herr …" | *Quod ore sumpsimus* | Evident from the text | Strasbourg 1524 (*Complenda*); Volprecht 1524 | 6.1 |
+| "Das wir mit mund haben zu uns genomen, verlyhe uns, herr …" | *Quod ore sumpsimus* | Evident from the text | Strasbourg 1524 (*Complenda*; Moderate Reformed); Volprecht 1524 | 6.1 |
 | "Die empfahung deines sacraments, o Herr, unser Gott …" / "O herre got, lass uns zu nutz kummen … die entphahunge des heiligen sacraments" | *Proficiat nobis ad salutem corporis et animae* (Trinity Sunday, postcommunion) | Canon guide (Volprecht); this guide (Erfurt) | Volprecht 1524 (Trinity); Erfurt 1525 (Trinity) | 6.2 |
-| "O herr geuss in uns den geist der liebe …" / "Herr, uberschütte uns mit deinem Geiste …" | *Spiritum nobis, Domine, tuae caritatis infunde* (Easter, postcommunion) | Ed. (Calenberg-Göttingen); this guide (Müntzer) | Müntzer 1524; Calenberg-Göttingen 1542 | 6.2 |
-| "O herr vorlei uns die gnad des heiligen geists, auf das der thau deiner güte …" | *Sancti Spiritus, Domine, corda nostra mundet infusio* (Pentecost, postcommunion) | Ed. (Calenberg-Göttingen); canon guide | Müntzer 1524; Erfurt 1525; Calenberg-Göttingen 1542 | 6.2 |
+| "O herr geuss in uns den geist der liebe …" / "Herr, uberschütte uns mit deinem Geiste …" | *Spiritum nobis, Domine, tuae caritatis infunde* (Easter, postcommunion) | Ed. (Calenberg-Göttingen); this guide (Müntzer) | Müntzer 1524 (Radical Reformation); Calenberg-Göttingen 1542 | 6.2 |
+| "O herr vorlei uns die gnad des heiligen geists, auf das der thau deiner güte …" | *Sancti Spiritus, Domine, corda nostra mundet infusio* (Pentecost, postcommunion) | Ed. (Calenberg-Göttingen); canon guide | Müntzer 1524 (Radical Reformation); Erfurt 1525; Calenberg-Göttingen 1542 | 6.2 |
 | "Herre, las uns entpfangen an mittel des tempels deine barmherzigkeit …" | *Suscipiamus, Domine, misericordiam tuam in medio templi tui* (1st Sunday in Advent, postcommunion) | Ed. | Calenberg-Göttingen 1542 | 6.2 |
-| "O herr gott, steh hart bei uns …" | none known (new) | Canon guide | Müntzer 1524 (Advent) | 6.2 |
+| "O herr gott, steh hart bei uns …" | none known (new) | Canon guide | Müntzer 1524 (Advent; Radical Reformation) | 6.2 |
 | "Wir danken dir, allmechtiger Herr Gott, das du uns durch diese heilsame gabe hast erquicket …" | *Gratias tibi referimus, Domine, sacro munere vegetati* (18th Sunday after Pentecost, postcommunion) | Ed. (Verden, after Drews) | Luther 1526, and nearly every later order | 3.3, 6.3 |
 | "O almechtiger, ewiger Got. Wir sagen deiner götlichen miltigkeit lob und dank …" | none (new); expands *Quod ore sumpsimus* | This guide | Brandenburg-Nürnberg 1533; Brandenburg 1540; Calenberg-Göttingen 1542; Pfalz-Neuburg 1543; Oldenburg 1573 | 6.4 |
 | "O Herr, allmechtiger Got, verleih uns … das wir durch den zeitlichen tod deines Suns …" | "apparently newly made" (ed.); perhaps from *Fac nos … quam pretiosi Corporis et Sanguinis tui temporalis perceptio praefigurat* (Corpus Christi, postcommunion) | Ed.; suggestion of this guide | Döber 1525; Mecklenburg 1545 | 6.4 |

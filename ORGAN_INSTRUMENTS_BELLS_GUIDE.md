@@ -35,7 +35,11 @@ asks:
 - figural music, the organ and bells as marks of feast rank:
   [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §§10.5, 10.7;
 - bell baptism and weather-ringing, and the organist's contract:
-  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§12.3, 15.5.
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§12.3, 15.5;
+- the bell-ringer's appointment and pledge:
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §12.2;
+- the length of the sermon that the sermon glass measured:
+  [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §7.
 
 **Conventions**
 
@@ -64,6 +68,19 @@ asks:
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     These sometimes differ from the database's record headings. Where a passage comes from the
     editor's introduction or notes rather than from an order, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Kurpfalz is Lutheran under Ottheinrich (1556) and Reformed from 1563.
+  - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
+    (`CHURCH_ORDERS_GUIDE.md`, §4).
 
 ## Contents
 
@@ -89,7 +106,7 @@ asks:
    service, while the people gather, and after it, as they leave (§3.1).
 2. **Preludes: yes, of two kinds** (§3.2).
    - **A voluntary while the people gather.** At Strasbourg 1598 the organist begins "at the end
-     of the last ringing"; at Emden 1594, "before nine o'clock, when the people gather".
+     of the last ringing"; at Emden 1594 (Reformed), "before nine o'clock, when the people gather".
    - **Announcing each piece.** The organist begins a chant or plays the first stanza of a hymn,
      and the choir or people take it up (Gelnhausen [1568], Naumburg 1537/38, Nördlingen 1555,
      Schweinfurt 1576, Hof 1592).
@@ -114,14 +131,14 @@ asks:
      to stay.
    - **Elsewhere.** Gelnhausen: "Let the organist close with a little piece". Schönburg: "a good
      piece" after communion. Prussia 1568: a piece after the *Nunc dimittis*. Hamburg 1556:
-     "before and after the sermon". Emden 1594: as the people leave.
+     "before and after the sermon". Emden 1594 (Reformed): as the people leave.
 5. **Silent seasons and rites** (§3.6).
    - **Seasons.** Lent or Passiontide (Hamburg 1529, Nördlingen 1555); Advent II to Christmas
      Eve (Hof 1592); Rogation week (Pomerania 1569); lower feasts (Henneberg 1582).
    - **Rites.** The litany (Henneberg 1582); communion (Wolfenbüttel 1543, Schönburg 1542 except
      on high feasts, Reutlingen 1574); baptism (Thorn 1560–1570).
    - **Forbidden music.** Worldly songs, love-songs, dances and galliards (Calenberg-Göttingen
-     1542, Hamburg 1556, Pomerania 1569, Stettin 1573, Emden 1577) (§3.7).
+     1542, Hamburg 1556, Pomerania 1569, Stettin 1573, Emden 1577 (Reformed)) (§3.7).
 
 **Other instruments**
 
@@ -130,7 +147,7 @@ asks:
      court in 1538, and at weddings in church.
    - **Town pipers and fiddlers.** Danzig in 1612 retains the town pipers (three masters, three
      journeymen) and three fiddlers "for the choir", to play whenever there is figural music.
-   - **Emden.** The organist-town-piper of 1577 serves with "Christian music and other
+   - **Emden** (Reformed). The organist-town-piper of 1577 serves with "Christian music and other
      instruments" on feast days, tends the carillon and blows from the town-hall tower. The
      editor's notes add trombone-playing "in the organ" (1579), and a tower-watchman's psalms on
      cornett and trombone (1679).
@@ -144,10 +161,12 @@ asks:
 
 7. **Purpose.** Bells call people to the Word and to prayer, not to "the pomp of the feasts"
    (Wittenberg 1525, Saxe-Lauenburg 1585). Some orders curbed festal chiming (Danzig 1567,
-   Bentheim 1601); most kept more bells for greater days (Altenburg 1533, Danzig 1612) (§5.1).
+   Bentheim 1601 (Reformed)); most kept more bells for greater days (Altenburg 1533, Danzig
+   1612) (§5.1).
 8. **Before church.** The usual summons is three signs, the last "together", or three with one
-   bell and a little bell last (Gelnhausen [1568], Esslingen 1540, Bentheim 1601). Danzig 1612
-   names its seven bells and gives the full Sunday and weekday ringing (§5.2).
+   bell and a little bell last (Gelnhausen [1568], Esslingen 1540 (Moderate Reformed), Bentheim
+   1601 (Reformed)). Danzig 1612 names its seven bells and gives the full Sunday and weekday
+   ringing (§5.2).
 9. **At the canonical hours and through the day** (§5.3).
    - **Morning and evening, and the prayer bell.** The ringing at morning and evening was kept,
      even where no Matins or Vespers was held (Prussia 1544). It was reinterpreted as a bell
@@ -179,8 +198,8 @@ asks:
     - **Kept as a call to the living.** "That the living also may consider the hour of their own
       dying" (Meissen 1540).
     - **Abolished.** The Saturday ringing "for all faithful souls" (Zwickau 1529, Reuss 1552).
-    - **Regulated.** Equality (Ulm), fees by the number of bells (Danzig 1578), silence during
-      sermons (Herford 1532).
+    - **Regulated.** Equality (Ulm, Moderate Reformed), fees by the number of bells (Danzig
+      1578), silence during sermons (Herford 1532).
     - **Withheld.** From despisers of the Sacrament (Zwickau 1533) and from unbaptized infants
       (Lippe 1571).
 16. **At baptisms and weddings** (§5.7).
@@ -203,7 +222,8 @@ asks:
 **Sources.** The guide draws on the whole of Sehling's edition as held in `eko.db`: volumes
 1–24, including the half-volumes, with the editors' introductions and notes. Passages from an
 editor's introduction or note are marked as such, and so are witnesses later than about 1615,
-which are cited only for comparison: Bischofswerda 1676, and the Emden tower-watchman of 1679.
+which are cited only for comparison: Bischofswerda 1676, and the Emden tower-watchman of 1679
+(Reformed).
 
 **Searches.** The corpus was searched for:
 - **The organ and organist**: *orgel*, *orgeln*, *organist*, *organicen*, *organum*,
@@ -302,10 +322,10 @@ joyfully with their mouth and singing also. Yet shall it be in every way looked 
 figural music and organ-playing neither hinder nor too long hold up the common singing of the
 whole church, nor the rest of the service with preaching and praying.
 
-**The Reformed.** The Reformed orders went the other way. Micron's London order (German edition
-1565) rejects "altars, lights, little bells, vestments" (§5.4). At Emden the organ survived in
-the great church, but it was kept out of the service altogether. **Emden, *Kirchenordnung*,
-1594** (Sehling 7/1, p. 489):
+**The Reformed.** The Reformed orders went the other way. Micron's London order (Reformed)
+(German edition 1565) rejects "altars, lights, little bells, vestments" (§5.4). At Reformed
+Emden the organ survived in the great church, but it was kept out of the service altogether.
+**Emden, *Kirchenordnung*, 1594** (Reformed; Sehling 7/1, p. 489):
 
 <!-- doc 2113 -->
 > Des orgels is under dem gesang neen gebruck, ock by dem gadesdenst nicht, ahne allein des
@@ -346,8 +366,8 @@ there is no organ-playing or figural music. Secondly, that before and during the
 church he play no strange pieces and motets, but even that which the congregation shall
 afterward sing.
 
-The Emden order of 1594 (§3.1) has the same voluntary "before nine o'clock, when the people
-gather".
+The Emden order of 1594 (Reformed; §3.1) has the same voluntary "before nine o'clock, when the
+people gather".
 
 **The organ begins each piece.** In the orders that describe the festal service in detail, the
 organ begins the hymn or chant and the singers take it up. At Gelnhausen the organist begins the
@@ -583,7 +603,7 @@ another.
 **Other postludes.**
 - **Gelnhausen [1568]**: "Let the organist close with a little piece" (§3.2).
 - **Schönburg 1542**: "after the communion is held he may play a good piece" (§3.4).
-- **Emden 1594**: the organ only "when it goeth out of the church again" (§3.1).
+- **Emden 1594** (Reformed): the organ only "when it goeth out of the church again" (§3.1).
 - **Prussia 1568**: at Vespers the organist plays alternate verses of the *Magnificat*, and
   "after the *Nunc dimittis*" plays a piece. **Prussia, *Kirchenordnung und Ceremonien*, 1568**
   (Sehling 4, p. 75):
@@ -722,8 +742,8 @@ common minstrels, from which contempt of the ministry followeth. XII. That they 
 ministry in all honour, and do not run straight from the organ out of the church and despise and
 neglect God's word.
 
-- **Emden 1577**: the town's organist, who was also the town piper, is forbidden "all galliards
-  and other light dances" (§4.2).
+- **Emden 1577** (Reformed): the town's organist, who was also the town piper, is forbidden "all
+  galliards and other light dances" (§4.2).
 
 **Cantor, organist and pastor.** The organist is subject to the pastor (Hamburg 1556, Stettin
 1573) and is to agree with the choir about what is sung (Hamburg 1556). His appointment by
@@ -766,12 +786,12 @@ yea, solely to the honour of God Almighty, whereto this, like all else, shall in
 directed and meant), as is also not unseemly done and observed here at all weddings in the
 church.
 
-### 4.2 Emden: the organist as town piper, the carillon and the tower
+### 4.2 Emden (Reformed): the organist as town piper, the carillon and the tower
 
 In 1577 the council of Emden engaged Paul Hanssen, already the town piper, as organist of the
 great church for a year. His contract binds him to the organ, to "Christian music and other
 instruments" on feast days, to the carillon, and to blowing from the town-hall tower with a
-journeyman and a pupil. **Emden, *Organistenvertrag*, 1577** (Sehling 7/1, pp. 475–478):
+journeyman and a pupil. **Emden, *Organistenvertrag*, 1577** (Reformed; Sehling 7/1, pp. 475–478):
 
 <!-- doc 2113 -->
 > 3. Tom drudden soll he idt orgel mit flyte und guider voirsorge bedienen, und up den festdagen
@@ -907,9 +927,9 @@ the wedding procession and feast, and the sumptuary orders regulate or forbid th
   (*Feldgeschrei*) and kettledrums at weddings, as "no burgher's merriment" (Sehling 4, p. 195).
 - **Nordstrand 1605**: trumpets are wholly forbidden at weddings, christening feasts and other
   feasts (Sehling 23, p. 411).
-- **Ulm 1531**: according to the editor, the council's decree of 18 June 1531 on baptisms and
-  weddings asked that weddings be blessed without any display, including music with drums, wind
-  and string instruments (Sehling 17/2, p. 68, editor's introduction).
+- **Ulm 1531** (Moderate Reformed): according to the editor, the council's decree of 18 June
+  1531 on baptisms and weddings asked that weddings be blessed without any display, including
+  music with drums, wind and string instruments (Sehling 17/2, p. 68, editor's introduction).
 
 **The organist as minstrel.** Stettin 1573 forbids its organists to overcharge for playing at
 weddings, or to "pass themselves off as common minstrels" (§3.7). Ansbach 1538 (§4.1) and Danzig
@@ -971,9 +991,10 @@ feasts:
 - **Danzig 1567**: "the ringing and chiming on the feasts and their vigils, which are not
   appointed and have no ground in God's word", is to be left off by the ringers, "to avoid
   papistical suspicion" (Sehling 4, p. 187).
-- **Bentheim 1601**: the count renews his mandate against "the unnecessary, manifold ringing,
-  and especially the superstitious chiming with the bells", on Sundays and feasts as at
-  funerals. **Bentheim-Tecklenburg, *Mandat zum Glockenläuten*, 1601** (Sehling 22, p. 302):
+- **Bentheim 1601** (Reformed): the count renews his mandate against "the unnecessary, manifold
+  ringing, and especially the superstitious chiming with the bells", on Sundays and feasts as at
+  funerals. **Bentheim-Tecklenburg, *Mandat zum Glockenläuten*, 1601** (Reformed; Sehling 22, p.
+  302):
 
 <!-- doc 1508 -->
 > daß sie sich hinfürter deß beyerenß mit den glocken durchauß enthalten unnd auff den son-,
@@ -1001,10 +1022,11 @@ great feasts with the three larger bells and the small feasts "with the Osanna" 
 last of them "together" (*zusammen*) with all the bells:
 - **Gelnhausen [1568]**: the first sign at seven, the second at half past seven, and all
   together at eight (§3.2).
-- **Bentheim 1601**: three times with one bell, then a little bell last (§5.1).
-- **Esslingen 1540**: a forewarning with the bell used on working days for singing, then a
-  second, short sign with the noon bell, after which the sermon begins at once. **Esslingen,
-  *Läuteordnung für den Predigtgottesdienst*, 1540** (Sehling 17/2, p. 394):
+- **Bentheim 1601** (Reformed): three times with one bell, then a little bell last (§5.1).
+- **Esslingen 1540** (Moderate Reformed): a forewarning with the bell used on working days for
+  singing, then a second, short sign with the noon bell, after which the sermon begins at once.
+  **Esslingen, *Läuteordnung für den Predigtgottesdienst*, 1540**
+  (Moderate Reformed; Sehling 17/2, p. 394):
 
 <!-- doc 886 -->
 > das man hinfüro uff die sonntäg zu den dreyen predigen vor unnd nach mittags allwegen ain
@@ -1345,7 +1367,7 @@ liberty is to be kept; yet so that the people be sufficiently forewarned of it b
 that nothing of these things be changed without the consent and command of the superintendent.
 
 Under the Interim the Ansbach *Auctuarium* ordered both the elevation and the bell.
-**Brandenburg-Ansbach, *Auctuarium*, 1548** (Sehling 11, p. 327):
+**Brandenburg-Ansbach, *Auctuarium*, 1548** (Interim order; Sehling 11, p. 327):
 
 <!-- doc 278 -->
 > Item es sollen auch die priester nach gewönlichem alten gebrauch die beede gestalt des
@@ -1410,8 +1432,9 @@ bell. The orders divide:
   Sacrament.
 - **Transylvania 1543**: the minister goes to the sick "without candles, little bells and other
   pomp, which entice the unlearned to idolatry" (Sehling 24, p. 196).
-- **Micron 1554/1565** rejects "altars, lights, little bells, vestments" altogether. **Micron,
-  *Ordinancien* (1554), East Frisian German edition, 1565** (Sehling 7/1, p. 615):
+- **Micron 1554/1565** (Reformed) rejects "altars, lights, little bells, vestments" altogether.
+  **Micron, *Ordinancien* (1554), East Frisian German edition, 1565** (Reformed; Sehling 7/1, p.
+  615):
 
 <!-- doc 2116 -->
 > haben darumb keinswegs solche ceremonien angenomen, die eitel und unütz sind oder zu einiger
@@ -1531,6 +1554,9 @@ Hohenlohe editor records a later folk custom of ringing on Good Friday while "O 
 sung (Sehling 15, p. 452, editor's note), but that is nineteenth-century evidence and is not in
 the order.
 
+The Litany itself is treated in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md),
+§22.
+
 ### 5.6 Bells for the dead
 
 **Ringing at a death, as a reminder to the living.** The Saxon visitors kept the bell rung for
@@ -1582,10 +1608,10 @@ everywhere; yet this shall be diligently forewarned of from the pulpits, and the
 it, faithfully admonished at all times to prayer. The ringing on Saturday for all faithful souls
 shall also be abolished, for it is offensive and smelleth of the papacy.
 
-**Equality and fees.** Ulm's undated visitation articles ask "that in the ringing in memory of
-the dead equality be kept" (Sehling 17/2, p. 193). In practice the number of bells was a matter
-of fees. Danzig's burial order of 1578 sets the schoolboys' pay by the bells rung. **Danzig,
-*Begräbnisordnung*, 1578** (Sehling 4, p. 191):
+**Equality and fees.** Ulm's undated visitation articles (Moderate Reformed) ask "that in the
+ringing in memory of the dead equality be kept" (Sehling 17/2, p. 193). In practice the number
+of bells was a matter of fees. Danzig's burial order of 1578 sets the schoolboys' pay by the
+bells rung. **Danzig, *Begräbnisordnung*, 1578** (Sehling 4, p. 191):
 
 <!-- doc 1844 -->
 > das auf dem schlag zwei nachmittag die schüler fur der thuren sollen anfangen zu singen bis zu
@@ -1696,9 +1722,10 @@ Hohenlohe 1582 and the other territories. The orders fall into three groups:
 - **Kept, re-explained as a call to prayer**: Saxony 1528 (Sehling 1, pp. 170–171), the Upper
   Palatinate 1579 (one bell at night), Hohenlohe 1582 (one bell, not all, and not as long as the
   storm lasts), Limpurg 1610 (the great bell only, for a quarter of an hour).
-- **Abolished**: Ulm (undated articles, "as it hath begun"), Reuss 1552 (§5.6), Coburg 1554/55
-  (§5.3), Thüngen 1564, Saxony 1580, Saxe-Lauenburg 1585 (§5.1), and the Oldenburg visitations
-  of 1609–1610, which keep the prayer bell instead (Sehling 7/2.1, p. 1212).
+- **Abolished**: Ulm (undated articles, Moderate Reformed, "as it hath begun"), Reuss 1552
+  (§5.6), Coburg 1554/55 (§5.3), Thüngen 1564, Saxony 1580, Saxe-Lauenburg 1585 (§5.1), and the
+  Oldenburg visitations of 1609–1610, which keep the prayer bell instead
+  (Sehling 7/2.1, p. 1212).
 - **Asked about at visitation**: Hohenlohe 1558 asks whether there is ringing against weather,
   fog, frost or heat (Sehling 15, p. 122).
 
@@ -1765,7 +1792,7 @@ bell, not a church bell.
 | Brandis, 1529 | 1 | — | — | Alms collected with a hand-bell during sermons | 5.9 |
 | Heilbronn, c. 1529 (editor's introduction) | 17/1 | — | — | Sexton to ring only to the early sermon and baptism, not to Mass or Vespers | 5.2, 5.7 |
 | Riga, 1530 | 5 | — | — | Sign with a little bell before the consecration | 5.4 |
-| Ulm, decree of 1531 (editor's introduction) | 17/2 | — | No drums, wind or strings at weddings | — | 4.4 |
+| Ulm, decree of 1531 (editor's introduction) (Moderate Reformed) | 17/2 | — | No drums, wind or strings at weddings | — | 4.4 |
 | Heilbronn, *Gottesdienstordnung*, 1532 | 17/1 | — | — | *Salve* abolished; evening ringing kept, with singing and prayer for peace and the prayer bell | 5.3 |
 | Herford, 1532 | 21 | — | Drums, trumpets and pipes silent near the church during the sermon | All bells silent during the sermon, "be it for the dead or not" | 4.4, 5.6 |
 | Allstedt, visitation, 1533 | 1 | — | — | *Pro pace* kept, Ave Maria abolished; ringing to the sermon restored | 5.2, 5.3 |
@@ -1775,9 +1802,9 @@ bell, not a church bell.
 | Hatzkerode, 1534(?) | 2 | — | — | Bell sign during the German Sanctus to call communicants into the choir | 5.4 |
 | Denmark, *Ordinatio*, 1537 (apparatus to Schleswig-Holstein 1542) | 23 | — | — | Elevation at liberty, "the bells meanwhile sounding according to custom" | 5.4 |
 | Naumburg, St Wenzel, 1537/1538 | 2 | Organ begins each German song; three or four choirs in alternation | — | — | 3.3 |
-| Ulm, visitation articles, undated | 17/2 | — | — | "Equality" in ringing for the dead; weather-ringing to remain abolished | 5.6, 5.8 |
+| Ulm, visitation articles, undated (Moderate Reformed) | 17/2 | — | — | "Equality" in ringing for the dead; weather-ringing to remain abolished | 5.6, 5.8 |
 | Ansbach, mandate on figural singing, 1538 | 11 | — | Trombones and other instruments with the psalms at court, and at weddings in church | — | 4.1 |
-| Esslingen, *Läuteordnung*, 1540 | 17/2 | — | — | Fore-sign with the singing bell, second sign with the noon bell, then the sermon | 5.2 |
+| Esslingen, *Läuteordnung*, 1540 (Moderate Reformed) | 17/2 | — | — | Fore-sign with the singing bell, second sign with the noon bell, then the sermon | 5.2 |
 | Meissen, visitation, 1540 | 2 | — | — | Death bell "that the living may consider"; *pro pace* morning and evening; ringing-money | 5.6 |
 | Calenberg-Göttingen, 1542 | 6/2 | Organists to set the hymns; no love-songs or worldly songs | — | — | 3.7 |
 | Schleswig-Holstein, 1542 | 23 | Latin Gloria alternates choir and organ; German Gloria, hymn and Creed "without organ" | — | — | 3.3 |
@@ -1789,11 +1816,11 @@ bell, not a church bell.
 | Zerbst, 1545 | 2 | — | — | Little bell when the sermon's hour-glass runs out | 5.9 |
 | Kurpfalz, provisional order, 1546 | 14 | — | — | *Pro pace* morning and evening, for workers too; eleven o'clock or Friday bell for the Passion | 5.3 |
 | Bremen, *Zuchtordnung*, 1546 | 7/2.2 | — | Council's minstrels with trumpets, pipes and drums at weddings | — | 4.4 |
-| Brandenburg-Ansbach, *Auctuarium*, 1548 | 11 | — | — | Elevation of both kinds with ringing (Interim) | 5.4 |
+| Brandenburg-Ansbach, *Auctuarium*, 1548 (Interim order) | 11 | — | — | Elevation of both kinds with ringing (Interim) | 5.4 |
 | Reuss, 1552 | 2 | — | — | Weather-ringing and Saturday ringing for souls abolished | 5.6 |
 | Regensburg, Justus Jonas, 1553 | 13 | Introit and ordinary played, not sung; communion hymns and Vespers alternatim | — | — | 3.3 |
 | Coburg, visitation, 1554/55 | 1 | — | — | Ave and *Salve* pulses and weather-ringing cease; a work or gate bell allowed | 5.3 |
-| Micron, *Ordinancien*, 1554 (German 1565) | 7/1 | — | — | "Little bells" rejected with altars and lights | 5.4 |
+| Micron, *Ordinancien*, 1554 (German 1565) (Reformed) | 7/1 | — | — | "Little bells" rejected with altars and lights | 5.4 |
 | Nördlingen, St George's, 1555 | 12 | Organ begins; three choirs; silent in Lent except the Annunciation | — | — | 3.3, 3.6 |
 | Hamburg, 1556 | 5 | Before and after the sermon and at Vespers; between the verses of the German psalm; no worldly songs | — | — | 3.3, 3.5, 3.7 |
 | Kurpfalz, 1556 | 14 | — | — | Bell sign for a baptism outside the service | 5.7 |
@@ -1814,7 +1841,7 @@ bell, not a church bell.
 | Stettin, visitation, 1573 | 4 | Articles for organists: no strangers, tuning, no dances, no fantasizing over the people's singing | Organists not to act as common minstrels | — | 3.7, 4.4 |
 | Reutlingen, 1574 | 17/2 | Two stanzas sung, one played; none on communion days | — | — | 3.3, 3.6 |
 | Schweinfurt, 1576 | 11 | Organ begins Kyrie and introit; a piece in place of the *Et in terra* | — | — | 3.2, 3.4 |
-| Emden, *Organistenvertrag*, 1577 | 7/1 | Organist to serve the organ; no galliards or dances | "Christian music and other instruments" on feasts; tower-blowing; trombone in 1579 (editor) | Carillon | 4.2 |
+| Emden, *Organistenvertrag*, 1577 (Reformed) | 7/1 | Organist to serve the organ; no galliards or dances | "Christian music and other instruments" on feasts; tower-blowing; trombone in 1579 (editor) | Carillon | 4.2 |
 | Danzig, burial order, 1578 | 4 | — | — | Fees by the number of bells | 5.6 |
 | Lichtenberg, 1579 | 18 | — | — | Ave bell a continuous, not threefold, pulse | 5.3 |
 | Upper Palatinate, 1579 | 13 | — | — | Weather-ringing by night with one bell, for prayer | 5.8 |
@@ -1825,9 +1852,9 @@ bell, not a church bell.
 | Saxe-Lauenburg, 1585 | 5 | — | — | Bells for Word and prayer only; weather and secular ringing forbidden; sexton alone rings; a clock or compass | 5.1, 5.2 |
 | Danzig, wedding ordinances, 1590/1595 | 4 | — | Trumpets, fanfares and kettledrums forbidden at weddings | — | 4.4 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11 | Introit, responsory, *Te Deum* and *Magnificat* with organ; silent Advent II to Christmas Eve | — | Elevation bell ended c. 1560; all bells at the Christmas *Te Deum*; wedding bell half an hour later | 3.2, 3.6, 5.4, 5.5, 5.7 |
-| Emden, *Kirchenordnung*, 1594 | 7/1 | Not during the singing or the service; only before and after | — | — | 3.1 |
+| Emden, *Kirchenordnung*, 1594 (Reformed) | 7/1 | Not during the singing or the service; only before and after | — | — | 3.1 |
 | Strasbourg, 1598 | 20/1 | Defended against the Reformed; begins at the end of the ringing; plays what is to be sung; once or twice in a hymn; freer pieces after the blessing | — | — | 3.1, 3.2, 3.5 |
-| Bentheim-Tecklenburg, 1601 | 22 | — | — | No chiming; three times with one bell, a little bell last; burials moderate | 5.1, 5.2 |
+| Bentheim-Tecklenburg, 1601 (Reformed) | 22 | — | — | No chiming; three times with one bell, a little bell last; burials moderate | 5.1, 5.2 |
 | Nordstrand, 1605 | 23 | — | Trumpets forbidden at weddings and feasts | — | 4.4 |
 | Oldenburg, visitations, 1609–1610 | 7/2.1 | — | — | Weather-ringing forbidden; prayer bell kept | 5.8 |
 | Limpurg, 1610 | 16 | — | — | Little bell before baptism and for children's burials; great bell a quarter-hour in storms | 5.6, 5.7, 5.8 |
@@ -1847,9 +1874,9 @@ through the table in §6 and the text.
 |---|---|---|---|---|
 | Allstedt | *Ordnung der Visitatoren für die Stadt und das Amt Allstedt* | 1533 | 1, p. 511 | 5.3 |
 | Ansbach | *Figural und coral zu ziemlicher zeit in der kirchen zu singen* | 1538 | 11, p. 397 | 4.1 |
-| Bentheim-Tecklenburg | *Mandat zum Glockenläuten* | 1601 | 22, p. 302 | 5.1 |
+| Bentheim-Tecklenburg (Reformed) | *Mandat zum Glockenläuten* | 1601 | 22, p. 302 | 5.1 |
 | Bergedorf | *Kirchenordnung* | 1544 | 5, p. 389 | 3.3 |
-| Brandenburg-Ansbach | *Auctuarium* | 1548 | 11, p. 327 | 5.4 |
+| Brandenburg-Ansbach (Interim order) | *Auctuarium* | 1548 | 11, p. 327 | 5.4 |
 | Brandenburg-Ansbach | *Vereinbarungen der Theologen auf der Synode* | 1556 | 11, p. 336 | 5.7 |
 | Brandis | *Ordnung für die Stadt Brandis* | 1529 | 1, p. 533 | 5.9 |
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, p. 785 | 3.7 |
@@ -1857,9 +1884,9 @@ through the table in §6 and the text.
 | Danzig | *Begräbnisordnung* | 1578 | 4, p. 191 | 5.6 |
 | Danzig | *Kirchenordnung für Danzig* | 1612 | 4, pp. 202–203, 212 | 4.3, 5.2 |
 | Denmark | *Ordinatio ecclesiastica* | 1537 | 23, p. 90 | 5.4 |
-| Emden | *Organistenvertrag* | 1577 | 7/1, pp. 475–478 | 4.2 |
-| Emden | *Kirchenordnung* | 1594 | 7/1, p. 489 | 3.1 |
-| Esslingen | *Läuteordnung für den Predigtgottesdienst* | 1540 | 17/2, p. 394 | 5.2 |
+| Emden (Reformed) | *Organistenvertrag* | 1577 | 7/1, pp. 475–478 | 4.2 |
+| Emden (Reformed) | *Kirchenordnung* | 1594 | 7/1, p. 489 | 3.1 |
+| Esslingen (Moderate Reformed) | *Läuteordnung für den Predigtgottesdienst* | 1540 | 17/2, p. 394 | 5.2 |
 | Gelnhausen | *Kirchenordnung* | [1568] | 9, p. 652 | 3.2 |
 | Haldensleben | *Ordo caeremoniarum ecclesiae Haldenslebensis* | 1564 | 2, p. 457 | 5.4 |
 | Hamburg | *Kirchenordnung* | 1529 | 5, p. 516 | 4.4 |
@@ -1879,7 +1906,7 @@ through the table in §6 and the text.
 | Luther | *Deutsche Messe und ordnung gottis diensts* | 1526 | 1, p. 11 | 3.1 |
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, p. 552 | 5.3 |
 | Meissen | *Ordnung der Visitatoren für die Stadt Meissen* | 1540 | 2, p. 52 | 5.6 |
-| Micron | *Ordinancien* (1554), East Frisian German edition | 1565 | 7/1, p. 615 | 5.4 |
+| Micron (Reformed) | *Ordinancien* (1554), East Frisian German edition | 1565 | 7/1, p. 615 | 5.4 |
 | Nassau-Dillenburg | *Visitationsabschied* | 1570 | 10, p. 112 | 4.4 |
 | Naumburg | *Kirchen-Ordnung* for St Wenzel | 1537/1538 | 2, p. 72 | 3.3 |
 | Pomerania | *Agenda* | 1569 | 4, p. 439 | 3.3 |

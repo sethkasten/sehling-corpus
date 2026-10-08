@@ -29,6 +29,22 @@ a concordance of every order quoted. Appendix A condenses the "Compare by day" s
 `hymns.xlsx` into one table: the chief hymn (*Hauptlied*) of each Sunday and feast in the old
 sources, with its original, literal English and common English titles and its witnesses.
 
+**Related guides.** Several subjects are treated more fully elsewhere and are only cited here:
+- the order of the Mass in which the slots stand: [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+  §§4–5;
+- the Latin propers that the hymns replaced: [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md), §§3–9;
+- the organ in alternation with choir and people:
+  [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §3;
+- the offices and the catechism service in which the office hymns were sung:
+  [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §§7, 10;
+- the Litany: [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22;
+- the feasts and seasons: [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §§10,
+  12;
+- the prayer before the sermon and the sermon itself: [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md),
+  §10;
+- the rites at which hymns were sung (baptism, marriage, burial and ordination):
+  [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§3, 7, 9, 10.
+
 **Conventions**
 
 - **Quotations.** Every quotation is Sehling's text as it stands in the `eko.db` database built
@@ -40,9 +56,9 @@ sources, with its original, literal English and common English titles and its wi
   - Spelling and punctuation are as printed, including plain OCR errors (such as "heilaut" for
     "heiland" or "hemehck" for "hemelick").
   - "[…]" marks an omission.
-  - Every quotation has been checked against the database text, allowing for OCR noise: at
-    least 90 per cent of its words must be found there in order. Its page has been checked
-    against the edition's page markers.
+  - Every quotation has been checked against the database text, allowing for OCR noise: at least
+    90 per cent of its words must be found there in order. Its page has been checked against the
+    edition's page markers.
   - Each quotation is preceded by an HTML comment, invisible when rendered, that names the
     `eko.db` document it was checked against.
 - **Translations.** The English is formal-equivalence, in the idiom of the Authorized Version:
@@ -64,6 +80,24 @@ sources, with its original, literal English and common English titles and its wi
     19/2, 20/1 and 20/2, following the digitized volumes.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     These sometimes differ from the database's record headings (see §2.3).
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **Radical Reformation**: Thomas Müntzer's Allstedt orders.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Hesse is Moderate Reformed under Philip (Kirchenordnung of 1566) and Philippist
+    under his sons (*Agende* of 1574), and Hessen-Kassel Reformed from 1605.
+  - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
+    (`CHURCH_ORDERS_GUIDE.md`, §4).
 
 ---
 
@@ -103,11 +137,11 @@ hymn after the sermon. The table in §1.2 sets out the pattern slot by slot.
 
 **2. The opening of the service was a prayer for the Holy Ghost.** *Veni sancte Spiritus*, in
 Latin or in German ("Komm heiliger Geist, Herre Gott", or the prose "Komm, heiliger Geist,
-erfülle"), or "Nun bitten wir", was often sung kneeling. The Hessian *Agende* gives the reason:
-"that the help and assistance of the Holy Ghost may be prayed for, for the performing of the
-whole service" (§4.1). Many orders also say plainly that the opening songs were sung "until the
-congregation cometh together" (§4.2). Some northern orders opened with the German Benedictus or
-the German Te Deum instead (§§4.3–4.4).
+erfülle"), or "Nun bitten wir", was often sung kneeling. The Hessian *Agende* (1574, Philippist)
+gives the reason: "that the help and assistance of the Holy Ghost may be prayed for, for the
+performing of the whole service" (§4.1). Many orders also say plainly that the opening songs
+were sung "until the congregation cometh together" (§4.2). Some northern orders opened with the
+German Benedictus or the German Te Deum instead (§§4.3–4.4).
 
 **3. Hymns took the place of the introit, the gradual, the sequence and the offertory.**
 - **Introit.** A Scriptural Latin introit could be kept where a school sang it. Otherwise, and
@@ -466,14 +500,14 @@ straightway thereafter sing the Our Father and the words of the Supper in German
 the communion the sexton shall sing with the people "Jesus Christ" or "God be praised," one
 Sunday after the other, when the Lord's Supper is held.
 
-The same order closes with "Es wolt uns Gott genedig sein" and "Erhalt uns, Herr" on
-alternate Sundays (§15.4).
+The same order closes with "Es wolt uns Gott genedig sein" and "Erhalt uns, Herr" on alternate
+Sundays (§15.3).
 
 ### 3.4 Three shapes of service
 
 The slots fall differently in three kinds of service. The hymns in each kind are much alike.
 
-| | Mass-shaped (Saxony, Bugenhagen's northern orders, Brandenburg, Prussia, Pomerania, Mecklenburg, Hesse) | Preaching service with communion (Württemberg and its derivatives, Kurpfalz 1556, Pfalz-Zweibrücken, Baden, Strasbourg) | Village Mass without a school |
+| | Mass-shaped (Saxony, Bugenhagen's northern orders, Brandenburg, Prussia, Pomerania, Mecklenburg, Hesse (Moderate Reformed)) | Preaching service with communion (Württemberg and its derivatives, Kurpfalz 1556, Pfalz-Zweibrücken, Baden, Strasbourg) | Village Mass without a school |
 |---|---|---|---|
 | Opening | Latin introit, or German psalm in its place; often *Veni sancte* or "Komm heiliger Geist" first | "Komm heiliger Geist", "Nun bitten" or a German psalm "der zeit gemeß" | "Komm heiliger Geist" or a German psalm |
 | Kyrie, Gloria | Latin, German, or troped German Kyrie; "Allein Gott" for or with *Et in terra* | none | German Kyrie; "Allein Gott" |
@@ -522,8 +556,8 @@ canticle: the Benedictus, the Te Deum, or Psalm 51.
 
 ### 4.1 *Veni sancte Spiritus* and "Komm heiliger Geist"
 
-The Hessian *Agende* gives the reason. The whole service is asked of the Holy Ghost at its
-beginning, on bended knees. **Hessen, *Agende*, 1574** (Sehling 8, p. 411):
+The Hessian *Agende* (Philippist) gives the reason. The whole service is asked of the Holy Ghost
+at its beginning, on bended knees. **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 411):
 
 <!-- doc 2272 -->
 > Erstlich singen die schuler mit gebogenen knien: Komm heiliger Geist etc., damit die hülfe
@@ -647,7 +681,7 @@ Why should one not sing, and let remain, a pure introit, Kyrie eleison, *Gloria 
 and the *Et in terra*, until the congregation were come together? For my own person I can
 indeed find no reason for it.
 
-**Hessen, *Kirchenordnung*, 1566** (Sehling 8, p. 248):
+**Hessen, *Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, p. 248):
 
 <!-- doc 2257 -->
 > Erstlich, bis die gemein zusamenkompt, singt man ein psalm oder 2 nach gelegenheit eines
@@ -866,9 +900,9 @@ for the introit the German *Te Deum laudamus*, with a collect.
 
 ### 4.5 A penitential psalm-hymn for the confession
 
-In Hesse the congregation could sing Psalm 51 in Erhart Hegenwalt's metrical version ("Erbarm
-dich mein, o Herre Gott") in place of the spoken confession and absolution. **Hessen,
-*Kirchenordnung*, 1566** (Sehling 8, p. 248):
+In Hesse (Moderate Reformed) the congregation could sing Psalm 51 in Erhart Hegenwalt's metrical
+version ("Erbarm dich mein, o Herre Gott") in place of the spoken confession and absolution.
+**Hessen, *Kirchenordnung*, 1566** (Moderate Reformed; Sehling 8, p. 248):
 
 <!-- doc 2257 -->
 > Darnach tut man entweder die bekantnis der sünden mit aufnemung der absolution, oder singt
@@ -1068,9 +1102,9 @@ laus et honor*; Easter, *Salve festa dies*, etc.; Pentecost, the introit of the 
 Trinity, the introit of the Trinity; the Annunciation of Mary, *Haec est dies*, etc.
 
 The St George's order of Nördlingen (1555) copies this rotation, putting it after the Latin
-introit and before the confession (Sehling 12, p. 319). The *Auctuarium* of
-Brandenburg-Ansbach gives the fullest village list. **Brandenburg-Ansbach, *Auctuarium*,
-1548** (Sehling 11, pp. 329–330):
+introit and before the confession (Sehling 12, p. 319). The *Auctuarium* of Brandenburg-Ansbach,
+an Interim order, gives the fullest village list. **Brandenburg-Ansbach, *Auctuarium*, 1548**
+(Interim order; Sehling 11, pp. 329–330):
 
 <!-- doc 278 -->
 > Wo nit schulen oder leut vorhanden, die lateinisch singen konten, sollen die pfarhern anstad
@@ -1119,8 +1153,8 @@ Hospital, 1525** (Sehling 11, p. 56):
 
 Introit, or entrance of the Mass. [Notes] "Now pray we the Holy Ghost" [four verses].
 
-Strasbourg's Mass of 1525 had Psalm 51 or Psalm 130 "an stat des Introits". **Strasbourg,
-*Ordnung des Herren Nachtmal*, 1525** (Sehling 20/1, p. 156):
+Strasbourg's Mass of 1525 (Moderate Reformed) had Psalm 51 or Psalm 130 "an stat des Introits".
+**Strasbourg, *Ordnung des Herren Nachtmal*, 1525** (Moderate Reformed; Sehling 20/1, p. 156):
 
 <!-- doc 1279 -->
 > Auff das fahet an die kirch zu singen ein psalmen als das Miserere oder ein anderen psalmen
@@ -1283,6 +1317,9 @@ Person of the Trinity. The Kyrie melodies of the chant books (*summum*, *paschal
 *dominicale*, *angelicum*, *apostolicum*, *in adventu*, *de beata Virgine*) survived as seasonal
 grades in the Lutheran cantionals of Spangenberg and Lossius. The grades themselves are
 treated in `LITURGICAL_CALENDAR_GUIDE.md` §4.2. This section deals with the texts sung to them.
+
+The Kyrie in the order of the Mass, and the seasonal Kyrie chants named in the orders, are
+treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §6.
 
 ### 6.1 Three times, not nine
 
@@ -1566,6 +1603,9 @@ Two German Gloria hymns run through the orders:
 
 The priest's Latin or German intonation ("Gloria in excelsis Deo", "Ehre sei Gott in der Höhe")
 usually stayed. The hymn was sung for, or together with, the choir's *Et in terra*.
+
+The Gloria in the order of the Mass is treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+§7.
 
 ### 7.1 The German hymn inside the Latin Gloria
 
@@ -1931,10 +1971,10 @@ sequence *Sancti Johannis Christi praeconis*, etc., and the like, we will not ha
 sequence of Mary Magdalene, *Laus tibi Christe*, may be sung once or twice in the year upon a
 Sunday, when one will. But the sequence of the Holy Trinity as oft as one will.
 
-The Brandenburg-Ansbach *Auctuarium* lists the "pure and good" sequences of the chief feasts.
-On other days it puts a German psalm-hymn in the place of an impure gradual or alleluia. For
-the Purification its "sequence" is already Luther's German "Mit Fried und Freud".
-**Brandenburg-Ansbach, *Auctuarium*, 1548** (Sehling 11, p. 329):
+The Brandenburg-Ansbach *Auctuarium*, an Interim order, lists the "pure and good" sequences of
+the chief feasts. On other days it puts a German psalm-hymn in the place of an impure gradual or
+alleluia. For the Purification its "sequence" is already Luther's German "Mit Fried und Freud".
+**Brandenburg-Ansbach, *Auctuarium*, 1548** (Interim order; Sehling 11, p. 329):
 
 <!-- doc 278 -->
 > Die fürnembsten fest, haben ir raine und gute sequenz. Bei den soll man bleiben, als
@@ -2139,10 +2179,10 @@ of the birth of Christ.
 
 The same Calenberg Masses have the Easter sequence "Laßt uns Christen alle singen" with "Christ
 ist erstanden" sung between its verses. The Pentecost sequence is "Komm, du Tröster, heiliger
-Geist" with "Nun bitten wir" "between every verse". The Hessian *Agende* of 1574 printed the
-same German sequences in its songbook appendix (Sehling 8, pp. 464–469). At Hof the Easter
-sequence was sung in German as "Wir Christen opfern allesamt". **Hof, *Ordo ecclesiasticus*,
-1592** (Sehling 11, p. 440):
+Geist" with "Nun bitten wir" "between every verse". The Hessian *Agende* of 1574 (Philippist)
+printed the same German sequences in its songbook appendix (Sehling 8, pp. 464–469). At Hof the
+Easter sequence was sung in German as "Wir Christen opfern allesamt". **Hof, *Ordo
+ecclesiasticus*, 1592** (Sehling 11, p. 440):
 
 <!-- doc 294 -->
 > Post epistolam: Christ lag in todesbanden, oder der sequenz Victimae paschali, deudsch: Wir
@@ -2541,6 +2581,9 @@ The later Regensburg order even calls "Erhalt uns" the "sequence of the season".
 thereupon the choir singeth the sequence of the season: "Keep us, Lord, by thy word," or else
 something German.
 
+The Litany as a rite, with its forms, singers and days, is treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.
+
 ### 8.10 How fixed the slot was
 
 This slot was **variable**. At the three high feasts it was fixed by the farced sequence and
@@ -2571,6 +2614,9 @@ few:
 
 What varies is where the creed stands and what it is used for.
 
+The creed in the order of the Mass, Nicene or Apostles', is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §9.
+
 ### 9.1 After the gospel, with or instead of the Latin *Patrem*
 
 The *Deutsche Messe* set the pattern: "Nach dem evangelio singt die ganze kirche den glauben
@@ -2597,8 +2643,8 @@ figured music, and the litany. **Aschersleben, *Kirchen-Agenda*, 1575** (Sehling
 The cantor shall also sing one Sunday in German, the other in Latin (whereto the *Patrem* also
 belongeth), the third Sunday figured music, and the fourth sing the litany.
 
-The Hessian *Agende* allows three German creeds, and on occasion the German *Grates nunc
-omnes* in their place. **Hessen, *Agende*, 1574** (Sehling 8, p. 411):
+The Hessian *Agende* (Philippist) allows three German creeds, and on occasion the German *Grates
+nunc omnes* in their place. **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 411):
 
 <!-- doc 2272 -->
 > Auf verlesung des evangelii wird gesungen das symbolum apostolicum teutsch, von wort zu wort,
@@ -3013,8 +3059,8 @@ Bugenhagen's Braunschweig order of 1528 already has "Christ ist erstanden" at th
 Easter sermon, "after the accustomed manner", while "Christ lag" was farced into *Victimae*
 (§8.3). The Hamburg order of 1529 repeats the rule (§8.3).
 
-The Hessian *Agende* gives the congregation's prayer before the sermon as the Lord's Prayer or
-a *Leise*. **Hessen, *Agende*, 1574** (Sehling 8, p. 412):
+The Hessian *Agende* (Philippist) gives the congregation's prayer before the sermon as the
+Lord's Prayer or a *Leise*. **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 412):
 
 <!-- doc 2272 -->
 > die ganze kirche eintrechtiglich singet das Vater unser oder einen andern gewönlichen gesang
@@ -3344,7 +3390,7 @@ season. And the same shall be sung fully out to the end by the choir or the cong
 meanwhile the preacher who will hold the office and perform the communion shall put on again
 his church vestment.
 
-**Hessen, *Agende*, 1574** (Sehling 8, p. 412). The Corvey order of 1603 copies it:
+**Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 412). The Corvey order of 1603 copies it:
 
 <!-- doc 2272 -->
 > Allhie gehet der pfarherr vom predigstuhl ab, und wird underdes der christlich lobgesang
@@ -3696,12 +3742,12 @@ orders of Schwäbisch Hall and Limpurg split the burial hymn in the same way (§
 
 ### 11.7 How fixed the slot was
 
-**A handful, with a trend toward the variable.** The Saxon, Prussian and northern orders
-mostly fixed the slot on "Erhalt uns", with "Verleih uns Frieden", "Es woll uns Gott" or "Gott
-der Vater wohn uns bei" as the alternatives. Where it was the offertory, any "German psalm"
-would do. From the 1560s the Upper German, Hessian, Hohenlohe and East Frisian orders
-increasingly wanted a hymn chosen to answer the sermon. That is the most topical choice of hymn
-anywhere in the service.
+**A handful, with a trend toward the variable.** The Saxon, Prussian and northern orders mostly
+fixed the slot on "Erhalt uns", with "Verleih uns Frieden", "Es woll uns Gott" or "Gott der
+Vater wohn uns bei" as the alternatives. Where it was the offertory, any "German psalm" would
+do. From the 1560s the Upper German, Hessian (Moderate Reformed), Hohenlohe and East Frisian
+orders increasingly wanted a hymn chosen to answer the sermon. That is the most topical choice
+of hymn anywhere in the service.
 
 ---
 
@@ -3850,6 +3896,9 @@ Brandenburg kept the elevation. After it the collegiate churches sang the Latin 
 After the elevation one shall sing in cathedrals and collegiate churches a Latin song, as the
 responsory *Tua est potentia*, etc.; but in the parishes a German song, "May God be gracious
 unto us," or "Praise and thanks with high price."
+
+The bells rung at the elevation are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §5.4.
 
 ### 12.4 In the place of Sanctus and Agnus
 
@@ -4397,7 +4446,8 @@ long, "God be praised," or "Jesus Christ our Saviour."
 
 The Kassel general synod of 1607, as Hesse turned Reformed, kept "Gott sei gelobet". Beside it
 stood Lobwasser's Psalms 23, 103 and 111, "according to the occasion and number of the
-communicants". **Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607** (Sehling 9, p. 75):
+communicants". **Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607**
+(Reformed; Sehling 9, p. 75):
 
 <!-- doc 2287 -->
 > und, da coena Domini, under wehrender communion der gesang: Gott sey gelobt undt gebenedeiet
@@ -4462,6 +4512,9 @@ Schönburg let the organ play during the communion only on high feasts. **Schön
 During the communion one may sing by turns the German Sanctus, etc., as "Jesus Christ," at times
 the Latin Sanctus or Agnus Dei of the New Testament. The organist shall not play during the
 communion, unless on high feasts.
+
+The organ's alternation with choir and people is treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §3.3.
 
 ### 14.8 How fixed the slot was
 
@@ -5102,6 +5155,9 @@ sermon, namely in the fair paraphrase thereof. […] Also the song "Now rejoice,
 all" doeth sufficient rehearsal of all the articles of faith, and is a good paraphrase upon the
 creed.
 
+The catechism service itself, its hour, length and order, is treated in
+[`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §10.
+
 ### 16.7 Weekday services: reusing the Sunday hymn
 
 At Hof, the Wednesday service repeated the hymn of the Sunday before. On Friday the German hymn
@@ -5198,9 +5254,10 @@ The first Nürnberg Mass ends "mit dem Benedicamus Domino, dominicaliter", follo
 uns Gott genädig sein" (**Nürnberg, *Form und Ordnung einer christlichen Messe*, 1525**,
 Sehling 11, p. 57).
 
-**In German.** Müntzer's Allstedt offices end every matins with a German *Benedicamus*. It is
-plain in Advent and the Passion, with a threefold alleluia at Easter. **Allstedt, Thomas
-Müntzer, *Deutsch kirchenampt*, [1523]**, end of Easter matins (Sehling 1, p. 491):
+**In German.** Müntzer's Allstedt offices (Radical Reformation) end every matins with a German
+*Benedicamus*. It is plain in Advent and the Passion, with a threefold alleluia at Easter.
+**Allstedt, Thomas Müntzer, *Deutsch kirchenampt*, [1523]**, end of Easter matins
+(Radical Reformation; Sehling 1, p. 491):
 
 <!-- doc 50 -->
 > Das benedicamus. […] Last uns gesegnen den herren alleluia alleluia alleluia. Got sei ewiglich
@@ -5210,10 +5267,10 @@ The *Benedicamus*. […] Let us bless the Lord, alleluia, alleluia, alleluia. Go
 ever, alleluia, alleluia.
 
 The Advent form is on p. 475 and the Passion form on p. 485. Müntzer's *Deutsch evangelisch
-messe* of 1524 ends each Mass with the same words (Sehling 1, pp. 501–503), and so does the
-Erfurt *Deutsches Kirchenamt* of 1525 (Sehling 2, pp. 376, 380). In Franconia the German form
-closed the Mass after the thanksgiving collect. **Brandenburg-Ansbach, *Auctuarium*, 1548**
-(Sehling 11, p. 330):
+messe* of 1524 (Radical Reformation) ends each Mass with the same words
+(Sehling 1, pp. 501–503), and so does the Erfurt *Deutsches Kirchenamt* of 1525
+(Sehling 2, pp. 376, 380). In Franconia the German form closed the Mass after the thanksgiving
+collect. **Brandenburg-Ansbach, *Auctuarium*, 1548** (Interim order; Sehling 11, p. 330):
 
 <!-- doc 278 -->
 > Darnach spricht der priester: Laßt uns gebenedeien den Herrn! antwort das volk: Gott sei
@@ -5294,6 +5351,9 @@ the long melismatic ones, for they had "few words and [little] devotion". **Neue
 *Benedicamus Domino. Deo dicamus gratias. Benedicamus Domino*, alleluia, alleluia, alleluia.
 *Deo dicamus gratias*, alleluia, alleluia, alleluia. The *Benedicamus* with the many notes shall
 be let alone, for they make much crying, and have few words and [little] devotion.
+
+The *Benedicamus* as the dismissal of the Mass is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §13.1.
 
 ### 16.9 The *Benedicamus* replaced: motets and German hymns
 
@@ -5566,6 +5626,10 @@ family's wishes and purse.
 | Burial | "Mitten wir im Leben sind" (with or after *Media vita*); "Mit Fried und Freud"; "Aus tiefer Not"; "Nun lasst uns den Leib begraben"; "Wir glauben all"; *Si bona suscepimus*; *Jam moesta quiesce* |
 | Ordination and installation | "Nun bitten" or "Komm heiliger Geist"; "Wir glauben"; Te Deum or "Dank sagen wir alle"; *Veni creator*; *Veni sancte Spiritus* |
 | Thanksgiving days | Te Deum; Ps 124 "Wo Gott der Herr nicht bei uns hält"; Ps 127 |
+
+The rites themselves are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md): baptism in §3, marriage in §7,
+the sick in §8, burial in §9, and ordination and installation in §§10–11.
 
 ### 17.1 Baptism
 
@@ -5973,8 +6037,8 @@ Consistorialordnung*, 1573** (Sehling 3, p. 109):
 after the Our Father is spoken the congregation shall sing "Now pray we the Holy Ghost," and
 "May God be gracious unto us and give his blessing," etc., item the *Te Deum laudamus*, etc.
 
-The Hessian ordination closes with the Te Deum "where there are schools", or "Dank sagen wir
-alle". **Hessen, *Agende*, 1574** (Sehling 8, p. 455):
+The Hessian ordination (Philippist) closes with the Te Deum "where there are schools", or "Dank
+sagen wir alle". **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 455):
 
 <!-- doc 2272 -->
 > Zum beschluß soll die gemeine singen Te Deum laudamus, teutsch, oder latinisch, wo schulen
@@ -6202,9 +6266,10 @@ the singing is not a superfluous or vain ceremony, but a short summary and pleas
 whereby all manner of things necessary to be known for salvation are brought home to our hearts
 most fairly and lovely.
 
-The Kassel general synod of 1607 asked for the hymn numbers to be posted on a board at the church
-doors, and for an order of hymns "by the seasons of the year and fitted to the texts that are to
-be preached". **Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607** (Sehling 9, pp. 75–76):
+The Kassel general synod of 1607 (Reformed) asked for the hymn numbers to be posted on a board
+at the church doors, and for an order of hymns "by the seasons of the year and fitted to the
+texts that are to be preached". **Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607**
+(Reformed; Sehling 9, pp. 75–76):
 
 <!-- doc 2287 -->
 > das die psalmen, so in der versamblung gesungen werden sollen, jederzeitt von dem glöckner oder
@@ -6293,8 +6358,9 @@ These psalms have all been common and known in the church; they shall therefore 
 back into it. The songs for the special high feasts we have not wished to list here, for they
 are otherwise known well enough.
 
-Hesse wanted the sung psalms explained in sermons, "for what one understandeth not goeth slowly
-to the heart". **Hessen, *Kirchenordnung*, 1566** (Sehling 8, p. 255):
+Hesse (Moderate Reformed) wanted the sung psalms explained in sermons, "for what one
+understandeth not goeth slowly to the heart". **Hessen, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, p. 255):
 
 <!-- doc 2257 -->
 > sonderlich aber gehets ohn frucht nit abe, wenn die psalmen ausgelegt werden, zuvoraus die, so
@@ -6602,10 +6668,10 @@ inexperienced in the Latin tongue". **Hohenlohe, *Kirchenordnung*, 1553** (Sehli
 for its sake keep the Latin songs in use, and beside them also the German songs, because of the
 unlearned and those inexperienced in the Latin tongue.
 
-Hesse (1574) reasoned from 1 Corinthians 14: whoever does not understand cannot say Amen. It
-allowed Latin only before the congregation had gathered, and at vespers when few were there. It
-also limited the singing before the sermon to half an hour on feast days and a quarter of an hour
-on weekdays. **Hessen, *Agende*, 1574** (Sehling 8, p. 411):
+Hesse (1574, Philippist) reasoned from 1 Corinthians 14: whoever does not understand cannot say
+Amen. It allowed Latin only before the congregation had gathered, and at vespers when few were
+there. It also limited the singing before the sermon to half an hour on feast days and a quarter
+of an hour on weekdays. **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 411):
 
 <!-- doc 2272 -->
 > Wie kann aber einer Amen sagen, zu dem, das er nicht verstehet und nit weiß, was damit gemeint
@@ -6754,6 +6820,9 @@ tenor or another voice, so the people could recognize it. **Württemberg, *Hofki
 At the close a German psalm shall always be sung, and in the compositions care shall be taken
 that the customary, familiar melody be set in the tenor or another voice.
 
+The organ's silence in certain seasons and the limits on what the organist might play are
+treated in [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §§3.6–3.7.
+
 ### 18.10 Freedom
 
 Many orders end their rules on singing with a clause of freedom, or leave the choice to the
@@ -6796,7 +6865,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Saxony (Albertine), *Kirchenordnung*, 1539 | 1, pp. 271–275 | 30 | sequence or German psalm "as the season requireth"; village hymn "pro introitu"; "Christe du Lamm" to close; wedding psalms | 5.1, 8.1, 15.1, 15.2, 17.2 |
 | Albertine Saxony, *Die Cellischen Ordnungen*, 1545 | 1, p. 300 | 33 | Latin chant with kneeling prayer "an stadt des offertorii" | 11.3 |
 | Saxony (Albertine), *Kirchenordnung*, 1580 | 1, p. 369 | 44 | communion hymns "one or more" by number of communicants | 14.2 |
-| Allstedt, Thomas Müntzer, *Deutsch kirchenampt*, [1523] | 1, pp. 475–491 | 50 | German *Benedicamus*, with alleluia at Easter | 16.8 |
+| Allstedt, Thomas Müntzer, *Deutsch kirchenampt*, [1523] (Radical Reformation) | 1, pp. 475–491 | 50 | German *Benedicamus*, with alleluia at Easter | 16.8 |
 | Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1, p. 555 | 78 | all communion hymns sung when communicants are many | 14.2 |
 | Eisfeld, *Verordnung der Visitatoren*, 1554 | 1, p. 562 | 84 | Hus's hymn at communion | 14.1 |
 | Pirna, *Kirchenordnung* of Anton Lauterbach, 1555 | 1, pp. 642–643 | 119 | two German hymns per Sunday, by the sense of epistle and gospel | 8.7 |
@@ -6836,7 +6905,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Nürnberg, Döber's German Mass in the New Hospital, 1525 | 11, p. 56 | 250 | "Nun bitten" printed as the introit | 5.3 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533, later appendix | 11, p. 202 | 270 | penitential hymns only for the unrepentant dead | 17.4 |
 | Brandenburg-Ansbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, p. 316 | 276 | *O crux ave* cut | 16.1 |
-| Brandenburg-Ansbach, *Auctuarium*, 1548 | 11, pp. 329–330 | 278 | pure sequences; psalm-hymns for impure graduals "for the people's sake"; German *Benedicamus* at the end of Mass | 5.2, 8.2, 16.8 |
+| Brandenburg-Ansbach, *Auctuarium*, 1548 (Interim order) | 11, pp. 329–330 | 278 | pure sequences; psalm-hymns for impure graduals "for the people's sake"; German *Benedicamus* at the end of Mass | 5.2, 8.2, 16.8 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 411–475 | 294 | full Sunday table by slot; kneeling "Nun bitten"; communion hymns by number; baptism, wedding and burial hymns; plan defended against changes; *Benedicamus* graded and in German; motets in its place; *Puer natus in Bethlehem* at the entrance to vespers | 3.1, 4.1, 6.4, 8.4, 8.8, 10.1, 12.4, 14.2, 16.1, 16.2, 16.7, 16.8, 16.9, 16.10, 17.1, 17.2, 17.4, 18.6 |
 | Nürnberg, Veit Dietrich, *Agendbüchlein*, 1545 | 11, p. 502 | 297 | "Als Jesus Christus" at communion | 14.6 |
 | Schweinfurt, *Kirchenordnung*, 1543 | 11, p. 641 | 304 | "Erhalt uns" after the sermon | 11.1 |
@@ -6887,9 +6956,9 @@ Every order quoted in this guide is listed below by region. The table gives:
 
 | Order | Sehling | Doc | Hymn practice | § |
 |---|---|---|---|---|
-| Hessen, *Kirchenordnung*, 1566 | 8, pp. 248, 255 | 2257 | psalms while people gather; Ps 51 for the confession; preach on the sung psalms | 4.2, 4.5, 18.4 |
-| Hessen, *Agende*, 1574 | 8, pp. 411–412, 455 | 2272 | "Komm heiliger Geist" kneeling, with rationale; creed options; *Leisen*; hymn while pastor comes down; language and length rules | 4.1, 9.1, 10.2, 11.2, 17.5, 18.7 |
-| Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607 | 9, pp. 75–76 | 2287 | Lobwasser psalms; hymn boards; call for a seasonal and sermon table | 14.6, 18.3 |
+| Hessen, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 248, 255 | 2257 | psalms while people gather; Ps 51 for the confession; preach on the sung psalms | 4.2, 4.5, 18.4 |
+| Hessen, *Agende*, 1574 (Philippist) | 8, pp. 411–412, 455 | 2272 | "Komm heiliger Geist" kneeling, with rationale; creed options; *Leisen*; hymn while pastor comes down; language and length rules | 4.1, 9.1, 10.2, 11.2, 17.5, 18.7 |
+| Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607 (Reformed) | 9, pp. 75–76 | 2287 | Lobwasser psalms; hymn boards; call for a seasonal and sermon table | 14.6, 18.3 |
 | Waldeck, *Kirchenordnung*, 1556 | 9, p. 273 | 2300 | Lord's Prayer hymn, Ten Commandments and creed before the sermon | 10.3 |
 | Solms-Laubach, *Kirchenordnung* [1576–1580] | 9, pp. 359–360 | 2311 | seasonal table before the sermon | 10.3 |
 | Ysenburg-Birstein, *Kirchenordnung*, 1588 | 10, pp. 620, 628, 632 | 228 | *Leisen* or Lord's Prayer before the sermon; baptism and wedding hymns | 10.3, 17.1, 17.2 |
@@ -6897,7 +6966,7 @@ Every order quoted in this guide is listed below by region. The table gives:
 | Leiningen-Westerburg, *Kirchenordnung*, 1566 | 19/1, p. 267 | 1074 | German hymns at burial instead of the old "singing over" | 17.4 |
 | Sayn, *Kirchenzuchtordnung*, 1582 | 19/1, p. 369 | 1090 | Latin singing as God's punishment; people to learn the hymns | 18.4, 18.7 |
 | Sayn, *Kirchenordnung*, 1590 | 19/1, p. 407 | 1090 | church sings the Lord's Prayer | 13.1 |
-| Strasbourg, *Ordnung des Herren Nachtmal*, 1525 | 20/1, p. 156 | 1279 | Ps 51 or Ps 130 "an stat des Introits" | 5.3 |
+| Strasbourg, *Ordnung des Herren Nachtmal*, 1525 (Moderate Reformed) | 20/1, p. 156 | 1279 | Ps 51 or Ps 130 "an stat des Introits" | 5.3 |
 | Strasbourg, *Gottesdienstordnung*, 1577 | 20/1, pp. 516, 518 | 1336 | Ps 51 at great communions; no singing, no funeral sermon | 14.6, 17.4 |
 | Hanau-Lichtenberg, *Kirchenordnung*, 1573 | 20/2, p. 54 | 1364 | three rules: season, few hymns, hymn matched to sermon | 11.5 |
 | Herford, *Kirchenordnung*, 1532 | 21, pp. 176–177 | 1442 | sequences cut and farced; Our Father or "Nun bitten" before sermon | 8.2, 10.1 |

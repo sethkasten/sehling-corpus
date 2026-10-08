@@ -9,9 +9,9 @@ corpus (§1.3) and are printed in order of date.
 |---|---|---|---|---|
 | 2 | **Nördlingen**, Kaspar Kantz, *Von der Evangelischen Mesß*, 1522 (and 1524) | 12, VIII.1 | 369 | 285–288 |
 | 3 | **Wittenberg**, Luther, *Formula missae*, 1523 | 1, Luther Nr. 4 | 2 | 4–9 |
-| 4 | **Allstedt**, Müntzer, *Deutsch evangelisch Messe* and *Ordnung*, 1523/24 | 1, Nr. 46–47 | 51, 52 | 500–501, 504–506 |
-| 5 | **Strasbourg**, the early German Masses, 1524–1525 | 20, Straßburg Nr. 3 | 1279 | 120–162 |
-| 6 | **Worms**, *Deutsche Messe*, 1524 | 19, III, Nr. 1 | 1066 | 127–129 |
+| 4 | **Allstedt**, Müntzer, *Deutsch evangelisch Messe* and *Ordnung*, 1523/24 (Radical Reformation) | 1, Nr. 46–47 | 51, 52 | 500–501, 504–506 |
+| 5 | **Strasbourg**, the early German Masses, 1524–1525 (Moderate Reformed) | 20, Straßburg Nr. 3 | 1279 | 120–162 |
+| 6 | **Worms**, *Deutsche Messe*, 1524 (Moderate Reformed) | 19, III, Nr. 1 | 1066 | 127–129 |
 | 7 | **Nürnberg**, parish churches 1524; Volprecht 1524; *Form und Ordnung* 1525 | 11, I.5, I.3, I.7 | 249, 247, 251 | 46–47, 41–42, 57 |
 | 8 | **Nürnberg**, Andreas Döber's *Deutsche Messe*, 1525 (Neues Spital) | 11, I.6 (exhortation: 11, I.5) | 250 (249) | 52–55 (48–49) |
 | 9 | **Bremen**, *Eyne evangelysce Misse*, 1525 | 7, III, Nr. 1 | 2216 | 403–407 |
@@ -27,22 +27,54 @@ sermon) to the dismissal. For Kantz, the Kiel Mass and Bugenhagen, the priest's 
 at the altar is included as well. The original comes first and the English follows. Annotations
 name the Roman text each piece comes from.
 
+**Related guides.** The rest of the Mass, and what stood around these texts, is treated
+elsewhere:
+- the order of the Mass as a whole, the families of ordo and the ceremonial at the altar:
+  [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §§4, 11, 15;
+- the preparation, the confession and absolution, and the exhortation to the communicants,
+  collated across the corpus: [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md),
+  §§3–5;
+- the collects, the abolished secret and the postcommunions:
+  [`COLLECTS_GUIDE.md`](COLLECTS_GUIDE.md), §§5–6;
+- the Proper Prefaces and the other propers: [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md), §8 and
+  Appendix A;
+- the hymns at the Sanctus, during the communion and after it:
+  [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), §§12–15;
+- the intercessions under the Sanctus as a family of the general prayer:
+  [`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md), §16;
+- the lights and the vestments: [`CHURCH_DECORUM_GUIDE.md`](CHURCH_DECORUM_GUIDE.md), §§5.4, 7;
+- the elevation as a mark of the feast:
+  [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.6;
+- the ministrants, deacons and subdeacons at the altar:
+  [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §4.
+
 **Conventions**
 
 - **Original text.** This is Sehling's base text. His footnote numbers, sigla and variant
   apparatus are removed, and so are page and folio markers. Line-break hyphens are joined.
-  Spelling, punctuation and Sehling's own supplied letters in square brackets (e.g.
-  *Nemen[t]*) are kept. A cross (✠) marks where the print has a sign of the cross over the
-  elements. Rubrics are in italics. "[…]" marks an omission (a hymn or lesson printed in
-  full, or text given in another section). A few plain misprints are corrected, and the
-  notes say where.
-- **English.** The translation is formal-equivalence, in the idiom of the Authorized
-  Version: word order and clause structure are kept where English allows, and nothing is
-  smoothed away.
-- **Roman comparison texts.** These are the standard texts of the late-medieval and
-  Tridentine *Ordo Missae*. Diocesan missals of the 1520s–40s differ in small details. Where
-  a German text follows a wording the Tridentine missal does not have, this is noted, but it
-  is not attributed to a particular missal.
+  Spelling, punctuation and Sehling's own supplied letters in square brackets (e.g. *Nemen[t]*)
+  are kept. A cross (✠) marks where the print has a sign of the cross over the elements. Rubrics
+  are in italics. "[…]" marks an omission (a hymn or lesson printed in full, or text given in
+  another section). A few plain misprints are corrected, and the notes say where.
+- **English.** The translation is formal-equivalence, in the idiom of the Authorized Version:
+  word order and clause structure are kept where English allows, and nothing is smoothed away.
+- **Roman comparison texts.** These are the standard texts of the late-medieval and Tridentine
+  *Ordo Missae*. Diocesan missals of the 1520s–40s differ in small details. Where a German text
+  follows a wording the Tridentine missal does not have, this is noted, but it is not attributed
+  to a particular missal.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Radical Reformation**: Thomas Müntzer's Allstedt orders;
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Strasbourg's German Masses of 1524–1525 are Moderate Reformed, and its order of
+    1598 Lutheran.
 
 ---
 
@@ -85,110 +117,111 @@ of three things:
 
 **The offertory.**
 
-- **The offertory prayers.** Luther rejected everything that "sounds of oblation"
-  (§3.1). No order keeps *Suscipe, sancte Pater*, *Offerimus tibi* or *Suscipe, sancta
-  Trinitas*.
+- **The offertory prayers.** Luther rejected everything that "sounds of oblation" (§3.1). No
+  order keeps *Suscipe, sancte Pater*, *Offerimus tibi* or *Suscipe, sancta Trinitas*.
 - **What does survive:**
-  - **the offertory chant**: Latin in Brandenburg 1540 (§12.1); Müntzer's German *Ad te
-    levavi* (§4.1); a German hymn "for the offertory" in Lippe (§10) and Calenberg-Göttingen
-    1542 (§13.1);
-  - **a rubric for preparing the chalice**: Döber (§8.1), Volprecht (§7.2), Bugenhagen's
-    orders (§15.1);
-  - **the *Orate fratres*, recast** as a request for prayer: Worms ("mein und ewer gebet",
-    §6.1), Kantz and Bremen (§2.1, §9.2), and Strasbourg, where it becomes a bidding on
-    Rom 12:1 to offer "our bodies" (§5.1, §5.3);
-  - ***Veni, sanctificator* replaced** by the Whitsun antiphon *Veni, Sancte Spiritus*
-    and a collect: Kantz (§2.2), Bremen, Kiel (§11.1);
+  - **the offertory chant**: Latin in Brandenburg 1540 (§12.1); Müntzer's German *Ad te levavi*
+    (§4.1; Radical Reformation); a German hymn "for the offertory" in Lippe (§10) and
+    Calenberg-Göttingen 1542 (§13.1);
+  - **a rubric for preparing the chalice**: Döber (§8.1), Volprecht (§7.2), Bugenhagen's orders
+    (§15.1);
+  - **the *Orate fratres*, recast** as a request for prayer: Worms (Moderate Reformed; "mein und
+    ewer gebet", §6.1), Kantz and Bremen (§2.1, §9.2), and Strasbourg (Moderate Reformed), where
+    it becomes a bidding on Rom 12:1 to offer "our bodies" (§5.1, §5.3);
+  - ***Veni, sanctificator* replaced** by the Whitsun antiphon *Veni, Sancte Spiritus* and a
+    collect: Kantz (§2.2), Bremen, Kiel (§11.1);
   - **the Secret's closing *Per omnia saecula saeculorum. Amen***, sung before the Preface
-    dialogue: Müntzer (§4.1), Lippe (§10), Göttingen (§13.1).
-- **One prayer over the gifts.** Only Pfalz-Neuburg 1543 has one: Osiander's prayer "Wir
-  bringen … dise deine gaben" (§14.2). It borrows from *Quam oblationem*, *Unde et memores*
-  and *Supplices*, and asks for the Spirit. Sehling's editor, after P. Graff, calls it the
-  first Lutheran order with a kind of epiclesis (Sehling 8, p. 45, n. 12).
+    dialogue: Müntzer (§4.1; Radical Reformation), Lippe (§10), Göttingen (§13.1).
+- **One prayer over the gifts.** Only Pfalz-Neuburg 1543 has one: Osiander's prayer "Wir bringen
+  … dise deine gaben" (§14.2). It borrows from *Quam oblationem*, *Unde et memores* and
+  *Supplices*, and asks for the Spirit. Sehling's editor, after P. Graff, calls it the first
+  Lutheran order with a kind of epiclesis (Sehling 8, p. 45, n. 12).
 
 **The Preface and Sanctus.**
 
-- **The common Preface in German:** Worms, Kantz, Bremen.
-- **Proper Prefaces in German:** Müntzer (Blessed Virgin, reworded so that God, not Mary,
-  is praised), Strasbourg (Cross), Lippe (Trinity), Kiel and Göttingen (Easter).
-- **Luther's short Preface.** Luther cut the Preface off at *per Christum Dominum nostrum*
-  and joined the Verba to it (§3.2). The Nürnberg Latin Mass (§7.1), Döber (§8.2) and
-  Volprecht (§7.2) follow him.
+- **The common Preface in German:** Worms (Moderate Reformed), Kantz, Bremen.
+- **Proper Prefaces in German:** Müntzer (Radical Reformation; Blessed Virgin, reworded so that
+  God, not Mary, is praised), Strasbourg (Moderate Reformed; Cross), Lippe (Trinity), Kiel and
+  Göttingen (Easter).
+- **Luther's short Preface.** Luther cut the Preface off at *per Christum Dominum nostrum* and
+  joined the Verba to it (§3.2). The Nürnberg Latin Mass (§7.1), Döber (§8.2) and Volprecht
+  (§7.2) follow him.
 - **The Sanctus after the Verba:** Luther, Döber, Volprecht and Pfalz-Neuburg.
 
 **The Canon.**
 
-- **The only continuous Canon is Worms 1524** (§6.3–6.9). It runs from *Te igitur* to
-  *Supplices te rogamus* in German, abridged:
-  - there are no saints in *Communicantes* (only its closing clause), no *Memento* of the
-    dead, no *Nobis quoque* and no *Per ipsum*;
+- **The only continuous Canon is Worms 1524** (Moderate Reformed; §6.3–6.9). It runs from *Te
+  igitur* to *Supplices te rogamus* in German, abridged:
+  - there are no saints in *Communicantes* (only its closing clause), no *Memento* of the dead,
+    no *Nobis quoque* and no *Per ipsum*;
   - the sacrificial nouns become "bread and wine" and "our prayer";
   - emperor and king replace pope and bishop.
 - **Elsewhere single Canon prayers survive:**
-  - ***Quam oblationem***, recast as a petition that the bread and wine "may become unto
-    us" the body and blood: Kantz (§2.4). Bremen changes it to a prayer that "we may firmly
-    believe" this (§9.3).
-  - ***Unde et memores***, as a thanksgiving "after the elevation": Strasbourg (§5.1). A
-    later hand wrote the Worms text of the prayer into the Strasbourg manuscript.
+  - ***Quam oblationem***, recast as a petition that the bread and wine "may become unto us" the
+    body and blood: Kantz (§2.4). Bremen changes it to a prayer that "we may firmly believe"
+    this (§9.3).
+  - ***Unde et memores***, as a thanksgiving "after the elevation": Strasbourg (§5.1; Moderate
+    Reformed). A later hand wrote the Worms text of the prayer into the Strasbourg manuscript.
 - **The Canon's intercession** (the petitions of *Te igitur* and the *Memento*) survives in
   three ways:
-  - **in the Canon's own place after the Sanctus:** Strasbourg (§5.1); an optional prayer
-    in Döber taken from Strasbourg (§8.11); four collects in Brandenburg (§12.2); three in
-    Pfalz-Neuburg (§14.4); one in Göttingen (§13.1);
-  - **as one long prayer "anstatt des Canon":** Strasbourg 1525 (§5.2);
+  - **in the Canon's own place after the Sanctus:** Strasbourg (§5.1; Moderate Reformed); an
+    optional prayer in Döber taken from Strasbourg (§8.11); four collects in Brandenburg
+    (§12.2); three in Pfalz-Neuburg (§14.4); one in Göttingen (§13.1);
+  - **as one long prayer "anstatt des Canon":** Strasbourg 1525 (§5.2; Moderate Reformed);
   - **as the general prayer after the sermon,** which Bugenhagen calls "unse Canon" (§15.4).
-- **The Canon critique.** The Brandenburg-Nürnberg order of 1533, repeated in Brandenburg
-  1540 and Pfalz-Neuburg 1543, demands that the offering clauses of the Canon be replaced
-  by "Wir gedenken des opfers deines einigen Sons" (Appendix). Sehling's register points to
-  this critique under "Embolismus" (11:183, 13:65), because his note there explains the
-  Würzburg embolism's added saints.
+- **The Canon critique.** The Brandenburg-Nürnberg order of 1533, repeated in Brandenburg 1540
+  and Pfalz-Neuburg 1543, demands that the offering clauses of the Canon be replaced by "Wir
+  gedenken des opfers deines einigen Sons" (Appendix). Sehling's register points to this
+  critique under "Embolismus" (11:183, 13:65), because his note there explains the Würzburg
+  embolism's added saints.
 
 **The words of institution.**
 
-- **Scripture or Canon.** Most orders read the Verba from 1 Cor 11 or a harmony of the
-  Gospels. A distinct line keeps the Canon's own *Qui pridie*: *elevatis oculis*,
-  *benedixit*, *novi et aeterni testamenti*, sometimes *mysterium fidei*. The line runs
-  through Kantz, the Nürnberg Latin Mass, Schwarz at Strasbourg, Müntzer, Bremen, Lippe
-  and Kiel.
-- **Where Müntzer's wording travelled.** It reached Lippe, Kiel and Göttingen's proper
-  Masses through the Erfurt *Kirchenämter* of 1525–26 (§10, §13).
-- **The elevation** is kept by Luther (at the *Benedictus*), Worms, the Nürnberg Latin
-  Mass, Müntzer, Strasbourg (cup only), Brandenburg and Pfalz-Neuburg. Kantz moves it to the
-  communion ("Secht …"). Schleswig-Holstein 1542 permits it.
+- **Scripture or Canon.** Most orders read the Verba from 1 Cor 11 or a harmony of the Gospels.
+  A distinct line keeps the Canon's own *Qui pridie*: *elevatis oculis*, *benedixit*, *novi et
+  aeterni testamenti*, sometimes *mysterium fidei*. The line runs through Kantz, the Nürnberg
+  Latin Mass, Schwarz at Strasbourg (Moderate Reformed), Müntzer (Radical Reformation), Bremen,
+  Lippe and Kiel.
+- **Where Müntzer's wording travelled.** Müntzer's wording (Radical Reformation) reached Lippe,
+  Kiel and Göttingen's proper Masses through the Erfurt *Kirchenämter* of 1525–26 (§10, §13).
+- **The elevation** is kept by Luther (at the *Benedictus*), Worms (Moderate Reformed), the
+  Nürnberg Latin Mass, Müntzer (Radical Reformation), Strasbourg (Moderate Reformed; cup only),
+  Brandenburg and Pfalz-Neuburg. Kantz moves it to the communion ("Secht …"). Schleswig-Holstein
+  1542 permits it.
 
 **The Our Father and the embolism.**
 
-- ***Praeceptis salutaribus moniti*** is recast in German almost everywhere, e.g. "Last
-  uns beten, wie uns der herr Christus Jesus befohlen hat …".
+- ***Praeceptis salutaribus moniti*** is recast in German almost everywhere, e.g. "Last uns
+  beten, wie uns der herr Christus Jesus befohlen hat …".
 - **The embolism *Libera nos, quaesumus*.** Luther struck it out. What remains elsewhere:
-  - **its conclusion only** ("Durch unsern Herren Jesum … lebt und herrscht"): Worms,
-    Kantz, Bremen, Lippe;
-  - **its sung ending *Per omnia saecula*** ("Durch alle ewigkeit der ewigkeit"): Müntzer,
-    Lippe;
-  - **one line of its body** ("O Herr, erlös uns von allen sichtigen und unsichtigen
-    feinden …"): Döber (p. 54; Sehling: "Rest des Embolismus") and Strasbourg.
+  - **its conclusion only** ("Durch unsern Herren Jesum … lebt und herrscht"): Worms
+    (Moderate Reformed), Kantz, Bremen, Lippe;
+  - **its sung ending *Per omnia saecula*** ("Durch alle ewigkeit der ewigkeit"): Müntzer
+    (Radical Reformation), Lippe;
+  - **one line of its body** ("O Herr, erlös uns von allen sichtigen und unsichtigen feinden
+    …"): Döber (p. 54; Sehling: "Rest des Embolismus") and Strasbourg (Moderate Reformed).
 
 **The fraction.**
 
 - **Forbidden.** Luther forbids the fraction and commixture: "nec frangatur hostia nec in
-  calicem misceatur" (§3.3). Worms repeats the prohibition (§6.11).
-- **Kept in two orders only**, at the Roman place (the close of the embolism, before the
-  Peace), and neither with the commixture:
-  - the 1524 edition of Kantz's Mass, "Hie neme der priester das brot und breche es, so vil
-    ers bedarf" (§2.5);
-  - Müntzer's Allstedt order, where the priest "der communicanten halben das sacrament
-    teilet" (§4.3).
+  calicem misceatur" (§3.3). Worms (Moderate Reformed) repeats the prohibition (§6.11).
+- **Kept in two orders only**, at the Roman place (the close of the embolism, before the Peace),
+  and neither with the commixture:
+  - the 1524 edition of Kantz's Mass, "Hie neme der priester das brot und breche es, so vil ers
+    bedarf" (§2.5);
+  - Müntzer's Allstedt order (Radical Reformation), where the priest "der communicanten halben
+    das sacrament teilet" (§4.3).
 - **The *Deutsche Messe*** (1526) has no fraction.
-- **Reformed breaking of bread.** Every other mention of breaking the bread in the corpus
-  comes from Reformed orders from the 1550s on (à Lasco, the Palatinate, Anhalt, the Upper
-  Palatinate, Hessen-Kassel). There the bread is broken at the distribution on the ground
-  of 1 Cor 10:16 and Acts 2:42. It is a new rite, not a survival.
+- **Reformed breaking of bread.** Every other mention of breaking the bread in the corpus comes
+  from Reformed orders from the 1550s on (à Lasco, the Palatinate, Anhalt, the Upper Palatinate,
+  Hessen-Kassel). There the bread is broken at the distribution on the ground of 1 Cor 10:16 and
+  Acts 2:42. It is a new rite, not a survival.
 
 **The Peace and the *Agnus Dei*.**
 
-- ***Pax Domini sit semper vobiscum*** survives widely: Worms, Luther (as a "public
-  absolution"), the Nürnberg Latin Mass, Müntzer, Volprecht, Brandenburg, Pfalz-Neuburg,
-  Lippe and Göttingen. Kantz moves it into the communion.
+- ***Pax Domini sit semper vobiscum*** survives widely: Worms (Moderate Reformed), Luther (as a
+  "public absolution"), the Nürnberg Latin Mass, Müntzer (Radical Reformation), Volprecht,
+  Brandenburg, Pfalz-Neuburg, Lippe and Göttingen. Kantz moves it into the communion.
 - **The *Agnus Dei*** is kept in German or Latin by nearly all. Luther has it sung during
   communion.
 
@@ -202,7 +235,7 @@ of three things:
 - ***Fili Dei vivi* alone** is kept in German by:
   - Kantz and Bremen, abridged. Bremen changes "by this thy holy body and blood" to "by thy
     bottomless mercy".
-  - Strasbourg, prayed by all.
+  - Strasbourg (Moderate Reformed), prayed by all.
   - Döber and Kiel, said by the people line by line after the priest (§8.8, §11.3).
 - ***Domine, non sum dignus*** appears once, in German, in Kiel (§11.3).
 - ***Qui dixisti*** becomes the closing collect of the Mass in Göttingen (§13.3).
@@ -210,29 +243,30 @@ of three things:
 **The words of distribution.**
 
 - **The *custodiat*** (*Corpus Domini nostri Iesu Christi custodiat animam tuam in vitam
-  aeternam*) is the most widespread survival. It appears in about thirty orders of the
-  corpus, from Worms and Volprecht (1524) to 1609:
-  - Worms, Döber, Kantz, Bremen, the Nürnberg *Form und Ordnung*, Göttingen and many
-    later orders;
+  aeternam*) is the most widespread survival. It appears in about thirty orders of the corpus,
+  from Worms (Moderate Reformed) and Volprecht (1524) to 1609:
+  - Worms (Moderate Reformed), Döber, Kantz, Bremen, the Nürnberg *Form und Ordnung*, Göttingen
+    and many later orders;
   - most in the wording of the Albertine Saxon Agenda of 1539, "Der leib unsers herrn Jesu
     Christi, fur dich in tod gegeben, sterke und beware dich im glauben zum ewigen leben";
   - Brandenburg 1540 uses it only for the communion of the sick (Sehling 3, pp. 79–80).
-- ***Calicem salutaris accipiam*** (Ps 116:13) survives in Worms, Kantz, Bremen and
-  Volprecht.
+- ***Calicem salutaris accipiam*** (Ps 116:13) survives in Worms (Moderate Reformed), Kantz,
+  Bremen and Volprecht.
 
 **After communion.**
 
-- ***Quod ore sumpsimus* and *Corpus tuum, Domine*.** Luther made these two ablution
-  prayers the postcommunion (§3.5). Brandenburg and Pfalz-Neuburg keep them in Latin;
-  Volprecht has both in German; Strasbourg has *Quod ore* as its *complenda*.
+- ***Quod ore sumpsimus* and *Corpus tuum, Domine*.** Luther made these two ablution prayers the
+  postcommunion (§3.5). Brandenburg and Pfalz-Neuburg keep them in Latin; Volprecht has both in
+  German; Strasbourg (Moderate Reformed) has *Quod ore* as its *complenda*.
 - **Roman postcommunions and collects reused:**
-  - Döber's *Largire sensibus nostris* (Wednesday in Holy Week). Sehling thought Döber's
-    prayer newly composed; the identification is new here.
+  - Döber's *Largire sensibus nostris* (Wednesday in Holy Week). Sehling thought Döber's prayer
+    newly composed; the identification is new here.
   - the Trinity *Proficiat*: Volprecht, Lippe;
   - the collect *Protector in te sperantium*: Kantz.
-- **The priest's final *Placeat tibi, sancta Trinitas*** survives in Kantz, the sacrifice
-  turned into "unser lob und danksagung" (§2.7).
-- **The *Nunc dimittis*** follows communion in Worms, Döber, Kantz and Bremen.
+- **The priest's final *Placeat tibi, sancta Trinitas*** survives in Kantz, the sacrifice turned
+  into "unser lob und danksagung" (§2.7).
+- **The *Nunc dimittis*** follows communion in Worms (Moderate Reformed), Döber, Kantz and
+  Bremen.
 
 **The priest's preparation and thanksgiving.**
 
@@ -249,11 +283,12 @@ of three things:
 **How the orders are related.**
 
 - **Kantz** → Bremen (a Low German version) and the opening prayers of Kiel.
-- **Müntzer** → (Erfurt *Kirchenämter*) → Lippe, Kiel, Göttingen.
-- **Strasbourg** → Worms (the same Mass) and Döber's optional intercession.
+- **Müntzer** (Radical Reformation) → (Erfurt *Kirchenämter*) → Lippe, Kiel, Göttingen.
+- **Strasbourg** (Moderate Reformed) → Worms (Moderate Reformed; the same Mass) and Döber's
+  optional intercession.
 - **Luther's *Formula missae*** → the Nürnberg Latin Mass, Döber, Volprecht, Brandenburg.
-- **Nürnberg 1533** → the exhortation and Canon critique of Brandenburg 1540 and
-  Pfalz-Neuburg 1543.
+- **Nürnberg 1533** → the exhortation and Canon critique of Brandenburg 1540 and Pfalz-Neuburg
+  1543.
 - **Brandenburg 1540** → Calenberg-Göttingen 1542.
 
 ### 1.2 Concordance tables
@@ -269,9 +304,9 @@ the wording of 1 Cor 11 and the Gospels.
 |---|---|---|---|---|---|
 | Kantz 1522 (§2) | — | *Orate fratres* recast; *Veni Sancte Spiritus* for *Veni sanctificator* | — | German, common | German, before the Canon |
 | Luther, *FM* 1523 (§3) | — | *forbidden* (all "sounds of oblation") | — | Latin, cut at *per Christum*, runs into the Verba | after the Verba |
-| Müntzer 1523/24 (§4) | *Ad te levavi*, German | — ("Wir halten kein opfer") | "durch alle ewigkeit der ewigkeit. Amen" | German, proper (Blessed Virgin, reworded) | German, before |
-| Strasbourg 1524–25 (§5) | — | bidding on Rom 12:1 for *Orate fratres*; *lavabo* kept | — | German, proper (Cross); 1525 common; last form none | German, before; last form none |
-| Worms 1524 (§6) | — | *Orate fratres*, German ("mein und ewer gebet") | — | German, common | German, before |
+| Müntzer 1523/24 (§4; Radical Reformation) | *Ad te levavi*, German | — ("Wir halten kein opfer") | "durch alle ewigkeit der ewigkeit. Amen" | German, proper (Blessed Virgin, reworded) | German, before |
+| Strasbourg 1524–25 (§5; Moderate Reformed) | — | bidding on Rom 12:1 for *Orate fratres*; *lavabo* kept | — | German, proper (Cross); 1525 common; last form none | German, before; last form none |
+| Worms 1524 (§6; Moderate Reformed) | — | *Orate fratres*, German ("mein und ewer gebet") | — | German, common | German, before |
 | Nürnberg parishes 1524, *Form* 1525 (§7.1, §7.3) | *omitted* | *omitted* | — | Latin, cut at *per Christum* | Latin, during or after *Qui pridie* |
 | Volprecht 1524 (§7.2) | — | *chalice prepared* | — | German, cut, runs into the Verba | after the Verba |
 | Döber 1525 (§8) | — | *chalice prepared after the Gradual* | — | German, cut (Luther's form) | German, after the Verba |
@@ -289,12 +324,12 @@ the wording of 1 Cor 11 and the Gospels.
 |---|---|---|---|---|
 | Kantz 1522 (§2) | — | *Quam oblationem* recast | Canon form | moved to the communion ("Secht …") |
 | Luther, *FM* 1523 (§3) | — | — | Scriptural | yes, at the *Benedictus* |
-| Müntzer 1523/24 (§4) | — | — | Canon form, with *mysterium fidei* | bread elevated, cup shown |
-| Strasbourg 1524–25 (§5) | after the Sanctus, for rulers and the congregation; 1525: long prayer "anstatt des Canon" | "Post elevationem" prayer in the place of *Unde et memores* | Canon-based; *mysterium fidei* added by a later hand; 1525: 1 Cor 11 read as a lesson | cup only; 1525: none |
-| Worms 1524 (§6) | *Te igitur* and *Memento*, German (emperor and king for pope and bishop) | continuous Canon to *Supplices*: end of *Communicantes*, *Hanc igitur*, *Quam oblationem*, *Unde et memores*, *Supra quae*, *Supplices* | Canon form ("new and everlasting testament") | yes |
+| Müntzer 1523/24 (§4; Radical Reformation) | — | — | Canon form, with *mysterium fidei* | bread elevated, cup shown |
+| Strasbourg 1524–25 (§5; Moderate Reformed) | after the Sanctus, for rulers and the congregation; 1525: long prayer "anstatt des Canon" | "Post elevationem" prayer in the place of *Unde et memores* | Canon-based; *mysterium fidei* added by a later hand; 1525: 1 Cor 11 read as a lesson | cup only; 1525: none |
+| Worms 1524 (§6; Moderate Reformed) | *Te igitur* and *Memento*, German (emperor and king for pope and bishop) | continuous Canon to *Supplices*: end of *Communicantes*, *Hanc igitur*, *Quam oblationem*, *Unde et memores*, *Supra quae*, *Supplices* | Canon form ("new and everlasting testament") | yes |
 | Nürnberg parishes 1524, *Form* 1525 (§7.1, §7.3) | — | — | Canon form, Latin, with *mysterium fidei* | bread and cup |
 | Volprecht 1524 (§7.2) | — | — | Scriptural | — |
-| Döber 1525 (§8) | optional *gemein gebet* (from Strasbourg) | — | German ("in sein heilige hend") | "zeigts dem volk" |
+| Döber 1525 (§8) | optional *gemein gebet* (from Strasbourg, Moderate Reformed) | — | German ("in sein heilige hend") | "zeigts dem volk" |
 | Bremen 1525 (§9) | — | *Quam oblationem* recast as a prayer to believe | Canon form | — |
 | Lippe [1525–38] (§10) | — | — | Canon form, with *mysterium fidei* | — |
 | Kiel [after 1526] (§11) | — | — | Canon form; cup consecrated after the bread is given | — |
@@ -309,14 +344,14 @@ the wording of 1 Cor 11 and the Gospels.
 |---|---|---|---|---|---|
 | Kantz 1522 (§2) | "Laßt uns beten" | conclusion only | *1524 edition only* | at the communion ("Der frid sei mit euch allen") | German, once |
 | Luther, *FM* 1523 (§3) | Latin | *forbidden* | *forbidden* | yes, as absolution | during communion |
-| Müntzer 1523/24 (§4) | recast | sung ending *Per omnia* | *yes* ("der communicanten halben") | yes, with response | German |
-| Strasbourg 1524–25 (§5) | recast | one-line remnant | — | — | German |
-| Worms 1524 (§6) | German | conclusion only | *forbidden* | yes, as absolution | German, once |
+| Müntzer 1523/24 (§4; Radical Reformation) | recast | sung ending *Per omnia* | *yes* ("der communicanten halben") | yes, with response | German |
+| Strasbourg 1524–25 (§5; Moderate Reformed) | recast | one-line remnant | — | — | German |
+| Worms 1524 (§6; Moderate Reformed) | German | conclusion only | *forbidden* | yes, as absolution | German, once |
 | Nürnberg parishes 1524, *Form* 1525 (§7.1, §7.3) | Latin | — | — | Latin | Latin, during communion; 1525 German |
 | Volprecht 1524 (§7.2) | recast | — | — | German, with response | German, thrice |
 | Döber 1525 (§8) | recast from Mt 6 | one-line remnant | — | "Der Herr sei mit euch" | German, twice |
 | Bremen 1525 (§9) | "Lat uns bidden" | conclusion only | — | — | German, once |
-| Lippe [1525–38] (§10) | recast (Müntzer) | conclusion and *Per omnia* | — | yes, with response | German, twice |
+| Lippe [1525–38] (§10) | recast (Müntzer, Radical Reformation) | conclusion and *Per omnia* | — | yes, with response | German, twice |
 | Kiel [after 1526] (§11) | — (no Our Father) | — | — | — | — |
 | Brandenburg 1540 (§12) | recast | — | — | yes | Latin, thrice |
 | Calenberg-Göttingen 1542 (§13) | recast (Brandenburg) | — | — | German, after communion | Decius' hymn, after the thanksgiving |
@@ -329,9 +364,9 @@ the wording of 1 Cor 11 and the Gospels.
 |---|---|---|---|---|---|
 | Kantz 1522 (§2) | *Fili Dei vivi*, German, abridged | *custodiat*, to all; *Calicem salutaris*, plural | — | collect *Protector in te sperantium* | *Nunc dimittis*; *Placeat* in German |
 | Luther, *FM* 1523 (§3) | *Fili Dei vivi*, *permitted*, plural | *custodiat*, *permitted* | as the postcommunion | *Quod ore sumpsimus* | *Benedicamus*; Aaronic blessing |
-| Müntzer 1523/24 (§4) | — | — | — | new | *Benedicamus* |
-| Strasbourg 1524–25 (§5) | *Fili Dei vivi*, German, prayed by all | 1525: "Gedenckent, glaubent, verkündent …" | *Quod ore*, German | *Quod ore* as *complenda* | Trinitarian blessing |
-| Worms 1524 (§6) | — | *custodiat*, German; *Calicem salutaris* | echoed in the postcommunion | German, from *Perceptio* and *Corpus tuum* | *Nunc dimittis*; Trinitarian blessing |
+| Müntzer 1523/24 (§4; Radical Reformation) | — | — | — | new | *Benedicamus* |
+| Strasbourg 1524–25 (§5; Moderate Reformed) | *Fili Dei vivi*, German, prayed by all | 1525: "Gedenckent, glaubent, verkündent …" | *Quod ore*, German | *Quod ore* as *complenda* | Trinitarian blessing |
+| Worms 1524 (§6; Moderate Reformed) | — | *custodiat*, German; *Calicem salutaris* | echoed in the postcommunion | German, from *Perceptio* and *Corpus tuum* | *Nunc dimittis*; Trinitarian blessing |
 | Nürnberg parishes 1524, *Form* 1525 (§7.1, §7.3) | — | 1525: *custodiat*, German | — | proper *complenda* | 1525: *Benedicamus* |
 | Volprecht 1524 (§7.2) | *Qui dixisti*, *Fili Dei vivi*, *Perceptio*, German | *custodiat* (priest); *Calicem salutaris* | both, German | Trinity *Proficiat* | Aaronic blessing; *Benedicamus* |
 | Döber 1525 (§8) | *Fili Dei vivi*, German, said by the people | *custodiat*, German | — | *Largire sensibus nostris* | *Nunc dimittis*; Aaronic and Trinitarian blessing |
@@ -362,13 +397,13 @@ Every hit was read in context. The following orders were examined and are not pr
 | Order | Why not printed |
 |---|---|
 | Luther, *Deutsche Messe*, 1526 (Sehling 1, doc 3) | No Canon or Ordinary prayers (see §3.6). |
-| Homberg, *Reformatio ecclesiarum Hassiae*, 1526 (Sehling 8, doc 2247, pp. 44–45) | Rules only: "Canon ille missarius, et universae orationes, in quibus reperitur sacrificii aut hostiae vox a nemine ultra in hac coena dicatur". Luther's German Mass is prescribed. |
+| Homberg, *Reformatio ecclesiarum Hassiae*, 1526 (Moderate Reformed; Sehling 8, doc 2247, pp. 44–45) | Rules only: "Canon ille missarius, et universae orationes, in quibus reperitur sacrificii aut hostiae vox a nemine ultra in hac coena dicatur". Luther's German Mass is prescribed. |
 | Braunschweig 1528, Hamburg 1529 / Lübeck 1531, Pomerania 1535 (Bugenhagen) | Latin Preface and Sanctus on feasts only, otherwise as §15. |
 | Heilbronn 1530 (Sehling 17, doc 770, pp. 276–277) | Quotes *Te igitur*, *Quam oblationem* and *Supra quae* only to refute them. |
 | Transylvania, Honterus, 1543/47 (Sehling 24, docs 1669–1670) | "reiecto canone": Preface, Sanctus, Our Father and Verba, with the Saxon *custodiat* (1547). |
-| Corvinus, *Kirchenordnung* 1542 (Sehling 21, doc 1460) | Luther's paraphrase and the Verba. The distribution "Nym hen, edt und gedencke …" is Strasbourg's "Gedenckent, glaubent" type (§5.2), not the *custodiat*. |
+| Corvinus, *Kirchenordnung* 1542 (Sehling 21, doc 1460) | Luther's paraphrase and the Verba. The distribution "Nym hen, edt und gedencke …" is Strasbourg's "Gedenckent, glaubent" type (§5.2; Moderate Reformed), not the *custodiat*. |
 | Schwäbisch Hall 1543 (Sehling 17, doc 762) and its communion of the sick, 1537 (doc 761) | *Custodiat* only ("Der Leib unsers Herrn Christi bewar dich zum ewigen leben"). |
-| Later Upper German orders, e.g. Sehling 16, V, 1560 (doc 742), after Basel 1526 | A prayer before communion that echoes the *Perceptio*: "uf das wir dein Nachtmal uns nit zum gericht empfahen, sonder zu dem ewigen leben". |
+| Later Upper German orders, e.g. Sehling 16, V, 1560 (doc 742), after Basel 1526 (Reformed) | A prayer before communion that echoes the *Perceptio*: "uf das wir dein Nachtmal uns nit zum gericht empfahen, sonder zu dem ewigen leben". |
 | Reformed orders (Kurpfalz from 1563, Anhalt, Hessen-Kassel, à Lasco) | No Canon prayers; the breaking of bread is a new rite (§1.1). |
 
 ---
@@ -591,13 +626,13 @@ thee for ever! Amen.
 
 **Note.**
 
-- **The end of the embolism.** As at Worms (§6.10), the Our Father runs straight into the
-  conclusion of *Libera nos, quaesumus* ("Per eundem Dominum nostrum Iesum Christum,
-  Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus"). The body of the
-  embolism is gone.
-- **The fraction, in the 1524 edition only.** The 1524 edition adds the doxology "denn dein
-  ist das reich und die kraft und die herligkeit in ewigkeit. Amen." It then adds a rubric
-  before the conclusion:
+- **The end of the embolism.** As at Worms (§6.10; Moderate Reformed), the Our Father runs
+  straight into the conclusion of *Libera nos, quaesumus* ("Per eundem Dominum nostrum Iesum
+  Christum, Filium tuum, qui tecum vivit et regnat in unitate Spiritus Sancti Deus"). The body
+  of the embolism is gone.
+- **The fraction, in the 1524 edition only.** The 1524 edition adds the doxology "denn dein ist
+  das reich und die kraft und die herligkeit in ewigkeit. Amen." It then adds a rubric before
+  the conclusion:
 
   > Hie neme der priester das brot und breche es, so vil ers bedarf, und sprech:
 
@@ -851,14 +886,14 @@ wont to do, which is the only trace of the ancient bishops left in our bishops.
 
 **Note.**
 
-- **The embolism** (*Libera nos, quaesumus, Domine, ab omnibus malis …*) is struck out,
-  with its signs of the cross made over the host and the chalice with a fragment.
+- **The embolism** (*Libera nos, quaesumus, Domine, ab omnibus malis …*) is struck out, with its
+  signs of the cross made over the host and the chalice with a fragment.
 - **The fraction and commixture are forbidden.** "nec frangatur hostia nec in calicem
-  misceatur". Worms 1524 repeats this in German (§6.11). Of the Lutheran orders in the
-  corpus, only Kantz's second edition (1524, §2.5) and Müntzer's Allstedt order (§4.2)
-  break the bread at this point.
-- **The Peace.** *Pax Domini sit semper vobiscum* is reinterpreted as a public absolution.
-  Worms and Brandenburg keep it in that sense.
+  misceatur". Worms 1524 (Moderate Reformed) repeats this in German (§6.11). Of the evangelical
+  orders in the corpus, only Kantz's second edition (1524, §2.5) and Müntzer's Allstedt order
+  (§4.2; Radical Reformation) break the bread at this point.
+- **The Peace.** *Pax Domini sit semper vobiscum* is reinterpreted as a public absolution. Worms
+  (Moderate Reformed) and Brandenburg keep it in that sense.
 
 ### 3.4 Communion: *Agnus Dei*, *Fili Dei vivi*, *custodiat*
 
@@ -924,11 +959,11 @@ fear him. Amen."
   - *Corpus tuum, Domine, quod sumpsi, et Sanguis, quem potavi, adhaereat visceribus meis
     …*, made plural.
 
-  Brandenburg 1540 and Pfalz-Neuburg 1543 kept both in Latin (§12.8, §14.8). Volprecht
-  (§7.2) and Strasbourg (§5.1) turned *Quod ore* into German.
+  Brandenburg 1540 and Pfalz-Neuburg 1543 kept both in Latin (§12.8, §14.8). Volprecht (§7.2)
+  and Strasbourg (§5.1; Moderate Reformed) turned *Quod ore* into German.
 - ***Benedicamus Domino*** replaces *Ite, missa est*.
-- **The blessing.** Luther's use of Numbers 6 is the origin of the Aaronic blessing at the
-  end of the Lutheran Mass.
+- **The blessing.** Luther's use of Numbers 6 is the origin of the Aaronic blessing at the end
+  of the Lutheran Mass.
 
 ### 3.6 The *Deutsche Messe* of 1526 (for comparison)
 
@@ -963,8 +998,8 @@ are those that, like the *Formula missae*, kept something of the old text.
   printed at Allstedt 1524. Sehling 1, Nr. 47, pp. 504–506 (doc 52). It explains the Mass
   item by item and gives the rubrics the Mass itself lacks.
 
-Müntzer was no Lutheran, but his German Mass is the most conservative in the corpus in
-wording. It keeps:
+Müntzer was no Lutheran but a leader of the Radical Reformation; yet his German Mass is the most
+conservative in the corpus in wording. It keeps:
 
 - the offertory chant, with the Secret's *Per omnia saecula saeculorum*;
 - the full proper Preface;
@@ -1203,8 +1238,9 @@ Let us bless the Lord. Thanks be to God for ever.
 
 ## 5. Strasbourg, the early German Masses, 1524–1525
 
-Sehling 20, Straßburg, Nr. 3 "Die frühen Agenden", pp. 120–162 (`eko.db` doc 1279). Sehling
-prints six forms:
+Sehling 20, Straßburg, Nr. 3 "Die frühen Agenden", pp. 120–162 (`eko.db` doc 1279). These are
+Moderate Reformed orders: Strasbourg's Reformation under Bucer and Capito stood between
+Wittenberg and Zurich until the Interim. Sehling prints six forms:
 
 | | Form | Pages |
 |---|---|---|
@@ -1706,8 +1742,8 @@ hear you and show you his salvation, Amen.
 
 ## 6. Worms, *Deutsche Messe*, 1524
 
-*Form und Ordenung der Evangelischen deutschen Messen, wie sie zu Worms gehalten wird.*
-Sehling 19, III, Nr. 1, pp. 124–129.
+*Form und Ordenung der Evangelischen deutschen Messen, wie sie zu Worms gehalten wird.* Sehling
+19, III, Nr. 1, pp. 124–129. Like its Strasbourg original, it is a Moderate Reformed order.
 
 The preface says this Mass is kept "zu Straßburg und Worms". This is the Strasbourg
 German Mass of 1524 (§5) in use at Worms, with the Canon prayers that Schwarz's Strasbourg
@@ -2097,9 +2133,9 @@ Three Nürnberg orders sit alongside Döber's Mass (§8):
 | *Deutsche Messe des Priors Volprecht* (Augustinians), 1524 | 11, I.3 | 247 | 41–42 |
 | *Form und Ordnung einer Christlichen Messe*, 1525 | 11, I.7 | 251 | 57 |
 
-The parish order is Latin and follows the *Formula missae* closely. Volprecht's German Mass
-is the most conservative in the corpus after Worms. It keeps all three of the priest's
-prayers before communion and both ablution prayers, translated.
+The parish order is Latin and follows the *Formula missae* closely. Volprecht's German Mass is
+the most conservative in the corpus after Worms (Moderate Reformed). It keeps all three of the
+priest's prayers before communion and both ablution prayers, translated.
 
 ### 7.1 The parish churches, 1524 (Latin)
 
@@ -2904,10 +2940,10 @@ and thirst after the grace and righteousness which alone availeth before thee, w
 hast given to the world through Christ Jesus our Lord.
 *After this followeth the Qui pridie. God be praised!*
 
-**Note.** Sehling traces the prayer to the Strasbourg order of 1524. Its rubric puts it
-exactly where *Te igitur* stood: after the Preface, before the Sanctus in Döber's order, and
-leading into *Qui pridie*. It intercedes for the emperor, princes and council, for all
-peoples, and for "this congregation". These are the intentions of *Te igitur* and the
+**Note.** Sehling traces the prayer to the Strasbourg order of 1524 (Moderate Reformed). Its
+rubric puts it exactly where *Te igitur* stood: after the Preface, before the Sanctus in Döber's
+order, and leading into *Qui pridie*. It intercedes for the emperor, princes and council, for
+all peoples, and for "this congregation". These are the intentions of *Te igitur* and the
 *Memento*, turned into an evangelical prayer for faith and for the knowledge of sin.
 
 ---
@@ -3130,7 +3166,8 @@ holy, blessed Trinity, God the Father, Son, Holy Ghost.
 Sehling 22, IX (Lippe, Nachtrag), Nr. 1, pp. 565–569 (`eko.db` doc 1549). It is a
 manuscript Mass with notes, for Trinity Sunday.
 
-Its eucharistic part is Müntzer's German Mass (§4) in Low German:
+Its eucharistic part is Müntzer's German Mass (§4; Radical Reformation) in Low German, taken
+into a Lutheran order:
 
 - the *Per omnia saecula* before the Preface;
 - the Roman *Qui pridie* with "hoff up syne ogen" and "eyn gheheymnys des ghelavens";
@@ -3735,6 +3772,10 @@ genädig sein", or "Sei Lob und Dank mit hohem Preis".*
 - **The chant.** The Latin responsory after the elevation takes the place of the
   *Benedictus* sung at the elevation.
 
+The elevation in the order of the Mass is treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+§11, and as a mark of the feast in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.6.
+
 ### 12.4 Our Father and the Peace
 
 > *Darauf sol, wie hernach folget, das pater noster deudsch gesungen werden.*
@@ -4003,14 +4044,14 @@ The Sacrament is taken from Brandenburg 1540 (§12), put into German throughout:
 
 To these Göttingen adds a *custodiat* at the distribution, which Brandenburg lacks.
 
-Brandenburg's Latin *Domine Iesu Christe, qui dixisti* becomes a German postcommunion
-collect. The proper Masses for the church year take many of their introits, collects,
-readings and Prefaces from Müntzer's German Mass (§4). Sehling's notes to doc 2037 say so
-at each place, e.g. p. 821 n. 84: "Vgl. dieselbe Präfation bei Müntzer, Deutsch ev. messe
-v. 1524". The route is given in Sehling's note 26 (p. 812): "Corvinus hat hier auf dem
-Wege über die Erfurter Kirchenämter z. T. die Altargesänge und liturgischen Texte Thomas
-Müntzers übernommen". The Erfurt *Kirchenamt* of 1525 added a Trinity Mass to Müntzer's
-five, and a second Erfurt print added the Ascension, the Sacrament and the Apostles.
+Brandenburg's Latin *Domine Iesu Christe, qui dixisti* becomes a German postcommunion collect.
+The proper Masses for the church year take many of their introits, collects, readings and
+Prefaces from Müntzer's German Mass (§4; Radical Reformation). Sehling's notes to doc 2037 say
+so at each place, e.g. p. 821 n. 84: "Vgl. dieselbe Präfation bei Müntzer, Deutsch ev. messe v.
+1524". The route is given in Sehling's note 26 (p. 812): "Corvinus hat hier auf dem Wege über
+die Erfurter Kirchenämter z. T. die Altargesänge und liturgischen Texte Thomas Müntzers
+übernommen". The Erfurt *Kirchenamt* of 1525 added a Trinity Mass to Müntzer's five, and a
+second Erfurt print added the Ascension, the Sacrament and the Apostles.
 
 ### 13.1 Offertory, Preface, Sanctus, and the collect under the Sanctus
 
@@ -4809,6 +4850,9 @@ What his later orders do keep is a **preparatory prayer of the priest at the alt
 and *Aufer a nobis*, and it is what is usually meant by "Bugenhagen's preparatory prayer".
 It appears in three forms.
 
+Bugenhagen's northern Mass as a family of ordo is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §4.2.
+
 ### 15.1 Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543
 
 Sehling 6, I/2, pp. 54–55 (`eko.db` doc 1972). The order came out of the visitation of
@@ -5047,8 +5091,8 @@ the truth.
 
 The orders in this file answer the demand in two ways:
 
-- **Worms 1524** had already done what the critique asks. It kept the Canon but turned each
-  offering into prayer: "anbieten unser demütiges gebet" (§6.8); "wöllest dich unser und
-  aller unser gebet … annemen" (§6.5).
+- **Worms 1524** (Moderate Reformed) had already done what the critique asks. It kept the Canon
+  but turned each offering into prayer: "anbieten unser demütiges gebet" (§6.8); "wöllest dich
+  unser und aller unser gebet … annemen" (§6.5).
 - **Osiander's prayer in Pfalz-Neuburg 1543** (§14.2) does it half-way. It "brings" the gifts
   before the divine majesty, but offers bread and wine, not the body and blood.

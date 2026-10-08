@@ -55,6 +55,24 @@ then made from the Latin, with notes on where the German shortens, adds to or ch
     and so on, following the digitized volumes.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     Where a passage is Sehling's own introduction or apparatus, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
+  - **Radical Reformation**: Thomas Müntzer's Allstedt orders.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it.
+  - Orders made under or for the Augsburg Interim of 1548 are marked as Interim orders
+    (`CHURCH_ORDERS_GUIDE.md`, §4).
+  - The orders that took over Müntzer's German propers (Erfurt 1525,
+    Calenberg-Göttingen 1542, Lippe 1571) are Lutheran; only Müntzer's own Allstedt orders are
+    marked.
 
 ---
 
@@ -80,8 +98,8 @@ then made from the Latin, with notes on where the German shortens, adds to or ch
 
 **1. Three models, often combined.** The orders handle the propers in one of three ways (§3):
 - **Keep them in Latin**, sung by the school choir: the *Formula missae* line.
-- **Translate them into German prose**, sung to the old tones: Müntzer 1524, Erfurt 1525,
-  Calenberg-Göttingen 1542.
+- **Translate them into German prose**, sung to the old tones: Müntzer 1524 (Radical
+  Reformation), Erfurt 1525, Calenberg-Göttingen 1542.
 - **Replace them with German hymns** sung by the congregation: the *Deutsche Messe* line.
 
 Most territorial orders allowed all three by place and day:
@@ -98,8 +116,8 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
   priest read it quietly. Villages sang a German psalm instead.
 - **Fallbacks.** Where boys could not learn every Sunday's introit, they repeated *Benedicta sit
   sancta Trinitas* or *Spiritus Domini* (Hatzkerode, Heilbronn, Kurpfalz, Hamburg 1556).
-- **German introits.** These appear in Müntzer, Erfurt and Hof 1592. Wittgenstein 1555 allows
-  the festal introits to be sung in German in the villages.
+- **German introits.** These appear in Müntzer (Radical Reformation), Erfurt and Hof 1592.
+  Wittgenstein 1555 allows the festal introits to be sung in German in the villages.
 - **Organ and polyphony.** By the later century the introit was often played by the organ in
   alternation with the choir, or sung *figuraliter* (Nördlingen 1579, Hof 1592).
 
@@ -113,8 +131,8 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
 
 **4. The epistle and gospel of the day were kept everywhere, and read toward the people**
 (§5.2–5.3).
-- **Exceptions.** Müntzer, and Nürnberg and Brandenburg-Nürnberg in the 1520s–30s, read whole
-  chapters in sequence.
+- **Exceptions.** Müntzer (Radical Reformation), and Nürnberg and Brandenburg-Nürnberg in the
+  1520s–30s, read whole chapters in sequence.
 - **Three practices of language and tone:**
   - **German in new tones.** Luther's *Deutsche Messe* has the epistle in the eighth tone and
     the gospel in the fifth. The Saxon orders send pastors to copy "the tone and accent
@@ -128,8 +146,8 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
   perpetual voice of the church". Bugenhagen's northern orders cut off the jubilus, "the many
   notes which one was wont to hang on behind".
 - **Replaced.** In villages, and where the text was "not pure", a German psalm took the place.
-- **German graduals.** Müntzer and Erfurt have them. Nürnberg sang its gradual "in a tone made
-  for it".
+- **German graduals.** Müntzer (Radical Reformation) and Erfurt have them. Nürnberg sang its
+  gradual "in a tone made for it".
 
 **6. The offertory chant was the proper most often dropped** (§7).
 - **Dropped.** It went with the offertory prayers as part of the "abomination" of sacrifice
@@ -137,7 +155,7 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
   sins".
 - **Kept.** A few orders kept the Latin offertory as a Scripture text sung by the choir:
   Wittenberg 1525, Brandenburg 1540, Ansbach 1548, Amberg 1550.
-- **Translated.** Müntzer and Erfurt translated it.
+- **Translated.** Müntzer (Radical Reformation) and Erfurt translated it.
 - **Replaced.** Most replaced it with a German psalm or the creed hymn.
 
 **7. The Proper Preface survived chiefly on the feasts, in Latin, to the Missal tones** (§8).
@@ -154,7 +172,7 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
   - **Michaelmas**, with the common Preface (Hoya, Osnabrück, Lippe);
   - the **Marian and Apostles' Prefaces** in Dortmund's Low German set of 1554, the Apostles'
     made to speak of the apostles' "doctrine";
-  - Müntzer's rewording of the Marian Preface for Advent.
+  - Müntzer's rewording (Radical Reformation) of the Marian Preface for Advent.
 - **Who sang.** The priest sang the Preface at the altar; the choir answered and sang the
   Sanctus.
 - **Language.** In Lippe 1571 and Mecklenburg the towns had Latin and the villages German.
@@ -162,7 +180,7 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
 **8. The communion chant was optional from the start and was mostly replaced by hymns** (§9).
 - **Optional.** Luther says "If one will sing the communion, let it be sung".
 - **Kept in Latin.** Volprecht, Ansbach 1536 and Brandenburg 1540 kept it.
-- **German.** Müntzer and Erfurt translated it.
+- **German.** Müntzer (Radical Reformation) and Erfurt translated it.
 - **Polyphony.** In the larger churches festal motets "*sub communione*" took its place, among
   them Clemens non Papa's *Pascha nostrum* at Hof.
 
@@ -180,8 +198,9 @@ meant ***de tempore*, not *de sanctis*** (§3.1, §6.2).
 - **Latin.** The Latin set (Christmas, Epiphany, Easter, Ascension, Pentecost, Trinity, common)
   belongs to the Lower Saxon and Westphalian orders, Lüneburg 1564 to Verden 1606.
 - **German translations of the Latin:**
-  - **Müntzer's** (1524), carried on by Erfurt, Calenberg-Göttingen and the Lippe villages;
-  - **Strasbourg's** (1524);
+    - **Müntzer's** (1524, Radical Reformation), carried on by Erfurt, Calenberg-Göttingen and
+      the Lippe villages;
+    - **Strasbourg's** (1524, Moderate Reformed);
   - **Dortmund's** Low German (1554), which alone translates the whole Roman series, Lent,
     Cross, the Virgin and the Apostles included.
 - **New German Prefaces.** There are four:
@@ -215,9 +234,21 @@ read in context.
   introit, gradual, sequence, offertory and communion. This guide deals with the propers
   themselves: the Latin chant, German prose versions, and the lessons and Prefaces.
 - [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md) gives the German **common** Prefaces
-  of the early German Masses (Kantz, Worms, Volprecht, Döber, Bremen) and the Preface sections
-  of Müntzer, Strasbourg, the Kiel Mass and Lippe. Those texts are cited here, not repeated,
-  except where a Proper Preface is concerned.
+  of the early German Masses (Kantz, Worms (Moderate Reformed), Volprecht, Döber, Bremen) and
+  the Preface sections of Müntzer (Radical Reformation), Strasbourg (Moderate Reformed), the
+  Kiel Mass and Lippe. Those texts are cited here, not repeated, except where a Proper Preface
+  is concerned.
+
+Later guides take up related subjects:
+- [`COLLECTS_GUIDE.md`](COLLECTS_GUIDE.md) covers the collect, the secret and the postcommunion
+  (§§4–6).
+- [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md) covers the place of the propers in the order of the
+  Mass, and the Preface as part of the ordinary (§§5, 10).
+- [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the feasts whose propers
+  were kept, and the proper prefaces and sequences as marks of rank (§§8, 10.3–10.4).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers the organ in
+  alternation (§3.3).
+- [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers preaching on the lessons (§5).
 
 **Cautions.** Four things limit what the corpus can show:
 - **Silence is not absence.** Many orders say only "the introit" or "the gradual", or "as
@@ -312,13 +343,13 @@ well, in the collegiate churches and towns. The parishes and villages get German
 
 ### 3.2 German prose propers, sung to the old tones
 
-**Müntzer.** Müntzer's *Deutsch evangelisch Messe* (Allstedt 1524) is the first full set. For
-each of five offices (Advent, Christmas, Passion, Easter, Pentecost) it has a German introit
-with its whole psalm, Kyrie, Gloria, collect, epistle, gradual and alleluia, gospel, offertory,
-Preface, Sanctus, Agnus Dei and communion. It is printed with notes. Müntzer's own explanation
-says the people are "led with the customary singing, in their own tongue, as children are
-brought up with milk". **Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen
-ampts*, 1523/24** (Sehling 1, pp. 504–505):
+**Müntzer** (Radical Reformation). Müntzer's *Deutsch evangelisch Messe* (Allstedt 1524) is the
+first full set. For each of five offices (Advent, Christmas, Passion, Easter, Pentecost) it has
+a German introit with its whole psalm, Kyrie, Gloria, collect, epistle, gradual and alleluia,
+gospel, offertory, Preface, Sanctus, Agnus Dei and communion. It is printed with notes.
+Müntzer's own explanation says the people are "led with the customary singing, in their own
+tongue, as children are brought up with milk". **Allstedt, Thomas Müntzer, *Ordnung und
+berechnunge des teutschen ampts*, 1523/24** (Radical Reformation; Sehling 1, pp. 504–505):
 
 <!-- doc 52 -->
 > Demnach so nimpt man bei uns den eingang der geheim gotis aus dem psalter, do der schlussel
@@ -348,10 +379,10 @@ German Mass for the Sundays and the feasts with German epistles, gospels, allelu
 Prefaces, but it has a German psalm "in place of the offertory" (Sehling 6/2, pp. 813–833).
 Sehling's editors trace its Prefaces to Müntzer and to the Erfurt *Kirchenamt*.
 
-**Strasbourg 1524.** The **Strasbourg *Teutsche Meß*** of 1524 gives German Prefaces for the
-feasts (Sehling 20/1, pp. 133–134). Its Augsburg reprint explains each Latin heading for the
-reader: "Introitus – Das nennet man anfang oder eingang", "that is called the beginning or
-entrance" (p. 135). Its successors drop the Preface (§8.1).
+**Strasbourg 1524** (Moderate Reformed). The **Strasbourg *Teutsche Meß*** of 1524 gives German
+Prefaces for the feasts (Sehling 20/1, pp. 133–134). Its Augsburg reprint explains each Latin
+heading for the reader: "Introitus – Das nennet man anfang oder eingang", "that is called the
+beginning or entrance" (p. 135). Its successors drop the Preface (§8.1).
 
 **Later German prose propers.** These are fewer:
 - Wittgenstein 1555 lets the festal introits be "learned and sung in German in the villages"
@@ -475,10 +506,11 @@ between Christmas and Candlemas shall be sung in the villages for an introit. [�
 *Resurrexi*; at the Ascension: *Viri Galilaei*; at Pentecost: *Spiritus Domini*; on Trinity:
 *Benedicta sit sancta Trinitas*.
 
-**Hesse, late in the century.** The Hessian *Agende* of 1574 allows a Latin psalm "or introit"
-only where there are people who understand it, and only "at the beginning, before the whole
-congregation cometh together". In the villages German songs only are to be sung, and in the
-towns German songs for the most part. **Hesse, *Agende*, 1574** (Sehling 8, p. 411):
+**Hesse, late in the century.** The Hessian *Agende* of 1574 (Philippist) allows a Latin psalm
+"or introit" only where there are people who understand it, and only "at the beginning, before
+the whole congregation cometh together". In the villages German songs only are to be sung, and
+in the towns German songs for the most part. **Hesse, *Agende*, 1574**
+(Philippist; Sehling 8, p. 411):
 
 <!-- doc 2272 -->
 > ein lateinischer psalm oder introitus gesungen werden, doch daß auf den dorfen durchaus, in
@@ -518,10 +550,11 @@ them also in time, since they are taken out of scripture.
 
 ### 4.4 German introits
 
-**Müntzer and Erfurt.** Müntzer's *Deutsch evangelisch Messe* (1524) and the Erfurt *Deutsches
-Kirchenamt* (1525) translate the introits into German prose, with their psalm verse and *Gloria
-Patri*, and sing them to the Latin melody (§3.2). Erfurt's Christmas introit is an example.
-**Erfurt, *Deutsches Kirchenamt*, 1525, "das ampt von der gepurt Christi"** (Sehling 2, p. 379):
+**Müntzer and Erfurt.** Müntzer's *Deutsch evangelisch Messe* (1524, Radical Reformation) and
+the Lutheran Erfurt *Deutsches Kirchenamt* (1525) translate the introits into German prose, with
+their psalm verse and *Gloria Patri*, and sing them to the Latin melody (§3.2). Erfurt's
+Christmas introit is an example. **Erfurt, *Deutsches Kirchenamt*, 1525, "das ampt von der
+gepurt Christi"** (Sehling 2, p. 379):
 
 <!-- doc 1251 -->
 > Introitus: Uns ist ein kind geboren, und ein sohn ist uns gegeben, welches hirschaft ist auf
@@ -595,6 +628,9 @@ Hof's festal table assigns polyphonic introits by name. For Christmas it has "*P
 nobis*, a 4, by Senfl", and for the Ascension "*Viri Galilaei*, a 4" (Sehling 11, pp. 457, 462).
 See §10.
 
+The organ's prelude and its alternation with the choir are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §§3.2–3.3.
+
 ---
 
 ## 5. The lessons: prophecy, epistle and gospel
@@ -624,7 +660,8 @@ one of the few places where an order writes down a melodic formula of the old ch
 
 **Kept everywhere.** Every Lutheran order in the corpus keeps the **epistle and gospel of the
 day** (*de dominica*, *de festo*), with these exceptions:
-- **Müntzer** reads "always a whole chapter instead of the epistle and gospel" (§3.2).
+- **Müntzer** (Radical Reformation) reads "always a whole chapter instead of the epistle and
+  gospel" (§3.2).
 - **Nürnberg 1524** and **Brandenburg-Nürnberg 1533** read the New Testament continuously
   (*lectio continua*). In the Nürnberg parish Mass of 1524 the minister sings a whole chapter of
   Romans, and the deacon a chapter of Matthew, in German, each with a fixed announcement: "Ir
@@ -638,6 +675,9 @@ orders read the epistle **from the pulpit**:
 - Schweinfurt 1543: "the chaplain shall not read the epistle over the altar, but from the
   pulpit" (Sehling 11, p. 641);
 - Pomerania 1535: "as one is wont to do on the pulpit" (Sehling 4, p. 341).
+
+Preaching on the Sunday gospels and epistles is treated in
+[`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §5.1.
 
 ### 5.3 Sung or read, Latin or German
 
@@ -759,9 +799,10 @@ German psalm or hymn:
 - **Weißenburg 1528**: "the schoolmaster sings a short alleluia or gradual"
   (Sehling 11, p. 659).
 
-**Where the gradual was not pure.** The Ansbach *Auctuarium* of 1548 lists German psalms to be
-sung where the gradual or alleluia "were not pure, as commonly *de sanctis*".
-**Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548** (Sehling 11, p. 329):
+**Where the gradual was not pure.** The Ansbach *Auctuarium* of 1548, an Interim order, lists
+German psalms to be sung where the gradual or alleluia "were not pure, as commonly *de
+sanctis*". **Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548**
+(Interim order; Sehling 11, p. 329):
 
 <!-- doc 278 -->
 > An den andern feirtagen und festen, die nit raine oder keine sequenz haben, sol man das
@@ -780,9 +821,9 @@ kept the Lenten change.
 
 ### 6.3 German graduals
 
-**Müntzer and Erfurt.** These have German prose graduals and alleluias. Erfurt's Passion gradual
-is an example. **Erfurt, *Deutsches Kirchenamt*, 1525, office of the Passion**
-(Sehling 2, p. 380):
+**Müntzer and Erfurt.** These (Müntzer's Radical Reformation offices and Erfurt's Lutheran
+reprint) have German prose graduals and alleluias. Erfurt's Passion gradual is an example.
+**Erfurt, *Deutsches Kirchenamt*, 1525, office of the Passion** (Sehling 2, p. 380):
 
 <!-- doc 1251 -->
 > Gradual: Christus ist worden für uns gehorsam bis zum tode, zum tode des creuzes. Darumb hat
@@ -807,6 +848,9 @@ notes. For the Purification it puts the *Nunc dimittis* hymn "Mit fried und freu
 
 The sequence, the hymn after the alleluia, was cut back to a few "pure" texts for the chief
 feasts and farced with German stanzas. This is treated in `HYMN_PRACTICE_GUIDE.md`, §8.2–8.3.
+
+The sequences as marks of the great feasts are treated in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.4.
 
 ---
 
@@ -841,9 +885,10 @@ Scripture, sung by the choir while the bread and wine were prepared:
 - **Brandenburg 1540** has "the offertory of the Sunday or feast" after the sermon, "but in the
   villages one may sing a German psalm for it" (Sehling 3, p. 71).
 - **Amberg 1550**: "Chorus: Offertorium de tempore" (Sehling 13, p. 286).
-- **The Ansbach *Auctuarium* (1548)** has the schoolmaster sing "the Latin offertory **noted in
-  the same Mass, since they are all taken from holy Scripture**", or a Latin responsory.
-  **Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548** (Sehling 11, p. 330):
+- **The Ansbach *Auctuarium* (1548)**, an Interim order, has the schoolmaster sing "the Latin
+  offertory **noted in the same Mass, since they are all taken from holy Scripture**", or a
+  Latin responsory. **Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548**
+  (Interim order; Sehling 11, p. 330):
 
 <!-- doc 278 -->
 > Sobald die predig ir end hat, soll der schulmaister das lateinisch offertorium, so in
@@ -854,11 +899,11 @@ As soon as the sermon hath its end, the schoolmaster shall sing the Latin offert
 noted in the same Mass (for they are all taken out of holy scripture), or else a Latin
 responsory […]
 
-**German offertories.** Müntzer and the Erfurt *Kirchenamt* translate the offertory into German.
-Erfurt has an offertory for Easter ("Die erde hat erbidmet und geruget, do got wolt zum urteil
-auferstehn. Alleluia", *Terra tremuit*) and for Pentecost (*Confirma hoc, Deus*). In the Trinity
-office it has "a psalm or else a spiritual hymn of praise" "for the offertory"
-(Sehling 2, pp. 376–378).
+**German offertories.** Müntzer (Radical Reformation) and the Erfurt *Kirchenamt* translate the
+offertory into German. Erfurt has an offertory for Easter ("Die erde hat erbidmet und geruget,
+do got wolt zum urteil auferstehn. Alleluia", *Terra tremuit*) and for Pentecost (*Confirma hoc,
+Deus*). In the Trinity office it has "a psalm or else a spiritual hymn of praise" "for the
+offertory" (Sehling 2, pp. 376–378).
 
 ### 7.3 A German psalm, or the Creed, in its place
 
@@ -882,6 +927,10 @@ three questions:
 - whether the Preface was kept at all;
 - on which days a proper Preface was used, and which;
 - who sang it, in which language and to which tune.
+
+The Preface in the order of the Mass, required, optional or festal, is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §10.1, and the proper prefaces as marks of a feast's
+rank in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.3.
 
 ### 8.1 Kept, shortened or dropped
 
@@ -907,7 +956,7 @@ public exhortation and paraphrase of the Our Father, which the priest shall make
 in prescribed words, right loud and audibly […]
 
 - The Prussian order of 1568 repeats it (Sehling 4, p. 81).
-- The Strasbourg agendas after 1525 have no Preface or Sanctus
+- The Strasbourg agendas after 1525 (Moderate Reformed) have no Preface or Sanctus
   (Sehling 20/1, p. 63, editor's introduction).
 - The Engerhafe liturgy in East Frisia (1583) replaces the Preface with Psalm 111
   (Sehling 7/1, p. 677, n. 20).
@@ -1038,9 +1087,10 @@ one will" (Sehling 1, p. 704).
 instead (§A.6, German 5).
 
 **The seasons are almost absent.** No order in the corpus prescribes a Preface for **Advent**
-apart from Müntzer's tradition. That tradition uses the reworded Marian Preface (§A.10). Lent
-and Passiontide have a Preface only in Dortmund and in the Müntzer tradition (§A.4–A.5).
-Grubenhagen added a new German Passion Preface from Isaiah 53 for Maundy Thursday (§A.12).
+apart from Müntzer's tradition (Müntzer himself belongs to the Radical Reformation). That
+tradition uses the reworded Marian Preface (§A.10). Lent and Passiontide have a Preface only in
+Dortmund and in the Müntzer tradition (§A.4–A.5). Grubenhagen added a new German Passion Preface
+from Isaiah 53 for Maundy Thursday (§A.12).
 
 ### 8.3 Saints' days: Michaelmas, the Virgin and the Apostles
 
@@ -1058,8 +1108,8 @@ The exceptions are few:
 - **The Virgin and the Apostles.** Dortmund 1554 alone translates the Marian Preface, for five
   feasts including the Assumption, and the Preface of the Apostles. It turns the Apostles'
   protection into the Apostles' "doctrine" (§A.10–A.11).
-- **Müntzer's tradition** keeps the Marian Preface's text but strikes Mary's feast from it, and
-  uses it for Advent and Trinity (§A.10).
+- **Müntzer's tradition** (Müntzer himself Radical Reformation) keeps the Marian Preface's text
+  but strikes Mary's feast from it, and uses it for Advent and Trinity (§A.10).
 
 ### 8.4 Who sang it, in what language, to which tune
 
@@ -1142,11 +1192,11 @@ VI. Then let him communicate both himself and the people; meanwhile let the Agnu
 - **Brandenburg 1540**: "the Latin preface, the Sanctus, the communion, and further the
   conclusion" (Sehling 3, p. 71).
 
-**German communio.** Müntzer and the Erfurt *Kirchenamt* have a German communio for each office.
-For Easter it is "Unser osterlamp Christus ist geopfert fur uns. Alleluia" (*Pascha nostrum*).
-For Christmas it is "Alle grenze der erden haben gesehn den heiland unsers gottes" (*Viderunt
-omnes*) (Sehling 2, pp. 376, 379). In the Advent office "a psalm or other spiritual hymn of
-praise" is sung "for the communion" (Sehling 2, p. 379).
+**German communio.** Müntzer (Radical Reformation) and the Erfurt *Kirchenamt* have a German
+communio for each office. For Easter it is "Unser osterlamp Christus ist geopfert fur uns.
+Alleluia" (*Pascha nostrum*). For Christmas it is "Alle grenze der erden haben gesehn den
+heiland unsers gottes" (*Viderunt omnes*) (Sehling 2, pp. 376, 379). In the Advent office "a
+psalm or other spiritual hymn of praise" is sung "for the communion" (Sehling 2, p. 379).
 
 **Replaced by hymns.** Elsewhere the slot was filled by the **communion hymns** and the **Agnus
 Dei**, often several in turn "according as the communicants be many or few". These are treated
@@ -1229,8 +1279,8 @@ The orders also trimmed the chant:
   sent home (§6.1).
 - **The alleluia's jubilus:** Bugenhagen's **removal of the long melisma** at the end of the
   alleluia, "the many notes that one was wont to hang on behind" (§6.1).
-- **Introit psalm:** Müntzer's **whole psalm** for the introit, against the single verse of the
-  medieval introit (§3.2).
+- **Introit psalm:** Müntzer's (Radical Reformation) **whole psalm** for the introit, against
+  the single verse of the medieval introit (§3.2).
 - **Pace:** Calenberg-Göttingen's warning that the choir sing "right slowly, that it become not
   an ass's braying" (§4.2).
 
@@ -1240,8 +1290,8 @@ The orders also trimmed the chant:
 - Luther's epistle tone (eighth mode) and gospel tone (fifth mode) in the *Deutsche Messe*
   (§5.3).
 - The Nürnberg gradual "in a tone made for it" (§6.3).
-- Müntzer's notated German offices, sung "with the customary singing, in their own tongue"
-  (§3.2).
+- Müntzer's notated German offices (Radical Reformation), sung "with the customary singing, in
+  their own tongue" (§3.2).
 - The German Prefaces of Calenberg-Göttingen, Grubenhagen and Lippe, set to the Preface tone
   (Appendix A).
 
@@ -1338,12 +1388,12 @@ by side in the same order.
 | Order | Vol. | Introit | Epistle and gospel | Gradual, alleluia | Offertory | Preface | Communio | Music |
 |---|---|---|---|---|---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1 | L (Sunday and festal, from Scripture) | L | L (two verses); alleluia always | — | Common, cut at *per Christum* | L "if one will" | Plainchant |
-| Müntzer, Allstedt, 1524 | 1 | G (whole psalm) | G, whole chapters | G | G | G (Advent, Christmas, Passion, Easter, Pentecost) | G | Notated; "customary singing in own tongue" |
+| Müntzer, Allstedt, 1524 (Radical Reformation) | 1 | G (whole psalm) | G, whole chapters | G | G | G (Advent, Christmas, Passion, Easter, Pentecost) | G | Notated; "customary singing in own tongue" |
 | Nürnberg parish Mass, 1524 | 11 | L | G, chapters in sequence | L | — | Common, cut | ? | Plainchant |
 | Volprecht, Nürnberg, 1524 | 11 | L | ? | L | — ("never said") | Common, cut | L (*de quo sit missa*) | — |
 | Wittenberg report, 1525 | 1 | L | L | L (no sequence) | L | L | ? | — |
 | Erfurt *Deutsches Kirchenamt*, 1525 | 2 | G | G | G | G (Easter, Pentecost); H (Trinity) | G (Müntzer's, plus Trinity) | G; H (Advent) | Notated |
-| Strasbourg *Teutsche Meß*, 1524 | 20/1 | ? | G | ? | ? | G (Christmas, Epiphany, Easter, Ascension, Pentecost; Cross in Schwarz) | ? | — |
+| Strasbourg *Teutsche Meß*, 1524 (Moderate Reformed) | 20/1 | ? | G | ? | ? | G (Christmas, Epiphany, Easter, Ascension, Pentecost; Cross in Schwarz) | ? | — |
 | Luther, *Deutsche Messe*, 1526 | 1 | H | G (8th and 5th tones) | H | — | — | H | New tones |
 | Nürnberg report for Goslar, 1528 | 7/2.2 | L | G (levites) | gradual "in a tone made for it" | — | Common, cut | ? | New tone |
 | Hamburg, 1529 | 5 | ? | ? | ? | ? | L on feasts; Trinity on Sundays | ? | Prophecy cadence written out |
@@ -1373,7 +1423,7 @@ by side in the same order.
 | Kurland, 1570 | 5 | ? | ? | ? | ? | G "customary noted" daily; G festal (3) | ? | Notated |
 | Lippe, 1571 | 21 | L on feasts of Christ | ? | ? | ? | L in towns / G in villages: Christmas, Easter, Pentecost, Michaelmas | ? | Notated |
 | Brandenburg visitation, 1573 | 3 | ? | **L "old melody", then G read** | ? | ? | ? | ? | Old melody required |
-| Hesse *Agende*, 1574 | 8 | L only before the people gather; H | ? | ? | ? | ? | ? | — |
+| Hesse *Agende*, 1574 (Philippist) | 8 | L only before the people gather; H | ? | ? | ? | ? | ? | — |
 | Nördlingen, 1579 | 12 | Organ plus scholars *figuraliter* on feasts; H on Sundays | ? | ? | ? | ? | ? | Polyphony, organ |
 | Grubenhagen, 1581; Hoya, 1581 | 6/2 | L (Hoya: pastor) | ? | ? | ? | L where schools; Michaelmas (Hoya); German Isaiah 53 Preface (Grubenhagen) | ? | Notated |
 | Hof, 1592 | 11 | L figural on feasts / G on Sundays; organ and three choirs | L then G | L from the Missal or Lossius; tract | ? | L from Lossius on chief feasts | Motets | Senfl, Lassus, Clemens, Victoria |
@@ -1397,8 +1447,8 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Luther, *Formula missae et communionis*, 1523 | 1, pp. 4–6 | 2 | 3.1, 4.1, 6.1, 7.1, 8.1, 9.1, A.1 |
-| Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524 | 1, pp. 500–504 | 51, 52 | 3.2, A.2, A.5, A.6, A.8, A.10 |
-| Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 | 1, pp. 504–505 | 52 | 3.2, 5.2 |
+| Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524 (Radical Reformation) | 1, pp. 500–504 | 51, 52 | 3.2, A.2, A.5, A.6, A.8, A.10 |
+| Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 (Radical Reformation) | 1, pp. 504–505 | 52 | 3.2, 5.2 |
 | Wittenberg, *Wie es einer zeit mit den ceremonien der messe gehalten*, 1525 | 1, p. 698 | 147 | 3.1, 7.2 |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | 3.3, 5.3 |
 | Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, pp. 703–705 | 148 | 5.1, 8.2, 9.2 |
@@ -1468,7 +1518,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Agende*, 1574 | 8, p. 411 | 2272 | 4.2 |
+| Hesse, *Agende*, 1574 (Philippist) | 8, p. 411 | 2272 | 4.2 |
 
 **Franconia, Bavaria, the Palatinates and Swabia**
 
@@ -1479,7 +1529,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Weißenburg, *Kirchenordnung*, 1528 | 11, p. 659 | 308 | 4.1, 6.2 |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 188, 195 | 270 | 4.1, 4.2, 6.2 |
 | Brandenburg-Ansbach, *Kirchenvisitation*, 1536 | 11, p. 326 | 277 | 9.1 |
-| Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548 | 11, pp. 329–330 | 278 | 6.2, 7.2 |
+| Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548 (Interim order) | 11, pp. 329–330 | 278 | 6.2, 7.2 |
 | Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, p. 495 | 297 | 3.1 |
 | Schweinfurt, *Kirchenordnung*, 1543; *Gottesdienstordnung*, 1576 | 11, pp. 641, 648 | 304, 305 | 5.2, 10.4, 10.5 |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 409, 424, 432–473 | 294 | 4.4, 4.5, 5.1, 6.2, 8.4, 9.2, 10.1, 10.4, 10.5 |
@@ -1499,7 +1549,7 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Strasbourg, Mass of Diebold Schwarz, and *Teutsche Meß und Tauff*, 1524 | 20/1, pp. 121, 133–135 | 1279 | 3.2, 8.1, A.2, A.3, A.5–A.8 |
+| Strasbourg, Mass of Diebold Schwarz, and *Teutsche Meß und Tauff*, 1524 (Moderate Reformed) | 20/1, pp. 121, 133–135 | 1279 | 3.2, 8.1, A.2, A.3, A.5–A.8 |
 
 ---
 
@@ -1547,8 +1597,8 @@ Their texts are not in the corpus. Where their headings are given, they match th
 set.
 
 **Already in the Canon guide.** The *common* Preface in German is also rendered in
-[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), for Kantz, Worms, Volprecht, Döber and
-Bremen. Those renderings are not repeated here.
+[`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md), for Kantz, Worms (Moderate Reformed),
+Volprecht, Döber and Bremen. Those renderings are not repeated here.
 
 ### A.1 The dialogue and the common Preface (*Quotidiana*, *Praefatio communis*)
 
@@ -1635,11 +1685,11 @@ by him be caught up into the love of things invisible. And therefore with Angels
 with Thrones and Dominions, and with all the company of the heavenly host, we sing the hymn of
 thy glory, evermore saying:
 
-**German (1): Müntzer's translation.** Müntzer's *Deutsch evangelisch Messe* (1524) has this
-translation. So do the Erfurt *Deutsches Kirchenamt* (1525; Sehling 2, p. 379),
-Calenberg-Göttingen (1542; 6/2, p. 821) and Lippe 1571, "auff den Dörffern an Weihenachten" (21,
-p. 410). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, Christmas office**
-(Sehling 1, pp. 501–502):
+**German (1): Müntzer's translation** (Radical Reformation). Müntzer's *Deutsch evangelisch
+Messe* (1524) has this translation. So do the Erfurt *Deutsches Kirchenamt*
+(1525; Sehling 2, p. 379), Calenberg-Göttingen (1542; 6/2, p. 821) and Lippe 1571, "auff den
+Dörffern an Weihenachten" (21, p. 410). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*,
+1524, Christmas office** (Radical Reformation; Sehling 1, pp. 501–502):
 
 <!-- doc 51 -->
 > Dann durch das geheimnis des vormenschten wortes ist das neue licht deiner klarheit den augen
@@ -1661,8 +1711,8 @@ p. 410). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, Christm
 - **Lippe 1571** substitutes "Lobgesang deines preyses", "a song of praise of thy glory", for
   *eine leisen*.
 
-**German (2): Strasbourg.** **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Etliche vorreden"**
-(Sehling 20/1, p. 133):
+**German (2): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Etliche vorreden"** (Moderate Reformed; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 > So du in der oben angezeigten Prefation gelesen hast das wörtlin Ewiger Gott, so folget: Dann
@@ -1721,8 +1771,8 @@ host, we sing the hymn of thy glory, evermore saying:
 
 *Note.* The Lower Saxon orders print *qui cum* where the Missal has *quia cum*.
 
-**German: Strasbourg.** **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander Vorred"**
-(Sehling 20/1, p. 133):
+**German: Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein
+ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 > Ewiger Gott, So dein eingeborner sun in dem wesen unser tödtlicheit erschinen ist, hat er uns
@@ -1762,8 +1812,9 @@ the common Preface.
 
 ### A.5 Passiontide and the Holy Cross (*Qui salutem humani generis in ligno crucis*)
 
-**Witnesses:** Müntzer 1524 (1, p. 502), Erfurt 1525 (2, p. 380), Calenberg-Göttingen 1542 (6/2,
-p. 826), Strasbourg 1524 (20/1, p. 121) and Dortmund 1554 (21, p. 210).
+**Witnesses:** Müntzer 1524 (Radical Reformation; 1, p. 502), Erfurt 1525 (2, p. 380),
+Calenberg-Göttingen 1542 (6/2, p. 826), Strasbourg 1524 (Moderate Reformed; 20/1, p. 121) and
+Dortmund 1554 (21, p. 210).
 - Müntzer, Erfurt and Calenberg use it in the Mass "of the suffering of Christ".
 - Strasbourg puts it in its ordinary Sunday Mass.
 - Dortmund uses it "of the Cross and Passion of Christ".
@@ -1772,8 +1823,9 @@ No Latin text of this Preface is printed in the corpus. The German renders the M
 salutem humani generis in ligno crucis constituisti, ut unde mors oriebatur, inde vita
 resurgeret, et qui in ligno vincebat, in ligno quoque vinceretur*.
 
-**German (1): Müntzer.** Müntzer's translation is also in Erfurt and Calenberg. **Allstedt,
-Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, office of the Passion** (Sehling 1, p. 502):
+**German (1): Müntzer** (Radical Reformation). Müntzer's translation is also in Erfurt and
+Calenberg. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, office of the
+Passion** (Radical Reformation; Sehling 1, p. 502):
 
 <!-- doc 51 -->
 > Warlich es ist wirdig und recht billich und ist heilsam, das wir dir herr almechtiger ewiger
@@ -1791,9 +1843,9 @@ quoque vinceretur*, "and that he who by a tree overcame might also by a tree be 
 Erfurt and Calenberg follow him. Calenberg completes the ending with the full German common
 Preface, "durch welchen loben die engel … ohne ende sagende".
 
-**German (2): Strasbourg, Schwarz.** Diebold Schwarz's Strasbourg Mass expands that last clause
-with a reference to Adam and to the obedience shown on the tree. **Strasbourg, Mass of Diebold
-Schwarz, 1524** (Sehling 20/1, p. 121):
+**German (2): Strasbourg, Schwarz** (Moderate Reformed). Diebold Schwarz's Strasbourg Mass
+expands that last clause with a reference to Adam and to the obedience shown on the tree.
+**Strasbourg, Mass of Diebold Schwarz, 1524** (Moderate Reformed; Sehling 20/1, p. 121):
 
 <!-- doc 1279 -->
 > Es geburt sich furwor und ist billich, recht und heilsam, das wir dir alweg an allen orten
@@ -1866,11 +1918,11 @@ rising again hath restored life. And therefore with Angels and Archangels, with 
 Dominions, and with all the company of the heavenly host, we sing the hymn of thy glory,
 evermore saying:
 
-**German (1): Müntzer.** This translation is in Müntzer 1524 and Erfurt 1525 (2, p. 376). It is
-also in Calenberg-Göttingen 1542 (6/2, p. 829) and Lippe 1571, "auff den Dörffern" (21, p. 410).
-The Low German Mass from Kiel has it too
+**German (1): Müntzer** (Radical Reformation). This translation is in Müntzer 1524 and Erfurt
+1525 (2, p. 376). It is also in Calenberg-Göttingen 1542 (6/2, p. 829) and Lippe 1571, "auff den
+Dörffern" (21, p. 410). The Low German Mass from Kiel has it too
 (Sehling 23, p. 56; rendered in the Canon guide, §11.2). **Allstedt, Thomas Müntzer, *Deutsch
-evangelisch Messe*, 1524, office of the Resurrection** (Sehling 1, p. 503):
+evangelisch Messe*, 1524, office of the Resurrection** (Radical Reformation; Sehling 1, p. 503):
 
 <!-- doc 51 -->
 > Warlich es ist wirdig und recht billich und gleich und ist heilsam, das wir herr almechtiger
@@ -1908,8 +1960,8 @@ Kirchenordnung*, 1570, "Auf ostern"** (Sehling 5, p. 90):
 "sacrificed for us", and it says that Christ by his death "overcame death" instead of "destroyed
 our death".
 
-**German (3): Strasbourg.** **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander Vorred"**
-(Sehling 20/1, p. 133):
+**German (3): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Ein ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 > Recht und heylsam, das man dich allweg herrlich rüm und preyße, Dann unser osterlamb Christus
@@ -1983,8 +2035,8 @@ all his disciples, and in their sight was lifted up into heaven, that he might g
 partakers of his Godhead. And therefore with Angels and Archangels, with Thrones and Dominions,
 and with all the company of the heavenly host, we sing the hymn of thy glory, evermore saying:
 
-**German (1): Strasbourg.** **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander Vorred"**
-(Sehling 20/1, p. 134):
+**German (1): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Ein ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 134):
 
 <!-- doc 1279 -->
 > Ewiger Gott, durch Christum, unnsern herrn, Der nach seiner aufferstendtnuß seinen jüngern
@@ -2059,11 +2111,11 @@ children of adoption. Wherefore with overflowing joy the whole world throughout 
 doth exult; and the Virtues on high and the angelic Powers also [with them] we sing the hymn of
 thy glory, evermore saying:
 
-**German (1): Müntzer.** Müntzer's translation is also in Erfurt 1525 (2, p. 377),
-Calenberg-Göttingen 1542 (6/2, p. 833) and Lippe 1571, "auff den Dörffern" (21, p. 411). In
-Sehling's edition Müntzer's Pentecost office is printed at the head of the following document
-(*eko.db* doc 52). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, office of the
-Holy Ghost** (Sehling 1, p. 504):
+**German (1): Müntzer** (Radical Reformation). Müntzer's translation is also in Erfurt 1525 (2,
+p. 377), Calenberg-Göttingen 1542 (6/2, p. 833) and Lippe 1571, "auff den Dörffern" (21, p.
+411). In Sehling's edition Müntzer's Pentecost office is printed at the head of the following
+document (*eko.db* doc 52). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524,
+office of the Holy Ghost** (Radical Reformation; Sehling 1, p. 504):
 
 <!-- doc 52 -->
 > Warlich es ist wirdig und recht billich und ist heilsam, das wir dir almechtiger ewiger got
@@ -2081,8 +2133,8 @@ Holy Ghost** (Sehling 1, p. 504):
 - ***Supernae virtutes atque angelicae potestates*** becomes "all the heavenly host", who "sing
   a *Leise*".
 
-**German (2): Strasbourg.** **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Ein ander Vorred"**
-(Sehling 20/1, p. 134):
+**German (2): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Ein ander Vorred"** (Moderate Reformed; Sehling 20/1, p. 134):
 
 <!-- doc 1279 -->
 > Ewiger Gott, durch Christum, unnsern hern, Der, auffgestigen über alle hymmel und sitzend zuo
@@ -2207,9 +2259,9 @@ Which the Angels praise, etc., as in the common Preface.
 **Witnesses:**
 - **Dortmund 1554:** the Marian Preface itself, for the Purification, Annunciation, Visitation,
   Assumption and Nativity of Mary.
-- **Müntzer 1524 (Advent), Erfurt 1525 (Trinity, also used in Advent) and Calenberg-Göttingen
-  1542 (Advent):** a reworded form, which turns the praise of Mary's feast into thanksgiving for
-  the Incarnation.
+- **Müntzer 1524 (Advent; Radical Reformation), Erfurt 1525 (Trinity, also used in Advent) and
+  Calenberg-Göttingen 1542 (Advent):** a reworded form, which turns the praise of Mary's feast
+  into thanksgiving for the Incarnation.
 
 No Latin text is printed in the corpus. The German renders the Missal's *Et te in [festivitate]
 beatae Mariae semper Virginis collaudare, benedicere et praedicare. Quae et Unigenitum tuum
@@ -2240,9 +2292,9 @@ Christ our Lord; through whom, etc., in the common Preface.
 - **The Assumption is still listed** ("der hemmelfart", 15 August).
 - *Effudit* ("poured forth") becomes "brought forth".
 
-**German (2): Müntzer's rewording for Advent.** Müntzer's form is also in Erfurt 1525 (2, p.
-378) and Calenberg-Göttingen 1542 (6/2, p. 818). **Allstedt, Thomas Müntzer, *Deutsch
-evangelisch Messe*, 1524, office of Advent** (Sehling 1, p. 500):
+**German (2): Müntzer's rewording for Advent** (Radical Reformation). Müntzer's form is also in
+Erfurt 1525 (2, p. 378) and Calenberg-Göttingen 1542 (6/2, p. 818). **Allstedt, Thomas Müntzer,
+*Deutsch evangelisch Messe*, 1524, office of Advent** (Radical Reformation; Sehling 1, p. 500):
 
 <!-- doc 51 -->
 > Warlich, es ist billich und recht und ist heilsam, das wir dir, herr, o heiliger vater,
@@ -2417,15 +2469,15 @@ heavenly hosts we sing a song of praise of thy glory, without end saying:
 
 | Preface | Latin in the corpus | German or Low German in the corpus |
 |---|---|---|
-| Common (*Quotidiana*) | Lüneburg 1564, Wolfenbüttel 1569, Verden 1606; for Michaelmas: Hoya 1581, Osnabrück 1618, Lippe 1571; cut short: Luther 1523, Nürnberg 1524 | Dortmund 1554; Kantz, Worms, Volprecht, Döber, Bremen (see the Canon guide) |
-| Christmas | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer 1524, Erfurt 1525, Calenberg 1542, Lippe 1571; Strasbourg 1524; Dortmund 1554; Kurland 1570 (new text, §A.14) |
-| Epiphany | Lüneburg, Wolfenbüttel, Verden | Strasbourg 1524; Dortmund 1554 |
+| Common (*Quotidiana*) | Lüneburg 1564, Wolfenbüttel 1569, Verden 1606; for Michaelmas: Hoya 1581, Osnabrück 1618, Lippe 1571; cut short: Luther 1523, Nürnberg 1524 | Dortmund 1554; Kantz, Worms (Moderate Reformed), Volprecht, Döber, Bremen (see the Canon guide) |
+| Christmas | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer 1524 (Radical Reformation), Erfurt 1525, Calenberg 1542, Lippe 1571; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Kurland 1570 (new text, §A.14) |
+| Epiphany | Lüneburg, Wolfenbüttel, Verden | Strasbourg 1524 (Moderate Reformed); Dortmund 1554 |
 | Lent | — | Dortmund 1554 |
-| Passion and Cross | — | Müntzer, Erfurt, Calenberg; Strasbourg (Schwarz) 1524; Dortmund 1554; Grubenhagen 1581 (new Isaiah 53 text, §A.12) |
-| Easter | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer, Erfurt, Calenberg, Lippe 1571, Kiel; Kurland 1570; Strasbourg 1524; Dortmund 1554; Calenberg's Sunday form |
-| Ascension | Lüneburg, Wolfenbüttel, Hoya, Verden | Strasbourg 1524; Calenberg 1542; Dortmund 1554 |
-| Pentecost | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer, Erfurt, Calenberg, Lippe 1571; Strasbourg 1524; Dortmund 1554; Kurland 1570 (§A.15) |
+| Passion and Cross | — | Müntzer (Radical Reformation), Erfurt, Calenberg; Strasbourg (Schwarz) 1524 (Moderate Reformed); Dortmund 1554; Grubenhagen 1581 (new Isaiah 53 text, §A.12) |
+| Easter | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571, Kiel; Kurland 1570; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Calenberg's Sunday form |
+| Ascension | Lüneburg, Wolfenbüttel, Hoya, Verden | Strasbourg 1524 (Moderate Reformed); Calenberg 1542; Dortmund 1554 |
+| Pentecost | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Kurland 1570 (§A.15) |
 | Trinity | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden | Lippe 1525; Dortmund 1554 |
-| Blessed Virgin | — | Dortmund 1554; Müntzer, Erfurt, Calenberg (reworded for Advent and Trinity) |
+| Blessed Virgin | — | Dortmund 1554; Müntzer (Radical Reformation), Erfurt, Calenberg (reworded for Advent and Trinity) |
 | Apostles | — | Dortmund 1554 |
 | Michaelmas (new German text) | (common Preface) | Lippe 1571 (§A.13) |

@@ -50,6 +50,20 @@ evangelischen Kirchenordnungen des XVI. Jahrhunderts* say about the **sermon**. 
     20/1, 20/2 and so on, following the digitized volumes.
   - Each order is named by place, title and date as they appear in Sehling's running heads.
     Where a passage is Sehling's own introduction or apparatus, this is said.
+- **Traditions.** Most of the orders cited are Lutheran, and they are not marked. Every order of
+  another tradition is marked where it is cited, by its name in brackets after the order, as
+  "Kurpfalz 1563 (Reformed)". The traditions follow the inventory in
+  [`CHURCH_ORDERS_GUIDE.md`](CHURCH_ORDERS_GUIDE.md), §3:
+  - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German
+    territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+  - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and
+    the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+    Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, and Colmar after 1578;
+  - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
+    doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+    1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594.
+  - The mark follows the order cited, not the territory, since a territory could change its
+    tradition: Kurpfalz is Lutheran under Ottheinrich (1556) and Reformed from 1563.
 
 ## Contents
 
@@ -122,9 +136,9 @@ German".
 - **The chief Sunday sermon: one hour at most**, often three quarters.
 - **Weekday, afternoon, catechism, funeral and wedding sermons: half an hour.**
 - The reason given is the hearer. "The common people can in no wise remain attentive longer"
-  (Augsburg 1537). The common man is like "a sick man, to whom one must set things often, but
-  little at once" (Württemberg 1536). "Long sermons … weaken the memory and make the hearers
-  weary" (Regensburg 1572).
+  (Augsburg 1537, Moderate Reformed). The common man is like "a sick man, to whom one must set
+  things often, but little at once" (Württemberg 1536). "Long sermons … weaken the memory and
+  make the hearers weary" (Regensburg 1572).
 - Sermons were to be shorter in winter cold (Castell 1579). Overrunning to an hour and a half
   drew complaints (Hohenlohe 1594).
 
@@ -147,7 +161,7 @@ German".
 **8. Around the sermon** (§10). The orders kept the medieval group of vernacular pulpit pieces
 around the sermon:
 - **before**: an exhortation and prayer, often the Our Father or "Nun bitten wir"; in the
-  Palatinate the apostolic greeting;
+  Palatinate (Reformed) the apostolic greeting;
 - **after**: the open confession and absolution, the general prayer with particular
   intercessions, and the notices and banns.
 
@@ -155,14 +169,15 @@ around the sermon:
 - Candidates passed an examination and a **trial sermon**.
 - Pastors already in office preached practice sermons on set texts before the superintendent
   (Saxony 1577).
-- In the Palatine class conventions (1587) a colleague's sermon was **censured point by point**:
-  division of the text, scope, digressions, pace, "good German".
+- In the Palatine class conventions (1587, Reformed) a colleague's sermon was **censured point
+  by point**: division of the text, scope, digressions, pace, "good German".
 
 **10. Hearers** (§12).
 - Attendance was a duty, enforced by counting and fines (one person per house at weekday
   sermons, Ysenburg 1588).
 - Taverns were shut and trade, games and labour service forbidden during the sermon.
-- Chattering, sleeping, coming late and leaving early were fined (Ysenburg-Ronneburg 1591).
+- Chattering, sleeping, coming late and leaving early were fined (Ysenburg-Ronneburg 1591,
+  Reformed).
 - The people were to be exhorted to stay to the end of the service.
 
 ---
@@ -203,6 +218,14 @@ heads.
   deacons and chaplains who preached the lesser sermons.
 - [`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md) covers the oaths by
   which preachers bound their doctrine to Scripture and the confessions.
+- [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md) covers the pastor's study
+  and books, the training of preachers, and the hearers' duties (§§3.2, 7, 8.1).
+- [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) covers the wedding and funeral
+  rites in which those sermons stood, and the council-election sermon (§§7, 9, 13.1).
+- [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md) covers the sermon glass
+  (§5.9).
+- [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md) covers prayers before and after
+  the sermon in the communion service (§6.4).
 
 **Cautions.** Five things limit what the corpus can show:
 - **Church orders are not sermons.** Sehling prints rules, visitation articles and reports, not
@@ -216,10 +239,13 @@ heads.
   borrowed postils, railing from the pulpit, empty weekday sermons, taverns open during the
   sermon) show the abuses the rules were made against. They do not show how common the abuses
   were.
-- **The Reformed orders.** Sehling prints Reformed orders for the Palatinate, Hesse, Nassau,
-  East Frisia and the Lower Rhine. They are cited here where they bear on the same questions
-  (the Palatine class conventions, the greeting, books in course). Their wider practice of
-  Sunday preaching in course is noted but not pursued.
+- **Orders of other traditions.** Sehling prints Reformed orders for the Palatinate,
+  Hesse-Kassel, Nassau, Ysenburg, Hanau, Anhalt, East Frisia and the Lower Rhine, the Moderate
+  Reformed orders of the Upper German cities and Philip's Hesse, and the Philippist orders of
+  Bremen and of Hesse under Philip's sons. They are cited here where they bear on the same
+  questions (the Palatine class conventions, the greeting, books in course, the length of the
+  sermon), and each is marked with its tradition. The wider Reformed practice of Sunday
+  preaching in course is noted but not pursued.
 - **Dates.** Several texts survive in later copies, or are pastors' reports undated except by
   the visitation. Their dates are given as Sehling gives them.
 
@@ -492,7 +518,7 @@ grasp, learn and retain [it].
 **Days of repentance.** From the 1540s, and above all in time of war, plague and the Turkish
 threat, the orders appoint **prayer days** (*Bettage*). These were weekly, monthly or
 occasional, with a sermon of repentance at their centre. **Hesse, *Kirchenordnung*, 1566**
-(Sehling 8, p. 260):
+(Moderate Reformed; Sehling 8, p. 260):
 
 <!-- doc 2257 -->
 > Derhalben werden bei uns uf gewisse bestimpte tage bettage angestelt und gehalten, in welchen
@@ -505,15 +531,19 @@ sermon the people are brought into knowledge of their sins, exhorted to repentan
 and faithfully held to earnest prayer and to the begging off of the punishment, and also to the
 amendment of their life.
 
-The Palatine orders of the 1590s required attendance at the monthly prayer day on pain of a fine
-(Sehling 19/2, pp. 777, 780).
+The Palatine orders of the 1590s (Reformed) required attendance at the monthly prayer day on
+pain of a fine (Sehling 19/2, pp. 777, 780).
+
+The calendar of prayer days is treated in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §13.5, and the Litany sung on
+them in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.4.
 
 ### 4.6 Funeral sermons
 
 **Not a eulogy.** The funeral sermon (*Leichpredigt*) spread from the 1550s. At Gardelegen in
 the Mark, the first funeral sermon was held in 1554 (Sehling's introduction, Sehling 3, p. 218).
 Most orders allow it when the family asks for it. Many keep it short and forbid praise of the
-dead. **Kurpfalz, *Kirchenordnung*, 1563** (Sehling 14, p. 406):
+dead. **Kurpfalz, *Kirchenordnung*, 1563** (Reformed; Sehling 14, p. 406):
 
 <!-- doc 504 -->
 > Darauf soll er eine kurtze predig oder vermanung thun und sich ubriges lobens der
@@ -561,12 +591,15 @@ that the people be not kept too long, and the youth in the school be not neglect
 Several orders refuse a funeral sermon for small children who had not yet come to the Lord's
 Supper (Sehling 22, p. 480; Sehling 19/1, p. 430).
 
+The burial rites in which the funeral sermon stood are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §9.
+
 ### 4.7 Wedding sermons
 
 **Short and chaste.** The wedding sermon (*Hochzeitpredigt*, *Brautpredigt*) was customary in
 many places and abolished in others. Anhalt allows it where custom has it or it is asked for,
-but it must be "short, chaste and Christian". **Anhalt, *Kirchenordnung*, 1599**
-(Sehling 2, p. 582):
+but it must be "short, chaste and Christian". **Anhalt, *Kirchenordnung*, 1599** (Reformed;
+Sehling 2, p. 582):
 
 <!-- doc 1263 -->
 > eine kurze, züchtige, christliche hochzeitpredigt (hindangesetzt alle ungeistliche,
@@ -594,6 +627,9 @@ together, without any sermon.
 
 At Grubenhagen, wedding guests were forbidden to lie "at the drinking, the early soup or the
 brandy" during the wedding sermon (Sehling 6/2, p. 1065).
+
+The marriage rites in which the wedding sermon stood are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §7.
 
 ---
 
@@ -753,9 +789,10 @@ office and cure of souls, and drive the same with all faithful diligence by the 
 repentance, of the law and the gospel, faith and love, patience, and also the good works
 commanded of God; without which no cure of souls nor right Christian congregation can stand.
 
-**The uses of the sermon.** The Hessian order of 1566 lists the uses of a sermon from 2 Timothy
-3:16. It sets the limit of an hour, and it points to the short but weighty sermons of the
-Fathers. **Hesse, *Kirchenordnung*, 1566** (Sehling 8, p. 242):
+**The uses of the sermon.** The Hessian order of 1566 (Moderate Reformed) lists the uses of a
+sermon from 2 Timothy 3:16. It sets the limit of an hour, and it points to the short but weighty
+sermons of the Fathers. **Hesse, *Kirchenordnung*, 1566**
+(Moderate Reformed; Sehling 8, p. 242):
 
 <!-- doc 2257 -->
 > Es sollen aber die predigten nit uber ein stund weren und dahin gerichtet sein, daß sie leren,
@@ -796,10 +833,10 @@ a preacher refrain from all words of railing and bitterness, and rebuke no one f
 by name; only assail and condemn the vices in general, and what he hath heard for certain.
 Whereof he hath no knowledge, thereof may he be silent.
 
-**Fitted to the hearers.** At the end of the century the Upper Palatine government told its
-preachers to suit the sermon to the hearers. They were to repeat the foundations "in the
+**Fitted to the hearers.** At the end of the century the Reformed Upper Palatine government told
+its preachers to suit the sermon to the hearers. They were to repeat the foundations "in the
 simplest way", and to show the hearers how to apply them in repentance and prayer. **Kurpfalz
-(Upper Palatinate), *Generalanweisung*, 1598** (Sehling 13, p. 349):
+(Upper Palatinate), *Generalanweisung*, 1598** (Reformed; Sehling 13, p. 349):
 
 <!-- doc 427 -->
 > daß sie sich in ihren predigen nach der gelegenheit der zuhörer richten, denselben dasjenige,
@@ -814,8 +851,8 @@ they [shall] otherwise in the sermons oft and much repeat in the simplest way an
 inculcate, and also show how they shall apply the same to themselves in the exercises of
 repentance and of prayer, and use it godly.
 
-The Palatine class conventions of 1587 asked whether a preacher used "good German" and not
-"Netherlandish phrases", and whether he spoke slowly enough (§11.3).
+The Palatine class conventions of 1587 (Reformed) asked whether a preacher used "good German"
+and not "Netherlandish phrases", and whether he spoke slowly enough (§11.3).
 
 ---
 
@@ -826,7 +863,7 @@ The Palatine class conventions of 1587 asked whether a preacher used "good Germa
 **The common rule.** Almost every order that sets a length gives the chief Sunday sermon **one
 hour at most**. Many give it three quarters. The reason given is always the hearer: the common
 man cannot attend longer, nor carry more away. **Augsburg, *Kirchenordnung*, 1537**
-(Sehling 12, p. 58):
+(Moderate Reformed; Sehling 12, p. 58):
 
 <!-- doc 338 -->
 > Es sollen auch dise alle gemaine sontägspredigen nit uber ain stund weren; dann das gemain
@@ -936,14 +973,14 @@ sermon; "afternoon" covers the midday, Vespers and catechism sermons.
 
 | Order | Sehling | Sun. | Afternoon | Weekday | Other |
 |---|---|---|---|---|---|
-| Augsburg, *Kirchenordnung*, 1537 | 12, p. 58 | ≤ 1 h | | | |
+| Augsburg, *Kirchenordnung*, 1537 (Moderate Reformed) | 12, p. 58 | ≤ 1 h | | | |
 | Württemberg, *Kirchenordnung*, 1536 | 16, p. 104 | ≤ 1 h | | | |
 | Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, p. 91 | ≤ 1 h | | | |
 | Zwickau, *Verordnung der Visitatoren*, 1556 | 1, p. 726 | | | early sermon ≤ ½ h | |
 | Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, p. 290 | | | | funeral ≤ ½ h |
 | Regensburg, *Ordnung für die Geistlichen zur Pestzeit*, 1562 | 13, p. 435 | about ½ h (plague time) | | about ½ h | |
 | Ritschenhausen, *Gottesdienst-Ordnung*, 1562 | 2, p. 345 | ≤ ¾ h | | | |
-| Hesse, *Kirchenordnung*, 1566 | 8, p. 242 | ≤ 1 h | | | |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, p. 242 | ≤ 1 h | | | |
 | Gottleuba, 1567–1577 | 1, p. 567 | about 1 h | | | |
 | Prussia, *Kirchenordnung und ceremonien*, 1568 | 4, p. 74 | | | catechism sermons ≤ ½ h | |
 | Regensburg, *Kirchenregimentsordnung*, 1572 | 13, p. 510 | ≤ 1 h | | shorter still | |
@@ -955,12 +992,12 @@ sermon; "afternoon" covers the midday, Vespers and catechism sermons.
 | Castell, *Dorfordnung für Obereisenheim*, 1579 | 11, p. 689 | ≤ 1 h, shorter in winter | | | |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, p. 393 | ≤ 1 h | ≤ 1 h with the singing | ≤ ½ h | |
 | Sponheim (Hintere Grafschaft), *Kirchen- und Zensurordnung*, 1590 | 18, p. 652 | ¾ h | ½ h | ½ h | |
-| Ysenburg-Ronneburg, *Kirchenzuchtordnung*, 1591 | 10, p. 595 | ≤ 1 h | ½ h | ½ h | |
+| Ysenburg-Ronneburg, *Kirchenzuchtordnung*, 1591 (Reformed) | 10, p. 595 | ≤ 1 h | ½ h | ½ h | |
 | Troppau (Freudenthal and Goldstein), *Kirchenordnungen*, 1592 | 3, p. 478 | ≤ 1 h summer, ≤ ¾ h winter | | ≤ ½ h | |
 | Hohenlohe, *Befehl wegen … der Predigtlänge*, 1594 | 15, pp. 639–640 | about ¾ h | | | |
-| Ysenburg-Birstein, *Kirchenordnung*, 1598 | 10, p. 655 | neither under nor over 1 h | ¾ h | ¾ h | |
+| Ysenburg-Birstein, *Kirchenordnung*, 1598 (Reformed) | 10, p. 655 | neither under nor over 1 h | ¾ h | ¾ h | |
 | Baden, *Kirchenordnungsmandat*, 1601 | 16, p. 552 | | catechism ½ h | | |
-| Kurpfalz, *Kirchenordnung*, 1601 | 14, p. 558 | ≤ 1 h | ≤ 1 h | ≤ 1 h | |
+| Kurpfalz, *Kirchenordnung*, 1601 (Reformed) | 14, p. 558 | ≤ 1 h | ≤ 1 h | ≤ 1 h | |
 | Corvey (Bruchhausen), *Kirchenordnung*, 1603 | 21, p. 244 | "as briefly as may be" | | | |
 
 ---
@@ -1076,7 +1113,7 @@ published for this, that they should make lazy pastors, but that the preachers a
 should learn out of them how they shall set forth the doctrine of God's word and use it among
 their hearers.
 
-The Palatine visitation articles of 1594 ask "out of what writings and commentaries" the
+The Palatine visitation articles of 1594 (Reformed) ask "out of what writings and commentaries" the
 ministers draw and gather their sermons (Sehling 19/2, p. 822).
 
 ### 8.3 Meditation and writing
@@ -1127,9 +1164,9 @@ in general by the holy Scripture and its examples, but attack no one specificall
 upon themselves to put [any] under the ban, and refrain from reviling and unseemly railing in
 the pulpit and elsewhere.
 
-An Augsburg preacher's contract of 1535 has him swear to rebuke "gently and modestly", "but
-neither with naming nor with pointing at particular persons". **Augsburg, *Bestallung eines
-Predigers*, 1535** (Sehling 12, p. 46):
+An Augsburg preacher's contract of 1535 (Moderate Reformed) has him swear to rebuke "gently and
+modestly", "but neither with naming nor with pointing at particular persons". **Augsburg,
+*Bestallung eines Predigers*, 1535** (Moderate Reformed; Sehling 12, p. 46):
 
 <!-- doc 336 -->
 > daneben das ubel der notturft nach anregen, wie ainem getreuen christenlichen predicanten
@@ -1228,13 +1265,14 @@ preachers, and such an undertaking is not only against God's command and Christi
 rather great hostility and mistrust between high and low persons, and also contempt of all
 religion, ariseth thereby
 
-The same year the Bremen council forbade railing in the pulpit and bound preaching to Scripture
-and the Augsburg Confession (Sehling 7/2.2, p. 540). Johann Casimir's government in the
-Palatinate issued a mandate "against condemnations" in 1584 (Sehling 14, p. 512). In 1609 Duke
-Johann Adolf of Gottorf forbade "unedifying school questions" in sermons, on pain of loss of
-office (Sehling's introduction, Sehling 23, pp. 323–324). The Upper Palatine *Generalanweisung*
-of 1598 (§6.3) begins its rule on plain preaching with the same complaint: preachers who angered
-themselves "in so holy a place" over matters of the schools.
+The same year the Bremen council (Philippist) forbade railing in the pulpit and bound
+preaching to Scripture and the Augsburg Confession (Sehling 7/2.2, p. 540). Johann Casimir's
+Reformed government in the Palatinate issued a mandate "against condemnations" in 1584
+(Sehling 14, p. 512). In 1609 Duke Johann Adolf of Gottorf forbade "unedifying school questions"
+in sermons, on pain of loss of office (Sehling's introduction, Sehling 23, pp. 323–324). The
+Upper Palatine *Generalanweisung* of 1598 (Reformed; §6.3) begins its rule on plain preaching
+with the same complaint: preachers who angered themselves "in so holy a place" over matters of
+the schools.
 
 **No politics.** Some orders also kept the preacher out of the business of the magistrate. The
 Colmar preachers' oaths of 1575, 1590 and 1615 forbade reviling anyone in the pulpit for their
@@ -1248,17 +1286,17 @@ administrations" and not disparage the council (Sehling's introduction, Sehling 
 ### 10.1 The medieval pulpit office
 
 **What the reformers inherited.** Sehling's editor sets out the background in a note to an early
-East Frisian order. Long before the Reformation the preacher said a group of vernacular pieces
-from the pulpit, mostly after the sermon:
+East Frisian order, Norden's of 1528 (Reformed). Long before the Reformation the preacher said a
+group of vernacular pieces from the pulpit, mostly after the sermon:
 - intercessions, or bidding to intercession;
 - the Lord's Prayer and the Creed;
 - in many places the open confession (*Offene Schuld*) with absolution;
 - from the thirteenth century also the Ten Commandments and the *Ave Maria*;
 - "interjections and announcements".
 
-The reformed orders kept this group around the sermon. They dropped the *Ave Maria* and turned
-the rest into the prayer before the sermon and the confession, general prayer and notices after
-it (editor's note, Sehling 7/1, p. 431).
+The orders of the Reformation kept this group around the sermon. They dropped the *Ave Maria*
+and turned the rest into the prayer before the sermon and the confession, general prayer and
+notices after it (editor's note, Sehling 7/1, p. 431).
 
 ### 10.2 The prayer before the sermon
 
@@ -1294,9 +1332,9 @@ of the German nation
 
 ### 10.3 The greeting
 
-**The apostolic greeting.** The Palatine order of 1601 prescribes a fixed opening for every
-sermon: the apostolic greeting, in one of two forms. **Kurpfalz, *Kirchenordnung*, 1601**
-(Sehling 14, p. 558):
+**The apostolic greeting.** The Palatine order of 1601 (Reformed) prescribes a fixed opening for
+every sermon: the apostolic greeting, in one of two forms. **Kurpfalz, *Kirchenordnung*, 1601**
+(Reformed; Sehling 14, p. 558):
 
 <!-- doc 515 -->
 > Gemeiner eingang aller predigten. Gnad, fried und barmhertzigkeit von Gott, dem vater, und
@@ -1397,8 +1435,9 @@ their names and surnames, but also their parents, country and the masters with w
 and make them known particularly in the announcement from the pulpit.
 
 The texts of the general prayers said from the pulpit are collected in
-[`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md). The hymns sung after the sermon ("Erhalt
-uns, Herr, bei deinem Wort" and others) are in
+[`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) and given family by family in
+[`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md). The hymns sung after the
+sermon ("Erhalt uns, Herr, bei deinem Wort" and others) are in
 [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) §11.
 
 ---
@@ -1421,7 +1460,7 @@ this guide; see [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_EL
 **Examination, then a trial sermon.** From mid-century a candidate for a parish was examined in
 doctrine and then had to preach a **trial sermon** (*Probpredigt*). It showed whether he could
 teach, exhort and comfort out of Scripture, and how he spoke. **Kurpfalz, *Kirchenratsordnung*,
-1564** (Sehling 14, p. 412):
+1564** (Reformed; Sehling 14, p. 412):
 
 <!-- doc 504 -->
 > Nach dem examen, wo der examinatus wol geantwort, soll im auch eine probpredig zu thun
@@ -1446,6 +1485,9 @@ Sehling 7/1, p. 287). The trial sermon appears in the same way in Saxony 1580
 (Sehling 13, p. 567) and the Calenberg-Göttingen visitation instruction of 1588
 (Sehling 6/2, p. 883).
 
+The examination and trial sermon before ordination are treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §7.3.
+
 ### 11.3 Practice sermons and censure
 
 **Practice for pastors already in office.** In Albertine Saxony the superintendents were to have
@@ -1468,11 +1510,11 @@ found, repeat such exercise.
 
 Ansbach made the same rule for its chapters in 1565 (Sehling 11, p. 350).
 
-**A sermon criticized by colleagues.** The Palatine classical conventions of 1587 made such
-criticism systematic. At each convention one minister preached. He then withdrew, and the others
-were asked in turn what faults they had found and how they might be amended. The order gives a
-checklist for the critics. **Kurpfalz, *Ordnung der Classicalconvente*, 1587**
-(Sehling 14, p. 530):
+**A sermon criticized by colleagues.** The Palatine classical conventions of 1587 (Reformed)
+made such criticism systematic. At each convention one minister preached. He then withdrew, and
+the others were asked in turn what faults they had found and how they might be amended. The
+order gives a checklist for the critics. **Kurpfalz, *Ordnung der Classicalconvente*, 1587**
+(Reformed; Sehling 14, p. 530):
 
 <!-- doc 510 -->
 > Hierauf soll der kirchendiner, so die predig gehalten, zu einem abtritt angemanet und die
@@ -1503,9 +1545,10 @@ perceive his earnestness [and] he may stir up himself and his hearers
 
 The list continues with whether he brought private matters into the pulpit. The "Netherlandish
 phrases" probably reflect the ministers from the Netherlands then serving in the Reformed
-Palatinate. Hanau-Münzenberg (1600) summoned the country preachers in turn, the youngest first,
-every fortnight or month, to preach the weekday sermon. Afterwards the consistory told each one
-what was lacking in his sermon "in formalibus et doctrinalibus" (Sehling 10, p. 536).
+Palatinate. Hanau-Münzenberg (1600, Reformed) summoned the country preachers in turn, the
+youngest first, every fortnight or month, to preach the weekday sermon. Afterwards the
+consistory told each one what was lacking in his sermon "in formalibus et doctrinalibus"
+(Sehling 10, p. 536).
 
 ---
 
@@ -1528,6 +1571,10 @@ people after the sermon and fined those absent. **Ysenburg-Birstein, *Kirchenzuc
 At all weekday sermons also at the least one person out of every house shall appear; whereto the
 mayor and the church wardens shall give good heed, have [the people] counted after the sermon is
 held, and bring those who stay away to the due penalty indicated above
+
+Church attendance as a duty of the laity is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §8.1, and the enforcement of
+rest on holy days in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §11.2.
 
 ### 12.2 Taverns, markets and games during the sermon
 
@@ -1564,14 +1611,15 @@ after noon.
 The same rules recur through the century: no shops open, no trading, no games, no dancing and no
 labour service (*Fron*) during the sermon. The Albertine articles of 1557 tell the pastor to
 rebuke such disorders from the pulpit, and the judges to fine the offenders (Sehling 1, p. 325).
-A Palatine mandate of 1592 complains that labour service was called out on holy days and prayer
-days and during the weekday sermon (Sehling 19/2, p. 785).
+A Palatine mandate of 1592 (Reformed) complains that labour service was called out on holy days
+and prayer days and during the weekday sermon (Sehling 19/2, p. 785).
 
 ### 12.3 Chattering, sleeping, leaving early
 
-**Fines in the church.** The Ysenburg-Ronneburg discipline order fines those who chatter or
-sleep during the sermon, leave before it ends, or come late. It sets the length of the sermon in
-the same breath. **Ysenburg-Ronneburg, *Kirchenzuchtordnung*, 1591** (Sehling 10, p. 595):
+**Fines in the church.** The Ysenburg-Ronneburg discipline order of 1591 (Reformed) fines those
+who chatter or sleep during the sermon, leave before it ends, or come late. It sets the length
+of the sermon in the same breath. **Ysenburg-Ronneburg, *Kirchenzuchtordnung*, 1591** (Reformed;
+Sehling 10, p. 595):
 
 <!-- doc 222 -->
 > So jemandt under der predig schwetzet oder schläffet oder in der predig (so des sontags den
@@ -1588,7 +1636,7 @@ shillings for the weekday sermon.
 
 **Stay to the end.** Leaving after the sermon, before the Supper and the prayers, was a common
 complaint. The orders tell the preachers to exhort the people often to stay until the whole
-service is done. **Augsburg, *Kirchenordnung*, 1537** (Sehling 12, p. 58):
+service is done. **Augsburg, *Kirchenordnung*, 1537** (Moderate Reformed; Sehling 12, p. 58):
 
 <!-- doc 338 -->
 > Von vermanung an das volk, das es bis zu end bei der gemaind beleibe. Und sollen die prediger
@@ -1625,7 +1673,7 @@ and general prayer to after the sermon "because then the number of the people is
 | Schlieben, 1529 | 1 | ? | Thursday, not midsummer or midwinter | ? | catechism through the year |
 | Reutlingen, c. 1531 | 17/2 | ? | villages: weekly in winter | ? | catechism four times a year |
 | Wittenberg, 1533 | 1 | ? | Monday, Tuesday, Thursday, Friday | ? | |
-| Augsburg, 1535–1537 | 12 | ? | ? | ≤ 1 h | no names in rebuke; stay to the end |
+| Augsburg, 1535–1537 (Moderate Reformed) | 12 | ? | ? | ≤ 1 h | no names in rebuke; stay to the end |
 | Württemberg, 1536 | 16 | ? | ? | ≤ 1 h | the common man as a sick man |
 | Schleswig-Holstein, 1542 | 23 | ? | ? | ≤ 1 h | prayer, text, exposition; no names |
 | Wurzen, 1542 | 2 | ? | ? | ? | repentance, law and gospel |
@@ -1635,10 +1683,10 @@ and general prayer to after the sermon "because then the number of the people is
 | Zwickau, 1556 | 1 | ? | early sermon Tuesday, Friday, Saturday | early sermon ≤ ½ h | for servants and craftsmen |
 | Albertine Saxony, *General-Artikel*, 1557 | 1 | morning gospel; afternoon catechism | once | ? | epistle moved to weekday in farming places |
 | Mecklenburg, *Conformitas*, c. 1560 | 5 | ? | ? | ? | funeral ≤ ½ h |
-| Lower Saxon Circle, 1562; Bremen, 1562 | 23; 7/2.2 | ? | ? | ? | against railing and condemning |
+| Lower Saxon Circle, 1562; Bremen, 1562 (Philippist) | 23; 7/2.2 | ? | ? | ? | against railing and condemning |
 | Ritschenhausen, 1562 | 2 | festivals and Sundays | Wednesday and Friday | ≤ ¾ h | prayer, text, summary, doctrines, application, repetition |
-| Kurpfalz, 1563–1564 | 14 | ? | ? | ? | funeral: no praise; trial sermon |
-| Hesse, 1566 | 8 | ? | ? | ≤ 1 h | teach, reprove, comfort; prayer days |
+| Kurpfalz, 1563–1564 (Reformed) | 14 | ? | ? | ? | funeral: no praise; trial sermon |
+| Hesse, 1566 (Moderate Reformed) | 8 | ? | ? | ≤ 1 h | teach, reprove, comfort; prayer days |
 | Gottleuba, 1567–1577 | 1 | gospel | Wednesday | about 1 h | summary, propositions, repetition |
 | Prussia, 1568 | 4 | ? | catechism sermons | catechism ≤ ½ h | banns from the pulpit |
 | Ansbach, 1570 | 11 | ? | ? | ? | disputations belong in the schools |
@@ -1657,16 +1705,16 @@ and general prayer to after the sermon "because then the number of the people is
 | Albertine Saxony, 1580 | 1 | ? | ? | ≤ 1 h; weekday ≤ ½ h | postils and "strange feathers"; private grudges |
 | Coburg synod, 1580 | 1 | ? | ? | ? | Passion in three sermons |
 | Henneberg, 1582 | 2 | ? | Wednesday | ? | six Passion sermons in Lent |
-| Kurpfalz, *Classicalconvente*, 1587 | 14 | ? | Thursday or Friday at the convention | ? | sermon censured by colleagues |
+| Kurpfalz, *Classicalconvente*, 1587 (Reformed) | 14 | ? | Thursday or Friday at the convention | ? | sermon censured by colleagues |
 | Ysenburg-Birstein, 1588 | 10 | ? | one person from each house | ? | counted after the sermon |
 | Sponheim, 1590 | 18 | early ¾ h | ½ h | ¾ h | |
-| Ysenburg-Ronneburg, 1591 | 10 | ? | ? | ≤ 1 h; afternoon and weekday ½ h | fines for chatter, sleep, leaving |
+| Ysenburg-Ronneburg, 1591 (Reformed) | 10 | ? | ? | ≤ 1 h; afternoon and weekday ½ h | fines for chatter, sleep, leaving |
 | Troppau, 1592 | 3 | ? | ? | 1 h summer, ¾ h winter | weekday ½ h |
 | Hohenlohe, 1594 | 15 | ? | ? | about ¾ h | complaint of 1½ h |
-| Ysenburg-Birstein, 1598 | 10 | early: gospel; afternoon: catechism | Wednesday early | 1 h | ¾ h otherwise |
-| Kurpfalz (Upper Palatinate), 1598 | 13 | ? | ? | ? | fitted to the hearers; no school quarrels |
-| Anhalt, 1599 | 2 | ? | ? | ? | wedding sermon short and chaste |
-| Kurpfalz, 1601 | 14 | at 8 | ? | ≤ 1 h | apostolic greeting; prayer-day sermons |
+| Ysenburg-Birstein, 1598 (Reformed) | 10 | early: gospel; afternoon: catechism | Wednesday early | 1 h | ¾ h otherwise |
+| Kurpfalz (Upper Palatinate), 1598 (Reformed) | 13 | ? | ? | ? | fitted to the hearers; no school quarrels |
+| Anhalt, 1599 (Reformed) | 2 | ? | ? | ? | wedding sermon short and chaste |
+| Kurpfalz, 1601 (Reformed) | 14 | at 8 | ? | ≤ 1 h | apostolic greeting; prayer-day sermons |
 | Corvey (Bruchhausen), 1603 | 21 | sermon in the Mass | ? | "as briefly as may be" | doctrine, terror, comfort; pulpit acts |
 | Sponheim, 1608 | 18 | ? | ? | ? | written sermon or outline |
 | Schaumburg, 1614 | 7/2.2 | ? | ? | ? | prayer of repentance from the pulpit |
@@ -1706,20 +1754,20 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Coburg, *Beschlüsse des coburgischen Synodus*, 1580 | 1, p. 255 | 26 | 4.4 |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, pp. 370, 377, 380, 393, 394, 422 | 44 | 7.2, 7.4, 7.5, 8.2, 9.2, 11.2 |
 | Henneberg, *Kirchen ordnung* of Georg Ernst, 1582 | 2, p. 313 | 1247 | 4.4 |
-| Anhalt, *Kirchenordnung*, 1599 | 2, p. 582 | 1263 | 4.7 |
+| Anhalt, *Kirchenordnung*, 1599 (Reformed) | 2, p. 582 | 1263 | 4.7 |
 
 **Franconia, Swabia, Alsace and the Palatinates**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Reutlingen, *Kirchenordnung*, c. 1531 | 17/2, p. 42 | 827 | 4.2, 4.3 |
-| Augsburg, *Bestallung eines Predigers*, 1535 | 12, p. 46 | 336 | 9.1 |
+| Augsburg, *Bestallung eines Predigers*, 1535 (Moderate Reformed) | 12, p. 46 | 336 | 9.1 |
 | Württemberg, *Kirchenordnung*, 1536 | 16, p. 104 | 651 | 7.1, 7.5 |
-| Augsburg, *Kirchenordnung*, 1537 | 12, p. 58 | 338 | 7.1, 7.5, 12.3 |
+| Augsburg, *Kirchenordnung*, 1537 (Moderate Reformed) | 12, p. 58 | 338 | 7.1, 7.5, 12.3 |
 | Nördlingen, *Ordnung der ceremonien in der pfarkirchen zu Sant Georgen*, 1544 | 12, p. 319 | 373 | 10.2 |
 | Regensburg, *Ordnung für die Geistlichen zur Pestzeit*, 1562 | 13, p. 435 | 446 | 7.5 |
-| Kurpfalz, *Kirchenordnung*, 1563 | 14, p. 406 | 504 | 4.6 |
-| Kurpfalz, *Kirchenratsordnung*, 1564 | 14, p. 412 | 504 | 11.2 |
+| Kurpfalz, *Kirchenordnung*, 1563 (Reformed) | 14, p. 406 | 504 | 4.6 |
+| Kurpfalz, *Kirchenratsordnung*, 1564 (Reformed) | 14, p. 412 | 504 | 11.2 |
 | Brandenburg-Ansbach-Kulmbach, *Kapitelsordnung*, 1565 | 11, p. 350 | 283 | 11.3 |
 | Brandenburg-Ansbach-Kulmbach, *Begleitschreiben zur Konkordie von 1570* | 11, p. 377 | 290 | 9.3 |
 | Regensburg, *Kirchenregimentsordnung*, 1572 | 13, p. 510 | 452 | 7.1, 7.5 |
@@ -1730,17 +1778,17 @@ Every order quoted or cited in this guide is listed below by region. The table g
 | Hohenlohe, *Kirchenordnung*, 1578 (and Sehling's notes) | 15, pp. 248, 263 | 574 | 5.1, 7.1, 7.5 |
 | Castell, *Dorfordnung für Obereisenheim*, 1579 | 11, p. 689 | 315 | 7.3, 7.5 |
 | Öhringen, *Befehl nach der Visitation*, 1581 | 15, p. 427 | 586 | 4.6 |
-| Kurpfalz, *Mandat gegen Kondemnationen*, 1584 | 14, p. 512 | 507 | 9.3 |
+| Kurpfalz, *Mandat gegen Kondemnationen*, 1584 (Reformed) | 14, p. 512 | 507 | 9.3 |
 | Hohenlohe, *Fragen über die Kirchenzeremonien*, 1587 (and Sehling's notes on Assum) | 15, p. 532 | 602 | 7.4, 8.3 |
-| Kurpfalz, *Ordnung der Classicalconvente*, 1587 | 14, p. 530 | 510 | 6.3, 11.3 |
+| Kurpfalz, *Ordnung der Classicalconvente*, 1587 (Reformed) | 14, p. 530 | 510 | 6.3, 11.3 |
 | Sponheim (Hintere Grafschaft), *Kirchen- und Zensurordnung*, 1590 | 18, p. 652 | 1020 | 7.5, 13 |
 | Sayn, *Kirchenordnung*, 1590 | 19/1, p. 430 | 1090 | 4.6 |
-| Kurpfalz, mandates on the prayer days and the *Polizeiordnung*, 1591–1592 | 19/2, pp. 777, 780, 785 | 1151, 1152, 1153 | 4.5, 12.2 |
-| Kurpfalz, *Generalvisitationsinstruktion*, 1594 | 19/2, p. 822 | 1162 | 8.2 |
+| Kurpfalz, mandates on the prayer days and the *Polizeiordnung*, 1591–1592 (Reformed) | 19/2, pp. 777, 780, 785 | 1151, 1152, 1153 | 4.5, 12.2 |
+| Kurpfalz, *Generalvisitationsinstruktion*, 1594 (Reformed) | 19/2, p. 822 | 1162 | 8.2 |
 | Hohenlohe, *Befehl wegen des Kirchengesangs und der Predigtlänge*, 1594 | 15, pp. 639–640 | 627 | 7.4, 7.5 |
-| Kurpfalz (Upper Palatinate), *Generalanweisung*, 1598 | 13, p. 349 | 427 | 6.3, 9.3 |
+| Kurpfalz (Upper Palatinate), *Generalanweisung*, 1598 (Reformed) | 13, p. 349 | 427 | 6.3, 9.3 |
 | Baden, *Kirchenordnungsmandat*, 1601 | 16, p. 552 | 713 | 7.5 |
-| Kurpfalz, *Kirchenordnung*, 1601 (with the variants of 1563) | 14, pp. 557–558 | 515 | 5.2, 7.5, 10.3 |
+| Kurpfalz, *Kirchenordnung*, 1601 (with the variants of 1563) (Reformed) | 14, pp. 557–558 | 515 | 5.2, 7.5, 10.3 |
 | Sponheim (Hintere Grafschaft), *Generalartikel*, 1608 | 18, p. 672 | 1021 | 8.3 |
 | Colmar, preachers' oaths, 1575–1615 (Sehling's introduction) | 20/2, p. 479 | 1407 | 9.3 |
 
@@ -1748,13 +1796,13 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Hesse, *Kirchenordnung*, 1566 | 8, pp. 242, 260 | 2257 | 4.5, 6.2, 7.5 |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 242, 260 | 2257 | 4.5, 6.2, 7.5 |
 | Nassau-Dillenburg, *Visitationsabschied*, 1570 | 10, p. 110 | 180 | 8.2 |
 | Nassau-Weilburg, *Kirchenordnung*, 1576 | 10, pp. 229, 232, 235 | 198 | 7.2, 7.5 |
 | Ysenburg-Birstein, *Kirchenzuchtordnung*, 1588 | 10, p. 638 | 229 | 12.1 |
-| Ysenburg-Ronneburg, *Kirchenzuchtordnung*, 1591 | 10, p. 595 | 222 | 7.5, 12.3 |
-| Ysenburg-Birstein, *Kirchenordnung*, 1598 | 10, p. 655 | 231 | 7.5 |
-| Hanau-Münzenberg, order of 1600 | 10, p. 536 | 211 | 11.3 |
+| Ysenburg-Ronneburg, *Kirchenzuchtordnung*, 1591 (Reformed) | 10, p. 595 | 222 | 7.5, 12.3 |
+| Ysenburg-Birstein, *Kirchenordnung*, 1598 (Reformed) | 10, p. 655 | 231 | 7.5 |
+| Hanau-Münzenberg, order of 1600 (Reformed) | 10, p. 536 | 211 | 11.3 |
 
 **Brandenburg, Silesia, Prussia, Mecklenburg and Kurland**
 
@@ -1773,10 +1821,10 @@ Every order quoted or cited in this guide is listed below by region. The table g
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| East Frisia, early order (editor's note on the medieval pulpit office) | 7/1, p. 431 | 2111 | 10.1 |
+| East Frisia, Norden, 1528 (Reformed) (editor's note on the medieval pulpit office) | 7/1, p. 431 | 2111 | 10.1 |
 | Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, p. 91 | 1576 | 6.3, 7.5, 9.1 |
 | Lower Saxon Circle, *Abschied des Lüneburger Kreistages*, 1562 | 23, p. 177 | 1582 | 9.3 |
-| Bremen, *Mandat zum Verbot des Scheltens auf der Kanzel*, 1562 | 7/2.2, p. 540 | 2223 | 9.3 |
+| Bremen, *Mandat zum Verbot des Scheltens auf der Kanzel*, 1562 (Philippist) | 7/2.2, p. 540 | 2223 | 9.3 |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, p. 1109 | 2151 | 4.6 |
 | Grubenhagen, *Kirchenordnung*, 1581 | 6/2, p. 1065 | 2058 | 4.7 |
 | Osnabrück, *Agende* (1588), 1618 | 7/1, p. 287 | 2101 | 11.2 |
