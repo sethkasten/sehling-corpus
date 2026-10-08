@@ -10,6 +10,36 @@ parts). For each order it gives:
   circle and the Upper German cities), Philippist, Anglican, Hussite, and a few others;
 - whether it is an Interim order, or otherwise tied to the Augsburg Interim of 1548.
 
+**Confessional traditions and Interim orders**
+
+Sehling's title calls these the *evangelical* church orders, and most of them are Lutheran:
+1,950 of the 2,581 texts. The rest belong to other traditions:
+
+- **Reformed** (340): the Swiss, Calvinist and Heidelberg churches, among them the German
+  territories that turned Reformed after 1560 and the French and Dutch stranger churches;
+- **Moderate Reformed** (198): the Bucerian and related orders that stood between the Lutheran
+  and the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
+  Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's Münster, East
+  Frisia under John a Lasco, and Colmar after 1578;
+- **Philippist** (33): the churches that held to Melanchthon's later teaching and his *Corpus
+  doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
+  1568-1598, Bremen 1556-1575, Nassau-Dillenburg 1575 and Anhalt 1590-1594;
+- a few others: Anglican (the English exile congregation at Frankfurt), the Bohemian Brethren
+  (Hussite), the Sandomierz consensus of Lutherans, Reformed and Brethren in Poland, the Roman
+  Catholic humanist orders of Jülich-Cleves-Berg, Thomas Müntzer's orders (Radical Reformation),
+  one Roman Catholic and one Anabaptist-toleration text from Münster, two Reformed-Lutheran
+  treaties in East Frisia, and the multi-confessional Transylvanian diet decrees.
+
+A territory's tradition can change from one order to the next: Kurpfalz is Lutheran in 1556 and
+Reformed in 1563, and Strasbourg Moderate Reformed before the Interim of 1548 and Lutheran after
+it. This guide gives the tradition of every order (§3 defines them). Where an order could be
+counted either Moderate Reformed or Philippist, it is counted Moderate Reformed. The guide also
+lists the few Interim orders and the texts tied to the Augsburg Interim (§4).
+
+The topical guides listed in `README.md` follow that identification. Lutheran orders are not
+marked. Every order of another tradition is marked where it is cited, as "Kurpfalz 1563
+(Reformed)" or "Hesse 1566 (Moderate Reformed)", and an Interim order is marked as such.
+
 **Layout**
 
 - §1 summarizes the findings.
@@ -20,9 +50,6 @@ parts). For each order it gives:
 - §§6-35 are the inventory itself, one section per volume. Each territory has a short note on
   its confessional history, followed by a table of its orders.
 
-**Related guides.** The topical guides listed in `README.md` mark every order by this
-inventory's traditions (§3) and Interim orders (§4).
-
 **Conventions**
 
 - **Titles** are Sehling's, as his tables of contents give them. For volumes 1-5 they come from
@@ -31,7 +58,9 @@ inventory's traditions (§3) and Interim orders (§4).
 - **No.** is the number Sehling (or the later editor) gives the text within its territory.
   Volumes 1-5 number their registers in their own way, and their numbers are given as they
   stand.
-- **Date** is the year in the title or in the register. "n.d." means none is given.
+- **Date** is the year in the title or in the register. A few undated texts are dated from the
+  text or from the editor's introduction or notes, as the notes column says. "n.d." means no
+  single year is known.
 - **Sehling** gives the volume and the page where the text begins (for volume 14, the
   introduction page where Sehling only describes the order).
 - **Doc** is the `eko.db` document that holds that page.
@@ -130,9 +159,9 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 
 | Tradition | Code | Texts |
 |---|---|---|
-| Lutheran | L | 1953 |
-| Reformed | R | 336 |
-| Moderate Reformed (Bucerian and Upper German) | MR | 199 |
+| Lutheran | L | 1950 |
+| Reformed | R | 340 |
+| Moderate Reformed (Bucerian and Upper German) | MR | 198 |
 | Philippist | PH | 33 |
 | Anglican | A | 1 |
 | Hussite (Unity of the Bohemian Brethren) | H | 3 |
@@ -144,17 +173,17 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 | Anabaptist (civic toleration of the Anabaptists) | ANA | 1 |
 | Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received side by side) | T | 25 |
 
-- **Lutheran** (1,953): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
+- **Lutheran** (1,950): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
   Hanse towns, Lower Saxony, Franconia, Württemberg, Hohenlohe and most of the imperial cities
   after 1552.
-- **Reformed** (336): above all the Electoral Palatinate (from 1561/63) and the "Second
+- **Reformed** (340): above all the Electoral Palatinate (from 1561/63) and the "Second
   Reformation" counties of the Wetterau and the Rhine (Nassau-Dillenburg, Hanau-Münzenberg,
   Ysenburg, Solms-Braunfels, Sayn, Wied, Wittgenstein, Moers, Bentheim-Tecklenburg),
   Pfalz-Zweibrücken (1588), Pfalz-Simmern (1598, under the Electoral Palatinate), Hessen-Kassel
   (1600/1605), Lippe (1600), Anhalt (1596), Bremen (from 1580), Emden and the East Frisian
   Reformed congregations, the London Dutch church, Mülhausen (Mulhouse), and the French refugee
   churches of Frankfurt, Wetzlar and the Lebertal.
-- **Moderate Reformed** (199): Bucer's Strasbourg and the Upper German cities before the Interim
+- **Moderate Reformed** (198): Bucer's Strasbourg and the Upper German cities before the Interim
   (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach, Gengenbach, Landau,
   Worms, early Frankfurt); Philip's Hesse to 1566; Hermann von Wied's Cologne Reformation
   (1543-1546); Rothmann's Münster (1532/33); East Frisia under Countess Anna; Colmar after 1578,
@@ -342,7 +371,7 @@ order.
 ### 3.1 Lutheran (L)
 
 Orders of territories and cities that held to the Augsburg Confession in its Lutheran reading,
-from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,953 texts.
+from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,950 texts.
 Volumes 3, 5, 6/1, 6/2, 7/2.1, 11, 15, 16 and 23 are wholly Lutheran, and volume 1 is too, save
 Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded Moderate
 Reformed and Philippist), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1
@@ -373,7 +402,7 @@ Swiss-allied city of Mülhausen.
 - Duchy of Pfalz-Zweibrücken (Sehling 18, §27): 13 texts, 1588-1617.
 - County of Sayn (Sehling 19/1, §28): 3 texts, 1606-1619.
 - County of Wied (Sehling 19/1, §28): 8 texts, 1564-1619.
-- Electoral Palatinate (supplement to vol. 14) (Sehling 19/2, §29): 61 texts, 1585-1610.
+- Electoral Palatinate (supplement to vol. 14) (Sehling 19/2, §29): 65 texts, 1577-1610.
 - Principality of Pfalz-Simmern (Sehling 19/2, §29): 2 texts, 1598.
 - Lordship of Rappoltstein (Sehling 20/2, §31): 10 texts, 1558-1569.
 - Imperial city of Mülhausen (Mulhouse) (Sehling 20/2, §31): 27 texts, 1523-1582.
@@ -388,7 +417,7 @@ Swiss-allied city of Mülhausen.
 Between the Lutheran and the Swiss Reformed stood two groups of orders. They are coded apart,
 and where an order could belong to either, it is counted as Moderate Reformed.
 
-**Moderate Reformed (MR)**, 199 texts: the Bucerian and Upper German orders, and others close to
+**Moderate Reformed (MR)**, 198 texts: the Bucerian and Upper German orders, and others close to
 them:
 - the Upper German Reformation of Bucer, Capito, Blarer and Zwick in the southern imperial
   cities before the Interim;
@@ -403,7 +432,7 @@ them:
 - East Frisia: comital orders (Sehling 7/1, §13): 1 text, 1545.
 - Landgraviate of Hesse under Philip (to 1567) (Sehling 8, §16): 21 texts, 1526-1566.
 - Imperial city of Frankfurt (Sehling 9, §17): 4 texts, 1530-1533.
-- Imperial city of Augsburg (Sehling 12, §20): 14 texts, 1523-1548.
+- Imperial city of Augsburg (Sehling 12, §20): 13 texts, 1523-1548.
 - Imperial city of Lindau (Sehling 12, §20): 3 texts, 1533-1539.
 - Imperial city of Memmingen (Sehling 12, §20): 4 texts, 1528-1542.
 - Imperial city of Konstanz (Sehling 17/1, §25): 19 texts, 1524-1548.
@@ -688,7 +717,7 @@ Interimszeit" (Sehling 11, p. 292).
 | County of Rieneck | 11 | 19.11 | 2 | 1544-1588 | Lutheran |
 | County of Wertheim | 11 | 19.12 | 2 | 1524-1555 | Lutheran |
 | Lordship of Thüngen | 11 | 19.13 | 2 | 1564-1587 | Lutheran |
-| Imperial city of Augsburg | 12 | 20.1 | 17 | 1523-1591 | Moderate Reformed; Lutheran from 1549 |
+| Imperial city of Augsburg | 12 | 20.1 | 17 | 1523-1591 | Moderate Reformed (Rhegius's baptism rite Lutheran); Lutheran from 1549 |
 | Imperial city of Dinkelsbühl | 12 | 20.2 | 9 | 1535-1574 | Lutheran |
 | Imperial city of Donauwörth | 12 | 20.3 | 1 | 1545-1545 | Lutheran |
 | Imperial city of Kempten | 12 | 20.4 | 1 | 1553-1553 | Lutheran |
@@ -702,7 +731,7 @@ Interimszeit" (Sehling 11, p. 292).
 | County of Ortenburg | 13 | 21.4 | 3 | 1563-1578 | Lutheran |
 | Lordship of Rothenberg | 13 | 21.5 | 3 | 1601-1618 | Lutheran |
 | Lordship of Wolfstein | 13 | 21.6 | 2 | 1574-1574 | Lutheran |
-| Electoral Palatinate (Kurpfalz) | 14 | 22.1 | 110 | 1546-1615 | Lutheran; Reformed 1561-1576; Lutheran 1577-1583; Reformed from 1583 |
+| Electoral Palatinate (Kurpfalz) | 14 | 22.1 | 110 | 1546-1615 | Lutheran; Reformed 1561-1576; Lutheran 1577-1583 (Reformed in Pfalz-Lautern); Reformed from 1583 |
 | County of Hohenlohe | 15 | 23.1 | 108 | 1544-1615 | Lutheran |
 | Duchy of Württemberg (with Mömpelgard and Horburg) | 16 | 24.1 | 73 | 1534-1614 | Lutheran |
 | Margraviate of Baden | 16 | 24.2 | 21 | 1528-1617 | Lutheran |
@@ -739,7 +768,7 @@ Interimszeit" (Sehling 11, p. 292).
 | Wild- and Rhinegraviate | 19/2 | 29.1 | 22 | 1563-1618 | Lutheran |
 | Principality of Pfalz-Simmern | 19/2 | 29.2 | 3 | 1560-1598 | Lutheran; Reformed from 1598 |
 | County of Pfalz-Veldenz (supplement to vol. 18) | 19/2 | 29.3 | 1 | 1571-1571 | Lutheran |
-| Electoral Palatinate (supplement to vol. 14) | 19/2 | 29.4 | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577; Reformed from 1583 |
+| Electoral Palatinate (supplement to vol. 14) | 19/2 | 29.4 | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577 (Reformed in Pfalz-Lautern); Reformed from 1583 |
 | Imperial city of Strasbourg | 20/1 | 30.1 | 79 | 1523-1617 | Moderate Reformed; Lutheran from 1549 |
 | County of Hanau-Lichtenberg | 20/2 | 31.1 | 7 | 1545-1614 | Lutheran |
 | Lordship of Fleckenstein | 20/2 | 31.2 | 1 | n.d. | Lutheran |
@@ -1257,7 +1286,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 84 | Vollmacht und Instruktion zur Visitation für Anhalt | 1560 | 2, p. 559 | 1262 | Visitation | L |  |
 | 93 | Kirchen-Ordnung auf dem Lande in Anhalt | 1562 | 2, p. 561 | 1262 | Church order | L |  |
 | 115 | Bericht des Anhalter Superintendenten Fabricius über seine Amtsführung | 1567 | 2, p. 564 | 1262 | Consistory / synod / government | L |  |
-| 7 | Verdracht unser g. f. und herrn und des ehrbarn rats zu Cervest der ehleute haben | n.d. | 2, p. 567 | 1262 | Marriage | L |  |
+| 7 | Verdracht unser g. f. und herrn und des ehrbarn rats zu Cervest der ehleute haben | n.d. | 2, p. 567 | 1262 | Marriage | L | between 1545 and 1570 (editor): addressed to Superintendent Fabricius |
 | 102 | Fürstlicher bevehl der kirchenlehn, stipendiaten und des examens halben in Anhalt | 1565 | 2, p. 567 | 1262 | School / university | L |  |
 | 116 | Kirchen-Ordnung des Fürsten Bernhard von Anhalt | 1568 | 2, p. 568 | 1262 | Church order | L |  |
 |  | Polizei- und Landes-Ordnung für Anhalt | 1572 | 2, p. 570 | 1262 | Discipline / police | L |  |
@@ -1274,7 +1303,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 66 | Verdracht-Artikel zwischen uns kirchendiener zu Zervest | 1551 | 2, p. 591 | 1263 | Consistory / synod / government | L |  |
 | 78 | Vergleich zwischen den Kirchendienern zu Zerbst | 1558 | 2, p. 592 | 1263 | Consistory / synod / government | L |  |
 | 57 | Vereinbarungen des Ministeriums zu Zerbst untereinander und mit dem Rathe zu Zerbst | 1545 | 2, p. 593 | 1263 | Consistory / synod / government | L |  |
-| 8 | Ordnung, wie es mit dem gottesdienst in der kirchen gehalten wird zu Gerenrode | n.d. | 2, p. 595 | 1264 | Agenda / liturgy | L |  |
+| 8 | Ordnung, wie es mit dem gottesdienst in der kirchen gehalten wird zu Gerenrode | 1541 | 2, p. 595 | 1264 | Agenda / liturgy | L | dated by the editor: the order Abbess Anna sent to Prince George on 23 July 1541 |
 
 ### 7.14 Naumburg cathedral (supplement)
 
@@ -2759,21 +2788,24 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 20.1 Imperial city of Augsburg
 
-- **Tradition**: Moderate Reformed; Lutheran from 1549.
+- **Tradition**: Moderate Reformed, save Rhegius's baptism rite (no. 3, Lutheran); Lutheran from
+  1549.
 - **Note**: Upper German (Zwinglian-Bucerian) until the Interim; Lutheran after 1552/1555.
-- **Texts by tradition**: Moderate Reformed 14, Lutheran 3.
+  Rhegius's baptism rite is coded by its author, from 1531 superintendent of the Lutheran church
+  at Celle.
+- **Texts by tradition**: Moderate Reformed 13, Lutheran 4.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
 | 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | MR |  |
-| 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | n.d. | 12, p. 35 | 333 | Agenda / liturgy | MR |  |
-| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | MR |  |
+| 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | 1529 | 12, p. 35 | 333 | Agenda / liturgy | MR | dated by the editor: oldest edition 1529 |
+| 3 | Taufritus des UrbanRhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | L | between 1524 and 1530, when Rhegius was the city's preacher; coded by its author |
 | 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | MR |  |
 | 5 | Reformationsmandat vom 29. Juli 1534 | 1534 | 12, p. 44 | 335 | Mandate / decree | MR |  |
 | 6 | Bestallung eines Predigers 1535 | 1535 | 12, p. 46 | 336 | Appointment / oath | MR |  |
 | 7 | Dekret über die Wochengottesdienste vom 9. Juni 1537 | 1537 | 12, p. 49 | 337 | Mandate / decree | MR |  |
 | 8a | Kirchenordnung von 1537 | 1537 | 12, p. 50 | 338 | Church order | MR |  |
-| 8b | Auszug aus der Kirchenordnung | n.d. | 12, p. 65 | 338 | Church order | MR |  |
+| 8b | Auszug aus der Kirchenordnung | 1537 | 12, p. 65 | 338 | Church order | MR | dated by the editor: the summary of the church order of 1537, laid before the council with it |
 | 9 | Die zehen gebot, Articul des Glaubens, Und das Vater unser... (1537) | 1537 | 12, p. 67 | 338 | Other | MR |  |
 | 10 | Forma, wie von dem hailigen Tauf, und dem hailigen Sacrament des leibs und bluts Christ,... vom Elichen Stand... zu reden sey... 1537 | 1537 | 12, p. 72 | 338 | Agenda / liturgy | MR |  |
 |  | II. Feiertagsordnung vom 22. Juli 1537 | 1537 | 12, p. 84 | 339 | Discipline / police | MR |  |
@@ -3005,7 +3037,8 @@ Interimszeit" (Sehling 11, p. 292).
 
 - **Tradition**: by reign (see note).
 - **Note**: Lutheran under Friedrich II and Ottheinrich; Reformed under Friedrich III (1563
-  order); Lutheran under Ludwig VI (1576-1583); Reformed again from 1583.
+  order); Lutheran under Ludwig VI (1576-1583), while his brother Johann Casimir kept the
+  Reformed order in Pfalz-Lautern (nos. 78-79); Reformed again from 1583.
 - **Texts by tradition**: Reformed 67, Lutheran 43.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
@@ -3038,7 +3071,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 76 | [ Christliche Eheordnung von 1583] | 1583 | 14, p. 70 | 468 | Marriage | L | described in the introduction only; Ludwig VI |
 | 77 | Mandat und constitution ... [von 1583] | 1583 | 14, p. 70 | 468 | Mandate / decree | L | described in the introduction only; Ludwig VI |
 | 78 | Kirchenordnung ... [von 1576/1577] | 1577 | 14, p. 72 | 468 | Church order | R | described in the introduction only; Johann Casimir in Pfalz-Lautern |
-| 79 | Des durchleuchtigen, hochgebornen fürsten und herrn, herrn Johann Casimirs, pfaltzgrafen bey Rhein, hertzogen in Bayern etc., christliche eheordnung … | 1578 | 14, p. 73 | 468 | Marriage | R | described in the introduction only; Johann Casimir as administrator |
+| 79 | Des durchleuchtigen, hochgebornen fürsten und herrn, herrn Johann Casimirs, pfaltzgrafen bey Rhein, hertzogen in Bayern etc., christliche eheordnung … | 1578 | 14, p. 73 | 468 | Marriage | R | described in the introduction only; Johann Casimir in Pfalz-Lautern |
 | 81 | Mandat und constitution ... [vom 17. Mai 1585] | 1585 | 14, p. 77 | 468 | Mandate / decree | R | described in the introduction only; Johann Casimir as administrator |
 | 82 | Kirchenordnung, wie es mit der christlichen lehre, heiligen sacramenten und ceremonien in der chur- und fürstlichen Pfaltz bey Rhein gehalten wirdt. … | 1585 | 14, p. 77 | 468 | Church order | R | described in the introduction only; Johann Casimir as administrator |
 | 88 | [Bestallung eines Glöckners, zwischen 1583 und 1592] | 1592 | 14, p. 81 | 468 | Appointment / oath | R | described in the introduction only; Johann Casimir as administrator |
@@ -3553,7 +3586,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 6 | Das „Handbüchlein“ - Die Ulmer Agende 1531 | 1531 | 17/2, p. 163 | 838 | Agenda / liturgy | MR |  |
 | 7 | Ehegerichtsordnung 1534 | 1534 | 17/2, p. 184 | 839 | Consistory / synod / government | MR |  |
 | 8 | Mandat zum Verbot des Messbesuchs außerhalb von Ulm 1537 | 1537 | 17/2, p. 191 | 840 | Mandate / decree | MR |  |
-| 9a | Visitationsartikel o.D | n.d. | 17/2, p. 192 | 840 | Visitation | MR |  |
+| 9a | Visitationsartikel o.D | n.d. | 17/2, p. 192 | 840 | Visitation | MR | early 1530s (editor), after the church order of 1531 |
 | 9b | Visitationsartikel 1534 | 1534 | 17/2, p. 195 | 840 | Visitation | MR |  |
 | 9c | Visitationsartikel 1537 | 1537 | 17/2, p. 197 | 840 | Visitation | MR |  |
 | 10 | Ordnung für die Superintendenten des Ulmer Landgebiets [1537?] | 1537 | 17/2, p. 199 | 841 | Consistory / synod / government | MR |  |
@@ -3992,8 +4025,9 @@ Interimszeit" (Sehling 11, p. 292).
 
 ### 29.4 Electoral Palatinate (supplement to vol. 14)
 
-- **Tradition**: Lutheran; Reformed from 1561; Lutheran from 1577; Reformed from 1583.
-- **Texts by tradition**: Reformed 61, Lutheran 11.
+- **Tradition**: Lutheran; Reformed from 1561; Lutheran from 1577, save in Johann Casimir's
+  Reformed Pfalz-Lautern (nos. 8, 9 and 11); Reformed from 1583.
+- **Texts by tradition**: Reformed 65, Lutheran 7.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -4004,9 +4038,9 @@ Interimszeit" (Sehling 11, p. 292).
 | 5 | Kirchenbußordnung [1579] | 1579 | 19/2, p. 734 | 1138 | Agenda / liturgy | L |  |
 | 6 | Kirchenbußordnung 1580 | 1580 | 19/2, p. 739 | 1139 | Agenda / liturgy | L |  |
 | 7 | Verordnung von Senioren [1581] | 1581 | 19/2, p. 748 | 1140 | Mandate / decree | L |  |
-| 8 | Eid der Kirchenschaffner Mai 1577 | 1577 | 19/2, p. 749 | 1141 | Appointment / oath | L |  |
-| 9 | Stiftung der Neustädter Hochschule 1578 | 1578 | 19/2, p. 750 | 1142 | School / university | L |  |
-| 11 | Mandat zu den Bettagen 1580 | 1580 | 19/2, p. 754 | 1143 | Mandate / decree | L |  |
+| 8 | Eid der Kirchenschaffner Mai 1577 | 1577 | 19/2, p. 749 | 1141 | Appointment / oath | R | Johann Casimir in Pfalz-Lautern; sworn also to Ludwig VI |
+| 9 | Stiftung der Neustädter Hochschule 1578 | 1578 | 19/2, p. 750 | 1142 | School / university | R | Johann Casimir in Pfalz-Lautern |
+| 11 | Mandat zu den Bettagen 1580 | 1580 | 19/2, p. 754 | 1143 | Mandate / decree | R | Johann Casimir in Pfalz-Lautern; no. 10 in the editor's introduction |
 | 11 | Huldigung der Kirchendiener 1585 | 1585 | 19/2, p. 756 | 1143 | Consistory / synod / government | R |  |
 | 12 | Mandat zur Einhaltung der Kirchenordnung 1587 | 1587 | 19/2, p. 757 | 1144 | Church order | R |  |
 | 13 | Mandat zur Einhaltung der Polizeiordnung 1588 | 1588 | 19/2, p. 759 | 1145 | Mandate / decree | R |  |
@@ -4034,7 +4068,7 @@ Interimszeit" (Sehling 11, p. 292).
 | 35 | Mandat zur Institution und Sonntagsheiligung 1595 | 1595 | 19/2, p. 855 | 1167 | Mandate / decree | R |  |
 | 36 | Mandat zur Institution [1595] | 1595 | 19/2, p. 865 | 1168 | Mandate / decree | R |  |
 | 37 | Mandat zur Institution und Polizeiordnung 1595 | 1595 | 19/2, p. 869 | 1169 | Mandate / decree | R |  |
-| 38 | Mandat zu Leben, Lehre und Wandel der Kirchendiener | n.d. | 19/2, p. 872 | 1170 | Mandate / decree | L |  |
+| 38 | Mandat zu Leben, Lehre und Wandel der Kirchendiener | 1596 | 19/2, p. 872 | 1170 | Mandate / decree | R | dated 15 April 1596 in the text |
 | 39 | Predigtmandat 1596 | 1596 | 19/2, p. 873 | 1171 | Mandate / decree | R |  |
 | 40 | Mandat zur Amtsführung der Kirchendiener 1597 | 1597 | 19/2, p. 875 | 1172 | Mandate / decree | R |  |
 | 41 | Visitationsinstruktion für die Nebenvisitatoren 1597 | 1597 | 19/2, p. 876 | 1173 | Visitation | R |  |
