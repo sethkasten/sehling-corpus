@@ -6,8 +6,9 @@
 Orders from 1521–1620* is in one file,
 [`LITURGICAL_AND_ECCLESIASTICAL_LIFE.md`](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md). It has a table
 of contents, an Introduction (which also describes this repository and how the book was made),
-Conventions, seventeen chapters, a Scripture index and an Index of persons. Every reference to a
-section, and every entry in the contents and the indexes, is a link.
+Conventions, seventeen chapters, a Scripture index, an Index of persons and a Glossary of the
+rarer terms. Every reference to a section, and every entry in the contents and the indexes, is a
+link.
 
 | Chapter | |
 |---|---|
