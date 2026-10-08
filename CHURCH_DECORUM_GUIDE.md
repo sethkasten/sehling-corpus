@@ -892,6 +892,9 @@ of the image of the risen Christ at Easter, its drawing up on Ascension Day, the
 the dove at Pentecost and the rocking of the Christ-child at Christmas
 (Sehling 15, p. 77; see [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.10).
 
+The rites of the feasts in which the image plays stood are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §21.
+
 ---
 
 ## 5. The building and its furnishings
@@ -2449,6 +2452,9 @@ bound to "black or blue coats" any more than to surplices (§7.1).
 **Related.** Freiberg 1537 abolishes "wearing tonsures [and] cowls" among the merely human
 ordinances, and Brunswick 1528 wants no tonsure and no special coat for deacons (see
 [`MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md`](MINOR_ORDERS_DEACONS_ELDERS_GUIDE.md), §3.3).
+
+The conduct required of ministers and their households is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §3.3.
 
 ---
 

@@ -1062,6 +1062,9 @@ year" to confession and the sacrament, "and such a one shall not be suffered in 
 all" (Sehling 3, p. 149). Before communion every communicant went to confession or to the
 examination (*Verhör*) ([`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md)).
 
+Private confession and absolution are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §17.
+
 ### 8.4 Church workers: a higher standard
 
 **Lay officers held to the minister's standard.** Sextons, organists, schoolmasters and church

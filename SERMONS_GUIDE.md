@@ -534,6 +534,10 @@ amendment of their life.
 The Palatine orders of the 1590s (Reformed) required attendance at the monthly prayer day on
 pain of a fine (Sehling 19/2, pp. 777, 780).
 
+The calendar of prayer days is treated in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §13.5, and the Litany sung on
+them in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.4.
+
 ### 4.6 Funeral sermons
 
 **Not a eulogy.** The funeral sermon (*Leichpredigt*) spread from the 1550s. At Gardelegen in
@@ -587,6 +591,9 @@ that the people be not kept too long, and the youth in the school be not neglect
 Several orders refuse a funeral sermon for small children who had not yet come to the Lord's
 Supper (Sehling 22, p. 480; Sehling 19/1, p. 430).
 
+The burial rites in which the funeral sermon stood are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §9.
+
 ### 4.7 Wedding sermons
 
 **Short and chaste.** The wedding sermon (*Hochzeitpredigt*, *Brautpredigt*) was customary in
@@ -620,6 +627,9 @@ together, without any sermon.
 
 At Grubenhagen, wedding guests were forbidden to lie "at the drinking, the early soup or the
 brandy" during the wedding sermon (Sehling 6/2, p. 1065).
+
+The marriage rites in which the wedding sermon stood are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §7.
 
 ---
 
@@ -1425,8 +1435,9 @@ their names and surnames, but also their parents, country and the masters with w
 and make them known particularly in the announcement from the pulpit.
 
 The texts of the general prayers said from the pulpit are collected in
-[`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md). The hymns sung after the sermon ("Erhalt
-uns, Herr, bei deinem Wort" and others) are in
+[`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) and given family by family in
+[`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md). The hymns sung after the
+sermon ("Erhalt uns, Herr, bei deinem Wort" and others) are in
 [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) §11.
 
 ---
@@ -1473,6 +1484,9 @@ Sehling 7/1, p. 287). The trial sermon appears in the same way in Saxony 1580
 (Sehling 1, p. 380), Pfalz-Neuburg 1576 (Sehling 13, p. 172), Wolfstein 1574
 (Sehling 13, p. 567) and the Calenberg-Göttingen visitation instruction of 1588
 (Sehling 6/2, p. 883).
+
+The examination and trial sermon before ordination are treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §7.3.
 
 ### 11.3 Practice sermons and censure
 
@@ -1557,6 +1571,10 @@ people after the sermon and fined those absent. **Ysenburg-Birstein, *Kirchenzuc
 At all weekday sermons also at the least one person out of every house shall appear; whereto the
 mayor and the church wardens shall give good heed, have [the people] counted after the sermon is
 held, and bring those who stay away to the due penalty indicated above
+
+Church attendance as a duty of the laity is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §8.1, and the enforcement of
+rest on holy days in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §11.2.
 
 ### 12.2 Taverns, markets and games during the sermon
 

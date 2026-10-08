@@ -1108,6 +1108,9 @@ father, the mother, the child and the godparents" in a book kept at every church
 (Sehling 14, p. 338). Pfalz-Veldenz did the same in its Lützelstein order of 1605
 (Sehling 18, p. 596).
 
+The vows asked of godparents are treated in
+[`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md), §17.4.
+
 ### 3.9 The baptism of adults and of Jews
 
 The rite assumed infants. The orders made room for adults in three ways:
@@ -2669,6 +2672,9 @@ What remained was:
 The orders took great care over who might receive this "Christian burial". To refuse it was a
 sanction of church discipline.
 
+Funeral sermons are treated in [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §4.6, and bells for the
+dead in [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §5.6.
+
 ### 9.1 What was abolished
 
 **Vigils and soul-Masses.** The Saxon visitors of 1528 ordered that "soul-Masses and other
@@ -2882,6 +2888,11 @@ the evangelical diaconate was also conferred by ordination is treated in
   went to his parish.
 - **In the parish.** In Hesse, Lippe and many later orders it was done in the candidate's own
   parish by the superintendent, joined with his installation (§11).
+
+The vows taken at ordination are treated in
+[`CONFESSIONAL_SUBSCRIPTION_GUIDE.md`](CONFESSIONAL_SUBSCRIPTION_GUIDE.md), §4, and the
+examination and trial sermon before it in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §7.3.
 
 ### 10.1 Why the evangelicals ordained
 
@@ -3804,6 +3815,9 @@ come to harm and decay
 **Cantors.** The cantor was one of the masters of the Latin school (at Hof in 1546 the cantor
 Georg Hertweg was the schoolmaster's colleague; §14.3) and was bound with the school staff. No
 separate cantor's oath is printed.
+
+The schoolmaster's church duties are treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §9.
 
 ### 12.4 Churchwardens and stewards
 
@@ -4805,6 +4819,9 @@ a call to prayer, but not all bells together nor for as long as the storm lasted
 - Ysenburg-Birstein 1583 (Sehling 10, p. 616);
 - Limpurg 1610, which regulated it (Sehling 16, p. 623).
 
+Weather-ringing among the other uses of the bells is treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §5.8.
+
 ### 15.6 Wreaths and other signs
 
 **Wreaths.** The bridal wreath was not blessed but survived as a sign of honour. It was withheld
@@ -5512,6 +5529,10 @@ church, "that it may not be suspected for a papistical ear-confession and snare 
 the old penance. Baden in 1533 relieved the people of stole fees "for confession, for the
 sacrament of the altar, for the holy anointing", and Hohenlohe in 1588 forbade pastors to take
 confession pennies (Sehling 16, p. 502; 15, p. 549).
+
+The examination before first communion is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §11.2, and general
+confession at the Mass in [`MASS_PRELIMINARIES_GUIDE.md`](MASS_PRELIMINARIES_GUIDE.md), §4.6.
 
 ---
 

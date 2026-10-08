@@ -491,6 +491,9 @@ several of them at once.
 
 For the laity see §17.
 
+The ordination and installation rites in which the vows were taken are given in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §§10–11.
+
 ---
 
 ## 5. Albertine (Electoral) Saxony
@@ -3067,6 +3070,11 @@ confirming of the faith which the godparents confessed in the stead of the newly
 and whereupon also the child was baptized: namely when they are reminded of the same in this
 examination, and are diligently exhorted to follow it all their life long.
 
+The confirmation rites themselves are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §6, and the instruction before
+first communion and confirmation in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §§11.2–11.3.
+
 ### 17.2 Admission to communion
 
 The Lutheran orders required every communicant to be "explored", that is, examined and absolved,
@@ -3137,6 +3145,11 @@ strangers as well. **Nassau-Dillenburg, *Kirchenordnung*, 1582** (Reformed; Sehl
 
 This is the nearest thing in the corpus to a lay confessional test, and it is Reformed.
 
+The examination of communicants in place of private confession is treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §17.4, and confession and
+communion as a duty of the laity in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §8.3.
+
 ### 17.3 Marriage and citizenship
 
 A test of catechism knowledge could be a condition of civil standing. In the Reformed Kurpfalz
@@ -3175,6 +3188,9 @@ The officials also shall henceforth receive or suffer no one as burgher [text de
 *Hintersasse*, unless it be first made certain that he is not an adherent of this seducing sect,
 nor hath kept himself before in suspected places, and that he can show, beside his certificate
 of free birth, a true and sealed certificate of his former conduct and life.
+
+The catechism examination before marriage is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §11.4.
 
 ### 17.4 Godparents
 
@@ -3245,6 +3261,9 @@ both religions, as well the Roman church as the unfalsified Augsburg Confession 
 year thirty to the imperial majesty, it hath been free and permitted without distinction for the
 one to hold, to stand at and to attend the sacrament of holy baptism with the other,
 
+Godparents at baptism are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §3.8.
+
 ### 17.5 Magistrates and officials
 
 Lay office-holders were bound more strictly than the common people:
@@ -3309,6 +3328,10 @@ heard read, and so confirm them:
 
 and ye shall cause them to vow upon this our published ordinance (which they shall before have
 either read or heard read), and so confirm them and receive them under duty.
+
+The oaths of homage and the prayer for the magistrate are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §13, and the magistrate's church
+duties in [`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §10.
 
 ---
 

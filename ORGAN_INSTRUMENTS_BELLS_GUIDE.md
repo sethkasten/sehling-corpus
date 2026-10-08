@@ -1554,6 +1554,9 @@ Hohenlohe editor records a later folk custom of ringing on Good Friday while "O 
 sung (Sehling 15, p. 452, editor's note), but that is nineteenth-century evidence and is not in
 the order.
 
+The Litany itself is treated in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md),
+§22.
+
 ### 5.6 Bells for the dead
 
 **Ringing at a death, as a reminder to the living.** The Saxon visitors kept the bell rung for

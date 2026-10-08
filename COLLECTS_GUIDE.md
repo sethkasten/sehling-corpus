@@ -1231,6 +1231,10 @@ with a Christian hymn.
 The thanksgiving for the gift of the sacrament became, in the service without communion, a
 thanksgiving for the gift of the Word.
 
+The service when nobody communicated is treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+§14, and the Litany sung in place of the Mass in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.1.
+
 ### 6.6 The prayer over the people (*oratio super populum*)
 
 **The medieval use.** On the weekdays of Lent the Missal added a fourth proper prayer after the

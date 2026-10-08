@@ -1731,6 +1731,9 @@ in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
 - German psalms sung to the old tones;
 - by the later century, polyphony and organ alternation on Sundays and feasts.
 
+The organ in the service as a whole is treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §3.
+
 ---
 
 ## 10. The catechism service
@@ -2432,6 +2435,9 @@ The same arrangement appears elsewhere:
 - **Isny c. 1600**: the minister bids, "Laßt uns auff knien und der Christlichen kirchen
   christliche Lytanei also mit ainandern sprechen und beten" (Sehling 17/1, p. 468).
 
+The forms of the Litany and who sang it are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.3.
+
 ### 11.4 Kneeling at the evening bell
 
 Kneeling was not confined to the church. During the plague of 1585 the Breslau council asked the
@@ -2449,6 +2455,9 @@ a morning at the church prayer and lesson, that they would likewise in the eveni
 bell is rung *pro pace*, at which time the labourers are wont to go from their work, in turn
 pray an evening prayer and a little hymn in the house; and those that are going in the street,
 that they would pray kneeling.
+
+The evening bell itself, and the prayer for peace that replaced the Ave Maria, are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §5.3.
 
 ### 11.5 Two choirs facing
 

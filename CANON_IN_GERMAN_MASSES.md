@@ -3772,6 +3772,10 @@ genädig sein", or "Sei Lob und Dank mit hohem Preis".*
 - **The chant.** The Latin responsory after the elevation takes the place of the
   *Benedictus* sung at the elevation.
 
+The elevation in the order of the Mass is treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+§11, and as a mark of the feast in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.6.
+
 ### 12.4 Our Father and the Peace
 
 > *Darauf sol, wie hernach folget, das pater noster deudsch gesungen werden.*
@@ -4845,6 +4849,9 @@ What his later orders do keep is a **preparatory prayer of the priest at the alt
 (*Stufengebet*). It is the evangelical counterpart of the Roman *Iudica me*, *Confiteor*
 and *Aufer a nobis*, and it is what is usually meant by "Bugenhagen's preparatory prayer".
 It appears in three forms.
+
+Bugenhagen's northern Mass as a family of ordo is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §4.2.
 
 ### 15.1 Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543
 

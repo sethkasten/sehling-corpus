@@ -1318,6 +1318,9 @@ Person of the Trinity. The Kyrie melodies of the chant books (*summum*, *paschal
 grades in the Lutheran cantionals of Spangenberg and Lossius. The grades themselves are
 treated in `LITURGICAL_CALENDAR_GUIDE.md` §4.2. This section deals with the texts sung to them.
 
+The Kyrie in the order of the Mass, and the seasonal Kyrie chants named in the orders, are
+treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §6.
+
 ### 6.1 Three times, not nine
 
 Luther's *Deutsche Messe* already prescribed the Kyrie "drei mal und nicht neun mal"
@@ -1600,6 +1603,9 @@ Two German Gloria hymns run through the orders:
 
 The priest's Latin or German intonation ("Gloria in excelsis Deo", "Ehre sei Gott in der Höhe")
 usually stayed. The hymn was sung for, or together with, the choir's *Et in terra*.
+
+The Gloria in the order of the Mass is treated in [`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md),
+§7.
 
 ### 7.1 The German hymn inside the Latin Gloria
 
@@ -2575,6 +2581,9 @@ The later Regensburg order even calls "Erhalt uns" the "sequence of the season".
 thereupon the choir singeth the sequence of the season: "Keep us, Lord, by thy word," or else
 something German.
 
+The Litany as a rite, with its forms, singers and days, is treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.
+
 ### 8.10 How fixed the slot was
 
 This slot was **variable**. At the three high feasts it was fixed by the farced sequence and
@@ -2604,6 +2613,9 @@ few:
 - in Advent at Schweinfurt, "Wir glauben" in the place of "Nun bitten" (§9.4).
 
 What varies is where the creed stands and what it is used for.
+
+The creed in the order of the Mass, Nicene or Apostles', is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §9.
 
 ### 9.1 After the gospel, with or instead of the Latin *Patrem*
 
@@ -3885,6 +3897,9 @@ After the elevation one shall sing in cathedrals and collegiate churches a Latin
 responsory *Tua est potentia*, etc.; but in the parishes a German song, "May God be gracious
 unto us," or "Praise and thanks with high price."
 
+The bells rung at the elevation are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §5.4.
+
 ### 12.4 In the place of Sanctus and Agnus
 
 Hof allowed "Jesaia" in the place of the Latin Sanctus and Agnus, or after them when there were
@@ -4497,6 +4512,9 @@ Schönburg let the organ play during the communion only on high feasts. **Schön
 During the communion one may sing by turns the German Sanctus, etc., as "Jesus Christ," at times
 the Latin Sanctus or Agnus Dei of the New Testament. The organist shall not play during the
 communion, unless on high feasts.
+
+The organ's alternation with choir and people is treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §3.3.
 
 ### 14.8 How fixed the slot was
 
@@ -5137,6 +5155,9 @@ sermon, namely in the fair paraphrase thereof. […] Also the song "Now rejoice,
 all" doeth sufficient rehearsal of all the articles of faith, and is a good paraphrase upon the
 creed.
 
+The catechism service itself, its hour, length and order, is treated in
+[`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §10.
+
 ### 16.7 Weekday services: reusing the Sunday hymn
 
 At Hof, the Wednesday service repeated the hymn of the Sunday before. On Friday the German hymn
@@ -5330,6 +5351,9 @@ the long melismatic ones, for they had "few words and [little] devotion". **Neue
 *Benedicamus Domino. Deo dicamus gratias. Benedicamus Domino*, alleluia, alleluia, alleluia.
 *Deo dicamus gratias*, alleluia, alleluia, alleluia. The *Benedicamus* with the many notes shall
 be let alone, for they make much crying, and have few words and [little] devotion.
+
+The *Benedicamus* as the dismissal of the Mass is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §13.1.
 
 ### 16.9 The *Benedicamus* replaced: motets and German hymns
 
@@ -5602,6 +5626,10 @@ family's wishes and purse.
 | Burial | "Mitten wir im Leben sind" (with or after *Media vita*); "Mit Fried und Freud"; "Aus tiefer Not"; "Nun lasst uns den Leib begraben"; "Wir glauben all"; *Si bona suscepimus*; *Jam moesta quiesce* |
 | Ordination and installation | "Nun bitten" or "Komm heiliger Geist"; "Wir glauben"; Te Deum or "Dank sagen wir alle"; *Veni creator*; *Veni sancte Spiritus* |
 | Thanksgiving days | Te Deum; Ps 124 "Wo Gott der Herr nicht bei uns hält"; Ps 127 |
+
+The rites themselves are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md): baptism in §3, marriage in §7,
+the sick in §8, burial in §9, and ordination and installation in §§10–11.
 
 ### 17.1 Baptism
 
@@ -6791,6 +6819,9 @@ tenor or another voice, so the people could recognize it. **Württemberg, *Hofki
 
 At the close a German psalm shall always be sung, and in the compositions care shall be taken
 that the customary, familiar melody be set in the tenor or another voice.
+
+The organ's silence in certain seasons and the limits on what the organist might play are
+treated in [`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §§3.6–3.7.
 
 ### 18.10 Freedom
 

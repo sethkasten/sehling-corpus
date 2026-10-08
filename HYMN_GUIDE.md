@@ -4,7 +4,10 @@
 in the corpus: the places where a church order assigns a specific hymn to
 a specific Sunday, feast or occasion. See `CORPUS_GUIDE.md` for the
 corpus itself and `DB_GUIDE.md` for `eko.db`; this covers the hymn tables
-specifically.
+specifically. Where and how hymns were sung in the services is treated in
+[`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md), whose Appendix A
+condenses the Compare by day sheet of `hymns.xlsx` into a table of the chief
+hymn of each Sunday and feast.
 
 ## Building or rebuilding it
 

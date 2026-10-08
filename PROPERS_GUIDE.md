@@ -628,6 +628,9 @@ Hof's festal table assigns polyphonic introits by name. For Christmas it has "*P
 nobis*, a 4, by Senfl", and for the Ascension "*Viri Galilaei*, a 4" (Sehling 11, pp. 457, 462).
 See §10.
 
+The organ's prelude and its alternation with the choir are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §§3.2–3.3.
+
 ---
 
 ## 5. The lessons: prophecy, epistle and gospel
@@ -672,6 +675,9 @@ orders read the epistle **from the pulpit**:
 - Schweinfurt 1543: "the chaplain shall not read the epistle over the altar, but from the
   pulpit" (Sehling 11, p. 641);
 - Pomerania 1535: "as one is wont to do on the pulpit" (Sehling 4, p. 341).
+
+Preaching on the Sunday gospels and epistles is treated in
+[`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §5.1.
 
 ### 5.3 Sung or read, Latin or German
 
@@ -843,6 +849,9 @@ notes. For the Purification it puts the *Nunc dimittis* hymn "Mit fried und freu
 The sequence, the hymn after the alleluia, was cut back to a few "pure" texts for the chief
 feasts and farced with German stanzas. This is treated in `HYMN_PRACTICE_GUIDE.md`, §8.2–8.3.
 
+The sequences as marks of the great feasts are treated in
+[`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.4.
+
 ---
 
 ## 7. The offertory
@@ -918,6 +927,10 @@ three questions:
 - whether the Preface was kept at all;
 - on which days a proper Preface was used, and which;
 - who sang it, in which language and to which tune.
+
+The Preface in the order of the Mass, required, optional or festal, is treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §10.1, and the proper prefaces as marks of a feast's
+rank in [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md), §10.3.
 
 ### 8.1 Kept, shortened or dropped
 

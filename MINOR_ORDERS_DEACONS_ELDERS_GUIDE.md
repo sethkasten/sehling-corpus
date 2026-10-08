@@ -759,6 +759,9 @@ cloth on the side of the priest which reacheth the body. And he which is fourth 
 cloth beside the deacon which reacheth the blood, in a surplice. But where no minister is at
 hand, then the preacher or the pastor doeth it.
 
+The places of the ministers at the altar are treated in
+[`MASS_ORDO_GUIDE.md`](MASS_ORDO_GUIDE.md), §15.8.
+
 ### 4.3 Levites: kept, then abolished
 
 In the south German imperial cities, the two assistants at the altar were called **levites**, a
@@ -1034,6 +1037,9 @@ This Lutheran diaconate is therefore a **rank in one ministry**, distinguished b
 seniority and duties. It is not a sacramental grade. The *Diaconus* could do everything the
 pastor did. He was subject to the pastor, as the pastor was to the superintendent, by "human"
 order (§5.4).
+
+The deacon's duties alongside the pastor are treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §3.5.
 
 ### 5.2 Lay deacons of the poor in the Lutheran orders
 
@@ -1957,6 +1963,9 @@ Sacraments, and diligently provide and perform all cure of souls and shepherd's 
 is speaking of the pastors, of the senior pastors, or of the churchwardens. The **ruling elder**
 with a share in the power of the keys belongs to the Bucerian and Hessian (Moderate Reformed)
 and the Reformed orders.
+
+The oaths of churchwardens and stewards are treated in
+[`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §12.4.
 
 ---
 

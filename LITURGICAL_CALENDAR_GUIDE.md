@@ -3639,6 +3639,9 @@ of the Ascension of the Lord, with its vigil
   (Sehling 2, p. 137).
 - **Aschersleben 1575**: the vespers of apostles' days are sung "ohne den organisten" (§10.2).
 
+The seasons and rites in which the organ was silent are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §3.6.
+
 ### 10.6 Vestments and elevation
 
 In Prince Bernhard's Anhalt order the elevation of the Sacrament is kept only on the high
@@ -3685,6 +3688,9 @@ The fullest bell-code is the Danzig one of 1612 (§5.6). It names five bells:
 
 The great feasts are rung in with the great bell and the three larger bells chimed together
 (*beiern*). The small feasts are chimed "with the Osanna".
+
+The bells in general, their signs and their uses, are treated in
+[`ORGAN_INSTRUMENTS_BELLS_GUIDE.md`](ORGAN_INSTRUMENTS_BELLS_GUIDE.md), §5.
 
 ### 10.8 The Athanasian Creed and the *Te Deum*
 
@@ -4174,6 +4180,10 @@ and servants thereto, that they may give account of their faith out of their cat
 There was no daily Lenten Mass. The orders hold the Supper when there are communicants (§10.9).
 In Lent the extra services are sermons, catechism and examination.
 
+The Lenten catechism course is treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §11.1, and the catechism
+service in [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §10.
+
 ### 12.4 Holy Week
 
 **Maundy Thursday and Good Friday.** The two days kept their themes: the institution of the
@@ -4546,6 +4556,9 @@ from the pulpit to the whole congregation
 The Hessian rule (Moderate Reformed) is at Sehling 8, p. 203, and the same provision is in
 Pfalz-Veldenz 1574 (Sehling 18, p. 560).
 
+The prayer-day sermons are treated in [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md), §4.5, and the
+Litany days in [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22.4.
+
 ### 13.6 Fasting before communion
 
 **Sober for the sacrament.** The one fast the orders still expected regularly was the
@@ -4579,6 +4592,9 @@ show:
   went with the monastic rules: Württemberg's convent order of 1535 counts the bonds of human
   ordinances "in fasting, silence, confessing, wearing cowls and tonsures" among what is cast
   off (Sehling 16, p. 79).
+
+Confession and communion as a duty of the laity are treated in
+[`ECCLESIASTICAL_DUTIES_GUIDE.md`](ECCLESIASTICAL_DUTIES_GUIDE.md), §8.3.
 
 ---
 
