@@ -1471,6 +1471,7 @@
   - [17.19 Concordance of the orders quoted](#s17-19)
 - [Scripture index](#scripture-index)
 - [Index of persons](#index-of-persons)
+- [Glossary](#glossary)
 <!-- TOC end -->
 
 <div style="page-break-before: always;"></div>
@@ -1545,7 +1546,7 @@ Sections are numbered within their chapter, with the chapter number first: §2.3
 of Chapter 2. Every reference to a section is a link, and so is every entry in the
 [Contents](#contents). The [Scripture index](#scripture-index) and the
 [Index of persons](#index-of-persons) list the sections where each passage of Scripture and each
-person is cited.
+person is cited, and the [Glossary](#glossary) explains the rarer terms.
 
 ### <a id="intro-repository"></a>The repository and its methods
 
@@ -64349,3 +64350,293 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Zwick, Johannes — [1.3.3](#s1-3-3), [1.25.3](#s1-25-3)
 - Zwingli, Huldrych — [17.7.3](#s17-7-3)
 <!-- Index of persons end -->
+
+<div style="page-break-before: always;"></div>
+
+## <a id="glossary"></a>Glossary
+
+This glossary explains the rarer terms of liturgy, church order and church life that the book
+uses, in English, German and Latin. Where the book treats a term at length, the entry ends with a
+link to that section. The usual English renderings of the orders' German terms are listed under
+[Translations](#conv-translations) in the Conventions, and the traditions and the abbreviations
+under [Traditions and the Interim](#conv-traditions) and [Abbreviations](#conv-abbreviations).
+They are not repeated here.
+
+[A](#gl-a) · [B](#gl-b) · [C](#gl-c) · [D](#gl-d) · [E](#gl-e) · [F](#gl-f) · [G](#gl-g) · [H](#gl-h) · [I](#gl-i) · [K](#gl-k) · [L](#gl-l) · [M](#gl-m) · [N](#gl-n) · [O](#gl-o) · [P](#gl-p) · [Q](#gl-q) · [R](#gl-r) · [S](#gl-s) · [T](#gl-t) · [U](#gl-u) · [V](#gl-v) · [W](#gl-w)
+
+<a id="gl-a"></a>**A**
+
+- **accessus** (Latin). The priest's private preparation for Mass, an office of psalms and prayers said before he went to the altar. Several orders recast it as the congregation's *Veni Sancte Spiritus* before the introit. See [§3.3.1](#s3-3-1), [§3.3.7](#s3-3-7).
+- **acolyte**. The highest of the four minor orders, who carried the candles and served the wine and water at the altar. Only the Bohemian Brethren kept acolytes. See [§16.3.4](#s16-3-4), and *[minor orders](#gl-minor-orders)*.
+- <a id="gl-acted-ceremonies"></a>**acted ceremonies**. The dramatic ceremonies of the medieval year: the Palm Sunday ass (*Palmesel*), the Good Friday grave, the Easter image, the Ascension figure, the Whitsun dove and the rocking of the Christmas cradle (*Kindelwiegen*). The orders abolished them. See [§12.10.10](#s12-10-10).
+- **adiaphora** (Greek). "Things indifferent": ceremonies neither commanded nor forbidden by God, which a church may keep or drop for good order. The orders treat vestments, images and many ceremonies as such. See [§14.3](#s14-3).
+- **Adiutorium** (Latin). The versicle *Adiutorium nostrum in nomine Domini*, "Our help is in the name of the Lord", which opened the priest's preparation and many offices. It is the one opening versicle that survives widely in the evangelical orders. See [§3.3.1](#s3-3-1).
+- **Agende** (German; also *Agenda*, *Agendbüchlein*). The service book of a church: the forms for the Mass, baptism, marriage, burial and the other rites, printed with the church order or apart from it. See [§1.2.4](#s1-2-4).
+- **alb** (Latin *alba*). The long white linen tunic worn under the other vestments. See [§14.7.1](#s14-7-1).
+- **alternatim** (Latin). Performance in alternation: the organ takes a verse or stanza in turn with the choir or the people, and the verse it takes is played, not sung. See [§9.3.3](#s9-3-3).
+- **amice** (Latin *amictus*). The linen cloth put on round the neck before the alb.
+- **Amt** (German). (1) The service, above all the communion service (*das Amt*, *Hochamt*). (2) A district of a territory under the prince's officer, the *Amtmann*, as "Amt Wittenberg".
+- **Anabaptists**. The radical movement that rejected infant baptism and baptized believers. The orders proceed against it, save the Münster council's mandate of 1534, which tolerated it. See [§1.3.6](#s1-3-6).
+- **angelicum** (Latin). See *[Kyrie chants](#gl-kyrie-chants)*.
+- **antiphon**. A short sung text, usually from Scripture, sung before and after a psalm or canticle in the office, or on its own.
+- **antiphoner**. The choir book of the chants of the office: antiphons, responsories and hymns. The Lutheran antiphoners of Spangenberg (1545) and Lossius (1553) purged and reprinted the old chant. See [§10.9.2](#s10-9-2).
+- **Auctuarium** (Latin). The *Mehrung der vorigen Kirchenordnung* of Brandenburg-Ansbach (1548), the adaptation of its church order to the Interim, and one of the Interim orders in the set. See [§1.4](#s1-4).
+- **Aufer a nobis** (Latin). "Take away from us [our iniquities]": the prayer the priest said as he went up to the altar after the *Confiteor*. It survives in German in Müntzer's Allstedt Mass, and in Latin after the sermon in the *Cellische Ordnungen* of 1545. See [§3.3.1](#s3-3-1), [§3.3.8](#s3-3-8).
+
+<a id="gl-b"></a>**B**
+
+- **ban** (German *Bann*). Church discipline by exclusion: the lesser ban kept a sinner from the Lord's Supper, the greater ban (*excommunicatio maior*) from the fellowship of the church. See [§13.16.1](#s13-16-1).
+- **banns**. The public announcement of an intended marriage in church, so that any impediment might be declared. See [§13.7.5](#s13-7-5).
+- **Begängnis** (German). A memorial service for the dead on the seventh or thirtieth day or the anniversary, abolished with the soul-Masses. See [§13.9.1](#s13-9-1).
+- **Beichtgeld** (German). Confession-money: the offering given to the confessor at private confession. See [§13.17.4](#s13-17-4).
+- **Benedicamus** (Latin). The versicle *Benedicamus Domino*, "Let us bless the Lord", answered *Deo gratias*, which closes the office and, on days without a Gloria, the Mass. The orders kept it, sang it to melodies graded by feast, and put it into German. See [§2.13.1](#s2-13-1), [§8.16.8](#s8-16-8).
+- **Benedictus** (Latin). (1) The Song of Zechariah, the canticle of Lauds. (2) *Benedictus qui venit*, "Blessed is he that cometh", which follows the Sanctus. See [§2.10.3](#s2-10-3), [§8.4.3](#s8-4-3).
+- **benefice**. A church office with an endowed income, such as a canonry, a vicarage or an altar, held on condition of saying Mass or the hours. See [§10.6.2](#s10-6-2).
+- **Bestallung** (German). A letter of appointment for a church officer, such as a preacher, schoolmaster, organist or bell-ringer, setting out his duties and wages. He answered it with a *Revers*. See [§13.12.2](#s13-12-2).
+- **betrothal** (German *Verlöbnis*, *Eheversprechen*). The binding promise of marriage, given before witnesses. Only the consistory or the marriage court could release it. See [§13.7.8](#s13-7-8), [§13.7.9](#s13-7-9).
+- **Bittherren** (German). The twelve lay collectors (*subdiaconi*) of St Wenzel's at Naumburg, chosen from the council and the community, who stood at the church doors with collecting boards. See [§16.5.2](#s16-5-2).
+- **Brautpredigt** (German; also *Hochzeitpredigt*). The wedding sermon. See [§11.4.7](#s11-4-7).
+
+<a id="gl-c"></a>**C**
+
+- **Candlemas**. The feast of the Purification of Mary, 2 February, with the blessing of candles. See [§12.8.1](#s12-8-1).
+- <a id="gl-canon"></a>**Canon** (Latin). The fixed prayer of the Roman Mass between the Sanctus and the Lord's Prayer, said quietly by the priest, with the Words of Institution at its centre. Its prayers are named by their first words, from *Te igitur* to the closing doxology *Per ipsum*. The evangelical orders dropped it or kept only fragments. See [Chapter 7](#ch7).
+- **canon minor** (Latin). "The lesser canon": the offertory prayers, as distinct from the Canon proper, the *canon maior*. The evangelical orders dropped both. See [§4.7.1](#s4-7-1).
+- **canonical hours**. The daily round of offices of the medieval church: Matins, Lauds, Prime, Terce, Sext, None, Vespers and Compline. See [§10.5.1](#s10-5-1).
+- **canticle**. A song of Scripture other than a psalm, sung in the office: the *Benedictus* at Lauds, the *Magnificat* at Vespers, the *Nunc dimittis* at Compline, and the Old Testament canticles such as the *Benedicite*.
+- **cantional**. A school and choir book of the Latin and German chants of the year. Several orders required the cantionals of Spangenberg and Lossius. See [§8.18.6](#s8-18-6).
+- **cantor**. The master of the choir, usually a schoolmaster, who led the singing of the scholars at Mass and office. See [§13.12.3](#s13-12-3).
+- **ceroferarius** (Latin; also *accensor*). The candle-bearer, who carried a candle at the gospel and in processions. See [§16.4.4](#s16-4-4).
+- **chasuble** (German *Meßgewand*, *Casel*). The priest's outer vestment at Mass, a wide mantle without sleeves. Many Lutheran orders kept it; the Reformed abolished it. See [§14.7.1](#s14-7-1).
+- **choraliter** (Latin). Sung in plainsong, as against *figuraliter*, in figured music. See [§4.10.4](#s4-10-4).
+- **chrism**. The consecrated mixture of olive oil and balsam used at baptism, confirmation and ordination. The plainer *oil of catechumens* was used before baptism. Only two evangelical orders kept the chrism. See [§13.15.4](#s13-15-4).
+- **churching** (German *Kirchgang*, *Aussegnung*). A mother's return to church after childbirth, at the end of her six weeks. In the orders it is a thanksgiving, not a purification. See [§13.5](#s13-5).
+- **ciborium**. A covered vessel for the consecrated hosts kept in reserve. See [§14.6.7](#s14-6-7).
+- **collect** (Latin *collecta*). The short prayer of the day, said by the priest before the epistle after "Let us pray". See [Chapter 5](#ch5).
+- **collegiate church**. A church served by a chapter of canons, who sang the hours in choir. See [§10.4.2](#s10-4-2).
+- **commixture**. The dropping of a particle of the host into the chalice after the fraction, with the prayer *Haec commixtio*. See [§7.6.11](#s7-6-11).
+- **commune sanctorum** (Latin). "The common of saints": the propers shared by all the saints of one kind, such as apostles, martyrs or virgins, used where a saint had none of his own. See [§12.4.4](#s12-4-4).
+- **Communicantes** (Latin). The prayer of the Canon that joins the Church's offering to the memory of the Virgin, the apostles and the martyrs. See [§7.6.4](#s7-6-4), and *[Canon](#gl-canon)*.
+- **communio** (Latin). The communion chant: an antiphon sung during or after the distribution. See [§4.9](#s4-9).
+- **complenda** (Latin). The old name of the prayer after communion, the postcommunion. Several orders still gave it to Luther's thanksgiving. See [§5.6.3](#s5-6-3).
+- **Compline** (Latin *completorium*, German *Complet*). The last office of the day, said before sleep. See [Chapter 10](#ch10).
+- **confirmation** (German *Firmung*). In the medieval church a sacrament given by the bishop with chrism; in the evangelical orders an examination in the catechism, with profession, prayer and the laying on of hands, before first communion. See [§13.6](#s13-6).
+- **Confiteor** (Latin). "I confess to Almighty God": the confession of sins said by the priest and his ministers at the foot of the altar, answered by the *Misereatur* and the *Indulgentiam*. See [§3.3.2](#s3-3-2).
+- **confraternity** (German *Bruderschaft*). A brotherhood of lay people for devotion, Masses for the dead and the keeping of an altar. The orders dissolved them into the common chest. See [§16.7.6](#s16-7-6).
+- **consistory** (German *Konsistorium*). The territorial church court and board of theologians and jurists, which examined ministers, judged marriage cases and kept discipline. See [§15.5](#s15-5).
+- **convent**. (1) A religious house of monks or nuns. (2) A meeting of the clergy of a district for study and mutual correction. See [§10.4.4](#s10-4-4), [§15.7.5](#s15-7-5).
+- **cope** (German *Chorkappe*, *Chormantel*). A long cloak open at the front, worn in processions, at the office and at services without communion. See [§14.7.2](#s14-7-2).
+- **corporal**. The square linen cloth spread on the altar under the chalice and the host. See [§14.6.2](#s14-6-2).
+- **Corpus Christi**. The feast of the Body of Christ on the Thursday after Trinity Sunday, with its procession of the sacrament. Most evangelical orders abolished it. See [§12.8.9](#s12-8-9).
+- **corpus doctrinae** (Latin). "A body of doctrine": the collection of confessions that a church declared to be its standard of teaching, as the *Corpus doctrinae Philippicum* (1560). See [§17.3](#s17-3).
+- **Corpus tuum** (Latin). The priest's prayer after communion, "Thy body, O Lord, which I have received", which Luther kept as a postcommunion in 1523. See [§5.6.1](#s5-6-1).
+
+<a id="gl-d"></a>**D**
+
+- **dalmatic**, **tunicle**. The outer vestments of the deacon and subdeacon at a solemn Mass. See [§14.2.3](#s14-2-3).
+- **de tempore** (Latin). "Of the season": the propers, lessons and hymns of the Sundays and feasts of the church year, as against those *de sanctis*, of the saints' days. See [§12.4.4](#s12-4-4).
+- **deacons of the poor** (Latin *diaconi pauperum*). Laymen chosen to collect and give out the alms. In the Lutheran orders they were often the managers of the common chest. See [§16.5.2](#s16-5-2).
+- **dean** (Latin *decanus*). A minister set over the pastors of a district under the superintendent; in Transylvania the head of a chapter. See [§15.4](#s15-4).
+- **Deutsche Messe** (German). Luther's German Mass of 1526, written for the parishes, and with the *Formula missae* one of the two baselines of the evangelical Mass. See [§2.3.3](#s2-3-3).
+- **Diaconus** (Latin; German *Helfer*, *Kaplan*, *Capellan*). In the Lutheran orders the assistant minister of a parish, an ordained preacher under the pastor, not the deacon of the medieval Mass. See [§16.5.1](#s16-5-1).
+- **dominicale** (Latin). See *[Kyrie chants](#gl-kyrie-chants)*.
+- **Dominus vobiscum** (Latin). "The Lord be with you", the priest's salutation, answered *Et cum spiritu tuo*, "And with thy spirit", before the collect, the Preface and the blessing. See [§2.8](#s2-8).
+- **duplex**, **semiduplex**, **simplex** (Latin). Grades of feast in the medieval calendar, with *totum duplex* and *summum* above them, which decided how the office and Mass of the day were kept. The evangelical orders do not use them. See [§12.4.1](#s12-4-1).
+
+<a id="gl-e"></a>**E**
+
+- **early sermon** (German *Frühpredigt*). The first sermon of a Sunday or feast, preached early in the morning before the Mass.
+- **Easter sepulchre**. The "Good Friday grave", in which the host or the crucifix was laid from Good Friday until Easter morning. The orders abolished it. See [§13.20.4](#s13-20-4), and *[acted ceremonies](#gl-acted-ceremonies)*.
+- **elevation**. The lifting up of the consecrated host and chalice after the Words of Institution, for the people to see. Many Lutheran orders kept it for a time, often with a bell or a hymn. See [§2.11](#s2-11), [§8.12.3](#s8-12-3).
+- **Ember days** (German *Quatember*, *Fronfasten*). The fast days of the four seasons: the Wednesday, Friday and Saturday after the first Sunday in Lent, after Whitsunday, after Holy Cross Day and after St Lucy's Day. The orders keep them not as fasts but as the four quarter days of the church year, for payments and for preaching the catechism. See [§12.12.7](#s12-12-7).
+- **embolism**. The prayer *Libera nos* ("Deliver us, we beseech thee, O Lord"), which takes up the last petition of the Lord's Prayer in the Mass. See [§7.6.10](#s7-6-10).
+- **emergency baptism** (German *Nottaufe*, *Jähtaufe*). Baptism given at home by the midwife or another lay person when a newborn child was in danger of death. See [§13.3.7](#s13-3-7).
+- **Et in terra** (Latin). The Gloria in excelsis from its second clause, "And on earth peace", which the choir takes up after the priest has intoned *Gloria in excelsis Deo*. See [§2.7.2](#s2-7-2).
+- **examen** (Latin; German *Verhör*). An examination: of candidates before ordination, of children in the catechism, of communicants before the Supper. See [§15.7.3](#s15-7-3), [§13.17.4](#s13-17-4).
+- **exhortation** (German *Vermahnung*). A set address to the people, above all the exhortation to the communicants before the Supper. See [§3.5](#s3-5).
+- **exorcism**. The command to the devil at baptism to come out of the child, as in Luther's "Fahr aus, du unreiner Geist". It was kept and defended, and later in the century disputed and in places dropped. See [§13.4](#s13-4).
+- **extreme unction**. The anointing of the dying with oil. No evangelical order prescribes it: the Word, the absolution, the Supper and prayer take its place. See [§13.8.1](#s13-8-1).
+
+<a id="gl-f"></a>**F**
+
+- **farsed** (also *farced* or *troped*). Of a chant: interlaced with added words. A farsed Kyrie or sequence alternates its Latin with Latin verses or German stanzas. See [§8.6.4](#s8-6-4), [§8.8.3](#s8-8-3).
+- **Fastnacht** (German). Shrovetide, the carnival before Lent, with its mumming and dancing, which the orders forbade as heathen. See [§12.11.4](#s12-11-4).
+- **festive**, **ferialiter**, **dominicaliter**, **solenniter** (Latin). "In festal, weekday, Sunday or solemn manner": rubrics for the grade of chant and ceremony on a given day. See [§12.4.5](#s12-4-5).
+- **festum fori**, **festum chori** (Latin). A feast "of the court", on which work was forbidden, and a feast "of the choir", kept only in the liturgy. See [§12.4](#s12-4).
+- **figured music** (Latin *figuraliter*, *in mensuris*; German *figurieren*). Polyphony written in measured notes, as against plainsong. See [§10.9.4](#s10-9-4), [§12.10.5](#s12-10-5).
+- **Flectamus genua** (Latin). "Let us bend the knee", the bidding before each of the Good Friday solemn prayers, answered *Levate*, "Arise". See [§13.22.6](#s13-22-6).
+- **Formula missae** (Latin). Luther's Latin order of the Mass of 1523, the *Formula missae et communionis*, and with the *Deutsche Messe* one of the two baselines of the evangelical Mass. See [§2.3.2](#s2-3-2).
+- **fraction**. The breaking of the host before communion. See [§7.6.11](#s7-6-11).
+
+<a id="gl-g"></a>**G**
+
+- **Generalartikel** (German). General articles: the instructions of a visitation that applied to every parish of a territory.
+- **German psalm** (German *deutscher Psalm*). Any German hymn sung by the people, not only a psalm paraphrase. See [§8.5.1](#s8-5-1).
+- **Gnesio-Lutherans** (Greek *gnesios*, "genuine"). The strict Lutheran party, led by Flacius, that resisted the Interim and the Philippists; also called Flacians. See [§17.1.1](#s17-1-1).
+- **godparents** (German *Gevatter*, *Paten*). The sponsors at baptism, who answer for the child and promise to see it taught. See [§13.3.8](#s13-3-8), [§17.17.4](#s17-17-4).
+- **Gottesacker** (German). "God's acre": the burial ground, often outside the town. See [§13.9.4](#s13-9-4).
+- **gradual**. (1) The chant after the epistle, taken from a psalm. (2) The choir book of the chants of the Mass. See [§4.6](#s4-6).
+
+<a id="gl-h"></a>**H**
+
+- **Hagelfeier** (German). A holy day of processions against hail, forbidden by the orders. See [§12.11.4](#s12-11-4).
+- **Hanc igitur** (Latin). The prayer of the Canon that offers "this oblation of our service". See [§7.6.5](#s7-6-5), and *[Canon](#gl-canon)*.
+- **Handschlag** (German; Latin *stipulata manu*). The handclasp by which a promise was given, in betrothal and in the pledges of ministers and church officers. See [§13.7.8](#s13-7-8).
+- **Hauptlied** (German). "Chief hymn": the hymn of the day for a Sunday or feast. The word is later and does not occur in the corpus. See [§8.A](#s8-a).
+- **Hochzeit** (German). A wedding. In older use also a high feast, as in "the four *Hochzeiten*" (see *[Vierzeiten](#gl-vierzeiten)*).
+
+<a id="gl-i"></a>**I**
+
+- **Indulgentiam** (Latin). The absolution after the *Confiteor* and *Misereatur*: "May the almighty and merciful Lord grant us pardon, absolution and remission of our sins". See [§3.4.3](#s3-4-3).
+- **infulae** (Latin). Properly the mitre and its bands. In the Transylvanian synods the word most likely means the chasubles. See [§14.7.3](#s14-7-3).
+- **inspector**. An overseer of the pastors of a district, a name used in some territories beside or for the superintendent. See [§15.4.1](#s15-4-1).
+- **Interim**. The Augsburg Interim of 1548, the emperor's provisional settlement of religion until a council, which allowed the Protestants only the cup and married priests; and the Leipzig Interim (1548/49), Electoral Saxony's milder version. See [§1.4](#s1-4).
+- **Introibo** (Latin). "I will go unto the altar of God" (Ps 43:4), the antiphon of the priest's preparation, said with Psalm 43, *Iudica me*. See [§3.3.1](#s3-3-1).
+- **introit**. The entrance chant of the Mass: an antiphon with a psalm verse and the *Gloria Patri*. Its first words name the Sunday in many cases. See [§4.4](#s4-4).
+- **investiture** (German *Investitur*). The installation of a pastor in his parish by the superintendent, a rite apart from ordination. See [§13.11](#s13-11).
+- **invitatory**. Psalm 95, *Venite*, sung with an antiphon at the beginning of Matins. See [§10.5.2](#s10-5-2).
+- **Ite, missa est** (Latin). "Go, it is the dismissal": the deacon's dismissal at the end of Mass on days with a Gloria. See [§2.13.1](#s2-13-1).
+- **Iudica me** (Latin). Psalm 43, "Judge me, O God", said by the priest at the foot of the altar. It survives in the evangelical orders as the introit of Judica Sunday. See [§3.3.8](#s3-3-8).
+
+<a id="gl-k"></a>**K**
+
+- **Kaland** (German, plural *Kalande*). A brotherhood of clergy and lay people that met on the first day of the month, the Kalends, for Masses for the dead and a common meal. See [§16.7.6](#s16-7-6).
+- **Kastenherren** (German). The managers of the common chest (*gemeiner Kasten*), the fund that took over the church's endowments for the ministers, the schools and the poor. See [§16.5.2](#s16-5-2).
+- **Kinderlehre** (German). The catechism class for children on Sunday afternoons, held by question and answer. See [§11.4.3](#s11-4-3), [§10.10](#s10-10).
+- **Kirchenordnung** (German). A church order: the law that a prince or a city council gave its church. It says who shall preach and what, how the sacraments and the services are to be held, and how ministers, schools and discipline are to be ordered. See [§1.2.1](#s1-2-1).
+- **Kirchenrat** (German). A church council: a board of theologians and councillors that governed the church under the prince, as in Württemberg and the Palatinate. See [§15.5](#s15-5).
+- **Kirchgang** (German). "Going to church": the churching of a mother; the bridal party's procession to church; or church attendance in general. See [§13.5.2](#s13-5-2).
+- **Kirchweih** (German; also *Kirmes*, *Kirchmesse*). The anniversary of a church's dedication, and the fair and festivities that went with it. See [§13.14.4](#s13-14-4).
+- <a id="gl-kyrie-chants"></a>**Kyrie chants**. The named plainsong settings of the Kyrie, each assigned to a season or a rank of feast: the *dominicale*, *paschale*, *angelicum*, *summum*, *minus summum*, *apostolicum*, *Fons bonitatis*, *Magne Deus*, *de martyribus* and *de virginibus*. The orders with Latin schools kept them by name. See [§2.6.2](#s2-6-2), [§12.4.2](#s12-4-2).
+
+<a id="gl-l"></a>**L**
+
+- **Lauds**. The morning office of praise, sung after Matins, with the canticle *Benedictus*. See [Chapter 10](#ch10).
+- **Lavabo** (Latin). The washing of the priest's hands at the offertory, with Psalm 26:6, "I will wash my hands in innocency". See [§2.1](#s2-1).
+- **lectio continua** (Latin). Reading a book of Scripture straight through, chapter after chapter, instead of the passages appointed for each Sunday. See [§4.5.2](#s4-5-2).
+- **Leichpredigt** (German). The funeral sermon. See [§11.4.6](#s11-4-6).
+- **Leise** (German; plural *Leisen*). A medieval German hymn of the people whose stanzas end *Kyrieleis*, such as "Christ ist erstanden", sung at the high feasts. See [§8.10.2](#s8-10-2).
+- **Lenten veil** (German *Hungertuch*). The cloth hung before the altar or the choir through Lent. See [§14.1](#s14-1).
+- **levites** (German *Leviten*). In the south German imperial cities, the two assistants at the altar, the gospeller and the epistoler, named after the ministers of the Old Testament. Outside the cathedrals they were in practice priests. See [§16.4.3](#s16-4-3).
+- **litany**. A long prayer of petitions, sung by two voices or choirs answering one another. In the orders it is usually Luther's German or Latin litany of 1529, sung on weekdays, on prayer days and in time of war or plague. See [§10.7.5](#s10-7-5), [§13.22](#s13-22).
+- **little hours**. Prime, Terce, Sext and None, the short offices of the first, third, sixth and ninth hours of the day. See [§10.4.2](#s10-4-2).
+- **Loci** (Latin). Melanchthon's *Loci communes*, first published in 1521 and much revised, the handbook of Lutheran doctrine, named in many orders as a standard of teaching. See [§17.5.1](#s17-5-1).
+
+<a id="gl-m"></a>**M**
+
+- **maniple**. A strip of cloth worn over the left forearm by the priest at Mass. See [§14.2.3](#s14-2-3).
+- **marriage court** (German *Ehegericht*). The court that judged betrothal, marriage and divorce cases; in many territories the consistory. See [§13.7.9](#s13-7-9).
+- **Matins** (German *Mette*). The night office of psalms, lessons and responsories. In the evangelical orders it was mostly a school office early in the morning. See [§10.5.2](#s10-5-2).
+- **Memento** (Latin). The prayers of the Canon for the living and for the dead, "Remember, O Lord". See [§7.6.4](#s7-6-4), and *[Canon](#gl-canon)*.
+- <a id="gl-minor-orders"></a>**minor orders**. The four lower grades of the clergy below the subdiaconate: porter, lector, exorcist and acolyte. The evangelical orders did not confer them. See [§16.3](#s16-3).
+- **Misereatur** (Latin). "May almighty God have mercy upon thee": the prayer for forgiveness that answers the *Confiteor*. See [§3.4.3](#s3-4-3).
+- **monstrance**. A vessel with a glass case in which the consecrated host was shown for adoration and carried in procession. See [§13.18.4](#s13-18-4).
+- **motet**. A polyphonic setting of a Latin or German text, sung by the choir on feasts. See [§4.9.2](#s4-9-2).
+
+<a id="gl-n"></a>**N**
+
+- **Nobis quoque** (Latin). "To us sinners also": the prayer of the Canon after the memento of the dead, asking a share with the saints. See *[Canon](#gl-canon)*.
+- **norma doctrinae** (Latin). "A norm of doctrine": the confession or list of books by which a church's teaching was to be judged. See [§17.14.2](#s17-14-2).
+- **notel** (Low German). A written form or statement. (1) The Lower Saxon exhortation to prayer read "from the notel" after the sermon (see [§6.14](#s6-14)). (2) Danzig's confessional statement of 1562 (see [§17.7.3](#s17-7-3)).
+- **Nunc dimittis** (Latin). The Song of Simeon, "Lord, now lettest thou thy servant depart in peace", sung at Compline and in some orders after communion. See [§2.13.2](#s2-13-2).
+
+<a id="gl-o"></a>**O**
+
+- **octave**. The eighth day after a great feast, or the whole week to that day, kept with the feast's propers. See [§12.4.4](#s12-4-4).
+- **Offene Schuld** (German). "The open guilt": the general confession and absolution of the medieval preaching service, said after the sermon. Several orders moved it into the Mass. See [§3.3.5](#s3-3-5).
+- **offertory**. The chant and prayers at the preparation of the bread and wine. To Luther they "smelled of oblation", and most orders dropped them. See [§4.7](#s4-7).
+- **Orate fratres** (Latin). "Pray, brethren": the priest's request for the people's prayers at the offertory. See [§7.6.1](#s7-6-1).
+- **Ordnung** (German). An order, the general word for the documents in the set: *Kirchenordnung* (church order), *Gottesdienstordnung* (order of service), *Visitationsordnung* (visitation order), *Konsistorialordnung* (consistory order), *Kirchenzuchtordnung* (order of church discipline), *Schulordnung* (school order). See [§1.2.4](#s1-2-4).
+
+<a id="gl-p"></a>**P**
+
+- **pall**. A stiffened square of linen laid over the chalice. See [§14.6.2](#s14-6-2).
+- **paraments**. The cloths and hangings of a church: the covers of the altar, the pulpit and the font. See [§14.6](#s14-6).
+- **paschale** (Latin). See *[Kyrie chants](#gl-kyrie-chants)*.
+- **paten**. The small plate for the host at Mass. See [§14.6.7](#s14-6-7).
+- **Patrem** (Latin). The Nicene Creed, named from the words the choir takes up after the priest's intonation *Credo in unum Deum*: *Patrem omnipotentem*. See [§2.9](#s2-9).
+- **Pax** (Latin). The peace: the greeting *Pax Domini sit semper vobiscum*, "The peace of the Lord be always with you", before the Agnus Dei, and the kiss of peace that went with it. Luther called the greeting "a kind of public absolution". See [§2.8](#s2-8), [§2.15.9](#s2-15-9).
+- **Per ipsum** (Latin). "By him, and with him, and in him": the doxology that ends the Canon. See *[Canon](#gl-canon)*.
+- **pericope**. A passage of Scripture appointed to be read on a given Sunday or feast: the epistle or gospel of the day. See [§4.5](#s4-5).
+- **Placeat** (Latin). The priest's prayer to the Trinity before the blessing at the end of Mass, *Placeat tibi, sancta Trinitas*. See [§7.2.7](#s7-2-7).
+- **plainsong**. The unaccompanied, single-line chant of the Latin liturgy. See [§4.10](#s4-10).
+- **police order** (German *Polizeiordnung*). An order of public discipline, for dress, feasting, weddings, swearing and Sunday rest. "Police" has its old sense, the good order of a community. See [§1.2.4](#s1-2-4).
+- **postcommunion**. The collect after communion. In the Lutheran orders it was usually Luther's thanksgiving of 1526. See [§5.6](#s5-6).
+- **postil** (German *Postille*). A book of sermons on the Sunday gospels and epistles, from which pastors preached or read, such as Luther's *Hauspostille*. See [§11.8](#s11-8).
+- **prayer bell** (German *Betglocke*). The bell rung morning, noon and evening for prayer, which the orders turned into a bell *pro pace*, for peace, for the government and against the Turk. See [§9.5.3](#s9-5-3).
+- **prayer day** (German *Bettag*). A day of prayer and repentance appointed by the authorities, weekly, monthly or in time of war, plague and the Turkish threat, with a sermon of repentance at its centre. See [§11.4.5](#s11-4-5).
+- **preces** (Latin). A series of short versicles and responses, with the Kyrie and the Lord's Prayer, said at the end of an office. See [§10.7.5](#s10-7-5).
+- **Preface**. The thanksgiving that opens the eucharistic prayer, after the dialogue *Sursum corda*, and leads into the Sanctus. The *Proper Prefaces* vary it for the seasons and feasts. See [§2.10](#s2-10), [§4.8](#s4-8).
+- **presbyterae** (Latin). The women elders of the Bohemian Brethren, elected by the women. See [§16.6.4](#s16-6-4).
+- **private confession** (German *Beicht*, *Ohrenbeicht*). Confession of sins to the pastor alone, with his absolution, before communion. See [§13.17](#s13-17).
+- **Probepredigt** (German). The trial sermon a candidate preached before his examination or appointment. See [§11.11.2](#s11-11-2).
+- **public penance** (German *Kirchenbuße*). Penance done before the congregation for an open sin, ending in public reconciliation. See [§13.16](#s13-16).
+- **pyx**. A small box for the host, above all for carrying the sacrament to the sick. See [§14.6.7](#s14-6-7).
+
+<a id="gl-q"></a>**Q**
+
+- **Quam oblationem** (Latin). The prayer of the Canon before the Words of Institution, asking that the offering be made "the Body and Blood" of Christ. See [§7.6.6](#s7-6-6), and *[Canon](#gl-canon)*.
+- **Qui pridie** (Latin). "Who the day before he suffered": the Canon's account of the institution. See [§7.6.7](#s7-6-7).
+- **Quod ore sumpsimus** (Latin). "What we have taken with our mouth": a postcommunion prayer, which Luther kept in 1523. See [§5.6.1](#s5-6-1).
+
+<a id="gl-r"></a>**R**
+
+- **recess** (German *Abschied*). The written decisions issued at the end of a visitation, a synod or a diet.
+- **Repetitio** (Latin). The *Confessio Saxonica* of 1551, Melanchthon's restatement of the Augsburg Confession for the Council of Trent, part of the *Corpus doctrinae Philippicum*. Naming it marks an order as Philippist or Reformed. See [§17.3.3](#s17-3-3).
+- **responsory**. A chant of response and verse, with the response repeated, sung after a lesson at Matins and elsewhere.
+- **Revers** (German). A signed undertaking by which a minister or church officer bound himself to his duties or his confession on taking office. See [§17.4](#s17-4).
+- **Rogation days** (German *Bittwoche*, *Kreuzwoche*). The three days before Ascension Day, with processions through the fields to pray for the harvest. See [§12.12.5](#s12-12-5).
+
+<a id="gl-s"></a>**S**
+
+- **sacrament house** (German *Sakramentshäuslein*). A tall stone shrine in the chancel in which the consecrated host was reserved. See [§14.5.5](#s14-5-5).
+- **Sacramentarians**. In the Lutheran polemic, those who denied the bodily presence of Christ in the Supper: the Zwinglians and, later, the Calvinists.
+- **Salve Regina** (Latin). "Hail, Queen": the antiphon to the Virgin sung in the evening after Compline. The orders abolished it or turned it to Christ. See [§8.16.5](#s8-16-5).
+- **Sanctus bell**. A small bell rung at the Sanctus and at the elevation. See [§9.5.4](#s9-5-4).
+- **Schwenckfelders**. The followers of Caspar Schwenckfeld, a Silesian spiritualist who set the inner word above the outward word and sacraments. See [§1.3.6](#s1-3-6).
+- **screen** (German *Lettner*, *Schranken*, *Gitter*). The partition, rail or grille that divided the choir from the nave. See [§14.5.7](#s14-5-7).
+- **secret** (Latin *secreta*). The prayer said quietly over the gifts at the end of the offertory, abolished with it. See [§5.5](#s5-5).
+- **Seelfrau** (German, plural *Seelfrauen*). A woman appointed by the town council to nurse the sick and to attend and comfort the dying. See [§16.7.3](#s16-7-3).
+- **seniores** (Latin; German *Eltesten*). Elders: laymen chosen to keep church discipline with the ministers. In the Reformed orders they governed the church with them. See [§16.6](#s16-6).
+- **Septuagesima** (Latin). The ninth Sunday before Easter, with Sexagesima and Quinquagesima (*Estomihi*) after it: the pre-Lenten season. See [§13.21.7](#s13-21-7).
+- **sequence**. A rhymed chant sung after the alleluia on feasts, such as *Victimae paschali* at Easter. The orders cut the sequences back to the chief feasts, or farsed them with German stanzas. See [§4.6.4](#s4-6-4), [§8.8.3](#s8-8-3).
+- **Stipendium** (Latin). A foundation that maintained poor students of theology, as the ducal *Stipendium* at Tübingen. See [§15.7.2](#s15-7-2).
+- **stole**. A long narrow band of cloth worn round the neck by priests and deacons. See [§14.7.3](#s14-7-3).
+- **Stufengebet** (German). "The prayer at the steps": the priest's preparation at the foot of the altar, with *Introibo*, Psalm 43 and the *Confiteor*. See [§3.3.1](#s3-3-1).
+- **subdeacon** (Latin *subdiaconus*). The cleric of the lowest major order, who sang the epistle at a solemn Mass. The evangelical orders did not confer the order. See [§16.3](#s16-3).
+- **suffrages**. Short petitions with their responses, said at the end of an office or in the litany. See [§10.7.5](#s10-7-5).
+- **summa festa** (Latin). The highest feasts. See [§12.4.2](#s12-4-2).
+- **summum** (Latin). The highest grade of chant and feast, with *minus summum* below it. See [§12.4.2](#s12-4-2), and *[Kyrie chants](#gl-kyrie-chants)*.
+- **Sunday names**. The Sundays of Lent and Eastertide are named by the opening words of their introit: *Invocavit*, *Reminiscere*, *Oculi*, *Laetare* and *Judica* in Lent; *Quasimodogeniti*, *Misericordias Domini*, *Jubilate*, *Cantate*, *Rogate* and *Exaudi* after Easter.
+- **super populum** (Latin). The *oratio super populum*, "the prayer over the people", said after the postcommunion on the weekdays of Lent, with the bidding *Humiliate capita vestra Deo*, "Bow down your heads before God". See [§5.6.6](#s5-6-6).
+- **superintendent** (Latin *superattendens*). The minister who oversaw the pastors of a district or a whole territory, in place of a bishop. See [§15.4](#s15-4).
+- **Supplices** (Latin). The prayer of the Canon asking that the offering be carried by the angel to the altar on high. See [§7.6.9](#s7-6-9), and *[Canon](#gl-canon)*.
+- **Supra quae** (Latin). The prayer of the Canon that asks God to look on the offering as on those of Abel, Abraham and Melchizedek. See [§7.6.8](#s7-6-8).
+- **surplice** (German *Chorrock*, *Chorhemd*; Latin *superpellicium*). A wide white linen garment with sleeves. In many Lutheran orders it was the minister's vestment. See [§14.7.4](#s14-7-4).
+- **Sursum corda** (Latin). "Lift up your hearts": the dialogue that opens the Preface. See [§2.10](#s2-10).
+
+<a id="gl-t"></a>**T**
+
+- **Taufbüchlein** (German). Luther's "little book of baptism", the German order of baptism of 1523, revised in 1526. See [§13.3.2](#s13-3-2), [§13.3.3](#s13-3-3).
+- **Te igitur** (Latin). "Thee therefore, most merciful Father": the first prayer of the Canon, which commends the Church, the pope and the bishop. See [§7.6.3](#s7-6-3), and *[Canon](#gl-canon)*.
+- **Tenebrae** (Latin, "darkness"). The Matins and Lauds of the last three days of Holy Week, at which the candles were put out one by one. Some orders also name a Tenebrae ringing on Fridays for the Passion. See [§9.5.3](#s9-5-3).
+- **thurifer**. The server who carried the censer. See [§16.4.4](#s16-4-4).
+- **tract**. The chant sung in place of the alleluia from Septuagesima to Easter. See [§4.6](#s4-6).
+
+<a id="gl-u"></a>**U**
+
+- **Unde et memores** (Latin). The prayer of the Canon after the institution that remembers the Passion, Resurrection and Ascension and offers the sacrifice. See [§7.6.8](#s7-6-8).
+
+<a id="gl-v"></a>**V**
+
+- **variata**, **invariata** (Latin). The altered edition of the Augsburg Confession that Melanchthon published in 1540 (*variata*), and the unaltered confession of 1530 (*invariata*). See [§17.3.2](#s17-3-2).
+- **Verba** (Latin). The Words of Institution of the Lord's Supper, "Our Lord Jesus Christ, the same night in which he was betrayed". See [§2.11](#s2-11).
+- **versicle**. A short verse said or sung by the minister and answered by the people or the choir. See [§3.3](#s3-3).
+- <a id="gl-vierzeiten"></a>**Vierzeiten** (German; Low German *veer tide*). "The four times": in north Germany the four chief feasts, Christmas, Easter, Whitsuntide and Michaelmas (formerly the Assumption), on which the four-times penny was paid. See [§12.9](#s12-9).
+- **vigil**. The day before a great feast, or the night office kept on it. See [§12.4.6](#s12-4-6).
+- **visitation**. (1) The inspection of the parishes by commissioners of the prince or council, who examined pastors and people and set down their orders in a recess. (2) The feast of the Visitation of Mary, 2 July. See [§1.2.4](#s1-2-4), [§12.8.2](#s12-8-2).
+
+<a id="gl-w"></a>**W**
+
+- **weather-ringing** (German *Wetterläuten*). Ringing the bells against storms and hail, which many orders forbade as superstition. See [§9.5.8](#s9-5-8), [§13.15.5](#s13-15-5).
+- **Westerhemd** (German). The white christening robe put on the child after baptism. See [§13.3.3](#s13-3-3).
