@@ -237,7 +237,7 @@ and absolution wherever they fall, the exhortation to the communicants, and the 
 and after the service. It does not treat:
 - the Ordinary and Propers (see [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md));
 - the collects (see [`COLLECTS_GUIDE.md`](COLLECTS_GUIDE.md));
-- the general prayer (see [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md));
+- the general prayer (see [`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md));
 - the Canon and the communion devotions (see
   [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md));
 - private confession (see [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md) §17).

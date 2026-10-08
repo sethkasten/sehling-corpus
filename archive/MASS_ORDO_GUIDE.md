@@ -45,7 +45,7 @@ Mass one by one. This guide puts them back together. It asks:
 - the canon, the Words of Institution and the elevation, order by order, in the early German
   Masses and their successors: [`CANON_IN_GERMAN_MASSES.md`](CANON_IN_GERMAN_MASSES.md);
 - the sermon, its place and its length: [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md);
-- the general prayer of the church: [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md);
+- the general prayer of the church: [`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md);
 - the Litany and the bidding prayers at the Mass:
   [`EXTRAORDINARY_RITES_GUIDE.md`](EXTRAORDINARY_RITES_GUIDE.md), §22;
 - the organ in alternation with the choir:

@@ -518,6 +518,16 @@ def label(anchor):
     return expected_label(anchor)
 
 
+def links(anchors, rank):
+    """The links to a set of sections, in the order of the guide. The sections of the front
+    matter share a label, as "Introduction", and each label is linked once, to its first
+    section."""
+    first = {}
+    for a in sorted(anchors, key=rank.get):
+        first.setdefault(label(a), a)
+    return ', '.join(f'[{lab}](#{a})' for lab, a in first.items())
+
+
 def build(found, order):
     rank = {a: i for i, a in enumerate(order)}
     entries = {}
@@ -538,8 +548,7 @@ def build(found, order):
         out.append(f'<a id="scr-{key}"></a>**{book_name(key)}**')
         out.append('')
         for r in refs:
-            links = ', '.join(f'[{label(a)}](#{a})' for a in sorted(entries[r], key=rank.get))
-            out.append(f'- {show(r)} — {links}')
+            out.append(f'- {show(r)} — {links(entries[r], rank)}')
         out.append('')
     return '\n'.join(out).rstrip('\n'), len(entries)
 

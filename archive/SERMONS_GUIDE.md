@@ -208,7 +208,7 @@ heads.
   bitten wir", §10) and after it ("Erhalt uns, Herr", §11).
 - [`PROPERS_GUIDE.md`](PROPERS_GUIDE.md) covers the epistle and gospel lessons on which the
   Sunday sermon was preached (§5).
-- [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) covers the general prayer said from the
+- [`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md) covers the general prayer said from the
   pulpit after the sermon.
 - [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md) covers the daily lessons with exposition (§3.1) and the
   sermon inside Vespers (§7.4).
@@ -1435,7 +1435,7 @@ their names and surnames, but also their parents, country and the masters with w
 and make them known particularly in the announcement from the pulpit.
 
 The texts of the general prayers said from the pulpit are collected in
-[`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) and given family by family in
+[`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md) and given family by family in
 [`GENERAL_PRAYERS_TEXT_GUIDE.md`](GENERAL_PRAYERS_TEXT_GUIDE.md). The hymns sung after the
 sermon ("Erhalt uns, Herr, bei deinem Wort" and others) are in
 [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) §11.

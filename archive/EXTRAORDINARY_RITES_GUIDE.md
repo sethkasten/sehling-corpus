@@ -370,7 +370,7 @@ read in context, and then the full passages were pulled from the relevant orders
   and vows taken at ordination, installation and confirmation.
 - [`LITURGICAL_CALENDAR_GUIDE.md`](LITURGICAL_CALENDAR_GUIDE.md) covers the closed seasons for
   weddings, the prayer and fast days, and the *Kirchweih* as a holiday.
-- [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) covers the intercessions for
+- [`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md) covers the intercessions for
   magistrates, the sick and the dying.
 - [`SERMONS_GUIDE.md`](SERMONS_GUIDE.md) covers wedding and funeral sermons.
 - [`HYMN_PRACTICE_GUIDE.md`](HYMN_PRACTICE_GUIDE.md) covers the hymns sung at baptism, weddings
@@ -4309,7 +4309,7 @@ yearly council election also chose the spokesmen who sat on the city's disciplin
 
 The standing intercession for "the emperor, princes and lords, and all magistrates" in the
 general prayer of every service was the church's ordinary act toward the civil power. The forms
-are collected in [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md).
+are collected in [`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md).
 
 ### 13.3 Oaths of homage
 
@@ -6799,7 +6799,7 @@ sermon, and on fixed weekdays, prayer days and Rogation. The Good Friday bidding
 orders. This section covers the Mass and the parish services that stood in for it; the Litany at
 the hours is in [`OFFICES_GUIDE.md`](OFFICES_GUIDE.md), §7.5. The general prayer of the church,
 including its bidding forms ("Lasset uns bitten für …"), is in
-[`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md) and is left aside here.
+[`GENERAL_PRAYERS_GUIDE.md`](../GENERAL_PRAYERS_GUIDE.md) and is left aside here.
 
 ### 22.1 The Litany in place of the Mass
 
