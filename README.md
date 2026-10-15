@@ -42,6 +42,12 @@ and prayer; and the shorter quotations in the running text and the tables are gi
 The technical terms, incipits and titles left in the original are followed by their English at
 their first use in each section. The contents and the indexes are rebuilt for the new text.
 
+### The core hymns
+
+[`CORE_HYMNS.md`](CORE_HYMNS.md) lists the hymns, chants and canticles at the centre of
+liturgical life in the church orders, as far as they have been chosen, with the English title of
+each in the hymnal index (see below).
+
 ### Tools
 
 The contents and the two indexes are generated from the text of the book, and so is the
@@ -65,6 +71,10 @@ For the corpus see [`CORPUS_GUIDE.md`](CORPUS_GUIDE.md).
 For the database `eko.db` see [`DB_GUIDE.md`](DB_GUIDE.md).
 
 For the hymn tables (`hymns.db`) see [`HYMN_GUIDE.md`](HYMN_GUIDE.md).
+
+For the hymnal index, which matches the hymns of KELG, TLH, LSB and the other Lutheran hymnals
+(`Hymn Index/hymnal.db` and `Hymn Index/LCMS-Worship-Lutheran-Hymn-Index.xlsx`), see
+[`Hymn Index/README.md`](Hymn%20Index/README.md).
 
 For the general prayers (Prayers of the Church) and `general_prayers.db` see
 [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md).

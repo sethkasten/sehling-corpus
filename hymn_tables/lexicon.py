@@ -308,7 +308,7 @@ L += [
  ('Herr Gott, der du erforschest mich', [r'herr gott,? der du erforschest'],
   'Lord God, thou who searchest me', None, None),
  ('All Ehr und Lob soll Gottes sein', [r'all e[hr]+,? und lob sol gottes'],
-  'All honour and praise shall be God’s', 'All Glory Be to God on High', None),
+  'All honour and praise shall be God’s', 'All Glory Be to God Alone', None),
  ('All unsre Schuld vergib uns, Herr', [r'all unse schuld vorgiff uns'],
   'Forgive us all our guilt, Lord', None, None),
  ('Von allen Menschen abgewandt', [r'van allen minschen affgewandt'],
