@@ -157,6 +157,9 @@ PROSE = [
     ('out of the first Epistle of Paul to the Corinthians, the eleventh chapter', '1 Cor 11'),
     ('die epistel zun Colossern am andern', 'Col 2'),
     ('in der 1. zun Corinthern am 14.', '1 Cor 14'),
+    ('in the first to the Corinthians, the fourteenth', '1 Cor 14'),
+    ('in John the third', 'John 3'),
+    ('in Matthew the sixth', 'Matt 6'),
     ('aus dem Mattheo das ander Capitel', 'Matt 2'),
     ('das 6 te capitel Johannis', 'John 6'),
     # Abbreviations the rules do not take.

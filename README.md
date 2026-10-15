@@ -33,20 +33,30 @@ link.
 The chapters were first written as separate guides. They are kept in [`archive/`](archive/), as
 they stood when the book was assembled.
 
+### The English-only edition
+
+[`LITURGICAL_AND_ECCLESIASTICAL_LIFE_ENGLISH_ONLY.md`](LITURGICAL_AND_ECCLESIASTICAL_LIFE_ENGLISH_ONLY.md)
+is the same book without its quotations in German, Latin, Low German and Low Dutch. Each block
+quotation's English translation stays; in Chapter 6 each petition keeps its English rubric, bid
+and prayer; and the shorter quotations in the running text and the tables are given in English.
+The technical terms, incipits and titles left in the original are followed by their English at
+their first use in each section. The contents and the indexes are rebuilt for the new text.
+
 ### Tools
 
-The contents and the two indexes are generated from the text of the book. After editing it,
-run these from the top of the repository:
+The contents and the two indexes are generated from the text of the book, and so is the
+English-only edition. After editing the book, run these from the top of the repository:
 
 | Command | What it does |
 |---|---|
 | `python3 tools/master_toc.py` | Rebuilds the contents from the headings. |
 | `python3 tools/master_scripture.py` | Rebuilds the Scripture index. |
 | `python3 tools/master_persons.py` | Rebuilds the Index of persons. The persons, and the forms of their names that it looks for, are listed in the script. |
-| `python3 tools/master_links.py` | Checks every link: its target must exist, and a link labelled with a section number must point to that section. |
+| `python3 tools/master_english.py` | Remakes the English-only edition. Its replacements and the English of the terms it leaves in the original are listed in `tools/master_english_text.py`; an entry that no longer matches the book is reported. |
+| `python3 tools/master_links.py` | Checks every link: its target must exist, and a link labelled with a section number must point to that section. Give it the edition's file name to check the edition. |
 
-With `--check`, the first three only report whether the generated part is current. With
-`--list`, the two index tools print every reference or name they find, for review.
+With `--check`, the first four only report whether the generated part, or the edition, is
+current. With `--list`, the two index tools print every reference or name they find, for review.
 
 ## The data guides
 
