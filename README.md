@@ -46,7 +46,9 @@ their first use in each section. The contents and the indexes are rebuilt for th
 
 [`CORE_HYMNS.md`](CORE_HYMNS.md) lists the hymns, chants and canticles at the centre of
 liturgical life in the church orders, as far as they have been chosen, with the English title of
-each in the hymnal index (see below).
+each in the hymnal index (see below). [`CORE_HYMNS.xlsx`](CORE_HYMNS.xlsx) has the same tables as
+a spreadsheet, with each hymn's numbers in all the hymnal columns of the index, and the notes on
+a second sheet.
 
 ### Tools
 
