@@ -48,7 +48,10 @@ their first use in each section. The contents and the indexes are rebuilt for th
 liturgical life in the church orders, as far as they have been chosen, with the English title of
 each in the hymnal index (see below). [`CORE_HYMNS.xlsx`](CORE_HYMNS.xlsx) has the same tables as
 a spreadsheet, with each hymn's numbers in all the hymnal columns of the index, and the notes on
-a second sheet.
+a second sheet. Its **Chief Hymns** sheet gives the chief hymn of each Sunday and feast: the table
+of Appendix 8.A.3, from the old sources, with every hymn that at least three modern sources give
+for the day (Krusemark's Years A, B and C counting as one source). **Chief Hymns Notes** explains
+how it was made.
 
 ### Tools
 
