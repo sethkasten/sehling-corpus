@@ -1634,13 +1634,13 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 4,144 prescriptions from 48 witnesses, in two layers that must be kept apart:
+The database holds 4,135 prescriptions from 50 witnesses, in two layers that must be kept apart:
 - **The church orders.** 466 prescriptions come from the eight orders in Sehling that carry a
   table of hymns: Pomerania 1569, Pfalz-Zweibrücken 1565, Hof 1592, Weissenfels 1578, Mansfeld
   1580, Hohenlohe 1596, Nördlingen 1579 and Heilbronn 1543. All are Lutheran. Weissenfels comes
   nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not occur in
   the corpus. It is later terminology.
-- **The hymnals and compilations.** 3,678 prescriptions come from later books and lists:
+- **The hymnals and compilations.** 3,669 prescriptions come from later books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1831,9 +1831,9 @@ These conventions hold throughout the book.
   they supply. A reference that the editors supplied inside a quotation is kept in its English.
 - **Omissions.** "[…]" marks an omission. In Chapter 7 it also stands for a hymn or lesson that
   the order prints in full, or for text given in another section.
-- **Checking.** Every quotation was checked against the database text before it was translated,
-  allowing for OCR noise: at least 90 per cent of its words must be found there in order. Its
-  page has been checked against the edition's page markers.
+- **Checking.** Every quotation from the corpus was checked against the database text before it
+  was translated, allowing for OCR noise: at least 90 per cent of its words must be found there in
+  order. Its page has been checked against the edition's page markers.
 - **The Canon texts (Chapter 7)** are translated from Sehling's base text. A cross (✠) marks
   where the print has a sign of the cross over the elements, and rubrics are in italics. They are
   compared with the standard text of the late-medieval and Tridentine Roman Mass, given here in
@@ -1848,7 +1848,10 @@ These conventions hold throughout the book.
   The **witnesses** are the orders that carry a family's text, named by place and year as in the
   workbook ([Introduction](#repo-prayers)).
 - **Texts from outside Sehling.** Where a German collect renders a prayer of the Missal (Chapter
-  5), the Missal's prayer is cited from the Roman Missal of the period. Where Sehling's editors
+  5), the Missal's prayer is cited from the Roman Missal of the period. The Latin tropes of the
+  *Kyrie fons bonitatis* and the *Kyrie magnae Deus potentiae*, which the orders name but do not
+  print, are translated in [§8.6.4.7](#s8-6-4-7) from *Analecta Hymnica Medii Aevi* 47 (1905).
+  Where Sehling's editors
   identify the source, this is said, and where the identification is this book's own, that is
   said too. The English of the Common Service and the later American Lutheran books, given in
   [§3.4.5](#s3-4-5) for comparison, has not been checked against the corpus.
@@ -7546,8 +7549,9 @@ Sunday Kyrie) and the rest, survived in the
 Lutheran churches that had Latin schools, assigned to the seasons as before. Where the orders
 print a text, it is the plain Kyrie, or a new German trope set to the old melody. The old Latin
 tropes are named by their opening words (Nördlingen 1579), or left out by Sehling's editor
-(Buxtehude 1565), and are printed in full only once, in Hof's Holy Week office
-([Chapter 8](#ch8), [§8.6.4.7](#s8-6-4-7)).
+(Buxtehude 1565), and are printed in full only once, in Hof's Holy Week office. The Latin texts
+of the *Fons bonitatis* and the *Magne Deus* are given from outside the corpus in
+[Chapter 8](#ch8), [§8.6.4.7](#s8-6-4-7).
 
 #### <a id="s2-6-3"></a>2.6.3 Which language
 
@@ -7565,7 +7569,9 @@ Of the Kyrie eleison it is thought good, since it is sung three times, that it b
 tongues, as is the custom here also: Greek, Latin and German. *Gloria in excelsis* and *Et in
 terra* (And on earth) may be sung in German or Latin, as is convenient.
 
-The Livonian towns took the same rule in 1533 (Sehling 5, p. 15).
+The Livonian towns took the same rule in 1533 (Sehling 5, p. 15). Neuenrade (1564) prints
+such Kyries, in Greek, Latin and Low German, to several melodies (Sehling 22, pp. 527–528;
+[Chapter 8](#ch8), [§8.6.2](#s8-6-2)).
 
 ---
 
@@ -21139,7 +21145,7 @@ German Benedictus or the German Te Deum instead (§§[8.4.3](#s8-4-3)–[8.4.4](
   (also called the *summum* [the highest chant]), the *paschale* (Easter [Kyrie]) and the *Magne Deus* (Great God), and graded by season. The
   Latin tropes themselves are named at Nördlingen (1579) and printed in Hof's Holy Week office
   (1592) ([§8.6.4](#s8-6-4)). The Kyrie was also sung in three tongues, Greek, Latin and German
-  (Prussia 1525, Riga 1530) ([§8.6](#s8-6)).
+  (Prussia 1525, Riga 1530, Neuenrade 1564) ([§8.6](#s8-6)).
 - **Gloria.** "Allein Gott in der Höh" (To God alone on high be glory) was sung for, alternately with, or inside the Latin
   Gloria. In the last case the whole German hymn was inserted between *Et in terra pax* (And on earth peace) and
   *Laudamus te* (We praise thee; Wolfenbüttel 1543, Hildesheim 1544, Osnabrück 1543). "All Ehr und Lob" (All honour and praise shall be God’s) was the
@@ -22124,6 +22130,20 @@ After the introit the Kyrie eleison is sung with few notes (save on the high fea
 Easter note may be taken). And it were not unseemly that it be sung in three tongues, Greek,
 Latin and German, as is the custom in some places, since it is sung three times.
 
+A Westphalian order prints such Kyries, several of them, to be chosen by the season. The first
+acclamation keeps the Greek, the second is in Latin, and only the third is in the people's
+tongue. **Neuenrade, *Kirchenordnung*, 1564** (Sehling 22, p. 527):
+
+<!-- doc 1544 -->
+
+After the *Te Deum* (We praise thee, O God), when the confession hath been spoken by the priest before the altar, the
+Kyrie is sung, etc. Here are several set one after another, of which one taketh whichever he
+will, according to the occasion of the season: *Kyrie eleison*. *Christe miserere* [Christ,
+have mercy]. O Lord, have mercy upon us. Another: *Kyrie eleison*. *Christe miserere*. O Lord,
+have mercy upon us. *Paschale*: *Kyrie eleison*. *Christe miserere*. O Lord, have mercy upon us.
+
+A fourth of the same form stands before the German prose Gloria (p. 528).
+
 #### <a id="s8-6-3"></a>8.6.3 Bugenhagen's defence of the Greek Kyrie
 
 Bugenhagen defended keeping the Greek words, even in German. The people already sang
@@ -22173,7 +22193,7 @@ The texts follow, one Kyrie to a subsection, each in the original and in English
 | [8.6.4.4](#s8-6-4-4) | "Ach Vater, allerhöchster Gott" (Ah Father, God most high) | *summum* | Ritzebüttel 1556, in Low German | Mecklenburg 1545; Marienhafe 1593 |
 | [8.6.4.5](#s8-6-4-5) | "Here, o Godt vader yn ewicheit" (Lord, O God the Father in eternity) and "Kyrie, milde vader" (Kyrie, gentle Father) | — | Schleswig-Holstein [after 1526]; Ritzebüttel 1556 | — |
 | [8.6.4.6](#s8-6-4-6) | "Kyrie, Gott aller Welt Schöpfer und Vater" (Kyrie, God, Creator of all the world, and Father) | *paschale* | — | Pfalz-Zweibrücken 1557 |
-| [8.6.4.7](#s8-6-4-7) | The Latin tropes: *Fons bonitatis* and the Holy Week Kyrie | — | Hof 1592 | Buxtehude 1565; Nördlingen 1579 |
+| [8.6.4.7](#s8-6-4-7) | The Latin tropes: the Holy Week Kyrie; the *Fons bonitatis* and the *Magne Deus* | — | Hof 1592; the other two from outside the corpus | Buxtehude 1565; Nördlingen 1579 |
 
 ##### <a id="s8-6-4-1"></a>8.6.4.1 "Kyrie, Gott Vater in Ewigkeit": the *summum* or *Fons bonitatis*
 
@@ -22193,6 +22213,9 @@ Mediator thou art in the highest throne; to thee we cry out of the desire of [ou
 
 Kyrie, God the Holy Ghost, comfort [and] strengthen us in faith at all times, that at the last
 end we may depart joyfully out of this misery, *eleison*.
+
+The Latin trope of the *Fons bonitatis* (Fount of goodness), which no order prints, is given from outside the corpus
+in [§8.6.4.7](#s8-6-4-7). The German does not translate it.
 
 Hof sings the same text under the name of its Latin melody, on Whitsunday.
 **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 441):
@@ -22282,10 +22305,13 @@ German incipit under the name of the Latin trope. **Hof, *Ordo ecclesiasticus*, 
 
 The register of the Hof volume refers the text to a song of Johann Spangenberg, of which Hof
 takes the first, fourth and eighth stanzas (Wackernagel III, no. 1116), and calls it an expanded
-rewriting of the *Kyrie magnae Deus potentiae* (Sehling 11, p. 752). Hof's list of figured music
-sets the Latin *Kyrie Magnae Deus potentiae* for four voices on St Stephen's Day and at Epiphany
-(p. 458). Nördlingen sings the *Magne Deus* (Great God) from Christmas to Easter, and again at the
-Annunciation, "and on that day the organ is played too" (Sehling 12, pp. 318, 322).
+rewriting of the *Kyrie magnae Deus potentiae* (Sehling 11, p. 752). The Latin trope is given
+from outside the corpus in [§8.6.4.7](#s8-6-4-7). By this book's reading, the German first line
+renders its opening, *magnae Deus potentiae* (God of great power), and the Christe "born of
+Mary" recalls its "only Son of [thy] mother"; the rest is free. Hof's list
+of figured music sets the Latin *Kyrie Magnae Deus potentiae* for four voices on St Stephen's
+Day and at Epiphany (p. 458). Nördlingen sings the *Magne Deus* (Great God) from Christmas to Easter, and
+again at the Annunciation, "and on that day the organ is played too" (Sehling 12, pp. 318, 322).
 
 ##### <a id="s8-6-4-4"></a>8.6.4.4 "Ach Vater, allerhöchster Gott"
 
@@ -22403,20 +22429,21 @@ I lift up my soul]. Kyrie: *Fons bonitatis* [Fount of goodness]. *Christe, unice
 genite* [Christ, only-begotten of God the Father]. Kyrie: *Ignis divine* [O fire divine]. The
 collect in German.
 
-By this book's reading, the three are the opening words of the first Kyrie, the first Christe
-and the last Kyrie of the troped *Kyrie fons bonitatis*. The register of the edition lists
-"Kyrie Ignis divine" as a Kyrie of its own (Sehling 12, p. 412). The same list has the *Magne
-Deus* (Great God) from Christmas to the second Sunday after Epiphany and again in Lent, the *dominicale* (Sunday [Kyrie])
-from Septuagesima to Lent and from Pentecost to the third Sunday after Trinity, and the
-*paschale* (Easter [Kyrie]) from Easter to Pentecost. From the third Sunday after Epiphany, and from the fourth
-after Trinity, it has "the Kyrie without the text", that is, without its tropes
-(Sehling 12, pp. 377–380).
+The three are the opening words of the first Kyrie, the first Christe and the last Kyrie of the
+troped *Kyrie fons bonitatis*, verses 1a, 2a and 3c of the Latin text given below. Some late
+medieval sources have these three verses only (*Analecta Hymnica* 47, notes to no. 5). The
+register of the edition lists "Kyrie Ignis divine" as a Kyrie of its own (Sehling 12, p. 412).
+The same list has the *Magne Deus* (Great God) from Christmas to the second Sunday after Epiphany and again
+in Lent, the *dominicale* (Sunday [Kyrie]) from Septuagesima to Lent and from Pentecost to the third Sunday after
+Trinity, and the *paschale* (Easter [Kyrie]) from Easter to Pentecost. From the third Sunday after Epiphany, and
+from the fourth after Trinity, it has "the Kyrie without the text", that is,
+without its tropes (Sehling 12, pp. 377–380).
 
-**Printed in full.** One Latin troped Kyrie is printed whole. At Hof the Holy Week Matins
-survived as "the evening office, formerly called Tenebrae", on the Wednesday, Thursday and
-Friday of Holy Week ([§13.21.4](#s13-21-4)). After the sermon the Kyrie was sung with three
-tropes, each sung by a master of the school, between the acclamations of the boys.
-**Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 416):
+**Printed in full.** One Latin troped Kyrie is printed whole in the corpus. At Hof the Holy Week
+Matins survived as "the evening office, formerly called Tenebrae", on the Wednesday, Thursday
+and Friday of Holy Week ([§13.21.4](#s13-21-4)). After the sermon the Kyrie was sung with three
+tropes, each sung by a master of the school, between the acclamations of the boys. **Hof, *Ordo
+ecclesiasticus*, 1592** (Sehling 11, p. 416):
 
 <!-- doc 294 -->
 
@@ -22442,6 +22469,79 @@ The refrain is the verse that ends the psalms of the same office (Sehling 11, p.
 "bite" of the third trope answers the rest of the verse of Hosea in the Latin Bible: "O hell, I
 will be thy bite". The editor refers the form to the *Handbuch der deutschen evangelischen
 Kirchenmusik* (Handbook of German Evangelical Church Music; vol. I/1, no. 10; Sehling 11, p. 416, n. 20).
+
+**The *Fons bonitatis* and the *Magne Deus*, from outside the corpus.** The orders name these
+two Kyries but nowhere print their Latin words. They are translated here from the critical edition of the medieval Kyrie tropes, *Analecta Hymnica Medii Aevi*, vol. 47, by Clemens Blume and Henry
+Marriott Bannister (Leipzig, 1905), with its numbering of the verses: three Kyries (1a–c), three
+Christes (2a–c) and three Kyries (3a–c). Its text is made from medieval manuscripts and printed
+missals. It has not been compared with Lossius's *Psalmodia* or the other Lutheran chant books
+from which the schools sang. Unlike the other quotations in this book, these two do not come from `eko.db` ([Conventions](#conv-quotations)).
+
+**Kyrie fons bonitatis** (*Analecta Hymnica* 47, no. 5, pp. 53–56):
+
+<!-- outside Sehling: Analecta Hymnica 47, no. 5 -->
+
+1a. Kyrie, fount of goodness, Father unbegotten, from whom all good things proceed, *eleison*.
+
+1b. Kyrie, who didst send thy Son to suffer for the sin of the world, that he might save it,
+*eleison*.
+
+1c. Kyrie, who givest the gifts of the sevenfold Spirit, by whom heaven [and] earth are filled,
+*eleison*.
+
+2a. Christ, only-begotten of God the Father, whom the holy prophets wonderfully foretold to the
+world as to be born of a virgin, *eleison*.
+
+2b. Christ, holy one, master of the palace of heaven, to whom the highest of the angels, standing
+ever by, singeth the song of glory as its office, *eleison*.
+
+2c. Christ, be present from heaven at our prayers, whom with lowly minds we devoutly worship on
+earth; to thee, O gracious Jesu, we cry: *eleison*.
+
+3a. Kyrie, gracious Spirit, at one with the Father and the Son, being of one substance,
+breathing from both, *eleison*.
+
+3b. Kyrie, who, when Christ was baptized in the water of Jordan, didst appear shining in the
+form of a dove [Matt 3:16], *eleison*.
+
+3c. Kyrie, O fire divine, kindle our hearts, that being worthy we may together proclaim
+evermore: *eleison*.
+
+*Analecta Hymnica* reads "as its office" in 2b, where many sources have "before the Godhead". The German "Kyrie, Gott Vater in Ewigkeit" (Kyrie, God the Father in eternity), sung to this melody
+([§8.6.4.1](#s8-6-4-1)), does not translate the trope; it keeps only its order of the Father,
+the Son and the Holy Ghost.
+
+**Kyrie magnae Deus potentiae** (*Analecta Hymnica* 47, no. 99, pp. 158–160):
+
+<!-- outside Sehling: Analecta Hymnica 47, no. 99 -->
+
+1a. Kyrie, God of great power, deliverer of man, the transgressor of the commandment, *eleison*.
+
+1b. Kyrie, wonderful one, who didst send thy Son, born of a virgin, to redeem [us]: graciously
+have mercy upon us.
+
+1c. Kyrie, glorious one, who for the lost sheep didst take upon thee human flesh, *eleison*.
+
+2a. Christ, begotten of the Father most high, our salvation and life, *eleison*.
+
+2b. Christ, only Son of [thy] mother, the truth, the peace and the way, *eleison*.
+
+2c. Christ, hope of mercy, light appearing in light, *eleison*.
+
+3a. Kyrie, whose Son Emmanuel ploweth up this that Adam, the first man, overthrew; *eleison*.
+
+3b. Kyrie most holy, whom the wise men, when they had seen the star, worship with gifts offered
+[Matt 2:10–11], *eleison*.
+
+3c. Kyrie, who in Jordan, when the King was baptized, appearedst in the form of a dove
+[Matt 3:16], *eleison*.
+
+In 3a several sources have "restored this that Adam, the first man, lost", and "born man" for "whose Son". *Analecta
+Hymnica* prefers "whose Son" because the last three verses seem to be addressed to the Father,
+the Son and the Holy Ghost in turn. The trope's verses on the Nativity, the wise men and the
+baptism in Jordan fit the season that Hof and Nördlingen give it, from Christmas into the weeks
+after Epiphany ([§8.6.4.3](#s8-6-4-3)). *Analecta Hymnica* also notes that the trope's opening
+is recorded in the Bremen Missal printed at Strasbourg in 1511 (*Analecta Hymnica* 47, p. 160).
 
 #### <a id="s8-6-5"></a>8.6.5 The Kyrie and Gloria in one hymn: "Allein Gott"
 
@@ -23414,9 +23514,9 @@ and Lent.
 
 #### <a id="s8-10-1"></a>8.10.1 "Nun bitten" as the prayer before the sermon
 
-**Buxtehude, *Agende*, 1526** (Sehling 7/1, p. 70). This is the earliest seasonal table for
-the slot. The Ascension hymn is "Zu Himmel zu dem Vater mein" (To heaven, to my Father), the ninth stanza of Luther's
-"Nun freut euch" (Now rejoice):
+**Buxtehude, *Kirchenordnung*, 1552** (Sehling 7/1, p. 70). It changes the hymn before the
+sermon through the whole year. The Ascension hymn is "Zu Himmel zu dem Vater mein" (To heaven, to my Father), the ninth
+stanza of Luther's "Nun freut euch" (Now rejoice):
 
 <!-- doc 2082 -->
 
@@ -26596,7 +26696,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Wittgenstein, *Kirchenordnung* [1565] | 22, p. 116 | 1493 | "Aus tiefer Not" as a confession | [8.4.5](#s8-4-5) |
 | Tecklenburg, *Kirchenordnung*, 1543 | 22, pp. 243–244 | 1505 | German psalm for the introit; thanksgiving hymns to close | [8.5.1](#s8-5-1), [8.15.3](#s8-15-3) |
 | Soest, *Kirchenordnung*, 1532 | 22, p. 450 | 1527 | three kneeling boys sing *Veni sancte*; psalm while communicants kneel | [8.4.1](#s8-4-1), [8.11.4](#s8-11-4) |
-| Neuenrade, *Kirchenordnung*, 1564 | 22, pp. 519, 530–531, 540 | 1544 | seasonal post-epistle table; German Agnus; long *Benedicamus* melodies rejected | [8.8.7](#s8-8-7), [8.15.1](#s8-15-1), [8.16.8](#s8-16-8) |
+| Neuenrade, *Kirchenordnung*, 1564 | 22, pp. 519, 527–528, 530–531, 540 | 1544 | Kyrie in three tongues; seasonal post-epistle table; German Agnus; long *Benedicamus* melodies rejected | [8.6.2](#s8-6-2), [8.8.7](#s8-8-7), [8.15.1](#s8-15-1), [8.16.8](#s8-16-8) |
 | Lippe, *Deutsche Messe* [c. 1525–1538] | 22, pp. 565–568 | 1549 | "Aus tiefer Not" as introit; early Low German "Allein Gott" (To God alone); hymn for the offertory | [8.5.3](#s8-5-3), [8.7.3](#s8-7-3), [8.11.3](#s8-11-3) |
 
 **Lower Saxony, Bremen and East Frisia**
@@ -26615,8 +26715,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Northeim, *Kirchenordnung*, 1539 | 6/2, pp. 924–926 | 2047 | chant while people gather; choice is free; *Da pacem* (Give peace) to close; German Te Deum | [8.4.2](#s8-4-2), [8.8.1](#s8-8-1), [8.15.3](#s8-15-3), [8.16.4](#s8-16-4) |
 | Grubenhagen, *Kirchenordnung*, 1581 | 6/2, pp. 1046, 1048 | 2058 | catechism hymn held through each part; Spangenberg's cantional | [8.16.6](#s8-16-6), [8.18.6](#s8-18-6) |
 | Hoya, *Kirchenordnung*, 1581 | 6/2, pp. 1148–1151 | 2065 | German Te Deum at opening; *Leisen* in pulpit; festal closing hymns; Luther's hymns first | [8.4.4](#s8-4-4), [8.10.2](#s8-10-2), [8.15.3](#s8-15-3), [8.16.6](#s8-16-6), [8.18.5](#s8-18-5) |
-| Buxtehude, *Agende*, 1526 | 7/1, p. 70 | 2082 | seasonal hymn before the sermon | [8.10.1](#s8-10-1) |
-| Buxtehude, *Kirchenordnung*, 1552 | 7/1, pp. 74–78 | 2082 | introit kept if scriptural; creed as offertory without organ; organist to follow the choir | [8.5.1](#s8-5-1), [8.9.2](#s8-9-2), [8.15.3](#s8-15-3), [8.18.1](#s8-18-1), [8.18.9](#s8-18-9) |
+| Buxtehude, *Kirchenordnung*, 1552 | 7/1, pp. 70, 74–78 | 2082 | introit kept if scriptural; creed as offertory without organ; organist to follow the choir; seasonal hymn before the sermon | [8.5.1](#s8-5-1), [8.9.2](#s8-9-2), [8.10.1](#s8-10-1), [8.15.3](#s8-15-3), [8.18.1](#s8-18-1), [8.18.9](#s8-18-9) |
 | Buxtehude, *Agende*, 1565 | 7/1, p. 123 | 2082 | Kyrie of the highest feasts "with the text"; texts left out by the editor | [8.6.4.7](#s8-6-4-7) |
 | Verden, *Kirchenordnung*, 1606 | 7/1, pp. 155–158 | 2090 | *Veni sancte* at the altar; gospel-matched psalm; *Leisen*; hymn while preacher vests | [8.4.1](#s8-4-1), [8.8.6](#s8-8-6), [8.10.2](#s8-10-2), [8.11.2](#s8-11-2) |
 | Osnabrück (Stift), *Kirchenordnung*, 1543 | 7/1, pp. 224–225 | 2096 | creed after the sermon; wedding Te Deum and Ps 128 | [8.9.2](#s8-9-2), [8.17.2](#s8-17-2) |
@@ -26698,7 +26797,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 48 witnesses in [`hymns.db`](#repo-hymns), 29 are counted as old.
+Of the 50 witnesses in [`hymns.db`](#repo-hymns), 29 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -26707,15 +26806,16 @@ Of the 48 witnesses in [`hymns.db`](#repo-hymns), 29 are counted as old.
 | Other single orders and schemes (4) | Ludecus, *Ordo cantionum Germanicarum*, 1589; Carpzov (the hymns on which he preached); the *de tempore* plan of c. 1700 printed by Graff; Bach's Leipzig usage (the chorales of his Sunday and festival cantatas) |
 | Modern studies that collate older sources (2) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time); Thompson, dissertation, Appendix 2 (Ludecus with twelve other 16th-century lists) |
 
-The other 19 witnesses are modern and are **not counted**. Krusemark explains his own lists on
+The other 21 witnesses are modern and are **not counted**. Krusemark explains his own lists on
 pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern witnesses are:
 
-- Krusemark's Years A, B and C;
+- Krusemark's own series: Years A, B and C, and, on the days the three-year series does not
+  cover, a list for every year or one each for even and odd years;
 - the lists of Stuckwisch, Reuning, Gehrke, Eckardt, Judisch, Zion (Detroit) and Redeemer;
 - the LCMS Synod selections of 2016–17 and the LSB Hymnal Committee;
 - *Lutheran Worship* (1982), *Lutheran Service Book* (2006) and the SELK hymnal;
 - the Mecklenburg hymnal of 1855;
-- two private schemes (MC, SD) and the unattributed entries.
+- two private schemes (MC, SD).
 
 Some of the old witnesses reach `hymns.db` through modern compilations. Carpzov, Bach and the
 plan of c. 1700 come through Krusemark or the Hymn of the Day table, and Selnecker through all
@@ -26796,14 +26896,14 @@ Some of the old witnesses add nothing to the table, for these reasons:
 | **Sunday after Christmas** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 4 of 10 |
 |  | *Hilf Gott, wie geht das immer zu* (Help God, how does this ever go on) | Help God, how does this ever go on | Oh, Help Us, God! Why Must It Be † | 4 of 10 |
 |  | *Wo Gott der Herr nicht bei uns hält* (If God the Lord does not stand by us) | If God the Lord does not stand by us | If God Had Not Been on Our Side | 3 of 10 |
-| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* (Help me praise God's goodness) | Help me praise God's goodness | To God the Anthem Raising † | 8 of 16 |
-|  | *Das alte Jahr vergangen ist* (The old year has passed) | The old year has passed | The Old Year Now Hath Passed Away | 6 of 16 |
+| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* (Help me praise God's goodness) | Help me praise God's goodness | To God the Anthem Raising † | 8 of 15 |
+|  | *Das alte Jahr vergangen ist* (The old year has passed) | The old year has passed | The Old Year Now Hath Passed Away | 6 of 15 |
 | **Sunday after New Year** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 3 of 3 |
-| **Epiphany** | *Was fürchtst du, Feind Herodes, sehr* (Why dost thou fear so, foe Herod) | Why dost thou fear so, foe Herod | Why, Herod, Unrelenting Foe | 18 of 25 |
+| **Epiphany** | *Was fürchtst du, Feind Herodes, sehr* (Why dost thou fear so, foe Herod) | Why dost thou fear so, foe Herod | Why, Herod, Unrelenting Foe | 18 of 24 |
 | **Epiphany 1** | *Dies sind die heilgen zehn Gebot* (These are the holy ten commandments) | These are the holy ten commandments | These Are the Holy Ten Commands | 13 of 17 |
 |  | *Mensch, willst du leben seliglich* (Man, wouldst thou live blessedly) | Man, wouldst thou live blessedly | Man, Wouldst Thou Live All Blissfully | 8 of 17 |
 | **Epiphany 2** | *Wohl dem, der in Gottes Furcht steht* (Blessed is he who stands in the fear of God) | Blessed is he who stands in the fear of God | Blessed Are They Who Fear the Lord | 13 of 17 |
-| **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* (I call to thee, Lord Jesus Christ) | I call to thee, Lord Jesus Christ | I Call to Thee, Lord Jesus Christ | 7 of 17 |
+| **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* (I call to thee, Lord Jesus Christ) | I call to thee, Lord Jesus Christ | I Call to Thee, Lord Jesus Christ | 7 of 16 |
 | **Epiphany 4** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 11 of 18 |
 |  | *Wär Gott nicht mit uns diese Zeit* (Were God not with us at this time) | Were God not with us at this time | Were God Not with Us at This Time | 8 of 18 |
 | **Epiphany 5** | *Ach Gott, vom Himmel sieh darein* (O God, look down from heaven) | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 10 of 15 |
@@ -26840,12 +26940,12 @@ Some of the old witnesses add nothing to the table, for these reasons:
 | **Good Friday** | *Da Jesus an dem Kreuze stund* | When Jesus on the cross stood | When Jesus on the Cross Was Bound | 10 of 12 |
 |  | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 6 of 12 |
 | **Easter Day** | *Christ ist erstanden* (Christ is arisen) | Christ is risen | Christ Is Arisen | 18 of 22 |
-|  | *Christ lag in Todesbanden* (Christ lay in death's bonds) | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 17 of 22 |
+|  | *Christ lag in Todesbanden* (Christ lay in death's bonds) | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 16 of 22 |
 |  | *Jesus Christus, unser Heiland, der den Tod überwand* (Jesus Christ, our Saviour, who overcame death) | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Our Savior and King † | 15 of 22 |
 |  | *Erstanden ist der heilige Christ* (The holy Christ is risen) | The holy Christ is risen | — | 14 of 22 |
 | **Easter Monday** | *Ach bleib bei uns, Herr Jesu Christ* (Abide with us, Lord Jesus Christ) | Abide with us, Lord Jesus Christ | Lord Jesus Christ, with Us Abide | 1 of 2 ‡ |
 |  | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 1 of 2 ‡ |
-| **Easter 1 (Quasimodogeniti)** | *O filii et filiae* (O sons and daughters) | O sons and daughters | O Sons and Daughters of the King | 1 of 6 ‡ |
+| **Easter 1 (Quasimodogeniti)** | *O filii et filiae* (O sons and daughters) | O sons and daughters | O Sons and Daughters of the King | 0 of 5 ‡ |
 | **Easter 2 (Misericordias Domini)** | *Der Herr ist mein getreuer Hirt* (The Lord is my faithful shepherd) | The Lord is my faithful shepherd | The Lord’s My Shepherd, Faithful, True | 11 of 14 |
 | **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come unto Me, Ye Weary | 9 of 13 |
 |  | *Mag ich Unglück nicht widerstahn* (If I cannot withstand misfortune) | If I cannot withstand misfortune | May I My Fate No More Withstand † | 6 of 13 |
@@ -26912,7 +27012,7 @@ Some of the old witnesses add nothing to the table, for these reasons:
 |  | *Es wird schier der letzte Tag herkommen* (The last day will soon be coming) | The last day will soon be coming | Lo, the Final Day Is Fast Approaching † | 7 of 18 |
 |  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice, Ye Christians Dear † | 6 of 18 |
 | **Purification of Mary (2 Feb)** | *Mit Fried und Freud ich fahr dahin* | With peace and joy I depart | In Peace and Joy I Now Depart | 22 of 23 |
-| **Annunciation (25 March)** | *Mein Seel erhebt den Herren* (My soul magnifies the Lord) | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 16 of 18 |
+| **Annunciation (25 March)** | *Mein Seel erhebt den Herren* (My soul magnifies the Lord) | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 16 of 17 |
 | **St John the Baptist (24 June)** | *Christ, unser Herr, zum Jordan kam* | Christ our Lord came to the Jordan | To Jordan Came the Christ, Our Lord | 9 of 17 |
 |  | *Gelobet sei der Herr, der Gott Israel* (Blessed be the Lord, the God of Israel) | Blessed be the Lord, the God of Israel | Blessed Be the Lord, the God of Israel | 9 of 17 |
 | **Visitation of Mary (2 July)** | *Mein Seel erhebt den Herren* | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 6 of 8 |
@@ -26936,7 +27036,7 @@ number of old witnesses that do give this hymn.
   ones those few witnesses give: Luther's Communion hymn on Maundy Thursday (Carpzov,
   Selnecker), *Ach bleib bei uns* (Abide with us, Lord Jesus Christ) and *Christ ist erstanden* (Christ is arisen) on Easter Monday (Bach's Leipzig),
   and *Komm, Heiliger Geist* (Come, Holy Ghost) on Pentecost Monday (Stiller). *O filii et filiae* (O sons and daughters) on
-  Quasimodogeniti has one old witness (Stiller) and is the usual choice of the modern lists.
+  Quasimodogeniti has no old witness, but it is the usual choice of the modern lists.
 - **Thin days.** On some days the evidence is divided or sparse, and the "of" figure should be
   read with the count:
   - the Sunday after Christmas;
@@ -51353,7 +51453,9 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 1 — [13.21.2](#s13-21-2)
 - 2 — [12.5.3](#s12-5-3)
+- 2:10–11 — [8.6.4.7](#s8-6-4-7)
 - 3 — [12.8.9](#s12-8-9), [12.11.5](#s12-11-5), [13.21.7](#s13-21-7)
+- 3:16 — [8.6.4.7](#s8-6-4-7)
 - 6 — [7.1.2](#s7-1-2), [7.8.5](#s7-8-5)
 - 6:7 — [7.8.5](#s7-8-5)
 - 8:8 — [7.11.3](#s7-11-3)

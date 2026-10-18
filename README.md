@@ -46,12 +46,8 @@ their first use in each section. The contents and the indexes are rebuilt for th
 
 [`CORE_HYMNS.md`](CORE_HYMNS.md) lists the hymns, chants and canticles at the centre of
 liturgical life in the church orders, as far as they have been chosen, with the English title of
-each in the hymnal index (see below). [`CORE_HYMNS.xlsx`](CORE_HYMNS.xlsx) has the same tables as
-a spreadsheet, with each hymn's numbers in all the hymnal columns of the index, and the notes on
-a second sheet. Its **Chief Hymns** sheet gives the chief hymn of each Sunday and feast: the table
-of Appendix 8.A.3, from the old sources, with every hymn that at least three modern sources give
-for the day (Krusemark's Years A, B and C counting as one source). **Chief Hymns Notes** explains
-how it was made.
+each in the LCMS Worship Lutheran Hymn Index. [`CORE_HYMNS.pdf`](CORE_HYMNS.pdf) is a print of
+it.
 
 ### Tools
 
@@ -76,10 +72,6 @@ For the corpus see [`CORPUS_GUIDE.md`](CORPUS_GUIDE.md).
 For the database `eko.db` see [`DB_GUIDE.md`](DB_GUIDE.md).
 
 For the hymn tables (`hymns.db`) see [`HYMN_GUIDE.md`](HYMN_GUIDE.md).
-
-For the hymnal index, which matches the hymns of KELG, TLH, LSB and the other Lutheran hymnals
-(`Hymn Index/hymnal.db` and `Hymn Index/LCMS-Worship-Lutheran-Hymn-Index.xlsx`), see
-[`Hymn Index/README.md`](Hymn%20Index/README.md).
 
 For the general prayers (Prayers of the Church) and `general_prayers.db` see
 [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md).

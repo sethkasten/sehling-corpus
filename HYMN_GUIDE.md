@@ -55,14 +55,14 @@ files are produced.
 
 ## Two layers of evidence
 
-The database holds **4,144 prescriptions** from **48 witnesses**, in two
+The database holds **4,135 prescriptions** from **50 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 466 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 3,678 | later hymnals and modern conflations, read from separate documents |
+| Hymnals and compilations | 3,669 | later hymnals and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -131,7 +131,7 @@ The hymnals and compilations below are Lutheran too.
 | Source | Rows | Witnesses | What it is |
 |---|---:|---:|---|
 | Liliencron, *de tempore* concordance (pp. 61–77) | 1,823 | 15 | Collates fifteen hymnals, 1545–1694, Sunday by Sunday |
-| Krusemark, *Hymns ABC* (2018) | 1,141 | 18 | Three-year series collating seventeen lists for the LSB one-year lectionary |
+| Krusemark, *Hymns ABC* (2018) | 1,132 | 20 | Three-year series collating seventeen lists for the LSB one-year lectionary |
 | Hymn of the Day conflation table | 371 | 12 | Modern table collating Carpzov, Gehrke, SELK, Selnecker, Zion, LW, LSB and others |
 | Ludecus, *Ordo cantionum Germanicarum* (1589) | 310 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
@@ -143,7 +143,23 @@ LCMS, ELS, Zion Detroit, Dietrich, Judisch, Thompson, Gerhardt, Carpzov,
 Liliencron, Bach, Stiller, the LSB Hymnal Committee, and his own Years
 A/B/C), explained in his own guide on pp. 95–96.
 
-**Only his Hymn-of-the-Day entries are loaded — 1,141 of 6,925.** His
+**His own series closes each occasion.** On most days it is Years A, B
+and C. Where the three-year series does not run, it is one list headed
+*Every Year*, or two headed *Even Year* and *Odd Year*. These are lists
+of his own, loaded as the witnesses `Krusemark, Every Year`, `Krusemark,
+Even Year` and `Krusemark, Odd Year`; a *Choir* heading inside a list is
+only a subdivision of it. (Builds before October 2026 read *Every Year*,
+*Even Year* and *Odd Year* as subdivisions, and so gave his picks to the
+list printed before them: Stiller, the plan of c. 1700, Judisch, Zion or
+the unattributed *Other*.)
+
+**The pages after the occasions are not his lists.** His Explanation
+(pp. 95–96) and two pages that only name saints' days (pp. 98 and 100)
+are not read. Holy Innocents (p. 99) is, though its heading is set in
+the text size and not as an occasion heading; it is loaded as
+`Holy Innocents (28 Dec)`.
+
+**Only his Hymn-of-the-Day entries are loaded — 1,132 of 6,749.** His
 lists also carry opening, distribution, offering and closing hymns, which
 are real data but are *not* chief hymns; mixing them in would destroy the
 meaning of this table. The full extraction, with every entry and its

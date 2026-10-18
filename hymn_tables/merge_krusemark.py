@@ -49,7 +49,7 @@ FIXED = {
  'Resurrection Lord, Vigil of Easter':'Easter Vigil','Septuagesima':'Septuagesima',
  'Sexagesima':'Sexagesima','St. Peter and St. Paul':'St Peter and St Paul (29 June)',
  'Transfiguration Lord':'Transfiguration','Visitation Mary':'Visitation of Mary (2 July)',
- 'St. Joseph':'St Joseph (19 March)',
+ 'St. Joseph':'St Joseph (19 March)', 'Holy Innocents':'Holy Innocents (28 Dec)',
 }
 
 def norm_occ(raw):
