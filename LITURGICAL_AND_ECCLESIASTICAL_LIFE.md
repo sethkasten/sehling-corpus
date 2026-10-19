@@ -26552,13 +26552,22 @@ German Benedictus or the German Te Deum instead (§§[8.4.3](#s8-4-3)–[8.4.4](
   Latin tropes themselves are named at Nördlingen (1579) and printed in Hof's Holy Week office
   (1592) ([§8.6.4](#s8-6-4)). The Kyrie was also sung in three tongues, Greek, Latin and German
   (Prussia 1525, Riga 1530, Neuenrade 1564) ([§8.6](#s8-6)).
-- **Gloria.** "Allein Gott in der Höh" was sung for, alternately with, or inside the Latin
-  Gloria. In the last case the whole German hymn was inserted between *Et in terra pax* and
-  *Laudamus te* (Wolfenbüttel 1543, Hildesheim 1544, Osnabrück 1543). "All Ehr und Lob" was the
-  alternative ([§8.7](#s8-7)).
+- **Gloria.** Decius's "Allein Gott in der Höh sei Ehr", in Low German "Allene Godt yn der
+  höge sy eer", was the German Gloria of the corpus. Fifty-two orders name it in the Gloria slot
+  ([§8.7.6](#s8-7-6)). It was sung for, alternately with, or inside the Latin Gloria. In the
+  last case the whole German hymn was inserted between *Et in terra pax* and *Laudamus te*
+  (Schleswig-Holstein 1542, Wolfenbüttel 1543, Hildesheim 1544). Osnabrück (1543) sang it after
+  the intonation and then the Latin to the end. The Lippe Mass [c. 1525–1538] and Neuenrade
+  (1564) print all four stanzas in Low German. "All Ehr und Lob" was the alternative
+  ([§8.7](#s8-7)).
 - **Creed.** "Wir glauben all" ([§8.9](#s8-9)).
-- **Sanctus.** Luther's "Jesaia dem Propheten" was usual, and a Trinitarian troped Sanctus,
-  "Heilig ist Gott der Vater", was also sung ([§8.12](#s8-12)).
+- **Sanctus.** Luther's "Jesaia dem Propheten" was usual ([§8.12](#s8-12)). The Trinitarian
+  troped Sanctus, "Heilig ist Gott der Vater", in Low German "Hillich is Got, de Vader", is named
+  in five orders: Wolfenbüttel 1543, Mecklenburg 1545, Stralsund 1555, Harlingerland 1573/74 and
+  Hof 1592. One of Sehling's editors gives it to Decius; another calls it anonymous. No order
+  assigns it to Advent, or to any season. The rules are of rank and place: German "at the other
+  times" than the feasts, in the villages, during the communion, or in four parts at Hof on two
+  feasts ([§8.12.2](#s8-12-2)).
 - **Agnus Dei.** "Christe, du Lamm Gottes" and "O Lamm Gottes unschuldig" ([§8.15](#s8-15)).
   Decius's "O Lamm Gottes unschuldig" is found only in its short form, which follows the
   threefold Agnus Dei. It is one stanza sung three times, and the third time it ends with the
@@ -28373,6 +28382,17 @@ Two German Gloria hymns run through the orders:
 The priest's Latin or German intonation ("Gloria in excelsis Deo", "Ehre sei Gott in der Höhe")
 usually stayed. The hymn was sung for, or together with, the choir's *Et in terra*.
 
+Sehling's editors take "Allein Gott" for Decius's German of the *Gloria in excelsis* with the
+*Laudamus* (Sehling 11, p. 747; 13, p. 600). The Hildesheim editor dates it to Braunschweig in
+1522. The text, the editor says, was first printed in Joachim Slüter's Rostock songbook of
+1525, and the melody first in Valentin Schumann's Leipzig songbook of 1539. In Slüter's book
+of 1531 the hymn begins "Allene Godt yn der höge sy eer" (Sehling 7/2.1, p. 853, n. 11). The
+editors of the Westphalian volumes call Decius "Hovesch" (Sehling 21, p. 352, n. 7; 22, p. 566,
+n. 5). Fifty-nine orders name the hymn, in Low German and in High, from the Lippe Mass of about
+1525–1538 into the seventeenth century. They are listed by use in [§8.7.6](#s8-7-6). The Low
+German text is printed whole in the Lippe Mass ([§8.7.3](#s8-7-3)), and again at Neuenrade in
+1564 ([§8.7.4](#s8-7-4)).
+
 The Gloria in the order of the Mass is treated in [Chapter 2](#ch2),
 [§2.7](#s2-7).
 
@@ -28394,7 +28414,10 @@ and singeth: *Et in terra pax, hominibus bona voluntas*, no more. Straightway th
 singeth "To God alone on high be glory," etc., fully through. Thereafter the scholars and the
 organs sing on: *Laudamus te, benedicimus te*, etc., fully through.
 
-The Hildesheim city order of 1544 has the same rubric almost word for word (Sehling 7/2.1, p. 852). The Osnabrück city order puts "Allein Gott" straight after the intonation, and then
+The Hildesheim city order of 1544 has the same rubric almost word for word (Sehling 7/2.1, p. 852). So
+has the Schleswig-Holstein order of 1542, for Sundays and feasts, with "Allene Godt yn der höge
+sy eer" sung "without break to the end, without organ-playing" (Sehling 23, p. 146;
+[§9.3](#s9-3)). The Osnabrück city order puts "Allein Gott" straight after the intonation, and then
 the Latin Gloria "to the end". **Osnabrück (city), *Kirchenordnung*, 1543** (Sehling 7/1, p. 258):
 
 <!-- doc 2099 -->
@@ -28522,14 +28545,48 @@ wives […] may sing along seemly and with one accord, and not only those that a
 Latin singing.
 
 An early Low German Mass from Lippe prints "Allene Gade in der hoge" as the Gloria then
-"commonly" sung. **Lippe, *Deutsche Messe* [c. 1525–1538]** (Sehling 22, p. 566):
+"commonly" sung, all four stanzas, after a prose German Gloria. **Lippe, *Deutsche Messe* [c.
+1525–1538]** (Sehling 22, p. 566):
 
 <!-- doc 1549 -->
 > ghemeynlick synget me nu düt nabescreven Gloria in excelsis […] Gloria in excelsis Deo
-> Allene Gade in der hoge sy ere unde danck vor syne gnade.
+>
+> Allene Gade in der hoge sy ere unde danck vor syne gnade, Darumme, dat nu unde nümmermer uns
+> roren kan eyn schade. Eyn walgeval Godt an uns hadt, nu ys grot frede ane underlath, alle
+> veide heyfft nu eyn ende.
+>
+> Wy laven, prysen, anbeden dick, vor dyne ere wy dancken, dat du, Godt vader, ewychlick
+> regerest an alle wanckelen. Gantz ungemeten ys dyne macht, vort schut, wat dyn wylle he
+> ghedacht, wol uns, des fynen heren.
+>
+> O Jhesu Christ, soene eyngebaren dynes hemmelschen vaders, vorsoner der, dede weren
+> vorlaren, du styller unses haders. Lam Gades, hilge here und Godt, nym an de bede van unser
+> nodt, vorbarme dy unser amen.
+>
+> O hillige geist, du groteste gudt, du alder heylsameste troster, vor düvels ghewalt vordan
+> behode, de Jhesus Christus vorlosede. Dorch grote marter unde bytteren doet affwende al unsen
+> jamer und nodt, dar wy uns tho vorlaten.
 
 Commonly this Gloria in excelsis written hereafter is now sung […]. *Gloria in excelsis Deo*:
-"To God alone on high be glory and thanks for his grace."
+
+To God alone on high be glory, and thanks for his grace; for that now and nevermore can any
+harm touch us. God hath a good pleasure in us; now is great peace without ceasing; all strife
+hath now an end.
+
+We laud, praise and worship thee; for thy glory we give thanks, that thou, God the Father,
+reignest everlastingly without any wavering. Wholly without measure is thy might; forthwith is
+done what thy will hath purposed. Well is us of so fine a Lord!
+
+O Jesu Christ, only-begotten Son of thy heavenly Father, reconciler of them that were lost,
+thou stiller of our strife: Lamb of God, holy Lord and God, receive the prayer of our need,
+have mercy upon us. Amen.
+
+O Holy Ghost, thou greatest good, thou most healing Comforter of all, keep henceforth from the
+devil's power them whom Jesus Christ redeemed through great torment and bitter death. Turn away
+all our misery and need; thereto we trust ourselves.
+
+Neuenrade prints the same four stanzas in 1564, with "Erbarm dick unser armen" (have mercy upon
+us poor ones) for Lippe's "vorbarme dy unser amen" (Sehling 22, p. 528).
 
 #### <a id="s8-7-4"></a>8.7.4 Intonation and answer
 
@@ -28542,6 +28599,34 @@ In Wittgenstein the priest intoned in German and the people answered with Decius
 
 "Praise be to God on high." The choir or the people answereth: "To God alone on high be glory
 and thanks for his grace," etc.
+
+At Ritzebüttel the people took up the priest's Low German intonation and sang it to the end.
+**Ritzebüttel, *Kirchenordnung*, 1556** (Sehling 5, p. 557):
+
+<!-- doc 1963 -->
+> Hirna singet der prester: Ere si gode in der hogede; dat volk singet vordan und vulendet.
+> Alleine godt in der hogede si ehre, und dank vor sine gnade etc.
+
+Hereafter the priest singeth: "Glory be to God on high"; the people sing on and finish it: "To
+God alone on high be glory, and thanks for his grace," etc.
+
+Neuenrade gave the choir three German answers to the priest. **Neuenrade, *Kirchenordnung*,
+1564** (Sehling 22, p. 518):
+
+<!-- doc 1544 -->
+> De Prester: Herlicheit sy Gode in der hüge. Dat Chor: Sin torn up erden etc. oder: Und frede
+> up erden, oder: Allene Gode in der hüge sy ehr, Wie dith alles drunden mit synen noten
+> vortekent is.
+
+The priest: "Glory be to God on high." The choir: "His wrath on earth," etc., or "And peace on
+earth," or "To God alone on high be glory," as all this is set down below with its notes.
+
+The three are printed further on (Sehling 22, pp. 527–528):
+- a rhymed *Et in terra* that begins "Sin torn up erden hebb ein end, / Sin fred und gnad sick
+  tho uns wend" (His wrath on earth hath an end, his peace and grace turn unto us), whose lines
+  agree with those of "All Ehr und Lob";
+- a German Gloria in prose;
+- Decius's hymn in all four stanzas, headed "Ein ander" (another).
 
 Luther's "All Ehr und Lob" was the other answer. In Nördlingen two choirs sang it stanza by
 stanza until the organ was ready. **Nördlingen, *Kirchenordnung* of Kaspar Löner, 1544**
@@ -28593,12 +28678,52 @@ At Meiningen it was left out in winter, "when it will grow too long". **Meininge
 psalm, the Kyrie eleison in German, thereupon the Gloria (which is left out in winter, when it
 will grow too long), and the German *Et in terra*, "To God alone on high be glory," etc.
 
+Where the Gloria was dropped, the German hymn went with it: in Advent at Nördlingen, in Lent in
+Pomerania ([§8.7.2](#s8-7-2)), and in winter at Meiningen. Elsewhere the Gloria kept its place in
+Advent, with a melody of its own. Pfalz-Zweibrücken lists among the Latin chants of its choir
+"Kyrie in adventu domini. Gloria in excelsis Deo" (Sehling 18, p. 255). The Oldenburg editor
+points to the Gloria that Lossius's *Psalmodia* sets with the Advent Kyrie (Sehling 7/2.1,
+p. 1088, n. 9). No order names a season for "Allein Gott" itself.
+
 #### <a id="s8-7-6"></a>8.7.6 How fixed the Gloria was
 
 The Gloria slot was **fixed**. When a hymn was sung, it was nearly always "Allein Gott in der
 Höh", with "All Ehr und Lob" as the alternative. The variation was not in which hymn was sung.
 It was in whether the German hymn replaced the Latin, alternated with it Sunday by Sunday,
 was inserted into it, or was left out for length or season.
+
+**The orders that name "Allein Gott".** Fifty-two orders name it in the Gloria slot, and seven
+more name it only elsewhere. LG marks the Low German text. Each order is listed once, under its
+chief use, with the volume and page in Sehling.
+
+| How "Allein Gott" is sung | Orders |
+|---|---|
+| Inside the Latin Gloria, between *Et in terra pax* and *Laudamus te* | Schleswig-Holstein 1542, LG (23, p. 146); Wolfenbüttel 1543, LG (6/1, p. 55); Hildesheim 1544, LG (7/2.1, p. 852) |
+| With the Latin Gloria kept as well | Lippe [1542], LG, "latin und dudesch" (21, p. 352); Osnabrück (city) 1543, LG, then the Latin "to the end" (7/1, p. 258); Pomerania 1542, LG, after the choir's *Et in terra* (4, p. 356); Cochstedt 1556, after the Latin *Et in terra pax* (2, p. 484); Lüneburg 1575, on its day of deliverance (6/1, p. 663) |
+| For the *Et in terra*, after the intonation | Lippe [c. 1525–1538], LG (22, p. 566); Hadeln 1526, LG (5, p. 468); Ostfriesland 1535, LG, as the Kyrie and Gloria in one (7/1, p. 376; [§8.6.5](#s8-6-5)); Osnabrück (Stift) 1543, LG (7/1, p. 224); Bergedorf 1544, LG (5, p. 387); Mecklenburg 1545, LG (5, p. 151); Stralsund 1555, LG (4, p. 551); Ritzebüttel 1556, LG (5, p. 557); Waldeck 1556 (9, p. 247); Pfalz-Zweibrücken 1557 (18, p. 188); Danzig 1557, in Sehling's summary (4, p. 168); Steuerwald and Peine 1561 (7/2.1, p. 781); Wittgenstein 1563 (22, p. 102); Neuenrade 1564, LG, one of three answers (22, p. 518); Thüngen 1564, or another psalm (11, p. 735); the Henneberg parishes of Belrieth and Einhausen, Goldlauter, Meiningen, Niederlauer, Obermaßfeld, and Sulzfeld and Klein-Bardorf, 1566 (2, pp. 329, 332, 340, 341, 343, 352); Aschersleben 1575, on the apostles' days (2, p. 480); Schweinfurt 1576 (11, p. 646); Hoya 1581 (6/2, p. 1148); Sensburg 1581 (4, p. 151); Grubenhagen 1583 (6/2, p. 1104); Soest 1609, at the middle sermons (22, p. 488); Osnabrück 1618 (7/1, p. 268); Stade c. 1620/22 (7/1, p. 56); Bischofswerda, in a letter of 1676, after a Kyrie in chant (2, p. 106) |
+| Either it or the Latin *Et in terra* | Calenberg-Göttingen 1542, "anstat des Et in terra" (6/2, p. 793); Mecklenburg 1552, in the towns (5, p. 198); Amberg 1555/1557 (13, p. 290); Rostock c. 1560 (5, p. 288); Pomerania 1569, LG, or "All Ehr und Lob" (4, p. 437); Kurland 1570 (5, p. 88); Lippe 1571, in the towns (21, p. 387); the Mecklenburg convents 1572 (5, p. 256) |
+| One Sunday the Latin, the next the German | the Lüneburg convents 1555 (6/1, p. 614); Prussia 1568 (4, p. 81) |
+| In the villages | Lüneburg 1564 (6/1, p. 553); Braunschweig-Wolfenbüttel 1569 (6/1, p. 155); Oldenburg 1573 (7/2.1, p. 1112); Verden 1606 (7/1, p. 164). Several of the orders above give it to their villages too: Pomerania 1542 (4, p. 358), Mecklenburg 1552 (5, p. 202), Pfalz-Zweibrücken 1557 (18, p. 212), Prussia 1568 (4, p. 83), Pomerania 1569 (4, p. 440) and Lippe 1571 (21, p. 396) |
+
+**Outside the Gloria.** The hymn was also sung:
+- in a service without communion, as one of the German psalms before the collect: Mecklenburg
+  1552 (5, p. 199), Amberg 1555/1557 (13, p. 292), Pfalz-Zweibrücken 1557 (18, p. 209) and
+  Verden 1606 (7/1, p. 162). Lippe [1542] calls it "the psalm *Alleine Gott yn der hogede*" (21,
+  p. 352);
+- between the epistle and the gospel: Sayn 1590 (19/1, p. 412);
+- after the sermon: at Northeim 1539, while the preacher came down and made ready the hosts and
+  the cup (6/2, p. 926); at Osnabrück 1543, after the holy-day catechism sermon for the servants
+  (7/1, p. 250); and at Lüneburg 1575, before and after the sermon on its day of deliverance
+  (6/1, pp. 662–663);
+- at Christmas, to close the middle sermon of the first day with thanks for the incarnation:
+  Tangermünde 1603 (3, p. 339);
+- after a baptism, or "Sei Lob und Ehr": Berlin 1574 (3, p. 167), Salzwedel 1579, Old Town
+  and New Town (3, pp. 276, 291), and Perleberg 1581 (3, p. 256);
+- to close a confirmation, or "Es woll uns Gott genädig sein": Pomerania 1569 (4, p. 445).
+
+Kurland put it sixth, as "the Gloria", in the list of hymns that the pastors of the non-German
+country people were to teach them, after the five chief parts of the catechism: "6. Das
+gloria. Allein gott in der höhe sei ehr" (Sehling 5, p. 91).
 
 ---
 
@@ -30527,7 +30652,8 @@ The German Sanctus had two forms:
 - Luther's "Jesaia dem Propheten das geschah" (1526). This is a rhymed narrative of Isaiah 6,
   printed in the *Deutsche Messe*.
 - A troped Trinitarian Sanctus, "Heilig ist Gott der Vater, heilig ist Gott der Sohn, heilig ist
-  Gott der Heilige Geist", printed in Low German in Bugenhagen's Wolfenbüttel order.
+  Gott der Heilige Geist", printed in Low German in Bugenhagen's Wolfenbüttel order. Sehling's
+  editors give it to Decius or call it anonymous ([§8.12.2](#s8-12-2)).
 
 The Latin Sanctus stayed in towns with schools and on feasts. In most orders the German
 Sanctus followed the sermon and exhortation and led straight into the communion. In some it was
@@ -30595,6 +30721,18 @@ during the Sanctus: "Merciful heavenly Father …"
 
 #### <a id="s8-12-2"></a>8.12.2 The Trinitarian German Sanctus
 
+Five orders name the Trinitarian Sanctus: Wolfenbüttel 1543, Mecklenburg 1545, Stralsund 1555,
+Harlingerland 1573/74 and Hof 1592. The first three give it in Low German, "Hillich is Got, de
+Vader". Sehling's editors differ on its author:
+- The Hildesheim editor calls it "this anonymous Sanctus". The editor finds it in High German
+  in the *Newe deudsche geistliche Gesenge* that Georg Rhau published for the schools (Sehling
+  7/2.1, p. 856, n. 34). The Hof register names the same collection (Sehling 11, p. 750).
+- The Harlingerland editor takes it for Decius's song setting of the Sanctus, probably written
+  in 1522/23 and printed in Joachim Slüter's Rostock songbook of 1531 as "Hyllich ys Godt de
+  vader / hyllich ys Godt de söne". The editor adds that Ph. J. Rehtmeyer named Decius as the
+  author of a High German form in 1710, and said it was by then little used (Sehling 7/1, p. 739,
+  n. 3).
+
 **Wolfenbüttel, *Kirchenordnung*, 1543** (Sehling 6/1, p. 59):
 
 <!-- doc 1972 -->
@@ -30650,6 +30788,61 @@ Before the communion we ordain to be sung the Sanctus in Latin and German, as th
 found in the said psalm book of Luther; and that with special devotion, by three boys kneeling,
 the Benedictus, and in the creed the *Et homo factus est*, shall be sung, as the same hath
 hitherto been customary.
+
+During the communion Harlingerland had "Heilig ist Gott der Vater" sung in turn with the other
+communion hymns, in the choir and below in the church. **Harlingerland, *Kirchenordnung*,
+1573/74** (Sehling 7/1, p. 739):
+
+<!-- doc 2122 -->
+> Unter der communion wollen wir zue singende Jesuß Christuß, unser heyland etc., Gott sey
+> gelobet und gebenedeyet etc., O lamb Gotteß etc., Heilig ist Gott der Vatter etc., einß umb
+> daß ander, im chor und nedden in der kirchen.
+
+During the communion we will that there be sung "Jesus Christ our Saviour," etc., "God be
+praised and blessed," etc., "O Lamb of God," etc., "Holy is God the Father," etc., one after
+the other, in the choir and below in the church.
+
+Hof sang it in four parts during the communion, from its choirbooks: on St John the Baptist's
+day and at the dedication of St Michael's church. At Epiphany "the German Sanctus for four
+voices" might go before the communion motet. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11,
+pp. 458, 466, 468):
+
+<!-- doc 294 -->
+> Sub communione: Magi viderunt stellam. A 4. L. de Victoria. Praemittatur Sanctus germanicum
+> A 4, si usus postulat.
+
+<!-- doc 294 -->
+> Sub communione: Sanctus praecedentis missae vel Sanctus germanicum: Heilig ist Gott der
+> Vater. A 4. in den beschlagenen.
+
+<!-- doc 294 -->
+> Sub communione: Sanctus germanicum Heilig ist Gott der Vater. A 4. In den schwarzen
+> beschlagenen partibus.
+
+During the communion: *Magi viderunt stellam*, for four voices, by L. de Victoria. Let the
+German Sanctus for four voices go before, if need require.
+
+During the communion: the Sanctus of the foregoing Mass, or the German Sanctus, "Holy is God
+the Father," for four voices, in the clasped [books].
+
+During the communion: the German Sanctus, "Holy is God the Father," for four voices, in the
+black clasped part-books.
+
+Sehling's editor finds it hard to say which of the books in Widmann's list are meant, and says
+they no longer survive (Sehling 11, p. 466, n. 17).
+
+**Not in Advent.** No order assigns "Heilig ist Gott der Vater" to Advent, or to any season.
+The rules the orders give are of rank and place:
+- Stralsund keeps the Latin Sanctus for the feasts and sings the German forms "at the other
+  times";
+- Mecklenburg gives it to the villages, and to the towns "at times";
+- Wolfenbüttel allows it after the preface, or during the communion "at all times";
+- Harlingerland sings it in turn with the communion hymns;
+- Hof sings it in parts on two feasts, and perhaps at Epiphany.
+
+On the second and third Sundays of Advent Hof's communion has the Latin *Sanctus et Agnus
+angelicum* (Sehling 11, pp. 432–433), the grade it gives the Kyrie in Advent (Sehling 11,
+p. 472).
 
 #### <a id="s8-12-3"></a>8.12.3 At the elevation
 
@@ -33721,7 +33914,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533, later appendix | 11, p. 202 | 270 | penitential hymns only for the unrepentant dead | [8.17.4](#s8-17-4) |
 | Brandenburg-Ansbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, p. 316 | 276 | *O crux ave* cut | [8.16.1](#s8-16-1) |
 | Brandenburg-Ansbach, *Auctuarium*, 1548 (Interim order) | 11, pp. 329–330 | 278 | pure sequences; psalm-hymns for impure graduals "for the people's sake"; German *Benedicamus* at the end of Mass | [8.5.2](#s8-5-2), [8.8.2](#s8-8-2), [8.16.8](#s8-16-8) |
-| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 411–475 | 294 | full Sunday table by slot; kneeling "Nun bitten"; communion hymns by number; baptism, wedding and burial hymns; plan defended against changes; *Benedicamus* graded and in German; motets in its place; *Puer natus in Bethlehem* at the entrance to vespers; Latin troped Kyrie in Holy Week | [8.3.1](#s8-3-1), [8.4.1](#s8-4-1), [8.6.4.1](#s8-6-4-1), [8.6.4.2](#s8-6-4-2), [8.6.4.3](#s8-6-4-3), [8.6.4.7](#s8-6-4-7), [8.8.4](#s8-8-4), [8.8.8](#s8-8-8), [8.10.1](#s8-10-1), [8.12.4](#s8-12-4), [8.14.2](#s8-14-2), [8.15](#s8-15), [8.16.1](#s8-16-1), [8.16.2](#s8-16-2), [8.16.7](#s8-16-7), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.16.10](#s8-16-10), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.18.6](#s8-18-6) |
+| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 411–475 | 294 | full Sunday table by slot; kneeling "Nun bitten"; communion hymns by number; baptism, wedding and burial hymns; plan defended against changes; *Benedicamus* graded and in German; motets in its place; *Puer natus in Bethlehem* at the entrance to vespers; Latin troped Kyrie in Holy Week; "Heilig ist Gott der Vater" in four parts at the communion | [8.3.1](#s8-3-1), [8.4.1](#s8-4-1), [8.6.4.1](#s8-6-4-1), [8.6.4.2](#s8-6-4-2), [8.6.4.3](#s8-6-4-3), [8.6.4.7](#s8-6-4-7), [8.8.4](#s8-8-4), [8.8.8](#s8-8-8), [8.10.1](#s8-10-1), [8.12.2](#s8-12-2), [8.12.4](#s8-12-4), [8.14.2](#s8-14-2), [8.15](#s8-15), [8.16.1](#s8-16-1), [8.16.2](#s8-16-2), [8.16.7](#s8-16-7), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.16.10](#s8-16-10), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.18.6](#s8-18-6) |
 | Nürnberg, Veit Dietrich, *Agendbüchlein*, 1545 | 11, p. 502 | 297 | "Als Jesus Christus" at communion | [8.14.6](#s8-14-6) |
 | Schweinfurt, *Kirchenordnung*, 1543 | 11, p. 641 | 304 | "Erhalt uns" after the sermon | [8.11.1](#s8-11-1) |
 | Schweinfurt, *Gottesdienstordnung*, 1576 | 11, p. 646 | 304 | four-week plan; "Wir glauben" for "Nun bitten" in Advent | [8.9.4](#s8-9-4) |
@@ -33792,8 +33985,8 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Wittgenstein, *Kirchenordnung* [1565] | 22, p. 116 | 1493 | "Aus tiefer Not" as a confession | [8.4.5](#s8-4-5) |
 | Tecklenburg, *Kirchenordnung*, 1543 | 22, pp. 243–244 | 1505 | German psalm for the introit; thanksgiving hymns to close | [8.5.1](#s8-5-1), [8.15.3](#s8-15-3) |
 | Soest, *Kirchenordnung*, 1532 | 22, p. 450 | 1527 | three kneeling boys sing *Veni sancte*; psalm while communicants kneel | [8.4.1](#s8-4-1), [8.11.4](#s8-11-4) |
-| Neuenrade, *Kirchenordnung*, 1564 | 22, pp. 519, 527–528, 530–532, 540 | 1544 | Kyrie in three tongues; seasonal post-epistle table; German Agnus; "O Lamm Gottes" in Low German, the third time with the prayer for peace; long *Benedicamus* melodies rejected | [8.6.2](#s8-6-2), [8.8.7](#s8-8-7), [8.15](#s8-15), [8.15.1](#s8-15-1), [8.16.8](#s8-16-8) |
-| Lippe, *Deutsche Messe* [c. 1525–1538] | 22, pp. 565–568 | 1549 | "Aus tiefer Not" as introit; early Low German "Allein Gott"; hymn for the offertory | [8.5.3](#s8-5-3), [8.7.3](#s8-7-3), [8.11.3](#s8-11-3) |
+| Neuenrade, *Kirchenordnung*, 1564 | 22, pp. 518–519, 527–528, 530–532, 540 | 1544 | Kyrie in three tongues; three German Glorias, "Allein Gott" among them; seasonal post-epistle table; German Agnus; "O Lamm Gottes" in Low German, the third time with the prayer for peace; long *Benedicamus* melodies rejected | [8.6.2](#s8-6-2), [8.7.4](#s8-7-4), [8.8.7](#s8-8-7), [8.15](#s8-15), [8.15.1](#s8-15-1), [8.16.8](#s8-16-8) |
+| Lippe, *Deutsche Messe* [c. 1525–1538] | 22, pp. 565–568 | 1549 | "Aus tiefer Not" as introit; early Low German "Allein Gott", all four stanzas; hymn for the offertory | [8.5.3](#s8-5-3), [8.7.3](#s8-7-3), [8.11.3](#s8-11-3) |
 
 **Lower Saxony, Bremen and East Frisia**
 
@@ -33819,7 +34012,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Ostfriesland, *Kirchenordnung*, 1535 | 7/1, pp. 376, 380 | 2107 | Kyrie and Gloria as in "Allein Gott"; Latin kept in honour; German psalm in place of the *Benedicamus* | [8.6.5](#s8-6-5), [8.16.9](#s8-16-9), [8.18.7](#s8-18-7) |
 | Engerhafe, *Liturgie*, 1583 | 7/1, pp. 677–681 | 2119 | offertory hymn with organ; "O Lamm Gottes" split across the rite; communion hymns | [8.11.3](#s8-11-3), [8.13.2](#s8-13-2), [8.14.6](#s8-14-6) |
 | Marienhafe, *Kirchenordnung*, 1593 | 7/1, pp. 695, 697 | 2120 | Kyrie "Ach Vater" and Te Deum at opening; hymn agreeing with the sermon | [8.4.4](#s8-4-4), [8.6.4.4](#s8-6-4-4), [8.11.5](#s8-11-5) |
-| Harlingerland, *Kirchenordnung*, 1573/74 | 7/1, pp. 738–739 | 2122 | Luther's hymns first; no secular tunes; kneeling boys at the Sanctus | [8.12.2](#s8-12-2), [8.18.5](#s8-18-5), [8.18.9](#s8-18-9) |
+| Harlingerland, *Kirchenordnung*, 1573/74 | 7/1, pp. 738–739 | 2122 | Luther's hymns first; no secular tunes; kneeling boys at the Sanctus; "Heilig ist Gott der Vater" among the communion hymns | [8.12.2](#s8-12-2), [8.18.5](#s8-18-5), [8.18.9](#s8-18-9) |
 | Hildesheim (Stift), *Kirchenordnung für Steuerwald und Peine*, 1561 | 7/2.1, pp. 781–783 | 2129 | German Te Deum at opening; *Leisen*; closing hymn | [8.4.4](#s8-4-4), [8.10.2](#s8-10-2), [8.15.3](#s8-15-3) |
 | Hildesheim (city), *Kirchenordnung*, 1544 | 7/2.1, pp. 852–856 | 2136 | hymn covering the prayers at the step and the devesting; Latin for the school | [8.4.6](#s8-4-6), [8.15.4](#s8-15-4), [8.16.3](#s8-16-3) |
 | Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 1085–1089 | 2149 | sexton among the people for the German *Et in terra*; cantionals; "unfalsified" Luther songbook | [8.7.3](#s8-7-3), [8.18.6](#s8-18-6) |
@@ -33834,10 +34027,10 @@ Every order quoted in this chapter is listed below by region. The table gives:
 |---|---|---|---|---|
 | Schleswig-Holstein, *Deutsche Messe* [after 1526] | 23, pp. 56–57 | 1576 | troped Low German Kyrie; stanzas of "Jesus Christus" between the actions | [8.6.4.5](#s8-6-4-5), [8.14.4](#s8-14-4) |
 | Hadersleben, *Artikel*, 1528 | 23, p. 64 | 1576 | Latin sequences "with the *Leisen* in them" | [8.8.3](#s8-8-3) |
-| Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 89–95, 143 | 1576 | German psalm for introit in villages; three sequences only; song stops with the communion; *O crux ave* condemned; Michaelmas Te Deum | [8.5.1](#s8-5-1), [8.8.2](#s8-8-2), [8.14.3](#s8-14-3), [8.16.1](#s8-16-1), [8.17.6](#s8-17-6) |
+| Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 89–95, 143, 146 | 1576 | German psalm for introit in villages; "Allein Gott" inside the Latin Gloria; three sequences only; song stops with the communion; *O crux ave* condemned; Michaelmas Te Deum | [8.5.1](#s8-5-1), [8.7.1](#s8-7-1), [8.8.2](#s8-8-2), [8.14.3](#s8-14-3), [8.16.1](#s8-16-1), [8.17.6](#s8-17-6) |
 | Hamburg, *Kirchenordnung*, 1529 | 5, pp. 491, 516–530 | 1958, 1960 | "for the people's sake"; introits and joyful songs; farced sequences; creed as offertory; German Agnus; "Van singende"; wedding music | [8.3.4](#s8-3-4), [8.5.4](#s8-5-4), [8.8.3](#s8-8-3), [8.9.2](#s8-9-2), [8.14.4](#s8-14-4), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.17.2](#s8-17-2), [8.18.1](#s8-18-1) |
 | Hamburg, *Kirchenordnung*, 1556 | 5, p. 553 | 1963 | organ between the verses; choir stops with the communion; *Da pacem* to close | [8.14.3](#s8-14-3), [8.15.3](#s8-15-3) |
-| Ritzebüttel, *Kirchenordnung*, 1556 | 5, pp. 557–558 | 1963 | prose "Komm heiliger Geist" for the introit; three German Kyries; "Erhalt uns" after sermon | [8.5.5](#s8-5-5), [8.6.4.4](#s8-6-4-4), [8.6.4.5](#s8-6-4-5), [8.11.1](#s8-11-1) |
+| Ritzebüttel, *Kirchenordnung*, 1556 | 5, pp. 557–558 | 1963 | prose "Komm heiliger Geist" for the introit; three German Kyries; the people finish the German Gloria; "Erhalt uns" after sermon | [8.5.5](#s8-5-5), [8.6.4.4](#s8-6-4-4), [8.6.4.5](#s8-6-4-5), [8.7.4](#s8-7-4), [8.11.1](#s8-11-1) |
 | Lauenburg, *Kirchenordnung*, 1585 | 5, p. 408 | 1953 | installation hymns | [8.17.5](#s8-17-5) |
 | Hadeln, *Kirchenordnung*, 1526 | 5, p. 468 | 1955 | creed and psalm covering the preacher's movements | [8.9.3](#s8-9-3), [8.11.2](#s8-11-2) |
 | Mecklenburg, *Ordeninge der misse*, 1545 | 5, pp. 151–155 | 1922 | *Leise* as introit; German *Kyrie summum* taught to villages; organ-farced sequences; gospel-matched psalms; Sanctus forms; kneeling close | [8.5.4](#s8-5-4), [8.6.4.4](#s8-6-4-4), [8.8.3](#s8-8-3), [8.8.6](#s8-8-6), [8.11.5](#s8-11-5), [8.12.2](#s8-12-2), [8.14.3](#s8-14-3), [8.15](#s8-15), [8.15.3](#s8-15-3) |
@@ -64502,7 +64695,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 <a id="per-d"></a>**D**
 
 - Daser, Ludwig — [4.10.4](#s4-10-4)
-- Decius, Nikolaus — [2.7.2](#s2-7-2), [7.1.2](#s7-1-2), [7.13.3](#s7-13-3), [8.1.1](#s8-1-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.15](#s8-15)
+- Decius, Nikolaus — [2.7.2](#s2-7-2), [7.1.2](#s7-1-2), [7.13.3](#s7-13-3), [8.1.1](#s8-1-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.12](#s8-12), [8.12.2](#s8-12-2), [8.15](#s8-15)
 - Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.13](#s10-13), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.10](#s16-10)
 - Döber, Andreas — [1.19.1](#s1-19-1), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.13.2](#s2-13-2), [2.15.7](#s2-15-7), [2.15.10](#s2-15-10), [2.16](#s2-16), [Chapter 3](#ch3), [3.1](#s3-1), [3.2](#s3-2), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.4.5](#s3-4-5), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.2](#s7-3-2), [7.5](#s7-5), [7.5.1](#s7-5-1), [7.7](#s7-7), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.8.7](#s7-8-7), [7.8.11](#s7-8-11), [7.11](#s7-11), [7.11.3](#s7-11-3), [7.15.4](#s7-15-4), [8.5.3](#s8-5-3), [8.19](#s8-19)
 - Döberlein, Wolfgang — [13.14.3](#s13-14-3)
@@ -64647,7 +64840,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Lobwasser, Ambrosius — [8.1.3](#s8-1-3), [8.10.4](#s8-10-4), [8.11.5](#s8-11-5), [8.14.6](#s8-14-6), [8.16.7](#s8-16-7), [8.19](#s8-19)
 - Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.24](#s13-24), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.9](#s16-9), [16.10](#s16-10)
 - Lorenz (schoolmaster at Frankfurt) — [16.5.2](#s16-5-2)
-- Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.12](#s10-12), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
+- Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.7.5](#s8-7-5), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.12](#s10-12), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
 - Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.4](#s8-a-4)
 - Ludwig, Duke of Württemberg — [17.13.2](#s17-13-2)
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
@@ -64722,7 +64915,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Rantzau, Heinrich — [1.34.1](#s1-34-1)
 - Reichard, Duke of Pfalz-Simmern — [1.22.1](#s1-22-1), [1.29.2](#s1-29-2)
 - Reysing, Philipp — [13.12.2](#s13-12-2)
-- Rhau, Georg — [4.10.4](#s4-10-4)
+- Rhau, Georg — [4.10.4](#s4-10-4), [8.12.2](#s8-12-2)
 - Rhegius, Urbanus — [1.5](#s1-5), [1.11.4](#s1-11-4), [1.12.4](#s1-12-4), [1.20.1](#s1-20-1), [3.5.14.2](#s3-5-14-2), [12.13.2](#s12-13-2)
 - Rodtbart, Petrus — [1.14.4](#s1-14-4)
 - Rothmann, Bernhard — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.3.3](#s1-3-3), [1.33.6](#s1-33-6)
@@ -64775,7 +64968,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Varrelmann, Johannes — [1.15.3](#s1-15-3)
 - Veesenbeck, Johannes — [1.26.2](#s1-26-2)
 - Verbeke, Renatus — [16.5.2](#s16-5-2)
-- Victoria, Tomás Luis de — [4.1](#s4-1), [4.9.2](#s4-9-2), [4.10.4](#s4-10-4), [4.11](#s4-11)
+- Victoria, Tomás Luis de — [4.1](#s4-1), [4.9.2](#s4-9-2), [4.10.4](#s4-10-4), [4.11](#s4-11), [8.12.2](#s8-12-2)
 - Virgil — [12.3.4](#s12-3-4)
 - Vögelin, Ernst — [17.3.3](#s17-3-3)
 - Volprecht, Wolfgang — [1.19.1](#s1-19-1), [2.4.8](#s2-4-8), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.5](#s3-3-5), [3.4.1](#s3-4-1), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.2](#s4-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.11](#s4-11), [4.12](#s4-12), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.4.1](#s5-4-1), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.7](#s7-7), [7.7.2](#s7-7-2), [7.8.4](#s7-8-4), [7.8.8](#s7-8-8), [7.10](#s7-10), [13.8.1](#s13-8-1)
