@@ -9,6 +9,12 @@ The Hymn of the Day is marked ONLY by underlining, which is drawn as a thin
 filled rectangle rather than stored as a text attribute -- so it is
 recovered geometrically, by matching those rules to the spans above them.
 Superscripts (stanza and music-system counts) are set at 7pt and dropped.
+
+Krusemark's own series closes each occasion: Years A, B and C, or, where the
+three-year series does not run, one list for every year or one each for even
+and odd years. The occasions end with his Explanation (pp. 95-96); after it
+come Holy Innocents (p. 99), whose heading is set in the text size, and two
+pages that only name saints' days (pp. 98, 100).
 """
 import re, os, json, sys
 import pymupdf
@@ -21,10 +27,10 @@ COMPILATION = 'Krusemark, Hymns ABC (2018)'
 LISTS = {
  'Stuckwisch','Gehrke','Reuning','Eckardt','LCMS','ELS','SELK','Zion, Detroit','Dietrich',
  'Judisch','Thompson','Gerhardt','Carpzov','Liliencron','Bach','Stiller','Other',
- 'Year A','Year B','Year C','LSB Hymnal Committee',
+ 'Year A','Year B','Year C','Every Year','Even Year','Odd Year','LSB Hymnal Committee',
 }
-# subdivisions inside a list, not witnesses of their own
-SUBHEAD = {'Choir', 'Every Year', 'Odd Year', 'Even Year'}
+# a subdivision inside a list, not a witness of its own
+SUBHEAD = {'Choir'}
 # lists whose every entry is a Hymn of the Day, so nothing is underlined
 ALL_HOD = {'Judisch', 'Liliencron', 'SELK'}
 WITNESS = {
@@ -47,6 +53,8 @@ WITNESS = {
  'Other':'Other (unattributed)',
  'LSB Hymnal Committee':'LSB Hymnal Committee',
  'Year A':'Krusemark, Year A', 'Year B':'Krusemark, Year B', 'Year C':'Krusemark, Year C',
+ 'Every Year':'Krusemark, Every Year', 'Even Year':'Krusemark, Even Year',
+ 'Odd Year':'Krusemark, Odd Year',
 }
 COLS = [(0, 250), (250, 460), (460, 670), (670, 1000)]   # page is ~792pt wide, 4 columns
 
@@ -96,8 +104,14 @@ def parse():
     rows, occ, lst = [], None, None
     prev_head = None          # (col, y1) of the last occasion-heading line
     for pno in range(doc.page_count):
-        for ln in page_entries(doc[pno]):
+        for i, ln in enumerate(page_entries(doc[pno])):
             t = ln['text']
+            # a page that opens with a bold line that is no list starts an occasion headed in
+            # the text size (Holy Innocents), or the Explanation, after which nothing is a list
+            if i == 0 and ln['bold'] and ln['size'] < 15 and t not in LISTS and t not in SUBHEAD:
+                occ = None if t == 'Explanation' else t
+                lst = prev_head = None
+                continue
             if not t or t.startswith('cf.') or re.match(r'^sts?\.', t): continue
             if ln['size'] >= 15 and ln['bold']:
                 # a heading that wraps continues the one just above it

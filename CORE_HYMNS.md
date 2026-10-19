@@ -1,19 +1,18 @@
 # Core Hymns of Liturgical Life
 
 The hymns, chants and canticles at the centre of liturgical life in the church orders, as listed
-so far, with the English title of each in the Hymn Index. The title is the **HYMN TITLE**, column
-A of [`Hymn Index/LCMS-Worship-Lutheran-Hymn-Index.xlsx`](Hymn%20Index/LCMS-Worship-Lutheran-Hymn-Index.xlsx),
-given exactly as the spreadsheet has it. For most hymns that is the title in LSB, TLH or ELH. For
-a hymn that none of the later hymnals prints, it is the first line in an older book: Walther's
-Hymnal (WH, Matthew Carver's English translation of KELG, numbered like it), ELHB (1912) or The
-Lutheran Hymnary (TLHy, 1913).
+so far, with the English title of each in the Hymn Index. The title is the **HYMN TITLE**,
+column A of the LCMS Worship Lutheran Hymn Index (`LCMS-Worship-Lutheran-Hymn-Index.xlsx`, once
+in this repository's `Hymn Index/` folder), given exactly as the spreadsheet has it. For most
+hymns that is the title in LSB, TLH or ELH. For a hymn that none of the later hymnals prints, it
+is the first line in an older book: Walther's Hymnal (WH, Matthew Carver's English translation
+of KELG, numbered like it), ELHB (1912) or The Lutheran Hymnary (TLHy, 1913).
 
 **Hymnals** gives the hymn's numbers in LSB, TLH and KELG where it has them, and otherwise in
-other hymnals, so that its row can be found; the abbreviations are those of
-[`Hymn Index/README.md`](Hymn%20Index/README.md). A dash means that the index has no row for the
-text; its literal English is given instead. The notes after the tables explain the entries
-marked with a number. The book treats these hymns in
-[Chapter 8](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch8).
+other hymnals, so that its row can be found; the abbreviations are listed at the
+[end](#abbreviations). A dash means that the index has no row for the text; its literal English
+is given instead. The notes after the tables explain the entries marked with a number. The book
+treats these hymns in [Chapter 8](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch8).
 
 ## Troped and paraphrased ordinaries
 
@@ -248,3 +247,22 @@ is not a hymn, and no hymnal prints it as one. `hymns.db` calls it "I Believe in
 <a id="note-k"></a>**11. "So wahr ich leb".** The hymn of the keys is Nikolaus Herman's "So wahr ich leb, spricht Gott
 der Herr" (1560), which is *"As Surely as I Live," God Said* (LSB 614, TLH 331). Johann
 Heermann's "So wahr ich lebe, spricht dein Gott" (KELG 229) is a later and different hymn.
+
+## <a id="abbreviations"></a>Hymnal abbreviations
+
+| Abbreviation | Hymnal | Year |
+|---|---|---|
+| CW'93 | Christian Worship: A Lutheran Hymnal | 1993 |
+| CW'21 | Christian Worship: Hymnal | 2021 |
+| ELH | Evangelical Lutheran Hymnary | 1996 |
+| ELHB | Evangelical Lutheran Hymn-Book | 1912 |
+| HS'98 | Hymnal Supplement 98 | 1998 |
+| KELG | Kirchen-Gesangbuch für Evangelisch-Lutherische Gemeinden (Walther's Hymnal) | 1862 |
+| LBW | Lutheran Book of Worship | 1978 |
+| LSB | Lutheran Service Book | 2006 |
+| LW | Lutheran Worship | 1982 |
+| TL | Te Laudamus | 2024 |
+| TLH | The Lutheran Hymnal | 1941 |
+| TLHy | The Lutheran Hymnary | 1913 |
+| WH | Walther's Hymnal, Matthew Carver's English translation of KELG, numbered like it | 2012 |
+| WS'69 | Worship Supplement (LCMS Commission on Worship; a supplement to TLH) | 1969 |

@@ -366,7 +366,7 @@ PERSONS = [
     ('Walter, Johann', [r'Johann Walter', r'Walter(?=, Isaac)']),
     ('Senfl, Ludwig', [r'Senfl']),
     ('Lassus, Orlande de', [r'Orlando', r'Lassus', r'Orlandus', r'Orlandi', r'Lasso(?=,)']),
-    ('Clemens non Papa, Jacobus', [r'Clemens(?: non Papa| Non Papa)?']),
+    ('Clemens non Papa, Jacobus', [r'Clemens(?! Blume)(?: non Papa| Non Papa)?']),
     ('Victoria, Tomás Luis de', [r'(?:L\. de )?Victoria']),
     ('Isaac, Heinrich', [r'Isaac(?= and Josquin|, Josquin)']),
     ('Josquin des Prez', [r'Josquin']),
