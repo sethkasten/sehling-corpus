@@ -24468,9 +24468,18 @@ The rules the orders give are of rank and place:
 - Harlingerland sings it in turn with the communion hymns;
 - Hof sings it in parts on two feasts, and perhaps at Epiphany.
 
-On the second and third Sundays of Advent Hof's communion has the Latin *Sanctus et Agnus
-angelicum* (the angelic Sanctus and Agnus Dei; Sehling 11, pp. 432–433), the grade it gives the Kyrie in Advent (Sehling 11,
-p. 472).
+In Advent Hof's communion has instead the *Sanctus et Agnus angelicum* (the angelic Sanctus and Agnus Dei), on the first three
+Sundays (Sehling 11, pp. 432–433). *Angelicum* ("angelic") names a plainsong melody, not a text:
+Sehling's editor glosses the *Benedicamus angelicum* as "name of a melody" (Sehling 11,
+p. 412, n. 13), and the Latin school sings the Kyrie *angelicum* (angelic [Kyrie]) "in the Advent of the Lord" (Sehling 11,
+p. 472). The Hof *Kirchenamt* sang it in German. On the first Sunday the Kyrie *angelicum seu
+feriale* (angelic or ferial) is noted with "Lord, have mercy upon us", and the Sanctus notes begin "Holy"
+(Sehling 11, p. 432). The same Sanctus is not kept to Advent. Hof sings it "as in Advent" on the
+Epiphany Sundays and at the Annunciation (pp. 435, 439), and the *Sanctus et Agnus angelicum*
+on Trinity Sunday and the first Sundays after it, on the feasts of St John the Baptist, St
+Laurence, the Visitation and the Virgin, and of the apostles and martyrs (pp. 442–450). The
+other grades are the *dominicale* (Sunday [Kyrie]) from the fourth Sunday after Trinity (pp. 443–445) and the
+*quadragesimale* (Lenten [grade]) in Lent (p. 439).
 
 #### <a id="s8-12-3"></a>8.12.3 At the elevation
 
