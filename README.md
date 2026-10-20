@@ -6,7 +6,7 @@
 Orders from 1521–1620* is in one file,
 [`LITURGICAL_AND_ECCLESIASTICAL_LIFE.md`](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md). It has a table
 of contents, an Introduction (which also describes this repository and how the book was made),
-Conventions, seventeen chapters, a Scripture index, an Index of persons and a Glossary of the
+Conventions, eighteen chapters, a Scripture index, an Index of persons and a Glossary of the
 rarer terms. Every reference to a section, and every entry in the contents and the indexes, is a
 link.
 
@@ -29,6 +29,7 @@ link.
 | 15 | [Ecclesiastical Duties](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch15) |
 | 16 | [Minor Orders, Deacons and Elders](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch16) |
 | 17 | [Confessional Subscription](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch17) |
+| 18 | [Church Fellowship Between the Traditions](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch18) |
 
 The chapters were first written as separate guides. They are kept in [`archive/`](archive/), as
 they stood when the book was assembled.
