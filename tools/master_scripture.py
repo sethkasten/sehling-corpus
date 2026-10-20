@@ -172,6 +172,13 @@ PROSE = [
     ('[l.Kor. 10, 17]', '1 Cor 10:17'),
     ('2. Reg. IV. 38.', '2 Kgs 4:38'),
     ('2. Reg. IV. 20.', '2 Kgs 4:20'),
+    # Second John has one chapter; the rules would read its verse as a chapter.
+    ('2 John 10–11', '2 John 1:10-11'),
+    ('[2.Joh. 10f.]', '2 John 1:10f.'),
+    ('2 John and Titus 3', '2 John 1; Titus 3'),
+    ('2 John, Titus 3', '2 John 1; Titus 3'),
+    ('in der andern Johannis, und zu Tito am dritten capitel', '2 John 1; Titus 3'),
+    ('in the second of John and to Titus in the third chapter', '2 John 1; Titus 3'),
 ]
 
 ORDINALS = {

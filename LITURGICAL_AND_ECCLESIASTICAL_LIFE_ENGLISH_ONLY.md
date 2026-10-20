@@ -1478,6 +1478,50 @@
     - [17.17.5 Magistrates and officials](#s17-17-5)
   - [17.18 Table by order](#s17-18)
   - [17.19 Concordance of the orders quoted](#s17-19)
+- [Chapter 18. Church Fellowship Between the Traditions](#ch18)
+  - [18.1 Summary of findings](#s18-1)
+    - [18.1.1 The main findings](#s18-1-1)
+    - [18.1.2 Who could do what with whom](#s18-1-2)
+  - [18.2 Scope, sources and method](#s18-2)
+    - [18.2.1 What was searched](#s18-2-1)
+    - [18.2.2 Cautions](#s18-2-2)
+  - [18.3 The language of fellowship](#s18-3)
+  - [18.4 Baptism](#s18-4)
+    - [18.4.1 Baptism given by others](#s18-4-1)
+    - [18.4.2 The children of others](#s18-4-2)
+    - [18.4.3 Godparents of another confession](#s18-4-3)
+  - [18.5 The Lord's Supper](#s18-5)
+    - [18.5.1 Closed to those of another confession](#s18-5-1)
+    - [18.5.2 Strangers and the parish](#s18-5-2)
+    - [18.5.3 Communicants from Catholic and Reformed parishes](#s18-5-3)
+    - [18.5.4 Going out to another church (*Auslaufen*)](#s18-5-4)
+  - [18.6 Confession and absolution](#s18-6)
+    - [18.6.1 Not from monks and priests](#s18-6-1)
+    - [18.6.2 Not to the defenders of error](#s18-6-2)
+    - [18.6.3 One's own confessor](#s18-6-3)
+  - [18.7 Ordination](#s18-7)
+    - [18.7.1 Orders received from the bishops](#s18-7-1)
+    - [18.7.2 Re-ordination, and orders taken from the papists](#s18-7-2)
+    - [18.7.3 Proof of orders](#s18-7-3)
+  - [18.8 Preaching](#s18-8)
+    - [18.8.1 No preaching without a call](#s18-8-1)
+    - [18.8.2 Strangers in the pulpit](#s18-8-2)
+    - [18.8.3 The other confession's ministers, and the pulpit](#s18-8-3)
+  - [18.9 Prayer and worship side by side](#s18-9)
+    - [18.9.1 Prayer for, and against, the other confessions](#s18-9-1)
+    - [18.9.2 At the other confession's worship](#s18-9-2)
+    - [18.9.3 Two religions in one town](#s18-9-3)
+  - [18.10 Burial and marriage](#s18-10)
+    - [18.10.1 Burial](#s18-10-1)
+    - [18.10.2 Marriage between spouses of unequal religion](#s18-10-2)
+  - [18.11 Agreements between the traditions](#s18-11)
+    - [18.11.1 The Wittenberg Concord and its memory](#s18-11-1)
+    - [18.11.2 Prussia and the Bohemian Brethren, 1549](#s18-11-2)
+    - [18.11.3 Poland: the Consensus of Sandomierz and its synods](#s18-11-3)
+    - [18.11.4 Two congregations under one lord](#s18-11-4)
+  - [18.12 How the rules changed](#s18-12)
+  - [18.13 Table by order](#s18-13)
+  - [18.14 Concordance of the orders quoted](#s18-14)
 - [Scripture index](#scripture-index)
 - [Index of persons](#index-of-persons)
 - [Glossary](#glossary)
@@ -1546,7 +1590,8 @@ Interim. Each of the other chapters takes one subject through the whole edition:
 - the furnishing of worship: art, architecture, paraments and vestments ([Chapter 14](#ch14));
 - the duties of ministers, officers and people ([Chapter 15](#ch15)), and the ministries
   themselves: minor orders, deacons and elders ([Chapter 16](#ch16));
-- confessional subscription ([Chapter 17](#ch17)).
+- confessional subscription ([Chapter 17](#ch17)), and church fellowship between the confessional
+  traditions ([Chapter 18](#ch18)).
 
 Most chapters open with a summary of findings and a section on scope, sources and method. They
 then set out the evidence subject by subject, quoting the orders and translating them. Tables by
@@ -47401,7 +47446,7 @@ pattern as the elders (Sehling 7/1, pp. 554–555, editor's introduction).
 
 **Without laying on of hands.** Several Reformed orders install deacons with no laying on of
 hands:
-- **Kurpfalz (1563)**, followed by **Wittgenstein (1581)** and **Bentheim-Tecklenburg**
+- **Kurpfalz (1563)**, followed by **Moers (1581)** and **Bentheim-Tecklenburg**
   (1588/1619), all Reformed. They have "pious and godly men, whom they call *diaconi* or
   almoners", elected per 1 Timothy 3:8. They collect the alms on Sundays and distribute them,
   and are confirmed "with the knowledge and will of the pastors and appointed seniors". No
@@ -48374,7 +48419,7 @@ does, in four degrees, from strongest to weakest:
 | *Subdiaconi oder Bittherren* (Subdeacons or bidding-men) | Naumburg 1537 | Council and community | **none** described | [§16.5.2](#s16-5-2) |
 | Deacon of the poor | Hesse 1566 (Moderate Reformed) | Ministers with council and congregation; probation | **hands** and prayer (Acts 6) | [§16.5.3](#s16-5-3) |
 | Deacon or almoner | Micron 1554/65 (Reformed) | Congregation | questions, prayer, **hands** | [§16.5.3](#s16-5-3) |
-| Deacon or almoner | Kurpfalz 1563, Wittgenstein 1581, Bentheim-Tecklenburg 1588/1619 (all Reformed) | —; confirmed by pastors and seniors | confirmation, rite not described | [§16.5.3](#s16-5-3) |
+| Deacon or almoner | Kurpfalz 1563, Moers 1581, Bentheim-Tecklenburg 1588/1619 (all Reformed) | —; confirmed by pastors and seniors | confirmation, rite not described | [§16.5.3](#s16-5-3) |
 | Deacon, senior, sexton | Nassau-Dillenburg 1582 (Reformed) | Presbytery; confirmed by classis | confirmation and admonition | [§16.5.3](#s16-5-3) |
 | Lay elder | Hesse (Ziegenhain) 1539 (Moderate Reformed) | Each church | **prayer** and exhortation ("sanctify their office") | [§16.6.2](#s16-6-2) |
 | Lay elder | Hesse 1566 (Moderate Reformed) | Ministers with council and congregation | **hands** (pastor and ministers), prayer; "ordained" | [§16.6.2](#s16-6-2) |
@@ -48489,7 +48534,7 @@ knows. The columns are:
 | Lüneburg, *Klosterordnung*, 1574 | 6/1 | Nuns' clothing under the duke; cowl, veil and crown | — | — | Plain habit |
 | Bohemian Brethren, *Ordo ecclesiasticus*, 1576 | 4 | Acolytes (ordained grade) | Clerical deacons, hands | Lay presbyters and *presbyterae*, handfast | Kept; deacon "not to be cast out" |
 | Electoral Saxony, 1580 | 1 | Bell-ringers' sale of font water and hosts forbidden | *Diaconat*, *Subdiaconat*; same ordination as pastor | — | Diaconate may be dispensed |
-| Wittgenstein, 1581 (Reformed) | 22 | — | *Diaconi oder Almusenpfleger* (deacons or almoners) | — | Created |
+| Moers, 1581 (Reformed) | 22 | — | *Diaconi oder Almusenpfleger* (deacons or almoners) | — | Created |
 | Nassau-Dillenburg, 1582 (Reformed) | 10 | *Aeditui* elected by presbytery | Deacons of the poor | Seniors; four offices | Created |
 | Frankfurt, Dutch congregation (Augsburg Confession), 1585 (Lutheran) | 9 | — | Two *diaconi* | — | Created |
 | Bentheim-Tecklenburg, 1588/1619 (Reformed) | 22 | Baptismal exorcism | *Diaconi oder Almusenpfleger* | Seniors | Exorcism abolished |
@@ -48558,7 +48603,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | East Frisia, editors' introduction to Micron's *Ordinancien* (Reformed) | 7/1, pp. 554–555 | 2115 | [16.5.3](#s16-5-3) |
 | Micron, *Ordinancien* (1554) 1565 (Reformed) | 7/1, pp. 583, 587–588, 596–598 | 2116 | [16.5.3](#s16-5-3), [16.6.3](#s16-6-3) |
 | Lippe, *Lippische Kirchenordnung*, 1538 | 21, pp. 318, 335 | 1459 | [16.4.4](#s16-4-4), [16.5.2](#s16-5-2), [16.8](#s16-8) |
-| Wittgenstein, *Kirchenordnung*, 1581 (Reformed) | 22, p. 201 | 1502 | [16.5.3](#s16-5-3) |
+| Moers, *Kirchenordnung*, 1581 (Reformed) | 22, p. 201 | 1502 | [16.5.3](#s16-5-3) |
 | Bentheim-Tecklenburg, *Bentheim-Tecklenburger Kirchenordnung*, 1588/1619 (Reformed) | 22, pp. 269, 276 | 1508 | [16.3.5](#s16-3-5), [16.5.3](#s16-5-3) |
 | Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1, pp. 324–326 | 1978 | [16.7.5](#s16-7-5) |
 | Lüneburg, *Klosterordnung* of Duke William the Younger, 1574 | 6/1, p. 622 | 2010 | [16.7.5](#s16-7-5) |
@@ -48689,6 +48734,8 @@ order, and [§17.19](#s17-19) a concordance of every order quoted.
   [Chapter 15](#ch15), [§15.11](#s15-11);
 - how deacons, elders and the other church offices were installed:
   [Chapter 16](#ch16), [§16.8](#s16-8);
+- what the confessional lines meant for baptism, godparents, the Supper, absolution, ordination,
+  preaching and prayer between the traditions: [Chapter 18](#ch18);
 - the confessional tradition of every order: [Chapter 1](#ch1),
   [§1.3](#s1-3).
 
@@ -50037,7 +50084,7 @@ counties show the same spread:
 
 #### <a id="s17-11-1"></a>17.11.1 Hesse: the synod, the Agende, and the divided landgraviate (1571–1617)
 
-The general synod's *Abschied* of 1571 (Philippist) records the pastors' undertaking to teach
+The general synod's *Abschied* (recess) of 1571 (Philippist) records the pastors' undertaking to teach
 according to a mixed norm: the SA beside the Wittenberg *Corpus doctrinae* (body of doctrine). **Hesse, *Abschied*
 of the general synod, 1571** (Philippist; Sehling 8, p. 355):
 
@@ -51099,7 +51146,8 @@ year thirty to the imperial majesty, it hath been free and permitted without dis
 one to hold, to stand at and to attend the sacrament of holy baptism with the other,
 
 Godparents at baptism are treated in
-[Chapter 13](#ch13), [§13.3.8](#s13-3-8).
+[Chapter 13](#ch13), [§13.3.8](#s13-3-8). The wider dispute over papist and Calvinist godparents
+is set out in [§18.4.3](#s18-4-3).
 
 #### <a id="s17-17-5"></a>17.17.5 Magistrates and officials
 
@@ -51512,6 +51560,2306 @@ The table gives:
 
 <div style="page-break-before: always;"></div>
 
+## <a id="ch18"></a>Chapter 18. Church Fellowship Between the Traditions
+
+
+This chapter covers the rules of church fellowship between the confessional traditions in the
+evangelical church orders of the sixteenth and early seventeenth centuries, as printed in Emil
+Sehling's *Die evangelischen Kirchenordnungen des XVI. Jahrhunderts* (The Evangelical Church Orders of the Sixteenth Century). It asks six questions,
+and three that follow from them:
+
+- Who could **pray** with whom, and for whom?
+- Who could **commune** with whom? Who was admitted to the Supper, and where might a Lutheran
+  receive it?
+- Who could **baptize** whom? Whose baptism was valid, whose children were baptized, and who
+  could stand as godparent?
+- Who could **absolve** whom?
+- Who could **ordain** whom, and whose orders were accepted?
+- Who could **preach** where?
+- How were those of another religion **buried**, and what became of a **marriage** between
+  spouses of unequal religion?
+- What did the orders say about **going out** to the worship of another confession?
+- What **agreements** did the traditions make with one another?
+
+The other confessions the orders deal with are the Roman Catholics (in the orders' word,
+"papists"), the Zwinglians and Calvinists (often "Sacramentarians"), the Anabaptists,
+Schwenckfelders and other "sects", and, in Poland and Prussia, the Bohemian Brethren. The rules
+also changed with time and differed from territory to territory. Where an order is not Lutheran,
+its tradition is named, as everywhere in the book.
+
+The findings are summarised in [§18.1](#s18-1), and the method is described in [§18.2](#s18-2). [§18.3](#s18-3) sets out the
+language of fellowship. §§[18.4](#s18-4)–[18.10](#s18-10) take the acts one by one: baptism, the Supper, absolution,
+ordination, preaching, prayer, burial and marriage. [§18.11](#s18-11) covers the agreements between
+traditions, and [§18.12](#s18-12) how the rules changed. [§18.13](#s18-13) is a table by order, and [§18.14](#s18-14) a
+concordance of the orders quoted.
+
+**Related chapters.** Several subjects are treated more fully elsewhere and are only cited here:
+- the confessional norms and oaths that defined each church, and the laity's admission to
+  communion and as godparents: [Chapter 17](#ch17), §§[17.4](#s17-4), [17.17.2](#s17-17-2),
+  [17.17.4](#s17-17-4);
+- emergency baptism and its confirmation in church: [Chapter 13](#ch13), [§13.3.7](#s13-3-7);
+- the evangelical ordination and why it was begun: [Chapter 13](#ch13), §§[13.10](#s13-10),
+  [13.10.1](#s13-10-1);
+- the examination of communicants: [Chapter 13](#ch13), [§13.17.4](#s13-17-4);
+- the confessional tradition of every order: [Chapter 1](#ch1),
+  [§1.3](#s1-3), and the Polish synods, [§1.9.3](#s1-9-3).
+
+### <a id="s18-1"></a>18.1 Summary of findings
+
+#### <a id="s18-1-1"></a>18.1.1 The main findings
+
+**1. No order sets out a doctrine of church fellowship as such.** The rules are given act by act,
+under baptism, godparents, the Supper, confession, ordination, the pulpit and burial. Where the
+orders speak in general terms, they speak of "having fellowship" (*gemeinschaft haben*) with
+heretics and sects, and they forbid it:
+- Kurland in 1570 forbade fellowship with papists, Jesuits, Calvinists, Sacramentarians,
+  Anabaptists and others, and forbade inviting them to stand as godparents, to feasts or to
+  christenings ([§18.3](#s18-3)).
+- Hohenlohe in 1579 forbade its ministers to have fellowship with Jews and with obstinate papist
+  priests.
+- Pfalz-Zweibrücken in 1564 forbade fellowship and the exchange of letters with any
+  "Sacramentarian fanatic".
+- The visitors of Württemberg and of the many orders that copied its visitation order asked who
+  "harboured, lodged or had fellowship with" Anabaptists, Schwenckfelders and Sacramentarians.
+
+The warrant is 2 John 10–11 and Titus 3:10: not to receive such a man into the house, nor greet
+him.
+
+**2. Baptism crossed every line, and no order rebaptizes.**
+- Baptism given in the papacy is "a right and complete baptism", because it rests on Christ's
+  word and not on the priest (Braunschweig-Wolfenbüttel 1569, Oldenburg 1573).
+- The baptism of a midwife stands, "though the Calvinists reject" it (Wolfstein 1574).
+- Honterus's Transylvanian order of 1543 adds the baptism of laymen, of heathen and of heretics
+  in the faith of the Trinity, and forbids the rebaptism of the Orthodox Romanians.
+
+The limits lay elsewhere ([§18.4.2](#s18-4-2)):
+- Thorn refused baptism to papists who sought it only for rich Lutheran godparents and then had
+  the child anointed by their own priests, unless they would use the Lutheran ministry in
+  everything.
+- The Transylvanian synod of Mediasch (1578) sent the children of Gypsies and Romanians back to
+  their own congregations, "since they are not of our religion".
+
+**3. Godparents were the most disputed point** ([§18.4.3](#s18-4-3)). The orders give three answers.
+- **Exclude** papists, Calvinists and all of another religion: Ernestine Saxony 1542, Magdeburg
+  1554, the Bremen preachers in 1561, Regensburg 1567, Kurland 1570, Soest 1590, and the Wild-
+  and Rhinegraviate 1597 and 1603. At Landau in 1582 the pastor refused a Calvinist godmother.
+  Bremen's reasons were that papists "cannot pray" and that admitting one is a false witness
+  that he is a member of the church.
+- **Admit with discretion**, because godparenthood is a human ordinance and a papist who stands
+  at a Lutheran font "acknowledgeth our holy baptism to be Christian and right". This was the
+  rule of Hesse 1556 (Moderate Reformed), of Electoral Saxony 1580 and the orders that copied it,
+  of Pfalz-Neuburg 1576, and of the Schwäbisch Hall draft of 1614.
+- **Both religions** freely admitted: Soest 1583 ([§17.17.4](#s17-17-4)).
+
+On the reverse question the orders agree: no Lutheran is to stand at a papist baptism, since
+that confirms its "sorcerous ceremonies" (Electoral Saxony 1580, Pfalz-Neuburg 1576). At
+Strasbourg in 1601 the magistrate declined to bar Calvinists from the font.
+
+**4. The Supper was closed to those of another confession** ([§18.5.1](#s18-5-1)).
+- Reutlingen (c. 1531) bars papists and those who deny the presence of Christ's body and
+  blood.
+- Waldeck 1556 bars those of papist, Anabaptist and Sacramentarian doctrine until they revoke
+  it.
+- Prussia 1568 refuses absolution and the sacrament to those who defend the errors of the
+  papists, Sacramentarians and Anabaptists.
+
+Strangers were heard on their faith before the seniors (Hesse 1574 and its copies). To commune
+with a church was to belong to it: "whatever man communicateth … with the Lutherans,
+Zwinglians, papists, Anabaptists etc., he is reckoned for one of them" (Wild- and
+Rhinegraviate 1597).
+
+**5. Yet the Lutherans gave the sacrament across the papal line** ([§18.5.3](#s18-5-3)).
+- From 1528 the Brandenburg-Nürnberg orders ministered to people from Catholic parishes whose
+  pastors refused them the sacraments "against the word of God". So did Prussia 1568, Wolfstein
+  1574 and Schwäbisch Hall, by a chapter decree of 1564 repeated in 1570 and 1615.
+- Pfalz-Neuburg in 1576 let its pastors give the Supper to sick Calvinists who attended
+  Lutheran sermons, "if the lordship can suffer it".
+
+**6. Going out to another church (*Auslaufen*) was forbidden on all sides, and practised on all
+sides** ([§18.5.4](#s18-5-4)).
+- **Evangelical bans:** Strasbourg forbade going out to hear Mass in 1531, and sermons and
+  sacraments in "foreign lordships" in 1597, this time against the Reformed. Frankfurt in 1542
+  forbade running to Masses in the villages. Leiningen in 1566 forbade the Supper or baptism
+  outside one's own parish.
+- **Reformed bans:** Nassau-Diez (1585) had foreign pastors who gave the Supper arrested.
+  Kurpfalz (1595) fought its people's running to the neighbouring "Lutheran and Ubiquitist"
+  pastors. Hanau (1599/1602), Ysenburg (1598), Homburg (1605) and Sayn (1606, 1619) issued
+  bans of their own.
+- **A Catholic council:** Colmar tried in 1554 to stop its burghers from going to services in
+  Lutheran Horburg.
+
+In practice the bans did not hold. In 1606 the Lutheran pastor of Lambrechtsneukirchen had 1,765
+communicants, of whom 694 came from the Reformed Upper Palatinate. Sehling's editor reports that
+when the Lutheran Elector of the Palatinate forbade his Calvinists in 1578 to go to the Reformed
+Supper, Beza and Ursinus approved their receiving it at Lutheran altars.
+
+**7. Absolution came only from a called minister, and normally from one's own** ([§18.6](#s18-6)).
+- **Not from monks or priests.** Bugenhagen's Hamburg order of 1529 gave confession to those
+  who preach. The Upper German catechisms called the priests' absolution "a deceit" (Capito's
+  Strasbourg catechism, Sam's Ulm catechism).
+- **Not for defenders of error.** Prussia 1568 refused it to them.
+- **From one's own pastor.** Prussia 1568 and Soest 1590 tied confession to the parish. Lippe
+  1571 complained of excommunicates who went to another parish and "stole" the absolution there.
+- **Within one city, from any minister.** Regensburg 1572 let people choose their confessor from
+  the whole ministry, "since they all have one office and equal power".
+
+**8. Orders received from the Roman bishops were accepted** ([§18.7](#s18-7)).
+- The *Wittenberg Reformation* of 1545 would have taken ordination from bishops who accepted
+  right doctrine ([§13.10.1](#s13-10-1)).
+- The orders ordain those "not ordained" (Hoya 1581), and do not ordain again one ordained
+  elsewhere (Brunswick 1571, Strasbourg 1598).
+- Hannover in 1536 insisted that its preachers had been ordained in the very church that cast
+  them out.
+- Buxtehude in 1552 and Hamburg in 1556 gave up the bishops' consecration as given "only for the
+  godless service", and ordained with prayer and the laying on of hands.
+
+There are two exceptions on the Lutheran side and one on the Catholic:
+- **Pfalz-Neuburg 1576** re-ordained priests coming from the papacy "in the stead of a
+  recantation".
+- **Magdeburg 1554** would not hold for Christians those who took orders or prebends from
+  papists.
+- **The Count Palatine** made Amberg dismiss a preacher in 1539, because he had been ordained
+  by Luther and not by a bishop.
+
+**9. No one preached without a call, and no stranger entered a pulpit without the
+superintendent or the ministry** ([§18.8](#s18-8)).
+- **Hedge preachers** were forbidden everywhere.
+- **Disputes:** Wolfstein forbade its pastors to dispute with foreign Calvinist or papist pastors.
+- **Mixed cities and territories** bound their preachers not to revile the other religion: the
+  Augsburg preacher's oath of 1591, the Upper Palatinate's *mandatum de non calumniando* (mandate against calumny) of
+  1598, and the Reformed Kurpfalz mandate against condemnations of 1584.
+
+**10. Prayer** ([§18.9](#s18-9)).
+- **No joint worship** with another confession is provided for anywhere outside Poland. But at
+  Wimpfen in 1568 the hearers of each religion might attend the other's sermon in silence. And
+  Pfalz-Neuburg in 1576 let its people go with a Catholic wedding party as far as the church
+  door.
+- **For and against.** The orders pray for heretics and the erring (Heilbronn 1530, Ulm 1531,
+  the Ansbach *Auctuarium* of 1548), and against them (Regensburg 1567, Kurland 1570,
+  Pfalz-Zweibrücken 1565).
+- **Could papists pray?** The Bremen preachers held that a papist's prayer is "nothing but sin
+  and curse". The Hessian visitors of 1556 held that papists "confess one faith with us, and are
+  separated from us only in certain abuses".
+
+**11. Burial and marriage** ([§18.10](#s18-10)).
+- **Burial.** Obstinate papists and heretics were refused the churchyard (Magdeburg 1554, Hoya
+  1581, Mansfeld 1580). Magdeburg pointed out that the papists refused it to "us evangelicals".
+- **Marriage.** A marriage was not to be broken because one spouse was of "unequal religion"
+  (Lauenburg 1585, after 1 Corinthians 7).
+
+**12. Agreements were made between traditions** ([§18.11](#s18-11)).
+- **The Wittenberg Concord (1536)** joined the Saxon and Upper German churches. The Reformed
+  Kurpfalz of 1584 recalled that its makers "acknowledged one another as brothers".
+- **Prussia, 1549.** Duke Albrecht admitted the Bohemian Brethren after examining their
+  confession, judging their ceremonies indifferent.
+- **Sandomierz, 1570.** The Consensus of Sandomierz and the Posen articles let Lutheran,
+  Reformed and Brethren ministers preach and give the sacraments in each other's churches. The
+  synods renewed this until 1595.
+- **Rappoltstein, 1561.** The Lutheran congregation demanded that the Reformed French
+  congregation sign the Augsburg Confession, take its ceremonies and own it as "the head". Their
+  lord let each keep its own.
+
+#### <a id="s18-1-2"></a>18.1.2 Who could do what with whom
+
+The table gives the rule most orders follow, with the main exceptions. The last column is the
+Polish union of 1570.
+
+| Act | Roman Catholics | Zwinglians, Calvinists | Anabaptists and sects | Another Lutheran parish | Poland (Sandomierz) |
+|---|---|---|---|---|---|
+| **Baptism given by them** | Valid; never repeated ([§18.4.1](#s18-4-1)) | Not repeated in any order; lay baptism kept against them | Their rebaptism rejected | — | Exorcism to be dropped ([§18.11.3](#s18-11-3)) |
+| **Their children baptized** | Yes; Thorn refused papists who used the font only for gifts | Yes (Bremen 1561) | Children of returning Anabaptists to be baptized | With one's own pastor's consent (Leiningen 1566) | — |
+| **As godparents** | Disputed: excluded, or admitted if not blasphemers ([§18.4.3](#s18-4-3)) | Disputed: excluded (Bremen 1561, Landau 1582, Soest 1590), or admitted if not blasphemers (Electoral Saxony 1580); Strasbourg 1601 would not bar them | Excluded | — | — |
+| **Lutherans as their godparents** | Not to stand at a papist baptism | — | — | — | — |
+| **Supper** | Refused to papists; given to the parishioners of papist pastors who refuse them the right use ([§18.5.3](#s18-5-3)) | Refused; given to sick Calvinists in Pfalz-Neuburg 1576 | Refused | Only with cause or one's pastor's consent ([§18.5.2](#s18-5-2)) | Given, with the other pastor's testimony ([§18.11.3](#s18-11-3)) |
+| **Going to their worship** | Forbidden ([§18.5.4](#s18-5-4)); to a wedding, only to the church door ([§18.9.2](#s18-9-2)) | Forbidden on both sides | Forbidden; conventicles banned | Forbidden without leave | Encouraged |
+| **Absolution** | Their absolution rejected; ours refused to defenders of error ([§18.6](#s18-6)) | Refused to defenders of error | Refused | From one's own pastor; at Regensburg from any minister of the city | The other side's excommunicates not admitted to the Supper |
+| **Orders** | Accepted (one exception: Pfalz-Neuburg 1576); taking papist orders condemned (Magdeburg 1554) ([§18.7](#s18-7)) | Ordinand to renounce Calvin's doctrine of the Supper (Pfalz-Zweibrücken 1567) | — | Accepted, with the certificate | A minister of either confession might be called |
+| **Pulpit** | Closed; no disputes with their pastors; no reviling in mixed towns ([§18.8](#s18-8)) | Closed; no disputes; Reformed rulers forbade condemnations | Hedge preachers banned | Only with the superintendent's or the ministry's leave | Open to each other's ministers |
+| **Prayer** | Prayed for and against; whether they can pray disputed ([§18.9](#s18-9)) | Prayed for and against | Prayed for and against | — | Joint synods; common days of fasting and prayer (Thorn 1595) |
+| **Burial** | Obstinate papists refused the churchyard ([§18.10](#s18-10)) | Unrepentant heretics refused (Hoya 1581, Mansfeld 1580) | Unrepentant heretics refused | — | — |
+| **Marriage** | Not dissolved for unequal religion (Lauenburg 1585) | Not dissolved | Desertion by an Anabaptist frees the other spouse | — | — |
+
+---
+
+### <a id="s18-2"></a>18.2 Scope, sources and method
+
+#### <a id="s18-2-1"></a>18.2.1 What was searched
+
+The whole of [`eko.db`](#repo-ekodb) was searched for the names of the other confessions,
+in German and Latin and with their OCR variants: the words for papist, in the papacy and Roman;
+for Zwinglian, Calvinist, Sacramentarian, Sacramentarian fanatic and Ubiquitist; for
+Anabaptists, Schwenckfelders, sects, factions and heretics; for the Picards, the Bohemian
+Brethren, the Waldensians and the Wallachians; and for "strange religion" and "of both
+religions".
+
+These were then searched near the words for each act:
+- **baptism and godparents:** baptism, godparent, sponsor;
+- **the Supper:** sacrament, supper, communion, to admit;
+- **confession:** confession, absolution;
+- **ordination:** to ordain, consecration, certificate of ordination;
+- **preaching:** to preach, pulpit, hedge preacher;
+- **prayer and fellowship:** prayer, to pray for, fellowship, to avoid;
+- **burial and marriage:** to bury, churchyard, marriage.
+
+Further searches covered:
+- strangers' parishioners and strangers at communion;
+- going out to other churches;
+- concords and unions, among them the Consensus of Sandomierz;
+- shared churches and towns of two religions.
+
+Every hit was read in context and sorted by whether it was the text of an order, Sehling's
+introduction or a footnote.
+
+#### <a id="s18-2-2"></a>18.2.2 Cautions
+
+- **Lists are not rules.** Many orders list papists, Zwinglians, Anabaptists and others in a
+  condemnation, a visitation question or a list of forbidden books. These show who the church
+  held to be outside it, but they are not rules of fellowship. They are cited only where the
+  order draws a consequence for one of the acts.
+- **"Fellowship" is the orders' own word.** The orders use *gemeinschaft* (fellowship) in two senses: the
+  Christian fellowship of the church, and dealings with heretics. Neither is the modern
+  technical term "church fellowship". The chapter keeps their words.
+- **Editors' introductions.** Several statements are found only in Sehling's introductions and
+  footnotes, which summarise archival sources. These include the Prussian reception of the
+  Bohemian Brethren, the Reformed theologians' opinion on communing at Lutheran altars, and the
+  communicant figures at Lambrechtsneukirchen. They are marked as the editors' accounts.
+- **Record headings.** As elsewhere, a database record may hold several orders. So document 1844
+  is headed with Danzig's order of 1557, but its p. 230 is the Thorn order of after 1560. Each
+  order is named here from Sehling's running head and the inventory of [Chapter 1](#ch1).
+- **Traditions.** The Upper Palatinate, Nassau-Dillenburg and Diez, Hanau, Ysenburg, Wied,
+  Moers, Sayn after 1605, Homburg after 1605 and Kurpfalz after 1583 were Reformed. So were the
+  French congregations of Rappoltstein and Frankfurt. Hesse under Philip was Moderate Reformed
+  and Philippist afterwards. The early orders of Strasbourg and Ulm are Moderate Reformed. The
+  Polish synods belong to the Sandomierz consensus. Their rules are given beside the Lutheran
+  ones, labelled, because they show the same questions from the other side.
+
+---
+
+### <a id="s18-3"></a>18.3 The language of fellowship
+
+**Why the evangelicals had parted from Rome.** The Hannover order of 1536 answers the charge
+that the evangelicals had left the church. They did not leave it over the papists' evil life,
+"so that we would therefore have no fellowship with them in Christian things", but over their
+doctrine; and it was the papists who cast them out with the ban. **Hannover, *Kirchenordnung*,
+1536** (Sehling 6/2, p. 999):
+
+<!-- doc 2051 -->
+
+We have also not withdrawn or separated ourselves from the papists for the sake of their evil
+life, so that we would therefore have no fellowship with them in Christian things; but their
+doctrine we will not accept, and they thrust us from them with their ban.
+
+**No fellowship with the sects.** The fullest list is Kurland's church reformation of 1570. It
+names every party then known and draws the practical consequence: no invitation to stand as
+godparent, to a feast or a christening, or to any other "Christian gathering". **Kurland,
+*Kurländische Kirchenreformation*, 1570** (Sehling 5, p. 64):
+
+<!-- doc 1906 -->
+
+Sixthly and lastly. The godly Christians shall avoid all offence, of doctrine and of life, and
+all hindrance of the right service of God, by whatsoever name they may be called; that a man
+be free from all corruptions and have no fellowship with the Epicureans, Pelagians,
+Osiandrists, papists, Jesuits, enthusiasts, Anabaptists, Calvinists, Sacramentarians, and all
+other fanatics, sects and heretics; and that he bid or invite them to no standing as godparent,
+to no feasts and christenings, nor to other Christian gatherings.
+
+**The ministers first.** Hohenlohe's chapter and visitation order of 1579 lays the rule on the
+clergy. **Hohenlohe, *Kapitels- und Visitationsordnung*, 1579** (Sehling 15, p. 380):
+
+<!-- doc 578 -->
+
+10. Also no minister of the church shall have fellowship with unbelieving and unchristian
+people, such as Jews, obstinate papist priests, and vicious and ill-instructed persons, or have
+dealings with them; since thereby our Christian religion is not a little belittled, they are
+strengthened, and godly Christians are offended.
+
+Pfalz-Zweibrücken's mandate against the Calvinists of 1564 forbids its ministers to "have
+fellowship with any Sacramentarian fanatic, nor exchange writings with them", without leave
+from the duke or his councillors and the superintendents. **Pfalz-Zweibrücken, *Mandat gegen
+die Calvinisten*, 1564** (Sehling 18, p. 316):
+
+<!-- doc 981 -->
+
+and also, as often as need requireth, refute and confute at length out of God's word the
+Zwinglian and Calvinist condemned opinion, and all other harmful sects; and have fellowship with
+no Sacramentarian fanatic, nor exchange writings with them, unless it be done upon sufficient
+previous report, with the foreknowledge and leave of us, or of our governor and councillors and
+certain superintendents.
+
+**The visitation question.** Württemberg's visitation order for the superintendents asked of
+every parish whether anyone there "harboured, lodged or had fellowship" with the sectaries.
+**Württemberg, *Visitationsordnung für die Superintendenten*, 1559** (Sehling 16, p. 387):
+
+<!-- doc 683 -->
+
+Item, whether anyone be infected with Anabaptism, the Schwenckfelders, the Sacramentarians and
+other sects, or harbour, lodge or have fellowship with such fanatics.
+
+The same question was taken into the Braunschweig-Wolfenbüttel order of 1569 (Sehling 6/1,
+p. 196), Hohenlohe's visitation of 1571 (Sehling 15, p. 164) and Limpurg's visitation order of
+1611 (Sehling 16, p. 626). The Transylvanian Saxons asked it of the Arians and Anabaptists in
+1577 (Sehling 24, p. 422). Their common order of 1578 forbade a pastor to have "fellowship" with
+the open enemies of God and his church, "or lodge them" (Sehling 24, p. 434).
+
+**The warrant: 2 John and Titus 3.** Mansfeld's agenda of 1580 gives the texts on which the
+rule rests. **Mansfeld, *Kirchen-agenda für die prediger der grafschaft Mansfeld*, 1580**
+(Sehling 2, p. 247):
+
+<!-- doc 1241 -->
+
+Secondly, St John and St Paul say, in the second of John and to Titus in the third chapter, that
+one shall avoid the people who have departed from the pure, wholesome doctrine and become
+heretics and false teachers, or their adherents and fellows, when they have been admonished to
+desist therefrom; and shall not receive them into the house, nor greet them at all, that one
+make not himself partaker of their sins.
+
+Wolfstein's instruction of 1574 quotes 2 John 10–11 in Latin for the same purpose ([§18.8.3](#s18-8-3)).
+The Polish general synod of Kraków in 1573 used the same words of the Arian Anabaptists, who
+had gone out from the Reformed churches of Poland. **Synod of Kraków, 1573** (Sandomierz
+consensus; Sehling 4, pp. 261–262):
+
+<!-- doc 1846 -->
+
+Since the Arian Anabaptists, who went out from us, abide not in the doctrine of Christ and the
+faith of the true God, the Father and the Son with the Holy Ghost, and so have not God, and,
+having been very often admonished by us already in conferences and writings, remain obstinately
+in their error: let us have no further dealings with them (so long as they defend their
+opinion), let us admit no disputations of theirs, but let us avoid them and their blasphemous
+books according to the precept of the Holy Ghost,
+
+---
+
+### <a id="s18-4"></a>18.4 Baptism
+
+#### <a id="s18-4-1"></a>18.4.1 Baptism given by others
+
+**Baptism in the papacy.** No order in the corpus repeats a baptism given by a Roman priest.
+Chemnitz's instruction in the Braunschweig-Wolfenbüttel order of 1569 states the ground: the
+"substantials of baptism" remained in the papacy, and baptism rests on Christ's word, not on the
+priest. The passage was taken word for word into Oldenburg's order of 1573 (Sehling 7/2.1,
+p. 1045). **Wolfenbüttel, *Kirchenordnung*, 1569** (Sehling 6/1, p. 124):
+
+<!-- doc 1974 -->
+
+Herewith also must instruction be given that, although in the papacy many superstitions crept
+in, yet because the substantials of baptism remained, those who were baptized in the papacy
+have a right and complete baptism; for the same standeth and resteth not on the priest's
+unworthiness or misuse, but on the word of the Lord Christ, Eph. 5 [26].
+
+**Baptism by laymen, heathen and heretics.** Honterus's *Reformationsbüchlein* for the
+Transylvanian Saxons (1543) goes furthest. It keeps the midwife's emergency baptism and cites
+the canons: baptism given by a layman, a heathen or a heretic "in the faith of the Holy Trinity"
+is not to be repeated. Then it applies the rule to the Orthodox Romanians, whose
+baptism the Saxon churches also recognised. **Transylvanian Saxons, Honterus,
+*Reformationsbüchlein*, 1543, German version** (Sehling 24, p. 193):
+
+<!-- doc 1666 -->
+
+But the children who in time of need are wisely and rightly baptized by the midwife, according
+to the mind of all right teachers of the church, we will in no wise let be baptized again a
+second time; for the sacraments can neither gain nor lose anything through the quality or
+property of the person of the minister. For the canons also command that the baptism which is
+done by a layman or a heathen shall not be done again a second time; and likewise also the
+baptism which is done by heretics and evildoers in the faith of the Holy Trinity. Item, to
+baptize again a heretic who hath received the sign of the Holy Trinity according to Christian
+doctrine is altogether sin; or to baptize again a Christian is an unspeakable sin. Therefore
+neither the children nor the Wallachians, once rightly baptized, shall be baptized again.
+
+**The midwife's baptism against the Calvinists.** The Lutheran orders kept emergency baptism by
+any Christian ([§13.3.7](#s13-3-7)). The Reformed rejected it and kept baptism for the called
+minister alone:
+- Hesse's Kassel order of 1539 (Moderate Reformed; Sehling 8, p. 119, editor's note);
+- the Kurpfalz order of 1563 (Reformed; Sehling 14, p. 337, editor's note);
+- the Moers order of 1581 (Reformed; Sehling 22, p. 190, editor's note).
+
+Wolfstein's instruction of 1574 names the difference. **Wolfstein, *Christliche Instructio* of
+Thomas Stieber, 1574** (Sehling 13, p. 580):
+
+<!-- doc 463 -->
+
+Forasmuch as hitherto there hath been and been kept in the Christian church a laudable and
+well-grounded order, that all Christian persons, not only men but also women, especially the
+midwives (since they also are heirs together of the grace of God, as Peter teacheth
+[1 Pet. 3:7], and necessity is not subject to the common rule), have baptized the little
+children in time of need in the absence of the men, which hath been called a hasty or sudden
+baptism: so shall the same not be done away, but remain and be kept; and it shall not mislead
+us, though the Calvinists, out of great untimely cleverness, reject such hasty baptism, as
+though it were wrong.
+
+The Transylvanian synod of Mediasch (1578) kept the midwives' baptism too, but told them not to
+baptize "rashly", and to send for the minister whenever they could (Sehling 24, p. 427).
+
+**Exorcism as a mark of confession.** The exorcism in the baptismal rite became a sign of
+confession. Henneberg kept it in 1582 so that "the Zwinglians and Calvinists be not gratified
+or humoured in the least" (Sehling 2, p. 305). Soest's order of 1609 left it free. But if the
+Sacramentarians should try to bring in their fanaticism "by abolishing the exorcism", the
+preachers were to defend and use it (Sehling 22, p. 492). The Polish churches of the Sandomierz
+consensus took the opposite course: the Posen articles of 1570 listed exorcism among the
+"papistical" rites to be done away (Sehling 4, p. 259).
+
+#### <a id="s18-4-2"></a>18.4.2 The children of others
+
+The orders baptized the children of all who asked, with two exceptions.
+
+**Papists who used the font only for gifts.** At Thorn the papists, who otherwise "revile and
+avoid our whole office of preaching", sought Lutheran baptism for the rich gifts of Lutheran
+godparents. Afterwards they had the child anointed by their own priests. They were refused,
+unless they promised to use the Lutheran ministry "in all points". **Thorn, *Kirchenordnung*,
+after 1560** (Sehling 4, p. 230):
+
+<!-- doc 1844 -->
+
+And forasmuch as many papists here otherwise revile and avoid our whole office of preaching,
+and only sometimes desire baptism for their children, out of greed, that they may have
+godparents of our side for the rich christening gift, but afterwards let the baptized children
+be oiled and smeared by the priests of their side: baptism shall not be given them, unless they
+promise to use our preaching office in all points, and to forsake the papist idolatry; lest we
+serve their greed with holy baptism and otherwise let the preaching office be reviled by them,
+
+The same order would not admit "to baptism or any Christian work" anyone who stayed away from
+the Supper for long "out of Sacramentarian and Schwenckfeldian or otherwise profane opinion".
+Here baptism means standing at the font (Sehling 4, p. 230).
+
+**Children of another people.** The Transylvanian synod of Mediasch in 1578 sent the children of
+the Gypsies and of the Orthodox Romanians back to their own congregations. **Mediasch synod,
+1578** (Sehling 24, p. 427):
+
+<!-- doc 1707 -->
+
+XXI. Let the infants of the Gypsies and the Wallachians be sent back to their own congregations.
+Nor let them be baptized in our churches, since they are not of our religion, lest they expose
+it to mockery.
+
+The ground of the refusal is the parents' religion, not the validity of the baptism. Honterus's
+order of 1543 had recognised the Romanians' baptism ([§18.4.1](#s18-4-1)).
+
+**Sacramentarian parents.** The Bremen preachers in 1561 would baptize the children of
+Sacramentarians "as we have said of the illegitimate" ones, but not with Sacramentarian
+godparents ([§18.4.3](#s18-4-3)). If such parents carried the child out unbaptized rather than
+give up their godparents, the preachers would report it to the council, as keeper of discipline
+(Sehling 7/2.2, p. 527).
+
+**Anabaptists who returned.** Württemberg's visitation order of 1557 required an Anabaptist who
+returned to have his children baptized and to receive the Supper "with other Christians in his
+parish church" (Sehling 16, p. 335).
+
+#### <a id="s18-4-3"></a>18.4.3 Godparents of another confession
+
+The godparent was the one lay share in the rites. Whether a papist or a Calvinist could stand at
+a Lutheran font is the fellowship question the orders discuss most. The cases already set out in
+[§17.17.4](#s17-17-4) are not repeated here: Limpurg 1611, Wied 1564 (Reformed), Nassau-Weilburg
+1609 and Soest 1583.
+
+**Excluded.** Ernestine Saxony's consistory constitution of 1542 admitted no godparent who was
+not "of our true and Christian religion" (Sehling 1, p. 202). Magdeburg's pastors in 1554 barred
+"obstinate, blaspheming papists" from both the sacrament and the font (Sehling 2, p. 451). The
+Regensburg order gives the reason: the godparent stands at the font "as a true member of the
+Christian church", who prays with the congregation. **Regensburg, *Kirchenordnung*, 1567(?),
+appendix** (Sehling 13, p. 489):
+
+<!-- doc 450 -->
+
+[Appendix.] That persons related to the papists and other sects may not be admitted as
+godparents at baptism. The godparent standeth there at the baptism before the others, not only
+as a witness, but also as a true member of the Christian church, who can and shall pray to God
+with [the church], and help to bring up the child also in the true Christian faith.
+
+The Bremen preachers, answering the city's questions in 1561, gave the longest argument. Papists
+cannot pray, cannot bear witness, and cannot teach the catechism. A minister who admits one
+gives "a false witness against the eighth commandment", acknowledging a papist as a member of
+the church and of its fellowship. **Bremen, *Stellungnahme der Prediger zu den Anfragen der
+Wittheit*, 1561** (Sehling 7/2.2, pp. 526–527):
+
+<!-- doc 2221 -->
+
+Item, where the godparents also are papist, we know in no wise to admit them to holy baptism,
+and that for these unavoidable reasons. First, because the godparents are asked for prayer's
+sake, the papists cannot pray; for since they are without faith in Christ, their prayer is
+nothing but mere sin and curse. […] Lastly, the ministers of the church also sin grievously
+who by admitting the papists do not distinguish them from the Christians, strengthen them in
+their error, and offend other Christians, so that they think one doctrine is as good as the
+other; and [such a minister] giveth a false witness against the eighth commandment, in that he
+publicly acknowledgeth a papist as a member of the church and in its fellowship, though he
+belongeth not therein, and himself believeth not what he speaketh for the child with the Holy
+Trinity.
+
+The print reads *umbs gelts willen*, "for money's sake". The sense, and the two reasons that
+follow ("for the witness of baptism", "for instruction in the catechism"), require "for
+prayer's sake". The preachers would no more suffer Sacramentarian godparents "than the papist,
+for the reasons alleged above" (Sehling 7/2.2, p. 527).
+
+Kurland in 1570 ([§18.3](#s18-3)) and Soest in 1590 excluded the godparents of every other
+religion. **Soest, *Artikel der Prediger*, 1 September 1590** (Sehling 22, p. 480):
+
+<!-- doc 1536 -->
+
+3. Papists, Calvinists and all others, be they of spiritual or temporal estate, who are
+contrary to our religion, shall not be suffered or admitted to stand as godparents at baptism.
+
+**To commune with a church is to belong to it.** The Wild- and Rhinegraviate's order for
+godparents of 1597 gives fourteen reasons against erring godparents. One rests on what
+communion means: whoever takes part in another body's rite is reckoned to it. **Wild- and
+Rhinegraviate, *Patenordnung*, 1597** (Sehling 19/2, p. 574):
+
+<!-- doc 1118 -->
+
+Moreover this is also the common opinion of all teachers and hearers: for whoever letteth
+himself be circumcised by the Jews and helpeth devoutly to perform the circumcision among them,
+him everyone holdeth for a Jew; but whichever Jew letteth himself be baptized, he becometh or is
+become a Christian, and is held for one. Whatever man communicateth, or helpeth to communicate,
+with the Lutherans, Zwinglians, papists, Anabaptists etc., he is reckoned for one of them.
+
+The church order of the same county (after 1603) asks the parents and pastors to see that
+"erring people, who condemn our doctrine and religion and will not be converted" are not taken as
+godparents (Sehling 19/2, p. 605).
+
+**Admitted with discretion.** The Hessian visitation of April 1556 took the opposite view.
+Sehling's editor quotes its article on the "papists" in a note to the *Abschied* (recess) of the first
+general synod. **Hesse, visitation article of 1556, quoted in the editor's note to the *Abschied
+der ersten Generalsynode*, Marburg, 1568** (Moderate Reformed; the *Abschied* Philippist;
+Sehling 8, p. 349):
+
+<!-- doc 2263 -->
+
+Since the same also confess one faith with us, and are separated from us only in certain
+abuses: where they be asked by ours to be godparents, and, being questioned on the common and
+chief articles of our Christian faith, give a fitting answer, they shall be admitted to stand
+as godparents.
+
+The question came back to the general synod of 1568. An evangelical had asked the cathedral provost
+of Mainz to stand as godfather, and the superintendent at Darmstadt had refused him, "although he
+had offered to make the confession of his faith, had it been desired". The synod had the
+superintendents draw up an opinion for the princes (Sehling 8, pp. 349–350, with the editor's
+notes).
+
+The Electoral Saxon order of 1580 made the milder rule the norm for a large family of orders. Its
+reasons are pastoral. To drive a papist from the font embitters him. Godparenthood is a human
+ordinance, not God's command. A papist who stands at a Lutheran font "acknowledgeth in deed our
+holy baptism to be Christian and right". The reverse is not allowed: no Lutheran is to stand at a
+papist baptism. **Electoral Saxony, *Kirchenordnung* of Elector August, 1580** (Sehling 1,
+pp. 432–433):
+
+<!-- doc 44 -->
+
+Likewise, since it also happeneth that certain persons who are still at this time addicted in
+many points to the superstition of the papists, when they are asked to be godparents, are
+driven away from holy baptism, whereby they are so much the more embittered against the pure
+doctrine of the holy gospel; whereas, when they are admitted, there followeth thereby, through
+the working of God the Holy Ghost, the conversion not only of themselves but also of more others
+who are led astray: therefore, since the ordinance of godparents is not a divine command, but
+ordained by men for good and weighty reasons, the pastors and ministers of the church shall in
+such case deal reasonably and prudently, and not hastily keep from holy baptism anyone who is
+not an open blasphemer of God and his holy word, even though he could not yet at this time find
+himself [right] in one or more articles; but shall remember Christ's saying, where he saith,
+*He that is not against us is with us*; and for the first time be content with this, that such
+a person by his presence acknowledgeth in deed our holy baptism to be Christian and right. On
+the other hand, it is to be counselled to none related to our religion that he stand at a
+papist baptism, and thereby confirm their papist abomination which they practise at holy
+baptism. Nevertheless they shall not omit withal to take such persons in hand with all
+gentleness on account of their error, to instruct them, to warn and dissuade them therefrom,
+and so keep the degrees of admonition.
+
+The order extends the same patience to the Sacramentarians who are "imprisoned in their
+consciences" but do not blaspheme. It gives the theological ground: a child is baptized on
+Christ's command, not on the godparents' faith. **Electoral Saxony, *Kirchenordnung* of Elector
+August, 1580** (Sehling 1, p. 433):
+
+<!-- doc 44 -->
+
+Fourthly, it is also the same case with the other misled, poor, erring people who do not
+believe rightly of the holy sacrament, and yet do not sin wilfully nor blaspheme, but only still
+lie captive in their consciences: they also shall not be kept from holy baptism, but the degrees
+of admonition shall be undertaken with them as with the others; and, so far as possible, they,
+as also the foreign and native papists, shall be brought to our true religion, and not be kept
+therefrom by disorderly dealing. For the children are not baptized upon the godparents' faith,
+in which manner baptism would be uncertain, but upon the command and the word of Christ.
+Therefore the unbelief of the godparents in their hearts taketh nothing from the children who
+are to be baptized as to the power of holy baptism, which standeth alone on the command and
+ordinance of Christ, and bringeth with it, according to his promise, what is comprised in his
+word.
+
+The Saxon text was taken into:
+- Hohenlohe's church and school orders of 1582, in their consistory order, on Jakob Andreae's
+  advice (Sehling 15, pp. 474–476);
+- Sayn's church order of 1590 (Sehling 19/1, p. 414);
+- Nassau-Weilburg's order of 1576, and its explanatory points of 1609 (Sehling 10, p. 329;
+  [§17.17.4](#s17-17-4)).
+
+Pfalz-Neuburg's general articles of 1576 reach the same rule on their own. They also draw the
+line that runs through all these orders: a papist at a Lutheran font confirms the Lutheran
+sacrament, and a Lutheran at a papist font confirms the papist one. **Pfalz-Neuburg,
+*Generalartikel*, 1576** (Sehling 13, p. 188):
+
+<!-- doc 404 -->
+
+In all which it is much safer to do too little than too much, since God alone knoweth the hearts
+of men; and there is a great difference when papists are admitted as godparents at our baptism,
+by which act they confirm our sacrament, and when some of our churches let themselves be used as
+godparents at a papist baptism, who by their presence confirm the papist sorcerous ceremonies,
+from which every Christian shall guard himself.
+
+Schwäbisch Hall's draft of 1614 distinguished two kinds of papist. It cites Felix Bidembach's
+*Consilia theologica* (Theological counsels). The passage was struck out and is missing from the order of 1615.
+**Schwäbisch Hall, *Kirchenordnung* 1543/1615, draft of 1614** (Sehling 17/1, p. 123,
+apparatus):
+
+<!-- doc 762 -->
+
+But here it is asked whether one may let papist godparents also stand at our baptism; let the
+ninth consilium of the second decade of the *Consilia theologica* of D. Felix Bidembach be
+read. Thereupon it is to be known that one shall indeed not admit gross, godless, ignorant and
+evil, venomous papists, who are our persecutors and blasphemers; but good-hearted papists, and
+such as are not ill affected toward our religion, one shall admit to stand as godparents; for
+otherwise it is not to be expected that they would present themselves at our baptism.
+
+**Calvinist godparents at Strasbourg.** In 1601 the Strasbourg church convent asked the
+magistrate what to do with "those in Calvinism" who were asked to be godparents. Such people
+either could not answer the questions to the godparents for conscience' sake, or stood silent and
+said neither yea nor nay. The magistrate told the preachers to keep to the church order, which,
+as the editor notes, had not limited godparents to the Augsburg Confession. **Strasbourg,
+*Stellungnahme des Magistrats zur Anfrage des Kirchenkonvents wegen der reformierten Taufpaten*,
+28 March 1601** (Sehling 20/1, p. 700):
+
+<!-- doc 1345 -->
+
+In the year 1601, on the 28th of March, there appeared, on behalf of an honourable church
+convent, Doctor Pappus, Master Pancratius Kefelius, Master Bartholomaeus Nasserus and certain
+other preachers, before the council and the Twenty-one, desiring to know how they should behave
+toward those in Calvinism when the same were asked to be godparents; seeing that, when the same
+are asked to be godparents, they either could not answer for their conscience' sake, or, if they
+should answer, keep altogether silent and say neither yea nor nay; […] It was commanded them to
+abide by the church order, as it is ordained therein concerning holy baptism.
+
+---
+
+### <a id="s18-5"></a>18.5 The Lord's Supper
+
+#### <a id="s18-5-1"></a>18.5.1 Closed to those of another confession
+
+Every order that names the other confessions at the altar closes it to them. The orders give two
+grounds:
+- **Doctrine.** The Supper is for those who believe the words of institution. One who denies the
+  presence of Christ's body and blood cannot discern the body.
+- **The minister's conscience.** A minister who admits those who defend error makes himself
+  "partaker of other men's sins" (1 Timothy 5:22), and casts the pearl before swine
+  (Matthew 7:6).
+
+Reutlingen's order bars papists, strangers and those who deny the presence in one list.
+**Reutlingen, *Kirchenordnung*, c. 1531** (Sehling 17/2, p. 43):
+
+<!-- doc 827 -->
+
+Therefore the ministers shall diligently take heed that this sacrament of the body and blood be
+given to no one who is still contrary to the gospel, as the papists and unchristian people;
+likewise also to no stranger or unknown person; item, to the children and those who are by
+nature foolish and not in their right mind, who cannot discern the body of Christ; moreover to
+those who deny the presence of the body and blood of Christ and believe not this word; likewise
+also to none who is held fast in open shame and vice, and hath not yet given himself to
+amendment, nor will.
+
+Waldeck's order of 1556 names the parties and sets the condition of return: a revocation of the
+error. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 250):
+
+<!-- doc 2300 -->
+
+The pastors also, as faithful stewards of the divine mysteries and sacraments, shall not set the
+noble pearl before the swine, nor the holy thing before the dogs [Matt. 7:6]. Therefore, if any
+man be of papist, Anabaptist, Sacramentarian or otherwise sectarian, erring doctrine, which
+agreeth not with our church's confession, or be given to offensive sins and vices, he shall not
+be admitted to the holy table of the Lord Christ, unless he revoke his erring doctrine, put away
+the offensive life, and let sure tokens of true repentance be seen in him.
+
+Prussia's church order of 1568 gives the minister's side of the rule. Confession is kept so that
+the preacher may "know to whom he giveth the most worthy sacrament". **Prussia, *Kirchenordnung
+und ceremonien*, 1568** (Sehling 4, pp. 76–77):
+
+<!-- doc 1833 -->
+
+but first, that the preacher may proceed rightly, separate the good from the evil (Jer. 15),
+and know to whom he giveth the most worthy sacrament; lest he make himself partaker of other
+men's sins (1 Tim. 5, Ezek. 3) and cast the pearl before the swine (Matt. 7), if he absolve and
+let come those who hold nothing of God's word and defend false, horrible errors, as the papists,
+the Sacramentarian fanatics, the Anabaptists and other sects like them, […] Such shall one turn
+away until their amendment and right, true repentance, and not give them the sacrament, since
+they would yet receive it to their judgment and ruin.
+
+The rule is the same elsewhere:
+- **Magdeburg 1554.** The pastors' articles admit neither to the sacrament nor to the font
+  "obstinate, blaspheming papists who will not be converted" (Sehling 2, p. 451).
+- **Rostock 1557.** The visitors' instruction tells the preachers to turn away from the Supper
+  and from baptism those whom they can convict openly of blasphemy, "as those who hold stubbornly
+  to the papist idolatries and revile our religion as heresy or sects" (Sehling 5, p. 283).
+- **Württemberg 1557 and Nassau-Dillenburg 1582.** Württemberg visits privately those who keep
+  from the Supper out of Zwinglian or other opinion. Reformed Nassau-Dillenburg admits only those
+  who have confessed "the Reformed doctrine", strangers included ([§17.17.2](#s17-17-2)).
+
+Two limits run through these rules:
+- **Defenders, not the erring.** The orders exclude those who "defend" error, the "obstinate"
+  and the "blasphemers". The misled and the weak are taught, not turned away (Electoral Saxony
+  1580, [§18.4.3](#s18-4-3); Pfalz-Neuburg 1576, [§18.5.3](#s18-5-3)).
+- **Communion makes a man a member.** Whoever communicates "with the Lutherans, Zwinglians,
+  papists, Anabaptists etc." is reckoned one of them (Wild- and Rhinegraviate 1597,
+  [§18.4.3](#s18-4-3)).
+
+#### <a id="s18-5-2"></a>18.5.2 Strangers and the parish
+
+Each Christian was to receive the Supper from his own pastor, who knew him and could judge his
+fitness. A stranger was not refused outright. He was first examined, and the orders require a
+reason.
+
+**Not without cause.** The Albertine visitors' report of 1540 gives the rule in its shortest
+form: the pastors shall give the sacrament "to no stranger's parishioner without cause, so that
+each pastor may watch over his own sheep" (Sehling 1, p. 286). The visitors' order for Meissen of
+the same year repeats it (Sehling 2, p. 52). Henneberg's order of 1582 adds the reason.
+**Henneberg, *Kirchen-Ordnung* of Georg Ernst, 1582** (Sehling 2, p. 309):
+
+<!-- doc 1247 -->
+
+And for this very reason no pastor shall give the Lord's Supper to a stranger's parishioner,
+except in need; since he cannot know his circumstances, and all manner of disorder may otherwise
+come of it.
+
+**Heard on their faith.** Hesse's agenda of 1574 provides for foreigners who settle in a place.
+They are heard on their faith before the elders and admitted if they are found sound. If they
+are not, they are taught. **Hesse, *Agende*, 1574** (Philippist; Sehling 8, p. 435):
+
+<!-- doc 2272 -->
+
+But since it also often happeneth that foreign, strange and unknown people betake themselves to
+a place to have their dwelling or abode there, and think to use the holy sacraments beside other
+known believing Christians: the ministers of the church shall first, before they be admitted to
+the use of the holy sacraments, hear and learn from such people, in the presence of the elders,
+what their faith and confession be; and, if they be found sound, take them to the communion with
+the others. But in case they be not yet sufficiently instructed in the doctrine, or be erring
+and wrong in any point, one shall instruct them in a Christian and brotherly way; and when they
+let themselves be taught and directed for the best, then, after examination first made and
+finding that their confession and faith is sufficient and sound, let them stand at baptism with
+other Christians and use the Lord's Supper.
+
+The same paragraph stands in Nassau-Weilburg's order of 1576 (Sehling 10, p. 261) and in the
+order for the Corvey village of Bruchhausen of 1603 (Sehling 21, p. 262). The Nassau-Weilburg
+agenda of 1618 gave it the heading "How to proceed with strange, unknown persons, before they
+be admitted to the holy Supper". The Reformed synod of Wied (1564) has the same rule and gives
+its reason. **Wied, *Synodalbeschlüsse*, 1564** (Reformed; Sehling 19/1, p. 466):
+
+<!-- doc 1094 -->
+
+11. Let no one be admitted to the Lord's Supper, especially strangers whose profession and life
+    is not known to us and examined, unless they have first appeared before the pastor and given
+    an account of their faith. Otherwise there will be no place for the anathema; nay, our
+    churches will be the refuge of the wicked.
+
+**Not to escape one's own pastor.** Leiningen's discipline order of 1566 forbade its subjects to
+receive the Supper anywhere else, even within the county, without their pastor's consent. Some
+had gone to "strange, even papist places" to spite a pastor with whom they were at odds.
+**Leiningen, *Kirchenzuchtordnung*, 1566** (Sehling 19/1, p. 228):
+
+<!-- doc 1073 -->
+
+XIII. Of strange churches. We will also have this altogether observed by our subjects: that none
+receive the holy Supper at any other place in our county without his pastor's consent, nor have
+children baptized elsewhere. For certain of them, in contempt of their pastor, where they bore
+him ill will, have run to strange, and even to papist, places before they were reconciled with
+their pastor, and have then received the most worthy Supper of our Lord Jesus Christ to their
+own judgment and damnation. On pain of twenty gulden, to be paid without remission.
+
+Other orders asked about it at visitation or dealt with it in other ways:
+- **Hohenlohe 1579** asks "whether anyone have his children baptized at other places, or go
+  elsewhere to the Supper of our Lord Christ" (Sehling 15, p. 369).
+- **Ulm 1586** admonishes "the foreign strangers from the peasantry", who come to the Supper in
+  the city churches at the high feasts, to appear first for the examination (Sehling 17/2,
+  p. 284).
+- **Soest 1590** would not admit to the Supper without public penance those who had gone "to
+  strange places" to be married without banns (Sehling 22, p. 480).
+
+#### <a id="s18-5-3"></a>18.5.3 Communicants from Catholic and Reformed parishes
+
+The rule of the own parish had one great exception. Where a person's own pastor was a papist who
+refused the Supper in both kinds, the Lutheran orders gave it to him. The Brandenburg-Nürnberg
+order of 1528 made this a rule. **Brandenburg-Nürnberg, *Kirchenordnung*, 1528** (Sehling 11,
+p. 138):
+
+<!-- doc 269 -->
+
+Of strangers' parishioners. To strangers' parishioners who are under pastors that refuse them
+the Christian sacraments, one shall minister, after good inquiry into their account and their
+faith, everything that is thus refused them at home against the word of God.
+
+The printed order of 1533 kept the rule and fenced it. No pastor is to give the sacraments
+"lightly or without honest Christian cause" to those of other parishes, and he must first ask
+why they do not seek them at home. But if he knows the person, or the person "is under such a
+pastor, from whom he cannot obtain all Christian services", and a Christian mind is found in
+him, "nothing shall be refused him" (Sehling 11, pp. 198–199).
+
+Forty years later Wolfstein repeated the rule and cited "our church order" for it. Sehling's
+editor identifies the passage as the Brandenburg-Nürnberg order of 1533.
+**Wolfstein, *Christliche Instructio* of Thomas Stieber, 1574** (Sehling 13, p. 572):
+
+<!-- doc 463 -->
+
+Tenthly, the pastors shall see to it that they do not lightly and without honest causes show the
+holy sacraments and other divine service to strangers' parishioners. But if known and Christian
+people come who cannot have the right use of the holy sacraments from their papist pastors, we
+shall in no wise refuse them such service, as is set down in our church order (page 171).
+
+Prussia's order for the two bishops (1568) adds devout people "from the papacy", the sick and
+travellers. **Prussia, *Von Erwehlung der beiden bischoff*, 1568** (Sehling 4, p. 122):
+
+<!-- doc 1833 -->
+
+that each pastor keep himself to the parish committed to him alone, and reach into no other's
+office without his knowledge and good will, nor let himself be persuaded thereto; and likewise
+receive no children of another's parish to confession or to the giving of holy baptism and the
+sacraments, but that each look to his own, as it is laid upon him to feed them with God's word.
+But if it should come to pass that good-hearted, godly people out of the papacy came to a pastor
+in our principality; or also one from a strange parish who fell sick in the place, or who was
+otherwise moved to Christian devotion in passing through, without contempt of his own pastor;
+and if he gave good account of his faith and condition, and for what cause he desired the
+sacrament in that place: the pastor shall refuse his service to none of these in his parish,
+but show himself willing with comfort and with the giving of the sacrament.
+
+**Pure sacraments.** Schwäbisch Hall's order of 1615 turns the rule into a principle. The
+margin dates it to a decree of the chapter in 1564, repeated in 1570. A pastor gives the Supper
+to strangers whose own parishes "have not the holy sacraments pure and unalloyed". He sends back
+those whose parishes have them. The parishioner may do the same in reverse. **Schwäbisch Hall,
+*Kirchenordnung* 1543/1615** (Sehling 17/1, p. 141):
+
+<!-- doc 762 -->
+
+It is also asked here whether a pastor shall give the holy Supper to strangers' parishioners or
+not; and on the other hand, whether the parishioners may communicate with a strange pastor or
+not. Thereupon it is to be known that a pastor shall not refuse, but give, the holy Supper to
+strangers' parishioners who have not the holy sacraments pure and unalloyed in their parishes,
+when they come and desire it. But to those parishioners who have the holy sacraments pure and
+unalloyed in their parishes, a pastor shall not give the holy Supper, but refuse it, and send
+them to their pastor. […] So also the parishioners, when they have the holy sacraments pure and
+unalloyed at home in their parishes, shall seek the holy Supper there with their ordinary
+pastor; but in the contrary case, seek the holy Supper at those places where it is found pure
+and unalloyed. This shall also be understood of the preaching of God's word.
+
+The order cites Porta's *Pastorale Lutheri* (Luther's pastoral) and Felix Bidembach's *Consilia theologica* (Theological counsels) for the
+rule.
+
+**Sick Calvinists.** Pfalz-Neuburg bordered on the Reformed Upper Palatinate. Its general
+articles of 1576 tolerate the papist ministers of foreign lordships while they give no offence.
+They let the pastor give the Supper to a sick Calvinist who has attended the evangelical sermons,
+"if the lordship can suffer it". **Pfalz-Neuburg, *Generalartikel*, 1576** (Sehling 13, p. 230):
+
+<!-- doc 404 -->
+
+In case also certain persons from Calvinist and other churches visit the evangelical churches
+and sermons in our principality, and one among them, being sick, should desire the evangelical
+pastor to give him the holy Supper: the pastor shall provide him with the holy sacrament, if the
+lordship can suffer it and it may be done without danger. But if it be dangerous, and against
+the will of the lordship or forbidden, he shall instruct such hearers with the ground of God's
+word and so strengthen them, that they may comfort themselves in case of bodily weakness
+befalling.
+
+The next paragraph asks patience with those of the land who are "still contrary to the religion
+out of unequal understanding and simplicity". The pastors are to bear with them "as with the
+weak in faith, after the teaching of St Paul", and not set their conversion "for a certain,
+fixed time" (Sehling 13, p. 230).
+
+Sehling's editor shows what this meant in practice. The Upper Palatinate forbade the going out,
+yet "the pastor of Lambrechtsneukirchen (near Burglengenfeld) in 1606 had among his 1,765
+communicants, besides his 325 souls, 694 from the Upper Palatinate!" (Sehling 13, p. 230,
+editor's note).
+
+#### <a id="s18-5-4"></a>18.5.4 Going out to another church (*Auslaufen*)
+
+Wherever a territory bordered on another confession, its people went across the border to hear
+sermons and receive the sacraments. The orders call it *auslaufen*, "running out". Every
+confession forbade it, and every confession's people did it.
+
+**Lutheran and Upper German cities against the Mass.** Strasbourg forbade its people to go out
+to the Mass two years after abolishing it. **Strasbourg, *Verbot, an anderen Orten die Messe zu
+hören*, 3 April 1531** (Moderate Reformed; Sehling 20/1, p. 224):
+
+<!-- doc 1291 -->
+
+Our lords, master and council and the Twenty-one, command all and every burgher, resident and
+dependant, be it man or woman, young or old, of whatsoever dignity, estate or condition they be,
+none excepted, that none of them shall ride, drive or go out of this city of Strasbourg, neither
+to the Eich at Lingolsheim, nor to Wiwersheim, nor to such places, to other surrounding towns,
+market towns or villages, to hear Mass, on pain of five pounds of pennies, as often and as many
+times as it happeneth.
+
+Frankfurt's council resolved the same in 1542. It also forbade the Catholic clergy of the city's
+three chapters to go out to the villages to preach and give the sacraments. **Frankfurt,
+*Resolution auf die Gravamina der Prediger*, 3 March 1542** (Sehling 9, p. 509):
+
+<!-- doc 2332 -->
+
+That the burghers also, men and women, should be forbidden to run out to the villages to papist
+Masses and sermons, as hath been done hitherto; or, whoever would not refrain from it, that he
+should stay half a year out of Frankfurt.
+
+Friedberg's council had forbidden the going out to the Masses at Rüsbach and Johannisberg in
+1535, on pain of ten gulden (Sehling 9, p. 620, editor's note).
+
+**Strasbourg against the Reformed.** By the end of the century Lutheran Strasbourg faced the
+other way. Its mandate of 1597 forbade going to "foreign lordships" for sermons and sacraments.
+Sehling's editor notes that the "contrary religion" meant chiefly the Reformed, who went to
+Bischweiler in Pfalz-Zweibrücken. **Strasbourg, *Verbot der Konventikel und des auswärtigen
+Gottesdienstbesuchs*, 10 December 1597** (Sehling 20/1, p. 535):
+
+<!-- doc 1343 -->
+
+But contrary and against this it hath credibly come to us and been reported that certain of our
+burghers not only let themselves be misled and seduced by foreign preachers, who agree not with
+our confession and our church's profession, to a strange and contrary religion; but also lust
+to hold particular conventicles and assemblies in their houses, or, to the great offence of
+their neighbour, to drive out of the city on particular feast days into foreign lordships, to
+hear the sermons and use the sacraments.
+
+**The evangelicals of Catholic towns.** Evangelicals living under a Catholic council or chapter
+went out to the evangelical villages round about:
+- **Colmar.** The Catholic council tried in 1554 to stop its people going to the services in the
+  neighbouring Württemberg lordship of Horburg, and renewed the mandate ten years later (Sehling
+  20/2, p. 475, editor). In 1560 the Horburg pastor wrote: *cives multi Colmarienses me adeunt*
+  ("many citizens of Colmar come to me").
+- **Hagenau.** The magistrates gave the going out as a reason for admitting evangelical worship in
+  the city in 1565 (Sehling 20/2, p. 408, editor).
+- **Wimpfen.** The burghers asked for the Supper in both kinds at home, so that they need not run
+  "across the country to the villages or market towns of a foreign lordship" for it (Sehling 17/2,
+  p. 513, editor).
+- **Dinkelsbühl.** After 1559 more than a thousand people went out of the city each holy day (Sehling
+  12, p. 123, editor).
+- **Dortmund.** The council freed the sacrament in both kinds in 1562, because many burghers had
+  gone out "in great crowds to foreign places" to receive it.
+
+**Dortmund, *Mandat zur Freigabe des Abendmahls unter beiderlei Gestalt*, 1562** (Sehling 21,
+p. 216):
+
+<!-- doc 1447 -->
+
+whereof many divisions have arisen among the common burghers; so also that certain persons, both
+men and women, have abstained altogether and entirely for many years from receiving the precious
+treasure of the holy sacrament, and certain have gone out in great crowds to foreign places,
+with their wives, children and servants, to receive the sacrament, as aforesaid.
+
+In Reformed Bremen the Lutherans who had lost their last pastor in 1582 went out "to clergy
+outside the city and its territory, such as the pastor of Seehausen" (Sehling 7/2.2, p. 399,
+editor).
+
+**The Reformed territories against the Lutheran altars.** The Reformed counties and the Reformed
+Palatinate forbade their people to go to Lutheran or Catholic neighbours. Nassau-Diez went
+furthest: a foreign pastor who gave the Supper in its villages was to be arrested. **Nassau-Diez,
+*Visitationspunkte*, 1585** (Reformed; Sehling 10, p. 178):
+
+<!-- doc 189 -->
+
+7. Whoever seeketh the Lord's Supper under a foreign lordship, or letteth his children be
+baptized in foreign churches, the same shall be put in the presentment roll, or, as the matter
+requireth, be reported to the authorities. But in case one or more should send for a strange,
+foreign pastor and receive the Supper from him, or would let their children be baptized by him,
+a general command shall go out from the high authority to each and every bailiff, that they take
+the same pastor, together with him who sent for him, prisoner forthwith, and deliver them into
+custody at Diez.
+
+The Palatine church council complained in 1595 that "the running out of the hearers to foreign
+places for communion with the neighbouring Lutheran and Ubiquitist pastors" was becoming common.
+**Kurpfalz, *Mandat zur Institution und Polizeiordnung*, 16 August 1595** (Reformed; Sehling
+19/2, p. 869):
+
+<!-- doc 1169 -->
+
+Further, that the running out of the hearers to foreign places, to the communion with the
+neighbouring Lutheran and Ubiquitist pastors, is becoming too common and gaining the upper hand
+more and more, […] But upon the persons who run out to the foreign communion they shall keep
+diligent watch, and require a list of such persons from the ministers and elders of each place.
+
+Other Reformed bans:
+- **Hanau-Münzenberg.** A fine of three batzen for those "who run out into foreign lordships to
+  the sermon or Supper" (*Kirchenzuchtordnung*, 1599/1602; Reformed; Sehling 10, p. 424). The visitors of
+  1599 asked "whether the people run elsewhere to the communion and have their children baptized
+  elsewhere" (Sehling 10, p. 433).
+- **Ysenburg.** The pastor is to announce each communion a week ahead, and to warn the people
+  faithfully against "running out to foreign places under another lordship for baptism and the
+  Supper" (*Kirchenordnung*, 1598; Reformed; Sehling 10, p. 646).
+- **Sayn.** The elders were to report those "addicted to idolatry, who therefore run out
+  elsewhere" (*Sendschöffenordnung*, 1606; Reformed; Sehling 19/1, p. 449). In 1619 the count forbade
+  going to the "idolatrous, papal Mass" and pilgrimages at Marienstatt and elsewhere (Sehling
+  19/1, p. 454).
+- **Homburg.** The people of Wiel were told in 1605 not to run to Marienhagen for the Supper, but
+  to keep to their mother church (*Beschlüsse zu Homburger Kirchensachen*; Reformed; Sehling 22,
+  p. 149).
+
+**A Calvinist in a Lutheran town.** The Landau council's minutes of 1582 show the rule applied to
+one man. Dr Andreas Gottwald declared that he did not agree with "our churches" on the Supper.
+The pastor would not let Gottwald's wife lift a child from the font. The council told Gottwald,
+if he would live in the town, to keep from disputing and from using the Supper under foreign
+lordships. **Landau, *Verhandlungen gegen Calvinisten*, 26 June 1582** (Sehling 19/1, p. 65):
+
+<!-- doc 1046 -->
+
+namely, that he, Doctor Gottwald, if he would dwell here, should refrain not only from
+unnecessary disputation, but also from using the holy Supper under foreign lordships, outside
+the city; but if he would dwell here, that this should be done without offence to any man. […]
+Thereupon he declared that he would avoid all that which might be judged likely, on account of
+his person, to give offence to the common burghers, even in matters of faith. He would also
+attend the sermons here, so far as that could be done. But that he should receive the Supper
+here, that he knew not how to do.
+
+The council answered that it "would prescribe him no measure in matters of religion", if only he
+gave no offence. In December the council ordered the preachers to examine the Calvinists,
+Schwenckfelders and Anabaptists, and resolved not to tolerate those who would not hear the
+sermons (Sehling 19/1, p. 65).
+
+**Reformed communicants at Lutheran altars.** The Reformed theologians did not all forbid the
+Lutheran Supper. Sehling's editor reports their opinion from the Palatinate under the Lutheran
+Elector Ludwig VI. **Kurpfalz, Sehling's introduction** (Sehling 14, p. 67):
+
+<!-- doc 468 -->
+
+It is shown thereby that, despite the change of confession five years before, numerous
+Calvinists were still to be found in the land, although the running out to the Reformed Supper
+in the territory of Johann Casimir had been forbidden them in 1578. Thereupon Reformed
+theologians such as Beza and Ursinus had examined in opinions the participation of the
+Reformed-minded in Lutheran celebrations of the Supper, and approved it in principle.
+
+The same account is repeated in the introduction to the supplement (Sehling 19/2, p. 684).
+
+---
+
+### <a id="s18-6"></a>18.6 Confession and absolution
+
+The question "who could absolve whom" has two sides in the orders. One is whose absolution
+counted. The other is from whom a Christian might seek it.
+
+#### <a id="s18-6-1"></a>18.6.1 Not from monks and priests
+
+The first evangelical orders took confession away from the monks. Bugenhagen's Hamburg order of
+1529 gives it to those who preach. **Hamburg, *Kirchenordnung*, 1529** (Sehling 5, p. 508):
+
+<!-- doc 1959 -->
+
+Hearing confession and giving the sacrament. Those who openly set forth God's word to us shall
+also minister the sacraments and hear confession, especially in the last necessities. For of
+others, and especially of monks, we might have suspicion that they would not deal rightly with
+the people in the doctrine of the holy gospel, especially in secret confession and in the last
+necessities.
+
+The Upper German catechisms are sharper. They deny that the papists' absolution has any force at
+all. **Strasbourg, Wolfgang Capito's *Kinder bericht*, 1527** (Moderate Reformed; Sehling 20/1,
+p. 193):
+
+<!-- doc 1285 -->
+
+Question: What is the priests' forgiveness or absolution? Answer: A very evil deceit; for the
+papists, since they insist on their little human sins, have themselves no part in the kingdom
+of God. How then might they open it to other people?
+
+Konrad Sam's catechism for Ulm says the same, and draws the practical consequence. **Ulm,
+Konrad Sam's catechism, 1528/1536** (Moderate Reformed; Sehling 17/2, p. 108):
+
+<!-- doc 834 -->
+
+The monks' or priests' absolution or forgiveness is a deceit. They are not Christians, for they
+insist not on the words of Christ but on their little human sins. Therefore go far from them, as
+from the worst enemies of God.
+
+#### <a id="s18-6-2"></a>18.6.2 Not to the defenders of error
+
+The orders also refuse their own absolution to those who defend another confession's errors:
+- **Prussia 1568.** The order keeps confession so that the preacher may refuse absolution and
+  the sacrament to "the papists, Sacramentarian fanatics, Anabaptists and other sects like them"
+  who defend their errors ([§18.5.1](#s18-5-1)).
+- **Lippe 1571.** The minister is to see that "proven, convicted heretics and persecutors or
+  falsifiers of the truth" are not absolved (Sehling 21, p. 380).
+- **Posen 1570.** On the Polish side, those excommunicated in one congregation are not admitted to
+  the Supper in the other until they are reconciled with the church they offended (art. XV,
+  [§18.11.3](#s18-11-3)).
+
+#### <a id="s18-6-3"></a>18.6.3 One's own confessor
+
+**One's own pastor.** Most orders tie confession to the parish, so that discipline may hold.
+The Prussian order for the bishops (1568) forbids a pastor to receive another parish's people to
+confession ([§18.5.3](#s18-5-3)). Soest's preachers agreed on the same in 1590. **Soest, *Artikel
+der Prediger*, 1 September 1590** (Sehling 22, p. 480):
+
+<!-- doc 1536 -->
+
+5. Since a pastor knoweth his sheep and their circumstances best, and also that church
+discipline may be maintained, no one shall accept another's penitents without the foreknowledge
+and will of their pastor.
+
+**Absolution stolen elsewhere.** Lippe's order of 1571 describes what the rule prevented.
+**Lippe, *Kirchenordnung*, 1571** (Sehling 21, p. 380):
+
+<!-- doc 1462 -->
+
+Since it also often happeneth that certain excommunicated people, or people turned away from
+the communion, run out of their parish into another congregation, and there steal the absolution
+from the pastor and receive the sacrament of the altar with other God-fearing Christians (that
+they may be held godly and holy by the people), because it is refused and denied them in their
+own parish, together with other rights of the church, on account of their godless life and
+impenitence: this shall be prudently prevented and forborne by the preachers, as faithful
+watchmen of souls, so that no one break into another pastor's office.
+
+**Any minister of the city.** Regensburg had one evangelical ministry in several churches. Its
+order of 1572 took for granted that people chose their confessor from the whole ministry, "since
+they all have one office and equal power". It asked only that they confess where they meant to
+commune, so that the number of communicants in each church might be known. **Regensburg,
+*Kirchenregimentsordnung*, 1572/1588** (Sehling 13, p. 509):
+
+<!-- doc 452 -->
+
+moreover, many gather to one minister of the church while meantime the other sitteth idle,
+since commonly each chooseth for himself a particular father confessor, though they all have
+one office and equal power: therefore the reverend ministers, when they are in doubt whether a
+person will communicate in the church in which he confesseth, shall ask and admonish him on that
+account, henceforth to make his confession at the place where he is always wont to communicate.
+
+**The pastor's own confessor.** Henneberg's order of 1582 asks the country pastors, who had no
+second minister beside them, to seek absolution "once or several times a year" from their
+neighbouring pastors (Sehling 2, p. 307).
+
+---
+
+### <a id="s18-7"></a>18.7 Ordination
+
+The evangelical ordination, and why it was begun, are treated in [§13.10](#s13-10). This section
+takes up the fellowship side: whose orders the evangelical churches accepted, and whose they
+did not.
+
+#### <a id="s18-7-1"></a>18.7.1 Orders received from the bishops
+
+**The evangelical preachers were ordained in the old church.** The first generation of
+preachers had been ordained priests by the bishops. The Hannover order of 1536 makes this a
+point of its defence: it was the papists who cast out men they had themselves ordained.
+**Hannover, *Kirchenordnung*, 1536** (Sehling 6/2, p. 997):
+
+<!-- doc 2051 -->
+
+When our Christian preachers attacked and rebuked the papist ways, they were banned by the
+papists, and so thrust out by the ban from the papists' church, in which they had yet been
+ordained and called to the office of preaching, which they might not forsake with a good
+conscience.
+
+**Ordination for those not yet ordained.** When the evangelical churches began to ordain, they
+ordained only those who had no orders. Sehling's editor reports the Electoral Saxon decree of
+12 May 1535. The superintendents were to send candidates "so far as they had not yet received
+episcopal consecration" to Wittenberg to be ordained. "This ordination was conceived as a
+parallel to, or a substitute for, episcopal ordination to the priesthood" (Sehling 7/1, p. 728,
+editor). The Hoya order of 1581 still speaks of ordaining "the persons who are not ordained"
+(Sehling 6/2, p. 1132).
+
+The later orders did not ordain again one already ordained:
+- **Brunswick 1571.** The city's order of calling, signed by Chemnitz, says that if the person
+  called "was ordained before elsewhere", he needs "no further ordination", only a public
+  presentation to the congregation (Sehling 6/1, p. 458).
+- **Strasbourg 1598.** A pastor who had been examined and ordained before in the Strasbourg
+  ministry was not ordained again. Only one new to the ministry was examined and ordained
+  (Sehling 20/1, pp. 661–662).
+
+**The bishop of Breslau.** In Silesia the line between the old ordination and the new was drawn
+late. **Silesia, Sehling's introduction** (Sehling 3, p. 391):
+
+<!-- doc 1803 -->
+
+For a long time the Liegnitz superintendents Heinrich Dietrich and Georg Seiler recognised the
+bishop's jurisdiction and did not dispute his right of ordination. In Pless the bishop's
+jurisdiction was recognised for decisions in the second instance even as late as 1592.
+
+**The bishops' consecration refused.** In the north the evangelical churches gave up waiting for
+the bishops. The Hamburg order of 1556 gives the reason: the bishops ordained only for the
+Mass. The text follows Buxtehude's order of 1552 (Sehling 7/1, p. 84). **Hamburg,
+*Kirchenordnung*, 1556** (Sehling 5, p. 549):
+
+<!-- doc 1963 -->
+
+Forasmuch as the bishops' consecration is at this time given only for the idolatrous papist
+abuses and only for the godless service, and yet an honourable and godly ordination and
+institution is needful, the institution may not unfittingly be done as the holy apostles gave
+it, and as hath been customary in our church until now, namely with prayer and the laying on of
+hands.
+
+Einbeck's chapter order of 1543 makes the same point about benefices: the duke's presentees were
+to be admitted to their prebends "though they be not smeared with oil and chrism after the papist
+manner, nor consecrated, or otherwise have a defect of birth" (*Stiftsordnung* of Duke Philip I;
+Sehling 6/2, p. 1117).
+
+#### <a id="s18-7-2"></a>18.7.2 Re-ordination, and orders taken from the papists
+
+The orders accepted Roman orders. They did not re-ordain a priest who came over to them. The
+corpus has one exception. **Pfalz-Neuburg, *Generalartikel*, 1576** (Sehling 13, p. 198):
+
+<!-- doc 404 -->
+
+that priests come out of the papacy, confess our true Christian religion and desire a ministry
+of the church, and since it may yet come to pass in time to come that such persons apply for
+service: the same, notwithstanding that he received his ordination and *formata* (letters of orders) in the papacy,
+shall be ordained again at the church committed to him, in the stead of a recantation, and a
+certificate thereof given him.
+
+The order does not call the Roman orders void. The new ordination stands "in the stead of a
+recantation": the priest renounced the papacy by being ordained again before his new
+congregation.
+
+**Taking orders from the papists.** Magdeburg's pastors in 1554 went the other way: they would
+not hold for Christians those who took orders or prebends from the papists. **Magdeburg, *Etliche
+artikel zu notwendiger kirchenordnung*, 1554, fifth article** (Sehling 2, p. 452):
+
+<!-- doc 1257 -->
+
+The fifth article. Of those who receive orders or consecration or prebends from the papists, for
+themselves, their children or their kin. […] Therefore those who accept orders, consecration,
+prebends or benefices from the Antichrist, or from those who are still wholly unconverted
+papists, for themselves, their children or friends, we cannot hold for Christians; since they
+take wages from the Antichrist, and bind themselves to him and his members.
+
+**The Catholic side.** The Roman side, in turn, did not accept Wittenberg orders. In 1539, on the
+complaint of Amberg's Catholic town pastor, the Count Palatine demanded the removal of all clergy
+"who were married or not ordained in the Roman way". The city "had at last to let Hügel go,
+because he was ordained by Luther and not by a bishop" (Sehling 13, p. 258, editor).
+
+#### <a id="s18-7-3"></a>18.7.3 Proof of orders
+
+Because orders were accepted across territories, they had to be proved. Most orders gave the new
+minister a certificate. Lauenburg's says why. **Lauenburg, *Kirchenordnung*, 1585** (Sehling 5,
+p. 408):
+
+<!-- doc 1953 -->
+
+After the communion the one ordained shall forthwith be given his trustworthy certificate of
+ordination, sealed by the superintendent and signed beside him by the other pastors present, for
+a witness of his orderly calling, and that he hath been admitted to the holy office of preaching,
+and is no false preacher.
+
+A certificate could also state the confession of the man ordained. Pfalz-Zweibrücken's of 1567
+names the errors he renounced, and puts Calvin's doctrine of the Supper first. **Pfalz-Zweibrücken,
+*Ordinationszeugnis*, 7 September 1567** (Sehling 18, p. 343):
+
+<!-- doc 987 -->
+
+he hath testified that he is a stranger to all fanatical opinions that fight against the word of
+God (such as is Calvin's error concerning the Lord's Supper, Schwenckfeld's blasphemy against the
+ministry of the word, the madness of the Anabaptists who assail the baptism of infants and the
+civil magistrate, the fiction of Origen and others concerning free will, and like corruptions).
+
+Other orders show how far the certificates travelled:
+- **Visitation questions.** The visitors asked by whom and where each minister was ordained. The
+  Sponheim articles of 1608 require each minister to report to the chancery "where, when and by
+  whom he was ordained" (Sehling 18, p. 672).
+- **Brunswick's ministry.** Under Mörlin and Chemnitz it was often asked by other territories for
+  a *testimonium ordinationis* (certificate of ordination) for their preachers. Certificates survive from 1558 to 1568 for men
+  called to Tating in Holstein, to Hannover and elsewhere (Sehling 6/1, p. 343, editor).
+- **Danzig.** In 1586 the council took the right of ordination from the city's quarrelling
+  clergy, and had the necessary ordinations done by the consistory at Stolp in Pomerania
+  (Sehling 4, pp. 172–173, editor).
+
+**Poland: a minister of either confession.** The Polish union let a congregation call a minister
+ordained in the other confession. **Synod of Petrikau, 1–3 June 1578** (Sandomierz consensus;
+Sehling 4, p. 263):
+
+<!-- doc 1846 -->
+
+VI. It is decreed that no patron shall receive any minister, or suffer him to teach in the
+church, unless he have been lawfully ordained and sent by the superintendents and seniors of our
+churches, and have a good and sure testimony from them. VII. Since a union hath been made among
+us who are devoted to the Helvetic, Augsburg and Bohemian confessions, it shall be free for the
+church or patron of a congregation of one confession, for just causes and in good order, to ask
+a minister from the superintendents of the other confession and to call him.
+
+The synod of Thorn in 1595 added that no minister was to be received "unless he be rightly
+ordained, have a sure testimony, and subscribe the Consensus and conduct himself according to it"
+(art. IV; Sehling 4, p. 265).
+
+---
+
+### <a id="s18-8"></a>18.8 Preaching
+
+#### <a id="s18-8-1"></a>18.8.1 No preaching without a call
+
+Every order requires a call for the pulpit:
+- **Brandenburg-Ansbach 1536.** The visitors were to tell the ministers to let no one "who is not
+  called and examined" preach or give the sacraments (Sehling 11, p. 323).
+- **Pfalz-Zweibrücken 1567.** The certificate of ordination sets against the called minister
+  those who "without awaiting a lawful calling, by private choice invade the public office of
+  teaching in the church", with Jeremiah 23:21: "they ran, and I sent them not" (Sehling 18,
+  p. 343).
+
+The rule was not only evangelical. The Roman Catholic humanist order of Jülich-Cleves-Berg used
+it against the evangelical preachers. **Jülich-Cleves-Berg, *Deklaration zur Kirchenordnung*,
+8 April 1533** (Roman Catholic humanist; Sehling 21, p. 61):
+
+<!-- doc 1421 -->
+
+that in our principalities, lands and territories the aforesaid strange and hedge preachers be
+in no wise tolerated or maintained any longer; and that no other preachers be accepted in any
+other manner than the rightful pastors and their vicars, admitted by our appointed councillors;
+and that none shall send for, fetch, hear, house, lodge or maintain the strangers or those not
+admitted.
+
+#### <a id="s18-8-2"></a>18.8.2 Strangers in the pulpit
+
+No pastor might let a strange preacher into his pulpit without leave. Reuss gives the rule its
+shortest form. **Reuss, *Kirchen-Ordnung* of Heinrich IV, 1552** (Sehling 2, p. 157):
+
+<!-- doc 1234 -->
+
+No pastor shall let any strange, unknown preacher into the pulpit without the foreknowledge of
+the superattendent, for great mischief hath often arisen thereof.
+
+The leave came from different bodies in different places:
+- **The superintendent and the lord.** Nassau-Dillenburg 1550: no "young or strange predicant"
+  without the lord and the superintendent (Sehling 10, p. 91).
+- **The whole ministry.** Wismar's settlement of 1572: no unknown preacher "without the knowledge
+  and consent of the whole ministry". The superintendent might preach in the other parish churches
+  except on the highest feasts, after warning the local pastor (Sehling 5, p. 313).
+- **The council.** Aschersleben 1575: "no strange person into the pulpit" without the council's
+  consent (Sehling 2, p. 477).
+- **The chancery or the inspectors.** Sponheim 1608, under the heading "No stranger shall preach":
+  no minister may let "another and strange theologian" preach in his church or its filials
+  without the chancery or the inspectors knowing (Sehling 18, p. 672).
+- **Certificates.** Wittgenstein's order of 1555 admits a foreign preacher to a vacant parish only
+  with certificates "both of his honourable and chaste life and of the soundness of his doctrine"
+  from the places where he served before (Sehling 22, p. 83).
+
+By the end of the century the rule served the confession. The Soest preachers would let no one
+into the pulpit until they knew "to which body of doctrine each one confesseth". **Soest,
+*Artikel der Prediger*, 1 September 1590** (Sehling 22, p. 480):
+
+<!-- doc 1536 -->
+
+2. Since great mischief may also arise from letting young and also unknown people come into the
+pulpit, without knowing to which body of doctrine each one confesseth: none among us shall
+henceforth let anyone come into the pulpit to preach, unless he have been set before the whole
+ministry and spoken with as need requireth.
+
+Only the Polish union opened the pulpit to the other confession. Its ministers preached in each
+other's churches ([§18.11.3](#s18-11-3)). In mixed Wimpfen the hearers of each religion might go
+to the other's sermon ([§18.9.2](#s18-9-2)).
+
+#### <a id="s18-8-3"></a>18.8.3 The other confession's ministers, and the pulpit
+
+**No fellowship, no disputes.** Wolfstein's instruction of 1574 lays two rules on its pastors.
+They are to have no fellowship with the papist priests, citing 1 Timothy 6 and 2 John 10–11. And
+they are not to dispute with foreign pastors, Calvinist or papist. **Wolfstein, *Christliche
+Instructio* of Thomas Stieber, 1574** (Sehling 13, pp. 590–591):
+
+<!-- doc 463 -->
+
+Twelfthly, all pastors under our gracious lord shall abstain and keep themselves from all papist
+priests, and have no fellowship with them; that our hearers may see and know in deed that our
+preaching against the idolatrous papacy floweth from an upright heart and a fervent zeal for pure
+doctrine […] It is very unseemly and offensive that we should have much fellowship with those
+whom in our sermons we proclaim enemies of our Lord Christ and condemn as idolaters. […] *If
+there come any unto you, and bring not this doctrine, receive him not into your house, neither
+bid him God speed: for he that biddeth him God speed is partaker of his evil deeds* [2 John
+10–11]. Thirteenthly, all pastors and ministers of the church dwelling in our gracious lord's land
+and lordship shall refrain from engaging in disputations and offensive quarrels with foreign
+pastors, be they Calvinist or papist; from which little good followeth, and such adversaries of
+ours will hardly let themselves be taught, and thereby worldly lordships are also often set
+against one another and moved and provoked to unpeaceable ill will.
+
+Sehling's editor glosses the Calvinist pastors as those "for instance in Electoral Palatine
+Amberg". If a Wolfstein pastor was asked for an account of his faith, he was to give it briefly
+"in all fear of God" (1 Peter 3:15).
+
+**Naming without reviling.** Where the lord was of another religion, or the town held two, the
+pulpit was bridled:
+- **Sponheim 1599.** The pastor of Kastellaun, where the margravine resided, asked whether he
+  might name "the papists and the ass, the pope". He was told he might expound the orthodox
+  doctrine "in thesis and antithesis" and name the other party. But he was to keep from odious
+  epithets and preach "to edify and not to destroy". All pastors were to name the adversaries in
+  the disputed articles, "so that the hearers know of which party one speaketh": papists,
+  Anabaptists, Schwenckfelders, Calvinists. But they were to do it without epithets joined "with
+  injury and contumely" (Sehling 18, p. 663).
+- **Colmar.** The magistrate summoned the deacon Johann Georg Magnus over an Ascension sermon
+  against the Zwinglians. He was told to leave such "subtleties" off the pulpit and not to use
+  the names "Zwinglians" and "Calvinists" (Sehling 20/2, p. 485, editor).
+- **Augsburg 1591.** The preacher's oath in the biconfessional city ([§18.9.3](#s18-9-3)).
+- **Wimpfen 1568.** Both pastors were to keep from "reviling, scolding and slandering"
+  ([§18.9.3](#s18-9-3)).
+
+**The Reformed side: no condemnations.** The Reformed governments made the same rule in their own
+interest. In the Upper Palatinate no one was admitted to a church or school office "unless he vow
+upon the *mandatum de non calumniando*". **Upper Palatinate, *Generalanweisung*, 20 March 1598**
+(Reformed; Sehling 13, p. 348):
+
+<!-- doc 427 -->
+
+13. Likewise no one shall be admitted to any church or school office unless he vow upon the
+*mandate against calumny*; over which mandate the church councillors shall be bound to hold
+stiffly and fast among those related to both religions, and in this case to wink no more at the
+orthodox than at the others.
+
+The Reformed recess for Lutheran Amberg (1593) admitted Jacob Schopper as city preacher on the
+same condition. He was to refrain "from all reviling and bitter calumny and condemnation (*salva
+tamen thesi et antithesi*)" (Sehling 13, p. 336). In Hessian Katzenelnbogen in 1600 the ministers
+were told to leave off "the calumnies, insults and condemnations" in the points still disputed
+"between the evangelical churches", on both sides. They were not to bring onto the pulpit new
+phrases of the omnipresence of Christ's flesh, or of its "corporal and real in-existence in or
+under the bread and wine" (Reformed; Sehling 9, p. 60).
+
+The Reformed Kurpfalz grounded its mandate against condemnations of 1584 on the Lutheran
+fathers themselves ([§18.11.1](#s18-11-1)).
+
+---
+
+### <a id="s18-9"></a>18.9 Prayer and worship side by side
+
+#### <a id="s18-9-1"></a>18.9.1 Prayer for, and against, the other confessions
+
+No order outside Poland provides for common worship with another confession. But the orders
+pray about the others in the general prayer and the litany, both for them and against them.
+
+**For the heretics.** The early Upper German and Franconian orders pray for their conversion.
+Heilbronn's order of 1530 has the preacher pray in the general prayer "for heretics and the
+obstinate, always a special prayer for each". **Heilbronn, *Confessio Heilbronnensis* and
+*Kirchenordnung*, 1530** (Sehling 17/1, p. 286):
+
+<!-- doc 770 -->
+
+After the same the preacher holdeth the common prayer, praying diligently for the Christian
+shepherds, for the temporal magistrates, emperor, king, princes etc., for the sick and weak, for
+the common peace, for the enemies of Christian blood, for the fruit of the earth, for heretics
+and the obstinate: always a special prayer for each.
+
+Ulm's handbook of 1531 bids prayer for heretics and apostates beside the Jews and heathen.
+**Ulm, *Handbüchlein*, 1531** (Moderate Reformed; Sehling 17/2, p. 176):
+
+<!-- doc 838 -->
+
+To pray for all unbelieving Jews, heathen, heretics and apostates from the church of Christ:
+that God the Lord would root out all false, erring unbelief, and daily increase and enlarge his
+kingdom; that Christ our Lord would call and bring hither, through his gracious, mighty word, all
+whom the Father hath given him, that we may all be one sheepfold, and he, our only shepherd and
+saviour, be made known also to the heathen and to all men.
+
+The Brandenburg-Ansbach *Auctuarium* of the Interim (1548) puts prayers "for unbelievers, sects
+and factions" in the place of the minor and major canon (Interim order; Sehling 11, p. 327).
+
+**Against them.** The later Lutheran orders pray against the other confessions as enemies of the
+word:
+- **Regensburg 1567.** The general prayer asks that God's word may remain pure "against all the
+  tyranny and falsification of the Turk, the pope, the heretics, tyrants and false brethren"
+  (Sehling 13, p. 479).
+- **Pfalz-Zweibrücken 1565.** The duke sent the parishes a prayer "against the Turk and the
+  sectaries", that is, "the heretics, sectaries and fanatics" (Sehling 18, p. 311).
+- **Kurland 1570.** The general instruction drops the Ave Maria. It has the litany sung on
+  Sundays "very vehemently against the pope, the Turk", the devil and all his members.
+
+**Kurland, *Instructio generalis*, 1570** (Sehling 5, p. 80):
+
+<!-- doc 1907 -->
+
+The Ave Maria, used out of papist custom, shall be done away in time; and commonly on Sunday the
+litany shall be sung, and prayer made very vehemently against the pope, the Turk, Gog and Magog,
+Meshech and the tents of Kedar, the devil himself and all his members, tyrants and heretics.
+
+The same instruction has the prayer bell rung three times a day, with prayer "against the devil
+and his members, tyrants and heretics, pope, Turks and their consorts" (Sehling 5, p. 92).
+
+**Could the others pray?** The godparent rules turned on this question ([§18.4.3](#s18-4-3)).
+For the Bremen preachers a papist's prayer was "nothing but mere sin and curse", since it was
+without faith in Christ. For the Hessian visitors of 1556 the papists "confess one faith with
+us". Regensburg asked of the godparent that he be one "who can and shall pray to God with" the
+church.
+
+#### <a id="s18-9-2"></a>18.9.2 At the other confession's worship
+
+The orders say little about a Christian present at the worship of another confession on a single
+occasion. Two texts give opposite answers.
+
+**To the church door.** Pfalz-Neuburg's general articles of 1576 deal with subjects invited to a
+wedding in a Catholic territory. They may attend the wedding but not the Mass. **Pfalz-Neuburg,
+*Generalartikel*, 1576, art. LXIV.3** (Sehling 13, p. 231):
+
+<!-- doc 404 -->
+
+3. If it should then come to pass that anyone from this principality be invited to weddings in
+the papacy, and might, with others, be present at the papist Mass out of want of understanding,
+the pastors shall summon such persons also and deal with them discreetly, and give them
+sufficient instruction, on the good ground of holy Scripture, of what an idolatry and abomination
+before God the Mass is, and dissuade them from it. But in case such a person would gladly be at
+the wedding, they shall direct him to go no further than the church door; or, if he come into
+the church with the others, to turn back at once and go out, and in no wise to stay at the
+idolatry, to the wounding of his conscience and the offence of other people, nor confirm it by
+his presence.
+
+The same article deals with children placed in service in the papacy. The pastor is to warn
+such a child to keep to what it has learned, to stay clear of idolatry, and to come to him when
+it wishes to communicate (Sehling 13, p. 231).
+
+**Into the other's sermon.** At Wimpfen, where the Catholics and the Augsburg Confession shared
+one parish church, the council's agreement of 1568 let each side hear the other. **Wimpfen,
+*Regelung der Predigtzeiten und Festtage beider Konfessionen*, 23 July 1568** (Sehling 17/2,
+p. 520):
+
+<!-- doc 928 -->
+
+Likewise also both parish vicars shall be diligent in modesty in their sermons, and moderate and
+refrain from reviling, scolding and slandering; but each of them shall so set forth the
+necessary things of his doctrine, that the other and his parishioners be not touched with
+reviling nor put to shame thereby. The parish vicars themselves and their hearers may also go
+unhindered into the other's sermons; yet, as is fitting, keep silence, not interrupt the
+preacher, nor act against him in any way with gestures, and otherwise leave his parishioners
+unmolested in word and deed.
+
+#### <a id="s18-9-3"></a>18.9.3 Two religions in one town
+
+The Peace of Augsburg (1555) left the imperial cities where both religions were then practised
+to keep both. A number of the orders are the settlements by which councils, chapters and lords
+divided the churches, the hours and the pulpits.
+
+**Wimpfen.** The 1568 agreement divides the Sunday morning between the two parish vicars. The
+Catholic preacher and ceremonies are to end by eight, or at the latest half past eight, in
+summer, and by half past eight or nine in winter. Then the Augsburg Confession has the church.
+After the midday meal the evangelical catechism is held at one, and the Catholic vespers after
+it. The agreement also lists the feasts both sides keep (Sehling 17/2, pp. 519–521).
+
+**Augsburg.** The city held "both the old religion and the Augsburg Confession". Its preachers
+swore to keep the peace between them. **Augsburg, *Einzelbestimmungen zu den
+Berufungsverhandlungen*, 1591** (Sehling 12, p. 115):
+
+<!-- doc 342 -->
+
+and, since in the city of Augsburg both the old religion and the Augsburg Confession are kept, I
+will wholly refrain from blaspheming, disgracing and reviling persons, and from all that may
+serve to the unrest, ill will and embitterment of the common man; and will abide, in expounding
+and declaring the holy gospel, by the sense of the Augsburg Confession.
+
+**Amberg.** The Reformed Elector's recess of 1593 for Lutheran Amberg left every inhabitant free
+to choose between the two churches. **Upper Palatinate, *Amberger Rezeß*, 8 June 1593**
+(Reformed; Sehling 13, p. 337):
+
+<!-- doc 423 -->
+
+And it shall now be free and open to all burghers, inhabitants and strangers, without any
+reviling, reproach, upbraiding or penalty, to confess themselves to the one church or the other,
+its sermons and sacraments, and to visit and use them; and no less shall each of them, of
+whatever religion he be, show and conduct himself toward the other peaceably, quietly and kindly,
+as burghers and inhabitants of one city; and protection and defence shall be held for the one as
+for the other.
+
+**Hagenau.** The council of 1614 separated the two religions "in churches and also in schools",
+and gave each its own buildings. **Hagenau, *Fundationsbrief*, 3 June 1614** (Sehling 20/2,
+p. 463):
+
+<!-- doc 1405 -->
+
+for since we have in this our city the two religions admitted in the Holy Roman Empire, as they
+are named, the old or Catholic and the Augsburg Confession, side by side, and have declared
+ourselves to maintain them without any compulsion or oppression of conscience, and to admit,
+protect and uphold each man in the one or the other to which his conscience driveth him: [we
+resolved] that we would separate the two sides or parties from one another, in churches as also
+in schools
+
+Other settlements:
+- **Wetzlar.** The town and the chapter shared the collegiate church after an agreement of 1561
+  (Sehling 9, p. 674). In 1586 the council received some sixty families of the Walloon Reformed
+  refugee congregation from Wesel. Sehling's editor adds that they used the choir of the former
+  Franciscan church and the Lutherans its nave. This made a second shared church, "of the
+  Lutherans and Reformed" (Sehling 9, p. 670, editor).
+- **Leutkirch.** In the calendar dispute of 1603 the council held all burghers "of the Catholic
+  Roman or of the Augsburg Confession religion" in equal protection. It declared the calendar
+  "for no religious but a political matter" (Sehling 17/2, p. 546).
+- **The Wild- and Rhinegraviate.** The Wild- and Rhinegraves shared the lordship of Vinstingen
+  with Catholic co-lords. Their treaty of 13 January 1584 let the co-lords' subjects in the
+  villages have Catholic worship, with churches and priests at the co-lords' cost. The
+  Rhinegraves promised to protect the Catholic pastors, priests, schoolmasters and subjects "in
+  their church usages, ceremonies and exercise of their religion" (Sehling 19/2, p. 551).
+- **Samter.** In Greater Poland the two lords of Samter agreed in 1575 on the common use of the
+  parish church for Catholic and Protestant worship (Sehling 4, p. 255, editor).
+
+**Schools.** The Transylvanian synod of Mediasch (1578) recalled the Saxon scholars "from the
+schools of Klausenburg", which Sehling's editor calls "dominated by another confession". The
+obstinate were to have no office in the Saxon schools or churches (art. XVIII; Sehling 24,
+p. 427). The Kraków synod of 1573 held it "wrong" for evangelical parents to send their children
+"to the schools of blasphemers and idolaters" (Sehling 4, p. 261).
+
+---
+
+### <a id="s18-10"></a>18.10 Burial and marriage
+
+#### <a id="s18-10-1"></a>18.10.1 Burial
+
+**The churchyard closed to obstinate papists.** Christian burial was refused to those who died
+outside the church. Magdeburg's pastors in 1554 gave the Catholic practice as their warrant.
+**Magdeburg, *Etliche artikel zu notwendiger kirchenordnung*, 1554, fourth article** (Sehling 2,
+p. 451):
+
+<!-- doc 1257 -->
+
+The fourth article. Of those who are mere papists and remain so to their end. Those who die as
+pure, hardened papists and enemies of the gospel of Christ, of the right use of the sacraments
+and of the right church, ought rightly to be wholly refused our churchyard, where the Christians
+lie and sleep; lest a mingling be made between the bones of the Christians and of the open,
+declared and final enemies of Christ. […] Moreover the papists use such earnestness against us
+evangelicals that they will not let us be buried in their supposed consecrated churchyards, so
+that, as they pretend, their holy places might not be defiled with our bodies. How much more
+shall we Christians show a Christian zeal in this point.
+
+The Hoya order of 1581 sends to "the common field" the impenitent despisers of the word, the
+heretics, and "hardened papist people, if they die without repentance". **Hoya,
+*Kirchenordnung*, 1581** (Sehling 6/2, p. 1172):
+
+<!-- doc 2065 -->
+
+further, heretics, blasphemers and persecutors of the truth who remain in their godless ways; and
+lastly, hardened papist people, if they should die and depart without repentance: they shall be
+set apart from the burial of the Christians, and buried in the common field; for they are not
+worthy to rest in the common God's acres, where other godly Christians have their little
+sleeping chambers and rest in Christ.
+
+Other orders on burial:
+- **Mansfeld 1580.** The agenda refuses Christian burial, with bells and singing, to those held
+  fast in "false, heretical and condemned doctrine", who avoid the church and the sacraments and
+  revile pure doctrine, if they die unrepentant. The grounds are 2 John and Titus 3
+  ([§18.3](#s18-3); Sehling 2, pp. 246–247).
+- **Regensburg 1567.** The church order makes separate provision for "those who are not of our
+  doctrine and confession", and for those who "desire to be buried among the papists"
+  (Sehling 13, p. 483).
+- **Wied 1564 (Reformed).** Whoever dies in obstinate contempt of God and his gospel is to be
+  "deprived of the common burial of the faithful" (Sehling 19/1, p. 466).
+
+#### <a id="s18-10-2"></a>18.10.2 Marriage between spouses of unequal religion
+
+The orders did not dissolve a marriage for difference of religion. Lauenburg's order of 1585
+applies 1 Corinthians 7, and makes the one exception that Paul makes. **Lauenburg,
+*Kirchenordnung*, 1585** (Sehling 5, p. 441):
+
+<!-- doc 1953 -->
+
+But if, without the knowledge of the other party, the one had been of an unsound religion from
+the beginning, or had afterwards become of a false, unchristian religion while the marriage
+stood, it is clear that those who would tear apart and separate the marriage between such
+spouses on account of unequal religion and faith act openly against Paul, and also against many
+examples and histories; unless the one party should therefore maliciously forsake and run from
+the other, as often happeneth among the Anabaptists. For in such a case help must be given to the
+innocent party, according to the doctrine of the apostle Paul.
+
+The Anabaptist side is stated in Pfalz-Zweibrücken's order of 1557, among the Anabaptist errors:
+"if an Anabaptist is in marriage, and the other person will not hold to the Anabaptists' error, he
+may leave her and take another" (Sehling 18, p. 147).
+
+Marriages into the other confession were discouraged, not forbidden. Pfalz-Neuburg's articles of
+1576 tell the pastors to preach "with all discretion" against parents who "marry their children
+into the papacy". Such parents are to be summoned and warned of the danger. If the children are
+"defiled with idolatry", the superintendent is to admonish the parents to help them out of the
+papacy again (art. LXIV.1; Sehling 13, pp. 230–231).
+
+---
+
+### <a id="s18-11"></a>18.11 Agreements between the traditions
+
+#### <a id="s18-11-1"></a>18.11.1 The Wittenberg Concord and its memory
+
+**Strasbourg's account.** The Strasbourg church order of 1598 tells the history of its own
+fellowship with Saxony. It begins with the Elector at Augsburg in 1530, who "had no fellowship
+with those commonly held to be Zwinglian, nor afterwards, until they declared their mind"
+(Sehling 20/1, p. 557). Then it comes to the Concord. **Strasbourg, *Kirchenordnung*, 1598**
+(Sehling 20/1, p. 558):
+
+<!-- doc 1344 -->
+
+Hereupon at last, in the year 1536, the agreement between the Saxon and the Upper German churches
+followed. In it they not only agreed with one another on the article of the holy Supper, infant
+baptism and private absolution, but also on both sides declared themselves roundly for the
+Augsburg Confession and Apology of the electors and princes, which were at that time still
+unaltered.
+
+The Concord was taken into the orders of the Upper German cities. Ulm's visitation articles of
+1537 bind the preachers to teach of the sacrament "according to the council's order and also its
+declaration on the Wittenberg Concord" (Moderate Reformed; Sehling 17/2, p. 198). In 1564
+Pfalz-Neuburg and Pfalz-Zweibrücken prescribed the Concord's phrases for preaching on the Supper
+against the Calvinists ([§17.12.3](#s17-12-3); Sehling 13, p. 148; 18, p. 317).
+
+**The Reformed reading.** The Reformed Palatinate read the same history the other way. Its mandate
+of 1584 against condemnations argued that the makers of the concords had acknowledged one another
+as brothers. **Kurpfalz, *Mandat gegen Kondemnationen*, 1584** (Reformed; Sehling 14, p. 512):
+
+<!-- doc 507 -->
+
+since it is certain and sure that such learned men and ministers of the church, according to the
+concords and brotherly agreement made with one another not only in the year [15]29 at Marburg,
+but much more in the year [15]36 at Wittenberg, were one in the foundation in all the chief
+points of our Christian faith, also in the matter of holy baptism and of the holy Supper, and
+acknowledged one another as brothers
+
+#### <a id="s18-11-2"></a>18.11.2 Prussia and the Bohemian Brethren, 1549
+
+Duke Albrecht received the Bohemian Brethren who fled to Prussia in 1549, after examining their
+confession. Sehling's editor summarises the archival record. **Prussia, Sehling's introduction**
+(Sehling 4, p. 22):
+
+<!-- doc 1830 -->
+
+We learn from this act that the Bohemians, who are also called Picards and Waldensians, had come
+to Prussia; that their preachers had been summoned to Königsberg and examined for the testing of
+their faith; that they had handed over their confession of faith, printed at Wittenberg by
+Georg Rau in 1538, and their doctrine had been found blameless; that they did not, it is true,
+agree with Prussia in the ceremonies, but these were things indifferent, and they would keep in
+future to the order of the land. They were therefore received, and twenty-one articles were
+prescribed to them, whose author was Staphylus.
+
+The visitation of Soldau in 1578 shows the later aim: that the Bohemians should be absorbed into
+the native church (Sehling 4, p. 22, editor).
+
+#### <a id="s18-11-3"></a>18.11.3 Poland: the Consensus of Sandomierz and its synods
+
+In Poland the Lutherans, the Reformed and the Bohemian Brethren made a union in 1570. It is the
+only text in the corpus in which churches of different confessions grant one another fellowship
+in word and sacrament. Each side recognised the other's doctrine of the chief articles as
+orthodox. **Synod of Sandomierz, 14 April 1570** (Sandomierz consensus; Sehling 4, p. 257):
+
+<!-- doc 1846 -->
+
+First, as we who have published our confession in the present synod, and the Brethren, have
+never believed that those who embrace the Augsburg Confession think otherwise than piously and
+orthodoxly of God and the holy Trinity, and of the incarnation of the Son of God, and of our
+justification, and of the other chief heads of our faith: so also those who follow the Augsburg
+Confession have professed candidly and sincerely that they in turn acknowledge nothing in the
+confession, both of our churches and of the Bohemian Brethren (whom certain men ignorant of the
+facts call Waldensians), concerning God and the holy Triad, the incarnation of the Son of God,
+justification, and the other primary heads of the Christian faith, that is discordant with the
+orthodox truth and the pure word of God.
+
+The Consensus binds the churches to maintain the union by hearing the word and using the
+sacraments in each other's congregations. **Synod of Sandomierz, 14 April 1570** (Sandomierz
+consensus; Sehling 4, p. 258):
+
+<!-- doc 1846 -->
+
+Moreover we undertake by mutual consent that we will persuade all our brethren with all zeal,
+and invite them, to embrace, cherish and preserve this Christian and unanimous consensus, and to
+nourish and seal it, chiefly by the hearing of the word (frequenting the assemblies both of this
+and of each other confession) and by the use of the sacraments; yet keeping the right order and
+degree both of the discipline and of the custom of each church.
+
+**The Posen articles.** The synod of Posen in May 1570 turned the Consensus into rules. They
+answer most of this chapter's questions for Poland. **Synod of Posen, *Consignatio*, 20 May 1570**
+(Sandomierz consensus; Sehling 4, p. 259):
+
+<!-- doc 1846 -->
+
+II. Let the ministers of both parts both preach sermons in the churches and administer and
+dispense the sacraments, in the same form and rite as is customary with them, and that without
+any suspicion of offence. III. If in any place there be two ministers, one of each congregation,
+or if by any chance the one meet the other or be called, they ought without any suspicion of
+offence to administer both sermons and sacraments, promoting the glory of God with the same, and
+that a pure and candid, mind. IV. Wherever there is a pastor of the one congregation, the patron of
+that place ought not to call and receive a pastor of the other congregation to preach sermons
+and administer the sacraments without the consent of his own minister […] VI. Let neither part
+by any means or occasion draw away the ministers and hearers of the other part, but confirm and
+further them in the fellowship of the same congregation. VII. Let the ministers of both parts
+teach and admonish their hearers, and enjoin them by their pastoral authority, that they dare not
+condemn the churches of the other confession in all points of doctrine and rites, nor touch them
+with any words or writings, but think and speak well of them. […] XIV. Let the ministers of
+neither part admit to the use of the sacraments hearers coming from the other part, without the
+testimony of the pastor under whose own care they lie; except at diets, at a general synod, or
+perhaps on some journey. XV. Let those excommunicated by one congregation by the authority of
+Christ's keys not be admitted to the holy Supper in the other congregation, unless they have first
+been reconciled with the church which they offended.
+
+Article XVIII of the same articles lists exorcism first among the "papistical ceremonies and
+rites" to be done away by degrees. Then follow images, relics, the superstitious use of candles,
+the consecration of herbs, banners, and gold and silver crosses (Sehling 4, p. 259).
+
+The later synods renewed the union and adjusted it:
+- **Kraków 1573.** The synod renewed the Consensus and the Posen articles. It left the Brethren
+  and the Augsburg churches free to keep "their own rites and customs", especially concerning
+  the superintendent, the seniors and synods (Sehling 4, p. 260). It broke off all dealings with
+  the Arian Anabaptists ([§18.3](#s18-3)).
+- **Petrikau 1578.** A congregation might call a minister from the superintendents of the other
+  confession ([§18.7.3](#s18-7-3)). Standing or kneeling at the Supper was left free, and sitting
+  rejected ([§2.15.3](#s2-15-3)).
+- **Włocławek 1583.** The synod judged it "superfluous" to subscribe the new Harmony of
+  confessions published in Switzerland, since Poland had its own "sure norm and bond" of concord.
+
+**Synod of Włocławek (Wladislaw), 20 June 1583** (Sandomierz consensus; Sehling 4, pp. 263–264):
+
+<!-- doc 1846 -->
+
+IV. Concerning the Harmony of the evangelical confessions (lately published among the Swiss with
+godly zeal and skilful labour), the decision went to this opinion: since we in Poland and
+Lithuania etc. have by divine favour a sure norm and bond of our concord, the Consensus of
+Sandomierz etc., which we happily use as a banner of peace, joined in one army of the Lord, we
+judge it superfluous to subscribe that Harmony or other formulas of concord, and to bring them
+into our churches.
+
+**Thorn 1595.** The last synod of the union in the corpus explained article XIII of the Posen
+articles. A Christian is not so bound to his own minister that he may never use the other's,
+for instance when the other's church is nearer. But no minister may receive those who leave
+their own pastor to escape his discipline. **Synod of Thorn, 1595** (Sandomierz consensus;
+Sehling 4, p. 266):
+
+<!-- doc 1846 -->
+
+Declaring the thirteenth article of the *Consignatio*, we judge thus: that the little sheep of
+Christ ought not to be so subjected to the dominion and yoke of any minister that it be not
+lawful for them, when just causes and circumstances intervene, to use the services of the
+ministers of the other congregation and order; for example, having regard to the circumstance
+of the place and the nearness of the church, and on like occasions, and for fair reasons and
+causes. But if any hearers who stir up offences and live impiously, offended at the discipline
+and rebuke of their own pastor, would depart from him and commit themselves to the care of
+another pastor for the sake of greater licence and impunity in sinning, the minister of the
+other congregation ought by no means to receive such.
+
+The same synod set common days of public prayer and fasting for "all our evangelical churches",
+on the four Ember days of the year (art. XV; Sehling 4, p. 267).
+
+**Before the union.** Five years before Sandomierz the Lutheran synod of Gostyń had bound its
+ministers to the Augsburg Confession. **Synod of Gostyń, 1565** (Sehling 4, p. 268):
+
+<!-- doc 1846 -->
+
+Art. 1. We all profess with one spirit the purity of the evangelical doctrine and also of the
+administration of the sacraments; and we abhor and condemn those who think and teach otherwise.
+
+#### <a id="s18-11-4"></a>18.11.4 Two congregations under one lord
+
+**Rappoltstein, 1561.** In the Leber valley under the lords of Rappoltstein there were two
+congregations: a Lutheran German one and a Reformed French one. In May 1561 their lord had them
+meet to see whether they could agree in confession and ceremonies. The French pastor, Arnaud
+Banc, offered to sign the Augsburg Confession if articles 10 and 11 were rightly interpreted.
+The German side then put four demands. **Rappoltstein, *Vergleich zwischen der deutschen und der
+französischen Gemeinde*, 28 May 1561** (Reformed; Sehling 20/2, p. 133):
+
+<!-- doc 1370 -->
+
+When thereupon the judge had asked the assessors, he declared to the pastor that it was the
+Germans' mind that he should put these four articles to his congregation: 1. Whether the same
+would accept and subscribe the Augsburg Confession; 2. Whether they would keep like ceremonies
+with the Germans; 3. If anything were to be changed, that the same should not happen without the
+consent of the German church; 4. Whether the French church would acknowledge the German as the
+head.
+
+The French congregation accepted the Augsburg Confession, with articles 10 and 11 "godly and
+rightly interpreted". It kept its freedom in ceremonies and refused to be subordinate. On 8 June
+1561 the lord, Egenolph IV, decided that both churches might keep their own ceremonies and usages.
+The Germans had the Mattenkirche near Markirch, the French the church at Eckerich (Sehling 20/2,
+pp. 102–103, editor). The editor adds that the Strasbourg ministry's president, Marbach, had
+found "a Genevan phrase" in the French confession. He objected to its articles on predestination,
+its rejection of emergency baptism and its exclusion of unbelievers from the Supper (Sehling
+20/2, p. 100, editor).
+
+**The strangers' church at Frankfurt, 1554.** The Walloon refugees whom Valérand Poullain brought
+to Frankfurt in 1554 had the council's leave to use the church of the Weißfrauen convent
+(Sehling 9, p. 489, editor). Their *Liturgia sacra* (Sacred Liturgy; Reformed) requires every member to subscribe
+the congregation's confession first. The confession's title says it must be approved and
+subscribed "before they are either reckoned to the church or communicate in any part of the
+sacraments in the church of strangers at Frankfurt". The English exiles signed it "in the name of
+their whole church" (Sehling 9, p. 586). The council had let the English share the Weißfrauen
+church only on condition that they "joined the ceremonies of the Walloons and formed no
+separatist congregation" (Sehling 9, p. 490, editor).
+
+---
+
+### <a id="s18-12"></a>18.12 How the rules changed
+
+The rules moved with the confessional map. In the first decades the other church was Rome. From
+the 1560s the Lutheran orders turned against the "Sacramentarians". From the 1580s the Reformed
+territories turned the same rules against the Lutherans.
+
+**1520s and 1530s: separation from Rome.**
+- **Absolution.** The first orders took confession from the monks (Hamburg 1529) and called the
+  priests' absolution a deceit (Capito 1527, Sam 1528) ([§18.6.1](#s18-6-1)).
+- **The Supper.** It was closed to papists and to those who denied the presence (Reutlingen
+  c. 1531). It was opened to the evangelical-minded parishioners of papist pastors
+  (Brandenburg-Nürnberg 1528, 1533) ([§18.5](#s18-5)).
+- **Going out.** The cities forbade their people to go out to the Mass (Strasbourg 1531;
+  Friedberg 1535; Frankfurt 1542) ([§18.5.4](#s18-5-4)).
+- **Prayer.** The orders prayed for heretics and the obstinate (Heilbronn 1530, Ulm 1531)
+  ([§18.9.1](#s18-9-1)).
+- **Ordination.** The preachers still held Roman orders, and their churches defended them
+  (Hannover 1536). From 1535 Wittenberg ordained only those who lacked episcopal orders
+  ([§18.7.1](#s18-7-1)).
+- **Agreements.** The Wittenberg Concord of 1536 joined the Saxon and the Upper German churches
+  (Ulm 1537) ([§18.11.1](#s18-11-1)).
+- **The Catholic side.** Jülich-Cleves-Berg (1533) shut out the strange preachers, and the
+  Count Palatine's government at Amberg (1539) would not have a minister ordained by Luther.
+
+**1540s and 1550s: the evangelical churches order their own.**
+- **The parish.** The Albertine visitors (1540) bound the Supper to the parish.
+- **Ordination.** The *Wittenberg Reformation* (1545) would still have taken ordination from
+  bishops who accepted the gospel ([§13.10.1](#s13-10-1)). Buxtehude (1552) and Hamburg (1556)
+  gave up the bishops' consecration as given "only for the godless service"
+  ([§18.7.1](#s18-7-1)).
+- **The Interim.** Brandenburg-Ansbach's *Auctuarium* (1548) prayed for unbelievers and sects in
+  place of the canon.
+- **The Brethren.** Prussia received the Bohemian Brethren (1549) after examining their
+  confession ([§18.11.2](#s18-11-2)).
+- **Hard and soft lines.** Magdeburg (1554) closed sacrament, font and churchyard to obstinate
+  papists, and would not hold for Christians those who took papist orders. Hesse (1556; Moderate
+  Reformed) admitted papists as godparents. Waldeck (1556) and Rostock (1557) shut the papists,
+  Anabaptists and Sacramentarians out of the Supper ([§18.5.1](#s18-5-1)).
+- **The Peace of Augsburg (1555).** It is the frame for the later settlements in towns of two
+  religions ([§18.9.3](#s18-9-3)).
+
+**1560s and 1570s: against the Sacramentarians.**
+- **Fellowship.** The Sacramentarians became the chief "other" of the Lutheran orders. Bremen
+  (1561) would have no Sacramentarian godparents. Pfalz-Zweibrücken (1564) forbade fellowship
+  with them, and its ordinands renounced "Calvin's error" (1567). Kurland (1570) and Hohenlohe
+  (1579) listed every sect with which a Christian might have no fellowship ([§18.3](#s18-3)).
+- **Baptism.** Lay baptism and exorcism became marks of confession (Wolfstein 1574; later
+  Henneberg 1582, Soest 1609) ([§18.4.1](#s18-4-1)).
+- **Ministers.** Wolfstein (1574) forbade disputes with Calvinist and papist pastors alike
+  ([§18.8.3](#s18-8-3)).
+- **Mixed towns.** Settlements were made at Wetzlar (1561), Rappoltstein (1561), Hagenau (1565)
+  and Wimpfen (1568) ([§18.9.3](#s18-9-3), [§18.11.4](#s18-11-4)).
+- **Poland.** The Lutheran synod of Gostyń (1565) still condemned those who thought otherwise.
+  Five years later the Consensus of Sandomierz (1570) and the Posen articles opened pulpit and
+  altar between Lutherans, Reformed and Brethren. Kraków (1573) and Petrikau (1578) renewed
+  them ([§18.11.3](#s18-11-3)).
+- **Patience.** Pfalz-Neuburg (1576) and Electoral Saxony (1580) admitted papists and erring
+  Sacramentarians as godparents, and Pfalz-Neuburg gave the Supper to sick Calvinists. The same
+  Pfalz-Neuburg re-ordained priests from the papacy "in the stead of a recantation"
+  ([§18.7.2](#s18-7-2)).
+
+**1580s to the 1610s: the Reformed territories and the Lutheran answer.**
+- **Reformed rules.** The counties of the Wetterau and the Rhine and the Palatinate turned
+  Reformed, and made their own fellowship rules. Nassau-Dillenburg (1582) admitted to the Supper
+  only those who confessed "the Reformed doctrine". Nassau-Diez (1585) had foreign pastors
+  arrested. Kurpfalz (1595), Hanau (1599/1602), Ysenburg (1598), Sayn (1606, 1619) and Homburg
+  (1605) forbade going out to Lutheran or Catholic neighbours ([§18.5.4](#s18-5-4)).
+- **Reformed pulpits.** Kurpfalz (1584), the Upper Palatinate (1598) and Katzenelnbogen (1600)
+  forbade condemnations of the other evangelicals ([§18.8.3](#s18-8-3)).
+- **Lutheran rules.** The Lutheran orders answered:
+  - Landau (1582) refused a Calvinist godmother and kept a Calvinist doctor from the Supper
+    abroad.
+  - Soest (1590) asked for the "body of doctrine" before admitting a preacher to the pulpit.
+  - The Wild- and Rhinegraviate (1597) held that to commune with a church is to belong to it.
+  - Strasbourg (1597) forbade its burghers to go to the Reformed at Bischweiler.
+  - Schwäbisch Hall (1615, after decrees of 1564 and 1570) let the people seek "pure"
+    sacraments where they were to be found.
+- **Exceptions.** Strasbourg's magistrate (1601) would not bar Calvinist godparents. Beza and
+  Ursinus approved Reformed communion at Lutheran altars. Lambrechtsneukirchen gave the Supper to
+  694 people from the Reformed Upper Palatinate in 1606.
+- **Cities of two religions.** Augsburg (1591), Amberg (1593), Leutkirch (1603) and Hagenau
+  (1614) bound their preachers to keep the peace ([§18.9.3](#s18-9-3)).
+- **Poland.** Włocławek (1583) and Thorn (1595) renewed the union. Thorn let Christians use the
+  other confession's minister for just cause, and set common days of prayer and fasting for all
+  the united churches ([§18.11.3](#s18-11-3)).
+
+What did not change was the baptism. No order in the corpus repeats a baptism given in the name
+of the Trinity, whether by a priest, a midwife or a heretic ([§18.4.1](#s18-4-1)).
+
+---
+
+### <a id="s18-13"></a>18.13 Table by order
+
+The table lists every order quoted or cited above, grouped by region and in date order within
+each region. **Rule** gives the order's rule on fellowship in a few words. Orders that are not
+Lutheran are labelled, and the editors' accounts are marked as Sehling's introduction or note.
+
+**Saxony, Thuringia and central Germany**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Electoral Saxony, decree of Elector Johann Friedrich (Sehling's editor) | 1535 | Candidates without episcopal orders to be ordained at Wittenberg | [18.7.1](#s18-7-1) |
+| Albertine Saxony, *Gemeiner bericht der visitatorn* | 1540 | No stranger's parishioner at the Supper "without cause" | [18.5.2](#s18-5-2) |
+| Meissen, *Ordnung der Visitatoren für die Stadt Meissen* | 1540 | The same rule | [18.5.2](#s18-5-2) |
+| Ernestine Saxony, *Constitution … consistorii zu Wittemberg* | 1542 | Only godparents "of our true and Christian religion" | [18.4.3](#s18-4-3) |
+| Reuss, *Kirchen-Ordnung* of Heinrich IV | 1552 | No strange preacher in the pulpit without the superintendent | [18.8.2](#s18-8-2) |
+| Magdeburg, *Etliche artikel zu notwendiger kirchenordnung* | 1554 | Obstinate papists refused the sacrament, the font and the churchyard; those who take papist orders not held Christians | [18.4.3](#s18-4-3), [18.5.1](#s18-5-1), [18.7.2](#s18-7-2), [18.10.1](#s18-10-1) |
+| Aschersleben, *Kirchen-Agenda* | 1575 | No strange person in the pulpit without the council | [18.8.2](#s18-8-2) |
+| Electoral Saxony, *Kirchenordnung* of Elector August | 1580 | Papists and erring Sacramentarians admitted as godparents; no Lutheran at a papist baptism | [18.4.3](#s18-4-3) |
+| Mansfeld, *Kirchen-agenda* | 1580 | Heretics to be avoided (2 John, Titus 3) and refused Christian burial | [18.3](#s18-3), [18.10.1](#s18-10-1) |
+| Henneberg, *Kirchen-Ordnung* of Georg Ernst | 1582 | Exorcism kept against the Zwinglians; no stranger at the Supper except in need; pastors absolved by their neighbours | [18.4.1](#s18-4-1), [18.5.2](#s18-5-2), [18.6.3](#s18-6-3) |
+
+**Silesia, Prussia, the Polish cities and Pomerania**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Silesia, Sehling's introduction | — | The Liegnitz superintendents left the bishop of Breslau his right to ordain | [18.7.1](#s18-7-1) |
+| Prussia, Sehling's introduction | 1549 | The Bohemian Brethren received after examination; ceremonies indifferent | [18.11.2](#s18-11-2) |
+| Prussia, *Kirchenordnung und ceremonien* | 1568 | No absolution or sacrament for those who defend papist, Sacramentarian or Anabaptist errors | [18.5.1](#s18-5-1), [18.6.2](#s18-6-2) |
+| Prussia, *Von Erwehlung der beiden bischoff* | 1568 | Each pastor to his own parish; the godly from the papacy, the sick and travellers served | [18.5.3](#s18-5-3), [18.6.3](#s18-6-3) |
+| Thorn, *Kirchenordnung* | after 1560 | Baptism refused to papists who sought it only for rich godparents | [18.4.2](#s18-4-2) |
+| Danzig, Sehling's introduction | 1586 | Ordinations done by the consistory of Stolp | [18.7.3](#s18-7-3) |
+
+**Poland: the Sandomierz consensus**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Synod of Gostyń | 1565 | Those who teach otherwise condemned | [18.11.3](#s18-11-3) |
+| Synod of Sandomierz (Sandomierz consensus) | 14 April 1570 | Each side's doctrine owned as orthodox; hearing and sacraments in each other's congregations | [18.11.3](#s18-11-3) |
+| Synod of Posen, *Consignatio* (Sandomierz consensus) | 20 May 1570 | Ministers of both sides preach and give the sacraments in each other's churches; testimony for communicants; excommunicates; exorcism to go | [18.4.1](#s18-4-1), [18.6.2](#s18-6-2), [18.11.3](#s18-11-3) |
+| Synod of Kraków (Sandomierz consensus) | 1573 | No dealings with the Arian Anabaptists; rites left free; no schools of blasphemers | [18.3](#s18-3), [18.9.3](#s18-9-3), [18.11.3](#s18-11-3) |
+| Synod of Petrikau (Sandomierz consensus) | 1–3 June 1578 | A minister may be called from the other confession's superintendents | [18.7.3](#s18-7-3), [18.11.3](#s18-11-3) |
+| Synod of Włocławek (Wladislaw) (Sandomierz consensus) | 20 June 1583 | The Swiss Harmony of confessions superfluous | [18.11.3](#s18-11-3) |
+| Synod of Thorn (Sandomierz consensus) | 1595 | The other side's minister for just cause; no minister without a certificate; common days of prayer and fasting | [18.7.3](#s18-7-3), [18.11.3](#s18-11-3) |
+| Samter, agreement of the two lords (Sehling's introduction) | 1575 | One parish church for Catholic and Protestant worship | [18.9.3](#s18-9-3) |
+
+**Mecklenburg, Kurland, Lauenburg and Hamburg**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Hamburg, *Kirchenordnung* | 1529 | Confession heard only by those who preach | [18.6.1](#s18-6-1) |
+| Buxtehude, *Kirchenordnung* | 1552 | The bishops' consecration given only for the Mass | [18.7.1](#s18-7-1) |
+| Hamburg, *Kirchenordnung* | 1556 | The same; ordination with prayer and the laying on of hands | [18.7.1](#s18-7-1) |
+| Rostock, *Visitations-Instruktion* | 1557 | Blasphemers who hold to the papist idolatry turned away from Supper and font | [18.5.1](#s18-5-1) |
+| Kurland, *Kurländische Kirchenreformation* | 1570 | No fellowship with any sect; none of them invited as godparents | [18.3](#s18-3) |
+| Kurland, *Instructio generalis* | 1570 | The litany sung against the pope, the Turk and the heretics | [18.9.1](#s18-9-1) |
+| Wismar, *Abschied* | 1572 | No unknown preacher without the whole ministry | [18.8.2](#s18-8-2) |
+| Lauenburg, *Kirchenordnung* | 1585 | Certificate of ordination; no divorce for unequal religion | [18.7.3](#s18-7-3), [18.10.2](#s18-10-2) |
+
+**Lower Saxony**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Hannover, *Kirchenordnung* | 1536 | Parted from Rome over doctrine; preachers ordained in the church that banned them | [18.3](#s18-3), [18.7.1](#s18-7-1) |
+| Einbeck, *Stiftsordnung* of Duke Philip I | 1543 | Presentees admitted without papist anointing | [18.7.1](#s18-7-1) |
+| Wolfenbüttel, *Kirchenordnung* | 1569 | Baptism in the papacy "right and complete" | [18.4.1](#s18-4-1) |
+| Brunswick, *Vokationsordnung für die Prediger* | 1571 | No second ordination for one ordained elsewhere | [18.7.1](#s18-7-1) |
+| Brunswick, Sehling's introduction | 1558–1568 | Certificates of ordination for preachers called elsewhere | [18.7.3](#s18-7-3) |
+| Oldenburg, *Kirchenordnung* | 1573 | Baptism in the papacy valid (after Wolfenbüttel) | [18.4.1](#s18-4-1) |
+| Hoya, *Kirchenordnung* | 1581 | Those not ordained to be ordained; hardened papists buried in the field | [18.7.1](#s18-7-1), [18.10.1](#s18-10-1) |
+
+**The north-west**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Jülich-Cleves-Berg, *Deklaration zur Kirchenordnung* (Roman Catholic humanist) | 8 April 1533 | Strange and hedge preachers not tolerated | [18.8.1](#s18-8-1) |
+| Wittgenstein, *Kirchenordnung* | 1555 | A foreign preacher admitted only with certificates | [18.8.2](#s18-8-2) |
+| Bremen, *Stellungnahme der Prediger zu den Anfragen der Wittheit* | 1561 | No papist or Sacramentarian godparents; papists cannot pray | [18.4.2](#s18-4-2), [18.4.3](#s18-4-3), [18.9.1](#s18-9-1) |
+| Dortmund, *Mandat zur Freigabe des Abendmahls unter beiderlei Gestalt* | 1562 | Both kinds freed, since burghers went out for them | [18.5.4](#s18-5-4) |
+| Lippe, *Kirchenordnung* | 1571 | Excommunicates not to steal absolution elsewhere; heretics not absolved | [18.6.2](#s18-6-2), [18.6.3](#s18-6-3) |
+| Moers, *Kirchenordnung* (Reformed) | 1581 | Emergency baptism by laymen rejected (editor's note) | [18.4.1](#s18-4-1) |
+| Bremen, Sehling's introduction | after 1582 | The Lutherans of Reformed Bremen go out to the pastor of Seehausen | [18.5.4](#s18-5-4) |
+| Soest, *Artikel der Prediger* | 1 September 1590 | No papist or Calvinist godparents; own confessor; no preacher before the ministry | [18.4.3](#s18-4-3), [18.5.2](#s18-5-2), [18.6.3](#s18-6-3), [18.8.2](#s18-8-2) |
+| Corvey, *Kirchenordnung für Bruchhausen* | 1603 | Strangers heard on their faith (after Hesse) | [18.5.2](#s18-5-2) |
+| Homburg, *Beschlüsse zu Homburger Kirchensachen* (Reformed) | 1605 | No running to Marienhagen for the Supper | [18.5.4](#s18-5-4) |
+| Soest, *Kirchenordnung* | 1609 | Exorcism free, but defended against the Sacramentarians | [18.4.1](#s18-4-1) |
+
+**Hesse and its neighbours**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Hesse, *Kasseler Kirchenordnung* (Moderate Reformed) | 1539 | Emergency baptism by laymen rejected (editor's note) | [18.4.1](#s18-4-1) |
+| Frankfurt, *Resolution auf die Gravamina der Prediger* | 3 March 1542 | No running to the papist Masses in the villages | [18.5.4](#s18-5-4) |
+| Nassau-Dillenburg, *Visitationsordnung* | 1550 | No strange preacher without the lord and the superintendent | [18.8.2](#s18-8-2) |
+| Frankfurt, *Liturgia sacra* (Sacred Liturgy) of the French congregation (Reformed) | 1554 | The confession subscribed before communion | [18.11.4](#s18-11-4) |
+| Hesse, visitation article of 1556, in the editor's note to the *Abschied der ersten Generalsynode*, 1568 (Moderate Reformed) | 1556 | Papists admitted as godparents | [18.4.3](#s18-4-3) |
+| Waldeck, *Kirchenordnung* | 1556 | No papist, Anabaptist or Sacramentarian at the Lord's table until he revoke | [18.5.1](#s18-5-1) |
+| Wetzlar, *Vergleich zwischen Stift und Stadt*; the Walloon refugees (Sehling's introduction) | 1561, 1586 | Churches shared with the Catholics, and with the Reformed | [18.9.3](#s18-9-3) |
+| Hesse, *Agende* (Philippist) | 1574 | Strangers heard on their faith before the elders | [18.5.2](#s18-5-2) |
+| Nassau-Weilburg, *Kirchenordnung* (and *Agende*, 1618) | 1576 | The same rule, after Hesse | [18.5.2](#s18-5-2) |
+| Nassau-Diez, *Visitationspunkte* (Reformed) | 1585 | A foreign pastor who gives the Supper to be arrested | [18.5.4](#s18-5-4) |
+| Ysenburg, *Kirchenordnung* (Reformed) | 1598 | The people warned against going out for baptism and the Supper | [18.5.4](#s18-5-4) |
+| Hanau-Münzenberg, *Kirchenzuchtordnung* and visitation questions (Reformed) | 1599/1602 | Fines for going out to foreign lordships | [18.5.4](#s18-5-4) |
+| Katzenelnbogen, points for the ministers (Reformed) | 1600 | No condemnations of the other evangelicals; no ubiquitist phrases | [18.8.3](#s18-8-3) |
+| Friedberg, council's ban (editor's note) | 1535 | No going out to the Mass at Rüsbach and Johannisberg | [18.5.4](#s18-5-4) |
+
+**The Palatinates and the Rhine**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Pfalz-Zweibrücken, *Kirchenordnung* | 1557 | The Anabaptist error that a spouse may leave an unbeliever | [18.10.2](#s18-10-2) |
+| Kurpfalz, *Kirchenordnung* (Reformed) | 1563 | Baptism by the minister alone (editor's note) | [18.4.1](#s18-4-1) |
+| Pfalz-Neuburg, *Mandat gegen die Kalvinisten* | 1564 | The Wittenberg Concord's phrases for preaching on the Supper | [18.11.1](#s18-11-1) |
+| Pfalz-Zweibrücken, *Mandat gegen die Calvinisten* | 1564 | No fellowship or letters with Sacramentarian fanatics | [18.3](#s18-3), [18.11.1](#s18-11-1) |
+| Wied, *Synodalbeschlüsse* (Reformed) | 5 June 1564 | Strangers to give account of their faith; the contumacious denied burial | [18.5.2](#s18-5-2), [18.10.1](#s18-10-1) |
+| Pfalz-Zweibrücken, *Fürbittenmandate* | 1565 | Prayer against the Turk and the sectaries | [18.9.1](#s18-9-1) |
+| Leiningen, *Kirchenzuchtordnung* | 1566 | No Supper or baptism elsewhere without one's pastor | [18.5.2](#s18-5-2) |
+| Pfalz-Zweibrücken, *Ordinationszeugnis* | 7 September 1567 | The ordinand renounces "Calvin's error"; no office without a call | [18.7.3](#s18-7-3), [18.8.1](#s18-8-1) |
+| Pfalz-Neuburg, *Generalartikel* | 1576 | Papist godparents with discretion; sick Calvinists given the Supper; priests re-ordained; a Catholic wedding only to the church door | [18.4.3](#s18-4-3), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.9.2](#s18-9-2), [18.10.2](#s18-10-2) |
+| Kurpfalz, Sehling's introduction | 1578 | Beza and Ursinus approve Reformed communion at Lutheran altars | [18.5.4](#s18-5-4) |
+| Landau, *Verhandlungen gegen Calvinisten* | 26 June 1582 | A Calvinist godmother refused; a Calvinist doctor kept from the Supper abroad | [18.5.4](#s18-5-4) |
+| Kurpfalz, *Mandat gegen Kondemnationen* (Reformed) | 1584 | The makers of the concords "acknowledged one another as brothers" | [18.8.3](#s18-8-3), [18.11.1](#s18-11-1) |
+| Vinstingen, *Erster Vertrag über die Konfession der Herrschaft* | 13 January 1584 | Catholic worship protected under Lutheran co-lords | [18.9.3](#s18-9-3) |
+| Upper Palatinate, *Amberger Rezeß* (Reformed) | 8 June 1593 | Free choice between the churches; Schopper's promise not to condemn | [18.8.3](#s18-8-3), [18.9.3](#s18-9-3) |
+| Kurpfalz, *Mandat zur Institution und Polizeiordnung* (Reformed) | 16 August 1595 | Against going out to the Lutheran and Ubiquitist pastors | [18.5.4](#s18-5-4) |
+| Wild- and Rhinegraviate, *Patenordnung* | 1597 | To commune with a church is to belong to it | [18.4.3](#s18-4-3), [18.5.1](#s18-5-1) |
+| Upper Palatinate, *Generalanweisung* (Reformed) | 20 March 1598 | No office without a vow on the *mandatum de non calumniando* (mandate against calumny) | [18.8.3](#s18-8-3) |
+| Sponheim, *Generalartikel* | 1599 | The adversaries to be named without odious epithets | [18.8.3](#s18-8-3) |
+| Wild- and Rhinegraviate, *Kirchenordnung* | after 1603 | No erring godparents | [18.4.3](#s18-4-3) |
+| Sayn, *Sendschöffenordnung* (and *Kirchenordnungsmandat*, 1619) (Reformed) | 1606 | Against going out to the Mass and pilgrimages | [18.5.4](#s18-5-4) |
+| Sponheim, *Generalartikel* | 1608 | No stranger in the pulpit; each minister to report by whom he was ordained | [18.7.3](#s18-7-3), [18.8.2](#s18-8-2) |
+
+**Franconia, Regensburg and Bavaria**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Brandenburg-Nürnberg, *Kirchenordnung* | 1528 | The sacraments ministered to the parishioners of pastors who refuse them | [18.5.3](#s18-5-3) |
+| Brandenburg-Nürnberg, *Kirchenordnung* | 1533 | The same, after inquiry | [18.5.3](#s18-5-3) |
+| Brandenburg-Ansbach, *Kirchenvisitation* | 1536 | No one to preach who is not called and examined | [18.8.1](#s18-8-1) |
+| Amberg, Sehling's introduction | 1539 | Hügel dismissed, as ordained by Luther and not by a bishop | [18.7.2](#s18-7-2) |
+| Brandenburg-Ansbach, *Auctuarium* (Interim order) | 1548 | Prayer for unbelievers and sects in place of the canon | [18.9.1](#s18-9-1) |
+| Regensburg, *Kirchenordnung* | 1567(?) | No papist godparents; prayer against pope and heretics; separate burial | [18.4.3](#s18-4-3), [18.9.1](#s18-9-1), [18.10.1](#s18-10-1) |
+| Regensburg, *Kirchenregimentsordnung* | 1572/1588 | A confessor chosen from the whole ministry | [18.6.3](#s18-6-3) |
+| Wolfstein, *Christliche Instructio* of Thomas Stieber | 1574 | Emergency baptism kept against the Calvinists; papists' parishioners served; no fellowship with papist priests; no disputes | [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3) |
+
+**Württemberg, Hohenlohe and Swabia**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Ulm, Konrad Sam's catechism (Moderate Reformed) | 1528/1536 | The priests' absolution a deceit | [18.6.1](#s18-6-1) |
+| Heilbronn, *Confessio Heilbronnensis* and *Kirchenordnung* | 1530 | Prayer for heretics and the obstinate | [18.9.1](#s18-9-1) |
+| Reutlingen, *Kirchenordnung* | c. 1531 | No papists, strangers or deniers of the presence at the Supper | [18.5.1](#s18-5-1) |
+| Ulm, *Handbüchlein* (Moderate Reformed) | 1531 | Prayer for heretics and apostates | [18.9.1](#s18-9-1) |
+| Ulm, *Visitationsartikel* (Moderate Reformed) | 1537 | Preaching by the Wittenberg Concord | [18.11.1](#s18-11-1) |
+| Württemberg, *Visitationsordnung* | 1557 | Sectaries visited privately; returning Anabaptists' children baptized | [18.4.2](#s18-4-2), [18.5.1](#s18-5-1) |
+| Württemberg, *Visitationsordnung für die Superintendenten* | 1559 | Visitation question on fellowship with sectaries | [18.3](#s18-3) |
+| Wimpfen, Sehling's introduction | — | Burghers go out to foreign villages for both kinds | [18.5.4](#s18-5-4) |
+| Wimpfen, *Regelung der Predigtzeiten und Festtage beider Konfessionen* | 23 July 1568 | One church, divided hours; each may hear the other's sermon; no reviling | [18.8.3](#s18-8-3), [18.9.2](#s18-9-2), [18.9.3](#s18-9-3) |
+| Hohenlohe, *Visitation* | 1571 | Visitation question on fellowship with sectaries | [18.3](#s18-3) |
+| Hohenlohe, *Kapitels- und Visitationsordnung* | 1579 | No fellowship with Jews or papist priests; question on communing elsewhere | [18.3](#s18-3), [18.5.2](#s18-5-2) |
+| Hohenlohe, *Kirchen- und Schulordnungen*, consistory order | 1582 | The Electoral Saxon rule on godparents, on Andreae's advice | [18.4.3](#s18-4-3) |
+| Ulm, *Berichte und Ratsentscheide zur Einzelbeichte* | 1586 | Foreign peasants at the Supper to be examined | [18.5.2](#s18-5-2) |
+| Augsburg, *Einzelbestimmungen zu den Berufungsverhandlungen* | 1591 | No reviling in a city of two religions | [18.8.3](#s18-8-3), [18.9.3](#s18-9-3) |
+| Dinkelsbühl, Sehling's introduction | after 1559 | Over a thousand go out of the city each holy day | [18.5.4](#s18-5-4) |
+| Leutkirch, *Dekret für die Bürgerschaft zum Kalenderstreit* | 1603 | Both religions equally protected | [18.9.3](#s18-9-3) |
+| Limpurg, *Visitationsordnung* | 1611 | Visitation question on fellowship with sectaries | [18.3](#s18-3) |
+| Schwäbisch Hall, *Kirchenordnung* 1543/1615 | 1614/1615 | Well-disposed papists as godparents (draft); pure sacraments sought where they are found | [18.4.3](#s18-4-3), [18.5.3](#s18-5-3) |
+
+**Strasbourg, Alsace and Transylvania**
+
+| Order | Date | Rule | § |
+|---|---|---|---|
+| Strasbourg, Wolfgang Capito's *Kinder bericht* (Moderate Reformed) | 1527 | The priests' absolution a deceit | [18.6.1](#s18-6-1) |
+| Strasbourg, *Verbot, an anderen Orten die Messe zu hören* (Moderate Reformed) | 3 April 1531 | No going out to hear Mass | [18.5.4](#s18-5-4) |
+| Colmar, Sehling's introduction | 1554, 1564 | The Catholic council against going to Horburg; a preacher told not to name the Zwinglians | [18.5.4](#s18-5-4), [18.8.3](#s18-8-3) |
+| Rappoltstein, *Vergleich zwischen der deutschen und der französischen Gemeinde* (Reformed) | 28 May 1561 | Each church keeps its own ceremonies | [18.11.4](#s18-11-4) |
+| Hagenau, Sehling's introduction | 1565 | Going out given as a reason to admit evangelical worship | [18.5.4](#s18-5-4) |
+| Strasbourg, *Verbot der Konventikel und des auswärtigen Gottesdienstbesuchs* | 10 December 1597 | No going to the Reformed in foreign lordships | [18.5.4](#s18-5-4) |
+| Strasbourg, *Kirchenordnung* | 9 April 1598 | The history of the Concord; no second ordination | [18.7.1](#s18-7-1), [18.11.1](#s18-11-1) |
+| Strasbourg, *Stellungnahme des Magistrats … wegen der reformierten Taufpaten* | 28 March 1601 | Calvinist godparents not barred | [18.4.3](#s18-4-3) |
+| Hagenau, *Fundationsbrief* | 3 June 1614 | The two religions separated in churches and schools | [18.9.3](#s18-9-3) |
+| Transylvanian Saxons, Honterus, *Reformationsbüchlein*, German version | 1543 | Baptism by laymen, heathen and heretics not repeated | [18.4.1](#s18-4-1) |
+| Transylvanian Saxons, articles and common order | 1577, 1578 | No fellowship with the open enemies of God | [18.3](#s18-3) |
+| Mediasch synod | 1578 | Children of Gypsies and Romanians sent to their own congregations; scholars recalled from Klausenburg | [18.4.1](#s18-4-1), [18.4.2](#s18-4-2), [18.9.3](#s18-9-3) |
+
+### <a id="s18-14"></a>18.14 Concordance of the orders quoted
+
+Every order quoted in this chapter is listed below by region, in the order of the table above.
+The table gives:
+
+- **Sehling**: the volume and pages in Sehling's edition.
+- **Doc**: the [`eko.db`](#repo-ekodb) document that holds the text, for full-text lookup. A single database
+  record may hold several orders.
+- **§**: the sections where the order is quoted.
+
+**Saxony, Thuringia and central Germany**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Reuss, *Kirchen-Ordnung* of Heinrich IV, 1552 | 2, p. 157 | 1234 | [18.8.2](#s18-8-2) |
+| Magdeburg, *Etliche artikel zu notwendiger kirchenordnung*, 1554 | 2, pp. 451–452 | 1257 | [18.4.3](#s18-4-3), [18.5.1](#s18-5-1), [18.7.2](#s18-7-2), [18.10.1](#s18-10-1) |
+| Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 432–433 | 44 | [18.4.3](#s18-4-3) |
+| Mansfeld, *Kirchen-agenda*, 1580 | 2, pp. 246–247 | 1241 | [18.3](#s18-3), [18.10.1](#s18-10-1) |
+| Henneberg, *Kirchen-Ordnung* of Georg Ernst, 1582 | 2, pp. 305, 307, 309 | 1247 | [18.4.1](#s18-4-1), [18.5.2](#s18-5-2), [18.6.3](#s18-6-3) |
+
+**Silesia, Prussia, the Polish cities and Pomerania**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Silesia, Sehling's introduction | 3, p. 391 | 1803 | [18.7.1](#s18-7-1) |
+| Prussia, Sehling's introduction, 1549 | 4, p. 22 | 1830 | [18.11.2](#s18-11-2) |
+| Prussia, *Kirchenordnung und ceremonien*, 1568 | 4, pp. 76–77 | 1833 | [18.5.1](#s18-5-1), [18.6.2](#s18-6-2) |
+| Prussia, *Von Erwehlung der beiden bischoff*, 1568 | 4, p. 122 | 1833 | [18.5.3](#s18-5-3), [18.6.3](#s18-6-3) |
+| Thorn, *Kirchenordnung*, after 1560 | 4, p. 230 | 1844 | [18.4.2](#s18-4-2) |
+
+**Poland: the Sandomierz consensus**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Synod of Gostyń, 1565 | 4, p. 268 | 1846 | [18.11.3](#s18-11-3) |
+| Synod of Sandomierz, 14 April 1570 (Sandomierz consensus) | 4, pp. 257–258 | 1846 | [18.11.3](#s18-11-3) |
+| Synod of Posen, *Consignatio*, 20 May 1570 (Sandomierz consensus) | 4, p. 259 | 1846 | [18.4.1](#s18-4-1), [18.6.2](#s18-6-2), [18.11.3](#s18-11-3) |
+| Synod of Kraków, 1573 (Sandomierz consensus) | 4, pp. 260–262 | 1846 | [18.3](#s18-3), [18.9.3](#s18-9-3), [18.11.3](#s18-11-3) |
+| Synod of Petrikau, 1–3 June 1578 (Sandomierz consensus) | 4, p. 263 | 1846 | [18.7.3](#s18-7-3), [18.11.3](#s18-11-3) |
+| Synod of Włocławek (Wladislaw), 20 June 1583 (Sandomierz consensus) | 4, pp. 263–264 | 1846 | [18.11.3](#s18-11-3) |
+| Synod of Thorn, 1595 (Sandomierz consensus) | 4, pp. 265–267 | 1846 | [18.7.3](#s18-7-3), [18.11.3](#s18-11-3) |
+
+**Mecklenburg, Kurland, Lauenburg and Hamburg**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Hamburg, *Kirchenordnung*, 1529 | 5, p. 508 | 1959 | [18.6.1](#s18-6-1) |
+| Hamburg, *Kirchenordnung*, 1556 | 5, p. 549 | 1963 | [18.7.1](#s18-7-1) |
+| Kurland, *Kurländische Kirchenreformation*, 1570 | 5, p. 64 | 1906 | [18.3](#s18-3) |
+| Kurland, *Instructio generalis*, 1570 | 5, pp. 80, 92 | 1907 | [18.9.1](#s18-9-1) |
+| Lauenburg, *Kirchenordnung*, 1585 | 5, pp. 408, 441 | 1953 | [18.7.3](#s18-7-3), [18.10.2](#s18-10-2) |
+
+**Lower Saxony**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Hannover, *Kirchenordnung*, 1536 | 6/2, pp. 997, 999 | 2051 | [18.3](#s18-3), [18.7.1](#s18-7-1) |
+| Wolfenbüttel, *Kirchenordnung*, 1569 | 6/1, p. 124 | 1974 | [18.4.1](#s18-4-1) |
+| Hoya, *Kirchenordnung*, 1581 | 6/2, pp. 1132, 1172 | 2065 | [18.7.1](#s18-7-1), [18.10.1](#s18-10-1) |
+
+**The north-west**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Jülich-Cleves-Berg, *Deklaration zur Kirchenordnung*, 8 April 1533 (Roman Catholic humanist) | 21, p. 61 | 1421 | [18.8.1](#s18-8-1) |
+| Bremen, *Stellungnahme der Prediger zu den Anfragen der Wittheit*, 1561 | 7/2.2, pp. 526–527 | 2221 | [18.4.2](#s18-4-2), [18.4.3](#s18-4-3), [18.9.1](#s18-9-1) |
+| Dortmund, *Mandat zur Freigabe des Abendmahls unter beiderlei Gestalt*, 1562 | 21, p. 216 | 1447 | [18.5.4](#s18-5-4) |
+| Lippe, *Kirchenordnung*, 1571 | 21, p. 380 | 1462 | [18.6.2](#s18-6-2), [18.6.3](#s18-6-3) |
+| Soest, *Artikel der Prediger*, 1 September 1590 | 22, p. 480 | 1536 | [18.4.3](#s18-4-3), [18.5.2](#s18-5-2), [18.6.3](#s18-6-3), [18.8.2](#s18-8-2) |
+
+**Hesse and its neighbours**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Frankfurt, *Resolution auf die Gravamina der Prediger*, 3 March 1542 | 9, p. 509 | 2332 | [18.5.4](#s18-5-4) |
+| Hesse, visitation article of 1556, in the editor's note to the *Abschied der ersten Generalsynode*, 1568 (Moderate Reformed) | 8, pp. 349–350 | 2263 | [18.4.3](#s18-4-3) |
+| Waldeck, *Kirchenordnung*, 1556 | 9, p. 250 | 2300 | [18.5.1](#s18-5-1) |
+| Hesse, *Agende*, 1574 (Philippist) | 8, p. 435 | 2272 | [18.5.2](#s18-5-2) |
+| Nassau-Diez, *Visitationspunkte*, 1585 (Reformed) | 10, p. 178 | 189 | [18.5.4](#s18-5-4) |
+
+**The Palatinates and the Rhine**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Pfalz-Zweibrücken, *Mandat gegen die Calvinisten*, 1564 | 18, pp. 316–317 | 981 | [18.3](#s18-3), [18.11.1](#s18-11-1) |
+| Wied, *Synodalbeschlüsse*, 5 June 1564 (Reformed) | 19/1, p. 466 | 1094 | [18.5.2](#s18-5-2), [18.10.1](#s18-10-1) |
+| Leiningen, *Kirchenzuchtordnung*, 1566 | 19/1, p. 228 | 1073 | [18.5.2](#s18-5-2) |
+| Pfalz-Zweibrücken, *Ordinationszeugnis*, 7 September 1567 | 18, p. 343 | 987 | [18.7.3](#s18-7-3), [18.8.1](#s18-8-1) |
+| Pfalz-Neuburg, *Generalartikel*, 1576 | 13, pp. 188, 198, 230–231 | 404 | [18.4.3](#s18-4-3), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.9.2](#s18-9-2), [18.10.2](#s18-10-2) |
+| Kurpfalz, Sehling's introduction, 1578 | 14, p. 67 | 468 | [18.5.4](#s18-5-4) |
+| Landau, *Verhandlungen gegen Calvinisten*, 26 June 1582 | 19/1, p. 65 | 1046 | [18.5.4](#s18-5-4) |
+| Kurpfalz, *Mandat gegen Kondemnationen*, 1584 (Reformed) | 14, p. 512 | 507 | [18.8.3](#s18-8-3), [18.11.1](#s18-11-1) |
+| Upper Palatinate, *Amberger Rezeß*, 8 June 1593 (Reformed) | 13, pp. 336–337 | 423 | [18.8.3](#s18-8-3), [18.9.3](#s18-9-3) |
+| Kurpfalz, *Mandat zur Institution und Polizeiordnung*, 16 August 1595 (Reformed) | 19/2, p. 869 | 1169 | [18.5.4](#s18-5-4) |
+| Wild- and Rhinegraviate, *Patenordnung*, 1597 | 19/2, p. 574 | 1118 | [18.4.3](#s18-4-3), [18.5.1](#s18-5-1) |
+| Upper Palatinate, *Generalanweisung*, 20 March 1598 (Reformed) | 13, p. 348 | 427 | [18.8.3](#s18-8-3) |
+
+**Franconia, Regensburg and Bavaria**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Brandenburg-Nürnberg, *Kirchenordnung*, 1528 | 11, p. 138 | 269 | [18.5.3](#s18-5-3) |
+| Regensburg, *Kirchenordnung*, 1567(?) | 13, pp. 479, 483, 489 | 450 | [18.4.3](#s18-4-3), [18.9.1](#s18-9-1), [18.10.1](#s18-10-1) |
+| Regensburg, *Kirchenregimentsordnung*, 1572/1588 | 13, p. 509 | 452 | [18.6.3](#s18-6-3) |
+| Wolfstein, *Christliche Instructio* of Thomas Stieber, 1574 | 13, pp. 572, 580, 590–591 | 463 | [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3) |
+
+**Württemberg, Hohenlohe and Swabia**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Ulm, Konrad Sam's catechism, 1528/1536 (Moderate Reformed) | 17/2, p. 108 | 834 | [18.6.1](#s18-6-1) |
+| Heilbronn, *Confessio Heilbronnensis* and *Kirchenordnung*, 1530 | 17/1, p. 286 | 770 | [18.9.1](#s18-9-1) |
+| Reutlingen, *Kirchenordnung*, c. 1531 | 17/2, p. 43 | 827 | [18.5.1](#s18-5-1) |
+| Ulm, *Handbüchlein*, 1531 (Moderate Reformed) | 17/2, p. 176 | 838 | [18.9.1](#s18-9-1) |
+| Württemberg, *Visitationsordnung für die Superintendenten*, 1559 | 16, p. 387 | 683 | [18.3](#s18-3) |
+| Wimpfen, *Regelung der Predigtzeiten und Festtage beider Konfessionen*, 23 July 1568 | 17/2, pp. 519–521 | 928 | [18.8.3](#s18-8-3), [18.9.2](#s18-9-2), [18.9.3](#s18-9-3) |
+| Hohenlohe, *Kapitels- und Visitationsordnung*, 1579 | 15, pp. 369, 380 | 578 | [18.3](#s18-3), [18.5.2](#s18-5-2) |
+| Augsburg, *Einzelbestimmungen zu den Berufungsverhandlungen*, 1591 | 12, p. 115 | 342 | [18.8.3](#s18-8-3), [18.9.3](#s18-9-3) |
+| Schwäbisch Hall, *Kirchenordnung* 1543/1615, 1614/1615 | 17/1, pp. 123, 141 | 762 | [18.4.3](#s18-4-3), [18.5.3](#s18-5-3) |
+
+**Strasbourg, Alsace and Transylvania**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Strasbourg, Wolfgang Capito's *Kinder bericht*, 1527 (Moderate Reformed) | 20/1, p. 193 | 1285 | [18.6.1](#s18-6-1) |
+| Strasbourg, *Verbot, an anderen Orten die Messe zu hören*, 3 April 1531 (Moderate Reformed) | 20/1, p. 224 | 1291 | [18.5.4](#s18-5-4) |
+| Rappoltstein, *Vergleich zwischen der deutschen und der französischen Gemeinde*, 28 May 1561 (Reformed) | 20/2, pp. 100–103, 133 | 1370 | [18.11.4](#s18-11-4) |
+| Strasbourg, *Verbot der Konventikel und des auswärtigen Gottesdienstbesuchs*, 10 December 1597 | 20/1, p. 535 | 1343 | [18.5.4](#s18-5-4) |
+| Strasbourg, *Kirchenordnung*, 9 April 1598 | 20/1, pp. 557–558, 661–662 | 1344 | [18.7.1](#s18-7-1), [18.11.1](#s18-11-1) |
+| Strasbourg, *Stellungnahme des Magistrats … wegen der reformierten Taufpaten*, 28 March 1601 | 20/1, p. 700 | 1345 | [18.4.3](#s18-4-3) |
+| Hagenau, *Fundationsbrief*, 3 June 1614 | 20/2, p. 463 | 1405 | [18.9.3](#s18-9-3) |
+| Transylvanian Saxons, Honterus, *Reformationsbüchlein*, German version, 1543 | 24, p. 193 | 1666 | [18.4.1](#s18-4-1) |
+| Mediasch synod, 1578 | 24, p. 427 | 1707 | [18.4.1](#s18-4-1), [18.4.2](#s18-4-2), [18.9.3](#s18-9-3) |
+
+<div style="page-break-before: always;"></div>
+
 ## <a id="scripture-index"></a>Scripture index
 
 This index lists the passages of Scripture that the book cites by book and chapter: in its own
@@ -51527,11 +53875,11 @@ the Testaments. Where an order numbers a psalm as the Vulgate does, as "the 42nd
 such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter is given.
 
 <!-- Scripture index start: generated by tools/master_scripture.py; do not edit by hand -->
-**Old Testament:** [Genesis](#scr-gen) · [Exodus](#scr-exod) · [Leviticus](#scr-lev) · [Numbers](#scr-num) · [Deuteronomy](#scr-deut) · [1 Samuel](#scr-1sam) · [2 Kings](#scr-2kgs) · [2 Chronicles](#scr-2chr) · [Psalms](#scr-ps) · [Proverbs](#scr-prov) · [Isaiah](#scr-isa) · [Ezekiel](#scr-ezek) · [Hosea](#scr-hos)
+**Old Testament:** [Genesis](#scr-gen) · [Exodus](#scr-exod) · [Leviticus](#scr-lev) · [Numbers](#scr-num) · [Deuteronomy](#scr-deut) · [1 Samuel](#scr-1sam) · [2 Kings](#scr-2kgs) · [2 Chronicles](#scr-2chr) · [Psalms](#scr-ps) · [Proverbs](#scr-prov) · [Isaiah](#scr-isa) · [Jeremiah](#scr-jer) · [Ezekiel](#scr-ezek) · [Hosea](#scr-hos)
 
 **Apocrypha:** [Tobit](#scr-tob)
 
-**New Testament:** [Matthew](#scr-matt) · [Mark](#scr-mark) · [Luke](#scr-luke) · [John](#scr-john) · [Acts](#scr-acts) · [Romans](#scr-rom) · [1 Corinthians](#scr-1cor) · [2 Corinthians](#scr-2cor) · [Galatians](#scr-gal) · [Ephesians](#scr-eph) · [Philippians](#scr-phil) · [Colossians](#scr-col) · [1 Thessalonians](#scr-1thess) · [1 Timothy](#scr-1tim) · [2 Timothy](#scr-2tim) · [Titus](#scr-titus) · [Hebrews](#scr-heb) · [James](#scr-jas) · [1 Peter](#scr-1pet) · [1 John](#scr-1john)
+**New Testament:** [Matthew](#scr-matt) · [Mark](#scr-mark) · [Luke](#scr-luke) · [John](#scr-john) · [Acts](#scr-acts) · [Romans](#scr-rom) · [1 Corinthians](#scr-1cor) · [2 Corinthians](#scr-2cor) · [Galatians](#scr-gal) · [Ephesians](#scr-eph) · [Philippians](#scr-phil) · [Colossians](#scr-col) · [1 Thessalonians](#scr-1thess) · [1 Timothy](#scr-1tim) · [2 Timothy](#scr-2tim) · [Titus](#scr-titus) · [Hebrews](#scr-heb) · [James](#scr-jas) · [1 Peter](#scr-1pet) · [1 John](#scr-1john) · [2 John](#scr-2john)
 
 <a id="scr-gen"></a>**Genesis**
 
@@ -51655,8 +54003,14 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 53 — [2.4.7](#s2-4-7), [3.5.12](#s3-5-12), [4.1](#s4-1), [4.8.2](#s4-8-2), [4.11](#s4-11), [4.A.12](#s4-a-12), [4.A.16](#s4-a-16), [8.4.5](#s8-4-5)
 - 53:4f. — [3.5.14.2](#s3-5-14-2)
 
+<a id="scr-jer"></a>**Jeremiah**
+
+- 15 — [18.5.1](#s18-5-1)
+- 23:21 — [18.8.1](#s18-8-1)
+
 <a id="scr-ezek"></a>**Ezekiel**
 
+- 3 — [18.5.1](#s18-5-1)
 - 33:11 — [3.5.11](#s3-5-11)
 
 <a id="scr-hos"></a>**Hosea**
@@ -51677,6 +54031,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 3:16 — [8.6.4.7](#s8-6-4-7)
 - 6 — [7.1.2](#s7-1-2), [7.8.5](#s7-8-5)
 - 6:7 — [7.8.5](#s7-8-5)
+- 7 — [18.5.1](#s18-5-1)
+- 7:6 — [18.5.1](#s18-5-1)
 - 8:8 — [7.11.3](#s7-11-3)
 - 15 — [8.8.2](#s8-8-2)
 - 18 — [11.9.1](#s11-9-1), [13.1.1](#s13-1-1), [13.16](#s13-16), [13.16.4](#s13-16-4), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.6.3](#s16-6-3), [16.9](#s16-9)
@@ -51767,7 +54123,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 5 — [13.16](#s13-16), [13.16.5](#s13-16-5)
 - 5:7 — [7.11.2](#s7-11-2)
 - 5:7f. — [3.5.14.4](#s3-5-14-4)
-- 7 — [13.7.10](#s13-7-10)
+- 7 — [13.7.10](#s13-7-10), [18.1.1](#s18-1-1), [18.10.2](#s18-10-2)
 - 10 — [3.5.6](#s3-5-6)
 - 10:12 — [13.16.5](#s13-16-5)
 - 10:16 — [2.4.7](#s2-4-7), [2.5](#s2-5), [7.1.1](#s7-1-1)
@@ -51799,6 +54155,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 4:7 — [13.10.3](#s13-10-3)
 - 5 — [8.17.2](#s8-17-2), [8.18.1](#s8-18-1), [13.7.2](#s13-7-2), [13.7.3](#s13-7-3)
 - 5:22–29 — [13.7.1](#s13-7-1)
+- 5:26 — [18.4.1](#s18-4-1)
 
 <a id="scr-phil"></a>**Philippians**
 
@@ -51832,8 +54189,10 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 3:13 — [16.5.3](#s16-5-3)
 - 4 — [13.10.5](#s13-10-5), [13.15.1](#s13-15-1)
 - 4:4–5 — [13.15](#s13-15)
-- 5 — [16.6.1](#s16-6-1)
+- 5 — [16.6.1](#s16-6-1), [18.5.1](#s18-5-1)
 - 5:17 — [16.6](#s16-6)
+- 5:22 — [18.5.1](#s18-5-1)
+- 6 — [18.8.3](#s18-8-3)
 
 <a id="scr-2tim"></a>**2 Timothy**
 
@@ -51845,7 +54204,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 1 — [13.10.5](#s13-10-5)
 - 1:5 — [16.6.5](#s16-6-5)
 - 1:7–9 — [16.3.1](#s16-3-1)
-- 3 — [13.13.1](#s13-13-1)
+- 3 — [13.13.1](#s13-13-1), [18.3](#s18-3), [18.10.1](#s18-10-1), [18.13](#s18-13)
+- 3:10 — [18.1.1](#s18-1-1)
 
 <a id="scr-heb"></a>**Hebrews**
 
@@ -51862,6 +54222,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-1pet"></a>**1 Peter**
 
 - 2 — [13.13.1](#s13-13-1)
+- 3:7 — [18.4.1](#s18-4-1)
+- 3:15 — [18.8.3](#s18-8-3)
 - 5 — [13.10.3](#s13-10-3)
 - 5:2–4 — [13.10.2](#s13-10-2)
 
@@ -51869,6 +54231,11 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 2:1–2 — [3.3.6](#s3-3-6)
 - 4:9 — [3.5.14.2](#s3-5-14-2)
+
+<a id="scr-2john"></a>**2 John**
+
+- 1 — [18.3](#s18-3), [18.10.1](#s18-10-1), [18.13](#s18-13)
+- 1:10–11 — [18.1.1](#s18-1-1), [18.3](#s18-3), [18.8.3](#s18-8-3)
 <!-- Scripture index end -->
 
 <div style="page-break-before: always;"></div>
@@ -51897,27 +54264,27 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Adolf, Count of Neuenahr and Moers — [1.33.3](#s1-33-3), [6.18](#s6-18)
 - Adolf I, Duke of Holstein-Gottorp — [1.34.1](#s1-34-1)
 - Aepinus, Johannes — [3.3.2](#s3-3-2)
-- Albrecht, Duke in Prussia — [1.10.3](#s1-10-3), [14.7.4](#s14-7-4)
+- Albrecht, Duke in Prussia — [1.10.3](#s1-10-3), [14.7.4](#s14-7-4), [18.1.1](#s18-1-1), [18.11.2](#s18-11-2)
 - Albrecht Alcibiades, Margrave of Brandenburg-Kulmbach — [13.14.3](#s13-14-3)
 - Ambrose — [9.5.5](#s9-5-5), [10.7.3](#s10-7-3), [16.6.1](#s16-6-1), [16.6.2](#s16-6-2), [17.12.4](#s17-12-4)
 - Amsdorf, Nikolaus von — [8.17.4](#s8-17-4), [8.19](#s8-19)
-- Andreae, Jakob — [1.31.7](#s1-31-7), [6.14](#s6-14), [13.4.4](#s13-4-4), [13.19.1](#s13-19-1), [17.13](#s17-13), [17.13.3](#s17-13-3)
+- Andreae, Jakob — [1.31.7](#s1-31-7), [6.14](#s6-14), [13.4.4](#s13-4-4), [13.19.1](#s13-19-1), [17.13](#s17-13), [17.13.3](#s17-13-3), [18.4.3](#s18-4-3), [18.13](#s18-13)
 - Anna, Countess of East Frisia — [1.1](#s1-1), [1.3.3](#s1-3-3), [1.13.7](#s1-13-7)
 - Anton I, Count of Oldenburg — [6.14](#s6-14)
 - Assum, Johann — [11.8.3](#s11-8-3), [11.14](#s11-14)
-- August, Elector of Saxony — [1.6.2](#s1-6-2), [1.6.4](#s1-6-4), [2.5](#s2-5), [4.12](#s4-12), [5.6.4](#s5-6-4), [5.8](#s5-8), [5.9](#s5-9), [6.6](#s6-6), [10.5.3](#s10-5-3), [10.13](#s10-13), [11.7.2](#s11-7-2), [11.7.5](#s11-7-5), [11.8.2](#s11-8-2), [11.9.2](#s11-9-2), [11.14](#s11-14), [12.12.3](#s12-12-3), [12.13.6](#s12-13-6), [12.16](#s12-16), [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1), [13.23](#s13-23), [13.24](#s13-24), [14.5.7](#s14-5-7), [14.10](#s14-10), [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.7.1](#s16-7-1), [16.10](#s16-10), [17.5.3](#s17-5-3), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
+- August, Elector of Saxony — [1.6.2](#s1-6-2), [1.6.4](#s1-6-4), [2.5](#s2-5), [4.12](#s4-12), [5.6.4](#s5-6-4), [5.8](#s5-8), [5.9](#s5-9), [6.6](#s6-6), [10.5.3](#s10-5-3), [10.13](#s10-13), [11.7.2](#s11-7-2), [11.7.5](#s11-7-5), [11.8.2](#s11-8-2), [11.9.2](#s11-9-2), [11.14](#s11-14), [12.12.3](#s12-12-3), [12.13.6](#s12-13-6), [12.16](#s12-16), [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1), [13.23](#s13-23), [13.24](#s13-24), [14.5.7](#s14-5-7), [14.10](#s14-10), [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.7.1](#s16-7-1), [16.10](#s16-10), [17.5.3](#s17-5-3), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.4.3](#s18-4-3), [18.13](#s18-13), [18.14](#s18-14)
 - Augustine — [3.5.6](#s3-5-6), [9.5.5](#s9-5-5), [12.13.6](#s12-13-6), [13.4.1](#s13-4-1), [13.6.3](#s13-6-3), [13.12.8](#s13-12-8), [15.1](#s15-1), [15.2.1](#s15-2-1), [15.11.6](#s15-11-6), [17.12.4](#s17-12-4)
 
 <a id="per-b"></a>**B**
 
 - Babst, Valentin — [10.9.3](#s10-9-3)
 - Bader, Johannes — [1.28.1](#s1-28-1)
-- Banc, Arnaud — [1.31.3](#s1-31-3), [15.11.6](#s15-11-6), [15.13](#s15-13)
+- Banc, Arnaud — [1.31.3](#s1-31-3), [15.11.6](#s15-11-6), [15.13](#s15-13), [18.11.4](#s18-11-4)
 - Barnim IX, Duke of Pomerania — [1.9.4](#s1-9-4)
 - Bernhard, Prince of Anhalt — [1.7.13](#s1-7-13), [12.4.5](#s12-4-5), [12.7.1](#s12-7-1), [12.10.6](#s12-10-6), [12.16](#s12-16), [14.7.4](#s14-7-4), [14.9](#s14-9), [14.10](#s14-10)
 - Beust, Joachim von — [15.11.5](#s15-11-5)
-- Beza, Theodore — [16.1](#s16-1), [16.6.3](#s16-6-3)
-- Bidembach, Felix — [15.11.5](#s15-11-5)
+- Beza, Theodore — [16.1](#s16-1), [16.6.3](#s16-6-3), [18.1.1](#s18-1-1), [18.5.4](#s18-5-4), [18.12](#s18-12), [18.13](#s18-13)
+- Bidembach, Felix — [15.11.5](#s15-11-5), [18.4.3](#s18-4-3), [18.5.3](#s18-5-3)
 - Bieberstein, Abraham von — [1.8.5](#s1-8-5)
 - Bieberstein, Joachim von — [1.8.5](#s1-8-5)
 - Bieberstein, Johann von — [1.8.5](#s1-8-5)
@@ -51929,16 +54296,16 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Bucanus, Wilhelm — [15.7.4](#s15-7-4)
 - Bucer, Martin — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.16.1](#s1-16-1), [1.26.2](#s1-26-2), [1.30.1](#s1-30-1), [1.33.1](#s1-33-1), [6.1.4](#s6-1-4), [7.5](#s7-5), [7.5.3](#s7-5-3), [13.6.2](#s13-6-2), [13.6.6](#s13-6-6), [14.4.4](#s14-4-4), [16.6](#s16-6), [16.6.2](#s16-6-2), [17.17.1](#s17-17-1)
 - Buchholtzer, Georg — [1.8.6](#s1-8-6)
-- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9](#s16-9), [16.10](#s16-10)
+- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9](#s16-9), [16.10](#s16-10), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
 - Burck, Joachim a — [8.16.9](#s8-16-9)
 
 <a id="per-c"></a>**C**
 
-- Calvin, John — [Introduction](#repo-prayers-findings), [6.3](#s6-3), [6.20](#s6-20), [17.7.3](#s17-7-3)
-- Capito, Wolfgang — [1.3.3](#s1-3-3), [1.30.1](#s1-30-1), [3.5.13](#s3-5-13), [7.5](#s7-5)
+- Calvin, John — [Introduction](#repo-prayers-findings), [6.3](#s6-3), [6.20](#s6-20), [17.7.3](#s17-7-3), [18.1.2](#s18-1-2), [18.7.3](#s18-7-3), [18.12](#s18-12), [18.13](#s18-13)
+- Capito, Wolfgang — [1.3.3](#s1-3-3), [1.30.1](#s1-30-1), [3.5.13](#s3-5-13), [7.5](#s7-5), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1), [18.12](#s18-12), [18.13](#s18-13), [18.14](#s18-14)
 - Casimir, Margrave of Brandenburg-Kulmbach — [1.19.2](#s1-19-2)
 - Charles V, Emperor — [17.6.1](#s17-6-1), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.6](#s17-6-6), [17.7.3](#s17-7-3), [17.8.1](#s17-8-1), [17.9.3](#s17-9-3), [17.9.5](#s17-9-5), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.12.4](#s17-12-4), [17.13.3](#s17-13-3), [17.13.5](#s17-13-5), [17.14.1](#s17-14-1), [17.16](#s17-16), [17.17.5](#s17-17-5)
-- Chemnitz, Martin — [1.11.2](#s1-11-2), [6.14](#s6-14), [17.9](#s17-9), [17.9.3](#s17-9-3)
+- Chemnitz, Martin — [1.11.2](#s1-11-2), [6.14](#s6-14), [17.9](#s17-9), [17.9.3](#s17-9-3), [18.4.1](#s18-4-1), [18.7.1](#s18-7-1), [18.7.3](#s18-7-3)
 - Christian I, Elector of Saxony — [13.4.4](#s13-4-4)
 - Christoph, Archbishop of Bremen — [1.15.3](#s1-15-3)
 - Christoph, Duke of Württemberg — [13.12.9](#s13-12-9), [16.7.4](#s16-7-4), [17.13.1](#s17-13-1)
@@ -51954,6 +54321,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 - Daser, Ludwig — [4.10.4](#s4-10-4)
 - Decius, Nikolaus — [2.7.2](#s2-7-2), [7.1.2](#s7-1-2), [7.13.3](#s7-13-3), [8.1.1](#s8-1-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.12](#s8-12), [8.12.2](#s8-12-2), [8.15](#s8-15)
+- Dietrich, Heinrich — [18.7.1](#s18-7-1)
 - Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.13](#s10-13), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.10](#s16-10)
 - Döber, Andreas — [1.19.1](#s1-19-1), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.13.2](#s2-13-2), [2.15.7](#s2-15-7), [2.15.10](#s2-15-10), [2.16](#s2-16), [Chapter 3](#ch3), [3.1](#s3-1), [3.2](#s3-2), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.4.5](#s3-4-5), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.2](#s7-3-2), [7.5](#s7-5), [7.5.1](#s7-5-1), [7.7](#s7-7), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.8.7](#s7-8-7), [7.8.11](#s7-8-11), [7.11](#s7-11), [7.11.3](#s7-11-3), [7.15.4](#s7-15-4), [8.5.3](#s8-5-3), [8.19](#s8-19)
 - Döberlein, Wolfgang — [13.14.3](#s13-14-3)
@@ -51965,6 +54333,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Eberhard, Leonhard — [13.14.3](#s13-14-3)
 - Edward VI, King of England — [1.3.4](#s1-3-4)
 - Edzard II, Count of East Frisia — [17.10.6](#s17-10-6)
+- Egenolph IV, Lord of Rappoltstein — [18.11.4](#s18-11-4)
 - Eitzen, Paul von — [1.34.1](#s1-34-1), [17.8.4](#s17-8-4)
 - Elisabeth, Duchess of Brunswick-Calenberg — [1.12.1](#s1-12-1), [6.16](#s6-16), [7.13](#s7-13), [13.6.3](#s13-6-3)
 - Enno II, Count of East Frisia — [1.13.7](#s1-13-7)
@@ -51999,7 +54368,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Georg I, Landgrave of Hesse-Darmstadt — [1.16.2](#s1-16-2)
 - Georg II, Duke of Brieg — [1.8.6](#s1-8-6)
 - Georg III, Prince of Anhalt — [1.7.13](#s1-7-13), [8.11.4](#s8-11-4), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.24](#s13-24)
-- Georg Ernst, Count of Henneberg — [1.7.9](#s1-7-9), [3.5.3](#s3-5-3), [3.8](#s3-8), [5.4.2](#s5-4-2), [5.9](#s5-9), [6.8](#s6-8), [10.11.7](#s10-11-7), [10.13](#s10-13), [11.14](#s11-14), [12.2.3](#s12-2-3), [12.6.3](#s12-6-3), [13.2.3](#s13-2-3), [13.4.3](#s13-4-3), [13.24](#s13-24), [17.6.2](#s17-6-2), [17.18](#s17-18), [17.19](#s17-19)
+- Georg Ernst, Count of Henneberg — [1.7.9](#s1-7-9), [3.5.3](#s3-5-3), [3.8](#s3-8), [5.4.2](#s5-4-2), [5.9](#s5-9), [6.8](#s6-8), [10.11.7](#s10-11-7), [10.13](#s10-13), [11.14](#s11-14), [12.2.3](#s12-2-3), [12.6.3](#s12-6-3), [13.2.3](#s13-2-3), [13.4.3](#s13-4-3), [13.24](#s13-24), [17.6.2](#s17-6-2), [17.18](#s17-18), [17.19](#s17-19), [18.5.2](#s18-5-2), [18.13](#s18-13), [18.14](#s18-14)
 - Georg Friedrich, Count of Hohenlohe — [13.14.2](#s13-14-2)
 - Georg Johann, Count Palatine of Veldenz — [6.5](#s6-5), [6.6](#s6-6)
 - Gesius, Bartholomäus — [8.A.1](#s8-a-1)
@@ -52007,6 +54376,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Goltz, Joachim — [1.8.4](#s1-8-4)
 - Görlitz, Martin — [7.15.1](#s7-15-1)
 - Gotthard Kettler, Duke of Courland — [1.10.3](#s1-10-3)
+- Gottwald, Andreas — [18.5.4](#s18-5-4)
 - Gregory I, Pope — [2.6.1](#s2-6-1), [14.4.1](#s14-4-1), [14.4.4](#s14-4-4)
 - Greiter, Matthäus — [2.9.4](#s2-9-4)
 
@@ -52022,7 +54392,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Heinrich, Archbishop of Bremen — [1.13.1](#s1-13-1)
 - Heinrich, Duke of Saxony — [1.5](#s1-5), [1.6.3](#s1-6-3), [1.6.4](#s1-6-4), [1.6.5](#s1-6-5), [2.4.1](#s2-4-1), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.1](#s2-9-1), [2.10.1](#s2-10-1), [2.10.2](#s2-10-2), [2.11](#s2-11), [2.12.1](#s2-12-1), [2.13.2](#s2-13-2), [4.1](#s4-1), [4.3.3](#s4-3-3), [4.4.2](#s4-4-2), [4.8.1](#s4-8-1), [4.8.4](#s4-8-4), [4.11](#s4-11), [4.12](#s4-12), [5.4.2](#s5-4-2), [5.8](#s5-8), [5.9](#s5-9), [10.13](#s10-13), [12.3.7](#s12-3-7), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.4.4](#s13-4-4), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2)
 - Heinrich IV, Count of Sayn — [6.6](#s6-6)
-- Heinrich IV, Lord of Reuss — [1.7.6](#s1-7-6), [5.9](#s5-9), [8.11.1](#s8-11-1), [8.19](#s8-19), [9.5.6](#s9-5-6), [9.7](#s9-7)
+- Heinrich IV, Lord of Reuss — [1.7.6](#s1-7-6), [5.9](#s5-9), [8.11.1](#s8-11-1), [8.19](#s8-19), [9.5.6](#s9-5-6), [9.7](#s9-7), [18.8.2](#s18-8-2), [18.13](#s18-13), [18.14](#s18-14)
 - Heinrich Julius, Duke of Brunswick-Wolfenbüttel — [13.19.1](#s13-19-1)
 - Hemmingsen, Niels — [15.11.5](#s15-11-5)
 - Hertweg, Georg — [13.12.3](#s13-12-3), [13.14.3](#s13-14-3)
@@ -52032,8 +54402,9 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Hofmann, Johann — [3.5.14.5](#s3-5-14-5), [13.14.2](#s13-14-2)
 - Hollande, Johannes de — [13.14.3](#s13-14-3)
 - Homer — [12.3.4](#s12-3-4)
-- Honterus, Johannes — [7.1.3](#s7-1-3), [8.8.1](#s8-8-1), [8.19](#s8-19), [12.3.7](#s12-3-7), [12.16](#s12-16)
+- Honterus, Johannes — [7.1.3](#s7-1-3), [8.8.1](#s8-8-1), [8.19](#s8-19), [12.3.7](#s12-3-7), [12.16](#s12-16), [18.1.1](#s18-1-1), [18.4.1](#s18-4-1), [18.4.2](#s18-4-2), [18.13](#s18-13), [18.14](#s18-14)
 - Huberinus, Caspar — [1.23.1](#s1-23-1), [3.7](#s3-7), [6.3](#s6-3), [6.13](#s6-13)
+- Hügel, Andreas — [18.7.2](#s18-7-2), [18.13](#s18-13)
 - Hus, John — [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.2](#s8-3-2), [8.13.2](#s8-13-2), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.14.2](#s8-14-2), [8.14.6](#s8-14-6), [8.14.8](#s8-14-8), [8.19](#s8-19)
 
 <a id="per-i"></a>**I**
@@ -52056,9 +54427,9 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Johann Adolf, Duke of Holstein-Gottorp — [11.9.3](#s11-9-3), [17.8.4](#s17-8-4)
 - Johann Albrecht, Count of Solms-Braunfels — [16.6.3](#s16-6-3)
 - Johann Albrecht I, Duke of Mecklenburg — [14.6.6](#s14-6-6)
-- Johann Casimir, Count Palatine — [Conventions](#conv-traditions), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [11.9.3](#s11-9-3), [13.12.4](#s13-12-4), [13.13.3](#s13-13-3), [14.1](#s14-1), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.2](#s17-12-2)
+- Johann Casimir, Count Palatine — [Conventions](#conv-traditions), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [11.9.3](#s11-9-3), [13.12.4](#s13-12-4), [13.13.3](#s13-13-3), [14.1](#s14-1), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.2](#s17-12-2), [18.5.4](#s18-5-4)
 - Johann Friedrich, Archbishop of Bremen — [1.13.1](#s1-13-1)
-- Johann Friedrich I, Elector of Saxony — [17.6.1](#s17-6-1)
+- Johann Friedrich I, Elector of Saxony — [17.6.1](#s17-6-1), [18.13](#s18-13)
 - Johann Friedrich II, Duke of Saxony — [1.6.2](#s1-6-2), [11.12.2](#s11-12-2), [15.5.2](#s15-5-2), [17.6.1](#s17-6-1), [17.19](#s17-19)
 - Johann Friedrich III, Duke of Saxony — [11.12.2](#s11-12-2), [17.6.1](#s17-6-1), [17.19](#s17-19)
 - Johann Georg, Prince of Anhalt — [1.3.3](#s1-3-3), [1.7.13](#s1-7-13), [12.15](#s12-15), [12.16](#s12-16), [14.5.2](#s14-5-2), [14.9](#s14-9), [14.10](#s14-10)
@@ -52076,6 +54447,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Kantz, Kaspar — [1.20.7](#s1-20-7), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.14.1](#s3-5-14-1), [3.5.14.2](#s3-5-14-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.6.4](#s5-6-4), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.2](#s7-2), [7.2.4](#s7-2-4), [7.2.6](#s7-2-6), [7.2.7](#s7-2-7), [7.3.3](#s7-3-3), [7.4.4](#s7-4-4), [7.7.2](#s7-7-2), [7.9](#s7-9), [7.9.2](#s7-9-2), [7.9.3](#s7-9-3), [7.9.4](#s7-9-4), [7.10](#s7-10), [7.11](#s7-11), [7.11.1](#s7-11-1)
 - Karl I, Count Palatine of Birkenfeld — [17.12.5](#s17-12-5)
 - Karlstadt, Andreas — [1.6.6](#s1-6-6), [14.1](#s14-1), [14.5.2](#s14-5-2)
+- Kefelius, Pancratius — [18.4.3](#s18-4-3)
 - Kestner, Veit — [1.23.1](#s1-23-1)
 - Keuchenthal, Johannes — [8.A.1](#s8-a-1)
 - Knox, John — [1.3.4](#s1-3-4)
@@ -52102,13 +54474,14 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.4](#s8-a-4)
 - Ludwig, Duke of Württemberg — [17.13.2](#s17-13-2)
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
-- Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1)
+- Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)
 - Ludwig Casimir, Count of Hohenlohe — [1.23.1](#s1-23-1)
-- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12](#s10-12), [10.13](#s10-13), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9](#s16-9), [16.10](#s16-10), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18)
+- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12](#s10-12), [10.13](#s10-13), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9](#s16-9), [16.10](#s16-10), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-m"></a>**M**
 
-- Marbach, Johann — [Conventions](#conv-traditions), [1.22.1](#s1-22-1), [1.30.1](#s1-30-1), [2.13.2](#s2-13-2), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [13.6.6](#s13-6-6), [13.10.5](#s13-10-5), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.9](#s16-9), [16.10](#s16-10), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
+- Magnus, Johann Georg — [18.8.3](#s18-8-3)
+- Marbach, Johann — [Conventions](#conv-traditions), [1.22.1](#s1-22-1), [1.30.1](#s1-30-1), [2.13.2](#s2-13-2), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [13.6.6](#s13-6-6), [13.10.5](#s13-10-5), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.9](#s16-9), [16.10](#s16-10), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.11.4](#s18-11-4)
 - Marboeuf, Pierre — [1.31.3](#s1-31-3)
 - Maria, Lady of Jever — [1.14.4](#s1-14-4)
 - Marquard, Bishop of Speyer — [1.22.1](#s1-22-1)
@@ -52122,13 +54495,14 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Mögner, Veit — [8.18.5](#s8-18-5)
 - Moritz, Elector of Saxony — [1.6.4](#s1-6-4), [1.6.6](#s1-6-6), [1.7.1](#s1-7-1)
 - Moritz, Landgrave of Hesse-Kassel — [1.17.1](#s1-17-1)
-- Mörlin, Joachim — [1.11.2](#s1-11-2), [17.9](#s17-9)
+- Mörlin, Joachim — [1.11.2](#s1-11-2), [17.9](#s17-9), [18.7.3](#s18-7-3)
 - Muhammad (Mahomet) — [6.13.I.1](#s6-13-i-1)
 - Müntzer, Thomas — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.1](#s1-3-1), [1.3.6](#s1-3-6), [1.6.6](#s1-6-6), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.6.1](#s2-6-1), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.15.2](#s2-15-2), [2.15.4](#s2-15-4), [2.15.6](#s2-15-6), [2.15.7](#s2-15-7), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.8](#s3-3-8), [3.4.1](#s3-4-1), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.2](#s4-2), [4.3.2](#s4-3-2), [4.4.4](#s4-4-4), [4.5.2](#s4-5-2), [4.6.3](#s4-6-3), [4.7.2](#s4-7-2), [4.8.2](#s4-8-2), [4.8.3](#s4-8-3), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.2](#s5-6-2), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.3](#s7-3-3), [7.4](#s7-4), [7.4.1](#s7-4-1), [7.4.3](#s7-4-3), [7.4.4](#s7-4-4), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.11.4](#s7-11-4), [7.13](#s7-13), [7.13.1](#s7-13-1), [7.13.4](#s7-13-4), [8.16.8](#s8-16-8), [8.19](#s8-19), [9.5.2](#s9-5-2), [9.5.3](#s9-5-3), [13.2.3](#s13-2-3), [13.9.1](#s13-9-1), [14.1](#s14-1), [14.5.2](#s14-5-2), [14.7.1](#s14-7-1)
 
 <a id="per-n"></a>**N**
 
 - Naso, Joseph — [1.15.3](#s1-15-3), [17.18](#s17-18)
+- Nasserus, Bartholomaeus — [18.4.3](#s18-4-3)
 - Nervius, Johannes — [1.31.8](#s1-31-8)
 - Nieden, Arnd van — [16.5.2](#s16-5-2)
 - Nimwegen, Rudolf von — [7.11](#s7-11)
@@ -52137,18 +54511,20 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 <a id="per-o"></a>**O**
 
 - Oecolampadius, Johannes — [1.26.2](#s1-26-2), [3.5.12](#s3-5-12)
+- Origen — [18.7.3](#s18-7-3)
 - Osiander, Andreas — [3.1](#s3-1), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.5.7](#s3-5-7), [3.5.14.3](#s3-5-14-3), [3.7](#s3-7), [4.11](#s4-11), [5.5.2](#s5-5-2), [5.8](#s5-8), [6.16](#s6-16), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.8.7](#s7-8-7), [7.12.6](#s7-12-6), [7.14](#s7-14), [7.14.2](#s7-14-2), [7.A](#s7-a), [13.20.3](#s13-20-3)
 - Ottheinrich, Elector Palatine — [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [2.4.5](#s2-4-5), [4.8.2](#s4-8-2), [4.12](#s4-12), [6.5](#s6-5), [6.6](#s6-6), [6.16](#s6-16), [7.14](#s7-14), [12.10.3](#s12-10-3), [12.16](#s12-16), [13.3.2](#s13-3-2), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.24](#s13-24), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.18](#s17-18), [17.19](#s17-19)
 
 <a id="per-p"></a>**P**
 
 - Pangratius, Andreas — [13.14.3](#s13-14-3), [14.6.7](#s14-6-7)
+- Pappus, Johannes — [18.4.3](#s18-4-3)
 - Pauli, Simon — [1.10.4](#s1-10-4)
 - Pfeffinger, Johann — [4.12](#s4-12), [6.3](#s6-3), [6.9](#s6-9), [10.11.7](#s10-11-7), [10.13](#s10-13), [14.5.5](#s14-5-5), [14.10](#s14-10), [16.10](#s16-10)
 - Pflacher, Moses — [1.21.4](#s1-21-4)
 - Philipp, Landgrave of Hesse — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.5](#s1-5), [1.16.1](#s1-16-1), [6.1.4](#s6-1-4), [6.11](#s6-11), [11.2](#s11-2), [12.3.2](#s12-3-2), [17.11](#s17-11)
 - Philipp I, Count of Leiningen-Westerburg — [6.5](#s6-5)
-- Philipp I, Duke of Brunswick-Grubenhagen — [1.12.6](#s1-12-6)
+- Philipp I, Duke of Brunswick-Grubenhagen — [1.12.6](#s1-12-6), [18.7.1](#s18-7-1), [18.13](#s18-13)
 - Philipp I, Margrave of Baden — [12.13.3](#s12-13-3), [12.16](#s12-16)
 - Philipp II, Duke of Brunswick-Grubenhagen — [1.12.5](#s1-12-5)
 - Philipp II, Landgrave of Hesse-Rheinfels — [1.16.2](#s1-16-2)
@@ -52157,8 +54533,8 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Pistorius, Johannes — [1.34.1](#s1-34-1)
 - Platina, Bartolomeo — [2.6.1](#s2-6-1)
 - Plauen, Anna von, Abbess of Gernrode — [1.7.13](#s1-7-13)
-- Porta, Conrad — [15.11.5](#s15-11-5)
-- Poullain, Valérand — [1.17.6](#s1-17-6), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [6.20](#s6-20)
+- Porta, Conrad — [15.11.5](#s15-11-5), [18.5.3](#s18-5-3)
+- Poullain, Valérand — [1.17.6](#s1-17-6), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [6.20](#s6-20), [18.11.4](#s18-11-4)
 - Promnitz, Abraham von — [1.8.6](#s1-8-6)
 - Prudentius — [10.7.3](#s10-7-3)
 - Püttner, David — [1.23.1](#s1-23-1)
@@ -52182,16 +54558,19 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 <a id="per-s"></a>**S**
 
 - Sahr, Johann — [13.14.3](#s13-14-3)
-- Sam, Konrad — [1.26.2](#s1-26-2)
+- Sam, Konrad — [1.26.2](#s1-26-2), [18.6.1](#s18-6-1), [18.13](#s18-13), [18.14](#s18-14)
 - Sarcerius, Erasmus — [1.7.8](#s1-7-8), [13.3.8](#s13-3-8), [13.10.2](#s13-10-2), [15.11.5](#s15-11-5)
 - Schaumberg, Hans Paul von — [13.14.3](#s13-14-3)
 - Schenk, Jacob — [1.6.5](#s1-6-5), [16.3.3](#s16-3-3), [16.10](#s16-10)
 - Schlemmer, Jakob — [13.14.3](#s13-14-3)
 - Schlüter, Gottfried — [17.10.4](#s17-10-4), [17.19](#s17-19)
 - Schnabel, Albert — [1.33.2](#s1-33-2)
+- Schopper, Jacob — [18.8.3](#s18-8-3), [18.13](#s18-13)
 - Schröter, Leonhard — [4.9.2](#s4-9-2)
 - Schulenburg, Joachim von der — [1.8.5](#s1-8-5)
 - Schwarz, Diebold — [1.30.1](#s1-30-1), [2.9.4](#s2-9-4), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [4.11](#s4-11), [4.12](#s4-12), [4.A.5](#s4-a-5), [4.A.16](#s4-a-16), [5.6.1](#s5-6-1), [5.8](#s5-8), [5.9](#s5-9), [7.1.1](#s7-1-1), [7.5](#s7-5), [7.5.1](#s7-5-1), [7.5.2](#s7-5-2), [7.6](#s7-6)
+- Schwenckfeld, Caspar — [18.7.3](#s18-7-3)
+- Seiler, Georg — [18.7.1](#s18-7-1)
 - Sella, Joachim — [11.4.3](#s11-4-3)
 - Selnecker, Nikolaus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4)
 - Senfl, Ludwig — [4.1](#s4-1), [4.4.5](#s4-4-5), [4.10.4](#s4-10-4), [4.11](#s4-11)
@@ -52204,7 +54583,8 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Spengler, Lazarus — [8.18.5](#s8-18-5)
 - Speratus, Paul — [8.11.2](#s8-11-2), [8.16.6](#s8-16-6), [8.18.5](#s8-18-5)
 - Stancarus, Francesco — [17.14.1](#s17-14-1)
-- Stieber, Thomas — [5.9](#s5-9), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.24](#s13-24), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.10](#s16-10)
+- Staphylus, Friedrich — [18.11.2](#s18-11-2)
+- Stieber, Thomas — [5.9](#s5-9), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.24](#s13-24), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.10](#s16-10), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
 - Stiphelius, Laurentius — [8.A.1](#s8-a-1)
 - Streitberger, Johann — [9.5.4](#s9-5-4)
 - Sulzer, Simon — [1.31.8](#s1-31-8)
@@ -52218,7 +54598,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 <a id="per-u"></a>**U**
 
 - Ulrich, Duke of Württemberg — [17.13.1](#s17-13-1)
-- Ursinus, Zacharias — [16.1](#s16-1), [16.6.3](#s16-6-3)
+- Ursinus, Zacharias — [16.1](#s16-1), [16.6.3](#s16-6-3), [18.1.1](#s18-1-1), [18.5.4](#s18-5-4), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-v"></a>**V**
 
@@ -52289,6 +54669,7 @@ They are not repeated here.
 - **antiphoner**. The choir book of the chants of the office: antiphons, responsories and hymns. The Lutheran antiphoners of Spangenberg (1545) and Lossius (1553) purged and reprinted the old chant. See [§10.9.2](#s10-9-2).
 - **Auctuarium** (Latin). The *Mehrung der vorigen Kirchenordnung* of Brandenburg-Ansbach (1548), the adaptation of its church order to the Interim, and one of the Interim orders in the set. See [§1.4](#s1-4).
 - **Aufer a nobis** (Latin). "Take away from us [our iniquities]": the prayer the priest said as he went up to the altar after the *Confiteor*. It survives in German in Müntzer's Allstedt Mass, and in Latin after the sermon in the *Cellische Ordnungen* of 1545. See [§3.3.1](#s3-3-1), [§3.3.8](#s3-3-8).
+- **Auslaufen** (German, "running out"). Going across a border to the worship of another confession, for its sermons and sacraments. Every confession forbade its people to do it. See [§18.5.4](#s18-5-4).
 
 <a id="gl-b"></a>**B**
 
@@ -52330,6 +54711,7 @@ They are not repeated here.
 - **confirmation** (German *Firmung*). In the medieval church a sacrament given by the bishop with chrism; in the evangelical orders an examination in the catechism, with profession, prayer and the laying on of hands, before first communion. See [§13.6](#s13-6).
 - **Confiteor** (Latin). "I confess to Almighty God": the confession of sins said by the priest and his ministers at the foot of the altar, answered by the *Misereatur* and the *Indulgentiam*. See [§3.3.2](#s3-3-2).
 - **confraternity** (German *Bruderschaft*). A brotherhood of lay people for devotion, Masses for the dead and the keeping of an altar. The orders dissolved them into the common chest. See [§16.7.6](#s16-7-6).
+- **Consensus of Sandomierz** (Latin *Consensus Sendomiriensis*). The union of 1570 in which the Lutheran, Reformed and Bohemian Brethren churches of Poland owned one another's doctrine as orthodox and opened their pulpits and altars to one another. See [§18.11.3](#s18-11-3).
 - **consistory** (German *Konsistorium*). The territorial church court and board of theologians and jurists, which examined ministers, judged marriage cases and kept discipline. See [§15.5](#s15-5).
 - **convent**. (1) A religious house of monks or nuns. (2) A meeting of the clergy of a district for study and mutual correction. See [§10.4.4](#s10-4-4), [§15.7.5](#s15-7-5).
 - **cope** (German *Chorkappe*, *Chormantel*). A long cloak open at the front, worn in processions, at the office and at services without communion. See [§14.7.2](#s14-7-2).
@@ -52372,6 +54754,7 @@ They are not repeated here.
 - **festum fori**, **festum chori** (Latin). A feast "of the court", on which work was forbidden, and a feast "of the choir", kept only in the liturgy. See [§12.4](#s12-4).
 - **figured music** (Latin *figuraliter*, *in mensuris*; German *figurieren*). Polyphony written in measured notes, as against plainsong. See [§10.9.4](#s10-9-4), [§12.10.5](#s12-10-5).
 - **Flectamus genua** (Latin). "Let us bend the knee", the bidding before each of the Good Friday solemn prayers, answered *Levate*, "Arise". See [§13.22.6](#s13-22-6).
+- **formata** (Latin, *litterae formatae*). The letters by which a bishop attested a cleric's ordination. See [§18.7.2](#s18-7-2).
 - **Formula missae** (Latin). Luther's Latin order of the Mass of 1523, the *Formula missae et communionis*, and with the *Deutsche Messe* one of the two baselines of the evangelical Mass. See [§2.3.2](#s2-3-2).
 - **fraction**. The breaking of the host before communion. See [§7.6.11](#s7-6-11).
 
@@ -52380,7 +54763,7 @@ They are not repeated here.
 - **Generalartikel** (German). General articles: the instructions of a visitation that applied to every parish of a territory.
 - **German psalm** (German *deutscher Psalm*). Any German hymn sung by the people, not only a psalm paraphrase. See [§8.5.1](#s8-5-1).
 - **Gnesio-Lutherans** (Greek *gnesios*, "genuine"). The strict Lutheran party, led by Flacius, that resisted the Interim and the Philippists; also called Flacians. See [§17.1.1](#s17-1-1).
-- **godparents** (German *Gevatter*, *Paten*). The sponsors at baptism, who answer for the child and promise to see it taught. See [§13.3.8](#s13-3-8), [§17.17.4](#s17-17-4).
+- **godparents** (German *Gevatter*, *Paten*). The sponsors at baptism, who answer for the child and promise to see it taught. See [§13.3.8](#s13-3-8), [§17.17.4](#s17-17-4), [§18.4.3](#s18-4-3).
 - **Gottesacker** (German). "God's acre": the burial ground, often outside the town. See [§13.9.4](#s13-9-4).
 - **gradual**. (1) The chant after the epistle, taken from a psalm. (2) The choir book of the chants of the Mass. See [§4.6](#s4-6).
 
@@ -52431,6 +54814,7 @@ They are not repeated here.
 
 <a id="gl-m"></a>**M**
 
+- **mandatum de non calumniando** (Latin). "Mandate against calumny": an order forbidding the preachers of one confession to revile the other, as in the Reformed Upper Palatinate in 1598. See [§18.8.3](#s18-8-3).
 - **maniple**. A strip of cloth worn over the left forearm by the priest at Mass. See [§14.2.3](#s14-2-3).
 - **marriage court** (German *Ehegericht*). The court that judged betrothal, marriage and divorce cases; in many territories the consistory. See [§13.7.9](#s13-7-9).
 - **Matins** (German *Mette*). The night office of psalms, lessons and responsories. In the evangelical orders it was mostly a school office early in the morning. See [§10.5.2](#s10-5-2).
@@ -52497,7 +54881,7 @@ They are not repeated here.
 <a id="gl-s"></a>**S**
 
 - **sacrament house** (German *Sakramentshäuslein*). A tall stone shrine in the chancel in which the consecrated host was reserved. See [§14.5.5](#s14-5-5).
-- **Sacramentarians**. In the Lutheran polemic, those who denied the bodily presence of Christ in the Supper: the Zwinglians and, later, the Calvinists.
+- **Sacramentarians**. In the Lutheran polemic, those who denied the bodily presence of Christ in the Supper: the Zwinglians and, later, the Calvinists. See [Chapter 18](#ch18).
 - **Salve Regina** (Latin). "Hail, Queen": the antiphon to the Virgin sung in the evening after Compline. The orders abolished it or turned it to Christ. See [§8.16.5](#s8-16-5).
 - **Sanctus bell**. A small bell rung at the Sanctus and at the elevation. See [§9.5.4](#s9-5-4).
 - **Schwenckfelders**. The followers of Caspar Schwenckfeld, a Silesian spiritualist who set the inner word above the outward word and sacraments. See [§1.3.6](#s1-3-6).
@@ -52532,6 +54916,7 @@ They are not repeated here.
 
 <a id="gl-u"></a>**U**
 
+- **Ubiquitists**. The Reformed name for the Lutherans who taught that Christ's human nature is present everywhere, the "ubiquity" of his body. See [§18.5.4](#s18-5-4).
 - **Unde et memores** (Latin). The prayer of the Canon after the institution that remembers the Passion, Resurrection and Ascension and offers the sacrifice. See [§7.6.8](#s7-6-8).
 
 <a id="gl-v"></a>**V**
