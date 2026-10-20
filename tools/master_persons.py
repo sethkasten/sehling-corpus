@@ -291,6 +291,12 @@ PERSONS = [
     ('Philipp I, Duke of Brunswick-Grubenhagen', [r'Herzogs Philipps I\.',
         r'(?<=Stiftsordnung of )Duke Philip I']),
     ('Egenolph IV, Lord of Rappoltstein', [r'Egenolph IV']),
+    # Chapter 16.9: women and laymen in the services
+    ('Mandelsloh, Agnese von', [r'Agnese von Mandelsloh']),
+    ('Ruprecht, Wolfgang', [r'Wolfgang Ruprecht']),
+    ('Plateanus, Petrus', [r'Petrus Plateanus', r'Petri Plateani']),
+    ('Musculus, Andreas', [r'Andreas Musculus', r'Andreas Muskulus']),
+    ('Lehmann, Anna (widow of Georg Lehmann)', [r'Mistress Anna']),
     ('Philipp II, Duke of Brunswick-Grubenhagen', [r'(?<=herrn )Philipsen(?=, herzogen zu Brunschweig)']),
     ('Wolfgang, Duke of Brunswick-Grubenhagen', [r'Herzog Wolfgang(?=, Herzog zu Braunschweig)']),
     ('Johann Albrecht I, Duke of Mecklenburg', [r'(?<=lord )Johann Albrecht', r'Duke Johann Albrecht']),
@@ -377,6 +383,8 @@ PERSONS = [
     ('Platina, Bartolomeo', [r'Platina']),
     ('Cyprian', [r'Cyprianus', r'Cyprian']),
     ('Origen', [r'Origen(?:is)?']),
+    ('Epiphanius', [r'Epiphanius']),
+    ('Athanasius', [r'(?<=Alexandria in )Athanasius', r'(?<=apud )Athanasium']),
     # Musicians and printers
     ('Rhau, Georg', [r'Georg Rhau', r'Rhau']),
     ('Walter, Johann', [r'Johann Walter', r'Walter(?=, Isaac)']),

@@ -1389,8 +1389,18 @@
     - [16.7.5 Nuns](#s16-7-5)
     - [16.7.6 Beguines, tertiaries, Brethren of the Common Life and confraternities](#s16-7-6)
   - [16.8 Ordained or not: how each office was installed](#s16-8)
-  - [16.9 Table by order](#s16-9)
-  - [16.10 Concordance of the orders quoted](#s16-10)
+  - [16.9 Women and laymen in the church's services](#s16-9)
+    - [16.9.1 Summary of findings](#s16-9-1)
+    - [16.9.2 "Let your women keep silence": the rule](#s16-9-2)
+    - [16.9.3 Women and the offices of governance](#s16-9-3)
+    - [16.9.4 Women in the lesser offices: sexton, schoolmistress and midwife](#s16-9-4)
+    - [16.9.5 Women reading and praying aloud](#s16-9-5)
+    - [16.9.6 Women singing, and who led the singing](#s16-9-6)
+    - [16.9.7 Laymen at the Lord's Table](#s16-9-7)
+    - [16.9.8 Laymen leading prayer and reading in church](#s16-9-8)
+    - [16.9.9 Who read the prayer bids](#s16-9-9)
+  - [16.10 Table by order](#s16-10)
+  - [16.11 Concordance of the orders quoted](#s16-11)
 - [Chapter 17. Confessional Subscription](#ch17)
   - [17.1 Summary of findings](#s17-1)
     - [17.1.1 The main findings](#s17-1-1)
@@ -1589,7 +1599,8 @@ Interim. Each of the other chapters takes one subject through the whole edition:
 - the occasional and extraordinary rites, from baptism to the Litany ([Chapter 13](#ch13));
 - the furnishing of worship: art, architecture, paraments and vestments ([Chapter 14](#ch14));
 - the duties of ministers, officers and people ([Chapter 15](#ch15)), and the ministries
-  themselves: minor orders, deacons and elders ([Chapter 16](#ch16));
+  themselves: minor orders, deacons and elders, and what women and laymen might do in the
+  services ([Chapter 16](#ch16));
 - confessional subscription ([Chapter 17](#ch17)), and church fellowship between the confessional
   traditions ([Chapter 18](#ch18)).
 
@@ -36975,11 +36986,11 @@ the church", Luther), but several make the Athanasian Creed the text of Trinity 
   before the altar or by the pastor from the pulpit;
 - on Wednesdays and Fridays, in Rogation week and at the Ember seasons.
 
-Zweibrücken (1533, 1574) tied it to the Christmas, Easter and Whitsun weeks, and Schwäbisch Hall
-(1543) and Limpurg (1610) to Good Friday. Only Waldeck (1556) prints the Good Friday solemn
-prayers: eleven German biddings, each with a collect, without *Flectamus genua*, the pope or
-the pagans, and with new prayers for persecutors, false Christians and enemies. No order has a
-Litany at the Easter Vigil.
+Zweibrücken (1533) and Pfalz-Veldenz (1574) tied it to the Christmas, Easter and Whitsun weeks,
+and Schwäbisch Hall (1543) and Limpurg (1610) to Good Friday. Only Waldeck (1556) prints the
+Good Friday solemn prayers: eleven German biddings, each with a collect, without *Flectamus
+genua*, the pope or the pagans, and with new prayers for persecutors, false Christians and
+enemies. No order has a Litany at the Easter Vigil.
 
 #### <a id="s13-1-2"></a>13.1.2 Where the full liturgies are
 
@@ -42410,7 +42421,7 @@ weeks and after the Exaltation of the Cross, a Christian Litany were sung or rea
 the circumstances of the place.
 
 Two later witnesses follow:
-- **Zweibrücken 1574** made the two days after Christmas, Easter and Whitsun "common prayer
+- **Pfalz-Veldenz 1574** made the two days after Christmas, Easter and Whitsun "common prayer
   days", with preaching in the morning only and the Litany sung or read after the sermon
   (Sehling 18, p. 519; [Chapter 12](#ch12), [§12.6.2](#s12-6-2)).
 - **Danzig.** A list of feast days printed by Sehling as a draft for the order of 1567 names the
@@ -42594,7 +42605,7 @@ numbers refer to this chapter.
 | Hof 1592 | weekday *Tagmeß* (day Mass) with the Litany divided over four days ([13.22.1](#s13-22-1)) | Litany left out at a baptism ([13.22.1](#s13-22-1)) |
 | Dietrich 1545, Amberg 1550, Waldeck 1556, Mecklenburg 1542 | Litany after the epistle, during communion, after the sermon ([13.22.2](#s13-22-2)) | — |
 | Calenberg 1542, Heidelberg chapter 1546, Pomerania 1569 | Rogation Litany without the saints ([13.22.4](#s13-22-4)) | the procession; *Sancte Petre, ora pro nobis* (Saint Peter, pray for us; [13.22.4](#s13-22-4)) |
-| Zweibrücken 1533 and 1574 | Litany in the Christmas, Easter and Whitsun weeks ([13.22.5](#s13-22-5)) | — |
+| Zweibrücken 1533, Pfalz-Veldenz 1574 | Litany in the Christmas, Easter and Whitsun weeks ([13.22.5](#s13-22-5)) | — |
 | Schwäbisch Hall 1543, Limpurg 1610 | Litany on Good Friday ([13.22.6](#s13-22-6)) | — |
 | Waldeck 1556 | eleven Good Friday biddings with collects, in German ([13.22.6](#s13-22-6)) | *Flectamus genua*; the prayers for the pope and the pagans ([13.22.6](#s13-22-6)) |
 
@@ -42691,6 +42702,7 @@ through the table in [§13.23](#s13-23) and the text.
 | Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 76, 77, 96–97 | [13.3.2](#s13-3-2), [13.15.1](#s13-15-1), [13.18.1](#s13-18-1), [13.20.5](#s13-20-5), [13.22.1](#s13-22-1) |
 | Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | [13.20.1](#s13-20-1) |
 | Pfalz-Simmern | *Klosterordnung Ravengiersburg* | 1560 | 19/2, p. 658 | [13.12.9](#s13-12-9) |
+| Pfalz-Veldenz | *Kirchenordnung* | 1574 | 18, p. 519 | [13.22.5](#s13-22-5) |
 | Pfalz-Zweibrücken | *12 Artikel "Form und Maß"* | 1533 | 18, p. 52 | [13.22.5](#s13-22-5) |
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | [13.4.1](#s13-4-1), [13.8.1](#s13-8-1) |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | [13.4.1](#s13-4-1) |
@@ -45073,7 +45085,7 @@ Henneberg 1582). A dying child who knew the catechism might commune before confi
 
 **13. Before marriage: examination, not counselling** (§§[15.11.4](#s15-11-4)–[15.11.5](#s15-11-5)). From the 1560s many orders
 refused to proclaim or marry young people who did not know the catechism (Saxony 1580; Hesse
-1566, Moderate Reformed; Zweibrücken 1574), "since they are to keep house and get children and
+1566, Moderate Reformed; Pfalz-Veldenz 1574), "since they are to keep house and get children and
 servants". Some married them on a pledge, backed if need be by sureties, to attend the catechism
 afterwards (Wied 1616, Reformed). There was no counselling course. What the orders required was:
 - an interview some weeks before, on freedom to marry, parents' consent and the catechism
@@ -46124,8 +46136,8 @@ they be both single and not promised to any other; and after this, examine them 
 catechism, how far they have instruction in it. If now no defect be found in all this, the new
 married folk shall be blessed without any hindrance according to the church order.
 
-**Why the household needed it.** Zweibrücken (1574) gives the reason: the couple would have to
-teach their own children and servants. **Pfalz-Zweibrücken, *Kirchenordnung*, 1574**
+**Why the household needed it.** Pfalz-Veldenz (1574) gives the reason: the couple would have to
+teach their own children and servants. **Pfalz-Veldenz, *Kirchenordnung*, 1574**
 (Sehling 18, p. 529):
 
 <!-- doc 1011 -->
@@ -46365,7 +46377,7 @@ question, in date order. Section numbers refer to this chapter.
 | Lasseln (Transylvania), 1572; Mediasch synod, 1572 | 24 | elected deans; magistrate nourisher of churches and schools ([15.4.4](#s15-4-4), [15.10.1](#s15-10-1)) |
 | Regensburg, 1572/1588 | 13 | children of eight to ten not hurried to communion; buried like adults if they die first ([15.11.2](#s15-11-2), [15.11.6](#s15-11-6)) |
 | Oldenburg, 1573 | 7/2.1 | infants cannot examine themselves ([15.11.6](#s15-11-6)) |
-| Pfalz-Zweibrücken, 1574 | 18 | catechism before marriage, for the household's sake ([15.11.4](#s15-11-4)) |
+| Pfalz-Veldenz, 1574 | 18 | catechism before marriage, for the household's sake ([15.11.4](#s15-11-4)) |
 | Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10 | sick child communicated before confirmation ([15.11.6](#s15-11-6)) |
 | Nassau-Weilburg, 1576 | 10 | absentees counted house by house and fined; registers of confirmations ([15.3.4](#s15-3-4), [15.8.1](#s15-8-1)) |
 | Pfalz-Neuburg, 1576 | 13 | four-point examination before marriage; consistory book of candidates ([15.7.4](#s15-7-4), [15.11.4](#s15-11-4)) |
@@ -46424,7 +46436,7 @@ Orders cited only in summary can be found through the table in [§15.12](#s15-12
 | Palatinate, *Kirchenratsordnung*, 1564 (Reformed) | 14, p. 413 | 504 | [15.7.4](#s15-7-4) |
 | Palatinate, Wenzel Zuleger's report on the classical convents, [1571] (Reformed) | 14, p. 446 | 504 | [15.7.5](#s15-7-5) |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 195 | 404 | [15.11.4](#s15-11-4) |
-| Pfalz-Zweibrücken, *Kirchenordnung*, 1574 | 18, p. 529 | 1011 | [15.11.4](#s15-11-4) |
+| Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, p. 529 | 1011 | [15.11.4](#s15-11-4) |
 | Rappoltstein, Arnaud Banc's report on the doctrine of the French congregation, 1561 (Reformed) | 20/2, p. 142 | 1371 | [15.11.6](#s15-11-6) |
 | Regensburg, *Kirchenregimentsordnung*, 1572/1588 | 13, p. 510 | 452 | [15.11.6](#s15-11-6) |
 | Regensburg, *Ordnung des consistorii*, 1588 | 13, pp. 513–514 | 453 | [15.5.2](#s15-5-2) |
@@ -46445,7 +46457,7 @@ Orders cited only in summary can be found through the table in [§15.12](#s15-12
 
 This chapter covers what became of the medieval grades and liturgical offices below the priesthood
 in the evangelical church orders printed in Emil Sehling's *Die evangelischen Kirchenordnungen
-des XVI. Jahrhunderts* (The Evangelical Church Orders of the Sixteenth Century). It also covers the new offices that took their place. It asks nine
+des XVI. Jahrhunderts* (The Evangelical Church Orders of the Sixteenth Century). It also covers the new offices that took their place. It asks ten
 questions:
 
 - Were any of the **minor orders** (porter, lector, exorcist, acolyte) or the **subdiaconate**
@@ -46464,13 +46476,18 @@ questions:
 - What became of the **sacristan**, of lay **care of the altar**, of **deaconesses**, and of
   **monks**, **nuns**, **tertiaries** and other members of religious communities? How were they
   received or installed?
+- What might **women**, and **laymen** who were not ministers, do in the church's services?
+  Could women be elders, churchwardens or lay deacons, hold a lesser office, read or lead the
+  prayers, be cantors, or sing in or direct the choir? Could laymen give the bread and the cup,
+  lead the prayers, or read the bids?
 
 The findings are summarised in [§16.1](#s16-1), and [§16.2](#s16-2) explains the method and the words that most often
 mislead. [§16.3](#s16-3) deals with the minor orders and the subdiaconate, and [§16.4](#s16-4) with the liturgical roles.
 [§16.5](#s16-5) covers the diaconate in its three forms and the question of divine or human right. [§16.6](#s16-6) covers
 elders. [§16.7](#s16-7) covers sacristans, altar care, deaconesses, monks, nuns, tertiaries and
-confraternities. [§16.8](#s16-8) gathers how each office was installed, and whether it was ordained. [§16.9](#s16-9) is a
-table by order, and [§16.10](#s16-10) a concordance of every order quoted.
+confraternities. [§16.8](#s16-8) gathers how each office was installed, and whether it was ordained. [§16.9](#s16-9) asks what
+women and laymen might do in the church's services. [§16.10](#s16-10) is a table by order, and [§16.11](#s16-11) a
+concordance of every order quoted.
 
 **Related chapters.** Several subjects are treated more fully elsewhere and are only cited here:
 - the installation rites, with the full forms:
@@ -46633,6 +46650,31 @@ right* above the people and below the presbyter in the Roman sense. The position
   of the Brethren and Sisters of the Common Life among "factions and sects". No order kept or
   founded a third order ([§16.7.6](#s16-7-6)).
 
+**10. Women in the church's services** ([§16.9](#s16-9)).
+- **Kept from the ministry and its parts.** The orders read 1 Corinthians 14:34 and 1 Timothy
+  2:12 broadly. Hesse in 1566 (Moderate Reformed) and the orders that copied it forbade women "all
+  the actions of the church's service". Homberg 1526 (Moderate Reformed) let them attend the
+  congregation's assembly, but not speak in it.
+- **No elder, churchwarden, deacon of the poor or sexton was a woman**, the Bohemian women
+  elders (*presbyterae*) excepted ([§16.6.4](#s16-6-4)). The one parish office open to women was that of the girls'
+  schoolmistress. The midwife was sworn because she might have to baptize.
+- **In the convents** the sisters read the lessons, led the prayers by weekly turns, and had their
+  own precentress (*cantrix*), sacristaness and almoner.
+- **Singing.** Women sang with the congregation, and were told to. In some towns the schoolgirls
+  sang as a choir of their own, led by men (Naumburg 1537/38, Hof 1592); Zwickau abolished one in
+  1529.
+
+**11. Laymen in the church's services** ([§16.9](#s16-9)).
+- **The bread and the cup** were the ministers'. Hesse (1566, Moderate Reformed) let a senior, a
+  keeper of the chest, a schoolmaster or the sexton help with the cup when there were many
+  communicants. Nassau-Weilburg forbade lay ministers of the cup in 1617. Micron's Reformed
+  communicants passed the bread and the cups to one another along the table.
+- **Prayer.** Schoolboys, schoolmasters and sextons sang the Litany. In filial churches the
+  sexton read the epistle, the gospel and the catechism, and he might close with a collect in the
+  pastor's absence. But he might not preach unless examined and ordained (Electoral Saxony 1557).
+- **The bids** of the general prayer were read by the pastor, the deacon or the chaplain.
+  Laypeople asked for prayers, by word or by slips laid on the pulpit.
+
 ---
 
 ### <a id="s16-2"></a>16.2 Scope, sources and the words that mislead
@@ -46654,7 +46696,11 @@ question, in German, Low German and Latin spellings. The searches covered:
 - for [§16.7](#s16-7): *Sakristei* (sacristy), *Sigrist* (sexton), *Mesner* (sexton), *Küster* (sexton), *Custos*, *Glöckner* (bell-ringer); *Oblaten* (wafers),
   *Altartuch* (altar cloth), *Bruderschaft* (confraternity), *Kaland* (Kaland brotherhood); *diaconissa* (deaconess), *Seelfrau* (soul-woman), *Seelnonne* (soul-nun),
   *Krankenwärterin* (sick-nurse); *Kloster* (monastery), *Novize* (novice), *Profess* (profession), *Gelübde* (vow), *einkleiden* (clothe), *Kappe* (cowl), *Weihel* (veil),
-  *Domina* (prioress), *Äbtissin* (abbess), *Priorin* (prioress); *Begine* (beguine), *Nollhart* (Lollard), *Fraterhaus* (brethren-house), *Terziarin* (tertiary).
+  *Domina* (prioress), *Äbtissin* (abbess), *Priorin* (prioress); *Begine* (beguine), *Nollhart* (Lollard), *Fraterhaus* (brethren-house), *Terziarin* (tertiary);
+- for [§16.9](#s16-9): the words for women, maidens, girls, widows and matrons, with *mulier*, *puella* and
+  *matrona*; the feminine titles of office (schoolmistress, sextoness, *custorin*, *cantrix*,
+  precentress, reader); and, for laymen, the giving of the cup, the Litany, the reader, the
+  intercession and the slip laid on the pulpit.
 
 The registers of the edition were used to find further passages. The passages were then read in
 context.
@@ -46688,8 +46734,9 @@ Two consequences follow:
 
 **Not covered.** The following are outside the scope of this chapter, except where they explain an
 office:
-- Schoolmasters, cantors and organists. (Hamburg 1529 lists the sexton and the organists among
-  the church servants, and the **midwives** "may well be called church servants" too.)
+- Schoolmasters, cantors and organists, except where they led the prayers or the singing
+  ([§16.9](#s16-9)). (Hamburg 1529 lists the sexton and the organists among the church servants, and the
+  **midwives** "may well be called church servants" too.)
 - Visitors and superintendents.
 - Consistories.
 
@@ -48467,7 +48514,816 @@ language of ordination except Veldenz, which uses it of the apostles.
 
 ---
 
-### <a id="s16-9"></a>16.9 Table by order
+### <a id="s16-9"></a>16.9 Women and laymen in the church's services
+
+This section asks what women, and laymen who were not ministers, might do in the worship and
+offices of the church.
+- **Women.** Could they be elders where there were elders, or churchwardens? Could they be lay
+  deacons of the poor, as distinct from deaconesses ([§16.7.3](#s16-7-3))? Which of the minor or lesser
+  offices could they hold? Could they read in church, lead the prayers or bid them? Could they be
+  cantors, sing in the choir or direct it?
+- **Laymen.** Could they give the bread and the cup? Could they lead the prayers in church? Who
+  read the bids of the prayers?
+
+The answers come from the parish orders and from the orders for the evangelical women's convents.
+The convents gave women a liturgical part that the parish orders did not. Several related matters
+are treated elsewhere and only cited here:
+- emergency baptism by midwives and other women: [§13.3.7](#s13-3-7); the appointment of
+  midwives: [§13.12.5](#s13-12-5);
+- the hours in the women's convents: [§10.4.4](#s10-4-4), [§10.8.2](#s10-8-2); the convent offices of Keppel:
+  [§16.7.5](#s16-7-5);
+- girls' schools and schoolmistresses: [§15.9.3](#s15-9-3); a girl leading the prayers in the Torgau girls'
+  school: [§10.11.7](#s10-11-7);
+- the girls' choirs at Naumburg and Hof: [§9.3.3](#s9-3-3), [§2.6.1](#s2-6-1), [§8.16.10](#s8-16-10), [§10.9.4](#s10-9-4);
+- the Litany and its singers: [§10.11.3](#s10-11-3), [§13.22](#s13-22);
+- the communion cloth and who held it: [§14.6.3](#s14-6-3);
+- who said the general prayer: [§6.1.2](#s6-1-2).
+
+#### <a id="s16-9-1"></a>16.9.1 Summary of findings
+
+**Women**
+
+1. **The rule.** The orders read Paul's "let your women keep silence in the churches"
+   (1 Corinthians 14:34; 1 Timothy 2:12) broadly:
+   - Hesse in 1566 (Moderate Reformed) held that Paul forbade women not only to teach and preach
+     but "all the actions of the church's service", the sacraments included. The Hessian *Agende*
+     of 1574 (Philippist), Pfalz-Veldenz 1574 and Nassau-Weilburg 1576 repeat it.
+   - Homberg 1526 (Moderate Reformed) let women attend the congregation's assembly, but "the men
+     alone shall decide".
+   - Württemberg in 1556 gave the rule as the reason why the women's convents, unlike the men's,
+     could not be made schools for the church ([§16.9.2](#s16-9-2)).
+2. **Elders: no.** The orders that say whom to choose as elders, censors or seniors ask for
+   "honourable men". Where the congregation votes, the men vote. The one exception is the women
+   elders (*presbyterae*) of the Bohemian Brethren (Hussite), chosen by the women for the women
+   ([§16.6.4](#s16-6-4)). Women governed women only in the convents ([§16.9.3](#s16-9-3)).
+3. **Churchwardens: no.** The churchwardens and keepers of the chest are "god-fearing men". The
+   only woman with a warden's title is the "church-mistress" of the convent of Keppel (1570).
+4. **Lay deacons: no.** The deacons of the poor were men. The nearest offices for women were:
+   - the four "honourable widows and godly matrons" of the Emden hospital (1594, Reformed);
+   - the convent's almoner (*diaconissa*) at Keppel;
+   - the sick-women ([§16.7.3](#s16-7-3));
+   - the matrons who helped the Bohemian preacher examine the girls.
+5. **The lesser offices.**
+   - No minor order survived for anyone ([§16.3](#s16-3)).
+   - The sexton's work was kept from women. Heilbronn (1543) forbade them the font, and Hoya (1581)
+     the church clock. Only the convents had a sacristaness: at Keppel (*custorin*) and at
+     Fischbeck (*Küsterin*).
+   - The one parish office open to women was that of **schoolmistress** of the girls' school. She
+     was appointed by the council or the visitors and paid by the council, the chest or the
+     parents. She was bound to the church order, and visited for her conduct "in the church and
+     school" together with the sextons and schoolmasters (Electoral Saxony 1577)
+     ([§16.9.4](#s16-9-4)).
+6. **Reading: not in the parish service, but in the convent choir.**
+   - No parish order gives a woman a lesson to read.
+   - In the convents the sisters read the lessons, chapters and collects themselves
+     (Pfalz-Neuburg 1543, Württemberg 1556, Brunswick-Wolfenbüttel 1569, Mecklenburg 1572,
+     Obernkirchen 1603).
+   - Girls spoke in church as catechumens. In Honterus's Transylvanian order (1543) the
+     schoolgirls put the catechism questions to one another "for the instruction of the hearers"
+     ([§16.9.5](#s16-9-5)).
+7. **Leading prayers: in the convents.** There the *domina*, and after her each sister for a week,
+   led the Lord's Prayer, the versicles and the prayers (Mecklenburg 1572; Brunswick-Wolfenbüttel
+   1569). In the parish church no woman led the prayers.
+8. **Bidding prayers: no.** The bids were the minister's. Women asked for the church's prayer, in
+   childbirth and in sickness, and the minister announced it ([§16.9.9](#s16-9-9)).
+9. **Cantors: only in the convents.** No parish order has a woman cantor. In the convents the
+   *cantrix* or precentress began the antiphons and psalms and "ordered the singing in the choir"
+   (Soest 1543; Keppel 1570) ([§16.9.6](#s16-9-6)).
+10. **The choir.**
+    - Women sang with the congregation, and were told to. Hoya (1581) commanded the women, maidens
+      and maids who kept silent in church to "open their mouth" and sing.
+    - In some towns the schoolgirls sang as a choir of their own, in alternation with the boys
+      (Naumburg 1537/38, Hof 1592), or sang the whole German hymn (Dresden 1574).
+    - At Schmalkalden (1555) they helped to sing the Litany, and Nördlingen (1555) hoped to train
+      such a choir. Zwickau abolished its maidens' choir in 1529.
+    - In the convents the sisters were the choir.
+11. **Directing the choir.** In the parish church men led the girls' singing: the girls'
+    schoolmaster, or at Hof the superintendent or the deacon of the week. Only the convent
+    *cantrix* directed a choir as a woman.
+
+**Laymen**
+
+12. **The bread and the cup: the ministers'.**
+    - The Lutheran orders give the bread and the cup to the pastor and his ordained deacon.
+    - Hesse (1566, Moderate Reformed) let a senior, a keeper of the chest, a schoolmaster who
+      studied theology, or the sexton help with the cup when the communicants were many, but "not
+      a person of a worldly office".
+    - Nassau-Weilburg in 1617 forbade laymen to serve the cup any longer.
+    - In Micron's Reformed order the communicants passed the dishes of bread and the cups to one
+      another along the table.
+    - Laymen held the communion cloth: boys, honest men or the churchwardens ([§16.9.7](#s16-9-7)).
+13. **Leading prayer: yes, in set forms, but not preaching.**
+    - Schoolboys, the schoolmaster or the sexton sang the Litany (Regensburg 1542,
+      Brunswick-Wolfenbüttel 1543, Steuerwald and Peine 1561).
+    - In filial villages the sexton read the Sunday epistle and gospel, sang the hymns and read the
+      catechism (Electoral Saxony 1557).
+    - He closed with the collect when the preacher was absent (Kolberg 1586), and the schoolmaster
+      held the daily prayer (Homburg 1605, Reformed).
+    - But "no bell-ringer who is not examined and ordained" might preach (1557).
+    - In Micron's London church, elders, deacons and "other able men" might speak in the "prophecy"
+      ([§16.9.8](#s16-9-8)).
+14. **The bids: the minister's.**
+    - The pastor, deacon or chaplain read the exhortation to prayer and the bids, usually from the
+      pulpit (Nördlingen 1555, Prussia 1568, Aschersleben 1575; [§6.1.2](#s6-1-2)).
+    - The petitions of the Litany were the exception: boys or the sexton sang them.
+    - Laypeople asked for prayers, by word or by a slip laid on the pulpit, and the minister read
+      them out. Stendal (1578) had the council's notices read by the clergy, and kept "the town
+      servants off the pulpit" ([§16.9.9](#s16-9-9)).
+
+**Who could do what**
+
+| Office or act | Women in the parish | Women in the convents | Laymen |
+|---|---|---|---|
+| Elder, censor, senior | No; "honourable men" only (the Bohemian women elders excepted) | The *domina*, prioress and council-mothers govern the house | Yes, where there were elders ([§16.6](#s16-6)) |
+| Churchwarden, keeper of the chest | No | Church-mistress (Keppel 1570) | Yes; "god-fearing men" |
+| Deacon of the poor | No; matrons in the Emden hospital (1594, Reformed) | Almoner (*diaconissa*, Keppel 1570) | Yes ([§16.5.2](#s16-5-2)–[16.5.3](#s16-5-3)) |
+| Sexton, sacristan | No: not at the font (Heilbronn 1543), not the clock (Hoya 1581) | Sacristaness (Keppel; Fischbeck) | Yes |
+| Schoolmistress | Yes; appointed, paid and visited | Yes; chosen from the sisters (Soest 1543) | — (the schoolmaster) |
+| Midwife | Yes; sworn, and may baptize in need ([§13.12.5](#s13-12-5)) | — | — |
+| Reading the lessons | No | Yes | The sexton in filial churches; schoolboys at Vespers and the catechism |
+| Leading the prayers | No (in the girls' school only, [§10.11.7](#s10-11-7)) | Yes; the *domina* and each sister by the week | The Litany, collects, daily prayer (sexton, schoolmaster, boys) |
+| Bidding the prayers | No; women asked for the church's prayer | — | Only the Litany's petitions; requests handed to the minister |
+| Cantor, precentor | No | *Cantrix*, precentress | Cantor and schoolmaster ([§15.9](#s15-9)) |
+| Singing in the choir | With the congregation; girls' choirs in some towns | Yes; the whole convent | Yes; the school choir |
+| Directing a choir | No; men led the girls | The *cantrix* | Cantor, schoolmaster |
+| Giving the bread and the cup | No | No | No; help with the cup in Hesse 1566, ended in Nassau-Weilburg 1617; passed along the table (Micron) |
+| Preaching | No | No; a preacher was appointed | No, unless examined and ordained |
+
+#### <a id="s16-9-2"></a>16.9.2 "Let your women keep silence": the rule
+
+**The Hessian reading of Paul.** The orders seldom state the rule, because they seldom imagine
+the case. Where they do, it is in the section on emergency baptism, the one sacramental act that
+might fall to a woman. Hesse in 1566 (Moderate Reformed) begins that section with 1 Corinthians
+14:34. Paul "will not that a woman speak in the congregation", and so he forbids women "without
+doubt all the actions of the church's service, and not only the teaching and preaching, but also
+the administration of the holy sacraments" (Sehling 8, p. 282). The Hessian *Agende* of 1574
+(Philippist) recast the passage and added a reason: these acts had always belonged to men, in
+both Testaments. **Hesse, *Agende*, 1574** (Philippist; Sehling 8, pp. 428–429):
+
+<!-- doc 2272 -->
+
+The apostle Paul saith [1 Cor. 14:34] that the women shall keep silence in the congregation;
+whereby he will have taken from them and forbidden not only the public teaching and preaching in
+the common Christian assemblies, but also the reaching of the sacrament, and the other actions and
+dealings belonging to the common service of the church, for which men have at all times been
+appointed, in both the Old and the New Testament. […] Therefore the midwives and other women shall
+be most earnestly forbidden, and held thereto, that where the children happen to be weak they
+undertake not to baptize, but send for the minister, be it by day or by night.
+
+**Copied in Lutheran orders.** The same passage stands, with small changes, in the Lutheran
+orders of Pfalz-Veldenz (1574), Nassau-Weilburg (1576) and the Corvey village of Bruchhausen
+(1603) (Sehling 18, p. 473; 10, p. 249; 21, p. 253). Pfalz-Veldenz first gives the Latin of
+1 Corinthians 14:34 and 1 Timothy 2:12. It then forbids women "all the *Lectiones* of the
+church's service", that is, the lessons, where Hesse has *actiones*, the actions. So its text
+forbids women the readings in so many words. Hesse 1566 and Pfalz-Veldenz both cite:
+- Tertullian's *De virginibus velandis* (On the veiling of virgins);
+- Epiphanius on the Quintillians and the Collyridians, who "allowed women to perform the church's
+  offices";
+- the Fourth Council of Carthage, which forbade a woman to baptize.
+
+**The rule did not end emergency baptism.** Neither order went as far as the Reformed Palatinate,
+which abolished emergency baptism by laypeople ([§13.3.7](#s13-3-7)). If the minister could not be had and
+"the highest need" was at hand, those present were to call upon God, pray the Lord's Prayer and
+baptize. The child was then "rightly and sufficiently baptized" (Hesse 1566, Sehling 8, p. 283;
+*Agende* 1574, p. 429). Those present at a birth were the midwife and the women. Sehling's editors
+note the tension in the 1566 order: its liturgical part presupposes emergency baptism by midwives,
+while its historical part denies it (Sehling 8, p. 282, note). The Lutheran orders kept the
+midwife's baptism without such reserve ([§13.3.7](#s13-3-7), [§18.4.1](#s18-4-1)).
+
+**Homberg 1526: present, but silent.** The Homberg synod (Moderate Reformed) made the assembly of
+the faithful the judge of the church's business. Women might attend it, but not speak. **Hesse,
+*Homberger Kirchenordnung*, 1526** (Moderate Reformed; Sehling 8, p. 52):
+
+<!-- doc 2249 -->
+
+We ordain therefore that in every parish, after the word of the Lord hath been preached therein
+for some while, on every Lord's day, either straight after the Lord's Supper or after dinner,
+there be an assembly of the faithful in a fit place; to which as many of the men as favour the
+cause of Christ, and are held in the number of the saints, shall come together, that with the
+bishop they may determine out of the word of the Lord all things that fall to be dealt with in
+the church. […] At this the faithful women may indeed be present; but it is not permitted them to
+speak in the churches, 1 Cor. 14 and 1 Tim. 2. Therefore the men alone shall determine.
+
+**Württemberg 1556: no schools in the women's convents.** Duke Christoph turned the men's
+monasteries into schools for the ministry ([§16.7.4](#s16-7-4)), but the women's houses could not follow.
+**Württemberg, *Ordnung für Frauenklöster*, 3 February 1556** (Sehling 16, p. 304):
+
+<!-- doc 677 -->
+
+Forasmuch as the women's convents, as they have hitherto been founded and used, have not been
+profitable to the common good of the church, nor can schools be set up therein for the
+understanding of the same (for according to the doctrine of Paul the women shall keep silence in
+the congregation, and it shall not be permitted them to speak, but to be in subjection)
+
+**A model of church order.** Veit Dietrich's *Agendbüchlein* (agenda booklet; Nürnberg 1545), copied by Hohenlohe
+in 1553, gives Paul's rule as its example of a lawful church ordinance: "Paul commandeth that
+there be an order in the church with the reading and preaching, and forbiddeth the women that they
+should preach" (Sehling 11, p. 549; 15, p. 57). Hesse in 1566 sets it beside the rule of
+1 Corinthians 11 on covered and uncovered heads (Sehling 8, p. 180).
+
+#### <a id="s16-9-3"></a>16.9.3 Women and the offices of governance
+
+**Elders: men.** The orders that say whom to choose as elders, censors or seniors ask for men:
+- Rothenburg (1558) recalls that in the first church "certain elders, god-fearing, wise and
+  valiant men" stood beside the ministers (Sehling 11, p. 610).
+- Pfalz-Veldenz (1574) has six or so "honourable men" chosen in each parish to watch over "the
+  common people, men and women" (below).
+- The Wild- and Rhinegraviate (1603) has "seven or fewer honourable men" (Sehling 19/2, p. 600).
+- Micron's London order (Reformed) admits to the "prophecy" only "god-fearing and able men" from
+  the elders, deacons and congregation ([§16.9.8](#s16-9-8)).
+
+Where the congregation votes, the men vote: at Homberg (1526, above), and among the Bohemian
+Brethren, where "all the men" elect the presbyters ([§16.6.4](#s16-6-4)). **Pfalz-Veldenz, *Kirchenordnung*,
+1574** (Sehling 18, pp. 572–573):
+
+<!-- doc 1011 -->
+
+In every parish six honourable men, more or fewer according to the occasion of the place and of
+the people, of good report and conversation, shall be chosen out of the congregation, appointed,
+and received with troth given by the hand in the stead of an oath; and charge shall be given them
+to have a diligent, faithful oversight of the discipline and honesty of the common people, men and
+women, young and old, without any respect of persons.
+
+**Women over women: the Bohemian matrons and the convents.** The one parish order that gives
+women a part in oversight is that of the Bohemian Brethren. Besides the women elders
+(*presbyterae*, [§16.6.4](#s16-6-4)), matrons helped the preacher to examine the older girls on the sermon. **Bohemian
+Brethren, *Ordo ecclesiasticus*, 1576** (Hussite; Sehling 4, p. 282):
+
+<!-- doc 1846 -->
+
+When the midday and the afternoon sermon is ended, the young men and the older girls remain, and
+are examined by the preacher (one of the presbyters helping him with the one, but matrons with the
+other), how attentive they have shown themselves that day in hearing the word of God, and how much
+each hath observed.
+
+In the convents women governed women: the *domina* or prioress, chosen by the sisters, and at
+Strasbourg six "council-mothers" beside the prioress ([§16.7.5](#s16-7-5)). Even there the word and the
+sacrament came from outside. At Nimbschen and Remse (1533) no one but "their appointed preacher"
+was to preach to the maidens or hear their confession (Sehling 1, pp. 619, 652). At Salzwedel
+(1540) the chaplain was to preach to them on Sundays and Wednesdays, hear their confession, and
+give them the sacrament "as often as he is asked" (Sehling 3, p. 272).
+
+**Churchwardens: men.** The wardens of the church's goods and the keepers of the chest were men:
+- Lippe (1571) wants "god-fearing, honourable men, understanding and experienced in writing and
+  reading" (Sehling 21, p. 449).
+- Pomerania (1569) wants "god-fearing, understanding, upright men" as deacons of the chest
+  (Sehling 4, p. 409).
+
+The Transylvanian Saxons (1587) put it in one sentence. **Transylvania, *Gemeinsame
+Landesordnung*, 8 July 1587** (Sehling 24, p. 463):
+
+<!-- doc 1713 -->
+
+that every year two upright men, well affected toward God and the holy office of preaching, shall
+be chosen out of the elders of the congregation to be church-fathers, to whom the goods of the
+church shall be handed over
+
+The only woman with a warden's title is the "church-mistress" (*kirchenmeisterin*), among the
+temporal offices of the convent of Keppel (1570; [§16.7.5](#s16-7-5)).
+
+**Deacons of the poor: men, and matrons for the hospital.** The lay deacons of the poor
+(§[16.5.2](#s16-5-2)–[16.5.3](#s16-5-3)) were men in every order. The Reformed church of Emden set women beside them
+in one place, the hospital (*Gasthaus*). **Emden, *Summarische beschryvinge der ordnung in der
+christlicken kercken to Embden*, 1594** (Reformed; Sehling 7/1, p. 505):
+
+<!-- doc 2113 -->
+
+Besides that, four honourable widows and godly matrons are chosen, which take diligent heed to the
+beds and linen, the flax and what belongeth thereto, and set the women and maids to work; and for
+that purpose meet three times weekly in the hospital in their appointed place, and ask for what
+they need thereto; and once yearly visit the citizens from house to house for linen and other
+necessaries of the hospital, and especially of the orphans.
+
+They were chosen, but the order does not call them deacons, and they kept house rather than gave
+alms. The almoner of Keppel was called *diaconissa* (deaconess), but she served her sisters
+([§16.7.3](#s16-7-3)).
+
+#### <a id="s16-9-4"></a>16.9.4 Women in the lesser offices: sexton, schoolmistress and midwife
+
+**Not the sexton's office.** No parish order lets a woman do the sexton's work. Heilbronn in 1543
+kept the font and the towel for the sexton, "and not women or maids" ([§16.7.1](#s16-7-1)). Hoya in 1581
+forbade the sexton to leave the church clock to his household. **Hoya, *Kirchenordnung*, 1581**
+(Sehling 6/2, p. 1142):
+
+<!-- doc 2065 -->
+
+Where there is a clock which is set by the sexton, the sexton shall see to it that he govern the
+works himself, evening and morning, and keep his wife and children from it; if not, and it be
+spoiled thereby and go wrong, he shall answer for it.
+
+The sexton's wife worked beside him in another way. Lauenburg (1585) let the sextons keep German
+girls' schools in the small towns, with their wives teaching the needlework. **Lauenburg,
+*Kirchenordnung*, 1585** (Sehling 5, p. 422):
+
+<!-- doc 1953 -->
+
+But boys and maidens they may well teach in the villages, for the people's reasonable reward, to
+read and write and to pray the catechism. And in the small towns they shall be free to keep German
+schools for maidens, and, over and above the reading, writing and teaching of the catechism, to
+instruct them also in sewing, embroidering, weaving and the like through their wives.
+
+In the convents the sacristan was a sister. Keppel (1570) had its *custorin* ([§16.7.5](#s16-7-5)). At the
+Stift of Fischbeck, Agnese von Mandelsloh was *Küsterin* from 1580 to 1582, and abbess from 1587
+(Sehling 7/2.2, p. 81, editors' note).
+
+**The schoolmistress.** The one parish office open to women was that of the girls' schoolmistress.
+She was not a church servant in the full sense. But she was chosen with the superintendent's or
+the pastor's knowledge, paid, bound to an order, and visited. At Schmalkalden in 1555 the visitors
+allowed a matron or an old man, and counted the Litany among the things the girls were to learn.
+**Schmalkalden, *Ordnung der Visitatoren*, 1555** (Sehling 2, p. 348):
+
+<!-- doc 1249 -->
+
+Seventhly, an honourable council shall appoint a Christian and God-fearing matron, or an honest
+old man, to begin a school for maidens, with the foreknowledge of the superintendent and pastor;
+to instruct the maidens for a reasonable wage in the catechism, spiritual songs and psalms, to
+teach them to write and read, [and] to help to sing the Litany in the church.
+
+At Cottbus in 1579 the visitors confirmed a widow in the office for life, and bound her to the
+general superintendent's printed order. **Cottbus, *Visitations-Abschied*, 1579** (Sehling 3,
+p. 201):
+
+<!-- doc 1761 -->
+
+The maidens' school is provided for by Mistress Anna, widow of Master Georg Lehmann. So the lords
+visitors will have her made schoolmistress for good; and the schoolmistress shall henceforth keep
+to the order which Dr Andreas Musculus, general superintendent, hath caused to be put in print, and
+bring up the maidens committed to her in all discipline and honesty
+
+The Saxon visitors of 1577 asked after her together with the church's other servants. **Electoral
+Saxony, *Visitations-Instruktion*, 1577** (Sehling 1, p. 350):
+
+<!-- doc 40 -->
+
+5. How the German schoolmasters, also the maidens' schoolmistress in the towns, and the sextons in
+the villages, each conduct themselves in their office in the church and school.
+
+The same office appears in other forms:
+- The Reformed Palatinate (1595) had "every schoolwoman" bring her girls to the catechism sermon
+  ([§15.9.3](#s15-9-3)).
+- Lauenburg (1585) wanted "honourable, unsuspected, Christian matrons" as schoolmistresses
+  (Sehling 5, p. 446).
+- At Stendal (1540) the girls' school was to be kept by "a woman, or one or more of the convent
+  maidens of St Anne" (Sehling 3, p. 310).
+- In the convents the sisters chose a schoolmistress from among themselves (Soest 1543,
+  Sehling 22, p. 468), or a matron or maiden was engaged (Mecklenburg 1572, Sehling 5, p. 260).
+
+**The midwife.** The midwife was the other woman whom the church examined and swore, because she
+might have to baptize ([§13.12.5](#s13-12-5)). Bugenhagen's Hamburg order of 1529 says that the midwives
+"may well be called church servants" ([§16.2](#s16-2)).
+
+#### <a id="s16-9-5"></a>16.9.5 Women reading and praying aloud
+
+**In the parish church: not in the service.** Under the Hessian rule ([§16.9.2](#s16-9-2)) no woman read
+or prayed aloud in the congregation, and no parish order gives her a reading. Girls spoke in
+church as catechumens: they said the parts of the catechism and the prayers at the catechism
+examinations ([§10.11](#s10-11)). At Regensburg the boys' and the girls' schools sang from the catechism
+together, but two boys did the questions and answers. **Regensburg, *Kirchenordnung*, 1567(?)**
+(Sehling 13, p. 464):
+
+<!-- doc 450 -->
+
+First the schools, both boys and girls, sing something from the catechism, according to the part
+of it that is chiefly handled that day, as the Ten Commandments, or the Creed, or the Lord's
+Prayer, of baptism or of the Supper. Thereafter the preacher readeth from the pulpit a little
+piece of the methodical summary set forth, as it standeth hereafter. Upon that, two boys stand on
+stools prepared for this over against one another, of whom the one asketh and the other
+answereth
+
+In Honterus's order for Kronstadt the schoolgirls took the part that fell to boys elsewhere.
+After Vespers they sang in the church, or put the catechism questions to one another before the
+congregation. **Transylvania, Honterus, *Reformationsbüchlein*, 1543** (Sehling 24, p. 184;
+Latin):
+
+<!-- doc 1666 -->
+
+When all is done, the little schoolgirls either sing some little songs in the church, or put
+questions to one another on the chief parts of the catechism and explain them for the
+instruction of the hearers. Sometimes also one of the ministers pronounceth the rudiments of the
+catechism to the youth.
+
+The German version has "the taught maidens" (*dye gelerte meydleyn*) do the same (Sehling 24,
+p. 196). In the Torgau girls' school (1575) a girl led the prayers, but that was in school, not
+in church ([§10.11.7](#s10-11-7)).
+
+**In the convent choir: the sisters read and pray.** In the evangelical convents the women kept
+their own office in the choir ([§10.4.4](#s10-4-4)), and the orders gave its readings and prayers to the
+sisters. Pfalz-Neuburg (1543) has the women of the convents "read their lessons, chapters and
+collects in German" ([§10.8.2](#s10-8-2)). In Württemberg (1556) one sister reads a chapter aloud, so that
+"the reader and the hearers" may profit. Both words are feminine. **Württemberg, *Ordnung für
+Frauenklöster*, 1556** (Sehling 16, p. 307), on the morning exercise:
+
+<!-- doc 677 -->
+
+There they shall first, for the entrance, sing together the Lord's Prayer or a German psalm out
+of the common psalm-book; and thereupon only two or three psalms from the beginning of the Psalter
+in its order, on two choirs one against the other; and thereupon one of them shall read a chapter
+in the Old Testament, all with right, understandable measure and with raised, loud voice, that
+the reader and the hearers may receive profit thereof
+
+In Brunswick-Wolfenbüttel (1569) "one of the maidens" says the morning prayer "with a loud voice,
+for the others to pray with her", and then reads the chapter (Sehling 6/1, p. 260). In
+Mecklenburg (1572) the office goes round the convent by the week, beginning with the *domina*.
+**Mecklenburg, *Klosterordnung*, 1572** (Sehling 5, p. 257):
+
+<!-- doc 1926 -->
+
+so that the *domina* the first week, and thereafter one after another, each a whole week, when
+they are assembled in the choir, shall read the appointed prayers and lessons, and at the
+beginning say before the others, with a loud voice, the prayer which our Lord and Saviour Jesus
+Christ himself hath prescribed to all Christians. Thereafter the maiden singeth: Lord, open thou
+my lips. Glory be to the Father and to the Son and to the Holy Ghost. Choir: That my mouth may
+shew forth thy praise.
+
+The Schaumburg order for the Stift of Obernkirchen (1603) speaks of the sisters as administering
+their own service. **Schaumburg, *Ordnung für das Stift Obernkirchen*, 6 August 1603**
+(Sehling 7/2.2, p. 88):
+
+<!-- doc 2174 -->
+
+How the maidens shall administer and perform their holy offices and their whole service in the
+church daily, and also on Sundays and other feasts […] At Matins: 1. In the morning, when the
+maidens are assembled in their choir, they shall with one accord and with devotion sing or pray
+the *Veni Sancte Spiritus* (Come, Holy Spirit). 2. Thereafter read with a loud voice certain German psalms out of the
+Psalter of David […] 5. Hereupon a collect [shall be] sung or spoken for the preservation of the
+spiritual and temporal government
+
+Reading at table was the young sisters' task too. At Soest (1543) they read "one after the
+other" a lesson from the Old or New Testament at the midday and evening meals, appointed by the
+schoolmistress (Sehling 22, p. 468). At Spandau (1541) one of them read an article of the church
+order in the refectory ([§10.4.4](#s10-4-4)).
+
+The limit was the sermon and the sacrament. The sisters read, sang and prayed, but a man was
+appointed to preach to them and give them the sacrament ([§16.9.3](#s16-9-3)). At Kolberg (1586), whose
+maidens lived on the convent's alms, even the collect fell to a man: the convent's preacher, or
+in his absence the sexton ([§16.9.8](#s16-9-8)).
+
+#### <a id="s16-9-6"></a>16.9.6 Women singing, and who led the singing
+
+**With the congregation.** The German hymn was for everyone. At Naumburg in 1527, after the
+priest had intoned the Creed, the whole congregation took it up in German. **Naumburg,
+*Kirchen-Ordnung für die St. Wenzelskirche*, 1527** (Sehling 2, pp. 59–60):
+
+<!-- doc 1218 -->
+
+Straightway thereupon the whole church and assembly, of men, maidens and women, whoever can and
+will sing, beginneth to sing the Creed in German
+
+The later orders complain when the women do not sing. **Hoya, *Kirchenordnung*, 1581**
+(Sehling 6/2, p. 1192):
+
+<!-- doc 2065 -->
+
+Ninthly, it is found also that the women, maidens and maidservants, which elsewhere gladly sing
+worldly songs, keep silence in the church, or whisper secretly to themselves, and are ashamed to
+praise their God and Lord. Therefore we earnestly command them that they open their mouth, lift up
+their voice, and help to praise, thank and glorify God aloud; and that they see to it that they
+learn the psalms and spiritual songs of praise; and that those which can read bring their
+psalm-books with them into the church and sing out of them
+
+At Münster in the Gregoriental (1578) the schoolmasters were to lead the singing so that "not
+only the scholars, but also the common people, men and women, can sing along" (Sehling 20/2,
+p. 394). At Schweinfurt the schoolmaster resisted. **Schweinfurt, editors' introduction**
+(Sehling 11, p. 622):
+
+<!-- doc 303 -->
+
+In the rebuilding, Pastor Wolfgang Ruprecht (1556–1563) also tried to reshape the church order by
+giving the congregation a more direct part in the service. He wanted to let them sing German
+songs. But the schoolmaster complained, asserting that "it belongeth to the school, and not …
+to the old women, to sing". The council took the schoolmaster's side, and allowed only that a
+German song be sung by the congregation on the three high feasts.
+
+**Girls' choirs.** In some towns the schoolgirls sang as a choir of their own. Zwickau ended one in
+1529. **Zwickau, *Verordnung der Visitatoren*, 1529** (Sehling 1, p. 722):
+
+<!-- doc 151 -->
+
+Also the office of the Mass and Vespers may be sung in Latin on high feasts. The maidens' choir
+with its singing shall cease, for there is no need to burden them with that labour.
+
+Naumburg's St Wenzel order of 1537/38 counts four choirs "when the maidens also sing in choir"
+([§9.3.3](#s9-3-3)). When Nördlingen took over the passage in 1555, it added that its girls' choir had
+still to be founded. **Nördlingen, *Ordnung der ceremonien*, 1544, revised 1555**
+(Sehling 12, p. 320):
+
+<!-- doc 373 -->
+
+But when the maidens also sing in the choir, whom in time, if God give grace, we will train
+thereto, four choirs are held
+
+At the Dresden Kreuzkirche (1574) the girls and maidservants sang the whole German hymn before
+the midday sermon. **Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574** (Sehling 1, p. 555):
+
+<!-- doc 78 -->
+
+The midday sermon. About the eleventh hour after dinner the bell is rung for the sermon. The first
+verse of some German song is played on the organ; the girls and maidservants sing the whole German
+song, and the church singeth too, through all that hour from eleven until twelve.
+
+Hof (1592) gives the fullest picture. Its girls' choir sang one acclamation of the Kyrie
+([§2.6.1](#s2-6-1)), alternate verses of the German Magnificat ([§10.9.4](#s10-9-4)), and the German verses of the
+Latin festal songs ([§8.16.10](#s8-16-10)). The order also says who led the two choirs. **Hof, *Ordo
+ecclesiasticus*, 1592** (Sehling 11, pp. 428, 474):
+
+<!-- doc 294 -->
+
+At the evening prayers a hymn, or other godly song serving the season, is sung by two choirs, the
+one of the scholars, which the rector governeth, the other of the girls, the organist going before
+them; so that the boys sing the first verse or paragraph and the girls the second, and so on. […]
+First a Christian song […] is sung by two distinct choirs, in which the cantor with his boys
+performeth the first stanza, but the lord superintendent, or the deacon who is of the week, the
+second with the schoolgirls, and so on. When this song is ended, a scholar of the third class
+readeth a chapter out of the book of Jesus Sirach within the rails of the altar, with his face
+turned to the hearers
+
+In the Whit Monday procession "the maidens' schoolmaster beside his schoolgirls and other maidens,
+and behind them the womenfolk" followed the men, singing *Sei Lob und Ehr mit hohem Preis* (Praise and honour be with high praise) "at
+the maidens' schoolmaster's beginning" (Sehling 11, p. 463). At Aschersleben (1575) the girls of
+the maidens' school were catechized at Vespers three days a week, while the sexton sang the
+German psalm (Sehling 2, p. 480).
+
+**The convent choirs and their precentresses.** In the convents the sisters were the choir, and
+a sister led it. The order for St Walburgis at Soest (1543) makes the *cantrix* its director.
+**Soest, *Ordnung für das Kloster St. Walburgis*, 1543** (Sehling 22, p. 468):
+
+<!-- doc 1530 -->
+
+Of the singer. The *cantrix* and her assistant shall begin the antiphons, psalms, hymns, etc.,
+in the choir; and the *cantrix* shall order the singing in the choir according to the occasion of
+the season and of the maidens, to the most profitable and best. It is also our command that the
+maidens sing more German than Latin; and what they sing in Latin shall be well declared by the
+preacher, that they may know and understand what they sing. The same shall also have an oversight
+that the singing be and remain pure.
+
+At Keppel (1570) the precentress began Matins. **Nassau-Dillenburg, *Ordnung für das Kloster
+Keppel*, 1570** (Sehling 10, p. 133):
+
+<!-- doc 181 -->
+
+But at Matins the precentress shall begin in German: *Venite exultemus Domino*; thereafter they
+shall sing three psalms, and with each psalm read a short summary before or after
+
+Keppel also had a "lecturess or prioress" (*Leßmeisterin*) among its spiritual offices
+([§16.7.3](#s16-7-3)). Lüneburg (1574) sent home any girl who would not learn enough Latin to "help to sing
+and read in the choir" (Sehling 6/1, p. 622). The Neuenwalde order (1606/1614) bade the
+sisters come into the choir before the service on feast days "and help to sing" (Sehling 7/1,
+p. 41).
+
+**No woman cantor in the parish.** The parish cantor was a schoolman ([§15.9](#s15-9)). At Naumburg and
+Nördlingen even the people's choir "hath its own cantor" (Sehling 2, p. 72; 12, p. 320), a
+precentor for the congregation whom the orders do not name. No parish order names a woman as
+cantor or precentor, and at Hof the girls' choir itself was led by men.
+
+#### <a id="s16-9-7"></a>16.9.7 Laymen at the Lord's Table
+
+**The rule: the ministers give the bread and the cup.** In the Lutheran orders the pastor gives
+the bread, and the cup is given by the deacon, who is an ordained minister
+(§§[16.4.2](#s16-4-2), [16.5.1](#s16-5-1)). Laymen served around the altar:
+- the sexton prepared the altar and carried the vessels to the sick ([§16.7.1](#s16-7-1));
+- boys or honest men held the communion cloth ([§14.6.3](#s14-6-3));
+- at Thorn (1575) the sexton stood by "to help the old, weak and sick people up and down" at the
+  altar (Sehling 4, p. 237).
+
+But no Lutheran order gives a layman the bread. Hesse argued the rule from the early church, and
+then allowed exceptions for the cup. **Hesse, *Kirchenordnung*, 1566** (Moderate Reformed;
+Sehling 8, p. 312):
+
+<!-- doc 2257 -->
+
+So also the epistle of the synod of Alexandria in Athanasius, Apology 2, saith expressly: It
+belongeth to none to reach the blood of Christ but to the ordained presidents of the church alone.
+[…] But where there is no chaplain, the pastor doeth it alone, or, if the number of the
+communicants be great, with the help of one of the seniors, the schoolmaster or the sexton. And
+where this case falleth out, that no chaplain or minister appointed to the office of preaching is
+at hand who could serve in the reaching of the cup when need requireth, there shall always be used
+for it not a person of a worldly office, but a deacon, senior or keeper of the chest, a schoolmaster
+(so far as he is a student of theology and not of another faculty), or a sexton. But this
+distinction shall be kept: that those whom one will use for it be of repute in the doctrine and
+faith of all the chief articles of the Christian religion, sound especially in the article of the
+Supper, and of good report and name with the congregation.
+
+The Hessian seniors and deacons were themselves ordained with laying on of hands in 1566
+(§§[16.5.3](#s16-5-3), [16.6.2](#s16-6-2)). The schoolmaster and the sexton were not.
+
+**Nassau-Weilburg 1617: no more laymen at the cup.** The Lutheran county of Nassau-Weilburg
+ended the practice, together with the communion cloth. **Nassau-Weilburg, *Erläuterungspunkte zur
+Kirchenordnung*, 1617** (Sehling 10, p. 351):
+
+<!-- doc 199 -->
+
+4. We are informed that in some few places a little cloth is still held before the communicants
+as they go to the Lord's table; the same shall hereby be abolished […] 5. The pastors and church
+ministers shall include the communicants in the common prayer from the pulpit. 6. No layman shall
+henceforth serve the cup any more, but the church ministers themselves.
+
+**The Reformed table: passed from hand to hand.** In Micron's order for the Dutch church in London
+(Reformed), the communicants sat at the table. The minister gave the bread and the cup only to
+those nearest him, and the rest passed them on. **Micron, *Ordinancien* (1554), German edition,
+1565** (Reformed; Sehling 7/1, p. 634):
+
+<!-- doc 2116 -->
+
+Then the two dishes on both sides are pushed along in order to the end of the table, by him and the
+other brethren sitting there, that every one may take a piece out of them for himself and eat it
+in remembrance of the body of Christ, which was given into death for him. […] And then he giveth
+the two cups to the brethren which sit on both sides
+
+**Laymen at the cloth.** In Hohenlohe the answers to the questions on church ceremonies of 1596
+show the cloth held in every parish. The only difference was who held it: "at Weikersheim it is
+schoolboys; at Adolzhausen, Hollenbach and Schäftersheim the two churchwardens
+(*Heiligenpfleger*)" (Sehling 15, p. 534, editors' note).
+
+#### <a id="s16-9-8"></a>16.9.8 Laymen leading prayer and reading in church
+
+**The Litany.** The Litany was the one long prayer of the church that laymen led. Usually two to
+four boys knelt before the altar and sang the petitions, and the choir and people answered
+([§10.11.3](#s10-11-3), [§13.22.3](#s13-22-3)). In some orders the schoolmaster or the sexton led it.
+**Regensburg, *Wahrhaftiger Bericht*, 1542** (Sehling 13, p. 391):
+
+<!-- doc 432 -->
+
+that at the beginning, after the sermon and before the same office, the schoolmaster with his
+boys and helpers singeth the Litany, that is, the common prayer for all estates and needs of
+Christendom; so that certain of them begin to sing the first choir, and the other choir answereth
+thereupon.
+
+**Brunswick-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543** (Sehling 6/1, p. 58), on the
+villages:
+
+<!-- doc 1972 -->
+
+In the villages the pastors shall hold it so too, and sing with the peasants as much as is
+possible for them. They with their sextons shall take pains to teach the peasants to sing with one
+accord and to praise God. When on the holy day they have no communicants at the Mass after the
+sermon, the pastor or the sexton shall sing the German Litany after the sermon, and accustom the
+people thereto, that they can answer finely with one accord in the Litany. Thereupon followeth a
+German collect for all manner of need, and the last blessing, given to the people by the pastor.
+
+In the Hildesheim order for Steuerwald and Peine the sexton alone sings it. **Steuerwald and Peine,
+*Kirchenordnung*, 1561** (Sehling 7/2.1, p. 783):
+
+<!-- doc 2129 -->
+
+But when there are no communicants, the sexton shall sing the German Litany after the sermon;
+thereupon followeth a German collect for all manner of need, and lastly the blessing, as above.
+
+So where there was no Supper, the Litany led by a layman took the place of the Communion
+([§13.22.1](#s13-22-1)). At Aschersleben (1575) "the boys shall begin the Litany" (Sehling 2, p. 480).
+
+**The sexton's service in the filial churches.** The Saxon General Articles of 1557 gave the
+sexton a reading service where the pastor could not come, and drew the line at preaching.
+**Electoral Saxony, *General-Artikel und gemeiner Bericht*, 8 May 1557** (Sehling 1, p. 326):
+
+<!-- doc 37 -->
+
+the sextons, in those places where the parish churches have filials, shall, as often as the pastor
+preacheth early in one of the same places, meanwhile read to the people in the other places, where
+they cannot hear the pastor's sermon, the epistle and gospel of the same Sunday, and sing certain
+Christian German songs. But when the pastor of the same place preacheth in the afternoon, the
+sexton shall then read the catechism to the youth in the other place, and exercise them diligently
+therein. But no bell-ringer that is not examined and ordained shall be permitted to preach beyond
+this. But if they be examined and ordained, and called also to take charge of the office of the
+diaconate, they shall be granted and permitted not only to preach, but also the other offices of
+the church, with hearing confession, reaching the sacrament and the like.
+
+The Saxon order of 1580 repeats the rule, but asks only that the bell-ringer be "examined"
+(Sehling 1, p. 452). In the Weimar superintendency (1570) the sexton "sings Vespers at the other
+place, and reads the catechism to the people and examines them therein" (Sehling 1, p. 688).
+
+**Collects, responses and hymns.** The sexton also gave the people's responses, led their singing,
+and at need closed the office with the collect:
+- **Responses.** "The sexton answereth: And with thy spirit" (Pfalz-Zweibrücken 1557, Sehling 18,
+  p. 212; Lüneburg 1564, Sehling 6/1, p. 553; Brunswick-Wolfenbüttel 1569, Sehling 6/1, p. 155).
+- **Hymns.** The sexton sings the Lord's Prayer with the people (the villages of Brunswick,
+  Sehling 6/1, p. 473), the communion hymn (Ritschenhausen 1566, Sehling 2, p. 346), and the closing
+  *Sei Lob und Ehr* (Praise and honour be to the highest good; Steuerwald and Peine 1561, Sehling 7/2.1, p. 783).
+- **The collect.** At the maidens' convent of Kolberg the sexton read the closing collect when the
+  preacher was absent. **Kolberg, *Statuten für das Jungfrauenkloster*, 1586** (Sehling 4,
+  p. 502):
+
+<!-- doc 1873 -->
+
+The preacher of the convent also shall, where he is not hindered, be at the ceremonies, and read a
+collect at the close; or the sexton, who shall always help to begin the singing of the psalms,
+[shall] close with the collect, if the pastor be not present.
+
+**Daily prayer led by the schoolmaster.** The Reformed lordship of Homburg had the schoolmaster
+hold a daily evening prayer in church. **Homburg (Wittgenstein), *Kirchenzuchtordnung*, 1605**
+(Reformed; Sehling 22, p. 142):
+
+<!-- doc 1493 -->
+
+Further, in every parish church the bell shall be rung every day in the evening at four o'clock;
+and then the schoolmaster shall go into the church with the scholars, where a psalm shall be sung,
+and a prayer with the Lord's Prayer said for the need of the Christian church, and a chapter out of
+the Bible read publicly. And then the people who dwell in the church villages, or at the least
+one person out of every house, shall go into the church, be present at the prayer and singing, and
+diligently hear and take to heart what is read out of the Bible.
+
+In the Hohenlohe filial village of Herbsthausen the schoolmaster held the daily prayer, and the
+pastor complained in 1588 that he sang hymns other than those appointed (Sehling 15, p. 596,
+editors' note).
+
+**Boys as readers.** At Naumburg (1537/38) the cantor appointed each Saturday the boys who would
+serve the coming week as "monitors, readers, catechists, versicle-singers and intoners"
+(Sehling 2, p. 89).
+Boys read the epistle at Vespers in Rostock ([§16.3.5](#s16-3-5)), and at Hof a chapter of Sirach "within
+the rails of the altar" ([§16.9.6](#s16-9-6)).
+
+**Laymen in the "prophecy".** The Lutheran orders let no layman preach. Micron's Reformed order
+for London gave laymen a voice in the weekly "prophecy", the public examination of the week's
+doctrine, but only chosen men. **Micron, *Ordinancien* (1554), German edition, 1565** (Reformed;
+Sehling 7/1, pp. 608–609):
+
+<!-- doc 2116 -->
+
+it is not permitted to every one to bring forward questions in the prophecy; but there are
+appointed, out of the elders and deacons and also out of the rest of the congregation,
+god-fearing and able men, of whom there is testimony that they seek nothing else than the honour
+of God and the edifying of the congregation; to them alone is it allowed to bring forward
+anything in the prophecy. […] There is yet another order of the prophecy, which is used in some
+congregations: namely, that a book of Scripture be expounded in order, not by the minister of the
+word alone, but also by the elders, deacons and other able men out of the congregation appointed
+thereto; who, when a place of holy Scripture hath been read, expound it one after another, each
+according to his gift, teaching, admonishing and comforting the congregation.
+
+Sehling's editors think this second form peculiar to the Dutch church in London (Sehling 7/1,
+p. 609, note 16).
+
+#### <a id="s16-9-9"></a>16.9.9 Who read the prayer bids
+
+**The minister.** The general prayer and its bids belonged to the minister: the pastor, or the
+deacon, from the pulpit ([§6.1.2](#s6-1-2)). The orders that name the reader name a minister.
+**Nördlingen, *Ordnung der ceremonien*, 1544, revised 1555** (Sehling 12, p. 318):
+
+<!-- doc 373 -->
+
+3. Thereupon one of the deacons readeth to the people the exhortation to the common prayer,
+confession and absolution.
+
+**Prussia, *Kirchenordnung*, 1568** (Sehling 4, p. 79):
+
+<!-- doc 1833 -->
+
+after the *Benedictus* or *Te Deum laudamus* (We praise thee, O God) the whole church singeth *Wir glauben* (We believe), etc.; after
+which the chaplain readeth off the common prayer, and after the prayer is sung *Nun bitten wir den
+Heiligen Geist* (Now pray we the Holy Ghost), etc.; therewith the pastor goeth into the pulpit and preacheth the gospel of the
+day.
+
+**Aschersleben, *Kirchen agenda*, 1575** (Sehling 2, p. 480), at the weekday early service:
+
+<!-- doc 1260 -->
+
+2. Thereupon followeth the lesson of a chapter of the Old Testament with Veit Dietrich's
+summaries; the deacon who is of the week doeth it. 3. Thereupon he maketh Master Petrus
+Plateanus's exhortation to prayer; and if there are sick to be prayed for, that is done also.
+
+**The Litany: the bids sung by laymen.** The exception was the Litany, "the common prayer for all
+estates" (Regensburg 1542), whose petitions boys, the schoolmaster or the sexton sang
+([§16.9.8](#s16-9-8)). Hohenlohe's editors call Luther's German Litany "a special form of the general prayer
+of intercession", sung where there were scholars to sing it (Sehling 15, p. 611, note 57).
+
+**Requests for prayer.** Laypeople, women among them, asked for the church's prayer, and the
+minister named them in the general prayer. **Augsburg, *Kirchenordnung*, 1537** (Sehling 12,
+p. 70):
+
+<!-- doc 338 -->
+
+And in especial have mercy upon certain which at this time desire our intercession in their
+suffering, sickness and tribulation! Here he shall announce those which desire the common prayer,
+and thereupon say: Let all that befall them fatherly, faithful God, which according to thy will
+they desire to obtain of thee through our intercession!
+
+The requests came in by word or on slips laid on the pulpit. Stade allowed slips for the sick only
+in cases that could not wait, and the first it names is a woman's. **Stade, *Kirchenordnung*, about 1620/22**
+(Sehling 7/1, p. 55):
+
+<!-- doc 2079 -->
+
+4. After the epistle sermons on feast days and Sundays no slips shall be read on the pulpit, nor
+prayers made, for any sick, unless it be that a woman laboureth in the pangs of childbirth, or one
+wrestleth with death, or hath died at midday between the sermons, for which God is to be thanked.
+
+The visitation recess for Bardenfleth in Oldenburg (1609) speaks of the common prayer being
+"profaned and unhallowed with such frivolous things". The editors explain that people laid
+anonymous slips on the pulpit, asking the pastor to pray about thefts and losses, insults, and
+lawsuits against their opponents (Sehling 7/2.1, pp. 1198–1199). Even the council's notices were to be read by the clergy, not by
+its own servants. **Stendal, *Visitations-Abschied*, 1578** (Sehling 3, p. 331):
+
+<!-- doc 1787 -->
+
+It is also thought good by the visitors, for the avoiding of all manner of evil talk and
+unseemliness, that the honourable council deliver its complaints to the pastors or chaplains on a
+slip, and have them read off by them, but on the other hand keep the town servants off the pulpit.
+
+So the bids were the minister's from first to last. Women and laymen appear in them as those who
+asked, or as those prayed for: "women with child" is a standing bid of the general prayer
+([Chapter 6](#ch6)).
+
+---
+
+### <a id="s16-10"></a>16.10 Table by order
 
 The table summarises, for each order quoted, the offices below or beside the pastorate that it
 knows. The columns are:
@@ -48476,83 +49332,129 @@ knows. The columns are:
 - **Deacon**: the form of diaconate.
 - **Elder**: the form of eldership.
 - **Kept, abolished or forbidden**: what is said to be kept, abolished or forbidden.
+- **Women and laymen**: what women, and laymen who were not ministers, might do in the services
+  ([§16.9](#s16-9)).
 
-| Order | Volume | Minor, liturgical or religious | Deacon | Elder | Kept, abolished or forbidden |
-|---|---|---|---|---|---|
-| Luther, *Formula missae*, 1523 | 1 | Candles and incense free | — | — | Neither forbidden nor required |
-| Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1 | Brotherhoods of the Kaland, St Anne, shoemakers | — | — | Dissolved into the common chest |
-| Nürnberg, *Gottesdienstordnung*, 1524 | 11 | Ministrant | — | — | Kept |
-| Hadeln, *Kirchenordnung*, 1526 | 5 | — | Lay *leviten* (levites) of the poor | — | Created |
-| Homberg, 1526 (Moderate Reformed) | 8 | Deacon's and subdeacon's vestments | Deacon of the poor only | Bishop = presbyter | Mass-deacons and subdeacons rejected as unscriptural |
-| Brunswick (Bugenhagen), 1528 | 6/1 | No tonsure or deacon's coat | Lay deacons of the chest and the poor | Bishops = preachers | Created; no ministry of word |
-| Nürnberg, report for Goslar, 1528 | 7/2.2 | Levites read the lesson and exhort | — | — | Kept |
-| Hamburg, 1529 | 5 | Sexton hired by deacons | Sixteen lay deacons of the poor, plus treasury deacons | — | Created |
-| Heilbronn, 1530 | 17/1 | — | Two *Diaconi* (deacons; assistant preachers) distribute | — | Kept |
-| Heilbronn, beguine houses, 1531 | 17/1 | Beguines to visit the sick; no distinct clothing | — | — | Kept as one house |
-| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 (Moderate Reformed) | 20/1 | *Sigristen* appointed by pastors and churchwardens | — | — | Kept |
-| Memmingen, *Zuchtordnung*, 1532 (Moderate Reformed) | 12 | — | — | *Kirchenpfleger* (churchwardens), no temporal jurisdiction | Limited |
-| Herford, *Kirchenordnung*, 1532 | 21 | Brothers' and sisters' houses of the Common Life | — | — | Separate communion rejected |
-| Württemberg, *Klosterordnung*, 1535 | 16 | Monks, nuns, novices, beguines, Lollards | — | — | Admissions forbidden; novices sent home |
-| Esslingen, Franciscan convent, 1535 (Moderate Reformed) | 17/2 | Friars | — | — | Free to marry; those staying maintained |
-| Freiberg, Visitation articles, 1537 | 1 | Cross, tonsure | — | — | Abolished as human ordinances |
-| Naumburg, St Wenzel, 1537 | 2 | — | Twelve lay *subdiaconi oder Bittherren* (subdeacons or bidding-men) | — | Created |
-| Lippe, 1538 | 21 | Incense abolished; vestments and lights free | Lay *diaconi* (deacons) of the poor | — | Created |
-| Pyritz, 1539 | 4 | — | Four lay *diaconi*, no oath | — | Created |
-| Strasbourg, *Examensordnung*, 1539 (Moderate Reformed) | 20/1 | History of minor orders; exorcism a gift | Deacon apostolic; schoolmasters in the deacons' place | Two orders of presbyters | Minor orders treated as later additions |
-| Ziegenhain, *Zuchtordnung*, 1539 (Moderate Reformed) | 8 | — | — | Lay elders, confirmed with prayer | Created |
-| Pfalz-Zweibrücken, 1539 | 18 | — | — | Pastors = bishops = elders | — |
-| Brandenburg, 1540 | 3 | Ministrants in dalmatics; lights; cross and lights at funerals | — | — | Kept where clergy suffice |
-| Stendal, 1541 | 3 | Cross before procession | — | — | Kept |
-| Regensburg, *Wahrhaftiger Bericht*, 1542 | 13 | Two levites (gospeller, epistoler) | — | — | Kept |
-| Goslar, convent of Frankenberg, 1542 | 7/2.2 | Nuns | — | — | No admission to the habit; free to marry |
-| Pfalz-Neuburg, 1543 | 13 | Ministrants; deacon and subdeacon read, deacon gives cup | — | — | Kept "where there are ministrants" |
-| Heilbronn, *Kirchenordnung*, 1543 | 17/1 | Sexton, not women, at the font | — | — | Kept |
-| Regensburg, *Kirchenordnung des Noppus*, 1543 | 13 | *Seelfrauen* (soul-women) and men for the sick and dying | — | — | Kept under the word |
-| Nördlingen, *Kirchenordnung Kaspar Löners*, 1544 | 12 | Sick-women examined by the pastor | — | — | Kept |
-| *Wittenbergische Reformation*, 1545 | 1 | — | — | Bishops a grade above priests by human foresight | — |
-| Strasbourg, Marbach, 1553 | 20/1 | — | — | *Kirchenpfleger* = *seniores* | Created |
-| Regensburg, Jonas, 1553 | 13 | Rota of ordained ministers as ministrants or deacons | — | — | Kept |
-| Hohenlohe, *Kirchenordnung*, 1553 | 15 | Sexton carries chalice, corporal, surplice to the sick | — | — | Kept |
-| Regensburg, 29 April 1554 | 13 | Levites and Mass vestments | — | — | Abolished |
-| Micron, *Ordinancien*, 1554/65 (Reformed) | 7/1 | — | Deacons of the poor, hands | Ruling elders, hands; one presiding superintendent | Created |
-| Strasbourg, mandate on the women's convents, 1555 | 20/1 | Nuns; prioress and council-mothers | — | — | Admission by the council |
-| Waldeck, *Kirchenordnung*, 1556 | 9 | Sexton carries the cross before the coffin | — | — | Kept |
-| Herrenalb, *Statuten*, 1556 | 16 | Evangelical conventuals and novices | — | — | Kept as a school |
-| Erbach, *Erbacher Kirchenordnung*, 1560 | 9 | — | — | "Elders" = pastors | — |
-| Württemberg, 1559 | 16 | — | *Diacon* (deacon), *Subdiacon* (ministers) | — | Kept as benefices |
-| Rostock, *Conformitas*, 1560–76 | 5 | Boys read the epistle | — | — | — |
-| Ravengiersburg, *Klosterordnung*, 1560 | 19/2 | Novices trained for the ministry | — | — | Kept as a school; Latin chant allowed |
-| Brandenburg-Ansbach, *Kapitelsordnung*, 1565/78 | 11 | Levites | — | Two clerical *seniores* | Levites forbidden |
-| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8 | Sexton as *ianitor* (doorkeeper), *aedituus* | Deacons of the poor, ordained with hands | Ruling elders, ordained with hands; elders lay hands on ministers | Created |
-| Regensburg, *Kirchenordnung*, 1567(?) | 13 | Levites, vestments, lights | — | — | Abolished |
-| Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1 | Nuns' cowl, veil and crown | — | — | Habit to be laid aside |
-| Keppel, *Ordnung für das Kloster*, 1570 | 10 | Nuns clothed with oath; *domina*; *diaconissa* (deaconess), *custorin* | — | — | Kept, reformed |
-| Mecklenburg, *Klosterordnung*, 1572 | 5 | Nuns' habit and consecration books | — | — | Consecrated habit abolished |
-| Halle, 1573(?) | 2 | — | Pastor and two *diaconi*; *unterdiaconi* | — | Kept |
-| Pfalz-Veldenz, 1574 | 18 | — | (Acts 6) | Censors, prayer | Created |
-| Pomerania, *Statuta synodica*, 1574 | 4 | Lay *diaconi* keep the altar and its ornament | *Diaconi ecclesiae et pauperum* (Deacons of the church and of the poor), oath | Clerical *seniores* | Created |
-| Lüneburg, *Klosterordnung*, 1574 | 6/1 | Nuns' clothing under the duke; cowl, veil and crown | — | — | Plain habit |
-| Bohemian Brethren, *Ordo ecclesiasticus*, 1576 | 4 | Acolytes (ordained grade) | Clerical deacons, hands | Lay presbyters and *presbyterae*, handfast | Kept; deacon "not to be cast out" |
-| Electoral Saxony, 1580 | 1 | Bell-ringers' sale of font water and hosts forbidden | *Diaconat*, *Subdiaconat*; same ordination as pastor | — | Diaconate may be dispensed |
-| Moers, 1581 (Reformed) | 22 | — | *Diaconi oder Almusenpfleger* (deacons or almoners) | — | Created |
-| Nassau-Dillenburg, 1582 (Reformed) | 10 | *Aeditui* elected by presbytery | Deacons of the poor | Seniors; four offices | Created |
-| Frankfurt, Dutch congregation (Augsburg Confession), 1585 (Lutheran) | 9 | — | Two *diaconi* | — | Created |
-| Bentheim-Tecklenburg, 1588/1619 (Reformed) | 22 | Baptismal exorcism | *Diaconi oder Almusenpfleger* | Seniors | Exorcism abolished |
-| Sayn, *Kirchenordnung*, 1590 | 19/1 | Bell-ringer keeps chalices and ornaments | — | — | Kept |
-| Augsburg, *Vergleichsartikel*, 1591 | 12 | — | — | Six *Kirchenpfleger* | — |
-| Hof, *Ordo ecclesiasticus*, 1592 | 11 | Subdeacon reads epistle | *Subdiaconus* (minister) | — | Kept |
-| Kurpfalz, *Einführung der Senioren*, 1592 (Reformed) | 19/2 | — | — | Ruling elders, hands | Created |
-| Anhalt, sexton of Törten, 1594 (Philippist) | 2 | Sexton prepares altar and font, vests the pastor | — | — | Kept |
-| Kurpfalz, *Presbyterordnung*, about 1601 (Reformed) | 14 | — | — | Yearly elders, handfast vow and prayer; Matthew 18 | Created |
-| Solms-Laubach, 1603 | 9 | — | — | Elders, oath | Created |
-| Wild- and Rhinegraviate, 1603 | 19/2 | — | — | Censors, oath | Created |
-| Hanau-Münzenberg, 1609 (Reformed) | 10 | — | — | Elders, handfast vow and prayer; "of God" | Created |
-| Schwäbisch Hall, 1543/1615 | 17/1 | Cross before coffin, "significatively" | — | — | Allowed |
-| Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610 | 23 | Abbess and prioress elected under oath | — | — | Kept |
+| Order | Volume | Minor, liturgical or religious | Deacon | Elder | Kept, abolished or forbidden | Women and laymen |
+|---|---|---|---|---|---|---|
+| Luther, *Formula missae*, 1523 | 1 | Candles and incense free | — | — | Neither forbidden nor required | — |
+| Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1 | Brotherhoods of the Kaland, St Anne, shoemakers | — | — | Dissolved into the common chest | — |
+| Nürnberg, *Gottesdienstordnung*, 1524 | 11 | Ministrant | — | — | Kept | — |
+| Hadeln, *Kirchenordnung*, 1526 | 5 | — | Lay *leviten* (levites) of the poor | — | Created | — |
+| Homberg, 1526 (Moderate Reformed) | 8 | Deacon's and subdeacon's vestments | Deacon of the poor only | Bishop = presbyter | Mass-deacons and subdeacons rejected as unscriptural | Women may attend the assembly but not speak; "the men alone shall decide" |
+| Naumburg, St Wenzel, 1527 | 2 | — | — | — | — | Men, maidens and women sing the Creed in German |
+| Brunswick (Bugenhagen), 1528 | 6/1 | No tonsure or deacon's coat | Lay deacons of the chest and the poor | Bishops = preachers | Created; no ministry of word | — |
+| Nürnberg, report for Goslar, 1528 | 7/2.2 | Levites read the lesson and exhort | — | — | Kept | — |
+| Hamburg, 1529 | 5 | Sexton hired by deacons | Sixteen lay deacons of the poor, plus treasury deacons | — | Created | Midwives "may well be called church servants" |
+| Zwickau, visitors, 1529 | 1 | — | — | — | — | Maidens' choir abolished |
+| Heilbronn, 1530 | 17/1 | — | Two *Diaconi* (deacons; assistant preachers) distribute | — | Kept | — |
+| Heilbronn, beguine houses, 1531 | 17/1 | Beguines to visit the sick; no distinct clothing | — | — | Kept as one house | — |
+| Strasbourg, *Ordnung der Kirchenpfleger*, 1531 (Moderate Reformed) | 20/1 | *Sigristen* appointed by pastors and churchwardens | — | — | Kept | — |
+| Memmingen, *Zuchtordnung*, 1532 (Moderate Reformed) | 12 | — | — | *Kirchenpfleger* (churchwardens), no temporal jurisdiction | Limited | — |
+| Herford, *Kirchenordnung*, 1532 | 21 | Brothers' and sisters' houses of the Common Life | — | — | Separate communion rejected | — |
+| Nimbschen and Remse, 1533 | 1 | Nuns | — | — | — | Only the appointed preacher preaches and hears confession |
+| Württemberg, *Klosterordnung*, 1535 | 16 | Monks, nuns, novices, beguines, Lollards | — | — | Admissions forbidden; novices sent home | — |
+| Esslingen, Franciscan convent, 1535 (Moderate Reformed) | 17/2 | Friars | — | — | Free to marry; those staying maintained | — |
+| Freiberg, Visitation articles, 1537 | 1 | Cross, tonsure | — | — | Abolished as human ordinances | — |
+| Naumburg, St Wenzel, 1537 | 2 | — | Twelve lay *subdiaconi oder Bittherren* (subdeacons or bidding-men) | — | Created | Maidens sing as a fourth choir; boys appointed weekly as readers |
+| Augsburg, *Kirchenordnung*, 1537 | 12 | — | — | — | — | The minister names those who ask for the common prayer |
+| Lippe, 1538 | 21 | Incense abolished; vestments and lights free | Lay *diaconi* (deacons) of the poor | — | Created | — |
+| Pyritz, 1539 | 4 | — | Four lay *diaconi*, no oath | — | Created | — |
+| Strasbourg, *Examensordnung*, 1539 (Moderate Reformed) | 20/1 | History of minor orders; exorcism a gift | Deacon apostolic; schoolmasters in the deacons' place | Two orders of presbyters | Minor orders treated as later additions | — |
+| Ziegenhain, *Zuchtordnung*, 1539 (Moderate Reformed) | 8 | — | — | Lay elders, confirmed with prayer | Created | — |
+| Pfalz-Zweibrücken, 1539 | 18 | — | — | Pastors = bishops = elders | — | — |
+| Brandenburg, 1540 | 3 | Ministrants in dalmatics; lights; cross and lights at funerals | — | — | Kept where clergy suffice | — |
+| Stendal, *Verordnung*, 1540 | 3 | — | — | — | — | Girls' school kept by a woman or the convent maidens |
+| Salzwedel, convent of St Anne, 1540 | 3 | Nuns | — | — | — | Chaplain preaches, hears confession and gives the sacrament |
+| Stendal, 1541 | 3 | Cross before procession | — | — | Kept | — |
+| Regensburg, *Wahrhaftiger Bericht*, 1542 | 13 | Two levites (gospeller, epistoler) | — | — | Kept | Schoolmaster and boys sing the Litany |
+| Goslar, convent of Frankenberg, 1542 | 7/2.2 | Nuns | — | — | No admission to the habit; free to marry | — |
+| Pfalz-Neuburg, 1543 | 13 | Ministrants; deacon and subdeacon read, deacon gives cup | — | — | Kept "where there are ministrants" | Convent women read their lessons, chapters and collects in German |
+| Heilbronn, *Kirchenordnung*, 1543 | 17/1 | Sexton, not women, at the font | — | — | Kept | Women and maids barred from the font and the towel |
+| Regensburg, *Kirchenordnung des Noppus*, 1543 | 13 | *Seelfrauen* (soul-women) and men for the sick and dying | — | — | Kept under the word | — |
+| Brunswick-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1 | — | — | — | — | Pastor or sexton sings the Litany in the villages |
+| Soest, convent of St Walburgis, 1543 | 22 | Nuns; schoolmistress chosen from the sisters | — | — | — | *Cantrix* directs the choir; young sisters read at table |
+| Transylvania, Honterus, *Reformationsbüchlein*, 1543 | 24 | — | — | — | — | Schoolgirls sing and put the catechism questions in church |
+| Nördlingen, *Kirchenordnung Kaspar Löners*, 1544 | 12 | Sick-women examined by the pastor | — | — | Kept | — |
+| *Wittenbergische Reformation*, 1545 | 1 | — | — | Bishops a grade above priests by human foresight | — | — |
+| Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11 | Sexton not to keep the leftover hosts and wine | — | — | — | Paul's ban on women preaching as a model church ordinance |
+| Strasbourg, Marbach, 1553 | 20/1 | — | — | *Kirchenpfleger* = *seniores* | Created | — |
+| Regensburg, Jonas, 1553 | 13 | Rota of ordained ministers as ministrants or deacons | — | — | Kept | — |
+| Hohenlohe, *Kirchenordnung*, 1553 | 15 | Sexton carries chalice, corporal, surplice to the sick | — | — | Kept | Paul's ban on women preaching as a model church ordinance |
+| Regensburg, 29 April 1554 | 13 | Levites and Mass vestments | — | — | Abolished | — |
+| Micron, *Ordinancien*, 1554/65 (Reformed) | 7/1 | — | Deacons of the poor, hands | Ruling elders, hands; one presiding superintendent | Created | Chosen laymen speak in the "prophecy"; bread and cups passed along the table |
+| Strasbourg, mandate on the women's convents, 1555 | 20/1 | Nuns; prioress and council-mothers | — | — | Admission by the council | — |
+| Nördlingen, *Ordnung der ceremonien*, 1544/1555 | 12 | — | — | — | — | Girls' choir planned; a deacon reads the exhortation to prayer |
+| Schmalkalden, visitors, 1555 | 2 | — | — | — | — | Matron or old man keeps the girls' school; the girls help to sing the Litany |
+| Waldeck, *Kirchenordnung*, 1556 | 9 | Sexton carries the cross before the coffin | — | — | Kept | — |
+| Herrenalb, *Statuten*, 1556 | 16 | Evangelical conventuals and novices | — | — | Kept as a school | — |
+| Württemberg, *Ordnung für Frauenklöster*, 1556 | 16 | Nuns | — | — | — | No schools for the church in the women's convents (1 Cor. 14); a sister reads the chapter |
+| Electoral Saxony, *General-Artikel*, 1557 | 1 | — | — | — | — | Sexton reads the epistle, gospel and catechism in filials; may not preach unless examined and ordained |
+| Rothenburg, *Instruction*, 1558 | 11 | — | — | Elders "god-fearing, wise and valiant men" | — | — |
+| Erbach, *Erbacher Kirchenordnung*, 1560 | 9 | — | — | "Elders" = pastors | — | — |
+| Württemberg, 1559 | 16 | — | *Diacon* (deacon), *Subdiacon* (ministers) | — | Kept as benefices | — |
+| Rostock, *Conformitas*, 1560–76 | 5 | Boys read the epistle | — | — | — | — |
+| Ravengiersburg, *Klosterordnung*, 1560 | 19/2 | Novices trained for the ministry | — | — | Kept as a school; Latin chant allowed | — |
+| Steuerwald and Peine, 1561 | 7/2.1 | — | — | — | — | Sexton sings the Litany and the closing hymn |
+| Brandenburg-Ansbach, *Kapitelsordnung*, 1565/78 | 11 | Levites | — | Two clerical *seniores* | Levites forbidden | — |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8 | Sexton as *ianitor* (doorkeeper), *aedituus* | Deacons of the poor, ordained with hands | Ruling elders, ordained with hands; elders lay hands on ministers | Created | Women barred from "all the actions of the church's service"; seniors, chest-keepers, schoolmasters or sextons may help with the cup |
+| Regensburg, *Kirchenordnung*, 1567(?) | 13 | Levites, vestments, lights | — | — | Abolished | Boys' and girls' schools sing the catechism; two boys question and answer |
+| Prussia, *Kirchenordnung*, 1568 | 4 | — | — | — | — | Chaplain reads the common prayer |
+| Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1 | Nuns' cowl, veil and crown | — | — | Habit to be laid aside | — |
+| Brunswick-Wolfenbüttel, *Kirchenordnung*, 1569 | 6/1 | Sexton gives the responses | — | — | — | A sister leads the prayer and reads the chapter |
+| Pomerania, *Kerckenordeninge*, 1569 | 4 | — | Deacons of the chest "god-fearing, understanding, upright men" | — | — | — |
+| Keppel, *Ordnung für das Kloster*, 1570 | 10 | Nuns clothed with oath; *domina*; *diaconissa* (deaconess), *custorin* | — | — | Kept, reformed | Precentress begins Matins; lecturess, sacristaness, almoner and church-mistress |
+| Weimar, *Generalia*, 1570 | 1 | — | — | — | — | Sexton sings Vespers and reads the catechism in filials |
+| Lippe, *Kirchenordnung*, 1571 | 21 | Sexton fills the font | — | — | — | Wardens of the fabric "god-fearing, honourable men" |
+| Mecklenburg, *Klosterordnung*, 1572 | 5 | Nuns' habit and consecration books | — | — | Consecrated habit abolished | The *domina* and each sister by the week lead the prayers and read the lessons |
+| Halle, 1573(?) | 2 | — | Pastor and two *diaconi*; *unterdiaconi* | — | Kept | — |
+| Pfalz-Veldenz, 1574 | 18 | — | (Acts 6) | Censors, prayer | Created | Censors "honourable men"; women barred from all the lessons (*Lectiones*) |
+| Pomerania, *Statuta synodica*, 1574 | 4 | Lay *diaconi* keep the altar and its ornament | *Diaconi ecclesiae et pauperum* (Deacons of the church and of the poor), oath | Clerical *seniores* | Created | — |
+| Lüneburg, *Klosterordnung*, 1574 | 6/1 | Nuns' clothing under the duke; cowl, veil and crown | — | — | Plain habit | Girls learn Latin "to help to sing and read in the choir" |
+| Hesse, *Agende*, 1574 (Philippist) | 8 | — | — | — | — | Women barred from all the "actions" of the church's service; midwives not to baptize |
+| Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1 | — | — | — | — | Girls and maidservants sing the German hymn |
+| Aschersleben, *Kirchen agenda*, 1575 | 2 | — | — | — | — | Deacon of the week exhorts to prayer; boys begin the Litany; girls catechized |
+| Thorn, *Kirchenordnung*, 1575 | 4 | Sexton helps the old and sick at the altar | — | — | — | — |
+| Bohemian Brethren, *Ordo ecclesiasticus*, 1576 | 4 | Acolytes (ordained grade) | Clerical deacons, hands | Lay presbyters and *presbyterae*, handfast | Kept; deacon "not to be cast out" | Women elders (*presbyterae*); matrons help examine the girls |
+| Nassau-Weilburg, *Kirchenordnung*, 1576 | 10 | — | — | — | — | Women silent in the congregation (the Hessian text) |
+| Electoral Saxony, *Visitations-Instruktion*, 1577 | 1 | — | — | — | — | Schoolmistress visited with the schoolmasters and sextons |
+| Stendal, *Visitations-Abschied*, 1578 | 3 | — | — | — | — | Council's notices read by the clergy; town servants kept off the pulpit |
+| Münster im Gregoriental, 1578 | 20/2 | — | — | — | — | Schoolmasters lead the singing so that men and women can join |
+| Cottbus, 1579 | 3 | — | — | — | — | Widow made schoolmistress for life |
+| Electoral Saxony, 1580 | 1 | Bell-ringers' sale of font water and hosts forbidden | *Diaconat*, *Subdiaconat*; same ordination as pastor | — | Diaconate may be dispensed | Sexton reads the catechism; may not preach unless examined |
+| Moers, 1581 (Reformed) | 22 | — | *Diaconi oder Almusenpfleger* (deacons or almoners) | — | Created | — |
+| Hoya, *Kirchenordnung*, 1581 | 6/2 | Sexton keeps the clock himself | — | — | — | Women told to sing aloud in church |
+| Nassau-Dillenburg, 1582 (Reformed) | 10 | *Aeditui* elected by presbytery | Deacons of the poor | Seniors; four offices | Created | — |
+| Frankfurt, Dutch congregation (Augsburg Confession), 1585 (Lutheran) | 9 | — | Two *diaconi* | — | Created | — |
+| Lauenburg, *Kirchenordnung*, 1585 | 5 | Sextons may keep girls' schools | — | — | — | Sextons' wives teach needlework; matrons as schoolmistresses |
+| Kolberg, maidens' convent, 1586 | 4 | — | — | — | — | Sexton reads the collect in the preacher's absence |
+| Transylvania, *Landesordnung*, 1587 | 24 | — | — | Two "upright men" as church-fathers | — | — |
+| Bentheim-Tecklenburg, 1588/1619 (Reformed) | 22 | Baptismal exorcism | *Diaconi oder Almusenpfleger* | Seniors | Exorcism abolished | — |
+| Sayn, *Kirchenordnung*, 1590 | 19/1 | Bell-ringer keeps chalices and ornaments | — | — | Kept | — |
+| Augsburg, *Vergleichsartikel*, 1591 | 12 | — | — | Six *Kirchenpfleger* | — | — |
+| Hof, *Ordo ecclesiasticus*, 1592 | 11 | Subdeacon reads epistle | *Subdiaconus* (minister) | — | Kept | Girls' choir, led by the superintendent or the deacon; a boy reads Sirach at the altar |
+| Kurpfalz, *Einführung der Senioren*, 1592 (Reformed) | 19/2 | — | — | Ruling elders, hands | Created | — |
+| Anhalt, sexton of Törten, 1594 (Philippist) | 2 | Sexton prepares altar and font, vests the pastor | — | — | Kept | — |
+| Emden, *Summarische beschryvinge*, 1594 (Reformed) | 7/1 | — | — | — | — | Four widows and matrons chosen for the hospital |
+| Hohenlohe, questions on church ceremonies, 1596 | 15 | — | — | — | — | Schoolboys or churchwardens hold the communion cloth |
+| Kurpfalz, *Presbyterordnung*, about 1601 (Reformed) | 14 | — | — | Yearly elders, handfast vow and prayer; Matthew 18 | Created | — |
+| Fischbeck, 1602 (editors' note) | 7/2.2 | Sacristaness (*Küsterin*) | — | — | — | — |
+| Solms-Laubach, 1603 | 9 | — | — | Elders, oath | Created | — |
+| Wild- and Rhinegraviate, 1603 | 19/2 | — | — | Censors, oath | Created | Censors "honourable men" |
+| Obernkirchen, 1603 | 7/2.2 | Nuns | — | — | — | The sisters administer their own service: read, sing and pray |
+| Bruchhausen (Corvey), 1603 | 21 | — | — | — | — | Women silent in the congregation (the Hessian text) |
+| Homburg (Wittgenstein), 1605 (Reformed) | 22 | — | — | — | — | Schoolmaster holds the daily prayer |
+| Hanau-Münzenberg, 1609 (Reformed) | 10 | — | — | Elders, handfast vow and prayer; "of God" | Created | — |
+| Bardenfleth (Oldenburg), 1609 | 7/2.1 | — | — | — | — | Slips asking for prayer misused |
+| Schwäbisch Hall, 1543/1615 | 17/1 | Cross before coffin, "significatively" | — | — | Allowed | — |
+| Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610 | 23 | Abbess and prioress elected under oath | — | — | Kept | — |
+| Neuenwalde, *Klosterordnung*, 1606/1614 | 7/1 | Nuns | — | — | — | The sisters help to sing in the choir on feast days |
+| Nassau-Weilburg, 1617 | 10 | — | — | — | — | Communion cloth abolished; no layman to serve the cup |
+| Stade, *Kirchenordnung*, about 1620/22 | 7/1 | — | — | — | — | Slips for the sick only in urgent cases, such as a woman in labour |
 
 ---
 
-### <a id="s16-10"></a>16.10 Concordance of the orders quoted
+### <a id="s16-11"></a>16.11 Concordance of the orders quoted
 
 Every order quoted or cited in this chapter is listed below by region. The table gives:
 - **Sehling**: the volume and pages in Sehling's edition.
@@ -48570,13 +49472,24 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Freiberg, *Visitationsartikel* of Dr Jacob Schenk, 1537 | 1, p. 466 | 48 | [16.3.3](#s16-3-3) |
 | Freiberg, *Artikel*, 1538 | 1, p. 468 | 49 | [16.4.5](#s16-4-5) |
 | Ernestine Saxony, *Wittenbergische Reformation*, 1545 | 1, pp. 217–218 | 20 | [16.5.4](#s16-5-4) |
-| Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 375, 381–383, 426 | 44 | [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.5.4](#s16-5-4), [16.7.1](#s16-7-1) |
-| Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537 | 2, p. 64 | 1219 | [16.5.2](#s16-5-2) |
+| Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 375, 381–383, 426, 452 | 44 | [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.5.4](#s16-5-4), [16.7.1](#s16-7-1), [16.9.8](#s16-9-8) |
+| Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537 | 2, pp. 64, 72, 89 | 1219 | [16.5.2](#s16-5-2), [16.9.6](#s16-9-6), [16.9.8](#s16-9-8) |
 | Halle, *Kirchen-Ordnung der christlichen Gemein zu Hall in Sachsen*, 1573(?) | 2, pp. 441–442 | 1257 | [16.3.3](#s16-3-3), [16.5.1](#s16-5-1) |
 | Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1, p. 599 | 102 | [16.7.2](#s16-7-2), [16.7.6](#s16-7-6) |
 | Schönburg, *Kirchen-Ordnung* of Johann Pfeffinger, 18 October 1542 | 2, p. 176 | 1235 | [16.7.1](#s16-7-1) |
 | Anhalt, *Ordnung der deutschen Gesänge*, before 1551 | 2, p. 555 | 1262 | [16.4.5](#s16-4-5) |
 | Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594 (Philippist) | 2, pp. 579–580 | 1262 | [16.7.1](#s16-7-1) |
+| Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1527 | 2, pp. 59–60 | 1218 | [16.9.6](#s16-9-6) |
+| Zwickau, *Verordnung der Visitatoren*, 1529 | 1, p. 722 | 151 | [16.9.6](#s16-9-6) |
+| Nimbschen, *Verordnung der Visitatoren für das Kloster*, 1533 | 1, p. 619 | 111 | [16.9.3](#s16-9-3) |
+| Remse, *Ordnung in das Jungfrauenkloster*, 1533 | 1, p. 652 | 125 | [16.9.3](#s16-9-3) |
+| Electoral Saxony, *General-Artikel und gemeiner Bericht*, 8 May 1557 | 1, p. 326 | 37 | [16.9.8](#s16-9-8) |
+| Weimar, *Generalia für die Pfarreien der Superintendenz*, 1570 | 1, p. 688 | 143 | [16.9.8](#s16-9-8) |
+| Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1, p. 555 | 78 | [16.9.6](#s16-9-6) |
+| Electoral Saxony, *Visitations-Instruktion*, 1577 | 1, p. 350 | 40 | [16.9.4](#s16-9-4) |
+| Schmalkalden, *Ordnung der Visitatoren*, 1555 | 2, p. 348 | 1249 | [16.9.4](#s16-9-4) |
+| Ritschenhausen, *Gottesdienst-Ordnung*, 1566 | 2, p. 346 | 1249 | [16.9.8](#s16-9-8) |
+| Aschersleben, *Kirchen agenda*, 1575 | 2, p. 480 | 1260 | [16.9.6](#s16-9-6), [16.9.8](#s16-9-8), [16.9.9](#s16-9-9) |
 
 **Brandenburg, Pomerania and the North Sea and Baltic cities**
 
@@ -48588,11 +49501,20 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Pyritz, *Abschied*, 1539 | 4, p. 519 | 1879 | [16.5.2](#s16-5-2) |
 | Pomerania, *Statuta synodica*, 1574 | 4, pp. 489, 491 | 1868 | [16.5.2](#s16-5-2), [16.6.5](#s16-6-5), [16.7.2](#s16-7-2) |
 | Rostock, *Conformitas ceremoniarum in singulis templis ecclesiae Rostochiensis*, 1560–1576 | 5, p. 289 | 1936 | [16.3.5](#s16-3-5) |
-| Hamburg, *Hamburger Kirchenordnung*, 1529 | 5, pp. 512–514, 535 | 1960 | [16.3.3](#s16-3-3), [16.3.5](#s16-3-5), [16.5.2](#s16-5-2) |
+| Hamburg, *Hamburger Kirchenordnung*, 1529 | 5, pp. 512–514, 535 | 1960 | [16.3.3](#s16-3-3), [16.3.5](#s16-3-5), [16.5.2](#s16-5-2), [16.9.4](#s16-9-4) |
 | Lübeck, *Kirchenordnung*, 1531 | 5, p. 359 | 1949 | [16.1](#s16-1), [16.5.2](#s16-5-2) |
 | Hadeln, *Hadelner Kirchenordnung*, 1526 | 5, p. 472 | 1955 | [16.5.2](#s16-5-2) |
-| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 254–255 | 1926 | [16.7.5](#s16-7-5) |
+| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 254–255, 257, 260 | 1926 | [16.7.5](#s16-7-5), [16.9.4](#s16-9-4), [16.9.5](#s16-9-5) |
 | Schleswig-Holstein, *Klosterordnung für Frauenklöster*, after 1610 | 23, p. 182 | 1584 | [16.7.5](#s16-7-5) |
+| Stendal, *Verordnung und Bestellung aller Pfarrkirchen*, 1540 | 3, p. 310 | 1784 | [16.9.4](#s16-9-4) |
+| Salzwedel, *Abschied für das Kloster St. Annen*, 1540 | 3, p. 272 | 1779 | [16.9.3](#s16-9-3) |
+| Stendal, *Visitations-Abschied*, 11 August 1578 | 3, p. 331 | 1787 | [16.9.9](#s16-9-9) |
+| Cottbus, *Visitations-Abschied*, 1579 | 3, p. 201 | 1761 | [16.9.4](#s16-9-4) |
+| Pomerania, *Kerckenordeninge*, 1569 | 4, p. 409 | 1862 | [16.9.3](#s16-9-3) |
+| Kolberg, *Statuten für das Jungfrauenkloster*, 1586 | 4, p. 502 | 1873 | [16.9.5](#s16-9-5), [16.9.8](#s16-9-8) |
+| Prussia, *Kirchenordnung*, 1568 | 4, p. 79 | 1833 | [16.9.9](#s16-9-9) |
+| Thorn, *Kirchenordnung*, 1575 | 4, p. 237 | 1844 | [16.9.7](#s16-9-7) |
+| Lauenburg, *Kirchenordnung*, 1585 | 5, pp. 422, 446 | 1953 | [16.9.4](#s16-9-4) |
 
 **Lower Saxony, East Frisia and Westphalia**
 
@@ -48601,17 +49523,32 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Brunswick, *Kirchenordnung* of Johannes Bugenhagen, 1528 | 6/1, p. 449 | 1983 | [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4) |
 | Hildesheim, editors' introduction on Bugenhagen's order of 1544 | 7/2.1, p. 811 | 2132 | [16.1](#s16-1), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4) |
 | East Frisia, editors' introduction to Micron's *Ordinancien* (Reformed) | 7/1, pp. 554–555 | 2115 | [16.5.3](#s16-5-3) |
-| Micron, *Ordinancien* (1554) 1565 (Reformed) | 7/1, pp. 583, 587–588, 596–598 | 2116 | [16.5.3](#s16-5-3), [16.6.3](#s16-6-3) |
+| Micron, *Ordinancien* (1554) 1565 (Reformed) | 7/1, pp. 583, 587–588, 596–598, 608–609, 634 | 2116 | [16.5.3](#s16-5-3), [16.6.3](#s16-6-3), [16.9.3](#s16-9-3), [16.9.7](#s16-9-7), [16.9.8](#s16-9-8) |
 | Lippe, *Lippische Kirchenordnung*, 1538 | 21, pp. 318, 335 | 1459 | [16.4.4](#s16-4-4), [16.5.2](#s16-5-2), [16.8](#s16-8) |
 | Moers, *Kirchenordnung*, 1581 (Reformed) | 22, p. 201 | 1502 | [16.5.3](#s16-5-3) |
 | Bentheim-Tecklenburg, *Bentheim-Tecklenburger Kirchenordnung*, 1588/1619 (Reformed) | 22, pp. 269, 276 | 1508 | [16.3.5](#s16-3-5), [16.5.3](#s16-5-3) |
 | Brunswick-Wolfenbüttel, *Klosterordnung*, 1569 | 6/1, pp. 324–326 | 1978 | [16.7.5](#s16-7-5) |
-| Lüneburg, *Klosterordnung* of Duke William the Younger, 1574 | 6/1, p. 622 | 2010 | [16.7.5](#s16-7-5) |
+| Lüneburg, *Klosterordnung* of Duke William the Younger, 1574 | 6/1, p. 622 | 2010 | [16.7.5](#s16-7-5), [16.9.6](#s16-9-6) |
 | Goslar, *Ordnung für das Frauenkloster Frankenberg*, 1542 | 7/2.2, p. 275 | 2198 | [16.7.5](#s16-7-5) |
 | Lemgo, *Lemgoer Kirchenordnung*, 1537 | 21, p. 302 | 1458 | [16.7.6](#s16-7-6) |
-| Lippe, *Kirchenordnung*, 1571 | 21, p. 447 | 1462 | [16.7.1](#s16-7-1) |
+| Lippe, *Kirchenordnung*, 1571 | 21, pp. 447, 449 | 1462 | [16.7.1](#s16-7-1), [16.9.3](#s16-9-3) |
 | Herford, *Kirchenordnung*, 1532 | 21, pp. 173–174 | 1442 | [16.7.6](#s16-7-6) |
 | Herford, editors' introduction | 21, p. 160 | 1441 | [16.7.6](#s16-7-6) |
+| Brunswick-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, p. 58 | 1972 | [16.9.8](#s16-9-8) |
+| Brunswick-Wolfenbüttel, *Kirchenordnung*, 1569 | 6/1, pp. 155, 260 | 1974 | [16.9.5](#s16-9-5), [16.9.8](#s16-9-8) |
+| Brunswick, *Ordnung der ceremonien auf den dorfern*, n.d. | 6/1, p. 473 | 1988 | [16.9.8](#s16-9-8) |
+| Lüneburg, *Kirchenordnung*, 1564 | 6/1, p. 553 | 2003 | [16.9.8](#s16-9-8) |
+| Hoya, *Kirchenordnung*, 1581 | 6/2, pp. 1142, 1192 | 2065 | [16.9.4](#s16-9-4), [16.9.6](#s16-9-6) |
+| Steuerwald and Peine, *Kirchenordnunge in baiden gerichten*, 1561 | 7/2.1, p. 783 | 2129 | [16.9.8](#s16-9-8) |
+| Oldenburg, *Visitationsabschied für Bardenfleth*, 1609, with editors' note | 7/2.1, pp. 1198–1199 | 2151 | [16.9.9](#s16-9-9) |
+| Stade, *Kirchenordnung*, about 1620/22 | 7/1, p. 55 | 2079 | [16.9.9](#s16-9-9) |
+| Bremen, *Neuenwalder Klosterordnung*, 1606/1614 | 7/1, p. 41 | 2076 | [16.9.6](#s16-9-6) |
+| Schaumburg, *Vereinbarung für das Stift Fischbeck*, 1602, editors' note | 7/2.2, p. 81 | 2172 | [16.9.4](#s16-9-4) |
+| Schaumburg, *Ordnung für das Stift Obernkirchen*, 1603 | 7/2.2, p. 88 | 2174 | [16.9.5](#s16-9-5) |
+| Emden, *Summarische beschryvinge der ordnung in der christlicken kercken to Embden*, 1594 (Reformed) | 7/1, p. 505 | 2113 | [16.9.3](#s16-9-3) |
+| Corvey, *Kirchenordnung für das Stiftsdorf Bruchhausen*, 1603 | 21, p. 253 | 1455 | [16.9.2](#s16-9-2) |
+| Soest, *Ordnung für das Kloster St. Walburgis*, 1543 | 22, p. 468 | 1530 | [16.9.4](#s16-9-4), [16.9.5](#s16-9-5), [16.9.6](#s16-9-6) |
+| Homburg (Wittgenstein), *Kirchenzuchtordnung*, 1605 (Reformed) | 22, p. 142 | 1493 | [16.9.8](#s16-9-8) |
 
 **Hesse, the Wetterau and the Middle Rhine**
 
@@ -48619,33 +49556,38 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 |---|---|---|---|
 | Hesse, *Homberger Kirchenordnung*, 1526 (Moderate Reformed) | 8, p. 46 | 2247 | [16.3.2](#s16-3-2) |
 | Hesse, *Ziegenhainer Zuchtordnung*, 1539 (Moderate Reformed) | 8, p. 103 | 2252 | [16.6.2](#s16-6-2) |
-| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 195, 205, 207–211 | 2257 | [16.3.5](#s16-3-5), [16.5.3](#s16-5-3), [16.6.2](#s16-6-2) |
+| Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 180, 195, 205, 207–211, 282–283, 312 | 2257 | [16.3.5](#s16-3-5), [16.5.3](#s16-5-3), [16.6.2](#s16-6-2), [16.9.2](#s16-9-2), [16.9.7](#s16-9-7) |
 | Solms, *Kirchenzuchtordnung*, 1594 (Reformed) | 9, p. 338 | 2311 | [16.6.3](#s16-6-3) |
 | Erbach, *Erbacher Kirchenordnung*, 1560 | 9, p. 446 | 2316 | [16.6.5](#s16-6-5) |
 | Frankfurt, *Stiftungsbrief des Armenkastens der Niederländischen Gemeinde A. C.*, 1585 (Lutheran) | 9, p. 604 | 2332 | [16.5.2](#s16-5-2) |
 | Nassau-Dillenburg, *Kirchenordnung*, 23 January 1582 (Reformed) | 10, p. 160 | 184 | [16.5.3](#s16-5-3), [16.6.3](#s16-6-3) |
 | Ysenburg-Ronneburg, *Memorial zur Kirchenzuchtordnung*, 1592 (Reformed) | 10, p. 601 | 223 | [16.6.3](#s16-6-3) |
 | Hanau-Münzenberg, *Presbyteriumsordnung*, 1609 (Reformed) | 10, p. 508 | 211 | [16.6.3](#s16-6-3) |
-| Wild- and Rhinegraviate, *Kirchenordnung*, 1603 | 19/2, p. 600 | 1121 | [16.6.3](#s16-6-3) |
+| Wild- and Rhinegraviate, *Kirchenordnung*, 1603 | 19/2, p. 600 | 1121 | [16.6.3](#s16-6-3), [16.9.3](#s16-9-3) |
 | Waldeck, *Kirchenordnung*, 1556 | 9, p. 256 | 2300 | [16.4.5](#s16-4-5) |
 | Nassau-Dillenburg, *Kirchenordnung*, 1537 | 10, p. 84 | 169 | [16.7.6](#s16-7-6) |
-| Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 | 10, pp. 141–142 | 181 | [16.7.3](#s16-7-3), [16.7.5](#s16-7-5) |
+| Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 | 10, pp. 133, 141–142 | 181 | [16.7.3](#s16-7-3), [16.7.5](#s16-7-5), [16.9.3](#s16-9-3), [16.9.6](#s16-9-6) |
 | Sayn, *Kirchenordnung*, 1590 | 19/1, p. 438 | 1090 | [16.7.1](#s16-7-1) |
+| Hesse, *Homberger Kirchenordnung*, 1526 (Moderate Reformed), the assembly of the faithful | 8, p. 52 | 2249 | [16.9.2](#s16-9-2), [16.9.3](#s16-9-3) |
+| Hesse, *Agende*, 1574 (Philippist) | 8, pp. 428–429 | 2272 | [16.9.2](#s16-9-2) |
+| Nassau-Weilburg, *Kirchenordnung*, 1576 | 10, p. 249 | 198 | [16.9.2](#s16-9-2) |
+| Nassau-Weilburg, *Erläuterungspunkte zur Kirchenordnung*, 1617 | 10, p. 351 | 199 | [16.9.7](#s16-9-7) |
 
 **The Palatinates**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 70–71, 75 | 386 | [16.4.2](#s16-4-2) |
+| Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 70–71, 75, 78 | 386 | [16.4.2](#s16-4-2), [16.9.5](#s16-9-5) |
 | Kurpfalz, editors' introduction on the discipline dispute, 1568–1570 (Reformed) | 14, p. 53 | 468 | [16.1](#s16-1), [16.6.3](#s16-6-3) |
 | Kurpfalz, *Presbyterordnung*, about 1601 (Reformed) | 14, pp. 595, 598 | 518 | [16.6.3](#s16-6-3) |
 | Kurpfalz, *Einführung der Senioren*, 9 December 1592 (Reformed) | 19/2, pp. 789–790 | 1155 | [16.6.3](#s16-6-3) |
 | Kurpfalz, editors' introduction to the *Einführung der Senioren* (Reformed) | 19/2, p. 695 | 1133 | [16.6.3](#s16-6-3) |
 | Pfalz-Zweibrücken, *Kirchenordnung „Form und Ordnung“*, 1539 | 18, p. 63 | 965 | [16.5.4](#s16-5-4) |
-| Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, p. 573 | 1011 | [16.6.3](#s16-6-3) |
+| Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, pp. 473, 572–573 | 1011 | [16.6.3](#s16-6-3), [16.9.2](#s16-9-2), [16.9.3](#s16-9-3) |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 208 | 404 | [16.7.2](#s16-7-2) |
 | Pfalz-Simmern, *Klosterordnung Ravengiersburg*, 1560 | 19/2, p. 658 | 1125 | [16.7.4](#s16-7-4) |
 | Heidelberg, *Spitalordnung*, 1594 (Reformed) | 19/2, p. 827 | 1163 | [16.7.3](#s16-7-3) |
+| Pfalz-Zweibrücken, *Kirchenordnung*, 1557 | 18, p. 212 | 967 | [16.9.8](#s16-9-8) |
 
 **Franconia, Bavaria, Swabia and Alsace**
 
@@ -48654,26 +49596,26 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 | 11, p. 52 | 249 | [16.4.1](#s16-4-1) |
 | Nürnberg, *Bericht der Stadt Nürnberg für den Goslarer Rat*, 30 March 1528 | 7/2.2, p. 230 | 2186 | [16.3.5](#s16-3-5), [16.4.3](#s16-4-3) |
 | Brandenburg-Ansbach-Kulmbach, *Kapitelsordnung*, 1565/78 | 11, pp. 347, 350, 357 | 283 | [16.4.3](#s16-4-3), [16.6.5](#s16-6-5) |
-| Hof, *Ordo ecclesiasticus*, 1592 | 11, p. 425 | 294 | [16.3.5](#s16-3-5) |
+| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 425, 428, 463, 474 | 294 | [16.3.5](#s16-3-5), [16.9.6](#s16-9-6), [16.9.8](#s16-9-8) |
 | Augsburg, *Vergleichsartikel*, 1591 | 12, pp. 109–110 | 341 | [16.6.5](#s16-6-5) |
 | Dinkelsbühl, *Kirchenpflegeordnung*, 1574 | 12, p. 131 | 348 | [16.6.5](#s16-6-5) |
 | Memmingen, *Zuchtordnung*, 1532 (Moderate Reformed) | 12, p. 248 | 365 | [16.6.5](#s16-6-5) |
-| Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, pp. 391, 393 | 432 | [16.4.3](#s16-4-3) |
+| Regensburg, *Wahrhaftiger Bericht*, 1542 | 13, pp. 391, 393 | 432 | [16.4.3](#s16-4-3), [16.9.8](#s16-9-8) |
 | Regensburg, *Kirchenordnung unter Justus Jonas*, 1553 | 13, pp. 419–421 | 440 | [16.4.2](#s16-4-2) |
 | Regensburg, *Warum die leviten- und meßgewand sollen abgetan werden*, 29 April 1554 | 13, p. 432 | 443 | [16.4.3](#s16-4-3) |
-| Regensburg, *Kirchenordnung*, 1567(?) | 13, p. 480 | 450 | [16.4.3](#s16-4-3), [16.4.4](#s16-4-4) |
+| Regensburg, *Kirchenordnung*, 1567(?) | 13, pp. 464, 480 | 450 | [16.4.3](#s16-4-3), [16.4.4](#s16-4-4), [16.9.5](#s16-9-5) |
 | Württemberg, *Ordnung der Besetzung von Kirchendienerstellen*, 1559 | 16, p. 348 | 683 | [16.3.3](#s16-3-3) |
 | Heilbronn, *„Confessio Heilbronnensis“ und Kirchenordnung*, 1530 | 17/1, p. 285 | 770 | [16.4.2](#s16-4-2) |
 | Schwäbisch Hall, *Kirchenordnung* 1543/1615 | 17/1, p. 173 | 763 | [16.4.5](#s16-4-5) |
 | Strasbourg, *Examensordnung*, Latin version, 1539 (Moderate Reformed) | 20/1, pp. 304, 310 | 1308 | [16.3.1](#s16-3-1), [16.6.1](#s16-6-1) |
 | Strasbourg, *Kirchenordnung* of Johannes Marbach, 1553 | 20/1, p. 441 | 1321 | [16.6.1](#s16-6-1) |
-| Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, p. 531 | 297 | [16.7.1](#s16-7-1) |
+| Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, pp. 531, 549 | 297 | [16.7.1](#s16-7-1), [16.9.2](#s16-9-2) |
 | Brandenburg-Ansbach-Kulmbach, *Kirchenvisitation*, 1536 | 11, p. 320 | 277 | [16.7.3](#s16-7-3) |
 | Brandenburg-Ansbach-Kulmbach, *Konsistorialordnung*, 1594 | 11, p. 391 | 291 | [16.7.1](#s16-7-1) |
 | Nördlingen, *Kirchenordnung Kaspar Löners*, 1544 | 12, p. 315 | 372 | [16.7.3](#s16-7-3) |
 | Regensburg, *Kirchenordnung des Noppus*, 1543 | 13, p. 410 | 436 | [16.7.3](#s16-7-3) |
 | Wolfstein, *Christliche Instructio* of Thomas Stieber, 1574 | 13, p. 582 | 463 | [16.7.3](#s16-7-3) |
-| Hohenlohe, *Kirchenordnung*, 1553 | 15, p. 73 | 539 | [16.7.1](#s16-7-1) |
+| Hohenlohe, *Kirchenordnung*, 1553 | 15, pp. 57, 73 | 539 | [16.7.1](#s16-7-1), [16.9.2](#s16-9-2) |
 | Württemberg, editors' introduction | 16, p. 50 | 644 | [16.7.6](#s16-7-6) |
 | Württemberg, *Klosterordnung*, 1535 | 16, pp. 79–80 | 647 | [16.7.4](#s16-7-4), [16.7.6](#s16-7-6) |
 | Württemberg, *Mandat gegen Aufnahme von Novizen in den Klöstern*, 1552 | 16, p. 199 | 669 | [16.7.4](#s16-7-4) |
@@ -48682,17 +49624,33 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Baden, *Kirchenordnung*, 1533 | 16, p. 510 | 702 | [16.4.4](#s16-4-4) |
 | Baden, *Kirchenordnungsmandat*, 1601 | 16, p. 551 | 713 | [16.7.1](#s16-7-1) |
 | Heilbronn, *Instruktion zur Zusammenlegung beider Beginenhäuser*, 1531 | 17/1, p. 298 | 776 | [16.7.3](#s16-7-3), [16.7.6](#s16-7-6) |
-| Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | [16.7.1](#s16-7-1), [16.7.2](#s16-7-2) |
+| Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | [16.7.1](#s16-7-1), [16.7.2](#s16-7-2), [16.9.4](#s16-9-4) |
 | Reutlingen, editors' introduction | 17/2, p. 28 | 825 | [16.7.6](#s16-7-6) |
 | Esslingen, *Ordnung für die Konventualen im Barfüßerkloster*, 1535 (Moderate Reformed) | 17/2, p. 382 | 882 | [16.7.4](#s16-7-4) |
 | Strasbourg, *Ordnung der Kirchenpfleger*, 1531 (Moderate Reformed) | 20/1, p. 226 | 1292 | [16.7.1](#s16-7-1) |
 | Strasbourg, *Mandat zu den noch bestehenden Frauenklöstern*, 1555 | 20/1, pp. 454, 456 | 1323 | [16.7.5](#s16-7-5) |
+| Rothenburg, *Instruction, wie die Kirchenordnung gehandhabt und vollzogen werden soll*, 1558 | 11, p. 610 | 302 | [16.9.3](#s16-9-3) |
+| Schweinfurt, editors' introduction | 11, p. 622 | 303 | [16.9.6](#s16-9-6) |
+| Augsburg, *Kirchenordnung*, 1537 | 12, p. 70 | 338 | [16.9.9](#s16-9-9) |
+| Nördlingen, *Ordnung der ceremonien* of Caspar Löner, 1544, revised 1555 | 12, pp. 318, 320 | 373 | [16.9.6](#s16-9-6), [16.9.9](#s16-9-9) |
+| Hohenlohe, editors' note on the daily prayer at Herbsthausen, 1588 | 15, p. 596 | 614 | [16.9.8](#s16-9-8) |
+| Hohenlohe, *Fragen über die Kirchenzeremonie*, 1596, editors' note | 15, p. 534 | 602 | [16.9.7](#s16-9-7) |
+| Hohenlohe, *Visitationsordnung*, 1589, editors' note | 15, p. 611 | 618 | [16.9.9](#s16-9-9) |
+| Württemberg, *Ordnung für Frauenklöster*, 3 February 1556 | 16, pp. 304, 307 | 677 | [16.9.2](#s16-9-2), [16.9.5](#s16-9-5) |
+| Münster im Gregoriental, *Ordnung für die Schulmeister*, 1578 | 20/2, p. 394 | 1402 | [16.9.6](#s16-9-6) |
 
 **Poland**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Bohemian Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576 (Hussite) | 4, pp. 275–276, 279, 289 | 1846 | [16.3.4](#s16-3-4), [16.5.3](#s16-5-3), [16.6.4](#s16-6-4), [16.7.3](#s16-7-3) |
+| Bohemian Brethren, *Ordo ecclesiasticus in unitate fratrum Bohemorum*, 1576 (Hussite) | 4, pp. 275–276, 279, 282, 289 | 1846 | [16.3.4](#s16-3-4), [16.5.3](#s16-5-3), [16.6.4](#s16-6-4), [16.7.3](#s16-7-3), [16.9.3](#s16-9-3) |
+
+**Transylvania**
+
+| Order | Sehling | Doc | § |
+|---|---|---|---|
+| Transylvania, Honterus, *Reformationsbüchlein*, 1543 | 24, pp. 184, 196 | 1666 | [16.9.5](#s16-9-5) |
+| Transylvania, *Gemeinsame Landesordnung*, 8 July 1587 | 24, p. 463 | 1713 | [16.9.3](#s16-9-3) |
 
 <div style="page-break-before: always;"></div>
 
@@ -54035,7 +54993,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 7:6 — [18.5.1](#s18-5-1)
 - 8:8 — [7.11.3](#s7-11-3)
 - 15 — [8.8.2](#s8-8-2)
-- 18 — [11.9.1](#s11-9-1), [13.1.1](#s13-1-1), [13.16](#s13-16), [13.16.4](#s13-16-4), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.6.3](#s16-6-3), [16.9](#s16-9)
+- 18 — [11.9.1](#s11-9-1), [13.1.1](#s13-1-1), [13.16](#s13-16), [13.16.4](#s13-16-4), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.6.3](#s16-6-3), [16.10](#s16-10)
 - 18:15–17 — [13.16](#s13-16)
 - 18:15–18 — [16.6.1](#s16-6-1)
 - 18:19 — [6.5](#s6-5)
@@ -54088,7 +55046,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-acts"></a>**Acts**
 
 - 2:42 — [7.1.1](#s7-1-1)
-- 6 — [13.12.1](#s13-12-1), [13.19.1](#s13-19-1), [16.1](#s16-1), [16.3.3](#s16-3-3), [16.5](#s16-5), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9](#s16-9)
+- 6 — [13.12.1](#s13-12-1), [13.19.1](#s13-19-1), [16.1](#s16-1), [16.3.3](#s16-3-3), [16.5](#s16-5), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.10](#s16-10)
 - 6:1–6 — [16.5.3](#s16-5-3)
 - 6:2 — [16.5.3](#s16-5-3)
 - 6:3 — [16.5.3](#s16-5-3)
@@ -54128,7 +55086,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 10:12 — [13.16.5](#s13-16-5)
 - 10:16 — [2.4.7](#s2-4-7), [2.5](#s2-5), [7.1.1](#s7-1-1)
 - 10:17 — [3.5.10](#s3-5-10), [3.5.14.5](#s3-5-14-5)
-- 11 — [2.4.7](#s2-4-7), [2.5](#s2-5), [2.15.5](#s2-15-5), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.5.2](#s7-5-2), [7.5.3](#s7-5-3), [7.7.2](#s7-7-2), [8.9.2](#s8-9-2), [13.8.2](#s13-8-2), [15.11.6](#s15-11-6)
+- 11 — [2.4.7](#s2-4-7), [2.5](#s2-5), [2.15.5](#s2-15-5), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.5.2](#s7-5-2), [7.5.3](#s7-5-3), [7.7.2](#s7-7-2), [8.9.2](#s8-9-2), [13.8.2](#s13-8-2), [15.11.6](#s15-11-6), [16.9.2](#s16-9-2)
 - 11:23 — [7.8.3](#s7-8-3)
 - 11:23–29 — [3.5.10](#s3-5-10)
 - 11:24 — [7.5.1](#s7-5-1)
@@ -54139,7 +55097,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 11:28 — [3.5.1](#s3-5-1), [3.5.14.2](#s3-5-14-2), [15.1](#s15-1)
 - 11:28–29 — [15.11.6](#s15-11-6)
 - 12:28 — [16.6.3](#s16-6-3)
-- 14 — [8.18.7](#s8-18-7), [9.3.7](#s9-3-7), [12.11.1](#s12-11-1)
+- 14 — [8.18.7](#s8-18-7), [9.3.7](#s9-3-7), [12.11.1](#s12-11-1), [16.9.2](#s16-9-2), [16.10](#s16-10)
+- 14:34 — [16.1](#s16-1), [16.9.1](#s16-9-1), [16.9.2](#s16-9-2)
 
 <a id="scr-2cor"></a>**2 Corinthians**
 
@@ -54175,9 +55134,10 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-1tim"></a>**1 Timothy**
 
 - 1 — [3.3.6](#s3-3-6)
-- 2 — [Introduction](#repo-prayers-findings), [6.5](#s6-5), [6.11.G.3](#s6-11-g-3), [13.18.2](#s13-18-2)
+- 2 — [Introduction](#repo-prayers-findings), [6.5](#s6-5), [6.11.G.3](#s6-11-g-3), [13.18.2](#s13-18-2), [16.9.2](#s16-9-2)
 - 2:1 — [6.1.4](#s6-1-4)
 - 2:1f. — [10.7.5](#s10-7-5)
+- 2:12 — [16.1](#s16-1), [16.9.1](#s16-9-1), [16.9.2](#s16-9-2)
 - 3 — [13.10](#s13-10), [13.10.3](#s13-10-3), [13.10.4](#s13-10-4), [13.10.5](#s13-10-5), [13.19.1](#s13-19-1), [15.3.3](#s15-3-3), [15.8.4](#s15-8-4), [16.1](#s16-1), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4)
 - 3:1 — [13.10.3](#s13-10-3)
 - 3:1–7 — [13.10.2](#s13-10-2), [13.11.1](#s13-11-1), [16.3.1](#s16-3-1)
@@ -54272,7 +55232,8 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Anna, Countess of East Frisia — [1.1](#s1-1), [1.3.3](#s1-3-3), [1.13.7](#s1-13-7)
 - Anton I, Count of Oldenburg — [6.14](#s6-14)
 - Assum, Johann — [11.8.3](#s11-8-3), [11.14](#s11-14)
-- August, Elector of Saxony — [1.6.2](#s1-6-2), [1.6.4](#s1-6-4), [2.5](#s2-5), [4.12](#s4-12), [5.6.4](#s5-6-4), [5.8](#s5-8), [5.9](#s5-9), [6.6](#s6-6), [10.5.3](#s10-5-3), [10.13](#s10-13), [11.7.2](#s11-7-2), [11.7.5](#s11-7-5), [11.8.2](#s11-8-2), [11.9.2](#s11-9-2), [11.14](#s11-14), [12.12.3](#s12-12-3), [12.13.6](#s12-13-6), [12.16](#s12-16), [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1), [13.23](#s13-23), [13.24](#s13-24), [14.5.7](#s14-5-7), [14.10](#s14-10), [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.7.1](#s16-7-1), [16.10](#s16-10), [17.5.3](#s17-5-3), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.4.3](#s18-4-3), [18.13](#s18-13), [18.14](#s18-14)
+- Athanasius — [16.9.7](#s16-9-7)
+- August, Elector of Saxony — [1.6.2](#s1-6-2), [1.6.4](#s1-6-4), [2.5](#s2-5), [4.12](#s4-12), [5.6.4](#s5-6-4), [5.8](#s5-8), [5.9](#s5-9), [6.6](#s6-6), [10.5.3](#s10-5-3), [10.13](#s10-13), [11.7.2](#s11-7-2), [11.7.5](#s11-7-5), [11.8.2](#s11-8-2), [11.9.2](#s11-9-2), [11.14](#s11-14), [12.12.3](#s12-12-3), [12.13.6](#s12-13-6), [12.16](#s12-16), [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1), [13.23](#s13-23), [13.24](#s13-24), [14.5.7](#s14-5-7), [14.10](#s14-10), [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.7.1](#s16-7-1), [16.11](#s16-11), [17.5.3](#s17-5-3), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.4.3](#s18-4-3), [18.13](#s18-13), [18.14](#s18-14)
 - Augustine — [3.5.6](#s3-5-6), [9.5.5](#s9-5-5), [12.13.6](#s12-13-6), [13.4.1](#s13-4-1), [13.6.3](#s13-6-3), [13.12.8](#s13-12-8), [15.1](#s15-1), [15.2.1](#s15-2-1), [15.11.6](#s15-11-6), [17.12.4](#s17-12-4)
 
 <a id="per-b"></a>**B**
@@ -54296,7 +55257,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Bucanus, Wilhelm — [15.7.4](#s15-7-4)
 - Bucer, Martin — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.16.1](#s1-16-1), [1.26.2](#s1-26-2), [1.30.1](#s1-30-1), [1.33.1](#s1-33-1), [6.1.4](#s6-1-4), [7.5](#s7-5), [7.5.3](#s7-5-3), [13.6.2](#s13-6-2), [13.6.6](#s13-6-6), [14.4.4](#s14-4-4), [16.6](#s16-6), [16.6.2](#s16-6-2), [17.17.1](#s17-17-1)
 - Buchholtzer, Georg — [1.8.6](#s1-8-6)
-- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9](#s16-9), [16.10](#s16-10), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
+- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9.4](#s16-9-4), [16.10](#s16-10), [16.11](#s16-11), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
 - Burck, Joachim a — [8.16.9](#s8-16-9)
 
 <a id="per-c"></a>**C**
@@ -54308,7 +55269,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Chemnitz, Martin — [1.11.2](#s1-11-2), [6.14](#s6-14), [17.9](#s17-9), [17.9.3](#s17-9-3), [18.4.1](#s18-4-1), [18.7.1](#s18-7-1), [18.7.3](#s18-7-3)
 - Christian I, Elector of Saxony — [13.4.4](#s13-4-4)
 - Christoph, Archbishop of Bremen — [1.15.3](#s1-15-3)
-- Christoph, Duke of Württemberg — [13.12.9](#s13-12-9), [16.7.4](#s16-7-4), [17.13.1](#s17-13-1)
+- Christoph, Duke of Württemberg — [13.12.9](#s13-12-9), [16.7.4](#s16-7-4), [16.9.2](#s16-9-2), [17.13.1](#s17-13-1)
 - Chrysostom, John — [12.3.6](#s12-3-6)
 - Clemens non Papa, Jacobus — [4.1](#s4-1), [4.9.2](#s4-9-2), [4.10.4](#s4-10-4), [4.11](#s4-11)
 - Codomann, Laurentius — [13.14.3](#s13-14-3)
@@ -54322,7 +55283,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Daser, Ludwig — [4.10.4](#s4-10-4)
 - Decius, Nikolaus — [2.7.2](#s2-7-2), [7.1.2](#s7-1-2), [7.13.3](#s7-13-3), [8.1.1](#s8-1-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.12](#s8-12), [8.12.2](#s8-12-2), [8.15](#s8-15)
 - Dietrich, Heinrich — [18.7.1](#s18-7-1)
-- Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.13](#s10-13), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.10](#s16-10)
+- Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.13](#s10-13), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.9.2](#s16-9-2), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11)
 - Döber, Andreas — [1.19.1](#s1-19-1), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.13.2](#s2-13-2), [2.15.7](#s2-15-7), [2.15.10](#s2-15-10), [2.16](#s2-16), [Chapter 3](#ch3), [3.1](#s3-1), [3.2](#s3-2), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.4.5](#s3-4-5), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.2](#s7-3-2), [7.5](#s7-5), [7.5.1](#s7-5-1), [7.7](#s7-7), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.8.7](#s7-8-7), [7.8.11](#s7-8-11), [7.11](#s7-11), [7.11.3](#s7-11-3), [7.15.4](#s7-15-4), [8.5.3](#s8-5-3), [8.19](#s8-19)
 - Döberlein, Wolfgang — [13.14.3](#s13-14-3)
 - Dressler, Gallus — [4.10.4](#s4-10-4), [13.14.3](#s13-14-3)
@@ -54337,6 +55298,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Eitzen, Paul von — [1.34.1](#s1-34-1), [17.8.4](#s17-8-4)
 - Elisabeth, Duchess of Brunswick-Calenberg — [1.12.1](#s1-12-1), [6.16](#s6-16), [7.13](#s7-13), [13.6.3](#s13-6-3)
 - Enno II, Count of East Frisia — [1.13.7](#s1-13-7)
+- Epiphanius — [16.9.2](#s16-9-2)
 - Erastus, Thomas — [16.1](#s16-1), [16.6.3](#s16-6-3)
 - Ernst, Count of Holstein-Schaumburg — [6.18](#s6-18)
 - Ernst, Duke of Brunswick-Lüneburg — [1.11.3](#s1-11-3)
@@ -54402,7 +55364,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Hofmann, Johann — [3.5.14.5](#s3-5-14-5), [13.14.2](#s13-14-2)
 - Hollande, Johannes de — [13.14.3](#s13-14-3)
 - Homer — [12.3.4](#s12-3-4)
-- Honterus, Johannes — [7.1.3](#s7-1-3), [8.8.1](#s8-8-1), [8.19](#s8-19), [12.3.7](#s12-3-7), [12.16](#s12-16), [18.1.1](#s18-1-1), [18.4.1](#s18-4-1), [18.4.2](#s18-4-2), [18.13](#s18-13), [18.14](#s18-14)
+- Honterus, Johannes — [7.1.3](#s7-1-3), [8.8.1](#s8-8-1), [8.19](#s8-19), [12.3.7](#s12-3-7), [12.16](#s12-16), [16.9.1](#s16-9-1), [16.9.5](#s16-9-5), [16.10](#s16-10), [16.11](#s16-11), [18.1.1](#s18-1-1), [18.4.1](#s18-4-1), [18.4.2](#s18-4-2), [18.13](#s18-13), [18.14](#s18-14)
 - Huberinus, Caspar — [1.23.1](#s1-23-1), [3.7](#s3-7), [6.3](#s6-3), [6.13](#s6-13)
 - Hügel, Andreas — [18.7.2](#s18-7-2), [18.13](#s18-13)
 - Hus, John — [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.2](#s8-3-2), [8.13.2](#s8-13-2), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.14.2](#s8-14-2), [8.14.6](#s8-14-6), [8.14.8](#s8-14-8), [8.19](#s8-19)
@@ -54415,7 +55377,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 - Janken (brother of Paul Hanssen) — [9.4.2](#s9-4-2)
 - Joachim, Prince of Anhalt — [1.7.13](#s1-7-13)
-- Joachim II, Elector of Brandenburg — [1.8.1](#s1-8-1), [4.12](#s4-12), [5.9](#s5-9), [6.16](#s6-16), [Chapter 7](#ch7), [7.12](#s7-12), [10.4.2](#s10-4-2), [10.13](#s10-13), [12.5.7](#s12-5-7), [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.24](#s13-24), [16.4.1](#s16-4-1), [16.10](#s16-10)
+- Joachim II, Elector of Brandenburg — [1.8.1](#s1-8-1), [4.12](#s4-12), [5.9](#s5-9), [6.16](#s6-16), [Chapter 7](#ch7), [7.12](#s7-12), [10.4.2](#s10-4-2), [10.13](#s10-13), [12.5.7](#s12-5-7), [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.24](#s13-24), [16.4.1](#s16-4-1), [16.11](#s16-11)
 - Joachim Ernst, Prince of Anhalt — [17.6.6](#s17-6-6)
 - Joachim Friedrich, Duke of Liegnitz and Brieg — [1.8.6](#s1-8-6)
 - Johann, Elector of Saxony — [1.6.3](#s1-6-3), [17.6.1](#s17-6-1)
@@ -54435,7 +55397,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Johann Georg, Prince of Anhalt — [1.3.3](#s1-3-3), [1.7.13](#s1-7-13), [12.15](#s12-15), [12.16](#s12-16), [14.5.2](#s14-5-2), [14.9](#s14-9), [14.10](#s14-10)
 - Johann the Elder, Duke of Schleswig-Holstein — [14.5.7](#s14-5-7)
 - Johann Wilhelm, Duke of Saxony — [1.6.3](#s1-6-3), [11.12.2](#s11-12-2), [17.6.1](#s17-6-1), [17.19](#s17-19)
-- Jonas, Justus — [1.7.8](#s1-7-8), [1.7.13](#s1-7-13), [1.21.3](#s1-21-3), [3.3.2](#s3-3-2), [3.8](#s3-8), [4.12](#s4-12), [8.8.9](#s8-8-9), [8.16.1](#s8-16-1), [8.17.6](#s8-17-6), [8.18.5](#s8-18-5), [8.19](#s8-19), [9.3.3](#s9-3-3), [9.6](#s9-6), [9.7](#s9-7), [10.13](#s10-13), [13.22.3](#s13-22-3), [14.6.3](#s14-6-3), [14.9](#s14-9), [14.10](#s14-10), [16.4.2](#s16-4-2), [16.9](#s16-9), [16.10](#s16-10)
+- Jonas, Justus — [1.7.8](#s1-7-8), [1.7.13](#s1-7-13), [1.21.3](#s1-21-3), [3.3.2](#s3-3-2), [3.8](#s3-8), [4.12](#s4-12), [8.8.9](#s8-8-9), [8.16.1](#s8-16-1), [8.17.6](#s8-17-6), [8.18.5](#s8-18-5), [8.19](#s8-19), [9.3.3](#s9-3-3), [9.6](#s9-6), [9.7](#s9-7), [10.13](#s10-13), [13.22.3](#s13-22-3), [14.6.3](#s14-6-3), [14.9](#s14-9), [14.10](#s14-10), [16.4.2](#s16-4-2), [16.10](#s16-10), [16.11](#s16-11)
 - Joris, David — [1.34.1](#s1-34-1)
 - Josquin des Prez — [4.1](#s4-1), [4.10.4](#s4-10-4)
 - Judex, Johannes — [17.10.4](#s17-10-4)
@@ -54463,12 +55425,13 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Lasco, John a — [Introduction](#repo-prayers-findings), [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.3.3](#s1-3-3), [1.3.4](#s1-3-4), [1.13.7](#s1-13-7), [1.13.9](#s1-13-9), [2.15.3](#s2-15-3), [3.4.4](#s3-4-4), [3.5.10](#s3-5-10), [6.3](#s6-3), [6.21](#s6-21), [7.1.1](#s7-1-1), [7.1.3](#s7-1-3), [16.6.2](#s16-6-2)
 - Lassus, Orlande de — [4.1](#s4-1), [4.10.4](#s4-10-4), [4.11](#s4-11), [8.16.9](#s8-16-9), [13.14.3](#s13-14-3)
 - Lauterbach, Anton — [1.6.6](#s1-6-6), [8.8.7](#s8-8-7), [8.19](#s8-19)
+- Lehmann, Anna (widow of Georg Lehmann) — [16.9.4](#s16-9-4)
 - Leo I, Pope — [17.3.1](#s17-3-1), [17.11.1](#s17-11-1), [17.18](#s17-18)
 - Leyden, Peter van — [16.5.2](#s16-5-2)
 - Leyser, Polycarp — [13.4.1](#s13-4-1)
 - Linck, Wenzel — [3.4.4](#s3-4-4)
 - Lobwasser, Ambrosius — [8.1.3](#s8-1-3), [8.10.4](#s8-10-4), [8.11.5](#s8-11-5), [8.14.6](#s8-14-6), [8.16.7](#s8-16-7), [8.19](#s8-19)
-- Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.24](#s13-24), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.9](#s16-9), [16.10](#s16-10)
+- Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.24](#s13-24), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.10](#s16-10), [16.11](#s16-11)
 - Lorenz (schoolmaster at Frankfurt) — [16.5.2](#s16-5-2)
 - Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.7.5](#s8-7-5), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.12](#s10-12), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
 - Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.4](#s8-a-4)
@@ -54476,12 +55439,13 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
 - Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)
 - Ludwig Casimir, Count of Hohenlohe — [1.23.1](#s1-23-1)
-- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12](#s10-12), [10.13](#s10-13), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9](#s16-9), [16.10](#s16-10), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
+- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12](#s10-12), [10.13](#s10-13), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-m"></a>**M**
 
 - Magnus, Johann Georg — [18.8.3](#s18-8-3)
-- Marbach, Johann — [Conventions](#conv-traditions), [1.22.1](#s1-22-1), [1.30.1](#s1-30-1), [2.13.2](#s2-13-2), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [13.6.6](#s13-6-6), [13.10.5](#s13-10-5), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.9](#s16-9), [16.10](#s16-10), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.11.4](#s18-11-4)
+- Mandelsloh, Agnese von — [16.9.4](#s16-9-4)
+- Marbach, Johann — [Conventions](#conv-traditions), [1.22.1](#s1-22-1), [1.30.1](#s1-30-1), [2.13.2](#s2-13-2), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [13.6.6](#s13-6-6), [13.10.5](#s13-10-5), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.10](#s16-10), [16.11](#s16-11), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.11.4](#s18-11-4)
 - Marboeuf, Pierre — [1.31.3](#s1-31-3)
 - Maria, Lady of Jever — [1.14.4](#s1-14-4)
 - Marquard, Bishop of Speyer — [1.22.1](#s1-22-1)
@@ -54490,7 +55454,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Meiland, Jakob — [4.10.4](#s4-10-4)
 - Melanchthon, Philip — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.15.3](#s1-15-3), [1.33.1](#s1-33-1), [6.3](#s6-3), [6.9](#s6-9), [10.9.2](#s10-9-2), [11.8.2](#s11-8-2), [13.6.1](#s13-6-1), [13.10.2](#s13-10-2), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.10.1](#s15-10-1), [16.1](#s16-1), [16.5.4](#s16-5-4), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.3.3](#s17-3-3), [17.3.4](#s17-3-4), [17.5](#s17-5), [17.5.1](#s17-5-1), [17.5.2](#s17-5-2), [17.7.1](#s17-7-1), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.2](#s17-8-2), [17.10.4](#s17-10-4), [17.10.5](#s17-10-5), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.4](#s17-11-4), [17.12.5](#s17-12-5), [17.13.1](#s17-13-1), [17.13.3](#s17-13-3), [17.14.1](#s17-14-1)
 - Mening, Markus — [1.15.3](#s1-15-3), [17.10.5](#s17-10-5), [17.18](#s17-18)
-- Micron, Marten — [1.3.4](#s1-3-4), [1.13.9](#s1-13-9), [3.1](#s3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [6.3](#s6-3), [6.21](#s6-21), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.4](#s9-5-4), [9.6](#s9-6), [9.7](#s9-7), [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.13](#s10-13), [12.13.5](#s12-13-5), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.12.1](#s13-12-1), [13.16](#s13-16), [13.16.7](#s13-16-7), [13.23](#s13-23), [13.24](#s13-24), [14.6.7](#s14-6-7), [15.11.2](#s15-11-2), [16.1](#s16-1), [16.2](#s16-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9](#s16-9), [16.10](#s16-10), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
+- Micron, Marten — [1.3.4](#s1-3-4), [1.13.9](#s1-13-9), [3.1](#s3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [6.3](#s6-3), [6.21](#s6-21), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.4](#s9-5-4), [9.6](#s9-6), [9.7](#s9-7), [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.13](#s10-13), [12.13.5](#s12-13-5), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.12.1](#s13-12-1), [13.16](#s13-16), [13.16.7](#s13-16-7), [13.23](#s13-23), [13.24](#s13-24), [14.6.7](#s14-6-7), [15.11.2](#s15-11-2), [16.1](#s16-1), [16.2](#s16-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9.1](#s16-9-1), [16.9.3](#s16-9-3), [16.9.7](#s16-9-7), [16.9.8](#s16-9-8), [16.10](#s16-10), [16.11](#s16-11), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
 - Minkwitz, Hans von — [1.8.5](#s1-8-5)
 - Mögner, Veit — [8.18.5](#s8-18-5)
 - Moritz, Elector of Saxony — [1.6.4](#s1-6-4), [1.6.6](#s1-6-6), [1.7.1](#s1-7-1)
@@ -54498,6 +55462,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Mörlin, Joachim — [1.11.2](#s1-11-2), [17.9](#s17-9), [18.7.3](#s18-7-3)
 - Muhammad (Mahomet) — [6.13.I.1](#s6-13-i-1)
 - Müntzer, Thomas — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.1](#s1-3-1), [1.3.6](#s1-3-6), [1.6.6](#s1-6-6), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.6.1](#s2-6-1), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.15.2](#s2-15-2), [2.15.4](#s2-15-4), [2.15.6](#s2-15-6), [2.15.7](#s2-15-7), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.8](#s3-3-8), [3.4.1](#s3-4-1), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.2](#s4-2), [4.3.2](#s4-3-2), [4.4.4](#s4-4-4), [4.5.2](#s4-5-2), [4.6.3](#s4-6-3), [4.7.2](#s4-7-2), [4.8.2](#s4-8-2), [4.8.3](#s4-8-3), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.2](#s5-6-2), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.3](#s7-3-3), [7.4](#s7-4), [7.4.1](#s7-4-1), [7.4.3](#s7-4-3), [7.4.4](#s7-4-4), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.11.4](#s7-11-4), [7.13](#s7-13), [7.13.1](#s7-13-1), [7.13.4](#s7-13-4), [8.16.8](#s8-16-8), [8.19](#s8-19), [9.5.2](#s9-5-2), [9.5.3](#s9-5-3), [13.2.3](#s13-2-3), [13.9.1](#s13-9-1), [14.1](#s14-1), [14.5.2](#s14-5-2), [14.7.1](#s14-7-1)
+- Musculus, Andreas — [16.9.4](#s16-9-4)
 
 <a id="per-n"></a>**N**
 
@@ -54506,7 +55471,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Nervius, Johannes — [1.31.8](#s1-31-8)
 - Nieden, Arnd van — [16.5.2](#s16-5-2)
 - Nimwegen, Rudolf von — [7.11](#s7-11)
-- Noppus, Hieronymus — [1.21.3](#s1-21-3), [8.16.7](#s8-16-7), [8.17.3](#s8-17-3), [8.19](#s8-19), [16.7.3](#s16-7-3), [16.9](#s16-9), [16.10](#s16-10)
+- Noppus, Hieronymus — [1.21.3](#s1-21-3), [8.16.7](#s8-16-7), [8.17.3](#s8-17-3), [8.19](#s8-19), [16.7.3](#s16-7-3), [16.10](#s16-10), [16.11](#s16-11)
 
 <a id="per-o"></a>**O**
 
@@ -54520,7 +55485,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Pangratius, Andreas — [13.14.3](#s13-14-3), [14.6.7](#s14-6-7)
 - Pappus, Johannes — [18.4.3](#s18-4-3)
 - Pauli, Simon — [1.10.4](#s1-10-4)
-- Pfeffinger, Johann — [4.12](#s4-12), [6.3](#s6-3), [6.9](#s6-9), [10.11.7](#s10-11-7), [10.13](#s10-13), [14.5.5](#s14-5-5), [14.10](#s14-10), [16.10](#s16-10)
+- Pfeffinger, Johann — [4.12](#s4-12), [6.3](#s6-3), [6.9](#s6-9), [10.11.7](#s10-11-7), [10.13](#s10-13), [14.5.5](#s14-5-5), [14.10](#s14-10), [16.11](#s16-11)
 - Pflacher, Moses — [1.21.4](#s1-21-4)
 - Philipp, Landgrave of Hesse — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.5](#s1-5), [1.16.1](#s1-16-1), [6.1.4](#s6-1-4), [6.11](#s6-11), [11.2](#s11-2), [12.3.2](#s12-3-2), [17.11](#s17-11)
 - Philipp I, Count of Leiningen-Westerburg — [6.5](#s6-5)
@@ -54531,6 +55496,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Philipp II, Margrave of Baden — [1.22.1](#s1-22-1)
 - Philipp IV, Count of Hanau-Lichtenberg — [6.7](#s6-7)
 - Pistorius, Johannes — [1.34.1](#s1-34-1)
+- Plateanus, Petrus — [16.9.9](#s16-9-9)
 - Platina, Bartolomeo — [2.6.1](#s2-6-1)
 - Plauen, Anna von, Abbess of Gernrode — [1.7.13](#s1-7-13)
 - Porta, Conrad — [15.11.5](#s15-11-5), [18.5.3](#s18-5-3)
@@ -54554,6 +55520,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Rodtbart, Petrus — [1.14.4](#s1-14-4)
 - Rothmann, Bernhard — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.3.3](#s1-3-3), [1.33.6](#s1-33-6)
 - Runge, Jacob — [13.11.4](#s13-11-4)
+- Ruprecht, Wolfgang — [16.9.6](#s16-9-6)
 
 <a id="per-s"></a>**S**
 
@@ -54561,7 +55528,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Sam, Konrad — [1.26.2](#s1-26-2), [18.6.1](#s18-6-1), [18.13](#s18-13), [18.14](#s18-14)
 - Sarcerius, Erasmus — [1.7.8](#s1-7-8), [13.3.8](#s13-3-8), [13.10.2](#s13-10-2), [15.11.5](#s15-11-5)
 - Schaumberg, Hans Paul von — [13.14.3](#s13-14-3)
-- Schenk, Jacob — [1.6.5](#s1-6-5), [16.3.3](#s16-3-3), [16.10](#s16-10)
+- Schenk, Jacob — [1.6.5](#s1-6-5), [16.3.3](#s16-3-3), [16.11](#s16-11)
 - Schlemmer, Jakob — [13.14.3](#s13-14-3)
 - Schlüter, Gottfried — [17.10.4](#s17-10-4), [17.19](#s17-19)
 - Schnabel, Albert — [1.33.2](#s1-33-2)
@@ -54584,14 +55551,14 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Speratus, Paul — [8.11.2](#s8-11-2), [8.16.6](#s8-16-6), [8.18.5](#s8-18-5)
 - Stancarus, Francesco — [17.14.1](#s17-14-1)
 - Staphylus, Friedrich — [18.11.2](#s18-11-2)
-- Stieber, Thomas — [5.9](#s5-9), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.24](#s13-24), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.10](#s16-10), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
+- Stieber, Thomas — [5.9](#s5-9), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.24](#s13-24), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.11](#s16-11), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
 - Stiphelius, Laurentius — [8.A.1](#s8-a-1)
 - Streitberger, Johann — [9.5.4](#s9-5-4)
 - Sulzer, Simon — [1.31.8](#s1-31-8)
 
 <a id="per-t"></a>**T**
 
-- Tertullian — [6.11](#s6-11)
+- Tertullian — [6.11](#s6-11), [16.9.2](#s16-9-2)
 - Triller, Valentin — [8.9.1](#s8-9-1), [8.19](#s8-19)
 - Truchsess von Waldburg, Gebhard, Archbishop of Cologne — [1.33.1](#s1-33-1)
 
@@ -54621,7 +55588,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Wied, Hermann von, Archbishop of Cologne — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.33.1](#s1-33-1)
 - Wilhelm IV, Count of Henneberg — [1.7.9](#s1-7-9)
 - Wilhelm IV, Landgrave of Hesse-Kassel — [1.16.2](#s1-16-2)
-- Wilhelm the Younger, Duke of Brunswick-Lüneburg — [1.11.3](#s1-11-3), [10.8.3](#s10-8-3), [10.13](#s10-13), [16.7.5](#s16-7-5), [16.10](#s16-10)
+- Wilhelm the Younger, Duke of Brunswick-Lüneburg — [1.11.3](#s1-11-3), [10.8.3](#s10-8-3), [10.13](#s10-13), [16.7.5](#s16-7-5), [16.11](#s16-11)
 - Winkel, Heinrich — [7.15.2](#s7-15-2)
 - Wolfgang, Count of Hohenlohe — [10.13](#s10-13), [17.13.3](#s17-13-3)
 - Wolfgang, Count Palatine of Zweibrücken — [6.5](#s6-5), [6.6](#s6-6), [17.12.3](#s17-12-3)
@@ -54694,6 +55661,7 @@ They are not repeated here.
 - **canticle**. A song of Scripture other than a psalm, sung in the office: the *Benedictus* at Lauds, the *Magnificat* at Vespers, the *Nunc dimittis* at Compline, and the Old Testament canticles such as the *Benedicite*.
 - **cantional**. A school and choir book of the Latin and German chants of the year. Several orders required the cantionals of Spangenberg and Lossius. See [§8.18.6](#s8-18-6).
 - **cantor**. The master of the choir, usually a schoolmaster, who led the singing of the scholars at Mass and office. See [§13.12.3](#s13-12-3).
+- **cantrix** (Latin; Low German *sengersche*, German *Vorsängerin*). The precentress of a women's convent, who began the antiphons and psalms and ordered the singing of the choir. See [§16.9.6](#s16-9-6).
 - **ceroferarius** (Latin; also *accensor*). The candle-bearer, who carried a candle at the gospel and in processions. See [§16.4.4](#s16-4-4).
 - **chasuble** (German *Meßgewand*, *Casel*). The priest's outer vestment at Mass, a wide mantle without sleeves. Many Lutheran orders kept it; the Reformed abolished it. See [§14.7.1](#s14-7-1).
 - **choraliter** (Latin). Sung in plainsong, as against *figuraliter*, in figured music. See [§4.10.4](#s4-10-4).
@@ -54773,6 +55741,7 @@ They are not repeated here.
 - **Hanc igitur** (Latin). The prayer of the Canon that offers "this oblation of our service". See [§7.6.5](#s7-6-5), and *[Canon](#gl-canon)*.
 - **Handschlag** (German; Latin *stipulata manu*). The handclasp by which a promise was given, in betrothal and in the pledges of ministers and church officers. See [§13.7.8](#s13-7-8).
 - **Hauptlied** (German). "Chief hymn": the hymn of the day for a Sunday or feast. The word is later and does not occur in the corpus. See [§8.A](#s8-a).
+- **Heiligenpfleger** (German). In Swabia and Franconia, the lay churchwardens who kept the goods of the parish church (the "saint's" goods). See [§16.9.7](#s16-9-7).
 - **Hochzeit** (German). A wedding. In older use also a high feast, as in "the four *Hochzeiten*" (see *[Vierzeiten](#gl-vierzeiten)*).
 
 <a id="gl-i"></a>**I**
@@ -54858,9 +55827,10 @@ They are not repeated here.
 - **prayer day** (German *Bettag*). A day of prayer and repentance appointed by the authorities, weekly, monthly or in time of war, plague and the Turkish threat, with a sermon of repentance at its centre. See [§11.4.5](#s11-4-5).
 - **preces** (Latin). A series of short versicles and responses, with the Kyrie and the Lord's Prayer, said at the end of an office. See [§10.7.5](#s10-7-5).
 - **Preface**. The thanksgiving that opens the eucharistic prayer, after the dialogue *Sursum corda*, and leads into the Sanctus. The *Proper Prefaces* vary it for the seasons and feasts. See [§2.10](#s2-10), [§4.8](#s4-8).
-- **presbyterae** (Latin). The women elders of the Bohemian Brethren, elected by the women. See [§16.6.4](#s16-6-4).
+- **presbyterae** (Latin). The women elders of the Bohemian Brethren, elected by the women. See [§16.6.4](#s16-6-4), [§16.9.3](#s16-9-3).
 - **private confession** (German *Beicht*, *Ohrenbeicht*). Confession of sins to the pastor alone, with his absolution, before communion. See [§13.17](#s13-17).
 - **Probepredigt** (German). The trial sermon a candidate preached before his examination or appointment. See [§11.11.2](#s11-11-2).
+- **prophecy** (German *Prophezei*). In Micron's Dutch church in London, the weekly meeting at which chosen men of the congregation questioned the ministers on the week's preaching, or expounded a book of Scripture in turn. See [§16.9.8](#s16-9-8).
 - **public penance** (German *Kirchenbuße*). Penance done before the congregation for an open sin, ending in public reconciliation. See [§13.16](#s13-16).
 - **pyx**. A small box for the host, above all for carrying the sacrament to the sick. See [§14.6.7](#s14-6-7).
 
