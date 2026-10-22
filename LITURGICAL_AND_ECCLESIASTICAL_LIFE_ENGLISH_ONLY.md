@@ -1259,8 +1259,15 @@
     - [13.22.4 The Litany days](#s13-22-4)
     - [13.22.5 The Litany at the feasts and seasons](#s13-22-5)
     - [13.22.6 Good Friday: the Litany and the solemn prayers](#s13-22-6)
-  - [13.23 Table by order](#s13-23)
-  - [13.24 Concordance of the orders quoted](#s13-24)
+  - [13.23 Sorcery and the cleansing of houses and things](#s13-23)
+    - [13.23.1 The old means of cleansing abolished](#s13-23-1)
+    - [13.23.2 A house troubled by the devil: prayer](#s13-23-2)
+    - [13.23.3 The tools of sorcery burned](#s13-23-3)
+    - [13.23.4 Images, fonts and chapels of the old cult](#s13-23-4)
+    - [13.23.5 The things of the sacraments guarded](#s13-23-5)
+    - [13.23.6 The persons: repentance, not purification](#s13-23-6)
+  - [13.24 Table by order](#s13-24)
+  - [13.25 Concordance of the orders quoted](#s13-25)
 - [Chapter 14. Art, Architecture, Paraments and Vestments](#ch14)
   - [14.1 Summary of findings](#s14-1)
   - [14.2 Scope, sources and method](#s14-2)
@@ -1596,7 +1603,8 @@ Interim. Each of the other chapters takes one subject through the whole edition:
   ([Chapter 9](#ch9));
 - the daily office ([Chapter 10](#ch10)), preaching ([Chapter 11](#ch11)) and the church year
   ([Chapter 12](#ch12));
-- the occasional and extraordinary rites, from baptism to the Litany ([Chapter 13](#ch13));
+- the occasional and extraordinary rites, from baptism to the Litany, and what was done with
+  houses and things that sorcery had touched ([Chapter 13](#ch13));
 - the furnishing of worship: art, architecture, paraments and vestments ([Chapter 14](#ch14));
 - the duties of ministers, officers and people ([Chapter 15](#ch15)), and the ministries
   themselves: minor orders, deacons and elders, and what women and laymen might do in the
@@ -36850,7 +36858,8 @@ Kirchenordnungen des XVI. Jahrhunderts* (The Evangelical Church Orders of the Si
   Palm Sunday, Holy Week, Easter, Ascension, Whitsun, Septuagesima and Trinity.
 - [§13.22](#s13-22) covers the Litany, the suffrages and the Good Friday solemn prayers at the Mass and in the
   services that stood in for it.
-- [§13.23](#s13-23) is a table by order, and [§13.24](#s13-24) a concordance of every order quoted.
+- [§13.23](#s13-23) covers sorcery and the cleansing of houses, churches and things.
+- [§13.24](#s13-24) is a table by order, and [§13.25](#s13-25) a concordance of every order quoted.
 
 Each topic is supported by quotations in the original language (Early New High German, Low
 German or Latin), each followed by an English translation.
@@ -36992,6 +37001,20 @@ Good Friday solemn prayers: eleven German biddings, each with a collect, without
 genua*, the pope or the pagans, and with new prayers for persecutors, false Christians and
 enemies. No order has a Litany at the Easter Vigil.
 
+**17. Sorcery: no rite of cleansing** ([§13.23](#s13-23)). No order exorcizes, sprinkles or
+reconsecrates a house, a church or a thing that sorcery or the devil had touched. The holy
+water, salt, herbs and candles of the old cleansing were themselves called sorcery and "the
+devil's doctrines" (Braunschweig 1528). What the orders prescribe instead:
+- **Prayer.** Mecklenburg 1540 and Pomerania 1542 bless the sick man's house with a prayer that
+  God drive out "all spooks, ghosts and power of the devil".
+- **Burning.** The tools of sorcery were burned in public: the charms, the written blessings,
+  the blessed and bewitched things and the sorcerers' books (Württemberg 1552, Hohenlohe 1558
+  and 1588, Castell 1579). Worshipped images were broken and burned (Mecklenburg 1552, Sponheim
+  1566).
+- **Guarding.** The baptismal water was poured away at once, so that no sorcerer could have it.
+- **Repentance.** Those who had sought out charmers asked pardon before the congregation and
+  were absolved, or were kept from the Supper.
+
 #### <a id="s13-1-2"></a>13.1.2 Where the full liturgies are
 
 The forms printed in full or quoted at length in this chapter are:
@@ -37023,6 +37046,7 @@ The forms printed in full or quoted at length in this chapter are:
 | Deposition of a minister | Hesse 1566 (Moderate Reformed) ([13.19.3](#s13-19-3)) |
 | Visitation | Pfalz-Neuburg 1560 ([13.20.1](#s13-20-1)) |
 | Litany in place of the Mass; Good Friday solemn prayers | Pfalz-Neuburg 1543, Mecklenburg 1552, Grubenhagen 1544, Hof 1592 ([13.22.1](#s13-22-1)); Waldeck 1556 ([13.22.2](#s13-22-2), [13.22.6](#s13-22-6)); Pomerania 1569 ([13.22.4](#s13-22-4)) |
+| Blessing of a house against the devil | Mecklenburg 1540/1545, Pomerania 1542 ([13.23.2](#s13-23-2)) |
 
 ---
 
@@ -37053,6 +37077,7 @@ covers:
 - marks of the clerical and sacred state: the tonsure, the deconsecration of churches and
   vessels;
 - processions;
+- what was done with houses, churches and things that sorcery or the devil had touched;
 - other occasional services, such as the parish visitation.
 
 **Full liturgies and summaries.** Where an order prints a full rite, the chapter gives its order
@@ -37094,6 +37119,11 @@ read in context, and then the full passages were pulled from the relevant orders
 - **Discipline.** *Bann* (ban), *kleiner* (lesser) and *großer Bann* (greater ban), *excommunicatio* (excommunication), *dem Satan übergeben* (deliver to Satan),
   *ausschließen* (exclude), *abschneiden* (cut off), *öffentliche Buße* (public penance), *Kirchenbuße* (church penance), *Absolution*, *wieder
   aufnehmen* (receive again), *reconciliatio* (reconciliation).
+- **Sorcery and cleansing.** *Zauberei* (sorcery), *töverie* (sorcery), *Hexe* (witch), *Unhold* (witch), *Segner* (charmer),
+  *Segensprecher* (charmer), *Wahrsager* (soothsayer), *Christallseher* (crystal-gazer), *Teufelsbeschwerer* (devil-conjurer), *Gespenst* (ghost),
+  *Poltergeist*, *spökenisse* (spooks); *verbrennen* (burn), *zerbrechen* (break), *reinigen* (cleanse), *reconciliatio*,
+  *exorcismus salis* (exorcism of salt); *Taufwasser* (baptismal water), *Hostien* (hosts) and *Altartuch* (altar cloth) with *Zauberei*; *Haus* (house) with
+  *segnen* and *beschweren*.
 
 **Related chapters.**
 
@@ -37893,11 +37923,11 @@ Of leading in and the like. Henceforth shall be wholly done away the leading in 
 of the woman after childbed, sprinkling, the hallowing of salt and water, ringing for the souls
 and ringing against the weather, and whatever more there is of such things.
 
-The same words recur at Saalfeld in 1533, in the general report for the Meissen district of 1540
-and in Quedlinburg (Sehling 1, pp. 654, 565; 2, p. 262). Brandenburg-Nürnberg in 1533 joined the
-abolition to pastoral teaching for the women themselves. Women in childbed are not in the
-devil's power, and their visions and dreams come from bodily weakness. **Brandenburg-Nürnberg,
-*Kirchenordnung*, 1533** (Sehling 11, p. 177):
+The same words recur in the Salza order and the general report for the Meissen district, both of
+1540, and in Quedlinburg (Sehling 1, pp. 654, 565; 2, p. 262). Brandenburg-Nürnberg in 1533
+joined the abolition to pastoral teaching for the women themselves. Women in childbed are not
+in the devil's power, and their visions and dreams come from bodily weakness.
+**Brandenburg-Nürnberg, *Kirchenordnung*, 1533** (Sehling 11, p. 177):
 
 <!-- doc 270 -->
 
@@ -41498,10 +41528,10 @@ parish, the common chest and the poor.
 **Orderly removal.** Strasbourg in 1525 (Moderate Reformed) forbade any burgher, cleric or
 layman, to remove or break "images, altars, panels, iron or stonework" on his own authority;
 anyone with a grievance was to bring it to the council (Sehling 20/1, p. 166). The Saxon
-visitors at Saalfeld in 1533 ordered the council to clear the churches of their screens,
-candles, banners and images and of all altars but one, to put pews in their place, to close the
-minster and pull down a chapel, using its stone and timber for the bridge. **Saalfeld,
-visitation order, 1533** (Sehling 1, p. 654):
+visitors at Salza in 1540 ordered the council to clear the churches of their screens, candles,
+banners and images and of all altars but one, to put pews in their place, to close the minster
+and pull down a chapel, using its stone and timber for the bridge. **Salza, *Kirchen-Ordnung für
+Salza*, 1540** (Sehling 1, p. 654):
 
 <!-- doc 125 -->
 
@@ -42512,7 +42542,345 @@ general prayer after the Passion sermon.
 
 ---
 
-### <a id="s13-23"></a>13.23 Table by order
+### <a id="s13-23"></a>13.23 Sorcery and the cleansing of houses and things
+
+This section asks whether the orders prescribe anything for cleansing a house, a church or an
+object that had been used in sorcery, witchcraft or the service of the devil.
+
+**No rite of cleansing.** The orders give no such rite. No order exorcizes, sprinkles, blesses
+anew or reconsecrates a house, a stall, a church or a thing that sorcery or the devil had
+touched. The old means of cleansing were holy water, exorcized salt and blessed herbs and
+candles. The orders abolished them, and called them superstition and sorcery in their own right
+([§13.15](#s13-15), [§13.23.1](#s13-23-1)). Churches were neither dedicated nor reconciled (§§[13.14.1](#s13-14-1),
+[13.19.2](#s13-19-2)). What the orders do prescribe is:
+
+- **prayer** in the house, without water or exorcism: Mecklenburg and Pomerania bless the
+  house when the pastor visits the sick ([§13.23.2](#s13-23-2)), and Pomerania prays over the possessed
+  ([§13.8.7](#s13-8-7));
+- **burning in public** for the tools of sorcery: charms, written blessings, blessed or
+  bewitched objects and the sorcerers' books ([§13.23.3](#s13-23-3));
+- **breaking and burning** for the images, fonts and chapels of the old cult, which the orders
+  call idolatry and rank with sorcery ([§13.23.4](#s13-23-4));
+- **guarding** the things of the sacraments, so that the baptismal water, the hosts and the
+  altar could not be taken for sorcery ([§13.23.5](#s13-23-5));
+- **repentance** for the persons, or punishment: public apology and absolution, exclusion from
+  the Supper, and the magistrate's penalties ([§13.23.6](#s13-23-6)).
+
+**The one reconciliation of churches.** The only reconciliation of churches in the corpus is a
+Catholic one. In 1549 the Interim gave Strasbourg's collegiate churches back to the old clergy,
+and the bishop asked for the churches to be reconciled and their altars rebuilt and
+consecrated. The arbiters held that the reconciliation was unnecessary and might well be left
+undone. The chapters were to rebuild at their own cost the altars the Interim required. The
+bishop was asked to see to their consecration, and to the reconciliation if the law required
+it at all, which the arbiters did not believe, without offence (Sehling 20/1, pp. 369–370;
+[§1.4](#s1-4)).
+
+#### <a id="s13-23-1"></a>13.23.1 The old means of cleansing abolished
+
+**Holy water against the devil.** The medieval church cleansed houses, stalls and churchyards
+with holy water and drove off the devil and the storm with blessed salt, herbs and candles
+([§13.15.1](#s13-15-1)). Bugenhagen's Braunschweig order of 1528 answers that these creatures were made
+to be used with thanks, not to take away sins or drive away devils. The more holy water there
+was, the more poltergeists. **Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1, pp. 389–390):
+
+<!-- doc 1983 -->
+
+Now we know well whereto water, fire, lights, herbs and fruit are created and given us of God:
+that we should use them; not that a man should take away his daily sins with holy water and
+drive away the devils therewith (yea, the more holy water we had, the more poltergeists also);
+nor that a man should ward off the thunder with lights and herbs, and work sorcery with herbs in
+the bed and in the cellar by the beer. Beside that, all this is devised against the grace of
+our Lord Christ, who alone taketh away sin, and against the Christian prayer, wherewith we
+should call upon our dear Father through Christ in all our needs of body and soul. That
+helpeth in these matters, and no water, fire or herb; for such creatures are not created and
+given or commanded of God for such matters.
+
+**The devil's doctrine.** The order then turns to water itself. **Braunschweig,
+*Kirchenordnung*, 1528** (Sehling 6/1, p. 391):
+
+<!-- doc 1983 -->
+
+Water is a good creature, created us of God to wash, to cook, to drink, to quench, to cool, to
+bathe, to sprinkle, etc., that is, to use; for which we should thank God. Wherefore then should
+we set up a prayer, which yet were no prayer but blasphemy, that we might make the water into
+something else, for a use whereto God hath not created it […]: that the water (as they have
+taught and also used it) should serve us for the washing away of our daily sins, which they
+have called venial; to sprinkle and refresh the souls in the churchyard, which is a mockery
+besides; to drive the devils out of the house, and all evil from the swine and the cattle?
+Away, away with the devil's doctrines and works, which have darkened Christ for us!
+
+The Nassau-Dillenburg order of 1537 asks the same question: where is the word of God that says
+that holy water "driveth the devil out of houses" ([§13.15.1](#s13-15-1))?
+
+**The exorcisms of the creatures.** The exorcism at baptism was kept in many Lutheran orders as
+a prayer over the child ([§13.4](#s13-4)). The exorcisms of salt and water, which made the holy water
+that was sprinkled to drive the devil from a place, were not kept. Thomas Stieber's instruction
+for Wolfstein keeps the baptismal exorcism, to be used "as a prayer" and not as "the sorcerers
+adjure the devil". It then turns to the exorcisms of the creatures. **Wolfstein, *Christliche
+Instructio* of Thomas Stieber, 1574** (Sehling 13, p. 578):
+
+<!-- doc 463 -->
+
+Herewith are meant also the exorcisms of salt, water, oil and chrism; for such exorcisms are
+godless, because such unreasoning creatures are adjured as though they were possessed of the
+devil. Moreover a special power and working is ascribed to them against God's word, as *the
+salt exorcized to put the enemy to flight*, as is found in the *Actus sacerdotalis* [the
+priests' handbook].
+
+The editors give the usual form, which bade every wickedness of the devil's deceit and every
+unclean spirit flee "from the place where thou shalt be sprinkled" (*ab eo loco, quo aspersus
+fueris*; Sehling 13, p. 578, editors' note). The Transylvanian order of 1547 buries all such
+consecrations together. **Transylvanian Saxons, *Kirchenordnung*, 1547**, Latin version
+(Sehling 24, p. 225):
+
+<!-- doc 1669 -->
+
+For the offerings for the dead, with the other ungodly traffickings, are driven out of the
+churches; and likewise let all the superstitious consecrations of divers creatures, the
+exorcisms, and the other works of heathen idolatry and of Jewish observances remain wholly
+buried for the time to come.
+
+**The hallowing is the defilement.** Some people still ran to the Mass-priests and monks to have
+their wax, palms, candles and herbs hallowed. Leiningen's discipline order of 1566 forbids
+this, because these things were afterwards used for sorcery. It calls the
+hallowing itself a defiling and a profaning. **Leiningen, *Kirchenzuchtordnung*, 1566**
+(Sehling 19/1, p. 228):
+
+<!-- doc 1073 -->
+
+XII. Of the hallowing of herbs. We forbid that any man henceforth run to the godless,
+superstitious Mass-priests or monks and let wax, palms, candles or herbs be hallowed, with
+which men afterward practise sorcery, charming and witchcraft; for all creatures are made and
+created good by God himself. But such defiling and profaning shall be wholly put down and
+forbidden, and so remain, on pain of ten gulden.
+
+The Thüngen order of 1564 gives the same reason for abolishing the churching of women: it had
+bred "superstition and sorcery with blessings, St John's Gospel, hallowed waters, salt, herbs,
+candles and the like" ([§13.5.1](#s13-5-1)).
+
+#### <a id="s13-23-2"></a>13.23.2 A house troubled by the devil: prayer
+
+**The blessing of the house of the sick.** Two Low German orders give a prayer over a house.
+When the pastor went into the house of a sick man to give him the Supper, he greeted it with
+the greeting that Christ commanded (Luke 10:5), and the sexton answered. Then the pastor might
+say a prayer, in Latin or in German, that God would drive out of the house all the spooks,
+ghosts and power of the devil. There is no water, salt or exorcism. The prayer is said once, as
+the visit begins. Pomerania lets the whole form be shortened in a time of plague, when the
+pastor has many to visit, or when the sick man is near his end. The Mecklenburg order of 1540
+and the Pomeranian order of 1542 have the same rubric and the same prayers (Sehling 4, p. 365).
+**Mecklenburg, *Ordeninge der misse*, 1540/1545** (Sehling 5, p. 158):
+
+<!-- doc 1922 -->
+
+and when the pastor goeth into the house, he shall speak the greeting which Christ hath
+commanded: Peace be with this house; and the sexton shall answer: And with all that dwell
+therein. And the pastor may say this prayer in Latin or in German: *From this thy house, we
+beseech thee, O Lord, let the spiritual wickednesses be driven back, and let the malice of the
+tempests of the air depart; through our Lord, etc.* Lord, bless this house, and drive out of it
+all spooks, ghosts and power of the devil, that it, being thus hallowed, may be a dwelling for
+thee; through Jesus Christ our Lord. The sexton shall say: Amen.
+
+The Latin collect asks that the spirits of wickedness and the storms be kept from "this thy
+house". The German prayer is a free version of it. It leaves out the storms, asks God to bless
+the house, and names what is to be driven out: the devil's spooks, ghosts and power. The house
+is to be hallowed by becoming God's dwelling.
+
+**Poltergeists are devils.** No order in the corpus says how a house that a ghost haunted was to
+be cleared. The orders say what the ghost was. The "poltergeists" whose appearances had brought
+in the Masses for the souls were devils, and God forbids seeking the truth from the dead
+(Deuteronomy 18:11; Isaiah 8:19). **Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1,
+p. 428):
+
+<!-- doc 1983 -->
+
+Poltergeists, which have been nothing else but devils, as is manifest, have made us many
+soul-Masses, which are not commanded us by God's word.
+
+Hamburg in 1529 says the same of "the poltergeists, which are devils" (Sehling 5, p. 520). For
+a possessed person in the house, Pomerania in 1569 greets the house with "The peace of our Lord
+Jesus Christ be in this house" and resists Satan "with prayers and contempt" ([§13.8.7](#s13-8-7)).
+
+#### <a id="s13-23-3"></a>13.23.3 The tools of sorcery burned
+
+**Württemberg and Hohenlohe: the sorcerers' books.** The police orders of the princes deal with
+the sorcerers' tools. The Württemberg territorial order (*Landesordnung*) of 1552, which
+Hohenlohe took over almost word for word in 1558, bids the officials not to suffer sorcerers,
+devil-conjurers and charmers. Those who will not leave off are to have their books, and
+whatever else they use, burned, and are to be banished. **Hohenlohe, *Polizeiordnung*, 1558** (Sehling 15, p. 139):
+
+<!-- doc 550 -->
+
+we hereby earnestly command that all sorcerers, devil-conjurers, charmers and other such
+idolaters be not suffered in our lordship, but be earnestly held by our officials to leave off
+therefrom. But whoso, above such admonition, will continue in their idolatrous ways and will
+not leave off therefrom, their books, and whatever else they use thereto, shall be burned, and
+they themselves banished out of our lordship.
+
+Where Hohenlohe has "their books", the Württemberg text has their *prillen*, their "glasses"
+(Sehling 15, p. 139, editors' note).
+
+**Castell and Hohenlohe: burned before the congregation.** The Castell village order for
+Obereisenheim of 1579 fines those who resort to soothsayers, or who have themselves or their
+goods blessed or kept from harm with hallowed salt, wax, herbs and water. The hallowed or
+bewitched things and the written charms are to be taken from them and burned before the whole
+congregation, at the church or the town hall. Hohenlohe's police order of 1588 copies the
+article and has them burned "at the church" (Sehling 15, p. 580). **Castell, *Dorfordnung für
+Obereisenheim*, 1579** (Sehling 11, p. 691):
+
+<!-- doc 315 -->
+
+But if any man, whosoever he were, above such punishment and faithful warning, should run
+after soothsayers and take counsel of them about any things that he had lost, or that had
+otherwise gone against him; or should let himself or his goods be blessed under colour of
+physic, or be kept or healed with hallowed salt, wax, herbs, water and other sorceries or
+superstitious child's play: he shall forfeit unto us ten gulden without remission. And the
+hallowed or bewitched superstitious pieces and the written charms, where any of them be yet in
+being, shall be taken from him and burned openly before a whole congregation at the church or
+the town hall; for God hath forbidden us such superstition by Moses many times.
+
+The article goes on to cite Leviticus 19:26 and 19:31, Leviticus 20:6 and Deuteronomy 18:10–11.
+Whoever still would not leave off was to be put in the tower on bread and water, "since God the
+Lord hath already hallowed and sanctified all things through Christ, without our word, cross,
+chant and self-devised ceremonies" (Sehling 11, p. 691). The Lippe order of 1571 deprives a
+sexton who wrote out St John's Gospel to hang about people's necks "for all manner of sickness
+and sorcery" ([§13.12.2](#s13-12-2)).
+
+#### <a id="s13-23-4"></a>13.23.4 Images, fonts and chapels of the old cult
+
+**Idolatry beside sorcery.** The orders put idolatry beside sorcery, as Paul does among the
+works of the flesh (Galatians 5:20). They dealt with the furnishings of the old cult as they
+dealt with the tools of sorcery: these were taken away, broken and burned, or turned to common
+use. The removal of images is treated at length in §§[14.4.2](#s14-4-2)–[14.4.4](#s14-4-4), and the clearing of
+churches and chapels in [§13.19.2](#s13-19-2). Three orders speak of breaking and burning.
+**Mecklenburg, *Processus visitationis*, 1552** (Sehling 5, p. 224):
+
+<!-- doc 1925 -->
+
+But to the churchwardens command is given to put the ciboria and the altars, item the banners,
+away out of the church. […] And where it is learned that there is any idol or image which men
+were wont to worship, it is forthwith put away, broken and burned.
+
+**Sponheim 1566: the fonts of the "bewitched" water.** The Front County of Sponheim was held
+jointly by the Elector Palatine and the margrave of Baden. When it was reformed in 1566, the
+Palatine councillors (Reformed) held that God's word commands more than the altars and idols to
+be broken down. They named the Mass vestments, the portable altars, the sacrament-houses, and
+the fonts "in which the bewitched baptismal water was kept". The joint chief officer and the
+Baden clerk objected. After a compromise the work was done in four villages, and the Palatines
+burned some of the idols, among them the images to which graces and indulgences had been tied.
+Baden then protested against "Zwinglian and sacramentarian image-storming". **Sponheim (Vordere
+Grafschaft), *Reformation in der Vorderen Grafschaft Sponheim*, 1566** (Sehling 18, p. 630):
+
+<!-- doc 1015 -->
+
+item the sacrament-houses; likewise the fonts in which the bewitched baptismal water was kept;
+item the idols before which special Masses were read, and the fairer the idol, the mightier the
+Mass was esteemed: all which, together with other things that serve idolatry, God the Lord hath
+commanded in his word to be broken down and put away. […] of which [idols] some, and in
+especial the idols of grace and of indulgence, were burned with fire by the Palatines.
+
+**Transylvania 1607: burned, but by degrees.** The Transylvanian synod of 1607 calls the idols
+"sure instruments of idolatry", which God commanded to be destroyed, broken and burned. It
+bids the pastors remove them slowly, out of the hearers' minds before their eyes.
+**Transylvanian Saxons, *Articuli de ceremoniis*, 1607** (Sehling 24, p. 493):
+
+<!-- doc 1726 -->
+
+No less needful were this article also: that the idols should depart and be cast out of the
+temples appointed for divine worship, as sure instruments of idolatry, teachers of lies, and an
+adornment that becometh not the Church of God but that Babylonian harlot with whom the kings of
+the earth have committed whoredom. Wherefore also God commanded that they be neither made nor
+worshipped, but destroyed, broken, yea burned with fire. But since here also it is to be
+feared that we may effect little or nothing with the patrons of the idols, let us bear for a
+time what cannot be changed suddenly. Yet let the pastors strive to remove, by little and little
+and without tumult, the things which they see to be the tinder of superstition, and cast them
+out of the minds of the hearers before their eyes.
+
+#### <a id="s13-23-5"></a>13.23.5 The things of the sacraments guarded
+
+**Water, hosts and the altar cloth.** The sorcerers sought the church's own things: the
+baptismal water, the hosts and the altar. The orders do not purify these things after they have
+been misused. They keep them from misuse beforehand. **Wolfstein, *Christliche Instructio* of
+Thomas Stieber, 1574** (Sehling 13, p. 572):
+
+<!-- doc 463 -->
+
+Ninthly, the pastors shall take diligent heed that no sorcery be practised with the things that
+are used for the administration of the most worthy sacraments, as hath been done, and is yet
+done, with the baptismal water; or that some lay herbs or other things under the altar cloth,
+and have Mass said over them, and use such things for sorcery.
+
+**The water poured away.** Grubenhagen in 1581 bids the sextons pour the baptismal water away
+at once, since sorcerers begged or bought it for their sick cattle. **Grubenhagen,
+*Kirchenordnung*, 1581** (Sehling 6/2, p. 1049):
+
+<!-- doc 2058 -->
+
+Forasmuch as there are also found at times sorcerous, superstitious people, which misuse the
+baptismal water for their sick cattle, and beg or buy it of the sextons, the sextons shall, on
+pain of losing their office and of our earnest punishment, beware thereof, and for that cause
+pour away the water forthwith, and otherwise keep the fonts clean and neat.
+
+The Upper Palatine visitors of 1579 had heard that some misused the baptismal water for
+superstition. They asked the sextons whether anyone begged it of them and where they poured it
+out, and gave them this order. **Upper Palatinate, *Visitationsordnung*, 1579**
+(Sehling 13, p. 317):
+
+<!-- doc 416 -->
+
+And it is thereupon commanded them: 1. That they give or let go the baptismal water to no one,
+under whatsoever colour it may be desired; 2. but pour it out as soon as the action is ended,
+on the churchyard or another clean and convenient place, without superstition.
+
+Electoral Saxony in 1580 forbade the bell-ringers to sell the leftover water and the hosts,
+"which are afterward used for sorcery" ([§16.7.1](#s16-7-1)). The later orders count the communicants
+and consume what remains of the elements (§§[13.20.3](#s13-20-3), [13.20.5](#s13-20-5)).
+
+#### <a id="s13-23-6"></a>13.23.6 The persons: repentance, not purification
+
+**Public apology and absolution.** What the orders cleanse is the conscience. Nassau-Dillenburg
+in 1570 would not suffer sorcerers, soothsayers or charmers in the land. Those who ran after
+them and had their children, cattle and goods bewitched and blessed were to ask pardon openly
+before the congregation and be absolved. **Nassau-Dillenburg, *Visitationsabschied*, 1570**
+(Sehling 10, p. 113):
+
+<!-- doc 180 -->
+
+Likewise shall no sorcerers, soothsayers and charmers be suffered, but be punished according
+to the laws and banished out of the land. And they that join themselves unto them, run after
+them, take counsel with them, and after the warning given let their children, cattle and
+living be bewitched and blessed: they shall be held by their pastors, beside openly asking
+pardon before the Christian congregation for the offence they have given, to let themselves be
+absolved of their grievous sin committed; and they shall also be punished by the magistrate
+according to the matter and the person.
+
+**Exclusion from the Supper.** The Transylvanian synod at Mediasch in 1595 barred from the Supper
+those who sought help in sickness from magicians and soothsayers. A pastor who did so was to be
+suspended from his office for a month before the elders of his community and fined ten florins
+by the chapter. **Transylvanian Saxons, *Synodalartikel gegen Zauberei* (Mediasch), 1595**
+(Sehling 24, p. 478):
+
+<!-- doc 1721 -->
+
+Whosoever betake themselves to magicians and soothsayers, seeking of them help or any relief of
+sickness, ought to be deprived of the Lord's Supper.
+
+**Caution before the fire.** The orders that treat sorcery as a crime leave its trial to the
+magistrate and the imperial law. The Solms order of 1584 punishes it "in body and life" (Sehling
+9, p. 326), and the Burzenland articles of 1578 "with fire" (Sehling 24, p. 449). Two orders
+warn against haste. Hohenlohe in 1558 would have no court act on what a soothsayer said against
+anyone, since "the devil is nothing but a liar" (Sehling 15, p. 139). Count John VI of
+Nassau-Dillenburg ordered a secret inquiry into each person accused of witchcraft, before any
+arrest. **Nassau-Dillenburg, *Zaubereimandat*, 1582** (Reformed; Sehling 10, p. 175):
+
+<!-- doc 187 -->
+
+that in matters which concern body and life, and above all the salvation of the soul, men must
+not proceed lightly and upon a bare accusation, nor hasten to lay hold of anyone and imprison
+him before better inquiry, much less to the fire.
+
+---
+
+### <a id="s13-24"></a>13.24 Table by order
 
 **How to read the table.** The table lists the orders that give the principal forms. For each
 order it shows which rites it supplies in full or in quotation, and what it abolishes. Section
@@ -42551,7 +42919,7 @@ numbers refer to this chapter.
 | Pfalz-Zweibrücken 1539 | visitation of the sick by James 5 ([13.8.1](#s13-8-1)) | the oil of the sick ([13.8.1](#s13-8-1)) |
 | Lippe 1538 | the gospel in place of the last oil ([13.8.1](#s13-8-1)) | extreme unction ([13.8.1](#s13-8-1)) |
 | Esslingen 1532 (Moderate Reformed) | — | the tonsure ([13.19.1](#s13-19-1)) |
-| Saalfeld 1533 | — | altars, images, a chapel ([13.19.2](#s13-19-2)) |
+| Salza 1540 | — | altars, images, a chapel ([13.19.2](#s13-19-2)) |
 | Grubenhagen 1581 | lesser and greater ban ([13.16.1](#s13-16-1)); absolution from the ban ([13.16.6](#s13-16-6)) | — |
 | Micron's *Ordinancien* 1554 (East Frisia 1565) (Reformed) | installation of elders and deacons ([13.12.1](#s13-12-1)); Reformed excommunication and readmission ([13.16.7](#s13-16-7)) | — |
 | Lippe 1571 | the sexton's pledge ([13.12.2](#s13-12-2)) | charms and amulets ([13.12.2](#s13-12-2)) |
@@ -42608,14 +42976,20 @@ numbers refer to this chapter.
 | Zweibrücken 1533, Pfalz-Veldenz 1574 | Litany in the Christmas, Easter and Whitsun weeks ([13.22.5](#s13-22-5)) | — |
 | Schwäbisch Hall 1543, Limpurg 1610 | Litany on Good Friday ([13.22.6](#s13-22-6)) | — |
 | Waldeck 1556 | eleven Good Friday biddings with collects, in German ([13.22.6](#s13-22-6)) | *Flectamus genua*; the prayers for the pope and the pagans ([13.22.6](#s13-22-6)) |
+| Braunschweig 1528, Transylvanian Saxons 1547, Leiningen 1566, Wolfstein 1574 | — | holy water, exorcized salt and hallowed herbs and candles against the devil and as means of sorcery ([13.23.1](#s13-23-1)) |
+| Mecklenburg 1540/1545, Pomerania 1542 | blessing of the house of the sick against the devil's spooks ([13.23.2](#s13-23-2)) | — |
+| Württemberg 1552, Hohenlohe 1558 and 1588, Castell 1579 | public burning of charms, written blessings, hallowed and bewitched things and sorcerers' books ([13.23.3](#s13-23-3)) | — |
+| Mecklenburg 1552, Sponheim 1566 (the Palatine councillors), Transylvanian Saxons 1607 | worshipped images broken and burned; fonts and sacrament-houses broken down ([13.23.4](#s13-23-4)) | — |
+| Wolfstein 1574, Upper Palatinate 1579, Grubenhagen 1581 | baptismal water poured away at once; nothing laid under the altar cloth ([13.23.5](#s13-23-5)) | the gift or sale of the baptismal water ([13.23.5](#s13-23-5)) |
+| Nassau-Dillenburg 1570 and 1582 (Reformed), Transylvanian Saxons 1595 | public apology and absolution; exclusion from the Supper; inquiry before arrest ([13.23.6](#s13-23-6)) | — |
 
 ---
 
-### <a id="s13-24"></a>13.24 Concordance of the orders quoted
+### <a id="s13-25"></a>13.25 Concordance of the orders quoted
 
 **The concordance.** Every order quoted in this chapter is listed below, with the volume and pages
 of Sehling and the sections where it is quoted. Orders cited only in summary can be found
-through the table in [§13.23](#s13-23) and the text.
+through the table in [§13.24](#s13-24) and the text.
 
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
@@ -42630,18 +43004,19 @@ through the table in [§13.23](#s13-23) and the text.
 | Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | [13.4.3](#s13-4-3) |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, pp. 135, 138 | [13.3.2](#s13-3-2), [13.20.3](#s13-20-3) |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, pp. 174, 177, 180, 201–202, 203 | [13.3.1](#s13-3-1), [13.3.4](#s13-3-4), [13.5.1](#s13-5-1), [13.7.2](#s13-7-2), [13.9.3](#s13-9-3) |
-| Braunschweig | *Kirchenordnung* | 1528 | 6/1, p. 360 | [13.4.2](#s13-4-2) |
+| Braunschweig | *Kirchenordnung* | 1528 | 6/1, pp. 360, 389–390, 391, 428 | [13.4.2](#s13-4-2), [13.23.1](#s13-23-1), [13.23.2](#s13-23-2) |
 | Brunswick | *Kirchenordnung* | 1528 | 6/1, p. 379 | [13.20.4](#s13-20-4) |
 | Brunswick-Wolfenbüttel | *Klosterordnung* | 1569 | 6/1, pp. 325–326 | [13.12.10](#s13-12-10) |
 | Calenberg-Göttingen | *Ordnung der confirmation oder firmung* | 1542 | 6/2, pp. 838–839, 843 | [13.6.3](#s13-6-3) |
 | Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, pp. 799, 812 | [13.15.1](#s13-15-1), [13.22.4](#s13-22-4) |
+| Castell | *Dorfordnung für Obereisenheim* | 1579 | 11, p. 691 | [13.23.3](#s13-23-3) |
 | Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | [13.8.2](#s13-8-2), [13.16.2](#s13-16-2) |
 | Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | [13.6.1](#s13-6-1), [13.10.1](#s13-10-1) |
 | Esslingen (Moderate Reformed) | *Mandat für die altgläubigen Geistlichen* | 10 August 1532 | 17/2, p. 371 | [13.19.1](#s13-19-1) |
 | Gengenbach (Moderate Reformed) | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | [13.12.3](#s13-12-3) |
 | Goslar | *Bericht der Stadt Nürnberg für den Goslarer Rat* | 30 March 1528 | 7/2.2, p. 232 | [13.20.4](#s13-20-4) |
 | Grubenhagen | *Kirchenordnung* | 1544 | 6/2, p. 1033 | [13.22.1](#s13-22-1) |
-| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1052, 1058 | [13.16.1](#s13-16-1), [13.16.6](#s13-16-6) |
+| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1049, 1052, 1058 | [13.16.1](#s13-16-1), [13.16.6](#s13-16-6), [13.23.5](#s13-23-5) |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | [13.14.1](#s13-14-1) |
 | Havelberg | *Abschied* | 1558 | 3, p. 232 | [13.18.4](#s13-18-4) |
 | Heidelberg (Reformed) | *Bestallung eines Glöckners* | 15 May 1572 | 14, p. 457 | [13.12.2](#s13-12-2) |
@@ -42656,12 +43031,14 @@ through the table in [§13.23](#s13-23) and the text.
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | [13.12.3](#s13-12-3) |
 | Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 439, 455, 463, 464, 467 | [13.14.3](#s13-14-3), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.22.1](#s13-22-1) |
 | Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 72 | [13.20.5](#s13-20-5) |
+| Hohenlohe | *Polizeiordnung* | 1558 | 15, p. 139 | [13.23.3](#s13-23-3) |
 | Kronstadt | *Reformationsbüchlein* | German version, 1543 | 24, p. 196 | [13.18.4](#s13-18-4) |
 | Kurpfalz | *Bedenken zur Reformation der Stiftskirchen* | 1546 | 14, p. 92 | [13.21.2](#s13-21-2), [13.21.6](#s13-21-6) |
 | Kurpfalz (Reformed) | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | [13.3.6](#s13-3-6) |
 | Kurpfalz (Reformed) | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | [13.10.5](#s13-10-5) |
 | Kurpfalz (Reformed) | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | [13.11.2](#s13-11-2) |
 | Kurpfalz (Reformed) | *Einführung der Senioren* | 9 December 1592 | 19/2, pp. 789–790 | [13.12.1](#s13-12-1) |
+| Leiningen | *Kirchenzuchtordnung* | 1566 | 19/1, p. 228 | [13.23.1](#s13-23-1) |
 | Leisnig | *Verordnung der Visitatoren für das Amt Leisnig* | 1529 | 1, p. 609 | [13.12.4](#s13-12-4) |
 | Lippe | *Kirchenordnung* | 1538 | 21, p. 319 | [13.8.1](#s13-8-1) |
 | Lippe | *Kirchenordnung* | 1571 | 21, p. 447 | [13.12.2](#s13-12-2) |
@@ -42677,8 +43054,10 @@ through the table in [§13.23](#s13-23) and the text.
 | Mansfeld | *Form und weise einer visitation* | 1554 | 2, p. 192 | [13.3.8](#s13-3-8) |
 | Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 241–242, 242–243, 246 | [13.5.2](#s13-5-2), [13.6.5](#s13-6-5), [13.9.4](#s13-9-4), [13.16.5](#s13-16-5) |
 | Marggrabowa | *Gottesdienstordnung* | 1581 | 4, p. 149 | [13.22.3](#s13-22-3) |
+| Mecklenburg | *Ordeninge der misse* | 1540/1545 | 5, p. 158 | [13.23.2](#s13-23-2) |
 | Mecklenburg | *Verordnung der Visitatoren* | 1542 | 5, p. 149 | [13.22.2](#s13-22-2) |
 | Mecklenburg | *Visitations-Instruction* | 12 November 1552 | 5, p. 220 | [13.18.4](#s13-18-4) |
+| Mecklenburg | *Processus visitationis* | 1552 | 5, p. 224 | [13.23.4](#s13-23-4) |
 | Mecklenburg | *Kirchenordnung* | 1552 | 5, p. 202 | [13.22.1](#s13-22-1) |
 | Mecklenburg | *Consistorialordnung* | 1570 | 5, pp. 245–246, 246 | [13.16.4](#s13-16-4) |
 | Merseburg | *Synodalunterricht* | 1544 | 2, p. 18 | [13.20.5](#s13-20-5) |
@@ -42689,7 +43068,9 @@ through the table in [§13.23](#s13-23) and the text.
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | [13.15.1](#s13-15-1) |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570 | 10, pp. 138, 139, 141 | [13.12.7](#s13-12-7) |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570, "The domina's oath" | 10, pp. 141–142 | [13.12.8](#s13-12-8) |
+| Nassau-Dillenburg | *Visitationsabschied* | 1570 | 10, p. 113 | [13.23.6](#s13-23-6) |
 | Nassau-Dillenburg (Philippist) | *Agende* | 1575 | 10, p. 150 | [13.4.4](#s13-4-4) |
+| Nassau-Dillenburg (Reformed) | *Zaubereimandat* | 1582 | 10, p. 175 | [13.23.6](#s13-23-6) |
 | Naumburg | *Kirchen-Ordnung für die St. Wenzelskirche* | 1537/1538 | 2, p. 71 | [13.21.2](#s13-21-2) |
 | Nuremberg | *Die Nürnberger 23 Lehrartikel* | 1528 | 11, p. 134 | [13.20.3](#s13-20-3) |
 | Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 498, 506, 522, 528, 531–532 | [13.4.1](#s13-4-1), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2) |
@@ -42714,7 +43095,7 @@ through the table in [§13.23](#s13-23) and the text.
 | Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | [13.8.5](#s13-8-5) |
 | Regensburg | *Kirchenordnung* | [1567] | 13, p. 478 | [13.21.7](#s13-21-7) |
 | Rostock | *Conformitas ceremoniarum* | about 1560 | 5, p. 290 | [13.20.4](#s13-20-4) |
-| Saalfeld | *Visitation order* | 1533 | 1, p. 654 | [13.19.2](#s13-19-2) |
+| Salza | *Kirchen-Ordnung für Salza* | 1540 | 1, p. 654 | [13.19.2](#s13-19-2) |
 | Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 420, 448, 449, 453 | [13.12.4](#s13-12-4), [13.16.1](#s13-16-1), [13.16.3](#s13-16-3) |
 | Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 427, 453 | [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1) |
 | Saxony (Albertine) | *Kirchenordnung* | 1539 | 1, pp. 266, 267–268, 270–271, 275 | [13.3.4](#s13-3-4), [13.3.7](#s13-3-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2) |
@@ -42725,6 +43106,7 @@ through the table in [§13.23](#s13-23) and the text.
 | Schleswig-Holstein | *Klosterordnung für Frauenklöster* | after 1610 | 23, p. 182 | [13.12.8](#s13-12-8) |
 | Schweinfurt | *Kirchenordnung* | 1543 | 11, p. 636 | [13.21.4](#s13-21-4) |
 | Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 166, 175 | [13.13.1](#s13-13-1), [13.14.1](#s13-14-1), [13.22.6](#s13-22-6) |
+| Sponheim (Vordere Grafschaft) | *Reformation in der Vorderen Grafschaft Sponheim* | 1566 | 18, p. 630 | [13.23.4](#s13-23-4) |
 | Stendal | *Ordinance of the visitors of the Mark Brandenburg* | 1541 | 3, p. 314 | [13.18.4](#s13-18-4) |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | [13.4.1](#s13-4-1) |
 | Strasbourg (Moderate Reformed) | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | [13.3.2](#s13-3-2) |
@@ -42734,12 +43116,15 @@ through the table in [§13.23](#s13-23) and the text.
 | Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | [13.20.3](#s13-20-3) |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | [13.5.1](#s13-5-1) |
 | Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | [13.20.3](#s13-20-3), [13.20.5](#s13-20-5) |
-| Transylvanian Saxons | *Kirchenordnung* (Latin version) | 1547 | 24, p. 223 | [13.22.1](#s13-22-1) |
+| Transylvanian Saxons | *Kirchenordnung* (Latin version) | 1547 | 24, pp. 223, 225 | [13.22.1](#s13-22-1), [13.23.1](#s13-23-1) |
+| Transylvanian Saxons | *Synodalartikel gegen Zauberei* (Mediasch) | 1595 | 24, p. 478 | [13.23.6](#s13-23-6) |
+| Transylvanian Saxons | *Articuli de ceremoniis* | 1607 | 24, p. 493 | [13.23.4](#s13-23-4) |
+| Upper Palatinate | *Visitationsordnung* | 1579 | 13, p. 317 | [13.23.5](#s13-23-5) |
 | Waldeck | *Kirchenordnung* | 1556 | 9, pp. 256, 277, 278, 280 | [13.18.4](#s13-18-4), [13.21.4](#s13-21-4), [13.22.2](#s13-22-2), [13.22.6](#s13-22-6) |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | [13.4.4](#s13-4-4) |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | [13.14.4](#s13-14-4) |
 | Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | [13.7.8](#s13-7-8) |
-| Wolfstein | *Christliche Instructio des Thomas Stieber* | 1574 | 13, p. 575 | [13.20.5](#s13-20-5) |
+| Wolfstein | *Christliche Instructio des Thomas Stieber* | 1574 | 13, pp. 572, 575, 578 | [13.20.5](#s13-20-5), [13.23.1](#s13-23-1), [13.23.5](#s13-23-5) |
 | Württemberg | *Kirchenordnung* | 1536 | 16, pp. 111, 113 | [13.3.5](#s13-3-5), [13.8.2](#s13-8-2) |
 | Württemberg | *Kirchenordnung* | 1553 | 16, pp. 232–233 | [13.3.5](#s13-3-5) |
 | Württemberg | *Eheordnung* | 1553 | 16, p. 279 | [13.7.6](#s13-7-6) |
@@ -43444,7 +43829,7 @@ his merit, and the Bible all the promises of the gospel.
 #### <a id="s14-4-6"></a>14.4.6 Banners, processional crosses and image plays
 
 Banners (*Fahnen*), poles and processional crosses went with the processions they served. The
-Saalfeld visitors of 1533 ordered the council to remove "all screens, candles, banners,
+Salza visitors of 1540 ordered the council to remove "all screens, candles, banners,
 idolatrous images and hindrances, and above all the altars save one" (Sehling 1, p. 654).
 Mecklenburg 1552 orders "the banners and crosses which one was wont to carry about in the
 papacy" taken out of the churches (Sehling 5, p. 220), and Grubenhagen 1544 lists "banners,
@@ -43480,7 +43865,7 @@ than one altar" ([§14.4.3](#s14-4-3)), and its sexton prepares only that altar,
 are to be used, much less to be permitted after popish custom" (Sehling 5, p. 87). Mecklenburg
 1552 keeps the high altar alone ([§14.4.2](#s14-4-2)), and the Upper Palatinate instruction of 1557 orders "all
 altars save one, whereon one holdeth the Lord's Supper" taken away (Sehling 13, p. 297).
-Saalfeld 1533 does the same (Sehling 1, p. 654).
+Salza 1540 does the same (Sehling 1, p. 654).
 
 **Württemberg 1536.** Where a church still had several altars, Württemberg let the minister
 choose the most convenient. **Württemberg, *Kirchenordnung*, 1536** (Sehling 16, p. 107):
@@ -43850,7 +44235,7 @@ preaching of God's word; and that one may be sure of them, that the same be atte
 them, the grating in the choir shall be torn away from them, that they may be seen by a preacher
 and could not withdraw themselves.
 
-Saalfeld 1533 removes "all screens" (*gitter*) with the side altars, and Grubenhagen 1544 lists
+Salza 1540 removes "all screens" (*gitter*) with the side altars, and Grubenhagen 1544 lists
 *schranken* among the things to be cleared ([§14.4.2](#s14-4-2)).
 
 **Pews.** By the later sixteenth century the nave was filling with pews, and the orders regulate
@@ -44728,7 +45113,6 @@ The conduct required of ministers and their households is treated in
 | Hesse, *Ordenung*, 1532 (Moderate Reformed) | 8 | — | — | — | Surplice for the people's reverence | [14.7.4](#s14-7-4) |
 | Brandenburg-Nürnberg, 1533 | 11 | — | Lights free | Altar covering and vessels free | Mass vestment free | [14.3.1](#s14-3-1) |
 | Allstedt, visitation, 1533 | 1 | — | Before, not behind, the altar; two lights | — | Alb and chasuble restored | [14.5.2](#s14-5-2), [14.5.4](#s14-5-4), [14.7.1](#s14-7-1) |
-| Saalfeld, visitation, 1533 | 1 | Banners and idolatrous images removed | All altars but one; screens removed | — | — | [14.4.6](#s14-4-6), [14.5.1](#s14-5-1), [14.5.7](#s14-5-7) |
 | Wittenberg, *Kirchen-Ordnung*, 1533 | 1 | — | Schoolboys in the north gallery | — | — | [14.5.7](#s14-5-7) |
 | Bremen, *Kirchenordnung*, 1534 | 7/2.2 | — | Warm water in the font basin in winter | — | — | [14.5.6](#s14-5-6) |
 | Württemberg, preface, 1535 | 16 | — | — | — | Surplice in all offices, as church ornament and for the weak | [14.7.4](#s14-7-4) |
@@ -44739,6 +45123,7 @@ The conduct required of ministers and their households is treated in
 | Freiberg, visitation, 1538 | 1 | Crucifix carried before every funeral | — | — | — | [14.4.5](#s14-4-5) |
 | Brandenburg, *Kirchen-ordnung*, 1540 | 3 | — | Blessing of lights and herbs dropped | Sick chalice, corporal, pall | Cope or surplice, no chasuble, without communicants | [14.5.4](#s14-5-4), [14.6.2](#s14-6-2), [14.7.2](#s14-7-2) |
 | Neumark, *Kasten-Ordnung*, 1540 | 3 | — | Each guild to keep a window and give wax for winter lights | — | — | [14.5.4](#s14-5-4), [14.5.7](#s14-5-7) |
+| Salza, *Kirchen-Ordnung für Salza*, 1540 | 1 | Banners and idolatrous images removed | All altars but one; screens removed | — | — | [14.4.6](#s14-4-6), [14.5.1](#s14-5-1), [14.5.7](#s14-5-7) |
 | Schönburg, *Kirchen-Ordnung*, 1542 | 2 | — | No sacrament or lamps in the sacrament house | — | — | [14.5.5](#s14-5-5) |
 | Prussia, *Befehl*, 1543 | 4 | — | — | — | No preaching or sacraments without at least a white surplice | [14.7.4](#s14-7-4) |
 | Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13 | Image plays of the feasts abolished | No blessing of Candlemas wax, paschal candle or Easter fire; Holy Week Matins without din | — | Cope or surplice, no Mass vestment, without communicants | [14.5.4](#s14-5-4), [14.6.6](#s14-6-6), [14.7.2](#s14-7-2) |
@@ -54858,6 +55243,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-lev"></a>**Leviticus**
 
 - 12 — [13.5](#s13-5)
+- 19:26 — [13.23.3](#s13-23-3)
+- 20:6 — [13.23.3](#s13-23-3)
 - 26 — [13.15.5](#s13-15-5)
 
 <a id="scr-num"></a>**Numbers**
@@ -54869,6 +55256,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 16 — [13.13.1](#s13-13-1)
 - 17 — [13.16.4](#s13-16-4)
+- 18:10–11 — [13.23.3](#s13-23-3)
+- 18:11 — [13.23.2](#s13-23-2)
 - 28 — [13.15.5](#s13-15-5)
 
 <a id="scr-1sam"></a>**1 Samuel**
@@ -54953,6 +55342,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-isa"></a>**Isaiah**
 
 - 6 — [2.10.3](#s2-10-3), [8.12](#s8-12), [13.21.7](#s13-21-7)
+- 8:19 — [13.23.2](#s13-23-2)
 - 9 — [13.21.2](#s13-21-2)
 - 28 — [8.18.7](#s8-18-7)
 - 40 — [4.5.1](#s4-5-1)
@@ -55015,6 +55405,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 2 — [13.21.2](#s13-21-2)
 - 7 — [12.8.8](#s12-8-8)
 - 7:36–50 — [12.8.8](#s12-8-8)
+- 10:5 — [13.23.2](#s13-23-2)
 - 11:1 — [7.8.5](#s7-8-5)
 - 17 — [7.4.3](#s7-4-3)
 - 22 — [7.14.7](#s7-14-7)
@@ -55108,6 +55499,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-gal"></a>**Galatians**
 
 - 2:9 — [17.7.4](#s17-7-4)
+- 5:20 — [13.23.4](#s13-23-4)
 
 <a id="scr-eph"></a>**Ephesians**
 
@@ -55176,7 +55568,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-jas"></a>**James**
 
-- 5 — [6.11.G.6](#s6-11-g-6), [13.1.1](#s13-1-1), [13.2.2](#s13-2-2), [13.8.1](#s13-8-1), [13.23](#s13-23)
+- 5 — [6.11.G.6](#s6-11-g-6), [13.1.1](#s13-1-1), [13.2.2](#s13-2-2), [13.8.1](#s13-8-1), [13.24](#s13-24)
 - 5:14–16 — [13.8.1](#s13-8-1)
 
 <a id="scr-1pet"></a>**1 Peter**
@@ -55233,7 +55625,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Anton I, Count of Oldenburg — [6.14](#s6-14)
 - Assum, Johann — [11.8.3](#s11-8-3), [11.14](#s11-14)
 - Athanasius — [16.9.7](#s16-9-7)
-- August, Elector of Saxony — [1.6.2](#s1-6-2), [1.6.4](#s1-6-4), [2.5](#s2-5), [4.12](#s4-12), [5.6.4](#s5-6-4), [5.8](#s5-8), [5.9](#s5-9), [6.6](#s6-6), [10.5.3](#s10-5-3), [10.13](#s10-13), [11.7.2](#s11-7-2), [11.7.5](#s11-7-5), [11.8.2](#s11-8-2), [11.9.2](#s11-9-2), [11.14](#s11-14), [12.12.3](#s12-12-3), [12.13.6](#s12-13-6), [12.16](#s12-16), [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1), [13.23](#s13-23), [13.24](#s13-24), [14.5.7](#s14-5-7), [14.10](#s14-10), [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.7.1](#s16-7-1), [16.11](#s16-11), [17.5.3](#s17-5-3), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.4.3](#s18-4-3), [18.13](#s18-13), [18.14](#s18-14)
+- August, Elector of Saxony — [1.6.2](#s1-6-2), [1.6.4](#s1-6-4), [2.5](#s2-5), [4.12](#s4-12), [5.6.4](#s5-6-4), [5.8](#s5-8), [5.9](#s5-9), [6.6](#s6-6), [10.5.3](#s10-5-3), [10.13](#s10-13), [11.7.2](#s11-7-2), [11.7.5](#s11-7-5), [11.8.2](#s11-8-2), [11.9.2](#s11-9-2), [11.14](#s11-14), [12.12.3](#s12-12-3), [12.13.6](#s12-13-6), [12.16](#s12-16), [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.8.3](#s13-8-3), [13.9.2](#s13-9-2), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1), [13.24](#s13-24), [13.25](#s13-25), [14.5.7](#s14-5-7), [14.10](#s14-10), [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.7.1](#s16-7-1), [16.11](#s16-11), [17.5.3](#s17-5-3), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19), [18.4.3](#s18-4-3), [18.13](#s18-13), [18.14](#s18-14)
 - Augustine — [3.5.6](#s3-5-6), [9.5.5](#s9-5-5), [12.13.6](#s12-13-6), [13.4.1](#s13-4-1), [13.6.3](#s13-6-3), [13.12.8](#s13-12-8), [15.1](#s15-1), [15.2.1](#s15-2-1), [15.11.6](#s15-11-6), [17.12.4](#s17-12-4)
 
 <a id="per-b"></a>**B**
@@ -55257,7 +55649,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Bucanus, Wilhelm — [15.7.4](#s15-7-4)
 - Bucer, Martin — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.16.1](#s1-16-1), [1.26.2](#s1-26-2), [1.30.1](#s1-30-1), [1.33.1](#s1-33-1), [6.1.4](#s6-1-4), [7.5](#s7-5), [7.5.3](#s7-5-3), [13.6.2](#s13-6-2), [13.6.6](#s13-6-6), [14.4.4](#s14-4-4), [16.6](#s16-6), [16.6.2](#s16-6-2), [17.17.1](#s17-17-1)
 - Buchholtzer, Georg — [1.8.6](#s1-8-6)
-- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9.4](#s16-9-4), [16.10](#s16-10), [16.11](#s16-11), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
+- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [13.23.1](#s13-23-1), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9.4](#s16-9-4), [16.10](#s16-10), [16.11](#s16-11), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
 - Burck, Joachim a — [8.16.9](#s8-16-9)
 
 <a id="per-c"></a>**C**
@@ -55283,7 +55675,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Daser, Ludwig — [4.10.4](#s4-10-4)
 - Decius, Nikolaus — [2.7.2](#s2-7-2), [7.1.2](#s7-1-2), [7.13.3](#s7-13-3), [8.1.1](#s8-1-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.12](#s8-12), [8.12.2](#s8-12-2), [8.15](#s8-15)
 - Dietrich, Heinrich — [18.7.1](#s18-7-1)
-- Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.13](#s10-13), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.9.2](#s16-9-2), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11)
+- Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.13](#s10-13), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.9.2](#s16-9-2), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11)
 - Döber, Andreas — [1.19.1](#s1-19-1), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.13.2](#s2-13-2), [2.15.7](#s2-15-7), [2.15.10](#s2-15-10), [2.16](#s2-16), [Chapter 3](#ch3), [3.1](#s3-1), [3.2](#s3-2), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.4.5](#s3-4-5), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.2](#s7-3-2), [7.5](#s7-5), [7.5.1](#s7-5-1), [7.7](#s7-7), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.8.7](#s7-8-7), [7.8.11](#s7-8-11), [7.11](#s7-11), [7.11.3](#s7-11-3), [7.15.4](#s7-15-4), [8.5.3](#s8-5-3), [8.19](#s8-19)
 - Döberlein, Wolfgang — [13.14.3](#s13-14-3)
 - Dressler, Gallus — [4.10.4](#s4-10-4), [13.14.3](#s13-14-3)
@@ -55329,8 +55721,8 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Georg, Margrave of Brandenburg-Ansbach — [1.19.2](#s1-19-2), [9.4.1](#s9-4-1), [17.14.1](#s17-14-1)
 - Georg I, Landgrave of Hesse-Darmstadt — [1.16.2](#s1-16-2)
 - Georg II, Duke of Brieg — [1.8.6](#s1-8-6)
-- Georg III, Prince of Anhalt — [1.7.13](#s1-7-13), [8.11.4](#s8-11-4), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.24](#s13-24)
-- Georg Ernst, Count of Henneberg — [1.7.9](#s1-7-9), [3.5.3](#s3-5-3), [3.8](#s3-8), [5.4.2](#s5-4-2), [5.9](#s5-9), [6.8](#s6-8), [10.11.7](#s10-11-7), [10.13](#s10-13), [11.14](#s11-14), [12.2.3](#s12-2-3), [12.6.3](#s12-6-3), [13.2.3](#s13-2-3), [13.4.3](#s13-4-3), [13.24](#s13-24), [17.6.2](#s17-6-2), [17.18](#s17-18), [17.19](#s17-19), [18.5.2](#s18-5-2), [18.13](#s18-13), [18.14](#s18-14)
+- Georg III, Prince of Anhalt — [1.7.13](#s1-7-13), [8.11.4](#s8-11-4), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.25](#s13-25)
+- Georg Ernst, Count of Henneberg — [1.7.9](#s1-7-9), [3.5.3](#s3-5-3), [3.8](#s3-8), [5.4.2](#s5-4-2), [5.9](#s5-9), [6.8](#s6-8), [10.11.7](#s10-11-7), [10.13](#s10-13), [11.14](#s11-14), [12.2.3](#s12-2-3), [12.6.3](#s12-6-3), [13.2.3](#s13-2-3), [13.4.3](#s13-4-3), [13.25](#s13-25), [17.6.2](#s17-6-2), [17.18](#s17-18), [17.19](#s17-19), [18.5.2](#s18-5-2), [18.13](#s18-13), [18.14](#s18-14)
 - Georg Friedrich, Count of Hohenlohe — [13.14.2](#s13-14-2)
 - Georg Johann, Count Palatine of Veldenz — [6.5](#s6-5), [6.6](#s6-6)
 - Gesius, Bartholomäus — [8.A.1](#s8-a-1)
@@ -55348,7 +55740,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Hamelmann, Hermann — [17.10.4](#s17-10-4)
 - Hanssen, Paul — [1.13.9](#s1-13-9), [9.4.2](#s9-4-2)
 - Hardenberg, Albert — [1.3.3](#s1-3-3), [1.15.3](#s1-15-3)
-- Hausmann, Nicolaus — [1.7.3](#s1-7-3), [12.4.6](#s12-4-6), [12.5.7](#s12-5-7), [12.6.1](#s12-6-1), [12.8.1](#s12-8-1), [12.8.3](#s12-8-3), [12.8.4](#s12-8-4), [12.16](#s12-16), [13.21.2](#s13-21-2), [13.24](#s13-24)
+- Hausmann, Nicolaus — [1.7.3](#s1-7-3), [12.4.6](#s12-4-6), [12.5.7](#s12-5-7), [12.6.1](#s12-6-1), [12.8.1](#s12-8-1), [12.8.3](#s12-8-3), [12.8.4](#s12-8-4), [12.16](#s12-16), [13.21.2](#s13-21-2), [13.25](#s13-25)
 - Hefentreger, Johann — [1.17.2](#s1-17-2)
 - Hegenwalt, Erhart — [8.4.5](#s8-4-5)
 - Heinrich, Archbishop of Bremen — [1.13.1](#s1-13-1)
@@ -55377,7 +55769,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 - Janken (brother of Paul Hanssen) — [9.4.2](#s9-4-2)
 - Joachim, Prince of Anhalt — [1.7.13](#s1-7-13)
-- Joachim II, Elector of Brandenburg — [1.8.1](#s1-8-1), [4.12](#s4-12), [5.9](#s5-9), [6.16](#s6-16), [Chapter 7](#ch7), [7.12](#s7-12), [10.4.2](#s10-4-2), [10.13](#s10-13), [12.5.7](#s12-5-7), [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.24](#s13-24), [16.4.1](#s16-4-1), [16.11](#s16-11)
+- Joachim II, Elector of Brandenburg — [1.8.1](#s1-8-1), [4.12](#s4-12), [5.9](#s5-9), [6.16](#s6-16), [Chapter 7](#ch7), [7.12](#s7-12), [10.4.2](#s10-4-2), [10.13](#s10-13), [12.5.7](#s12-5-7), [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.25](#s13-25), [16.4.1](#s16-4-1), [16.11](#s16-11)
 - Joachim Ernst, Prince of Anhalt — [17.6.6](#s17-6-6)
 - Joachim Friedrich, Duke of Liegnitz and Brieg — [1.8.6](#s1-8-6)
 - Johann, Elector of Saxony — [1.6.3](#s1-6-3), [17.6.1](#s17-6-1)
@@ -55385,7 +55777,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Johann I, Count Palatine of Zweibrücken — [17.12.4](#s17-12-4)
 - Johann III, Duke of Jülich-Cleves-Berg — [1.3.6](#s1-3-6)
 - Johann IV, Prince of Anhalt — [1.7.13](#s1-7-13), [8.11.4](#s8-11-4)
-- Johann VI, Count of Nassau-Dillenburg — [1.18.1](#s1-18-1), [13.12.7](#s13-12-7)
+- Johann VI, Count of Nassau-Dillenburg — [1.18.1](#s1-18-1), [13.12.7](#s13-12-7), [13.23.6](#s13-23-6)
 - Johann Adolf, Duke of Holstein-Gottorp — [11.9.3](#s11-9-3), [17.8.4](#s17-8-4)
 - Johann Albrecht, Count of Solms-Braunfels — [16.6.3](#s16-6-3)
 - Johann Albrecht I, Duke of Mecklenburg — [14.6.6](#s14-6-6)
@@ -55417,7 +55809,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Kolowrat, Jaroslaw von — [1.8.5](#s1-8-5)
 - Kosch, Laurentius — [17.16](#s17-16)
 - Kreuziger, Elisabeth — [8.18.5](#s8-18-5)
-- Kroschen, Severus — [1.14.2](#s1-14-2), [13.12.3](#s13-12-3), [13.24](#s13-24)
+- Kroschen, Severus — [1.14.2](#s1-14-2), [13.12.3](#s13-12-3), [13.25](#s13-25)
 
 <a id="per-l"></a>**L**
 
@@ -55431,7 +55823,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Leyser, Polycarp — [13.4.1](#s13-4-1)
 - Linck, Wenzel — [3.4.4](#s3-4-4)
 - Lobwasser, Ambrosius — [8.1.3](#s8-1-3), [8.10.4](#s8-10-4), [8.11.5](#s8-11-5), [8.14.6](#s8-14-6), [8.16.7](#s8-16-7), [8.19](#s8-19)
-- Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.24](#s13-24), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.10](#s16-10), [16.11](#s16-11)
+- Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.25](#s13-25), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.10](#s16-10), [16.11](#s16-11)
 - Lorenz (schoolmaster at Frankfurt) — [16.5.2](#s16-5-2)
 - Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.7.5](#s8-7-5), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.12](#s10-12), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
 - Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.4](#s8-a-4)
@@ -55439,7 +55831,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
 - Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)
 - Ludwig Casimir, Count of Hohenlohe — [1.23.1](#s1-23-1)
-- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12](#s10-12), [10.13](#s10-13), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.23](#s13-23), [13.24](#s13-24), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
+- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12](#s10-12), [10.13](#s10-13), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-m"></a>**M**
 
@@ -55454,7 +55846,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Meiland, Jakob — [4.10.4](#s4-10-4)
 - Melanchthon, Philip — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.15.3](#s1-15-3), [1.33.1](#s1-33-1), [6.3](#s6-3), [6.9](#s6-9), [10.9.2](#s10-9-2), [11.8.2](#s11-8-2), [13.6.1](#s13-6-1), [13.10.2](#s13-10-2), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.10.1](#s15-10-1), [16.1](#s16-1), [16.5.4](#s16-5-4), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.3.3](#s17-3-3), [17.3.4](#s17-3-4), [17.5](#s17-5), [17.5.1](#s17-5-1), [17.5.2](#s17-5-2), [17.7.1](#s17-7-1), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.2](#s17-8-2), [17.10.4](#s17-10-4), [17.10.5](#s17-10-5), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.4](#s17-11-4), [17.12.5](#s17-12-5), [17.13.1](#s17-13-1), [17.13.3](#s17-13-3), [17.14.1](#s17-14-1)
 - Mening, Markus — [1.15.3](#s1-15-3), [17.10.5](#s17-10-5), [17.18](#s17-18)
-- Micron, Marten — [1.3.4](#s1-3-4), [1.13.9](#s1-13-9), [3.1](#s3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [6.3](#s6-3), [6.21](#s6-21), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.4](#s9-5-4), [9.6](#s9-6), [9.7](#s9-7), [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.13](#s10-13), [12.13.5](#s12-13-5), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.12.1](#s13-12-1), [13.16](#s13-16), [13.16.7](#s13-16-7), [13.23](#s13-23), [13.24](#s13-24), [14.6.7](#s14-6-7), [15.11.2](#s15-11-2), [16.1](#s16-1), [16.2](#s16-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9.1](#s16-9-1), [16.9.3](#s16-9-3), [16.9.7](#s16-9-7), [16.9.8](#s16-9-8), [16.10](#s16-10), [16.11](#s16-11), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
+- Micron, Marten — [1.3.4](#s1-3-4), [1.13.9](#s1-13-9), [3.1](#s3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [6.3](#s6-3), [6.21](#s6-21), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.4](#s9-5-4), [9.6](#s9-6), [9.7](#s9-7), [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.13](#s10-13), [12.13.5](#s12-13-5), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.12.1](#s13-12-1), [13.16](#s13-16), [13.16.7](#s13-16-7), [13.24](#s13-24), [13.25](#s13-25), [14.6.7](#s14-6-7), [15.11.2](#s15-11-2), [16.1](#s16-1), [16.2](#s16-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9.1](#s16-9-1), [16.9.3](#s16-9-3), [16.9.7](#s16-9-7), [16.9.8](#s16-9-8), [16.10](#s16-10), [16.11](#s16-11), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
 - Minkwitz, Hans von — [1.8.5](#s1-8-5)
 - Mögner, Veit — [8.18.5](#s8-18-5)
 - Moritz, Elector of Saxony — [1.6.4](#s1-6-4), [1.6.6](#s1-6-6), [1.7.1](#s1-7-1)
@@ -55478,7 +55870,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Oecolampadius, Johannes — [1.26.2](#s1-26-2), [3.5.12](#s3-5-12)
 - Origen — [18.7.3](#s18-7-3)
 - Osiander, Andreas — [3.1](#s3-1), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.5.7](#s3-5-7), [3.5.14.3](#s3-5-14-3), [3.7](#s3-7), [4.11](#s4-11), [5.5.2](#s5-5-2), [5.8](#s5-8), [6.16](#s6-16), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.8.7](#s7-8-7), [7.12.6](#s7-12-6), [7.14](#s7-14), [7.14.2](#s7-14-2), [7.A](#s7-a), [13.20.3](#s13-20-3)
-- Ottheinrich, Elector Palatine — [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [2.4.5](#s2-4-5), [4.8.2](#s4-8-2), [4.12](#s4-12), [6.5](#s6-5), [6.6](#s6-6), [6.16](#s6-16), [7.14](#s7-14), [12.10.3](#s12-10-3), [12.16](#s12-16), [13.3.2](#s13-3-2), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.24](#s13-24), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.18](#s17-18), [17.19](#s17-19)
+- Ottheinrich, Elector Palatine — [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [2.4.5](#s2-4-5), [4.8.2](#s4-8-2), [4.12](#s4-12), [6.5](#s6-5), [6.6](#s6-6), [6.16](#s6-16), [7.14](#s7-14), [12.10.3](#s12-10-3), [12.16](#s12-16), [13.3.2](#s13-3-2), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.25](#s13-25), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.18](#s17-18), [17.19](#s17-19)
 
 <a id="per-p"></a>**P**
 
@@ -55551,7 +55943,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Speratus, Paul — [8.11.2](#s8-11-2), [8.16.6](#s8-16-6), [8.18.5](#s8-18-5)
 - Stancarus, Francesco — [17.14.1](#s17-14-1)
 - Staphylus, Friedrich — [18.11.2](#s18-11-2)
-- Stieber, Thomas — [5.9](#s5-9), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.24](#s13-24), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.11](#s16-11), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
+- Stieber, Thomas — [5.9](#s5-9), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.23.1](#s13-23-1), [13.23.5](#s13-23-5), [13.25](#s13-25), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.11](#s16-11), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
 - Stiphelius, Laurentius — [8.A.1](#s8-a-1)
 - Streitberger, Johann — [9.5.4](#s9-5-4)
 - Sulzer, Simon — [1.31.8](#s1-31-8)
@@ -55663,6 +56055,7 @@ They are not repeated here.
 - **cantor**. The master of the choir, usually a schoolmaster, who led the singing of the scholars at Mass and office. See [§13.12.3](#s13-12-3).
 - **cantrix** (Latin; Low German *sengersche*, German *Vorsängerin*). The precentress of a women's convent, who began the antiphons and psalms and ordered the singing of the choir. See [§16.9.6](#s16-9-6).
 - **ceroferarius** (Latin; also *accensor*). The candle-bearer, who carried a candle at the gospel and in processions. See [§16.4.4](#s16-4-4).
+- **charmer** (German *Segner*, *Segensprecher*). One who healed or protected people, cattle and goods with blessings, spoken or written (*Segen*). The orders count charmers among the sorcerers, and bar both them and those who seek them out from the Supper. See [§13.23](#s13-23).
 - **chasuble** (German *Meßgewand*, *Casel*). The priest's outer vestment at Mass, a wide mantle without sleeves. Many Lutheran orders kept it; the Reformed abolished it. See [§14.7.1](#s14-7-1).
 - **choraliter** (Latin). Sung in plainsong, as against *figuraliter*, in figured music. See [§4.10.4](#s4-10-4).
 - **chrism**. The consecrated mixture of olive oil and balsam used at baptism, confirmation and ordination. The plainer *oil of catechumens* was used before baptism. Only two evangelical orders kept the chrism. See [§13.15.4](#s13-15-4).
@@ -55695,6 +56088,7 @@ They are not repeated here.
 - **deacons of the poor** (Latin *diaconi pauperum*). Laymen chosen to collect and give out the alms. In the Lutheran orders they were often the managers of the common chest. See [§16.5.2](#s16-5-2).
 - **dean** (Latin *decanus*). A minister set over the pastors of a district under the superintendent; in Transylvania the head of a chapter. See [§15.4](#s15-4).
 - **Deutsche Messe** (German). Luther's German Mass of 1526, written for the parishes, and with the *Formula missae* one of the two baselines of the evangelical Mass. See [§2.3.3](#s2-3-3).
+- **devil-conjurer** (German *Teufelsbeschwerer*). One who claimed to command the devil by conjuration, to cast him out or to learn hidden things through him. The orders forbid them with the sorcerers. See [§13.8.7](#s13-8-7), [§13.23.3](#s13-23-3).
 - **Diaconus** (Latin; German *Helfer*, *Kaplan*, *Capellan*). In the Lutheran orders the assistant minister of a parish, an ordained preacher under the pastor, not the deacon of the medieval Mass. See [§16.5.1](#s16-5-1).
 - **dominicale** (Latin). See *[Kyrie chants](#gl-kyrie-chants)*.
 - **Dominus vobiscum** (Latin). "The Lord be with you", the priest's salutation, answered *Et cum spiritu tuo*, "And with thy spirit", before the collect, the Preface and the blessing. See [§2.8](#s2-8).
@@ -55711,7 +56105,7 @@ They are not repeated here.
 - **Et in terra** (Latin). The Gloria in excelsis from its second clause, "And on earth peace", which the choir takes up after the priest has intoned *Gloria in excelsis Deo*. See [§2.7.2](#s2-7-2).
 - **examen** (Latin; German *Verhör*). An examination: of candidates before ordination, of children in the catechism, of communicants before the Supper. See [§15.7.3](#s15-7-3), [§13.17.4](#s13-17-4).
 - **exhortation** (German *Vermahnung*). A set address to the people, above all the exhortation to the communicants before the Supper. See [§3.5](#s3-5).
-- **exorcism**. The command to the devil at baptism to come out of the child, as in Luther's "Fahr aus, du unreiner Geist". It was kept and defended, and later in the century disputed and in places dropped. See [§13.4](#s13-4).
+- **exorcism**. The command to the devil at baptism to come out of the child, as in Luther's "Fahr aus, du unreiner Geist". It was kept and defended, and later in the century disputed and in places dropped. The exorcisms of salt, water, oil and chrism were abolished as godless. See [§13.4](#s13-4), [§13.23.1](#s13-23-1).
 - **extreme unction**. The anointing of the dying with oil. No evangelical order prescribes it: the Word, the absolution, the Supper and prayer take its place. See [§13.8.1](#s13-8-1).
 
 <a id="gl-f"></a>**F**
@@ -55821,6 +56215,7 @@ They are not repeated here.
 - **Placeat** (Latin). The priest's prayer to the Trinity before the blessing at the end of Mass, *Placeat tibi, sancta Trinitas*. See [§7.2.7](#s7-2-7).
 - **plainsong**. The unaccompanied, single-line chant of the Latin liturgy. See [§4.10](#s4-10).
 - **police order** (German *Polizeiordnung*). An order of public discipline, for dress, feasting, weddings, swearing and Sunday rest. "Police" has its old sense, the good order of a community. See [§1.2.4](#s1-2-4).
+- **poltergeist** (German *Poltergeist*, Low German *poltergeyst*, "rumbling ghost"). A ghost thought to haunt a house with noise and to appear asking for Masses. Bugenhagen's orders hold such ghosts to be devils. See [§13.23.2](#s13-23-2).
 - **postcommunion**. The collect after communion. In the Lutheran orders it was usually Luther's thanksgiving of 1526. See [§5.6](#s5-6).
 - **postil** (German *Postille*). A book of sermons on the Sunday gospels and epistles, from which pastors preached or read, such as Luther's *Hauspostille*. See [§11.8](#s11-8).
 - **prayer bell** (German *Betglocke*). The bell rung morning, noon and evening for prayer, which the orders turned into a bell *pro pace*, for peace, for the government and against the Turk. See [§9.5.3](#s9-5-3).
@@ -55843,6 +56238,7 @@ They are not repeated here.
 <a id="gl-r"></a>**R**
 
 - **recess** (German *Abschied*). The written decisions issued at the end of a visitation, a synod or a diet.
+- **reconciliation of a church** (Latin *reconciliatio*). The rite by which a profaned church or churchyard was purified before it could be used again. No evangelical order has it. See [§13.23](#s13-23).
 - **Repetitio** (Latin). The *Confessio Saxonica* of 1551, Melanchthon's restatement of the Augsburg Confession for the Council of Trent, part of the *Corpus doctrinae Philippicum*. Naming it marks an order as Philippist or Reformed. See [§17.3.3](#s17-3-3).
 - **responsory**. A chant of response and verse, with the response repeated, sung after a lesson at Matins and elsewhere.
 - **Revers** (German). A signed undertaking by which a minister or church officer bound himself to his duties or his confession on taking office. See [§17.4](#s17-4).
@@ -55858,6 +56254,7 @@ They are not repeated here.
 - **screen** (German *Lettner*, *Schranken*, *Gitter*). The partition, rail or grille that divided the choir from the nave. See [§14.5.7](#s14-5-7).
 - **secret** (Latin *secreta*). The prayer said quietly over the gifts at the end of the offertory, abolished with it. See [§5.5](#s5-5).
 - **Seelfrau** (German, plural *Seelfrauen*). A woman appointed by the town council to nurse the sick and to attend and comfort the dying. See [§16.7.3](#s16-7-3).
+- **Segen** (German). (1) A blessing, as the Aaronic blessing. (2) A charm: a formula, spoken or written, to heal or protect, as the charmers (*Segner*) used it. See [§13.23.3](#s13-23-3).
 - **seniores** (Latin; German *Eltesten*). Elders: laymen chosen to keep church discipline with the ministers. In the Reformed orders they governed the church with them. See [§16.6](#s16-6).
 - **Septuagesima** (Latin). The ninth Sunday before Easter, with Sexagesima and Quinquagesima (*Estomihi*) after it: the pre-Lenten season. See [§13.21.7](#s13-21-7).
 - **sequence**. A rhymed chant sung after the alleluia on feasts, such as *Victimae paschali* at Easter. The orders cut the sequences back to the chief feasts, or farsed them with German stanzas. See [§4.6.4](#s4-6-4), [§8.8.3](#s8-8-3).
