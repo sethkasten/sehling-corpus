@@ -48,6 +48,7 @@ PERSONS = [
         r"Philip(?='s, Brenz)"]),
     ('Müntzer, Thomas', [r'Müntzer', r'Münzer', r'Thomas Müntzer']),
     ('Bucer, Martin', [r'Bucer', r'Butzer']),
+    ('Geschmus, Augustin', [r'Augustin Geschmus', r'Geschmus']),
     ('Brenz, Johannes', [r'Brenz', r'Brentius', r'Brencii', r'Johannes Brenz']),
     ('Osiander, Andreas', [r'Osiander', r'Andreas Osiander']),
     ('Jonas, Justus', [r'(?<=Kreuziger, )Jonas', r'Justus Jonas', r'Jonas(?= für Zerbst)',
