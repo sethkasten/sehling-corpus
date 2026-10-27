@@ -1,0 +1,30 @@
+number,language,original_title,original_author,confidence,same_as,source,note
+152,Latin,"Veni, Redemptor gentium",Ambrose of Milan,confirmed,,"TL indexes (authors: Ambrose, tr. J. M. Neale; tunes: Veni Redemptor gentium)","Neale's 'Come, Thou Redeemer of the earth'; TL pairs it with Luther's German version (151), whose original TLH 95 also gives"
+157b,Latin,O Sapientia,,probable,,TL index of hymn titles,"the seven Great O Antiphons of Advent Vespers (O Sapientia, O Adonai, O Radix Jesse, O Clavis David, O Oriens, O Rex gentium, O Emmanuel), from which 'Veni, veni, Emmanuel' (157a) was made; LSB prints them facing that hymn (LSB 357)"
+159,German,"Vom Himmel hoch, da komm ich her",Martin Luther,confirmed,,"TL indexes (authors: Luther, tr. Roland H. Bainton; tunes: Vom Himmel hoch)",KELG 41
+170,Latin,"Christe, Redemptor omnium, ex Patre Patris unice",,probable,,"TL indexes (tunes: Christe, Redemptor omnium; authors: tr. J. M. Neale)","the Christmas office hymn: 'Patris unice', the Father's only Son"
+200,German,"Wend ab deinen Zorn, lieber Gott, mit Gnaden",Georg Thym,probable,,"TL index of authors (tr. Carl Døving); TLHy 104","Døving's translation, as in TLHy 104 ('Turn, Lord, Thy wrath away'); KELG 386"
+202,German,"O Mensch, bewein dein Sünde groß",Sebald Heyden,confirmed,,"TL indexes (authors: Heyden, tr. Matthew Carver; tunes: O Mensch, bewein dein Sünde groß)",TL prints it as 202 and 203
+203,German,"O Mensch, bewein dein Sünde groß",Sebald Heyden,confirmed,,"TL indexes (authors: Heyden; tunes: Es sind doch selig alle, die)",TL prints it as 202 and 203
+212,Latin,"Pange, lingua, gloriosi proelium certaminis",Venantius Fortunatus,confirmed,,"TL indexes (authors: Fortunatus, tr. J. M. Neale; tunes: Crux fidelis, Fortunatus New)","its 'Crux fidelis' stanza, 'Faithful Cross, above all other'; TL prints the whole hymn as 213a/b"
+216,Latin,Ad cenam Agni providi,,confirmed,,"TL index of authors (tr. J. M. Neale); Julian 1907, s.v. Ad coenam Agni providi","Neale's 'The Lamb's high banquet we await'; the Roman Breviary of 1632 recast it as 'Ad regias Agni dapes', the original of 'At the Lamb's high feast we sing'"
+225a,Latin,"Salve, festa dies",Venantius Fortunatus,confirmed,,"TL indexes (authors: Fortunatus, tr. Matthew Carver; tunes: Salve festa dies)","from Fortunatus's 'Tempora florigero rutilant distincta sereno', which Ellerton's 'Welcome, happy morning' (224) also translates; TL prints it as 225a and 225b"
+225b,Latin,"Salve, festa dies",Venantius Fortunatus,confirmed,,"TL indexes (authors: Fortunatus, tr. Matthew Carver; tunes: Salve festa dies)",TL prints it as 225a and 225b
+227,German,,Benjamin Prätorius,partial,,"TL index of authors (B. Praetorius; tr. Paul G. Hensel and Joel J. Hensel)","perhaps his Easter song 'Triumph! Triumph! es kommt mit Pracht' (IMSLP credits him with 'Triumph! Er kommt mit Pracht'); not confirmed"
+228,German,"Nun freut euch, Gottes Kinder all",Erasmus Alber,confirmed,,"TL indexes (authors: Alber, tr. Paul G. Hensel; tunes: Nun freut euch, Gottes Kinder all)",KELG 122
+236,Latin,Credo in unum Deum,,probable,,TL index of hymn titles ('I Believe in One God (Nicene Creed)'),"the Nicene Creed, first set down in Greek; 'I believe' follows the Latin of the Mass"
+242,German,Ein neues Lied wir heben an,Martin Luther,confirmed,,"TL indexes (authors: Luther, tr. Richard Massie and Robert J. Christman; tunes: Ein neues Lied wir heben an); Bacon, Dr. Martin Luther's Deutsche Geistliche Lieder (1883), no. V","Massie's 'By help of God I fain would tell / A new and wondrous story'"
+248,German,Verleih uns Frieden gnädiglich,Martin Luther,confirmed,,"TL indexes (authors: Luther, tr. Massie; tunes: Verleih uns Frieden); Bacon 1883, no. XXVII","Massie's 'In these our days so perilous'; KELG 177"
+251,German,"Sie ist mir lieb, die werte Magd",Martin Luther,confirmed,,"TL indexes (authors: Luther, tr. Massie; tunes: Sie ist mir lieb); Bacon 1883, no. XXX",Massie's 'Dear is to me the holy Maid'
+262,German,,Albert Knapp,partial,,"TL index of authors (Knapp; tr. Gustav A. Zeisler)",
+266,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+267,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+270,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+272,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+278,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+294,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+297,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+300,English,,Martin Franzmann,probable,,TL index of authors,no other author or translator credited
+310,Latin,Ales diei nuntius,Aurelius Prudentius,confirmed,,"TL index of authors (Prudentius, tr. J. M. Neale)",Neale's 'The winged herald of the day'
+312a,Latin,"Verbum supernum prodiens, a Patre olim exiens",,probable,,"TL indexes (tunes: Verbum supernum prodiens; hymns by season: an Advent office hymn)","the Advent hymn, not Aquinas's 'Verbum supernum prodiens, nec Patris linquens dexteram'; TL prints it as 312a and 312b"
+312b,Latin,"Verbum supernum prodiens, a Patre olim exiens",,probable,,"TL indexes (tunes: Verbum supernum prodiens; hymns by season: an Advent office hymn)",TL prints it as 312a and 312b

@@ -1,0 +1,722 @@
+number,first_line,tune
+1,Hark! a thrilling voice is sounding,MERTON
+2a,"O come, O come, Emmanuel","VENI, EMMANUEL"
+2b,"O come, O come, Emmanuel","VENI, VENI, EMMANUEL"
+3,The Advent of our God,DONCASTER
+4,On Jordan's banks the Baptist's cry,ALSTONE
+5,"Come, thou long-expected Jesus",ST. HILARY
+6,"Hark, the glad sound! the Saviour comes",DIE HELLE SONNE
+7a,"Wake, awake, for night is flying",WACHET AUF
+7b,"Wake, awake, for night is flying",WACHET AUF
+8a,"Lift up your heads, ye mighty gates",TRURO
+8b,"Lift up your heads, ye mighty gates",MACHT HOCH DIE TUR
+9,"Prepare the way, O Zion!",MESSIAH
+10,The King shall come when morning dawns,FARRANT
+11,O how shall I receive thee,ST. THEODULPH (VALET WILL ICH DIR GEBEN)
+12,"Comfort, comfort ye, my people",PSALM 42 (FREU DICH SEHR)
+13,Lo! he comes with clouds descending,STORL
+14,"Rejoice, all ye believers",VIGIL
+15,Joy to the world! the Lord is come,ANTIOCH
+16,"Silent night, holy night",STILLE NACHT
+17a,Of the Father's love begotten,DIVINUM MYSTERIUM (CORDE NATUS EX PARENTIS)
+17b,Of the Father's love begotten,DIVINUM MYSTERIUM (CORDE NATUS EX PARENTIS)
+18,A great and mighty wonder,ST. ALPHEGE
+19,"Christians, awake! salute the happy morn",YORKSHIRE
+20a,"From east to west, from shore to shore",A SOLIS ORTUS CARDINE
+20b,"From east to west, from shore to shore",CHRISTUM WIR SOLLEN LOBEN SCHON
+21,"All praise to thee, Eternal Lord",TALLIS' CANON
+22,From heaven above to earth I come,VOM HIMMEL HOCH
+23,It came upon the midnight clear,CAROL
+24,While shepherds watched their flocks by night,BETHLEHEM
+25,Hark! the herald angels sing,MENDELSSOHN
+26,All my heart this night rejoices,WARUM SOLLT ICH
+27a,O little town of Bethlehem,ST. LOUIS (REDNER)
+27b,O little town of Bethlehem,CHRISTMAS CAROL
+28,The happy Christmas comes once more,EMMANUEL
+29,"Break forth, O beauteous heavenly light",SCHOP
+30,Angels we have heard on high,GLORIA (IRIS)
+31,"Angels, from the realms of glory",REGENT SQUARE
+32,"Rejoice, rejoice this happy morn",WIE SCHON LEUCHTET
+33,"All hail to thee, O blessed morn",WIE SCHON LEUCHTET
+34,The holy Son of God most high,VOM HIMMEL HOCH
+35,When Christmas morn is dawning,CHRISTMAS DAWN
+36,In the bleak midwinter,CRANHAM
+37,Love came down at Christmas,GARTAN
+38,"Lo, how a Rose e'er blooming",ES IST EIN' ROS'ENTSPRUNGEN
+39,"Good Christian men, rejoice",IN DULCI JUBILO
+40,The first Noel the angel did say,THE FIRST NOWELL
+41,Once in royal David’s city,IRBY
+42,"O come, all ye faithful",ADESTE FIDELES
+43,Under the feeble stable light,HOLY MANGER
+44,Long ago and far away,RESONET IN LAUDIBUS
+45,I am so glad each Christmas Eve,CHRISTMAS EVE
+46,Christmas brings joy to every heart,CHRISTMAS BRINGS JOY
+47,"Away in a manger, no crib for his bed",AWAY IN A MANGER
+48,"What child is this, who, laid to rest",GREENSLEEVES
+49,"Thy little ones, dear Lord, are we",PAEDIA
+50,"Jesus, Name of wondrous love",UNIVERSITY COLLEGE
+51,Earth has many a noble city,STUTTGART
+52,As with gladness men of old,DIX (TREUER HEILAND)
+53a,Brightest and best of the sons of the morning,MORNING STAR
+53b,Brightest and best of the sons of the morning,LIEBSTER IMMANUEL
+54a,"O thou, who by a star didst guide",CREDITON
+54b,"O thou, who by a star didst guide",ST. LEONARD
+55,Songs of thankfulness and praise,TICHFIELD
+56,O one with God the Father,ROTTERDAM
+57,Bright and glorious is the sky,CELESTIA
+58,"Alleluia, song of sweetness",TANTUM ERGO (DULCE CARMEN)
+59,Hark! the voice of Jesus crying,JESU
+60,How blessed from the bonds of sin,RELEASE
+61a,"Sing, my tongue, the glorious battle",PANGE LINGUA
+61b,"Sing, my tongue, the glorious battle",ST. THOMAS (HOLYWOOD)
+62a,"O Christ, our King, Creator, Lord",CROMER
+62b,"O Christ, our King, Creator, Lord",GRACE CHURCH
+63a,"Sweet the moments, rich in blessing",FREIBURG (ES LIEGT EIN SCHLOSS)
+63b,"Sweet the moments, rich in blessing",BATTY (RINGE RECHT)
+64a,In the Cross of Christ I glory,RATHBUN
+64b,In the Cross of Christ I glory,CROSS OF JESUS
+65,My song is love unknown,RHOSYMEDRE
+66,Wide open are thy hands,LEOMINSTER
+67a,"Jesus, Name all names above",NAME OF JESUS
+67b,"Jesus, Name all names above",WERDE MUNTER (ALTERED)
+68a,"Christian, dost thou see them",GUTE BAUME BRINGEN
+68b,"Christian, dost thou see them",ST. ANDREW OF CRETE
+69,"Jesus, refuge of the weary",O DU LIEBE MEINER LIEBE
+70,O Lamb of God most holy!,O LAMM GOTTES
+71,Print thine image pure and holy,PSALM 42 (FREU DICH SEHR)
+72,"Saviour, when in dust to thee",SPANISH HYMN
+73a,"Ride on, ride on in majesty!",ST. DROSTANE
+73b,"Ride on, ride on in majesty!",THE KING'S MAJESTY
+74,"All glory, laud, and honor",ST. THEODULPH (VALET WILL ICH DIR GEBEN)
+75a,The royal banners forward go,VEXILLA REGIS PRODEUNT
+75b,The royal banners forward go,PARKER
+76,Glory be to Jesus,CASWALL
+77a,There is a green hill far away,MEDITATION (GOWER)
+77b,There is a green hill far away,HORSLEY
+78,Go to dark Gethsemane,PETRA (REDHEAD NO. 76)
+79,"Christ, the Life of all the living","JESU, MEINES LEBENS LEBEN"
+80,"Deep were his wounds, and red",MARLEE
+81,"Jesus, in thy dying woes",SWEDISH LITANY
+82,Come to Calvary's holy mountain,HOLY MOUNTAIN
+83,Behold the Lamb of God!,WIGAN
+84,"At the Cross, her station keeping",STABAT MATER (MAINZ)
+85,"Ah, holy Jesus, how hast thou offended",HERZLIEBSTER JESU
+86,O come and mourn with me awhile,ST. CROSS
+87,O darkest woe!,O TRAURIGKEIT
+88a,"O sacred Head, now wounded",PASSION CHORALE
+88b,"O sacred Head, now wounded",PASSION CHORALE
+89,O perfect life of love,GORTON
+90,"The strife is o'er, the battle done",VICTORY
+91,Christ the Lord is risen today,"ST. GEORGE'S, WINDSOR"
+92,"Jesus Christ is risen today, Alleluia!",EASTER HYMN (WORGAN)
+93,"""Welcome, happy morning!"" age to age shall say",FORTUNATUS
+94a,That Easter Day with joy was bright,PUER NOBIS
+94b,That Easter Day with joy was bright,CLARO PASCHALI GAUDIO
+95a,At the Lamb's high feast we sing,SALZBURG (ALLE MENSCHEN)
+95b,At the Lamb's high feast we sing,TICHFIELD
+96,"O sons and daughters, let us sing!",O FILII ET FILIAE
+97,"Sing, men and angels, sing",HAWARDEN
+98a,Christ Jesus lay in death's strong bands,CHRIST LAG IN TODESBANDEN
+98b,Christ Jesus lay in death's strong bands,CHRIST LAG IN TODESBANDEN
+99,"Christ, the Lord, is risen today",LLANFAIR
+100,Alleluia! Jesus lives!,EASTER GLORY (FRED TIL BOD)
+101,Our Lord is risen from the dead,WIE SCHON LEUCHTET
+102,"O Paschal Feast, what joy is thine!",LOB SEI DEM ALLMACHTIGEN GOTT
+103,Now let the vault of heaven resound,LASST UNS ERFREUEN
+104,"Praise the Saviour, now and ever","RIDDARHOLM (UPP, MIN TUNGA)"
+105,The Day of Resurrection,ROTTERDAM
+106a,"Come, ye faithful, raise the strain",ST. KEVIN
+106b,"Come, ye faithful, raise the strain",SPRING OF SOULS
+107,"Christ, the Lord, is risen again",CHRIST IST ERSTANDEN
+108,Alleluia! Alleluia!,LUX EOI
+109,"Good Christian men, rejoice and sing!",VULPIUS (GELOBT SEI GOTT)
+110,A hymn of glory let us sing,PARK STREET
+111,Hail the day that sees him rise,ASCENSION
+112,See the Conqueror mounts in triumph,REX GLORIAE
+113,Let all the multitudes of light,NUN FREUT EUCH
+114a,"Look, ye saints, the sight is glorious",TRIUMPH
+114b,"Look, ye saints, the sight is glorious",BRYN CALFARIA
+115,Golden harps are sounding,HERMAS
+116,To realms of glory in the skies,"MACH'S MIT MIR, GOTT (EISENACH)"
+117a,"Come, Holy Ghost, our souls inspire","VENI, CREATOR SPIRITUS"
+117b,"Come, Holy Ghost, our souls inspire",THANKSGIVING
+118,"Spirit of mercy, truth, and love",OMBERSLEY
+119,"Gracious Spirit, Holy Ghost",CAPETOWN
+120,"O Holy Spirit, enter in",WIE SCHON LEUCHTET
+121,"Come, Holy Ghost, in love",MALVERN
+122a,"Come, Holy Spirit, God and Lord","KOMM HEILIGER GEIST, HERRE GOTT"
+122b,"Come, Holy Spirit, God and Lord",PIXHAM
+123,"Come down, O Love divine",DOWN AMPNEY
+124a,"Creator Spirit, by whose aid",ATTWOOD
+124b,"Creator Spirit, by whose aid",MELITA
+125,"Love of the Father, Love of God the Son",SONG 22
+126,"Come, O come, thou quickening Spirit","KOMM, O KOMM, DU GEIST DES LEBENS"
+127,"Come, gracious Spirit, heavenly Dove",WAREHAM
+128,"Lord, let thy Spirit, from earthly passion weaning",BERGGREN (ALT.)
+129,"Spirit of God, descend up on my heart",MORECAMBE
+130,"Holy Spirit, truth divine",SONG 13
+131,"Holy, holy, holy, Lord God Almighty!",NICAEA
+132,All glory be to God on high,ALLEIN GOTT IN DER HOH
+133a,O Trinity of blessed light,O LUX BEATA TRINITAS
+133b,O Trinity of blessed light,AETERNA CHRISTI MUNERA
+133c,O Trinity of blessed light,ILLSLEY
+134,"Father most holy, merciful and tender",CHRISTE SANCTORUM
+135,"Holy, holy, holy Lord",ST. ATHANASIUS
+136,"Come, thou almighty King",MOSCOW (ITALIAN HYMN)
+137,"Ancient of Days, who sittest throned in glory",ANCIENT OF DAYS
+138,Most ancient of all mysteries,ST. FLAVIAN
+139,Glory be to God the Father!,ST. NICHOLAS
+140,"Father of heaven, whose love profound",RIVAULX
+141,"For all thy saints, O Lord",ST. MICHAEL (OLD 134TH)
+142,In his temple now behold him,MANNHEIM
+143,Hark! the sound of holy voices,DEERHURST
+144a,For all the saints who from their labors rest,SINE NOMINE
+144b,For all the saints who from their labors rest,PRO OMNIBUS SANCTIS (SARUM)
+145,The saints of God! their conflict past,NYBERG
+146a,"In heaven above, in heaven above",LAURINUS
+146b,"In heaven above, in heaven above",HAUGE
+147a,"O wondrous type, O vision fair",CONDITOR ALME SIDERUM
+147b,"O wondrous type, O vision fair",CAMERONIAN MIDNIGHT HYMN
+148,"Stars of the morning, so gloriously bright",TRISAGION
+149,The Church's one foundation,AURELIA
+150,A mighty fortress is our God,EIN' FESTE BURG
+151,Built on a rock the church doth stand,KIRKEN
+152a,Glorious things of thee are spoken,HARWELL
+152b,Glorious things of thee are spoken,AUSTRIAN HYMN
+153a,"Jesus, with thy Church abide",SCHEFFLER
+153b,"Jesus, with thy Church abide",LITANY
+154,O where are kings and empires now,TALLIS' ORDINAL
+155a,"Lord, keep us steadfast in thy word","JESU, DULCEDO CORDIUM"
+155b,"Lord, keep us steadfast in thy word","ERHALT UNS, HERR"
+156a,"Fear not, thou faithful Christian flock",ASCENDIT DEUS
+156b,"Fear not, thou faithful Christian flock",KOMMT HER ZU MIR
+157,"Lord of our life, and God of our salvation",CLOISTERS
+158,"I love thy kingdom, Lord",ST. THOMAS
+159,"Thy hand, O God, has guided",THORNBURY
+160a,"Praise, my soul, the King of heaven","PRAISE, MY SOUL"
+160b,"Praise, my soul, the King of heaven","OUR LADY, TRONDHJEM"
+161,Before Jehovah's aweful throne,OLD HUNDREDTH
+162,"Lo, God is here! let us adore",WINCHESTER NEW
+163,"O worship the King, all glorious above",HANOVER
+164,God himself is present,"ARNSBERG (WUNDERBARER, KONIG)"
+165,"Come, we that love the Lord",KANE
+166,"Blessing and honor, and glory and power",AMERICAN HYMN
+167,"Holy God, we praise thy Name",TE DEUM (GROSSER GOTT)
+168a,"O God, our help in ages past",ST. ANNE
+168b,"O God, our help in ages past",ST. ANNE
+169,All people that on earth do dwell,OLD HUNDREDTH
+170,"Lord of all being, throned afar",LOUVAN
+171,"Our God, to whom we turn",DARMSTADT
+172,"Immortal, invisible, God only wise",ST. DENIO
+173,All creatures of our God and King,LASST UNS ERFREUEN
+174,"We worship thee, almighty Lord",TER SANCTUS
+175,"O King of kings, before whose throne",LEICESTER
+176a,"O God, the Rock of Ages",MIRIAM
+176b,"O God, the Rock of Ages",DU MEINE SEELE SINGE
+177a,Round the Lord in glory seated,ADORATION
+177b,Round the Lord in glory seated,MOULTRIE
+178,"Eternal God, before thy throne we bend",INVOCATION
+179,Shepherd of tender youth,KIRBY BEDON
+180,"Arise, my soul, arise! Stretch forth to things eternal",SUOMI
+181,"My God, how wonderful thou art",DUNDEE (FRENCH)
+182a,O day of rest and gladness,BERNO
+182b,O day of rest and gladness,"KOMM, SEELE"
+183,"Sweet is the work, my God, my King",TRURO
+184,Pleasant are thy courts above,MAIDSTONE
+185,Safely through another week,RED WING SEMINARY
+186,"Light of light, enlighten me",MEINHOLD
+187,Open now thy gates of beauty,NEANDER (UNSER HERRSCHER)
+188a,"Lord Jesus Christ, be present now","HERR JESU CHRIST, DICH ZU UNS WEND"
+188b,"Lord Jesus Christ, be present now","HERR JESU CHRIST, DICH ZU UNS WEND"
+189,"Glorious Majesty, before thee",WACHET AUF
+190,"Look upon us, blessed Lord","LIEBSTER JESU, WIR SIND HIER (DESSAU)"
+191a,"Lord, dismiss us with thy blessing",SICILIAN MARINERS
+191b,"Lord, dismiss us with thy blessing",FINNISH SONG
+192,"Abide with us, our Saviour",ACH BLEIB MIT DEINER GNADE
+193,On what has now been sown,ST. GODRIC
+194,Praise to thee and adoration,PSALM 42 (FREU DICH SEHR)
+195,On our way rejoicing,HERMAS
+196,"Almighty God, thy word is cast",ST. FULBERT
+197,O happy day when we shall stand,"LOBT GOTT, IHR CHRISTEN"
+198,"Saviour, again to thy dear Name we raise",ELLERS
+199,"O Saviour, bless us ere we go",ST. MATTHIAS
+200,Peace to soothe our bitter woes,PEACE OF GOD
+201,New every morning is the love,MELCOMBE
+202,"Awake, my soul, and with the sun",MORNING HYMN
+203a,"At thy feet, O Christ, we lay",VOLLER WUNDER
+203b,"At thy feet, O Christ, we lay",BARMOUTH
+204,"Father, we praise thee, now the night is over",CHRISTE SANCTORUM
+205,"God, who madest earth and heaven",GOTT DES HIMMELS
+206a,O Splendor of God's glory bright,SPLENDOR PATERNAE
+206b,O Splendor of God's glory bright,WALTON (GERMANY)
+207a,"Come, my soul, thou must be waking",HAYDN
+207b,"Come, my soul, thou must be waking",MORING
+208a,"Christ, whose glory fills the skies",GOUNOD (LUX PRIMA)
+208b,"Christ, whose glory fills the skies",RATISBON
+209,"God of our life, all-glorious Lord",HURSLEY
+210,"Golden light, serene and bright",BARNEKOW
+211,Now that the daystar glimmers bright,LANCASTER
+212,"Come, thou bright and morning star",MORGENGLANZ DER EWIGKEIT
+213,"Behold us, Lord, a little space",BEATITUDO
+214,"Forth in thy Name, O Lord, I go",ANGEL'S SONG (SONG 34)
+215,Evening and morning,DIE GULDNE SONNE
+216,From thee all skill and science flow,ALBANO
+217a,"O Son of Man, thou madest known",ILLSLEY
+217b,"O Son of Man, thou madest known",BLEST MOMENTS
+218a,"Blest are the moments, doubly blest",SKARA
+218b,"Blest are the moments, doubly blest",WINSCOTT
+219,O Strength and Stay upholding all creation,STRENGTH AND STAY
+220,"O gladsome light, O grace",NUNC DIMITTIS
+221,"Saviour, breathe an evening blessing",EVENING PRAYER
+222,The radiant morn hath passed away,ST. GABRIEL
+223,"All praise to thee, my God, this night",TALLIS' CANON
+224,The day is past and over,ST. ANATOLIUS (BROWN)
+225a,"Now God be with us, for the night is closing",HOREB (NIGHTFALL)
+225b,"Now God be with us, for the night is closing","LOBET DEN HERREN, ALLE"
+226,"Sun of my soul, thou Saviour dear",HURSLEY
+227,"The day thou gavest, Lord, is ended",ST. CLEMENT
+228,The duteous day now closeth,INNSBRUCK
+229,"Saviour, now the day is ending",GOUNOD (LUX PRIMA)
+230,"God, that madest earth and heaven",AR HYD Y NOS
+231a,Now the day is over,MERRIAL
+231b,Now the day is over,ST. LUCIAN
+232,At even when the sun was set,ANGELUS
+233,The twilight shadows round me fall,CECILE
+234,Day is dying in the west,EVENING PRAISE
+235,"Jesus, tender Shepherd, hear me",EVENING PRAYER
+236,The fading day adorns the west,SOLDAU
+237,Round me falls the night,ST. HUBERT
+238a,Lord of the worlds above,CROFT'S 136th
+238b,Lord of the worlds above,DARWALL'S 148th
+239,"We love the place, O God",QUAM DILECTA
+240,Angel voices ever singing,ANGEL VOICES
+241,"How blessed is this place, O Lord",CROMER
+242,Christ is made the sure foundation,REGENT SQUARE
+243a,"Put forth, O God, thy Spirit's might",CHELSEA SQUARE
+243b,"Put forth, O God, thy Spirit's might",SPIRITUS DOMINI
+244,All things are thine; no gift have we,MELCOMBE
+245a,"Blessed city, heavenly Salem",TANTUM ERGO (DULCE CARMEN)
+245b,"Blessed city, heavenly Salem",URBS BEATA
+246,"Thou, whose unmeasured temple stands",LAMBETH
+247,"O Light, from age to age the same",ST. JAMES
+248,"Our Father, by whose servants",DANK SEI GOTT IN DER HOHE
+249a,"Come, all ye people, come away",FESTAL DAY
+249b,"Come, all ye people, come away",MELCOMBE
+250,"O God of Light, thy word, a lamp unfailing",STRENGTH AND STAY
+251,The Spirit of the Lord revealed,WOLDER (AUS MEINES HERZENS GRUNDE)
+252,O Word of God incarnate,MUNICH (MEININGEN)
+253,How blest are they who hear God's word,ISLAND
+254a,"Thy word, O Lord, like gentle dews",ST. MATTHEW
+254b,"Thy word, O Lord, like gentle dews",RELEASE
+255,"Awake, thou Spirit of the watchmen","CRASSELIUS (DIR, DIR, JEHOVAH)"
+256,"Father of mercies, in thy word",ST. AGNES
+257,God's word is our great heritage,EIN' FESTE BURG
+258,"O Lord, thy people gathered here",PHILIPPINE
+259,He that believes and is baptized,ST. PAUL (ES IST DAS HEIL)
+260,Jesus took the babes and blessed them,REGENT SQUARE
+261,"Saviour, who thy flock art feeding",BROCKLESBURY
+262,Deck thyself with joy and gladness,SCHMUCKE DICH
+263a,"O God, unseen, yet ever near",MEDITATION (GOWER)
+263b,"O God, unseen, yet ever near",ST. FLAVIAN
+264,"Thine own, O loving Saviour",FRANZEN
+265a,"Lord Jesus Christ, we humbly pray",GRACE CHURCH
+265b,"Lord Jesus Christ, we humbly pray",FILIA
+266,According to thy gracious word,DUNDEE (FRENCH)
+267,"Be still, my soul, for God is near",ANGELUS
+268a,Author of life divine,ST. GODRIC
+268b,Author of life divine,DOLGELLY
+269,"Shepherd of souls, refresh and bless",WINDSOR (DUNDEE)
+270,"A voice, a heavenly voice I hear!",ST. JAMES' STOCKHOLM
+271,O Bread of life from heaven,INNSBRUCK
+272,"Thee we adore, O hidden Saviour, thee",ADORO TE DEVOTE
+273,Draw nigh and take the Body of the Lord,COENA DOMINI
+274a,"Victim Divine, thy grace we claim",DAS NEUGEBORNE KINDELEIN
+274b,"Victim Divine, thy grace we claim",ST. CHRYSOSTOM
+275,"Here, O my Lord, I see thee face to face",PENITENTIA
+276,"Not worthy, Lord, to gather up the crumbs",ST. FRANCIS
+277a,"O saving Victim, opening wide",VERBUM SUPERNUM
+277b,"O saving Victim, opening wide",ST. VINCENT
+278,"And now, O Father, mindful of the love",UNDE ET MEMORES
+279,Bread of the world in mercy broken,EUCHARISTIC HYMN
+280,"Very Bread, good Shepherd, tend us",ECCE PANIS
+281,Let all mortal flesh keep silence,PICARDY
+282,For the bread which thou hast broken,OMNI DIE
+283,"Come with us, O blessed Jesus","JESU, JOY OF MAN'S DESIRING"
+284,"O Jesus, blessed Lord, to thee",KINGO
+285,O living Bread from heaven,AURELIA
+286,"Strengthen for service, Lord, the hands",ACH GOTT UND HERR
+287,Lord of the everlasting light,LUTHER SEMINARY
+288,"My Lord, I hear thee pleading",FRANZEN
+289,"O God, accept my heart this day",BALLERMA
+290,"Blessed Saviour, who hast taught me",O DU LIEBE MEINER LIEBE
+291,"With solemn joy we come, dear Lord",ST. PETER
+292,"O take my hand, dear Father",SO NIMM DENN MEINE HANDE
+293,"Lord, to thee I now surrender",ST. THOMAS (HOLYWOOD)
+294a,"Jesus Christ, my sure Defence","JESUS, MEINE ZUVERSICHT (RATISBON)"
+294b,"Jesus Christ, my sure Defence","JESUS, MEINE ZUVERSICHT (RATISBON)"
+295,Beyond the everlasting hills,ST. ETHELDREDA
+296,Now the laborer's task is o'er,REQUIESCAT
+297,"Despair not, O heart, in thy sorrow",IAM MOESTA
+298a,"That day of wrath, that dreadful day",LLEF
+298b,"That day of wrath, that dreadful day",WINDHAM
+299,I know of a sleep in Jesus' Name,WEYSE
+300,"O perfect Love, all human thought transcending",O PERFECT LOVE
+301,"Lord, who at Cana's wedding feast",ISHPEMING
+302,O pour thy Spirit from on high,"ST. LAWRENCE, LUND (UPPFAREN AR VAR HERRE)"
+303,"Lord of the Church, we humbly pray","ERFURT (ALLGUTIGER, MEIN PREISGESANG)"
+304,Lord of the living harvest,HOLY CHURCH
+305,"Thou Lord of Hosts, whose guiding hand",TRURO
+306,O Spirit of the living God,MELCOMBE
+307,Jesus shall reign where'er the sun,DUKE STREET
+308,"Lift up your heads, ye gates of brass",ELLACOMBE
+309,"Thou, whose almighty word",MOSCOW (ITALIAN HYMN)
+310,From Greenland's icy mountains,MISSIONARY HYMN
+311a,Christ for the world we sing,CUTTING
+311b,Christ for the world we sing,KIRBY BEDON
+312,"Saviour, sprinkle many nations",BEECHER
+313,The morning light is breaking,WEBB
+314,"O Zion, haste, thy mission high fulfilling",ANGELIC SONGS
+315,Fling out the banner! let it float,WALTHAM
+316a,"O God of mercy, God of might",JUST AS I AM (BARNBY)
+316b,"O God of mercy, God of might",TRANSFIGURATION
+317,Remember all the people,FAR OFF LANDS
+318,"Thy kingdom come! O Father, hear our prayer",ELLINGHAM
+319a,Hail to the brightness of Zion's glad morning,WESLEY
+319b,Hail to the brightness of Zion's glad morning,EINER IST KONIG
+320,"Heralds of Christ, who bear the King's commands",LONGWOOD
+321,"Hills of the North, rejoice",LITTLE CORNARD
+322,"Eternal God, whose power upholds",ST. MARIA
+323,"Spread, O spread, thou mighty word",GOTT SEI DANK
+324,"Thine arm, O Lord, in days of old",ST. MATTHEW
+325,Look from thy sphere of endless day,ST. CRISPIN
+326,I love to tell the story,HANKEY
+327,The Lord will come and not be slow,ST. STEPHEN (NEWINGTON)
+328,Hail to the Lord's Anointed,WESTWOOD
+329,"Thy kingdom come, O God",ST. CECILIA
+330a,"City of God, how broad and far",RICHMOND (CHESTERFIELD)
+330b,"City of God, how broad and far",DAYTON
+331,Thy kingdom come! on bended knee,IRISH
+332,"O holy city, seen of John",FORD COTTAGE
+333,Full many shall come from the east and the west,STOCKHOLM
+334,"O holy Lord, content to fill",ABENDS
+335,Sing to the Lord the children's hymn,ST. HUGH
+336,"O happy home, where thou art loved the dearest",ALINE
+337,"Holy Father, in thy mercy",CAIRNBROOK
+338,Eternal Father! strong to save,MELITA
+339,Before the Lord we bow,DARWALL'S 148TH
+340,From ocean unto ocean,MUNICH (MEININGEN)
+341,"Thou, by heavenly hosts adored","ST. GEORGE'S, WINDSOR"
+342a,In Christ there is no east or west,ELDORA
+342b,In Christ there is no east or west,ST. PETER
+343a,"Judge eternal, throned in splendor",PICARDY
+343b,"Judge eternal, throned in splendor",RHUDDLAN
+344a,O God of earth and altar,LLANGLOFFAN
+344b,O God of earth and altar,KING'S LYNN
+345,Not alone for mighty empire,GENEVA
+346,O beautiful for spacious skies,MATERNA
+347,"God of our fathers, known of old",ST. MATTHIAS
+348,"Turn back, O man, forswear thy foolish ways",OLD 124th
+349,"God of peace, in peace preserve us",PAX (KILGORE)
+350,Eternal Ruler of the ceaseless round,SONG 1
+351,Where cross the crowded ways of life,WALTON (GERMANY)
+352a,"O God of love, O King of peace","PAX (ACK, BLIV HOS OSS)"
+352b,"O God of love, O King of peace",ST. GREGORY
+353,O God of wondrous grace and glory,MOUNT AIRY
+354,"God the Omnipotent! King, who ordainest",RUSSIAN HYMN
+355,Where restless crowds are thronging,MEIRIONYDD
+356,Mine eyes have seen the glory of the coming of the Lord,BATTLE HYMN
+357,"Mighty God, to thy dear Name be given",DEUS FORTIS
+358,God bless our native land,NATIONAL ANTHEM
+359a,"Lord God of hosts, whose mighty hand",VATER UNSER
+359b,"Lord God of Hosts, whose mighty hand",SURREY (CAREY)
+360,"My country, 'tis of thee",AMERICA
+361,God save our gracious Queen,NATIONAL ANTHEM
+362a,"Lord, in thy Name thy servants plead",GORDON
+362b,"Lord, in thy Name thy servants plead",SPRINGTIME
+363,"Come, ye thankful people, come","ST. GEORGE'S, WINDSOR"
+364,"We plough the fields, and scatter",WIR PFLUGEN
+365a,"Lord Jesus, think on me",SOUTHWELL
+365b,"Lord Jesus, think on me",ST. BRIDE
+366,"Weary of earth, and laden with my sin",LANGRAN
+367,With broken heart and contrite sigh,ST. CRISPIN
+368,"Lord, it belongs not to my care",CHESHIRE
+369,"Approach, my soul, the mercy-seat",LONDON NEW
+370a,"Just as I am, without one plea",QUEBEC (HESPERUS)
+370b,"Just as I am, without one plea",WOODWORTH
+371,I bow my forehead to the dust,ST. BERNARD
+372,Out of the depths I cry to thee,AUS TIEFER NOT
+373,There is a fountain filled with blood,EVAN
+374,God calling yet; shall I not hear?,BRESLAU
+375,My faith looks up to thee,OLIVET
+376a,"Jesus, thy Blood and righteousness",HERRNHUT
+376b,"Jesus, thy Blood and righteousness","O JESU CHRIST, MEINS LEBENS LICHT"
+377,Sinners Jesus will receive,BREAD OF HEAVEN
+378,"Search me, God, and know my heart",WENNERBERG
+379a,"Rock of Ages, cleft for me",PETRA (REDHEAD NO. 76)
+379b,"Rock of Ages, cleft for me",TOPLADY
+380,"To thee, O Lord, the God of all",VATER UNSER
+381,"By thy Cross, O Christ, and passion",SCHMUCKE DICH
+382,Now once again for help that never faileth,WELWYN
+383,"Jesus, hear my humble pleading","JESUS, HEAR"
+384a,One who is all unfit to count,WIGTOWN
+384b,One who is all unfit to count,CAITHNESS
+385,My hope is built on nothing less,MELITA
+386,"O Jesus, thou art standing",ST. EDITH (ST. HILDA)
+387,I know that my Redeemer lives,DUKE STREET
+388,As pants the hart for cooling streams,MARTYRDOM
+389,O for a heart to praise my God,WINCHESTER
+390,Thou art the Way; to thee alone,BEATITUDO
+391a,"Thou hidden Love of God, whose height",ST. INGRID
+391b,"Thou hidden Love of God, whose height",ST. CHRYSOSTOM
+392,"More love to thee, O Christ",MORE LOVE TO THEE
+393a,"Jesus, Lover of my soul",ABERYSTWYTH
+393b,"Jesus, Lover of my soul",HOLLINGSIDE
+393c,"Jesus, Lover of my soul",MARTYN
+394,Blest are the pure in heart,FRANCONIA
+395,O for a faith that will not shrink,WOLVERHAMPTON
+396,I lift my eyes unto heaven above,I LIFT MY EYES
+397a,"Love divine, all loves excelling",HYFRYDOL
+397b,"Love divine, all loves excelling",LOVE DIVINE (LE JEUNE)
+398,Mine eyes unto the mountains,OLD 130TH
+399,"Jesus, thy boundless love to me",ST. PETERSBURG (CHERUBIC HYMN)
+400,"O Christ, our hope, our hearts' desire","LOBT GOTT, IHR CHRISTEN"
+401,"Jesus, thy love unbounded",EVARTS
+402,O Love that wilt not let me go,ST. MARGARET
+403a,"Lord, with glowing heart I'd praise thee",SANCTUARY
+403b,"Lord, with glowing heart I'd praise thee",RIPLEY
+404,How brightly beams the morning star!,WIE SCHON LEUCHTET
+405,"Let us, with a gladsome mind",MONKLAND
+406,How sweet the Name of Jesus sounds,ST. PETER
+407,"Praise the Lord! Ye heavens, adore him",ARUNDEL
+408,"Praise to the Lord, the Almighty, the King of creation",LOBE DEN HERREN
+409,Ye holy angels bright,CROFT'S 136TH
+410,The God of Abraham praise,LEONI (YIGDAL)
+411,Praise to the Holiest in the height,GERONTIUS
+412,Join all the glorious names,"ST. PETER'S, MANCHESTER"
+413a,"Come, let us join our cheerful songs",NUN DANKET ALL UND BRINGET EHR
+413b,"Come, let us join our cheerful songs",CHEERFUL
+414,Let the whole creation cry,SALZBURG (ALLE MENSCHEN)
+415,"Thee we adore, eternal Lord!",MENDON
+416,When morning gilds the skies,LAUDES DOMINI
+417,Alleluia! sing to Jesus,ALLELUIA
+418,Let all the world in every corner sing,UNDIQUE GLORIA
+419,"O Saviour, precious Saviour",ANGEL'S STORY
+420,Through all the changing scenes of life,WILTSHIRE
+421,Praise ye the Father for his lovingkindness,FLEMMING (INTEGER VITAE)
+422,Sing praise to God who reigns above,PRAISE (AF HIMLENS)
+423,"O sing, all ye lands, with jubilant voice",HOFF
+424,Hosanna to the living Lord!,HOSANNA
+425,"Saviour, blessed Saviour",BOHEMIA
+426a,All hail the power of Jesus' Name!,MILES LANE
+426b,All hail the power of Jesus' Name!,CORONATION
+427,Praise the Lord of heaven,DAVID (ST. ALBAN'S)
+428a,O for a thousand tongues to sing,DEDHAM
+428b,O for a thousand tongues to sing,AZMON
+429,From all that dwell below the skies,DUKE STREET
+430a,At the Name of Jesus,EVELYNS
+430b,At the Name of Jesus,ST. ERIK
+431,Crown him with many crowns,DIADEMATA
+432,Songs of praise the angels sang,MONKLAND
+433,Thou didst leave thy throne,MARGARET
+434,"Beautiful Saviour, King of Creation",SCHONSTER HERR JESU
+435a,"Hail, thou once despised Jesus!",SUPPLICATION
+435b,"Hail, thou once despised Jesus!",CONQUEROR (O DURCHBRECHER)
+436a,"Rejoice, the Lord is King!",JUBILATE
+436b,"Rejoice, the Lord is King!",LAUS REGIS
+437,Ye watchers and ye holy ones,LASST UNS ERFREUEN
+438,"Joyful, joyful we adore thee",ALLELUIA
+439,The head that once was crowned with thorns,NOTTINGHAM (ST. MAGNUS)
+440a,"When all thy mercies, O my God",BELGRAVE
+440b,"When all thy mercies, O my God",EAGLEY
+441,Give to our God immortal praise,DUKE STREET
+442,The spacious firmament on high,CREATION
+443,Now thank we all our God,NUN DANKET ALLE GOTT
+444,For the beauty of the earth,HEATHLANDS
+445,"To thee, O Lord, our hearts we raise",BISHOPGARTH
+446,"Ye servants of God, your Master proclaim",LYONS
+447,"My God, I thank thee, who hast made",WENTWORTH
+448a,O Lord of heaven and earth and sea,ALMSGIVING
+448b,O Lord of heaven and earth and sea,MEYER (ES IST KEIN TAG)
+449,How marvellous God's greatness,BLOMSTERTID
+450,"We praise thee, O God, our Redeemer, Creator",KREMSER
+451a,"Teach me, my God and King",ST. ANDREW
+451b,"Teach me, my God and King",CARLISLE
+452,"Lord, teach us how to pray aright",EVAN
+453,"O Christ, whom we may love and know","METZLER (REDHEAD, No. 66)"
+454,O thou whose feet have climbed life's hill,NOTTINGHAM (ST. MAGNUS)
+455,"Lord, as to thy dear Cross we flee",WINDSOR (DUNDEE)
+456a,One there is above all others,ALL SAINTS
+456b,One there is above all others,DANA
+457,"Our God is love, and all his saints",LAMBETH
+458,Prayer is the soul's sincere desire,NAOMI
+459,What a friend we have in Jesus,ERIE (WHAT A FRIEND)
+460,"O God, eternal source","DARMSTADT (O GOTT, DU FROMMER GOTT)"
+461,"Pass me not, O gentle Saviour",PASS ME NOT
+462,"O my soul, on wings ascending",WERDE MUNTER
+463,"Saviour, thy dying love",SOMETHING FOR JESUS
+464,Thou to whom the sick and dying,HIMMEL
+465,"My God and Father, while I stray",ALMSGIVING
+466,O for a closer walk with God,CAITHNESS
+467,Dear Lord and Father of mankind,REST
+468,"O Jesus, King most wonderful",WINCHESTER
+469,"Jesus, these eyes have never seen",SOUTHWELL (IRONS)
+470,"Breathe on me, Breath of God",TRENTHAM
+471,"Come, O thou Traveler unknown",DAVID'S HARP
+472,"Lead us, O Father, in the paths of peace",LANGRAN
+473,"I sought the Lord, and afterward I knew",PEACE
+474,Walk in the light: so shalt thou know,RICHMOND (CHESTERFIELD)
+475,Light of the anxious heart,FRANCONIA
+476a,"Immortal Love, forever full",BISHOPTHORPE (ST. PAUL'S)
+476b,"Immortal Love, forever full",SERENITY
+477,Since Jesus is my Friend,DONCASTER (BETHLEHEM)
+478,He leadeth me: O blessed thought!,AUGHTON (HE LEADETH ME)
+479,I need thee every hour,LOWRY
+480a,O thou in all thy might so far,IRISH
+480b,O thou in all thy might so far,REDEEMER
+481,"Jesus, the very thought of thee",ST. AGNES
+482,Beneath the Cross of Jesus I fain would take my stand,ST. CHRISTOPHER
+483a,"Jesus, thou Joy of loving hearts",CHRISTE REDEMPTOR
+483b,"Jesus, thou Joy of loving hearts",WALTON (GERMANY)
+484,God moves in a mysterious way,LONDON NEW
+485,"Jesus, Lord and precious Saviour",KALMAR
+486,Alas! and did my Saviour bleed,MARTYRDOM (AVON)
+487,This is my Father's world,TERRA PATRIS
+488,Unto the hills around do I lift up,SANDON
+489,"O God, I love thee; not that my poor love",PAX DEI
+490,I look to thee in every need,O JESU
+491,Break thou the bread of life,BREAD OF LIFE
+492,I lay my sins on Jesus,MUNICH (MEININGEN)
+493a,There's a wideness in God's mercy,OMNI DIE
+493b,There's a wideness in God's mercy,ARMSTRONG
+494a,We sing the praise of him who died,DEUS TUORUM MILITUM
+494b,We sing the praise of him who died,MADAGASCAR
+495a,Sometimes a light surprises,BENTLEY
+495b,Sometimes a light surprises,CRUGER
+496,"Still, still with thee, when purple morning breaketh",WILLINGHAM
+497,"I think, when I read that sweet story of old",SWEET STORY (LUKE)
+498,"Hark! hark, my soul! angelic songs are swelling",PILGRIMS
+499a,I heard the voice of Jesus say,THIRD MODE MELODY
+499b,I heard the voice of Jesus say,VOX DILECTI
+500,Were you there when they crucified my Lord?,WERE YOU THERE
+501,"O Jesu so meek, O Jesu so kind",O JESULEIN SUSS
+502a,The Lord our God alone is strong,FORTITUDO
+502b,The Lord our God alone is strong,TRURO
+503a,When I survey the wondrous Cross,HAMBURG (BOSTON)
+503b,When I survey the wondrous Cross,ROCKINGHAM (COMMUNION)
+504,"Jesus, my Lord, my God, my all",ST. CHRYSOSTOM
+505,"Thee will I love, my strength, my tower",ICH WILL DICH LIEBEN
+506,Let me be thine forever,COPENHAGEN (JEG VIL MIG HERREN LOVE)
+507,"Jesus, Master, whose I am",ST. CHRYSOSTOM
+508,"Make me a captive, Lord",LEOMINSTER
+509,Conquering kings their titles take,ORIENTIS PARTIBUS
+510,"Take my life, and let it be",PATMOS
+511,Thine for ever! God of love,INNOCENTS
+512a,"Jesus, I my cross have taken",SERAPHIM
+512b,"Jesus, I my cross have taken",FALFIELD
+513,Thy life was given for me,ST. OLAVE
+514,"Jesus, and shall it ever be",FEDERAL STREET
+515a,"O Jesus, I have promised",ANGEL'S STORY
+515b,"O Jesus, I have promised",SEDGWICK
+516,Faith of our fathers! living still,ST. CATHERINE
+517,"Art thou weary, art thou languid",STEPHANOS
+518,"Jesus, thou art mine forever",MERTON
+519a,"O God of Bethel, by whose hand",BYRD
+519b,"O God of Bethel, by whose hand",ST. PETER
+520a,"Guide me, O thou great Jehovah",CWM RHONDDA
+520b,"Guide me, O thou great Jehovah",PILGRIM
+521,"God of our fathers, whose almighty hand",NATIONAL HYMN
+522,"The Lord's my Shepherd, I'll not want",CRIMOND
+523a,"Lead, kindly Light, amid the encircling gloom",LUX BENIGNA
+523b,"Lead, kindly Light, amid the encircling gloom",SANDON
+524,"Saviour, like a shepherd lead us",BRADBURY
+525,"Watchman, tell us of the night",WATCHMAN
+526,"The Lord my Shepherd is, I shall be well supplied",THATCHER
+527,Brief life is here our portion,ST. ALPHEGE
+528,"Saviour, teach me, day by day",FERRIER
+529a,Through the night of doubt and sorrow,ST. ASAPH
+529b,Through the night of doubt and sorrow,MARCHING
+530a,The King of love my shepherd is,DOMINUS REGIT ME
+530b,The King of love my shepherd is,ST. COLUMBA
+531,"Jesus, Saviour, pilot me",PILOT
+532,"Jesus, still lead on",SEELENBRAUTIGAM
+533,"Great God, we sing that mighty hand",HEBRON (MASON)
+534a,"For thee, O dear, dear country",HOMELAND
+534b,"For thee, O dear, dear country",ELY CATHEDRAL
+535a,Not always on the mount may we,LOB SEI DEM ALLMACHTIGEN GOTT
+535b,Not always on the mount may we,ONEONTA
+536,"Lord, as a pilgrim on earth I roam",PILGRIM SONG
+537,"O Master, let me walk with thee",MARYTON
+538,"Lord, speak to me, that I may speak",CANONBURY
+539,"O brother man, fold to thy heart thy brother!",WELWYN
+540,Believing fathers oft have told,MEIRINGEN
+541,"Rise up, O men of God!",FESTAL SONG
+542,"Son of God, eternal Saviour",IN BABILONE
+543,Blest be the tie that binds,DENNIS
+544a,We give thee but thine own,ST. GILES
+544b,We give thee but thine own,ST. GEORGE (ST. OLAVE)
+545,The wise may bring their learning,CHRISTMAS MORN
+546,Let us now our voices raise,WEIMAR
+547,Once to every man and nation,EBENEZER (TON-Y-BOTEL)
+548,"O God of youth, whose Spirit in our hearts is stirring",LYNNE
+549,"Saviour, thee my heart I tender",LOVE DIVINE (LE JEUNE)
+550,"Lead on, O King eternal",LANCASHIRE
+551a,"Stand up, stand up for Jesus",MILES ANIMOSUS
+551b,"Stand up, stand up for Jesus",WEBB
+552,"Awake, my soul, stretch every nerve",CHRISTMAS
+553,Jesus calls us; o'er the tumult,GALILEE
+554,Am I a soldier of the Cross,ARLINGTON
+555,"Rejoice, ye pure in heart",MARION
+556,"Rise, ye children of salvation",NEANDER (UNSER HERRSCHER)
+557,Fight the good fight with all thy might,PENTECOST
+558,"How firm a foundation, ye saints of the Lord",ADESTE FIDELES
+559,"My soul, be on thy guard",HEATH
+560,"Onward, Christian soldiers",ST. GERTRUDE
+561,In the hour of trial,PENITENCE
+562,The Son of God goes forth to war,ALL SAINTS NEW
+563a,He who would valiant be,MONKS GATE
+563b,He who would valiant be,ST. DUNSTAN'S
+564a,"Soldiers of Christ, arise",FROM STRENGTH TO STRENGTH
+564b,"Soldiers of Christ, arise",DURHAM (DOVER)
+565,Forward! be our watch-word,FORWARD (SMART)
+566,Thine is the glory,JUDAS MACCABAEUS
+567,"O Christians, leagued together",LUTHER LEAGUE HYMN
+568,If thou but suffer God to guide thee,NEUMARK (WER NUR DEN LIEBEN GOTT)
+569,"Come, ye disconsolate, where'er ye languish",CONSOLATION (ALMA REDEMPTORIS MATER)
+570,Majestic sweetness sits enthroned,ORTONVILLE
+571,"Peace, perfect peace, in this dark world of sin?",PAX TECUM
+572,Children of the heavenly Father,SANDELL (TRYGGARE KAN INGEN VARA)
+573,O blessed Sun whose splendor,HEAVENLY LOVE
+574,In heavenly love abiding,NYLAND
+575a,"Jesus, priceless Treasure","JESU, MEINE FREUDE"
+575b,"Jesus, priceless Treasure",LINDEMAN
+576,"Abide with me, fast falls the eventide",EVENTIDE
+577,"Nearer, my God, to thee",BETHANY
+578,Softly and tenderly Jesus is calling,FOR YOU AND FOR ME
+579,Put thou thy trust in God,NARENZA
+580,"My Jesus, as thou wilt",DENBY
+581,"Hope of the world, thou Christ of great compassion",ANCIENT OF DAYS
+582,Whate'er our God ordains is right,WAS GOTT TUT
+583,There is a land of pure delight,SAWLEY
+584,Jerusalem the golden,EWING
+585,"Thy word, O God, declareth",ST. ANSELM
+586,The world is very evil,OSLO
+587a,"Jerusalem, my happy home",LAND OF REST
+587b,"Jerusalem, my happy home",SOUTHWELL (IRONS)
+588,"Jerusalem, thou city fair and high","JERUSALEM, DU HOCHGEBAUTE STADT"
+589,"O Paradise, O Paradise",PARADISE
+590,For ever with the Lord!,CARLISLE
+591,"Light's abode, celestial Salem",TANTUM ERGO (DULCE CARMEN)
+592,There's a Friend for little children,EDENGROVE
+593a,I know not what the future hath,OUR CHRIST
+593b,I know not what the future hath,DALEHURST
+594,Give me the wings of faith to rise,BALLERMA
+595a,Ten thousand times ten thousand,"KOMM, SEELE"
+595b,Ten thousand times ten thousand,ALFORD
+596a,O what their joy and their glory must be,QUEDLINBURG
+596b,O what their joy and their glory must be,O QUANTA QUALIA (REGNATOR ORBIS)
+597,I heard a sound of voices,PATMOS
+598,For those we love within the veil,MEYER (ES IST KEIN TAG)
+599,Behold a host like mountains bright!,BEHOLD A HOST
+600,"O Lord of life, where'er they be",VULPIUS (GELOBT SEI GOTT)
+601,"Praise ye the Lord, ye servants of the Lord",OLD 124TH
+602,"Praise God, from whom all blessings flow",OLD HUNDREDTH

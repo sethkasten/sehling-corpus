@@ -1,0 +1,1010 @@
+hymnal,number,master_title,decision,reason,identified_by
+KELG,2,Abide with Us Our Savior,match,"LSB, LW and TLH agree; the ELH difference is the master's error (ELH 312 is 'Bread of the world'), fixed in master_corrections.csv"
+KELG,2,"Abide, O Dearest Jesus",match,"LSB, LW and TLH agree; the ELH difference is the master's error (ELH 312 is 'Bread of the world'), fixed in master_corrections.csv"
+KELG,11,"To Father, Son, and Spirit be (Oeler)",no match,"WH 11 is the Straßburg setting; this row is the Oeler setting, KELG 12"
+KELG,11,"To Father, Son, and Spirit",no match,"this row is ELHB 582, the 7.6.7.6 doxology 'To Father, Son, and Spirit, Eternal One and Three' (ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); WH 11's long-metre 'To Father, Son, and Spirit be' has its own row (Straßburg)"
+KELG,12,"To Father, Son, and Spirit be (Straßburg)",no match,"WH 12 is the Oeler setting; this row is the Straßburg setting, KELG 11"
+KELG,12,"To Father, Son, and Spirit",no match,"this row is ELHB 582, the 7.6.7.6 doxology 'To Father, Son, and Spirit, Eternal One and Three' (ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); WH 12's long-metre 'To Father, Son, and Spirit be' has its own row (Oeler)"
+KELG,21,All Praise to Thee Eternal God,match,"LSB, LW and TLH agree; the master's ELH 565 is 'All praise to Thee, my God, this night', fixed in master_corrections.csv"
+KELG,21,All Praise to You Eternal Lord,match,"LSB, LW and TLH agree; the master's ELH 565 is 'All praise to Thee, my God, this night', fixed in master_corrections.csv"
+KELG,21,"We Praise You, Jesus, at Your Birth",match,"LSB, LW and TLH agree; the master's ELH 565 is 'All praise to Thee, my God, this night', fixed in master_corrections.csv"
+KELG,87,Lamb of God Pure and Sinless,match,KELG 86 and 87 are two settings of 'O Lamm Gottes unschuldig' (WH I and II); this row is another title of LSB 434
+KELG,87,"Lamb of God, Pure and Holy",match,KELG 86 and 87 are two settings of 'O Lamm Gottes unschuldig' (WH I and II); its own row is merged here
+KELG,104,Oh Rejoice Ye Christians Loudly,no match,"KELG 104 is the Easter text of 'Freuet euch, ihr Christen alle', with a row of its own; this row is the Christmas hymn, KELG 18"
+KELG,169,"Precious Lord, Take My Hand",no match,"KELG 169 is 'Preserve Your Word, O Savior' (LSB 658), already on its own row; this row only shares LW 337, which looks wrong here"
+KELG,236,All Mankind Fell in Adam's Fall,match,"LSB, LW and TLH agree; ELH has two translations, 430 'By Adam's fall' and 491 (this row)"
+ELHB,15,Now May He Who from the Dead,match,same title; the ELHB index has a scanning error
+ELHB,28,Every Morning Mercies New,match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,40,Abide with Me,match,ELHB 40 is 'Abide with me; fast falls the eventide'
+ELHB,40,Abide with Us the Day is Waning,no match,"ELHB 40 is 'Abide with me; fast falls the eventide'; ELHB has no 'Abide with us, the day is waning'"
+ELHB,41,The Day Is Past and Over,no match,"ELHB 41 is J. Leland's 'The day is past and gone, The evening shades appear' (ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6), a different hymn from Neale's 'The day is past and over'"
+ELHB,44,God Who Madest Earth and Heaven,no match,"ELHB 44 is Heber's 'God, who madest earth and heaven, Darkness and light' (ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); this row is Albert's hymn, ELHB 23"
+ELHB,49,"Come unto Me, Ye Weary",match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,57,Delay Not Delay Not O Sinner Draw Near,match,same hymn; the master title runs on to 'draw near'
+ELHB,78,Before Jehovah's Awefull Throne,match,same hymn (Watts); 'Awefull' is a misspelling and 'Awesome' a modernization of 'awful'
+ELHB,78,Before Jehovah's Awesome Throne,match,same hymn (Watts); 'Awefull' is a misspelling and 'Awesome' a modernization of 'awful'
+ELHB,108,"Oh, for a Thousand Tongues to Sing",match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,122,In Vain Would Boasting Reason Find,match,same title; the ELHB index has a scanning error
+ELHB,131,"Jesus Came, the Heavens Adoring",match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,186,In His Temple Now Behold Him,match,same title; the ELHB index has a scanning error
+ELHB,229,I Know that My Redeemer Lives,match,Medley's hymn; the ELHB index title runs on to 'what comfort'
+ELHB,234,A Hymn of Glory Let Us Sing,no match,ELHB 234 is 'Draw us to Thee' (already on that row); this hymn is ELHB 235
+ELHB,235,A Hymn of Glory Let Us Sing,match,ELHB 235 is 'A hymn of glory let us sing'; replaces the master's 234
+ELHB,245,I Know that My Redeemer Lives,no match,"ELHB 245 is Charles Wesley's 'I know that my Redeemer lives And ever prays for me' (ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); this row is Medley's (LSB 461)"
+ELHB,245,I Know that My Redeemer,no match,"ELHB 245 is Charles Wesley's 'I know that my Redeemer lives And ever prays for me' (ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); ELH 373 is Hallgrímur Pétursson's Icelandic hymn, tr. C. V. Pilcher (ELH author, translator and translated-hymn indexes)"
+ELHB,297,Praise Oh Praise Our God and King,match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,320,Not What These Hands have Done,match,same title; the ELHB index has a scanning error
+ELHB,321,Drawn to the Cross which You have Blest,match,same hymn; the ELHB index gives the first words only
+ELHB,321,"Drawn to the Cross, which Thou hast Blest",match,same hymn; the ELHB index gives the first words only
+ELHB,339,May We Thy Precepts Lord Fulfill,match,same title; the ELHB index has a scanning error ('fultil'); Thy/Your
+ELHB,339,May We Your Precepts Lord Fulfill,match,same title; the ELHB index has a scanning error ('fultil'); Thy/Your
+ELHB,348,O Love Who Madest Me to Wear,match,"Winkworth's tr. of Scheffler's 'Liebe, die du mich zum Bilde' (TLH 397); 'formedst'/'madest'"
+ELHB,358,Lord of Glory Who hast Bought Us,match,same hymn (Alderson); Thou/Who/You variants
+ELHB,358,"Lord of Glory, You have Bought Us",match,same hymn (Alderson); Thou/Who/You variants
+ELHB,403,Now Christ the Sinless Son of God,match,"both are Schuette's tr. of Selnecker's 'Christus, der wahre Gottes Sohn' (Hymnary ELHW1908/221b, ELH1996/248)"
+ELHB,411,"Thine Forever, God of Love",match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,427,Draw Nigh and Take the Body of the Lord,match,same hymn (Neale); 'your Lord'/'the Lord'
+ELHB,437,An Awefull Mystery Is Here,match,same hymn; 'Awefull' is a misspelling
+ELHB,438,"Invited, Lord, by Boundless Grace",match,same title; the ELHB index has a scanning error
+ELHB,445,"Oh, Blest the House",match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,453,Christ Is Our Cornerstone,match,"same title apart from spelling, capitalization, punctuation or thee/you"
+ELHB,465,Zion Stands by Hills Surrounded,match,Kelly's hymn; 'with'/'by'
+ELHB,476,Hark the Voice of Jesus Calling,match,Daniel March's hymn: LSB prints it as 'Crying' (826) and 'Calling' (827); both rows carry TLH 496
+ELHB,476,Hark the Voice of Jesus Crying,match,Daniel March's hymn: LSB prints it as 'Crying' (826) and 'Calling' (827); both rows carry TLH 496
+ELHB,488,Pour Out Thy Spirit from on High,match,Montgomery's hymn; the first line was altered
+ELHB,512,Come Ye Disconsolate,match,same hymn; the master title stops at 'Disconsolate'
+ELHB,537,Tender Shepherd Thou has Stilled,match,"Winkworth's tr. of Meinhold's 'Guter Hirt, du hast gestillt'; 'Gentle'/'Tender'"
+ELHB,555,Day of Wrath Oh Day of Mourning,match,Irons' tr. of 'Dies irae'; 'that'/'Oh'
+ELHB,568,All Glory Be to God on High,no match,"ELHB 568 is the prose Gloria in excelsis, one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,568,Glory be to God most high,no match,"ELHB 568 is the prose Gloria in excelsis, one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); this row is the doxology ELHB 583"
+ELHB,571,We Praise Thee O God Our Redeemer Creator,no match,"ELHB 571 is the prose Te Deum, one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,571,"We Praise You, O God, Our Redeemer",no match,"ELHB 571 is the prose Te Deum, one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,572,My Soul Doth Magnify the Lord,no match,"ELHB 572 is the prose Magnificat, one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,573,The Lord My Shepherd Is,no match,"ELHB 573 is Psalm 23 (Dominus regit me), one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,573,The Lord's My Shepherd,no match,"ELHB 573 is Psalm 23 (Dominus regit me), one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,574,Out of the Deep I Call,no match,"ELHB 574 is Psalm 130 (De profundis), one of ELHB's selections for chanting (568-577; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,580,Father Son and Holy Ghost,no match,"ELHB 580 is the doxology 'To Father, Son, and Holy Ghost, The God whom we adore' (ELHB doxologies 578-594; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,580,"O Father, Son, and Holy Ghost",no match,"ELHB 580 is the doxology 'To Father, Son, and Holy Ghost, The God whom we adore' (ELHB doxologies 578-594; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+ELHB,582,"Father, Son, and Spirit",no match,"ELHB 582 is the doxology 'To Father, Son, and Spirit, Eternal One and Three' (ELHB doxologies 578-594; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); this row is the doxology ELHB 581, 'Father, Son, and Spirit, Endless One in Three'"
+ELHB,582,God the Father Son and Spirit,no match,"ELHB 582 is the doxology 'To Father, Son, and Spirit, Eternal One and Three' (ELHB doxologies 578-594; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); not this hymn"
+TLHy,8,"The heavens declare Thy glory, Lord",match,same hymn; one title is the start of the other
+TLHy,11,O Sing Jubilee to the Lord Every Land,match,"Koren's hymn: all three rows carry TLH 44, LW 205 and ELH 56"
+TLHy,11,Oh Sing to the Lord,match,"Koren's hymn: all three rows carry TLH 44, LW 205 and ELH 56"
+TLHy,11,Ye Lands to the Lord Make a Jubilant Noise,match,"Koren's hymn: all three rows carry TLH 44, LW 205 and ELH 56"
+TLHy,14,Before Jehovah's Awefull Throne,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,14,Before Jehovah's Awesome Throne,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,56,"Almighty Father, Bless the Word",match,same hymn; 'Thy word'/'the Word'
+TLHy,60,O Worship the King,match,same hymn; one title is the start of the other
+TLHy,60,Oh Worship the King,match,same hymn; one title is the start of the other
+TLHy,70,There is a Save and Secret Place,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,72,"Holy, Holy, Holy",no match,"TLHy 72 is Heber's 'Holy, holy, holy! Lord God Almighty' (as are LSB 507, LW 168, LBW 165 and ELHB 263), the row 'Holy, Holy, Holy, Lord God Almighty'; this row is the Sanctus (CW21 944-945, LSB 961)"
+TLHy,83,Zion Stands by Hills Surrounded,match,Kelly's hymn; 'with'/'by'
+TLHy,90,Pour Out Thy Spirit from on High,match,Montgomery's hymn; the first line was altered
+TLHy,97,To You Omniscient Lord of All,match,"Landstad's 'Jeg staar for Gud', LW 234"
+TLHy,105,Father Son and Holy Ghost,no match,TLHy 105 is J. J. Rambach's (1734); these rows are other hymns
+TLHy,105,"Father, Son, and Spirit",no match,TLHy 105 is J. J. Rambach's (1734); these rows are other hymns
+TLHy,139,Lamp of Our Feet Whereby We Trace,match,same hymn; one title is the start of the other
+TLHy,175,Hark the Glad Sound The Savior Comes,match,same hymn; one title is the start of the other
+TLHy,184,All Praise to Thee Eternal God,match,"Luther's 'Gelobet seist du, Jesu Christ' (KELG 21): ELH 136 'O Jesus Christ, all praise to Thee' is listed as 'All praise to Thee, eternal God'"
+TLHy,184,All Praise to You Eternal Lord,match,"Luther's 'Gelobet seist du, Jesu Christ' (KELG 21): ELH 136 'O Jesus Christ, all praise to Thee' is listed as 'All praise to Thee, eternal God'"
+TLHy,184,"We Praise You, Jesus, at Your Birth",match,"Luther's 'Gelobet seist du, Jesu Christ' (KELG 21): ELH 136 'O Jesus Christ, all praise to Thee' is listed as 'All praise to Thee, eternal God'"
+TLHy,190,Hark What Mean Those Holy Voices,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,196,O Sing of Christ,no match,"LSB 362 is 'O Sing of Christ', a different hymn"
+TLHy,238,My God My Father While I Stray,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,291,Now Praise We Christ the Holy One,match,"ELH 267 lists 'From east to west' and 'Now praise we Christ, the holy One' as one hymn ('A solis ortus cardine')"
+TLHy,387,Praise to the Father the Glorious King of Creation,match,same hymn; one title is the start of the other
+TLHy,388,Father of Heaven Whose Love Profound,match,same hymn; 'Father of all'/'Father of heaven'
+TLHy,399,"Almighty Father, Bless the Word",no match,"ELH 412 is 'Come to Calvary's holy mountain'; 'Almighty Father, bless the Word' is ELH 580, fixed in master_corrections.csv"
+TLHy,418,In Jesus I Find My Rest and Peace,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,425,O That the Lord Would Guide My Ways,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,425,"Oh, That the Lord Would Guide My Ways",match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,432,Awake My Soul to Joyful Lays,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,434,Thy Love O Gracious God and Lord,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,440,All that I Was My Sin My Guilt,match,"same title apart from spelling, capitalization, punctuation or thee/you (or a misspelling in the master)"
+TLHy,494,By All Your Saints Still Striving,match,Nelson's hymn: LSB 517-518 'By All Your Saints in Warfare'
+TLHy,538,O Perfect Love,match,same hymn; one title is the start of the other
+TLHy,538,O Perfect Love All Human Thought Transcending,match,same hymn; one title is the start of the other
+TLHy,548,"Come, Thou Bright and Morning Star",match,TLHy has two translations of 'Morgenglanz der Ewigkeit' (KELG 478): 22 and 548
+TLHy,548,Jesus Sun of Righteousness,match,TLHy has two translations of 'Morgenglanz der Ewigkeit' (KELG 478): 22 and 548
+TLHy,552,Stay with Us,no match,"LSB 879 is 'Stay with Us' (the master's 878 is 'Abide with Me'), fixed in master_corrections.csv"
+TLHy,574,Master of Eager Youth,match,ELH 183 lists 'Master of eager youth' and 'Shepherd of tender youth' as one hymn (Clement of Alexandria)
+TLHy,579,Once in the Blest Baptismal Waters,match,"a very loose translation, nearly a reimagining, of 'Wer weiß, wie nahe mir mein Ende' (per the project owner)"
+TLHy,580,I Would Not Live Alway I Ask Not to Stay,match,same hymn; one title is the start of the other
+TLHy,608,The Clouds of Judgment Gather,no match,"a separate cento of Bernard's 'De contemptu mundi' with its own row; ELH 534 combines them, TLH and TLHy don't"
+TLHy,608,The World Is Very Evil,no match,"a separate cento of Bernard's 'De contemptu mundi' with its own row; ELH 534 combines them, TLH and TLHy don't"
+TLHy,612,The Clouds of Judgment Gather,no match,"a separate cento of Bernard's 'De contemptu mundi' with its own row; ELH 534 combines them, TLH and TLHy don't"
+TLHy,612,The World Is Very Evil,no match,"a separate cento of Bernard's 'De contemptu mundi' with its own row; ELH 534 combines them, TLH and TLHy don't"
+TLHy,614,The Clouds of Judgment Gather,no match,"a separate cento of Bernard's 'De contemptu mundi' with its own row; ELH 534 combines them, TLH and TLHy don't"
+TLHy,614,The World Is Very Evil,no match,"a separate cento of Bernard's 'De contemptu mundi' with its own row; ELH 534 combines them, TLH and TLHy don't"
+TL,169,From East to West From Shore to Shore,match,"both translate Sedulius's 'A solis ortus cardine', TL 169 through Luther's 'Christum wir sollen loben schon'; ELH 267 lists them as one hymn (as for TLHy 291)"
+TL,182,When Christ's Appearing Was Made Known,match,"both translate Sedulius's 'Hostis Herodes impie' (TL 182 is Neale's, as TLH 131; TL index of hymn tunes), and the master index already ties the two rows through LW 81"
+TL,212,"Sing, My Tongue, the Glorious Battle",match,"'Faithful Cross, above all other' is the 'Crux fidelis' stanza of Fortunatus's 'Pange, lingua, gloriosi proelium certaminis' in Neale's translation (TL indexes: Fortunatus, Neale; tunes Crux fidelis and Fortunatus New), the hymn TL prints whole as 213a/b"
+TL,212,Sing My Tongue How Glorious Battle,match,"'Faithful Cross, above all other' is the 'Crux fidelis' stanza of Fortunatus's 'Pange, lingua, gloriosi proelium certaminis' in Neale's translation (TL indexes: Fortunatus, Neale; tunes Crux fidelis and Fortunatus New), the hymn TL prints whole as 213a/b"
+TL,213a,Sing My Tongue How Glorious Battle,match,"Fortunatus's 'Pange, lingua, gloriosi proelium certaminis' (TL indexes); the row has the same numbers as 'Sing, My Tongue, the Glorious Battle'"
+TL,213b,Sing My Tongue How Glorious Battle,match,"Fortunatus's 'Pange, lingua, gloriosi proelium certaminis' (TL indexes); the row has the same numbers as 'Sing, My Tongue, the Glorious Battle'"
+TL,216,At the Lamb's High Feast We Sing,match,"Neale's 'The Lamb's high banquet we await' translates 'Ad cenam Agni providi', which the Roman Breviary of 1632 recast as 'Ad regias Agni dapes', the original of 'At the Lamb's high feast we sing' (Julian 1907, s.v. Ad coenam Agni providi)"
+TL,219,"The day hath dawned, the day of days",match,"TL's own index (telaudamus.org) titles it 'The Day Hath Dawned—the Day of Days', WH's first line for KELG 103 'Erschienen ist der herrlich Tag' (TL indexes: N. Herman, tr. M. Carver; tune Erschienen ist der herrlich Tag)"
+TL,225a,Welcome Happy Morning,match,"Carver's translation of Fortunatus's 'Salve, festa dies' (TL indexes), from the poem 'Tempora florigero rutilant distincta sereno' that Ellerton's 'Welcome, happy morning' (TL 224) also translates"
+TL,225b,Welcome Happy Morning,match,"Carver's translation of Fortunatus's 'Salve, festa dies' (TL indexes), from the poem 'Tempora florigero rutilant distincta sereno' that Ellerton's 'Welcome, happy morning' (TL 224) also translates"
+TL,226,"Jesus Christ, who came, us to save",match,"Luther's Easter hymn 'Jesus Christus, unser Heiland, der den Tod überwand' (TL index of hymn tunes), KELG 110; WH's first line differs only by a comma"
+TL,231,"Come, Holy Spirit, fill the hearts",match,"the Pentecost antiphon 'Veni, Sancte Spiritus, reple tuorum corda fidelium' (TL indexes: tune Veni sancte Spiritus, from Ludecus 1589), paired in TL with Luther's 'Komm, Heiliger Geist, Herre Gott' (232), which grew from it; KELG 133 is the antiphon in German, and TL's Pentecost sequence hymn is 233"
+TL,231,Come Holy Spirit Come,no match,"Hart's 'Come, Holy Spirit, come' (TLH 225); TL 231 is the antiphon 'Veni, Sancte Spiritus, reple'"
+TL,231,"Come, Holy Ghost, God and Lord",no match,"Luther's hymn, which TL prints as 232; TL 231 is the antiphon it grew from"
+TL,231,"Come, Holy Spirit, heavenly Dove",no match,"Watts's hymn (ELHB 255); TL 231 is the antiphon 'Veni, Sancte Spiritus, reple'"
+TL,235,To God the Holy Spirit Let Us Pray,match,Luther's 'Nun bitten wir den Heiligen Geist' (KELG 136); TL's title is ELHB 260's 'Now do we pray God the Holy Ghost'
+TL,235,We Now Implore God the Holy Ghost,match,Luther's 'Nun bitten wir den Heiligen Geist' (KELG 136); TL's title is ELHB 260's 'Now do we pray God the Holy Ghost'
+TL,254,"Be glad, my heart, now fear now more",match,"the same first line (WH's 'now more' is a slip for 'no more'), KELG 419; TL index of authors: Gerhardt, tr. J. Kelly"
+TL,291,"I Trust, O Lord, Your Holy Name",match,"Reusner's 'In dich hab ich gehoffet, Herr' (KELG 365; TL indexes: Reusner, tr. Winkworth; tune In dich hab ich gehoffet, Herr); TL's own index (telaudamus.org) titles it 'In Thee, Lord, have I put My Trust', TLH 524's first line"
+TL,291,In Thee Lord have I Put My Trust,match,"Reusner's 'In dich hab ich gehoffet, Herr' (KELG 365; TL indexes: Reusner, tr. Winkworth; tune In dich hab ich gehoffet, Herr); TL's own index (telaudamus.org) titles it 'In Thee, Lord, have I put My Trust', TLH 524's first line"
+TL,291,In You Lord I have Put My Trust,match,"Reusner's 'In dich hab ich gehoffet, Herr' (KELG 365; TL indexes: Reusner, tr. Winkworth; tune In dich hab ich gehoffet, Herr); TL's own index (telaudamus.org) titles it 'In Thee, Lord, have I put My Trust', TLH 524's first line"
+TL,291,In You O Lord I Put My Trust,match,"Reusner's 'In dich hab ich gehoffet, Herr' (KELG 365; TL indexes: Reusner, tr. Winkworth; tune In dich hab ich gehoffet, Herr); TL's own index (telaudamus.org) titles it 'In Thee, Lord, have I put My Trust', TLH 524's first line"
+TL,302,"Rejoice, My Heart, Be Glad and Sing",no match,"a separate cento of Gerhardt's 'Ich singe dir mit Herz und Mund' with its own row: TL 302 is TLH 569's cento, TL 303 TLH 535's (as for TLHy 612 and 614)"
+TL,303,O Lord I Sing with Lips and Heart,no match,"a separate cento of Gerhardt's 'Ich singe dir mit Herz und Mund' with its own row: TL 303 is TLH 535's cento, TL 302 TLH 569's (as for TLHy 612 and 614)"
+TL,315,Round Me Falls the Night,no match,"Romanis's 'Round me falls the night' is TLH 562; TL 315 is Herman's 'Hinunter ist der Sonnenschein' (KELG 317, TLH 563), which the master index had at TLH 562 by mistake (master_corrections.csv)"
+TL,317,O Lord of Light Who Made the Stars,match,"'Conditor alme siderum' (TL indexes: tr. J. M. Neale; tune Conditor alme siderum), LSB 351, which the master index puts on both rows"
+TL,157b,"O Come, O Come, Emmanuel",match,"LSB prints 'The Great ""O"" Antiphons' facing hymn 357, 'O Come, O Come, Emmanuel', which it says is based on those seven antiphons (Lutheran Service Book (2006).pdf, pp. 310-311); TL likewise prints the hymn as 157a and the antiphons as 157b"
+TL,157b,Oh Come Oh Come Emmanuel,match,"LSB prints 'The Great ""O"" Antiphons' facing hymn 357, 'O Come, O Come, Emmanuel', which it says is based on those seven antiphons (Lutheran Service Book (2006).pdf, pp. 310-311); TL likewise prints the hymn as 157a and the antiphons as 157b"
+LPC,14,"Praise ye Jehovah, for He is all-gracious",no match,"LPC 14 is Gerhardt's 'Lobet den Herren alle, die ihn fürchten'; KELG 343 is 'Lobet den Herren, denn er ist sehr freundlich' (WH's German first line)"
+LPC,22,Lord Jesus Christ You Set Us Free,no match,"LPC 22 is Selnecker's evening hymn 'Wir danken dir, Herr Jesu Christ, daß du unser Erlöser bist'; KELG 95 and 123 only open with the same words"
+LPC,22,Lord Jesus We Give Thanks to Thee,no match,"LPC 22 is Selnecker's evening hymn 'Wir danken dir, Herr Jesu Christ, daß du unser Erlöser bist'; KELG 95 and 123 only open with the same words"
+LPC,22,We Bless Thee Jesus Christ Our Lord,no match,"LPC 22 is Selnecker's evening hymn 'Wir danken dir, Herr Jesu Christ, daß du unser Erlöser bist'; KELG 95 and 123 only open with the same words"
+LPC,22,We Thank Thee Jesus Dearest Friend,no match,"LPC 22 is Selnecker's evening hymn 'Wir danken dir, Herr Jesu Christ, daß du unser Erlöser bist'; KELG 95 and 123 only open with the same words"
+LPC,22,"We Thank You Jesus, Dearest Friend",no match,"LPC 22 is Selnecker's evening hymn 'Wir danken dir, Herr Jesu Christ, daß du unser Erlöser bist'; KELG 95 and 123 only open with the same words"
+LPC,35,Praise God the Lord Ye Sons of Men,no match,"LPC 35 is an anonymous hymn on God's Word that borrows the opening lines and tune of Herman's Christmas hymn (KELG 30); its third line is 'sein Wort zeigt uns sein Himmelreich', and LPC's index marks it with an asterisk"
+LPC,35,Let All Together Praise Our God,no match,"LPC 35 is an anonymous hymn on God's Word that borrows the opening lines and tune of Herman's Christmas hymn (KELG 30); its third line is 'sein Wort zeigt uns sein Himmelreich', and LPC's index marks it with an asterisk"
+LPC,37,How Blest Are They,no match,"LPC 37 is Anna Sophia's 'Wohl dem, der Jesum liebet'; only the words 'How blest are they' are shared"
+LPC,45,God Loved the World So that He Gave,no match,LPC 45 is an old hymn in the 'Ich ruf zu dir' meter ('That He did Christ deliver'); KELG 233 and TLH 245 are a long-meter hymn with the same opening ('His only Son the lost to save')
+LPC,66,Te Deum laudamus,no match,"LPC 66 is J. Franck's 'Herr Gott, dich loben wir, regier, Herr, unsre Stimmen'; KELG 337 is Luther's German Te Deum"
+LPC,102,Rejoice Rejoice Ye Christians,no match,"LPC 102 is Alber's 'Ihr lieben Christen, freut euch nun'; the row is 'Freut euch, ihr lieben Christen' (TLHy 197)"
+LPC,2,Praise God! For Sunday now has come,match,"Olearius's Sunday hymn (Hymnary: 'Gott Lob, der Sonntag kommt herbei', J. Olearius, 1671), which ELGBS 2 prints as 'Gott Lob, der Sonntag ist herbei' and credits to J. Olearius; KELG 444"
+KELG,470,Nature with Open Volume Stands,no match,"KELG 470 'Gehe auf, du Trost der Heiden' is 'Rise, Thou Light of Gentile Nations' (KELG index: TLH 498, ELH 199); this row had it through its wrong ELH 199 (master_corrections.csv)"
+TL,237,We All Believe in One True God Father,no match,TL 237 is Luther's creed hymn: TL's index of authors lists 237 under Luther and has no Clausnitzer
+ELHB,76,O Bless the Lord My Soul,no match,"ELHB 76 is Watts's 'O bless the Lord, my soul! Let all within me join' (Ps. 103; ELHB 1927 reprint, archive.org/details/evangelicalluthe0000vari_b7v6); this row is Montgomery's (ELH 369)"
+TLHy,65,"O Bless the Lord, My Soul",no match,"TLHy 65 is Montgomery's 'O bless the Lord, my soul, His grace to thee proclaim' (TLHy.pdf, p. 63), the row 'O Bless the Lord My Soul'; this row is Watts's"
+TLHy,65,Oh Bless the Lord My Soul,no match,"TLHy 65 is Montgomery's 'O bless the Lord, my soul, His grace to thee proclaim' (TLHy.pdf, p. 63), the row 'O Bless the Lord My Soul'; this row is Watts's"
+KELG,297,"God, Who Made the Earth and Heaven",no match,"KELG 297 'Gott des Himmels und der Erden' is Albert's hymn, the row 'God Who Madest Earth and Heaven'; this row is Heber's"
+ELHB,23,"God, Who Made the Earth and Heaven",no match,"ELHB 23 is Albert's hymn (the KELG index gives it for KELG 297); this row is Heber's, whose ELHB number is 44"
+TL,305,"God, Who Made the Earth and Heaven",no match,TL 305 is Albert's hymn (TL's index of authors: Albert 305); this row is Heber's
+TLHy,544,"God, Who Made the Earth and Heaven",no match,TLHy 544 is Winkworth's translation of Albert's hymn (TLHy index of first lines); this row is Heber's
+TL,314,My soul doth magnify the Lord,no match,"TL 314 is a metrical Magnificat (TL index of tunes: Song 34, Gibbons), the row 'My Soul Now Magnifies the Lord'; this row is ELHB 572's prose Magnificat"
+WS69,710,"O Come, All Ye Faithful",match,"WS69's first line 'O come, all ye faithful, joyful and triumphant' (ADESTE FIDELES); the master index titles it by its opening words"
+WS69,718a,He Whom Shepherds Once Came Praising,match,"the Quempas Celebration (Quem pastores, Nunc angelorum, Resonet in laudibus; QUEM PASTORES here), which LW prints as 54a-c under 'He whom shepherds once came praising' (Hymnary)"
+WS69,718b,He Whom Shepherds Once Came Praising,match,"the Quempas Celebration (Quem pastores, Nunc angelorum, Resonet in laudibus; NUNC ANGELORUM here), which LW prints as 54a-c under 'He whom shepherds once came praising' (Hymnary)"
+WS69,718c,He Whom Shepherds Once Came Praising,match,"the Quempas Celebration (Quem pastores, Nunc angelorum, Resonet in laudibus; RESONET IN LAUDIBUS here), which LW prints as 54a-c under 'He whom shepherds once came praising' (Hymnary)"
+WS69,719,What Child is This,match,"WS69's first line 'What Child is this, who, laid to rest' (GREENSLEEVES); the master index titles it by its opening words"
+WS69,736,"Good Christian Friends, Rejoice and Sing",match,"Alington's Easter hymn (GELOBT SEI GOTT): WS69 opens it 'Good Christian men, rejoice and sing!', LW 129 and LSB 475 'Good Christian friends'"
+WS69,741b,"Christians, to the Paschal Victim",no match,"WS69 741 is the Victimae Paschali Celebration: the sequence (741a, VICTIMAE PASCHALI LAUDES) sung with the Leise 'Christ is arisen' (741b, CHRIST IST ERSTANDEN; WS69's index lists 'Christ is arisen', 741), which LSB prints apart (459, 460); 741b goes on the row of 'Christ is Arisen'"
+WS69,747,Thy Strong Word,match,Franzmann's 'Thy strong word did cleave the darkness' (EBENEZER); the master index titles it by its opening words
+WS69,749,Hope of the World,match,"Georgia Harkness's 'Hope of the world, thou Christ of great compassion' (DONNE SECOURS); the master index titles it by its opening words"
+WS69,753,To God the Holy Spirit Let Us Pray,match,"Luther's 'Nun bitten wir den Heiligen Geist' (KELG 136), set to NUN BITTEN WIR; 'Now let us pray to God the Holy Ghost' is another translation of the hymn of TLH 231 and LSB 768"
+WS69,774,O Fearful Place,match,"Martin Franzmann's 'O fearful place, where he who knows our heart' (TL credits TL 300 to Franzmann); WS69 sets it to MISSION, the tune of his 'The sending, Lord' (761)"
+WS69,775,Go Labor On,match,"Bonar's 'Go, labor on; spend and be spent'; the master index titles it by its opening words"
+WS69,777,O Fount of Good for All Your Love,match,"WS69's first line 'O Fount of good, to own thy love' is the one LW 395 rewords 'O Fount of good, for all your love'"
+WS69,791,Now Greet the Swiftly Changing Year,match,"the Slovak New Year hymn (ROK NOVÝ), which WS69 opens 'Greet, man, the swiftly changing year' and LW 183 and LSB 896 'Now greet the swiftly changing year'"
+WS00,712,What Child is This,match,"WS00's first line 'What child is this who, laid to rest' (GREENSLEEVES); the master index titles it by its opening words"
+WS00,715,Where Shepherds Lately Knelt,match,WS00's first line 'Where shepherds lately knelt and kept the angel's word' (MANGER SONG); the master index titles it by its opening words
+WS00,723,What Wondrous Love is This,match,"WS00's first line 'What wondrous love is this, O my soul, O my soul!' (WONDROUS LOVE); the master index titles it by its opening words"
+WS00,768,Be Strong in the Lord,match,WS00's first line 'Be strong in the Lord in armor of light!' (LAUDATE DOMINUM); the master index titles it by its opening words
+WS00,773,"Rise, Shine, You People",match,"WS00's first line 'Rise, shine, you people! Christ the Lord has entered'; the master index titles it by its opening words"
+WS00,775,Thy Strong Word,match,Franzmann's 'Thy strong word did cleave the darkness' (EBENEZER); the master index titles it by its opening words
+WS00,781,Preach You the Word,match,WS00's first line 'Preach you the Word and plant it home'; the master index titles it by its opening words
+WS00,790,Your Love O God Has Called Us Here,match,"WS00's first line 'Your love, O God, has called us here' (GIFT OF LOVE), the row's title (spelled 'Hear' in the master index)"
+WS00,795,Then the Glory,match,"WS00's first line 'Then the glory, then the rest' (NOW, the tune of 'Now the silence'); the master index titles it by its opening words"
+WS00,798,God We Praise You,match,"WS00's first line 'God, we praise You! God, we bless You!' (AUSTRIA); the master index titles it by its opening words"
+WS69,714,"Now Sing We, Now Rejoice",match,"'In dulci jubilo' (IN DULCI JUBILO), the carol this row translates: TLH 92's original is 'In dulci iubilo' (tlh_1941.csv), and KELG 37 'Nun singet und seid froh' is the same carol"
+WS69,744,Lo God to Heaven Ascendeth,match,"a modernized TLH 214, Cox's translation of Sacer's 'Gott fähret auf gen Himmel' ('See God to heaven ascending'; set to ZEUCH EIN ZU DEINEN TOREN)"
+WS00,706,Go Tell it on the Mountain,match,"the spiritual's stanza 1, 'While shepherds kept their watching', set to GO TELL IT"
+WS00,728,"Christ Is Risen, Christ Is Living",match,"Nicolás Martínez's 'Cristo vive, fuera el llanto' (CENTRAL): Hymnary credits 'Christ is living! Gone with sorrow!' to Martínez; LSB 479 is Fred Kaan's translation"
+WS00,744,How Great Thou Art,match,"'O Lord my God, when I in awesome wonder' is LSB 801, How Great Thou Art (Lutheran Service Book (2006).pdf, index of first lines)"
+WS00,777,Amazing Grace,match,"'Amazing grace—how sweet the sound' is LSB 744, Amazing Grace (Lutheran Service Book (2006).pdf, index of first lines)"
+WS00,794,"Jerusalem, My Happy Home",match,"WS00's 'Jerusalem, Jerusalem' and 'Jerusalem, my happy home' render the same text by F. B. P. (16th cent., abr. alt.), set to the same American folk tune (LAND OF REST, as LSB 673)"
+ACS,914,Hark! the Herald Angels Sing,match,"George D. Elderkin's gospel-song form (1890) of Charles Wesley's hymn: the first two lines of four of its stanzas, each with Elderkin's refrain 'We'll walk in the light' (tune WE'LL WALK IN THE LIGHT), which Hymnary counts as Wesley's text ('andgels' in Hymnary's first line is fixed in HYMNARY_FIXES)"
+ACS,932,Lamb of God,no match,"a Spanish Agnus Dei, 'Santo Cordero, en cruz clavado' (tune SANTO CORDERO), not the CW'21 hymn"
+ACS,932,"Your Only Son, No Sin To Hide",no match,"a Spanish Agnus Dei, 'Santo Cordero, en cruz clavado' (tune SANTO CORDERO), not Twila Paris's 'Lamb of God'"
+ACS,940,"Come, Holy Spirit, fill the hearts",no match,"a short song, 'Come, Holy Spirit' (tune COME, HOLY SPIRIT), not the Pentecost antiphon (KELG 133, TL 231, which TL titles 'Come, Holy Spirit')"
+ACS,941,Breathe on Me Breath of God,no match,"Patrick Michaels's 'Breathe on us, Breath of God' (2014, tune BREATH OF GOD; Hymnary), not Edwin Hatch's hymn"
+ACS,972,"Come, Holy Spirit, fill the hearts",no match,"'Come, Holy Spirit, melt and break our hearts of stone' (tune LISTEN NOW), another text"
+ACS,980,"Come, Holy Spirit, fill the hearts",no match,"a short song, 'Come, Holy Spirit' (tune BREATH OF HEAVEN), not the Pentecost antiphon (KELG 133, TL 231, which TL titles 'Come, Holy Spirit')"
+ACS,983,Now the Day Is Over,no match,"'Now the meal is over' (tune NOW THE MEAL IS OVER), a song for after communion, not Baring-Gould's evening hymn"
+ACS,1041,"God is love, His mercy brightens",no match,"'God is love' (tune GOD IS LOVE), a short song, not John Bowring's hymn (ELHB 510)"
+ACS,1085,Hope of the World,match,"Georgia Harkness's 'Hope of the world, thou Christ of great compassion' (tune DONNE SECOURS) with 'O Christ' for 'thou Christ'"
+ACS,1089,Sanctus,no match,"the Argentine Sanctus, 'Santo, santo, santo, oh Dios del universo' (tune ARGENTINE SANTO), not the Sanctus of this row (LSB 961, CW'21 944-945)"
+TL,231,"Come, Holy Spirit",no match,"TL 231 is the Pentecost antiphon (the row 'Come, Holy Spirit, fill the hearts', KELG 133); this row is ACS's two songs that open 'Come, Holy Spirit' (ACS 940, 980)"
+AH,9,"Lift Up Your Heads, Ye Mighty Gates",match,"Peter A. Sveegen's translation of Georg Weissel's 'Macht hoch die Tür' (Hymnary), LBW's 'Fling wide the door, unbar the gate'"
+AH,13,Prepare the Way,match,"Franzén's 'Bereden väg för Herran' (tune BEREDEN VÄG FÖR HERRAN): 'Prepare the way, O Zion'"
+AH,35,While Shepherds Watched Their Flocks by Night,match,Nahum Tate's hymn; 'watch'd' for 'watched'
+AH,74,Wide Open Are Thy Hands,no match,"'Wide open are Thy loving hands' (tune RELEASE), another text: AH prints this row's hymn, Krauth's 'Wide open are Thy hands', as 467"
+AH,112,Now the Green Blades Rise from the Buried Grain,match,J. M. C. Crum's Easter carol (tune NOËL NOUVELET)
+AH,123,The Head that Once was Crowned with Thorns,match,Thomas Kelly's hymn; 'crown'd' for 'crowned'
+AH,128,O Day Full of Grace,match,Grundtvig's 'Den signede dag' (tune DEN SIGNEDE DAG)
+AH,136,Praise to the Father for His Lovingkindness,match,"Elizabeth Rundle Charles's 'Praise ye the Father for His loving-kindness' (tune INTEGER VITAE), as LBW alters its first line"
+AH,137,"Holy, Holy, Holy, Lord God Almighty",no match,"'Holy, Holy, Lord God Almighty' (tune HE IS), a short song: AH prints Heber's hymn as 134"
+AH,195,Prayer Is the Soul's Sincere Desire,match,James Montgomery's hymn; 'pray'r' for 'prayer'
+AH,202,Thee God We Praise Thy Name We Bless,no match,"'Thee, God, we praise, Thy holy name we bless' is set to FINLANDIA (10.10.10.10.10.10), not the long meter of Døving's cento in TLHy 1: another text"
+AH,214,Praise God from Whom All Blessings Flow,match,Thomas Ken's doxology with 'Praise Him' repeats (tune TANDANEI); AH also prints it as 390
+AH,256,The Day You Gave Us Lord is Ended,match,"John Ellerton's 'The day Thou gavest, Lord, is ended' (tune ST. CLEMENT)"
+AH,257,Break Now the Bread of Life,match,"Mary A. Lathbury's 'Break Thou the bread of life' (tune BREAD OF LIFE), as LBW alters its first line"
+AH,281,"Lamb of God, Pure and Holy",match,"Decius's 'O Lamm Gottes, unschuldig' (Norwegian 'O Guds Lam uskyldig'), here 'Lamb of God most holy!' as in Arthur T. Russell's translation (tune AGNUS DEI)"
+AH,281,Lamb of God,no match,"Decius's 'O Lamm Gottes, unschuldig' (the row 'Lamb of God, Pure and Holy'), not this CW'21 hymn"
+AH,281,"Lamb of God most holy, upon the cross extended",no match,"Decius's 'O Lamm Gottes, unschuldig' (the row 'Lamb of God, Pure and Holy'), not ACS's Spanish Agnus Dei"
+AH,281,"Your Only Son, No Sin To Hide",no match,"Decius's 'O Lamm Gottes, unschuldig' (the row 'Lamb of God, Pure and Holy'), not Twila Paris's 'Lamb of God'"
+AH,311,Where Cross the Crowded Years of Life,match,"Frank Mason North's 'Where cross the crowded ways of life' (tune WALTON), LBW 429"
+AH,315,Lost in the Night Do the People Yet Languish,match,"the Finnish 'Fjärran han dröjer' (tune FJÄRREN HAN DRÖJER), as LBW alters its first line"
+AH,318,"Saints of God, the Dawn is Brightening",match,Mary Maxwell's hymn; 'bright'ning' for 'brightening'
+AH,324,O Happy Home Where Thou art Loved Most Dearly,match,"Spitta's 'O selig Haus, wo man dich aufgenommen' in another wording of the first line"
+AH,328,On Jordan's Bank the Baptist's Cry,match,Charles Coffin's 'Jordanis oras praevia' (Chandler); 'banks' for 'bank'
+AH,331,Away in a Manger,match,"the carol, with tune AWAY IN A MANGER (AH prints it twice)"
+AH,332,Away in a Manger,match,"the carol, with tune CRADLE SONG (AH prints it twice)"
+AH,341,"Hosanna, Loud Hosanna",no match,"'Hosanna! Hosanna!' (tune HOSANNA! HOSANNA!), a short song: AH prints Jennette Threlfall's hymn as 340"
+AH,352,Praise and Thanksgiving,no match,"'Praise and thanksgiving let ev'ryone bring' (tune PRAISE AND THANKSGIVING), another text: AH prints this row's hymn, Albert Bayly's, as 151"
+AH,366,"Father, We Thank Thee",no match,"Rebecca Weston's children's hymn 'Father, we thank Thee for the night' (tune MORNING PRAISE), not 'Father, we thank Thee, who hast planted'"
+AH,369,Jesus Loves Me,match,Anna B. Warner's 'Jesus loves me! this I know' (tune CHINA)
+AH,392,Create in Me (a Clean Heart),match,"the offertory 'Create in me a clean heart, O God' (Psalm 51; tune OFFERTORY)"
+AH,400,I Look Not Back,match,Annie Johnson Flint's 'I look not back; God knows the fruitless efforts' (tune O SÄLLA LAND)
+AH,419,Come to Calvary's Holy Mountain,match,James Montgomery's hymn; 'Calv'ry's' for 'Calvary's'
+AH,423,God calling yet,match,Tersteegen's 'Gott rufet noch' (Jane Borthwick): 'God calling yet! shall I not hear?'
+AH,457,Pass Me Not,match,"Fanny Crosby's 'Pass me not, O gentle Savior' (tune PASS ME NOT)"
+AH,459,Lord Speak to Us That We May Speak,match,"Frances Havergal's 'Lord, speak to me, that I may speak' (tune CANONBURY), as LBW alters its first line"
+AH,473,"Thee Will I Love, My Strength, My Tower",match,"Scheffler's 'Ich will dich lieben, meine Stärke'; 'tow'r' for 'tower'"
+AH,476,My God Accept My Heart This Day,match,"Matthew Bridges's 'My God [O God], accept my heart this day' with its own tune ST. PETER; AH prints it twice (442 with EVAN)"
+AH,478,"Search me, O God, and know my heart",no match,"J. Edwin Orr's 'Search me, O God, and know my heart today' (tune MAORI), not ACS's Psalm 139 song (tune KÀM-CHHAT)"
+AH,505,"Lord, I hear of showers of blessing",match,Elizabeth Codner's hymn; 'show'rs' for 'showers'
+AH,509,To God Be the Glory,match,"Fanny Crosby's 'To God be the glory, great things He hath done' (tune TO GOD BE THE GLORY)"
+AH,559,Great Is Thy Faithfulness,match,"Thomas Chisholm's 'Great is Thy faithfulness, O God my Father' (tune FAITHFULNESS)"
+AH,561,When Peace Like a River,match,Horatio Spafford's 'When peace like a river attendeth my way' (tune VILLE DU HAVRE)
+AH,568,Day By Day,match,Lina Sandell's 'Blott en dag' (tune BLOTT EN DAG): 'Day by day and with each passing moment'
+AH,588,Lord of All Hopefulness,match,"Jan Struther's 'Lord of all hopefulness, Lord of all joy' (tune SLANE)"
+AH,592,Unto the Hills Around Do I Look Up,match,"John Campbell's 'Unto the hills around do I lift up' (tune SANDON), LBW 445"
+AH,605,"Still, still with Thee when the purple morning breaketh",match,Harriet Beecher Stowe's hymn (tune WILLINGHAM)
+AH,608,Lead kindly Light,match,"John Henry Newman's 'Lead, kindly Light, amid th'encircling gloom' (tune LUX BENIGNA)"
+AH,609,We would see Jesus,match,Anna B. Warner's 'We would see Jesus; for the shadows lengthen' (tune CONSOLATION)
+AH,617,"Oh, What Their Joy",match,Abelard's 'O quanta qualia' (Neale): 'O what their joy and their glory must be' (tune O QUANTA QUALIA)
+AH,621,For Me to Live Is Jesus,match,"'Christus, der ist mein Leben' as 'My life is hid'n in Jesus' (the row's 'My life is hid in Jesus'), with its tune by Vulpius (ACH BLEIB MIT DEINER GNADE)"
+AH,624,"Behold a Host, Arrayed in White",match,Brorson's 'Den store hvide Flok' (tune DEN STORE HVIDE FLOK)
+AH,4,"Rejoice, Rejoice, Believers",match,"Laurentius Laurentii's 'Ermuntert euch, ihr Frommen' in another translation, with the tune it has in LBW, HAF TRONES LAMPA FÄRDIG"
+AH,42,I Stand Beside Thy Manger Here,match,Paul Gerhardt's 'Ich steh an deiner Krippen hier' in another translation (tune ICH STEH AN DEINER KRIPPEN HIER)
+AH,54,Bright and Glorious is the Sky,match,Grundtvig's 'Dejlig er den himmel blå' in another translation (tune DEJLIG ER DEN HIMMEL BLAA)
+AH,55,"O Morning Star, How Fair and Bright",match,Philipp Nicolai's 'Wie schön leuchtet der Morgenstern' in another translation (tune WIE SCHÖN LEUCHTET)
+AH,79,Upon the Cross Extended,match,"Paul Gerhardt's 'O Welt, sieh hier dein Leben' in another translation (tune INNSBRUCK)"
+AH,103,"The Strife is O'er, the Battle Done",match,"'Finita iam sunt praelia' in another translation, with the tune VICTORY"
+AH,239,"Blessed Jesus, at Your Word",match,"R. A. S. Macalister's translation of Clausnitzer's 'Liebster Jesu, wir sind hier' (Hymnary; tune LIEBSTER JESU)"
+AH,243,Now that the Daylight Fills the Sky,match,'Iam lucis orto sidere' in another translation (tune BELMONT)
+AH,452,"Lord, Take My Hand and Lead Me",match,Julie Hausmann's 'So nimm denn meine Hände' in another translation (tune SO NIMM DENN MEINE HÄNDE)
+AH,463,"Rejoice, O Pilgrim Throng",match,"E. H. Plumptre's 'Rejoice, ye pure in heart' (tune MARION), which LBW, LW, LSB and CW'93 alter to 'Rejoice, O pilgrim throng'"
+AH,596,Entrust Your Days and Burdens,match,Paul Gerhardt's 'Befiehl du deine Wege' in another translation (tune PASSION CHORALE)
+AH,597,"Father God, provide for me",match,"'Sorge, Vater, sorge du', from its Norwegian version 'Sørg, o kjære Fader, du' (tune SÖRG, O KJAERE FADER, DU)"
+AH,613,Lord as a Pilgrim Through Life I Go,match,"the Finnish 'Oi Herra, jos mä matkamies maan' (tune OI HERRA, JOS MÄ MATKAMIES MAAN) in another translation"
+AH,39,Let Our Gladness Have No End,match,the Czech carol 'Narodil se Kristus Pán' in another translation (tune NARODIL SE KRISTUS PÁN)
+AH,255,On My Heart Imprint Your Image,match,"Thomas Kingo's 'Skriv dig, Jesu, paa mit Hjerte' in another translation (tune FREU DICH SEHR, as in LSB)"
+ALH,2,Lord Jesus Christ,no match,"'Lord Jesus Christ, be with us now' (the row 'Lord Jesus Christ, Be Present Now'), not ACS's short song"
+ALH,2,"Lord Jesus Christ, Be Present Now",match,"'Herr Jesu Christ, dich zu uns wend' (by Wilhelm II of Saxe-Weimar; tune WEIMAR) in another translation, the opening hymn of the service"
+ALH,20,"Almighty God, Your Word is Cast",match,"John Cawood's 'Almighty God, Thy Word is cast', here 'is sown'"
+ALH,50,O Living Bread from Heaven,no match,"'O Lord, Thou living Bread from heaven' (tune RUDOLSTADT, 9.8.9.8.8.8), not Rist's 'Wie wohl hast du gelabet' (7.6.7.6.D)"
+ALH,60,We All Believe in One True God Maker,match,"Luther's 'Wir glauben all an einen Gott, Schöpfer' with its own tune (CONFESSION); ALH 61 is Clausnitzer's"
+ALH,60,We All Believe in One True God Father,no match,Luther's creed hymn (tune CONFESSION); Clausnitzer's is ALH 61 (tune CLAUSNITZER)
+ALH,61,We All Believe in One True God Father,match,"Tobias Clausnitzer's 'Wir glauben all an einen Gott, Vater' (tune CLAUSNITZER); ALH 60 is Luther's"
+ALH,61,We All Believe in One True God Maker,no match,Clausnitzer's creed hymn (tune CLAUSNITZER); Luther's is ALH 60 (tune CONFESSION)
+ALH,96,Pour Out Thy Spirit from on High,match,"James Montgomery's 'Lord, pour Thy Spirit from on high', here 'O pour Thy Spirit'"
+ALH,105,Lord Jesus Christ,no match,"'Lord Jesus Christ, the cause is Thine' (tune HAYDN), not ACS's short song"
+ALH,113,Now Praise the Lord,match,"'Lobet den Herrn, ihr Heiden all' (Psalm 117; KELG 344, WH 'Now praise the Lord, ye Gentiles all') in another translation"
+ALH,121,"Dear Christians, One and All, Rejoice",match,"Luther's 'Nun freut euch, lieben Christen gmein' with its tune (LUTHER'S HYMN), in another translation of the first line"
+ALH,122,Now Let Triumphant Faith Dispel,match,ELH's 'Now let triumphant faith dispel' with 'O' for 'Now'
+ALH,129,There is a Blessed Home,no match,"'There is a blessed power' (tune COMMIT THY WAY), another text"
+ALH,151,Almighty Lord of earth and heaven,match,"'O mighty God of earth and heaven' (tune CRASSELIUS), the translation of 'Wenn ich die heil'gen zehn Gebot' that WH's 'Almighty Lord of earth and heaven' (KELG 182) follows"
+ALH,175,"O Morning Star, How Fair and Bright",match,"Philipp Nicolai's 'Wie schön leuchtet der Morgenstern' (tune NICOLAI), 'so fair and bright'"
+ALH,188,Jesus! Name of Wondrous Love,no match,"'Jesus, name of wondrous grace' (tune GRACE), not Walsham How's hymn"
+ALH,233,"Thee Will I Love, My Strength, My Tower",match,"Scheffler's 'Ich will dich lieben, meine Stärke' in another translation ('my strength, my treasure')"
+ALH,242,"Onward, Christian Soldiers",match,Sabine Baring-Gould's hymn (tune ST. GERTRUDE); Hymnary gives two lines
+ALH,286,Abide with Me,no match,"'Abide with me, my Savior blest' (tune WINDING), not Lyte's hymn"
+ALH,291,The Lord Hath Helped Me Hitherto,no match,"'He who has helped me hitherto' (tune WINDING, long meter), another text: ALH 529 is this row's hymn"
+ALH,304,"Lord, It Belongs Not to My Care",match,"Richard Baxter's hymn, here 'our care'"
+ALH,306,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden', which ALH prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ALH,306,For Thee O Dear Dear Country,no match,"'Jerusalem the golden', which ALH prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ALH,306,The Clouds of Judgment Gather,no match,"'Jerusalem the golden', which ALH prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ALH,332,"Oh, That You Would Rend the Heavens",no match,"'O that Thou wouldst rend the heavens!' (tune TRANOSCIUS); LSB 984, only in Lutheran Service Builder, can't be checked against it"
+ALH,344,Lord Jesus Christ,no match,"'Lord Jesus Christ, of Virgin born' (tune REDEEMER), not ACS's short song"
+ALH,353,All My Heart Again Rejoices,match,Paul Gerhardt's 'Fröhlich soll mein Herze springen' as 'All my heart this day rejoices' (Winkworth's 'this night')
+ALH,359,Let Our Gladness Have No End,match,"the Czech carol 'Narodil se Kristus Pán' as 'Christ the Lord to us is born', the row's other title (tune SLOVAKIA)"
+ALH,366,"Holy Father, Thou hast taught me",match,"John H. Gurney's New Year hymn 'Holy Father, Thou hast taught me', here in the plural"
+ALH,392,"Lamb of God, Pure and Holy",no match,"'O Lamb of God most lowly' (tune BALFERN), another text"
+ALH,402,"Sing, My Tongue, the Glorious Battle",match,"Fortunatus's 'Pange lingua gloriosi proelium certaminis', 'the Savior's battle'"
+ALH,411,Lamb of God,no match,"'Lamb of God, O Jesus!' (tune AGNES DEI), not this CW'21 hymn"
+ALH,411,"Your Only Son, No Sin To Hide",no match,"'Lamb of God, O Jesus!' (tune AGNES DEI), not Twila Paris's 'Lamb of God'"
+ALH,412,Upon the cross the robber pray’d,match,the same hymn as AH 92 ('prayed' for 'pray'd')
+ALH,439,Christ is Arisen,no match,"'Lo! Christ is risen' (tune EASTER), not 'Christ ist erstanden'"
+ALH,439,Now Christ is Risen,no match,"'Lo! Christ is risen' (tune EASTER), not this ELH hymn"
+ALH,440,"Rejoice, Rejoice This Happy Morn",no match,'He is arisen! Glorious word!' (the row of that title); LW 520 alone ties the two hymns sung to WIE SCHÖN LEUCHTET
+ALH,446,"Halle, hallelujah",no match,"'Hallelujah! Hallelujah!' (tune SIDNEY), not ACS's Syrian Hallelujah"
+ALH,466,"Gracious Spirit, Dove divine",match,"John Stocker's 'Gracious Spirit, Dove divine', in its other form 'Love divine'"
+ALH,487,A Mighty Fortress Is Our God,match,"Luther's 'Ein feste Burg' (tune EIN FESTE BURG), 'our Lord'"
+ALH,495,O Lord I Sing with Lips and Heart,match,"Paul Gerhardt's 'Ich singe dir mit Herz und Mund' (KELG 339), 'with voice and heart' (tune LÜTZEN)"
+ALH,495,"Rejoice, My Heart, Be Glad and Sing",no match,"'Ich singe dir mit Herz und Mund' from its first stanza, the row 'O Lord I Sing with Lips and Heart'"
+ALH,499,God Bless Our Native Land,match,C. T. Brooks and J. S. Dwight's hymn (tune AMERICA) in its form 'God save our native land'
+ALH,529,The Lord Hath Helped Me Hitherto,match,"Aemilie Juliane's 'Bis hieher hat mich Gott gebracht' (tune DECIUS, i.e. ALLEIN GOTT IN DER HÖH), as TLH 33"
+ALH,567,Through the Day Thy Love hath Spared Us,match,Thomas Kelly's hymn; 'Thro'' for 'Through'
+ALH,570,"Savior, now the day is ending",no match,"'Softly now the day is ending' (tune EVEN SONG), another text"
+ALH,597,All Glory Be to God on High,no match,"'Glory to God on high!' (tune ITALIAN HYMN), James Allen's hymn, not Decius's"
+ALH,597,Glory be to God on high,no match,"'Glory to God on high!' (tune ITALIAN HYMN), James Allen's hymn"
+ALH,631,The truest Friend abides in heaven,match,"'Der beste Freund ist in dem Himmel' (KELG 247), 'My truest Friend'"
+ALH,9,God Himself is Present,match,"Gerhard Tersteegen's 'Gott ist gegenwärtig' in another translation (tune ARNSBERG, i.e. WUNDERBARER KÖNIG)"
+ALH,13,"Abide, O Dearest Jesus",match,Josua Stegmann's 'Ach bleib mit deiner Gnade' in another translation
+ALH,42,"To Jordan Came the Christ, Our Lord",match,Luther's 'Christ unser Herr zum Jordan kam' in another translation (tune BAPTIZEIN)
+ALH,46,"O Lord, We Praise Thee",match,"Luther's 'Gott sei gelobet und gebenedeiet' in another translation, with Johann Walter's tune (WALTHER)"
+ALH,90,"O Little Flock, Fear Not the Foe",match,"Matthias Loy's translation of 'Verzage nicht, du Häuflein klein' (Hymnary, ELHal 197)"
+ALH,112,Awake Thou Spirit Who Didst Fire,match,"Bogatzky's 'Wach auf, du Geist der ersten Zeugen' in another translation"
+ALH,131,Now I have Found the Firm Foundation,match,J. A. Rothe's 'Ich habe nun den Grund gefunden' in another translation
+ALH,135,All Mankind Fell in Adam's Fall,match,Lazarus Spengler's 'Durch Adams Fall ist ganz verderbt' in another translation (tune COWPER; ALH prints it twice)
+ALH,136,All Mankind Fell in Adam's Fall,match,Lazarus Spengler's 'Durch Adams Fall ist ganz verderbt' in another translation (tune WINDSOR; ALH prints it twice)
+ALH,222,One Thing's Needful Lord This Treasure,match,J. H. Schröder's 'Eins ist not' in another translation (tune ONE THING NEEDFUL)
+ALH,262,O Happy Home Where Thou art Loved Most Dearly,match,"Spitta's 'O selig Haus, wo man dich aufgenommen' in another translation"
+ALH,283,"Jesus, Lead Thou On",match,"Zinzendorf's 'Jesu, geh voran' in another translation"
+ALH,301,Once in the Blest Baptismal Waters,match,"Aemilie Juliane's 'Wer weiß, wie nahe mir mein Ende' (this row's KELG 429, TLH 598) in another translation (tune RUDOLSTADT)"
+ALH,331,We Sing Immanuel Thy Praise,match,"Paul Gerhardt's 'Wir singen dir, Immanuel' in another translation"
+ALH,396,A Lamb Goes Uncomplaining Forth,match,Paul Gerhardt's 'Ein Lämmlein geht und trägt die Schuld' in another translation
+ALH,413,"O Dearest Jesus, What Law Hast Thou Broken",match,Johann Heermann's 'Herzliebster Jesu' in another translation
+ALH,428,"All Glory, Laud, and Honor",match,"Theodulph's 'Gloria, laus et honor' as 'All glory, praise and honor'"
+ALH,483,"Lord God, to Thee We Give All Praise",match,"Paul Eber's 'Herr Gott, dich loben alle wir' in another translation (tune OLD HUNDREDTH)"
+ALH,557,Evening and Morning,match,"Hermann Brueckner's translation (1918) of Paul Gerhardt's 'Die güldne Sonne', with Ebeling's tune (EBELING)"
+ALH,587,"Jehovah, Let Me Now Adore Thee",match,"Crasselius's 'Dir, dir, Jehova, will ich singen' in another translation (tune CRASSELIUS)"
+ALH,623,Beautiful Savior,match,'Schönster Herr Jesu' (tune CRUSADER'S HYMN) with its second line
+CSB,2,On Jordan's Bank the Baptist's Cry,match,"Charles Coffin's 'Jordanis oras praevia' in Chandler's form 'On Jordan's banks the herald's cry', the row's other title"
+CSB,26,We Sing Immanuel Thy Praise,match,"Paul Gerhardt's 'Wir singen dir, Immanuel' as 'Emmanuel! we sing Thy praise'"
+CSB,45,O Savior of Our Fallen Race,no match,"'O Saviour of our race' (tune VENICE, short meter), not Gilbert Doan's long-meter 'Christe, Redemptor omnium' (1978)"
+CSB,45,"Savior of the Nations, Come",no match,"'O Saviour of our race' (tune VENICE), not 'Veni, Redemptor gentium'"
+CSB,104,Throned upon the Awe-full Tree,match,John Ellerton's 'Throned upon the awful tree' (tune LA TROBE)
+CSB,118,Welcome Happy Morning,match,"Fortunatus's 'Salve, festa dies' (Ellerton), 'Welcome, happy morning! age to age shall say' (tune FORTUNATUS)"
+CSB,124,Draw Us to Thee,no match,"'Draw us to Thee, Lord Jesus' (tune KOCHER, 7.6.7.6), not Funcke's long-meter 'Zeuch uns nach dir'"
+CSB,159,"Hail, holy, holy, holy Lord!",no match,"Christopher Wordsworth's 'Holy, holy, holy Lord, God of Hosts' (tune ST. ATHANASIUS), another text"
+CSB,159,"Holy, Holy, Holy, Lord God Almighty",no match,"Christopher Wordsworth's 'Holy, holy, holy Lord, God of Hosts' (tune ST. ATHANASIUS), not Heber's hymn"
+CSB,159,"Holy, holy, holy, Lord God of might and mercy",no match,"Christopher Wordsworth's 'Holy, holy, holy Lord, God of Hosts' (tune ST. ATHANASIUS), not ACS's Argentine Sanctus"
+CSB,159,Sanctus,no match,"Christopher Wordsworth's 'Holy, holy, holy Lord, God of Hosts' (tune ST. ATHANASIUS), not the Sanctus"
+CSB,175,Lord Jesus Christ,no match,"'Lord Jesus Christ, our Lord most dear' (tune ST. MATTHIAS), not ACS's short song"
+CSB,181,"Be Still, My Soul",no match,"'Be still, my soul, for God is near!' (tune ANGELUS), not Katharina von Schlegel's hymn"
+CSB,184,"Not worthy, Lord, to gather",match,"Edward H. Bickersteth's 'Not worthy, Lord, to gather up the crumbs', which TLHy's index cuts short"
+CSB,236,"Your Hand, O Lord, in Days of Old",match,"E. H. Plumptre's 'Thine arm, O Lord, in days of old', which LBW and its successors alter to 'Your hand'"
+CSB,278,God of Mercy God of Grace,no match,"Eliza F. Morris's 'God of pity, God of grace' (tune IRENE), not Lyte's Psalm 67"
+CSB,299,O Bless the Lord My Soul,no match,"'O bless the Lord, my soul!' (tune THATCHER): Watts's Psalm 103 or Montgomery's, which share their first line; Hymnary's table doesn't tell which"
+CSB,299,"O Bless the Lord, My Soul",no match,"'O bless the Lord, my soul!' (tune THATCHER): Watts's Psalm 103 or Montgomery's, which share their first line; Hymnary's table doesn't tell which"
+CSB,308,"Come, We That Love the Lord",match,"Isaac Watts's 'Come, we that love the Lord' in its form 'Come, ye that love the Lord'"
+CSB,326,Now I have Found the Firm Foundation,match,"John Wesley's translation of Rothe's 'Ich habe nun den Grund gefunden', the row's 'Now I have found the ground wherein'"
+CSB,346,Thou hidden Love of God,match,John Wesley's translation of Tersteegen's 'Verborgne Gottesliebe du' (tune DAVID'S HARP)
+CSB,350,"Come, Thou Bright and Morning Star",no match,"'O Christ, Thou bright and morning Star' is 'O Christe, Morgensterne' (tune O CHRISTE MORGENSTERNE), the row 'O Christ, Thou Star of Morning'"
+CSB,350,"O Christ, Thou Star of Morning",match,"'O Christe, Morgensterne' in another translation, with its own tune (O CHRISTE MORGENSTERNE)"
+CSB,416,O Happy Home Where Thou art Loved Most Dearly,match,"Spitta's 'O selig Haus, wo man dich aufgenommen' in ALH's translation, 'O blessèd house, that cheerfully receiveth'"
+CSB,435,"Sweet Savior, bless us ere we go",match,"F. W. Faber's hymn in its form 'O Saviour, bless us ere we go'"
+CSB,468,"God, Who Made the Earth and Heaven",match,"Reginald Heber's 'God, that madest earth and heaven, Darkness and light' (tune TEMPLE)"
+CSB,468,God Who Madest Earth and Heaven,no match,"Reginald Heber's 'God, that madest earth and heaven' (the row 'God, Who Made the Earth and Heaven'), not Heinrich Albert's 'Gott des Himmels und der Erden'"
+CSB,486,We Plow the Fields and Scatter,match,Matthias Claudius's 'Wir pflügen und wir streuen'; 'plough'
+CSB,526,For Thee O Dear Dear Country,no match,"'The world is very evil', which CSB prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+CSB,527,For Thee O Dear Dear Country,no match,"'Brief life is here our portion', which CSB prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+CSB,528,For Thee O Dear Dear Country,no match,"'Jerusalem the golden', which CSB prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+CSB,542,A star is moving thro' the sky,match,the same hymn as ALH 376 ('through' for 'thro'')
+CSB,555,Jesus Loves Me,no match,"'Jesus loves me, Jesus loves me!' (tune BROCKLESBY), another children's hymn than Anna B. Warner's"
+CSB,19,From Heaven Above to Earth I Come,match,"Luther's 'Vom Himmel hoch' ('ich bring euch gute neue Mär') in another translation, with its tune VOM HIMMEL HOCH"
+CSB,91,The Royal Banners Forward Go,match,Fortunatus's 'Vexilla Regis prodeunt' in another translation (tune VEXILLA REGIS)
+CSB,144,Come Holy Ghost in Love,match,"'Veni, Sancte Spiritus' in Edward Caswall's translation (tune VENI, SANCTE SPIRITUS)"
+CSB,182,"Soul, Adorn Yourself with Gladness",match,"Johann Franck's 'Schmücke dich, o liebe Seele' in another translation (tune SCHMÜCKE DICH)"
+CSB,186,O Bread of Life From Heaven,match,'O esca viatorum' in Ray Palmer's translation (tune DIES DOMINICA)
+CSB,233,At Even when the Sun did Set,match,"Henry Twells's 'At even, ere the sun was set' (tune ANGELUS)"
+CSB,313,Not in Anger Mighty God,match,J. G. Albinus's 'Straf mich nicht in deinem Zorn' in another translation (tune STRAF MICH NICHT)
+CSB,349,"O Morning Star, How Fair and Bright",match,Philipp Nicolai's 'Wie schön leuchtet der Morgenstern' in another translation (tune WIE SCHÖN LEUCHTET)
+CSB,399,Entrust Your Days and Burdens,match,"John Wesley's translation of Paul Gerhardt's 'Befiehl du deine Wege', 'Commit thou all thy griefs' (tune THESSALONICA)"
+ELHal,16,Arise Sons of the Kingdom,match,"Johann Rist's 'Auf, auf, ihr Reichsgenossen' as 'Awake! sons of the kingdom' (tune Aus meines Herzens Grunde)"
+ELHal,20,Hark the Glad Sound The Savior Comes,match,Philip Doddridge's hymn; 'and the Savior comes'
+ELHal,23,Joy to the World the Lord is Come,match,Isaac Watts's hymn; 'has come'
+ELHal,56,As with Gladness Men of Old,match,W. C. Dix's hymn (tune DIX); Hymnary's 'of men' is a slip
+ELHal,58,A star is moving thro' the sky,match,"the same hymn as ALH 376, with its 'Halleluia' refrain"
+ELHal,61,Thee We Adore Eternal Lord,no match,"'Thee we adore, Eternal Word!' (tune LUCERNE), a Christmas hymn, not the Te Deum paraphrase"
+ELHal,75,Lamb of God,no match,"Decius's 'O Lamm Gottes, unschuldig' (the row 'Lamb of God, Pure and Holy'), not this CW'21 hymn"
+ELHal,75,"Your Only Son, No Sin To Hide",no match,"Decius's 'O Lamm Gottes, unschuldig' (the row 'Lamb of God, Pure and Holy'), not Twila Paris's 'Lamb of God'"
+ELHal,75,"Lamb of God, Pure and Holy",match,"Decius's 'O Lamm Gottes, unschuldig' as 'Lamb of God, without blemish!', with its tune (PASSOVER, i.e. O Lamm Gottes unschuldig)"
+ELHal,77a,Lord Jesus Christ,no match,"'Lord Jesus Christ! Thy precious blood' (tune WEIMAR), not ACS's short song"
+ELHal,77b,Lord Jesus Christ,no match,"'Lord Jesus Christ! Thy precious blood' (tune HAMBURG), not ACS's short song"
+ELHal,78,O Darkest Woe,match,"Johann Rist's 'O Traurigkeit, o Herzeleid' with its second line"
+ELHal,86,Christ the Lord is Risen Today,match,Charles Wesley's hymn; 'has ris'n'
+ELHal,95,Our Lord is risen from the dead,match,Charles Wesley's hymn; 'has risen'
+ELHal,98,The atoning work is done,match,Thomas Kelly's hymn; 'Th'atoning'
+ELHal,104a,Creator Spirit Heavenly Dove,match,"'Veni, Creator Spiritus' in this translation, 'Creator, Spirit, Holy Dove' (tune LUTON)"
+ELHal,104b,Creator Spirit Heavenly Dove,match,"'Veni, Creator Spiritus' in this translation, 'Creator, Spirit, Holy Dove' (tune FEDERAL STREET)"
+ELHal,110a,"Spirit Divine, attend our prayer",match,Andrew Reed's hymn; 'pray'r'
+ELHal,110b,"Spirit Divine, attend our prayer",match,Andrew Reed's hymn; 'pray'r'
+ELHal,151,When in the Hour of Deepest Need,match,"Paul Eber's 'Wenn wir in höchsten Nöten sein' with its tune, as 'When in our hour of utmost need'"
+ELHal,167,We Sing the Almighty Power of God,match,Isaac Watts's hymn; 'th' almighty pow'r'
+ELHal,180,When Israel Through the Desert Passed,match,the same hymn; 'thro''
+ELHal,196,"Thine Honor Save, O Christ, Our Lord",match,"the row's hymn in its form 'Thine honor rescue', here 'righteous Lord'"
+ELHal,204,These Are the Holy Ten Commands,match,"Luther's 'Mensch, willst du leben seliglich', the row's 'That Man a Godly Life Might Live'"
+ELHal,208,We All Believe in One True God Father,match,"the Apostles' Creed hymn (tune APOSTOLIC CREED), Clausnitzer's 'Wir glauben all an einen Gott, Vater'"
+ELHal,208,We All Believe in One True God Maker,no match,"the Apostles' Creed hymn (tune APOSTOLIC CREED), Clausnitzer's, not Luther's Nicene Creed hymn"
+ELHal,217,Our Father Who Art in Heaven—I,no match,"'Our Father dear, who art in heav'n' (tune WAVERTREE), a long-meter hymn, not LSB's chant of the Lord's Prayer"
+ELHal,217,Our Father Who Art in Heaven—IIa,no match,"'Our Father dear, who art in heav'n' (tune WAVERTREE), a long-meter hymn, not LSB's chant of the Lord's Prayer"
+ELHal,217,Our Father Who Art in Heaven—IIb,no match,"'Our Father dear, who art in heav'n' (tune WAVERTREE), a long-meter hymn, not LSB's chant of the Lord's Prayer"
+ELHal,226,Jesus took the babes and blessed them,match,"the same hymn as ALH 37, 'the lambs'"
+ELHal,232,"O Great High Priest, forget not me",match,"the same hymn as ALH 547, 'forget me not'"
+ELHal,237,The abyss of many a former sin,match,the same hymn as ELHB 420; 'Th'abyss'
+ELHal,249,Salvation Unto Us Has Come,match,Paul Speratus's 'Es ist das Heil uns kommen her' in its form 'To us salvation now has come' (tune LUTHER'S HYMN)
+ELHal,264,Lord Jesus Christ,no match,"'Lord Jesus Christ, to thee we pray' (tune TALLIS' EVENING HYMN), not ACS's short song"
+ELHal,273,"O Lord, We Praise Thee",match,"Luther's 'Gott sei gelobet und gebenedeiet' with its tune (ENCHIRIDION), as ELHB 431 'May God be praised henceforth and blest forever'"
+ELHal,281,"O Jesus, source of calm repose",match,"Freylinghausen's 'Wer ist wohl wie du' (tune Seelenbräutigam), the row's 'Who, O Jesus blest'"
+ELHal,287,Chief of Sinners Though I Be,match,William McComb's hymn; 'tho''
+ELHal,306,Another day has passed away,match,the same hymn as ALH 565; 'pass'd'
+ELHal,309a,The Sun's Last Beam of Light is Gone,match,"the row's German hymn (KELG 317) in its translation 'The happy sunshine now is gone', here 'all is gone'"
+ELHal,309b,The Sun's Last Beam of Light is Gone,match,"the row's German hymn (KELG 317) in its translation 'The happy sunshine now is gone', here 'all is gone'"
+ELHal,319,Savior Breathe an Evening Blessing,match,James Edmeston's hymn; 'ev'ning'
+ELHal,363,O Bless the Lord My Soul,no match,"'O bless the Lord, my soul!' (tune MORNINGTON): Watts's or Montgomery's Psalm 103; put with CSB 299, which is the same unknown"
+ELHal,363,"O Bless the Lord, My Soul",no match,"'O bless the Lord, my soul!' (tune MORNINGTON): Watts's or Montgomery's Psalm 103; put with CSB 299, which is the same unknown"
+ELHal,363,"O bless the Lord, my soul!",match,"'O bless the Lord, my soul!' (tune MORNINGTON): Watts's or Montgomery's Psalm 103, which share their first line, as CSB 299 is; Hymnary's table doesn't tell which"
+ELHal,382a,Am I a Soldier of the Cross,match,Isaac Watts's hymn; Hymnary drops the 'a'
+ELHal,382a,"Stand, soldier of the cross",no match,Watts's 'Am I a soldier of the cross'
+ELHal,382b,Am I a Soldier of the Cross,match,Isaac Watts's hymn with its own tune; Hymnary drops the 'a'
+ELHal,382b,"Stand, soldier of the cross",no match,Watts's 'Am I a soldier of the cross'
+ELHal,404,"Blest by Thy love, dear Lord",match,"John Austin's 'Blest be Thy love, dear Lord'; the ELHB index's 'by' is a slip"
+ELHal,416,"O God, my days are dark indeed",match,"the row's German hymn (KELG 352) as 'Ah God, my days are dark indeed'"
+ELHal,418,If Thou But Trust in God to Guide Thee,match,Georg Neumark's 'Wer nur den lieben Gott läßt walten' in the form 'If thou but suffer God to guide thee'
+ELHal,430,Once in the Blest Baptismal Waters,match,"'Wer weiß, wie nahe mir mein Ende' with its tune (RUDOLSTADT), the row's 'Who knows how near my life's expended' (Hymnary: 'expanded')"
+ELHal,436,"O world, I now must leave thee",match,"'O Welt, ich muß dich lassen' (KELG 423); 'I must now'"
+ELHal,447,Tender Shepherd Thou hast Stilled,match,"Meinhold's 'Guter Hirt, du hast gestillt', 'Gentle Shepherd'"
+ELHal,452,Let Thoughtless Thousands Choose the Road,match,the same hymn; Hymnary's 'chose' is a slip
+ELHal,459a,That Day of Wrath That Dreadful Day,match,"Walter Scott's 'Dies irae', 'The day of wrath'"
+ELHal,459b,That Day of Wrath That Dreadful Day,match,"Walter Scott's 'Dies irae', 'The day of wrath'"
+ELHal,467a,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden', which ELHal prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ELHal,467a,For Thee O Dear Dear Country,no match,"'Jerusalem the golden', which ELHal prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ELHal,467a,The Clouds of Judgment Gather,no match,"'Jerusalem the golden', which ELHal prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ELHal,467b,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden', which ELHal prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ELHal,467b,For Thee O Dear Dear Country,no match,"'Jerusalem the golden', which ELHal prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ELHal,467b,The Clouds of Judgment Gather,no match,"'Jerusalem the golden', which ELHal prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+ELHal,512a,He Leadeth Me O Blessed Thought,match,Joseph Gilmore's hymn; 'tho't'
+ELHal,512b,He Leadeth Me O Blessed Thought,match,Joseph Gilmore's hymn; 'tho't'
+ELHal,3,"Lord Jesus Christ, Be Present Now",match,"'Herr Jesu Christ, dich zu uns wend' in another translation, with its tune (WEIMAR), the row's 'Lord Jesus Christ, to us attend'"
+ELHal,18,O Lord How Shall I Meet You,match,Paul Gerhardt's 'Wie soll ich dich empfangen' in another translation (tune TESCHNER)
+ELHal,27,All My Heart Again Rejoices,match,Paul Gerhardt's Christmas hymn 'Fröhlich soll mein Herze springen' in another translation (tune LÜNEBURG)
+ELHal,31a,Let All Together Praise Our God,match,"Nikolaus Herman's Christmas hymn 'Lobt Gott, ihr Christen alle gleich' in another translation (tune LÜTZEN)"
+ELHal,31b,Let All Together Praise Our God,match,"Nikolaus Herman's Christmas hymn 'Lobt Gott, ihr Christen alle gleich' in another translation (tune CHRISTMAS)"
+ELHal,67,A Lamb Goes Uncomplaining Forth,match,Paul Gerhardt's 'Ein Lämmlein geht und trägt die Schuld' in another translation (tune PASSIONTIDE)
+ELHal,74,Our Blessed Savior Seven Times Spoke,match,"Böschenstein's 'Da Jesus an dem Kreuze stund' in another translation, with its tune (GESENIUS)"
+ELHal,101,"Come, Holy Ghost, God and Lord",match,"Luther's 'Komm, Heiliger Geist, Herre Gott' in another translation, with its tune (WARTBURG)"
+ELHal,103,"O Holy Spirit, Enter In",match,"Michael Schirmer's 'O Heilger Geist, kehr bei uns ein' in another translation, with its tune (WIE SCHÖN LEUCHTET)"
+ELHal,121,"Arise, O Christian People",match,"Valentin Thilo's 'Mit Ernst, o Menschenkinder' in another translation (tune Aus meines Herzens Grunde)"
+ELHal,144,A Mighty Fortress Is Our God,match,"Luther's 'Ein feste Burg' in another translation, with its tune"
+ELHal,147,O Lord Look Down from Heaven Behold,match,"Luther's 'Ach Gott, vom Himmel sieh darein' in another translation"
+ELHal,190,Awake Thou Spirit Who Didst Fire,match,"Bogatzky's 'Wach auf, du Geist der ersten Zeugen' in another translation"
+ELHal,247,All Mankind Fell in Adam's Fall,match,Lazarus Spengler's 'Durch Adams Fall ist ganz verderbt' in another translation (ELHal 248 has ALH's)
+ELHal,260a,"Jesus, Thy Blood and Righteousness",match,Zinzendorf's 'Christi Blut und Gerechtigkeit' in another translation
+ELHal,260b,"Jesus, Thy Blood and Righteousness",match,Zinzendorf's 'Christi Blut und Gerechtigkeit' in another translation
+ELHal,277,The Only Son from Heaven,match,"Elisabeth Cruciger's 'Herr Christ, der einig Gotts Sohn' in another translation, with its tune (SWEDEN)"
+ELHal,286,O Love Who Madest Me to Wear,match,"Scheffler's 'Liebe, die du mich zum Bilde' in another translation, with its tune (LOVE EVERLASTING)"
+ELHal,294,My Inmost Heart Now Raises,match,"'Aus meines Herzens Grunde' in another translation, with its tune (EISLEBEN)"
+ELHal,302,Now that the Daylight Fills the Sky,match,'Iam lucis orto sidere' in another translation
+ELHal,325,"Come, Holy Ghost, Creator Blest",match,"'Veni, Creator Spiritus' in another translation ('Sprit' in Hymnary's first line is fixed in HYMNARY_FIXES)"
+ELHal,326,All Depends on Our Possessing,match,"'Alles ist an Gottes Segen' in another translation, with its tune (HILDESHEIM)"
+ELHal,349,I Am Jesus' Little Lamb,match,"Henriette von Hayn's 'Weil ich Jesu Schäflein bin' in another translation, with its tune (GREGOR)"
+ELHal,361,"Praise to the Lord, the Almighty",match,"Joachim Neander's 'Lobe den Herren, den mächtigen König' in another translation, with its tune"
+ELHal,406,"Jesus, Lead Thou On",match,"Zinzendorf's 'Jesu, geh voran' in another translation, with its tune (Seelenbräutigam)"
+ELHal,407,Heavenward still our pathway tends,match,Benjamin Schmolck's 'Himmelan geht unsre Bahn' in another translation
+ELHal,408,What God Ordains Is Always Good,match,"Samuel Rodigast's 'Was Gott tut, das ist wohlgetan' in another translation, with its tune"
+ELHal,411,Entrust Your Days and Burdens,match,"Paul Gerhardt's 'Befiehl du deine Wege' in another translation, with its tune (COMMIT THY WAY)"
+ELHal,456,"Jesus Christ, My Sure Defense",match,"'Jesus, meine Zuversicht' in Catherine Winkworth's earlier translation, 'Jesus, my Redeemer, lives'"
+ELHal,461,"Eternity, thou thunderous word",match,"Johann Rist's 'O Ewigkeit, du Donnerwort' in another translation, with its tune"
+ELHal,462,"Wake, Awake, for Night is Flying",match,"Philipp Nicolai's 'Wachet auf' in another translation, with its tune"
+ELW,160,Sanctus,no match,"'Holy, holy, holy God, holy and mighty', the Trisagion, not the Sanctus"
+ELW,164,"Glory to God, glory to God",no match,"ELW's Gloria 'Glory to God, glory to God, glory in the highest', not shown to be ACS's Spanish 'Gloria a Dios' (tune GLORIA A DIOS)"
+ELW,169,"Speak, O Lord",no match,"'Speak, O Lord, your servant is listening', a gospel acclamation, not the Gettys' hymn"
+ELW,169,"Speak, O Lord, Your Servant Listens",no match,"'Speak, O Lord, your servant is listening', a gospel acclamation, not Anna Sophia's 'Rede, liebster Jesu, rede'"
+ELW,181,Let the Vineyards Be Fruitful,match,"a setting of the liturgical text (the offertory 'Let the vineyards be fruitful, Lord'); ELW has four"
+ELW,182,Let the Vineyards Be Fruitful,match,"a setting of the liturgical text (the offertory 'Let the vineyards be fruitful, Lord'); ELW has four"
+ELW,183,Let the Vineyards Be Fruitful,match,"a setting of the liturgical text (the offertory 'Let the vineyards be fruitful, Lord'); ELW has four"
+ELW,184,Let the Vineyards Be Fruitful,match,"a setting of the liturgical text (the offertory 'Let the vineyards be fruitful, Lord'); ELW has four"
+ELW,189,"Holy, Holy, Holy Lord",no match,"ELW's Sanctus ('Holy, holy, holy Lord, God of power and might'), not Christopher Wordsworth's hymn (CSB 159)"
+ELW,189,Sanctus,match,"a setting of the liturgical text Sanctus, one of ELW's five (189-193)"
+ELW,190,"Holy, Holy, Holy Lord",no match,"ELW's Sanctus, not Christopher Wordsworth's hymn (CSB 159)"
+ELW,190,Sanctus,match,"a setting of the liturgical text Sanctus, one of ELW's five (189-193)"
+ELW,191,Sanctus,match,"a setting of the liturgical text Sanctus, one of ELW's five (189-193), 'Holy, holy, holy are you'"
+ELW,192,"Holy, Holy, Holy Lord",no match,"ELW's Sanctus, not Christopher Wordsworth's hymn (CSB 159)"
+ELW,192,Sanctus,match,"a setting of the liturgical text Sanctus, one of ELW's five (189-193)"
+ELW,193,"Holy, Holy, Holy Lord",no match,"ELW's Sanctus, not Christopher Wordsworth's hymn (CSB 159)"
+ELW,193,Sanctus,match,"a setting of the liturgical text Sanctus, one of ELW's five (189-193)"
+ELW,194,Lamb of God,no match,"the Agnus Dei (in Latin and English), not this CW'21 hymn"
+ELW,194,"O Lamb of God, you take away the sin of the world",match,"a setting of the liturgical text Agnus Dei, in Latin and English, as ACS 960 is in Finnish and English"
+ELW,194,"Your Only Son, No Sin To Hide",no match,"the Agnus Dei, not Twila Paris's 'Lamb of God'"
+ELW,195,Lamb of God,no match,"the Agnus Dei, not this CW'21 hymn"
+ELW,195,"O Lamb of God, you take away the sin of the world",match,"a setting of the liturgical text Agnus Dei, as ACS 960"
+ELW,195,"Your Only Son, No Sin To Hide",no match,"the Agnus Dei, not Twila Paris's 'Lamb of God'"
+ELW,196,"O Lamb of God, you take away the sin of the world",match,"a setting of the liturgical text Agnus Dei ('O Christ, Lamb of God'), as ACS 960"
+ELW,199,"Jesus, Lamb of God",match,"a setting of the liturgical text Agnus Dei in the form 'Jesus, Lamb of God, have mercy on us', as CW'21 946"
+ELW,227,"We praise Thee, O God",match,"the Te Deum laudamus in the modern translation 'We praise you, O God, we acclaim you as Lord'"
+ELW,228,"We praise Thee, O God",match,"the Te Deum laudamus in the modern translation 'We praise you, O God, we acclaim you as Lord'"
+ELW,230,"Jesus Christ, Our Blessed Savior",no match,"'Jesus Christ our Savior', a short song, not Luther's 'Jesus Christus, unser Heiland'"
+ELW,237,"Lord, Have Mercy",match,"a setting of the liturgical text Kyrie, as ELW 151-158"
+ELW,238,"Lord, Have Mercy",match,"a setting of the liturgical text Kyrie, as ELW 151-158"
+ELW,151,Kyrie eleison,no match,"ELW's Kyrie, in the row 'Lord, Have Mercy' with ELW's other settings; ACS 1073 is the Haitian Kyrie"
+ELW,155,Kyrie eleison,no match,"ELW's Kyrie, in the row 'Lord, Have Mercy' with ELW's other settings; ACS 1073 is the Haitian Kyrie"
+ELW,174,Alleluia! Alleluia!,no match,"'Alleluia, alleluia', a gospel acclamation, not Christopher Wordsworth's 'Alleluia! Alleluia! Hearts to heaven and voices raise' (CSB 116)"
+ELW,277,Away in a Manger,match,"the carol, with tune AWAY IN A MANGER ('no crib for a bed')"
+ELW,278,Away in a Manger,match,"the carol, with tune CRADLE SONG ('no crib for a bed')"
+ELW,285,Peace Came to Earth,match,Jaroslav Vajda's 'Peace came to earth at last that chosen night' (tune SCHNEIDER)
+ELW,292,Love Has Come,match,'Love has come - a light in the darkness!' (tune UN FLAMBEAU)
+ELW,314,"Arise, Your Light Is Come!",match,"Ruth Duck's 'Arise, your light is come!', 'has come' (tune FESTAL SONG)"
+ELW,371,"Christians, to the Paschal Victim",match,'Victimae paschali laudes' (tune VICTIMAE PASCHALI)
+ELW,371,Christ is Arisen,no match,"'Victimae paschali laudes' (the row 'Christians, to the Paschal Victim'), not 'Christ ist erstanden'"
+ELW,372,Christ is Arisen,match,"'Christ ist erstanden' with its tune, 'Christ is arisen from grave's dark prison'"
+ELW,411,We All Believe in One True God Maker,match,"Luther's 'Wir glauben all an einen Gott, Schöpfer' with its tune (WIR GLAUBEN ALL), as LBW 374"
+ELW,411,We All Believe in One True God Father,no match,"Luther's creed hymn (tune WIR GLAUBEN ALL), not Clausnitzer's"
+ELW,418,Rejoice in God!,no match,"Fred Pratt Green's 'Rejoice in God's saints today and all days!' (tune LAUDATE DOMINUM), another text"
+ELW,429,In Our Day of Thanksgiving,match,W. H. Draper's 'In our day of thanksgiving one psalm let us offer' (tune ST. CATHERINE'S COURT)
+ELW,437,On Jordan's stormy banks I stand,match,"Samuel Stennett's hymn ('bank'), as ELHal 464"
+ELW,447,O Blessed Spring,match,"Susan Palo Cherwien's 'O blessed spring, where word and sign' (tune BERGLUND)"
+ELW,449,We Know that Christ is Raised,match,John Brownlow Geyer's 'We know that Christ is raised and dies no more' (tune ENGELBERG)
+ELW,472,Eat This Bread,match,"Taizé's 'Eat this bread, drink this cup' (tune BERTHIER)"
+ELW,473,Sanctus,no match,"the Argentine 'Santo, santo, santo, mi corazón te adora', a hymn, not the Sanctus"
+ELW,478,"Father, We Thank Thee",match,"the Didache's 'Father, we thank Thee, who hast planted', 'we thank you that you planted' (tune RENDEZ À DIEU)"
+ELW,481,Come to the table,no match,"'Come to the table of mercy' (tune COME TO THE TABLE), not ACS's 'Come to the table' (tune INVITATION)"
+ELW,491,"Come, Let Us Eat",match,"'Come, let us eat, for now the feast is spread' (tune A VA DE)"
+ELW,507,O God of Light,match,"Sarah E. Taylor's 'O God of light, your word, a lamp unfailing' (tune ATKINSON)"
+ELW,541,O Jesus Blessed Lord to Thee,match,"Thomas Kingo's 'O Jesu, søde Jesu, dig' (tune UD GÅR DU NU PÅ LIVETS VEJ), as LBW 220"
+ELW,558,Father We Praise You Now the Night is Over,match,"'Nocte surgentes vigilemus omnes' (tune CHRISTE SANCTORUM) as ELW alters it: 'Lord God, we praise you'"
+ELW,560,"Christ, Mighty Savior",match,"'Christe, qui splendor et dies' as 'Christ, mighty Savior, Light of all creation'"
+ELW,563,O Light Whose Splendor,match,"the Phos hilaron in this metrical version, 'O Light whose splendor thrills and gladdens' (tune ST. CLEMENT)"
+ELW,615,In All Our Grief,match,Sylvia Dunstan's 'In all our grief and fear we turn to you' (tune FREDERICKTOWN)
+ELW,621,"Jesus Christ, My Sure Defense",match,"'Jesus, meine Zuversicht' with its tune, as 'Jesus lives, my sure defense'"
+ELW,627,O Day Full of Grace,match,Grundtvig's 'Den signede dag' with its tune
+ELW,652,Built on the Rock,match,"Grundtvig's 'Kirken den er et gammelt hus' with its tune, 'Built on a rock'"
+ELW,658,O Jesus Joy of Loving Hearts,match,"'Jesu, dulcis memoria' in Ray Palmer's translation as LBW has it ('O Jesus, joy of loving hearts'; Hymnary: 'living')"
+ELW,658,Jesus Thou Joy of Loving Hearts,no match,"'Jesu, dulcis memoria' in LBW's form, the row 'O Jesus Joy of Loving Hearts'"
+ELW,677,This little light of mine,match,"the spiritual 'This little light of mine', as AH 359"
+ELW,688,Lord of Light Your Name Outstanding,match,"Howell Elvet Lewis's 'Lord of light, your name outshining' (tune ABBOT'S LEIGH), LBW 405"
+ELW,714,"O God of Mercy, God of Might",match,"Godfrey Thring's hymn as LBW 425 alters it: 'O God of mercy, God of light'"
+ELW,718,In a Lowly Manger Born,match,"Masao Takenaka's 'In a lowly manger born' (tune MABUNE), as LBW 417 (Hymnary: 'lonely')"
+ELW,727,Lord Christ When You First Came to Earth,match,Walter Russell Bowie's hymn (tune MIT FREUDEN ZART)
+ELW,728,Blest Are They,match,"David Haas's 'Blest are they, the poor in spirit'"
+ELW,743,To God the Holy Spirit Let Us Pray,match,"'Nun bitten wir den Heiligen Geist' with its tune, 'Now to the Holy Spirit let us pray'"
+ELW,746,"Our Father, Who From Heaven Above",match,"Luther's 'Vater unser im Himmelreich' with its tune, 'Our Father, God in heav'n above'"
+ELW,746,Our Father Throned in Heaven Above,no match,"Luther's 'Vater unser im Himmelreich' (the row 'Our Father, Who From Heaven Above')"
+ELW,747,"Our Father, Who From Heaven Above",match,"Luther's 'Vater unser im Himmelreich' with its tune, 'Our Father, God in heav'n above'"
+ELW,747,Our Father Throned in Heaven Above,no match,"Luther's 'Vater unser im Himmelreich' (the row 'Our Father, Who From Heaven Above')"
+ELW,751,"O Lord, Hear My Prayer",match,"Taizé's 'O Lord, hear my prayer' (tune HEAR MY PRAYER)"
+ELW,761,Evening and Morning,match,"Gerhardt's 'Die güldne Sonne' with its tune, 'Evening and morning, sunset and dawning'"
+ELW,782,My Shepherd Will Supply My Need,match,"Isaac Watts's Psalm 23 as ELW words it: 'My Shepherd, you supply my need' (tune RESIGNATION)"
+ELW,790,Day By Day,match,"Lina Sandell's 'Blott en dag' with its tune, 'Day by day, your mercies, Lord, attend me'"
+ELW,792,When mem'ry fades and recognition falters,match,"Mary Louise Bringle's hymn, as ACS 1081"
+ELW,822,O Sing to the Lord,match,"the Brazilian 'Cantai ao Senhor' in Spanish and English (tune CANTAD AL SEÑOR), as LSB 808"
+ELW,822,Ye Lands to the Lord Make a Jubilant Noise,no match,"'Cantad al Señor' (the row 'O Sing to the Lord'), not this Psalm 100 hymn"
+ELW,826,"Thine the Amen, Thine the Praise",match,Herbert Brokering's hymn (tune THINE)
+ELW,831,The God of Abraham Praise,match,Thomas Olivers's 'The God of Abraham praise' (tune YIGDAL); 'Abr'ham'
+ELW,849,Thine is the Glory,no match,"'Tuya es la gloria', a short Spanish song, not 'A toi la gloire'"
+ELW,864,"Praise, My Soul, the King of Heaven",match,"Henry F. Lyte's hymn as ELW alters it: 'Praise, my soul, the God of heaven'"
+ELW,867,In Thee is Gladness,match,"Johann Lindemann's 'In dir ist Freude' with its tune, 'amid all sadness'"
+ELW,877,"Praise the Almighty; My Soul, Adore Him",match,"Herrnschmidt's 'Lobe den Herren, o meine Seele' with its tune"
+ELW,882,My soul doth magnify the Lord,no match,"'My soul does magnify the Lord' (tune GOSPEL MAGNIFICAT), a gospel-style Magnificat, not the canticle"
+ELW,882,My Soul Now Magnifies the Lord,no match,"'My soul does magnify the Lord' (tune GOSPEL MAGNIFICAT), a gospel-style Magnificat, not this metrical one"
+ELW,827,Arise My Soul Arise,no match,"the Finnish 'Nyt ylös, sieluni' (tune NYT YLÖS, SIELUNI), not Charles Wesley's 'Arise, my soul, arise'"
+ELW,316,O Wondrous Type! O Vision Fair,match,"'Caelestis formam gloriae' with its tune (DEO GRACIAS) as ELW alters it: 'Oh, wondrous image, vision fair'"
+ELW,386,O Sons and Daughters of the King,match,"'O filii et filiae' with its tune, 'O sons and daughters, let us sing'"
+ELW,387,O Sons and Daughters of the King,match,"'O filii et filiae' with its tune, 'O sons and daughters, let us sing'"
+ELW,430,Rejoice the Lord is King,match,"Charles Wesley's hymn as ELW alters it: 'Rejoice, for Christ is king!' (tune LAUS REGIS)"
+ELW,476,"Thee We Adore, O Hidden Savior",match,"'Adoro te devote' with its tune, 'Thee we adore, O Savior, God most true'"
+ELW,776,What God Ordains Is Always Good,match,"Samuel Rodigast's 'Was Gott tut, das ist wohlgetan' with its tune, 'What God ordains is good indeed'"
+ELW,788,If God Himself Be For Me,match,"Paul Gerhardt's 'Ist Gott für mich, so trete' with its tune, 'If God my Lord be for me'"
+ELW,835,All Creatures of Our God and King,match,"Francis of Assisi's canticle in William Draper's version as ELW alters it: 'All creatures, worship God most high!' (tune LASST UNS ERFREUEN)"
+HCH,22,Fair beyond telling,match,"the same hymn as ALH 23, 'Fair beyond telling, Lord, is Thy dwelling'"
+HCH,90,"Come hither, ye faithful, triumphantly sing",match,"'Adeste fideles' in the translation of ELHB 159 and TLHy 195 ('triumphantly sing'), opening 'Oh, come, all ye faithful'"
+HCH,90,"O Come, All Ye Faithful",no match,"'Adeste fideles' in the 'triumphantly sing' translation (the row 'Come hither, ye faithful, triumphantly sing'), not Oakeley's"
+HCH,153,I See Thee Standing Lamb of God,match,"the same hymn as ELH 70 and AH 117, 'I see Thee stand'"
+HCH,166,"Christ Is Risen, Christ Is Living",no match,"'Christ is risen! Christ the living' (HCH, 1938), not Nicolás Martínez's 'Cristo vive' (1960)"
+HCH,167,"Rejoice, Rejoice This Happy Morn",no match,'He is arisen! Glorious word!' (the row of that title); LW 520 alone ties the two hymns
+HCH,171,"He’s Risen, He’s Risen",no match,"Cecil Frances Alexander's 'He is risen, He is risen', not Walther's 'Erstanden, erstanden'"
+HCH,171,"He's Risen, He's Risen",no match,"Cecil Frances Alexander's 'He is risen, He is risen', not Walther's 'Erstanden, erstanden'"
+HCH,177,Praise the Lord through every nation,match,the same hymn as TLHy 364; 'thro' ev'ry'
+HCH,194,"Come, Holy Spirit",no match,"'Come, Holy Spirit, Truth divine', another text than ACS's short songs"
+HCH,194,"Come, Holy Spirit, fill the hearts",no match,"'Come, Holy Spirit, Truth divine', not the Pentecost antiphon"
+HCH,194,Holy Spirit Light Divine,no match,"'Come, Holy Spirit, Truth divine', not Samuel Longfellow's 'Holy Spirit, Truth divine' or Andrew Reed's hymn"
+HCH,212,Through the Night of Doubt and Sorrow,match,Ingemann's 'Igjennem Nat og Trængsel' (Baring-Gould); 'Thro''
+HCH,213,"We love the place, O Lord",match,"William Bullock's 'We love the place, O God', as TLHy 41 has it with 'O Lord'"
+HCH,238,All Who Believe and Are Baptized,match,"Thomas Kingo's 'Enhver som tror og bliver døbt' in the row's other translation, 'He that believes and is baptized'"
+HCH,246,O Thou that Hear'st when Sinners Cry,match,Isaac Watts's hymn; 'hearest sinners cry'
+HCH,254,Lord Jesus Christ,no match,"'Lord Jesus Christ, receive me now', not ACS's short song"
+HCH,119,Lord Jesus Christ,no match,"HCH's hymn so listed by Hymnary (a hymn on Jesus' name), not ACS's short song (tune LOVER OF ALL)",ACS 1019
+HCH,269,O Happy Home Where Thou art Loved Most Dearly,match,Spitta's 'O selig Haus'; 'lov'd the dearest'
+HCH,282,By sin weighed down and sorely stricken,match,the same hymn as ALH 68; 'weigh'd'
+HCH,289,Begone! vain world,match,"the same hymn as TLHy 445, 'Begone! vain world, with all thy pleasures'"
+HCH,317,In God my Savior,match,"the same hymn as TLHy 350, 'In God, my Savior, I put my trust alone'"
+HCH,331,Arise My Soul Arise,match,"Charles Wesley's 'Arise, my soul, arise' (HCH, 1938)"
+HCH,331,"Arise, my soul, arise!",no match,"Charles Wesley's hymn (the row 'Arise My Soul Arise'), not ELW's Finnish 'Nyt ylös, sieluni'"
+HCH,351,Hast to the plow thou put thy hand,match,the same hymn as ALH 259; 'plough'
+HCH,388,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden', which HCH prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+HCH,388,For Thee O Dear Dear Country,no match,"'Jerusalem the golden', which HCH prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+HCH,388,The Clouds of Judgment Gather,no match,"'Jerusalem the golden', which HCH prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+HCH,411,At the Name of Jesus,no match,"'At the feet of Jesus', another text"
+HCH,444,Savior I Follow On,match,"C. S. Robinson's 'Savior, I follow on, guided by Thee'"
+HCH,451,A Pilgrim and a Stranger,no match,"Mary S. B. Dana's 'I'm a pilgrim, and I'm a stranger', not Gerhardt's 'Ich bin ein Gast auf Erden'"
+HCH,454,God Save Our Gracious Queen,match,"the British national anthem, 'God save our gracious King'"
+HCH,457,Great God We Praise Thy Gracious Care,match,"the same hymn as TLHy 568, 'O God' for 'Great God'"
+HCH,87,From Heaven Above to Earth I Come,match,"Luther's 'Vom Himmel hoch' in another translation, 'Good news from heav'n to earth I bear'"
+HCH,94,Thy Little Ones Dear Lord Are We,match,Brorson's 'Her kommer dine arme Smaa' in another translation
+HCH,137,Over Kedron Jesus Treadeth,match,Thomas Kingo's 'Over Kedron Jesus træder' in another translation
+HCH,173,"Rise, Hero bold, from Golgotha!",match,"the same Danish hymn as ALH 246 in another translation, 'from Calvary'"
+HCH,247,"Jesus, I long for Thy blessed communion",match,"Brorson's 'Jesus, din søde Forening at smage' in another translation"
+HCH,386,The peace of God protects our hearts,match,the same Danish hymn as ALH 134 in another translation
+HCH,389,"Behold a Host, Arrayed in White",match,Brorson's 'Den store hvide Flok' in another translation
+HS91,703,The Lord is My Light,no match,"HS91's Psalm 27 setting 'The Lord is my light and my help', not this hymn"
+HS91,706a,Sing a New Song to the Lord,no match,"HS91's psalm setting 'O sing a new song to the Lord', not Timothy Dudley-Smith's hymn"
+HS91,706b,Sing a New Song to the Lord,no match,"HS91's psalm setting 'O sing a new song to the Lord', not Timothy Dudley-Smith's hymn"
+HS91,708,Thanks be to God!,no match,"'Thanks be to God, O give him praise' (tune DANKET DEM HERREN), another text"
+HS91,710,"Thank the Lord, for he is good",no match,"HS91's psalm setting 'Give thanks to the Lord for he is good', not WS69 773"
+HS91,719,Sanctus,match,"a setting of the liturgical Sanctus, as ELW 189-193"
+HS91,719,"Holy, Holy, Holy Lord",no match,"the liturgical Sanctus (the row 'Sanctus'), not Christopher Wordsworth's hymn"
+HS91,720,"O Lamb of God, you take away the sin of the world",match,"a setting of the liturgical Agnus Dei, as ELW 194-198 and ACS 960"
+HS91,720,Lamb of God,no match,"the liturgical Agnus Dei, not this CW'21 hymn"
+HS91,720,"Your Only Son, No Sin To Hide",no match,"the liturgical Agnus Dei, not Twila Paris's 'Lamb of God'"
+HS91,726,Prepare the Way,no match,"Taizé's 'Prepare the way of the Lord' (tune Wait for the Lord), not Franzén's hymn"
+HS91,749,"Come, Holy Spirit",no match,"'Veni, Sancte Spiritus' (the row 'Come Holy Ghost in Love'), not ACS's short songs"
+HS91,749,"Come, Holy Spirit, fill the hearts",no match,"'Veni, Sancte Spiritus' (the row 'Come Holy Ghost in Love'), not the Pentecost antiphon"
+HS91,749,Come Holy Ghost in Love,match,"'Veni, Sancte Spiritus' in another translation, 'Come, Holy Spirit, from heaven shine forth'"
+HS91,761,"Jesus said, I am the bread",match,"the same song as ELW 477 (tune LIVING GOD), 'He has said: I am the Bread'"
+HS91,774,As when a shepherd calls his sheep,match,"the same hymn as ELW 484 (tune BICENTENNIAL), 'the shepherd'"
+HS91,777,God Is Here! As We Your People,match,Fred Pratt Green's 'God is here! As we his people' (tune ABBOT'S LEIGH)
+HS91,778,Here in this place the new light is streaming,match,"Marty Haugen's 'Gather Us In', as ELW 532"
+HS91,785,O gracious Light,no match,"F. Bland Tucker's metrical Phos hilaron 'O gracious Light, Lord Jesus Christ' (tune CONDITOR ALME SIDERUM), not ELW's canticle setting"
+HS91,793,"O Lord, Hear My Prayer",match,"Taizé's 'O Lord, hear my prayer'"
+HS91,811,What does the Lord require of you?,no match,"Albert Bayly's 'What does the Lord require' (tune SHARPTHORNE), not Jim Strathdee's song (ACS 1057)"
+HS91,830,O Sing to the Lord,match,"the Brazilian 'Cantai ao Senhor' in Spanish and English (tune CANTAD AL SEÑOR), as ELW 822"
+HS91,830,Ye Lands to the Lord Make a Jubilant Noise,no match,"'Cantad al Señor' (the row 'O Sing to the Lord'), not this Psalm 100 hymn"
+HS91,831,God of the sparrow God of the whale,match,"Jaroslav Vajda's 'God of the sparrow' (tune ROEDER), as ELW 740"
+HS91,834,Sing Praise to the Lord,match,Henry W. Baker's 'O praise ye the Lord! praise him in the height' in its modern form 'Sing praise to the Lord!' (tune LAUDATE DOMINUM)
+HS91,714,Kyrie eleison,no match,"the liturgical Kyrie, in the row 'Lord, Have Mercy' with ELW's settings; ACS 1073 is the Haitian Kyrie"
+HS91,715,"Lord, Have Mercy",match,"a setting of the liturgical Kyrie ('Kyrie, Kyrie, eleison'), as HS91 714 and ELW 151-158"
+SBH,32,He is Arisen! Glorious Word,no match,"'Rejoice, rejoice this happy morn' (the row of that title); LW 520 alone ties the two hymns"
+SBH,39,"Now Sing We, Now Rejoice",match,"'In dulci jubilo' in Neale's 'Good Christian men, rejoice', the row's 'Good Christian Friends Rejoice'"
+SBH,39,"Good Christian Friends, Rejoice and Sing",no match,"Neale's Christmas 'Good Christian men, rejoice' (tune IN DULCI JUBILO), not the Easter hymn"
+SBH,103,Now All the Vault of Heaven Resounds,match,"Paul Z. Strodach's hymn (tune LASST UNS ERFREUEN), 'Now let the vault of heaven resound'"
+SBH,108,Alleluia! Alleluia!,match,"Christopher Wordsworth's 'Alleluia! Alleluia! Hearts to heaven', with CSB 116's tune LUX EOI"
+SBH,108,"Alleluia, alleluia",no match,"Christopher Wordsworth's hymn (the row 'Alleluia! Alleluia!'), not ELW's gospel acclamation"
+SBH,133a,"O Blessed Light, O Trinity",match,'O lux beata Trinitas' as 'O Trinity of blessed light'
+SBH,133b,"O Blessed Light, O Trinity",match,'O lux beata Trinitas' as 'O Trinity of blessed light'
+SBH,133c,"O Blessed Light, O Trinity",match,'O lux beata Trinitas' as 'O Trinity of blessed light'
+SBH,135,"Holy, Holy, Holy Lord",match,"Christopher Wordsworth's 'Holy, holy, holy Lord, God of Hosts', with CSB 159's tune ST. ATHANASIUS"
+SBH,135,Sanctus,no match,"Christopher Wordsworth's hymn (the row 'Holy, Holy, Holy Lord'), not the liturgical Sanctus"
+SBH,151,Built on the Rock,match,"Grundtvig's 'Kirken den er et gammelt Hus', 'Built on a rock the church doth stand'"
+SBH,161,Before Jehovah's Awefull Throne,match,Isaac Watts's hymn ('aweful')
+SBH,180,"Arise, my soul, arise!",match,"the Finnish 'Nyt ylös, sieluni' (tune SUOMI), 'Arise, my soul, arise! Stretch forth to things eternal', as ELW 827"
+SBH,180,Arise My Soul Arise,no match,"the Finnish 'Nyt ylös, sieluni' (the row 'Arise, my soul, arise!'), not Charles Wesley's hymn"
+SBH,232,At Even when the Sun did Set,match,"Henry Twells's hymn, 'At even when the sun was set'"
+SBH,249a,"Come, all you people",no match,"'Come, all ye people, come away' (tune FESTAL DAY), not ELW's 'Uyai mose'"
+SBH,249b,"Come, all you people",no match,"'Come, all ye people, come away' (tune MELCOMBE), not ELW's 'Uyai mose'"
+SBH,272,"Thee We Adore, O Hidden Savior",match,"'Adoro te devote' with its tune, 'Thee we adore, O hidden Saviour, thee'"
+SBH,333,A Multitude Comes from the East and the West,match,the Norwegian 'Der mange skal komme fra øst og fra vest' as 'Full many shall come from the east and the west'
+SBH,378,"Search me, O God, and know my heart",no match,"'Search me, God, and know my heart' (tune WENNERBERG), another text than ACS 1076"
+SBH,378,"Search me, O God, and know my heart today",no match,"'Search me, God, and know my heart' (tune WENNERBERG), not J. Edwin Orr's song"
+SBH,423,"O sing, all ye lands, with a jubilant voice",match,"the same hymn as AH 199, 'with jubilant voice'"
+SBH,433,Thou didst leave Thy throne and Thy kingly crown,match,"Emily Elliott's hymn (tune MARGARET), as AH 31 and CSB 541"
+SBH,449,How Marvelous God's Greatness,match,the Swedish 'Den blomstertid nu kommer' hymn as LBW 515 has it; 'marvellous'
+SBH,471,"Come now, O traveler unknown",match,"Charles Wesley's 'Come, O thou Traveller unknown', as HS91 786"
+SBH,482,Beneath the Cross of Jesus,match,Elizabeth Clephane's 'Beneath the cross of Jesus I fain would take my stand' (tune ST. CHRISTOPHER)
+SBH,482,Beneath the Cross,no match,"Elizabeth Clephane's hymn (the row 'Beneath the Cross of Jesus'), not the Gettys' 'Beneath the Cross'"
+SBH,498,"Hark, hark, my soul! angelic songs",match,"F. W. Faber's 'Hark! hark, my soul! angelic songs are swelling', as TLHy 607"
+SBH,523a,Lead kindly Light,match,"John Henry Newman's 'Lead, kindly Light, amid the encircling gloom' (tune LUX BENIGNA)"
+SBH,523b,Lead kindly Light,match,"John Henry Newman's 'Lead, kindly Light, amid the encircling gloom' (tune SANDON)"
+SBH,526,The Lord My Shepherd Is,match,"Isaac Watts's 'The Lord my Shepherd is, I shall be well supplied'"
+SBH,563a,All Who Would Valiant Be,match,"John Bunyan's 'He who would valiant be' (tune MONKS GATE), which LBW alters"
+SBH,563b,All Who Would Valiant Be,match,"John Bunyan's 'He who would valiant be' (tune ST. DUNSTAN'S), which LBW alters"
+SBH,582,What God Ordains Is Always Good,match,"Samuel Rodigast's 'Was Gott tut, das ist wohlgetan' (tune WAS GOTT TUT), 'Whate'er our God ordains is right'"
+SBH,601,"Praise the Lord! Praise, O servants of the Lord!",no match,"'Praise ye the Lord, ye servants of the Lord' (tune OLD 124TH), another Psalm 113 than HS91 833"
+SBH,51,O Chief of Cities Bethlehem,match,"Prudentius's 'O sola magnarum urbium' in another translation, 'Earth has many a noble city' (tune STUTTGART)"
+SBH,58,"Alleluia, Song of Gladness",match,"'Alleluia, dulce carmen' in another translation, 'Alleluia, song of sweetness'"
+SBH,156a,"O Little Flock, Fear Not the Foe",match,"'Verzage nicht, du Häuflein klein' in Robert Bridges's version, 'Fear not, thou faithful Christian flock' (tune ASCENDIT DEUS)"
+SBH,156b,"O Little Flock, Fear Not the Foe",match,"'Verzage nicht, du Häuflein klein' in Robert Bridges's version, 'Fear not, thou faithful Christian flock' (tune KOMMT HER ZU MIR)"
+SBH,162,God Himself is Present,match,"Tersteegen's 'Gott ist gegenwärtig' in John Wesley's translation, 'Lo, God is here! let us adore'"
+SBH,211,Now that the Daylight Fills the Sky,match,"'Iam lucis orto sidere' in another translation, 'Now that the daystar glimmers bright'"
+SBH,228,Now Rest Beneath Night's Shadow,match,"Paul Gerhardt's 'Nun ruhen alle Wälder' in Robert Bridges's version, 'The duteous day now closeth' (tune INNSBRUCK)"
+SBH,377,Jesus Sinners Doth Receive,match,"Neumeister's 'Jesus nimmt die Sünder an' in Emma Bevan's translation as she wrote it, 'Sinners Jesus will receive'"
+SBH,460,"O God, My Faithful God",match,"Johann Heermann's 'O Gott, du frommer Gott' ('du Brunnquell guter Gaben') in another translation, 'O God, eternal source', with its tune"
+THOS,31,The Happy Christmas Comes Once More,match,"Grundtvig's 'Det kimer nu til julefest' in another translation, 'Chime, happy Christmas bells, once more'"
+THOS,37,Triumph ye heavens,match,"the same hymn as TLHy 187, 'Triumph, ye heavens! rejoice ye with high adoration!'"
+THOS,55,"Jesus, Savior, precious name",no match,"'Jesus, O precious Name', another text than HCH 112"
+THOS,56,My times are in thy hand,match,"W. F. Lloyd's 'My times are in Thy hand' in the plural, 'Our times are in Thy hand'"
+THOS,84,"O Lord, Throughout These Forty Days",match,"Claudia Hernaman's hymn, 'Lord, Who throughout those forty days'"
+THOS,93,"Suffering Son of Man, be near me",match,the same hymn as CSB 81; 'Suff'ring'
+THOS,99,"O Thou, Who through this Holy Week",match,the same hymn as CSB 89; 'thro''
+THOS,123,The Savior is risen,no match,"'The Saviour is risen light bursts from the tomb', not shown to be ALH 443"
+THOS,128,The Day of Resurrection,match,John of Damascus's hymn (Neale) with its second line
+THOS,143,Jesus and Shall It Ever Be,match,"Joseph Grigg's hymn, 'O Jesus, shall it ever be'"
+THOS,145,Arise My Soul Arise,match,"Charles Wesley's 'Arise, my soul, arise'"
+THOS,145,"Arise, my soul, arise!",no match,"Charles Wesley's hymn (the row 'Arise My Soul Arise'), not the Finnish 'Nyt ylös, sieluni'"
+THOS,147,"See, the Lord Ascends in Triumph",match,"Christopher Wordsworth's 'See, the Conqueror mounts in triumph', the row's other title"
+THOS,159,"Come, Holy Spirit",no match,"'Come, Holy Spirit, from above', another text than ACS's short songs"
+THOS,159,"Come, Holy Spirit, fill the hearts",no match,"'Come, Holy Spirit, from above', not the Pentecost antiphon"
+THOS,165,"Holy, Holy, Holy Lord",match,"Christopher Wordsworth's 'Holy, holy, holy Lord, God of Hosts' (THOS's Trinity hymns)"
+THOS,165,Sanctus,no match,"Christopher Wordsworth's hymn (the row 'Holy, Holy, Holy Lord'), not the liturgical Sanctus"
+THOS,194,How Blest Are They,no match,"'How blest are they who through the pow'r', another text than CW'93 607"
+THOS,196,We may not climb the heav'nly steeps,match,"John Greenleaf Whittier's hymn, as HCH 408, 'We need not climb'"
+THOS,209,What are these in bright array,match,"James Montgomery's 'What are these in bright array', 'Who are these'"
+THOS,227,"O Father, Thou who hast created all",match,"the same hymn as TLHy 143, 'Father, who hast created all'"
+THOS,232,Let the Children Come to Me,no match,"'""O let the children come to Me""' (THOS, 1925), not this recent hymn"
+THOS,251,"Blessed Savior, Who hast Taught Me",match,"John Rawson's hymn, 'Blessed Saviour, Thou hast taught me'"
+THOS,268,"Abide, O Dearest Jesus",no match,"'Abide with us, O Saviour dear' is long meter, not Stegmann's 7.6.7.6 'Ach bleib mit deiner Gnade'"
+THOS,269,On the mountain top appearing,match,"Thomas Kelly's 'On the mountain's top appearing', as ELHal 195"
+THOS,291,O Bless the Lord My Soul,no match,"'O bless the Lord, my soul!': Watts's or Montgomery's Psalm 103; put with CSB 299 and ELHal 363, which are the same unknown"
+THOS,291,"O Bless the Lord, My Soul",no match,"'O bless the Lord, my soul!': Watts's or Montgomery's Psalm 103; put with CSB 299 and ELHal 363, which are the same unknown"
+THOS,291,"O bless the Lord, my soul!",match,"'O bless the Lord, my soul!', Watts's or Montgomery's Psalm 103, as CSB 299 and ELHal 363; Hymnary's table doesn't tell which"
+THOS,300,All Glory Be to God on High,no match,"'All glory be to Thee, Most High', not shown to be Decius's 'Allein Gott in der Höh'"
+THOS,300,Glory be to God most high,no match,"'All glory be to Thee, Most High', another text than ELHB 583"
+THOS,308,Safely Through Another Week,match,John Newton's hymn; 'thro''
+THOS,337,Sanctus,no match,"'Holy, holy, holy, blessed Lord!', a hymn, not the liturgical Sanctus"
+THOS,339,My God How Wonderful Thou Art,match,"F. W. Faber's hymn, 'O God, how wonderful Thou art'"
+THOS,350,"Sweet hour of pray’r, sweet hour of pray’r!",match,"William Walford's 'Sweet hour of prayer', as AH 190"
+THOS,409,Lord We Confess Our Numerous Faults,match,Isaac Watts's hymn; 'num'rous'
+THOS,449,"Draw me, O Lord, to Thee on high",no match,"'Draw me, O Lord, to Thee!', not shown to be HCH 176"
+THOS,505,"Jesus, my Lord, how rich Thy grace",match,"Philip Doddridge's hymn, 'Jesus, our Lord'"
+THOS,523,Come unto me when shadows,match,"the same hymn as TLHy 517, 'Come unto Me, when shadows darkly gather'"
+THOS,536,"Thou, who a tender Parent art",match,"the same hymn as ELHal 346, 'Thou who a tender Father art'"
+THOS,622,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden', which THOS prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+THOS,622,For Thee O Dear Dear Country,no match,"'Jerusalem the golden', which THOS prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+THOS,622,The Clouds of Judgment Gather,no match,"'Jerusalem the golden', which THOS prints as its own hymn; ELH 534 alone ties the centos of Bernard's poem"
+THOS,632,I Love to Tell the Story,no match,"Emily Miller's 'I love to hear the story', not Katherine Hankey's"
+THOS,642,O Jesus King of Glory,no match,"'Jesus, King of glory', a children's hymn, not 'O Jesu, König der Herrlichkeit'"
+THOS,660,"We gather, we gather",match,"the same hymn as TLHy 570, 'We gather, we gather, dear Jesus, to bring'"
+THOS,674,Sanctus,match,"the liturgical Sanctus among THOS's chants (670-681), 'Holy, Holy, Holy, Lord God of hosts'"
+THOS,674,"Holy, Holy, Holy Lord",no match,"the liturgical Sanctus among THOS's chants, not Christopher Wordsworth's hymn"
+THOS,679,"Lord, Have Mercy",match,"the liturgical Kyrie among THOS's chants, 'Lord, have mercy upon us'"
+THOS,679,"Lord, Have Mercy on Us",no match,"the liturgical Kyrie, put in the row 'Lord, Have Mercy' with the other hymnals' settings"
+THOS,681,"O Lamb of God, you take away the sin of the world",match,"the liturgical Agnus Dei among THOS's chants, 'O Lamb of God'"
+THOS,681,Lamb of God,no match,"the liturgical Agnus Dei, not this CW'21 hymn"
+THOS,681,"Your Only Son, No Sin To Hide",no match,"the liturgical Agnus Dei, not Twila Paris's 'Lamb of God'"
+THOS,41,The People That in Darkness Sat,match,"John Morison's Isaiah 9 paraphrase as he first wrote it, 'The race that long in darkness pined'"
+THOS,77,Fierce was the wild billow,match,"the same hymn as CSB 48 (Anatolius, Neale), 'Fierce was the billow wild'"
+THOS,465,"Lord, Thee I Love with All My Heart",match,"Martin Schalling's 'Herzlich lieb hab ich dich, o Herr' in another translation, 'O Lord, devoutly love I Thee'"
+THOS,484,If Thou But Trust in God to Guide Thee,match,"Georg Neumark's 'Wer nur den lieben Gott läßt walten' from J. O. Wallin's Swedish (Hymnary), 'Let, O my soul, thy God direct thee'"
+THOS,560,Now Rest Beneath Night's Shadow,match,"Paul Gerhardt's 'Nun ruhen alle Wälder' in another translation, 'The restless day now closeth', as SBH 228 has Bridges's 'The duteous day now closeth'"
+TBW07,1,"We praise Thee, O God",match,"the Te Deum in prose (two pages of the book), as ELHB 571"
+TBW07,8,I'll praise my Maker whilst I've breath,match,"Isaac Watts's Psalm 146, 'while' for 'whilst'"
+TBW07,63,"Hail, holy, holy, holy Lord!",no match,"J. W. Eastburn's 'O holy, holy, holy Lord, Bright in thy deeds', another hymn"
+TBW07,63,"Holy, Holy, Holy Lord",no match,"J. W. Eastburn's 'O holy, holy, holy Lord, Bright in thy deeds', not the hymn of CSB 159"
+TBW07,63,Sanctus,no match,"J. W. Eastburn's 'O holy, holy, holy Lord, Bright in thy deeds', not the liturgical Sanctus"
+TBW07,69,"Holy, Holy, Holy Lord",match,"the row of that title, a Trinity hymn as in CSB 159 and SBH 135"
+TBW07,69,Sanctus,no match,"a Trinity hymn (the row 'Holy, Holy, Holy Lord'), not the liturgical Sanctus"
+TBW07,75,"O bless the Lord, my soul!",match,the hymn of CSB 299 and THOS 291
+TBW07,75,O Bless the Lord My Soul,no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+TBW07,75,"O Bless the Lord, My Soul",no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+TBW07,106,Hark! the Herald Angels Sing,match,"Charles Wesley's hymn, its first line with the refrain"
+TBW07,132,Thou Light of Gentile Nations,match,"Johann Franck's 'Herr Jesu, Licht der Heiden' as Catherine Winkworth's 'Light of the Gentile nations'"
+TBW07,176,Alleluia! Alleluia!,match,"Christopher Wordsworth's 'Alleluia! Alleluia! Hearts to heaven', as CSB 116"
+TBW07,176,"Alleluia, alleluia",no match,"Christopher Wordsworth's hymn (the row 'Alleluia! Alleluia!'), not ELW's gospel acclamation"
+TBW07,198,Savior When in Dust to Thee,match,"Robert Grant's litany, its first line run on"
+TBW07,208,"Son of Man, to Thee I cry",match,"the same hymn as CSB 83, 'Son of God' for 'Son of Man'"
+TBW07,231,Come Holy Spirit Come,match,"Joseph Hart's 'Come, Holy Spirit, come; Let thy bright beams arise'"
+TBW07,231,"Come, Holy Spirit",no match,"Joseph Hart's hymn (the row 'Come Holy Spirit Come'), not ACS's 'Come, Holy Spirit'"
+TBW07,231,"Come, Holy Spirit, fill the hearts",no match,"Joseph Hart's hymn (the row 'Come Holy Spirit Come'), not the antiphon"
+TBW07,289,For All the Saints,match,"William Walsham How's hymn, 'Thy saints' for 'the saints'"
+TBW07,313,According to Thy gracious word,match,"James Montgomery's hymn, its first two lines"
+TBW07,331,O Thou that Hear'st when Sinners Cry,match,"Isaac Watts's Psalm 51, 'O thou who hearest when sinners cry'"
+TBW07,341,"Jesus, Thy Blood and Righteousness",match,Zinzendorf's 'Christi Blut und Gerechtigkeit' (Hymnary's 'Thou' for 'Thy')
+TBW07,352,Children of the heavenly King,match,"John Cennick's hymn, its first line run on"
+TBW07,356,Arise My Soul Arise,match,"Charles Wesley's 'Arise, my soul, arise, Shake off thy guilty fears'"
+TBW07,356,"Arise, my soul, arise!",no match,"Charles Wesley's hymn (the row 'Arise My Soul Arise'), not the Finnish 'Nyt ylös, sieluni'"
+TBW07,408,A charge to keep I have,match,"Charles Wesley's hymn, its first two lines"
+TBW07,413,O Fount of Good for All Your Love,match,"Philip Doddridge's 'Fountain of good, to own thy love'"
+TBW07,440,"Lord, for the mercies of the night",match,"the same hymn as CSB 453, 'this night' for 'the night'"
+TBW07,455,Now from the altar of our hearts,match,John Mason's hymn (Hymnary's 'my hearts')
+TBW07,497,Lamb of God,no match,"Charles Wesley's 'Lamb of God, I look to Thee', another hymn than CW21 403"
+TBW07,497,"Your Only Son, No Sin To Hide",no match,"Charles Wesley's 'Lamb of God, I look to Thee', not Twila Paris's 'Lamb of God'"
+TBW07,501,"I lift my heart to Thee, Savior divine",match,"Charles E. Mudie's hymn, as TLHy 398"
+TBW07,517,Once in the Blest Baptismal Waters,match,"Aemilie Juliane's 'Wer weiß, wie nahe mir mein Ende' in another translation, 'Who knows how near my end may be'"
+TBW07,527,Great King of kings,match,"the same hymn as TLHy 605, 'Great King of kings, why dost thou stay'"
+TBW07,543,For Thee O Dear Dear Country,no match,"'Brief life is here our portion', another cento of Bernard of Cluny's 'Hora novissima' (Neale)"
+TBW07,543,The Clouds of Judgment Gather,no match,"'Brief life is here our portion', another cento of Bernard of Cluny's 'Hora novissima' (Neale)"
+TBW07,545,For Thee O Dear Dear Country,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TBW07,545,The Clouds of Judgment Gather,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TBW07,143,A Lamb Goes Uncomplaining Forth,match,"Paul Gerhardt's 'Ein Lämmlein geht und trägt die Schuld' in another translation, 'A meek and patient Lamb goes forth'"
+TBW07,273,"Mighty Lord, extend Thy kingdom",match,"Joseph Cottle's hymn, which Hymnary lists as 'Mighty Lord, extend thine empire [thy kingdom]'"
+TBW07,476,God the Omnipotent King Who Ordainest,match,"Henry F. Chorley's 'God the All-terrible!', which John Ellerton recast as 'God the Omnipotent!'"
+TBW67,14,"Holy, Holy, Holy Lord",match,"the row of that title, as CSB 159 and SBH 135"
+TBW67,14,Sanctus,no match,"the hymn of the row 'Holy, Holy, Holy Lord', not the liturgical Sanctus"
+TBW67,26,"O bless the Lord, my soul!",match,"the hymn of CSB 299 and THOS 291, 'Oh' for 'O'"
+TBW67,26,O Bless the Lord My Soul,no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+TBW67,26,"O Bless the Lord, My Soul",no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+TBW67,32,"Though troubles assail us, and dangers affright",match,"John Newton's hymn, as AH 589 and THOS 476"
+TBW67,50,"O Come, All Ye Faithful",match,"'Adeste fideles' in another translation, 'Hither, ye faithful, haste with songs of triumph'"
+TBW67,57,"Come, Thou Long-Expected Jesus",match,"Charles Wesley's hymn with the first line some books give it, 'Hail, thou long-expected Jesus'"
+TBW67,58,Calm on the list'ning ear of night,match,"Edmund H. Sears's hymn, as THOS 38"
+TBW67,60,"Zion, the marvelous story be telling",match,"the same hymn as AH 48, 'Sion' for 'Zion'"
+TBW67,67,When Jesus left his Father's throne,match,"James Montgomery's hymn, which Hymnary also lists as 'When Jesus left his Father's [heavenly] throne'"
+TBW67,68,A Mighty Fortress Is Our God,match,"Luther's 'Ein feste Burg' in Thomas Carlyle's translation, 'A safe stronghold our God is still'"
+TBW67,70,"Behold, where in a mortal form",match,"William Enfield's hymn, as CSB 53 and TBW07 134"
+TBW67,155,See Israel's gentle Shepherd stand,match,"Philip Doddridge's hymn, 'stands' for 'stand'"
+TBW67,157,Twas on That Dark That Doleful Night,match,"Isaac Watts's hymn, 'dreadful' for 'dark'"
+TBW67,168,"Our Father dear, who art in heav'n",no match,"Adoniram Judson's Lord's Prayer, 'Our Father God, who art in heaven', another hymn"
+TBW67,168,Our Father Who Art in Heaven—I,no match,"Adoniram Judson's hymn on the Lord's Prayer, not LSB's setting of the prayer"
+TBW67,168,Our Father Who Art in Heaven—IIb,no match,"Adoniram Judson's hymn on the Lord's Prayer, not LSB's setting of the prayer"
+TBW67,248,How happy is the man who hears,match,"Michael Bruce's Proverbs 3 paraphrase, 'O happy is the man who hears'"
+TBW67,262,"Come, ye sinners, poor and needy",match,"Joseph Hart's hymn as he wrote it, 'poor and wretched'"
+TBW67,268,"Come, says Jesus' sacred voice",match,"Anna Laetitia Barbauld's hymn, 'said' for 'says'"
+TBW67,275,"Hasten, O sinner, to be wise",match,"Thomas Scott's hymn, 'Hasten, sinner'"
+TBW67,314,Arise My Soul Arise,match,"Charles Wesley's 'Arise, my soul, arise, Shake off thy guilty fears'"
+TBW67,314,"Arise, my soul, arise!",no match,"Charles Wesley's hymn (the row 'Arise My Soul Arise'), not the Finnish 'Nyt ylös, sieluni'"
+TBW67,348,Jesus Lover of My Soul,match,"Charles Wesley's hymn with 'Saviour' for 'Lover', as Hymnary lists it ('Jesus, Lover [Savior] of my soul')"
+TBW67,362,"Come, Thou Fount of Every Blessing",match,"Robert Robinson's hymn as altered, 'Saviour, source of every blessing' (Hymnary)"
+TBW67,362,"Hail, O Source of Every Blessing",no match,"Robert Robinson's 'Come, thou Fount' as altered (the row 'Come, Thou Fount of Every Blessing'), not Basil Woodd's hymn"
+TBW67,386,"I, the Lord of sea and sky",no match,"Charles Wesley's 'The Lord of earth and sky, The God of ages praise', another hymn"
+TBW67,433,"So fades the lovely, blooming flow'r",match,"Anne Steele's hymn, as ELHal 444"
+TBW67,436,I Would Not Live Alway I Ask Not to Stay,match,William A. Muhlenberg's hymn
+CHPPPW,11,Holy and reverend is the name,match,"John Needham's hymn, as TBW67 23 ('rev'rend')"
+CHPPPW,48,"O bless the Lord, my soul!",match,the hymn of CSB 299 and THOS 291
+CHPPPW,48,O Bless the Lord My Soul,no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+CHPPPW,48,"O Bless the Lord, My Soul",no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+CHPPPW,50,"Father, how wide Thy glory shines!",match,"Isaac Watts's hymn, 'thy glories shine'"
+CHPPPW,69,On Judah's plains as shepherds kept,match,"the same hymn as ELHal 37 (Hymnary credits it to Nahum Tate), 'sat' for 'kept'"
+CHPPPW,74,Give Thanks to God on High,no match,"Isaac Watts's Psalm 136, 'Give thanks to God most high', not Timothy Dudley-Smith's hymn"
+CHPPPW,99,"The Lord of life, with glory crowned",match,the same hymn as ELHal 100 and TBW67 73 ('crown'd')
+CHPPPW,112,Enslaved by Sin and Bound in Chains,match,the same hymn as TLH 141 ('Enslav'd')
+CHPPPW,124,Plunged in a gulf of dark despair,match,"Isaac Watts's hymn, as TBW67 134 ('Plung'd')"
+CHPPPW,159,"Come, trembling sinner! in whose breast",match,"Edmund Jones's hymn as he wrote it, 'Come, humble sinner'"
+CHPPPW,188,O Thou that Hear'st when Sinners Cry,match,"Isaac Watts's Psalm 51, 'O thou that hear'st the sinner's cry'"
+CHPPPW,196,"O Thou, whose mercy hears",match,"Anne Steele's 'O thou whose tender mercy hears', as TBW67 360"
+CHPPPW,211,When Israel Through the Desert Passed,match,"Benjamin Beddome's hymn on the Scriptures, as ELHB 118"
+CHPPPW,220,Father Son and Holy Ghost,no match,"'Come, Father, Son, and Holy Ghost', another hymn"
+CHPPPW,220,"O Father, Son, and Holy Ghost",no match,"'Come, Father, Son, and Holy Ghost', another hymn"
+CHPPPW,220,"To Father, Son, and Holy Ghost",no match,"'Come, Father, Son, and Holy Ghost', another hymn than ELHB's doxology"
+CHPPPW,237,Blest Is the Man Forever Blest,match,Isaac Watts's Psalm 32 ('Bless'd')
+CHPPPW,238,"Indulgent God, to Thee we pray",no match,"'Indulgent God! to thee I raise', another hymn"
+CHPPPW,272,As Pants the Hart for Cooling Streams,match,"Tate and Brady's Psalm 42, 'cooling springs'"
+CHPPPW,280,"O Lord, my best desire fulfil",match,"William Cowper's hymn, which Hymnary also lists as 'Dear Lord, my best desires fulfil'"
+CHPPPW,287,Rejoice in God!,no match,"'Rejoice in God, the word commands', another hymn"
+CHPPPW,336,Father of Mercies in Thy Word,no match,"'Father of mercies, in thy house', another hymn than Anne Steele's"
+CHPPPW,338,Let Zion's watchmen all awake,match,"Philip Doddridge's hymn, 'arise' for 'awake'"
+CHPPPW,353,"Ye men and angels, witness now",match,"Benjamin Beddome's 'Witness, ye men and angels, now', as ELHal 229"
+CHPPPW,390,Through sorrow's night and danger's path,match,"Henry Kirke White's hymn, as TBW67 445 ('Thro'')"
+CHPPPW,236,My Soul Now Magnifies the Lord,match,"a metrical Magnificat among CHPPPW's hymns, as TL 314"
+CHPPPW,236,My soul doth magnify the Lord,no match,"a metrical Magnificat among CHPPPW's hymns (the row 'My Soul Now Magnifies the Lord'), not ELHB 572's prose canticle"
+CHPPPW,236,My soul does magnify the Lord,no match,"a metrical Magnificat among CHPPPW's hymns (the row 'My Soul Now Magnifies the Lord'), not ELW's gospel-style one"
+CHL,10,Glory be to God on high,no match,"Charles Wesley's 'Glory be to God on high, God whose glory fills the sky', not ELHB 568's Gloria in excelsis"
+CHL,11,"Come, sound His praise abroad",match,"Isaac Watts's Psalm 95, its first lines"
+CHL,12,"Holy, Holy, Holy Lord",no match,"William Dodd's 'Holy, holy, holy Lord, be thy glorious name adored' (Hymnary has it on CHL's page 8), not Christopher Wordsworth's hymn",CSB 159
+CHL,12,Sanctus,no match,"William Dodd's 'Holy, holy, holy Lord, be thy glorious name adored', not the liturgical Sanctus"
+CHL,13,"Begin my soul, th' exalted lay",match,"John Ogilvie's Psalm 148, as TBW67 42"
+CHL,22,"O bless the Lord, my soul!",match,the hymn of CSB 299 and THOS 291
+CHL,22,O Bless the Lord My Soul,no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+CHL,22,"O Bless the Lord, My Soul",no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+CHL,37,"Lord, thou hast search'd and seen me through",match,"Isaac Watts's Psalm 139, as CHPPPW 8"
+CHL,54,Sweet is the mem'ry of thy grace,match,"Isaac Watts's Psalm 145, as CHPPPW 15"
+CHL,56,"My soul, repeat His praise",match,"Isaac Watts's Psalm 103, its first lines"
+CHL,90,The Lord My Pasture Shall Prepare,match,"Joseph Addison's hymn, its first lines"
+CHL,96,On Judah's plains as shepherds kept,match,the same hymn as ELHal 37 and CHPPPW 69 ('sat')
+CHL,109,"To thee, O God! my pray'r ascends",match,the same hymn as CHPPPW 192
+CHL,118,"All glorious God, what hymns of praise",match,"the same hymn as TBW67 101, its first line cut short"
+CHL,120,One There Is Above All Others,match,"John Newton's hymn, its first lines"
+CHL,122,"Come, says Jesus' sacred voice",match,Anna Laetitia Barbauld's hymn ('saith')
+CHL,123,Let every ear attend,match,"Isaac Watts's hymn, its first lines"
+CHL,126,The Savior Calls Let Every Ear,match,"Anne Steele's hymn, its first line"
+CHL,143,"Come, Let Us Join Our Cheerful Songs",match,"Isaac Watts's hymn, its first lines"
+CHL,148,Alas! And Did My Savior Bleed,match,"Isaac Watts's hymn, its first lines"
+CHL,162,"Yes, the Redeemer rose",match,"the same hymn as CHPPPW 97, its first lines"
+CHL,171,Where high the heavenly temple stands,match,"Michael Bruce's paraphrase, 'While' for 'Where'"
+CHL,172,Rejoice the Lord is King,match,"Charles Wesley's hymn, its first lines"
+CHL,180,Great God! the nations of the earth,match,"the same hymn as CHPPPW 316, its first lines"
+CHL,182,"O Zion, tune thy voice",match,"Philip Doddridge's hymn, its first lines"
+CHL,185,"Come, Holy Spirit, heavenly Dove",match,"Isaac Watts's hymn, its first lines"
+CHL,185,"Come, Holy Spirit",no match,"Isaac Watts's 'Come, Holy Spirit, heavenly Dove' (the row of that title), not ACS's hymn"
+CHL,185,"Come, Holy Spirit, fill the hearts",no match,"Isaac Watts's 'Come, Holy Spirit, heavenly Dove' (the row of that title), not the antiphon"
+CHL,188,To God the only wise,match,"Isaac Watts's hymn, its first lines"
+CHL,190,Forever blessed be the Lord,match,"the same hymn as CHPPPW 134, its first lines"
+CHL,203,"Let av'rice, borne from shore to shore",match,the same hymn as CHPPPW 209
+CHL,207,A glory gilds the sacred page,match,"William Cowper's hymn, 'What glory' as many books have it"
+CHL,214,Father of all! whose care extends,match,the same hymn as TBW67 237 ('cares')
+CHL,216,Father of mercies! God of Love!,match,"the same hymn as CHPPPW 191 and TBW07 19, its first lines"
+CHL,227,Sinners! the voice of God regard,match,the same hymn as CHPPPW 172 ('Sinner')
+CHL,234,The Man is Ever Blessed,match,"Isaac Watts's Psalm 1, 'The man is ever blest Who shuns the sinner's ways'"
+CHL,242,"Oppress'd with guilt, or grief, or care",match,the same hymn as CHPPPW 198
+CHL,250,"On Thee, great Ruler of the skies",no match,"James Merrick's 'O turn, great Ruler of the skies', another hymn"
+CHL,258,"Come, We That Love the Lord",match,"Isaac Watts's hymn, its first lines"
+CHL,262,Not all the nobles of the earth,match,"the same hymn as CHPPPW 240, its first lines"
+CHL,265,Oh happy soul that lives on high,match,"Isaac Watts's hymn, its first lines"
+CHL,284,Blest are the undefil'd in heart,match,"Isaac Watts's Psalm 119, as CHPPPW 156"
+CHL,285,"Bless'd are the humble souls, who see",match,"Isaac Watts's hymn, as CHPPPW 155"
+CHL,302,When darkness long has veil'd my mind,match,"William Cowper's hymn, as CHPPPW 291"
+CHL,312,"Our Father, thron'd above the sky",match,the same hymn as CHPPPW 265
+CHL,318,"My Father, cheering name",match,"the same hymn as ELHB 519, its first lines"
+CHL,319,"O Lord, my best desire fulfil",match,William Cowper's hymn
+CHL,335,My God! permit me not to be,match,"Isaac Watts's hymn, its first lines"
+CHL,341,Blest is the man whose heart expands,no match,"Isaac Watts's 'Blest is the man whose heart is kind', another hymn"
+CHL,352,Blest Be the Tie that Binds,match,"John Fawcett's hymn, its first lines"
+CHL,355,"Father of all, Thy care we bless",match,"Philip Doddridge's hymn, which some books begin 'Father of men'"
+CHL,363,Lord of the Worlds Above,match,"Isaac Watts's Psalm 84, its first lines"
+CHL,374,How oft the day of God returns,match,"Simon Browne's 'Frequent the day of God returns', which ELHal 308 alters"
+CHL,375,Sweet Is the Work My God My King,match,Isaac Watts's Psalm 92
+CHL,376,This Is the Day the Lord Has Made,match,"Isaac Watts's Psalm 118, its first lines"
+CHL,382,"""Proclaim,"" said Christ, God's wondrous grace",match,"the same hymn as CHPPPW 219 ('saith Christ, my wondrous grace')"
+CHL,384,See Israel's gentle Shepherd stand,match,Philip Doddridge's hymn
+CHL,391,Ye foll'wers of the Prince of peace,match,the same hymn as CHPPPW 225
+CHL,397,"Pity the nations, O our God!",match,"the same hymn as TBW67 387, its first lines"
+CHL,414,In vain opposing nations rage,match,"the same hymn as CHPPPW 439, its first lines"
+CHL,437,"My soul, the awful hour will come",match,"the same hymn as CHPPPW 432, its first lines"
+CHL,443,The God of Love,no match,"'The God of love will sure indulge', another hymn"
+CHL,445,When blooming youth is snatch'd away,match,"Anne Steele's hymn, as CHPPPW 380"
+CHL,463,"The darken'd sky, how thick it low'rs!",match,the same hymn as CHPPPW 305
+CHL,472,Hark! from the tombs a doleful sound,match,Isaac Watts's hymn ('tomb')
+CHL,474,"Thee we adore, eternal Name!",match,"Isaac Watts's hymn, its first lines"
+CHL,481,The morning flow'rs display their sweets,match,"Samuel Wesley's hymn, as CHPPPW 371"
+CHL,500,Heav'n has confirm'd the great decree,match,the same hymn as CHPPPW 401
+CHL,515,Not to the terrors of the Lord,match,"Isaac Watts's hymn, its first lines"
+CHL,516,"Come, Lord, and warm each languid heart",match,"Anne Steele's hymn, its first lines"
+CHL,518,There is a land of pure delight,match,"Isaac Watts's hymn, its first lines"
+CHL,535,Sovereign Ruler of the skies,match,John Ryland's hymn ('Sov'reign')
+CHL,558,The Lord shall come! the earth shall quake,match,"Reginald Heber's hymn, 'will' for 'shall'"
+CHL,655,"Lord, when before Thy throne we meet",no match,"'When before thy throne we kneel', another hymn"
+CHL,664,The day is past and gone,match,John Leland's hymn ('pass'd')
+CHL,682,How blest the righteous when he dies!,match,Anna Laetitia Barbauld's hymn ('bless'd')
+CHL,685,As when the weary traveler gains,match,John Newton's hymn ('trav'ller')
+CHL,7,I'll praise my Maker whilst I've breath,match,"Isaac Watts's Psalm 146 as he wrote it, 'with my breath'"
+CHL,33,"All-pow'rful, self-existent God",match,"the same hymn as CHPPPW 6, its first lines"
+CHL,142,’Tis finished! so the Savior cried,match,"Samuel Stennett's hymn, its first lines"
+CHL,132,God of Mercy God of Grace,no match,"'God of mercy, God of love, Hear our sad repentant songs', as CHL words it; the row already has CHL 245, 'God of mercy! God of grace!'"
+TCSSH,14,"Holy, Holy, Holy Lord",match,"the row of that title, as CSB 159 and SBH 135"
+TCSSH,14,"Holy, holy, holy Lord",no match,"the hymn of the row 'Holy, Holy, Holy Lord' (CSB 159, SBH 135), not CHL 12's William Dodd hymn"
+TCSSH,14,Sanctus,no match,"the hymn of the row 'Holy, Holy, Holy Lord', not the liturgical Sanctus"
+TCSSH,41,For a season called to part,match,John Newton's hymn ('call'd')
+TCSSH,45,"O bless the Lord, my soul!",match,the hymn of CSB 299 and THOS 291
+TCSSH,45,O Bless the Lord My Soul,no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+TCSSH,45,"O Bless the Lord, My Soul",no match,"the hymn of CSB 299 and THOS 291 (the row 'O bless the Lord, my soul!')"
+TCSSH,47,Father Son and Holy Ghost,no match,"'Hail, Father, Son, and Holy Ghost', another hymn"
+TCSSH,47,"O Father, Son, and Holy Ghost",no match,"'Hail, Father, Son, and Holy Ghost', another hymn"
+TCSSH,47,"To Father, Son, and Holy Ghost",no match,"'Hail, Father, Son, and Holy Ghost', another hymn than the doxology"
+TCSSH,48,Heaven and earth and sea and air,match,"Joachim Neander's 'Himmel, Erde, Luft und Meer', its first line cut short ('Heaven and earth, and air')"
+TCSSH,56,Arise My Soul Arise,match,"Charles Wesley's 'Arise, my soul, arise, Shake off thy guilty fears'"
+TCSSH,56,"Arise, my soul, arise!",no match,"Charles Wesley's hymn (the row 'Arise My Soul Arise'), not the Finnish 'Nyt ylös, sieluni'"
+TCSSH,94,There is a Fountain Filled with Blood,match,William Cowper's hymn ('fill'd')
+TCSSH,96,Glory Be to Jesus,match,"Edward Caswall's translation of 'Viva! viva! Gesù', its first lines"
+TCSSH,110,Christ is Risen Alleluia,match,"John S. B. Monsell's hymn, 'Hallelujah' for 'Alleluia'"
+TCSSH,115,"Christ Is Risen, Christ Is Living",no match,"'Christ is risen, Christ is risen!', another hymn than the Argentine one"
+TCSSH,122,Hail the Day that Sees Him Rise,match,"Charles Wesley's hymn as he wrote it, 'saw'"
+TCSSH,194,Lamb of God,no match,"'Lamb of God, who once wast slain', another hymn than CW21 403"
+TCSSH,194,"Your Only Son, No Sin To Hide",no match,"'Lamb of God, who once wast slain', not Twila Paris's 'Lamb of God'"
+TCSSH,314,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TCSSH,314,For Thee O Dear Dear Country,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TCSSH,314,The Clouds of Judgment Gather,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TCH,11,"Sweet hour of pray’r, sweet hour of pray’r!",match,"William W. Walford's hymn, its first words"
+TCH,12,"Thee, God, we praise, Thy holy name we bless",match,"the hymn of AH 202, which has its tune FINLANDIA, as the index's '(Finlandia)' says"
+TCH,12,Thee God We Praise Thy Name We Bless,no match,"the 'Thee God we praise' TCH sets to FINLANDIA, 'Thy holy name we bless' (AH 202), not this long-metre hymn"
+TCH,16,Thee God We Praise Thy Name We Bless,match,"the long-metre 'Thee, God, we praise, Thy name we bless' (TLHy 1), which the index sets to OLD HUNDREDTH"
+TCH,16,"Thee, God, we praise, Thy holy name we bless",no match,"the 'Thee God we praise' TCH sets to OLD HUNDREDTH (TLHy 1), not AH 202's FINLANDIA hymn"
+TCH,17,Praise to the Father for His Lovingkindness,match,Elizabeth R. Charles's 'Praise ye the Father for His loving kindness' (Hymnary's first line for TCH)
+TCH,22,Blessing and Honor and Glory and Power,match,"Horatius Bonar's hymn, its first words"
+TCH,43,"With God and His mercy, His Spirit, and word",match,"the hymn of AH 240 and THOS 272, as Hymnary gives TCH's first line"
+TCH,61,"Father Almighty, darkness now is deep'ning",match,the same hymn as HCH 52 ('deepening')
+TCH,86,"Lord, Keep Us Steadfast in Your Word",match,"Luther's 'Erhalt uns, Herr, bei deinem Wort', its first words"
+TCH,176,A way to Calv’ry leadeth,match,the same hymn as AH 94 ('Calvary')
+TCH,201,Stay with Us,no match,"'Stay with us, Lord, the day is dying', an older hymn than the one LSB 879 and WOV 743 print"
+TCH,214,"Thou art the Way, the Truth, the Life from heaven",match,"the hymn of AH 200 and THOS 428, as Hymnary gives TCH's first line"
+TCH,216,"My Jesus, I love Thee, I know Thou art mine",match,"William R. Featherston's hymn, its first words"
+TCH,279,Lord Hear the Voice of My Complaint,no match,"'Lord Jesus Christ, I flee to Thee', another hymn than Agricola's 'Lord Jesus Christ, I call to Thee'"
+TCH,279,Lord Jesus Christ,no match,"'Lord Jesus Christ, I flee to Thee', another hymn than ACS 1019",ACS 1019
+TCH,279,Lord Jesus Christ,no match,"'Lord Jesus Christ, I flee to Thee'; HCH 119's line is cut short at 'Lord Jesus Christ', so nothing ties the two",HCH 119
+TCH,293,"Love, the fount of light from heaven",match,"'Kærlighed er lysets kilde', as TLHy 448 ('life' for 'light')"
+TCH,308,I saw Him in childhood with eyes brightly beaming,match,"the same hymn as HCH 405, its first words"
+TCH,419,Asleep in Jesus Blessed Sleep,match,"Margaret Mackay's hymn, its first words (set to 'Lord Jesus Christ, be present now')"
+TCH,421,Asleep in Jesus Blessed Sleep,match,"Margaret Mackay's hymn, its first words (set to OLE BULL)"
+TCH,431,Brief Life Is Here Our Portion,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TCH,431,For Thee O Dear Dear Country,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TCH,431,The Clouds of Judgment Gather,no match,"'Jerusalem the golden' (the row of that title), another cento of 'Hora novissima'"
+TCH,20,"We praise Thee, O God",no match,"Hymnary gives TCH's hymn as 'We praise Thee, O God, our Redeemer, Creator', not the Te Deum"
+TCH,20,We Praise Thee O God Our Redeemer Creator,match,"Julia Cady Cory's hymn, as Hymnary gives TCH's first line"
+TCH,232,Sanctus,no match,"Reginald Heber's 'Holy, holy, holy! Lord God Almighty' (Hymnary's first line for TCH), not the liturgical Sanctus"
+TCH,232,"Holy, Holy, Holy, Lord God Almighty",match,"Reginald Heber's hymn, its first words (Hymnary's first line for TCH)"
+TCH,251,“Almost persuaded” Now to believe,match,"P. P. Bliss's hymn, its first words (set to ST. EDMUND)"
+TCH,256,“Almost persuaded” Now to believe,match,"P. P. Bliss's hymn, its first words"
+TCH,369,I am so Glad When Christmas Comes,match,"Marie Wexelsen's 'Jeg er saa glad hver Julekveld' in another translation, as the row's 'I Am So Glad Each Christmas Eve'"
+LH,23,We Praise Thee O God Our Redeemer Creator,no match,"Julia Cady Cory's hymn, which only opens like the Te Deum; LH 23 is the Te Deum"
+LH,23,Te Deum laudamus,match,"the Te Deum: LH gives the Latin, with the Book of Common Prayer's English"
+LH,23,"We praise Thee, O God",match,"the Te Deum in English prose (ELHB 571, TBW07 1, ELW 227, 228), the row beside 'Te Deum laudamus'; LH 23 gives the Latin with the Book of Common Prayer's English, so it is on both",ELHB 571
+LH,26,Hark! A Thrilling Voice is Sounding,match,"'Vox clara ecce intonat' (LH gives it amended, 'Vox ecce clara personat'), in J. D. Chambers's translation; the row's is Edward Caswall's"
+LH,40,O Christ Our King Creator Lord,match,"Gregory the Great's 'Rex Christe, factor omnium', in W. J. Copeland's translation; the row's is Ray Palmer's"
+LH,51,"O Blessed Light, O Trinity",no match,"'O Lux beata Trinitas, tres unum, trium unio', a 13th-century Trinity hymn, not Ambrose's 'O Lux beata Trinitas, et principalis unitas' (LH 50)"
+LH,91,"All Glory, Laud, and Honor",match,"Theodulph of Orleans's 'Gloria, laus et honor', in M. Carver's translation"
+LH,95,"Grant Peace, We Pray, in Mercy, Lord",match,"LH 95, Wolfgang Ammonius's Latin of Luther's 'Erhalt uns, Herr', ends with his 'Pacem tuam te poscimus', Luther's 'Verleih uns Frieden'"
+LH,102,This Is the Day the Lord Has Made,no match,"'Hæc est dies', the Easter chant on Psalm 118:24 in the Authorized Version's words, not Isaac Watts's hymn"
+LH,102,This is the day which the Lord hath giv'n,no match,"'Hæc est dies', the Easter chant on Psalm 118:24 in the Authorized Version's words, not this hymn"
+LH,113,He Whom Shepherds Once Came Praising,match,"'Nunc angelorum gloria', the Quempas's second part, which the row has as WS69 718b ('The glorious angels came today'); with 114, as in CORE_HYMNS"
+LH,114,He Whom Shepherds Once Came Praising,match,"'Quem pastores laudavere', the row's hymn (LW 54, LBW 68)"
+LH,114,He Whose Praise the Shepherds Sounded,match,"'Quem pastores laudavere' in Michael D. Schultz's translation (CW21 351; Hymnary.org), on a row of its own beside the Quempas row, which has 113 and 114"
+LH,83,"Lord God, to Thee We Give All Praise",match,"Philip Melanchthon's 'Dicimus grates tibi, summe rerum', which Paul Eber's 'Herr Gott, dich loben alle wir' (KELG 156) puts into German"
+LH,108,Now Hail the Day So Rich in Cheer,match,"'Dies est lætitiæ', whose 15th-century German is the row's 'Der Tag, der ist so freudenreich' (KELG 17), as in CORE_HYMNS; LH's English is J. M. Neale's"
+LH,33,"Christ, everlasting Source of light",match,"'Christe, qui lux es et dies' in its German, 'Christe, der du bist Tag und Licht' (KELG 313), on a row of its own beside the Latin's"
+LH,48,"Come, God, Creator, Holy Ghost",match,"'Veni, Creator Spiritus' in Luther's German, 'Komm, Gott Schöpfer, Heiliger Geist' (KELG 132), on a row of its own beside the Latin's"
+LH,30,"Why, Herod, unrelenting foe",match,"'Hostis Herodes impie' in Luther's German, 'Was fürchtst du, Feind Herodes, sehr' (KELG 60), on a row of its own beside the Latin's"
