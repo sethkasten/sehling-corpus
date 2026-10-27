@@ -516,11 +516,53 @@ L += [
  ('Fröhlich soll mein Herze springen', [r'fro\S*hlich soll mein herze'],
   'Joyfully shall my heart leap', 'All My Heart This Night Rejoices', None),
 ]
+# ---- The Sunday lists of Naumburg 1537/38, Nördlingen 1544/1555 and 1579, Anhalt 1551, Pirna
+# and Mansfeld 1580: spellings and abbreviations of hymns above that their patterns miss, and
+# the hymns these lists add.
+def _also(canon, *pats):
+    """More patterns for a hymn already in L, with its English titles."""
+    lit, com = next((lit, com) for c, _p, lit, com, _a in L if c == canon)
+    return (canon, list(pats), lit, com, None)
+
+L += [
+ _also('Dies sind die heilgen zehn Gebot', r'^die zehen gebot'),
+ _also('Fröhlich wolln wir Halleluja singen', r'^fro?h?lich wol+e?n? wir$'),
+ _also('Nun bitten wir den Heiligen Geist', r'^nu[n]? [bp]itten wir de[mn]\b'),
+ _also('Es wolle Gott uns gnädig sein', r'^es wol+[te]? uns go[dt]+'),
+ _also('Vergebens ist all Müh und Kost', r'^ver?geb(lich|ens) ist'),
+ _also('Nun freut euch, lieben Christen gmein', r'^nun? fr[eo]u[ew]?e?t euch,? lieben?\b'),
+ _also('Nun freut euch, Gottes Kinder, all', r'nu[n]? freu?e?t euch,? gottes kinder'),
+ _also('Ich ruf zu dir, Herr Jesu Christ', r'^ich ru[e]?f[e]? zu[e]? dir'),
+ _also('Aus tiefer Not schrei ich zu dir', r'^aus t[iu]e?fer no'),
+ _also('Als Adam im Paradiese', r'als adam i[mn] parad'),
+ ('Wer unter dem Schirm des Höchsten ist', [r'^wer und?ter dem schirm des h'],
+  'Who dwells in the shelter of the Most High', None, None),
+ ('Ach hilf mich Leid und sehnlich Klag', [r'^ach hilf mich leid'],
+  'Ah, help me, grief and yearning lament', None, None),
+ ('O Gott Vater, du hast Gewalt', [r'^o got+,? vater,? due? hast'],
+  'O God the Father, thou hast power', None, None),
+ # Mansfeld's hymn is not Moller's "Nimm von uns, Herr, du treuer Gott" (1584), which is later.
+ # Moller's needs its own entry, or the fuzzy match would join Liliencron's citations of it to
+ # Mansfeld's.
+ ('Nimm von uns, Herr Gott', [r'^nim+ von uns,? herr,? got'],
+  'Take from us, Lord God', None, None),
+ ('Nimm von uns, Herr, du treuer Gott', [r'^nim+ von uns,? herr,? du (ge)?treuer'],
+  'Take from us, Lord, thou faithful God', None, None),
+ ('Des Königs Panier gehet hervor', [r'^des k[oö]nigs pan'],
+  "The King's banner goes forth", 'The Royal Banners Forward Go', None),
+ ('In Gott gelaub ich, dass er hat', [r'^in got+ gl[ae]?[ue]b ich'],
+  'I believe in God, that he has', None, None),
+ ('Gelobet sei der ewige Gott', [r'^gelobet sei der ewige'],
+  'Praised be the eternal God', None, None),
+]
 # Luther's Easter hymn must be tried before his Communion hymn of the same opening, whose
 # pattern would otherwise take it.
 L.insert(0, ('Jesus Christus, unser Heiland, der den Tod überwand',
              [r'jesus christus,? [uv]nse?r? heiland,? der den tod'],
              'Jesus Christ, our Saviour, who overcame death', None, None))
+# and "Als Jesus Christus, unser Herr" before the Communion hymn, whose words it contains
+L.insert(0, ('Als Jesus Christus, unser Herr', [r'^als jesus christus,? unser herr'],
+             'When Jesus Christ our Lord', None, None))
 
 # ---- Matthew Carver's translations ----------------------------------------------------------
 # For hymns with no received English title, the English title of Matthew Carver's translation:

@@ -407,6 +407,7 @@ PERSONS = [
     ('Keuchenthal, Johannes', [r'Keuchenthal']),
     ('Meiland, Jakob', [r'Meiland']),
     ('Stiphelius, Laurentius', [r'Stiphelius']),
+    ('Moller, Martin', [r'Martin Moller']),
     ('Vögelin, Ernst', [r'Vögelin']),
     ('Wert, Giaches de', [r'Wert(?=, for)']),
 ]

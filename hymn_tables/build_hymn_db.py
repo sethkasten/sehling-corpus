@@ -20,7 +20,7 @@ def sort_key(occ):
 
 def main():
     rows = []
-    for fn in ['weissenfels','pommern','latin','german']:
+    for fn in ['weissenfels','pommern','latin','german','sunday']:
         rows += json.load(open(os.path.join(os.path.dirname(OUT), 'hymn_tables', f'rows_{fn}.json')))
 
     if os.path.exists(OUT): os.remove(OUT)
