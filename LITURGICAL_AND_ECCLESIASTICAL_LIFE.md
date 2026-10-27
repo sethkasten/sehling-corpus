@@ -13,6 +13,7 @@
     - [The corpus database (`eko.db`)](#repo-ekodb)
     - [How the chapters were made](#repo-methods)
     - [The hymn database (`hymns.db`)](#repo-hymns)
+    - [The Lutheran Hymn Index (`Hymnal Index/hymnal.db`)](#repo-hymn-index)
     - [The general-prayer workbook and database (`general_prayers.db`)](#repo-prayers)
       - [What counts as the general prayer](#repo-prayers-scope)
       - [Representative texts](#repo-prayers-rules)
@@ -1729,14 +1730,40 @@ sixteenth century without saying which list each hymn came from. Where that colu
 agree, Ludecus may be counted twice.
 
 **Titles.** Each hymn is named by its German or Latin incipit as printed, with a literal English
-rendering. Where the hymn has a received English title, that title is given as well. For 36
-hymns with no received title, the title of Matthew Carver's translation is given, from
-*Walther's Hymnal* (2012) or from his *Hymnoglypt*. 46 hymns have no English title at all. Where
-a hymn has rival English titles, the choice between them is an editorial judgment, not a fact.
+rendering, and with its English title where it has one. 132 of the 217 hymns take their title
+from the Lutheran Hymn Index ([below](#repo-hymn-index)). 18 of these titles are Matthew
+Carver's, from *Walther's Hymnal* (2012) or *Liber Hymnorum* (2016), for hymns that no older
+English book has. For 21 hymns that the index lacks, the title of Carver's translation on his
+blog *Hymnoglypt* is given. 22 others keep the English title their sources give them, or the
+English name of a canticle or creed. 42 hymns have no English title at all. Where a hymn has
+rival English titles, the index's title is taken, and the others are kept in the database.
 
 **Assignments.** On four days where no hymn has three old witnesses, the editor of the database
 assigns a hymn, and two on Easter Monday. These are marked "Assigned" and never counted as
 witnesses.
+
+#### <a id="repo-hymn-index"></a>The Lutheran Hymn Index (`Hymnal Index/hymnal.db`)
+
+The folder `Hymnal Index` holds the Lutheran Hymn Index, a concordance of the hymnals of the
+English-speaking Lutheran churches. Its database, `hymnal.db`, has a row for each hymn, 4,931 in
+all, with the hymn's number in each of 34 books: the hymnals and supplements of those churches,
+from *A Collection of Hymns and a Liturgy* (1827) to *Te Laudamus* (2024); Walther's German
+*Kirchen-Gesangbuch* (1862) and its English translation, *Walther's Hymnal*; and *Liber
+Hymnorum* (2016), the Latin hymns of the Lutheran Church. A row gives the titles the books give
+the hymn, its German title in Walther's hymnal, and the original of a hymn translated from
+another tongue. The folder's README describes the tables and how to query them.
+
+The book takes the English names of hymns from it: in the translations, in the table of
+[Appendix 8.A](#s8-a) and in `hymns.db`. Each hymn of `hymns.db` was matched to its row by the
+German or Latin original that the index records, and every match was checked by hand. A German
+version of a Latin hymn takes the Latin hymn's row where the index has no row for the German.
+The matches are listed in `hymn_tables/index_titles.py`. The English name is the row's master
+title: as a rule the title of *Lutheran Service Book* (2006), else of *The Lutheran Hymnal*
+(1941), else of the *Evangelical Lutheran Hymnary* (1996), else of the book that brought the
+hymn into the index. Where the index gives a master title without its commas, they are taken
+from a hymnal's title of the same words. One title is shortened: the index calls Luther's
+Creed hymn "We All Believe in One True God, Maker", to tell it from Tobias Clausnitzer's, and
+the book gives it as the hymnals do, "We All Believe in One True God".
 
 #### <a id="repo-prayers"></a>The general-prayer workbook and database (`general_prayers.db`)
 
@@ -1946,10 +1973,14 @@ These conventions hold throughout the book.
   where the German follows the same text.
 - Book titles are given in their usual English form ("the Augsburg Confession", "the Smalcald
   Articles"). *Corpus doctrinae* and *norma doctrinae* are left in Latin.
-- Hymn incipits are translated literally and put in quotation marks, so that the reader can see
-  what the words say. They are not given under the titles of the English hymnals. Thus "Nun
-  bitten wir den heiligen Geist" is "Now pray we the Holy Ghost", and "Erhalt uns, Herr, bei
-  deinem Wort" is "Keep us, Lord, by thy word". In the running text the German incipit is used.
+- A hymn named in a translation is given its title in the English Lutheran hymnals, as the
+  Lutheran Hymn Index has it ([The Lutheran Hymn Index](#repo-hymn-index)), in quotation marks.
+  Thus "Nun bitten wir den heiligen Geist" is "To God the Holy Spirit Let Us Pray", and "Erhalt
+  uns, Herr, bei deinem Wort" is "Lord, Keep Us Steadfast in Your Word". A hymn that the index
+  does not have is translated literally: "Erbarm dich mein, o Herre Gott" is "Have mercy on me,
+  O Lord God". Where an order quotes more of a hymn than its opening line, or names one of its
+  stanzas, the words are translated as they stand. In the running text the German incipit is
+  used.
 - Stock terms are rendered the same way throughout:
 
 | Original | English |
@@ -7770,7 +7801,7 @@ The orders of the north divided the Latin Gloria between the scholars, the peopl
 
 After the Kyrie the priest singeth: *Gloria in excelsis Deo*. The scholars' choir answereth and
 singeth: *Et in terra pax hominibus bonae voluntatis*, no more. Straightway the whole church
-singeth "To God alone on high be glory," etc., in full.
+singeth "All Glory Be to God on High," etc., in full.
 
 The scholars and the organ then continue the Latin *Laudamus te* "in full" (Sehling 6/1, p. 55).
 So the Gloria was sung twice over: once in its Latin form, divided between the priest, the
@@ -7857,8 +7888,8 @@ Stadt Wittenberg*, 1533** (Sehling 1, p. 704):
 
 Thereafter the priest singeth the gospel turned toward the people, thereafter, [turned] again
 toward the altar, *Credo in unum Deum*. Thereupon the scholars sing the *Patrem* in Latin, then
-with the people "We all believe in one God". But often the schoolmaster beginneth "We believe",
-etc., straight after the gospel, for brevity's sake.
+with the people "We All Believe in One True God". But often the schoolmaster beginneth "We All
+Believe in One True God", etc., straight after the gospel, for brevity's sake.
 
 The same three layers are in Pomerania 1535 ("the *Patrem* in full, *dominicaliter*"),
 Braunschweig-Wolfenbüttel 1543, Duke Henry's Saxony 1539 ("the Latin *Patrem* in full, after the
@@ -7953,9 +7984,9 @@ word on the other feasts. **Rothenberg, *Christliche vereinigung* of the ministe
 > einen Gott etc. Die andern feiertäg aber das symbolum apostolicum deutsch von worts zu worts:
 > Ich glaub in Gott Vater, allmechtigen etc.
 
-After the boys have stepped down, let the customary creed be sung on the Sundays: "We all
-believe in one God", etc. But on the other holy days the Apostles' Creed in German, word for
-word: "I believe in God the Father Almighty", etc.
+After the boys have stepped down, let the customary creed be sung on the Sundays: "We All
+Believe in One True God", etc. But on the other holy days the Apostles' Creed in German, word
+for word: "I believe in God the Father Almighty", etc.
 
 **A free choice of three.** The Hessian *Agende* of 1574 (Philippist) lets the Apostles' Creed,
 Luther's creed-hymn or the Nicene be sung after the gospel. On occasion the Nicene or the
@@ -8069,8 +8100,8 @@ The Mecklenburg rubric shows the whole Preface section made optional. **Mecklenb
 If then the time permit, the priest may sing the Preface, in German or in Latin, beginning with
 these words: *Dominus vobiscum*, or "The Lord be with you". And thou findest the Prefaces also
 set down together hereafter in their place with the customary notes. Thereupon the Sanctus is
-sung in Latin, as it is also set after the daily Preface, or in German, "Isaiah the prophet, it
-befell", as it standeth in the song-book. If there be time, the priest may also read to the
+sung in Latin, as it is also set after the daily Preface, or in German, "Isaiah, Mighty Seer in
+Days of Old", as it standeth in the song-book. If there be time, the priest may also read to the
 people an exhortation and instruction concerning the most worthy sacrament, as is also set down
 after the Prefaces. After the exhortation, or, when for shortness of time the exhortation and
 Preface are left out, straightway after the sermon, let the priest sing [the Our Father and the
@@ -8498,10 +8529,10 @@ there is sung first a German psalm, thereupon the collect, further a Christian s
 tract, or what the season bringeth. Thereafter is read, in order from the beginning of the New
 Testament to the end, always one chapter in German; only that in Lent the German epistles and
 gospels are kept, as they are appointed for the days. After the reading of the same chapter is
-sung "We all believe", with the versicle and collect of the Holy Trinity. Thereafter follow also
-the other suffrages, namely for the king, for the forgiveness of sins and for peace, with their
-versicles and collects; which also is concluded with the *Benedicamus* and the blessing of the
-people.
+sung "We All Believe in One True God", with the versicle and collect of the Holy Trinity.
+Thereafter follow also the other suffrages, namely for the king, for the forgiveness of sins and
+for peace, with their versicles and collects; which also is concluded with the *Benedicamus* and
+the blessing of the people.
 
 **The boys' daily Mass at Hof.** One order kept a Mass-shaped service with no communion at all,
 as a school exercise. At Hof (1592) the boys' "*actus diurnus*" ran: the seasonal Kyrie and *Et
@@ -9408,11 +9439,11 @@ absolution for them. **Nördlingen, *Kirchenordnung* of Kaspar Löner, 1544**
 On high feasts the pastor himself shall hold the high office, but on the others and on Sundays
 the old pastor shall come before the altar in his due vesture, and there receive the absolution
 from one of his fellow ministers upon his Confiteor. Meanwhile two choirs, the one of the
-school, the other of the people, shall on high feasts sing *Kum, hailiger Geist* in turn, all
-three stanzas out; but on other feasts and Sundays *Nun bitten wir den Heiligen Gaist* with all
-its stanzas. When that is out, the celebrant shall turn to the people, or, if they would needs
-remain in the choir, come out before the altar, and there say before the people the Confiteor or
-open confession, and thereupon the absolution.
+school, the other of the people, shall on high feasts sing "Come, Holy Ghost, God and Lord" in
+turn, all three stanzas out; but on other feasts and Sundays "To God the Holy Spirit Let Us
+Pray" with all its stanzas. When that is out, the celebrant shall turn to the people, or, if
+they would needs remain in the choir, come out before the altar, and there say before the people
+the Confiteor or open confession, and thereupon the absolution.
 
 **Editor's notes** (pp. 311–312). On the celebrant's *Confiteor* (p. 311):
 
@@ -9765,12 +9796,12 @@ Zweibrücken order prints the 1552 form whole, after an opening hymn to the Holy
 > himel und erden.
 
 When, then, the Supper of Christ is purposed to be held in the church on a Sunday or other holy
-day, there shall first be sung the hymn *Komm heyliger Geyst*, etc., *Nun bitten wir den
-heyligen Geyst*, etc., or else a German psalm or spiritual song, especially one agreeable to the
-season, until the church cometh together. […] Then the priest kneeleth down before the altar,
-and another minister of the church or the custos beside him, and the priest saith with a loud
-voice: Our help standeth in the name of the Lord. The choir answereth: Who hath made heaven and
-earth.
+day, there shall first be sung the hymn "Come, Holy Ghost, God and Lord", etc., "To God the Holy
+Spirit Let Us Pray", etc., or else a German psalm or spiritual song, especially one agreeable to
+the season, until the church cometh together. […] Then the priest kneeleth down before the
+altar, and another minister of the church or the custos beside him, and the priest saith with a
+loud voice: Our help standeth in the name of the Lord. The choir answereth: Who hath made heaven
+and earth.
 
 **Editor's notes** (p. 187). The section from here to the Words of Institution is "aus KO
 Mecklenburg 1552". The Zweibrücken hymnal of 1571/1587 reprints it under the heading "Beicht,
@@ -9812,19 +9843,19 @@ himself, kneeling for the first two and standing for the third. **Pfalz-Veldenz,
 
 When they are assembled together to hold the Supper, the table of the Lord, which is otherwise
 called the altar, shall first be covered with a clean white cloth and be made ready with bread
-and wine; then they begin to sing, kneeling: *Nun bitten wir den heiligen Geist*, or *Khom,
-heiliger Geist*, etc. Thereupon the pastor exhorteth to the confession of sins and to hearty
-prayer for the forgiveness of the same, about with such words: My dearly beloved in the Lord,
-let us confess our sins unto God and pray for forgiveness in the name of our Lord Jesus Christ;
-open therefore your hearts and say after me with hearty desire unto God, in faith in the Lord
-Christ, through the Holy Ghost. […] Then the minister kneeleth down and saith before the people
-with a loud voice: I, poor sinful man, confess before thee, O almighty God, my Creator and
-Redeemer, that I have, alas, sinned much, not only in thoughts, words and works, but that I am
-by nature sinful and unclean, conceived and born in sins. But I have refuge unto thy bottomless
-mercy, seek and desire grace for the Lord Jesus Christ's sake; Lord, be merciful to me a poor
-sinner. Almighty, merciful God, who hast given thine only-begotten Son unto death for us,
-vouchsafe to have mercy upon us, and for the sake of the same, thy beloved Son, forgive us all
-our sins; also give thy Holy Ghost, who may kindle and increase in us true knowledge of thy
+and wine; then they begin to sing, kneeling: "To God the Holy Spirit Let Us Pray", or "Come,
+Holy Ghost, God and Lord", etc. Thereupon the pastor exhorteth to the confession of sins and to
+hearty prayer for the forgiveness of the same, about with such words: My dearly beloved in the
+Lord, let us confess our sins unto God and pray for forgiveness in the name of our Lord Jesus
+Christ; open therefore your hearts and say after me with hearty desire unto God, in faith in the
+Lord Christ, through the Holy Ghost. […] Then the minister kneeleth down and saith before the
+people with a loud voice: I, poor sinful man, confess before thee, O almighty God, my Creator
+and Redeemer, that I have, alas, sinned much, not only in thoughts, words and works, but that I
+am by nature sinful and unclean, conceived and born in sins. But I have refuge unto thy
+bottomless mercy, seek and desire grace for the Lord Jesus Christ's sake; Lord, be merciful to
+me a poor sinner. Almighty, merciful God, who hast given thine only-begotten Son unto death for
+us, vouchsafe to have mercy upon us, and for the sake of the same, thy beloved Son, forgive us
+all our sins; also give thy Holy Ghost, who may kindle and increase in us true knowledge of thy
 divine being and will, and thereto true obedience toward thee, to the end that we may pass this
 our life according to all thy good pleasure, and hereafter obtain everlasting life through thy
 grace, for the Lord Jesus Christ's sake, etc. The absolution is spoken by the minister when he
@@ -13258,14 +13289,14 @@ Lüneburg order puts it most fully. **Lüneburg, *Kirchenordnung*, 1564**
 But before the sermon the priest is to exhort the people to Christian prayer, that the dear God
 would give them his Holy Ghost, to handle his holy word profitably and to take it into the
 heart, that they may amend their sinful life, obtain comfort and strengthening of their faith,
-and henceforth live christianly and blessedly. Thereupon an Our Father shall be said, or *Nu
-bitten wir den heiligen Geist* sung; about Christmas, *Ein kindelein so löbelich*, etc.; about
-Easter, *Christ ist erstanden*, etc. At the end of the sermon the people shall again be exhorted
-to prayer and thanksgiving toward God, and [shall pray] together for the preservation of the
-Church of God and right doctrine, and thereto of faithful, true teachers, and that God would
-send faithful labourers into his harvest; for the government, for temporal peace and the
-increase of the fruits; and in sum for the need of all Christendom and of particular persons
-that desire the Christian prayer.
+and henceforth live christianly and blessedly. Thereupon an Our Father shall be said, or "To God
+the Holy Spirit Let Us Pray" sung; about Christmas, "To Us Is Born a Blessed Child", etc.; about
+Easter, "Christ Is Arisen", etc. At the end of the sermon the people shall again be exhorted to
+prayer and thanksgiving toward God, and [shall pray] together for the preservation of the Church
+of God and right doctrine, and thereto of faithful, true teachers, and that God would send
+faithful labourers into his harvest; for the government, for temporal peace and the increase of
+the fruits; and in sum for the need of all Christendom and of particular persons that desire the
+Christian prayer.
 
 **Other orders.**
 - **Luther 1526**: "das man auf der cantzel gemein gebet thut oder das vater unser fur spricht"
@@ -13835,8 +13866,8 @@ with the first:
 Kyrie eleison, Gloria in excelsis and Et in terra in Latin; thereafter the collects in German or
 Latin; thereafter the epistle toward the people in German; thereafter a sequence, or a German
 psalm, or other spiritual song, as each season requireth. Thereafter the gospel of the Sunday or
-of the feast, also read toward the people in German; thereupon the Creed sung, "Wir glauben all
-an einen Gott" etc.
+of the feast, also read toward the people in German; thereupon the Creed sung, "We All Believe
+in One True God" etc.
 
 ---
 
@@ -13918,7 +13949,7 @@ Hereafter in the towns shall the cantor or schoolmaster begin the introit in Lat
 times a German psalm, "Have mercy upon me, O Lord God", etc. One may through the year in the
 towns sing the introits that are not against holy scripture. On the high feasts, at Christmas:
 *Puer natus* etc. On Epiphany: *Ecce advenit* etc. On the Purification let the four goodly
-verses be sung for an introit, "A little child so laudable" etc.; which also on the Sundays
+verses be sung for an introit, "To Us Is Born a Blessed Child" etc.; which also on the Sundays
 between Christmas and Candlemas shall be sung in the villages for an introit. […] At Easter:
 *Resurrexi*; at the Ascension: *Viri Galilaei*; at Pentecost: *Spiritus Domini*; on Trinity:
 *Benedicta sit sancta Trinitas*.
@@ -13996,8 +14027,9 @@ villages", or else replaced by the festal hymn. **Wittgenstein, *Kirchenordnung*
 
 […] after the *Veni sancte* sing the customary introit, such as are: *Puer natus est nobis*
 etc., *Resurrexi et adhuc tecum sum* etc., *Spiritus Domini replevit orbem terrarum* etc.; which
-one may also learn and sing in German in the villages, or use in their stead: "Der Tag, der ist
-so freudenreich" etc., "Christ lag in Todesbanden" etc., "Es ist das Heil uns kommen her" etc.
+one may also learn and sing in German in the villages, or use in their stead: "Now Hail the Day
+So Rich in Cheer" etc., "Christ Jesus Lay in Death's Strong Bands" etc., "Salvation unto Us Has
+Come" etc.
 
 **Hof 1592.** Hof's weekly table ([§4.10.3](#s4-10-3)) gives German prose introits for ordinary Sundays:
 "Bistu, der da kommen soll?" (Advent III), "Ein kindlein ist uns geboren" (Epiphany I), "Ich bin
@@ -14229,8 +14261,8 @@ sanctis*". **Brandenburg-Ansbach-Kulmbach, *Auctuarium*, 1548**
 
 On the other holy days and feasts which have no sequence, or none pure, one shall sing the
 gradual or alleluia. But where these were not pure, as commonly *de sanctis*, let one of these
-psalms be sung in their stead: "Ein feste Burg ist unser Gott" etc., "Wär Gott nicht mit uns
-diese Zeit" etc., "Wohl dem, der in Gottes Furcht steht" etc., "Aus tiefer Not" etc.
+psalms be sung in their stead: "A Mighty Fortress Is Our God" etc., "If God Had Not Been on Our
+Side" etc., "Happy the Man Who Feareth God" etc., "From Depths of Woe I Cry to Thee" etc.
 
 **The tract.** The tract, the Lenten substitute for the alleluia, appears in Brandenburg 1540,
 Pfalz-Neuburg 1543, Pomerania 1569 and Hof 1592. Luther's ruling notwithstanding, these orders
@@ -14416,7 +14448,7 @@ so that the cantor and the priest have agreed on it beforehand". **Hamburg, *Kir
 […] thereafter sing the preface in Latin, turned to the altar. The preface may also well at
 times be shortened, but so that the cantor and the priest be agreed beforehand of the case. The
 Sanctus shall always be sung after it, according to the feasts and Sundays, sometimes in German,
-"Isaiah the prophet", etc.
+"Isaiah, Mighty Seer in Days of Old", etc.
 
 #### <a id="s4-8-2"></a>4.8.2 Which days: the temporal cycle
 
@@ -14732,8 +14764,8 @@ heiliger Geist'". **Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537
 
 […] on the high feasts, when one singeth in measure, the cantor may well at times, instead of
 the *Et in terra* etc., and also instead of the psalm which one singeth after the epistle, sing
-a good Latin motet; and at times, when there is a goodly introit, the same instead of "Komm,
-heiliger Geist".
+a good Latin motet; and at times, when there is a goodly introit, the same instead of "Come,
+Holy Ghost, God and Lord".
 
 **"Choraliter or figuraliter".** The formula "choraliter or figuraliter" is common in the later
 orders:
@@ -14764,8 +14796,9 @@ Galliculus, Dressler, Meiland and others. **Hof, *Ordo ecclesiasticus*, 1592, Ch
 On the day of the Nativity of Jesus Christ. Introit: *Puer natus est nobis*, for four voices, by
 Senfl. The Mass upon *Praeter rerum seriem*, for six voices, by Ludwig Daser. After the epistle:
 *Quem vidistis pastores*, for six voices, by L. de Victoria. After the gospel: *Resonet in
-laudibus*, for five voices, by Orlando. In place of "Nun bitten wir": *Exultet coelum*, by
-Orlando, for five voices. During the communion: the Sanctus of the foregoing Mass.
+laudibus*, for five voices, by Orlando. In place of "To God the Holy Spirit Let Us Pray":
+*Exultet coelum*, by Orlando, for five voices. During the communion: the Sanctus of the
+foregoing Mass.
 
 **The plain Sundays at Hof.** Beside this, Hof's ordinary Sunday table uses **German** introits
 and chorale Kyries ([§4.4.4](#s4-4-4)). The festal Latin polyphony and the German chorale service stand side
@@ -24711,8 +24744,8 @@ said thanks unto thee, and blessed it, and gave it to his disciples, saying: Tak
 ye all thereout. This is the cup of my blood, of the new and everlasting covenant, a
 mystery of faith, which is shed for you and for many for the forgiveness of sins. As often
 as ye do this, ye shall remember me thereby.
-*Here he giveth the people who are communicated the cup also; meanwhile the hymn "Gott sei
-gelobet" is sung, or "Jesus Christus unser Heiland", or the German Sanctus.*
+*Here he giveth the people who are communicated the cup also; meanwhile the hymn "O Lord, We
+Praise Thee" is sung, or "Jesus Christ, Our Blessed Savior", or the German Sanctus.*
 
 **Note.**
 
@@ -24865,7 +24898,7 @@ hands, and lifted up his eyes to heaven unto thee, God, his almighty Father, and
 unto thee, and blessed it, and brake it, and gave it to his disciples, saying:
 Take and eat ye all thereof. This is my body, which is given for you for the forgiveness of
 sins.
-*Now the choir beginneth to sing: "Jesus Christus, unser Heiland". One verse thereof.*
+*Now the choir beginneth to sing: "Jesus Christ, Our Blessed Savior". One verse thereof.*
 
 **Note.**
 
@@ -24981,7 +25014,7 @@ Take and drink ye all thereout. This is the cup of my blood, of the new and ever
 testament, which is shed for you and for many for the forgiveness of sins. As often as ye
 do this, do it in my remembrance.
 *Now the priest giveth the communicants the blood of Christ, and the choir singeth "Jesus
-Christus unser", or the song of praise "Gott sei gelobet und gebenedeiet", etc., and singeth
+Christ, Our Blessed Savior", or the song of praise "O Lord, We Praise Thee", etc., and singeth
 so long till the blood of Christ is distributed. Thereafter the priest turneth again to the
 people and saith:*
 The Lord be with you.
@@ -25047,11 +25080,11 @@ their Canon, whereon they have set well-nigh all salvation, and yet read the sam
 > werden. Unter dem sanctus sol der priester folgende oration deudsch beten.*
 
 *Thereupon the priest shall sing Credo in unum Deum; the Patrem shall be sung in cathedrals
-and collegiate churches in Latin, but in the parishes in German, "Wir glauben all an einen
-Gott". Thereupon the priest shall sing Dominus vobiscum without Oremus; thereupon the chant
-which heretofore was kept for the offertory shall be sung; thereupon the priest shall sing
-the customary Preface, and next the Latin Sanctus, all sung in Latin. Under the Sanctus the
-priest shall pray the following prayer in German.*
+and collegiate churches in Latin, but in the parishes in German, "We All Believe in One True
+God". Thereupon the priest shall sing Dominus vobiscum without Oremus; thereupon the chant which
+heretofore was kept for the offertory shall be sung; thereupon the priest shall sing the
+customary Preface, and next the Latin Sanctus, all sung in Latin. Under the Sanctus the priest
+shall pray the following prayer in German.*
 
 **Note.**
 
@@ -25199,8 +25232,8 @@ shed for you and for many for the remission of sins; this do, as oft as ye drink
 remembrance of me.
 *Lift the cup on high.*
 *After the elevation, in cathedrals and collegiate churches a Latin chant shall be sung, as
-the responsory Tua est potentia, etc.; but in the parishes a German song: "Es wolt uns Gott
-genädig sein", or "Sei Lob und Dank mit hohem Preis".*
+the responsory Tua est potentia, etc.; but in the parishes a German song: "May God Bestow on Us
+His Grace", or "Praise and thanks with high price".*
 
 **Note.**
 
@@ -25401,8 +25434,8 @@ distribution. *Darbei dabei* is a doublet in the print.
 
 *Thereupon shall be begun the responsory Discubuit Jesus in Latin; and if the communicants
 were many, so that it might not suffice therewith, one shall begin to sing to the people in
-German "Gott sei gelobet" or "Jesus Christus, unser Heiland"; one of which songs, even though
-the Discubuit suffice, shall nevertheless be sung after the communion.*
+German "O Lord, We Praise Thee" or "Jesus Christ, Our Blessed Savior"; one of which songs, even
+though the Discubuit suffice, shall nevertheless be sung after the communion.*
 *Now the communicants approach, and when the Lord's body is reached to them, let the priest
 say:*
 Take and eat, this is the body of Christ, which is given for thee.
@@ -25532,7 +25565,7 @@ second Erfurt print added the Ascension, the Sacrament and the Apostles.
 > Jhesu Christ, dein geliebter Sohn. Amen.
 
 *Thereafter the priest goeth again before the altar, and the choir singeth in the meantime:
-"Es wollt uns Gott genädig sein", etc., or "Gott der Vater wohn uns bei", etc. Thereafter the
+"May God Bestow on Us His Grace", etc., or "Triune God, Be Thou Our Stay", etc. Thereafter the
 priest singeth:* The Lord be with you! *The choir answereth:* And with thy spirit.
 *Thereafter followeth the offertory.*
 *In the stead of the offertory a German psalm shall be sung with the congregation.*
@@ -25627,8 +25660,8 @@ is the body of Christ, which is given for thee; the same preserve thy soul unto 
 life. Amen.
 Take and drink, this is the blood of the new testament, which is shed for thy sins; the
 same strengthen thy soul unto everlasting life. Amen.
-*And meanwhile let the Discubuit be sung, or "Jesus Christus unser Heiland", etc., or "Gott
-sei gelobet". When the last go up, let the choir close with the same verses. Thereafter
+*And meanwhile let the Discubuit be sung, or "Jesus Christ, Our Blessed Savior", etc., or "O
+Lord, We Praise Thee". When the last go up, let the choir close with the same verses. Thereafter
 let the priest sing:*
 The peace of the Lord be with you!
 *The choir singeth:* And with thy spirit!
@@ -25705,7 +25738,8 @@ The Lord bless thee and keep thee! The Lord make his face shine upon thee and be
 unto thee! The Lord lift up his countenance upon thee and give thee peace!
 *The priest singeth:* Let us praise the Lord, alleluia!
 *The choir:* Give thanks unto the Lord, alleluia!
-*Let him conclude with the Da pacem, "Verleih uns Frieden", etc., with the collect.*
+*Let him conclude with the Da pacem, "Grant Peace, We Pray, in Mercy, Lord", etc., with the
+collect.*
 
 **Note.**
 
@@ -25806,7 +25840,7 @@ After the Our Father, the Brandenburg Latin prayers follow. There are two change
 
 *After the Gospel the priest shall sing the Credo and the choir the Patrem in Latin; or,
 where there is no choir, the priest may himself sing or say it, and meanwhile let the people
-sing the German song "Wir glauben all an einen Gott".* […]
+sing the German song "We All Believe in One True God".* […]
 *Where now one preacheth during the Mass, the priest shall forthwith after the sermon go
 again to the altar; and, that the people may the more diligently and devoutly perceive all
 that followeth, he, or one of the ministers if there be any, shall read the following
@@ -26156,9 +26190,9 @@ Take and drink! This is the blood of the new testament, which is shed for thy si
 one, and only thereafter the cup; and while this is done, the choir shall sing the communion
 in Latin, and if it were too short, other good Latin chant more, especially what is de coena
 Domini, as the responsory Discubuit Jesus. But where there is no choir, the congregation
-shall again be let sing a good German spiritual song, such as "Jesus Christus unser
-Heiland …", or else "Gott sei gelobet und gebenedeiet …", or another song that befitteth the
-occasion of the time.*
+shall again be let sing a good German spiritual song, such as "Jesus Christ, Our Blessed
+Savior", or else "O Lord, We Praise Thee", or another song that befitteth the occasion of the
+time.*
 *When now every one hath received the holy sacrament, then shall the priest also receive it.
 And although he shall from the beginning take diligent care so to order and heed all things
 that nothing of the holy sacrament remain over, yet he shall especially at the end see to it
@@ -26879,10 +26913,10 @@ reads:
 > Nun bitten wir etc. Post Contionem: Herr, wie lanng wilt vergessen etc. Conclussio: Christum,
 > unnsern Heylanndt.
 
-*Introitus*: "Now rejoice, dear Christians all," the first melody; "Come, Holy Ghost." *After
-the confession*: the second Kyrie. *After the epistle*: "I believe in God," etc. *Before the
-sermon*: "Now pray we," etc. *After the sermon*: "Lord, how long wilt thou forget," etc.
-*Conclusion*: "Christ, our Saviour."
+*Introitus*: "Dear Christians, One and All, Rejoice," the first melody; "Come, Holy Ghost, God
+and Lord." *After the confession*: the second Kyrie. *After the epistle*: "I believe in God,"
+etc. *Before the sermon*: "To God the Holy Spirit Let Us Pray," etc. *After the sermon*: "Lord,
+how long wilt thou forget," etc. *Conclusion*: "Christ, our Saviour."
 
 The Mass order of **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 425) numbers the same
 slots. The eighth is the German hymn to the Holy Ghost before the sermon,
@@ -26893,9 +26927,9 @@ sung kneeling:
 > Heiligen Geist etc. incipit (vel etiam in cantu figurali mutetam aliquam). Illa cantilena
 > germanica genibus flexis a tribus choris continuatur.
 
-Eighthly, the organist beginneth the German song directed to the Holy Ghost, "Now pray we the
-Holy Ghost," etc. (or else some motet in figured song). That German song is continued by the
-three choirs upon bended knees.
+Eighthly, the organist beginneth the German song directed to the Holy Ghost, "To God the Holy
+Spirit Let Us Pray," etc. (or else some motet in figured song). That German song is continued by
+the three choirs upon bended knees.
 
 #### <a id="s8-3-2"></a>8.3.2 Luther's two orders
 
@@ -26933,9 +26967,9 @@ manner following: "I will bless the Lord at all times."
 > eins, und das mit dem ganzen chor. Darnach lieset er das evangelion in quinto tono […] Nach
 > dem evangelio singt die ganze kirche den glauben zu deudsch: Wir gleuben all an einen gott.
 
-After the epistle a German song is sung, "Now pray we the Holy Ghost," or some other, and that
-with the whole choir. Then he readeth the gospel in the fifth tone […] After the gospel the
-whole church singeth the creed in German: "We all believe in one God."
+After the epistle a German song is sung, "To God the Holy Spirit Let Us Pray," or some other,
+and that with the whole choir. Then he readeth the gospel in the fifth tone […] After the gospel
+the whole church singeth the creed in German: "We All Believe in One True God."
 
 At the communion the *Deutsche Messe* allows the German Sanctus, "Gott sei gelobet" or Hus's
 hymn. These three were for the whole century the core of the communion slot ([§8.14](#s8-14))
@@ -26946,9 +26980,9 @@ hymn. These three were for the whole century the core of the communion slot ([§
 > lied: Jhesus Christus unser heiland. Darnach segene man den kilch und gebe den selbigen auch
 > und singe, was ubrig ist von obgenanten liedern oder das deudsch Agnus dei.
 
-And the while let the German Sanctus be sung, or the song "God be praised," or John Hus's
-song, "Jesus Christ our Saviour." Thereafter let the cup be blessed and given likewise, and
-let that be sung which remaineth of the aforenamed songs, or the German Agnus Dei.
+And the while let the German Sanctus be sung, or the song "O Lord, We Praise Thee," or John
+Hus's song, "Jesus Christ, Our Blessed Savior." Thereafter let the cup be blessed and given
+likewise, and let that be sung which remaineth of the aforenamed songs, or the German Agnus Dei.
 
 #### <a id="s8-3-3"></a>8.3.3 A whole service in hymns
 
@@ -26970,18 +27004,18 @@ hymn. The village order of the city of Braunschweig lists them in order. **Braun
 > der opfermann mit dem volk singen: Jesus Christus ader Godt sei gelobt ein Sontag umb den
 > andern, wen man des Hern abentmal helt.
 
-First the pastor shall sing with the sexton and all the people "Come, Holy Ghost, Lord God,"
+First the pastor shall sing with the sexton and all the people "Come, Holy Ghost, God and Lord,"
 etc. 2. Thereafter the Kyrie and *Et in terra* in German, as Doctor Martin hath put them into
 German. 3. Thereupon the pastor shall read the collects and the epistle. 4. Then shall the
 sexton with the people sing the Our Father, also as Doctor Martin hath made it. 5. After this
 the pastor shall read to the people the five chief parts of the catechism […]. 6. Thereupon
-the sexton shall sing with the people first the creed, thereafter "Now pray we the Holy
-Ghost." 7. Then shall the pastor read the gospel from the pulpit and preach the sermon
+the sexton shall sing with the people first the creed, thereafter "To God the Holy Spirit Let Us
+Pray." 7. Then shall the pastor read the gospel from the pulpit and preach the sermon
 thereon. 8. After the sermon the sexton shall sing with the people the Sanctus of Isaiah in
-German. 9. Thereafter the pastor shall read the exhortation to the communicants, and
-straightway thereafter sing the Our Father and the words of the Supper in German. 10. During
-the communion the sexton shall sing with the people "Jesus Christ" or "God be praised," one
-Sunday after the other, when the Lord's Supper is held.
+German. 9. Thereafter the pastor shall read the exhortation to the communicants, and straightway
+thereafter sing the Our Father and the words of the Supper in German. 10. During the communion
+the sexton shall sing with the people "Jesus Christ, Our Blessed Savior" or "O Lord, We Praise
+Thee," one Sunday after the other, when the Lord's Supper is held.
 
 The same order closes with "Es wolt uns Gott genedig sein" and "Erhalt uns, Herr" on alternate
 Sundays ([§8.15.3](#s8-15-3)).
@@ -27013,9 +27047,9 @@ falls on the hymns before and after the sermon and during the distribution. The
 > gemeß, gesungen werden. Nach disem gsang soll die gemein predig geschehen.
 
 When, then, the Supper of Christ is purposed to be held in the church upon a Sunday or other
-holy day, the song "Come, Holy Ghost," etc., "Now pray we the Holy Ghost," etc., or else a
-German psalm or spiritual song, especially one agreeable to the season, shall be sung at the
-beginning. After this song the common sermon shall be held.
+holy day, the song "Come, Holy Ghost, God and Lord," etc., "To God the Holy Spirit Let Us Pray,"
+etc., or else a German psalm or spiritual song, especially one agreeable to the season, shall be
+sung at the beginning. After this song the common sermon shall be held.
 
 The Bugenhagen orders give the plainest reason for all these German songs. **Hamburg,
 *Kirchenordnung*, 1529** (Sehling 5, p. 491), after listing the parts of the Mass:
@@ -27048,9 +27082,9 @@ at its beginning, on bended knees. **Hessen, *Agende*, 1574** (Philippist; Sehli
 > 2. Darnach wird gesungen der introitus de trinitate oder de tempore auf Nativitatis,
 > Resurrectionis und Pentecostes. 3. Hierauf folget das Kyrie und Et in terra.
 
-First the scholars sing upon bended knees "Come, Holy Ghost," etc., that the help and
-assistance of the Holy Ghost may be prayed for, for the performing of the whole service of the
-church. 2. Thereafter is sung the introit of the Trinity, or of the season at the Nativity,
+First the scholars sing upon bended knees "Come, Holy Ghost, God and Lord," etc., that the help
+and assistance of the Holy Ghost may be prayed for, for the performing of the whole service of
+the church. 2. Thereafter is sung the introit of the Trinity, or of the season at the Nativity,
 the Resurrection and Pentecost. 3. Hereupon followeth the Kyrie and *Et in terra*.
 
 The order of the village of Bruchhausen in the abbey lands of Corvey (1603) copies this
@@ -27069,8 +27103,8 @@ sequence) and Luther's "Komm, heiliger Geist, Herre Gott". **Hof, *Ordo ecclesia
 
 As oft as there is no use of the organ, the whole choir setteth before the introit *Veni,
 sancte*, etc., "Come, thou heartfelt Comforter," etc., in German, with bended knees. This
-being ended, the introit beginneth. Doctor Luther's song, "Come, Holy Ghost, Lord God," etc.,
-may also be set before the introit.
+being ended, the introit beginneth. Doctor Luther's song, "Come, Holy Ghost, God and Lord,"
+etc., may also be set before the introit.
 
 Soest, whose order follows Bugenhagen's Braunschweig order, had three boys sing it kneeling at
 the altar. **Soest,
@@ -27106,8 +27140,8 @@ confession. **Nördlingen, *Kirchenordnung* of Kaspar Löner, 1544** (Sehling 12
 > bitten wir den Heiligen Gaist mit allen seinen gesetzen.
 
 Meanwhile two choirs, one of the school, the other of the people, shall sing by turns on high
-feasts "Come, Holy Ghost," all three stanzas through. But on other feasts and on Sundays, "Now
-pray we the Holy Ghost," with all its stanzas.
+feasts "Come, Holy Ghost, God and Lord," all three stanzas through. But on other feasts and on
+Sundays, "To God the Holy Spirit Let Us Pray," with all its stanzas.
 
 At Reutlingen the same pair of hymns ran from the last bell until the preacher was in the
 pulpit. **Reutlingen, *Ordnung der Schule und des Kirchengesangs*, 1565/1566**
@@ -27123,8 +27157,8 @@ pulpit. **Reutlingen, *Ordnung der Schule und des Kirchengesangs*, 1565/1566**
 On the Sunday, at the chief sermon, the schoolmaster and the usher with the boys shall go
 into the church after the second bell hath been rung, and there, in the stead of the introit,
 sing one, two or more customary psalms, and at the last, either during or after the ringing
-together, the song "Come, Holy Ghost," or "Now pray we the Holy Ghost," etc., until the
-preacher goeth up into the pulpit.
+together, the song "Come, Holy Ghost, God and Lord," or "To God the Holy Spirit Let Us Pray,"
+etc., until the preacher goeth up into the pulpit.
 
 The prose German form of the antiphon, "Komm, heiliger Geist, erfülle die Herzen", was sung
 to the Latin melody. On the Henneberg prayer days it followed the litany and covered the
@@ -27194,7 +27228,7 @@ feast took the place of the introit:
 Forasmuch as the folk dwell here and there scattered far from one another, [he shall] begin
 with the German or Latin Kyrie until the congregation come together. But upon the high feast
 days a spiritual song according to the occasion of the feast shall be sung for the introit.
-Thereafter shall follow "To God alone on high be glory."
+Thereafter shall follow "All Glory Be to God on High."
 
 A Henneberg pastor wrote in his report that without communicants a psalm took the place of
 the Kyrie and *Et in terra*, "that the people might meanwhile come together".
@@ -27215,8 +27249,8 @@ Bremen had the sexton see that German hymns were sung while the last bell rang. 
 > dat heil uns kamen her, Nu frouwet juw leven Christen gemene, Unde Veni Sancte spiritus
 > Düdesch edder Latin, alse me wil dat laste teken lüden.
 
-Then shall the sexton see to it that a song be sung in the church, as "Now is salvation come
-to us," "Now rejoice, dear Christians all," and *Veni Sancte Spiritus* in German or Latin,
+Then shall the sexton see to it that a song be sung in the church, as "Salvation unto Us Has
+Come," "Dear Christians, One and All, Rejoice," and *Veni Sancte Spiritus* in German or Latin,
 when the last sign is to be rung.
 
 **Goslar, *Neugestaltung des Gottesdienstes* in the chapter church of SS. Simon and Jude, 1560**
@@ -27368,8 +27402,8 @@ Vater wohn uns bei" or "Nun freut euch", followed by "Allein Gott". **Hildesheim
 > oder: Nun freuwet euch lieben Christen gemain singen, darauf: Allein Gott in der höge sey
 > ehr.
 
-[He shall] first sing the German *Te Deum laudamus*, or "God the Father be with us, and let
-us," etc., or "Now rejoice, dear Christians all"; thereupon "To God alone on high be glory."
+[He shall] first sing the German *Te Deum laudamus*, or "Triune God, Be Thou Our Stay," etc., or
+"Dear Christians, One and All, Rejoice"; thereupon "All Glory Be to God on High."
 
 Where a village pastor could not sing matins with his sexton, Pomerania had the German Te
 Deum sung "pro introitu". **Pomerania, *Agenda*, 1569** (Sehling 4, p. 440):
@@ -27402,7 +27436,7 @@ Wittgenstein used "Aus tiefer Not" in the same way. **Wittgenstein, *Kirchenordn
 > diesem das 6. capitel Johannis oder das 53. capitel Jesaiae vorlesen und alßdann den glauben
 > singen, und folgend auff die cantzel tretten.
 
-and thereafter sing "Out of the depths I cry to thee," etc., as a confession, and after this
+and thereafter sing "From Depths of Woe I Cry to Thee," etc., as a confession, and after this
 read the sixth chapter of John or the fifty-third chapter of Isaiah, and then sing the creed,
 and following that step up into the pulpit.
 
@@ -27473,8 +27507,8 @@ Psalter. In the villages one may sing a German psalm for the introit.
 If the introit in the Mass be like unto Holy Scripture, it shall be kept on the feasts or holy
 days. But if the introit be not grounded in Scripture, or otherwise unserviceable to
 edification, then in the stead of the introit a German psalm shall be sung, as "Come, Holy
-Ghost," or else another at the bidding of the pastor. But on the working day a German psalm
-shall always be sung for the introit.
+Ghost, God and Lord," or else another at the bidding of the pastor. But on the working day a
+German psalm shall always be sung for the introit.
 
 **Prussia, *Artikel der Ceremonien*, 1525** (Sehling 4, p. 32). The German psalms already
 sung in place of the introit may stay until the new Latin schools can sing the Latin again:
@@ -27499,8 +27533,8 @@ that "the tongues should not be put so wholly out of the church's use":
 
 one might sing the Sunday introits in Latin for the exercise of the youth (when it shall now
 have increased in the school), or in the stead of the introit a psalm in German or Latin,
-namely this, "May God be gracious unto us," etc., or another; for the tongues should not be so
-wholly put out of the church's use.
+namely this, "May God Bestow on Us His Grace," etc., or another; for the tongues should not be
+so wholly put out of the church's use.
 
 **Tecklenburg, *Kirchenordnung*, 1543** (Sehling 22, p. 243):
 
@@ -27561,12 +27595,12 @@ Geist, Herre Gott".
 > deütsch oder lateinisch nach gelegenheit des orts, umb ubung willen, der jugend.
 
 At the beginning, in the stead of the introit, one of the German psalms is sung, as hath
-been done hitherto here in the duchy, namely: "May God be gracious unto us"; "Have mercy on
-me, O Lord God"; "Out of the depths"; "Ah God, from heaven look down"; "Were God not with us
-at this time"; "The mouth of the unwise saith indeed," etc., and the like psalms, to be
-changed about one after another. But on feasts, as Easter, Pentecost, Christmas, let the proper
-introits be sung, in German or Latin according to the occasion of the place, for the exercise
-of the youth.
+been done hitherto here in the duchy, namely: "May God Bestow on Us His Grace"; "Have mercy on
+me, O Lord God"; "From Depths of Woe I Cry to Thee"; "O Lord, Look Down from Heaven, Behold";
+"If God Had Not Been on Our Side"; "The Mouth of Fools Doth God Confess," etc., and the like
+psalms, to be changed about one after another. But on feasts, as Easter, Pentecost, Christmas,
+let the proper introits be sung, in German or Latin according to the occasion of the place, for
+the exercise of the youth.
 
 **Naumburg, *Kirchen-Ordnung* for St Wenzel, 1537/1538** (Sehling 2, p. 71) alternates three
 hymns Sunday by Sunday, and keeps sung Latin introits in part-music for the feasts:
@@ -27578,11 +27612,11 @@ hymns Sunday by Sunday, and keeps sung Latin introits in part-music for the feas
 > honor. Ostern. Salve festa dies etc. Pfingsten. Introitum de sancto spiritu. Trinitatis.
 > Introitum de trinitate. Annunciationis Mariae. Haec est dies etc.
 
-For the introit is sung, one Sunday after another: "Come, Holy Ghost," etc.; "Have mercy on
-me," etc.; "Out of the depths," etc. But on the high feasts one singeth in measured music, as
-at Christmas the introit *Puer natus*, or *Dies est laetitiae*, etc.; Palm Sunday, *Gloria,
-laus et honor*; Easter, *Salve festa dies*, etc.; Pentecost, the introit of the Holy Ghost;
-Trinity, the introit of the Trinity; the Annunciation of Mary, *Haec est dies*, etc.
+For the introit is sung, one Sunday after another: "Come, Holy Ghost, God and Lord," etc.; "Have
+mercy on me," etc.; "From Depths of Woe I Cry to Thee," etc. But on the high feasts one singeth
+in measured music, as at Christmas the introit *Puer natus*, or *Dies est laetitiae*, etc.; Palm
+Sunday, *Gloria, laus et honor*; Easter, *Salve festa dies*, etc.; Pentecost, the introit of the
+Holy Ghost; Trinity, the introit of the Trinity; the Annunciation of Mary, *Haec est dies*, etc.
 
 The St George's order of Nördlingen (1555) copies this rotation, putting it after the Latin
 introit and before the confession (Sehling 12, p. 319). The *Auctuarium* of Brandenburg-Ansbach,
@@ -27596,9 +27630,9 @@ an Interim order, gives the fullest village list. **Brandenburg-Ansbach, *Auctua
 > Jesu Christ etc.
 
 Where there are no schools, or folk that could sing Latin, the pastors shall sing with the
-people in the stead of the introit: "Now rejoice, dear Christians all," etc.; "These are the
-holy ten commandments," etc.; "Have mercy on me, O Lord God," etc.; […] "I call to thee, Lord
-Jesu Christ," etc.
+people in the stead of the introit: "Dear Christians, One and All, Rejoice," etc.; "These Are
+the Holy Ten Commands," etc.; "Have mercy on me, O Lord God," etc.; […] "Lord, Hear the Voice of
+My Complaint," etc.
 
 In the Pomeranian orders of 1542 and 1569 the choice is Latin introit or Psalm 51, in one of
 its two German versions. **Pomerania, *Kirchenordnung*, 1542** (Sehling 4, p. 356):
@@ -27620,7 +27654,7 @@ me," etc.
 > andern düdeschen psalm.
 
 At the beginning the choir singeth the introit of the feast or of the season, or of the
-Sunday; or "Come, Holy Ghost, Lord God"; "Have mercy on me"; "O Lord God, be gracious unto
+Sunday; or "Come, Holy Ghost, God and Lord"; "Have mercy on me"; "O Lord God, be gracious unto
 me," etc.; or another German psalm.
 
 #### <a id="s8-5-3"></a>8.5.3 Early German Masses: a hymn as the introit itself
@@ -27634,7 +27668,7 @@ Hospital, 1525** (Sehling 11, p. 56):
 > Introitus oder eingang der meß. [Noten] Nun bitten wir den Heiligen Geist [4 Verse. Hier
 > nicht abgedruckt; dann Schluß der Noten].
 
-Introit, or entrance of the Mass. [Notes] "Now pray we the Holy Ghost" [four verses].
+Introit, or entrance of the Mass. [Notes] "To God the Holy Spirit Let Us Pray" [four verses].
 
 Strasbourg's Mass of 1525 (Moderate Reformed) had Psalm 51 or Psalm 130 "an stat des Introits".
 **Strasbourg, *Ordnung des Herren Nachtmal*, 1525** (Moderate Reformed; Sehling 20/1, p. 156):
@@ -27646,8 +27680,8 @@ Strasbourg's Mass of 1525 (Moderate Reformed) had Psalm 51 or Psalm 130 "an stat
 
 Thereupon the church beginneth to sing a psalm, as the Miserere or another psalm, in the stead
 of the introit, and sometimes the Kyrie eleison and *Gloria in excelsis*. The hundred and
-thirtieth psalm, *De profundis*, sometimes in the stead of the introit in the Mass: "Out of
-the depths I cry to thee."
+thirtieth psalm, *De profundis*, sometimes in the stead of the introit in the Mass: "From Depths
+of Woe I Cry to Thee."
 
 A Low German Mass from Lippe gives "Uth deper nodt" as the introit, with the choice of any
 other psalm. **Lippe, *Deutsche Messe* [c. 1525–1538]** (Sehling 22, p. 565):
@@ -27659,7 +27693,7 @@ other psalm. **Lippe, *Deutsche Messe* [c. 1525–1538]** (Sehling 22, p. 565):
 > antiffen Veni sancte spiritus, Kum, hillige geist.
 
 But while the priest readeth the *Confiteor*, the choir singeth the introit of the Mass.
-Introit of the Mass: "Out of the depths I cry to thee," etc., or another psalm, whichever one
+Introit of the Mass: "From Depths of Woe I Cry to Thee," etc., or another psalm, whichever one
 will. Item, now at this time the choir or people commonly sing before the introit the antiphon
 *Veni sancte Spiritus*, "Come, Holy Ghost."
 
@@ -27676,10 +27710,10 @@ ist so freudenreich") at Candlemas and on the Sundays between Christmas and Cand
 > introitum gesungen werden. Up welckere sondage in den steden, under tiden dat Offitium, Puer
 > natus, mach gesungen werden.
 
-On the day of the Purification let the four fair verses, "A little Child," etc., be sung for
-an introit. The same shall also be sung for an introit in the villages on the Sundays between
-Christmas and Candlemas; on which Sundays in the towns the office *Puer natus* may be sung
-at times.
+On the day of the Purification let the four fair verses, "To Us Is Born a Blessed Child," etc.,
+be sung for an introit. The same shall also be sung for an introit in the villages on the
+Sundays between Christmas and Candlemas; on which Sundays in the towns the office *Puer natus*
+may be sung at times.
 
 Wittgenstein kept the Latin introits of the high feasts but allowed three hymns in their
 place: "Der Tag, der ist so freudenreich" for *Puer natus*, "Christ lag in Todesbanden" for
@@ -27696,8 +27730,8 @@ place: "Der Tag, der ist so freudenreich" for *Puer natus*, "Christ lag in Todes
 [they shall] after the *Veni sancte* sing the customary introit, as these are: *Puer natus est
 nobis*, etc., *Resurrexi et adhuc tecum sum*, etc., *Spiritus Domini replevit orbem
 terrarum*, etc.; which may also be learned and sung in German in the villages, or, in the
-stead of the same, may be used: "The day that is so full of joy," etc., "Christ lay in the
-bands of death," etc., "Salvation now is come to us," etc.
+stead of the same, may be used: "Now Hail the Day So Rich in Cheer," etc., "Christ Jesus Lay in
+Death's Strong Bands," etc., "Salvation unto Us Has Come," etc.
 
 In the Henneberg village of Sulzfeld the chorus sang the Christmas song "Ein Kind geboren zu
 Bethlehem" (*Puer natus in Bethlehem*) instead of the introit, and "Also heilig ist der Tag"
@@ -27709,9 +27743,9 @@ three times at Easter and Ascension. **Sulzfeld and Klein-Bardorf, *Kirchen-Ordn
 > ostern und himmelfart aber: Also heilig ist der tag etc. dreimal und an stat des psalmen
 > zwischen den capiteln werden die gewönlich lieder von festen gesungen.
 
-At Christmas, in the stead of the introit, the choir singeth "A Child is born in Bethlehem";
-but at Easter and the Ascension, "So holy is the day," etc., three times; and in the stead of
-the psalm between the chapters the customary songs of the feasts are sung.
+At Christmas, in the stead of the introit, the choir singeth "A Boy Is Born in Bethlehem";
+but at Easter and the Ascension, "This Is Such a Holy Day," etc., three times; and in the stead
+of the psalm between the chapters the customary songs of the feasts are sung.
 
 The Hamburg order of 1529 lists the Latin introits for the feasts it keeps. For other feasts,
 where there is no chant from Scripture, it allows "joyful psalms and songs". **Hamburg,
@@ -27758,11 +27792,12 @@ the whole Psalter, as at Jena. **Halle, *Kirchen-Ordnung der christlichen Gemein
 > volk durch solche fleissige übung, wan man der psalmen nacheinander brauchet, gewenete, wie
 > in etlichen kirchen, als zu Jena und andern orten nüzlich angericht.
 
-When "Out of the depths" or other German psalms are sung for the introit, the same shall be
-so ordered that the whole church may become surely accustomed to some good, comfortable,
-profitable psalms; and in time it might be brought about that the people, by such diligent
-exercise, using the psalms one after another, should grow accustomed to all the psalms in the
-whole Psalter, as hath been profitably set up in some churches, as at Jena and other places.
+When "From Depths of Woe I Cry to Thee" or other German psalms are sung for the introit, the
+same shall be so ordered that the whole church may become surely accustomed to some good,
+comfortable, profitable psalms; and in time it might be brought about that the people, by such
+diligent exercise, using the psalms one after another, should grow accustomed to all the psalms
+in the whole Psalter, as hath been profitably set up in some churches, as at Jena and other
+places.
 
 Nördlingen dropped the introit altogether when the psalm after the epistle was a long one,
 and in winter "for the cold and for beloved brevity's sake". **Nördlingen, *Kirchenordnung*,
@@ -27775,10 +27810,10 @@ and in winter "for the cold and for beloved brevity's sake". **Nördlingen, *Kir
 > Sonderlich aber zue winterszeiten solle der introitus umb der kelte und geliebter kurze
 > wülen ausgelassen werden.
 
-But where a long psalm falleth, as "Our Father," "Now rejoice, dear Christians all,"
-"Salvation now is come to us," "Through Adam's fall," "Where God the Lord standeth not by
-us," and the like, then the singing of the introit is left out, and the organist alone
-playeth. But especially in the winter season the introit shall be left out, for the cold's
+But where a long psalm falleth, as "Our Father, Who from Heaven Above," "Dear Christians, One
+and All, Rejoice," "Salvation unto Us Has Come," "All Mankind Fell in Adam's Fall," "If God Were
+Not upon Our Side," and the like, then the singing of the introit is left out, and the organist
+alone playeth. But especially in the winter season the introit shall be left out, for the cold's
 sake and for beloved brevity's sake.
 
 #### <a id="s8-5-7"></a>8.5.7 How fixed the slot was
@@ -27889,9 +27924,9 @@ Bugenhagen defended keeping the Greek words, even in German. The people already 
 
 To make a German text out of Latin or other holy Scripture, with a seemly tune, is not every
 man's work; to set up an unlovely singing is no art. Why should one not sing the Kyrie eleison
-in the Mass? For it is sung in other songs, as are: "God be praised," "In the midst of life,"
-"These are the holy ten commandments," "Man, wilt thou live blessedly," "Christ is arisen,"
-"Now pray we the Holy Ghost," "Praised be thou, Jesu Christ," etc.
+in the Mass? For it is sung in other songs, as are: "O Lord, We Praise Thee," "In the Very Midst
+of Life," "These Are the Holy Ten Commands," "Wilt Thou, O Man, Live Happily," "Christ Is
+Arisen," "To God the Holy Spirit Let Us Pray," "We Praise You, Jesus, at Your Birth," etc.
 
 #### <a id="s8-6-4"></a>8.6.4 Troped Kyries
 
@@ -27970,8 +28005,8 @@ Hof sings the same text under the name of its Latin melody, on Whitsunday.
 > bonitatis: Kyrie, Gott Vater in ewigkeit. Loco Et in terra: All ehr und lob soll Gottes sein.
 
 On the feast of Pentecost. Introit: "The whole world is full of the Spirit," etc. *Kyrie fons
-bonitatis*: "Kyrie, God the Father in eternity." In the place of *Et in terra*: "All honour and
-praise shall be God's."
+bonitatis*: "Kyrie, God the Father in eternity." In the place of *Et in terra*: "All Glory Be to
+God Alone."
 
 Nördlingen sings the *Kyrie summum* at Pentecost and on Trinity Sunday (Sehling 12, pp. 321–322;
 quoted in [§12.4.2](#s12-4-2)). In the Henneberg parishes it was the German Kyrie of the
@@ -27988,8 +28023,8 @@ Sunday communion, "the fair Christian song". **Obermassfeld (Henneberg), *Kirche
 When communicants are present, the schoolmaster with the boys and the church singeth first
 the fair Christian song "Kyrie, God the Father in eternity, great is thy mercy," etc.
 Following thereupon, the *Gloria in excelsis Deo*, as the same is also set in German as a
-song: "To God alone on high be glory and thanks for his grace," etc. But where no
-communicants are present we sing "Come, Holy Ghost, Lord God."
+song: "All Glory Be to God on High," etc. But where no
+communicants are present we sing "Come, Holy Ghost, God and Lord."
 
 At Herpf the German *summum* could give way to the Kyrie of the feast. **Herpf (Henneberg),
 1566** (Sehling 2, p. 334):
@@ -28037,8 +28072,8 @@ identification is this book's.
 > deutsch: O herre gott vater allen barmherzigkeit bist uns sündern gnedig etc.
 
 At the beginning the school singeth the German litany, or else a fairly long psalm, as the
-Our Father or "Through Adam's fall," or, with the three short Kyries hung thereto in German,
-"O Lord God, Father of all mercy, be gracious unto us sinners," etc.
+Our Father or "All Mankind Fell in Adam's Fall," or, with the three short Kyries hung thereto in
+German, "O Lord God, Father of all mercy, be gracious unto us sinners," etc.
 
 At Hof the *paschale* is sung from Easter to the Ascension to the words that the order gives
 under its notes, "Herre, erbarm dich uber uns" (Lord, have mercy upon us): the plain German
@@ -28219,7 +28254,7 @@ Here followeth the Kyrie eleison with the *Gloria in excelsis*: "Kyrie eleison, 
 mercy." *Gloria in excelsis*: "Glory be to God on high, and on earth peace." Another Kyrie and
 *Et in terra*: "Lord, have mercy upon us." "Glory be to God on high." *Kyrie paschale*:
 "Kyrie, God, Creator of all the world, and Father, *eleison*." *Gloria in excelsis Deo*: "All
-honour and praise shall be God's."
+Glory Be to God Alone."
 
 The editor refers each to the *Handbuch der deutschen evangelischen Kirchenmusik*; the
 *paschale* is its no. 34 (Sehling 18, p. 248, n. 795).
@@ -28436,8 +28471,8 @@ In East Frisia the German Kyrie and Gloria together were sung "as it is sung in 
 > Alleyn Godt in der hoge sy eer.
 
 First shall be sung one or two German psalms. Thereafter let the Kyrie eleison together with
-the *Gloria in excelsis* be sung in German, as it is sung in the song "To God alone on high be
-glory."
+the *Gloria in excelsis* be sung in German, as it is sung in the song "All Glory Be to God on
+High."
 
 #### <a id="s8-6-6"></a>8.6.6 How fixed the Kyrie was
 
@@ -28488,7 +28523,7 @@ on with *Laudamus te* to the end. **Wolfenbüttel, *Kirchenordnung*, 1543** (Seh
 
 After the Kyrie the priest singeth: *Gloria in excelsis Deo*. The scholars' choir answereth
 and singeth: *Et in terra pax, hominibus bona voluntas*, no more. Straightway the whole church
-singeth "To God alone on high be glory," etc., fully through. Thereafter the scholars and the
+singeth "All Glory Be to God on High," etc., fully through. Thereafter the scholars and the
 organs sing on: *Laudamus te, benedicimus te*, etc., fully through.
 
 The Hildesheim city order of 1544 has the same rubric almost word for word (Sehling 7/2.1, p. 852). So
@@ -28501,7 +28536,7 @@ the Latin Gloria "to the end". **Osnabrück (city), *Kirchenordnung*, 1543** (Se
 > Gloria in excelsis, darup gesungen Allene Gott in der höhe sy ehr, darna dat latineschen
 > Gloria in excelsis, verfolget bet tom ende.
 
-*Gloria in excelsis*; thereupon is sung "To God alone on high be glory"; thereafter the Latin
+*Gloria in excelsis*; thereupon is sung "All Glory Be to God on High"; thereafter the Latin
 *Gloria in excelsis*, followed through to the end.
 
 #### <a id="s8-7-2"></a>8.7.2 Latin one Sunday, German the next
@@ -28517,7 +28552,7 @@ people would not lose their part. The Prussian order says so outright. **Prussia
 > sie ihre andacht mit solchen geistlichen liedern uben.
 
 Thereupon the priest singeth with due reverence *Gloria in excelsis Deo*; the choir, one
-Sunday after the other, *Et in terra pax*, or "To God alone on high be glory." For the German
+Sunday after the other, *Et in terra pax*, or "All Glory Be to God on High." For the German
 psalms must also be kept in use, and room be given to the common multitude also, that they
 may exercise their devotion with such spiritual songs.
 
@@ -28528,7 +28563,7 @@ may exercise their devotion with such spiritual songs.
 > pax oder Allein Gott in der hohe einen Sontag umb den anderen.
 
 In the Mass shall be sung the introit, Kyrie eleison, *Gloria in excelsis et in terra pax*, or
-"To God alone on high," one Sunday after the other.
+"All Glory Be to God on High," one Sunday after the other.
 
 At Harzgerode in Anhalt the Latin *Gloria* and *Et in terra dominicale* alternated with the
 German on ordinary Sundays. At Christmas the old verses *Dies est laetitiae* were sung into it
@@ -28556,9 +28591,9 @@ long, one or other was dropped by turns, and in Lent the Gloria might be left ou
 > in der hoge si ehr; wenn idt will to lange werden, so lat me under tiden dat latinische,
 > unter tiden dat düdesche na, in der vasten mach me dat gloria wol gar ute laten.
 
-The choir singeth thereupon the *Et in terra*; when that is out, let the laity sing "To God
-alone on high be glory." When it will grow too long, let the Latin be left off at times, and
-the German at times; in Lent the Gloria may well be left out altogether.
+The choir singeth thereupon the *Et in terra*; when that is out, let the laity sing "All Glory
+Be to God on High." When it will grow too long, let the Latin be left off at times, and the
+German at times; in Lent the Gloria may well be left out altogether.
 
 The Pomeranian *Agenda* of 1569 offers both German Glorias. **Pomerania, *Agenda*, 1569**
 (Sehling 4, p. 437):
@@ -28567,8 +28602,8 @@ The Pomeranian *Agenda* of 1569 offers both German Glorias. **Pomerania, *Agenda
 > Et in terra pax, latin edder düdisch: Allene godt in der högede si ehre etc., Alle ehre unde
 > pris schal gades sin, etc.
 
-*Et in terra pax*, in Latin or German: "To God alone on high be glory," etc., "All honour and
-praise shall be God's," etc.
+*Et in terra pax*, in Latin or German: "All Glory Be to God on High," etc., "All Glory Be to God
+Alone," etc.
 
 #### <a id="s8-7-3"></a>8.7.3 Teaching the people to sing it
 
@@ -28674,8 +28709,8 @@ In Wittgenstein the priest intoned in German and the people answered with Decius
 > Preiß sey Gott in der höhe. Antwortet der chor oder das volck: Allein Gott in der hohe sey
 > ehr und danck vor seine gnade etc.
 
-"Praise be to God on high." The choir or the people answereth: "To God alone on high be glory
-and thanks for his grace," etc.
+"Praise be to God on high." The choir or the people answereth: "All Glory Be to God on High,"
+etc.
 
 At Ritzebüttel the people took up the priest's Low German intonation and sang it to the end.
 **Ritzebüttel, *Kirchenordnung*, 1556** (Sehling 5, p. 557):
@@ -28684,8 +28719,8 @@ At Ritzebüttel the people took up the priest's Low German intonation and sang i
 > Hirna singet der prester: Ere si gode in der hogede; dat volk singet vordan und vulendet.
 > Alleine godt in der hogede si ehre, und dank vor sine gnade etc.
 
-Hereafter the priest singeth: "Glory be to God on high"; the people sing on and finish it: "To
-God alone on high be glory, and thanks for his grace," etc.
+Hereafter the priest singeth: "Glory be to God on high"; the people sing on and finish it: "All
+Glory Be to God on High," etc.
 
 Neuenrade gave the choir three German answers to the priest. **Neuenrade, *Kirchenordnung*,
 1564** (Sehling 22, p. 518):
@@ -28696,7 +28731,7 @@ Neuenrade gave the choir three German answers to the priest. **Neuenrade, *Kirch
 > vortekent is.
 
 The priest: "Glory be to God on high." The choir: "His wrath on earth," etc., or "And peace on
-earth," or "To God alone on high be glory," as all this is set down below with its notes.
+earth," or "All Glory Be to God on High," as all this is set down below with its notes.
 
 The three are printed further on (Sehling 22, pp. 527–528):
 - a rhymed *Et in terra* that begins "Sin torn up erden hebb ein end, / Sin fred und gnad sick
@@ -28753,7 +28788,7 @@ At Meiningen it was left out in winter, "when it will grow too long". **Meininge
 
 [he] beginneth the office with the *Veni sancte Spiritus* in German; thereupon is sung a
 psalm, the Kyrie eleison in German, thereupon the Gloria (which is left out in winter, when it
-will grow too long), and the German *Et in terra*, "To God alone on high be glory," etc.
+will grow too long), and the German *Et in terra*, "All Glory Be to God on High," etc.
 
 Where the Gloria was dropped, the German hymn went with it: in Advent at Nördlingen, in Lent in
 Pomerania ([§8.7.2](#s8-7-2)), and in winter at Meiningen. Elsewhere the Gloria kept its place in
@@ -28910,8 +28945,8 @@ In former times godless sequences were sung in the Mass without any discretion. 
 no more keep, since we now know by God's grace that God will be honoured according to his
 word, and all service of God is worth nothing that is not done according to his word
 (Matthew 15). So from Christmas unto Easter we will sing the sequence *Grates nunc*, etc., and
-between, "Praised be thou, Jesu Christ," and "Thanks say we all," etc., two verses each time,
-and at the last *Huic oportet*, etc.
+between, "We Praise You, Jesus, at Your Birth," and "Thanks say we all," etc., two verses each
+time, and at the last *Huic oportet*, etc.
 
 <!-- doc 1442 -->
 > Paschen wente tho Pinxsten schal me singen de Sequentie Victime Paschali etc., darup Christ
@@ -28922,11 +28957,11 @@ and at the last *Huic oportet*, etc.
 > Sequentien.
 
 From Easter unto Pentecost shall be sung the sequence *Victimae paschali*, etc., thereupon
-"Christ lay in the bands of death," or "Christ is arisen," etc. But at Pentecost shall be sung
-the sequence *Veni sancte Spiritus*, etc., and thereupon, after every two verses, "Now pray we
-the Holy Ghost." On the day of the Holy Trinity, the introit *Benedicta* and the sequence
-*Benedicta sit sancta*, thereupon "Now pray we the Holy Ghost," if one will. Yet little shall
-be sung of long sequences.
+"Christ Jesus Lay in Death's Strong Bands," or "Christ Is Arisen," etc. But at Pentecost shall
+be sung the sequence *Veni sancte Spiritus*, etc., and thereupon, after every two verses, "To
+God the Holy Spirit Let Us Pray." On the day of the Holy Trinity, the introit *Benedicta* and
+the sequence *Benedicta sit sancta*, thereupon "To God the Holy Spirit Let Us Pray," if one
+will. Yet little shall be sung of long sequences.
 
 Wittenberg (1533) is more generous, but it names one sequence it will not have: the "lousy
 and monkish" sequence of St John the Baptist. **Wittenberg, *Kirchenordnung*, 1533** (Sehling 1, p. 704):
@@ -28960,16 +28995,15 @@ alleluia. For the Purification its "sequence" is already Luther's German "Mit Fr
 > und gemelter psalmen ainen an dero stat singen von des volks wegen.
 
 The chiefest feasts have their pure and good sequences. By these one shall abide, namely: the
-Nativity of the Lord, *Grates nunc omnes reddamus Domino*; the Purification, "In peace and joy
-I now depart"; Easter, *Victimae paschali laudes*; of the Trinity, *Benedicta semper sancta sit
-Trinitas*; of the Holy Ghost, *Veni, Sancte Spiritus*, or *Sancti Spiritus adsit nobis
-gratia*. On the other holy days and feasts, that have no pure sequences or none, the gradual
-or alleluia shall be sung. But where these were not pure, as commonly of the saints, let one
-of these psalms be sung in their stead: "A mighty fortress is our God," etc.; "Were God not
-with us at this time," etc.; "Blessed is he that standeth in God's fear," etc.; "Out of the
-depths," etc.; "Man, wilt thou live blessedly," etc. Then also on Sundays the graduals and
-alleluias may be changed about, and one of the said psalms sung in their stead, for the
-people's sake.
+Nativity of the Lord, *Grates nunc omnes reddamus Domino*; the Purification, "In Peace and Joy I
+Now Depart"; Easter, *Victimae paschali laudes*; of the Trinity, *Benedicta semper sancta sit
+Trinitas*; of the Holy Ghost, *Veni, Sancte Spiritus*, or *Sancti Spiritus adsit nobis gratia*.
+On the other holy days and feasts, that have no pure sequences or none, the gradual or alleluia
+shall be sung. But where these were not pure, as commonly of the saints, let one of these psalms
+be sung in their stead: "A Mighty Fortress Is Our God," etc.; "If God Had Not Been on Our Side,"
+etc.; "Happy the Man Who Feareth God," etc.; "From Depths of Woe I Cry to Thee," etc.; "Wilt
+Thou, O Man, Live Happily," etc. Then also on Sundays the graduals and alleluias may be changed
+about, and one of the said psalms sung in their stead, for the people's sake.
 
 #### <a id="s8-8-3"></a>8.8.3 Farced sequences: Latin verses and German stanzas by turns
 
@@ -29002,14 +29036,14 @@ stanza of "Christ lag" comes after every verse of *Victimae*. At Pentecost a Ger
 > latinschen verschen ein dudesch versch van dem lede: Nu bidde wi den hilligen geest etc.
 
 From Christmas unto the Purification shall be sung the sequence *Grates nunc omnes*, etc., and
-after this manner, between, the song "Praised be thou, Jesu Christ," etc. First *Grates* shall
-be sung, thereupon two German verses; once more *Grates* and two other German verses; also the
-third time *Grates* and two other German verses. At the last *Huic oportet*, with the last
+after this manner, between, the song "We Praise You, Jesus, at Your Birth," etc. First *Grates*
+shall be sung, thereupon two German verses; once more *Grates* and two other German verses; also
+the third time *Grates* and two other German verses. At the last *Huic oportet*, with the last
 German verse. From Easter unto Pentecost shall be sung the sequence *Victimae paschali*, so
-that after every verse one also sing a verse of the German song "Christ lay in the bands of
-death." But the song "Christ is arisen" shall be sung after the accustomed manner when the
-sermon is begun. At Pentecost shall be sung the sequence *Veni sancte Spiritus*, and after
-every two Latin verses a German verse of the song "Now pray we the Holy Ghost," etc.
+that after every verse one also sing a verse of the German song "Christ Jesus Lay in Death's
+Strong Bands." But the song "Christ Is Arisen" shall be sung after the accustomed manner when
+the sermon is begun. At Pentecost shall be sung the sequence *Veni sancte Spiritus*, and after
+every two Latin verses a German verse of the song "To God the Holy Spirit Let Us Pray," etc.
 
 The Prussian order of 1568 has the same scheme and adds Trinity. The Trinity sequence is
 to alternate Sunday by Sunday with a German psalm, "that the German songs may remain in the
@@ -29031,16 +29065,16 @@ church". **Prussia, *Kirchenordnung und Ceremonien*, 1568** (Sehling 4, p. 81):
 
 After the epistle, on the feast days, the sequences are sung where they are pure: as at
 Christmas, *Grates nunc omnes*; and when that hath been sung once, thereupon with the
-congregation the two first verses of "Praised be thou, Jesu Christ," etc.; when it is sung
-the second time, again two verses of the same psalm. When *Huic oportet, ut canamus cum
+congregation the two first verses of "We Praise You, Jesus, at Your Birth," etc.; when it is
+sung the second time, again two verses of the same psalm. When *Huic oportet, ut canamus cum
 angelis* hath then been sung, the three last verses shall follow; and this shall be kept
 from Christmas unto the Purification. At Easter the sequence *Victimae paschali laudes* is
-sung, and among it "Christ lay in the bands of death," verse by verse. At Pentecost is sung
-*Veni sancte Spiritus et emitte coelitus*, etc., and after two Latin verses always one German
-verse out of the fair song "Now pray we the Holy Ghost," etc. On Trinity the sequence
-*Benedicta semper sit Trinitas* is sung; and the same may be changed on the following Sundays,
-one after the other, with a German psalm, so that one Sunday the said sequence is sung, the
-other a German psalm, that the German songs may remain in the church.
+sung, and among it "Christ Jesus Lay in Death's Strong Bands," verse by verse. At Pentecost is
+sung *Veni sancte Spiritus et emitte coelitus*, etc., and after two Latin verses always one
+German verse out of the fair song "To God the Holy Spirit Let Us Pray," etc. On Trinity the
+sequence *Benedicta semper sit Trinitas* is sung; and the same may be changed on the following
+Sundays, one after the other, with a German psalm, so that one Sunday the said sequence is sung,
+the other a German psalm, that the German songs may remain in the church.
 
 In Mecklenburg the organ played the Latin verses and the cantor sang the German stanzas in
 between. The Latin text was not sung at all; the organ stood for it. **Mecklenburg,
@@ -29059,7 +29093,7 @@ after this manner. Where there is an organ, let the organist play *Grates*. Ther
 him hold still, and the cantor begin "Praised be thou." Thereafter the other verse, "Of the
 eternal Father," and then sing *Grates nunc omnes*. Thereafter the organist playeth *Grates*
 again. […] At Easter likewise: let the organist play *Victimae*; let the cantor begin the two
-first verses of "Christ lay in the bands of death."
+first verses of "Christ Jesus Lay in Death's Strong Bands."
 
 The same Mecklenburg order sang Luther's Advent hymn "Nun komm der Heiden Heiland" (the German
 *Veni redemptor*) after the Advent alleluia.
@@ -29080,8 +29114,9 @@ Touching the sequence, one shall sing the same also after the alleluia; yet so t
 Easter unto Pentecost one sing *Victimae paschali*; from Pentecost unto Trinity, *Veni, sancte
 Spiritus*; from Trinity, as long as it seemeth good to the pastor, the sequence of the Holy
 Trinity; from Christmas unto the Purification of Mary, *Grates nunc omnes*. But here, between
-every verse, one shall sing the customary German songs: at Easter, "Christ is arisen"; at
-Pentecost, "Now pray we the Holy Ghost"; at Christmas, "Praised be thou, Jesu Christ," etc.
+every verse, one shall sing the customary German songs: at Easter, "Christ Is Arisen"; at
+Pentecost, "To God the Holy Spirit Let Us Pray"; at Christmas, "We Praise You, Jesus, at Your
+Birth," etc.
 
 At Harzgerode the people "sang in" the German stanzas, and on ordinary Sundays a German song
 took the place of the sequence. On the feasts of Our Lady the hymn was "Herr Christ, der einig
@@ -29095,12 +29130,12 @@ Gotts Sohn". **Harzgerode, *Kirchenordnunge*, 1534 (?)** (Sehling 2, p. 586):
 > sequenz ein deutsch lied ader psalm, auf unser frauen fest das lied Her Christ der einig gots
 > son.
 
-At Christmas, in the sequence *Grates nunc omnes*, the German stanzas "Praised be thou" with
-those following are sung in among it by the people; at Easter the sequence *Victimae paschali*
-together with "Christ is arisen"; at Pentecost the sequence *Veni sancte Spiritus et emitte
-coelitus*, and thereto the stanzas "Now pray we the Holy Ghost" with the others; on the common
-Sundays, in the stead of the sequence, a German song or psalm; on the feasts of Our Lady the
-song "Lord Christ, the only Son of God."
+At Christmas, in the sequence *Grates nunc omnes*, the German stanzas "We Praise You, Jesus, at
+Your Birth" with those following are sung in among it by the people; at Easter the sequence
+*Victimae paschali* together with "Christ Is Arisen"; at Pentecost the sequence *Veni sancte
+Spiritus et emitte coelitus*, and thereto the stanzas "To God the Holy Spirit Let Us Pray" with
+the others; on the common Sundays, in the stead of the sequence, a German song or psalm; on the
+feasts of Our Lady the song "The Only Son from Heaven."
 
 The Anhalt *Ordnung der deutschen Gesänge* calls this "weaving in". **Anhalt, *Ordnung der
 deutschen Gesänge*, before 8 February 1551** (Sehling 2, p. 555):
@@ -29159,8 +29194,8 @@ ecclesiasticus*, 1592** (Sehling 11, p. 440):
 > Post epistolam: Christ lag in todesbanden, oder der sequenz Victimae paschali, deudsch: Wir
 > christen opfern allesambt.
 
-After the epistle: "Christ lay in the bands of death," or the sequence *Victimae paschali* in
-German, "We Christians offer all together."
+After the epistle: "Christ Jesus Lay in Death's Strong Bands," or the sequence *Victimae
+paschali* in German, "We Christians offer all together."
 
 #### <a id="s8-8-5"></a>8.8.5 A hymn in the place of the gradual
 
@@ -29199,11 +29234,12 @@ their hymns. **Pomerania, *Kirchenordnung*, 1542** (Sehling 4, p. 356):
 > me, herr wol werd wohnen etc. und andere psalme, de man wet upt bequemest to gebruken.
 
 or on the other Sundays a psalm that rhymeth with the gospel as much as may be: as, when the
-gospel speaketh of faith and of grace, let "Salvation now is come to us" be sung, item "Through
-Adam's fall," or the like; but when the gospel speaketh of the godless Jews and hypocrites,
-how they deal against Christ, let "The mouth of the unwise saith indeed" be sung, item "Ah God,
-from heaven"; when it speaketh of good works which God commandeth us, let "Lord, who shall
-dwell," etc. be sung; and other psalms which one knoweth to use most fitly.
+gospel speaketh of faith and of grace, let "Salvation unto Us Has Come" be sung, item "All
+Mankind Fell in Adam's Fall," or the like; but when the gospel speaketh of the godless Jews and
+hypocrites, how they deal against Christ, let "The Mouth of Fools Doth God Confess" be sung,
+item "O Lord, Look Down from Heaven, Behold"; when it speaketh of good works which God
+commandeth us, let "Lord, who shall dwell," etc. be sung; and other psalms which one knoweth to
+use most fitly.
 
 **Mecklenburg, *Ordeninge der misse*, 1545** (Sehling 5, p. 153):
 
@@ -29221,13 +29257,13 @@ dwell," etc. be sung; and other psalms which one knoweth to use most fitly.
 
 In the villages a German psalm shall always be sung, as may also at times be done in the
 towns; and especially the psalms that rhyme with the holy gospel. As, when the gospel speaketh
-of faith and of grace, let "Salvation now is come to us," etc., "Through Adam's fall," be sung.
-If it be a teaching of our Saviour, let "God's justice and wondrous deed" be sung. If the gospel
-speak of the Jews, how they deal against Christ, let "The mouth of the unwise saith indeed,"
-"Ah God, from heaven look down," "Where God the Lord standeth not by us," and the second psalm,
-"Help, God, how goeth it ever so," be sung. When it speaketh of good works, let "These are the
-holy ten commandments," "Blessed is he that standeth in God's fear," "Lord, who shall dwell in
-thy tabernacle" […] be sung. When the gospel is a teaching of the right use of these
+of faith and of grace, let "Salvation unto Us Has Come," etc., "All Mankind Fell in Adam's
+Fall," be sung. If it be a teaching of our Saviour, let "God's justice and wondrous deed" be
+sung. If the gospel speak of the Jews, how they deal against Christ, let "The Mouth of Fools
+Doth God Confess," "O Lord, Look Down from Heaven, Behold," "If God Were Not upon Our Side," and
+the second psalm, "Help, God, how goeth it ever so," be sung. When it speaketh of good works,
+let "These Are the Holy Ten Commands," "Happy the Man Who Feareth God," "Lord, who shall dwell
+in thy tabernacle" […] be sung. When the gospel is a teaching of the right use of these
 transitory things, let "Except God himself build the house" be sung.
 
 Later orders keep the rule in shorter form. **Pomerania, *Agenda*, 1569** (Sehling 4, p. 438):
@@ -29264,7 +29300,7 @@ one-hymn-per-Sunday table is printed in [`hymns.db`](#repo-hymns):
 > dominica 1. adventus: Nun kom der heiden heiland.
 
 The congregation singeth a German song that fitteth the season and the gospel; as on the first
-Sunday of Advent, "Now come, the Saviour of the heathen."
+Sunday of Advent, "Savior of the Nations, Come."
 
 At Weissenfels even the festal Mass sung in figured music kept this German hymn. **Weissenfels,
 *Ordnung der geseng*, 1578** (Sehling 1, p. 694):
@@ -29308,12 +29344,11 @@ sermon. The order closes with an open clause for the rest of the year:
 > Up Annunciationis und Visitationis: Her Christ, de einige Godes Son, Vader in ewicheit, etc.
 
 After the epistle the alleluia is sung, and the sequence, or else a song, as they are here
-ordained one after another. In Advent: alleluia; thereupon "Lord Christ, the only Son of God,"
+ordained one after another. In Advent: alleluia; thereupon "The Only Son from Heaven,"
 etc. From Christmas unto the Purification: alleluia, *Grates nunc omnes* […]; thereupon
-"Praised be thou, Jesu Christ" […]. On the Purification or Candlemas, after the alleluia, "In
-peace and joy I now depart," etc. In Lent: "In the midst of life we are compassed with death,"
-etc. On the Annunciation and the Visitation: "Lord Christ, the only Son of God, Father in
-eternity," etc.
+"We Praise You, Jesus, at Your Birth" […]. On the Purification or Candlemas, after the alleluia,
+"In Peace and Joy I Now Depart," etc. In Lent: "In the Very Midst of Life," etc. On the
+Annunciation and the Visitation: "The Only Son from Heaven," etc.
 
 <!-- doc 1544 -->
 > Up Ostern beth up Hemelfarth: Alleluia. Darup volget Victimae Paschali laudes etc., Und
@@ -29324,11 +29359,11 @@ eternity," etc.
 > will und sick am be[sten schicket].
 
 From Easter unto the Ascension: alleluia; thereupon followeth *Victimae paschali laudes*, etc.,
-and the people sing between: "Christ is arisen"; or one singeth "Christ lay in the bands of
-death" […]. The Ascension: alleluia, "Now rejoice, dear Christians all," etc. […] Pentecost:
-alleluia, "Now pray we the Holy Ghost," etc. Trinity: "God the Father be with us," etc.
-Michaelmas: "Now praise, my soul, the Lord," etc. At other times one taketh what one will and
-what fitteth best.
+and the people sing between: "Christ Is Arisen"; or one singeth "Christ Jesus Lay in Death's
+Strong Bands" […]. The Ascension: alleluia, "Dear Christians, One and All, Rejoice," etc. […]
+Pentecost: alleluia, "To God the Holy Spirit Let Us Pray," etc. Trinity: "Triune God, Be Thou
+Our Stay," etc. Michaelmas: "My Soul, Now Praise Your Maker," etc. At other times one taketh
+what one will and what fitteth best.
 
 **Prussia, *Kirchenordnung*, 1544** (Sehling 4, p. 65). Here the alleluia is sung "with the
 melody rhymed to" the German psalm that follows. The list is to be rotated, "as is the use at
@@ -29344,13 +29379,13 @@ Königsberg":
 > Weihnachten: Gelobet seistu Jesu Christ. Item, Grates nunc omnes. Dank sagen wir nu alle etc.
 
 There followeth the alleluia, with the melody rhymed to the German psalm that one will sing,
-as: "Joyfully will we sing alleluia"; "A mighty fortress is our God"; Doctor Martin's song of
-the baptism of Christ; item his "Our Father in the kingdom of heaven"; item "Ah Father of ours,
-who art," etc. To be changed about, as is the use at Königsberg, etc. On the feasts there is
-proper matter, as at Easter "Christ lay in the bands of death," item "Jesus Christ our
-Saviour"; at Pentecost, "Come, God Creator, Holy Ghost," "Now pray we the Holy Ghost"; at
-Christmas, "Praised be thou, Jesu Christ," item *Grates nunc omnes*, "Thanks say we now all,"
-etc.
+as: "Sing Loud Hallelujah, in Jubilant Chorus"; "A Mighty Fortress Is Our God"; Doctor Martin's
+song of the baptism of Christ; item his "Our Father, Who from Heaven Above"; item "Ah Father of
+ours, who art," etc. To be changed about, as is the use at Königsberg, etc. On the feasts there
+is proper matter, as at Easter "Christ Jesus Lay in Death's Strong Bands," item "Jesus Christ,
+Who Came, Us to Save"; at Pentecost, "Come, God, Creator, Holy Ghost," "To God the Holy Spirit
+Let Us Pray"; at Christmas, "We Praise You, Jesus, at Your Birth," item *Grates nunc omnes*,
+"Thanks say we now all," etc.
 
 Of the tables in `hymns.db`, the following passages show how they were meant to be used.
 
@@ -29368,13 +29403,14 @@ hymn for about four Sundays running, so that the congregation may learn it:
 > der unweiser mund wol, Ein feste burg, Es wolt uns got gnedig sein, Aus tiefer not, Ich rufe
 > zu dir her Jesu Christ und dergleichen.
 
-After Trinity. Until Advent let "Now pray we the Holy [Ghost]" be sung always before the early
-sermon; but in the Mass these following songs shall be sung before the gospel, some four
+After Trinity. Until Advent let "To God the Holy Spirit Let Us Pray" be sung always before the
+early sermon; but in the Mass these following songs shall be sung before the gospel, some four
 Sundays one after another, until Advent, that the congregation may the more easily learn and
-keep them: "Have mercy on me, O Lord God"; "Our Father in the kingdom of heaven"; "Salvation now
-is come to us" (about half, and the other half afterward); "Ah God, from heaven look down";
-"The mouth of the unwise saith indeed"; "A mighty fortress"; "May God be gracious unto us"; "Out
-of the depths"; "I call to thee, Lord Jesu Christ"; and the like.
+keep them: "Have mercy on me, O Lord God"; "Our Father, Who from Heaven Above"; "Salvation unto
+Us Has Come" (about half, and the other half afterward); "O Lord, Look Down from Heaven,
+Behold"; "The Mouth of Fools Doth God Confess"; "A Mighty Fortress Is Our God"; "May God Bestow
+on Us His Grace"; "From Depths of Woe I Cry to Thee"; "Lord, Hear the Voice of My Complaint";
+and the like.
 
 **Nördlingen, *Ordnung der ceremonien* at St George's, 1555** (Sehling 12, p. 323). The
 order prints a Sunday list for the psalm after the epistle, taken from the Naumburg order of
@@ -29399,8 +29435,8 @@ The Nördlingen order of 1579 prints its own list and fits it to the sermon as w
 > Purificationis bis uf den sonntag Septuagesima: Mit frid und freud ich fahr dahin etc.
 
 But where on the sixth of January, or the Sunday before Epiphany, it is preached of the baptism
-of Christ, the psalm "Christ our Lord to Jordan came," etc. shall be sung. From the
-Purification unto the Sunday Septuagesima, "In peace and joy I now depart," etc.
+of Christ, the psalm "To Jordan Came the Christ, Our Lord," etc. shall be sung. From the
+Purification unto the Sunday Septuagesima, "In Peace and Joy I Now Depart," etc.
 
 **Pirna, *Kirchenordnung* of Anton Lauterbach, between 1555 and 1569**
 (Sehling 1, pp. 642–643). The order is undated. Sehling dates it probably after 1555, since its
@@ -29428,8 +29464,8 @@ as not by Luther. **Mansfeld, *Kirchen-Agenda*, 1580** (Sehling 2, p. 238):
 > Domin. I. post trinitatis. Gott der vater wohne uns bei, etc. Ach gott von himel sich darein
 > etc. *Es war einmal ein reicher man.
 
-The first Sunday after Trinity: "God the Father be with us," etc.; "Ah God, from heaven look
-down," etc.; *"There was once a rich man."
+The first Sunday after Trinity: "Triune God, Be Thou Our Stay," etc.; "O Lord, Look Down from
+Heaven, Behold," etc.; *"There was once a rich man."
 
 On Oculi, Mansfeld puts the litany in the place of the sequence (Sehling 2, p. 238):
 
@@ -29451,8 +29487,8 @@ tune". **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 436):
 > das vorgehend sowol des künftigen sontagsgesang dem gemeinen man unbekant. und er allein den
 > ton höret.
 
-After the epistle: "Lord God, we call upon thy name," or instead "Ah God, from heaven look
-down," because the foregoing, as also the song of the coming Sunday, is unknown to the common
+After the epistle: "Lord God, we call upon thy name," or instead "O Lord, Look Down from Heaven,
+Behold," because the foregoing, as also the song of the coming Sunday, is unknown to the common
 man, and he heareth only the tune.
 
 For Advent the same table offers a shorter hymn "when it is very cold", and keeps the longer one
@@ -29463,9 +29499,9 @@ for the communion (Sehling 11, p. 432):
 > Jesu. Ita ut praecedens sub communionem reservetur. vel etiam sequentia: Als der gutige Got
 > vollenden wolt.
 
-After the epistle: "Through Adam's fall is all corrupt," or, when it is very cold, "I call to
-thee, Lord Jesu"; so that the foregoing be kept back for the communion; or else the sequence
-"When the good God would fulfil."
+After the epistle: "All Mankind Fell in Adam's Fall," or, when it is very cold, "Lord, Hear the
+Voice of My Complaint"; so that the foregoing be kept back for the communion; or else the
+sequence "When the good God would fulfil."
 
 Wittgenstein rotated its psalm-hymns for the opposite reason: so that the congregation would
 not stay "on one side" and leave the other fine psalms unlearned. **Wittgenstein,
@@ -29488,13 +29524,13 @@ This order is kept some Sundays after the high feasts. But when that time is out
 stead of the foregoing songs other spiritual German psalms shall be sung, so that
 nevertheless this order and the whole action remain and be kept in its being continually. And
 the pastors in the villages shall exhort and instruct their little folk to learn to sing
-along such psalms, as these are: "Through Adam's fall," etc.; "These are the holy ten
-commandments," etc.; "I call upon thee, Lord Jesu Christ," etc.; "Now rejoice, dear Christians
-all," etc.; "Out of the depths I cry to thee," etc.; "Have mercy on me, O Lord God," etc.; "A
-mighty fortress is our God," etc.; "Where God the Lord standeth not by us," etc.; "Ah God, from
-heaven look down," etc.; "The mouth of the unwise saith indeed," etc.; of which psalms one shall
-sing one after the other in turn, that one abide not always on one side and the fair psalms
-remain unlearned.
+along such psalms, as these are: "All Mankind Fell in Adam's Fall," etc.; "These Are the Holy
+Ten Commands," etc.; "Lord, Hear the Voice of My Complaint," etc.; "Dear Christians, One and
+All, Rejoice," etc.; "From Depths of Woe I Cry to Thee," etc.; "Have mercy on me, O Lord God,"
+etc.; "A Mighty Fortress Is Our God," etc.; "If God Were Not upon Our Side," etc.; "O Lord, Look
+Down from Heaven, Behold," etc.; "The Mouth of Fools Doth God Confess," etc.; of which psalms
+one shall sing one after the other in turn, that one abide not always on one side and the fair
+psalms remain unlearned.
 
 #### <a id="s8-8-9"></a>8.8.9 The litany in this slot
 
@@ -29545,10 +29581,10 @@ only when there was figured music. **Regensburg, *Kirchenordnung* of Justus Jona
 > deinem wort etc. […] An sunderlichen festen aber pflegt man je zu weilen von kurz wegen, so
 > oft man figurirt, für die letanei die alleluia und sequenz de tempore zu nemen.
 
-Thereafter the choir singeth the litany set forth in Prussia, with the appendix "Keep us, Lord,
-by thy word," etc. […] But on special feasts it is the custom now and then, for brevity's
-sake, as oft as figured music is sung, to take the alleluia and sequence of the season in the
-stead of the litany.
+Thereafter the choir singeth the litany set forth in Prussia, with the appendix "Lord, Keep Us
+Steadfast in Your Word," etc. […] But on special feasts it is the custom now and then, for
+brevity's sake, as oft as figured music is sung, to take the alleluia and sequence of the season
+in the stead of the litany.
 
 The later Regensburg order even calls "Erhalt uns" the "sequence of the season". **Regensburg,
 *Kirchenordnung*, 1567** (Sehling 13, p. 462):
@@ -29557,8 +29593,8 @@ The later Regensburg order even calls "Erhalt uns" the "sequence of the season".
 > darauf singt der chor sequentiam de tempore: Erhalt uns, Herr, bei deinem wort, oder sonst
 > etwas deudsches.
 
-thereupon the choir singeth the sequence of the season: "Keep us, Lord, by thy word," or else
-something German.
+thereupon the choir singeth the sequence of the season: "Lord, Keep Us Steadfast in Your Word,"
+or else something German.
 
 The Litany as a rite, with its forms, singers and days, is treated in
 [Chapter 13](#ch13), [§13.21](#s13-21).
@@ -29612,7 +29648,7 @@ the German creed after it, or even at the same time as it. **Pfalz-Neuburg,
 
 After the gospel the priest shall sing the *Credo* and the choir the *Patrem* in Latin; or,
 where there is no choir, the priest may sing or say it himself, and meanwhile let the people
-sing the German song "We all believe in one God."
+sing the German song "We All Believe in One True God."
 
 At Aschersleben the credal slot rotated over four Sundays: German, Latin with the *Patrem*,
 figured music, and the litany. **Aschersleben, *Kirchen-Agenda*, 1575** (Sehling 2, p. 478):
@@ -29659,8 +29695,8 @@ together lead into the sermon. **Prussia, *Kirchenordnung und Ceremonien*, 1568*
 > auf das evangelium singet man: Wir glauben all an einen gott etc. und nach denselbigen: Nu
 > bitten wir den heiligen geist etc.
 
-after the gospel is sung "We all believe in one God," etc., and after the same, "Now pray we
-the Holy Ghost," etc.
+after the gospel is sung "We All Believe in One True God," etc., and after the same, "To God the
+Holy Spirit Let Us Pray," etc.
 
 #### <a id="s8-9-2"></a>8.9.2 After the sermon: the creed as the offertory
 
@@ -29678,7 +29714,7 @@ bread and wine. The creed-hymn thus fills the slot of the old offertory. **Hambu
 
 When the preacher cometh down, the priest before the altar, turned toward the altar, singeth:
 "I believe in one God." Then the people or the choir sing the whole Nicene Creed through,
-verse by verse, and thereto "We all believe in one God," etc. Meanwhile the communicants go
+verse by verse, and thereto "We All Believe in One True God," etc. Meanwhile the communicants go
 into the choir, the women and maidens on the left side apart, and the men and servants on the
 right side apart; and the priest prepareth bread and wine, and what is needful thereto.
 
@@ -29705,11 +29741,11 @@ confesses its faith. **Buxtehude, *Kirchenordnung*, 1552** (Sehling 7/1, p. 75):
 > geloven gesungen wert, schollen de communicanten in den chorr gahn, schicklick, ordentlick,
 > mit reverentie dat hochwerdige sacramente aldar to entfangende.
 
-When the sermon is ended, the preacher in the pulpit shall begin "We believe" for the choir
-and people. And because in "We believe" the church confesseth her faith, all three verses
-shall be sung wholly through by the congregation without organ. While "We believe" is being
-sung, the communicants shall go into the choir, seemly, orderly, with reverence, there to
-receive the most worthy sacrament.
+When the sermon is ended, the preacher in the pulpit shall begin "We All Believe in One True
+God" for the choir and people. And because in "We All Believe in One True God" the church
+confesseth her faith, all three verses shall be sung wholly through by the congregation without
+organ. While "We All Believe in One True God" is being sung, the communicants shall go into the
+choir, seemly, orderly, with reverence, there to receive the most worthy sacrament.
 
 **Bremen, *Kirchenordnung*, 1534** (Sehling 7/2.2, p. 460):
 
@@ -29728,7 +29764,7 @@ who are exhorted to sing, singeth the creed. And during it the communicants go i
 > geloven alle an einen Godt etc.
 
 After the sermon the priest before the altar beginneth *Credo in unum Deum*. Thereupon is sung
-"We all believe in one God," etc.
+"We All Believe in One True God," etc.
 
 The Lüneburg city order of 1575 keeps the organ silent during the creed. The creed also covers
 the minister's return to the altar. **Lüneburg, *Kirchenordnung*, 1575** (Sehling 6/1, p. 659):
@@ -29740,9 +29776,9 @@ the minister's return to the altar. **Lüneburg, *Kirchenordnung*, 1575** (Sehli
 > gehet der diener widderumb vor den altar.
 
 The people are also at times exhorted to abide in the church for the communion; and thereupon
-"We believe" is sung, and during it the organ is not played; and next, according to the
-occasion of the time, the *Credo in unum Deum*, etc. During it the minister goeth again before
-the altar.
+"We All Believe in One True God" is sung, and during it the organ is not played; and next,
+according to the occasion of the time, the *Credo in unum Deum*, etc. During it the minister
+goeth again before the altar.
 
 The Liegnitz order of 1542 also has the creed after the sermon, after the Lord's Prayer and
 the reading of 1 Corinthians 11. **Liegnitz, *Kirchenordnung*, 1542** (Sehling 3, p. 439):
@@ -29752,9 +29788,9 @@ the reading of 1 Corinthians 11. **Liegnitz, *Kirchenordnung*, 1542** (Sehling 3
 > der predigt mag man singen das vater unser, nachdem mag man lesen den text Pauli 1. Cor. 11.
 > Von dem abendmahl, oder das 6 te capitel Johannis. Darauf werde gesungen der glaube.
 
-Thereafter the gospel in German, and the song "Come, Holy Ghost," and preach thereon. After the
-sermon one may sing the Our Father; after that one may read the text of Paul, 1 Corinthians 11,
-of the Supper, or the sixth chapter of John. Thereupon let the creed be sung.
+Thereafter the gospel in German, and the song "Come, Holy Ghost, God and Lord," and preach
+thereon. After the sermon one may sing the Our Father; after that one may read the text of Paul,
+1 Corinthians 11, of the Supper, or the sixth chapter of John. Thereupon let the creed be sung.
 
 #### <a id="s8-9-3"></a>8.9.3 The creed-hymn to cover the preacher's movement
 
@@ -29765,8 +29801,8 @@ The creed often covered the preacher's going up into the pulpit or coming down t
 > Finito evangelio singe de magister mit dem chore: Wi geloven etc., underdes sticht de
 > predicante up den predigstole.
 
-When the gospel is finished, let the schoolmaster sing with the choir "We believe," etc.;
-meanwhile the preacher goeth up into the pulpit.
+When the gospel is finished, let the schoolmaster sing with the choir "We All Believe in One
+True God," etc.; meanwhile the preacher goeth up into the pulpit.
 
 In Württemberg the creed or a German psalm covered his coming down. **Württemberg,
 *Kirchenordnung*, 1536** (Sehling 16, p. 107):
@@ -29790,10 +29826,10 @@ glauben all" was sung instead. **Schweinfurt, *Gottesdienstordnung*, 1576** (Seh
 > all an einen Gott etc. gesungen werden. NB. Per tres dominicas Adventus soll der glaub
 > gesungen werden.
 
-The choir beginneth the *Patrem*, which being ended there followeth straightway the song "Now
-pray we the Holy Ghost." N.B.: But in Advent, in the stead of the song "Now pray we," etc.,
-"We all believe in one God," etc. must and shall be sung. N.B.: Through three Sundays of Advent
-the creed shall be sung.
+The choir beginneth the *Patrem*, which being ended there followeth straightway the song "To God
+the Holy Spirit Let Us Pray." N.B.: But in Advent, in the stead of the song "To God the Holy
+Spirit Let Us Pray," etc., "We All Believe in One True God," etc. must and shall be sung. N.B.:
+Through three Sundays of Advent the creed shall be sung.
 
 #### <a id="s8-9-5"></a>8.9.5 How fixed the slot was
 
@@ -29842,11 +29878,12 @@ stanza of Luther's "Nun freut euch":
 > Christi: Christ ist uperstanden, van der himmelfart bet to Pinxsten: To himmel to dem Vader
 > myn, van Pinxsten wedder bet to Wynachten: Nun bidden wy den hilligen Geist.
 
-and before all his sermons [the pastor shall] pray in the manner of a song the prayer "Now
-pray we the Holy Ghost"; save that the song before the sermon must change according to the
-occasion of the season: as from Christmas unto Candlemas, "Praised be thou, Jesu Christ"; from
-Easter unto the Ascension of Christ, "Christ is arisen"; from the Ascension unto Pentecost, "To
-heaven, to my Father"; from Pentecost again unto Christmas, "Now pray we the Holy Ghost."
+and before all his sermons [the pastor shall] pray in the manner of a song the prayer "To God
+the Holy Spirit Let Us Pray"; save that the song before the sermon must change according to the
+occasion of the season: as from Christmas unto Candlemas, "We Praise You, Jesus, at Your Birth";
+from Easter unto the Ascension of Christ, "Christ Is Arisen"; from the Ascension unto Pentecost,
+"To heaven, to my Father"; from Pentecost again unto Christmas, "To God the Holy Spirit Let Us
+Pray."
 
 The Naumburg order of 1527 sang the first stanza of "Nun bitten" with an added stanza of its
 own, "Herre Christ, Gottes Sohn". **Naumburg, *Kirchen-Ordnung* for St Wenzel, 1527**
@@ -29858,9 +29895,9 @@ own, "Herre Christ, Gottes Sohn". **Naumburg, *Kirchen-Ordnung* for St Wenzel, 1
 > christenheit not, denn du uns lieber herr an dem creuze hast erlost. Kirieleis. Hirnach so
 > geht der prediger auf die canzel.
 
-then the Holy Ghost is called upon with this song, thus: "Now pray we the Holy Ghost," etc.
-[…] "Lord Christ, Son of God, for thy passion's sake, remember the need of all Christendom; for
-thou, dear Lord, hast redeemed us on the cross. Kyrieleis." Hereafter the preacher goeth up
+then the Holy Ghost is called upon with this song, thus: "To God the Holy Spirit Let Us Pray,"
+etc. […] "Lord Christ, Son of God, for thy passion's sake, remember the need of all Christendom;
+for thou, dear Lord, hast redeemed us on the cross. Kyrieleis." Hereafter the preacher goeth up
 into the pulpit.
 
 **Prussia, *Kirchenordnung und Ceremonien*, 1568** (Sehling 4, p. 79), at the early sermon in
@@ -29870,8 +29907,8 @@ Königsberg:
 > und wird auf das gebet gesungen: Nun bitten wir den heiligen geist etc., damit gehet der
 > pfarrherr auf die kanzel und predigt das evangelium de tempore.
 
-and after the prayer is sung "Now pray we the Holy Ghost," etc.; therewith the pastor goeth up
-into the pulpit and preacheth the gospel of the season.
+and after the prayer is sung "To God the Holy Spirit Let Us Pray," etc.; therewith the pastor
+goeth up into the pulpit and preacheth the gospel of the season.
 
 In Nördlingen only the first stanza was sung, and the preacher began at once. **Nördlingen,
 *Kirchenordnung* of Kaspar Löner, 1544** (Sehling 12, p. 312):
@@ -29880,8 +29917,8 @@ In Nördlingen only the first stanza was sung, and the preacher began at once. *
 > Nach dem glauben sol aber die ganze kirche singen Nun bitten wir den Hailigen Gaist, nur das
 > erste gesetze, und der predicant sol darauf predigen.
 
-But after the creed the whole church shall sing "Now pray we the Holy Ghost," only the first
-stanza, and the preacher shall preach thereupon.
+But after the creed the whole church shall sing "To God the Holy Spirit Let Us Pray," only the
+first stanza, and the preacher shall preach thereupon.
 
 In Herford the preacher, from the pulpit, bade the people pray an Our Father or sing "Nun
 bitten", "according as the feasts are". **Herford, *Kirchenordnung*, 1532** (Sehling 21, p. 176):
@@ -29892,8 +29929,8 @@ bitten", "according as the feasts are". **Herford, *Kirchenordnung*, 1532** (Seh
 > Winachten etc.
 
 Then the preacher goeth up into the pulpit and exhorteth to say a *Pater noster*, or to sing
-"Now pray we the Holy Ghost," etc., according as the feasts are, Easter, Pentecost, Christmas,
-etc.
+"To God the Holy Spirit Let Us Pray," etc., according as the feasts are, Easter, Pentecost,
+Christmas, etc.
 
 The Pfalz-Zweibrücken plan of 1565 has "Nun bitten" before the sermon every Sunday of the
 Trinity season, "one day as the other", and says so twice (Sehling 18, p. 340):
@@ -29902,8 +29939,9 @@ Trinity season, "one day as the other", and says so twice (Sehling 18, p. 340):
 > Ante Concionem: Nun bitten wir etc. ain tag wie den andern. […] Nota: Unnd hernach allen
 > Sontag vor der Predig bis Weinachten gesungen werden: Nun bitten wir etc.
 
-Before the sermon: "Now pray we," etc., one day as the other. […] Note: and thereafter on
-every Sunday before the sermon, until Christmas, "Now pray we," etc. shall be sung.
+Before the sermon: "To God the Holy Spirit Let Us Pray," etc., one day as the other. […] Note:
+and thereafter on every Sunday before the sermon, until Christmas, "To God the Holy Spirit Let
+Us Pray," etc. shall be sung.
 
 For Christmas the same plan gives the *Leise* instead, until Candlemas, and then "Nun bitten"
 again until Easter (Sehling 18, p. 340):
@@ -29915,7 +29953,7 @@ again until Easter (Sehling 18, p. 340):
 
 So, *mutatis mutandis*, shall it be kept on the days following; also "The little Child" shall
 be sung always before the sermon until the Purification of Mary, and thereafter until Easter,
-"Now pray we," etc.
+"To God the Holy Spirit Let Us Pray," etc.
 
 At Hof, on Good Friday, "Nun bitten" was dropped and the last stanza of the Passion hymn "Gott
 dem Vater sei Lob" was sung kneeling in its place. **Hof, *Ordo ecclesiasticus*, 1592**
@@ -29927,8 +29965,8 @@ dem Vater sei Lob" was sung kneeling in its place. **Hof, *Ordo ecclesiasticus*,
 > unschuldig.
 
 In the place of the *Patrem*: "To God the Father be praise, and to the Son"; the last verse of
-this song is sung on bended knees, in the place of "Now pray we." "Now pray we" is omitted.
-After the sermon: "O Lamb of God, innocent."
+this song is sung on bended knees, in the place of "To God the Holy Spirit Let Us Pray." "To God
+the Holy Spirit Let Us Pray" is omitted. After the sermon: "Lamb of God, Pure and Holy."
 
 #### <a id="s8-10-2"></a>8.10.2 The *Leisen* at the high feasts, sung from the pulpit
 
@@ -29942,9 +29980,10 @@ by the preachers "from the pulpit, when they begin the sermon, with the people".
 > ist erstanden, item, Also heilig ist der tag, uff pfingsten Nu bitten wir etc. Und sollen auch
 > diese die prediger von der canzel, wenn sie die predig anfahen, mit dem volk singen.
 
-the old little German songs, as on the Nativity "A little Child so worthy of praise," at
-Easter "Christ is arisen," item "So holy is the day," at Pentecost "Now pray we," etc. And these
-also the preachers shall sing with the people from the pulpit, when they begin the sermon.
+the old little German songs, as on the Nativity "To Us Is Born a Blessed Child," at
+Easter "Christ Is Arisen," item "This Is Such a Holy Day," at Pentecost "To God the Holy Spirit
+Let Us Pray," etc. And these also the preachers shall sing with the people from the pulpit, when
+they begin the sermon.
 
 **Lüneburg, *Kirchenordnung*, 1564** (Sehling 6/1, p. 545):
 
@@ -29952,8 +29991,8 @@ also the preachers shall sing with the people from the pulpit, when they begin t
 > Darauf sol man ein Vater unser sprechen oder singen: Nu bitten wir den heiligen Geist. Umb die
 > Weihnachten: Ein kindelein so löbelich etc. Umb die Ostern: Christ ist erstanden etc.
 
-Thereupon one shall say an Our Father, or sing "Now pray we the Holy Ghost"; about Christmas, "A
-little Child so worthy of praise," etc.; about Easter, "Christ is arisen," etc.
+Thereupon one shall say an Our Father, or sing "To God the Holy Spirit Let Us Pray"; about
+Christmas, "To Us Is Born a Blessed Child," etc.; about Easter, "Christ Is Arisen," etc.
 
 The Lüneburg city order of 1575 calls these *Leisen* a "motet". **Lüneburg, *Kirchenordnung*,
 1575** (Sehling 6/1, p. 659):
@@ -29963,9 +30002,9 @@ The Lüneburg city order of 1575 calls these *Leisen* a "motet". **Lüneburg, *K
 > kindelein so lobelich, umb Osteren: Christ ist erstanden, auf himmelfart: Christ fur gen
 > himmel, umb Pfingsten und sunsten das jhar durch: Nun bitten wir den heiligen Geist.
 
-next the gospel is sung in German; thereupon a "motet": at holy Christmas, "A little Child so
-worthy of praise"; about Easter, "Christ is arisen"; at the Ascension, "Christ went up to
-heaven"; about Pentecost and otherwise the year through, "Now pray we the Holy Ghost."
+next the gospel is sung in German; thereupon a "motet": at holy Christmas, "To Us Is Born a
+Blessed Child"; about Easter, "Christ Is Arisen"; at the Ascension, "Christ Rose to Heaven";
+about Pentecost and otherwise the year through, "To God the Holy Spirit Let Us Pray."
 
 In Kurland the pastor intoned the *Leise* from the pulpit "after old custom". The list includes
 Simeon's song for the Purification. **Kurland, *Kirchenordnung*, 1570** (Sehling 5, p. 88):
@@ -29977,10 +30016,10 @@ Simeon's song for the Purification. **Kurland, *Kirchenordnung*, 1570** (Sehling
 > Auf und nach pfingsten, so lang man wil. Auf trinitatis. Gott der vater wohne uns bei etc.
 
 And when the feast days are at hand, the song of praise before the sermon is to be intoned in
-the pulpit after the old custom: "Praised be thou, Jesu Christ"; "A little Child so worthy of
-praise"; "Lord, now lettest thou thy servant"; "Christ is arisen"; "Christ went up to heaven";
-"Now pray we the Holy Ghost," at and after Pentecost as long as one will; at Trinity, "God the
-Father be with us," etc.
+the pulpit after the old custom: "We Praise You, Jesus, at Your Birth"; "To Us Is Born a Blessed
+Child"; "Lord, now lettest thou thy servant"; "Christ Is Arisen"; "Christ Rose to Heaven"; "To
+God the Holy Spirit Let Us Pray," at and after Pentecost as long as one will; at Trinity,
+"Triune God, Be Thou Our Stay," etc.
 
 Hoya had "Gelobet seist du" sung three times running at Christmas. For Trinity it had "O Vater
 unser, gnädiger Gott", which then served "the whole summer through". **Hoya, *Kirchenordnung*,
@@ -29994,10 +30033,10 @@ unser, gnädiger Gott", which then served "the whole summer through". **Hoya, *K
 > zweyen folgenden versen. Und also gemelten gesang den ganzen sommer durch.
 
 At the beginning of the sermon on the high feasts the old, accustomed songs are sung in the
-pulpit: at Easter "Christ is arisen," etc.; at Christmas "Praised be thou, Jesu Christ," etc.,
-three times one after another; at Pentecost "Now pray we the Holy Ghost" with the verses
-following; on the day of the Holy Trinity "O Father of ours, gracious God," together with the
-two verses following. And the said song so the whole summer through.
+pulpit: at Easter "Christ Is Arisen," etc.; at Christmas "We Praise You, Jesus, at Your Birth,"
+etc., three times one after another; at Pentecost "To God the Holy Spirit Let Us Pray" with the
+verses following; on the day of the Holy Trinity "O Father of ours, gracious God," together with
+the two verses following. And the said song so the whole summer through.
 
 **Hildesheim (Stift), *Kirchenordnung für Steuerwald und Peine*, 1561** (Sehling 7/2.1, p. 782):
 
@@ -30006,9 +30045,10 @@ two verses following. And the said song so the whole summer through.
 > Gaist oder: Kom hailig Gaist, in Weyhnachten bis auf Lichtmes: Ein kindelein so löbelich, in
 > Ostern bis auf Pfingsten: Christ ist erstanden, darauf volget die predige.
 
-when that is out, the whole congregation singeth "We believe," and thereupon "Now pray we the
-Holy Ghost" or "Come, Holy Ghost"; at Christmas until Candlemas, "A little Child so worthy of
-praise"; at Easter until Pentecost, "Christ is arisen"; thereupon followeth the sermon.
+when that is out, the whole congregation singeth "We All Believe in One True God," and thereupon
+"To God the Holy Spirit Let Us Pray" or "Come, Holy Ghost, God and Lord"; at Christmas until
+Candlemas, "To Us Is Born a Blessed Child"; at Easter until Pentecost, "Christ Is Arisen";
+thereupon followeth the sermon.
 
 **Schwarzburg, *Kirchenordnung*, 1574** (Sehling 2, p. 133):
 
@@ -30019,9 +30059,9 @@ praise"; at Easter until Pentecost, "Christ is arisen"; thereupon followeth the 
 > vater wohn uns bei.
 
 But on the high feasts he singeth from the pulpit with all the people a short song which is
-ordained for such feast: as at Christmas, "A little Child so worthy of praise"; at Easter,
-"Christ is arisen"; at Pentecost, "Now pray we the Holy Ghost"; at Trinity, "God the Father be
-with us."
+ordained for such feast: as at Christmas, "To Us Is Born a Blessed Child"; at Easter,
+"Christ Is Arisen"; at Pentecost, "To God the Holy Spirit Let Us Pray"; at Trinity, "Triune God,
+Be Thou Our Stay."
 
 **Worms, *Agendbüchlein*, 1560** (Sehling 19/1, p. 206):
 
@@ -30031,9 +30071,9 @@ with us."
 > Kindelein so löbeleich, Zu Ostern: Christ ist erstanden etc. Auff das Gesang volget alßbaldt
 > die Predigt.
 
-thereupon the choir singeth "Now pray we the Holy Ghost"; or, if it be on high feasts, one of
-the German songs of the same ordained for the feasts, as at Christmas "A little Child so
-worthy of praise," at Easter "Christ is arisen," etc. After the song the sermon followeth
+thereupon the choir singeth "To God the Holy Spirit Let Us Pray"; or, if it be on high feasts,
+one of the German songs of the same ordained for the feasts, as at Christmas "To Us Is Born a
+Blessed Child," at Easter "Christ Is Arisen," etc. After the song the sermon followeth
 straightway.
 
 Bugenhagen's Braunschweig order of 1528 already has "Christ ist erstanden" at the start of the
@@ -30049,8 +30089,8 @@ Lord's Prayer or a *Leise*. **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p
 > gen Himmel, Nun bitten wir den heiligen Geist etc.
 
 the whole church singeth with one accord the Our Father, or another accustomed song according
-to the occasion of the season, as: "A little Child so worthy of praise," "Christ is arisen,"
-"Christ went up to heaven," "Now pray we the Holy Ghost," etc.
+to the occasion of the season, as: "To Us Is Born a Blessed Child," "Christ Is Arisen,"
+"Christ Rose to Heaven," "To God the Holy Spirit Let Us Pray," etc.
 
 Verden's order has the preacher start the hymn himself and the congregation sing it to the end.
 **Verden, *Kirchenordnung*, 1606** (Sehling 7/1, pp. 156–157):
@@ -30062,11 +30102,11 @@ Verden's order has the preacher start the hymn himself and the congregation sing
 > fuhr gen himmel, auf Pfingsten Nu bitten wir den heiligen Geist, item Kom, heiliger Geist,
 > Herre Gott, auf Trinitatis Gott der Vater wohne uns bey etc.
 
-At times, in the stead of the Our Father, he may begin the psalm "Now pray we the Holy Ghost"
-and sing it to the end with the congregation. At Christmas one shall sing "A little Child so
-worthy of praise"; at Easter "So holy is the day" or "Christ is arisen"; at the Ascension
-"Christ went up to heaven"; at Pentecost "Now pray we the Holy Ghost," item "Come, Holy Ghost,
-Lord God"; at Trinity "God the Father be with us," etc.
+At times, in the stead of the Our Father, he may begin the psalm "To God the Holy Spirit Let Us
+Pray" and sing it to the end with the congregation. At Christmas one shall sing "To Us Is Born a
+Blessed Child"; at Easter "This Is Such a Holy Day" or "Christ Is Arisen"; at the Ascension
+"Christ Rose to Heaven"; at Pentecost "To God the Holy Spirit Let Us Pray," item "Come, Holy
+Ghost, God and Lord"; at Trinity "Triune God, Be Thou Our Stay," etc.
 
 #### <a id="s8-10-3"></a>8.10.3 Seasonal tables for the slot: the Lord's Prayer in Advent and Lent
 
@@ -30082,9 +30122,9 @@ the place of "Nun bitten". **Lippe, *Kirchenordnung*, 1571** (Sehling 21, p. 387
 > uber sol das Vater unser oder sonst ein ander Bettpsalm gesungen werden.
 
 then shall the church say an Our Father, or sing, in the stead of prayer, the accustomed songs
-according to the occasion of the season and feasts: as at Easter, "Christ is arisen," until
-Pentecost; from Pentecost until Christmas, "Now pray we the Holy Ghost"; at the Nativity of
-Christ, "A little Child so worthy of praise," until the Sundays of Lent. But through Lent the Our
+according to the occasion of the season and feasts: as at Easter, "Christ Is Arisen," until
+Pentecost; from Pentecost until Christmas, "To God the Holy Spirit Let Us Pray"; at the Nativity
+of Christ, "To Us Is Born a Blessed Child," until the Sundays of Lent. But through Lent the Our
 Father, or else another prayer-psalm, shall be sung.
 
 **Solms-Laubach, *Kirchenordnung* [1576–1580]** (Sehling 9, pp. 359–360):
@@ -30098,10 +30138,10 @@ Father, or else another prayer-psalm, shall be sung.
 > advent biß uf weienachten: Unser vatter, der du bist in dem hiemel etc.
 
 and thereupon the sermon is begun, and after the preface is sung, from Christmas until the
-Purification of Mary, "A little Child so worthy of praise," etc.; from the Purification until
-Easter, "Our Father, who art in heaven"; from Easter until the Ascension, "Christ is arisen";
-from the Ascension until Pentecost, "Christ went up to heaven"; from Pentecost until Advent,
-"Now pray we the Holy Ghost" and "God the Father be with us," etc.; from Advent until
+Purification of Mary, "To Us Is Born a Blessed Child," etc.; from the Purification until
+Easter, "Our Father, who art in heaven"; from Easter until the Ascension, "Christ Is Arisen";
+from the Ascension until Pentecost, "Christ Rose to Heaven"; from Pentecost until Advent,
+"To God the Holy Spirit Let Us Pray" and "Triune God, Be Thou Our Stay," etc.; from Advent until
 Christmas, "Our Father, who art in heaven," etc.
 
 Tangermünde (1603) keeps the Christmas *Leise* on every Sunday until Candlemas. **Tangermünde,
@@ -30112,9 +30152,9 @@ Tangermünde (1603) keeps the Christmas *Leise* on every Sunday until Candlemas.
 > ab hoc festo diebus solis usque ad festum purificationis ante concionem mediam canitur: Ein
 > Kindelein so etc. vel alia de tempore.
 
-before the sermon is sung "The day that is so full of joy," etc., or another agreeable to the
+before the sermon is sung "Now Hail the Day So Rich in Cheer," etc., or another agreeable to the
 feast. Moreover, from this feast on the Sundays until the feast of the Purification, before
-the midday sermon is sung "A little Child so," etc., or another of the season.
+the midday sermon is sung "To Us Is Born a Blessed Child," etc., or another of the season.
 
 The Ysenburg-Birstein order uses the Lord's Prayer hymn from Trinity until Christmas.
 **Ysenburg-Birstein, *Kirchenordnung*, 1588** (Sehling 10, p. 620):
@@ -30126,9 +30166,9 @@ The Ysenburg-Birstein order uses the Lord's Prayer hymn from Trinity until Chris
 > Christ fuhr gen Himmel, Unnd auff Pfingsten: Nun bitten wir den heiligen Geist etc.
 
 the Christian congregation singeth or prayeth with him the Our Father, or instead of it a short
-song fitting every season of the year, as at Christmas "A little Child so worthy of praise,"
-etc.; at Easter "Christ is arisen," etc.; at the Ascension of the Lord "Christ went up to
-heaven"; and at Pentecost "Now pray we the Holy Ghost," etc.
+song fitting every season of the year, as at Christmas "To Us Is Born a Blessed Child,"
+etc.; at Easter "Christ Is Arisen," etc.; at the Ascension of the Lord "Christ Rose to Heaven";
+and at Pentecost "To God the Holy Spirit Let Us Pray," etc.
 
 **Pomerania, *Kirchenordnung*, 1542** (Sehling 4, p. 356):
 
@@ -30137,9 +30177,9 @@ heaven"; and at Pentecost "Now pray we the Holy Ghost," etc.
 > den winachten ein kindelein so lavelick, in ostern Christ is upgestanden, in den pingsten nu
 > bidde wi den hilgen geist.
 
-and say an Our Father, or sing the song of praise "Come, Holy Ghost, Lord God," etc.; at
-Christmas, "A little Child so worthy of praise"; at Easter, "Christ is arisen"; at Pentecost,
-"Now pray we the Holy Ghost."
+and say an Our Father, or sing the song of praise "Come, Holy Ghost, God and Lord," etc.; at
+Christmas, "To Us Is Born a Blessed Child"; at Easter, "Christ Is Arisen"; at Pentecost,
+"To God the Holy Spirit Let Us Pray."
 
 **Transylvanian Saxons, *Kirchenordnung*, 1547**, German text (Sehling 24, p. 244):
 
@@ -30150,7 +30190,7 @@ Christmas, "A little Child so worthy of praise"; at Easter, "Christ is arisen"; 
 > man abermals etwas nach der selbigen zeit oder umb frieden und desgleichen.
 
 After this office the first sermon is commonly held in the towns, before which something is
-always sung, as "The day that is so full of joy," or "Christ is arisen," or "Of the Holy
+always sung, as "Now Hail the Day So Rich in Cheer," or "Christ Is Arisen," or "Of the Holy
 Ghost," or else a psalm, as the season of the year bringeth. After the sermon something is
 sung again after the same season, or for peace, and the like.
 
@@ -30164,7 +30204,7 @@ creed before the chief sermon. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p
 > Volgents den Glauben singen.
 
 Before the high sermon the pastor, sexton and congregation shall sing Martin Luther's Our
-Father, "Our Father in the kingdom of heaven, who all of us," etc.; thereupon the Ten
+Father, "Our Father, Who from Heaven Above," etc.; thereupon the Ten
 Commandments; a German song and collects out of Veit Dietrich or others, proved according to
 the occasion of the season; following, the creed.
 
@@ -30209,12 +30249,12 @@ chosen "if it may fit the following sermon". **Hohenlohe, *Schul- und Gesangsord
 > welche hie ir hoffnung etc. oder auß des Lobwaßers psalmenbuchlein den 33. Psalm biß auf den
 > 7. versicul.
 
-before the sermon the schoolmaster shall sing "Now pray we," etc., or "We all believe," etc., or
-"I believe in God," etc.; or (where "Salvation now is come to us," etc. was sung before the
-lesson) finish the two last stanzas of the same song, "Praise and honour," etc.; or (where it
-may fit the following sermon) "Lord Christ, the only," etc., "Out of the depths," etc., "Now
-they that here their hope," etc.; or out of Lobwasser's psalm book the thirty-third psalm, as
-far as the seventh verse.
+before the sermon the schoolmaster shall sing "To God the Holy Spirit Let Us Pray," etc., or "We
+All Believe in One True God," etc., or "I believe in God," etc.; or (where "Salvation unto Us
+Has Come," etc. was sung before the lesson) finish the two last stanzas of the same song,
+"Praise and honour," etc.; or (where it may fit the following sermon) "The Only Son from
+Heaven," etc., "From Depths of Woe I Cry to Thee," etc., "Now they that here their hope," etc.;
+or out of Lobwasser's psalm book the thirty-third psalm, as far as the seventh verse.
 
 #### <a id="s8-10-5"></a>8.10.5 To cover the preacher's going up
 
@@ -30234,8 +30274,8 @@ feast; meanwhile the preacher goeth up into the pulpit.
 > so sing der schuelmaister den teutschen glauben oder Kum, Heiliger Geist; indem so ge der
 > diener auf die cancel und postulir das evangelium.
 
-then let the schoolmaster sing the German creed or "Come, Holy Ghost"; meanwhile let the
-minister go up into the pulpit and expound the gospel.
+then let the schoolmaster sing the German creed or "Come, Holy Ghost, God and Lord"; meanwhile
+let the minister go up into the pulpit and expound the gospel.
 
 #### <a id="s8-10-6"></a>8.10.6 How fixed the slot was
 
@@ -30271,10 +30311,10 @@ let his word be taken away. **Prussia, *Kirchenordnung und Ceremonien*, 1568** (
 > wort ja nicht lasse von uns genommen werden, sondern dasselbige wider allen widerstand aller
 > rotten und tyrannen, die unter den namen des papstes und türken […].
 
-When the same is out, the whole church singeth, as after every sermon always, "Keep us, Lord,
-by thy word," etc., that the godly, faithful God may be humbly prayed that he suffer not his
-word to be taken from us, but [keep] the same against all resistance of all sects and tyrants,
-which under the names of the Pope and the Turk […].
+When the same is out, the whole church singeth, as after every sermon always, "Lord, Keep Us
+Steadfast in Your Word," etc., that the godly, faithful God may be humbly prayed that he suffer
+not his word to be taken from us, but [keep] the same against all resistance of all sects and
+tyrants, which under the names of the Pope and the Turk […].
 
 In the Prussian villages the same hymn covered the priest's walk to the altar (Sehling 4, p. 84):
 
@@ -30282,8 +30322,8 @@ In the Prussian villages the same hymn covered the priest's walk to the altar (S
 > Nach dem gebet singet die ganze kirche allezeit: Erhalt uns, herr, bei deinem wort etc., wie
 > droben vermeldet ist. Unterdess gehet der priester von der kanzel fur den altar.
 
-After the prayer the whole church singeth always "Keep us, Lord, by thy word," etc., as is
-mentioned above. Meanwhile the priest goeth from the pulpit before the altar.
+After the prayer the whole church singeth always "Lord, Keep Us Steadfast in Your Word," etc.,
+as is mentioned above. Meanwhile the priest goeth from the pulpit before the altar.
 
 The Schweinfurt order of 1543 quotes the hymn's first lines, with the Pope and the Turk.
 **Schweinfurt, *Kirchenordnung*, 1543** (Sehling 11, p. 641):
@@ -30307,7 +30347,8 @@ Schönburg sang it "when pressing need is at hand, as alas in these last times".
 After the sermon the organist playeth somewhat, until the priest cometh to the altar and hath
 prepared the bread and the cup to be offered. But when pressing need is at hand, as alas in
 these last times, the schoolmaster shall always, at the end of the sermon, begin to sing with
-the whole church: "Keep us, Lord, by thy word," etc.; "Grant us peace," etc.
+the whole church: "Lord, Keep Us Steadfast in Your Word," etc.; "Grant Peace, We Pray, in Mercy,
+Lord," etc.
 
 In Reuss the hymn after the sermon was always a song "for the common peace", begun from the
 pulpit. **Reuss, *Kirchen-Ordnung* of Heinrich IV, 30 August 1552** (Sehling 2, pp. 153–154):
@@ -30318,7 +30359,8 @@ pulpit. **Reuss, *Kirchen-Ordnung* of Heinrich IV, 30 August 1552** (Sehling 2, 
 > fried].
 
 After the sermon a song for the common peace shall always be begun in the pulpit, […] as:
-"Keep us, Lord, by thy," etc.; "Grant us peace," etc.; "O Lord God, give [us thy peace]."
+"Lord, Keep Us Steadfast in Your Word," etc.; "Grant Peace, We Pray, in Mercy, Lord," etc.; "O
+Lord God, give [us thy peace]."
 
 **Ritzebüttel, *Kirchenordnung*, 1556** (Sehling 5, p. 558):
 
@@ -30327,9 +30369,9 @@ After the sermon a song for the common peace shall always be begun in the pulpit
 > dudeschen psalm David na gelegenheit der tidt sampt volgender collecta: Here godt, giff frede
 > in dinem lande.
 
-After the sermon is sung "Keep us, Lord, by thy word" to the end, or another German psalm of
-David according to the occasion of the season, with the collect following: "Lord God, give
-peace in thy land."
+After the sermon is sung "Lord, Keep Us Steadfast in Your Word" to the end, or another German
+psalm of David according to the occasion of the season, with the collect following: "Lord God,
+give peace in thy land."
 
 The Hoya order of 1581 (Sehling 6/2, p. 1149) and the Hildesheim chapter order of 1561
 (Sehling 7/2.1, p. 782; see [§8.10.2](#s8-10-2)) likewise set "Erhalt uns" after the sermon.
@@ -30348,10 +30390,10 @@ In Prussia (1544) the hymn after the sermon gave the priest time to come down fr
 > respiriren und sich wieder zum altar finden.
 
 Straightway after the sermon, where the litany is not held, the whole church singeth a
-Christian song, as "Now rejoice, dear Christians all," "Now praise, my soul, the Lord," or the
-Our Father word for word without exposition, after the melody of the lord bishop of Pomesania,
-Doctor Paul Speratus. Meanwhile the priest goeth from the pulpit, may take a little breath, and
-find himself again at the altar.
+Christian song, as "Dear Christians, One and All, Rejoice," "My Soul, Now Praise Your Maker," or
+the Our Father word for word without exposition, after the melody of the lord bishop of
+Pomesania, Doctor Paul Speratus. Meanwhile the priest goeth from the pulpit, may take a little
+breath, and find himself again at the altar.
 
 At Verden the preacher who was to celebrate put his vestments back on while the congregation
 sang out the hymn he had begun. **Verden, *Kirchenordnung*, 1606** (Sehling 7/1, pp. 157–158):
@@ -30365,10 +30407,10 @@ sang out the hymn he had begun. **Verden, *Kirchenordnung*, 1606** (Sehling 7/1,
 > verrichten wil, seinen ornatum ecclesiasticum wieder anlegen.
 
 When now the sermon is ended and the common prayer performed, the preacher shall then begin in
-the pulpit a psalm, as "God the Father be with us," etc., or "May God be gracious unto us,"
-item "Praise and honour with high price," etc., or another according to the occasion of the
-season. And the same shall be sung fully out to the end by the choir or the congregation. But
-meanwhile the preacher who will hold the office and perform the communion shall put on again
+the pulpit a psalm, as "Triune God, Be Thou Our Stay," etc., or "May God Bestow on Us His
+Grace," item "Praise and honour with high price," etc., or another according to the occasion of
+the season. And the same shall be sung fully out to the end by the choir or the congregation.
+But meanwhile the preacher who will hold the office and perform the communion shall put on again
 his church vestment.
 
 **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 412). The Corvey order of 1603 copies it:
@@ -30379,8 +30421,8 @@ his church vestment.
 > gesang, als: Gott der Vatter wohn uns bei, etc.
 
 Here the pastor goeth down from the pulpit, and meanwhile the Christian song of praise is sung,
-"Praise the Lord, all ye heathen," etc., or else another short Christian song, as "God the
-Father be with us," etc.
+"Praise the Lord, all ye heathen," etc., or else another short Christian song, as "Triune God,
+Be Thou Our Stay," etc.
 
 **Weißenburg, *Kirchenordnung*, 1528** (Sehling 11, p. 659):
 
@@ -30389,9 +30431,9 @@ Father be with us," etc.
 > pitten wir den Heiligen Gaist oder sünst, was ihm gefelt, das kurz ist. Indem so get der
 > diener von der cancel zu dem altar.
 
-then let the schoolmaster begin to sing a short psalm, "May God be gracious unto us," or "Now
-pray we the Holy Ghost," or else what pleaseth him, that is short. Meanwhile the minister goeth
-from the pulpit to the altar.
+then let the schoolmaster begin to sing a short psalm, "May God Bestow on Us His Grace," or "To
+God the Holy Spirit Let Us Pray," or else what pleaseth him, that is short. Meanwhile the
+minister goeth from the pulpit to the altar.
 
 **Hadeln, *Kirchenordnung*, 1526** (Sehling 5, p. 468):
 
@@ -30413,7 +30455,7 @@ prepared. Calenberg says so in the rubric of its printed Mass. **Calenberg-Gött
 > offertorium. Anstat des offertorii sol man mit der gemein einen deutschen psalm singen.
 
 Thereafter the priest goeth again before the altar, and the choir singeth in the meantime
-"May God be gracious unto us," etc., or "God the Father be with us," etc. […] Thereafter
+"May God Bestow on Us His Grace," etc., or "Triune God, Be Thou Our Stay," etc. […] Thereafter
 followeth the offertory. In the stead of the offertory a German psalm shall be sung with the
 congregation.
 
@@ -30422,7 +30464,7 @@ The same order's German Christmas Mass names the hymn (Sehling 6/2, p. 821):
 <!-- doc 2037 -->
 > Offertorium. Anstat des offertorii singe man Ein kindelein so löbelich etc.
 
-Offertory. In the stead of the offertory let "A little Child so worthy of praise," etc. be
+Offertory. In the stead of the offertory let "To Us Is Born a Blessed Child," etc. be
 sung.
 
 The rubric in the general part of the order gives the reason: the priest must make himself
@@ -30458,8 +30500,8 @@ The Naumburg order of 1527 sang "Aus tiefer Not" in the place of the offertory. 
 > dir.
 
 then one beginneth, in the stead of the offertory, to sing through the whole church the psalm
-of David put into German, *De profundis clamavi ad te*, etc., as followeth: "Out of the depths
-I cry to thee."
+of David put into German, *De profundis clamavi ad te*, etc., as followeth: "From Depths of Woe
+I Cry to Thee."
 
 The Brandenburg order of 1540 kept the Latin offertory of the day in the collegiate churches
 and let the villages sing a German psalm instead. **Brandenburg, *Kirchenordnung*, 1540**
@@ -30480,8 +30522,8 @@ made ready the wine and bread. **Lippe, *Kirchenordnung* of Antonius Corvinus [1
 > Na gheschener bicht synget dat volck: Edt wolde uns Godt gnedich syn edder: Danck segge wy
 > alle etc., mydtler tydt beredet de prester wyn und brodt vor de communicanten.
 
-After the confession is done, the people sing "May God be gracious unto us," or "Thanks say we
-all," etc.; meanwhile the priest maketh ready wine and bread for the communicants.
+After the confession is done, the people sing "May God Bestow on Us His Grace," or "Thanks say
+we all," etc.; meanwhile the priest maketh ready wine and bread for the communicants.
 
 In the Lutheran East Frisian liturgy of Engerhafe, organ and congregation sang "Herr Christ,
 der einig Gottessohn" in alternation while the communicants came to the table.
@@ -30493,8 +30535,8 @@ der einig Gottessohn" in alternation while the communicants came to the table.
 > communicantes ad mensam convenire poterunt.
 
 Thereafter let the pastor go to the table of the Lord, prepare the bread and pour the wine
-into the cup. But let the organist and the church sing by turns the hymn "Lord Christ, the
-only Son of God," and meanwhile the communicants may come together to the table.
+into the cup. But let the organist and the church sing by turns the hymn "The Only Son from
+Heaven," and meanwhile the communicants may come together to the table.
 
 The Albertine order for Celle kept Latin here, with the people kneeling in prayer "in the stead
 of the offertory". **Albertine Saxony, *Die Cellischen Ordnungen*, 1545** (Sehling 1, p. 300):
@@ -30571,8 +30613,8 @@ the whole congregation can sing". **Mecklenburg, *Ordeninge der misse*, 1545** (
 > etc. Wat kan uns kamen an vor not.
 
 the pastor shall, after the prayer spoken, begin a psalm that is not long, commonly a prayer,
-which the whole congregation can sing, as: "May God be gracious unto us," "Lord Christ," etc.,
-"What need can come upon us."
+which the whole congregation can sing, as: "May God Bestow on Us His Grace," "Lord Christ,"
+etc., "What need can come upon us."
 
 Later orders ask that it agree with the sermon's teaching. **Rostock, *Conformitas
 ceremoniarum*, c. 1560** (Sehling 5, p. 288):
@@ -30594,8 +30636,9 @@ The Hanau-Lichtenberg order gives examples by Sunday. **Hanau-Lichtenberg,
 > Vater, wohn uns bey etc.
 
 III. The sermon shall always be concluded with a song which agreeth and rhymeth therewith: as
-on Misericordias Domini one singeth "Out of the depths"; on Jubilate, "Ah God, from heaven look
-down"; on Cantate, "A mighty fortress"; on Trinity, "God the Father be with us," etc.
+on Misericordias Domini one singeth "From Depths of Woe I Cry to Thee"; on Jubilate, "O Lord,
+Look Down from Heaven, Behold"; on Cantate, "A Mighty Fortress Is Our God"; on Trinity, "Triune
+God, Be Thou Our Stay," etc.
 
 In Marienhafe the hymn after the blessing was one "agreeing with the sermon". **Marienhafe,
 *Kirchenordnung*, 1593** (Sehling 7/1, p. 697):
@@ -30622,9 +30665,9 @@ doctrinal article the sermon chiefly treated. It gives twelve articles, each wit
 On Sundays, as also on common holy days, after the sermon the schoolmaster shall again be
 provided with a song: as, when the sermon had been directed chiefly to the article (1) of the
 word and sacraments, "The Lord is my faithful shepherd," etc., "O God, thou highest treasury
-of grace," etc., "God the Father," etc., out of Lobwasser the ninety-third psalm, "God as a
-king," etc.; (2) of the law and good works, "Lord Christ, the only [Son] of God," etc., "O God,
-thou highest," etc., "Now pray we."
+of grace," etc., "Triune God, Be Thou Our Stay," etc., out of Lobwasser the ninety-third psalm,
+"God as a king," etc.; (2) of the law and good works, "The Only Son from Heaven," etc., "O God,
+thou highest," etc., "To God the Holy Spirit Let Us Pray."
 
 The list goes on through the articles on the gospel, sin and the merit of Christ, prayer, the
 cross, persecution, earthly want and blessing, the transience of life, the pestilence,
@@ -30655,7 +30698,7 @@ und des Kirchengesangs*, 1565/1566** (Sehling 17/2, p. 49):
 
 After the sermon, when there is to be communion, they shall sing "Glory be to the Father," etc.,
 or "Praise and honour with high price," etc.; and where there is no communion, again a fair
-psalm, and not only always the old common fiddle, "May God be gracious unto us"; which fair,
+psalm, and not only always the old common fiddle, "May God Bestow on Us His Grace"; which fair,
 glorious psalm yet shall not be left off, but be sung at times like the others.
 
 The Reutlingen school visitation of 1574 asked for a hymn "agreeable to the season or to the
@@ -30687,10 +30730,10 @@ St Wenzel, 1537/1538** (Sehling 2, p. 72):
 > fest de tempore, item Behalt uns herr bei deinem wort, Die lezten sechs gesez im vater unser,
 > so man vor der predigt die ersten drei gesungen hat.
 
-Thereupon a short psalm according to the season; or "Grant us peace graciously," "May God be
-gracious unto us," the last three stanzas of "Now pray we the Holy Ghost," and on the other
-high feasts of the season, item "Keep us, Lord, by thy word," the last six stanzas of the Our
-Father, when the first three have been sung before the sermon.
+Thereupon a short psalm according to the season; or "Grant Peace, We Pray, in Mercy, Lord," "May
+God Bestow on Us His Grace," the last three stanzas of "To God the Holy Spirit Let Us Pray," and
+on the other high feasts of the season, item "Lord, Keep Us Steadfast in Your Word," the last
+six stanzas of the Our Father, when the first three have been sung before the sermon.
 
 **Anhalt, *Ordnung der deutschen Gesänge*, before 8 February 1551** (Sehling 2, p. 556), for
 Christmas:
@@ -30700,9 +30743,10 @@ Christmas:
 > Gelobet seistu Jesu Christ etc. und die ander versen nach der predig, in der messen vor dem
 > evangelio singe man: Gelobet seistu Jesu Christ gar aus.
 
-On Christmas Day and some days after, let three verses of the song of praise "Praised be thou,
-Jesu Christ," etc. be sung before the early sermon, and the other verses after the sermon; in
-the Mass before the gospel let "Praised be thou, Jesu Christ" be sung through entire.
+On Christmas Day and some days after, let three verses of the song of praise "We Praise You,
+Jesus, at Your Birth," etc. be sung before the early sermon, and the other verses after the
+sermon; in the Mass before the gospel let "We Praise You, Jesus, at Your Birth" be sung through
+entire.
 
 The German school order of Öhringen had the schoolmaster sing, after the sermon, the last stanza
 of the hymn he had sung before it. **Öhringen, *Kirchen- und Schulordnungen*, 1582**
@@ -30713,9 +30757,9 @@ of the hymn he had sung before it. **Öhringen, *Kirchen- und Schulordnungen*, 1
 > kommen her etc. und dergleichen. […] Nach der predigt das letzt gesang des vorigen psalmen
 > als: Sey lob und ehr mit hohem preiß oder dergleichen etwas kurztes.
 
-he shall sing a psalm, as "O Lord God, be gracious unto me," etc., or "Salvation now is come to
-us," etc., and the like. […] After the sermon the last stanza of the foregoing psalm, as "Praise
-and honour with high price," or the like, somewhat short.
+he shall sing a psalm, as "O Lord God, be gracious unto me," etc., or "Salvation unto Us Has
+Come," etc., and the like. […] After the sermon the last stanza of the foregoing psalm, as
+"Praise and honour with high price," or the like, somewhat short.
 
 At Neuenrade, in Holy Week, the Passion hymn "Gott dem Vater sei Lob" was sung to its fifteenth
 stanza before the sermon and taken up again there after it (Sehling 22, p. 531). The funeral
@@ -30756,10 +30800,10 @@ sung during the distribution itself ([§8.14](#s8-14)).
 > priester das sacrament nicht erheben, dann die elevation ist disfals unnötig, und aus dieser
 > ursach abgethan.
 
-Thereupon the choir or the church singeth the German Sanctus, or the song "Isaiah the prophet,
-it befell," during which those that will communicate straightway step to the altar. And the
-priest need not elevate the sacrament, for the elevation is herein unneedful, and for this
-cause is done away.
+Thereupon the choir or the church singeth the German Sanctus, or the song "Isaiah, Mighty Seer
+in Days of Old," during which those that will communicate straightway step to the altar. And the
+priest need not elevate the sacrament, for the elevation is herein unneedful, and for this cause
+is done away.
 
 **Nördlingen, *Ordnung der ceremonien* at St George's, 1555** (Sehling 12, p. 319):
 
@@ -30777,9 +30821,9 @@ hymn, with the choir answering. **Pomerania, *Agenda*, 1569** (Sehling 4, p. 438
 > propheten dat geschach etc. unde dat de knaben allene dat sanctus darinne intoneren unde dat
 > chor respondere.
 
-The pastor shall also see to it that in the stead of the Sanctus there be often sung "Isaiah
-the prophet, it befell," etc., and that the boys alone intone the Sanctus therein and the choir
-answer.
+The pastor shall also see to it that in the stead of the Sanctus there be often sung "Isaiah,
+Mighty Seer in Days of Old," etc., and that the boys alone intone the Sanctus therein and the
+choir answer.
 
 Wittgenstein gives "Dank sagen wir alle" as an alternative in this slot. **Wittgenstein,
 *Kirchenordnung*, 1563** (Sehling 22, p. 103):
@@ -30788,8 +30832,8 @@ Wittgenstein gives "Dank sagen wir alle" as an alternative in this slot. **Wittg
 > Nach verrichter predige fange man den lobgesang an zusingen: Esaia, dem propheten, das
 > geschach etc., oder: Danck sagen wir alle etc.
 
-After the sermon is performed, let the song of praise be begun: "Isaiah the prophet, it
-befell," etc., or "Thanks say we all," etc.
+After the sermon is performed, let the song of praise be begun: "Isaiah, Mighty Seer in Days of
+Old," etc., or "Thanks say we all," etc.
 
 The later Kurpfalz text of 1577 gives the choice between "das sanctus, Isaia dem propheten,
 Grates nunc omnes, danck sagen wir alle oder einen andern dergleichen kurtzen gesang"
@@ -30803,8 +30847,8 @@ Christmas Mass (Sehling 6/2, p. 821):
 > Hirauf folget das Sanctus. Jesaia dem propheten .... Die collecta, so der priester unter dem
 > Sanctus betet. Barmherziger himlischer Vater.
 
-Hereupon followeth the Sanctus, "Isaiah the prophet …". The collect which the priest prayeth
-during the Sanctus: "Merciful heavenly Father …"
+Hereupon followeth the Sanctus, "Isaiah, Mighty Seer in Days of Old". The collect which the
+priest prayeth during the Sanctus: "Merciful heavenly Father …"
 
 #### <a id="s8-12-2"></a>8.12.2 The Trinitarian German Sanctus
 
@@ -30857,10 +30901,11 @@ matched to their Kyries. The villages sang "Jesaia" or "Heilig ist Gott der Vate
 > singe men dat Esaia, edder dat ander: Hillich is godt de vader, welck me in den steden ock to
 > tiden singen mach.
 
-After the preface one singeth in the towns the Sanctus in Latin, at times "Isaiah the prophet."
-Neither is it needful always to sing one Sanctus in Latin; but at times take those which in the
-songbooks of the great feasts are appointed to the Kyries. In the villages let "Isaiah" be
-sung, or the other, "Holy is God the Father," which may also be sung at times in the towns.
+After the preface one singeth in the towns the Sanctus in Latin, at times "Isaiah, Mighty Seer
+in Days of Old." Neither is it needful always to sing one Sanctus in Latin; but at times take
+those which in the songbooks of the great feasts are appointed to the Kyries. In the villages
+let "Isaiah, Mighty Seer in Days of Old" be sung, or the other, "Holy is God the Father," which
+may also be sung at times in the towns.
 
 In Harlingerland three boys knelt to sing the Benedictus. The *Et homo factus est* of the creed
 was sung the same way. **Harlingerland, *Kirchenordnung*, 1573/74** (Sehling 7/1, p. 738):
@@ -30885,9 +30930,9 @@ communion hymns, in the choir and below in the church. **Harlingerland, *Kirchen
 > gelobet und gebenedeyet etc., O lamb Gotteß etc., Heilig ist Gott der Vatter etc., einß umb
 > daß ander, im chor und nedden in der kirchen.
 
-During the communion we will that there be sung "Jesus Christ our Saviour," etc., "God be
-praised and blessed," etc., "O Lamb of God," etc., "Holy is God the Father," etc., one after
-the other, in the choir and below in the church.
+During the communion we will that there be sung "Jesus Christ, Our Blessed Savior," etc., "O
+Lord, We Praise Thee," etc., "Lamb of God, Pure and Holy," etc., "Holy is God the Father," etc.,
+one after the other, in the choir and below in the church.
 
 Hof sang it in four parts during the communion, from its choirbooks: on St John the Baptist's
 day and at the dedication of St Michael's church. At Epiphany "the German Sanctus for four
@@ -30952,8 +30997,8 @@ Brandenburg kept the elevation. After it the collegiate churches sang the Latin 
 > gott gnedig sein oder sei lob und dank mit hohem preis.
 
 After the elevation one shall sing in cathedrals and collegiate churches a Latin song, as the
-responsory *Tua est potentia*, etc.; but in the parishes a German song, "May God be gracious
-unto us," or "Praise and thanks with high price."
+responsory *Tua est potentia*, etc.; but in the parishes a German song, "May God Bestow on Us
+His Grace," or "Praise and thanks with high price."
 
 The bells rung at the elevation are treated in
 [Chapter 9](#ch9), [§9.5.4](#s9-5-4).
@@ -30969,7 +31014,7 @@ many communicants. At Christmas it used "Vom Himmel hoch". **Hof, *Ordo ecclesia
 > sanguire Christi, post illa) canitur: Esaia, dem propheten, das ge[schach].
 
 Sometimes in the place of the Sanctus and Agnus (or also, when many are present who partake of
-the body and blood of Christ, after them) is sung "Isaiah the prophet, it befell."
+the body and blood of Christ, after them) is sung "Isaiah, Mighty Seer in Days of Old."
 
 #### <a id="s8-12-5"></a>8.12.5 How fixed the slot was
 
@@ -30997,7 +31042,7 @@ Schwarzburg the people sang the Lord's Prayer themselves where there were no sch
 > schone gesang.
 
 Where there are no scholars, the people may themselves sing the Our Father; thereafter the
-communion of the people taketh place, etc. The people may sing "God be praised and blessed," or
+communion of the people taketh place, etc. The people may sing "O Lord, We Praise Thee," or
 other fair songs.
 
 At weekday communions in Riga the whole assembly sang the Lord's Prayer hymn, so that the
@@ -31035,10 +31080,10 @@ and the Verba, and had the people finish it during the distribution. **Queienfel
 > ich die leut und das volk singt das: Jesus Christus vollend aus und: Gott sei gelobet und
 > gebenedeiet etc.
 
-After the sermon, when there are communicants, we sing "Jesus Christ our Saviour," etc.
+After the sermon, when there are communicants, we sing "Jesus Christ, Our Blessed Savior," etc.
 Thereupon I sing or read the Our Father. Thereafter the words of consecration. Thereafter I
-communicate the people, and the people sing "Jesus Christ" out to the end, and "God be praised
-and blessed," etc.
+communicate the people, and the people sing "Jesus Christ, Our Blessed Savior" out to the end,
+and "O Lord, We Praise Thee," etc.
 
 In the Lutheran liturgy of Engerhafe the three stanzas of "O Lamm Gottes unschuldig" were
 divided across the rite. The first came after the Verba, the second after the exhortation,
@@ -31048,20 +31093,20 @@ and the third after the absolution, and with the third the communion began. **En
 <!-- doc 2119 -->
 > Canatur Imo O lamm Gottes unschuldig etc.
 
-Let "O Lamb of God, innocent," etc. be sung the first time.
+Let "Lamb of God, Pure and Holy," etc. be sung the first time.
 
 <!-- doc 2119 -->
 > Canatur 2do O lamm Gottes unschuldig etc. et dicat sacerdos: Kniet nieder, geliebte im Herrn,
 > erhebet eure herzen zu Gott und lasset uns andächtig beten.
 
-Let "O Lamb of God, innocent," etc. be sung the second time, and let the priest say: "Kneel
+Let "Lamb of God, Pure and Holy," etc. be sung the second time, and let the priest say: "Kneel
 down, beloved in the Lord, lift up your hearts to God, and let us pray devoutly."
 
 <!-- doc 2119 -->
 > Canatur 3tio O lamm Gottes unschuldig etc. et fiat communicatio his verbis.
 
-Let "O Lamb of God, innocent," etc. be sung the third time, and let the communion be made with
-these words.
+Let "Lamb of God, Pure and Holy," etc. be sung the third time, and let the communion be made
+with these words.
 
 ---
 
@@ -31091,8 +31136,8 @@ hymn in Lent, the festal hymns at the feasts, and the German Te Deum.
 > Under solchem communicirn sol das volk mit dem chor singen das deütsch lied Jesus Christus
 > unser heilaut, und nach der communication got sei gelobet etc.
 
-During such communicating the people with the choir shall sing the German song "Jesus Christ
-our Saviour," and after the communion "God be praised," etc.
+During such communicating the people with the choir shall sing the German song "Jesus Christ,
+Our Blessed Savior," and after the communion "O Lord, We Praise Thee," etc.
 
 **Eisfeld, *Verordnung der Visitatoren*, 1554** (Sehling 1, p. 562):
 
@@ -31100,8 +31145,8 @@ our Saviour," and after the communion "God be praised," etc.
 > Unter der communion sol man singen das lid Joannis Hussen: Jesus Christus unser heiland, oder
 > got sei gelobet oder Christe du lamb gott[es].
 
-During the communion the song of John Hus shall be sung, "Jesus Christ our Saviour," or "God be
-praised," or "Christ, thou Lamb of God."
+During the communion the song of John Hus shall be sung, "Jesus Christ, Our Blessed Savior," or
+"O Lord, We Praise Thee," or "Christ, thou Lamb of God."
 
 A Henneberg pastor calls Hus's hymn "the instructive and comforting song of the holy martyr
 John Hus". **Herpf (Henneberg), *Kirchen-Ordnung*, 1566** (Sehling 2, p. 335):
@@ -31112,8 +31157,8 @@ John Hus". **Herpf (Henneberg), *Kirchen-Ordnung*, 1566** (Sehling 2, p. 335):
 > Gott sei gelobet].
 
 During this and the most holy action the choir singeth the instructive and comforting song of
-the holy martyr John Hus, "Jesus Christ our Saviour," etc., and thereupon the thanksgiving,
-"God be praised."
+the holy martyr John Hus, "Jesus Christ, Our Blessed Savior," etc., and thereupon the
+thanksgiving, "O Lord, We Praise Thee."
 
 Bremen in 1561 wanted Hus's hymn "in the ancient melody", that is, the Latin *Jesus Christus
 nostra salus*, "and at times also in the new one composed by Luther". This order was written
@@ -31131,7 +31176,7 @@ It pleaseth us therefore that the text of Isaiah be sung, by turns in Latin or G
 there follow it, during the communicating, the song of John Hus in the ancient melody, and at
 times also in the new one composed by Luther. Let there be added also the hundred and eleventh
 psalm together with the Agnus Dei, if the multitude of communicants be great. And at length
-let it be concluded with the thanksgiving "God be praised," etc.
+let it be concluded with the thanksgiving "O Lord, We Praise Thee," etc.
 
 #### <a id="s8-14-2"></a>8.14.2 As many hymns as there are communicants
 
@@ -31145,9 +31190,9 @@ Nearly every order measures the number of communion hymns by the number of commu
 > eins oder mehr gesungen werden.
 
 During the communion, and when the communicants are many, the Agnus Dei in Latin, together with
-the German songs, as "Isaiah the prophet, it befell," item the hundred and eleventh psalm, "I
-thank the Lord with all my heart," or "Jesus Christ our Saviour," item "God be praised," etc.,
-one or more, shall be sung.
+the German songs, as "Isaiah, Mighty Seer in Days of Old," item the hundred and eleventh psalm,
+"I thank the Lord with all my heart," or "Jesus Christ, Our Blessed Savior," item "O Lord, We
+Praise Thee," etc., one or more, shall be sung.
 
 **Henneberg, *Kirchenordnung*, 1582** (Sehling 2, p. 309):
 
@@ -31158,11 +31203,11 @@ one or more, shall be sung.
 > aber der communicanten so wenig, das auch obgemelter gesenge einer zu lang were, so sol
 > darmit, so bald die communion geendet, auch aufgehört werden.
 
-During the communion shall be sung "Jesus Christ our Saviour," item "God be praised," or
-"Isaiah the prophet, it befell," or what else there may be of spiritual songs which are
-agreeable and fitting to this action and which the need requireth according to the number of
-communicants. But when the communicants are so few that even one of the aforesaid songs were too
-long, then it shall be stopped as soon as the communion is ended.
+During the communion shall be sung "Jesus Christ, Our Blessed Savior," item "O Lord, We Praise
+Thee," or "Isaiah, Mighty Seer in Days of Old," or what else there may be of spiritual songs
+which are agreeable and fitting to this action and which the need requireth according to the
+number of communicants. But when the communicants are so few that even one of the aforesaid
+songs were too long, then it shall be stopped as soon as the communion is ended.
 
 At the Dresden Kreuzkirche all the listed hymns were sung if there were many communicants.
 **Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574** (Sehling 1, p. 555):
@@ -31172,9 +31217,9 @@ At the Dresden Kreuzkirche all the listed hymns were sung if there were many com
 > Christus unser heiland, mein zung erkling. Si multi sunt communicantes omnes hae cantilenae
 > canuntur.
 
-During the communion is sung either the Agnus Dei, the Sanctus, "God be praised and blessed,"
-"Jesus Christ our Saviour," "My tongue, resound." If the communicants are many, all these songs
-are sung.
+During the communion is sung either the Agnus Dei, the Sanctus, "O Lord, We Praise Thee,"
+"Jesus Christ, Our Blessed Savior," "My tongue, resound." If the communicants are many, all
+these songs are sung.
 
 The Lippe order puts the Agnus Dei, "O Lamm Gottes" and "O Christ, wir danken deiner Güt" on
 the high feasts, and ends with a hymn of thanks. **Lippe, *Kirchenordnung*, 1571** (Sehling 21, p. 388):
@@ -31190,11 +31235,11 @@ the high feasts, and ends with a hymn of thanks. **Lippe, *Kirchenordnung*, 1571
 
 During the communion, while the sacrament is dispensed and distributed, the church shall sing
 one or more of the songs hereafter set, according as the communicants are many or few, as:
-"Jesus Christ our Saviour"; on the high feast days, the Agnus Dei, "O Lamb of God, innocent,"
-"O Christ, we thank thee for thy goodness." After the communion the collect shall be sung by the
-preacher, thereupon the accustomed blessing or benediction (Numbers 6) spoken toward the people,
-and at the last it shall be concluded by the whole church with a song of thanks, as "God be
-praised," or "Praise and honour with high price."
+"Jesus Christ, Our Blessed Savior"; on the high feast days, the Agnus Dei, "Lamb of God, Pure
+and Holy," "O Christ, we thank thee for thy goodness." After the communion the collect shall be
+sung by the preacher, thereupon the accustomed blessing or benediction (Numbers 6) spoken toward
+the people, and at the last it shall be concluded by the whole church with a song of thanks, as
+"O Lord, We Praise Thee," or "Praise and honour with high price."
 
 Regensburg first sang the Latin Agnus Dei three times, slowly. If that was not long enough, a
 Latin thanksgiving from the gradual followed. **Regensburg, *Wahrhaftiger Bericht*, 1542**
@@ -31228,11 +31273,11 @@ hymns otherwise sung after the sermon. **Hof, *Ordo ecclesiasticus*, 1592** (Seh
 These not sufficing because of the multitude of communicants, let German songs be added in the
 same manner as regards organ and choirs. Note: item the known sequences, composed in the Latin
 and German tongues, for the chief feasts. Moreover the responsory *Discubuit Jesus*, in the
-second part of the Latin missal. 1. "Jesus Christ our Saviour," John Hus's. 2. "I thank the Lord
-with all my heart." 3. "Have mercy on me, O Lord God." 4. "May God be gracious unto us." All
-according to the number and multitude of the communicants, so that the following little songs
-also (which are otherwise sung on Sunday, and likewise Wednesday and Friday, after the sermon
-is ended) [may be] hung on at the end of the communion.
+second part of the Latin missal. 1. "Jesus Christ, Our Blessed Savior," John Hus's. 2. "I thank
+the Lord with all my heart." 3. "Have mercy on me, O Lord God." 4. "May God Bestow on Us His
+Grace." All according to the number and multitude of the communicants, so that the following
+little songs also (which are otherwise sung on Sunday, and likewise Wednesday and Friday, after
+the sermon is ended) [may be] hung on at the end of the communion.
 
 Wittenberg lists hymns "until the communion is over", including festal hymns. **Wittenberg,
 *Kirchenordnung*, 1533** (Sehling 1, p. 705):
@@ -31242,9 +31287,9 @@ Wittenberg lists hymns "until the communion is over", including festal hymns. **
 > gelobt; das deutsch confitebor tibi; pange lingua lateinisch und dergleichen, auch deutsche
 > gesenge vom feste etc. bis die communion aus ist.
 
-While the people communicate, one singeth the Sanctus; the Agnus Dei; "Jesus Christ our
-Saviour"; "God be praised"; the German *Confitebor tibi*; *Pange lingua* in Latin, and the like;
-also German songs of the feast, etc., until the communion is over.
+While the people communicate, one singeth the Sanctus; the Agnus Dei; "Jesus Christ, Our Blessed
+Savior"; "O Lord, We Praise Thee"; the German *Confitebor tibi*; *Pange lingua* in Latin, and
+the like; also German songs of the feast, etc., until the communion is over.
 
 #### <a id="s8-14-3"></a>8.14.3 The song stops when the communion ends
 
@@ -31257,10 +31302,10 @@ straight to the German Agnus Dei. **Pomerania, *Kirchenordnung*, 1535** (Sehling
 > lenger den de communicatio waret, wenn de lüde sind tom sacrament gangen, so singet me ein
 > ander düdesch agnus dei: Christe, du lam gades etc.
 
-While the communion lasteth, the church shall sing an Agnus Dei in Latin or German, "O Lamb of
-God," etc., "Jesus Christ," etc., "God be praised," etc., the psalm *Confitebor*; but no longer
-than the communion lasteth. When the people have gone to the sacrament, another German Agnus
-Dei is sung, "Christ, thou Lamb of God," etc.
+While the communion lasteth, the church shall sing an Agnus Dei in Latin or German, "Lamb of
+God, Pure and Holy," etc., "Jesus Christ, Our Blessed Savior," etc., "O Lord, We Praise Thee,"
+etc., the psalm *Confitebor*; but no longer than the communion lasteth. When the people have
+gone to the sacrament, another German Agnus Dei is sung, "Christ, thou Lamb of God," etc.
 
 The appendix of the same order is sharper still: "all other singing shall then straightway
 cease, notwithstanding that a song begun be not sung out with all its verses" (Sehling 4, p. 344):
@@ -31282,8 +31327,8 @@ straightway cease, notwithstanding that a song begun be not sung out with all it
 > unschüldig dre mal, edder Christe, du lam gades.
 
 One shall also not sing longer than the communion lasteth; when that is out, the singing also
-shall cease. And then forthwith in the towns and villages one shall begin "O Lamb of God,
-innocent," three times, or "Christ, thou Lamb of God."
+shall cease. And then forthwith in the towns and villages one shall begin "Lamb of God, Pure and
+Holy," three times, or "Christ, thou Lamb of God."
 
 **Schleswig-Holstein, *Kirchenordnung*, 1542** (Sehling 23, p. 91):
 
@@ -31291,8 +31336,8 @@ innocent," three times, or "Christ, thou Lamb of God."
 > So hevet de Scholemeister vort an: Jhesus Christus, unser Heiland etc., Edder wat anders, dat
 > dem gelick ys. Wen de berichtinge uthe ys, so höret ock up de Sanck.
 
-Then the schoolmaster beginneth forthwith "Jesus Christ our Saviour," etc., or something else
-that is like it. When the communion is out, the singing also ceaseth.
+Then the schoolmaster beginneth forthwith "Jesus Christ, Our Blessed Savior," etc., or something
+else that is like it. When the communion is out, the singing also ceaseth.
 
 **Hamburg, *Kirchenordnung*, 1556** (Sehling 5, p. 553):
 
@@ -31305,11 +31350,12 @@ that is like it. When the communion is out, the singing also ceaseth.
 > nu de communion geschehen, schall dat chor uphören to singen.
 
 When now the communicants go to the altar, the songs of the sacrament shall be sung, "Jesus
-Christ," etc., "God be praised," etc., or, according to the occasion of the feasts, else a good
-song; yet so that the organist play always in between, and that the choir nevertheless sing all
-the verses. On the feasts, when there are many communicants, and also otherwise on the Sundays,
-one shall sing more: the Agnus Dei in Latin, at times also in German, "Christ, thou Lamb of
-God," etc. When now the communion hath taken place, the choir shall cease singing.
+Christ, Our Blessed Savior," etc., "O Lord, We Praise Thee," etc., or, according to the occasion
+of the feasts, else a good song; yet so that the organist play always in between, and that the
+choir nevertheless sing all the verses. On the feasts, when there are many communicants, and
+also otherwise on the Sundays, one shall sing more: the Agnus Dei in Latin, at times also in
+German, "Christ, thou Lamb of God," etc. When now the communion hath taken place, the choir
+shall cease singing.
 
 In the Kurpfalz order the minister could stop the singing if the service ran too long.
 **Kurpfalz, *Kirchenordnung*, 1556** (Sehling 14, p. 165):
@@ -31333,8 +31379,8 @@ the bread, and then fell silent until the cup. **Schleswig-Holstein, *Deutsche M
 > Nu hevet dat cor an to syngende: Jhesus Christus, unse hylant. Eyn versch dar van. Dar na kert
 > sick de prester myt dem licham Cristi thom volchke.
 
-Now the choir beginneth to sing "Jesus Christ our Saviour," one verse thereof. Thereafter the
-priest turneth himself with the body of Christ to the people.
+Now the choir beginneth to sing "Jesus Christ, Our Blessed Savior," one verse thereof.
+Thereafter the priest turneth himself with the body of Christ to the people.
 
 <!-- doc 1576 -->
 > Unde singet ßo lange, dat de licham Christi vordelet is. Dar na swicht dat chor stille. Unde de
@@ -31352,9 +31398,9 @@ is begun. **Hamburg, *Kirchenordnung*, 1529** (Sehling 5, p. 529):
 > averst de communicanten sin togegaen, so schall de sank uphoren und de prester neme den kelk
 > und drege den bevel Christi vordtan.
 
-Meanwhile the people sing "Jesus Christ," etc., or "God be praised and blessed," etc. But when
-the communicants have come forward, the singing shall cease, and the priest shall take the cup
-and set forth the command of Christ further.
+Meanwhile the people sing "Jesus Christ, Our Blessed Savior," etc., or "O Lord, We Praise Thee,"
+etc. But when the communicants have come forward, the singing shall cease, and the priest shall
+take the cup and set forth the command of Christ further.
 
 #### <a id="s8-14-5"></a>8.14.5 The Latin pieces and the German hymns beside them
 
@@ -31370,9 +31416,9 @@ communicants. One German hymn was to be sung after the communion in any case. **
 > gesungen werden.
 
 Thereupon the responsory *Discubuit Jesus* shall be begun in Latin; and if the communicants were
-many, so that it would not reach, one shall begin to sing German to the people, "God be
-praised," or "Jesus Christ our Saviour"; one of which songs, even though the *Discubuit* should
-suffice, shall nevertheless be sung after the communion.
+many, so that it would not reach, one shall begin to sing German to the people, "O Lord, We
+Praise Thee," or "Jesus Christ, Our Blessed Savior"; one of which songs, even though the
+*Discubuit* should suffice, shall nevertheless be sung after the communion.
 
 **Kurpfalz, provisional *Kirchenordnung*, 1546** (Sehling 14, p. 97):
 
@@ -31382,10 +31428,10 @@ suffice, shall nevertheless be sung after the communion.
 > Discubuit Jesus cum discipulis suis oder das teutsche pange lingua. Nach der communion singt
 > der chor die agnus Dei.
 
-During the communion the people sing the song "Jesus Christ our Saviour," or "God be praised,"
-or else a Christian German psalm; or the choir also the responsory *Discubuit Jesus cum
-discipulis suis*, or the German *Pange lingua*. After the communion the choir singeth the Agnus
-Dei.
+During the communion the people sing the song "Jesus Christ, Our Blessed Savior," or "O Lord, We
+Praise Thee," or else a Christian German psalm; or the choir also the responsory *Discubuit
+Jesus cum discipulis suis*, or the German *Pange lingua*. After the communion the choir singeth
+the Agnus Dei.
 
 **Bremen, *Kirchenordnung*, 1534** (Sehling 7/2.2, p. 460):
 
@@ -31395,8 +31441,8 @@ Dei.
 > unde Agnus Dei.
 
 Thereafter the communicants come forward, first the men, thereafter the women. In the meantime
-the schoolmaster singeth *O sacrum convivium* and "Jesus Christ our Saviour," or the Sanctus and
-Agnus Dei.
+the schoolmaster singeth *O sacrum convivium* and "Jesus Christ, Our Blessed Savior," or the
+Sanctus and Agnus Dei.
 
 At Heilbronn the Latin and German *Pange lingua* were sung in alternation with "Gott sei
 gelobet". **Heilbronn, *Kirchenordnung*, 1530** (Sehling 17/1, pp. 285–286):
@@ -31405,8 +31451,8 @@ gelobet". **Heilbronn, *Kirchenordnung*, 1530** (Sehling 17/1, pp. 285–286):
 > Darumb singt man den Himnum Pange lingua, latin und deutsch, mitt dem […] lobgesanng: Gott
 > sey gelobett unnd gebenedeiet etc.
 
-Therefore one singeth the hymn *Pange lingua*, Latin and German, with the song of praise "God
-be praised and blessed," etc.
+Therefore one singeth the hymn *Pange lingua*, Latin and German, with the song of praise "O
+Lord, We Praise Thee," etc.
 
 The Heilbronn song order of 1543 turns to the German and Latin Te Deum at great communions.
 **Heilbronn, *Ordnung des Kirchengesangs*, 1543** (Sehling 17/1, p. 323):
@@ -31431,10 +31477,10 @@ the feasts. **Wolfenbüttel, *Kirchenordnung*, 1543** (Sehling 6/1, p. 57):
 > andere ledere under der communio singen, also: Nu frouet ju etc. Item van der döpe etc. und
 > gude ledere, psalme und hymnos düdesch van den festen.
 
-Meanwhile the people sing "Jesus Christ our Saviour," etc., or "God be praised and blessed,"
+Meanwhile the people sing "Jesus Christ, Our Blessed Savior," etc., or "O Lord, We Praise Thee,"
 etc., or the psalm *Confitebor* in German, etc. One may at times, and well often, sing also other
-songs under the communion, as "Now rejoice," etc., item the one of baptism, etc., and good songs,
-psalms and hymns in German of the feasts.
+songs under the communion, as "Dear Christians, One and All, Rejoice," etc., item the one of
+baptism, etc., and good songs, psalms and hymns in German of the feasts.
 
 **Rostock, *Conformitas ceremoniarum*, c. 1560** (Sehling 5, p. 288):
 
@@ -31442,8 +31488,9 @@ psalms and hymns in German of the feasts.
 > drauf sol der organist schlahen und die kirche singen Jesus Christus unser heiland, und dazu,
 > wen der communicanten viel ist, gott sei gelobet und helf gott, das mirs gelinge.
 
-thereupon the organist shall play and the church sing "Jesus Christ our Saviour," and thereto,
-when the communicants are many, "God be praised" and "Help, God, that I may succeed."
+thereupon the organist shall play and the church sing "Jesus Christ, Our Blessed Savior," and
+thereto, when the communicants are many, "O Lord, We Praise Thee" and "Help, God, that I may
+succeed."
 
 **Engerhafe, *Liturgie*, 1583** (Sehling 7/1, p. 681):
 
@@ -31453,8 +31500,8 @@ when the communicants are many, "God be praised" and "Help, God, that I may succ
 > id genus alia cantica, sive ludatur organis.
 
 But during the communion let there be sung either "What need can come upon us," or "O Christ, we
-thank thee for thy goodness," or "Jesus Christ our Saviour," or "Now rejoice, dear Christians
-all," and other songs of that kind; or let the organ be played.
+thank thee for thy goodness," or "Jesus Christ, Our Blessed Savior," or "Dear Christians, One
+and All, Rejoice," and other songs of that kind; or let the organ be played.
 
 At Ortenburg "at times also the Passion" was sung, according as the communicants were many or
 few. **Ortenburg, 1563** (Sehling 13, p. 532):
@@ -31464,8 +31511,8 @@ few. **Ortenburg, 1563** (Sehling 13, p. 532):
 > Christus unser Hailand, zu zeiten auch den passion, nachdem der communicanten vil oder wenig
 > gewesen sind.
 
-But during such distribution the choir hath sung "Jesus Christ our Lord," or "Jesus Christ our
-Saviour," at times also the Passion, according as the communicants have been many or few.
+But during such distribution the choir hath sung "Jesus Christ our Lord," or "Jesus Christ, Our
+Blessed Savior," at times also the Passion, according as the communicants have been many or few.
 
 Limpurg changed the communion hymn by season: the Passion in Lent and "Christ lag in
 Todesbanden" on Easter Day. **Limpurg, *Kirchenordnung*, 1610** (Sehling 16, p. 620):
@@ -31475,9 +31522,9 @@ Todesbanden" on Easter Day. **Limpurg, *Kirchenordnung*, 1610** (Sehling 16, p. 
 > unser haillandt etc. Oder: Nun frewet Euch, Lieben Christen gemain. Item: Gott sei gelobet und
 > gebenedeyet. In der Fasten den Passion, am Ostertag: Christ lag inn todtes banden.
 
-During the communion let the schoolmaster sing either Hus's song, "Jesus Christ our Saviour,"
-etc., or "Now rejoice, dear Christians all"; item "God be praised and blessed." In Lent the
-Passion; on Easter Day, "Christ lay in the bands of death."
+During the communion let the schoolmaster sing either Hus's song, "Jesus Christ, Our Blessed
+Savior," etc., or "Dear Christians, One and All, Rejoice"; item "O Lord, We Praise Thee." In
+Lent the Passion; on Easter Day, "Christ Jesus Lay in Death's Strong Bands."
 
 At Strasbourg Psalm 51 was sung at "great communions". **Strasbourg, *Gottesdienstordnung*,
 1577** (Sehling 20/1, p. 516):
@@ -31487,9 +31534,9 @@ At Strasbourg Psalm 51 was sung at "great communions". **Strasbourg, *Gottesdien
 > Gott sey gelobet und gebenedeyet, oder wens grosse communion sind: O herre Gott, begnade mich,
 > oder sonst ein gesang de tempore.
 
-During the communion one singeth either "Jesus Christ our Saviour," John Hus's song, or "God be
-praised and blessed," or, when there are great communions, "O Lord God, be gracious unto me,"
-or else a song of the season.
+During the communion one singeth either "Jesus Christ, Our Blessed Savior," John Hus's song, or
+"O Lord, We Praise Thee," or, when there are great communions, "O Lord God, be gracious unto
+me," or else a song of the season.
 
 In the village order of Veit Dietrich's Nürnberg *Agendbüchlein*, Sebald Heyden's "Als Jesus
 Christus unser Herr" was the first choice, with the shorter hymns "if that be too long".
@@ -31500,7 +31547,7 @@ Christus unser Herr" was the first choice, with the shorter hymns "if that be to
 > lang - Gott sei gelobet oder Jesus Christus unser Heiland.
 
 Meanwhile the church shall sing the song "When Jesus Christ our Lord," or, where that is too
-long, "God be praised," or "Jesus Christ our Saviour."
+long, "O Lord, We Praise Thee," or "Jesus Christ, Our Blessed Savior."
 
 The Kassel general synod of 1607, as Hesse turned Reformed, kept "Gott sei gelobet". Beside it
 stood Lobwasser's Psalms 23, 103 and 111, "according to the occasion and number of the
@@ -31512,7 +31559,7 @@ communicants". **Hessen-Kassel, *Abschied der Kasseler Generalsynode*, 1607**
 > etc. oder sonstenn als den Lobwasser der 23., 103., 111. psalm nach gelegenheitt undt anzall
 > der communicanten.
 
-and when the Lord's Supper is held, during the communion the song "God be praised and blessed,"
+and when the Lord's Supper is held, during the communion the song "O Lord, We Praise Thee,"
 etc., or else, as out of Lobwasser, the twenty-third, hundred and third, hundred and eleventh
 psalm, according to the occasion and number of the communicants.
 
@@ -31548,16 +31595,16 @@ people sing alternate verses so that the hymns would be learned by all. **Pomera
 > einen vers umme den andern singe, up dat se alle to gelick den schölern unde der gemeine
 > gebrücklick werden.
 
-During the communion one singeth "Jesus Christ our Saviour," etc., or "God be praised," etc., or
-"O Lamb of God, innocent," etc., "Christ, thou Lamb of God," item "I thank the Lord with all my
-heart," etc., with the note that standeth in the German songbook, and the like German songs that
-rhyme with the communion. Item *Discubuit Jesus*, item the Latin Agnus Dei, in plainsong, item
-*O sacrum convivium*, etc. When these songs are sung during the communion, the organists shall
-make their song with the organ the shorter, and play no worldly, light songs. The pastor shall
-see to it that the organs be so moderated that the German psalms during the communion be sung
-wholly to the end with the congregation, and that the aforesaid songs be sung by turns, the
-choir and the people one verse after another, that they may all alike become familiar to the
-scholars and the congregation.
+During the communion one singeth "Jesus Christ, Our Blessed Savior," etc., or "O Lord, We Praise
+Thee," etc., or "Lamb of God, Pure and Holy," etc., "Christ, thou Lamb of God," item "I thank
+the Lord with all my heart," etc., with the note that standeth in the German songbook, and the
+like German songs that rhyme with the communion. Item *Discubuit Jesus*, item the Latin Agnus
+Dei, in plainsong, item *O sacrum convivium*, etc. When these songs are sung during the
+communion, the organists shall make their song with the organ the shorter, and play no worldly,
+light songs. The pastor shall see to it that the organs be so moderated that the German psalms
+during the communion be sung wholly to the end with the congregation, and that the aforesaid
+songs be sung by turns, the choir and the people one verse after another, that they may all
+alike become familiar to the scholars and the congregation.
 
 Schönburg let the organ play during the communion only on high feasts. **Schönburg,
 *Kirchenordnung*, 1542** (Sehling 2, p. 171):
@@ -31567,9 +31614,9 @@ Schönburg let the organ play during the communion only on high feasts. **Schön
 > zuweilen das lateinische sanctus oder agnus dei novi testamenti. Der organista soll sub
 > communione nicht schlagen, es sei denn an hohen festen.
 
-During the communion one may sing by turns the German Sanctus, etc., as "Jesus Christ," at times
-the Latin Sanctus or Agnus Dei of the New Testament. The organist shall not play during the
-communion, unless on high feasts.
+During the communion one may sing by turns the German Sanctus, etc., as "Jesus Christ, Our
+Blessed Savior," at times the Latin Sanctus or Agnus Dei of the New Testament. The organist
+shall not play during the communion, unless on high feasts.
 
 The organ's alternation with choir and people is treated in
 [Chapter 9](#ch9), [§9.3.3](#s9-3-3).
@@ -31659,11 +31706,11 @@ lets any of the German communion hymns be closed with "Christe, du Lamm Gottes".
 > beschliessen: [folgen die Noten zu Christe du lamb gottes, der du tregst die sünd der welt,
 > erbarm dich unser. Verleih uns dein [fried].
 
-when one or more of the German songs have been sung (as "Jesus Christ our Saviour," etc., item
-the German Sanctus, "Isaiah the prophet, it befell," item the psalm "I thank the Lord with all my
-heart," etc.), one may conclude with the German Agnus Dei following: [the notes follow to
-"Christ, thou Lamb of God, that bearest the sin of the world, have mercy upon us. Grant us thy
-peace."]
+when one or more of the German songs have been sung (as "Jesus Christ, Our Blessed Savior,"
+etc., item the German Sanctus, "Isaiah, Mighty Seer in Days of Old," item the psalm "I thank the
+Lord with all my heart," etc.), one may conclude with the German Agnus Dei following: [the notes
+follow to "Christ, thou Lamb of God, that bearest the sin of the world, have mercy upon us.
+Grant us thy peace."]
 
 **Mecklenburg, *Kirchenordnung*, 1552** (Sehling 5, p. 199):
 
@@ -31673,10 +31720,11 @@ peace."]
 > danke dem herrn von ganzem herzen. Wie er im deudschen gesang buch stehet. Desgleichen andere
 > deudsche geistliche lieder. Und zum beschlus: Christe, du lam gottes.
 
-During the communion let "Jesus Christ our Saviour" be sung; item "God be praised," the Agnus
-Dei, "Isaiah the prophet." And when the communicants are many, let the hundred and eleventh
-psalm be sung, "I thank the Lord with all my heart," as it standeth in the German songbook;
-likewise other German spiritual songs. And at the close, "Christ, thou Lamb of God."
+During the communion let "Jesus Christ, Our Blessed Savior" be sung; item "O Lord, We Praise
+Thee," the Agnus Dei, "Isaiah, Mighty Seer in Days of Old." And when the communicants are many,
+let the hundred and eleventh psalm be sung, "I thank the Lord with all my heart," as it standeth
+in the German songbook; likewise other German spiritual songs. And at the close, "Christ, thou
+Lamb of God."
 
 At Suhl the boys sang songs of the season or of the sacrament during the communion, "and it is
 commonly concluded with the song *Christe du Lamm Gottes*". **Suhl, *Ordnung des predigamts*,
@@ -31697,7 +31745,7 @@ after. **Neuenrade, *Kirchenordnung*, 1564** (Sehling 22, p. 519):
 > singet man: God sy gelovet, etc.
 
 Then one singeth the Agnus Dei in German, and the communicants go to the altar. After the Agnus
-Dei one singeth "God be praised," etc.
+Dei one singeth "O Lord, We Praise Thee," etc.
 
 #### <a id="s8-15-2"></a>8.15.2 "Gott sei gelobet" as the thanksgiving
 
@@ -31720,7 +31768,7 @@ The Albertine order ends the service with it: "and therewith go home" (Sehling 1
 > So mag man das volk singen lassen den gesang: gott sei gelobet und gebenedeiet und damit heim
 > gehen.
 
-Then the people may be let sing the song "God be praised and blessed," and therewith go home.
+Then the people may be let sing the song "O Lord, We Praise Thee," and therewith go home.
 
 **Rothenberg, *Vereinigung*, 1618** (Sehling 13, p. 550):
 
@@ -31729,7 +31777,7 @@ Then the people may be let sing the song "God be praised and blessed," and there
 > man zur danksagung für dieselbe: Gott sei gelobet und gebenedeiet etc.
 
 During the same let psalms and songs be sung that belong thereto. After the communion is ended
-let "God be praised and blessed," etc. be sung for thanksgiving for the same.
+let "O Lord, We Praise Thee," etc. be sung for thanksgiving for the same.
 
 #### <a id="s8-15-3"></a>8.15.3 The closing hymn
 
@@ -31745,7 +31793,7 @@ Tecklenburg closes with thanksgiving. **Tecklenburg, *Kirchenordnung*, 1543** (S
 > seggen wy alle etc., Mit fride und [frouwden of dergelichen duischer dancksegginge].
 
 At the last the people shall praise the Lord and thank him with all their heart with the song
-"Thanks say we all," etc., "In peace and [joy," or the like German thanksgiving].
+"Thanks say we all," etc., "In Peace and [Joy I Now Depart," or the like German thanksgiving].
 
 Northeim closes with the prayer for peace, because "for temporal peace we are bound to pray at
 all times". **Northeim, *Kirchenordnung*, 1539** (Sehling 6/2, p. 926):
@@ -31768,8 +31816,8 @@ Frieden". **Mecklenburg, *Ordeninge der misse*, 1545** (Sehling 5, p. 155):
 > frede gnedichlick, here godt etc.
 
 And then the priest shall set himself upon his knees before the altar. The whole congregation
-shall also do so, and begin "Keep us, Lord, by thy word," the three verses, and then "Grant us
-peace graciously, Lord God," etc.
+shall also do so, and begin "Lord, Keep Us Steadfast in Your Word," the three verses, and then
+"Grant Peace, We Pray, in Mercy, Lord," etc.
 
 Buxtehude closed with *Da pacem* or "Verleih uns Frieden", sung without the organ, or "a psalm
 fitting the present need", such as "Mitten wir im Leben sind". **Buxtehude, *Kirchenordnung*,
@@ -31780,9 +31828,9 @@ fitting the present need", such as "Mitten wir im Leben sind". **Buxtehude, *Kir
 > uns frede, edder sunst einen psalm, de na ahnliggende nodt darto bequeme, alse Midden wy im
 > levent sint, edder andere dem gelick.
 
-At the close the choir alone, without the organ, shall sing *Da pacem*, or in German "Grant us
-peace," or else a psalm fitting thereto according to the present need, as "In the midst of life
-we are," or others like it.
+At the close the choir alone, without the organ, shall sing *Da pacem*, or in German "Grant
+Peace, We Pray, in Mercy, Lord," or else a psalm fitting thereto according to the present need,
+as "In the Very Midst of Life," or others like it.
 
 **Hamburg, *Kirchenordnung*, 1556** (Sehling 5, p. 553):
 
@@ -31790,8 +31838,8 @@ we are," or others like it.
 > Tom lesten schall dat chor Da pacem etc. singen effte düdesch vorlene uns frede etc. up
 > sünderlicke feste averst einen andern gesank, de sick darbi wil schicken.
 
-At the last the choir shall sing *Da pacem*, etc., or in German "Grant us peace," etc.; but on
-special feasts another song that will fit thereto.
+At the last the choir shall sing *Da pacem*, etc., or in German "Grant Peace, We Pray, in Mercy,
+Lord," etc.; but on special feasts another song that will fit thereto.
 
 Hoya gives the festal closing hymns. **Hoya, *Kirchenordnung*, 1581** (Sehling 6/2, p. 1150):
 
@@ -31801,10 +31849,10 @@ Hoya gives the festal closing hymns. **Hoya, *Kirchenordnung*, 1581** (Sehling 6
 > versen, auf Ostern das kurze Jhesus Christus, unser heyland, der den tod uberwand, auf
 > Pfingsten Kom, heiliger Geist, Herre Gott etc.
 
-Thereafter one singeth "May God be gracious unto us," etc. But on the feasts one singeth what
-the feasts bring with them, as at Christmas "Praised be thou, Jesu Christ," with the verses
-following; at Easter the short "Jesus Christ our Saviour, who overcame death"; at Pentecost
-"Come, Holy Ghost, Lord God," etc.
+Thereafter one singeth "May God Bestow on Us His Grace," etc. But on the feasts one singeth what
+the feasts bring with them, as at Christmas "We Praise You, Jesus, at Your Birth," with the
+verses following; at Easter the short "Jesus Christ, Who Came, Us to Save"; at Pentecost
+"Come, Holy Ghost, God and Lord," etc.
 
 **Pomerania, *Agenda*, 1569** (Sehling 4, p. 439):
 
@@ -31812,8 +31860,9 @@ following; at Easter the short "Jesus Christ our Saviour, who overcame death"; a
 > Tom beslute wert gesungen: Si loff unde ehre etc., edder: Erholt uns herre etc., Vorlene uns
 > frede etc., O godt wi danken diner güde etc. unde der geliken.
 
-At the close is sung "Praise and honour," etc., or "Keep us, Lord," etc., "Grant us peace," etc.,
-"O God, we thank thee for thy goodness," etc., and the like.
+At the close is sung "Praise and honour," etc., or "Lord, Keep Us Steadfast in Your Word," etc.,
+"Grant Peace, We Pray, in Mercy, Lord," etc., "O God, we thank thee for thy goodness," etc., and
+the like.
 
 **Hildesheim (Stift), *Kirchenordnung für Steuerwald und Peine*, 1561** (Sehling 7/2.1, p. 783):
 
@@ -31832,7 +31881,7 @@ In the Braunschweig villages two closing hymns alternated, one holy day after th
 > unß Godt genedig sein und: Erhalt uns, Her, bei deinem wort.
 
 And at the close the sexton shall sing with the people, one holy day after the other, "May God
-be gracious unto us" and "Keep us, Lord, by thy word."
+Bestow on Us His Grace" and "Lord, Keep Us Steadfast in Your Word."
 
 #### <a id="s8-15-4"></a>8.15.4 The closing hymn covers the priest's devesting
 
@@ -31860,9 +31909,10 @@ since it could not be faulted. **Wasungen (Henneberg), pastor's report, 1566** (
 > friden mit der anhengten collecta hab ich hie also gefunden, das mans gar am ent gesungen und
 > damit beschlossen, welches weil es nit zu strafen, hab ichs auch nit endern wollen.
 
-When now the communion is done, one concludeth with the collect and the blessing. "Grant us
-peace," with the collect appended, I have found here thus: that it was sung at the very end and
-therewith concluded; which, since it is not to be blamed, I also would not change.
+When now the communion is done, one concludeth with the collect and the blessing. "Grant Peace,
+We Pray, in Mercy, Lord," with the collect appended, I have found here thus: that it was sung at
+the very end and therewith concluded; which, since it is not to be blamed, I also would not
+change.
 
 #### <a id="s8-15-6"></a>8.15.6 How fixed the slots were
 
@@ -31976,15 +32026,15 @@ figured music, and then followed by the German Magnificat of the whole congregat
 > verhanden, geschlagen und darauf eben dasselbe als balden figuriret, als dann das magnificat
 > durch den cantor und chor mit der ganzen gemeine gesungen werden.
 
-and then on the high feasts, as Christmas, the German *Grates nunc omnes* and "Praised be thou,
-Jesu Christ," until about the Purification; from the Sunday after the Purification, the German
-*Nunc dimittis*, until Lent; through Lent until Easter, "Christ, who art the day and light";
-from Easter until Ascension Day, "So holy is the day," or "Christ is arisen," or "Christ lay in
-the bands of death"; from Ascension Day until Pentecost, "Christ went up to heaven"; from
-Pentecost, [a song] of the Holy Ghost until Advent; in Advent until Christmas, "Now come, the
-Saviour of the heathen": all Sundays in the afternoon played upon the organ, where there is one,
-and thereupon the same straightway sung in figured music; then the Magnificat [shall be] sung by
-the cantor and choir with the whole congregation.
+and then on the high feasts, as Christmas, the German *Grates nunc omnes* and "We Praise You,
+Jesus, at Your Birth," until about the Purification; from the Sunday after the Purification, the
+German *Nunc dimittis*, until Lent; through Lent until Easter, "Christ, Everlasting Source of
+Light"; from Easter until Ascension Day, "This Is Such a Holy Day," or "Christ Is Arisen," or
+"Christ Jesus Lay in Death's Strong Bands"; from Ascension Day until Pentecost, "Christ Rose to
+Heaven"; from Pentecost, [a song] of the Holy Ghost until Advent; in Advent until Christmas,
+"Savior of the Nations, Come": all Sundays in the afternoon played upon the organ, where there
+is one, and thereupon the same straightway sung in figured music; then the Magnificat [shall be]
+sung by the cantor and choir with the whole congregation.
 
 In the Pomeranian *Agenda* vespers opened, kneeling, with *Veni sancte Spiritus* or a Latin
 song of the season "pro ingressu vel egressu". The schoolmaster chose it with the pastor.
@@ -32107,7 +32157,7 @@ draft *Gottesdienstordnung*, 1532** (Sehling 17/1, p. 302):
 
 At night, at *Salve* time: that in the stead of the former *Salve*, for a blessing before
 sleep, the schoolmaster with his boys sing a German song of praise, as the litany, or "In the
-midst of life we are," or *Da pacem Domine*, and the like, and conclude with a collect.
+Very Midst of Life," or *Da pacem Domine*, and the like, and conclude with a collect.
 
 The Hohenlohe order of 1553 abolished the *Salve Regina* outright, "because it is flat against
 God's word and the honour of Christ" (Sehling 15, p. 74):
@@ -32158,12 +32208,13 @@ case in the corpus of a hymn chosen by its doctrine, and it is nearly universal:
 
 Thereupon let the church also sing a Christian German psalm agreeable to the article of the
 catechism then treated: as at the exposition of the Decalogue, "The Ten Commandments," item
-"Man, wilt thou live blessedly," etc.; of the creed, "The Creed" and other psalms serving
+"Wilt Thou, O Man, Live Happily," etc.; of the creed, "The Creed" and other psalms serving
 thereto; of the Our Father, "Our Father, who art in heaven, as Jesus Christ teacheth us," item
-"Our Father in the kingdom of heaven"; of holy baptism, "Through Adam's fall," and "Christ our
-Lord to Jordan came," etc.; of the most worthy sacrament of the altar, "What need can come upon
-us," item "Jesus Christ our Saviour": that the songs, wherein the holy divine Scripture is
-summed up in fair round words, may become known and common to the unlearned and young folk.
+"Our Father, Who from Heaven Above"; of holy baptism, "All Mankind Fell in Adam's Fall," and "To
+Jordan Came the Christ, Our Lord," etc.; of the most worthy sacrament of the altar, "What need
+can come upon us," item "Jesus Christ, Our Blessed Savior": that the songs, wherein the holy
+divine Scripture is summed up in fair round words, may become known and common to the unlearned
+and young folk.
 
 Grubenhagen kept the same hymn for as long as the one chief part was being taught. **Grubenhagen,
 *Kirchenordnung*, 1581** (Sehling 6/2, p. 1046):
@@ -32178,8 +32229,8 @@ Grubenhagen kept the same hymn for as long as the one chief part was being taugh
 
 Herewith one can also always sing something that rhymeth with the part of the catechism that
 hath been expounded: as when the Ten Commandments are expounded, and as long as one is busied
-therewith, one can sing "These are the holy ten commandments," etc., or "Man, wilt thou live
-blessedly," etc.; and so forth with the others; that the young folk may grasp the Christian,
+therewith, one can sing "These Are the Holy Ten Commands," etc., or "Wilt Thou, O Man, Live
+Happily," etc.; and so forth with the others; that the young folk may grasp the Christian,
 spiritual songs, which often give them a good exposition and glorious light, and that they may
 cleave the deeper in memory and heart.
 
@@ -32209,10 +32260,11 @@ fröhlich sein", and then took the hymn of each chief part. **Hoya, *Kirchenordn
 
 [they shall] begin to sing a psalm of the catechism, which is found in the psalm book and is
 called "Now let us Christians be joyful," etc. Thereafter, in the treating of the Decalogue, one
-singeth "These are the holy ten commandments"; in the treating of the creed, "We believe"; over
-the Our Father, "Our Father in the kingdom of heaven"; over the teaching of baptism, "Christ our
-Lord to Jordan came"; in the treating of the Supper, "Jesus Christ our Saviour"; and at times
-also other fine Lutheran psalms, that the people may learn to sing one psalm after another.
+singeth "These Are the Holy Ten Commands"; in the treating of the creed, "We All Believe in One
+True God"; over the Our Father, "Our Father, Who from Heaven Above"; over the teaching of
+baptism, "To Jordan Came the Christ, Our Lord"; in the treating of the Supper, "Jesus Christ,
+Our Blessed Savior"; and at times also other fine Lutheran psalms, that the people may learn to
+sing one psalm after another.
 
 Hohenlohe opened the catechism "with a song of that chief part which the pastor has in hand to
 treat" (Sehling 15, p. 654):
@@ -32238,12 +32290,13 @@ after, "until the un-German people can learn and profit more". **Kurland, *Kirch
 > in den gebrauch bringen, bis das undeutsch v[olk mehr lernen und proficirn mag].
 
 But the pastors of the un-German [the Latvians] shall, before all other psalms, apply themselves
-to the order of the catechism and teach the people to sing: 1. The Ten Commandments, "These are
-the holy ten commandments." 2. The creed, "We all believe in one God." 3. The Our Father, "Our
-Father in the kingdom of heaven." 4. Baptism, "Christ our Lord to Jordan came." 5. The sacrament
-of the altar, "Jesus Christ our Saviour," "God be praised." 6. The Gloria, "To God alone on high
-be glory." These they shall first teach them to sing one after another, the one piece before,
-the other after, and bring them into use, until the un-German people may learn and profit more.
+to the order of the catechism and teach the people to sing: 1. The Ten Commandments, "These Are
+the Holy Ten Commands." 2. The creed, "We All Believe in One True God." 3. The Our Father, "Our
+Father, Who from Heaven Above." 4. Baptism, "To Jordan Came the Christ, Our Lord." 5. The
+sacrament of the altar, "Jesus Christ, Our Blessed Savior," "O Lord, We Praise Thee." 6. The
+Gloria, "All Glory Be to God on High." These they shall first teach them to sing one after
+another, the one piece before, the other after, and bring them into use, until the un-German
+people may learn and profit more.
 
 Wertheim calls "Nun freut euch" a good paraphrase of the whole creed. **Wertheim,
 *Kirchenordnung*, c. 1555** (Sehling 11, p. 716):
@@ -32255,9 +32308,9 @@ Wertheim calls "Nun freut euch" a good paraphrase of the whole creed. **Wertheim
 > gut paraphrasis.
 
 That the catechism also may be in practice, the Ten Commandments shall be sung before the
-sermon, namely in the fair paraphrase thereof. […] Also the song "Now rejoice, dear Christians
-all" doeth sufficient rehearsal of all the articles of faith, and is a good paraphrase upon the
-creed.
+sermon, namely in the fair paraphrase thereof. […] Also the song "Dear Christians, One and All,
+Rejoice" doeth sufficient rehearsal of all the articles of faith, and is a good paraphrase upon
+the creed.
 
 The catechism service itself, its hour, length and order, is treated in
 [Chapter 10](#ch10), [§10.10](#s10-10).
@@ -32303,12 +32356,12 @@ psalm-hymns of trust and defence, in fixed order, "one each day, and no other". 
 > gebett und sonst kein anderer gesungen werde.
 
 following that, changing about, always after the prayer [let] one of these psalms be sung after,
-namely: 1. "A mighty fortress is our God," etc.; 2. "Give peace in our time," etc.; 3. "Keep
-us, Lord, by thy word," etc., and "Grant us peace graciously," etc.; 4. "Where God the Lord
-standeth not by us," etc.; 5. "Were God not with us at this time," etc.; 6. "Ah God, from heaven
-look down," etc.; 7. "In thee have I hoped, Lord," etc.; and thereupon conclude with the
-blessing; so that every day in the whole week one after the other in the order set above be sung
-after the prayer, and no other.
+namely: 1. "A Mighty Fortress Is Our God," etc.; 2. "Give peace in our time," etc.; 3. "Lord,
+Keep Us Steadfast in Your Word," etc., and "Grant Peace, We Pray, in Mercy, Lord," etc.; 4. "If
+God Were Not upon Our Side," etc.; 5. "If God Had Not Been on Our Side," etc.; 6. "O Lord, Look
+Down from Heaven, Behold," etc.; 7. "I Trust, O Lord, Your Holy Name," etc.; and thereupon
+conclude with the blessing; so that every day in the whole week one after the other in the order
+set above be sung after the prayer, and no other.
 
 The Hohenlohe *Gesangsordnung* of 1596 likewise rotated Lobwasser's Psalms 20, 61 and 79 on the
 Friday prayer days, the last "because of the present great need of the Turk", "one Friday after
@@ -32534,8 +32587,8 @@ thereupon sing a pure collect in German or Latin, and lastly conclude with the *
 > Last uns bitten etc. Conclusionis loco canitur: Ein kindelein so löbelich, vel: Gelobet
 > seistu, Jesu Christ, cum versu ultimo Das hat er alles uns getan.
 
-"Let us pray," etc. In the place of the conclusion is sung "A little Child so worthy of praise,"
-or "Praised be thou, Jesu Christ," with the last verse, "All this hath he done for us."
+"Let us pray," etc. In the place of the conclusion is sung "To Us Is Born a Blessed Child,"
+or "We Praise You, Jesus, at Your Birth," with the last verse, "All this hath he done for us."
 
 In the Neumark the Königsberg order of 1586, printed by Sehling only in extract, had "Verleih
 uns Frieden" sung instead of the Latin *Benedicamus* after the lessons and the weekday sermons
@@ -32564,7 +32617,7 @@ At Regensburg it was a penitential psalm. **Regensburg, *Kirchenordnung*, 1567**
 After the Magnificat the deacon singeth a German collect; thereupon certain boys, kneeling before
 the altar, [sing] *Benedicamus Domino*, and the choir *Deo gratias*; and forthwith a German
 penitential psalm, the *Miserere* or *De profundis*: "Have mercy on me," etc., "O Lord God, be
-gracious to me," "Out of deep need," or "Through Adam's fall," etc.
+gracious to me," "From Depths of Woe I Cry to Thee," or "All Mankind Fell in Adam's Fall," etc.
 
 The Wolfenbüttel village vespers followed it with "Erhalt uns, Herr, bey deinem wort"
 (Sehling 6/1, p. 154). The Nürnberg Mass of 1525 followed it with "Es woll uns Gott genädig
@@ -32597,9 +32650,10 @@ At Christmas that short song was *Puer natus in Bethlehem* or one of its fellows
 > predigt. Auf das magnificat, In dulci jubilo oder Vom himmel hoch oder Puer natus in
 > Bethlehem. Dergleichen helt man es auch circumcisionis, epiphanae und purificationis.
 
-At vespers: "Christ we should praise fair," before the sermon; the Magnificat of the sixth tone
-after the sermon; upon the Magnificat, *In dulci jubilo*, or "From heaven high," or *Puer natus
-in Bethlehem*. The like is kept also at the Circumcision, the Epiphany and the Purification.
+At vespers: "From East to West, from Shore to Shore," before the sermon; the Magnificat of the
+sixth tone after the sermon; upon the Magnificat, *In dulci jubilo*, or "From Heaven Above to
+Earth I Come," or *Puer natus in Bethlehem*. The like is kept also at the Circumcision, the
+Epiphany and the Purification.
 
 Nördlingen copied the passage word for word in 1555 (Sehling 12, p. 321). This is the nearest
 the corpus comes to *Puer natus* at the *Benedicamus*. It is the last chant before the collect
@@ -32631,7 +32685,7 @@ Christmas vespers opened with a different Latin song each day, with the German s
 
 At vespers. On the first day, *In natali Domini*; on the second, *Parvulus nobis nascitur*; on
 the third, *Puer natus in Bethlehem* in four voices, so that the scholars sing the Latin, the
-girls the German. Then let the hymn "Christ we should praise fair" be joined to it.
+girls the German. Then let the hymn "From East to West, from Shore to Shore" be joined to it.
 
 Epiphany vespers began the same way ("Initio: Puer natus in Bethlehem: A 4", p. 434). Hof's
 calendar of figured music puts the song at the moment the scholars came into the church, and
@@ -32680,9 +32734,9 @@ the season "zum introitu". **Bischofswerda, *Gottesdienst-Ordnung*** (Sehling 2,
 > Fastnacht: Christus, der uns etc. Ostern: Surrexit Christus etc. Pfingsten : Spiritus s.
 > gratia. Trinitatis: Gott der vater wohn etc.
 
-1. For the introit: in Advent, "Now come, the Saviour of the heathen"; at Christmas, *Puer natus
+1. For the introit: in Advent, "Savior of the Nations, Come"; at Christmas, *Puer natus
 in Bethlehem*; at Shrovetide, "Christ, who [maketh] us," etc.; at Easter, *Surrexit Christus*,
-etc.; at Pentecost, *Spiritus sancti gratia*; at Trinity, "God the Father dwell [with us]," etc.
+etc.; at Pentecost, *Spiritus sancti gratia*; at Trinity, "Triune God, Be Thou Our Stay," etc.
 
 Pfalz-Zweibrücken spread the Christmas songs over the afternoon service. **Pfalz-Zweibrücken,
 *Ordnung der Kirchengesänge*, 1565** (Sehling 18, p. 340):
@@ -32692,9 +32746,9 @@ Pfalz-Zweibrücken spread the Christmas songs over the afternoon service. **Pfal
 > Catechismum: Puer natus in Betlehem. Post Concionem: In dulci iubilo. Conclussio: Danckh sagen
 > wir etc.
 
-Afternoon. Introit: "From heaven high, there came I here," etc.; "Praised be thou," etc. After the
-catechism: *Puer natus in Bethlehem*. After the sermon: *In dulci jubilo*. Close: "Thanks say
-we," etc.
+Afternoon. Introit: "From Heaven Above to Earth I Come," etc.; "We Praise You, Jesus, at Your
+Birth," etc. After the catechism: *Puer natus in Bethlehem*. After the sermon: *In dulci
+jubilo*. Close: "Thanks say we," etc.
 
 At Hof the Christmas weekday services put *In dulci jubilo*, *Resonet in laudibus* and *Nunc
 angelorum gloria* before or after the sermon. They were sung "wechsels weis", Latin and German by
@@ -32762,9 +32816,9 @@ that same commandment out of the longer Ten Commandments shall always be sung wh
 in the said lesson. While the creed is being read, at the first article shall be sung "God the
 Father be with us"; at the second, "Jesus Christ be with us"; at the third, "Holy Ghost be with
 us," etc. While the Our Father is being read, to every petition a stanza out of Doctor Martin's
-Our Father shall be sung. When baptism is read of, that stanza out of the song "Christ our Lord
-to Jordan came" shall be sung which the order of the exposition bringeth with it. When the
-office of the keys or absolution is read of, "As truly as I live" shall be sung.
+Our Father shall be sung. When baptism is read of, that stanza out of the song "To Jordan Came
+the Christ, Our Lord" shall be sung which the order of the exposition bringeth with it. When the
+office of the keys or absolution is read of, "'As Surely as I Live,' God Said" shall be sung.
 
 Through the rest of the year the baptism hymn ran on from one baptism to the next. One stanza was
 sung before the baptism and the next after it, and when the hymn was finished it began again
@@ -32775,9 +32829,9 @@ sung before the baptism and the next after it, and when the hymn was finished it
 > der tauf und, wann es aus ist, widerumb forne angehaben). Zum beschlus des actus diurni mag
 > man bisweilen die ubrigen gesetz an diesem gesang bis zum end singen.
 
-Thereafter through the whole year, "Christ our Lord to Jordan came" (one stanza before, the next
-after the baptism, and when it is out, begun again from the front). At the close of the daily
-service one may at times sing the remaining stanzas of this song to the end.
+Thereafter through the whole year, "To Jordan Came the Christ, Our Lord" (one stanza before, the
+next after the baptism, and when it is out, begun again from the front). At the close of the
+daily service one may at times sing the remaining stanzas of this song to the end.
 
 **Ysenburg-Birstein, *Kirchenordnung*, 1588** (Sehling 10, p. 628):
 
@@ -32785,8 +32839,8 @@ service one may at times sing the remaining stanzas of this song to the end.
 > So soll der Schulmeister erstlich einen Tauffgesang singen, Als: Christ, unser Herr, zum
 > Jordan kam, oder: Herr, schaff uns wie die kleinen Kind etc.
 
-Then the schoolmaster shall first sing a baptismal song, as "Christ our Lord to Jordan came," or
-"Lord, make us as the little children," etc.
+Then the schoolmaster shall first sing a baptismal song, as "To Jordan Came the Christ, Our
+Lord," or "Lord, make us as the little children," etc.
 
 **Mansfeld, *Kirchen-Agenda*, 1580** (Sehling 2, p. 236):
 
@@ -32795,16 +32849,16 @@ Then the schoolmaster shall first sing a baptismal song, as "Christ our Lord to 
 > himmelreich. Oder. Christ unser herr zum Jordan kam. Oder. Etliche vers aus dem gesange, Durch
 > Adams fall ist ganz verderbt etc.
 
-At baptism it is the custom in some places in the country to sing "Our Father in the kingdom of
-heaven," or "Christ our Lord to Jordan came," or some verses out of the song "Through Adam's fall
-is all corrupt," etc.
+At baptism it is the custom in some places in the country to sing "Our Father, Who from Heaven
+Above," or "To Jordan Came the Christ, Our Lord," or some verses out of the song "All Mankind
+Fell in Adam's Fall," etc.
 
 **Cochstedt, *Kirchen-Ordnung*, 1556** (Sehling 2, p. 484):
 
 <!-- doc 1260 -->
 > Zur taufe wird gesungen durch die schüler: Christ unser herr zum Jordan.
 
-At baptism the scholars sing "Christ our Lord to Jordan."
+At baptism the scholars sing "To Jordan Came the Christ, Our Lord."
 
 In Lüneburg, children were baptized between the epistle and the gospel of the Sunday Mass. The
 litany-hymn "Nim von uns" was then left out ([§8.8.9](#s8-8-9)).
@@ -32824,7 +32878,7 @@ First, that the hundred and twenty-seventh psalm be sung, or the hundred and twe
 After the psalm a lesson shall be read out of one of the evangelists or of St Paul's epistles
 that serveth hereto, namely the gospel of John in the second chapter, "There was a marriage in
 Cana of Galilee," etc., item to the Ephesians in the fifth chapter, or the like. Thereafter let
-"Now pray we the Holy Ghost" be sung.
+"To God the Holy Spirit Let Us Pray" be sung.
 
 **Ysenburg-Birstein, *Kirchenordnung*, 1588** (Sehling 10, p. 632):
 
@@ -32837,7 +32891,7 @@ Cana of Galilee," etc., item to the Ephesians in the fifth chapter, or the like.
 Before the sermon shall be sung the hundred and twenty-seventh psalm, "Where God the Lord giveth
 not his favour," etc., and the Christian creed. Thereupon followeth the sermon with the prayer,
 as the customary weekday sermons are otherwise held. After the sermon is held, the hundred and
-twenty-eighth psalm is sung, "Blessed is he that standeth in God's fear," etc.
+twenty-eighth psalm is sung, "Happy the Man Who Feareth God," etc.
 
 In Hof, and in the Henneberg village of Goldlauter, the sixth commandment was sung after the
 marriage, from Luther's Ten Commandments hymn, with its last stanza. **Hof, *Ordo
@@ -32848,7 +32902,7 @@ ecclesiasticus*, 1592** (Sehling 11, p. 430):
 > zum haus nicht gibt sein etc. oder aber: Dein eh soltu bewahren rein ex decalogo germanico
 > Lutheri addito ultimo Das helf uns der Herr Jesu Christ.
 
-before the marriage is sung "Blessed is he that standeth in God's fear"; after the marriage,
+before the marriage is sung "Happy the Man Who Feareth God"; after the marriage,
 "Where God to the house giveth not his," etc., or else "Thy marriage shalt thou keep pure," out
 of Luther's German Decalogue, with the last [stanza] added, "Help us to this, Lord Jesu Christ."
 
@@ -32862,9 +32916,9 @@ of Luther's German Decalogue, with the last [stanza] added, "Help us to this, Lo
 > sechste gebot: Dein ehe soltu bewaren rein, und Das helfe uns der herr Jesus Christ.
 
 then it is the custom first to sing the *Veni sancte* in the short melody, and thereupon "A
-mighty fortress," and thereafter the creed; meanwhile the people go to the offering. Then I
-hold a wedding sermon in the pulpit. After the sermon is sung "Blessed is he that standeth in
-God's fear," and both spouses are joined together […]. At the close is sung again the sixth
+Mighty Fortress Is Our God," and thereafter the creed; meanwhile the people go to the offering.
+Then I hold a wedding sermon in the pulpit. After the sermon is sung "Happy the Man Who Feareth
+God," and both spouses are joined together […]. At the close is sung again the sixth
 commandment, "Thy marriage shalt thou keep pure," and "Help us to this, the Lord Jesus Christ."
 
 Osnabrück sang the German or Latin Te Deum and Psalm 128 before the bridal Mass. **Osnabrück
@@ -32875,7 +32929,7 @@ Osnabrück sang the German or Latin Te Deum and Psalm 128 before the bridal Mass
 > dudesch effte latein und den psalm Woll dem, de in Gades fruchten steit etc.
 
 And when the bride goeth to church, there shall be sung before the bridal Mass the *Te Deum
-laudamus* in German or Latin, and the psalm "Blessed is he that standeth in God's fear," etc.
+laudamus* in German or Latin, and the psalm "Happy the Man Who Feareth God," etc.
 
 In Hamburg the families could hire the organist and cantor for more. **Hamburg,
 *Kirchenordnung*, 1529** (Sehling 5, p. 516):
@@ -32899,8 +32953,8 @@ Hohenlohe gave a wedding set for weekday weddings. **Hohenlohe, *Schul- und Gesa
 > etc.
 
 At weddings in the week: before the sermon shall be sung "Now they that here," etc., "Blessed
-are all they that," etc.; after the sermon, before the marriage, "May God be gracious unto us,"
-etc., or a Gloria; after the marriage, "Blessed is he that in God's fear," etc.
+are all they that," etc.; after the sermon, before the marriage, "May God Bestow on Us His
+Grace," etc., or a Gloria; after the marriage, "Happy the Man Who Feareth God," etc.
 
 #### <a id="s8-17-3"></a>8.17.3 The sick and the dying
 
@@ -32915,9 +32969,9 @@ Hieronymus Noppus, 1543** (Sehling 13, p. 410):
 > nicht alte, irrige gebet und spruch.
 
 [they shall] say the Our Father and the creed before them, and, where there is time, grounded
-psalms and songs, as "Out of the depths I cry to thee," etc., "In peace and joy I now depart,"
-"Now rejoice, dear Christians all," [the songs] of baptism, of the sacrament of the body and
-blood, etc.; not old, erroneous prayers and sayings.
+psalms and songs, as "From Depths of Woe I Cry to Thee," etc., "In Peace and Joy I Now Depart,"
+"Dear Christians, One and All, Rejoice," [the songs] of baptism, of the sacrament of the body
+and blood, etc.; not old, erroneous prayers and sayings.
 
 #### <a id="s8-17-4"></a>8.17.4 Burial
 
@@ -32928,7 +32982,7 @@ Latin *Media vita*. The Saxon Visitation Articles of 1528 already ask for it. **
 <!-- doc 9 -->
 > und bei dem begrebnis, das deudsche gesang, mitten in dem leben, singen lassen.
 
-and at the burial let the German song "In the midst of life" be sung.
+and at the burial let the German song "In the Very Midst of Life" be sung.
 
 Brandenburg sets the hymns by the course of the procession: "Mitten wir im Leben" on the way,
 "Aus tiefer Not" if the way was long, and Simeon's song on the return to church. **Brandenburg,
@@ -32940,10 +32994,10 @@ Brandenburg sets the hymns by the course of the procession: "Mitten wir im Leben
 > responsorium libera me domine. Und so man vom begrebnis widerum in die kirchen gehet, alsdenn
 > mag man singen, mit fried und freud ich fahr dahin.
 
-when the corpse is carried, one may sing *Media vita* and the three German verses, "In the midst
-of life we are," and, if the way be too long, the German *De profundis*, "Out of the depths," or
-else the responsory *Libera me Domine*. And when one goeth again from the burial into the
-church, then one may sing "In peace and joy I now depart."
+when the corpse is carried, one may sing *Media vita* and the three German verses, "In the Very
+Midst of Life," and, if the way be too long, the German *De profundis*, "From Depths of Woe I
+Cry to Thee," or else the responsory *Libera me Domine*. And when one goeth again from the
+burial into the church, then one may sing "In Peace and Joy I Now Depart."
 
 Hof adds "Aus tiefer Not" "with the slow melody" when needed, and graded its funerals by the
 number of school classes that attended. **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 475):
@@ -32958,10 +33012,10 @@ number of school classes that attended. **Hof, *Ordo ecclesiasticus*, 1592** (Se
 
 Hence follow German songs, to be used also at private funerals, at which the third, fourth and
 fifth classes attend under the cantor's lead in winter, and in summer the sixth also, namely:
-"In the midst of life we are"; "God the Father be with us"; Luther's "In peace and joy I now
-depart." Item, if need require, when the aforesaid are finished before the boys have entered St
-Lawrence's church, there are added "Out of the depths," to be sung with the slow melody, and
-"Have mercy on me, O Lord God."
+"In the Very Midst of Life"; "Triune God, Be Thou Our Stay"; Luther's "In Peace and Joy I Now
+Depart." Item, if need require, when the aforesaid are finished before the boys have entered St
+Lawrence's church, there are added "From Depths of Woe I Cry to Thee," to be sung with the slow
+melody, and "Have mercy on me, O Lord God."
 
 Several orders split the burial hymn around the sermon. **Schwäbisch Hall, *Kirchenordnung*,
 1543/1615** (Sehling 17/1, p. 174):
@@ -32971,9 +33025,9 @@ Several orders split the burial hymn around the sermon. **Schwäbisch Hall, *Kir
 > schlaffen etc. Darauff soll der Kirchendiener Einer, an den es begeret worden, ein Christliche,
 > gebürliche unnd dem gegenwertigen Handel gemäße Leichpredigt thuon.
 
-one shall sing "Now let us bury the body," etc., until the verse "Now let we him sleep here,"
-etc. Thereupon one of the ministers, of whom it hath been desired, shall hold a Christian,
-fitting funeral sermon, agreeable to the present business.
+one shall sing "This Body in the Grave We Lay," etc., until the verse "Now let we him sleep
+here," etc. Thereupon one of the ministers, of whom it hath been desired, shall hold a
+Christian, fitting funeral sermon, agreeable to the present business.
 
 **Limpurg, *Kirchenordnung*, 1610** (Sehling 16, p. 623):
 
@@ -32983,10 +33037,10 @@ fitting funeral sermon, agreeable to the present business.
 > Gesang vor der Predigt biß auff die zwei lezste gesäz: Nun lassen wir ihn hie schlaffen etc.
 > Und dieselbige als dann nach der Predigt.
 
-In the church at Münster, when the congregation assembleth, either the song "In the midst of
-life we are," etc., again wholly, and after the sermon "Now let us bury the body," etc.; or this
-song before the sermon until the two last stanzas, "Now let we him sleep here," etc., and the
-same then after the sermon.
+In the church at Münster, when the congregation assembleth, either the song "In the Very Midst
+of Life," etc., again wholly, and after the sermon "This Body in the Grave We Lay," etc.; or
+this song before the sermon until the two last stanzas, "Now let we him sleep here," etc., and
+the same then after the sermon.
 
 **Hohenlohe, *Schul- und Gesangsordnung*, 1596** (Sehling 15, p. 656):
 
@@ -32997,9 +33051,9 @@ same then after the sermon.
 > singen: Nun last unß den leib etc.
 
 In the procession out with the corpse to the grave, and into the church before the sermon,
-shall be sung "In the midst of life," etc., "In peace and joy," etc., "God the Father be with
-us," etc., "When my last hour is come," etc. But after the sermon "Now let us [bury] the body,"
-etc. shall be sung at the grave.
+shall be sung "In the Very Midst of Life," etc., "In Peace and Joy I Now Depart," etc., "Triune
+God, Be Thou Our Stay," etc., "When My Last Hour Is Close at Hand," etc. But after the sermon
+"This Body in the Grave We Lay," etc. shall be sung at the grave.
 
 **Schwarzburg, *Kirchenordnung*, 1574** (Sehling 2, p. 136):
 
@@ -33008,7 +33062,7 @@ etc. shall be sung at the grave.
 > gesang Lutheri: Nu last uns den leib begraben.
 
 Then the body is buried in the earth; the school boys sing, while it is being buried, Luther's
-song "Now let us bury the body."
+song "This Body in the Grave We Lay."
 
 The Kurland order lists the hymns for before the funeral sermon, "as many as it pleaseth".
 **Kurland, *Kirchenordnung*, 1570** (Sehling 5, p. 105):
@@ -33019,10 +33073,10 @@ The Kurland order lists the hymns for before the funeral sermon, "as many as it 
 > almechtigen. Wir gleuben. Diese psalmen und gesengen brauchet man so viel für der leichpredigt
 > als gefellig.
 
-"In peace and joy I now depart." "Have mercy on me, O Lord God." "Out of the depths." "In the
-midst of life." The responsory *Si bona suscepimus* and the like. "I believe in God the Father
-Almighty." "We believe." These psalms and songs one useth before the funeral sermon, as many as
-it pleaseth.
+"In Peace and Joy I Now Depart." "Have mercy on me, O Lord God." "From Depths of Woe I Cry to
+Thee." "In the Very Midst of Life." The responsory *Si bona suscepimus* and the like. "I believe
+in God the Father Almighty." "We All Believe in One True God." These psalms and songs one useth
+before the funeral sermon, as many as it pleaseth.
 
 **Rostock, *Conformitas ceremoniarum*, c. 1560** (Sehling 5, p. 290):
 
@@ -33032,8 +33086,8 @@ it pleaseth.
 > dich meiner. Nu last uns den leib begraben.
 
 At the funerals of godly Christians shall be sung, in Latin and German, *Si bona suscepimus*,
-*Media vita*, *Scio quod redemptor meus*, "In peace and joy," "Out of the depths," "Have mercy
-on me," "Now let us bury the body."
+*Media vita*, *Scio quod redemptor meus*, "In Peace and Joy I Now Depart," "From Depths of Woe I
+Cry to Thee," "Have mercy on me," "This Body in the Grave We Lay."
 
 The words "of godly Christians" matter. Singing was an honour, and it could be withheld. A
 later Nürnberg regulation, printed with the Brandenburg-Nürnberg order, forbids the hymns of
@@ -33048,10 +33102,10 @@ penitential hymns instead. **Brandenburg-Nürnberg, *Kirchenordnung*, 1533**, la
 > wäre zu singen: Mitten wir im leben sind etc., in fortgehen aber: So wahr ich lebe, spricht
 > dein Gott etc. item, andere bußlieder.
 
-for these the ordinary songs, "In peace and joy I now depart according to God's will," etc., and
+for these the ordinary songs, "In Peace and Joy I Now Depart," etc., and
 other such Christian songs as fit not such cases, cannot be sung before the house and in the
-going forth, to avoid offence. But before the door there might be sung "In the midst of life we
-are," etc., and in the going forth, "As truly as I live, saith thy God," etc., item other songs
+going forth, to avoid offence. But before the door there might be sung "In the Very Midst of
+Life," etc., and in the going forth, "'As Surely as I Live,' God Said," etc., item other songs
 of repentance.
 
 At Strasbourg there was no singing unless it was asked for, and then no funeral sermon either.
@@ -33062,9 +33116,9 @@ At Strasbourg there was no singing unless it was asked for, and then no funeral 
 > ich fahr dahin, item: Nun last uns den leib begraben. Wo es aber nit begert wird, gleich wie
 > man nicht singt, also thut man auch keine leichpredigt.
 
-before and after the sermon is sung either "In the midst of life we are," or "In peace and joy I
-now depart," item "Now let us bury the body." But where it is not desired, even as one singeth
-not, so one also holdeth no funeral sermon.
+before and after the sermon is sung either "In the Very Midst of Life," or "In Peace and Joy I
+Now Depart," item "This Body in the Grave We Lay." But where it is not desired, even as one
+singeth not, so one also holdeth no funeral sermon.
 
 The Leiningen order abolished the old "singing over" the dead with holy water, but allowed the
 scholars to sing German hymns. **Leiningen-Westerburg, *Kirchenordnung*, 1566** (Sehling 19/1, p. 267):
@@ -33078,7 +33132,7 @@ scholars to sing German hymns. **Leiningen-Westerburg, *Kirchenordnung*, 1566** 
 all popish pomp with holy water, singing over [the dead], and other things, etc. [shall] be
 done away. For such was set up not only without God's word but also against God's word, as
 though it should be furthersome to salvation. Now where there are schools, the scholars may well
-sing some German songs, as "In the midst of life we are," "Now lettest thou thy servant depart in
+sing some German songs, as "In the Very Midst of Life," "Now lettest thou thy servant depart in
 peace," etc.
 
 The Goslar order of 1528 left the whole matter to "a godly, reasonable, learned pastor".
@@ -33106,9 +33160,9 @@ creed is sung after the sermon, and the service closes with the Te Deum or the G
 > hailgen gaist, etc. Uf dis gesanng solle der dechan oder einer der Consiliariis uffsteen unnd ein
 > Predig thun von Ministerio verbi […] Nach der Predig soll gesungen werdenn der Glaub.
 
-And when the people are assembled in the church, one shall begin and sing "Now pray we the Holy
-Ghost," etc. After this song the dean or one of the councillors shall stand up and hold a sermon
-of the ministry of the word […]. After the sermon the creed shall be sung.
+And when the people are assembled in the church, one shall begin and sing "To God the Holy
+Spirit Let Us Pray," etc. After this song the dean or one of the councillors shall stand up and
+hold a sermon of the ministry of the word […]. After the sermon the creed shall be sung.
 
 Lippe (1571) copies the rite, and the superintendent steps before the altar during the creed
 (Sehling 21, p. 438):
@@ -33118,9 +33172,9 @@ Lippe (1571) copies the rite, and the superintendent steps before the altar duri
 > Auff diß Gesang der Superintendens oder sein Adjunct auffstehen und ein Predigt thun vom
 > Ministerio verbi.
 
-when the people are assembled in the church, [they shall] sing at the beginning "Now pray we the
-Holy Ghost," etc.; after this song the superintendent or his adjunct [shall] stand up and hold a
-sermon of the ministry of the word.
+when the people are assembled in the church, [they shall] sing at the beginning "To God the Holy
+Spirit Let Us Pray," etc.; after this song the superintendent or his adjunct [shall] stand up
+and hold a sermon of the ministry of the word.
 
 **Lauenburg, *Kirchenordnung*, 1585** (Sehling 5, p. 408):
 
@@ -33129,7 +33183,7 @@ sermon of the ministry of the word.
 > darauf folgen: Nu bitten wir den heiligen geist. Oder: Kom heiliger geist, herre gott.
 
 The people, first assembled in the church, shall sing some psalms, and thereafter at the last
-there shall follow "Now pray we the Holy Ghost," or "Come, Holy Ghost, Lord God."
+there shall follow "To God the Holy Spirit Let Us Pray," or "Come, Holy Ghost, God and Lord."
 
 The Brandenburg installation adds Psalm 67 and the Te Deum. **Brandenburg, *Visitations- und
 Consistorialordnung*, 1573** (Sehling 3, p. 109):
@@ -33138,8 +33192,8 @@ Consistorialordnung*, 1573** (Sehling 3, p. 109):
 > nach gesprochenen vater unser sol die gemeine singen: Nun bitten wir den heiligen geist, und Es
 > wolt uns gott gnedig sein und seinen segen geben etc., item das te deum laudamus etc.
 
-after the Our Father is spoken the congregation shall sing "Now pray we the Holy Ghost," and
-"May God be gracious unto us and give his blessing," etc., item the *Te Deum laudamus*, etc.
+after the Our Father is spoken the congregation shall sing "To God the Holy Spirit Let Us Pray,"
+and "May God Bestow on Us His Grace," etc., item the *Te Deum laudamus*, etc.
 
 The Hessian ordination (Philippist) closes with the Te Deum "where there are schools", or "Dank
 sagen wir alle". **Hessen, *Agende*, 1574** (Philippist; Sehling 8, p. 455):
@@ -33160,8 +33214,9 @@ ordinands kneel. **Merseburg, *Ordinations-Ordnung*, 1545** (Sehling 2, p. 7):
 > Credo in unum. Populus: wir glauben. Chor: Veni creator, unter dem der herr ordinator sampt dem
 > ordinanden fur den altar zugleich niederknien solten.
 
-*Credo in unum*. The people: "We believe." The choir: *Veni creator*, during which the lord
-ordinator together with the ordinands should kneel down together before the altar.
+*Credo in unum*. The people: "We All Believe in One True God." The choir: *Veni creator*, during
+which the lord ordinator together with the ordinands should kneel down together before the
+altar.
 
 #### <a id="s8-17-6"></a>8.17.6 Days of thanksgiving and extraordinary occasions
 
@@ -33188,9 +33243,10 @@ matins. **Lüneburg, *Kirchenordnung*, 1575** (Sehling 6/1, p. 663):
 > heiligen Geist, 10. fit contio sacra, 11. post concionem canitur litania.
 
 At the Mass: 4. the introit *Benedicite* of the angels; 5. the Kyrie in figured music, item *Et
-in terra pax*, next "To God alone on high be glory"; 6. after the reading of the epistle, *Nisi
-Dominus aedificaverit domum*; 7. "Were God not with us"; 8. the gospel is sung; 9. "Now pray we
-the Holy Ghost"; 10. the holy sermon is held; 11. after the sermon the litany is sung.
+in terra pax*, next "All Glory Be to God on High"; 6. after the reading of the epistle, *Nisi
+Dominus aedificaverit domum*; 7. "If God Had Not Been on Our Side"; 8. the gospel is sung; 9.
+"To God the Holy Spirit Let Us Pray"; 10. the holy sermon is held; 11. after the sermon the
+litany is sung.
 
 At Nördlingen's thanksgiving day on 7 January, Psalm 124 could be sung instead of a figured
 piece, "that the congregation also may have cause to thank God". **Nördlingen,
@@ -33201,7 +33257,7 @@ piece, "that the congregation also may have cause to thank God". **Nördlingen,
 > kan der psalm Wo Gott der Herr nicht bei uns helt etc. gesungen werden.
 
 The choir singeth a piece in figured music; or, that the congregation also may have cause to
-thank God, the psalm "Where God the Lord standeth not by us," etc. may be sung.
+thank God, the psalm "If God Were Not upon Our Side," etc. may be sung.
 
 At an execution in Regensburg the crowd sang "Nun bitten" while the condemned man began to recite
 the creed. **Regensburg, *Kirchenordnung* of Justus Jonas, 1553**, with the order for the
@@ -33213,8 +33269,8 @@ condemned (Sehling 13, p. 426):
 > Geist.
 
 Then that he openly profess the faith and recite the Apostles' Creed, *Credo in Deum Patrem*,
-etc. But at the beginning of it the crowd standing about shall sing the song "Now pray we the
-Holy Ghost."
+etc. But at the beginning of it the crowd standing about shall sing the song "To God the Holy
+Spirit Let Us Pray."
 
 ---
 
@@ -33446,8 +33502,8 @@ and common to the people, and hearts be thereby stirred to prayer". **Mecklenbur
 
 On such days German spiritual songs shall be sung before and after the sermon, that they may
 become known and common to the people, and hearts be thereby stirred up to prayer; as especially
-"Our Father in the kingdom of heaven," "Were God the Lord not with us," "A mighty fortress,"
-etc.
+"Our Father, Who from Heaven Above," "If God Were Not upon Our Side," "A Mighty Fortress Is Our
+God," etc.
 
 Reutlingen listed the psalm-hymns that had once been "common and known in the church" and wanted
 all of them brought back. The feast hymns it did not list, "for they are otherwise known well
@@ -33516,13 +33572,14 @@ exposition". **Prussia, *Kirchenordnung und Ceremonien*, 1568** (Sehling 4, p. 7
 But not all manner of German songs shall be sung in the church, in villages as in towns, but
 chiefly Luther's psalms shall be kept and used. For in them one hath most fairly the whole holy
 catechism with rich, fair and mighty exposition: first, of the Ten Commandments in two songs,
-"These are the holy ten commandments," etc., and "Man, wilt thou live blessedly," etc.; secondly,
-the articles of our Christian faith in "We all believe in one God," etc.; thirdly, the prayer
-in "Our Father in the kingdom of heaven," etc.; the whole treasure of holy baptism in "Christ our
-Lord to Jordan came," etc.; and then all needful instruction of the holy Supper in "Jesus Christ
-our Saviour," etc., and "God be praised," etc. Whoso then will have the sum of sums, together
-with the use and profit thereof, briefly together, let him sing "Now rejoice, dear Christians
-all," etc., or Doctor Speratus's most fair psalm, "Salvation now is come to us," etc.
+"These Are the Holy Ten Commands," etc., and "Wilt Thou, O Man, Live Happily," etc.; secondly,
+the articles of our Christian faith in "We All Believe in One True God," etc.; thirdly, the
+prayer in "Our Father, Who from Heaven Above," etc.; the whole treasure of holy baptism in "To
+Jordan Came the Christ, Our Lord," etc.; and then all needful instruction of the holy Supper in
+"Jesus Christ, Our Blessed Savior," etc., and "O Lord, We Praise Thee," etc. Whoso then will
+have the sum of sums, together with the use and profit thereof, briefly together, let him sing
+"Dear Christians, One and All, Rejoice," etc., or Doctor Speratus's most fair psalm, "Salvation
+unto Us Has Come," etc.
 
 It then turns on the new hymn-writers (Sehling 4, p. 76):
 
@@ -34271,10 +34328,11 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 - **Titles.**
   - **Original title:** the hymn's standard spelling from the `hymns` lexicon.
   - **Literal English:** a word-for-word rendering of the incipit.
-  - **Common English title:** the received English title. Where the hymn has none, the title of
-    Matthew Carver's translation is given and marked †. These come from *Walther's Hymnal*
-    (2012), which Carver translated, or from his blog *Hymnoglypt* (Introduction,
-    [The hymn database](#repo-hymns)). The title is "—" where neither exists.
+  - **Common English title:** the hymn's title in the English Lutheran hymnals, as the Lutheran
+    Hymn Index gives it (Introduction, [The Lutheran Hymn Index](#repo-hymn-index)). Where the
+    index lacks the hymn, the title of Matthew Carver's translation on his blog *Hymnoglypt* is
+    given. A title that is Carver's, from *Walther's Hymnal* (2012), *Liber Hymnorum* (2016) or
+    *Hymnoglypt*, is marked †. The title is "—" where the hymn has none.
 
 #### <a id="s8-a-3"></a>8.A.3 The table
 
@@ -34283,83 +34341,83 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 | **Advent 1** | *Nun komm, der Heiden Heiland* | Now come, Savior of the heathen | Savior of the Nations, Come | 20 of 26 |
 | **Advent 2** | *Gott hat das Evangelium* | God has given the gospel | God Gave the Gospel That We May † | 11 of 21 |
 |  | *Es ist gewisslich an der Zeit* | It is surely time | The Day Is Surely Drawing Near | 8 of 21 |
-|  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice, Ye Christians Dear † | 8 of 21 |
+|  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice Ye Christians Dear | 8 of 21 |
 | **Advent 3** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 11 of 21 |
 |  | *Nun komm, der Heiden Heiland* | Now come, Savior of the heathen | Savior of the Nations, Come | 9 of 21 |
 | **Advent 4** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 12 of 18 |
-| **Christmas Day** | *Gelobet seist du, Jesu Christ* | Praised be thou, Jesus Christ | All Praise to Thee, Eternal Lord | 25 of 30 |
+| **Christmas Day** | *Gelobet seist du, Jesu Christ* | Praised be thou, Jesus Christ | We Praise You, Jesus, at Your Birth | 25 of 30 |
 |  | *Vom Himmel hoch da komm ich her* | From heaven high I come here | From Heaven Above to Earth I Come | 18 of 30 |
-|  | *Christum wir sollen loben schon* | Christ we should indeed praise | Now Praise We Christ, the Holy One | 17 of 30 |
-|  | *Der Tag, der ist so freudenreich* | The day that is so full of joy | Hail This Joyous Day | 17 of 30 |
+|  | *Christum wir sollen loben schon* | Christ we should indeed praise | From East to West, from Shore to Shore | 17 of 30 |
+|  | *Der Tag, der ist so freudenreich* | The day that is so full of joy | Now Hail the Day So Rich in Cheer | 17 of 30 |
 |  | *Vom Himmel kam der Engel Schar* | From heaven came the host of angels | To Shepherds as They Watched by Night | 16 of 30 |
 | **Sunday after Christmas** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 4 of 10 |
 |  | *Hilf Gott, wie geht das immer zu* | Help God, how does this ever go on | Oh, Help Us, God! Why Must It Be † | 4 of 10 |
-|  | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 3 of 10 |
-| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* | Help me praise God's goodness | To God the Anthem Raising † | 8 of 15 |
+|  | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 3 of 10 |
+| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* | Help me praise God's goodness | To God the Anthem Raising | 8 of 15 |
 |  | *Das alte Jahr vergangen ist* | The old year has passed | The Old Year Now Hath Passed Away | 6 of 15 |
-| **Sunday after New Year** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 3 of 3 |
+| **Sunday after New Year** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 3 of 3 |
 | **Epiphany** | *Was fürchtst du, Feind Herodes, sehr* | Why dost thou fear so, foe Herod | Why, Herod, Unrelenting Foe | 18 of 24 |
 | **Epiphany 1** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 13 of 17 |
-|  | *Mensch, willst du leben seliglich* | Man, wouldst thou live blessedly | Man, Wouldst Thou Live All Blissfully | 8 of 17 |
-| **Epiphany 2** | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Blessed Are They Who Fear the Lord | 13 of 17 |
-| **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | I Call to Thee, Lord Jesus Christ | 7 of 17 |
-| **Epiphany 4** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 12 of 19 |
-|  | *Wär Gott nicht mit uns diese Zeit* | Were God not with us at this time | Were God Not with Us at This Time | 9 of 19 |
+|  | *Mensch, willst du leben seliglich* | Man, wouldst thou live blessedly | Wilt Thou, O Man, Live Happily | 8 of 17 |
+| **Epiphany 2** | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 13 of 17 |
+| **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 7 of 17 |
+| **Epiphany 4** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 12 of 19 |
+|  | *Wär Gott nicht mit uns diese Zeit* | Were God not with us at this time | If God Had Not Been on Our Side | 9 of 19 |
 | **Epiphany 5** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 10 of 16 |
 | **Epiphany 6** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 7 of 11 |
 |  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 5 of 11 |
 | **Septuagesima** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 15 of 27 |
 | **Sexagesima** | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 8 of 24 |
 |  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 7 of 24 |
-|  | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come unto Me, Ye Weary | 6 of 24 |
-| **Quinquagesima (Estomihi)** | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam’s Fall | 4 of 14 |
+|  | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 6 of 24 |
+| **Quinquagesima (Estomihi)** | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 4 of 14 |
 | **Lent 1 (Invocavit)** | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 17 of 25 |
-|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | God the Father, Be Our Stay | 14 of 25 |
-|  | *Christe, der du bist Tag und Licht* | Christ, thou who art day and light | O Christ, Who Art the Light and Day | 11 of 25 |
-| **Lent 2 (Reminiscere)** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | I Call to Thee, Lord Jesus Christ | 12 of 21 |
-|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | God the Father, Be Our Stay | 8 of 21 |
+|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 14 of 25 |
+|  | *Christe, der du bist Tag und Licht* | Christ, thou who art day and light | Christ, Everlasting Source of Light | 11 of 25 |
+| **Lent 2 (Reminiscere)** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 12 of 21 |
+|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 8 of 21 |
 | **Lent 3 (Oculi)** | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 15 of 23 |
-|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | God the Father, Be Our Stay | 10 of 23 |
-| **Lent 4 (Laetare)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Thou in Heaven Above | 9 of 22 |
+|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 10 of 23 |
+| **Lent 4 (Laetare)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 9 of 22 |
 |  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 6 of 22 |
-| **Lent 5 (Judica)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 5 of 17 |
+| **Lent 5 (Judica)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 5 of 17 |
 | **Palm Sunday** | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 5 of 19 |
 |  | *Hilf Gott, dass mir gelinge* | Help, God, that I may succeed | Assist Me, Great Creator † | 5 of 19 |
 |  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 5 of 19 |
 | **Maundy Thursday** | *Jesus Christus, unser Heiland* | Jesus Christ, our Savior | Jesus Christ, Our Blessed Savior | 2 of 3 ‡ |
-| **Good Friday** | *Da Jesus an dem Kreuze stund* | When Jesus on the cross stood | When Jesus on the Cross Was Bound | 10 of 12 |
+| **Good Friday** | *Da Jesus an dem Kreuze stund* | When Jesus on the cross stood | Our Blessed Savior Seven Times Spoke | 10 of 12 |
 |  | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 6 of 12 |
 | **Easter Day** | *Christ lag in Todesbanden* | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 21 of 28 |
 |  | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 19 of 28 |
-|  | *Jesus Christus, unser Heiland, der den Tod überwand* | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Our Savior and King † | 16 of 28 |
+|  | *Jesus Christus, unser Heiland, der den Tod überwand* | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Who Came, Us to Save † | 16 of 28 |
 |  | *Erstanden ist der heilige Christ* | The holy Christ is risen | — | 14 of 28 |
 | **Easter Monday** | *Ach bleib bei uns, Herr Jesu Christ* | Abide with us, Lord Jesus Christ | Lord Jesus Christ, with Us Abide | 1 of 2 ‡ |
 |  | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 1 of 2 ‡ |
 | **Easter 1 (Quasimodogeniti)** | *O filii et filiae* | O sons and daughters | O Sons and Daughters of the King | 0 of 5 ‡ |
 | **Easter 2 (Misericordias Domini)** | *Der Herr ist mein getreuer Hirt* | The Lord is my faithful shepherd | The Lord’s My Shepherd, Faithful, True | 12 of 15 |
-| **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come unto Me, Ye Weary | 9 of 14 |
+| **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 9 of 14 |
 |  | *Mag ich Unglück nicht widerstahn* | If I cannot withstand misfortune | May I My Fate No More Withstand † | 7 of 14 |
 | **Easter 4 (Cantate)** | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 11 of 15 |
-| **Easter 5 (Rogate)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Thou in Heaven Above | 18 of 19 |
-| **Ascension** | *Christ fuhr gen Himmel* | Christ went up to heaven | Christ Went Up to Heaven | 19 of 27 |
+| **Easter 5 (Rogate)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 18 of 19 |
+| **Ascension** | *Christ fuhr gen Himmel* | Christ went up to heaven | Christ Rose to Heaven † | 19 of 27 |
 |  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 14 of 27 |
-| **Sunday after Ascension (Exaudi)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 14 of 16 |
+| **Sunday after Ascension (Exaudi)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 14 of 16 |
 | **Pentecost** | *Komm, Heiliger Geist, Herre Gott* | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 24 of 27 |
-|  | *Nun bitten wir den Heiligen Geist* | Now we pray to the Holy Spirit | We Now Implore God the Holy Ghost | 24 of 27 |
+|  | *Nun bitten wir den Heiligen Geist* | Now we pray to the Holy Spirit | To God the Holy Spirit Let Us Pray | 24 of 27 |
 | **Pentecost Monday** | *Komm, Heiliger Geist, Herre Gott* | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 2 of 3 ‡ |
-| **Trinity Sunday** | *Gott der Vater wohn uns bei* | God the Father, dwell with us | God the Father, Be Our Stay | 24 of 27 |
+| **Trinity Sunday** | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 24 of 27 |
 | **Trinity 1** | *Es war einmal ein reicher Mann* | There was once a rich man | There Was a Rich and Wealthy Man † | 12 of 24 |
 | **Trinity 2** | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 15 of 27 |
 |  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 13 of 27 |
 | **Trinity 3** | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 24 |
 | **Trinity 4** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 16 of 26 |
-|  | *Mensch, willst du leben seliglich* | Man, wouldst thou live blessedly | Man, Wouldst Thou Live All Blissfully | 11 of 26 |
+|  | *Mensch, willst du leben seliglich* | Man, wouldst thou live blessedly | Wilt Thou, O Man, Live Happily | 11 of 26 |
 | **Trinity 5** | *Wo Gott zum Haus nicht gibt sein Gunst* | If God does not give his favour to the house | Unless the Lord Builds Up the House | 13 of 25 |
 |  | *Vergebens ist all Müh und Kost* | In vain is all toil and cost | In Vain Is All Thy Toil and Pain † | 10 of 25 |
 | **Trinity 6** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 21 of 26 |
-| **Trinity 7** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Thou in Heaven Above | 13 of 26 |
+| **Trinity 7** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 13 of 26 |
 |  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 12 of 26 |
-|  | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Blessed Are They Who Fear the Lord | 8 of 26 |
+|  | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 8 of 26 |
 | **Trinity 8** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 21 of 27 |
 | **Trinity 9** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 10 of 26 |
 |  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 8 of 26 |
@@ -34368,45 +34426,45 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 |  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 27 |
 |  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 12 of 27 |
 |  | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 10 of 27 |
-| **Trinity 12** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Thy Maker | 12 of 24 |
-|  | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam’s Fall | 9 of 24 |
+| **Trinity 12** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 12 of 24 |
+|  | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 9 of 24 |
 | **Trinity 13** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 18 of 24 |
-| **Trinity 14** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Thy Maker | 12 of 22 |
+| **Trinity 14** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 12 of 22 |
 |  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 8 of 22 |
-| **Trinity 15** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Thou in Heaven Above | 16 of 24 |
+| **Trinity 15** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 16 of 24 |
 |  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 14 of 24 |
 | **Trinity 16** | *Mitten wir im Leben sind* | In the midst of life we are | In the Very Midst of Life | 20 of 27 |
-| **Trinity 17** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 16 of 25 |
+| **Trinity 17** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 16 of 25 |
 | **Trinity 18** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 14 of 23 |
 |  | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 12 of 23 |
 |  | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 9 of 23 |
 |  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 9 of 23 |
 | **Trinity 19** | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 13 of 24 |
 |  | *Aus tiefer Not schrei ich zu dir* | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 12 of 24 |
-|  | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | I Call to Thee, Lord Jesus Christ | 9 of 24 |
+|  | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 9 of 24 |
 | **Trinity 20** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 12 of 24 |
-| **Trinity 21** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | I Call to Thee, Lord Jesus Christ | 12 of 23 |
+| **Trinity 21** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 12 of 23 |
 | **Trinity 22** | *Aus tiefer Not schrei ich zu dir* | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 17 of 25 |
 |  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 25 |
-| **Trinity 23** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Had Not Been on Our Side | 17 of 23 |
+| **Trinity 23** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 17 of 23 |
 | **Trinity 24** | *Mitten wir im Leben sind* | In the midst of life we are | In the Very Midst of Life | 12 of 24 |
 |  | *Herr Jesu Christ, wahr Mensch und Gott* | Lord Jesus Christ, true man and God | Lord Jesus Christ, True Man and God | 9 of 24 |
 |  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 8 of 24 |
 | **Trinity 25–27 (the last Sundays)** | *Gott hat das Evangelium* | God has given the gospel | God Gave the Gospel That We May † | 9 of 23 |
 |  | *Es wird schier der letzte Tag herkommen* | The last day will soon be coming | Lo, the Final Day Is Fast Approaching † | 8 of 23 |
-|  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice, Ye Christians Dear † | 7 of 23 |
+|  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice Ye Christians Dear | 7 of 23 |
 |  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 6 of 23 |
 | **Purification of Mary (2 Feb)** | *Mit Fried und Freud ich fahr dahin* | With peace and joy I depart | In Peace and Joy I Now Depart | 23 of 24 |
 | **Annunciation (25 March)** | *Mein Seel erhebt den Herren* | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 16 of 19 |
 | **St John the Baptist (24 June)** | *Christ, unser Herr, zum Jordan kam* | Christ our Lord came to the Jordan | To Jordan Came the Christ, Our Lord | 9 of 19 |
 |  | *Gelobet sei der Herr, der Gott Israel* | Blessed be the Lord, the God of Israel | Blessed Be the Lord, the God of Israel | 9 of 19 |
 | **Visitation of Mary (2 July)** | *Mein Seel erhebt den Herren* | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 6 of 8 |
-| **St Michael (29 Sept)** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Thy Maker | 11 of 17 |
-|  | *Herr Gott, dich loben alle wir* | Lord God, we all praise thee | Lord God, We All to Thee Give Praise | 8 of 17 |
-| **Apostles' days** | *O Herre Gott, dein göttlich Wort* | O Lord God, thy divine word | O Lord God, Thy Divine Word | 4 of 5 |
+| **St Michael (29 Sept)** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 11 of 17 |
+|  | *Herr Gott, dich loben alle wir* | Lord God, we all praise thee | Lord God, to Thee We Give All Praise | 8 of 17 |
+| **Apostles' days** | *O Herre Gott, dein göttlich Wort* | O Lord God, thy divine word | O God, Our Lord, Your Holy Word | 4 of 5 |
 
 † Title of Matthew Carver's translation, in *Walther's Hymnal* (2012) or on his blog
-*Hymnoglypt*; the hymn has no received English title.
+*Hymnoglypt*; no older English hymnal has the hymn.
 
 ‡ Assigned by the editor; the old witnesses leave the day open (see [§8.A.2](#s8-a-2)). The figure is the
 number of old witnesses that do give this hymn.
@@ -34807,9 +34865,10 @@ past seven, and [all the bells] together at eight, let the organist (if there be
 *Veni Sancte Spiritus*; afterward let the choir sing it out. Thereupon let the organist begin a
 German psalm, play the first stanza, [and] afterward let the choir sing it out, without
 alternation of the organ. After the psalm let the organist play a little piece; thereupon
-followeth the collect and lesson; after that let the organist begin sometimes *Nun bitten wir*,
-sometimes *Wir glauben all an einen Gott*, [and] let the choir sing it quite out. […] Thereupon
-followeth the collect and benediction. Let the organist close with a little piece.
+followeth the collect and lesson; after that let the organist begin sometimes "To God the Holy
+Spirit Let Us Pray", sometimes "We All Believe in One True God", [and] let the choir sing it
+quite out. […] Thereupon followeth the collect and benediction. Let the organist close with a
+little piece.
 
 Schweinfurt 1576 likewise has "the organist begin to play the Sunday Kyrie, which the choir
 singeth after", and at the Sunday introit the organist "beginneth to play the introit, which the
@@ -34919,7 +34978,7 @@ first, and that on the organs only that be played which hath been sung.
 
 But on Sunday or on the feasts, when the priest hath sung *Gloria in excelsis Deo*, and the
 choir and not the organ hath answered *Et in terra pax hominibus bonae voluntatis*, then shall
-they stop altogether, that the whole church may afterward sing *Allein Gott in der Höh sei Ehr*,
+they stop altogether, that the whole church may afterward sing "All Glory Be to God on High",
 etc., which song shall be sung without break to the end, without organ-playing. After that the
 choir and organ go on to sing *Laudamus te*, *Benedicimus te*, etc., to the end; after that the
 Alleluia. But in the stead of the sequence the whole church shall again sing a German song
@@ -34976,10 +35035,10 @@ short little piece, etc. […] 3. After the epistle the organist playeth; thereu
 singeth the alleluia, sometimes the sequence, so far as it is pure and Christian; thereupon the
 whole church [singeth] a German psalm or Christian song, whichever one will, as is found in the
 song-book. 4. After the Gospel [and] the *Patrem*, etc., in Latin, the organist playeth; the
-church singeth *Wir glauben*, etc. 5. After the sermon the organist playeth something, until the
-priest come to the altar and have prepared the bread and the cup to be offered. […] 7. […] The
-organist shall not play under the communion, except on high feasts; but after the communion is
-held he may play a good piece.
+church singeth "We All Believe in One True God", etc. 5. After the sermon the organist playeth
+something, until the priest come to the altar and have prepared the bread and the cup to be
+offered. […] 7. […] The organist shall not play under the communion, except on high feasts; but
+after the communion is held he may play a good piece.
 
 **Schweinfurt 1576** puts an organ piece in the place of the *Et in terra*: "upon the Gloria,
 etc., and instead of the *Et in terra*, etc., the organist playeth some music"
@@ -35765,7 +35824,8 @@ German and distinctly.
 > gegeben ist. Bald singt das chor sanctus, Esaiae dem propheten etc.
 
 Upon the Preface followeth the consecration toward the people, when the sign with the little
-bell hath been given. Straightway the choir singeth the Sanctus, *Jesaia dem Propheten*, etc.
+bell hath been given. Straightway the choir singeth the Sanctus, "Isaiah, Mighty Seer in Days of
+Old", etc.
 
 **Ringing at the elevation.** The Danish *Ordinatio* of 1537, which stands behind the
 Schleswig-Holstein order of 1542, leaves the elevation to the minister's liberty, "the bells
@@ -35822,10 +35882,10 @@ the corpus rung at the Sanctus. **Hatzkerode, *Kirchenordnunge*, 1534(?)** (Sehl
 > geben werden, alsdan sollen die communicanten in den chor gehen und zur rechten die manne, zur
 > linken die frauen und junkfrauen treten.
 
-After the sermon is done, a German song or the German Sanctus, *Jesaia dem Propheten*, shall be
-sung, as it pleaseth the pastor. Meanwhile a sign shall be given with the bell; then shall the
-communicants go into the choir, and the men stand on the right, the women and maidens on the
-left.
+After the sermon is done, a German song or the German Sanctus, "Isaiah, Mighty Seer in Days of
+Old", shall be sung, as it pleaseth the pastor. Meanwhile a sign shall be given with the bell;
+then shall the communicants go into the choir, and the men stand on the right, the women and
+maidens on the left.
 
 **Haldensleben, *Ordo caeremoniarum ecclesiae Haldenslebensis*, 1564** (Sehling 2, p. 457):
 
@@ -35891,7 +35951,7 @@ the end of Matins, to summon the people to the sermon and the Mass that followed
 thereupon the deacon or minister of the church maketh a short exhortation concerning the holy
 Sacrament for those who will communicate, in the stead of a chapter; upon the exhortation the
 whole church singeth the German *Te Deum laudamus*, under which the bell is rung to the sermon,
-and the song *Jesus Christus unser Heiland* is sung before the sermon.
+and the song "Jesus Christ, Our Blessed Savior" is sung before the sermon.
 
 The Prussian order of 1568 repeats it, and adds a choir bell. **Prussia, *Kirchenordnung und
 Ceremonien*, 1568** (Sehling 4, p. 79):
@@ -35911,7 +35971,7 @@ the Creed a boy readeth a lesson below before the altar toward the people, as al
 be read, and thereupon followeth the *Benedictus Dominus Deus Israel* with the antiphon, or
 Luther's German *Te Deum laudamus*, *O Gott, dich loben wir, o Gott, wir danken dir*, etc.
 Meanwhile one ringeth again with the great bell, and the whole church singeth after the
-*Benedictus* or *Te Deum laudamus*: *Wir glauben*, etc.
+*Benedictus* or *Te Deum laudamus*: "We All Believe in One True God", etc.
 
 **All the bells at the Christmas *Te Deum*.** At Hof's Christmas Matins the organ plays the
 responsory, the German *Te Deum* alternates between organ and choir, and all the bells are rung
@@ -38380,9 +38440,9 @@ pp. 67–68):
 Burying the dead. The scholars, with one or more of the school's assistants, with the half or
 with the whole school, according as it is bespoken and paid for, as hath been customary of old,
 shall go before the bier and sing first in Latin: "My Redeemer liveth" etc., with the verse and
-the repetition; when that is ended, in German: "Erbarm dich mein, o Herre Gott" etc., "Mitten
-wir im Leben sind" etc., "Aus tiefer Not" etc.; by the grave the hymn "Nun lasst uns den Leib
-begraben" etc.; or something else.
+the repetition; when that is ended, in German: "Have mercy on me, O Lord God" etc., "In the Very
+Midst of Life" etc., "From Depths of Woe I Cry to Thee" etc.; by the grave the hymn "This Body
+in the Grave We Lay" etc.; or something else.
 
 - The editors identify the piece as the responsory *Credo quod Redemptor meus vivit* of the
   office of the dead (Sehling 6/1, p. 68).
@@ -38419,8 +38479,8 @@ dead without prayer for the dead. It has lessons from Job, responsories, the *Be
 > folgt […] Und zum beschlies das responsorium, si bona suscepimus, darneben sol man ein becken
 > setzen in die kirch zum opfer oder almus fur die armen leut
 
-And when they go again from the burial into the church, then may be sung "Mit Fried und Freud
-ich fahr dahin"; and thereupon be read one or more lessons out of Job, or out of Paul of the
+And when they go again from the burial into the church, then may be sung "In Peace and Joy I Now
+Depart"; and thereupon be read one or more lessons out of Job, or out of Paul of the
 resurrection, and between them some responsories or German songs; thereafter the *Benedictus*
 with the antiphon *Ego sum resurrectio et vita*, and then a German collect, as followeth […] And
 for the conclusion the responsory *Si bona suscepimus*; and a basin shall be set in the church
@@ -38717,9 +38777,9 @@ word for word by Oldenburg (1573), and closely by Lüneburg (1564) and Braunschw
 > beschlossen.
 
 In the afternoon at one the scholars shall begin to sing a psalm or two; or they sing the Ten
-Commandments, *Vater unser im Himmelreich*, *Christ unser Herr zum Jordan kam*, and the like.
-Thereafter let the preacher instruct the children in the catechism; that is, that he question
-them one after another, and let them say the Ten Commandments to him by heart, item the
+Commandments, "Our Father, Who from Heaven Above", "To Jordan Came the Christ, Our Lord", and
+the like. Thereafter let the preacher instruct the children in the catechism; that is, that he
+question them one after another, and let them say the Ten Commandments to him by heart, item the
 exposition, which the children shall learn and say off word for word out of the Small Catechism
 of Dr Martin Luther. Likewise let him another time take another part of the catechism in hand,
 unto the end; and then shall one begin again from the front. Thereafter let the *Magnificat* be
@@ -38880,7 +38940,8 @@ At midday, when the catechism is preached which Dr Martin wrote for the simple. 
 that one of the parts of the catechism whereof the sermon is, as Dr Luther made them. 2.
 Thereafter two boys recite by heart with clear voice the chief articles of the catechism, after
 the text only; then that part alone with the exposition, whereof the sermon goeth. 3. Thereupon
-the people sing *Nun bitten wir*, two stanzas or all four, and the sermon followeth straightway.
+the people sing "To God the Holy Spirit Let Us Pray", two stanzas or all four, and the sermon
+followeth straightway.
 4. After the sermon a short psalm according to the season, as above at the high office. 5. Last
    of all one of the deacons concludeth with the customary versicle and collect and the
    blessing.
@@ -38911,7 +38972,7 @@ Wenzelskirche*, 1537** (Sehling 2, p. 72):
 At Vespers. 1. First is sung the *Te Deum laudamus* in German, or else a hymn or psalm according
 to the season. 2. Thereafter two boys read the chapter out of the epistles of Paul, one in
 German, the other in Latin. 3. Then a boy reciteth by heart the five chief parts of the
-catechism. 4. Thereupon is sung *Nun bitten wir den Heiligen Geist*, two stanzas. 5. Thereupon
+catechism. 4. Thereupon is sung "To God the Holy Spirit Let Us Pray", two stanzas. 5. Thereupon
 followeth the sermon: one year about the other, the one year Luther's Small Catechism, the other
 the Sunday epistles. 6. The *Magnificat* with its antiphon, *Christus unser Heiland*, or else a
 short hymn according to the season […] 7. Thereafter it is concluded with the collect and
@@ -38941,11 +39002,11 @@ First a Latin psalm is sung with the boys, together with an antiphon out of the 
 4. A German lesson out of the Old or New Testament, which a boy readeth. 5. Thereupon a German
    song is sung with the people, commonly of the part of the catechism whereof the sermon is; or
    the German *Magnificat*. 6. The sermon of the catechism followeth, after Luther's order […]
-   7. After the sermon a church hymn is sung, as *Erhalt uns, Herr, bei deinem Wort*, or *Gott
-   der Vater wohn uns bei*. 8. Meanwhile the young folk gather at the altar, and the pastor
-   questioneth them in turn out of the catechism, Luther's short exposition, taking two
+   7. After the sermon a church hymn is sung, as "Lord, Keep Us Steadfast in Your Word", or
+   "Triune God, Be Thou Our Stay". 8. Meanwhile the young folk gather at the altar, and the
+   pastor questioneth them in turn out of the catechism, Luther's short exposition, taking two
    commandments each time, and so forth, until he bring it to the end. 9. It is concluded with
-   the hymn *Verleih uns Frieden gnädiglich*, together with the collect belonging thereto.
+   the hymn "Grant Peace, We Pray, in Mercy, Lord", together with the collect belonging thereto.
 
 **Other Vespers forms.**
 - **Regensburg 1553**: at Sunday Vespers the hymn was left out "for the sake of the long
@@ -39585,10 +39646,10 @@ Ernst, 1582** (Sehling 2, p. 311), after the catechism sermon:
 > stellen.
 
 Upon this [the preacher shall] go from the pulpit before the altar, and then the schoolmaster
-with the choir or the whole church shall sing the last stanza of the German hymn *Ein feste
-Burg* ("Preis, Ehr und Lob"); during which the common youth shall go from the place where they
-stood before into the middle of the church, and set themselves, the boys on the men's side and
-the maidens on the women's side.
+with the choir or the whole church shall sing the last stanza of the German hymn "A Mighty
+Fortress Is Our God" ("Preis, Ehr und Lob"); during which the common youth shall go from the
+place where they stood before into the middle of the church, and set themselves, the boys on the
+men's side and the maidens on the women's side.
 
 Four scholars then step up "an einen bequemen ort, do sie von jederman wol gehöret werden
 können", and afterward return "in züchtiger stille zum chor" (Sehling 2, p. 311).
@@ -41237,9 +41298,9 @@ der pfarkirchen zu Sant Georgen* (Caspar Löner), 1544**
 > unser zum anfang der predig, welche aus des sontags evangelion oder des feiertages allzeit
 > geschehen soll.
 
-"Now pray we the Holy Ghost", the first stanza, to be begun in the pulpit, with the Our Father,
-at the beginning of the sermon, which shall always be made out of the gospel of the Sunday or of
-the holy day.
+"To God the Holy Spirit Let Us Pray", the first stanza, to be begun in the pulpit, with the Our
+Father, at the beginning of the sermon, which shall always be made out of the gospel of the
+Sunday or of the holy day.
 
 In Kurland the preacher might intone the Lord's Prayer from the pulpit and let the whole
 congregation sing it, "as is customary in many evangelical churches of the German nation".
@@ -42584,8 +42645,9 @@ ceremonien*, 1544** (Sehling 12, pp. 321–322):
 > terra wie zu Ostern. […] De sancta Trinitate. 1. Introitus de tempore. 2. Kyrie summum mit dem
 > Et in terra. 3. Nach der epistel, den sequenz de tempore.
 
-At Whitsuntide. 1. The introit *de Spiritu*, or *Kom, hailiger Gaist*. 2. *Kyrie summum* and *Et
-in terra*, as at Easter. […] Of the holy Trinity. 1. The introit *de tempore*. 2. *Kyrie summum*
+At Whitsuntide. 1. The introit *de Spiritu*, or "Come, Holy Ghost, God and Lord". 2. *Kyrie
+summum* and *Et in terra*, as at Easter. […] Of the holy Trinity. 1. The introit *de
+tempore*. 2. *Kyrie summum*
 with the *Et in terra*. 3. After the epistle, the sequence *de tempore*.
 
 In Mecklenburg the grade name passes to a German Kyrie. **Mecklenburg, *Ordeninge der misse*,
@@ -45169,10 +45231,10 @@ Of vespers on the apostle's eve. Vespers shall be held as on the Saturday, yet s
 *de festo* and read the collects *de festo* also. Of the mass on the apostles' days. 1. After
 the ringing, which shall be done as on a working day, the cantor straightway beginneth the
 introit.
-2. Thereupon followeth the *Kyrie apostolicum*. 3. Then is sung the German "Allein Gott in der
-   Höh", etc. 4. The collect of the feast of the apostle, and thereafter the epistle is read.
-   […] Of vespers on the apostles' days. Vespers are sung without the organist, as otherwise on
-   a working day, since no sermon is held.
+2. Thereupon followeth the *Kyrie apostolicum*. 3. Then is sung the German "All Glory Be to God
+   on High", etc. 4. The collect of the feast of the apostle, and thereafter the epistle is
+   read. […] Of vespers on the apostles' days. Vespers are sung without the organist, as
+   otherwise on a working day, since no sermon is held.
 
 The Riga order gives the melody of the Kyrie. **Riga, *Kirchenordnung*, 1530**
 (Sehling 5, p. 15):
@@ -48996,10 +49058,10 @@ weekday service:
 But when there is a bridal Mass, at which the cantor must be present, this office is put off
 until about nine o'clock, when the bell is first struck together; and in place of the second
 lesson (before which baptism is done, if there be a child to baptize) a wedding sermon is read,
-and also at times delivered from the pulpit. Before it they are wont to sing *Wol dem, der in
-Gottes furchten steht*, or a motet in figural song. After the joining: *Wo Gott zum haus nicht
-gibt sein gunst*, or *Dein ehe soltu bewahren rein*, together with the last commandment of the
-rhymed Decalogue of Dr Luther, or also a motet in figural song
+and also at times delivered from the pulpit. Before it they are wont to sing "Happy the Man Who
+Feareth God", or a motet in figural song. After the joining: "Where God to the house giveth not
+his favour", or *Dein ehe soltu bewahren rein*, together with the last commandment of the rhymed
+Decalogue of Dr Luther, or also a motet in figural song
 
 Mansfeld in 1580 lists the hymns "for the bridal Masses": the *Te Deum* in German, *Am dritten
 tage eine hochzeit ward* (on John 2) and Psalm 127, *Vergebens ist alle mühe*
@@ -49683,18 +49745,18 @@ or *Mitten wir im leben sind* at the burial.
 > Jesum Christum, unsern herrn, amen.
 
 Where there are scholars, let them first sing a Latin responsory, as *Si bona suscepimus*, etc.
-Thereafter let the people sing with them some German hymns, as *Aus tiefer not*, *Mitten wir im
-leben sind*, and at the grave the hymn of holy Simeon. In towns the bodies shall be honourably
-escorted by the schoolmaster and scholars, as occasion serveth, with the aforesaid hymns;
-likewise in the villages by the pastor, and with *Mit fried und freud*, etc.; item (if there be
-time) *Wir gleuben all an einen gott*, etc. It is not needful that a special sermon be made at
-the burial; but if a priest be present, he may conclude with this collect: Almighty God, who by
-the death of thy Son hast brought sin and death to nought, and by his resurrection hast restored
-innocence and everlasting life, that we, being delivered from the power of the devil, should by
-the power of the same resurrection have our mortal bodies also raised from the dead: grant us
-graciously that we may believe this steadfastly and with our whole heart, and obtain the joyful
-resurrection of our body with all the blessed, through the same thy Son Jesus Christ our Lord.
-Amen.
+Thereafter let the people sing with them some German hymns, as "From Depths of Woe I Cry to
+Thee", "In the Very Midst of Life", and at the grave the hymn of holy Simeon. In towns the
+bodies shall be honourably escorted by the schoolmaster and scholars, as occasion serveth, with
+the aforesaid hymns; likewise in the villages by the pastor, and with "In Peace and Joy I Now
+Depart", etc.; item (if there be time) "We All Believe in One True God", etc. It is not needful
+that a special sermon be made at the burial; but if a priest be present, he may conclude with
+this collect: Almighty God, who by the death of thy Son hast brought sin and death to nought,
+and by his resurrection hast restored innocence and everlasting life, that we, being delivered
+from the power of the devil, should by the power of the same resurrection have our mortal bodies
+also raised from the dead: grant us graciously that we may believe this steadfastly and with our
+whole heart, and obtain the joyful resurrection of our body with all the blessed, through the
+same thy Son Jesus Christ our Lord. Amen.
 
 **1580.** Duke August's order of 1580 kept this text and added the funeral sermon. After the
 body has been carried to the churchyard with the ministers and people, and the people have
@@ -50268,11 +50330,11 @@ His obligation or bond, drawn up beforehand in the usual common form and engross
 is read to him by the secretary of the church council, and thereafter the Bible or New Testament
 is held before him by the provost or the theologian appointed to the act in his absence, into
 which he layeth three fingers of his right hand in the Gospel of John […] When now the sermon is
-ended, *Kum heiliger Geist* is sung in German, and the provost or the appointed theologian goeth
-before the altar, to which the Lord Steward and the director, or two of the appointed
-commissioners, lead the new prelate, who kneeleth down before the altar and is duly invested or
-installed according to the agenda, and it is concluded at last with a fine hymn or motet and the
-blessing.
+ended, "Come, Holy Ghost, God and Lord" is sung in German, and the provost or the appointed
+theologian goeth before the altar, to which the Lord Steward and the director, or two of the
+appointed commissioners, lead the new prelate, who kneeleth down before the altar and is duly
+invested or installed according to the agenda, and it is concluded at last with a fine hymn or
+motet and the blessing.
 
 #### <a id="s13-11-4"></a>13.11.4 Bishops and superintendents
 
@@ -52621,7 +52683,7 @@ morning, and first, before the procession, sing the antiphon *Exurge Domine*, an
 the processions in order: as, first, to carry a cross before, thereafter the scholars, following
 them the priests, and after them the men, maidens and women; and the scholars and priests shall
 sing in the procession the antiphon *Media vita* in Latin, and when that is ended, then the
-German hymn *Mitten wir im Leben sind* […]
+German hymn "In the Very Midst of Life" […]
 
 **Funerals: cross, school, clergy, coffin.** The funeral procession is the one procession found
 in nearly every Lutheran order ([§13.9](#s13-9)). Its order matches Stendal's. Electoral Brandenburg puts the
@@ -52638,9 +52700,9 @@ lights. **Brandenburg (Electorate), *Kirchenordnung* of Joachim II, 1540** (Sehl
 In the leading forth of the body a cross shall be carried before, whereupon the scholars and
 then the priests follow. With some of old it hath also been customary to carry lights withal,
 and where that is in use, it may also remain with measure; and while the body is carried, they
-may sing *Media vita* and the three German verses *Mitten wir im Leben sind*, and if the way be
-too long, the German *De profundis*, *Aus tiefer Not*, or else the responsory *Libera me,
-Domine*.
+may sing *Media vita* and the three German verses "In the Very Midst of Life", and if the way be
+too long, the German *De profundis*, "From Depths of Woe I Cry to Thee", or else the responsory
+*Libera me, Domine*.
 
 In Waldeck the sexton carries the cross, and the schoolboys, schoolmaster and pastor walk before
 the coffin. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 256):
@@ -52654,8 +52716,8 @@ the coffin. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 256):
 Thereafter the priest goeth before the house of the departed, and the sexton or *Opfermann*
 shall go with a cross, and next to him the scholars together with the schoolmaster and pastor,
 before the corpse; and in places where there are scholars, they shall sing a Christian hymn on
-the way, as by name: *Si bona suscepimus*; item, *Aus tiefer Not*; or, *Erbarm dich mein, o
-Herre Gott*.
+the way, as by name: *Si bona suscepimus*; item, "From Depths of Woe I Cry to Thee"; or, "Have
+mercy on me, O Lord God".
 
 The same pattern recurs elsewhere:
 - **Who carries the cross.** In Anhalt's order of the German hymns (before 1551) "a boy from the
@@ -53571,9 +53633,9 @@ last sing the *Da pacem* thereupon, together with a collect *de pace*, as above.
 > gebenedeiet etc. oder, so der communicanten vil sein die litaniam und nachvolgends das Agnus
 > Dei und zulest das commun.
 
-The choir singeth during the communion "Jesus Christus, unser Heiland", or "Gott sei gelobet und
-gebenedeiet" etc.; or, if the communicants be many, the Litany, and next the *Agnus Dei*, and at
-the last the communion.
+The choir singeth during the communion "Jesus Christ, Our Blessed Savior", or "O Lord, We Praise
+Thee" etc.; or, if the communicants be many, the Litany, and next the *Agnus Dei*, and at the
+last the communion.
 
 **After the sermon.** This was the commonest place. The Litany was sung after the Sunday sermon,
 before the communion or at the close of the service, at:
@@ -53876,12 +53938,12 @@ censors are presented by name. **Pfalz-Neuburg, *Visitationsordnung*, 1560/1566*
 > Nach gehaltner predig spricht einer aus den visitatoribus das volk an auf diese nachfolgende
 > weise
 
-First, when the people are gathered, they sing two stanzas of the hymn *Nun bitten wir den
-Heiligen Geist*. Thereafter the public confession is read. Thirdly they sing the last two
-verses, *Du süße Lieb, [schenk uns] dein Gunst*; and thereupon followeth a collect, upon the
-collect the epistle, and after the epistle the Creed is sung. After the Creed the pastor maketh
-a short sermon. After the sermon is held, one of the visitors addresseth the people after this
-manner following.
+First, when the people are gathered, they sing two stanzas of the hymn "To God the Holy Spirit
+Let Us Pray". Thereafter the public confession is read. Thirdly they sing the last two verses,
+*Du süße Lieb, [schenk uns] dein Gunst*; and thereupon followeth a collect, upon the collect the
+epistle, and after the epistle the Creed is sung. After the Creed the pastor maketh a short
+sermon. After the sermon is held, one of the visitors addresseth the people after this manner
+following.
 
 #### <a id="s13-22-2"></a>13.22.2 Rites treated in other chapters
 
@@ -61442,8 +61504,8 @@ That besides there be appointed *Seelfrauen*, and men also, who shall let themse
 the sick where they are desired, and attend upon the dying. And such shall have a christian
 understanding, that they point the dying to the merit of Christ alone, not to their own merit or
 the intercession of the saints; [that they] say the Lord's Prayer and the Creed before them,
-and, where there is time, well-grounded psalms and songs, as: *Aus tiefer Not schrei ich zu
-dir*, etc., *In Fried und Freud ich fahr dahin*, *Nun freut euch, lieben Christen gmein*, [the
+and, where there is time, well-grounded psalms and songs, as: "From Depths of Woe I Cry to
+Thee", etc., "In Peace and Joy I Now Depart", "Dear Christians, One and All, Rejoice", [the
 hymns] of baptism [and] of the sacrament of the body and blood, etc.; not old, erroneous prayers
 and sayings.
 
@@ -62744,10 +62806,10 @@ confession and absolution.
 > den heiligen geist etc., damit gehet der pfarrherr auf die kanzel und predigt das evangelium de
 > tempore.
 
-after the *Benedictus* or *Te Deum laudamus* the whole church singeth *Wir glauben*, etc.; after
-which the chaplain readeth off the common prayer, and after the prayer is sung *Nun bitten wir den
-Heiligen Geist*, etc.; therewith the pastor goeth into the pulpit and preacheth the gospel of the
-day.
+after the *Benedictus* or *Te Deum laudamus* the whole church singeth "We All Believe in One
+True God", etc.; after which the chaplain readeth off the common prayer, and after the prayer is
+sung "To God the Holy Spirit Let Us Pray", etc.; therewith the pastor goeth into the pulpit and
+preacheth the gospel of the day.
 
 **Aschersleben, *Kirchen agenda*, 1575** (Sehling 2, p. 480), at the weekday early service:
 
@@ -70201,7 +70263,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
 - Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)
 - Ludwig Casimir, Count of Hohenlohe — [1.23.1](#s1-23-1)
-- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.2](#s10-11-2), [10.11.3](#s10-11-3), [10.11.4](#s10-11-4), [10.12.3](#s10-12-3), [10.12.8](#s10-12-8), [10.13](#s10-13), [10.14](#s10-14), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21](#s13-21), [13.21.2](#s13-21-2), [13.21.3](#s13-21-3), [13.23.1](#s13-23-1), [13.23.4](#s13-23-4), [13.23.7](#s13-23-7), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
+- Luther, Martin — [Introduction](#repo-hymn-index), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.2](#s10-11-2), [10.11.3](#s10-11-3), [10.11.4](#s10-11-4), [10.12.3](#s10-12-3), [10.12.8](#s10-12-8), [10.13](#s10-13), [10.14](#s10-14), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21](#s13-21), [13.21.2](#s13-21-2), [13.21.3](#s13-21-3), [13.23.1](#s13-23-1), [13.23.4](#s13-23-4), [13.23.7](#s13-23-7), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-m"></a>**M**
 

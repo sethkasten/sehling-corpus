@@ -3,11 +3,11 @@
 
 Each entry: (canonical_title, [match patterns], literal_english, common_english, alternates)
 - literal_english : word-for-word rendering of the German/Latin incipit
-- common_english  : the received English hymn title, where the hymn has one
-                    (usually from the Lutheran Service Book / The Lutheran Hymnal
-                     tradition); None where no standard English title exists
+- common_english  : the received English hymn title, where the hymn has one; None where
+                    no standard English title exists. A hymn that is in the Lutheran Hymn
+                    Index (Hymnal Index/hymnal.db) takes the index's title instead, at the end
+                    of this file (index_titles.py).
 - alternates      : rival common English titles, when more than one is in use.
-                    These are the rows that want an external adjudication.
 """
 
 L = [
@@ -432,8 +432,9 @@ L += [
   'From God I will not part', 'From God Can Naught Move Me', None),
  ('Lobsinget Gott und schweiget nicht', [r'lobsinget gott'],
   'Sing praise to God and be not silent', None, None),
+ # Johann Hermann's New Year hymn; for "Now Greet the Swiftly Changing Year" see NOT_EN
  ('Jesu, nun sei gepreiset', [r'jesu,? nun sei gepreiset'],
-  'Jesus, now be praised', 'Now Greet the Swiftly Changing Year', None),
+  'Jesus, now be praised', None, None),
  ('Die Propheten habn geprophezeit', [r'die propheten hab'],
   'The prophets have prophesied', None, None),
  ('O Licht, heilige Dreifaltigkeit', [r'o li\S*ht,? heilige dre'],
@@ -613,3 +614,18 @@ CARVER = {
 for _i, (_c, _p, _lit, _com, _alt) in enumerate(L):
     if _com is None and _c in CARVER:
         L[_i] = (_c, _p, _lit, CARVER[_c][0], _alt)
+
+# English titles that a source gives a hymn but that belong to another text. The English
+# version of Liliencron's concordance gives Hermann's New Year hymn the title of LSB 896, which is
+# Jaroslav Vajda's translation of the Slovak "Rok nový zase k nám přišel".
+NOT_EN = {'Jesu, nun sei gepreiset': {'Now Greet the Swiftly Changing Year'}}
+
+# ---- The Lutheran Hymn Index ------------------------------------------------------------------
+# A hymn that is in the index takes the index's title, whatever was given above (index_titles.py)
+import index_titles as _it
+for _i, (_c, _p, _lit, _com, _alt) in enumerate(L):
+    if _c in _it.INDEX:
+        L[_i] = (_c, _p, _lit, _it.english(_c)[0], _alt)
+for _c, (_lit, _com) in list(LATIN_EN.items()):
+    if _c in _it.INDEX:
+        LATIN_EN[_c] = (_lit, _it.english(_c)[0])

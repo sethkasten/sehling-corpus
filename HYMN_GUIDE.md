@@ -20,9 +20,11 @@ without building anything. Rebuild only if you change a parser or a
 source.
 
 The builder reads the pre-extracted `hymn_tables/rows_*.json` files, not
-the corpus, so it needs **no `eko.db`** — it runs in about a second. Like
-`eko.db`, it always rebuilds from scratch, so a rebuild overwrites the
-committed copy; commit the result if you meant to change it.
+the corpus, so it needs **no `eko.db`** — it runs in about a second. It
+also reads the Lutheran Hymn Index, `Hymnal Index/hymnal.db`, for the
+English titles (see below). Like `eko.db`, it always rebuilds from scratch,
+so a rebuild overwrites the committed copy; commit the result if you meant
+to change it.
 
 `build_hymn_db.py` loads only the Sehling orders. The hymnal and
 compilation sources are added by a second step, which must follow it:
@@ -249,7 +251,7 @@ One row per (occasion, hymn) pair, in liturgical order.
 | `occasion` | Sunday, feast or occasion, normalised to English labels (`Trinity 12`, `Lent 1 (Invocavit)`, `Week 2, Freydag (Introitus)`) |
 | `original_title` | The hymn title **as printed in that source** — not normalised. Early-modern spelling and Low German are preserved as-is. |
 | `literal_english` | Word-for-word rendering of that incipit |
-| `common_english` | The received English hymn title where one exists, otherwise `NULL` — see the caveat below |
+| `common_english` | The hymn's English title: its title in the Lutheran Hymn Index where the hymn is there, otherwise the title of a translation or a canticle's English name; `NULL` where there is none — see below |
 | `source` | Sehling volume, order and page range |
 
 ### `hymns` — the lexicon
@@ -285,10 +287,11 @@ these days no hymn has three old witnesses. The assignments come from
 `hymn_prescriptions` and are never counted as witnesses. The workbook's
 Compare by day sheet flags them "Assigned".
 
-### `translation_candidates` — contested English titles
+### `translation_candidates` — where each English title comes from
 
-The one place this database records a judgment rather than a fact. See
-below.
+One row per English title: the row of the Lutheran Hymn Index it was
+taken from, or Matthew Carver's translation, and the rival titles of seven
+hymns. See below.
 
 ## Joining prescriptions to hymns: use both keys
 
@@ -362,52 +365,69 @@ that cites the same hymn on the same day in German and in English is
 counted once. Selnecker, cited in German by Liliencron and in English in
 his own account, is the main case.
 
-## `common_english` is an editorial judgment, not a fact
+## Where `common_english` comes from
 
-**46 of 217 hymns have no `common_english` at all** (three of them are
-group rubrics such as "the Christmas hymns"). These are hymns that never
-entered the English-language tradition — mostly Low German psalm
-paraphrases and local compositions — and that Matthew Carver has not
-translated either (see below). `NULL` there means "no English title
-exists", not "not yet filled in". Don't backfill it with a translation;
-that's what `literal_english` is for.
+**132 of the 217 hymns take the title of the Lutheran Hymn Index.** The
+folder `Hymnal Index` holds the index: `hymnal.db` has a row for every
+hymn of 34 English Lutheran hymnals and supplements (with Walther's German
+hymnal and its English translation, and *Liber Hymnorum*), and its README
+explains the tables. Each hymn of this lexicon was matched to its row by
+the German or Latin original that the index records, and every match was
+checked by hand. The matches are listed in `hymn_tables/index_titles.py`
+(`INDEX`), which also makes the title: the row's master title (as a rule
+*Lutheran Service Book*'s, else *The Lutheran Hymnal*'s, else the
+*Evangelical Lutheran Hymnary*'s), with the commas of the first hymnal
+title of the same words where the index leaves them out, in title case.
+`lexicon.py` puts these titles in `common_english`, over whatever title it
+gave before. A German version of a Latin hymn takes the Latin hymn's row
+where the index has no row for the German. One title is shortened: the
+index calls Luther's Creed hymn *We All Believe in One True God, Maker*,
+to tell it from Clausnitzer's, and `common_english` gives it as the
+hymnals do.
 
-**36 hymns carry the title of Matthew Carver's translation.** For hymns
-with no received English title, `common_english` gives the English title
-of Carver's translation, from *Walther's Hymnal* (Concordia, 2012), which
-he translated, or from his blog *Hymnoglypt*
-(matthaeusglyptes.blogspot.com). The titles are the ones Krusemark prints
-with the references "WH" and "HG" (his pp. 95–96 name Carver as the
-translator). Each was matched to its German hymn by the Ludecus and
-Thompson entries for the same day. They are listed in
-`hymn_tables/lexicon.py` (`CARVER`), and each has a row in
-`translation_candidates` whose `status` names the source:
+**39 hymns carry the title of Matthew Carver's translation.** Of the
+index titles, 18 are Carver's, from *Walther's Hymnal* (Concordia, 2012),
+which he translated, or *Liber Hymnorum* (2016), for hymns that no older
+English book has. For 21 hymns that the index lacks, `common_english`
+gives the title of Carver's translation on his blog *Hymnoglypt*
+(matthaeusglyptes.blogspot.com), as Krusemark prints it with the reference
+"HG" (his pp. 95–96 name Carver as the translator). Each was matched to its
+German hymn by the Ludecus and Thompson entries for the same day. They are
+listed in `hymn_tables/lexicon.py` (`CARVER`).
+
+**22 other hymns keep the English title their sources give them**, or the
+English name of a canticle or creed (*The Litany*, *Athanasian Creed*).
+
+**42 hymns have no `common_english` at all** (three of them are group
+rubrics such as "the Christmas hymns"). These are hymns that never entered
+the English-language tradition — mostly Low German psalm paraphrases and
+local compositions — and that Matthew Carver has not translated either.
+`NULL` there means "no English title exists", not "not yet filled in".
+Don't backfill it with a translation; that's what `literal_english` is
+for.
+
+Every title has a row in `translation_candidates` whose `status` names
+its source: `hymnal_index (row N)`, the row of `hymnal.db`, followed by
+`; matthew_carver_translation (…)` where the title is Carver's, or
+`matthew_carver_translation (Hymnoglypt)`. Seven hymns also keep the rival
+titles the lexicon once weighed, with `chosen = 0` and `status =
+'alternative'`; the index settles the choice between them.
 
 ```sql
-SELECT canonical_title, candidate, status FROM translation_candidates
-WHERE status LIKE 'matthew_carver%';
-```
-
-Of the 135 hymns with a received English title, **7 have genuine rivals in current use**, and
-the choice between them is a real editorial decision:
-
-```sql
-SELECT canonical_title, candidate, chosen
-FROM translation_candidates
+SELECT canonical_title, candidate, chosen, status FROM translation_candidates
 ORDER BY canonical_title, chosen DESC;
 ```
 
-`chosen = 1` marks the title currently used in `hymn_prescriptions`;
-`status = 'awaiting_adjudication'` marks the whole set as unsettled, and
-`status = 'matthew_carver_translation (…)'` marks a Carver title. The
-rejected alternatives are kept rather than discarded so the decision can
-be revisited — the same way `eko.db` keeps its `ambiguous` index links.
-
-One correction already applied, as an example of the kind of error this
-guards against: `Wo Gott der Herr nicht bei uns hält` (Jonas) and
-`Wär Gott nicht mit uns diese Zeit` (Luther) are **two different**
-Psalm 124 paraphrases, and were briefly given the same English title.
-They now carry distinct ones.
+Two corrections, as examples of the kind of error this guards against:
+`Wo Gott der Herr nicht bei uns hält` (Jonas) and `Wär Gott nicht mit uns
+diese Zeit` (Luther) are **two different** Psalm 124 paraphrases, and were
+briefly given the same English title. They carry the index's distinct ones,
+*If God Were Not upon Our Side* and *If God Had Not Been on Our Side*. And
+the English version of Liliencron's concordance gives Johann Hermann's
+`Jesu, nun sei gepreiset` the title *Now Greet the Swiftly Changing Year*,
+which is Jaroslav Vajda's translation of a Slovak New Year hymn (LSB 896).
+`lexicon.py` (`NOT_EN`) keeps that title out, and the hymn has no
+`common_english`.
 
 ## What this database does NOT do
 

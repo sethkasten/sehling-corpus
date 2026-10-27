@@ -104,7 +104,7 @@ def markdown(table):
     lex = {c: (lit, com) for c, lit, com in
            db.execute('SELECT canonical_title, literal_english, common_english FROM hymns')}
     carver = {c for (c,) in db.execute("SELECT canonical_title FROM translation_candidates "
-                                       "WHERE status LIKE 'matthew_carver%'")}
+                                       "WHERE chosen = 1 AND status LIKE '%matthew_carver%'")}
     out = []
     for d, shown, total in table:
         for i, (h, n, assigned) in enumerate(shown):

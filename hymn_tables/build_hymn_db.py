@@ -1,7 +1,7 @@
 """Build hymns.db -- chief-hymn prescriptions from the Sehling corpus hymn tables."""
 import sqlite3, json, os, sys, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import lexicon
+import index_titles, lexicon
 from resolve import resolve, preclean, by_occasion
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'hymns.db')
@@ -50,7 +50,7 @@ def main():
       column_name      TEXT,     -- which output column the choice affects
       candidate        TEXT,
       chosen           INTEGER,  -- 1 = currently used in hymn_prescriptions
-      status           TEXT      -- 'awaiting_adjudication' where rivals exist
+      status           TEXT      -- where the title comes from; 'alternative' for a rival title
     );
     CREATE INDEX ix_presc_occ ON hymn_prescriptions(occasion);
     CREATE INDEX ix_presc_src ON hymn_prescriptions(source);
@@ -69,9 +69,11 @@ def main():
         if canon not in seen_hymn:
             seen_hymn[canon] = (lit, com, lang)
             if alt:
+                # rival titles: the Lutheran Hymn Index settles them where it has the hymn
+                status = 'alternative' if canon in index_titles.INDEX else 'awaiting_adjudication'
                 for a in alt:
-                    cands.append((canon, 'common_english', a, 1 if a == com else 0,
-                                  'awaiting_adjudication'))
+                    if a != com:
+                        cands.append((canon, 'common_english', a, 0, status))
         presc.append((occ, clean_printed, lit, com, src))
         atts.append((clean_printed, canon, src))
 
@@ -102,7 +104,7 @@ def main():
     print('distinct hymns     :', c.execute('SELECT COUNT(*) FROM hymns').fetchone()[0])
     print('  with common title:', c.execute('SELECT COUNT(*) FROM hymns WHERE common_english IS NOT NULL').fetchone()[0])
     print('attestations       :', c.execute('SELECT COUNT(*) FROM attestations').fetchone()[0])
-    print('awaiting adjudication:', c.execute('SELECT COUNT(DISTINCT canonical_title) FROM translation_candidates').fetchone()[0])
+    print('with rival titles  :', c.execute('SELECT COUNT(DISTINCT canonical_title) FROM translation_candidates').fetchone()[0])
     print('sources            :', c.execute('SELECT COUNT(DISTINCT source) FROM hymn_prescriptions').fetchone()[0])
     db.close()
 
