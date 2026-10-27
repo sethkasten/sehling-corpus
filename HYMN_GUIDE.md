@@ -20,9 +20,11 @@ without building anything. Rebuild only if you change a parser or a
 source.
 
 The builder reads the pre-extracted `hymn_tables/rows_*.json` files, not
-the corpus, so it needs **no `eko.db`** — it runs in about a second. Like
-`eko.db`, it always rebuilds from scratch, so a rebuild overwrites the
-committed copy; commit the result if you meant to change it.
+the corpus, so it needs **no `eko.db`** — it runs in about a second. It
+also reads the Lutheran Hymn Index, `Hymnal Index/hymnal.db`, for the
+English titles (see below). Like `eko.db`, it always rebuilds from scratch,
+so a rebuild overwrites the committed copy; commit the result if you meant
+to change it.
 
 `build_hymn_db.py` loads only the Sehling orders. The hymnal and
 compilation sources are added by a second step, which must follow it:
@@ -33,16 +35,30 @@ py hymn_tables/merge_sources.py
 py hymn_tables/merge_krusemark.py
 ```
 
+The workbook and the book's table follow from the database. Both scripts
+need `openpyxl`:
+
+```
+py hymn_tables/export_xlsx.py            # writes hymns.xlsx
+py hymn_tables/appendix_8a.py --check    # is Appendix 8.A of the book current?
+```
+
+`appendix_8a.py` applies the rules of the book's §8.A.2 and prints the
+table as Markdown; `--check` compares it with the table in the book, and
+`--stats` prints the figures that §8.A.4 quotes. Run it after any change to
+the database, and paste its output over the table in §8.A.3 if they differ.
+
 To re-extract from the sources instead — after an OCR fix, say — re-run
-the parsers. The first four *do* need `eko.db` (see `DB_GUIDE.md`), since
+the parsers. The first five *do* need `eko.db` (see `DB_GUIDE.md`), since
 they read the document text out of it; the rest read the source documents
 committed alongside them:
 
 ```
-py hymn_tables/parse_weissenfels.py      # these four need eko.db
+py hymn_tables/parse_weissenfels.py      # these five need eko.db
 py hymn_tables/parse_pommern.py
 py hymn_tables/parse_latin.py
 py hymn_tables/parse_german.py
+py hymn_tables/parse_sunday.py
 py hymn_tables/parse_liliencron.py       # reads the committed OCR text
 py hymn_tables/parse_ludecus.py          # needs python-docx
 py hymn_tables/parse_hotd_selnecker.py
@@ -55,13 +71,13 @@ files are produced.
 
 ## Two layers of evidence
 
-The database holds **4,135 prescriptions** from **50 witnesses**, in two
+The database holds **4,534 prescriptions** from **54 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
-| Sehling church orders | 466 | 16th-c. orders prescribing hymns, read from the corpus itself |
+| Sehling church orders | 865 | 16th-c. orders prescribing hymns, read from the corpus itself |
 | Hymnals and compilations | 3,669 | later hymnals and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
@@ -102,27 +118,45 @@ same applies to `S`/`Se.` and to `L`/`LL`/`LK`.
 
 ## Which orders are covered
 
-Eight Sehling orders carry a hymn table worth extracting. They are **not**
+Twelve Sehling orders carry a hymn table worth extracting. They are **not**
 all the same kind of document:
 
 | Source | Rows | Kind |
 |---|---:|---|
 | Pommern, Agenda 1569 (`Sehling 4`, pp. 425–480) | 166 | Low German, per-Sunday, 2–4 options each |
+| Mansfeld, *Kirchen-Agenda* 1580 (`Sehling 2`, pp. 210–247) | 165 | German: by season (Part I), then per Sunday and feast, 2–4 options each (Parts III–IV) |
 | Pfalz-Zweibrücken 1565 (`Sehling 18, I/23`, pp. 337–341) | 121 | German, **3-week rotating cycle** by liturgical slot |
+| Pirna, Lauterbach's *Kirchenordnung*, 1555–1569 (`Sehling 1, Nr. 128`, pp. 642–643) | 80 | German, two hymns per Sunday, Septuagesima → Advent 4; the high feasts mostly Latin |
+| Nördlingen 1579 (`Sehling 12, VIII.7`, pp. 335–393) | 66 | German, the psalm after the epistle, per Sunday (54); Latin office hymns (12) |
+| Nördlingen, St George's, 1544/1555 (`Sehling 12, VIII.5`, pp. 321–323) | 61 | German, the psalm after the epistle, per Sunday and feast; taken from Naumburg |
 | Hof, *Ordo ecclesiasticus* 1592 (`Sehling 11, IV.20`, pp. 407–477) | 58 | Latin office propers, per-Sunday |
 | Weissenfels 1578 (`Sehling 1, Nr. 159`, pp. 693–696) | 55 | German, one hymn per Sunday, Advent 1 → Trinity 25 |
-| Mansfeld (`Sehling 2`, pp. 210–247) | 27 | German, by season |
+| Naumburg, St Wenzel, 1537/38 (`Sehling 2, Nr. 13`, pp. 76–77) | 48 | German, the psalm after the epistle, one per Sunday and feast |
 | Hohenlohe 1596 (`Sehling 15, Nr. 54`, pp. 641–660) | 21 | German, by feast |
-| Nördlingen 1579 (`Sehling 12, VIII.7`, pp. 335–393) | 12 | Latin propers, per-Sunday |
+| Anhalt, *Ordnung der deutschen Gesänge*, 1551 (`Sehling 2, Nr. 116`, pp. 555–556) | 18 | German, the hymn before the gospel, by feast and season; a rotation after Trinity |
 | Heilbronn 1543 (`Sehling 17, II/17`, pp. 320–326) | 6 | Latin Vespers propers |
 
-Weissenfels is the closest thing in the corpus to a modern *Hauptlied* /
-*Wochenlied* table. Note that the term `Hauptlied` itself appears
-**nowhere** in the corpus — it is later terminology. Searching for it
-finds nothing; these tables are what the concept actually looks like in
-the 16th century.
+Naumburg and Weissenfels, with one hymn for each Sunday, are the closest
+things in the corpus to a modern *Hauptlied* / *Wochenlied* table; Naumburg's
+list of 1537/38 is the earliest of the tables here, and St George's at
+Nördlingen took it over (1544/1555). Note
+that the term `Hauptlied` itself appears **nowhere** in the corpus — it is
+later terminology. Searching for it finds nothing; these tables are what the
+concept actually looks like in the 16th century.
 
-All eight are Lutheran orders, and none is an Interim order (traditions as in
+**Occasion labels keep the source's own span.** An entry for a season keeps
+it (`Christmas to Purification`, `Easter to Ascension`, `Trinity season` for
+Anhalt's rotation), and an entry for two days keeps them together
+(`Pentecost & Pentecost Monday`, `Lent 5 (Judica) & Palm Sunday`, `Trinity 26
+& 27`). The feasts of the Virgin and of the apostles as a class are
+`Feasts of the Virgin Mary` and `Common of Apostles`. Pirna's order is
+undated, and shares one record in `eko.db` with the visitors' recess of 1555
+that Sehling prints before it. Sehling dates it probably after 1555, since
+its passage on the poor and the schools uses that recess; Lauterbach, the
+first superintendent of Pirna, died in 1569 (Sehling 1, p. 635). The source
+string dates it 1555–1569.
+
+All twelve are Lutheran orders, and none is an Interim order (traditions as in
 [`LITURGICAL_AND_ECCLESIASTICAL_LIFE.md`](LITURGICAL_AND_ECCLESIASTICAL_LIFE.md#ch1), Chapter 1).
 The hymnals and compilations below are Lutheran too.
 
@@ -217,12 +251,12 @@ One row per (occasion, hymn) pair, in liturgical order.
 | `occasion` | Sunday, feast or occasion, normalised to English labels (`Trinity 12`, `Lent 1 (Invocavit)`, `Week 2, Freydag (Introitus)`) |
 | `original_title` | The hymn title **as printed in that source** — not normalised. Early-modern spelling and Low German are preserved as-is. |
 | `literal_english` | Word-for-word rendering of that incipit |
-| `common_english` | The received English hymn title where one exists, otherwise `NULL` — see the caveat below |
+| `common_english` | The hymn's English title: its title in the Lutheran Hymn Index where the hymn is there, otherwise the title of a translation or a canticle's English name; `NULL` where there is none — see below |
 | `source` | Sehling volume, order and page range |
 
 ### `hymns` — the lexicon
 
-One row per distinct hymn (206: 185 German, 21 Latin), from the Sehling
+One row per distinct hymn (217: 194 German, 23 Latin), from the Sehling
 orders and the hymnal and compilation sources alike. `canonical_title`
 is the modern standard spelling; this is what joins the printed variants
 together. Hymns that a source names only in a form the lexicon does not
@@ -236,7 +270,7 @@ using each and the number of distinct printed spellings. Does the
 
 ### `attestations` — printed spelling → canonical hymn
 
-335 rows. The corpus prints the same hymn many different ways
+601 rows. The corpus prints the same hymn many different ways
 (`Nu kum der heiden heiland` / `Nun kom der heiden heiland` /
 `Nun komm der heyden`), and this table records every one of them against
 its canonical identity. Useful if you want to search the corpus text for
@@ -253,10 +287,11 @@ these days no hymn has three old witnesses. The assignments come from
 `hymn_prescriptions` and are never counted as witnesses. The workbook's
 Compare by day sheet flags them "Assigned".
 
-### `translation_candidates` — contested English titles
+### `translation_candidates` — where each English title comes from
 
-The one place this database records a judgment rather than a fact. See
-below.
+One row per English title: the row of the Lutheran Hymn Index it was
+taken from, or Matthew Carver's translation, and the rival titles of seven
+hymns. See below.
 
 ## Joining prescriptions to hymns: use both keys
 
@@ -267,7 +302,7 @@ because the same spelling can occur in more than one order. Joining on
 `printed_title` alone fans out and silently inflates every count:
 
 ```sql
--- WRONG: reports 81 prescriptions of O lux beata Trinitas; the real figure is 27
+-- WRONG: reports 84 prescriptions of O lux beata Trinitas; the real figure is 27
 SELECT h.canonical_title, COUNT(*) FROM hymn_prescriptions p
 JOIN attestations a ON a.printed_title = p.original_title
 JOIN hymns h ON h.canonical_title = a.canonical_title
@@ -280,9 +315,10 @@ JOIN hymns h ON h.canonical_title = a.canonical_title
 GROUP BY h.canonical_title;
 ```
 
-The correct join is 1:1 — it returns exactly 466 rows, the number of
-prescriptions. If a `SUM` over your grouping doesn't come to 466, the
-join is wrong. The `hymn_prescriptions_by_hymn` view does this correctly
+The correct join is 1:1 — it returns exactly 865 rows, one for each
+prescription from the Sehling orders, which are the rows `attestations`
+covers. If a `SUM` over your grouping doesn't come to 865, the join is
+wrong. The `hymn_prescriptions_by_hymn` view does this correctly
 and is the easier path.
 
 ## Hymn identity across languages
@@ -316,6 +352,11 @@ identity in all of them:
     and Mansfeld.
   - *Als Jesus Christus, Gottes Sohn* is not *Jesus Christus, wahrer
     Gottes Sohn*.
+  - *Als Jesus Christus, unser Herr*, which Nördlingen 1579 gives for Palm
+    Sunday, is not Luther's Communion hymn, whose opening words it contains.
+  - Mansfeld's *Nimm von uns, Herr Gott* is not Martin Moller's *Nimm von
+    uns, Herr, du treuer Gott* (1584), which Goslar 1687 and Leipzig 1694
+    give for Trinity 10. Moller's hymn is later than Mansfeld's order.
   - *Mag ich dem Tod nicht widerstahn* is not *Mag ich Unglück nicht
     widerstahn*.
 
@@ -324,63 +365,95 @@ that cites the same hymn on the same day in German and in English is
 counted once. Selnecker, cited in German by Liliencron and in English in
 his own account, is the main case.
 
-## `common_english` is an editorial judgment, not a fact
+## Where `common_english` comes from
 
-**38 of 206 hymns have no `common_english` at all** (three of them are
-group rubrics such as "the Christmas hymns"). These are hymns that never
-entered the English-language tradition — mostly Low German psalm
-paraphrases and local compositions — and that Matthew Carver has not
-translated either (see below). `NULL` there means "no English title
-exists", not "not yet filled in". Don't backfill it with a translation;
-that's what `literal_english` is for.
+**132 of the 217 hymns take the title of the Lutheran Hymn Index.** The
+folder `Hymnal Index` holds the index: `hymnal.db` has a row for every
+hymn of 34 English Lutheran hymnals and supplements (with Walther's German
+hymnal and its English translation, and *Liber Hymnorum*), and its README
+explains the tables. Each hymn of this lexicon was matched to its row by
+the German or Latin original that the index records, and every match was
+checked by hand. The matches are listed in `hymn_tables/index_titles.py`
+(`INDEX`), which also makes the title: the row's master title (as a rule
+*Lutheran Service Book*'s, else *The Lutheran Hymnal*'s, else the
+*Evangelical Lutheran Hymnary*'s), with the commas of the first hymnal
+title of the same words where the index leaves them out, in title case.
+`lexicon.py` puts these titles in `common_english`, over whatever title it
+gave before. A German version of a Latin hymn takes the Latin hymn's row
+where the index has no row for the German. One title is shortened: the
+index calls Luther's Creed hymn *We All Believe in One True God, Maker*,
+to tell it from Clausnitzer's, and `common_english` gives it as the
+hymnals do.
 
-**36 hymns carry the title of Matthew Carver's translation.** For hymns
-with no received English title, `common_english` gives the English title
-of Carver's translation, from *Walther's Hymnal* (Concordia, 2012), which
-he translated, or from his blog *Hymnoglypt*
-(matthaeusglyptes.blogspot.com). The titles are the ones Krusemark prints
-with the references "WH" and "HG" (his pp. 95–96 name Carver as the
-translator). Each was matched to its German hymn by the Ludecus and
-Thompson entries for the same day. They are listed in
-`hymn_tables/lexicon.py` (`CARVER`), and each has a row in
-`translation_candidates` whose `status` names the source:
+**39 hymns carry the title of Matthew Carver's translation.** Of the
+index titles, 18 are Carver's, from *Walther's Hymnal* (Concordia, 2012),
+which he translated, or *Liber Hymnorum* (2016), for hymns that no older
+English book has. For 21 hymns that the index lacks, `common_english`
+gives the title of Carver's translation on his blog *Hymnoglypt*
+(matthaeusglyptes.blogspot.com), as Krusemark prints it with the reference
+"HG" (his pp. 95–96 name Carver as the translator). Each was matched to its
+German hymn by the Ludecus and Thompson entries for the same day. They are
+listed in `hymn_tables/lexicon.py` (`CARVER`).
+
+**22 other hymns keep the English title their sources give them**, or the
+English name of a canticle or creed (*The Litany*, *Athanasian Creed*).
+
+**42 hymns have no `common_english` at all** (three of them are group
+rubrics such as "the Christmas hymns"). These are hymns that never entered
+the English-language tradition — mostly Low German psalm paraphrases and
+local compositions — and that Matthew Carver has not translated either.
+`NULL` there means "no English title exists", not "not yet filled in".
+Don't backfill it with a translation; that's what `literal_english` is
+for.
+
+Every title has a row in `translation_candidates` whose `status` names
+its source: `hymnal_index (row N)`, the row of `hymnal.db`, followed by
+`; matthew_carver_translation (…)` where the title is Carver's, or
+`matthew_carver_translation (Hymnoglypt)`. Seven hymns also keep the rival
+titles the lexicon once weighed, with `chosen = 0` and `status =
+'alternative'`; the index settles the choice between them.
 
 ```sql
-SELECT canonical_title, candidate, status FROM translation_candidates
-WHERE status LIKE 'matthew_carver%';
-```
-
-Of the 131 hymns with a received English title, **7 have genuine rivals in current use**, and
-the choice between them is a real editorial decision:
-
-```sql
-SELECT canonical_title, candidate, chosen
-FROM translation_candidates
+SELECT canonical_title, candidate, chosen, status FROM translation_candidates
 ORDER BY canonical_title, chosen DESC;
 ```
 
-`chosen = 1` marks the title currently used in `hymn_prescriptions`;
-`status = 'awaiting_adjudication'` marks the whole set as unsettled, and
-`status = 'matthew_carver_translation (…)'` marks a Carver title. The
-rejected alternatives are kept rather than discarded so the decision can
-be revisited — the same way `eko.db` keeps its `ambiguous` index links.
-
-One correction already applied, as an example of the kind of error this
-guards against: `Wo Gott der Herr nicht bei uns hält` (Jonas) and
-`Wär Gott nicht mit uns diese Zeit` (Luther) are **two different**
-Psalm 124 paraphrases, and were briefly given the same English title.
-They now carry distinct ones.
+Two corrections, as examples of the kind of error this guards against:
+`Wo Gott der Herr nicht bei uns hält` (Jonas) and `Wär Gott nicht mit uns
+diese Zeit` (Luther) are **two different** Psalm 124 paraphrases, and were
+briefly given the same English title. They carry the index's distinct ones,
+*If God Were Not upon Our Side* and *If God Had Not Been on Our Side*. And
+the English version of Liliencron's concordance gives Johann Hermann's
+`Jesu, nun sei gepreiset` the title *Now Greet the Swiftly Changing Year*,
+which is Jaroslav Vajda's translation of a Slovak New Year hymn (LSB 896).
+`lexicon.py` (`NOT_EN`) keeps that title out, and the hymn has no
+`common_english`.
 
 ## What this database does NOT do
 
-**It is not the complete contents of those eight orders.** Two
-deliberate scoping decisions:
+**It is not the complete contents of those twelve orders.** Three
+deliberate scoping decisions, and one gap:
 
 - **From the Latin orders, only the hymn is taken.** Hof and Nördlingen
-  give a full set of propers per Sunday — introit, antiphon, responsory,
+  1579 give a full set of propers per Sunday — introit, antiphon, responsory,
   versicle, Magnificat antiphon, Benedicamus. Only the hymn field (`H:`)
   is extracted, because the rest are propers but not *hymns*. The other
   fields are still in `eko.db`'s document text if you want them.
+- **From Naumburg, Nördlingen 1544/1555 and Anhalt, only the hymn after the
+  epistle is taken** (Anhalt: "before the gospel"). Their hymns for the
+  introit, before and after the sermon, at vespers and on weekdays are left
+  out. Pirna's two German hymns a Sunday are both taken; on its high feasts it
+  gives Latin propers, of which only the named sequences (*Grates nunc
+  omnes*, *Victimae paschali*) are kept. Where Nördlingen 1544/1555 sets a
+  figural piece or a German hymn, only the hymn is taken.
+- **References to another day are not followed.** Mansfeld's Part IV sends
+  Christmas, Easter, Pentecost and Quasimodogeniti back to its season lists in
+  Part I; Naumburg and Nördlingen 1544/1555 keep the Circumcision, Epiphany
+  and the Purification "likewise" as Christmas. None of these is repeated as
+  a row. The one exception is "Idem" in a Sunday list (Naumburg's Palm
+  Sunday, Nördlingen 1579's first and second Sundays after Trinity), which
+  repeats the hymn of the entry before it. Where Mansfeld's Part IV repeats a
+  hymn of Part I for the same day, it is counted once.
 - **Hohenlohe's topical assignments are not in yet.** Its 1596 order also
   assigns hymns by *sermon topic* (12 doctrinal categories) and by
   *catechism part* (6), independent of the calendar. Only its feast
@@ -391,7 +464,7 @@ small fixed set of ~30 office hymns, so OCR'd Latin is matched against
 `hymn_tables/canon_latin.py` rather than preserved verbatim; anything not
 recognised as a known office hymn is dropped rather than guessed at.
 
-**Three rows were dropped as unresolvable** out of 469 extracted from the
+**Three rows were dropped as unresolvable** out of 868 extracted from the
 Sehling orders — two were page furniture the parser mistook for a title,
 one (`Herre gott`) is too short a fragment to identify. Everything else
 resolved.

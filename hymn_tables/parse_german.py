@@ -1,5 +1,6 @@
-"""Mansfeld, Pfalz-Zweibrücken 1565, Hohenlohe 1596: German hymn orders
-organised by season / liturgical slot rather than strictly per-Sunday."""
+"""Mansfeld 1580, Pfalz-Zweibrücken 1565, Hohenlohe 1596: German hymn orders
+organised by season / liturgical slot rather than strictly per-Sunday, and
+Mansfeld's own list for each Sunday and feast (Parts III and IV)."""
 import re, sys
 sys.path.insert(0, '/home/user/sehling-corpus/hymn_tables')
 import extract
@@ -35,10 +36,53 @@ def rows_mansfeld():
         body = seg[m.end(): marks[k+1].start() if k+1 < len(marks) else len(seg)]
         for piece in re.split(r'\.\s*|\bOder\b\s*\.?\s*', body):
             t = extract.clean_title(piece).lstrip('*').strip()
-            t = re.sub(r',?\s*J\.\s*S\.?\s*$', '', t).strip()
+            t = re.sub(r',?\s*J(?:\.\s*S\.?)?\s*$', '', t).strip()     # the sigla "J. S."
             if not t or len(t) < 8 or len(t) > 70 or PROSE.search(t): continue
             out.append((occ, t, SRC))
-    return out
+    # Part IV repeats five of Part I's hymns (Lent, the Purification, Trinity Sunday); once each
+    from resolve import resolve
+    have = {(o, resolve(t)[0]) for o, t, _ in out}
+    return out + [r for r in rows_mansfeld_sundays(SRC) if (r[0], resolve(r[1])[0]) not in have]
+
+# Parts III and IV: the hymn "in place of the sequence" on the apostles' days, and on each
+# Sunday and feast. Christmas, Easter, Pentecost and Quasimodogeniti send the reader back to
+# the season lists of Part I, which are not repeated here.
+ORDINAL = {'dritte': 3, 'vierde': 4, 'fünfte': 5, 'sechste': 6, 'siebende': 7, 'achte': 8,
+           'neunde': 9, 'zehende': 10, 'eilfte': 11, 'zwelfte': 12, 'dreizehende': 13,
+           'vierzehende': 14, 'funfzehende': 15, 'sechzehende': 16, 'siebenzehende': 17,
+           'achtzehende': 18, 'neunzehende': 19, 'zwanzigste': 20}
+SUNDAY_PROSE = re.compile(r'^(, da man|Besi?ehe|Singet man|Dergleichen|Litanei|Hie sol|Hat gar|'
+                          r'Item aus|Führ uns|Die drei letzten|Canticum|Herr Jesu Christ$)')
+
+def rows_mansfeld_sundays(src):
+    from parse_sunday import LENT, LENT_RE, entries, rows_from
+    ls = extract.lines(1241, 'Ordnung der gesenge auf die aposteltage', 'Von gemeinen festen',
+                       furniture=[r'\d+ Die vier Harzgrafschaften', r'\d+\. Kirchen-agenda für die prediger'])
+    trin = lambda m: f"Trinity {ORDINAL.get(m.group(1) or m.group(2), m.group(1))}"
+    labels = [
+      (r'Ordnung der gesenge auf die aposteltage', 'Common of Apostles'),
+      (r'IIII\.', None),
+      (r'Aufs heilige Christfest\.', 'Epiphany 3'),    # "... until the third Sunday after Epiphany"
+      (r'Do\. 4\. post Epiphan\.', 'Epiphany 4'), (r'Dom\. 5\. post Epiphan\.', 'Epiphany 5'),
+      (r'Purificationis Mariae\.', 'Purification of Mary (2 Feb)'),
+      (r'Am sontage? ' + LENT_RE + r'(?:, fastnachten)?\.', lambda m: LENT[m.group(1).lower()]),
+      (r'Die fasten uber erstlich in gemein\.', 'Lent'),
+      (r'Annunciationis\.', 'Annunciation (25 March)'),
+      (r'Am heiligen osterfest\.|Am sontage Quasimodogeniti\.|Pfingsten\.|Nota\.', None),
+      (r'Misericordias domini\.', 'Easter 2 (Misericordias Domini)'),
+      (r'Jubilate\.', 'Easter 3 (Jubilate)'), (r'Cantate\.', 'Easter 4 (Cantate)'),
+      (r'Vocem Iucunditatis\.', 'Easter 5 (Rogate/Vocem jucunditatis)'),
+      (r'Ascensionis\.', 'Ascension'), (r'Exaudi\.', 'Sunday after Ascension (Exaudi)'),
+      (r'Trinitatis\.', 'Trinity Sunday'),
+      (r'Domin\. I\. post trinitatis\.', 'Trinity 1'),
+      (r'Der ander sontag nach trinitatis\.', 'Trinity 2'),
+      (r'(?:Der|Am) (\d+)\. sontag(?: nach trinitatis)?\.', trin),
+      (r'Der ([a-zäöü]+) sontag\.|Der (siebenzehende)\.', trin),
+      (r'Aufs fest Michaelis\.', 'St Michael (29 Sept)'),
+    ]
+    ents = [(occ, body.replace('Item darzu kan man nehmen das erste theil des gesanges:', ''))
+            for occ, body in entries(ls, labels)]
+    return rows_from(ents, src, SUNDAY_PROSE)
 
 def rows_zweibruecken():
     SRC = 'Sehling 18, I/23 (Pfalz-Zweibrücken, Ordnung der Kirchengesänge, 1565), pp. 337-341'

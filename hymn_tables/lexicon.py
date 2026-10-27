@@ -3,11 +3,11 @@
 
 Each entry: (canonical_title, [match patterns], literal_english, common_english, alternates)
 - literal_english : word-for-word rendering of the German/Latin incipit
-- common_english  : the received English hymn title, where the hymn has one
-                    (usually from the Lutheran Service Book / The Lutheran Hymnal
-                     tradition); None where no standard English title exists
+- common_english  : the received English hymn title, where the hymn has one; None where
+                    no standard English title exists. A hymn that is in the Lutheran Hymn
+                    Index (Hymnal Index/hymnal.db) takes the index's title instead, at the end
+                    of this file (index_titles.py).
 - alternates      : rival common English titles, when more than one is in use.
-                    These are the rows that want an external adjudication.
 """
 
 L = [
@@ -432,8 +432,9 @@ L += [
   'From God I will not part', 'From God Can Naught Move Me', None),
  ('Lobsinget Gott und schweiget nicht', [r'lobsinget gott'],
   'Sing praise to God and be not silent', None, None),
+ # Johann Hermann's New Year hymn; for "Now Greet the Swiftly Changing Year" see NOT_EN
  ('Jesu, nun sei gepreiset', [r'jesu,? nun sei gepreiset'],
-  'Jesus, now be praised', 'Now Greet the Swiftly Changing Year', None),
+  'Jesus, now be praised', None, None),
  ('Die Propheten habn geprophezeit', [r'die propheten hab'],
   'The prophets have prophesied', None, None),
  ('O Licht, heilige Dreifaltigkeit', [r'o li\S*ht,? heilige dre'],
@@ -516,11 +517,53 @@ L += [
  ('Fröhlich soll mein Herze springen', [r'fro\S*hlich soll mein herze'],
   'Joyfully shall my heart leap', 'All My Heart This Night Rejoices', None),
 ]
+# ---- The Sunday lists of Naumburg 1537/38, Nördlingen 1544/1555 and 1579, Anhalt 1551, Pirna
+# and Mansfeld 1580: spellings and abbreviations of hymns above that their patterns miss, and
+# the hymns these lists add.
+def _also(canon, *pats):
+    """More patterns for a hymn already in L, with its English titles."""
+    lit, com = next((lit, com) for c, _p, lit, com, _a in L if c == canon)
+    return (canon, list(pats), lit, com, None)
+
+L += [
+ _also('Dies sind die heilgen zehn Gebot', r'^die zehen gebot'),
+ _also('Fröhlich wolln wir Halleluja singen', r'^fro?h?lich wol+e?n? wir$'),
+ _also('Nun bitten wir den Heiligen Geist', r'^nu[n]? [bp]itten wir de[mn]\b'),
+ _also('Es wolle Gott uns gnädig sein', r'^es wol+[te]? uns go[dt]+'),
+ _also('Vergebens ist all Müh und Kost', r'^ver?geb(lich|ens) ist'),
+ _also('Nun freut euch, lieben Christen gmein', r'^nun? fr[eo]u[ew]?e?t euch,? lieben?\b'),
+ _also('Nun freut euch, Gottes Kinder, all', r'nu[n]? freu?e?t euch,? gottes kinder'),
+ _also('Ich ruf zu dir, Herr Jesu Christ', r'^ich ru[e]?f[e]? zu[e]? dir'),
+ _also('Aus tiefer Not schrei ich zu dir', r'^aus t[iu]e?fer no'),
+ _also('Als Adam im Paradiese', r'als adam i[mn] parad'),
+ ('Wer unter dem Schirm des Höchsten ist', [r'^wer und?ter dem schirm des h'],
+  'Who dwells in the shelter of the Most High', None, None),
+ ('Ach hilf mich Leid und sehnlich Klag', [r'^ach hilf mich leid'],
+  'Ah, help me, grief and yearning lament', None, None),
+ ('O Gott Vater, du hast Gewalt', [r'^o got+,? vater,? due? hast'],
+  'O God the Father, thou hast power', None, None),
+ # Mansfeld's hymn is not Moller's "Nimm von uns, Herr, du treuer Gott" (1584), which is later.
+ # Moller's needs its own entry, or the fuzzy match would join Liliencron's citations of it to
+ # Mansfeld's.
+ ('Nimm von uns, Herr Gott', [r'^nim+ von uns,? herr,? got'],
+  'Take from us, Lord God', None, None),
+ ('Nimm von uns, Herr, du treuer Gott', [r'^nim+ von uns,? herr,? du (ge)?treuer'],
+  'Take from us, Lord, thou faithful God', None, None),
+ ('Des Königs Panier gehet hervor', [r'^des k[oö]nigs pan'],
+  "The King's banner goes forth", 'The Royal Banners Forward Go', None),
+ ('In Gott gelaub ich, dass er hat', [r'^in got+ gl[ae]?[ue]b ich'],
+  'I believe in God, that he has', None, None),
+ ('Gelobet sei der ewige Gott', [r'^gelobet sei der ewige'],
+  'Praised be the eternal God', None, None),
+]
 # Luther's Easter hymn must be tried before his Communion hymn of the same opening, whose
 # pattern would otherwise take it.
 L.insert(0, ('Jesus Christus, unser Heiland, der den Tod überwand',
              [r'jesus christus,? [uv]nse?r? heiland,? der den tod'],
              'Jesus Christ, our Saviour, who overcame death', None, None))
+# and "Als Jesus Christus, unser Herr" before the Communion hymn, whose words it contains
+L.insert(0, ('Als Jesus Christus, unser Herr', [r'^als jesus christus,? unser herr'],
+             'When Jesus Christ our Lord', None, None))
 
 # ---- Matthew Carver's translations ----------------------------------------------------------
 # For hymns with no received English title, the English title of Matthew Carver's translation:
@@ -571,3 +614,18 @@ CARVER = {
 for _i, (_c, _p, _lit, _com, _alt) in enumerate(L):
     if _com is None and _c in CARVER:
         L[_i] = (_c, _p, _lit, CARVER[_c][0], _alt)
+
+# English titles that a source gives a hymn but that belong to another text. The English
+# version of Liliencron's concordance gives Hermann's New Year hymn the title of LSB 896, which is
+# Jaroslav Vajda's translation of the Slovak "Rok nový zase k nám přišel".
+NOT_EN = {'Jesu, nun sei gepreiset': {'Now Greet the Swiftly Changing Year'}}
+
+# ---- The Lutheran Hymn Index ------------------------------------------------------------------
+# A hymn that is in the index takes the index's title, whatever was given above (index_titles.py)
+import index_titles as _it
+for _i, (_c, _p, _lit, _com, _alt) in enumerate(L):
+    if _c in _it.INDEX:
+        L[_i] = (_c, _p, _lit, _it.english(_c)[0], _alt)
+for _c, (_lit, _com) in list(LATIN_EN.items()):
+    if _c in _it.INDEX:
+        LATIN_EN[_c] = (_lit, _it.english(_c)[0])

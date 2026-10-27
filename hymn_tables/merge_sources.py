@@ -10,7 +10,7 @@ counted three times.
 import json, os, sys, re, sqlite3, collections
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import bridge, lexicon
+import bridge, index_titles, lexicon
 from resolve import norm, by_occasion
 
 FILES = ['rows_liliencron.json', 'rows_ludecus.json', 'rows_hotd.json', 'rows_selnecker.json']
@@ -43,7 +43,8 @@ def build_rows():
         if r['compilation'].startswith('Liliencron'):
             # Liliencron's own English rendering: '°' marked ones are literal, not received titles
             if r['literal_only'] and not literal: literal = r['english']
-            elif not r['literal_only'] and not common: common = r['english']
+            elif (not r['literal_only'] and not common
+                  and r['english'] not in lexicon.NOT_EN.get(ident, ())): common = r['english']
         elif not r.get('german'):
             # an English-only source: its title is a received English title by definition
             common = common or r['english']
@@ -101,11 +102,19 @@ def main():
         assert ok and canon == t, t
         c.execute('INSERT OR IGNORE INTO hymns VALUES (?,?,?,?)',
                   (t, lit, com, 'Latin' if t in lexicon.LATIN_EN else 'German'))
-    # provenance of the English titles taken from Matthew Carver's translations
+    # provenance of the English titles: the row of the Lutheran Hymn Index, and Matthew Carver's
+    # translation where the title is his (in Walther's Hymnal or Liber Hymnorum, or on Hymnoglypt)
     present = {r[0] for r in c.execute('SELECT canonical_title FROM hymns')}
-    c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)',
-                  [(k, 'common_english', t, 1, f'matthew_carver_translation ({src})')
-                   for k, (t, src) in sorted(lexicon.CARVER.items()) if k in present])
+    prov = []
+    for k in sorted(present):
+        if k in index_titles.INDEX:
+            t, hid, cv = index_titles.english(k)
+            prov.append((k, 'common_english', t, 1, f'hymnal_index (row {hid})'
+                         + (f'; matthew_carver_translation ({cv})' if cv else '')))
+        elif k in lexicon.CARVER:
+            t, src = lexicon.CARVER[k]
+            prov.append((k, 'common_english', t, 1, f'matthew_carver_translation ({src})'))
+    c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)', prov)
     db.commit()
     after = c.execute('SELECT COUNT(*) FROM hymn_prescriptions').fetchone()[0]
     print(f'merged rows added : {after - before}  (total {after})')

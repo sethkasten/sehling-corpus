@@ -74,6 +74,9 @@ For the database `eko.db` see [`DB_GUIDE.md`](DB_GUIDE.md).
 
 For the hymn tables (`hymns.db`) see [`HYMN_GUIDE.md`](HYMN_GUIDE.md).
 
+For the Lutheran Hymn Index (`Hymnal Index/hymnal.db`), from which the book and `hymns.db` take
+the English titles of hymns, see its own [`README`](<Hymnal Index/README.md>).
+
 For the general prayers (Prayers of the Church) and `general_prayers.db` see
 [`GENERAL_PRAYERS_GUIDE.md`](GENERAL_PRAYERS_GUIDE.md).
 
@@ -84,6 +87,7 @@ For the general prayers (Prayers of the Church) and `general_prayers.db` see
 | `sehling/` | The compiled corpus — every segmented church order, OCR'd | (scraped; see `CORPUS_GUIDE.md`) |
 | `eko.db` | Full-text search over the corpus + Sehling's own registers | `build_database.py` |
 | `hymns.db` | Chief-hymn prescriptions by Sunday and feast, with English titles | `hymn_tables/build_hymn_db.py` |
+| `Hymnal Index/hymnal.db` | The Lutheran Hymn Index: every hymn of 34 English Lutheran hymnals and supplements, with its titles and numbers | `Hymnal Index/Python/build_db.py` |
 | `general_prayers.db` | The general prayer of the Sunday service in 57 orders, petition by petition: original + Jacobean English, bid/rubric, standard category | `general_prayers/build_gp_db.py` |
 
 `hymns.db` and `general_prayers.db` are committed (with `.xlsx` exports) so they can be queried without building

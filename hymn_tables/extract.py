@@ -25,6 +25,31 @@ def flow(text):
     t = t.replace('- ', '')          # rejoin hyphenated line breaks
     return t
 
+FOOTNOTE = re.compile(r'^\d{1,2}\s+(?![.\d])\S')      # "13 Die folgenden ..."; an item is "13. ..."
+
+def lines(doc_id, start, end, furniture=()):
+    """The printed lines of a list, from START up to END, without page furniture or
+    footnotes. A footnote runs from its number to the first line that ends a sentence."""
+    text = load(doc_id)[4]
+    i = text.index(start)
+    text = text[i: text.index(end, i)]
+    out, in_note = [], False
+    for ln in text.split('\n'):
+        s = ln.strip()
+        if not s: continue
+        if re.match(r'^\[p\.\s*\d+\]$', s):
+            in_note = False; continue
+        if re.match(r'^\d{1,4}\s*\*?$', s): continue                 # page numbers, signatures
+        if any(re.match(p, s) for p in furniture): continue          # running heads
+        if in_note or FOOTNOTE.match(s):
+            in_note = not re.search(r'[.!)]$', s)
+            continue
+        if out and re.search(r'[a-zäöüß]-$', out[-1]):
+            out[-1] = out[-1][:-1] + s                               # a hyphenated break
+        else:
+            out.append(s)
+    return out
+
 def clean_title(s):
     s = s.strip()
     s = re.sub(r'\s*\betc\.?\s*$', '', s, flags=re.I)

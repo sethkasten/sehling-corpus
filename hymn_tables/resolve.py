@@ -78,7 +78,7 @@ def resolve(raw):
 
 if __name__ == '__main__':
     rows = []
-    for fn in ['weissenfels','pommern','latin','german']:
+    for fn in ['weissenfels','pommern','latin','german','sunday']:
         rows += json.load(open('hymn_tables/rows_%s.json' % fn))
     miss = collections.Counter()
     hit = 0
