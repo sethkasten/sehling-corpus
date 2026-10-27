@@ -944,11 +944,14 @@
     - [10.8.1 Latin: chapters, schools, and the towns](#s10-8-1)
     - [10.8.2 German: convents and villages](#s10-8-2)
     - [10.8.3 Both](#s10-8-3)
-  - [10.9 The music](#s10-9)
-    - [10.9.1 The old chant kept](#s10-9-1)
-    - [10.9.2 The new chant books: Spangenberg and Lossius](#s10-9-2)
-    - [10.9.3 German psalm tones](#s10-9-3)
-    - [10.9.4 Figural music and the organ](#s10-9-4)
+  - [10.9 The Office of the Dead](#s10-9)
+    - [10.9.1 What the vigil was](#s10-9-1)
+    - [10.9.2 Why it was abolished](#s10-9-2)
+    - [10.9.3 By stages](#s10-9-3)
+    - [10.9.4 Chapters, convents and schools](#s10-9-4)
+    - [10.9.5 What survived at the funeral](#s10-9-5)
+    - [10.9.6 What took its place](#s10-9-6)
+    - [10.9.7 Summary by order](#s10-9-7)
   - [10.10 The catechism service](#s10-10)
     - [10.10.1 Origins: Luther and Wittenberg](#s10-10-1)
     - [10.10.2 When, and how long](#s10-10-2)
@@ -957,24 +960,21 @@
     - [10.10.5 The catechism in the morning service](#s10-10-5)
     - [10.10.6 The Reformed catechism service](#s10-10-6)
     - [10.10.7 The ordo compared](#s10-10-7)
-  - [10.11 Ceremonial in the offices and the catechism service](#s10-11)
-    - [10.11.1 What the orders say, and what they do not](#s10-11-1)
-    - [10.11.2 Kneeling to pray](#s10-11-2)
-    - [10.11.3 The Litany: boys kneeling before the altar](#s10-11-3)
-    - [10.11.4 Kneeling at the evening bell](#s10-11-4)
-    - [10.11.5 Two choirs facing](#s10-11-5)
-    - [10.11.6 The place of the lesson](#s10-11-6)
-    - [10.11.7 The catechism service: the children set in order](#s10-11-7)
-    - [10.11.8 The sign of the cross: at home, not in choir](#s10-11-8)
-    - [10.11.9 Summary by order](#s10-11-9)
-  - [10.12 The Office of the Dead](#s10-12)
-    - [10.12.1 What the vigil was](#s10-12-1)
-    - [10.12.2 Why it was abolished](#s10-12-2)
-    - [10.12.3 By stages](#s10-12-3)
-    - [10.12.4 Chapters, convents and schools](#s10-12-4)
-    - [10.12.5 What survived at the funeral](#s10-12-5)
-    - [10.12.6 What took its place](#s10-12-6)
-    - [10.12.7 Summary by order](#s10-12-7)
+  - [10.11 The music](#s10-11)
+    - [10.11.1 The old chant kept](#s10-11-1)
+    - [10.11.2 The new chant books: Spangenberg and Lossius](#s10-11-2)
+    - [10.11.3 German psalm tones](#s10-11-3)
+    - [10.11.4 Figural music and the organ](#s10-11-4)
+  - [10.12 Ceremonial in the offices and the catechism service](#s10-12)
+    - [10.12.1 What the orders say, and what they do not](#s10-12-1)
+    - [10.12.2 Kneeling to pray](#s10-12-2)
+    - [10.12.3 The Litany: boys kneeling before the altar](#s10-12-3)
+    - [10.12.4 Kneeling at the evening bell](#s10-12-4)
+    - [10.12.5 Two choirs facing](#s10-12-5)
+    - [10.12.6 The place of the lesson](#s10-12-6)
+    - [10.12.7 The catechism service: the children set in order](#s10-12-7)
+    - [10.12.8 The sign of the cross: at home, not in choir](#s10-12-8)
+    - [10.12.9 Summary by order](#s10-12-9)
   - [10.13 Table by order](#s10-13)
   - [10.14 Concordance of the orders quoted](#s10-14)
 - [Chapter 11. Sermons and Preaching](#ch11)
@@ -1244,34 +1244,34 @@
     - [13.19.1 The tonsure abolished](#s13-19-1)
     - [13.19.2 Churches, altars and vessels returned to common use](#s13-19-2)
     - [13.19.3 The deposition of ministers](#s13-19-3)
-  - [13.20 Other occasional rites](#s13-20)
-    - [13.20.1 The visitation service](#s13-20-1)
-    - [13.20.2 Rites treated in other chapters](#s13-20-2)
-    - [13.20.3 Reservation of the sacrament](#s13-20-3)
-    - [13.20.4 Good Friday: no Mass of the Presanctified](#s13-20-4)
-    - [13.20.5 The remaining elements consumed](#s13-20-5)
-  - [13.21 Rites of the feasts and seasons](#s13-21)
-    - [13.21.1 The pattern](#s13-21-1)
-    - [13.21.2 Christmas and the night vigils](#s13-21-2)
-    - [13.21.3 Candlemas, Ash Wednesday and Palm Sunday](#s13-21-3)
-    - [13.21.4 Maundy Thursday and Good Friday](#s13-21-4)
-    - [13.21.5 Easter Eve and Easter](#s13-21-5)
-    - [13.21.6 Ascension and Whitsun](#s13-21-6)
-    - [13.21.7 Septuagesima and Trinity Sunday](#s13-21-7)
-  - [13.22 The litany, the suffrages and the bidding prayers at the Mass](#s13-22)
-    - [13.22.1 The Litany in place of the Mass](#s13-22-1)
-    - [13.22.2 The Litany within the Mass](#s13-22-2)
-    - [13.22.3 The forms and the singers](#s13-22-3)
-    - [13.22.4 The Litany days](#s13-22-4)
-    - [13.22.5 The Litany at the feasts and seasons](#s13-22-5)
-    - [13.22.6 Good Friday: the Litany and the solemn prayers](#s13-22-6)
-  - [13.23 Sorcery and the cleansing of houses and things](#s13-23)
-    - [13.23.1 The old means of cleansing abolished](#s13-23-1)
-    - [13.23.2 A house troubled by the devil: prayer](#s13-23-2)
-    - [13.23.3 The tools of sorcery burned](#s13-23-3)
-    - [13.23.4 Images, fonts and chapels of the old cult](#s13-23-4)
-    - [13.23.5 The things of the sacraments guarded](#s13-23-5)
-    - [13.23.6 The persons: repentance, not purification](#s13-23-6)
+  - [13.20 Sorcery and the cleansing of houses and things](#s13-20)
+    - [13.20.1 The old means of cleansing abolished](#s13-20-1)
+    - [13.20.2 A house troubled by the devil: prayer](#s13-20-2)
+    - [13.20.3 The tools of sorcery burned](#s13-20-3)
+    - [13.20.4 Images, fonts and chapels of the old cult](#s13-20-4)
+    - [13.20.5 The things of the sacraments guarded](#s13-20-5)
+    - [13.20.6 The persons: repentance, not purification](#s13-20-6)
+  - [13.21 The litany, the suffrages and the bidding prayers at the Mass](#s13-21)
+    - [13.21.1 The Litany in place of the Mass](#s13-21-1)
+    - [13.21.2 The Litany within the Mass](#s13-21-2)
+    - [13.21.3 The forms and the singers](#s13-21-3)
+    - [13.21.4 The Litany days](#s13-21-4)
+    - [13.21.5 The Litany at the feasts and seasons](#s13-21-5)
+    - [13.21.6 Good Friday: the Litany and the solemn prayers](#s13-21-6)
+  - [13.22 Other occasional rites](#s13-22)
+    - [13.22.1 The visitation service](#s13-22-1)
+    - [13.22.2 Rites treated in other chapters](#s13-22-2)
+    - [13.22.3 Reservation of the sacrament](#s13-22-3)
+    - [13.22.4 Good Friday: no Mass of the Presanctified](#s13-22-4)
+    - [13.22.5 The remaining elements consumed](#s13-22-5)
+  - [13.23 Rites of the feasts and seasons](#s13-23)
+    - [13.23.1 The pattern](#s13-23-1)
+    - [13.23.2 Christmas and the night vigils](#s13-23-2)
+    - [13.23.3 Candlemas, Ash Wednesday and Palm Sunday](#s13-23-3)
+    - [13.23.4 Maundy Thursday and Good Friday](#s13-23-4)
+    - [13.23.5 Easter Eve and Easter](#s13-23-5)
+    - [13.23.6 Ascension and Whitsun](#s13-23-6)
+    - [13.23.7 Septuagesima and Trinity Sunday](#s13-23-7)
   - [13.24 Table by order](#s13-24)
   - [13.25 Concordance of the orders quoted](#s13-25)
 - [Chapter 14. Art, Architecture, Paraments and Vestments](#ch14)
@@ -1608,8 +1608,9 @@ Interim. Each of the other chapters takes one subject through the whole edition:
   ([Chapter 9](#ch9));
 - the daily office ([Chapter 10](#ch10)), preaching ([Chapter 11](#ch11)) and the church year
   ([Chapter 12](#ch12));
-- the occasional and extraordinary rites, from baptism to the Litany, and what was done with
-  houses and things that sorcery had touched ([Chapter 13](#ch13));
+- the occasional and extraordinary rites, from baptism to the rites of the feasts and seasons,
+  among them what was done with houses and things that sorcery had touched, and the Litany
+  ([Chapter 13](#ch13));
 - the furnishing of worship: art, architecture, paraments and vestments ([Chapter 14](#ch14));
 - the duties of ministers, officers and people ([Chapter 15](#ch15)), and the ministries
   themselves: minor orders, deacons and elders, and what women and laymen might do in the
@@ -6956,7 +6957,7 @@ Mass one by one. This chapter puts them back together. It asks:
 - the sermon, its place and its length: [Chapter 11](#ch11);
 - the general prayer of the church: [Chapter 6](#ch6);
 - the Litany and the bidding prayers at the Mass:
-  [Chapter 13](#ch13), [§13.22](#s13-22);
+  [Chapter 13](#ch13), [§13.21](#s13-21);
 - the organ in alternation with the choir:
   [Chapter 9](#ch9), [§9.3](#s9-3);
 - vestments, lights and the elevation as marks of the feast:
@@ -8462,7 +8463,7 @@ after the blessing: Nürnberg 1525 (Sehling 11, p. 57), Strasbourg 1525
 nobody had announced himself for the Supper, the Mass stopped after the sermon. What was left
 was the first half of the ordo, closed with prayers. The postcommunion substitutes and the
 Litany in this place are treated in [Chapter 5](#ch5), [§5.6](#s5-6), and
-[Chapter 13](#ch13), [§13.22](#s13-22); the change of vestments in
+[Chapter 13](#ch13), [§13.21](#s13-21); the change of vestments in
 [Chapter 14](#ch14), [§14.7](#s14-7).
 
 **The forms.**
@@ -16071,7 +16072,7 @@ Later chapters take up related subjects:
   read from the pulpit as a family of the general prayer ([§6.15](#s6-15)).
 - [Chapter 10](#ch10) covers the collects of Matins and Vespers (§§[10.7.1](#s10-7-1), [10.7.5](#s10-7-5)).
 - [Chapter 13](#ch13) covers the Litany and its
-  collects ([§13.22](#s13-22)).
+  collects ([§13.21](#s13-21)).
 - [Chapter 12](#ch12) covers the seasons whose
   collects were kept ([§12.12](#s12-12)).
 
@@ -17076,7 +17077,7 @@ thanksgiving for the gift of the Word.
 
 The service when nobody communicated is treated in [Chapter 2](#ch2),
 [§2.14](#s2-14), and the Litany sung in place of the Mass in
-[Chapter 13](#ch13), [§13.22.1](#s13-22-1).
+[Chapter 13](#ch13), [§13.21.1](#s13-21-1).
 
 #### <a id="s5-6-6"></a>5.6.6 The prayer over the people (*oratio super populum*)
 
@@ -17391,7 +17392,7 @@ the categories, and how the critical and representative texts are made. The work
 - the prayer before the sermon, the greeting and the notices:
   [Chapter 11](#ch11), [§11.10](#s11-10);
 - the Litany and the bidding prayers:
-  [Chapter 13](#ch13), [§13.22](#s13-22);
+  [Chapter 13](#ch13), [§13.21](#s13-21);
 - the intercessions under the Sanctus in the Masses that have them:
   [Chapter 7](#ch7), §§[7.8.11](#s7-8-11), [7.12.2](#s7-12-2), [7.14.4](#s7-14-4);
 - the collects: [Chapter 5](#ch5), [§5.4](#s5-4).
@@ -26576,7 +26577,7 @@ sources, with its original, literal English and common English titles and its wi
   [Chapter 9](#ch9), [§9.3](#s9-3);
 - the offices and the catechism service in which the office hymns were sung:
   [Chapter 10](#ch10), §§[10.7](#s10-7), [10.10](#s10-10);
-- the Litany: [Chapter 13](#ch13), [§13.22](#s13-22);
+- the Litany: [Chapter 13](#ch13), [§13.21](#s13-21);
 - the feasts and seasons: [Chapter 12](#ch12), §§[12.10](#s12-10),
   [12.12](#s12-12);
 - the prayer before the sermon and the sermon itself: [Chapter 11](#ch11),
@@ -28259,7 +28260,7 @@ without its tropes (Sehling 12, pp. 377–380).
 
 **Printed in full.** One Latin troped Kyrie is printed whole in the corpus. At Hof the Holy Week
 Matins survived as "the evening office, formerly called Tenebrae", on the Wednesday, Thursday
-and Friday of Holy Week ([§13.21.4](#s13-21-4)). After the sermon the Kyrie was sung with three
+and Friday of Holy Week ([§13.23.4](#s13-23-4)). After the sermon the Kyrie was sung with three
 tropes, each sung by a master of the school, between the acclamations of the boys. **Hof, *Ordo
 ecclesiasticus*, 1592** (Sehling 11, p. 416):
 
@@ -29548,7 +29549,7 @@ thereupon the choir singeth the sequence of the season: "Keep us, Lord, by thy w
 something German.
 
 The Litany as a rite, with its forms, singers and days, is treated in
-[Chapter 13](#ch13), [§13.22](#s13-22).
+[Chapter 13](#ch13), [§13.21](#s13-21).
 
 #### <a id="s8-8-10"></a>8.8.10 How fixed the slot was
 
@@ -34477,7 +34478,7 @@ asks:
 **Related chapters.** Several passages are treated more fully elsewhere and are only cited here:
 - the organ and polyphony at the introit and other propers:
   [Chapter 4](#ch4), §§[4.4.5](#s4-4-5), [4.10.4](#s4-10-4)–[4.10.5](#s4-10-5);
-- the organ and figural music at the office: [Chapter 10](#ch10), [§10.9.4](#s10-9-4);
+- the organ and figural music at the office: [Chapter 10](#ch10), [§10.11.4](#s10-11-4);
 - choir, people and organ in the hymns: [Chapter 8](#ch8),
   §§[8.14.7](#s8-14-7), [8.18.9](#s8-18-9);
 - figural music, the organ and bells as marks of feast rank:
@@ -34793,7 +34794,7 @@ Schweinfurt 1576 likewise has "the organist begin to play the Sunday Kyrie, whic
 singeth after", and at the Sunday introit the organist "beginneth to play the introit, which the
 choir singeth after, as is customary" (Sehling 11, pp. 647–648). At Hof the organist "always
 first plays the melody" of each verse of the German *Magnificat*
-(Sehling 11, p. 429; see [Chapter 10](#ch10), [§10.9.4](#s10-9-4)).
+(Sehling 11, p. 429; see [Chapter 10](#ch10), [§10.11.4](#s10-11-4)).
 
 **"Präambuliret der organist".** The fullest late example is not a sixteenth-century order. It
 is a service order sent by the council of Bischofswerda to its cantor in 1676, printed by
@@ -35950,7 +35951,7 @@ sung (Sehling 15, p. 452, editor's note), but that is nineteenth-century evidenc
 the order.
 
 The Litany itself is treated in [Chapter 13](#ch13),
-[§13.22](#s13-22).
+[§13.21](#s13-21).
 
 #### <a id="s9-5-6"></a>9.5.6 Bells for the dead
 
@@ -36343,7 +36344,7 @@ Kirchenordnungen des XVI. Jahrhunderts*. The medieval cursus had eight offices:
 - Compline (*completorium*).
 
 Beside them the church sang an additional office for the departed, the **Office of the Dead**
-(*officium defunctorum*), which the orders call the vigil ([§10.12](#s10-12)).
+(*officium defunctorum*), which the orders call the vigil ([§10.9](#s10-9)).
 
 The chapter asks:
 - Did the Lutherans reduce the system to two offices, morning and evening, as Luther is often
@@ -36354,9 +36355,9 @@ The chapter asks:
 - Were there **prayer obligations** on pastors, vicars or students?
 - **What did the offices look like?** Do the orders set out their liturgy?
 - Were they sung in **Latin, German, or both**?
-- Was the **medieval chant** kept, or were the pieces reset with new music?
-- What did the new **catechism service** look like? How long was it, and what was its order?
 - What became of the **Office of the Dead**, the vigil sung for the departed?
+- What did the new **catechism service** look like? How long was it, and what was its order?
+- Was the **medieval chant** kept, or were the pieces reset with new music?
 
 **How the chapter is laid out.**
 - [§10.1](#s10-1) summarizes the findings, and [§10.2](#s10-2) sets out the method and cautions.
@@ -36367,14 +36368,15 @@ The chapter asks:
 - [§10.6](#s10-6) asks who prayed the offices, and what obligations were laid on whom.
 - [§10.7](#s10-7) describes the shape of the reformed offices, with the *preces*, suffrages and Litany
   ([§10.7.5](#s10-7-5)).
-- [§10.8](#s10-8) deals with language, and [§10.9](#s10-9) with the music.
+- [§10.8](#s10-8) deals with language.
+- [§10.9](#s10-9) follows the Office of the Dead, the vigil sung for the departed: what it was,
+  why and how it was abolished, and what of it survived at funerals.
 - [§10.10](#s10-10) describes the catechism service: its origins, hour and length, and its order in the
   Lutheran and Reformed churches, with a comparative table.
-- [§10.11](#s10-11) gathers the ceremonial of the offices and the catechism service: kneeling, the Litany
+- [§10.11](#s10-11) deals with the music.
+- [§10.12](#s10-12) gathers the ceremonial of the offices and the catechism service: kneeling, the Litany
   before the altar, the two choirs, the place of the lesson, the children set in order, and the
   sign of the cross.
-- [§10.12](#s10-12) follows the Office of the Dead, the vigil sung for the departed: what it was,
-  why and how it was abolished, and what of it survived at funerals.
 - [§10.13](#s10-13) is a table by order, and [§10.14](#s10-14) a concordance.
 
 ### <a id="s10-1"></a>10.1 Summary of findings
@@ -36464,54 +36466,7 @@ The chapter asks:
 - **Both** in many towns and convents: a Latin lesson repeated in German, and Latin and German
   psalms in the same hour (Lüneburg 1574).
 
-**7. Music** ([§10.9](#s10-9)).
-- **The old chant kept.** The chapters sang from their medieval books. The old reciting and
-  lesson tones are prescribed, including the prophecy cadence.
-- **Reprinted.** From the 1540s the chant was purged and reprinted in the Lutheran antiphoners
-  of **Spangenberg** (1545) and **Lossius** (1553/1561). Mecklenburg c. 1560, Oldenburg 1573,
-  Lohr 1588 and Hof 1592 require them.
-- **New pieces beside the old**:
-  - German psalms sung to the old tones (Keppel 1570, from the Leipzig psalm-books);
-  - Luther's German *Te Deum* and the German *Magnificat*;
-  - polyphony at Vespers (Wittenberg 1533, Hof 1592);
-  - organ alternation (Pomerania 1569, Oldenburg 1573).
-
-**8. The catechism service** ([§10.10](#s10-10)). The Reformation added a service the old cursus did not have.
-- **When.** Usually Sunday at noon or one o'clock (Mecklenburg 1552; Neckarbischofsheim 1560;
-  Lippe 1571); sometimes early in the morning (Schwäbisch Hall 1543), inside Vespers (Naumburg
-  1537; Sangerhausen 1555; Thorn 1575), or as a recitation of the bare text in the morning
-  service (Strasbourg 1548, Moderate Reformed, on the Interim; Palatinate 1563, Reformed; Saxony
-  1580).
-- **How long.** Half an hour for the exposition or the examination (Hesse 1566, Moderate
-  Reformed; Thorn 1575; Emden 1565 and Palatinate 1601, Reformed), an hour at most for the whole
-  (Rostock c. 1560; Hohenlohe 1596).
-- **The order.** Bell; a catechism hymn; the Our Father or a prayer; the text of the chief parts
-  said by the pastor or recited by boys; one part expounded in course; the children examined by
-  question and answer; a prayer, often for the children; hymn and blessing (Neckarbischofsheim
-  1560; Hesse 1566, Moderate Reformed; Lippe 1571).
-- **The Reformed form.** The Heidelberg Catechism was divided into Sundays; the youth recited
-  the portion and the minister expounded the next, preaching it through yearly (Palatinate
-  1563). Hanau (1609, Reformed) examined the young in five classes, and kept the adults back
-  behind shut doors.
-
-**9. Ceremonial** ([§10.11](#s10-11)). The orders prescribe little for the body in the office.
-- **Kneeling** is the one gesture they ask for: for the short *preces* after the gospel canticle
-  (Bremen 1534), for *Veni sancte Spiritus* and *Da pacem* at Vespers (Pomerania 1569), for the
-  closing collects (Stolberg-Königstein 1552), and at the opening of the Reformed morning and
-  evening prayer (Palatinate 1563, Reformed, softened to "humble ourselves" in 1601).
-- **The Litany** was sung by two to four boys kneeling before the altar, the choir and people
-  answering (Schwarzburg 1574; Waldeck 1556; Marggrabowa 1581).
-- **The choir** sang from stalls set facing, verse about verse (Mecklenburg convents 1572); the
-  lesson was read from the pulpit, a lectern or before the altar (Coburg 1545; Herpf 1566).
-- **The catechism service** has the most stage directions: the minister at the altar, the
-  children brought into the middle of the church, boys and girls apart (Henneberg 1582), set in
-  facing pairs or "as it were in two choirs" (Schönburg 1542; Strasbourg 1598), standing on
-  stools to recite (Regensburg 1567), or kneeling with folded hands to pray (Heilbronn 1543).
-- **Not found**: bows at the *Gloria Patri*, standing for the canticles, incense, hats, and the
-  sign of the cross in choir. The cross survives only in the household blessing of the Small
-  Catechism, defended in Kurland (1570) and struck from the draft in Pfalz-Zweibrücken (1557).
-
-**10. The Office of the Dead** ([§10.12](#s10-12)). Beside the hours the medieval church sang
+**7. The Office of the Dead** ([§10.9](#s10-9)). Beside the hours the medieval church sang
 the vigil, an office of Vespers, Matins and Lauds for the departed, endowed and paid.
 - **Abolished.** No evangelical order kept it as an office for the dead. The grounds:
   - it does not help the dead (Pomesania 1524; Saxony 1528; Heilbronn 1530);
@@ -36539,6 +36494,53 @@ the vigil, an office of Vespers, Matins and Lauds for the departed, endowed and 
   kin (Brenz 1527), and above all the funeral sermon, "instead of the vigils"
   (Wittgenstein 1555).
 
+**8. The catechism service** ([§10.10](#s10-10)). The Reformation added a service the old cursus did not have.
+- **When.** Usually Sunday at noon or one o'clock (Mecklenburg 1552; Neckarbischofsheim 1560;
+  Lippe 1571); sometimes early in the morning (Schwäbisch Hall 1543), inside Vespers (Naumburg
+  1537; Sangerhausen 1555; Thorn 1575), or as a recitation of the bare text in the morning
+  service (Strasbourg 1548, Moderate Reformed, on the Interim; Palatinate 1563, Reformed; Saxony
+  1580).
+- **How long.** Half an hour for the exposition or the examination (Hesse 1566, Moderate
+  Reformed; Thorn 1575; Emden 1565 and Palatinate 1601, Reformed), an hour at most for the whole
+  (Rostock c. 1560; Hohenlohe 1596).
+- **The order.** Bell; a catechism hymn; the Our Father or a prayer; the text of the chief parts
+  said by the pastor or recited by boys; one part expounded in course; the children examined by
+  question and answer; a prayer, often for the children; hymn and blessing (Neckarbischofsheim
+  1560; Hesse 1566, Moderate Reformed; Lippe 1571).
+- **The Reformed form.** The Heidelberg Catechism was divided into Sundays; the youth recited
+  the portion and the minister expounded the next, preaching it through yearly (Palatinate
+  1563). Hanau (1609, Reformed) examined the young in five classes, and kept the adults back
+  behind shut doors.
+
+**9. Music** ([§10.11](#s10-11)).
+- **The old chant kept.** The chapters sang from their medieval books. The old reciting and
+  lesson tones are prescribed, including the prophecy cadence.
+- **Reprinted.** From the 1540s the chant was purged and reprinted in the Lutheran antiphoners
+  of **Spangenberg** (1545) and **Lossius** (1553/1561). Mecklenburg c. 1560, Oldenburg 1573,
+  Lohr 1588 and Hof 1592 require them.
+- **New pieces beside the old**:
+  - German psalms sung to the old tones (Keppel 1570, from the Leipzig psalm-books);
+  - Luther's German *Te Deum* and the German *Magnificat*;
+  - polyphony at Vespers (Wittenberg 1533, Hof 1592);
+  - organ alternation (Pomerania 1569, Oldenburg 1573).
+
+**10. Ceremonial** ([§10.12](#s10-12)). The orders prescribe little for the body in the office.
+- **Kneeling** is the one gesture they ask for: for the short *preces* after the gospel canticle
+  (Bremen 1534), for *Veni sancte Spiritus* and *Da pacem* at Vespers (Pomerania 1569), for the
+  closing collects (Stolberg-Königstein 1552), and at the opening of the Reformed morning and
+  evening prayer (Palatinate 1563, Reformed, softened to "humble ourselves" in 1601).
+- **The Litany** was sung by two to four boys kneeling before the altar, the choir and people
+  answering (Schwarzburg 1574; Waldeck 1556; Marggrabowa 1581).
+- **The choir** sang from stalls set facing, verse about verse (Mecklenburg convents 1572); the
+  lesson was read from the pulpit, a lectern or before the altar (Coburg 1545; Herpf 1566).
+- **The catechism service** has the most stage directions: the minister at the altar, the
+  children brought into the middle of the church, boys and girls apart (Henneberg 1582), set in
+  facing pairs or "as it were in two choirs" (Schönburg 1542; Strasbourg 1598), standing on
+  stools to recite (Regensburg 1567), or kneeling with folded hands to pray (Heilbronn 1543).
+- **Not found**: bows at the *Gloria Patri*, standing for the canticles, incense, hats, and the
+  sign of the cross in choir. The cross survives only in the household blessing of the Small
+  Catechism, defended in Kurland (1570) and struck from the draft in Pfalz-Zweibrücken (1557).
+
 ---
 
 ### <a id="s10-2"></a>10.2 Scope, sources and cautions
@@ -36559,7 +36561,7 @@ and for the books and music (*Lossius*, *Spangenberg*, *Cantional*, *Noten*, *To
 distance of *singen*, *Gesang*, *Psalm*, *Gebet*, *Glocke*, *läuten*, *Uhr*, *Stunde* and
 *Segen*. The passages were then read in context.
 
-For the Office of the Dead ([§10.12](#s10-12)) it was searched for *Vigilie*, *Vigilien*,
+For the Office of the Dead ([§10.9](#s10-9)) it was searched for *Vigilie*, *Vigilien*,
 *vigiliae*, *officium defunctorum*, *Totenoffizium*, *Seelmesse*, *Begängnis*, *Jahrtag*,
 *Dreißigster*, *Allerseelen* and *die animarum*, for the names *Placebo* and *Dirige*, and for
 the chants *Redemptor meus*, *Ego sum resurrectio*, *Si enim credimus* and *lectiones ex Hiob*.
@@ -36576,7 +36578,7 @@ the chants *Redemptor meus*, *Ego sum resurrectio*, *Si enim credimus* and *lect
 - [Chapter 11](#ch11) covers the Vespers sermon and the weekday sermons
   (§§[11.4.1](#s11-4-1)–[11.4.3](#s11-4-3), [11.5.2](#s11-5-2)), and the funeral sermon
   ([§11.4.6](#s11-4-6)).
-- [Chapter 13](#ch13) covers the Litany ([§13.22](#s13-22)) and funerals and burial
+- [Chapter 13](#ch13) covers the Litany ([§13.21](#s13-21)) and funerals and burial
   ([§13.9](#s13-9)).
 - [Chapter 9](#ch9) covers the organ at the
   office and the daily prayer bells (§§[9.3](#s9-3), [9.5.3](#s9-5-3)).
@@ -37264,7 +37266,7 @@ At the Cistercian convent of Leeden in Tecklenburg (1585) the conventuals and th
 meet "with their pastor every day in the morning at seven o'clock in the convent church". There
 they say the morning prayer, sing a psalm, and hear a chapter of the Bible read and briefly
 expounded by the pastor (Sehling 22, p. 247). At Keppel (1570) the preacher is to teach the nuns
-the melodies of the German psalms ([§10.9.2](#s10-9-2)).
+the melodies of the German psalms ([§10.11.2](#s10-11-2)).
 
 #### <a id="s10-6-4"></a>10.6.4 The congregation
 
@@ -37421,7 +37423,7 @@ Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common featur
   Danish version. He does not forbid the words ("who would forbid it?"), but they are prayed
   "against the persecutors of the Church", and those are now the very men "who say *Deus in
   adiutorium* so many times a day" (Sehling 4, p. 350, n. 1);
-- the **Office of the Dead**, the vigils (Pomerania 1535; [§10.12](#s10-12)).
+- the **Office of the Dead**, the vigils (Pomerania 1535; [§10.9](#s10-9)).
 
 **Shortened:**
 - **three psalms** for Matins and three for Vespers (Luther 1523; Bugenhagen; Spandau 1541);
@@ -37642,7 +37644,7 @@ dead among things "contrary to the word of God" (Sehling 7/1, p. 229).
 *pro peccatis* (above). The Transylvanian Saxons kept three suffrages, for the king, for the
 remission of sins and for peace, with their versicles and collects, after the Creed in the
 service that replaced the Mass when no one communed
-(Sehling 24, p. 223; [Chapter 13](#ch13), [§13.22.1](#s13-22-1)).
+(Sehling 24, p. 223; [Chapter 13](#ch13), [§13.21.1](#s13-21-1)).
 
 The suffrage for peace survived most widely as the *Da pacem* in Latin and German, with a
 collect *pro pace*, after the *Magnificat* (Dresden, Kreuzkirche 1574, Sehling 1, p. 555;
@@ -37744,7 +37746,7 @@ of praise, as the Litany, or *Mitten wir im Leben sind*, or *Da pacem Domine*", 
 office, and no order uses *suffragia* in the liturgy for anything but the saints' commemorations
 or the three intercessions for peace, sins and the ruler. The Mass and the weekday prayer
 services, where the Litany was most at home, are treated in
-[Chapter 13](#ch13), [§13.22](#s13-22).
+[Chapter 13](#ch13), [§13.21](#s13-21).
 
 ---
 
@@ -37884,167 +37886,702 @@ morning, "since the choir virgins grow daily older and more infirm" (Sehling 6/1
 
 ---
 
-### <a id="s10-9"></a>10.9 The music
+### <a id="s10-9"></a>10.9 The Office of the Dead
 
-#### <a id="s10-9-1"></a>10.9.1 The old chant kept
+Beside the eight hours of the day the medieval church sang an office for the departed, the
+Office of the Dead (*officium defunctorum*). The orders call it the **vigil** (*Vigilie*,
+*vigilia*; in Low German *vigilie*). It had three hours of its own: Vespers, Matins and Lauds.
+It was sung on the evening or in the night before a requiem Mass:
+- before the burial;
+- on the third, seventh and thirtieth days after it;
+- at the anniversary.
 
-**"Out of the former choir books."** The chapters kept their medieval chant books. Brandenburg
-1540 orders the office sung "according to each bishopric's Breviary, out of the former choir
-books" ([§10.4.2](#s10-4-2)). Verden cathedral in 1606 still sings Vespers "as the old order bringeth with it"
-(Sehling 7/1, p. 153). The convents kept their Breviaries, corrected (Spandau 1541; Lüneburg
-1555, [§10.4.4](#s10-4-4)). The Keppel order of 1570 refers its nuns to "their Breviary" for the feasts.
+Endowments paid for it, and priests, vicars and the school sang it. No evangelical order kept
+it as an office for the dead.
 
-**The old tones.** The orders also keep the old reciting tones:
-- **Pfalz-Neuburg 1543**: even when the nuns psalm in German, they are to do it "in the
-  customary tone, as they are wont in Latin" ([§10.8.2](#s10-8-2)).
-- **Bugenhagen**: the lessons are sung "with such a tone as one is wont to read lessons at
-  Matins", with the cadence of the old prophecy tone, "*sol sol sol la sol fa fa*"
-  (Sehling 6/1, p. 400; Sehling 4, p. 349).
-- **Wittenberg 1533**: the boys end each lesson "as one was wont to read or sing the prophecies,
-  *sol sol mi fa sol sol*" (Sehling 1, p. 703; see [Chapter 4](#ch4),
-  [§4.5.1](#s4-5-1)).
-- **Prussia 1568**: the Latin lesson is read "*in usitato tono*", the German one "without tone"
-  ([§10.6.1](#s10-6-1)).
+This section asks:
+- what the orders and Sehling's editors say the vigil was ([§10.9.1](#s10-9-1));
+- on what grounds it was abolished ([§10.9.2](#s10-9-2)), and by what steps
+  ([§10.9.3](#s10-9-3));
+- what became of it in the chapters, the convents and the schools ([§10.9.4](#s10-9-4));
+- what of it survived at funerals ([§10.9.5](#s10-9-5)), and what took its place
+  ([§10.9.6](#s10-9-6)).
 
-#### <a id="s10-9-2"></a>10.9.2 The new chant books: Spangenberg and Lossius
+[§10.9.7](#s10-9-7) gives a summary by order. The funeral as a whole is treated in
+[Chapter 13](#ch13), [§13.9](#s13-9), the funeral sermon in [Chapter 11](#ch11),
+[§11.4.6](#s11-4-6), and the bells for the dead in [Chapter 9](#ch9), [§9.5.6](#s9-5-6).
 
-**The Lutheran antiphoners.** From the 1540s the old office chant reached Lutheran schools and
-churches in two printed Lutheran collections:
-- Johann Spangenberg's *Cantiones ecclesiasticae latinae … Kirchengesenge Deudsch* (Magdeburg
-  1545);
-- Lucas Lossius's *Psalmodia, hoc est, cantica sacra veteris ecclesiae selecta* (Nürnberg 1553,
-  with a preface by Melanchthon; second edition Wittenberg 1561).
+#### <a id="s10-9-1"></a>10.9.1 What the vigil was
 
-Both preserved the medieval antiphons, responsories, hymns and psalm tones, purged of what was
-*de sanctis*. Several orders require them by name. **Mecklenburg, *Conformitas ceremoniarum*, c.
-1560** (Sehling 5, p. 288):
+**The orders do not describe it.** They name the vigil only to abolish it, and none sets out its
+order. Of its content they say only that it was made of psalms and of "the words of blessed Job"
+(Pomerania 1535, [§10.9.2](#s10-9-2)), or of "the psalms and lessons out of holy Job that are
+sung in the vigil" (Mülhausen 1528, Reformed, [§10.9.3](#s10-9-3)).
 
-<!-- doc 1936 -->
-> Es wird für gut angesehen und notig eracht, das man in allen kirchen halten sol Lucae Lossii
-> psalmodia und sol sich das chor darnach richten.
+**Sehling's editors explain it.** Their notes give this picture:
+- **An office of the Breviary.** The vigil "is in this context the office of the dead, a prayer
+  service of the Breviary, which is distinguished from the soul-Mass (*missa de requiem*) and
+  like it was endowed to be repeated, mostly on the anniversary of the death" (Ansbach 1526,
+  editors' note, Sehling 11, p. 94; repeated for Hohenlohe 1553, Sehling 15, p. 68).
+- **Three hours.** "Since the early Middle Ages the custom had grown up in the monasteries of
+  reading for the dead, beside the ordinary hours, a special office, which consisted of
+  Vespers, Matins and Lauds" (Braunschweig-Wolfenbüttel 1569, editors' note, Sehling 6/1,
+  p. 312).
+- **The name.** The *vigiliae* "are here offices of the dead held after the manner of a vigil
+  (the eve of a higher feast)" (Nördlingen 1525, editors' note, Sehling 12, p. 305).
+- **When it was sung.** The vigils were "held with antiphons, psalms and prayers in the night
+  before the burial, at the coffin in the church, and repeated on the third, seventh and
+  thirtieth day after the burial and on the anniversary" (Marienhafe 1593, editors' note,
+  Sehling 7/1, p. 722). At Nuremberg the office was held "after the body had been brought into
+  the church" (Veit Dietrich 1545, editors' note, Sehling 11, p. 528).
+- **The anniversary.** "The anniversary was usually made up of the vigil and the anniversary
+  Mass. Vigil was the name of the office of the dead held on the evening before the soul-Mass."
+  After the office the grave was visited, if it lay in or by the church, and the Mass followed
+  the next morning. The names of the dead were kept in "anniversary books" (Mülhausen 1524,
+  Reformed, editors' note, Sehling 20/2, p. 197).
 
-It is deemed good and held necessary that Lucas Lossius's *Psalmodia* be kept in all churches,
-and that the choir order itself thereafter.
+**The Roman form.** Sehling prints no text of the office. For orientation, the Roman form of it
+had the following (this is not from the corpus):
+- Vespers is named *Placebo* from its first antiphon,
+  *Placebo Domino in regione vivorum* (Psalm 116:9), and Matins *Dirige* from its first,
+  *Dirige, Domine Deus meus, in conspectu tuo viam meam* (Psalm 5:8).
+- The nine lessons of Matins are from Job. The first responsory is *Credo quod Redemptor meus
+  vivit* (Job 19:25–27).
+- Lauds has the canticle of Hezekiah (Isaiah 38:10–20), and ends with the *Benedictus* and the
+  antiphon *Ego sum resurrectio et vita* (John 11:25–26).
 
-**Oldenburg 1573** wants "a right, pure cantional" in every church and school: "that of the old
-Master Johann Spangenberg or of Lucas Lossius, together with the German hymnbook of Dr Martin
-Luther". The organist alternates with the choir in the responsory, hymn and *Magnificat*.
-**Oldenburg, *Kirchenordnung*, 1573** (Sehling 7/2.1, p. 1085):
+The names *Placebo* and *Dirige* do not occur in the corpus. The responsory from Job and the
+canticles of Lauds reappear in the evangelical funeral ([§10.9.5](#s10-9-5)).
 
-<!-- doc 2149 -->
-> Wo orgeln sind, sol nach den psalmen der organist ein moteten spielen, darauf die lectio
-> gelesen wird, nach welcher der organist das responsorium oder hymnum sol anfahen
-> fortzuschlahen, wie sich denn alwegen dergegen der schulmeister und organist miteinander
-> vergleichen sollen, und alsdenn in dem Magnificat ein vers umb den andern schlagen und singen.
-> Zu der behülf ist vonnöten, das in allen kirchen und schulen ein rechtes, reines cantional
-> stetigs zur hand sey, als nemlich des alten herrn Johan. Spangebergii oder Lucae Lossii sampt
-> dem deudschen gesangbuch D. Martini Lutheri.
+**Brenz's account of its origin.** Brenz explained the vigil from the first church, as a night
+watch at the grave that later ages took for a work for the dead. **Schwäbisch Hall,
+*Kirchenordnung*, 1527** (Sehling 17/1, p. 60):
 
-Where there are organs, the organist shall play a motet after the psalms, whereupon the lesson
-is read; after which the organist shall begin to play the responsory or hymn, as the
-schoolmaster and organist shall always agree with one another thereon; and then in the
-*Magnificat* play and sing one verse after the other. To this end it is needful that in all
-churches and schools a right, pure cantional be always at hand, namely that of the old Master
-Johann Spangenberg or of Lucas Lossius, together with the German hymnbook of Dr Martin Luther.
+<!-- doc 755 -->
+> Man hat biß hieher fur die todten vigilien und meß gehalten. Das hat wol zum tail in der
+> ersten kirchen sein guten anfang gehapt, ist doch durch die aigennutzigen, unverstendigen in
+> ein ergerlichen mißbrauch erwachsen, da anfengklich, wen einer auß den Cristen gemartert wurd
+> oder sunst starb, auß großer lieb, so die Cristen zu einander trugen, pliben die lebendigen
+> bey dem grab des mertlers oder abgestorbnen eins teils der nacht, daher es ein vigilia, zu
+> teutsch ein wacht, genent ward. Morgens hielten sie in der kirchen by dem altar, darvon das
+> Sacrament geraicht wurd, des abgestorbnen gedechtnus, sein seel bevelhend in die hendt
+> gottes, welchs die nachvolgenden ersehen und gemeint haben, das wachen oder vigilien geschehe,
+> die todten auß dem fegfewer zuerloßen. So doch es allein war ein werck der lebendigen lieb
+> gegen dem abgestorben anzaigend, wie ytz by uns ist das geen mit der leicht, welchs wol dem
+> todten kein nutz bringt, ist aber ein burgerlich werck, die lieb gegen dem abgestorben
+> beweyssend.
 
-**Lohr, 1588.** First Vespers of Sundays and feasts are sung in Latin, "according to the order
-of Lossius's *Psalmodia*, as they are noted for every occasion". **Rieneck, *Vesperordnung zu
-Lohr*, 1588** (Sehling 11, p. 699):
+Hitherto vigils and Masses have been held for the dead. This had indeed in part its good
+beginning in the first church, but it hath grown through self-seeking and ignorant men into an
+offensive abuse. For in the beginning, when one of the Christians was martyred or otherwise
+died, the living, out of the great love which the Christians bare one to another, abode by the
+grave of the martyr or of the departed a part of the night; whence it was called a *vigilia*, in
+German a watch. In the morning they held in the church, at the altar from which the Sacrament
+was given, the remembrance of the departed, commending his soul into the hands of God. This
+they that came after saw, and supposed that the watching or vigils were done to deliver the
+dead out of purgatory; whereas it was only a work of the living, showing their love toward the
+departed, as with us now is the going with the corpse, which bringeth indeed no profit to the
+dead, but is a civil work, showing love toward the departed.
 
-<!-- doc 318 -->
-> (damit die jugent im psalliren und choralgesang, wie in allen kirchen gebreuchlich, geüebet
-> werde) mit lateinischen psalmen, responsoriis, hymnis, Magnificat, collectis, versiculis,
-> Benedicamus und anderm nach ordnung der psalmodiae L. Lossii, wie dieselben nach erheischung
-> jederzeit notiert und bisher in brauch und uebung gewesen, gesungen und gehalten werden
+**Heilbronn 1530** gives the same account, in the confession that the city addressed to the
+Emperor (*Confessio Heilbronnensis*):
+- The vigils came "out of the first church". When the dead were buried by night or early in the
+  morning, the living watched, and were comforted "with psalms and divine sayings", that they
+  should not grieve "as if there were no resurrection".
+- Lights were burned "that one might see in the darkness", and alms were given to the poor
+  through the deacons.
+- "But such godly use of the first church is changed into an unprofitable service, to help the
+  souls of the departed" (Sehling 17/1, pp. 278–279).
 
-(that the youth be exercised in psalmody and plainchant, as is customary in all churches) [it
-shall] be sung and kept with Latin psalms, responsories, hymns, *Magnificat*, collects,
-versicles, *Benedicamus* and the rest, according to the order of L. Lossius's *Psalmodia*, as
-the same are noted for every occasion and have hitherto been in use and practice
+**A paid office.** The vigil was endowed, and those who sang it were paid:
+- At Wittenberg each priest had about eight gulden a year "from the vigils which they hold"
+  (1522; [§10.9.3](#s10-9-3)).
+- At Mülhausen the clergy drew "presence money" for attending the anniversary Masses, the
+  vigils and the canonical hours (editors' introduction, Sehling 20/2, p. 161). In 1528 the
+  preachers would let the vigil psalms be sung only "without the desire of the presence money"
+  (Sehling 20/2, p. 209).
+- At Goslar the commons complained in 1525 that the presence money at the vigils for the dead
+  had doubled, because the absent priests were counted in (editors' introduction,
+  Sehling 7/2.2, p. 184).
+- The school sang with the priests. Donauwörth in 1545 freed the schoolmaster and scholars from
+  "the singing of the soul-Masses and vigils" ([§10.9.4](#s10-9-4)).
 
-Other orders cite Lossius too:
-- **Hof 1592** cites antiphons "in Lossius's *Psalmodia*" and "in the great thin antiphoner"
-  (Sehling 11, p. 422).
-- **Lüneburg 1575** refers to "Lossius's book" for the festal Compline (Sehling 6/1, p. 658).
-- **Buxtehude 1565** takes its noted pieces from Lossius's second edition
-  (Sehling 7/1, p. 67, introduction).
+#### <a id="s10-9-2"></a>10.9.2 Why it was abolished
 
-#### <a id="s10-9-3"></a>10.9.3 German psalm tones
+**Luther.** Luther's preface to his burial hymns of 1542 puts the evangelical case in two
+sentences. Sehling's editors quote it in a note to the Harlingerland order. **Harlingerland,
+*Kirchenordnung*, 1573/74, editors' note quoting Luther** (Sehling 7/1, p. 741):
 
-**Keppel, 1570.** The German office at Keppel is sung from the printed German psalm-books with
-their notes. The preacher is to teach the nuns the melodies. **Nassau-Dillenburg, *Ordnung für
-das Kloster Keppel*, 1570** (Sehling 10, p. 133):
+<!-- doc 2122 -->
+> Demnach haben wir in unsern kirchen die bepstlichen greuel, als vigilien, seelmessen,
+> begengnis, fegfeur und alles ander gaukelwerk, fur die todten getrieben, abgetan und rein
+> ausgefegt. Und wollen unser kirchen nicht mehr lassen klagheuser oder leidestete sein,
+> sondern, wie es die alten veter auch genennet, koemiteria, das ist, fur schlaffheuser und
+> rugestete halten.
 
-<!-- doc 181 -->
-> Es sollenn auch die zwen chore einen verß umb den andern singen unnd die tonos verendern, wie
-> dan dieselbige inn […] den teutschen psalmen buchern, so zu Leypzig außgangen, mit iren noten
-> unnd melodien beschrieben seindt, hierinnen soll sie der prediger underweisen, das sie die
-> melodien und noten konnen lernen.
+Accordingly we have in our churches done away and clean swept out the popish abominations, as
+vigils, soul-Masses, *Begängnis*, purgatory and all other jugglery practised for the dead. And
+we will no more let our churches be houses of wailing or places of mourning, but, as the old
+fathers also named them, *coemeteria*, that is, hold them for sleeping-houses and
+resting-places.
 
-The two choirs also shall sing one verse after the other, and change the tones, as the same are
-written down with their notes and melodies in […] the German psalm-books that have come out at
-Leipzig; herein shall the preacher instruct them, that they may learn the melodies and notes.
+The orders give four grounds.
 
-Sehling's editor identifies the book as probably Luther's hymnbook printed by Valentin Babst at
-Leipzig in 1545 (Sehling 10, p. 133, n. 13). Here the old psalm tones carry the German psalter.
+**1. The dead are not helped.**
+- **Pomesania 1524**: "there shall henceforth be no ringing nor singing nor Mass nor vigils held
+  over the dead; for it is of no profit to them, neither are they helped thereby". The next
+  article forbids holding exequies or *Begängnis* over the dead, or praying for them (Sehling 4,
+  p. 29).
+- **Saxony 1528**: "if the soul-Masses, vigils and the like availed, one could put away sin by
+  works" (Sehling 1, p. 164).
+- **Heilbronn 1530**: the psalms and the prophets are given "for our comfort" by the Holy Ghost.
+  But the dead can no longer be made fit for good by teaching and correction: "how then may that
+  profit them which is read or sung for their sake in the vigils?" (Sehling 17/1, p. 278).
+- **Wolfstein 1574**: no vigils, soul-Masses or *Begängnis* for the dead "to help the departed
+  out of purgatory: for such is in vain" (Sehling 13, p. 586).
 
-**German canticles.** Luther's own German versions of the office canticles came into use beside
-the Latin:
-- the German *Te Deum* ("Herr Gott, dich loben wir"), sung at Wittenberg 1533 in alternation
-  between the choir and the people (Sehling 1, p. 705);
-- the German *Magnificat*, sung at Hof 1592 "in the sixth tone" (below).
+**2. Scripture misused for purgatory.** Bugenhagen made the charge in his order for the
+remaining canons and monks. **Pomerania, *Pia ordinatio caeremoniarum*, 1535** (Sehling 4,
+p. 350):
 
-#### <a id="s10-9-4"></a>10.9.4 Figural music and the organ
+<!-- doc 1857 -->
+> De vigiliis. Vigilias, quas vocant pro defunctis, non canant, quando nihil aliud sunt quam
+> abusus sanctissimorum psalmorum et verborum beati Joh; et isto abusu verborum dei non alio
+> respicitur quam in mendax illud et fictum purgatorium. Satis lusum est pro mercede
+> iniquitatis et Judae loculis. Posthac non irritemus dominum.
 
-**Polyphony at the office.**
-- **Wittenberg 1533**: "when the cantors sing *in figurativis*" at Vespers, they sing everything
-  with the *Magnificat* before the sermon, and on Sundays "after the *Benedicamus* let the boys
-  sing the *Nunc dimittis* *in figurativis* or in counterpoint" (Sehling 1, pp. 703, 705).
-- **Württemberg cloister schools, 1582 edition**: the singing is to be "directed to
-  counterpoint, whereby it is so much the lovelier and more understandable"
-  (Sehling 16, p. 366, apparatus).
-- **Hof 1592**: Vespers may be sung *figuraliter*. Its Saturday Vespers has the German
-  *Magnificat* in the sixth tone, with boys and girls in alternation and the organ between.
-  **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 429):
+Of vigils. Let them not sing the vigils, as they call them, for the dead, since they are nothing
+else than an abuse of the most holy psalms and of the words of blessed Job [the print has
+"Joh"]; and by this abuse of the words of God nothing else is looked to than that lying and
+feigned purgatory. Enough hath been played for the reward of iniquity and for the bag of Judas.
+Henceforth let us not provoke the Lord.
 
-<!-- doc 294 -->
-> Magnificat germanicum sexti toni per binos choros distinctis scholasticis canitur, videlicet
-> unus versus a pueris, alter a puellis, praemissa semper melodia ab organicine et tertio quoque
-> versu omisso. Si organorum usus non adhibetur, a dictis choris integrum Magnificat completur.
-> […] Si figuraliter vespertinus actus peragitur, I. psalmus, II. antiphonon, III. responsorium,
-> IIII. unus atque alter versus ex hymno, V. muteta ante concionem, VI. Magnificat certi toni
-> cantore regente canitur.
+- **Schleswig-Holstein 1542** repeats the ruling in Low German: the vigils are "nothing else
+  than a misuse of the holy psalms and of the words of Saint Job" (Sehling 23, p. 144).
+- **Pomerania's church order of 1535** allows nothing to be sung in the chapters and cathedrals
+  "of purgatory and of the redemption of souls through vigils and soul-Masses" (Sehling 4,
+  p. 342).
+- **Hamburg 1529** traces the vigils to 2 Maccabees 12:43–45, where Judas sends money to
+  Jerusalem for a sin offering for the fallen: "out of such ungrounded scripture the priests
+  have made the most of their vigils, when they pray for the dead" (Sehling 5, p. 520).
+- **The Palatinate in 1556** bids the pastors use no more "the vigils, the papal lays and other
+  such chants, though they be in part ill drawn out of holy Scripture" (Sehling 14, p. 112).
 
-The German *Magnificat* of the sixth tone is sung by two choirs, the scholars being divided,
-namely one verse by the boys, the other by the girls, the melody being always first played by
-the organist, and every third verse being omitted. If the organ is not used, the whole
-*Magnificat* is completed by the said choirs. […] If the Vesper service is performed figurally,
-[then] I. the psalm, II. the antiphon, III. the responsory, IIII. one or another verse of the
-hymn, V. a motet before the sermon, [and] VI. the *Magnificat* in a set tone are sung under the
-direction of the cantor.
+**3. Against God's word and the merit of Christ.** The Lüneburg articles put the vigils with the
+soul-Masses, the *Kalande* and the confraternities. **Lüneburg, *Artikelbuch*, 1527**
+(Sehling 6/1, p. 515):
 
-Hof's order notes that the plainchant pieces are written out for every Sunday and feast so that
-they can be used "when, perhaps because of public mourning, the songs of figural music have no
-place" (Sehling 11, p. 450).
+<!-- doc 1998 -->
+> De sösteynde artikel. Van vigilien, seelemyssen unde kalanden. Vigilien, seelemyssen, kalande
+> unde fraternitates Sancte Marie, Jacobi, Anne etc., darümme dat se Goddes worde strackes
+> entgegen synt, schollen nenerley wyse geholden werden. Desgelyken de drüttigesten unde
+> jardage genzlick affgedaen wesen.
 
-**The organ.** The organ alternated with the choir in the office, as in the Mass:
-- **Prussia 1568**: the organist "playeth one verse after the other" in the *Magnificat*, and a
-  piece after the *Nunc dimittis* (Sehling 4, p. 75).
-- **Pomerania 1569**: "where there are organs, the organist shall be at the organ after the
-  psalmody, and play to the responsory, hymn and *Magnificat*" (Sehling 4, p. 435).
-- **Oldenburg 1573** (above) and **Hoya 1581**: the organist "plays the hymn" ([§10.7.4](#s10-7-4)).
-- **Wittenberg castle, 1525**: the organ only "on Sunday to the *Te Deum laudamus*, and whenever
-  German songs are sung" (Sehling 1, p. 699).
+The sixteenth article. Of vigils, soul-Masses and *Kalande*. Vigils, soul-Masses, *Kalande* and
+the confraternities of St Mary, St James, St Anne, etc., because they are straight against God's
+word, shall in no wise be held. Likewise the thirtieth days and the anniversaries shall be
+wholly done away.
 
-**In sum.** The medieval office chant was neither abandoned nor wholly reset. In the chapters
-and convents it went on from the old books. In the schools and towns it was purged and reprinted
-in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
-- Luther's German canticles and hymns;
-- German psalms sung to the old tones;
-- by the later century, polyphony and organ alternation on Sundays and feasts.
+- **Calenberg-Göttingen 1542** calls the soul-Masses "with their vigils a pure abomination
+  before God" (Sehling 6/2, p. 760).
+- **Hohenlohe 1553**: soul-Masses, vigils, *Begängnisse* and anniversaries "diminish and darken
+  the suffering of Christ" (Sehling 15, p. 80).
+- **The Mecklenburg convent order of 1572**: "it is also open idolatry to hold *Begängnisse* for
+  the dead. For whoso hath fallen asleep in the Lord is already blessed" (Sehling 5, p. 254).
 
-The organ in the service as a whole is treated in
-[Chapter 9](#ch9), [§9.3](#s9-3).
+**4. Money.** After purgatory the commonest charge is money: Bugenhagen's "reward of iniquity"
+and "bag of Judas" (above). Hamburg 1529 says that grief for the dead "went not so much to the
+heart of their kin that they would bring much money, until purgatory came too". Then "they had
+to scream the pennies out of the purses, and lords and princes gave land and people thereto"
+(Sehling 5, p. 520).
+
+**Elsewhere.** Other orders abolish the vigils in passing, among them:
+- Nördlingen 1525, which puts away "the vigils for the dead and the Masses … from the church,
+  the sink of the former blasphemy" (Sehling 12, p. 298);
+- Strasbourg 1525 (Moderate Reformed), where the council abolished the soul-Masses and vigils
+  (editors' introduction, Sehling 20/1, p. 45);
+- Minden 1530: "that vigil, memorial and soul-Mass are against the Scripture" (Sehling 21,
+  p. 144);
+- Freiberg 1537 (Sehling 1, p. 466), Lippe 1538 (Sehling 21, p. 312) and Northeim 1539
+  (Sehling 6/2, p. 932);
+- Wurzen 1542 (Sehling 2, p. 98) and Teschen 1584 (Sehling 3, pp. 462–463).
+
+#### <a id="s10-9-3"></a>10.9.3 By stages
+
+The early orders moved by steps. They took the money away, left the vigil to the families, kept
+the old foundations for a time, or kept the texts and dropped the purpose.
+
+**Wittenberg 1522: from the vigils to the sick.** The Wittenberg order of January 1522 put the
+priests' vigil income into the common chest and gave them a new work for it. **Wittenberg,
+*Kirchen-Ordnung*, 1522** (Sehling 1, p. 697):
+
+<!-- doc 146 -->
+> Item die priester, die wir jetzund haben, dieweil ir zins auch in den gemainen kasten gezogen
+> seint, darvon sich jeder järlichen von den vigilien, die si halten, bei acht guldin gehabt
+> haben, söllen mit sechs guldin järlich versehen werden; dieweil dann die mess und vigilien
+> vergeen, mügent si für das selbig gelt arm krank leüt ersuchen, und in iren nöten trösten,
+> doch sollen sie niemant zu testamentarien bestellen noch halten.
+
+Item, the priests whom we now have, forasmuch as their rents also are drawn into the common
+chest, from which each hath had yearly about eight gulden from the vigils that they hold, shall
+be provided with six gulden yearly; and since the Masses and vigils pass away, they may for the
+same money visit poor sick folk and comfort them in their need; yet they shall appoint or keep
+no one as executor of a testament.
+
+**Coburg 1524: left to the families.** The Coburg proposal for the services ends: "With the
+departed it shall be as each one's kinsfolk please, how they will hold and purpose burial, vigil
+and soul-Mass; yet it shall be according to holy Scripture, and none shall be compelled
+thereto" (Coburg, *Gottesdienst-Ordnung*, 1524, Sehling 1, p. 543).
+
+**Mülhausen 1524 (Reformed): unchanged for now.** The council's first order for the services
+left "the vigils and anniversaries … unchanged for this time" (Sehling 20/2, p. 197). The order
+rested on the advice of Augustin Geschmus, chaplain of St Stephen's. He would have struck the
+anniversary Masses and vigils altogether, since Scripture tells nothing of offices for the dead.
+For the sake of "the weak" he advised for the time being only joining together the vigils that
+fell in one week. The council, unsure of the citizens, kept them all for the present (editors'
+introduction, Sehling 20/2, p. 163).
+
+**Ansbach 1526: kept until a council.** The margrave's diet kept the old foundations of
+soul-Masses, vigils and confraternities "until further action and decision of a common Christian
+council or national assembly, or our further answer" (Sehling 11, p. 94). No one was to be
+compelled to hold a *Begängnis* ([Chapter 13](#ch13), [§13.9.1](#s13-9-1)).
+
+**Mülhausen 1528 (Reformed): the texts kept, the purpose dropped.** Four years after the first
+order the preachers advised the council on the services. They would let the vigil's psalms and
+its lessons from Job stay in the church, in Latin, stripped of their additions and sung with
+understanding. No other text in the corpus goes so far. **Mülhausen, opinion of the people's
+priest and the three preachers on the services, 1528** (Reformed; Sehling 20/2, p. 209):
+
+<!-- doc 1381 -->
+> Darnach die Nonen und die Vesper, so man phlegt zu singen von der feria, auch daß Salve, so eß
+> deuttet auff Christum, auch die psalmen und leczen auß dem heligen Job, die man singet inn der
+> vigilien, on denn anderen ungegründten zusatz, mag man nitt verbietten, inn der kilchen auff
+> lateinisch zu brauchen, aber doch mitt dem geding, daß manß nitt thue wie bißher, on allen
+> glouben, verstand und andacht und mitt unseglichem eylenn und blapern, sunder mitt glouben,
+> verstand und andacht, on die begird der presentz, aber mitt der begird zu Gott, und langsam,
+> underschidlich und ordenlich.
+
+Thereafter the None and the Vespers, which are wont to be sung of the feria, also the *Salve*,
+so far as it pointeth to Christ, also the psalms and lessons out of holy Job which are sung in
+the vigil, without the other ungrounded additions, one may not forbid to be used in the church
+in Latin; yet on this condition, that it be not done as hitherto, without all faith,
+understanding and devotion, and with unspeakable haste and babbling, but with faith,
+understanding and devotion, without the desire of the presence money, but with desire toward
+God, and slowly, distinctly and in order.
+
+On Sundays one of the singers was then to read or expound to the people in German what had been
+sung in Latin (Sehling 20/2, p. 209). The weekday None, Vespers, vigil and *Salve* were to be
+held in the same way (Sehling 20/2, p. 210).
+
+**Heilbronn 1529: the bell stopped.** On All Souls' Day a councillor told the boy who was about
+to ring for the vigils in the morning to stop. The sexton was told to ring only for the early
+sermon and for baptisms, and never for the Mass or Vespers (editors' introduction,
+Sehling 17/1, pp. 225–226).
+
+**Heidelberg 1546: suspended, the rents kept.** The Palatine advice on reforming the collegiate
+churches decided that "all vigils and soul-offices shall henceforth stand still, until amendment
+be undertaken in this and in other things. Yet all rents and dues shall remain with the
+foundation", to be shared among those who served the church (Kurpfalz, *Bedenken zur
+Reformation der Stiftskirchen*, 1546, Sehling 14, p. 92).
+
+#### <a id="s10-9-4"></a>10.9.4 Chapters, convents and schools
+
+**The chapters.** The vigils were above all the work of the chapters and their vicars. The
+orders that reformed the hours in the chapters struck the vigils in the same breath:
+- **Goslar, St Simon and Judas, 1534**: the council's order for the canons' hours ends by
+  bidding them put away "all papist ceremonies and abuses, with vigils, soul-Masses and other
+  Masses", on pain of losing their prebends (Sehling 7/2.2, p. 264; [§10.4.2](#s10-4-2)).
+- **Pomerania 1535**: in the chapters and cathedrals nothing may be sung of the redemption of
+  souls "through vigils and soul-Masses" (Sehling 4, p. 342), and the *Pia ordinatio* forbids
+  the vigils ([§10.9.2](#s10-9-2)).
+- **Bonnus's order for the Osnabrück chapters, 1543**: "vigils and prayers for the dead … are to
+  be wholly omitted" (Sehling 7/1, p. 229; [§10.7.5](#s10-7-5)).
+- **Heidelberg 1546**: suspended ([§10.9.3](#s10-9-3)).
+
+**The convents.** The reform order for the nuns of Frankenberg at Goslar sets the old offices
+against "their hours". **Goslar, *Ordnung für das Frauenkloster Frankenberg*, 1542**
+(Sehling 7/2.2, p. 275):
+
+<!-- doc 2198 -->
+> Ex hoc omnes papisticas et monasticas ceremonias, officia divina, vigilias, missas pro vivis
+> et defunctis, omnem denique abusum intermittent; e contra autem suas horas legent aliasque
+> ceremonias ex praescripto amplissimi magistratus Goslariensis, divinis literis et puro putoque
+> dicto verbo conformes servabunt.
+
+From this time they shall leave off all papist and monastic ceremonies, divine offices, vigils,
+Masses for the living and the dead, in short every abuse; but on the other hand they shall read
+their hours, and keep the other ceremonies, as the most honourable magistrate of Goslar hath
+prescribed, conformable to the divine Scriptures and to the pure and plain word.
+
+- **The Calenberg convents, 1542**: "all corner-Masses, private Masses and soul-Masses shall be
+  done away, with the vigils and all that hath hitherto been done for the dead, since holy
+  Scripture maketh no mention at all of such things, and the right apostolic church knew nothing
+  of them" (Sehling 6/2, p. 852).
+- **Schaumburg, 1562**: the count bids the convents of Fischbeck and Obernkirchen leave off
+  "forthwith the papist sacrifice-Masses, vigils, soul-Masses and all other superstitious chants
+  and prayers that are contrary to the holy divine word" (Sehling 7/2.2, p. 60). The editors add
+  that the convent order had forbidden the *Salve regina*, the *Regina coeli*, the vigils and
+  the Masses for the dead (editors' introduction, Sehling 7/2.2, p. 35).
+
+**The psalter for the dead.** In the convents the office of the dead went with psalters prayed
+for the departed, often promised under seal to the convent's benefactors.
+Braunschweig-Wolfenbüttel releases the nuns from such vows in its report on the monasteries of
+1569. The release is spoken as Christ's own, "from heaven", to the nuns.
+**Braunschweig-Wolfenbüttel, *Christlicher und gründlicher bericht* on the convents, 1569**
+(Sehling 6/1, p. 334):
+
+<!-- doc 1978 -->
+> Item da eine jungfrau oder eine ganze samlung versprochen, auch deshalben brief und sigel von
+> sich gegeben hette, das sie jerliches etliche psalter für einen todten oder lebendigen
+> menschen beten wolten, wil ich sie hiemit auch von diesem gelübde absolvieren, das sie
+> solches nicht zu thun schuldig. Denn der psalter ist nicht darumb aufgeschrieben, auch von
+> Gott nicht darzu verordnet, das man denselben für die abgestorbenen sprechen und sie damit
+> aus dem fegfeur erlösen solte.
+
+Item, if a maiden or a whole convent had promised, and had given letter and seal for it, that
+they would pray yearly certain psalters for a dead or a living man, I will hereby absolve them
+also from this vow, so that they be not bound to do it. For the psalter is not written for
+this, neither ordained of God thereto, that one should say it for the departed and thereby
+deliver them out of purgatory.
+
+The Mecklenburg convent order of 1572 makes the same charge. The nuns had been made to sing the
+psalter "in an unknown Latin tongue, without all understanding and devotion", whence the
+proverb "thou readest even as a nun the psalter". Worse, they had sung it to "atone for their
+own and other folk's sins, and help the souls out of purgatory" (Sehling 5, p. 253).
+
+**The schools.** The school had sung with the priests at the vigils, and the reform freed it.
+**Donauwörth, *Kirchenordnung*, 1545** (Sehling 12, p. 160):
+
+<!-- doc 351 -->
+> Damit dann der schulmaister und die schuler an der lere dest minder verhindert und die beste
+> zeit nit ubel angelegt werde, so sollen weder schulmaister noch schuler furtan zu dem sang der
+> seelmessen und vigilien verbunden sein.
+
+So that the schoolmaster and the scholars be the less hindered in their learning, and the best
+time be not ill bestowed, neither schoolmaster nor scholars shall henceforth be bound to the
+singing of the soul-Masses and vigils.
+
+**The endowments.** What had been given for the vigils went to the common chest, and the clergy
+who lost their fees were paid from it:
+- Wittenberg 1522 ([§10.9.3](#s10-9-3)).
+- Hamburg 1529: the preachers are to remind those who "had hitherto given money for certain
+  Masses, vigils, wax lights" to turn it to the right service of God, "that is, to the profit of
+  the poor and into this chest" (Sehling 5, p. 533).
+- Württemberg 1536: the chest takes in all that was spent "on Masses, vigils, the eternal light"
+  (Sehling 16, p. 96; [Chapter 14](#ch14), [§14.5.4](#s14-5-4)).
+- Calenberg-Göttingen 1542: into "God's chest" falls "all that hath hitherto been ordained and
+  founded for vigils, soul-Masses, memorials, soul-gifts, stations, candles, lights, lamps,
+  doles and all confraternities" (instruction for the visitors, Sehling 6/2, p. 858).
+- Perleberg 1542: the pastor had lost "a notable part of his living" from vigils, soul-Masses
+  and other ceremonies. In its place he receives a measure of rye yearly and two gulden a
+  quarter from the common chest (Sehling 3, p. 245).
+
+#### <a id="s10-9-5"></a>10.9.5 What survived at the funeral
+
+The office as an office did not survive. Its name, its place at the house of mourning, and some
+of its chants lived on in the funeral.
+
+**The name.** At Ermsleben in 1564 the pastor still called the singing at the grave the vigil.
+**Ermsleben, *Kirchen-Ordnung der Stadt Ermsleben*, 1564** (Sehling 2, p. 486):
+
+<!-- doc 1260 -->
+> Die todten werden fein bekleidet und ehrlich durch die kirchendiener und alle schueler zu
+> grabe mit lateinischen und teutschen sengen getragen, dan lest man sie eine kleine zeit beim
+> grabe stehn und singt vor allem volk vigil und beschleust mit der collecte, dan setzt man die
+> leich ins grab. Darnach thut man eine kurze leichpredigt
+
+The dead are decently clothed, and carried honourably to the grave by the ministers of the
+church and all the scholars, with Latin and German songs; then they are let stand a little while
+by the grave, and the vigil is sung before all the people and concluded with the collect; then
+the corpse is set in the grave. Thereafter a short funeral sermon is made
+
+**At the house of the dead.** The vigil and the night watch by the body lived on at the house of
+mourning. In the Mark and in Mecklenburg the vigil was still sung there in the 1550s, and the
+visitors abolished it:
+- **Prenzlau 1557**: "Whereas hitherto the custom hath been that vigils were held before the
+  door, but without devotion, this shall be abolished." Instead the scholars carry a cross
+  before the corpse, at eight in the morning or two in the afternoon (Sehling 3, p. 261).
+- **Neubrandenburg 1559**: see the next quotation.
+- **Transylvania 1607**: the synod counts among the superstitions of funerals "that torches and
+  lights are kept burning whole nights by the dead not yet buried" (Sehling 24, p. 494).
+
+**Neubrandenburg, *Kirchenordnung* of the visitors, 1559** (Sehling 5, p. 269):
+
+<!-- doc 1929 -->
+> Zum achtzehnten. Wenn toten seint, hat man alhie ein heidschen gebrauch, helt nachtwache,
+> bredt das kalb und treibt viel superstitiones, wie die nicht alle konnen genennet werden, die
+> sollen hiemit ganz abgeschafft sein. Es soll auch in oder vor den heusern keine vigilie mehr
+> gesungen, besundern wenn die schuler komen, soll das leich fort heraus nach dem kirchove
+> getragen werden, und der cantor mit den schulern vorher und bei dem grabe singen, bis das der
+> corper begraben ist. Darnach soll der predicanten einer eine kurze vermahnung von des
+> menschen muhseligen leben und der frolichen auferstehung thuen.
+
+Eighteenthly. When there are dead, there is here a heathenish custom: they keep a night watch,
+roast the calf, and practise many superstitions, more than can all be named; these shall hereby
+be wholly abolished. Neither shall any vigil be sung any more in or before the houses; but when
+the scholars come, the corpse shall be carried straight out to the churchyard, and the cantor
+with the scholars shall go before and sing by the grave until the body be buried. Thereafter one
+of the preachers shall make a short exhortation of man's toilsome life and of the joyful
+resurrection.
+
+**Before the house, in Latin.** At Pirna the deacons still sang a set of Latin responsories
+before the house of the dead, and German hymns followed in the churchyard. **Pirna,
+*Kirchenordnung* of Anton Lauterbach, 1555** (Sehling 1, p. 644):
+
+<!-- doc 119 -->
+> Piis in Christo obdormientibus pulsus campanarum permittetur et ad sepulturam una campana
+> intonet ad convocandum populum ad funus, ad quod diaconus unus aut uterque, etiam pastor si
+> vocati adsint stantes ante domum latine cantent: Si bona suscepimus. Redemptor meus etc. Si
+> credimus etc. Media vita in morte sumus. Ecce mysterium magnum dico vobis. Cum venisset Jesus
+> in domum principis etc. In coemeterio populo collecto germanica canantur
+
+For the godly that fall asleep in Christ the ringing of the bells shall be permitted, and for
+the burial one bell shall sound, to call the people together to the funeral; at which one
+deacon or both, and the pastor also if they be called, standing before the house, shall sing in
+Latin: "If we have received good things"; "My Redeemer" etc.; "If we believe" etc.; "In the
+midst of life we are in death"; "Behold, I shew you a great mystery"; "When Jesus was come into
+the ruler's house" etc. In the churchyard, the people being gathered, German songs shall be sung
+
+**The responsory from Job.** One piece of the old Matins survived widely: the responsory *Credo
+quod Redemptor meus vivit*. The Braunschweig-Wolfenbüttel order of 1543 has the scholars sing it
+first of all before the bier, "with the verse and repetition", as a responsory is sung in the
+office. **Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543** (Sehling 6/1,
+pp. 67–68):
+
+<!-- doc 1972 -->
+> Doden begraven. De schöler mit einem edder mehr scholgesellen, mit der halven edder mit der
+> ganzen schole, darna yd bestellet und darvor gegeven werd, alse von olders gewonlick, scholen
+> vor der baren hergahn und singen int erste latinisch: Redemptor meus vivit etc. mit dem vers
+> und repetitien, wen dat uthe is, düdesch: Erbarm dy myn, o Here Got etc. Midden wy im leven
+> sind etc. Uth deper noth etc. By dem grave dat led: Nu lat uns dat lyff begraven etc. Edder
+> wat anders.
+
+Burying the dead. The scholars, with one or more of the school's assistants, with the half or
+with the whole school, according as it is bespoken and paid for, as hath been customary of old,
+shall go before the bier and sing first in Latin: "My Redeemer liveth" etc., with the verse and
+the repetition; when that is ended, in German: "Erbarm dich mein, o Herre Gott" etc., "Mitten
+wir im Leben sind" etc., "Aus tiefer Not" etc.; by the grave the hymn "Nun lasst uns den Leib
+begraben" etc.; or something else.
+
+- The editors identify the piece as the responsory *Credo quod Redemptor meus vivit* of the
+  office of the dead (Sehling 6/1, p. 68).
+- Hildesheim's town order of 1544 repeats the passage. Its editors call the piece a "responsory
+  from the office of the dead (after Job 19:25–27)" (Sehling 7/2.1, p. 866).
+- It stands also at Pirna (above), and in the Rostock *Conformitas* of about 1560 as *Scio quod
+  redemptor meus* (Sehling 5, p. 290).
+
+**The canticles of Lauds.** The Brandenburg-Nürnberg order of 1533 and the Pfalz-Neuburg order
+of 1543 sing at the burial the two canticles of the old Lauds of the dead, though they do not
+say so (the identification is this book's):
+- **Brandenburg-Nürnberg 1533** has the scholars sing the *Benedictus* or Psalm 90, with the
+  antiphon *Media vita* or *Ego sum resurrectio et vita* ([Chapter 13](#ch13),
+  [§13.9.3](#s13-9-3)).
+- **Pfalz-Neuburg 1543** gives three Latin canticles to choose from at the body: Psalm 90, the
+  canticle of Hezekiah, *Ego dixi: In dimidio dierum meorum* (Isaiah 38:10–20; the editors print
+  "30"), and the *Benedictus*. They are sung with *Media vita* or *Ego sum resurrectio et vita*
+  (Sehling 13, p. 90).
+
+In the Roman office of the dead the canticle of Hezekiah and the *Benedictus* with *Ego sum
+resurrectio* both belong to Lauds ([§10.9.1](#s10-9-1)).
+
+**An office after the burial: Brandenburg 1540.** Joachim II's order keeps the most. After the
+procession the mourners go back into the church for what is in effect a short office of the
+dead without prayer for the dead. It has lessons from Job, responsories, the *Benedictus* with
+*Ego sum resurrectio*, a German collect and the responsory *Si bona suscepimus*. **Brandenburg,
+*Kirchen-ordnung* of Joachim II, 1540** (Sehling 3, p. 81):
+
+<!-- doc 1746 -->
+> Und so man vom begrebnis widerum in die kirchen gehet, alsdenn mag man singen, mit fried und
+> freud ich fahr dahin, darauf auch lesen ein oder mehr lectiones ex Hiob oder Paulo de
+> resurrectione und dazwischen etliche responsoria oder deudsche gesenge, darnach das
+> benedictus mit der antiphon, ego sum ressurrectio et vita und denn ein deudsche collecta, wie
+> folgt […] Und zum beschlies das responsorium, si bona suscepimus, darneben sol man ein becken
+> setzen in die kirch zum opfer oder almus fur die armen leut
+
+And when they go again from the burial into the church, then may be sung "Mit Fried und Freud
+ich fahr dahin"; and thereupon be read one or more lessons out of Job, or out of Paul of the
+resurrection, and between them some responsories or German songs; thereafter the *Benedictus*
+with the antiphon *Ego sum resurrectio et vita*, and then a German collect, as followeth […] And
+for the conclusion the responsory *Si bona suscepimus*; and a basin shall be set in the church
+for the offering or alms for the poor folk
+
+The rest of the order's burial chapter:
+- **The collect** is the Saxon burial collect ([Chapter 13](#ch13), [§13.9.2](#s13-9-2)).
+- **A Mass may follow.** If the burial was in the morning, a Mass might be held: "the office
+  *Si enim credimus*", with the epistle 1 Thessalonians 4:13 and the gospel John 11:25. These
+  are the epistle and gospel of the requiem on the day of burial in the Roman missal. After an
+  evening burial the Mass was put off to the next day.
+- **No communion at it.** Communicants were to commune at the common daily office "and not at
+  this one; for else an abuse would easily arise from it, and in time it be taken again for a
+  soul-Mass".
+- **No thirtieth days.** "Much less tolerable are the thirtieth days and anniversaries, with the
+  soul-offering Masses" (Sehling 3, p. 81).
+
+**A yearly day of the dead, for the living.** The same order keeps one yearly service of the
+dead, on All Souls' Day and on two Ember Fridays. **Brandenburg, *Kirchen-ordnung* of
+Joachim II, 1540** (Sehling 3, p. 81):
+
+<!-- doc 1746 -->
+> Damit aber vermerkt, damit wir alles, das in der kirche besserung moge gewand werden, gerne
+> erhalten wolten, lassen wir uns gefallen, das jerlich ein sonderlich amt und darbei ein
+> predig von den verstorbenen und de mortalitate et resurrectione mortuorum geschehe in stiften
+> und pfarren, die animarum, und am freitage im quartal reminiscere und trinitatis, und das
+> sonderlich darneben das volk erinnert werde, vor den alten misbreuchen sich zu hüten […] denn
+> dieweil kein funus vorhanden und die erinnerung des tods und auferstehung darinnen
+> furgetragen, so kan es vor kein begengnis der verstorbenen, sondern den lebendigen zu gute
+> geachtet werden
+
+But that it may be marked that we would gladly keep all that may be turned to the betterment of
+the church, we are content that yearly a special office, and with it a sermon of the departed,
+and of mortality and the resurrection of the dead, be held in the foundations and parishes on
+All Souls' Day, and on the Friday in the Ember weeks of Reminiscere and of Trinity; and that
+therewith the people be in especial warned to beware of the old abuses […] for since there is
+no corpse present, and the remembrance of death and resurrection is set forth therein, it can be
+counted for no *Begängnis* of the departed, but for the good of the living
+
+The service is again the office *Si enim credimus*, and here communicants may receive. No
+other order in the corpus keeps a service of All Souls' Day:
+- **Strasbourg 1542** (Moderate Reformed): some wished to mark All Saints and All Souls at the
+  end of the next Sunday's sermon, "so that the true care for the dead be rightly taught, and
+  the false and superstitious be wholly rooted out". Others wanted the feast deliberated further
+  (Sehling 20/1, p. 326).
+- **Hohenlohe 1558** has the preachers explain the day's abuse at that season (Sehling 15,
+  p. 125).
+- **Sayn 1582** strikes All Souls' Day with the saints' days (Sehling 19/1, p. 373).
+
+**The Reformed.** Nassau-Dillenburg's order of 1582 (Reformed) keeps at funerals:
+- short exhortations and consolations, "or lessons of a chapter of the Bible, as John 12,
+  1 Corinthians 15, 1 Thessalonians 4 and 5, Ezekiel 37, Job 19, Psalm 39";
+- and it forbids "excessive commendations of the dead, with all superstition" (Sehling 10,
+  p. 163).
+
+Job 19 is the chapter of *Credo quod Redemptor*.
+
+#### <a id="s10-9-6"></a>10.9.6 What took its place
+
+**Accompanying the dead.** Brenz answered his own history of the vigil
+([§10.9.1](#s10-9-1)) with three things: the procession to the grave, a mention in the next
+day's service, and comfort for the kin. **Schwäbisch Hall, *Kirchenordnung*, 1527**
+(Sehling 17/1, p. 60):
+
+<!-- doc 755 -->
+> So dan die vigilien und meß, wie ytz gehalten, fur die todten unnutz, wie sol man sich dan
+> gegen inen halten? Sol ir gar nit geacht werden? In keinen weg. Es geburt sich ye nit, das man
+> sie hinwerff als ein schelmen, dan die abgestorben sein ye noch unser bruder und durch den tod
+> nit auß unser geselschafft gefallen. Wir bleyben noch glider eins einigen Corpers, darumb sol
+> die cristenlich versamlung fleyssig ermant werden, nit zu vigilien und selmessen wie
+> bißhieher, sonder nach dem ersten gebrauch der kirchen fleyssig zu dem grab die abgestorbnen
+> zubeleytten, das dan auch die burgerlich nachparschaft erhaischt. Es sol auch in dem
+> nachgenden tagampt, nach dem der abgestorben begraben, sein gedacht werden, sein todt
+> verkundigt werden. Darby sol die fruntschaft durch das wort gottes getrost werden und die
+> andern ermant, ires glaubens und hoffens, auch beherzigt bereyt zusein, dem beruff gottes, wan
+> und wie er wol, zuvolgen.
+
+Since then the vigils and Masses, as they are now held, are unprofitable for the dead, how shall
+one then bear oneself toward them? Shall no regard be had of them at all? In no wise. It is not
+seemly that one cast them away like carrion, for the departed are still our brethren, and are
+not fallen out of our fellowship through death. We remain still members of one only body.
+Therefore the Christian congregation shall be diligently exhorted, not to vigils and soul-Masses
+as hitherto, but, after the first use of the church, diligently to accompany the departed to the
+grave, which civil neighbourliness also requireth. He shall also be remembered in the service of
+the day following, after the departed is buried, and his death shall be announced. Therewith the
+kinsfolk shall be comforted through the word of God, and the others exhorted to be ready in
+their faith and hope, and of good courage, to follow the call of God, when and how he will.
+
+**The funeral sermon.** Wittgenstein put the funeral sermon expressly "instead of the vigils",
+and paid for it with the old fees. **Wittgenstein, *Kirchenordnung*, 1555** (Sehling 22, p. 87):
+
+<!-- doc 1491 -->
+> Nachdem auch vile gefelle zu unchristlichen ceremonien und gebrauch seint gegeben und
+> gesthifftet worden, so sollen die pfarher und kirchenthiener solch abgottisch wesen lenger
+> zuhalten hiemit einst vor all entledigt, doch pflichtig unnd schuldig sein, anderst etwas, das
+> zur ehr Gottes und zu erbauhong und underweisong der pfarkinder dinstlich ist, mit rath des
+> superintendenten und je einen wie der ander dogegen zuthun, domit nit gesagt werden moge, das
+> die kirchenthiener ir gefell umbsonst oder vergeblich einnemen und nichts darfur thuen.
+> Sonderlich aber anstat der vigilien sollen die pastores leichpredigen thun, welche sie uß
+> Spangenbergio und seinen predigen, die er und andere bei den leichen gethan und im druck
+> usgangen seint, nemen und nachthuen mogen.
+
+And forasmuch as many dues have been given and endowed for unchristian ceremonies and uses, the
+pastors and ministers of the church shall hereby be discharged once for all from keeping up such
+idolatrous doings any longer; yet shall they be bound and owe it to do in return something else
+that serveth to the honour of God and to the edifying and instruction of the parishioners, with
+the counsel of the superintendent, each one like the other, that it may not be said that the
+ministers of the church take their dues for nought or in vain and do nothing for them. But in
+especial, instead of the vigils, the pastors shall make funeral sermons, which they may take
+from Spangenberg and from his sermons, which he and others have made at burials and which have
+gone forth in print, and do after them.
+
+The editors identify the book as Johann Spangenberg's fifteen funeral sermons of 1545
+(Sehling 22, p. 87).
+
+**Hymns and a short sermon.** Hohenlohe in 1553 set hymns and a sermon in the place of the
+soul-Masses, vigils, *Begängnisse* and anniversaries (Sehling 15, p. 80):
+- the dead are not to be "carried out and buried like the unreasoning beast";
+- they are escorted with *Media vita* and *Mit fried und freud ich far dahin*;
+- *Nun last uns den leib begraben* is sung at the grave;
+- the pastor makes, before or after the burial, "a short sermon and exhortation of the
+  resurrection of Christians".
+
+**A word at the grave.** The visitors at Neubrandenburg (1559) put a short exhortation "of man's
+toilsome life and of the joyful resurrection" in place of the vigil at the house (above). The
+funeral sermon and its growth are treated in [Chapter 11](#ch11), [§11.4.6](#s11-4-6).
+
+#### <a id="s10-9-7"></a>10.9.7 Summary by order
+
+| Order | What it says of the vigil | Sehling |
+|---|---|---|
+| Wittenberg 1522 | the vigil priests' income to the common chest; they are to visit the sick | 1, p. 697 |
+| Coburg 1524 (proposal) | burial, vigil and soul-Mass left to the family | 1, p. 543 |
+| Mülhausen 1524 (Reformed) | vigils and anniversaries left unchanged for now; Geschmus would have joined the week's vigils | 20/2, pp. 163, 197 |
+| Pomesania 1524 | no ringing, singing, Mass or vigils over the dead | 4, p. 29 |
+| Nördlingen 1525 | vigils and Masses for the dead put away | 12, pp. 298, 305 |
+| Strasbourg 1525 (Moderate Reformed) | soul-Masses and vigils abolished by the council | 20/1, p. 45 |
+| Goslar 1525 (the commons) | complaint at the doubled presence money for the vigils | 7/2.2, p. 184 |
+| Ansbach 1526 | old foundations kept until a council | 11, p. 94 |
+| Schwäbisch Hall 1527 | the vigil was the first church's night watch; procession, mention and comfort instead | 17/1, p. 60 |
+| Lüneburg 1527 | vigils, soul-Masses, *Kalande*, thirtieth days and anniversaries abolished | 6/1, p. 515 |
+| Saxony 1528 | vigils would make sin removable by works | 1, p. 164 |
+| Mülhausen 1528 (Reformed) | the vigil's psalms and Job lessons may stay, in Latin | 20/2, pp. 209–210 |
+| Hamburg 1529 | vigils built on 2 Maccabees; their money to the poor chest | 5, pp. 520, 533 |
+| Heilbronn 1529 | the bell for vigils stopped on All Souls' Day | 17/1, pp. 225–226 |
+| Heilbronn 1530 | no help to the dead; the first church's watch | 17/1, pp. 278–279 |
+| Minden 1530 | vigil, memorial and soul-Mass against Scripture | 21, p. 144 |
+| Goslar, St Simon and Judas, 1534 | canons to put away the vigils | 7/2.2, p. 264 |
+| Pomerania 1535 | an abuse of the psalms and of Job for purgatory | 4, pp. 342, 350 |
+| Freiberg 1537 | vigils, anniversaries and thirtieth days abolished | 1, p. 466 |
+| Lippe 1538 | vigils among the false good works | 21, p. 312 |
+| Northeim 1539 | vigils and *Begängnis* abolished | 6/2, p. 932 |
+| Brandenburg 1540 | an office after the burial with Job lessons and *Benedictus*; a yearly service on All Souls' Day | 3, p. 81 |
+| Calenberg-Göttingen 1542 | "a pure abomination"; abolished in the convents; the endowments to the chest | 6/2, pp. 760, 852, 858 |
+| Frankenberg convent 1542 | vigils dropped, the hours kept | 7/2.2, p. 275 |
+| Perleberg 1542 | the pastor compensated for the lost fees | 3, p. 245 |
+| Schleswig-Holstein 1542 | the Pomeranian ruling in Low German | 23, p. 144 |
+| Wurzen 1542 | vigils abolished with the Canon | 2, p. 98 |
+| Strasbourg 1542 (Moderate Reformed) | All Saints and All Souls to be marked at the Sunday sermon, the true care for the dead taught; disputed | 20/1, p. 326 |
+| Braunschweig-Wolfenbüttel 1543 | *Redemptor meus vivit* before the bier | 6/1, pp. 67–68 |
+| Bonnus (Osnabrück chapters) 1543 | vigils and prayers for the dead omitted | 7/1, p. 229 |
+| Pfalz-Neuburg 1543 | the canticle of Hezekiah or the *Benedictus* at the burial | 13, p. 90 |
+| Hildesheim 1544 | *Redemptor meus vivit* before the bier | 7/2.1, p. 866 |
+| Donauwörth 1545 | the school freed from singing vigils | 12, p. 160 |
+| Heidelberg 1546 | vigils suspended, the rents kept | 14, p. 92 |
+| Hohenlohe 1553 | hymns and a sermon instead | 15, p. 80 |
+| Pirna 1555 | Latin responsories sung before the house | 1, p. 644 |
+| Wittgenstein 1555 | funeral sermons instead of the vigils | 22, p. 87 |
+| Palatinate 1556 | no more vigils or papal lays | 14, p. 112 |
+| Prenzlau 1557 | the vigils before the door abolished | 3, p. 261 |
+| Hohenlohe 1558 | the abuse of All Souls' Day to be explained | 15, p. 125 |
+| Neubrandenburg 1559 | no vigil in or before the houses | 5, p. 269 |
+| Rostock c. 1560 | *Scio quod redemptor meus* at funerals | 5, p. 290 |
+| Schaumburg convents 1562 | vigils and soul-Masses to cease | 7/2.2, pp. 35, 60 |
+| Ermsleben 1564 | the "vigil" sung at the grave | 2, p. 486 |
+| Braunschweig-Wolfenbüttel convents 1569 | nuns released from vows of psalters for the dead | 6/1, p. 334 |
+| Mecklenburg convents 1572 | the psalter for souls and the *Begängnisse* condemned | 5, pp. 253–254 |
+| Wolfstein 1574 | no vigils to help out of purgatory | 13, p. 586 |
+| Nassau-Dillenburg 1582 (Reformed) | Bible lessons at funerals, Job 19 among them; no commendations | 10, p. 163 |
+| Sayn 1582 | All Souls' Day abolished | 19/1, p. 373 |
+| Teschen 1584 | soul-Masses, requiem and vigils abolished | 3, pp. 462–463 |
+| Transylvania 1607 | night lights by the unburied dead superstitious | 24, p. 494 |
 
 ---
 
@@ -38602,11 +39139,175 @@ prayer; B = blessing; V = set within Vespers.
 
 ---
 
-### <a id="s10-11"></a>10.11 Ceremonial in the offices and the catechism service
+### <a id="s10-11"></a>10.11 The music
+
+#### <a id="s10-11-1"></a>10.11.1 The old chant kept
+
+**"Out of the former choir books."** The chapters kept their medieval chant books. Brandenburg
+1540 orders the office sung "according to each bishopric's Breviary, out of the former choir
+books" ([§10.4.2](#s10-4-2)). Verden cathedral in 1606 still sings Vespers "as the old order bringeth with it"
+(Sehling 7/1, p. 153). The convents kept their Breviaries, corrected (Spandau 1541; Lüneburg
+1555, [§10.4.4](#s10-4-4)). The Keppel order of 1570 refers its nuns to "their Breviary" for the feasts.
+
+**The old tones.** The orders also keep the old reciting tones:
+- **Pfalz-Neuburg 1543**: even when the nuns psalm in German, they are to do it "in the
+  customary tone, as they are wont in Latin" ([§10.8.2](#s10-8-2)).
+- **Bugenhagen**: the lessons are sung "with such a tone as one is wont to read lessons at
+  Matins", with the cadence of the old prophecy tone, "*sol sol sol la sol fa fa*"
+  (Sehling 6/1, p. 400; Sehling 4, p. 349).
+- **Wittenberg 1533**: the boys end each lesson "as one was wont to read or sing the prophecies,
+  *sol sol mi fa sol sol*" (Sehling 1, p. 703; see [Chapter 4](#ch4),
+  [§4.5.1](#s4-5-1)).
+- **Prussia 1568**: the Latin lesson is read "*in usitato tono*", the German one "without tone"
+  ([§10.6.1](#s10-6-1)).
+
+#### <a id="s10-11-2"></a>10.11.2 The new chant books: Spangenberg and Lossius
+
+**The Lutheran antiphoners.** From the 1540s the old office chant reached Lutheran schools and
+churches in two printed Lutheran collections:
+- Johann Spangenberg's *Cantiones ecclesiasticae latinae … Kirchengesenge Deudsch* (Magdeburg
+  1545);
+- Lucas Lossius's *Psalmodia, hoc est, cantica sacra veteris ecclesiae selecta* (Nürnberg 1553,
+  with a preface by Melanchthon; second edition Wittenberg 1561).
+
+Both preserved the medieval antiphons, responsories, hymns and psalm tones, purged of what was
+*de sanctis*. Several orders require them by name. **Mecklenburg, *Conformitas ceremoniarum*, c.
+1560** (Sehling 5, p. 288):
+
+<!-- doc 1936 -->
+> Es wird für gut angesehen und notig eracht, das man in allen kirchen halten sol Lucae Lossii
+> psalmodia und sol sich das chor darnach richten.
+
+It is deemed good and held necessary that Lucas Lossius's *Psalmodia* be kept in all churches,
+and that the choir order itself thereafter.
+
+**Oldenburg 1573** wants "a right, pure cantional" in every church and school: "that of the old
+Master Johann Spangenberg or of Lucas Lossius, together with the German hymnbook of Dr Martin
+Luther". The organist alternates with the choir in the responsory, hymn and *Magnificat*.
+**Oldenburg, *Kirchenordnung*, 1573** (Sehling 7/2.1, p. 1085):
+
+<!-- doc 2149 -->
+> Wo orgeln sind, sol nach den psalmen der organist ein moteten spielen, darauf die lectio
+> gelesen wird, nach welcher der organist das responsorium oder hymnum sol anfahen
+> fortzuschlahen, wie sich denn alwegen dergegen der schulmeister und organist miteinander
+> vergleichen sollen, und alsdenn in dem Magnificat ein vers umb den andern schlagen und singen.
+> Zu der behülf ist vonnöten, das in allen kirchen und schulen ein rechtes, reines cantional
+> stetigs zur hand sey, als nemlich des alten herrn Johan. Spangebergii oder Lucae Lossii sampt
+> dem deudschen gesangbuch D. Martini Lutheri.
+
+Where there are organs, the organist shall play a motet after the psalms, whereupon the lesson
+is read; after which the organist shall begin to play the responsory or hymn, as the
+schoolmaster and organist shall always agree with one another thereon; and then in the
+*Magnificat* play and sing one verse after the other. To this end it is needful that in all
+churches and schools a right, pure cantional be always at hand, namely that of the old Master
+Johann Spangenberg or of Lucas Lossius, together with the German hymnbook of Dr Martin Luther.
+
+**Lohr, 1588.** First Vespers of Sundays and feasts are sung in Latin, "according to the order
+of Lossius's *Psalmodia*, as they are noted for every occasion". **Rieneck, *Vesperordnung zu
+Lohr*, 1588** (Sehling 11, p. 699):
+
+<!-- doc 318 -->
+> (damit die jugent im psalliren und choralgesang, wie in allen kirchen gebreuchlich, geüebet
+> werde) mit lateinischen psalmen, responsoriis, hymnis, Magnificat, collectis, versiculis,
+> Benedicamus und anderm nach ordnung der psalmodiae L. Lossii, wie dieselben nach erheischung
+> jederzeit notiert und bisher in brauch und uebung gewesen, gesungen und gehalten werden
+
+(that the youth be exercised in psalmody and plainchant, as is customary in all churches) [it
+shall] be sung and kept with Latin psalms, responsories, hymns, *Magnificat*, collects,
+versicles, *Benedicamus* and the rest, according to the order of L. Lossius's *Psalmodia*, as
+the same are noted for every occasion and have hitherto been in use and practice
+
+Other orders cite Lossius too:
+- **Hof 1592** cites antiphons "in Lossius's *Psalmodia*" and "in the great thin antiphoner"
+  (Sehling 11, p. 422).
+- **Lüneburg 1575** refers to "Lossius's book" for the festal Compline (Sehling 6/1, p. 658).
+- **Buxtehude 1565** takes its noted pieces from Lossius's second edition
+  (Sehling 7/1, p. 67, introduction).
+
+#### <a id="s10-11-3"></a>10.11.3 German psalm tones
+
+**Keppel, 1570.** The German office at Keppel is sung from the printed German psalm-books with
+their notes. The preacher is to teach the nuns the melodies. **Nassau-Dillenburg, *Ordnung für
+das Kloster Keppel*, 1570** (Sehling 10, p. 133):
+
+<!-- doc 181 -->
+> Es sollenn auch die zwen chore einen verß umb den andern singen unnd die tonos verendern, wie
+> dan dieselbige inn […] den teutschen psalmen buchern, so zu Leypzig außgangen, mit iren noten
+> unnd melodien beschrieben seindt, hierinnen soll sie der prediger underweisen, das sie die
+> melodien und noten konnen lernen.
+
+The two choirs also shall sing one verse after the other, and change the tones, as the same are
+written down with their notes and melodies in […] the German psalm-books that have come out at
+Leipzig; herein shall the preacher instruct them, that they may learn the melodies and notes.
+
+Sehling's editor identifies the book as probably Luther's hymnbook printed by Valentin Babst at
+Leipzig in 1545 (Sehling 10, p. 133, n. 13). Here the old psalm tones carry the German psalter.
+
+**German canticles.** Luther's own German versions of the office canticles came into use beside
+the Latin:
+- the German *Te Deum* ("Herr Gott, dich loben wir"), sung at Wittenberg 1533 in alternation
+  between the choir and the people (Sehling 1, p. 705);
+- the German *Magnificat*, sung at Hof 1592 "in the sixth tone" (below).
+
+#### <a id="s10-11-4"></a>10.11.4 Figural music and the organ
+
+**Polyphony at the office.**
+- **Wittenberg 1533**: "when the cantors sing *in figurativis*" at Vespers, they sing everything
+  with the *Magnificat* before the sermon, and on Sundays "after the *Benedicamus* let the boys
+  sing the *Nunc dimittis* *in figurativis* or in counterpoint" (Sehling 1, pp. 703, 705).
+- **Württemberg cloister schools, 1582 edition**: the singing is to be "directed to
+  counterpoint, whereby it is so much the lovelier and more understandable"
+  (Sehling 16, p. 366, apparatus).
+- **Hof 1592**: Vespers may be sung *figuraliter*. Its Saturday Vespers has the German
+  *Magnificat* in the sixth tone, with boys and girls in alternation and the organ between.
+  **Hof, *Ordo ecclesiasticus*, 1592** (Sehling 11, p. 429):
+
+<!-- doc 294 -->
+> Magnificat germanicum sexti toni per binos choros distinctis scholasticis canitur, videlicet
+> unus versus a pueris, alter a puellis, praemissa semper melodia ab organicine et tertio quoque
+> versu omisso. Si organorum usus non adhibetur, a dictis choris integrum Magnificat completur.
+> […] Si figuraliter vespertinus actus peragitur, I. psalmus, II. antiphonon, III. responsorium,
+> IIII. unus atque alter versus ex hymno, V. muteta ante concionem, VI. Magnificat certi toni
+> cantore regente canitur.
+
+The German *Magnificat* of the sixth tone is sung by two choirs, the scholars being divided,
+namely one verse by the boys, the other by the girls, the melody being always first played by
+the organist, and every third verse being omitted. If the organ is not used, the whole
+*Magnificat* is completed by the said choirs. […] If the Vesper service is performed figurally,
+[then] I. the psalm, II. the antiphon, III. the responsory, IIII. one or another verse of the
+hymn, V. a motet before the sermon, [and] VI. the *Magnificat* in a set tone are sung under the
+direction of the cantor.
+
+Hof's order notes that the plainchant pieces are written out for every Sunday and feast so that
+they can be used "when, perhaps because of public mourning, the songs of figural music have no
+place" (Sehling 11, p. 450).
+
+**The organ.** The organ alternated with the choir in the office, as in the Mass:
+- **Prussia 1568**: the organist "playeth one verse after the other" in the *Magnificat*, and a
+  piece after the *Nunc dimittis* (Sehling 4, p. 75).
+- **Pomerania 1569**: "where there are organs, the organist shall be at the organ after the
+  psalmody, and play to the responsory, hymn and *Magnificat*" (Sehling 4, p. 435).
+- **Oldenburg 1573** (above) and **Hoya 1581**: the organist "plays the hymn" ([§10.7.4](#s10-7-4)).
+- **Wittenberg castle, 1525**: the organ only "on Sunday to the *Te Deum laudamus*, and whenever
+  German songs are sung" (Sehling 1, p. 699).
+
+**In sum.** The medieval office chant was neither abandoned nor wholly reset. In the chapters
+and convents it went on from the old books. In the schools and towns it was purged and reprinted
+in the Lutheran antiphoners of Spangenberg and Lossius. Beside it stood:
+- Luther's German canticles and hymns;
+- German psalms sung to the old tones;
+- by the later century, polyphony and organ alternation on Sundays and feasts.
+
+The organ in the service as a whole is treated in
+[Chapter 9](#ch9), [§9.3](#s9-3).
+
+---
+
+### <a id="s10-12"></a>10.12 Ceremonial in the offices and the catechism service
 
 Several matters touching the body are treated elsewhere:
 - the short *preces* said kneeling after the gospel canticle: [§10.7.5](#s10-7-5) above;
-- the chant, the psalm tones and the lesson tones: §§[10.9.1](#s10-9-1)–[10.9.3](#s10-9-3) above;
+- the chant, the psalm tones and the lesson tones: §§[10.11.1](#s10-11-1)–[10.11.3](#s10-11-3) above;
 - the cope and the surplice: [Chapter 14](#ch14), §§[14.7.2](#s14-7-2), [14.7.4](#s14-7-4);
 - lights on the altar: [Chapter 14](#ch14), [§14.5.4](#s14-5-4);
 - gestures at the Mass: [Chapter 2](#ch2), [§2.15](#s2-15).
@@ -38614,7 +39315,7 @@ Several matters touching the body are treated elsewhere:
 This section gathers what the orders prescribe for the body at Matins, Vespers, the Litany and
 the catechism service.
 
-#### <a id="s10-11-1"></a>10.11.1 What the orders say, and what they do not
+#### <a id="s10-12-1"></a>10.12.1 What the orders say, and what they do not
 
 **The searches.** The corpus was searched, near the words for the offices (*Mette*, *Vesper*,
 *horae*, *Complet*, *Benedictus*, *Magnificat*, *Litanei*, *Catechismus*, *Kinderlehre*), for
@@ -38625,20 +39326,20 @@ or the people; the sign of the cross; the kiss; incense.
 **What the orders prescribe.** The rubrics for the offices are fewer even than for the Mass.
 Where the orders say anything, it is one of five things:
 - **kneeling to pray**: for the *preces*, the closing collects, the *Da pacem* and the *Veni
-  sancte Spiritus* ([§10.11.2](#s10-11-2));
+  sancte Spiritus* ([§10.12.2](#s10-12-2));
 - **kneeling before the altar for the Litany**: two, three or four boys, the choir and the
-  people answering ([§10.11.3](#s10-11-3));
+  people answering ([§10.12.3](#s10-12-3));
 - **two choirs facing**: the psalms sung or said "verse about verse" from stalls set opposite
-  ([§10.11.5](#s10-11-5));
-- **the place of the reader**: the pulpit, the lectern, or before the altar ([§10.11.6](#s10-11-6));
+  ([§10.12.5](#s10-12-5));
+- **the place of the reader**: the pulpit, the lectern, or before the altar ([§10.12.6](#s10-12-6));
 - **the children set in order** for the catechism: in pairs facing one another, standing on
   stools or in the middle of the church, boys on the men's side and girls on the women's
-  ([§10.11.7](#s10-11-7)).
+  ([§10.12.7](#s10-12-7)).
 
 **Not found.** No order in the corpus prescribes any of the following for the office:
 - a bow at the *Gloria Patri*, at the name of Jesus, or at the *Gloria* of the hymn. The
   Mecklenburg convents repeat "Ehre sei gott dem vater" after every psalm and canticle, but say
-  nothing of the head ([§10.11.5](#s10-11-5));
+  nothing of the head ([§10.12.5](#s10-12-5));
 - standing for the gospel canticles, or the sign of the cross at the *Benedictus*, *Magnificat*
   or *Nunc dimittis*;
 - the officiant's hat or biretta, or a rule for covering and uncovering the head in choir;
@@ -38646,9 +39347,9 @@ Where the orders say anything, it is one of five things:
 - genuflection, the hands joined or raised, or a turn toward the people at *Dominus vobiscum* in
   the office.
 
-The sign of the cross appears only at the household morning and evening blessings ([§10.11.8](#s10-11-8)).
+The sign of the cross appears only at the household morning and evening blessings ([§10.12.8](#s10-12-8)).
 
-#### <a id="s10-11-2"></a>10.11.2 Kneeling to pray
+#### <a id="s10-12-2"></a>10.12.2 Kneeling to pray
 
 **After the gospel canticle.** The Bugenhagen orders have the children kneel for the short
 *preces* after the *Magnificat* and *Benedictus* ([§10.7.5](#s10-7-5)). **Bremen, *Kirchenordnung*, 1534**
@@ -38706,7 +39407,7 @@ The evening prayer opens in the same words (Sehling 14, p. 397). The Palatinate 
 1606 (Reformed) quotes its morning prayer in Low German: "latet uns vor dem angesichte Gades
 nedderkneen" (Sehling 7/1, p. 541).
 
-#### <a id="s10-11-3"></a>10.11.3 The Litany: boys kneeling before the altar
+#### <a id="s10-12-3"></a>10.12.3 The Litany: boys kneeling before the altar
 
 The Litany was the one office the orders regularly order to be sung kneeling. The visitors in
 Mecklenburg wanted the people on their knees for it after the Sunday sermon. **Mecklenburg,
@@ -38748,9 +39449,9 @@ The same arrangement appears elsewhere:
   christliche Lytanei also mit ainandern sprechen und beten" (Sehling 17/1, p. 468).
 
 The forms of the Litany and who sang it are treated in
-[Chapter 13](#ch13), [§13.22.3](#s13-22-3).
+[Chapter 13](#ch13), [§13.21.3](#s13-21-3).
 
-#### <a id="s10-11-4"></a>10.11.4 Kneeling at the evening bell
+#### <a id="s10-12-4"></a>10.12.4 Kneeling at the evening bell
 
 Kneeling was not confined to the church. During the plague of 1585 the Breslau council asked the
 people to pray at the evening bell as the morning congregation already did in church. **Breslau,
@@ -38771,7 +39472,7 @@ that they would pray kneeling.
 The evening bell itself, and the prayer for peace that replaced the Ave Maria, are treated in
 [Chapter 9](#ch9), [§9.5.3](#s9-5-3).
 
-#### <a id="s10-11-5"></a>10.11.5 Two choirs facing
+#### <a id="s10-12-5"></a>10.12.5 Two choirs facing
 
 The psalms were sung by two sides of the choir, verse about verse. Only the Mecklenburg convent
 order says how the singers stand. **Mecklenburg, *Klosterordnung*, 1572** (Sehling 5, p. 258),
@@ -38800,7 +39501,7 @@ Wittenberg*, 1533** (Sehling 1, p. 703):
 Before the early sermon on Sundays or feast days the boys shall read the whole catechism through
 in Latin in the choir, on both sides, verse about verse, *sine tono*, distinctly.
 
-#### <a id="s10-11-6"></a>10.11.6 The place of the lesson
+#### <a id="s10-12-6"></a>10.12.6 The place of the lesson
 
 The orders name the place from which the office lesson is read, but not the reader's posture:
 - **Coburg 1545**: at Vespers the chapter of the Old Testament is read in German by the priest
@@ -38814,7 +39515,7 @@ The orders name the place from which the office lesson is read, but not the read
 - **Wittenberg 1533**: three boys read three lessons at Saturday Vespers "nach dem tono, wie man
   lectiones pflegt zu lesen", the last words sung (Sehling 1, p. 703).
 
-#### <a id="s10-11-7"></a>10.11.7 The catechism service: the children set in order
+#### <a id="s10-12-7"></a>10.12.7 The catechism service: the children set in order
 
 The catechism service has more stage directions than any office. Five things recur: the minister
 goes to the altar; the children come out from their places; they are set in pairs facing one
@@ -38920,7 +39621,7 @@ service are prescribed.
   creator*, "teglichen ein megdlein aufstehen", one girl stands up every day and prays the five
   parts aloud for the others to repeat (Sehling 1, p. 685).
 
-#### <a id="s10-11-8"></a>10.11.8 The sign of the cross: at home, not in choir
+#### <a id="s10-12-8"></a>10.12.8 The sign of the cross: at home, not in choir
 
 No office or catechism service in the corpus prescribes the sign of the cross in church. It
 survives in the morning and evening blessings of Luther's Small Catechism, the household office,
@@ -38947,7 +39648,7 @@ Amen. Darauf sprich kniend oder stehend den glauben oder vaterunser" (Sehling 14
 that the draft read "mit dem heyligen creütz" and that it was struck (Sehling 18, p. 179, n. u).
 Nördlingen (1579) likewise has only "solt du dich segnen und also sagen" (Sehling 12, p. 357).
 
-#### <a id="s10-11-9"></a>10.11.9 Summary by order
+#### <a id="s10-12-9"></a>10.12.9 Summary by order
 
 | Order | Office or service | What is prescribed | Sehling |
 |---|---|---|---|
@@ -38982,705 +39683,6 @@ Nördlingen (1579) likewise has only "solt du dich segnen und also sagen" (Sehli
 | Palatinate 1601 (Reformed) | morning and evening prayer | "demütigen" for "niderknien" | 14, p. 572 |
 | Lütetsburg 1606 (Reformed) | morning prayer | "nedderkneen" | 7/1, p. 541 |
 | Rothenberg 1618 | catechism | table of duties recited facing | 13, p. 548 |
-
----
-
-### <a id="s10-12"></a>10.12 The Office of the Dead
-
-Beside the eight hours of the day the medieval church sang an office for the departed, the
-Office of the Dead (*officium defunctorum*). The orders call it the **vigil** (*Vigilie*,
-*vigilia*; in Low German *vigilie*). It had three hours of its own: Vespers, Matins and Lauds.
-It was sung on the evening or in the night before a requiem Mass:
-- before the burial;
-- on the third, seventh and thirtieth days after it;
-- at the anniversary.
-
-Endowments paid for it, and priests, vicars and the school sang it. No evangelical order kept
-it as an office for the dead.
-
-This section asks:
-- what the orders and Sehling's editors say the vigil was ([§10.12.1](#s10-12-1));
-- on what grounds it was abolished ([§10.12.2](#s10-12-2)), and by what steps
-  ([§10.12.3](#s10-12-3));
-- what became of it in the chapters, the convents and the schools ([§10.12.4](#s10-12-4));
-- what of it survived at funerals ([§10.12.5](#s10-12-5)), and what took its place
-  ([§10.12.6](#s10-12-6)).
-
-[§10.12.7](#s10-12-7) gives a summary by order. The funeral as a whole is treated in
-[Chapter 13](#ch13), [§13.9](#s13-9), the funeral sermon in [Chapter 11](#ch11),
-[§11.4.6](#s11-4-6), and the bells for the dead in [Chapter 9](#ch9), [§9.5.6](#s9-5-6).
-
-#### <a id="s10-12-1"></a>10.12.1 What the vigil was
-
-**The orders do not describe it.** They name the vigil only to abolish it, and none sets out its
-order. Of its content they say only that it was made of psalms and of "the words of blessed Job"
-(Pomerania 1535, [§10.12.2](#s10-12-2)), or of "the psalms and lessons out of holy Job that are
-sung in the vigil" (Mülhausen 1528, Reformed, [§10.12.3](#s10-12-3)).
-
-**Sehling's editors explain it.** Their notes give this picture:
-- **An office of the Breviary.** The vigil "is in this context the office of the dead, a prayer
-  service of the Breviary, which is distinguished from the soul-Mass (*missa de requiem*) and
-  like it was endowed to be repeated, mostly on the anniversary of the death" (Ansbach 1526,
-  editors' note, Sehling 11, p. 94; repeated for Hohenlohe 1553, Sehling 15, p. 68).
-- **Three hours.** "Since the early Middle Ages the custom had grown up in the monasteries of
-  reading for the dead, beside the ordinary hours, a special office, which consisted of
-  Vespers, Matins and Lauds" (Braunschweig-Wolfenbüttel 1569, editors' note, Sehling 6/1,
-  p. 312).
-- **The name.** The *vigiliae* "are here offices of the dead held after the manner of a vigil
-  (the eve of a higher feast)" (Nördlingen 1525, editors' note, Sehling 12, p. 305).
-- **When it was sung.** The vigils were "held with antiphons, psalms and prayers in the night
-  before the burial, at the coffin in the church, and repeated on the third, seventh and
-  thirtieth day after the burial and on the anniversary" (Marienhafe 1593, editors' note,
-  Sehling 7/1, p. 722). At Nuremberg the office was held "after the body had been brought into
-  the church" (Veit Dietrich 1545, editors' note, Sehling 11, p. 528).
-- **The anniversary.** "The anniversary was usually made up of the vigil and the anniversary
-  Mass. Vigil was the name of the office of the dead held on the evening before the soul-Mass."
-  After the office the grave was visited, if it lay in or by the church, and the Mass followed
-  the next morning. The names of the dead were kept in "anniversary books" (Mülhausen 1524,
-  Reformed, editors' note, Sehling 20/2, p. 197).
-
-**The Roman form.** Sehling prints no text of the office. For orientation, the Roman form of it
-had the following (this is not from the corpus):
-- Vespers is named *Placebo* from its first antiphon,
-  *Placebo Domino in regione vivorum* (Psalm 116:9), and Matins *Dirige* from its first,
-  *Dirige, Domine Deus meus, in conspectu tuo viam meam* (Psalm 5:8).
-- The nine lessons of Matins are from Job. The first responsory is *Credo quod Redemptor meus
-  vivit* (Job 19:25–27).
-- Lauds has the canticle of Hezekiah (Isaiah 38:10–20), and ends with the *Benedictus* and the
-  antiphon *Ego sum resurrectio et vita* (John 11:25–26).
-
-The names *Placebo* and *Dirige* do not occur in the corpus. The responsory from Job and the
-canticles of Lauds reappear in the evangelical funeral ([§10.12.5](#s10-12-5)).
-
-**Brenz's account of its origin.** Brenz explained the vigil from the first church, as a night
-watch at the grave that later ages took for a work for the dead. **Schwäbisch Hall,
-*Kirchenordnung*, 1527** (Sehling 17/1, p. 60):
-
-<!-- doc 755 -->
-> Man hat biß hieher fur die todten vigilien und meß gehalten. Das hat wol zum tail in der
-> ersten kirchen sein guten anfang gehapt, ist doch durch die aigennutzigen, unverstendigen in
-> ein ergerlichen mißbrauch erwachsen, da anfengklich, wen einer auß den Cristen gemartert wurd
-> oder sunst starb, auß großer lieb, so die Cristen zu einander trugen, pliben die lebendigen
-> bey dem grab des mertlers oder abgestorbnen eins teils der nacht, daher es ein vigilia, zu
-> teutsch ein wacht, genent ward. Morgens hielten sie in der kirchen by dem altar, darvon das
-> Sacrament geraicht wurd, des abgestorbnen gedechtnus, sein seel bevelhend in die hendt
-> gottes, welchs die nachvolgenden ersehen und gemeint haben, das wachen oder vigilien geschehe,
-> die todten auß dem fegfewer zuerloßen. So doch es allein war ein werck der lebendigen lieb
-> gegen dem abgestorben anzaigend, wie ytz by uns ist das geen mit der leicht, welchs wol dem
-> todten kein nutz bringt, ist aber ein burgerlich werck, die lieb gegen dem abgestorben
-> beweyssend.
-
-Hitherto vigils and Masses have been held for the dead. This had indeed in part its good
-beginning in the first church, but it hath grown through self-seeking and ignorant men into an
-offensive abuse. For in the beginning, when one of the Christians was martyred or otherwise
-died, the living, out of the great love which the Christians bare one to another, abode by the
-grave of the martyr or of the departed a part of the night; whence it was called a *vigilia*, in
-German a watch. In the morning they held in the church, at the altar from which the Sacrament
-was given, the remembrance of the departed, commending his soul into the hands of God. This
-they that came after saw, and supposed that the watching or vigils were done to deliver the
-dead out of purgatory; whereas it was only a work of the living, showing their love toward the
-departed, as with us now is the going with the corpse, which bringeth indeed no profit to the
-dead, but is a civil work, showing love toward the departed.
-
-**Heilbronn 1530** gives the same account, in the confession that the city addressed to the
-Emperor (*Confessio Heilbronnensis*):
-- The vigils came "out of the first church". When the dead were buried by night or early in the
-  morning, the living watched, and were comforted "with psalms and divine sayings", that they
-  should not grieve "as if there were no resurrection".
-- Lights were burned "that one might see in the darkness", and alms were given to the poor
-  through the deacons.
-- "But such godly use of the first church is changed into an unprofitable service, to help the
-  souls of the departed" (Sehling 17/1, pp. 278–279).
-
-**A paid office.** The vigil was endowed, and those who sang it were paid:
-- At Wittenberg each priest had about eight gulden a year "from the vigils which they hold"
-  (1522; [§10.12.3](#s10-12-3)).
-- At Mülhausen the clergy drew "presence money" for attending the anniversary Masses, the
-  vigils and the canonical hours (editors' introduction, Sehling 20/2, p. 161). In 1528 the
-  preachers would let the vigil psalms be sung only "without the desire of the presence money"
-  (Sehling 20/2, p. 209).
-- At Goslar the commons complained in 1525 that the presence money at the vigils for the dead
-  had doubled, because the absent priests were counted in (editors' introduction,
-  Sehling 7/2.2, p. 184).
-- The school sang with the priests. Donauwörth in 1545 freed the schoolmaster and scholars from
-  "the singing of the soul-Masses and vigils" ([§10.12.4](#s10-12-4)).
-
-#### <a id="s10-12-2"></a>10.12.2 Why it was abolished
-
-**Luther.** Luther's preface to his burial hymns of 1542 puts the evangelical case in two
-sentences. Sehling's editors quote it in a note to the Harlingerland order. **Harlingerland,
-*Kirchenordnung*, 1573/74, editors' note quoting Luther** (Sehling 7/1, p. 741):
-
-<!-- doc 2122 -->
-> Demnach haben wir in unsern kirchen die bepstlichen greuel, als vigilien, seelmessen,
-> begengnis, fegfeur und alles ander gaukelwerk, fur die todten getrieben, abgetan und rein
-> ausgefegt. Und wollen unser kirchen nicht mehr lassen klagheuser oder leidestete sein,
-> sondern, wie es die alten veter auch genennet, koemiteria, das ist, fur schlaffheuser und
-> rugestete halten.
-
-Accordingly we have in our churches done away and clean swept out the popish abominations, as
-vigils, soul-Masses, *Begängnis*, purgatory and all other jugglery practised for the dead. And
-we will no more let our churches be houses of wailing or places of mourning, but, as the old
-fathers also named them, *coemeteria*, that is, hold them for sleeping-houses and
-resting-places.
-
-The orders give four grounds.
-
-**1. The dead are not helped.**
-- **Pomesania 1524**: "there shall henceforth be no ringing nor singing nor Mass nor vigils held
-  over the dead; for it is of no profit to them, neither are they helped thereby". The next
-  article forbids holding exequies or *Begängnis* over the dead, or praying for them (Sehling 4,
-  p. 29).
-- **Saxony 1528**: "if the soul-Masses, vigils and the like availed, one could put away sin by
-  works" (Sehling 1, p. 164).
-- **Heilbronn 1530**: the psalms and the prophets are given "for our comfort" by the Holy Ghost.
-  But the dead can no longer be made fit for good by teaching and correction: "how then may that
-  profit them which is read or sung for their sake in the vigils?" (Sehling 17/1, p. 278).
-- **Wolfstein 1574**: no vigils, soul-Masses or *Begängnis* for the dead "to help the departed
-  out of purgatory: for such is in vain" (Sehling 13, p. 586).
-
-**2. Scripture misused for purgatory.** Bugenhagen made the charge in his order for the
-remaining canons and monks. **Pomerania, *Pia ordinatio caeremoniarum*, 1535** (Sehling 4,
-p. 350):
-
-<!-- doc 1857 -->
-> De vigiliis. Vigilias, quas vocant pro defunctis, non canant, quando nihil aliud sunt quam
-> abusus sanctissimorum psalmorum et verborum beati Joh; et isto abusu verborum dei non alio
-> respicitur quam in mendax illud et fictum purgatorium. Satis lusum est pro mercede
-> iniquitatis et Judae loculis. Posthac non irritemus dominum.
-
-Of vigils. Let them not sing the vigils, as they call them, for the dead, since they are nothing
-else than an abuse of the most holy psalms and of the words of blessed Job [the print has
-"Joh"]; and by this abuse of the words of God nothing else is looked to than that lying and
-feigned purgatory. Enough hath been played for the reward of iniquity and for the bag of Judas.
-Henceforth let us not provoke the Lord.
-
-- **Schleswig-Holstein 1542** repeats the ruling in Low German: the vigils are "nothing else
-  than a misuse of the holy psalms and of the words of Saint Job" (Sehling 23, p. 144).
-- **Pomerania's church order of 1535** allows nothing to be sung in the chapters and cathedrals
-  "of purgatory and of the redemption of souls through vigils and soul-Masses" (Sehling 4,
-  p. 342).
-- **Hamburg 1529** traces the vigils to 2 Maccabees 12:43–45, where Judas sends money to
-  Jerusalem for a sin offering for the fallen: "out of such ungrounded scripture the priests
-  have made the most of their vigils, when they pray for the dead" (Sehling 5, p. 520).
-- **The Palatinate in 1556** bids the pastors use no more "the vigils, the papal lays and other
-  such chants, though they be in part ill drawn out of holy Scripture" (Sehling 14, p. 112).
-
-**3. Against God's word and the merit of Christ.** The Lüneburg articles put the vigils with the
-soul-Masses, the *Kalande* and the confraternities. **Lüneburg, *Artikelbuch*, 1527**
-(Sehling 6/1, p. 515):
-
-<!-- doc 1998 -->
-> De sösteynde artikel. Van vigilien, seelemyssen unde kalanden. Vigilien, seelemyssen, kalande
-> unde fraternitates Sancte Marie, Jacobi, Anne etc., darümme dat se Goddes worde strackes
-> entgegen synt, schollen nenerley wyse geholden werden. Desgelyken de drüttigesten unde
-> jardage genzlick affgedaen wesen.
-
-The sixteenth article. Of vigils, soul-Masses and *Kalande*. Vigils, soul-Masses, *Kalande* and
-the confraternities of St Mary, St James, St Anne, etc., because they are straight against God's
-word, shall in no wise be held. Likewise the thirtieth days and the anniversaries shall be
-wholly done away.
-
-- **Calenberg-Göttingen 1542** calls the soul-Masses "with their vigils a pure abomination
-  before God" (Sehling 6/2, p. 760).
-- **Hohenlohe 1553**: soul-Masses, vigils, *Begängnisse* and anniversaries "diminish and darken
-  the suffering of Christ" (Sehling 15, p. 80).
-- **The Mecklenburg convent order of 1572**: "it is also open idolatry to hold *Begängnisse* for
-  the dead. For whoso hath fallen asleep in the Lord is already blessed" (Sehling 5, p. 254).
-
-**4. Money.** After purgatory the commonest charge is money: Bugenhagen's "reward of iniquity"
-and "bag of Judas" (above). Hamburg 1529 says that grief for the dead "went not so much to the
-heart of their kin that they would bring much money, until purgatory came too". Then "they had
-to scream the pennies out of the purses, and lords and princes gave land and people thereto"
-(Sehling 5, p. 520).
-
-**Elsewhere.** Other orders abolish the vigils in passing, among them:
-- Nördlingen 1525, which puts away "the vigils for the dead and the Masses … from the church,
-  the sink of the former blasphemy" (Sehling 12, p. 298);
-- Strasbourg 1525 (Moderate Reformed), where the council abolished the soul-Masses and vigils
-  (editors' introduction, Sehling 20/1, p. 45);
-- Minden 1530: "that vigil, memorial and soul-Mass are against the Scripture" (Sehling 21,
-  p. 144);
-- Freiberg 1537 (Sehling 1, p. 466), Lippe 1538 (Sehling 21, p. 312) and Northeim 1539
-  (Sehling 6/2, p. 932);
-- Wurzen 1542 (Sehling 2, p. 98) and Teschen 1584 (Sehling 3, pp. 462–463).
-
-#### <a id="s10-12-3"></a>10.12.3 By stages
-
-The early orders moved by steps. They took the money away, left the vigil to the families, kept
-the old foundations for a time, or kept the texts and dropped the purpose.
-
-**Wittenberg 1522: from the vigils to the sick.** The Wittenberg order of January 1522 put the
-priests' vigil income into the common chest and gave them a new work for it. **Wittenberg,
-*Kirchen-Ordnung*, 1522** (Sehling 1, p. 697):
-
-<!-- doc 146 -->
-> Item die priester, die wir jetzund haben, dieweil ir zins auch in den gemainen kasten gezogen
-> seint, darvon sich jeder järlichen von den vigilien, die si halten, bei acht guldin gehabt
-> haben, söllen mit sechs guldin järlich versehen werden; dieweil dann die mess und vigilien
-> vergeen, mügent si für das selbig gelt arm krank leüt ersuchen, und in iren nöten trösten,
-> doch sollen sie niemant zu testamentarien bestellen noch halten.
-
-Item, the priests whom we now have, forasmuch as their rents also are drawn into the common
-chest, from which each hath had yearly about eight gulden from the vigils that they hold, shall
-be provided with six gulden yearly; and since the Masses and vigils pass away, they may for the
-same money visit poor sick folk and comfort them in their need; yet they shall appoint or keep
-no one as executor of a testament.
-
-**Coburg 1524: left to the families.** The Coburg proposal for the services ends: "With the
-departed it shall be as each one's kinsfolk please, how they will hold and purpose burial, vigil
-and soul-Mass; yet it shall be according to holy Scripture, and none shall be compelled
-thereto" (Coburg, *Gottesdienst-Ordnung*, 1524, Sehling 1, p. 543).
-
-**Mülhausen 1524 (Reformed): unchanged for now.** The council's first order for the services
-left "the vigils and anniversaries … unchanged for this time" (Sehling 20/2, p. 197). The order
-rested on the advice of Augustin Geschmus, chaplain of St Stephen's. He would have struck the
-anniversary Masses and vigils altogether, since Scripture tells nothing of offices for the dead.
-For the sake of "the weak" he advised for the time being only joining together the vigils that
-fell in one week. The council, unsure of the citizens, kept them all for the present (editors'
-introduction, Sehling 20/2, p. 163).
-
-**Ansbach 1526: kept until a council.** The margrave's diet kept the old foundations of
-soul-Masses, vigils and confraternities "until further action and decision of a common Christian
-council or national assembly, or our further answer" (Sehling 11, p. 94). No one was to be
-compelled to hold a *Begängnis* ([Chapter 13](#ch13), [§13.9.1](#s13-9-1)).
-
-**Mülhausen 1528 (Reformed): the texts kept, the purpose dropped.** Four years after the first
-order the preachers advised the council on the services. They would let the vigil's psalms and
-its lessons from Job stay in the church, in Latin, stripped of their additions and sung with
-understanding. No other text in the corpus goes so far. **Mülhausen, opinion of the people's
-priest and the three preachers on the services, 1528** (Reformed; Sehling 20/2, p. 209):
-
-<!-- doc 1381 -->
-> Darnach die Nonen und die Vesper, so man phlegt zu singen von der feria, auch daß Salve, so eß
-> deuttet auff Christum, auch die psalmen und leczen auß dem heligen Job, die man singet inn der
-> vigilien, on denn anderen ungegründten zusatz, mag man nitt verbietten, inn der kilchen auff
-> lateinisch zu brauchen, aber doch mitt dem geding, daß manß nitt thue wie bißher, on allen
-> glouben, verstand und andacht und mitt unseglichem eylenn und blapern, sunder mitt glouben,
-> verstand und andacht, on die begird der presentz, aber mitt der begird zu Gott, und langsam,
-> underschidlich und ordenlich.
-
-Thereafter the None and the Vespers, which are wont to be sung of the feria, also the *Salve*,
-so far as it pointeth to Christ, also the psalms and lessons out of holy Job which are sung in
-the vigil, without the other ungrounded additions, one may not forbid to be used in the church
-in Latin; yet on this condition, that it be not done as hitherto, without all faith,
-understanding and devotion, and with unspeakable haste and babbling, but with faith,
-understanding and devotion, without the desire of the presence money, but with desire toward
-God, and slowly, distinctly and in order.
-
-On Sundays one of the singers was then to read or expound to the people in German what had been
-sung in Latin (Sehling 20/2, p. 209). The weekday None, Vespers, vigil and *Salve* were to be
-held in the same way (Sehling 20/2, p. 210).
-
-**Heilbronn 1529: the bell stopped.** On All Souls' Day a councillor told the boy who was about
-to ring for the vigils in the morning to stop. The sexton was told to ring only for the early
-sermon and for baptisms, and never for the Mass or Vespers (editors' introduction,
-Sehling 17/1, pp. 225–226).
-
-**Heidelberg 1546: suspended, the rents kept.** The Palatine advice on reforming the collegiate
-churches decided that "all vigils and soul-offices shall henceforth stand still, until amendment
-be undertaken in this and in other things. Yet all rents and dues shall remain with the
-foundation", to be shared among those who served the church (Kurpfalz, *Bedenken zur
-Reformation der Stiftskirchen*, 1546, Sehling 14, p. 92).
-
-#### <a id="s10-12-4"></a>10.12.4 Chapters, convents and schools
-
-**The chapters.** The vigils were above all the work of the chapters and their vicars. The
-orders that reformed the hours in the chapters struck the vigils in the same breath:
-- **Goslar, St Simon and Judas, 1534**: the council's order for the canons' hours ends by
-  bidding them put away "all papist ceremonies and abuses, with vigils, soul-Masses and other
-  Masses", on pain of losing their prebends (Sehling 7/2.2, p. 264; [§10.4.2](#s10-4-2)).
-- **Pomerania 1535**: in the chapters and cathedrals nothing may be sung of the redemption of
-  souls "through vigils and soul-Masses" (Sehling 4, p. 342), and the *Pia ordinatio* forbids
-  the vigils ([§10.12.2](#s10-12-2)).
-- **Bonnus's order for the Osnabrück chapters, 1543**: "vigils and prayers for the dead … are to
-  be wholly omitted" (Sehling 7/1, p. 229; [§10.7.5](#s10-7-5)).
-- **Heidelberg 1546**: suspended ([§10.12.3](#s10-12-3)).
-
-**The convents.** The reform order for the nuns of Frankenberg at Goslar sets the old offices
-against "their hours". **Goslar, *Ordnung für das Frauenkloster Frankenberg*, 1542**
-(Sehling 7/2.2, p. 275):
-
-<!-- doc 2198 -->
-> Ex hoc omnes papisticas et monasticas ceremonias, officia divina, vigilias, missas pro vivis
-> et defunctis, omnem denique abusum intermittent; e contra autem suas horas legent aliasque
-> ceremonias ex praescripto amplissimi magistratus Goslariensis, divinis literis et puro putoque
-> dicto verbo conformes servabunt.
-
-From this time they shall leave off all papist and monastic ceremonies, divine offices, vigils,
-Masses for the living and the dead, in short every abuse; but on the other hand they shall read
-their hours, and keep the other ceremonies, as the most honourable magistrate of Goslar hath
-prescribed, conformable to the divine Scriptures and to the pure and plain word.
-
-- **The Calenberg convents, 1542**: "all corner-Masses, private Masses and soul-Masses shall be
-  done away, with the vigils and all that hath hitherto been done for the dead, since holy
-  Scripture maketh no mention at all of such things, and the right apostolic church knew nothing
-  of them" (Sehling 6/2, p. 852).
-- **Schaumburg, 1562**: the count bids the convents of Fischbeck and Obernkirchen leave off
-  "forthwith the papist sacrifice-Masses, vigils, soul-Masses and all other superstitious chants
-  and prayers that are contrary to the holy divine word" (Sehling 7/2.2, p. 60). The editors add
-  that the convent order had forbidden the *Salve regina*, the *Regina coeli*, the vigils and
-  the Masses for the dead (editors' introduction, Sehling 7/2.2, p. 35).
-
-**The psalter for the dead.** In the convents the office of the dead went with psalters prayed
-for the departed, often promised under seal to the convent's benefactors.
-Braunschweig-Wolfenbüttel releases the nuns from such vows in its report on the monasteries of
-1569. The release is spoken as Christ's own, "from heaven", to the nuns.
-**Braunschweig-Wolfenbüttel, *Christlicher und gründlicher bericht* on the convents, 1569**
-(Sehling 6/1, p. 334):
-
-<!-- doc 1978 -->
-> Item da eine jungfrau oder eine ganze samlung versprochen, auch deshalben brief und sigel von
-> sich gegeben hette, das sie jerliches etliche psalter für einen todten oder lebendigen
-> menschen beten wolten, wil ich sie hiemit auch von diesem gelübde absolvieren, das sie
-> solches nicht zu thun schuldig. Denn der psalter ist nicht darumb aufgeschrieben, auch von
-> Gott nicht darzu verordnet, das man denselben für die abgestorbenen sprechen und sie damit
-> aus dem fegfeur erlösen solte.
-
-Item, if a maiden or a whole convent had promised, and had given letter and seal for it, that
-they would pray yearly certain psalters for a dead or a living man, I will hereby absolve them
-also from this vow, so that they be not bound to do it. For the psalter is not written for
-this, neither ordained of God thereto, that one should say it for the departed and thereby
-deliver them out of purgatory.
-
-The Mecklenburg convent order of 1572 makes the same charge. The nuns had been made to sing the
-psalter "in an unknown Latin tongue, without all understanding and devotion", whence the
-proverb "thou readest even as a nun the psalter". Worse, they had sung it to "atone for their
-own and other folk's sins, and help the souls out of purgatory" (Sehling 5, p. 253).
-
-**The schools.** The school had sung with the priests at the vigils, and the reform freed it.
-**Donauwörth, *Kirchenordnung*, 1545** (Sehling 12, p. 160):
-
-<!-- doc 351 -->
-> Damit dann der schulmaister und die schuler an der lere dest minder verhindert und die beste
-> zeit nit ubel angelegt werde, so sollen weder schulmaister noch schuler furtan zu dem sang der
-> seelmessen und vigilien verbunden sein.
-
-So that the schoolmaster and the scholars be the less hindered in their learning, and the best
-time be not ill bestowed, neither schoolmaster nor scholars shall henceforth be bound to the
-singing of the soul-Masses and vigils.
-
-**The endowments.** What had been given for the vigils went to the common chest, and the clergy
-who lost their fees were paid from it:
-- Wittenberg 1522 ([§10.12.3](#s10-12-3)).
-- Hamburg 1529: the preachers are to remind those who "had hitherto given money for certain
-  Masses, vigils, wax lights" to turn it to the right service of God, "that is, to the profit of
-  the poor and into this chest" (Sehling 5, p. 533).
-- Württemberg 1536: the chest takes in all that was spent "on Masses, vigils, the eternal light"
-  (Sehling 16, p. 96; [Chapter 14](#ch14), [§14.5.4](#s14-5-4)).
-- Calenberg-Göttingen 1542: into "God's chest" falls "all that hath hitherto been ordained and
-  founded for vigils, soul-Masses, memorials, soul-gifts, stations, candles, lights, lamps,
-  doles and all confraternities" (instruction for the visitors, Sehling 6/2, p. 858).
-- Perleberg 1542: the pastor had lost "a notable part of his living" from vigils, soul-Masses
-  and other ceremonies. In its place he receives a measure of rye yearly and two gulden a
-  quarter from the common chest (Sehling 3, p. 245).
-
-#### <a id="s10-12-5"></a>10.12.5 What survived at the funeral
-
-The office as an office did not survive. Its name, its place at the house of mourning, and some
-of its chants lived on in the funeral.
-
-**The name.** At Ermsleben in 1564 the pastor still called the singing at the grave the vigil.
-**Ermsleben, *Kirchen-Ordnung der Stadt Ermsleben*, 1564** (Sehling 2, p. 486):
-
-<!-- doc 1260 -->
-> Die todten werden fein bekleidet und ehrlich durch die kirchendiener und alle schueler zu
-> grabe mit lateinischen und teutschen sengen getragen, dan lest man sie eine kleine zeit beim
-> grabe stehn und singt vor allem volk vigil und beschleust mit der collecte, dan setzt man die
-> leich ins grab. Darnach thut man eine kurze leichpredigt
-
-The dead are decently clothed, and carried honourably to the grave by the ministers of the
-church and all the scholars, with Latin and German songs; then they are let stand a little while
-by the grave, and the vigil is sung before all the people and concluded with the collect; then
-the corpse is set in the grave. Thereafter a short funeral sermon is made
-
-**At the house of the dead.** The vigil and the night watch by the body lived on at the house of
-mourning. In the Mark and in Mecklenburg the vigil was still sung there in the 1550s, and the
-visitors abolished it:
-- **Prenzlau 1557**: "Whereas hitherto the custom hath been that vigils were held before the
-  door, but without devotion, this shall be abolished." Instead the scholars carry a cross
-  before the corpse, at eight in the morning or two in the afternoon (Sehling 3, p. 261).
-- **Neubrandenburg 1559**: see the next quotation.
-- **Transylvania 1607**: the synod counts among the superstitions of funerals "that torches and
-  lights are kept burning whole nights by the dead not yet buried" (Sehling 24, p. 494).
-
-**Neubrandenburg, *Kirchenordnung* of the visitors, 1559** (Sehling 5, p. 269):
-
-<!-- doc 1929 -->
-> Zum achtzehnten. Wenn toten seint, hat man alhie ein heidschen gebrauch, helt nachtwache,
-> bredt das kalb und treibt viel superstitiones, wie die nicht alle konnen genennet werden, die
-> sollen hiemit ganz abgeschafft sein. Es soll auch in oder vor den heusern keine vigilie mehr
-> gesungen, besundern wenn die schuler komen, soll das leich fort heraus nach dem kirchove
-> getragen werden, und der cantor mit den schulern vorher und bei dem grabe singen, bis das der
-> corper begraben ist. Darnach soll der predicanten einer eine kurze vermahnung von des
-> menschen muhseligen leben und der frolichen auferstehung thuen.
-
-Eighteenthly. When there are dead, there is here a heathenish custom: they keep a night watch,
-roast the calf, and practise many superstitions, more than can all be named; these shall hereby
-be wholly abolished. Neither shall any vigil be sung any more in or before the houses; but when
-the scholars come, the corpse shall be carried straight out to the churchyard, and the cantor
-with the scholars shall go before and sing by the grave until the body be buried. Thereafter one
-of the preachers shall make a short exhortation of man's toilsome life and of the joyful
-resurrection.
-
-**Before the house, in Latin.** At Pirna the deacons still sang a set of Latin responsories
-before the house of the dead, and German hymns followed in the churchyard. **Pirna,
-*Kirchenordnung* of Anton Lauterbach, 1555** (Sehling 1, p. 644):
-
-<!-- doc 119 -->
-> Piis in Christo obdormientibus pulsus campanarum permittetur et ad sepulturam una campana
-> intonet ad convocandum populum ad funus, ad quod diaconus unus aut uterque, etiam pastor si
-> vocati adsint stantes ante domum latine cantent: Si bona suscepimus. Redemptor meus etc. Si
-> credimus etc. Media vita in morte sumus. Ecce mysterium magnum dico vobis. Cum venisset Jesus
-> in domum principis etc. In coemeterio populo collecto germanica canantur
-
-For the godly that fall asleep in Christ the ringing of the bells shall be permitted, and for
-the burial one bell shall sound, to call the people together to the funeral; at which one
-deacon or both, and the pastor also if they be called, standing before the house, shall sing in
-Latin: "If we have received good things"; "My Redeemer" etc.; "If we believe" etc.; "In the
-midst of life we are in death"; "Behold, I shew you a great mystery"; "When Jesus was come into
-the ruler's house" etc. In the churchyard, the people being gathered, German songs shall be sung
-
-**The responsory from Job.** One piece of the old Matins survived widely: the responsory *Credo
-quod Redemptor meus vivit*. The Braunschweig-Wolfenbüttel order of 1543 has the scholars sing it
-first of all before the bier, "with the verse and repetition", as a responsory is sung in the
-office. **Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543** (Sehling 6/1,
-pp. 67–68):
-
-<!-- doc 1972 -->
-> Doden begraven. De schöler mit einem edder mehr scholgesellen, mit der halven edder mit der
-> ganzen schole, darna yd bestellet und darvor gegeven werd, alse von olders gewonlick, scholen
-> vor der baren hergahn und singen int erste latinisch: Redemptor meus vivit etc. mit dem vers
-> und repetitien, wen dat uthe is, düdesch: Erbarm dy myn, o Here Got etc. Midden wy im leven
-> sind etc. Uth deper noth etc. By dem grave dat led: Nu lat uns dat lyff begraven etc. Edder
-> wat anders.
-
-Burying the dead. The scholars, with one or more of the school's assistants, with the half or
-with the whole school, according as it is bespoken and paid for, as hath been customary of old,
-shall go before the bier and sing first in Latin: "My Redeemer liveth" etc., with the verse and
-the repetition; when that is ended, in German: "Erbarm dich mein, o Herre Gott" etc., "Mitten
-wir im Leben sind" etc., "Aus tiefer Not" etc.; by the grave the hymn "Nun lasst uns den Leib
-begraben" etc.; or something else.
-
-- The editors identify the piece as the responsory *Credo quod Redemptor meus vivit* of the
-  office of the dead (Sehling 6/1, p. 68).
-- Hildesheim's town order of 1544 repeats the passage. Its editors call the piece a "responsory
-  from the office of the dead (after Job 19:25–27)" (Sehling 7/2.1, p. 866).
-- It stands also at Pirna (above), and in the Rostock *Conformitas* of about 1560 as *Scio quod
-  redemptor meus* (Sehling 5, p. 290).
-
-**The canticles of Lauds.** The Brandenburg-Nürnberg order of 1533 and the Pfalz-Neuburg order
-of 1543 sing at the burial the two canticles of the old Lauds of the dead, though they do not
-say so (the identification is this book's):
-- **Brandenburg-Nürnberg 1533** has the scholars sing the *Benedictus* or Psalm 90, with the
-  antiphon *Media vita* or *Ego sum resurrectio et vita* ([Chapter 13](#ch13),
-  [§13.9.3](#s13-9-3)).
-- **Pfalz-Neuburg 1543** gives three Latin canticles to choose from at the body: Psalm 90, the
-  canticle of Hezekiah, *Ego dixi: In dimidio dierum meorum* (Isaiah 38:10–20; the editors print
-  "30"), and the *Benedictus*. They are sung with *Media vita* or *Ego sum resurrectio et vita*
-  (Sehling 13, p. 90).
-
-In the Roman office of the dead the canticle of Hezekiah and the *Benedictus* with *Ego sum
-resurrectio* both belong to Lauds ([§10.12.1](#s10-12-1)).
-
-**An office after the burial: Brandenburg 1540.** Joachim II's order keeps the most. After the
-procession the mourners go back into the church for what is in effect a short office of the
-dead without prayer for the dead. It has lessons from Job, responsories, the *Benedictus* with
-*Ego sum resurrectio*, a German collect and the responsory *Si bona suscepimus*. **Brandenburg,
-*Kirchen-ordnung* of Joachim II, 1540** (Sehling 3, p. 81):
-
-<!-- doc 1746 -->
-> Und so man vom begrebnis widerum in die kirchen gehet, alsdenn mag man singen, mit fried und
-> freud ich fahr dahin, darauf auch lesen ein oder mehr lectiones ex Hiob oder Paulo de
-> resurrectione und dazwischen etliche responsoria oder deudsche gesenge, darnach das
-> benedictus mit der antiphon, ego sum ressurrectio et vita und denn ein deudsche collecta, wie
-> folgt […] Und zum beschlies das responsorium, si bona suscepimus, darneben sol man ein becken
-> setzen in die kirch zum opfer oder almus fur die armen leut
-
-And when they go again from the burial into the church, then may be sung "Mit Fried und Freud
-ich fahr dahin"; and thereupon be read one or more lessons out of Job, or out of Paul of the
-resurrection, and between them some responsories or German songs; thereafter the *Benedictus*
-with the antiphon *Ego sum resurrectio et vita*, and then a German collect, as followeth […] And
-for the conclusion the responsory *Si bona suscepimus*; and a basin shall be set in the church
-for the offering or alms for the poor folk
-
-The rest of the order's burial chapter:
-- **The collect** is the Saxon burial collect ([Chapter 13](#ch13), [§13.9.2](#s13-9-2)).
-- **A Mass may follow.** If the burial was in the morning, a Mass might be held: "the office
-  *Si enim credimus*", with the epistle 1 Thessalonians 4:13 and the gospel John 11:25. These
-  are the epistle and gospel of the requiem on the day of burial in the Roman missal. After an
-  evening burial the Mass was put off to the next day.
-- **No communion at it.** Communicants were to commune at the common daily office "and not at
-  this one; for else an abuse would easily arise from it, and in time it be taken again for a
-  soul-Mass".
-- **No thirtieth days.** "Much less tolerable are the thirtieth days and anniversaries, with the
-  soul-offering Masses" (Sehling 3, p. 81).
-
-**A yearly day of the dead, for the living.** The same order keeps one yearly service of the
-dead, on All Souls' Day and on two Ember Fridays. **Brandenburg, *Kirchen-ordnung* of
-Joachim II, 1540** (Sehling 3, p. 81):
-
-<!-- doc 1746 -->
-> Damit aber vermerkt, damit wir alles, das in der kirche besserung moge gewand werden, gerne
-> erhalten wolten, lassen wir uns gefallen, das jerlich ein sonderlich amt und darbei ein
-> predig von den verstorbenen und de mortalitate et resurrectione mortuorum geschehe in stiften
-> und pfarren, die animarum, und am freitage im quartal reminiscere und trinitatis, und das
-> sonderlich darneben das volk erinnert werde, vor den alten misbreuchen sich zu hüten […] denn
-> dieweil kein funus vorhanden und die erinnerung des tods und auferstehung darinnen
-> furgetragen, so kan es vor kein begengnis der verstorbenen, sondern den lebendigen zu gute
-> geachtet werden
-
-But that it may be marked that we would gladly keep all that may be turned to the betterment of
-the church, we are content that yearly a special office, and with it a sermon of the departed,
-and of mortality and the resurrection of the dead, be held in the foundations and parishes on
-All Souls' Day, and on the Friday in the Ember weeks of Reminiscere and of Trinity; and that
-therewith the people be in especial warned to beware of the old abuses […] for since there is
-no corpse present, and the remembrance of death and resurrection is set forth therein, it can be
-counted for no *Begängnis* of the departed, but for the good of the living
-
-The service is again the office *Si enim credimus*, and here communicants may receive. No
-other order in the corpus keeps a service of All Souls' Day:
-- **Strasbourg 1542** (Moderate Reformed): some wished to mark All Saints and All Souls at the
-  end of the next Sunday's sermon, "so that the true care for the dead be rightly taught, and
-  the false and superstitious be wholly rooted out". Others wanted the feast deliberated further
-  (Sehling 20/1, p. 326).
-- **Hohenlohe 1558** has the preachers explain the day's abuse at that season (Sehling 15,
-  p. 125).
-- **Sayn 1582** strikes All Souls' Day with the saints' days (Sehling 19/1, p. 373).
-
-**The Reformed.** Nassau-Dillenburg's order of 1582 (Reformed) keeps at funerals:
-- short exhortations and consolations, "or lessons of a chapter of the Bible, as John 12,
-  1 Corinthians 15, 1 Thessalonians 4 and 5, Ezekiel 37, Job 19, Psalm 39";
-- and it forbids "excessive commendations of the dead, with all superstition" (Sehling 10,
-  p. 163).
-
-Job 19 is the chapter of *Credo quod Redemptor*.
-
-#### <a id="s10-12-6"></a>10.12.6 What took its place
-
-**Accompanying the dead.** Brenz answered his own history of the vigil
-([§10.12.1](#s10-12-1)) with three things: the procession to the grave, a mention in the next
-day's service, and comfort for the kin. **Schwäbisch Hall, *Kirchenordnung*, 1527**
-(Sehling 17/1, p. 60):
-
-<!-- doc 755 -->
-> So dan die vigilien und meß, wie ytz gehalten, fur die todten unnutz, wie sol man sich dan
-> gegen inen halten? Sol ir gar nit geacht werden? In keinen weg. Es geburt sich ye nit, das man
-> sie hinwerff als ein schelmen, dan die abgestorben sein ye noch unser bruder und durch den tod
-> nit auß unser geselschafft gefallen. Wir bleyben noch glider eins einigen Corpers, darumb sol
-> die cristenlich versamlung fleyssig ermant werden, nit zu vigilien und selmessen wie
-> bißhieher, sonder nach dem ersten gebrauch der kirchen fleyssig zu dem grab die abgestorbnen
-> zubeleytten, das dan auch die burgerlich nachparschaft erhaischt. Es sol auch in dem
-> nachgenden tagampt, nach dem der abgestorben begraben, sein gedacht werden, sein todt
-> verkundigt werden. Darby sol die fruntschaft durch das wort gottes getrost werden und die
-> andern ermant, ires glaubens und hoffens, auch beherzigt bereyt zusein, dem beruff gottes, wan
-> und wie er wol, zuvolgen.
-
-Since then the vigils and Masses, as they are now held, are unprofitable for the dead, how shall
-one then bear oneself toward them? Shall no regard be had of them at all? In no wise. It is not
-seemly that one cast them away like carrion, for the departed are still our brethren, and are
-not fallen out of our fellowship through death. We remain still members of one only body.
-Therefore the Christian congregation shall be diligently exhorted, not to vigils and soul-Masses
-as hitherto, but, after the first use of the church, diligently to accompany the departed to the
-grave, which civil neighbourliness also requireth. He shall also be remembered in the service of
-the day following, after the departed is buried, and his death shall be announced. Therewith the
-kinsfolk shall be comforted through the word of God, and the others exhorted to be ready in
-their faith and hope, and of good courage, to follow the call of God, when and how he will.
-
-**The funeral sermon.** Wittgenstein put the funeral sermon expressly "instead of the vigils",
-and paid for it with the old fees. **Wittgenstein, *Kirchenordnung*, 1555** (Sehling 22, p. 87):
-
-<!-- doc 1491 -->
-> Nachdem auch vile gefelle zu unchristlichen ceremonien und gebrauch seint gegeben und
-> gesthifftet worden, so sollen die pfarher und kirchenthiener solch abgottisch wesen lenger
-> zuhalten hiemit einst vor all entledigt, doch pflichtig unnd schuldig sein, anderst etwas, das
-> zur ehr Gottes und zu erbauhong und underweisong der pfarkinder dinstlich ist, mit rath des
-> superintendenten und je einen wie der ander dogegen zuthun, domit nit gesagt werden moge, das
-> die kirchenthiener ir gefell umbsonst oder vergeblich einnemen und nichts darfur thuen.
-> Sonderlich aber anstat der vigilien sollen die pastores leichpredigen thun, welche sie uß
-> Spangenbergio und seinen predigen, die er und andere bei den leichen gethan und im druck
-> usgangen seint, nemen und nachthuen mogen.
-
-And forasmuch as many dues have been given and endowed for unchristian ceremonies and uses, the
-pastors and ministers of the church shall hereby be discharged once for all from keeping up such
-idolatrous doings any longer; yet shall they be bound and owe it to do in return something else
-that serveth to the honour of God and to the edifying and instruction of the parishioners, with
-the counsel of the superintendent, each one like the other, that it may not be said that the
-ministers of the church take their dues for nought or in vain and do nothing for them. But in
-especial, instead of the vigils, the pastors shall make funeral sermons, which they may take
-from Spangenberg and from his sermons, which he and others have made at burials and which have
-gone forth in print, and do after them.
-
-The editors identify the book as Johann Spangenberg's fifteen funeral sermons of 1545
-(Sehling 22, p. 87).
-
-**Hymns and a short sermon.** Hohenlohe in 1553 set hymns and a sermon in the place of the
-soul-Masses, vigils, *Begängnisse* and anniversaries (Sehling 15, p. 80):
-- the dead are not to be "carried out and buried like the unreasoning beast";
-- they are escorted with *Media vita* and *Mit fried und freud ich far dahin*;
-- *Nun last uns den leib begraben* is sung at the grave;
-- the pastor makes, before or after the burial, "a short sermon and exhortation of the
-  resurrection of Christians".
-
-**A word at the grave.** The visitors at Neubrandenburg (1559) put a short exhortation "of man's
-toilsome life and of the joyful resurrection" in place of the vigil at the house (above). The
-funeral sermon and its growth are treated in [Chapter 11](#ch11), [§11.4.6](#s11-4-6).
-
-#### <a id="s10-12-7"></a>10.12.7 Summary by order
-
-| Order | What it says of the vigil | Sehling |
-|---|---|---|
-| Wittenberg 1522 | the vigil priests' income to the common chest; they are to visit the sick | 1, p. 697 |
-| Coburg 1524 (proposal) | burial, vigil and soul-Mass left to the family | 1, p. 543 |
-| Mülhausen 1524 (Reformed) | vigils and anniversaries left unchanged for now; Geschmus would have joined the week's vigils | 20/2, pp. 163, 197 |
-| Pomesania 1524 | no ringing, singing, Mass or vigils over the dead | 4, p. 29 |
-| Nördlingen 1525 | vigils and Masses for the dead put away | 12, pp. 298, 305 |
-| Strasbourg 1525 (Moderate Reformed) | soul-Masses and vigils abolished by the council | 20/1, p. 45 |
-| Goslar 1525 (the commons) | complaint at the doubled presence money for the vigils | 7/2.2, p. 184 |
-| Ansbach 1526 | old foundations kept until a council | 11, p. 94 |
-| Schwäbisch Hall 1527 | the vigil was the first church's night watch; procession, mention and comfort instead | 17/1, p. 60 |
-| Lüneburg 1527 | vigils, soul-Masses, *Kalande*, thirtieth days and anniversaries abolished | 6/1, p. 515 |
-| Saxony 1528 | vigils would make sin removable by works | 1, p. 164 |
-| Mülhausen 1528 (Reformed) | the vigil's psalms and Job lessons may stay, in Latin | 20/2, pp. 209–210 |
-| Hamburg 1529 | vigils built on 2 Maccabees; their money to the poor chest | 5, pp. 520, 533 |
-| Heilbronn 1529 | the bell for vigils stopped on All Souls' Day | 17/1, pp. 225–226 |
-| Heilbronn 1530 | no help to the dead; the first church's watch | 17/1, pp. 278–279 |
-| Minden 1530 | vigil, memorial and soul-Mass against Scripture | 21, p. 144 |
-| Goslar, St Simon and Judas, 1534 | canons to put away the vigils | 7/2.2, p. 264 |
-| Pomerania 1535 | an abuse of the psalms and of Job for purgatory | 4, pp. 342, 350 |
-| Freiberg 1537 | vigils, anniversaries and thirtieth days abolished | 1, p. 466 |
-| Lippe 1538 | vigils among the false good works | 21, p. 312 |
-| Northeim 1539 | vigils and *Begängnis* abolished | 6/2, p. 932 |
-| Brandenburg 1540 | an office after the burial with Job lessons and *Benedictus*; a yearly service on All Souls' Day | 3, p. 81 |
-| Calenberg-Göttingen 1542 | "a pure abomination"; abolished in the convents; the endowments to the chest | 6/2, pp. 760, 852, 858 |
-| Frankenberg convent 1542 | vigils dropped, the hours kept | 7/2.2, p. 275 |
-| Perleberg 1542 | the pastor compensated for the lost fees | 3, p. 245 |
-| Schleswig-Holstein 1542 | the Pomeranian ruling in Low German | 23, p. 144 |
-| Wurzen 1542 | vigils abolished with the Canon | 2, p. 98 |
-| Strasbourg 1542 (Moderate Reformed) | All Saints and All Souls to be marked at the Sunday sermon, the true care for the dead taught; disputed | 20/1, p. 326 |
-| Braunschweig-Wolfenbüttel 1543 | *Redemptor meus vivit* before the bier | 6/1, pp. 67–68 |
-| Bonnus (Osnabrück chapters) 1543 | vigils and prayers for the dead omitted | 7/1, p. 229 |
-| Pfalz-Neuburg 1543 | the canticle of Hezekiah or the *Benedictus* at the burial | 13, p. 90 |
-| Hildesheim 1544 | *Redemptor meus vivit* before the bier | 7/2.1, p. 866 |
-| Donauwörth 1545 | the school freed from singing vigils | 12, p. 160 |
-| Heidelberg 1546 | vigils suspended, the rents kept | 14, p. 92 |
-| Hohenlohe 1553 | hymns and a sermon instead | 15, p. 80 |
-| Pirna 1555 | Latin responsories sung before the house | 1, p. 644 |
-| Wittgenstein 1555 | funeral sermons instead of the vigils | 22, p. 87 |
-| Palatinate 1556 | no more vigils or papal lays | 14, p. 112 |
-| Prenzlau 1557 | the vigils before the door abolished | 3, p. 261 |
-| Hohenlohe 1558 | the abuse of All Souls' Day to be explained | 15, p. 125 |
-| Neubrandenburg 1559 | no vigil in or before the houses | 5, p. 269 |
-| Rostock c. 1560 | *Scio quod redemptor meus* at funerals | 5, p. 290 |
-| Schaumburg convents 1562 | vigils and soul-Masses to cease | 7/2.2, pp. 35, 60 |
-| Ermsleben 1564 | the "vigil" sung at the grave | 2, p. 486 |
-| Braunschweig-Wolfenbüttel convents 1569 | nuns released from vows of psalters for the dead | 6/1, p. 334 |
-| Mecklenburg convents 1572 | the psalter for souls and the *Begängnisse* condemned | 5, pp. 253–254 |
-| Wolfstein 1574 | no vigils to help out of purgatory | 13, p. 586 |
-| Nassau-Dillenburg 1582 (Reformed) | Bible lessons at funerals, Job 19 among them; no commendations | 10, p. 163 |
-| Sayn 1582 | All Souls' Day abolished | 19/1, p. 373 |
-| Teschen 1584 | soul-Masses, requiem and vigils abolished | 3, pp. 462–463 |
-| Transylvania 1607 | night lights by the unburied dead superstitious | 24, p. 494 |
 
 ---
 
@@ -39761,14 +39763,14 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Wittenberg, *Kirchen-Ordnung*, 1522 | 1, p. 697 | 146 | [10.12.1](#s10-12-1), [10.12.3](#s10-12-3), [10.12.4](#s10-12-4) |
+| Wittenberg, *Kirchen-Ordnung*, 1522 | 1, p. 697 | 146 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4) |
 | Luther, *Von ordenung gottis diensts in der gemeine*, 1523 | 1, pp. 2–3 | 2 | [10.3.1](#s10-3-1), [10.6.4](#s10-6-4) |
 | Luther, *Formula missae et communionis*, 1523 | 1, p. 9 | 2 | [10.3.2](#s10-3-2) |
-| Coburg, *Gottesdienst-Ordnung* (proposal), 1524 | 1, p. 543 | 73 | [10.12.3](#s10-12-3) |
+| Coburg, *Gottesdienst-Ordnung* (proposal), 1524 | 1, p. 543 | 73 | [10.9.3](#s10-9-3) |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, pp. 13–14 | 3 | [10.3.3](#s10-3-3), [10.8.1](#s10-8-1), [10.10.1](#s10-10-1) |
 | Ernestine Saxony, deliberations for the visitation (Sehling's introduction) | 1, p. 38 | 6 | [10.4.1](#s10-4-1) |
-| Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525 | 1, pp. 698–699 | 147 | [10.4.1](#s10-4-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.9.4](#s10-9-4) |
-| Ernestine Saxony, *Unterricht der visitatoren an die pfarrherrn*, 1528 | 1, pp. 164, 167 | 9 | [10.3.4](#s10-3-4), [10.12.2](#s10-12-2) |
+| Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525 | 1, pp. 698–699 | 147 | [10.4.1](#s10-4-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.11.4](#s10-11-4) |
+| Ernestine Saxony, *Unterricht der visitatoren an die pfarrherrn*, 1528 | 1, pp. 164, 167 | 9 | [10.3.4](#s10-3-4), [10.9.2](#s10-9-2) |
 | Nimbschen, *Verordnung der Visitatoren für das Kloster*, 1529 | 1, p. 617 | 110 | [10.4.4](#s10-4-4) |
 | Torgau, *Ordnung der Visitatoren*, 1529 | 1, p. 677 | 139 | [10.5.3](#s10-5-3) |
 | Belzig, *Ordnung der Stadt Belzig*, 1529 | 1, p. 527 | 63 | [10.7.5](#s10-7-5) |
@@ -39776,175 +39778,175 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Niemegk, *Verordnung der Visitatoren*, 1529 | 1, p. 616 | 110 | [10.7.5](#s10-7-5) |
 | Kloster Remse, *Ein kurze christliche ordnung in das junkfrau closter*, 1533 | 1, p. 652 | 125 | [10.7.5](#s10-7-5), [10.8.2](#s10-8-2) |
 | Altenburg, *Verordnung … fur den stift aufm schloss*, 1533 | 1, p. 515 | 56 | [10.4.2](#s10-4-2), [10.7.5](#s10-7-5) |
-| Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, pp. 700–705 | 148 | [10.5.2](#s10-5-2), [10.6.1](#s10-6-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.9.1](#s10-9-1), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.7](#s10-10-7), [10.11.5](#s10-11-5), [10.11.6](#s10-11-6) |
+| Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, pp. 700–705 | 148 | [10.5.2](#s10-5-2), [10.6.1](#s10-6-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.10.1](#s10-10-1), [10.10.7](#s10-10-7), [10.11.1](#s10-11-1), [10.11.3](#s10-11-3), [10.11.4](#s10-11-4), [10.12.5](#s10-12-5), [10.12.6](#s10-12-6) |
 | Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537 | 2, p. 72 | 1219 | [10.10.4](#s10-10-4), [10.10.7](#s10-10-7) |
-| Freiberg, *Visitationsartikel des Dr. Jacob Schenk*, 1537 | 1, p. 466 | 48 | [10.12.2](#s10-12-2) |
+| Freiberg, *Visitationsartikel des Dr. Jacob Schenk*, 1537 | 1, p. 466 | 48 | [10.9.2](#s10-9-2) |
 | Leipzig, *Visitations-Artikel für die Klöster*; *Gemeines Fürhalten*, 1539 | 1, pp. 589–590 | 97, 98 | [10.4.4](#s10-4-4) |
 | Albertine Saxony, *Kirchenordnunge zum anfang* (Duke Henry), 1539 | 1, p. 564 | 85 | [10.5.2](#s10-5-2) |
-| Wurzen, *Gemeine Artikel*, 1542 | 2, p. 98 | 1223 | [10.12.2](#s10-12-2) |
+| Wurzen, *Gemeine Artikel*, 1542 | 2, p. 98 | 1223 | [10.9.2](#s10-9-2) |
 | Naumburg, *Gottesdienst-Ordnung in der Domkirche*, 1543 (1541?) | 2, p. 596 | 1265 | [10.4.2](#s10-4-2), [10.6.4](#s10-6-4), [10.8.1](#s10-8-1) |
 | Merseburg, synodal decree, 1544 | 2, p. 13 | 1211 | [10.6.5](#s10-6-5) |
 | Zwickau, *Ordenung der pfarren und kirchen*, 1545 | 1, p. 725 | 154 | [10.5.1](#s10-5-1) |
-| Schönburg lordships, church order of Johann Pfeffinger, 1542 | 2, pp. 170, 174 | 1235 | [10.5.3](#s10-5-3), [10.11.2](#s10-11-2), [10.11.7](#s10-11-7) |
-| Coburg, *Verordnung und bestellung des kirchendiensts*, 1545 | 1, p. 543 | 73 | [10.7.5](#s10-7-5), [10.11.6](#s10-11-6) |
+| Schönburg lordships, church order of Johann Pfeffinger, 1542 | 2, pp. 170, 174 | 1235 | [10.5.3](#s10-5-3), [10.12.2](#s10-12-2), [10.12.7](#s10-12-7) |
+| Coburg, *Verordnung und bestellung des kirchendiensts*, 1545 | 1, p. 543 | 73 | [10.7.5](#s10-7-5), [10.12.6](#s10-12-6) |
 | Senftenberg, *Kirchen-Ordnung für die Stadt Senftenberg*, 1555 | 1, pp. 671–672 | 136 | [10.5.2](#s10-5-2), [10.7.1](#s10-7-1) |
 | Sangerhausen, *Verordnung der Visitatoren*, 1555 | 1, p. 658 | 128 | [10.10.2](#s10-10-2), [10.10.4](#s10-10-4), [10.10.7](#s10-10-7) |
-| Pirna, *Kirchenordnung* of Anton Lauterbach, 1555 | 1, p. 644 | 119 | [10.12.5](#s10-12-5) |
+| Pirna, *Kirchenordnung* of Anton Lauterbach, 1555 | 1, p. 644 | 119 | [10.9.5](#s10-9-5) |
 | Obermaßfeld (Henneberg), the pastor's account of his services, 1563 | 2, p. 343 | 1249 | [10.10.2](#s10-10-2) |
-| Ermsleben, *Kirchen-Ordnung der Stadt Ermsleben*, 1564 | 2, p. 486 | 1260 | [10.12.5](#s10-12-5) |
+| Ermsleben, *Kirchen-Ordnung der Stadt Ermsleben*, 1564 | 2, p. 486 | 1260 | [10.9.5](#s10-9-5) |
 | Sulzfeld and Klein-Bardorf (Henneberg), *Kirchen-Ordnung*, 1566 | 2, p. 353 | 1250 | [10.10.4](#s10-10-4), [10.10.7](#s10-10-7) |
-| Herpf (Henneberg), *Kirchen-Ordnung*, 1566 | 2, p. 334 | 1248 | [10.11.6](#s10-11-6) |
+| Herpf (Henneberg), *Kirchen-Ordnung*, 1566 | 2, p. 334 | 1248 | [10.12.6](#s10-12-6) |
 | Gottleuba, *Verzeichnus der kirchenordnung*, 1567 | 1, p. 568 | 87 | [10.10.4](#s10-10-4) |
 | Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1, p. 555 | 78 | [10.7.5](#s10-7-5) |
 | Brandis, *Gottesdienst-Ordnung*, 1574 | 1, p. 534 | 67 | [10.10.2](#s10-10-2) |
-| Schwarzburg, *Kirchenordnung*, 1574 | 2, p. 134 | 1230 | [10.11.3](#s10-11-3) |
+| Schwarzburg, *Kirchenordnung*, 1574 | 2, p. 134 | 1230 | [10.12.3](#s10-12-3) |
 | Penig, *Kirchenordnung*, 1575 | 1, p. 634 | 116 | [10.10.4](#s10-10-4), [10.10.7](#s10-10-7) |
-| Torgau, visitation order, 1575: the girls' school | 1, p. 685 | 141 | [10.11.7](#s10-11-7) |
+| Torgau, visitation order, 1575: the girls' school | 1, p. 685 | 141 | [10.12.7](#s10-12-7) |
 | Albertine Saxony, *Ordnung* of Duke August, 1580 | 1, pp. 368, 369, 370, 393, 422 | 44 | [10.5.2](#s10-5-2), [10.5.3](#s10-5-3), [10.6.5](#s10-6-5), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5) |
-| Henneberg, *Kirchenordnung* of Count Georg Ernst, 1582 | 2, p. 311 | 1247 | [10.11.7](#s10-11-7) |
+| Henneberg, *Kirchenordnung* of Count Georg Ernst, 1582 | 2, p. 311 | 1247 | [10.12.7](#s10-12-7) |
 
 **Franconia, Swabia and the Palatinate**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Nördlingen, *Renovatio Ecclesiae Nordlingiacensis*, 1525 (and the editors' note) | 12, pp. 298, 305 | 370 | [10.12.1](#s10-12-1), [10.12.2](#s10-12-2) |
-| Strasbourg, the council's measures of 1525 (Sehling's introduction) (Moderate Reformed) | 20/1, p. 45 | 1275 | [10.12.2](#s10-12-2) |
-| Brandenburg-Ansbach-Kulmbach, *Landtagsabschied*, 1526 (and the editors' note) | 11, p. 94 | 259 | [10.12.1](#s10-12-1), [10.12.3](#s10-12-3) |
-| Schwäbisch Hall, *Kirchenordnung*, 1527 | 17/1, p. 60 | 755 | [10.12.1](#s10-12-1), [10.12.6](#s10-12-6) |
-| Heilbronn, the council's measures of 1529 (Sehling's introduction) | 17/1, pp. 225–226 | 765 | [10.12.3](#s10-12-3) |
-| Heilbronn, *Confessio Heilbronnensis* and *Kirchenordnung*, 1530 | 17/1, pp. 278–279 | 770 | [10.12.1](#s10-12-1), [10.12.2](#s10-12-2) |
+| Nördlingen, *Renovatio Ecclesiae Nordlingiacensis*, 1525 (and the editors' note) | 12, pp. 298, 305 | 370 | [10.9.1](#s10-9-1), [10.9.2](#s10-9-2) |
+| Strasbourg, the council's measures of 1525 (Sehling's introduction) (Moderate Reformed) | 20/1, p. 45 | 1275 | [10.9.2](#s10-9-2) |
+| Brandenburg-Ansbach-Kulmbach, *Landtagsabschied*, 1526 (and the editors' note) | 11, p. 94 | 259 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
+| Schwäbisch Hall, *Kirchenordnung*, 1527 | 17/1, p. 60 | 755 | [10.9.1](#s10-9-1), [10.9.6](#s10-9-6) |
+| Heilbronn, the council's measures of 1529 (Sehling's introduction) | 17/1, pp. 225–226 | 765 | [10.9.3](#s10-9-3) |
+| Heilbronn, *Confessio Heilbronnensis* and *Kirchenordnung*, 1530 | 17/1, pp. 278–279 | 770 | [10.9.1](#s10-9-1), [10.9.2](#s10-9-2) |
 | Brandenburg-Ansbach-Kulmbach, *Gottesdienstmandat*, 1531 | 11, pp. 311–312 | 275 | [10.4.2](#s10-4-2) |
 | Heilbronn, draft *Gottesdienstordnung*, 1532 | 17/1, p. 302 | 778 | [10.7.5](#s10-7-5) |
 | Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, pp. 313–316 | 276 | [10.4.2](#s10-4-2), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5) |
-| Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 171, 203, 206 | 270 | [10.3.4](#s10-3-4), [10.10.5](#s10-10-5), [10.12.5](#s10-12-5) |
-| Württemberg, *Kastenordnung*, 1536 | 16, p. 96 | 650 | [10.12.4](#s10-12-4) |
-| Strasbourg, *Gottesdienstordnung*, 1542 (Moderate Reformed) | 20/1, p. 326 | 1311 | [10.12.5](#s10-12-5) |
-| Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 77–78, 90 | 386 | [10.4.2](#s10-4-2), [10.7.2](#s10-7-2), [10.8.2](#s10-8-2), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.12.5](#s10-12-5) |
-| Schwäbisch Hall, *Kirchenordnung*, 1543 | 17/1, pp. 162–163, 170 | 762 | [10.6.4](#s10-6-4), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.10.7](#s10-10-7), [10.11.7](#s10-11-7) |
-| Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | [10.11.7](#s10-11-7) |
-| Schweinfurt, *Kirchenordnung*, 1543 | 11, pp. 631, 642 | 304 | [10.11.6](#s10-11-6), [10.11.7](#s10-11-7) |
+| Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 171, 203, 206 | 270 | [10.3.4](#s10-3-4), [10.9.5](#s10-9-5), [10.10.5](#s10-10-5) |
+| Württemberg, *Kastenordnung*, 1536 | 16, p. 96 | 650 | [10.9.4](#s10-9-4) |
+| Strasbourg, *Gottesdienstordnung*, 1542 (Moderate Reformed) | 20/1, p. 326 | 1311 | [10.9.5](#s10-9-5) |
+| Pfalz-Neuburg, *Kirchenordnung*, 1543 | 13, pp. 77–78, 90 | 386 | [10.4.2](#s10-4-2), [10.7.2](#s10-7-2), [10.8.2](#s10-8-2), [10.8.3](#s10-8-3), [10.9.5](#s10-9-5), [10.11.1](#s10-11-1) |
+| Schwäbisch Hall, *Kirchenordnung*, 1543 | 17/1, pp. 162–163, 170 | 762 | [10.6.4](#s10-6-4), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.10.7](#s10-10-7), [10.12.7](#s10-12-7) |
+| Heilbronn, *Kirchenordnung*, 1543 | 17/1, p. 315 | 781 | [10.12.7](#s10-12-7) |
+| Schweinfurt, *Kirchenordnung*, 1543 | 11, pp. 631, 642 | 304 | [10.12.6](#s10-12-6), [10.12.7](#s10-12-7) |
 | Nördlingen, *Ordnung der ceremonien in der pfarkirchen zu Sant Georgen*, 1544 | 12, p. 319 | 373 | [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
-| Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, pp. 504, 528 | 297 | [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.12.1](#s10-12-1) |
-| Donauwörth, *Kirchenordnung*, 1545 | 12, p. 160 | 351 | [10.12.1](#s10-12-1), [10.12.4](#s10-12-4) |
-| Kurpfalz, *Bedenken zur Reformation der Stiftskirchen*, 1546 | 14, pp. 91–92 | 470 | [10.4.2](#s10-4-2), [10.12.3](#s10-12-3), [10.12.4](#s10-12-4) |
+| Nürnberg, *Agendbüchlein* of Veit Dietrich, 1545 | 11, pp. 504, 528 | 297 | [10.9.1](#s10-9-1), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5) |
+| Donauwörth, *Kirchenordnung*, 1545 | 12, p. 160 | 351 | [10.9.1](#s10-9-1), [10.9.4](#s10-9-4) |
+| Kurpfalz, *Bedenken zur Reformation der Stiftskirchen*, 1546 | 14, pp. 91–92 | 470 | [10.4.2](#s10-4-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4) |
 | Strasbourg, *Übereinkunft der Geistlichen zu Lehre, Zensur und Gottesdienstgestaltung*, 1548 (Moderate Reformed; on the Interim) | 20/1, p. 355 | 1316 | [10.10.5](#s10-10-5) |
 | Regensburg, *Kirchenordnung* under Justus Jonas, 1553 | 13, p. 421 | 440 | [10.10.4](#s10-10-4) |
 | Württemberg, *Kirchenordnung*, 1553 | 16, pp. 243, 246 | 671 | [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
-| Hohenlohe, *Kirchenordnung*, 1553 | 15, pp. 68, 80 | 539 | [10.12.1](#s10-12-1), [10.12.2](#s10-12-2), [10.12.6](#s10-12-6) |
+| Hohenlohe, *Kirchenordnung*, 1553 | 15, pp. 68, 80 | 539 | [10.9.1](#s10-9-1), [10.9.2](#s10-9-2), [10.9.6](#s10-9-6) |
 | Öhringen, *Reformation und Ordnung des Öhringer Stifts*, 1556 | 15, p. 102 | 545 | [10.4.2](#s10-4-2) |
-| Kurpfalz, *Kirchenordnung*, 1556 | 14, p. 141 | 480 | [10.11.8](#s10-11-8) |
-| Kurpfalz, *Reformationsmandat an die Amtleute* of Ottheinrich, 16 April 1556 | 14, p. 112 | 475 | [10.12.2](#s10-12-2) |
-| Pfalz-Zweibrücken, *Kirchenordnung*, 1557 | 18, p. 179 | 967 | [10.11.8](#s10-11-8) |
-| Hohenlohe, *Visitations- und Kirchenordnung*, 1558 | 15, p. 125 | 549 | [10.12.5](#s10-12-5) |
+| Kurpfalz, *Kirchenordnung*, 1556 | 14, p. 141 | 480 | [10.12.8](#s10-12-8) |
+| Kurpfalz, *Reformationsmandat an die Amtleute* of Ottheinrich, 16 April 1556 | 14, p. 112 | 475 | [10.9.2](#s10-9-2) |
+| Pfalz-Zweibrücken, *Kirchenordnung*, 1557 | 18, p. 179 | 967 | [10.12.8](#s10-12-8) |
+| Hohenlohe, *Visitations- und Kirchenordnung*, 1558 | 15, p. 125 | 549 | [10.9.5](#s10-9-5) |
 | Rothenburg ob der Tauber, *Kirchenordnung*, 1559 | 11, p. 591 | 301 | [10.3.4](#s10-3-4) |
-| Württemberg, *Ordnung der deutschen Schulen*, 1559 (supplement to vol. 16) | 17/1, p. 584 | 813 | [10.11.7](#s10-11-7) |
-| Regensburg, *Kirchenordnung*, 1567 | 13, pp. 461, 464 | 450 | [10.11.2](#s10-11-2), [10.11.7](#s10-11-7) |
-| Schillingsfürst, *Kirchenordnung* in use until 1578 | 15, p. 227 | 567 | [10.11.7](#s10-11-7) |
-| Württemberg, *Ordnung der Klosterschulen*, 1559 (with the 1582 variants) | 16, pp. 365–367 | 683 | [10.6.6](#s10-6-6), [10.9.4](#s10-9-4) |
+| Württemberg, *Ordnung der deutschen Schulen*, 1559 (supplement to vol. 16) | 17/1, p. 584 | 813 | [10.12.7](#s10-12-7) |
+| Regensburg, *Kirchenordnung*, 1567 | 13, pp. 461, 464 | 450 | [10.12.2](#s10-12-2), [10.12.7](#s10-12-7) |
+| Schillingsfürst, *Kirchenordnung* in use until 1578 | 15, p. 227 | 567 | [10.12.7](#s10-12-7) |
+| Württemberg, *Ordnung der Klosterschulen*, 1559 (with the 1582 variants) | 16, pp. 365–367 | 683 | [10.6.6](#s10-6-6), [10.11.4](#s10-11-4) |
 | Tübingen, *Ordnung des Tübinger Stipendiums*, 1559, statutes (supplement to vol. 16) | 17/1, p. 562 | 813 | [10.6.6](#s10-6-6) |
 | Neckarbischofsheim, *Kirchenordnung*, 1560 | 16, p. 672 | 742 | [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
 | Feuchtwangen, chapter order, 1563 | 11, p. 402 | 293 | [10.5.3](#s10-5-3), [10.7.1](#s10-7-1) |
-| Palatinate, *Kirchenordnung*, 1563 (Reformed) | 14, pp. 342, 396–397 | 499, 504 | [10.10.5](#s10-10-5), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.11.2](#s10-11-2) |
+| Palatinate, *Kirchenordnung*, 1563 (Reformed) | 14, pp. 342, 396–397 | 499, 504 | [10.10.5](#s10-10-5), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.12.2](#s10-12-2) |
 | Pfalz-Veldenz, *Kirchenordnung*, 1574 | 18, p. 523 | 1011 | [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
-| Wolfstein, *Christliche Instructio des Thomas Stieber*, 1574 | 13, p. 586 | 463 | [10.12.2](#s10-12-2) |
+| Wolfstein, *Christliche Instructio des Thomas Stieber*, 1574 | 13, p. 586 | 463 | [10.9.2](#s10-9-2) |
 | Pfalz-Neuburg, *Generalartikel*, 1576 | 13, p. 178 | 404 | [10.6.5](#s10-6-5) |
-| Nördlingen, *Kirchenordnung*, 1579 | 12, pp. 357, 375 | 375 | [10.10.5](#s10-10-5), [10.11.8](#s10-11-8) |
-| Rieneck, *Vesperordnung zu Lohr*, 1588 | 11, p. 699 | 318 | [10.8.1](#s10-8-1), [10.9.2](#s10-9-2) |
+| Nördlingen, *Kirchenordnung*, 1579 | 12, pp. 357, 375 | 375 | [10.10.5](#s10-10-5), [10.12.8](#s10-12-8) |
+| Rieneck, *Vesperordnung zu Lohr*, 1588 | 11, p. 699 | 318 | [10.8.1](#s10-8-1), [10.11.2](#s10-11-2) |
 | Hohenlohe, Weikersheim orders on the daily prayer, 1588 | 15, pp. 538–550 | 604, 605 | [10.6.5](#s10-6-5) |
-| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 422, 429, 450 | 294 | [10.9.2](#s10-9-2), [10.9.4](#s10-9-4) |
-| Mülhausen, instructions for the schoolmaster and chaplains, 1524 (and Sehling's introduction) (Reformed) | 20/2, pp. 161, 163, 197 | 1374, 1378 | [10.5.3](#s10-5-3), [10.12.1](#s10-12-1), [10.12.3](#s10-12-3) |
-| Mülhausen, opinion of the people's priest and the three preachers on the services, 1528 (Reformed) | 20/2, pp. 209–210 | 1381 | [10.12.1](#s10-12-1), [10.12.3](#s10-12-3) |
-| Hohenlohe, *Schul- und Gesangsordnung* of Count Wolfgang, 1596 | 15, p. 663 | 629 | [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.10.7](#s10-10-7), [10.11.7](#s10-11-7) |
-| Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 692 | 1344 | [10.11.7](#s10-11-7) |
-| Isny, *Agende*, c. 1600 | 17/1, p. 468 | 800 | [10.11.3](#s10-11-3) |
-| Palatinate, *Kirchenordnung*, 1601 (Reformed) | 14, pp. 558, 572 | 515 | [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.11.2](#s10-11-2) |
+| Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 422, 429, 450 | 294 | [10.11.2](#s10-11-2), [10.11.4](#s10-11-4) |
+| Mülhausen, instructions for the schoolmaster and chaplains, 1524 (and Sehling's introduction) (Reformed) | 20/2, pp. 161, 163, 197 | 1374, 1378 | [10.5.3](#s10-5-3), [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
+| Mülhausen, opinion of the people's priest and the three preachers on the services, 1528 (Reformed) | 20/2, pp. 209–210 | 1381 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
+| Hohenlohe, *Schul- und Gesangsordnung* of Count Wolfgang, 1596 | 15, p. 663 | 629 | [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.10.7](#s10-10-7), [10.12.7](#s10-12-7) |
+| Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 692 | 1344 | [10.12.7](#s10-12-7) |
+| Isny, *Agende*, c. 1600 | 17/1, p. 468 | 800 | [10.12.3](#s10-12-3) |
+| Palatinate, *Kirchenordnung*, 1601 (Reformed) | 14, pp. 558, 572 | 515 | [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.12.2](#s10-12-2) |
 | Limpurg, *Kirchenordnung*, 1610 | 16, p. 616 | 729 | [10.10.2](#s10-10-2) |
-| Rothenberg, *Christliche vereinigung* of the ministers, 1618 | 13, p. 548 | 460 | [10.11.7](#s10-11-7) |
+| Rothenberg, *Christliche vereinigung* of the ministers, 1618 | 13, p. 548 | 460 | [10.12.7](#s10-12-7) |
 
 **Brandenburg, Prussia, Silesia, Pomerania, Mecklenburg**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Pomesania, *Themata episcopi Risenburgensis*, 1524 | 4, p. 29 | 1831 | [10.12.2](#s10-12-2) |
-| Pomerania, *Kirchenordnung*, 1535 | 4, pp. 340, 342 | 1856 | [10.5.2](#s10-5-2), [10.7.5](#s10-7-5), [10.12.2](#s10-12-2), [10.12.4](#s10-12-4) |
-| Pomerania, *Pia ordinatio caeremoniarum*, 1535 | 4, pp. 345–350 | 1857 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.9.1](#s10-9-1), [10.12.1](#s10-12-1), [10.12.2](#s10-12-2), [10.12.4](#s10-12-4) |
-| Brandenburg, *Kirchen-ordnung* of Joachim II, 1540 | 3, pp. 71–72, 81 | 1746 | [10.4.2](#s10-4-2), [10.9.1](#s10-9-1), [10.12.5](#s10-12-5) |
+| Pomesania, *Themata episcopi Risenburgensis*, 1524 | 4, p. 29 | 1831 | [10.9.2](#s10-9-2) |
+| Pomerania, *Kirchenordnung*, 1535 | 4, pp. 340, 342 | 1856 | [10.5.2](#s10-5-2), [10.7.5](#s10-7-5), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4) |
+| Pomerania, *Pia ordinatio caeremoniarum*, 1535 | 4, pp. 345–350 | 1857 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.9.1](#s10-9-1), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.11.1](#s10-11-1) |
+| Brandenburg, *Kirchen-ordnung* of Joachim II, 1540 | 3, pp. 71–72, 81 | 1746 | [10.4.2](#s10-4-2), [10.9.5](#s10-9-5), [10.11.1](#s10-11-1) |
 | Cölln on the Spree, order of 1540 | 3, p. 156 | 1755 | [10.6.2](#s10-6-2) |
 | Stendal, *Verordnung für die übrigen Kirchen*, 1540 | 3, p. 310 | 1784 | [10.6.2](#s10-6-2) |
 | Spandau, *Verordnung für das Kloster*, 1541 | 3, p. 305 | 1783 | [10.4.4](#s10-4-4), [10.7.5](#s10-7-5) |
 | Salzwedel-Altstadt, *Ordnung und Abschied*, 1541 | 3, p. 267 | 1778 | [10.6.2](#s10-6-2) |
 | Crevese nunnery, recess, 1541 | 3, p. 203 | 1762 | [10.7.5](#s10-7-5) |
 | Pomerania, *Karcken ordening*, 1542 | 4, p. 354 | 1858 | [10.7.5](#s10-7-5) |
-| Perleberg, *Visitationsordnung*, 1542 | 3, p. 245 | 1774 | [10.12.4](#s10-12-4) |
-| Mecklenburg, *Verordnung der Visitatoren*, 1542 | 5, p. 149 | 1921 | [10.11.3](#s10-11-3) |
+| Perleberg, *Visitationsordnung*, 1542 | 3, p. 245 | 1774 | [10.9.4](#s10-9-4) |
+| Mecklenburg, *Verordnung der Visitatoren*, 1542 | 5, p. 149 | 1921 | [10.12.3](#s10-12-3) |
 | Mecklenburg, *Kirchenordnung*, 1552 | 5, pp. 196, 200 | 1922 | [10.5.1](#s10-5-1), [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
 | Danzig, *Kirchenordnung*, 1557 | 4, p. 181 | 1844 | [10.7.5](#s10-7-5) |
 | Breslau, report on the order of the churches, 1557 | 3, pp. 404–405 | 1807 | [10.4.4](#s10-4-4) |
-| Prenzlau, *Abschied*, 1557 | 3, p. 261 | 1776 | [10.12.5](#s10-12-5) |
-| Neubrandenburg, *Kirchenordnung* of the visitors, 1559 | 5, p. 269 | 1929 | [10.12.5](#s10-12-5), [10.12.6](#s10-12-6) |
-| Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, pp. 288–290 | 1936 | [10.9.2](#s10-9-2), [10.10.2](#s10-10-2), [10.10.7](#s10-10-7), [10.12.5](#s10-12-5) |
+| Prenzlau, *Abschied*, 1557 | 3, p. 261 | 1776 | [10.9.5](#s10-9-5) |
+| Neubrandenburg, *Kirchenordnung* of the visitors, 1559 | 5, p. 269 | 1929 | [10.9.5](#s10-9-5), [10.9.6](#s10-9-6) |
+| Mecklenburg, *Conformitas ceremoniarum*, c. 1560 | 5, pp. 288–290 | 1936 | [10.9.5](#s10-9-5), [10.10.2](#s10-10-2), [10.10.7](#s10-10-7), [10.11.2](#s10-11-2) |
 | Pomerania, *Kerckenordeninge*, 1569 | 4, pp. 384–385 | 1862 | [10.10.2](#s10-10-2), [10.10.5](#s10-10-5) |
-| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 253–254, 257–259 | 1926 | [10.5.1](#s10-5-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.2](#s10-8-2), [10.11.5](#s10-11-5), [10.12.2](#s10-12-2), [10.12.4](#s10-12-4) |
-| Prussia, *Kirchenordnung und Ceremonien*, 1568 | 4, pp. 74–75 | 1833 | [10.5.2](#s10-5-2), [10.6.1](#s10-6-1), [10.6.4](#s10-6-4), [10.9.1](#s10-9-1), [10.9.4](#s10-9-4) |
-| Pomerania, *Agenda*, 1569 | 4, p. 435 | 1865 | [10.7.5](#s10-7-5), [10.9.4](#s10-9-4), [10.11.2](#s10-11-2) |
-| Kurland, *Kirchenordnung*, 1570 | 5, pp. 83, 91 | 1907 | [10.6.4](#s10-6-4), [10.11.8](#s10-11-8) |
+| Mecklenburg, *Klosterordnung*, 1572 | 5, pp. 253–254, 257–259 | 1926 | [10.5.1](#s10-5-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.2](#s10-8-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.12.5](#s10-12-5) |
+| Prussia, *Kirchenordnung und Ceremonien*, 1568 | 4, pp. 74–75 | 1833 | [10.5.2](#s10-5-2), [10.6.1](#s10-6-1), [10.6.4](#s10-6-4), [10.11.1](#s10-11-1), [10.11.4](#s10-11-4) |
+| Pomerania, *Agenda*, 1569 | 4, p. 435 | 1865 | [10.7.5](#s10-7-5), [10.11.4](#s10-11-4), [10.12.2](#s10-12-2) |
+| Kurland, *Kirchenordnung*, 1570 | 5, pp. 83, 91 | 1907 | [10.6.4](#s10-6-4), [10.12.8](#s10-12-8) |
 | Thorn, *Kirchenordnung*, 1575 | 4, pp. 236–239 | 1844 | [10.7.5](#s10-7-5), [10.10.2](#s10-10-2), [10.10.4](#s10-10-4), [10.10.7](#s10-10-7) |
 | Salzwedel (Altstadt), visitation recess, 1579 | 3, p. 272 | 1779 | [10.7.5](#s10-7-5) |
-| Marggrabowa, *Gottesdienstordnung*, 1581 | 4, p. 149 | 1837 | [10.11.3](#s10-11-3) |
-| Teschen, *Kirchenordnung*, 1584 | 3, pp. 462–463 | 1815 | [10.12.2](#s10-12-2) |
-| Breslau, notice of the council concerning the plague, 1585 | 3, p. 405 | 1807 | [10.11.4](#s10-11-4) |
+| Marggrabowa, *Gottesdienstordnung*, 1581 | 4, p. 149 | 1837 | [10.12.3](#s10-12-3) |
+| Teschen, *Kirchenordnung*, 1584 | 3, pp. 462–463 | 1815 | [10.9.2](#s10-9-2) |
+| Breslau, notice of the council concerning the plague, 1585 | 3, p. 405 | 1807 | [10.12.4](#s10-12-4) |
 
 **Lower Saxony, Westphalia, Hesse-Nassau and the North**
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Goslar, the commons' grievances, 1525 (Sehling's introduction) | 7/2.2, p. 184 | 2183 | [10.12.1](#s10-12-1) |
-| Lüneburg, *Artikelbuch*, 1527 | 6/1, p. 515 | 1998 | [10.12.2](#s10-12-2) |
-| Braunschweig, *Kirchenordnung*, 1528 | 6/1, pp. 399–401 | 1983 | [10.5.2](#s10-5-2), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.9.1](#s10-9-1) |
-| Hamburg, *Kirchenordnung*, 1529 | 5, pp. 493, 520, 523, 533 | 1958, 1960 | [10.5.1](#s10-5-1), [10.7.5](#s10-7-5), [10.12.2](#s10-12-2), [10.12.4](#s10-12-4) |
-| Minden, *Kirchenordnung*, 1530 | 21, p. 144 | 1434 | [10.12.2](#s10-12-2) |
+| Goslar, the commons' grievances, 1525 (Sehling's introduction) | 7/2.2, p. 184 | 2183 | [10.9.1](#s10-9-1) |
+| Lüneburg, *Artikelbuch*, 1527 | 6/1, p. 515 | 1998 | [10.9.2](#s10-9-2) |
+| Braunschweig, *Kirchenordnung*, 1528 | 6/1, pp. 399–401 | 1983 | [10.5.2](#s10-5-2), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.11.1](#s10-11-1) |
+| Hamburg, *Kirchenordnung*, 1529 | 5, pp. 493, 520, 523, 533 | 1958, 1960 | [10.5.1](#s10-5-1), [10.7.5](#s10-7-5), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4) |
+| Minden, *Kirchenordnung*, 1530 | 21, p. 144 | 1434 | [10.9.2](#s10-9-2) |
 | Lübeck, *Kirchenordnung*, 1531 | 5, p. 348 | 1949 | [10.7.5](#s10-7-5) |
 | Herford, *Kirchenordnung*, 1532 | 21, p. 170 | 1442 | [10.5.1](#s10-5-1) |
-| Goslar, *Ordnung für das Stundengebet am Stift St. Simon und Judas*, 1534 (and Sehling's introduction) | 7/2.2, pp. 199, 263–264 | 2183, 2194 | [10.4.2](#s10-4-2), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.12.4](#s10-12-4) |
-| Bremen, *Kirchenordnung*, 1534 | 7/2.2, pp. 458, 463 | 2217 | [10.7.5](#s10-7-5), [10.11.2](#s10-11-2) |
-| Lippe, *Kirchenordnung*, 1538 | 21, pp. 312, 343 | 1459 | [10.5.1](#s10-5-1), [10.12.2](#s10-12-2) |
-| Northeim, *Kirchenordnung*, 1539 | 6/2, p. 932 | 2047 | [10.12.2](#s10-12-2) |
-| Calenberg-Göttingen, *Kirchenordnung*, 1542 | 6/2, p. 760 | 2033 | [10.12.2](#s10-12-2) |
-| Calenberg-Göttingen, *Klosterordnung* and the instruction for the visitors, 1542 | 6/2, pp. 851–852, 858 | 2037 | [10.4.4](#s10-4-4), [10.12.4](#s10-12-4) |
-| Frankenberg at Goslar, *Ordnung für das Frauenkloster*, 1542 | 7/2.2, pp. 275, 277 | 2198 | [10.4.4](#s10-4-4), [10.7.5](#s10-7-5), [10.12.4](#s10-12-4) |
-| Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 131, 142, 144 | 1576 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.5](#s10-7-5), [10.12.2](#s10-12-2) |
-| Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 49–53, 67–68, 81 | 1972 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.5](#s10-7-5), [10.12.5](#s10-12-5) |
-| Stift Osnabrück, *Ordinatio Magistri Hermanni Bonni* (Quakenbrück), 1543 | 7/1, p. 229 | 2097 | [10.4.2](#s10-4-2), [10.6.2](#s10-6-2), [10.7.5](#s10-7-5), [10.12.4](#s10-12-4) |
+| Goslar, *Ordnung für das Stundengebet am Stift St. Simon und Judas*, 1534 (and Sehling's introduction) | 7/2.2, pp. 199, 263–264 | 2183, 2194 | [10.4.2](#s10-4-2), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.9.4](#s10-9-4) |
+| Bremen, *Kirchenordnung*, 1534 | 7/2.2, pp. 458, 463 | 2217 | [10.7.5](#s10-7-5), [10.12.2](#s10-12-2) |
+| Lippe, *Kirchenordnung*, 1538 | 21, pp. 312, 343 | 1459 | [10.5.1](#s10-5-1), [10.9.2](#s10-9-2) |
+| Northeim, *Kirchenordnung*, 1539 | 6/2, p. 932 | 2047 | [10.9.2](#s10-9-2) |
+| Calenberg-Göttingen, *Kirchenordnung*, 1542 | 6/2, p. 760 | 2033 | [10.9.2](#s10-9-2) |
+| Calenberg-Göttingen, *Klosterordnung* and the instruction for the visitors, 1542 | 6/2, pp. 851–852, 858 | 2037 | [10.4.4](#s10-4-4), [10.9.4](#s10-9-4) |
+| Frankenberg at Goslar, *Ordnung für das Frauenkloster*, 1542 | 7/2.2, pp. 275, 277 | 2198 | [10.4.4](#s10-4-4), [10.7.5](#s10-7-5), [10.9.4](#s10-9-4) |
+| Schleswig-Holstein, *Kirchenordnung*, 1542 | 23, pp. 131, 142, 144 | 1576 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.5](#s10-7-5), [10.9.2](#s10-9-2) |
+| Braunschweig-Wolfenbüttel, *Christlike kerken-ordeninge*, 1543 | 6/1, pp. 49–53, 67–68, 81 | 1972 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.5](#s10-7-5), [10.9.5](#s10-9-5) |
+| Stift Osnabrück, *Ordinatio Magistri Hermanni Bonni* (Quakenbrück), 1543 | 7/1, p. 229 | 2097 | [10.4.2](#s10-4-2), [10.6.2](#s10-6-2), [10.7.5](#s10-7-5), [10.9.4](#s10-9-4) |
 | Osnabrück (city), *Kirchenordnung*, 1543 | 7/1, p. 256 | 2099 | [10.7.5](#s10-7-5) |
-| Hildesheim (city), *Kirchenordnung*, 1544 | 7/2.1, pp. 849–851, 866 | 2136, 2137 | [10.7.5](#s10-7-5), [10.12.5](#s10-12-5) |
-| Cologne and Paderborn, *Buß-, Fasten-, Bet- und Danktagsordnung*, 1546 (Moderate Reformed) | 22, p. 45 | 1484 | [10.11.3](#s10-11-3) |
-| Stolberg-Königstein, order of the services, 1552 | 9, p. 468 | 2320 | [10.11.2](#s10-11-2) |
+| Hildesheim (city), *Kirchenordnung*, 1544 | 7/2.1, pp. 849–851, 866 | 2136, 2137 | [10.7.5](#s10-7-5), [10.9.5](#s10-9-5) |
+| Cologne and Paderborn, *Buß-, Fasten-, Bet- und Danktagsordnung*, 1546 (Moderate Reformed) | 22, p. 45 | 1484 | [10.12.3](#s10-12-3) |
+| Stolberg-Königstein, order of the services, 1552 | 9, p. 468 | 2320 | [10.12.2](#s10-12-2) |
 | Lüneburg, *Reformatio coenobiorum ducatus Luneburgensis*, 1555 | 6/1, pp. 611–612 | 2009 | [10.4.4](#s10-4-4) |
 | Lüneburg, *Emendatio Breviarii virginum ordinis Sancti Benedicti*, 1555 | 6/1, p. 624 | 2011 | [10.4.4](#s10-4-4) |
-| Wittgenstein, *Kirchenordnung*, 1555 | 22, p. 87 | 1491 | [10.12.6](#s10-12-6) |
+| Wittgenstein, *Kirchenordnung*, 1555 | 22, p. 87 | 1491 | [10.9.6](#s10-9-6) |
 | Hamburg, *Kirchenordnung*, 1556 | 5, p. 553 | 1963 | [10.7.5](#s10-7-5) |
-| Waldeck, *Kirchenordnung*, 1556 | 9, p. 277 | 2300 | [10.11.3](#s10-11-3) |
-| Schaumburg, *Weisung an die Konvente in Fischbeck und Obernkirchen*, 1562 (and Sehling's introduction) | 7/2.2, pp. 35, 60 | 2158, 2162 | [10.12.4](#s10-12-4) |
-| Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 (and Sehling's introduction) | 10, pp. 31, 133–134 | 166, 181 | [10.8.2](#s10-8-2), [10.9.3](#s10-9-3) |
+| Waldeck, *Kirchenordnung*, 1556 | 9, p. 277 | 2300 | [10.12.3](#s10-12-3) |
+| Schaumburg, *Weisung an die Konvente in Fischbeck und Obernkirchen*, 1562 (and Sehling's introduction) | 7/2.2, pp. 35, 60 | 2158, 2162 | [10.9.4](#s10-9-4) |
+| Nassau-Dillenburg, *Ordnung für das Kloster Keppel*, 1570 (and Sehling's introduction) | 10, pp. 31, 133–134 | 166, 181 | [10.8.2](#s10-8-2), [10.11.3](#s10-11-3) |
 | Emden, Micron's *Ordinancien*, German edition, 1565 (Reformed) | 7/1, p. 606 | 2116 | [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7) |
 | Hesse, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 251–253 | 2257 | [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
-| Braunschweig-Wolfenbüttel, *Christlicher und gründlicher bericht* on the convents, 1569 (and the editors' note) | 6/1, pp. 312, 334 | 1978 | [10.12.1](#s10-12-1), [10.12.4](#s10-12-4) |
+| Braunschweig-Wolfenbüttel, *Christlicher und gründlicher bericht* on the convents, 1569 (and the editors' note) | 6/1, pp. 312, 334 | 1978 | [10.9.1](#s10-9-1), [10.9.4](#s10-9-4) |
 | Lippe, *Kirchenordnung*, 1571 | 21, pp. 395–397 | 1462 | [10.6.4](#s10-6-4), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
-| Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 1085, 1095, 1111, 1113 | 2149, 2150, 2151 | [10.6.4](#s10-6-4), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.10.2](#s10-10-2), [10.10.3](#s10-10-3) |
-| Harlingerland, *Kirchenordnung*, 1573/74 (the editors' note quoting Luther) | 7/1, p. 741 | 2122 | [10.12.2](#s10-12-2) |
+| Oldenburg, *Kirchenordnung*, 1573 | 7/2.1, pp. 1085, 1095, 1111, 1113 | 2149, 2150, 2151 | [10.6.4](#s10-6-4), [10.10.2](#s10-10-2), [10.10.3](#s10-10-3), [10.11.2](#s10-11-2), [10.11.4](#s10-11-4) |
+| Harlingerland, *Kirchenordnung*, 1573/74 (the editors' note quoting Luther) | 7/1, p. 741 | 2122 | [10.9.2](#s10-9-2) |
 | Lüneburg, *Klosterordnung* of Duke Wilhelm the Younger, 1574 | 6/1, pp. 620–621 | 2010 | [10.7.1](#s10-7-1), [10.8.3](#s10-8-3) |
-| Lüneburg, *Kirchenordnung der Stadt Lüneburg*, 1575 | 6/1, p. 658 | 2017 | [10.9.2](#s10-9-2) |
+| Lüneburg, *Kirchenordnung der Stadt Lüneburg*, 1575 | 6/1, p. 658 | 2017 | [10.11.2](#s10-11-2) |
 | Nassau-Dillenburg, *Agende*, 1575 (Philippist) | 10, p. 148 | 182 | [10.10.2](#s10-10-2) |
-| Hoya, *Kirchenordnung*, 1581 | 6/2, p. 1150 | 2065 | [10.7.4](#s10-7-4), [10.9.4](#s10-9-4) |
-| Nassau-Dillenburg, *Kirchenordnung*, 1582 (Reformed) | 10, p. 163 | 184 | [10.12.5](#s10-12-5) |
-| Sayn, *Kirchenzuchtordnung*, 1582 | 19/1, p. 373 | 1090 | [10.12.5](#s10-12-5) |
+| Hoya, *Kirchenordnung*, 1581 | 6/2, p. 1150 | 2065 | [10.7.4](#s10-7-4), [10.11.4](#s10-11-4) |
+| Nassau-Dillenburg, *Kirchenordnung*, 1582 (Reformed) | 10, p. 163 | 184 | [10.9.5](#s10-9-5) |
+| Sayn, *Kirchenzuchtordnung*, 1582 | 19/1, p. 373 | 1090 | [10.9.5](#s10-9-5) |
 | Leeden (Tecklenburg), *Ordnung für das Zisterzienserinnenkloster*, 1585 | 22, p. 247 | 1506 | [10.6.3](#s10-6-3) |
 | Ysenburg-Birstein, *Kirchenordnung*, 1588 | 10, p. 627 | 228 | [10.10.3](#s10-10-3), [10.10.7](#s10-10-7) |
-| Marienhafe (East Frisia), *Kirchenordnung*, 1593 (the editors' note) | 7/1, p. 722 | 2122 | [10.12.1](#s10-12-1) |
+| Marienhafe (East Frisia), *Kirchenordnung*, 1593 (the editors' note) | 7/1, p. 722 | 2122 | [10.9.1](#s10-9-1) |
 | Solms-Laubach, *Kirchenzuchtordnung*, 1603 | 9, p. 357 | 2311 | [10.10.4](#s10-10-4), [10.10.7](#s10-10-7) |
-| Verden, *Kirchenordnung*, 1606 | 7/1, p. 153 | 2089 | [10.4.2](#s10-4-2), [10.9.1](#s10-9-1) |
-| Buxtehude, *Agende*, 1565 (Sehling's introduction) | 7/1, p. 67 | 2080 | [10.9.2](#s10-9-2) |
-| Lütetsburg, *Kirchenordnung*, 1606 (Sehling's note) (Reformed) | 7/1, p. 541 | 2115 | [10.11.2](#s10-11-2) |
+| Verden, *Kirchenordnung*, 1606 | 7/1, p. 153 | 2089 | [10.4.2](#s10-4-2), [10.11.1](#s10-11-1) |
+| Buxtehude, *Agende*, 1565 (Sehling's introduction) | 7/1, p. 67 | 2080 | [10.11.2](#s10-11-2) |
+| Lütetsburg, *Kirchenordnung*, 1606 (Sehling's note) (Reformed) | 7/1, p. 541 | 2115 | [10.12.2](#s10-12-2) |
 | Hanau-Münzenberg, *Ordnung der Katechisation*, 1609 (Reformed) | 10, pp. 487, 491 | 211 | [10.10.6](#s10-10-6), [10.10.7](#s10-10-7) |
 
 **Transylvania**
@@ -39952,7 +39954,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Order | Sehling | Doc | § |
 |---|---|---|---|
 | Transylvanian Saxons, *Kirchenordnung*, 1547 | 24, p. 223 | 1669 | [10.7.5](#s10-7-5) |
-| Transylvania, *Articuli de ceremoniis*, 1607 | 24, p. 494 | 1726 | [10.12.5](#s10-12-5) |
+| Transylvania, *Articuli de ceremoniis*, 1607 | 24, p. 494 | 1726 | [10.9.5](#s10-9-5) |
 
 <div style="page-break-before: always;"></div>
 
@@ -40437,7 +40439,7 @@ pain of a fine (Sehling 19/2, pp. 777, 780).
 
 The calendar of prayer days is treated in
 [Chapter 12](#ch12), [§12.13.5](#s12-13-5), and the Litany sung on
-them in [Chapter 13](#ch13), [§13.22.4](#s13-22-4).
+them in [Chapter 13](#ch13), [§13.21.4](#s13-21-4).
 
 #### <a id="s11-4-6"></a>11.4.6 Funeral sermons
 
@@ -42035,8 +42037,8 @@ Sehling's subject registers were also used: *Feiertage* (380 page references), *
 - [Chapter 10](#ch10) covers Vespers and the eves of feasts.
 - [Chapter 11](#ch11) covers Passion, prayer-day and catechism sermons and
   the duties of hearers.
-- [Chapter 13](#ch13) covers the rites of the feasts
-  and seasons, and the Litany days (§§[13.21](#s13-21), [13.22.4](#s13-22-4)).
+- [Chapter 13](#ch13) covers the Litany days and the
+  rites of the feasts and seasons (§§[13.21.4](#s13-21-4), [13.23](#s13-23)).
 - [Chapter 9](#ch9) covers the organ and
   the bells (§§[9.3.6](#s9-3-6), [9.5](#s9-5)).
 - [Chapter 14](#ch14) covers vestments and colours (§§[14.6.6](#s14-6-6), [14.7](#s14-7)).
@@ -46223,7 +46225,7 @@ The Hessian rule (Moderate Reformed) is at Sehling 8, p. 203, and the same provi
 Pfalz-Veldenz 1574 (Sehling 18, p. 560).
 
 The prayer-day sermons are treated in [Chapter 11](#ch11), [§11.4.5](#s11-4-5), and the
-Litany days in [Chapter 13](#ch13), [§13.22.4](#s13-22-4).
+Litany days in [Chapter 13](#ch13), [§13.21.4](#s13-21-4).
 
 #### <a id="s12-13-6"></a>12.13.6 Fasting before communion
 
@@ -47006,12 +47008,12 @@ Kirchenordnungen des XVI. Jahrhunderts*. It asks, for each rite:
   [§13.17](#s13-17) private confession and absolution.
 - [§13.18](#s13-18) covers processions, and [§13.19](#s13-19) the tonsure, the return of churches and vessels to common use,
   and the deposition of ministers.
-- [§13.20](#s13-20) covers other occasional rites, chiefly the parish visitation.
-- [§13.21](#s13-21) covers the rites of particular feasts and seasons: Christmas, Candlemas, Ash Wednesday,
-  Palm Sunday, Holy Week, Easter, Ascension, Whitsun, Septuagesima and Trinity.
-- [§13.22](#s13-22) covers the Litany, the suffrages and the Good Friday solemn prayers at the Mass and in the
+- [§13.20](#s13-20) covers sorcery and the cleansing of houses, churches and things.
+- [§13.21](#s13-21) covers the Litany, the suffrages and the Good Friday solemn prayers at the Mass and in the
   services that stood in for it.
-- [§13.23](#s13-23) covers sorcery and the cleansing of houses, churches and things.
+- [§13.22](#s13-22) covers other occasional rites, chiefly the parish visitation.
+- [§13.23](#s13-23) covers the rites of particular feasts and seasons: Christmas, Candlemas, Ash Wednesday,
+  Palm Sunday, Holy Week, Easter, Ascension, Whitsun, Septuagesima and Trinity.
 - [§13.24](#s13-24) is a table by order, and [§13.25](#s13-25) a concordance of every order quoted.
 
 Each topic is supported by quotations in the original language (Early New High German, Low
@@ -47071,8 +47073,8 @@ with prayer, and a few printed a form.
 **6. The rites of the sick replaced unction with Word and Sacrament** ([§13.8](#s13-8)). The reserved
 sacrament and its procession were abolished, and communion was given in the house. Only the
 Ansbach diet of 1526 still kept leftovers in the sacrament house; the later orders count the
-communicants and have the minister or communicants consume what remains (§§[13.20.3](#s13-20-3), [13.20.5](#s13-20-5)). No order
-keeps the Mass of the Presanctified: on Good Friday there was a full communion or none ([§13.20.4](#s13-20-4)).
+communicants and have the minister or communicants consume what remains (§§[13.22.3](#s13-22-3), [13.22.5](#s13-22-5)). No order
+keeps the Mass of the Presanctified: on Good Friday there was a full communion or none ([§13.22.4](#s13-22-4)).
 Forms were written for the dying, the plague-stricken and the condemned. Pomerania 1569 gave a
 rite of prayer over the possessed in place of exorcism.
 
@@ -47132,29 +47134,7 @@ clergy. Churches, altars and vessels were cleared out by authority and their goo
 common chest, without a rite of deconsecration. Unworthy ministers were deposed by a sentence
 read to the congregation, not degraded.
 
-**15. The rites of the feasts were reduced to their history** ([§13.21](#s13-21)). No order keeps the
-*Exsultet*, the new fire, the paschal candle, the ashes or the Christmas Kalenda. Electoral
-Brandenburg 1540 alone kept the Palm Sunday procession, the Maundy Thursday foot-washing and the
-representations of Christ's burial and resurrection. Christmas and Easter Matins were moved from
-midnight to the morning, and the Good Friday solemn prayers survived at Mülhausen (Reformed) and
-Waldeck. No order buries the Alleluia at Septuagesima ("the Alleluia is the perpetual voice of
-the church", Luther), but several make the Athanasian Creed the text of Trinity Sunday.
-
-**16. The Litany replaced the Mass without communicants, and the solemn prayers survived once**
-([§13.22](#s13-22)). Luther's German and Latin Litanies, without the saints, were sung:
-- in place of the Supper when no one communed (Mecklenburg 1552, Pfalz-Neuburg 1543, Grubenhagen
-  1544, which calls it the old "prayer-Mass");
-- between epistle and gospel, during a long communion, or after the sermon, by boys kneeling
-  before the altar or by the pastor from the pulpit;
-- on Wednesdays and Fridays, in Rogation week and at the Ember seasons.
-
-Zweibrücken (1533) and Pfalz-Veldenz (1574) tied it to the Christmas, Easter and Whitsun weeks,
-and Schwäbisch Hall (1543) and Limpurg (1610) to Good Friday. Only Waldeck (1556) prints the
-Good Friday solemn prayers: eleven German biddings, each with a collect, without *Flectamus
-genua*, the pope or the pagans, and with new prayers for persecutors, false Christians and
-enemies. No order has a Litany at the Easter Vigil.
-
-**17. Sorcery: no rite of cleansing** ([§13.23](#s13-23)). No order exorcizes, sprinkles or
+**15. Sorcery: no rite of cleansing** ([§13.20](#s13-20)). No order exorcizes, sprinkles or
 reconsecrates a house, a church or a thing that sorcery or the devil had touched. The holy
 water, salt, herbs and candles of the old cleansing were themselves called sorcery and "the
 devil's doctrines" (Braunschweig 1528). What the orders prescribe instead:
@@ -47167,6 +47147,28 @@ devil's doctrines" (Braunschweig 1528). What the orders prescribe instead:
 - **Guarding.** The baptismal water was poured away at once, so that no sorcerer could have it.
 - **Repentance.** Those who had sought out charmers asked pardon before the congregation and
   were absolved, or were kept from the Supper.
+
+**16. The Litany replaced the Mass without communicants, and the solemn prayers survived once**
+([§13.21](#s13-21)). Luther's German and Latin Litanies, without the saints, were sung:
+- in place of the Supper when no one communed (Mecklenburg 1552, Pfalz-Neuburg 1543, Grubenhagen
+  1544, which calls it the old "prayer-Mass");
+- between epistle and gospel, during a long communion, or after the sermon, by boys kneeling
+  before the altar or by the pastor from the pulpit;
+- on Wednesdays and Fridays, in Rogation week and at the Ember seasons.
+
+Zweibrücken (1533) and Pfalz-Veldenz (1574) tied it to the Christmas, Easter and Whitsun weeks,
+and Schwäbisch Hall (1543) and Limpurg (1610) to Good Friday. Only Waldeck (1556) prints the
+Good Friday solemn prayers: eleven German biddings, each with a collect, without *Flectamus
+genua*, the pope or the pagans, and with new prayers for persecutors, false Christians and
+enemies. No order has a Litany at the Easter Vigil.
+
+**17. The rites of the feasts were reduced to their history** ([§13.23](#s13-23)). No order keeps the
+*Exsultet*, the new fire, the paschal candle, the ashes or the Christmas Kalenda. Electoral
+Brandenburg 1540 alone kept the Palm Sunday procession, the Maundy Thursday foot-washing and the
+representations of Christ's burial and resurrection. Christmas and Easter Matins were moved from
+midnight to the morning, and the Good Friday solemn prayers survived at Mülhausen (Reformed) and
+Waldeck. No order buries the Alleluia at Septuagesima ("the Alleluia is the perpetual voice of
+the church", Luther), but several make the Athanasian Creed the text of Trinity Sunday.
 
 #### <a id="s13-1-2"></a>13.1.2 Where the full liturgies are
 
@@ -47197,9 +47199,9 @@ The forms printed in full or quoted at length in this chapter are:
 | Private confession and absolution | the catechism form, Palatinate 1556; Brandenburg 1540 (17.2–17.3) |
 | Processions | Brandenburg 1540 ([13.18.2](#s13-18-2)); order of march and objects carried: Stendal 1541, Brandenburg 1540, Waldeck 1556, Havelberg 1558, Hof 1592, Strasbourg 1598 ([13.18.4](#s13-18-4)) |
 | Deposition of a minister | Hesse 1566 (Moderate Reformed) ([13.19.3](#s13-19-3)) |
-| Visitation | Pfalz-Neuburg 1560 ([13.20.1](#s13-20-1)) |
-| Litany in place of the Mass; Good Friday solemn prayers | Pfalz-Neuburg 1543, Mecklenburg 1552, Grubenhagen 1544, Hof 1592 ([13.22.1](#s13-22-1)); Waldeck 1556 ([13.22.2](#s13-22-2), [13.22.6](#s13-22-6)); Pomerania 1569 ([13.22.4](#s13-22-4)) |
-| Blessing of a house against the devil | Mecklenburg 1540/1545, Pomerania 1542 ([13.23.2](#s13-23-2)) |
+| Blessing of a house against the devil | Mecklenburg 1540/1545, Pomerania 1542 ([13.20.2](#s13-20-2)) |
+| Litany in place of the Mass; Good Friday solemn prayers | Pfalz-Neuburg 1543, Mecklenburg 1552, Grubenhagen 1544, Hof 1592 ([13.21.1](#s13-21-1)); Waldeck 1556 ([13.21.2](#s13-21-2), [13.21.6](#s13-21-6)); Pomerania 1569 ([13.21.4](#s13-21-4)) |
+| Visitation | Pfalz-Neuburg 1560 ([13.22.1](#s13-22-1)) |
 
 ---
 
@@ -49324,7 +49326,7 @@ The Württemberg order is:
 5. Distribution, comfort from the Gospel, and commendation to God.
 
 Reservation outside the sick-call, the Good Friday rite and the consuming of the remaining
-elements are treated in §§[13.20.3](#s13-20-3)–[13.20.5](#s13-20-5).
+elements are treated in §§[13.22.3](#s13-22-3)–[13.22.5](#s13-22-5).
 
 #### <a id="s13-8-3"></a>13.8.3 The Saxon form for the sick, 1539
 
@@ -49591,7 +49593,7 @@ sanction of church discipline.
 
 Funeral sermons are treated in [Chapter 11](#ch11), [§11.4.6](#s11-4-6), bells for the dead
 in [Chapter 9](#ch9), [§9.5.6](#s9-5-6), and the vigils, the Office of the Dead, in
-[Chapter 10](#ch10), [§10.12](#s10-12).
+[Chapter 10](#ch10), [§10.9](#s10-9).
 
 #### <a id="s13-9-1"></a>13.9.1 What was abolished
 
@@ -52965,9 +52967,869 @@ diligent.
 
 ---
 
-### <a id="s13-20"></a>13.20 Other occasional rites
+### <a id="s13-20"></a>13.20 Sorcery and the cleansing of houses and things
 
-#### <a id="s13-20-1"></a>13.20.1 The visitation service
+This section asks whether the orders prescribe anything for cleansing a house, a church or an
+object that had been used in sorcery, witchcraft or the service of the devil.
+
+**No rite of cleansing.** The orders give no such rite. No order exorcizes, sprinkles, blesses
+anew or reconsecrates a house, a stall, a church or a thing that sorcery or the devil had
+touched. The old means of cleansing were holy water, exorcized salt and blessed herbs and
+candles. The orders abolished them, and called them superstition and sorcery in their own right
+([§13.15](#s13-15), [§13.20.1](#s13-20-1)). Churches were neither dedicated nor reconciled (§§[13.14.1](#s13-14-1),
+[13.19.2](#s13-19-2)). What the orders do prescribe is:
+
+- **prayer** in the house, without water or exorcism: Mecklenburg and Pomerania bless the
+  house when the pastor visits the sick ([§13.20.2](#s13-20-2)), and Pomerania prays over the possessed
+  ([§13.8.7](#s13-8-7));
+- **burning in public** for the tools of sorcery: charms, written blessings, blessed or
+  bewitched objects and the sorcerers' books ([§13.20.3](#s13-20-3));
+- **breaking and burning** for the images, fonts and chapels of the old cult, which the orders
+  call idolatry and rank with sorcery ([§13.20.4](#s13-20-4));
+- **guarding** the things of the sacraments, so that the baptismal water, the hosts and the
+  altar could not be taken for sorcery ([§13.20.5](#s13-20-5));
+- **repentance** for the persons, or punishment: public apology and absolution, exclusion from
+  the Supper, and the magistrate's penalties ([§13.20.6](#s13-20-6)).
+
+**The one reconciliation of churches.** The only reconciliation of churches in the corpus is a
+Catholic one. In 1549 the Interim gave Strasbourg's collegiate churches back to the old clergy,
+and the bishop asked for the churches to be reconciled and their altars rebuilt and
+consecrated. The arbiters held that the reconciliation was unnecessary and might well be left
+undone. The chapters were to rebuild at their own cost the altars the Interim required. The
+bishop was asked to see to their consecration, and to the reconciliation if the law required
+it at all, which the arbiters did not believe, without offence (Sehling 20/1, pp. 369–370;
+[§1.4](#s1-4)).
+
+#### <a id="s13-20-1"></a>13.20.1 The old means of cleansing abolished
+
+**Holy water against the devil.** The medieval church cleansed houses, stalls and churchyards
+with holy water and drove off the devil and the storm with blessed salt, herbs and candles
+([§13.15.1](#s13-15-1)). Bugenhagen's Braunschweig order of 1528 answers that these creatures were made
+to be used with thanks, not to take away sins or drive away devils. The more holy water there
+was, the more poltergeists. **Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1, pp. 389–390):
+
+<!-- doc 1983 -->
+> Nu wete wy jo wol, wörto water, vür, lichte, krudere unde awet van Gade uns geschapen unde
+> gegeven synt, dat wy se bruken, nicht darto, dat me dagelike sunde mit wyewater afneme unde
+> de düvele mede vordrive; ja jo wy mehr wyewater hedden, jo mehr ock poltergeiste; edder dat
+> me mit lichten unde krüderen deme dunre wehre unde tovere mit krüderen imme bedde unde imme
+> kelre by deme bere, ane dat sulck alles erdichtet is wedder de gnade unses Heren Christi, de
+> nympt alleyne de sunde wech, unde wedder dat christlike bet, darmede wy scholen anröpen dorch
+> Christum unsen leven Vader in allen unsen nöden lives unde der selen. Dat helpet in den saken
+> unde neyn water, vür, krüt, wente sulke creaturen synt van Gade to sulken saken nicht
+> geschapen unde gegeven edder bevalen.
+
+Now we know well whereto water, fire, lights, herbs and fruit are created and given us of God:
+that we should use them; not that a man should take away his daily sins with holy water and
+drive away the devils therewith (yea, the more holy water we had, the more poltergeists also);
+nor that a man should ward off the thunder with lights and herbs, and work sorcery with herbs in
+the bed and in the cellar by the beer. Beside that, all this is devised against the grace of
+our Lord Christ, who alone taketh away sin, and against the Christian prayer, wherewith we
+should call upon our dear Father through Christ in all our needs of body and soul. That
+helpeth in these matters, and no water, fire or herb; for such creatures are not created and
+given or commanded of God for such matters.
+
+**The devil's doctrine.** The order then turns to water itself. **Braunschweig,
+*Kirchenordnung*, 1528** (Sehling 6/1, p. 391):
+
+<!-- doc 1983 -->
+> Water is eyne gude creature, van Gade uns geschapen to wasschende, to kakende, to drinkende,
+> to losschende, to kölende, to badende, to begetende etc., dat is to netende, dar schole wy
+> Gade vohr danken. Worumme scholde wy nu eyn gebet anrichten, dat doch neyn bet, sonder
+> gadeslesteringe were, dat wy mochten dat water anders maken to eyneme bruke, dar id Got
+> nicht tho geschapen hefft […] dat dat water (alse se hebben geleret unde ock gebruket) uns
+> scholde denen to affwasschinge unser dageliken sunden, de se venialia hebben genömet, to
+> begeten unde erquicken de selen up dem kerckhave dat ock spottisch is, to vordriven de duvele
+> uth deme huse unde alle böse van den swynen unde vehe? Wech, wech mit den düvelsleren unde
+> werken, de uns Christum hebben vordunkert.
+
+Water is a good creature, created us of God to wash, to cook, to drink, to quench, to cool, to
+bathe, to sprinkle, etc., that is, to use; for which we should thank God. Wherefore then should
+we set up a prayer, which yet were no prayer but blasphemy, that we might make the water into
+something else, for a use whereto God hath not created it […]: that the water (as they have
+taught and also used it) should serve us for the washing away of our daily sins, which they
+have called venial; to sprinkle and refresh the souls in the churchyard, which is a mockery
+besides; to drive the devils out of the house, and all evil from the swine and the cattle?
+Away, away with the devil's doctrines and works, which have darkened Christ for us!
+
+The Nassau-Dillenburg order of 1537 asks the same question: where is the word of God that says
+that holy water "driveth the devil out of houses" ([§13.15.1](#s13-15-1))?
+
+**The exorcisms of the creatures.** The exorcism at baptism was kept in many Lutheran orders as
+a prayer over the child ([§13.4](#s13-4)). The exorcisms of salt and water, which made the holy water
+that was sprinkled to drive the devil from a place, were not kept. Thomas Stieber's instruction
+for Wolfstein keeps the baptismal exorcism, to be used "as a prayer" and not as "the sorcerers
+adjure the devil". It then turns to the exorcisms of the creatures. **Wolfstein, *Christliche
+Instructio* of Thomas Stieber, 1574** (Sehling 13, p. 578):
+
+<!-- doc 463 -->
+> Es werden auch hiemit gemaint die exorcismi salis, aquae, olei et chrismatis; dann solche
+> exorcismi seind gottlos, weil solche unvernünftige creaturn, als weren sie vom Teufel
+> besessen, beschworen werden. Uber das wird ihnen sonderliche kraft und würkung zuegeeignet
+> wider Gottes wort, als das sal exorcisatum ad effugandum inimicum wie in actu sacerdotali
+> befunden wird.
+
+Herewith are meant also the exorcisms of salt, water, oil and chrism; for such exorcisms are
+godless, because such unreasoning creatures are adjured as though they were possessed of the
+devil. Moreover a special power and working is ascribed to them against God's word, as *the
+salt exorcized to put the enemy to flight*, as is found in the *Actus sacerdotalis* [the
+priests' handbook].
+
+The editors give the usual form, which bade every wickedness of the devil's deceit and every
+unclean spirit flee "from the place where thou shalt be sprinkled" (*ab eo loco, quo aspersus
+fueris*; Sehling 13, p. 578, editors' note). The Transylvanian order of 1547 buries all such
+consecrations together. **Transylvanian Saxons, *Kirchenordnung*, 1547**, Latin version
+(Sehling 24, p. 225):
+
+<!-- doc 1669 -->
+> Oblationes enim pro defunctis cum caeteris impiis nunditionibus explosae sunt e templis,
+> similiter et omnes diversarum creaturarum superstitiosae consecrationes, exorcismi reliquaque
+> opera gentilis idololatriae observationumque iudaicarum in futurum penitus maneant sepulta.
+
+For the offerings for the dead, with the other ungodly traffickings, are driven out of the
+churches; and likewise let all the superstitious consecrations of divers creatures, the
+exorcisms, and the other works of heathen idolatry and of Jewish observances remain wholly
+buried for the time to come.
+
+**The hallowing is the defilement.** Some people still ran to the Mass-priests and monks to have
+their wax, palms, candles and herbs hallowed. Leiningen's discipline order of 1566 forbids
+this, because these things were afterwards used for sorcery. It calls the
+hallowing itself a defiling and a profaning. **Leiningen, *Kirchenzuchtordnung*, 1566**
+(Sehling 19/1, p. 228):
+
+<!-- doc 1073 -->
+> XII. Von Kreuterweyhen. Verbieten Wir, daß niemandts hinfortan zu den Gottlosen,
+> Aberglaubischen Meßpfaffen oder München lauffe, Wachs, Palmen, Kertzen oder Kreutter weihen
+> lasse, mit wölchen man nachmals Zauberey, Segnerey und Hexenwerck braucht, dann alle
+> Creaturen von Gott selbst gut gemacht und erschaffen seind, sonder es sol solche
+> verunreinigung und entheiligung gentzlich abgestalt und verbotten sein und bleiben, bey peen
+> 10 gulde.
+
+XII. Of the hallowing of herbs. We forbid that any man henceforth run to the godless,
+superstitious Mass-priests or monks and let wax, palms, candles or herbs be hallowed, with
+which men afterward practise sorcery, charming and witchcraft; for all creatures are made and
+created good by God himself. But such defiling and profaning shall be wholly put down and
+forbidden, and so remain, on pain of ten gulden.
+
+The Thüngen order of 1564 gives the same reason for abolishing the churching of women: it had
+bred "superstition and sorcery with blessings, St John's Gospel, hallowed waters, salt, herbs,
+candles and the like" ([§13.5.1](#s13-5-1)).
+
+#### <a id="s13-20-2"></a>13.20.2 A house troubled by the devil: prayer
+
+**The blessing of the house of the sick.** Two Low German orders give a prayer over a house.
+When the pastor went into the house of a sick man to give him the Supper, he greeted it with
+the greeting that Christ commanded (Luke 10:5), and the sexton answered. Then the pastor might
+say a prayer, in Latin or in German, that God would drive out of the house all the spooks,
+ghosts and power of the devil. There is no water, salt or exorcism. The prayer is said once, as
+the visit begins. Pomerania lets the whole form be shortened in a time of plague, when the
+pastor has many to visit, or when the sick man is near his end. The Mecklenburg order of 1540
+and the Pomeranian order of 1542 have the same rubric and the same prayers (Sehling 4, p. 365).
+**Mecklenburg, *Ordeninge der misse*, 1540/1545** (Sehling 5, p. 158):
+
+<!-- doc 1922 -->
+> unde wen de kerckhere int hus geit, schal he den grut, den Christus bevalen hefft, spreken:
+> Frede si mit dissem huse, unde schal de köster antworden: Unde alle den darinne wanen. Unde
+> mach de kerckher dit gebet spreken latintsch effte düdesch. A domo tua hac quesumus domine
+> spirituales nequitie repellantur, et aerearum discedat malignitas tempestatum, per dominum
+> nostrum etc. Here segene dit hus unde driff her uther alle spökenisse, gespens unde gewald des
+> düvels, up dat idt also gehilliget, di eine waninge möge sin, dorch Jesum Christum, unsen
+> heren. De köster spreke: Amen.
+
+and when the pastor goeth into the house, he shall speak the greeting which Christ hath
+commanded: Peace be with this house; and the sexton shall answer: And with all that dwell
+therein. And the pastor may say this prayer in Latin or in German: *From this thy house, we
+beseech thee, O Lord, let the spiritual wickednesses be driven back, and let the malice of the
+tempests of the air depart; through our Lord, etc.* Lord, bless this house, and drive out of it
+all spooks, ghosts and power of the devil, that it, being thus hallowed, may be a dwelling for
+thee; through Jesus Christ our Lord. The sexton shall say: Amen.
+
+The Latin collect asks that the spirits of wickedness and the storms be kept from "this thy
+house". The German prayer is a free version of it. It leaves out the storms, asks God to bless
+the house, and names what is to be driven out: the devil's spooks, ghosts and power. The house
+is to be hallowed by becoming God's dwelling.
+
+**Poltergeists are devils.** No order in the corpus says how a house that a ghost haunted was to
+be cleared. The orders say what the ghost was. The "poltergeists" whose appearances had brought
+in the Masses for the souls were devils, and God forbids seeking the truth from the dead
+(Deuteronomy 18:11; Isaiah 8:19). **Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1,
+p. 428):
+
+<!-- doc 1983 -->
+> Poltergeyste, welke nicht anders wen düvele synt geweset, alse amme dage is, hebben uns vele
+> selemissen gemaket, de uns mit Gades worde nicht bevalen synt.
+
+Poltergeists, which have been nothing else but devils, as is manifest, have made us many
+soul-Masses, which are not commanded us by God's word.
+
+Hamburg in 1529 says the same of "the poltergeists, which are devils" (Sehling 5, p. 520). For
+a possessed person in the house, Pomerania in 1569 greets the house with "The peace of our Lord
+Jesus Christ be in this house" and resists Satan "with prayers and contempt" ([§13.8.7](#s13-8-7)).
+
+#### <a id="s13-20-3"></a>13.20.3 The tools of sorcery burned
+
+**Württemberg and Hohenlohe: the sorcerers' books.** The police orders of the princes deal with
+the sorcerers' tools. The Württemberg territorial order (*Landesordnung*) of 1552, which
+Hohenlohe took over almost word for word in 1558, bids the officials not to suffer sorcerers,
+devil-conjurers and charmers. Those who will not leave off are to have their books, and
+whatever else they use, burned, and are to be banished. **Hohenlohe, *Polizeiordnung*, 1558** (Sehling 15, p. 139):
+
+<!-- doc 550 -->
+> gebietten wir hiemit ernsthch, das alle zauberer, teufelsbeschwerer, segner und ander
+> dergleichen abgötterer in unser herschaft nit geduldet, sonder durch unsere amptleut davon
+> abzustehen mit ernst angehalten werden. Welche aber uber solche ermanung in iren abgöttischen
+> wesen verharren und davon nit abstehen wolten, denen sollen ire bücher und anders, so sie
+> darzu gebrauchen, verbrent und sie unserer herrschaft verwisen werden.
+
+we hereby earnestly command that all sorcerers, devil-conjurers, charmers and other such
+idolaters be not suffered in our lordship, but be earnestly held by our officials to leave off
+therefrom. But whoso, above such admonition, will continue in their idolatrous ways and will
+not leave off therefrom, their books, and whatever else they use thereto, shall be burned, and
+they themselves banished out of our lordship.
+
+Where Hohenlohe has "their books", the Württemberg text has their *prillen*, their "glasses"
+(Sehling 15, p. 139, editors' note).
+
+**Castell and Hohenlohe: burned before the congregation.** The Castell village order for
+Obereisenheim of 1579 fines those who resort to soothsayers, or who have themselves or their
+goods blessed or kept from harm with hallowed salt, wax, herbs and water. The hallowed or
+bewitched things and the written charms are to be taken from them and burned before the whole
+congregation, at the church or the town hall. Hohenlohe's police order of 1588 copies the
+article and has them burned "at the church" (Sehling 15, p. 580). **Castell, *Dorfordnung für
+Obereisenheim*, 1579** (Sehling 11, p. 691):
+
+<!-- doc 315 -->
+> Würde aber jemand uber solche straf und getreue verwarnung, wer der were, wahrsagern
+> nachlaufen, derselbigen rats pflegen, umb einige sachen, die er verloren oder ime sonst
+> widerwärtig zuegestanden, oder unter dem zeichen der arznei sich oder das seine segenen, mit
+> geweihtem salz, wachs, kreutern, wasser und andere zaubereien oder aberglaubischen
+> kinderspielen bewaren oder heilen lassen würde, der sol uns zehen gulden unnachlessig zur
+> straf verfallen sein und ime die geweihten oder gezauberten, aberglaubischen stück und
+> beschribene segnen, da deren noch vorhanden were, genommen und offentlich vor einer ganzen
+> gemeind bei der kirchen oder dem rathaus verbrant werden; dann uns Got solchen aberglauben
+> durch Moysen vielfeltig verboten
+
+But if any man, whosoever he were, above such punishment and faithful warning, should run
+after soothsayers and take counsel of them about any things that he had lost, or that had
+otherwise gone against him; or should let himself or his goods be blessed under colour of
+physic, or be kept or healed with hallowed salt, wax, herbs, water and other sorceries or
+superstitious child's play: he shall forfeit unto us ten gulden without remission. And the
+hallowed or bewitched superstitious pieces and the written charms, where any of them be yet in
+being, shall be taken from him and burned openly before a whole congregation at the church or
+the town hall; for God hath forbidden us such superstition by Moses many times.
+
+The article goes on to cite Leviticus 19:26 and 19:31, Leviticus 20:6 and Deuteronomy 18:10–11.
+Whoever still would not leave off was to be put in the tower on bread and water, "since God the
+Lord hath already hallowed and sanctified all things through Christ, without our word, cross,
+chant and self-devised ceremonies" (Sehling 11, p. 691). The Lippe order of 1571 deprives a
+sexton who wrote out St John's Gospel to hang about people's necks "for all manner of sickness
+and sorcery" ([§13.12.2](#s13-12-2)).
+
+#### <a id="s13-20-4"></a>13.20.4 Images, fonts and chapels of the old cult
+
+**Idolatry beside sorcery.** The orders put idolatry beside sorcery, as Paul does among the
+works of the flesh (Galatians 5:20). They dealt with the furnishings of the old cult as they
+dealt with the tools of sorcery: these were taken away, broken and burned, or turned to common
+use. The removal of images is treated at length in §§[14.4.2](#s14-4-2)–[14.4.4](#s14-4-4), and the clearing of
+churches and chapels in [§13.19.2](#s13-19-2). Three orders speak of breaking and burning.
+**Mecklenburg, *Processus visitationis*, 1552** (Sehling 5, p. 224):
+
+<!-- doc 1925 -->
+> Den kirchgeschwornen aber geschichet bevel, die ciboria und altar, item die fanen aus der
+> kirchen hinweg zu thuen. […] Und wo man erferet, das etwa ein gotz oder bilde vorhanden, so
+> man hat pflegen anzubeten, wirt alsbald hinweg gethaen, zerbrochen und verbrennet.
+
+But to the churchwardens command is given to put the ciboria and the altars, item the banners,
+away out of the church. […] And where it is learned that there is any idol or image which men
+were wont to worship, it is forthwith put away, broken and burned.
+
+**Sponheim 1566: the fonts of the "bewitched" water.** The Front County of Sponheim was held
+jointly by the Elector Palatine and the margrave of Baden. When it was reformed in 1566, the
+Palatine councillors (Reformed) held that God's word commands more than the altars and idols to
+be broken down. They named the Mass vestments, the portable altars, the sacrament-houses, and
+the fonts "in which the bewitched baptismal water was kept". The joint chief officer and the
+Baden clerk objected. After a compromise the work was done in four villages, and the Palatines
+burned some of the idols, among them the images to which graces and indulgences had been tied.
+Baden then protested against "Zwinglian and sacramentarian image-storming". **Sponheim (Vordere
+Grafschaft), *Reformation in der Vorderen Grafschaft Sponheim*, 1566** (Sehling 18, p. 630):
+
+<!-- doc 1015 -->
+> item Sacrament heusel, dergleichen Tauffstein, darinn das verzaubert Tauffwasser gehalten
+> worden, item Götzen, vor denen man sonndere Meß gelesen, und so der Götz hupscher, so dy Meß
+> vor crefftiger ist geschetzt worden, weliches auch alles sambt anderm, so zur abgötterey
+> dienet, Gott, der herr, in seinem wort abzubrechen unnd hinweg zu thun bevolhen. […] welicher
+> einsteils unnd sonderlich dy Gnaden- unnd Ablaßgötzen von denn pfältzischen mit feuer
+> verbranndt worden.
+
+item the sacrament-houses; likewise the fonts in which the bewitched baptismal water was kept;
+item the idols before which special Masses were read, and the fairer the idol, the mightier the
+Mass was esteemed: all which, together with other things that serve idolatry, God the Lord hath
+commanded in his word to be broken down and put away. […] of which [idols] some, and in
+especial the idols of grace and of indulgence, were burned with fire by the Palatines.
+
+**Transylvania 1607: burned, but by degrees.** The Transylvanian synod of 1607 calls the idols
+"sure instruments of idolatry", which God commanded to be destroyed, broken and burned. It
+bids the pastors remove them slowly, out of the hearers' minds before their eyes.
+**Transylvanian Saxons, *Articuli de ceremoniis*, 1607** (Sehling 24, p. 493):
+
+<!-- doc 1726 -->
+> Non minus necessarius esset hic quoque articulus, ut a templis divino cultui destinatis
+> facesserent et eiicerentur idola, tanquam certa idolatriae instrumenta, doctores mendacii et
+> ornatus, qui non ecclesiam Dei, sed meretricem illam Babilonicam, cum qua reges terrae
+> scortati sunt, decet. Unde etiam Deus illa neque fieri neque coli, sed destrui, confringi, imo
+> igni comburi iussit. Sed quia hic quoque timendum, ne parum aut nihil efficiamus apud
+> idolorum patronos, feramus ad tempus, quod subito mutari non potest. Enitantur tamen
+> pastores, ut pedetentim et absque tumultu ea submoveant, quae superstitionis fomenta esse
+> vident et prius ex animis quam oculis auditorum eiiciant
+
+No less needful were this article also: that the idols should depart and be cast out of the
+temples appointed for divine worship, as sure instruments of idolatry, teachers of lies, and an
+adornment that becometh not the Church of God but that Babylonian harlot with whom the kings of
+the earth have committed whoredom. Wherefore also God commanded that they be neither made nor
+worshipped, but destroyed, broken, yea burned with fire. But since here also it is to be
+feared that we may effect little or nothing with the patrons of the idols, let us bear for a
+time what cannot be changed suddenly. Yet let the pastors strive to remove, by little and little
+and without tumult, the things which they see to be the tinder of superstition, and cast them
+out of the minds of the hearers before their eyes.
+
+#### <a id="s13-20-5"></a>13.20.5 The things of the sacraments guarded
+
+**Water, hosts and the altar cloth.** The sorcerers sought the church's own things: the
+baptismal water, the hosts and the altar. The orders do not purify these things after they have
+been misused. They keep them from misuse beforehand. **Wolfstein, *Christliche Instructio* of
+Thomas Stieber, 1574** (Sehling 13, p. 572):
+
+<!-- doc 463 -->
+> Zum neunten sollen die pfarhern fleißig achtung haben, daß mit den dingen, so man zur
+> administration der hochwürdigen sacrament gebraucht, kaine zauberei getriben werde, als etwa
+> mit dem taufewasser geschehen ist und noch geschicht oder, daß etliche kreuter oder anders
+> unter das altartuch legen und lassen darüber meß halten und gebrauchen solche ding zur
+> zauberei.
+
+Ninthly, the pastors shall take diligent heed that no sorcery be practised with the things that
+are used for the administration of the most worthy sacraments, as hath been done, and is yet
+done, with the baptismal water; or that some lay herbs or other things under the altar cloth,
+and have Mass said over them, and use such things for sorcery.
+
+**The water poured away.** Grubenhagen in 1581 bids the sextons pour the baptismal water away
+at once, since sorcerers begged or bought it for their sick cattle. **Grubenhagen,
+*Kirchenordnung*, 1581** (Sehling 6/2, p. 1049):
+
+<!-- doc 2058 -->
+> Nachdem auch zuweilen zauberische, aberglaubische leute gefunden, welche des taufwassers zu
+> ihrem kranken vihe missbrauchen und von den küstern bitten oder keufen, sollen die custodes
+> bey verlust ihres ampts und unserer ernsten straff sich dafür hüten und umb des willen
+> alsobald das wasser weggiessen, auch sonst die taufstein sauber und reinlich halten.
+
+Forasmuch as there are also found at times sorcerous, superstitious people, which misuse the
+baptismal water for their sick cattle, and beg or buy it of the sextons, the sextons shall, on
+pain of losing their office and of our earnest punishment, beware thereof, and for that cause
+pour away the water forthwith, and otherwise keep the fonts clean and neat.
+
+The Upper Palatine visitors of 1579 had heard that some misused the baptismal water for
+superstition. They asked the sextons whether anyone begged it of them and where they poured it
+out, and gave them this order. **Upper Palatinate, *Visitationsordnung*, 1579**
+(Sehling 13, p. 317):
+
+<!-- doc 416 -->
+> Und ist ihnen darauf bevolhen: 1. Das sie das taufwasser niemand, in was schein solches
+> begert werden mochte, geben oder volgen lassen, 2. sondern solches, so bald nach volgender
+> action, uf den kirchhofe oder andere saubere und gelegene ort ohne superstition usgießen.
+
+And it is thereupon commanded them: 1. That they give or let go the baptismal water to no one,
+under whatsoever colour it may be desired; 2. but pour it out as soon as the action is ended,
+on the churchyard or another clean and convenient place, without superstition.
+
+Electoral Saxony in 1580 forbade the bell-ringers to sell the leftover water and the hosts,
+"which are afterward used for sorcery" ([§16.7.1](#s16-7-1)). The later orders count the communicants
+and consume what remains of the elements (§§[13.22.3](#s13-22-3), [13.22.5](#s13-22-5)).
+
+#### <a id="s13-20-6"></a>13.20.6 The persons: repentance, not purification
+
+**Public apology and absolution.** What the orders cleanse is the conscience. Nassau-Dillenburg
+in 1570 would not suffer sorcerers, soothsayers or charmers in the land. Those who ran after
+them and had their children, cattle and goods bewitched and blessed were to ask pardon openly
+before the congregation and be absolved. **Nassau-Dillenburg, *Visitationsabschied*, 1570**
+(Sehling 10, p. 113):
+
+<!-- doc 180 -->
+> Dergleichen sollen auch keine zauberer, warsager unnd segensprecher geduldet, sondern vermöge
+> der rechtten gestraffet und des landts verweiset werdenn. Welche sich auch denen anhengig
+> machen, denen nachlauffen, bey inen raths pflegen unnd ire kinder, vihe unnd narung uber die
+> geschehene verwarnung bezaubern unnd segnen laßen wurden, die sollen neben dem, das sie solch
+> gegeben ergernus fur der christlichen gemein offentlich abzubitten unnd von irer begangener
+> schwerer sunden sich absolviren zulaßen, durch ire pastores angehaltten werden sollen, auch
+> durch die obrigkeit nach der sachen unnd personen gelegenheit gestraft werdenn.
+
+Likewise shall no sorcerers, soothsayers and charmers be suffered, but be punished according
+to the laws and banished out of the land. And they that join themselves unto them, run after
+them, take counsel with them, and after the warning given let their children, cattle and
+living be bewitched and blessed: they shall be held by their pastors, beside openly asking
+pardon before the Christian congregation for the offence they have given, to let themselves be
+absolved of their grievous sin committed; and they shall also be punished by the magistrate
+according to the matter and the person.
+
+**Exclusion from the Supper.** The Transylvanian synod at Mediasch in 1595 barred from the Supper
+those who sought help in sickness from magicians and soothsayers. A pastor who did so was to be
+suspended from his office for a month before the elders of his community and fined ten florins
+by the chapter. **Transylvanian Saxons, *Synodalartikel gegen Zauberei* (Mediasch), 1595**
+(Sehling 24, p. 478):
+
+<!-- doc 1721 -->
+> Quicunque se conferunt ad magos et veridicos auxilium aut levamen morbi aliquod ab ipsis
+> petentes, debent privari coena Domini.
+
+Whosoever betake themselves to magicians and soothsayers, seeking of them help or any relief of
+sickness, ought to be deprived of the Lord's Supper.
+
+**Caution before the fire.** The orders that treat sorcery as a crime leave its trial to the
+magistrate and the imperial law. The Solms order of 1584 punishes it "in body and life" (Sehling
+9, p. 326), and the Burzenland articles of 1578 "with fire" (Sehling 24, p. 449). Two orders
+warn against haste. Hohenlohe in 1558 would have no court act on what a soothsayer said against
+anyone, since "the devil is nothing but a liar" (Sehling 15, p. 139). Count John VI of
+Nassau-Dillenburg ordered a secret inquiry into each person accused of witchcraft, before any
+arrest. **Nassau-Dillenburg, *Zaubereimandat*, 1582** (Reformed; Sehling 10, p. 175):
+
+<!-- doc 187 -->
+> das inn sachenn, so leib und leben, insonderhaitt aber die seel seligkhait betreffen, nicht
+> liederlichen und uf blosse anzaige gehandlet noch zum gefängklichen angreiffen ehe besserer
+> erkhundigung, viellweniger zum fewer damit will geeilet sein.
+
+that in matters which concern body and life, and above all the salvation of the soul, men must
+not proceed lightly and upon a bare accusation, nor hasten to lay hold of anyone and imprison
+him before better inquiry, much less to the fire.
+
+---
+
+### <a id="s13-21"></a>13.21 The litany, the suffrages and the bidding prayers at the Mass
+
+**What the orders inherited.** The medieval rite knew three set forms of intercession besides
+the canon:
+- the **Litany of the Saints**, sung in procession on St Mark's day and the Rogation days, and
+  on Holy Saturday on the way to and from the font, before the first Mass of Easter;
+- the **suffrages**, commemorations with versicle and collect, chiefly of the saints;
+- the **solemn prayers** of Good Friday (*orationes sollemnes*): nine biddings, each with
+  *Oremus*, *Flectamus genua*, *Levate* and a collect, for the Church, the pope, all orders, the
+  emperor, the catechumens, all needs, heretics and schismatics, the Jews and the pagans.
+
+**What they made of them.** The orders kept the first and the third in a new form and dropped
+the second. Luther's German Litany and his corrected Latin Litany (*Latina litania correcta*) of
+1529 removed the invocation of the saints. They became the commonest set intercession of the
+evangelical churches: sung in place of the Mass when no one communed, inside the Mass, after the
+sermon, and on fixed weekdays, prayer days and Rogation. The Good Friday biddings survive in two
+orders. This section covers the Mass and the parish services that stood in for it; the Litany at
+the hours is in [Chapter 10](#ch10), [§10.7.5](#s10-7-5). The general prayer of the church,
+including its bidding forms ("Lasset uns bitten für …"), is in
+[Chapter 6](#ch6) and is left aside here.
+
+#### <a id="s13-21-1"></a>13.21.1 The Litany in place of the Mass
+
+**When no one communed.** Where there were no communicants on a Sunday or feast, many orders
+replaced the Supper with the Litany. The Saxon visitors put it simply in 1529: "where there be
+communicants, the office of the Mass held; but where no communicants, the German Litany sung by
+the whole church" (Niemegk, Sehling 1, p. 616). Belzig (1529) has the Litany before the sermon
+(Sehling 1, p. 527), and Pomerania 1542 after it: "but chiefly let one read the Litany"
+(Sehling 4, p. 357). At Kempten (1553), on a Sunday morning without communicants, the people
+sing the Creed, the Our Father or a psalm, and two or three scholars then sing the German
+Litany, "the other scholars together with all the people answering" (Sehling 12, pp. 175–176).
+Pfalz-Neuburg sets out the whole service. **Pfalz-Neuburg, *Kirchenordnung*, 1543**
+(Sehling 13, p. 77):
+
+<!-- doc 386 -->
+> so sol der priester nit in gewonlichem meßgewand, sonder in einem chormantel oder nur in
+> seinem chorrock für den altar treten und es aller ding halten, wie oben gesetzt ist bis auf
+> die gemeinen predig. Nach der predig aber sol man die gemein litanei singen mit einer collecta
+> pro pace und dann mit dem Benedicamus Domino und gemeinem segen beschließen
+
+then shall the priest go before the altar, not in the customary Mass vestment, but in a cope or
+only in his surplice, and hold all things as is set above, as far as the common sermon. But
+after the sermon one shall sing the common Litany, with a collect *pro pace*, and then close
+with *Benedicamus Domino* and the common blessing.
+
+Mecklenburg made the Litany the whole of what followed the sermon. **Mecklenburg,
+*Kirchenordnung*, 1552** (Sehling 5, p. 202):
+
+<!-- doc 1922 -->
+> Wenn nicht communicanten da sind, sol es mit dem gesang und lection vor der predigt aller ding
+> gehalten werden, wie oben beschrieben. Auch sol in der predig erinnerung und vermanung
+> geschehen, das man ofter zur communion komen wolle, wie gemeldet. Nach der predigt aber sol
+> allein die litanei gesungen werden.
+
+When there be no communicants, it shall be held in all things with the singing and lesson before
+the sermon as is described above. Also in the sermon remembrance and exhortation shall be made,
+that men would come oftener to the communion, as is said. But after the sermon the Litany alone
+shall be sung.
+
+Lüneburg 1564 repeats the rule word for word, adding the blessing and "Erhalt uns, Herr"
+(Sehling 6/1, p. 553). Grubenhagen named the Litany as the successor of the old "prayer Mass".
+**Grubenhagen, *Kirchenordnung*, 1544** (Sehling 6/2, p. 1033):
+
+<!-- doc 2056 -->
+> VII. Von der letanien, wie es darmit soll gehalten werden. Alle wochen, entweder am Mittwochen
+> oder Freytage, und am Sondage oder feyrtagen, wen keine communicanten vorhanden sind, so
+> sollen die parner und ihre pfarkinder die letanien, welche man vormaln die bettmessen
+> geheissen, singen und halten, auch darvor ein capittel oder historien aus der biblien,
+> entweder aus dem alten oder neuen testament, dem volk auf das allerkürzeste zur unterrichtung
+> und lher vorgedragen und gelesen werden.
+
+VII. Of the Litany, how it shall be held therewith. Every week, either on Wednesday or Friday,
+and on Sunday or holy days when no communicants are present, the parsons and their parishioners
+shall sing and hold the Litany, which aforetime was called the prayer-Mass; and before it a
+chapter or history out of the Bible, either out of the Old or New Testament, shall be set forth
+and read to the people as briefly as may be, for instruction and teaching.
+
+**The weekday "Mass" of the Litany.** At Hof the weekday *Tagmeß* on Monday, Tuesday, Thursday
+and Saturday had no communion. It consisted of a hymn, a collect, an Old Testament chapter, the
+Litany, a New Testament chapter, a short hymn and the Our Father sung at the altar.
+**Brandenburg-Ansbach- Kulmbach, *Ordo ecclesiasticus* of Hof, 1592** (Sehling 11, p. 455):
+
+<!-- doc 294 -->
+> Wird die litania, in gewiese teil dividirt, von drei oder vier reinstimmigen knaben an dem
+> ort, do sie sonst die lateinische epistel an feierabenden lesen, mit dem angesicht zum chor
+> gewendet gesungen, darauf der ander chor wie gebreuchlich respondirt.
+
+The Litany, divided into certain parts, is sung by three or four boys of clear voice at the
+place where they otherwise read the Latin epistle on holy eves, with the face turned toward the
+choir; whereupon the other choir respondeth, as is customary.
+
+The editor reports that the Litany was split into four, one part for each day, keeping the
+beginning and end every day. A petition for protection from "the Pope and the Turk" was added
+(Sehling 11, p. 455). It was dropped when there was a baptism.
+
+**Suffrages in the Mass without communion.** The Transylvanian Saxons put the old suffrages in
+the same place. When no one communed, the Sunday service was a German psalm, a collect, a
+sequence or tract, and a New Testament chapter read in order to the people. **Transylvania,
+*Kirchenordnung* (Latin), 1547** (Sehling 24, p. 223):
+
+<!-- doc 1669 -->
+> Finita lectione canitur symbolum fidei cum versiculo et collecta de sancta Trinitate. Huic
+> adduntur reliqua suffragia pro rege, pro remissione peccatorum et pro pace cum suis versiculis
+> et collectis, quae similiter cum Benedicamus Domino et benedictione populi finiuntur. Hoc
+> quoque officium semper eodem ordine per totum annum servatur.
+
+The lesson finished, the Creed is sung, with the versicle and collect of the Holy Trinity. To
+this are added the remaining suffrages, for the king, for the remission of sins and for peace,
+with their versicles and collects, which likewise are ended with *Benedicamus Domino* and the
+blessing of the people. This office also is kept always in the same order through the whole
+year.
+
+The weekday "high office … when no communion is celebrated" has the same Creed "with the
+aforesaid suffrages, collects and *Benedicamus Domino*" (Sehling 24, p. 225), and the German
+version says the same (Sehling 24, p. 245). At Bibersfeld near Hall (1535) the pastor knelt
+before the altar after the opening psalm and prayed the Kyrie in German and "the *preces
+publicae* for all needful estates and concerns" before the epistle (Sehling 17/1, p. 101).
+
+#### <a id="s13-21-2"></a>13.21.2 The Litany within the Mass
+
+**Between the epistle and the gospel.** The Litany could take the place of the sequence or
+gradual:
+- the Albertine *Cellische Ordnungen* of 1545: "at times, in the stead of the sequence, sing the
+  Litany in German" (Sehling 1, p. 300);
+- Prussia 1568: between epistle and gospel "one singeth the Litany, or on feast days one of the
+  German spiritual songs of the feast" (Sehling 4, p. 83);
+- Lüneburg, Regensburg, Mansfeld and Aschersleben, given in
+  [Chapter 8](#ch8), [§8.8.9](#s8-8-9).
+
+Veit Dietrich gives the ceremony for the small towns. **Nuremberg, *Agendbüchlein* of Veit
+Dietrich, 1545** (Sehling 11, p. 498):
+
+<!-- doc 297 -->
+> In den kleinen flecken nach der epistel sollen vor dem mittel altar zwen oder drei schuler die
+> litanei deutsch singen und der ander chor sambt dem volk drauf anworten. Zu letz das Da pacem
+> drauf singen sambt einer collecten de pace wie oben.
+
+In the small towns, after the epistle, two or three scholars shall sing the Litany in German
+before the middle altar, and the other choir together with the people answer thereto. At the
+last sing the *Da pacem* thereupon, together with a collect *de pace*, as above.
+
+**During the communion.** At Amberg the Litany filled a long communion. **Amberg,
+*Kirchenordnung*, 1550** (Sehling 13, p. 286):
+
+<!-- doc 411 -->
+> Chorus singet under der communion das Jesus Christus, unser Heiland oder Gott sei gelobet und
+> gebenedeiet etc. oder, so der communicanten vil sein die litaniam und nachvolgends das Agnus
+> Dei und zulest das commun.
+
+The choir singeth during the communion "Jesus Christus, unser Heiland", or "Gott sei gelobet und
+gebenedeiet" etc.; or, if the communicants be many, the Litany, and next the *Agnus Dei*, and at
+the last the communion.
+
+**After the sermon.** This was the commonest place. The Litany was sung after the Sunday sermon,
+before the communion or at the close of the service, at:
+- Haderslev 1528, every Sunday "with the whole people … in Danish" (Sehling 23, p. 65);
+- Mecklenburg 1552, Lüneburg 1564 and Pfalz-Neuburg 1543 when there was no communion ([§13.21.1](#s13-21-1));
+- Waldeck 1556 and many others.
+
+Waldeck describes the posture. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 277):
+
+<!-- doc 2300 -->
+> Nach der Predigt sollen etliche der Schüler oder der Pfarrherr, vor dem Altar niderkniend, die
+> Litanei, wie in D. Luthers seligen Sangbüchlin beschrieben, mit heller stimm und
+> verstendtlichen worten singen und der Chor darauff antworten. Darauff soll der Pastor mit
+> eyner Collecten, wie daselbst stehet, Und der Chor mit dem gesenge: O herre Gott, gib uns
+> deinen fried, etc. beschliessen.
+
+After the sermon certain of the scholars, or the parson, kneeling before the altar, shall sing
+the Litany as it is described in Dr Luther of blessed memory's little song-book, with clear
+voice and intelligible words, and the choir answer thereto. Thereupon the pastor shall close
+with a collect, as it standeth there, and the choir with the song, "O Lord God, give us thy
+peace", etc.
+
+In Mecklenburg the pastor sang it from the pulpit. **Mecklenburg, *Verordnung der Visitatoren*,
+1542** (Sehling 5, p. 149):
+
+<!-- doc 1921 -->
+> Zum dritten soll der pastor am sontage nach der predigte in stetten und dorfern die letanei
+> dem volke vom predigstuel mit andacht fursingen und die schuler oder der kuster samt dem volke
+> sollen niderkniegen und ime darauf antwurten.
+
+Thirdly, the pastor shall on Sunday after the sermon, in towns and villages, sing the Litany
+before the people from the pulpit with devotion, and the scholars or the sexton together with
+the people shall kneel down and answer him thereto.
+
+On its prayer days Nassau-Weilburg (1576) closed the service with the Litany or "Erhalt uns,
+Herr". Since the Litany covers "all needs that the Christian congregation has to lay before
+God", it was to alternate with the full set of prayers rather than be added to them
+(Sehling 10, p. 238).
+
+**Before the Introit.** Regensburg 1542 and Transylvania 1547 put the Litany at the head of the
+service ([Chapter 3](#ch3)).
+
+**Ordination within the Litany.** Braunschweig-Wolfenbüttel ordained preachers on a weekday
+"after the sermon and the Latin Litany" (Sehling 6/1, p. 69). At Lüneburg the ministers went to
+the altar at a fixed petition of the Litany. **Lüneburg, *Kirchenordnung der Stadt*, 1575**
+(Sehling 6/1, p. 655):
+
+<!-- doc 2017 -->
+> Wen der genante tag erscheinet, die predigt gehalten und in der litania diese wort gesungen
+> werden: O Jesu Christ, Gottes Sohn, so gehet das ganze ministerium mit dem ordinando vor den
+> hohen altar, knien daselbst samptlich nidder und hebet der superintendens oder wehr das ampt
+> der ordinierung vorwalten soll, ahn zu singen: Veni, sancte Spiritus etc.
+
+When the appointed day cometh, the sermon is held, and in the Litany these words are sung, "O
+Jesu Christ, God's Son", then goeth the whole ministry with the ordinand before the high altar,
+and they kneel there all together, and the superintendent, or whoso shall administer the office
+of ordaining, beginneth to sing *Veni, sancte Spiritus* etc.
+
+Ordination itself is treated in [§13.10](#s13-10).
+
+#### <a id="s13-21-3"></a>13.21.3 The forms and the singers
+
+**Luther's two Litanies.** The orders name Luther's German Litany and his corrected Latin one,
+"as it is printed and gone forth at Wittenberg" (Calenberg 1542, Sehling 6/2, p. 812). The Latin
+Litany belonged to the school and the hours, and the German one to the congregation:
+- Braunschweig-Wolfenbüttel 1543: the Latin Litany at the eve Vespers and at an ordination, the
+  German "once in the week after the sermon, that the whole church answer" (Sehling 6/1, p. 51);
+- Pomerania 1535: the Latin Litany at the boys' Saturday Vespers, and the German Litany once a
+  week with the people (Sehling 4, pp. 340, 342).
+
+Prussia had a Litany of its own, used at Regensburg ([Chapter 8](#ch8), [§8.8.9](#s8-8-9)). Marggrabowa insisted
+on Luther's prose text. **Marggrabowa, *Gottesdienstordnung*, 1581** (Sehling 4, p. 149):
+
+<!-- doc 1837 -->
+> Alle freitage soll man die litanei singen, wie es D. Luther gemacht und nicht reimweise, und
+> sollen zwen oder drei knaben furm altar knien oder singen, darauf der capellan ein kurzen
+> sermon auswendig tun soll.
+
+Every Friday one shall sing the Litany as Dr Luther made it, and not in rhyme; and two or three
+boys shall kneel before the altar and sing, whereupon the chaplain shall make a short sermon
+without book.
+
+**Who sang it, and how.** The usual pattern was two or three boys, kneeling before the altar or
+standing at the epistle place, with the choir and people answering. Nördlingen 1579 prints the
+Litany in two columns for alternating choirs, ending "Both choirs together: *Kyrie eleison.
+Amen*" (Sehling 12, p. 369). At Brandis in 1574 the Litany after the Thursday sermon alternated
+week by week between the sung setting "made by Doctor Justus Jonas" and Luther's
+(Sehling 1, p. 534). Where there was no school the Litany was read:
+- at Limpurg in 1610 the town of Gaildorf sang it "before the altar", but in the villages the
+  pastor read it from the pulpit (Sehling 16, p. 617);
+- Zweibrücken 1533 allowed it "sung or read, as the place alloweth" (Sehling 18, p. 52).
+
+#### <a id="s13-21-4"></a>13.21.4 The Litany days
+
+**Weekly.** The Litany was most often fixed to a weekday:
+- **Wednesday and Friday:** the Reuss articles of 1528, "in all ways to hold the Litany on
+  Wednesdays and Fridays" (Sehling 2, p. 143); Grubenhagen 1544 (above);
+- **Friday:**
+  - the Ansbach chapters 1533 (Sehling 11, p. 314);
+  - Mecklenburg 1542, where the people were "to help the scholars sing" it, "as is held on
+    Sunday" (Sehling 5, p. 149);
+  - Marggrabowa 1581 (above);
+  - Nördlingen 1579, "commonly on Friday after the sermon" (Sehling 12, p. 369).
+
+The calendar of prayer days, Ember days and fasts on which the Litany was sung is set out in
+[Chapter 12](#ch12), §§[12.6.2](#s12-6-2), [12.10.11](#s12-10-11), [12.12.7](#s12-12-7). That chapter
+gives the Albertine Ember-week Litany (Saxony 1539) and the Zweibrücken prayer days. Mansfeld
+(1580) wanted the German Litany "often and much, especially on the four Ember seasons, when the
+people are together" (Sehling 2, p. 239).
+
+**Rogation.** The Litany kept its oldest home in Rogation week, without the procession and the
+saints. Calenberg 1542 abolished the procession but kept the prayer days "with preaching,
+administering the sacrament, and the Litany early in the morning". **Calenberg-Göttingen,
+*Kirchenordnung*, 1542** (Sehling 6/2, p. 812):
+
+<!-- doc 2036 -->
+> Es sol aber die letania nicht wie in vorigen zeiten, da man sang: Sancte Petre, ora pro
+> nobis!, sonder auf weise und masse, wie sie zu Wittemberg gedruckt und ausgangen ist, gehalten
+> werden.
+
+But the Litany shall be held, not as in former times, when men sang *Sancte Petre, ora pro
+nobis!*, but after the manner and measure in which it is printed and gone forth at Wittenberg.
+
+Elsewhere at Rogation:
+- the Heidelberg chapter in 1546 was to sing "no litany *in rogatoribus* with invocation of the
+  saints, but the right Litany with invocation of the name of God" (Sehling 14, p. 92);
+- Brandenburg 1572 preaches "of prayer" through Rogation week and sings the Litany
+  (Sehling 3, p. 102).
+
+Pomerania 1569 gives the whole week the Litany and a penitential character. **Pomerania,
+*Agenda*, 1569** (Sehling 4, p. 466):
+
+<!-- doc 1865 -->
+> Darümme schal men disen sondach unde de volgende weke, ane den dach Ascensionis domini, vam
+> hiligen gebede predigen unde de letanien singen, de gemeine ernstlick vormanen, dat ein jeder
+> vlitich tor kercke ga unde de sinen tom gebede holde. […] Up disen sondach unde in der weke
+> schal men kenen figural sang singen, ock nicht orglen, utgenamen den dach Ascensionis domini,
+> mit der in vigilia: sunder idel düdische psalmen singen, bedepsalmen, boetpsalmen, vader unse
+> etc. stede nevenst dem sermon letanien holden.
+
+Therefore one shall preach on this Sunday and the following week, save the day of the Ascension
+of the Lord, of holy prayer, and sing the Litany, and earnestly exhort the congregation that
+every one go diligently to church and keep his household to prayer. […] On this Sunday and in
+the week one shall sing no figured song, nor play the organ, except the day of the Ascension of
+the Lord with its vigil, but sing only German psalms, prayer-psalms, penitential psalms, the Our
+Father etc., [and] always hold the Litany beside the sermon.
+
+#### <a id="s13-21-5"></a>13.21.5 The Litany at the feasts and seasons
+
+**Advent and Lent.** In Pomerania the Litany marked the penitential seasons. In Advent the
+village pastors were to read Matthew 24–25 at the Friday or weekday sermon "and thereupon hold
+the Litany" (Sehling 4, p. 471). The Latin Litany replaced the *Magnificat* when Vespers were
+kept "*dominicaliter*, as in Advent and Lent" (Pomerania 1542;
+[Chapter 10](#ch10), [§10.7.5](#s10-7-5)).
+
+**The high feasts.** Several orders tie the Litany to the great feasts. Zweibrücken is the
+earliest. **Pfalz-Zweibrücken, *12 Artikel "Form und Maß"*, 1533** (Sehling 18, p. 52):
+
+<!-- doc 963 -->
+> Where auch guth, das ungeverlich vier male im Jhar, als in den weiennachten, Ostern,
+> pfingstwochen und nach Exaltationis Crucis, christlich Letani gesungen oder gelesen wurde nach
+> gelegenheit des orts.
+
+It were also good that about four times in the year, as in the Christmas, Easter and Whitsun
+weeks and after the Exaltation of the Cross, a Christian Litany were sung or read, according to
+the circumstances of the place.
+
+Two later witnesses follow:
+- **Pfalz-Veldenz 1574** made the two days after Christmas, Easter and Whitsun "common prayer
+  days", with preaching in the morning only and the Litany sung or read after the sermon
+  (Sehling 18, p. 519; [Chapter 12](#ch12), [§12.6.2](#s12-6-2)).
+- **Danzig.** A list of feast days printed by Sehling as a draft for the order of 1567 names the
+  feasts "with several Masses, Vespers, litanies through the choir, and four sermons". These are
+  the Sundays, Trinity, Easter, Whitsun and Christmas with the two days following, and the other
+  high feasts (Sehling 4, p. 186).
+
+**Easter Eve and Easter Day: a negative.** No order puts a Litany on Easter Eve, before or after
+the font, or on Easter Day itself. The medieval Holy Saturday Litany went with the blessing of
+the font and the Easter candle, which nearly all the orders gave up ([§13.23.5](#s13-23-5)). The Easter Litany
+survives only in the Easter-week prayer days of Zweibrücken and the "litanies through the choir"
+of the Danzig feast list. No Sehling order has a Litany sung at an Easter Vigil.
+
+#### <a id="s13-21-6"></a>13.21.6 Good Friday: the Litany and the solemn prayers
+
+**The Litany on Good Friday.** Two southwestern orders make the Litany the intercession of the
+day. **Schwäbisch Hall, *Kirchenordnung*, 1543** (Sehling 17/1, p. 166):
+
+<!-- doc 762 -->
+> Und so Communicanten vorhanden seyen, sol das Abentmal auff den Grünen donnerstag und
+> Charfreytag wie an den Sontagen, doch mit vorgehender Predig, gehalten werden. Es sol auch am
+> Charfreytag ein predig vom gmeinem Gebeet gethon und die Litaney für alles anligen der
+> Christlichen kirchen gehalten werden.
+
+And if communicants be present, the Supper shall be held on Maundy Thursday and Good Friday as
+on the Sundays, yet with a sermon going before. There shall also on Good Friday be a sermon made
+of the common prayer, and the Litany held for all the concerns of the Christian church.
+
+The revision of 1615 keeps it: on Good Friday the communion "with a sermon going before on
+prayer, whereupon the Litany shall be sung" (Sehling 17/1, p. 165). Limpurg (1610) has the
+pastors on Good Friday "read the Litany together with the prayer" (Sehling 16, p. 621). The
+choice is deliberate: a sermon on prayer and the Litany, which prays for all estates, take the
+place of the old solemn prayers for all orders of men.
+
+**The solemn prayers in German: Waldeck 1556.** Only Waldeck kept the solemn prayers as a set of
+biddings and collects. They were to be used "in all churches on Good Friday before the
+communion" ([§13.23.4](#s13-23-4)). The order prints them in full as *Precationes solennes pro singulis
+ordinibus et necessitatibus die Parasceues dicendae* (Sehling 9, pp. 277–282). Each has a Latin
+heading, a German bidding addressed to the people ("Wir wöllen auch bitten für …" or "Lasset uns
+auch bitten für …"), and an *Oratio*. There are eleven intentions:
+1. the Church;
+2. *pro ministris verbi et ecclesiae*;
+3. *pro catechumenis*;
+4. *pro errantibus in fide*;
+5. *pro persecutoribus Verbi et Ecclesiae*;
+6. *pro magistratibus*;
+7. *pro iudaeis*;
+8. *pro pseudochristianis*;
+9. *pro inimicis*;
+10. *pro tentatis et sub cruce laborantibus*;
+11. *pro peccatis nostris*.
+
+They open with an address to the "dear brothers and sisters" and Christ's promise to those who
+ask. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 278):
+
+<!-- doc 2300 -->
+> Dieweil wir dann ytzundt im namen des herrn versamlet sein, so laßt uns erstlich von hertzen
+> bitten für die Gemeyne Christlichen Kirchen, das sie der allmechtige Gott durch unsern herrn
+> Jesum Christ inn der gantzen welt beschirmen und erhalten wölle, das sie mit ruhe und fried
+> nach seinem Göttlichen willen leben und seinen heyligen Namen loben unnd preisen mögen.
+
+Since we are now gathered in the name of the Lord, let us first pray from the heart for the
+congregation of the Christian Church, that Almighty God through our Lord Jesus Christ will
+protect and preserve it in all the world, that it may live in rest and peace according to his
+divine will, and laud and praise his holy name.
+
+The bidding for the Jews keeps the old intention but drops the old language of "perfidy" and
+"blindness" for the veil of 2 Corinthians 3 and the olive tree of Romans 11. **Waldeck,
+*Kirchenordnung*, 1556** (Sehling 9, p. 280):
+
+<!-- doc 2300 -->
+> Pro iudaeis Lasset uns auch bitten für den elenden uberlauff des Jüdischen Samens, Das yhnen
+> der barmhertzige Gott seine alte verheyssung gnediglich in yhren hertzen erwecken wölle und
+> vor yhren augen unnd hertzen die decken hinweg nehmen, das sie auch zu erkentnus Jesu Christi,
+> unsers herrn, mogen kommen. Oratio: Barmhertziger, gütiger Gott, Der du auch der Juden
+> hertigkeyt von deiner erbarmung nit außschleussest, Gedencke deines gnedigen bunds, den du mit
+> deinem trewen diener Abraham und mit andern lieben vättern auffgerichtet hast.
+
+For the Jews. Let us also pray for the wretched remnant of the seed of the Jews, that the
+merciful God would graciously awaken in their hearts his old promise, and take away the veil
+from before their eyes and hearts, that they also may come to the knowledge of Jesus Christ our
+Lord. Prayer: Merciful, kind God, who shuttest not out even the hardness of the Jews from thy
+mercy, remember thy gracious covenant which thou didst set up with thy faithful servant Abraham
+and with other dear fathers.
+
+**What changed from the Roman order.**
+- *Kept*: the Church, the clergy, the catechumens, the rulers, those in error, the Jews, and the
+  afflicted. The Roman "all needs" becomes "the tempted and those labouring under the cross",
+  with a long list: hunger, pestilence, wild beasts and the sword, prisoners, exiles, the sick,
+  widows and orphans, and women in childbirth.
+- *Dropped*: the pope; the pagans; the *Flectamus genua* and *Levate*. The people are bidden,
+  but no kneeling and rising is prescribed.
+- *Added*: persecutors of the word, false Christians, enemies, and our own sins.
+
+**Mülhausen 1528** (Reformed). The Mülhausen preachers had earlier kept the Roman prayers in German, "the
+collects which are prayed for the estates, namely for heathen, Turks, Circassians and Jews"
+(Sehling 20/2, p. 207; [§13.23.4](#s13-23-4)).
+
+**What was not found.** No other order prints or prescribes the Good Friday solemn prayers. No
+order has *Flectamus genua* or *Oremus, dilectissimi*, and no order keeps the prayer *pro
+perfidis Iudaeis*. Elsewhere the Good Friday intercession was the Litany, or the ordinary
+general prayer after the Passion sermon.
+
+---
+
+### <a id="s13-22"></a>13.22 Other occasional rites
+
+#### <a id="s13-22-1"></a>13.22.1 The visitation service
 
 **Pfalz-Neuburg 1560.** The church visitation was the evangelical substitute for the bishop's
 visitation. At the parish level it had its own service. Pfalz-Neuburg's visitation order of
@@ -53000,7 +53862,7 @@ collect the epistle, and after the epistle the Creed is sung. After the Creed th
 a short sermon. After the sermon is held, one of the visitors addresseth the people after this
 manner following.
 
-#### <a id="s13-20-2"></a>13.20.2 Rites treated in other chapters
+#### <a id="s13-22-2"></a>13.22.2 Rites treated in other chapters
 
 Some occasional services are treated elsewhere, or only touched on here:
 
@@ -53012,7 +53874,7 @@ Some occasional services are treated elsewhere, or only touched on here:
   ordination, installation and visitation are in
   [Chapter 17](#ch17).
 
-#### <a id="s13-20-3"></a>13.20.3 Reservation of the sacrament
+#### <a id="s13-22-3"></a>13.22.3 Reservation of the sacrament
 
 [§13.8.2](#s13-8-2) shows the orders ending the carrying of the reserved sacrament to the sick. This section
 gathers what they say about reservation as such: keeping consecrated hosts after the service,
@@ -53075,7 +53937,7 @@ about of this sacrament is to be left off. Yet so, that this be first set right 
 
 The great Brandenburg-Nürnberg order of 1533 makes it a rule: "they shall not keep, lock up nor
 carry about the holy sacrament" (Sehling 11, p. 184; [§13.8.2](#s13-8-2)). Hohenlohe 1553, Wolfstein 1574 and
-the Merseburg synod of 1544 say the same ([§13.20.5](#s13-20-5)).
+the Merseburg synod of 1544 say the same ([§13.22.5](#s13-22-5)).
 
 **Old hosts not to be used: Transylvania 1547.** The church order of the Transylvanian Saxons
 forbids a priest to give communion from hosts consecrated long before and kept "in corners",
@@ -53124,7 +53986,7 @@ herewith.
 
 **No reservation for the next service.** No Lutheran order after Ansbach 1526 allows hosts to be
 kept from one celebration to the next. The orders instead count the communicants beforehand so
-that only enough is consecrated ([§13.20.5](#s13-20-5)).
+that only enough is consecrated ([§13.22.5](#s13-22-5)).
 
 **Veil, lamp and colour.** No order says anything about veiling the reserved sacrament, the
 ciborium or the pyx, or about the colour of a lamp, its glass or its candle. The lamp before the
@@ -53133,7 +53995,7 @@ sacrament house "nor suffer burning lamps before it" (Sehling 2, p. 175). The Tr
 order rejects serving the hidden hosts "with candles and lamps" (above). The lights that remain
 are those set on the table at a sick-communion in the house ([§13.8.2](#s13-8-2)).
 
-#### <a id="s13-20-4"></a>13.20.4 Good Friday: no Mass of the Presanctified
+#### <a id="s13-22-4"></a>13.22.4 Good Friday: no Mass of the Presanctified
 
 The medieval Good Friday rite gave communion, to the priest alone, from a host consecrated on
 Maundy Thursday and kept overnight at an altar of repose or in the Easter sepulchre. No
@@ -53172,7 +54034,7 @@ from seven to nine there is preaching, and thereafter the communion held.
 
 Electoral Brandenburg in 1540 kept the Good Friday office with "the representation of the
 burial", but required "a complete consecration and administration of the sacrament" within it
-([§13.21.3](#s13-21-3)). The Brandenburg order of 1572 has the Passion read at four in the morning "as of old",
+([§13.23.3](#s13-23-3)). The Brandenburg order of 1572 has the Passion read at four in the morning "as of old",
 then "the sermon and communion"
 (Sehling 3, p. 102, from the editor's apparatus to the order of 1540). Waldeck 1556 has the
 solemn prayers of Good Friday said "before the communion" (Sehling 9, p. 277). The Hof order of
@@ -53196,9 +54058,9 @@ no more undertaken; likewise the fire on Easter Eve is no more blessed.
 
 The Feuchtwangen memorial of 1563 recalls the reformers rejecting "on Good Friday the laying of
 the cross in the sepulchre, and the watches that followed" (Sehling 11, p. 406), and Teschen in
-1584 still had to forbid "making the sepulchre and singing before the sepulchre" ([§13.20.3](#s13-20-3)).
+1584 still had to forbid "making the sepulchre and singing before the sepulchre" ([§13.22.3](#s13-22-3)).
 
-#### <a id="s13-20-5"></a>13.20.5 The remaining elements consumed
+#### <a id="s13-22-5"></a>13.22.5 The remaining elements consumed
 
 Since nothing was to be reserved, the orders had to say what became of consecrated bread and
 wine left after communion. They answer in three ways: count the communicants so that little or
@@ -53319,7 +54181,7 @@ handled, as that which one taketh, eateth and drinketh.
 
 ---
 
-### <a id="s13-21"></a>13.21 Rites of the feasts and seasons
+### <a id="s13-23"></a>13.23 Rites of the feasts and seasons
 
 The medieval year had rites that belonged to one day only: the blessing of candles at Candlemas,
 the ashes of Ash Wednesday, the palms and procession of Palm Sunday, the washing of feet and of
@@ -53330,7 +54192,7 @@ Whitsun. This section sets out what the evangelical orders kept of them. The ble
 themselves are treated in [§13.15.1](#s13-15-1), and the image plays in
 [Chapter 12](#ch12), [§12.10.10](#s12-10-10).
 
-#### <a id="s13-21-1"></a>13.21.1 The pattern
+#### <a id="s13-23-1"></a>13.23.1 The pattern
 
 **Luther's rule.** Luther would have Holy Week kept like any other week, except that the Passion
 is preached, without the "juggling-work" of the old ceremonies and without eight hours of
@@ -53352,7 +54214,7 @@ take the sacrament.
 
 **What the orders kept.** Most orders follow Luther: the feast keeps its history, read and
 preached, its proper chant and hymns, and the Supper. A few, chiefly Electoral Brandenburg in
-1540, kept much of the old ceremonial with the blessings removed (§[13.21.3](#s13-21-3)–[13.21.5](#s13-21-5)).
+1540, kept much of the old ceremonial with the blessings removed (§[13.23.3](#s13-23-3)–[13.23.5](#s13-23-5)).
 
 **What is not found.** The searches found none of the following in any evangelical order:
 - the *Exsultet* or Easter *praeconium*;
@@ -53364,7 +54226,7 @@ The paschal candle and new fire appear only to be abolished, and the ashes only 
 abolished blessings. The only Ash Wednesday custom named is a folk one: the Sponheim visitors of
 1560 complain of people choosing "a mayor or king" on Ash Wednesday (Sehling 18, p. 640).
 
-#### <a id="s13-21-2"></a>13.21.2 Christmas and the night vigils
+#### <a id="s13-23-2"></a>13.23.2 Christmas and the night vigils
 
 **Matins moved to the morning.** Christmas and Easter Matins were kept, but not at midnight. The
 Palatine reform of the collegiate churches in 1546 moves them "somewhat nearer the day than at
@@ -53424,7 +54286,7 @@ Christmas Matins with invitatory, psalms, lessons and responsories (Sehling 11, 
 The rocking of the Christ-child's cradle was abolished
 ([Chapter 12](#ch12), [§12.10.10](#s12-10-10)).
 
-#### <a id="s13-21-3"></a>13.21.3 Candlemas, Ash Wednesday and Palm Sunday
+#### <a id="s13-23-3"></a>13.23.3 Candlemas, Ash Wednesday and Palm Sunday
 
 **Candlemas.** The candles were no longer blessed ([§13.15.1](#s13-15-1)). What remained of the feast is its
 gospel and Simeon's song. Henneberg 1555 has the German *Nunc dimittis* sung "from the Sunday
@@ -53436,7 +54298,7 @@ the beginning of Lent and in the lists of abolished blessings ([§13.15.1](#s13-
 
 **Palm Sunday: the procession kept, the blessing dropped.** Electoral Brandenburg kept the old
 Palm Sunday procession and chants, but not the blessing of palms. The same paragraph orders the
-rest of Holy Week (§§[13.21.4](#s13-21-4)–[13.21.5](#s13-21-5)). **Brandenburg (Electorate), *Kirchenordnung* of Joachim II,
+rest of Holy Week (§§[13.23.4](#s13-23-4)–[13.23.5](#s13-23-5)). **Brandenburg (Electorate), *Kirchenordnung* of Joachim II,
 1540** (Sehling 3, p. 88):
 
 <!-- doc 1746 -->
@@ -53488,9 +54350,9 @@ them; and then the little girls always the refrain, "Glory and honour be to thee
 Palm-shooting, the blessing of palms and the wooden ass were abolished everywhere else
 (Mülhausen 1528, Reformed, Sehling 20/2, p. 206; [§13.15.1](#s13-15-1)).
 
-#### <a id="s13-21-4"></a>13.21.4 Maundy Thursday and Good Friday
+#### <a id="s13-23-4"></a>13.23.4 Maundy Thursday and Good Friday
 
-**Maundy Thursday.** Brandenburg 1540 kept the washing of feet where it had been in use ([§13.21.3](#s13-21-3)).
+**Maundy Thursday.** Brandenburg 1540 kept the washing of feet where it had been in use ([§13.23.3](#s13-23-3)).
 It is the only order found that does so. Elsewhere the foot-washing became a sermon: Regensburg
 [1567] preaches on John 13 at midday (Sehling 13, p. 477), and Wolfstein 1574 preaches on it
 "that the communicants be stirred to brotherly love and unity" (Sehling 13, p. 570). The day's
@@ -53534,10 +54396,10 @@ The solemn prayers also, as they have hitherto been kept in the two churches of 
 Wildungen, shall be diligently performed in all churches on Good Friday before the communion.
 
 The order prints them in full as *Precationes solennes pro singulis ordinibus et necessitatibus
-die Parasceues dicendae*, with German bidding prayers ([§13.22.6](#s13-22-6)).
+die Parasceues dicendae*, with German bidding prayers ([§13.21.6](#s13-21-6)).
 
 **Length.** No order asks for a specially long service. Luther rejected eight hours of
-Passion-preaching ([§13.21.1](#s13-21-1)). Bugenhagen's Brunswick order holds half an hour of preaching on the
+Passion-preaching ([§13.23.1](#s13-23-1)). Bugenhagen's Brunswick order holds half an hour of preaching on the
 Passion to be enough, for "the long, tedious Passion-preaching, as men were wont to do, is not
 profitable" (Sehling 6/1, p. 379). Württemberg 1535 kept Good Friday as a holy day "only in the
 forenoon, for the Passion" (Sehling 16, p. 134). The length came instead from reading the whole
@@ -53545,9 +54407,9 @@ Passion harmony, as at Brandenburg and Waldeck.
 
 **The cross and the sepulchre.** Brandenburg kept the "representation of the burial", but with a
 full consecration rather than the Mass of the Presanctified. Elsewhere the showing of the
-crucifix and the sepulchre were dropped ([§13.20.4](#s13-20-4);
+crucifix and the sepulchre were dropped ([§13.22.4](#s13-22-4);
 [Chapter 14](#ch14), [§14.6.6](#s14-6-6)). Communion on Good Friday is treated
-in [§13.20.4](#s13-20-4).
+in [§13.22.4](#s13-22-4).
 
 **Tenebrae.** The Holy Week Matins survived at Hof as an evening office, "formerly called
 Tenebrae", with lessons, the responsories *In monte oliveti* and *Vinea mea electa*, a German
@@ -53555,11 +54417,11 @@ responsory, a sermon and a Kyrie with Latin tropes (Sehling 11, pp. 415–416;
 [Chapter 8](#ch8), [§8.6.4.7](#s8-6-4-7)). Pfalz-Neuburg 1543 kept them "without all
 knocking, rumbling and din" (Sehling 13, p. 95).
 
-#### <a id="s13-21-5"></a>13.21.5 Easter Eve and Easter
+#### <a id="s13-23-5"></a>13.23.5 Easter Eve and Easter
 
 **No new fire and no paschal candle.** No evangelical order keeps the blessing of the new fire,
 the paschal candle or the *Exsultet*. Even Brandenburg, which kept Easter Eve "with the
-customary solemnities and ceremonies", left off "the hallowing of the fire" ([§13.21.3](#s13-21-3)). The
+customary solemnities and ceremonies", left off "the hallowing of the fire" ([§13.23.3](#s13-23-3)). The
 Mülhausen preachers (Reformed) kept the consecration of the font on Easter Eve but thought the
 Easter candle unnecessary for it. They also dropped the fire-blessing and the daily procession
 to the font through Easter week. **Mülhausen, *Gutachten zu den Gottesdiensten in der Karwoche*,
@@ -53581,14 +54443,14 @@ formerly sung at the font be sung in the choir, like other Vespers.
 
 **The resurrection represented.** Brandenburg 1540 kept Easter night "with the representation of
 the resurrection of Christ, as of old", that is, the Easter play at the sepulchre, and Easter
-Vespers "with the solemnity customary at baptism", baptizing any children then waiting ([§13.21.3](#s13-21-3)).
+Vespers "with the solemnity customary at baptism", baptizing any children then waiting ([§13.23.3](#s13-23-3)).
 An Easter Matins of 1544 from Bibra survives with the German *Te Deum*, *Christ ist erstanden*
 and *Verleih uns Frieden* (Bibra, described by the editor, Sehling 2, p. 268). Elsewhere the
 Easter image plays were abolished
 ([Chapter 12](#ch12), [§12.10.10](#s12-10-10)). The Easter *Leise*
 "Christ ist erstanden" is treated in [Chapter 8](#ch8), [§8.10.2](#s8-10-2).
 
-#### <a id="s13-21-6"></a>13.21.6 Ascension and Whitsun
+#### <a id="s13-23-6"></a>13.23.6 Ascension and Whitsun
 
 **The None kept, the figures dropped.** The Palatine reform of 1546 keeps the festal None of
 Ascension and Whitsun, but without the water poured, the hosts thrown from the vault, the fire
@@ -53615,7 +54477,7 @@ itself abolishes the candle.
 and Whitsun, and that this is why the two feasts were kept (Schwäbisch Hall 1527, Sehling 17/1,
 p. 43; Württemberg 1553, Sehling 16, p. 232). None restores the seasons of baptism.
 
-#### <a id="s13-21-7"></a>13.21.7 Septuagesima and Trinity Sunday
+#### <a id="s13-23-7"></a>13.23.7 Septuagesima and Trinity Sunday
 
 **No farewell to the Alleluia.** No order in the corpus has the medieval "deposition" or
 farewell of the Alleluia at Vespers or Compline on the eve of Septuagesima (*Alleluia, dulce
@@ -53699,866 +54561,6 @@ in [Chapter 8](#ch8).
 
 ---
 
-### <a id="s13-22"></a>13.22 The litany, the suffrages and the bidding prayers at the Mass
-
-**What the orders inherited.** The medieval rite knew three set forms of intercession besides
-the canon:
-- the **Litany of the Saints**, sung in procession on St Mark's day and the Rogation days, and
-  on Holy Saturday on the way to and from the font, before the first Mass of Easter;
-- the **suffrages**, commemorations with versicle and collect, chiefly of the saints;
-- the **solemn prayers** of Good Friday (*orationes sollemnes*): nine biddings, each with
-  *Oremus*, *Flectamus genua*, *Levate* and a collect, for the Church, the pope, all orders, the
-  emperor, the catechumens, all needs, heretics and schismatics, the Jews and the pagans.
-
-**What they made of them.** The orders kept the first and the third in a new form and dropped
-the second. Luther's German Litany and his corrected Latin Litany (*Latina litania correcta*) of
-1529 removed the invocation of the saints. They became the commonest set intercession of the
-evangelical churches: sung in place of the Mass when no one communed, inside the Mass, after the
-sermon, and on fixed weekdays, prayer days and Rogation. The Good Friday biddings survive in two
-orders. This section covers the Mass and the parish services that stood in for it; the Litany at
-the hours is in [Chapter 10](#ch10), [§10.7.5](#s10-7-5). The general prayer of the church,
-including its bidding forms ("Lasset uns bitten für …"), is in
-[Chapter 6](#ch6) and is left aside here.
-
-#### <a id="s13-22-1"></a>13.22.1 The Litany in place of the Mass
-
-**When no one communed.** Where there were no communicants on a Sunday or feast, many orders
-replaced the Supper with the Litany. The Saxon visitors put it simply in 1529: "where there be
-communicants, the office of the Mass held; but where no communicants, the German Litany sung by
-the whole church" (Niemegk, Sehling 1, p. 616). Belzig (1529) has the Litany before the sermon
-(Sehling 1, p. 527), and Pomerania 1542 after it: "but chiefly let one read the Litany"
-(Sehling 4, p. 357). At Kempten (1553), on a Sunday morning without communicants, the people
-sing the Creed, the Our Father or a psalm, and two or three scholars then sing the German
-Litany, "the other scholars together with all the people answering" (Sehling 12, pp. 175–176).
-Pfalz-Neuburg sets out the whole service. **Pfalz-Neuburg, *Kirchenordnung*, 1543**
-(Sehling 13, p. 77):
-
-<!-- doc 386 -->
-> so sol der priester nit in gewonlichem meßgewand, sonder in einem chormantel oder nur in
-> seinem chorrock für den altar treten und es aller ding halten, wie oben gesetzt ist bis auf
-> die gemeinen predig. Nach der predig aber sol man die gemein litanei singen mit einer collecta
-> pro pace und dann mit dem Benedicamus Domino und gemeinem segen beschließen
-
-then shall the priest go before the altar, not in the customary Mass vestment, but in a cope or
-only in his surplice, and hold all things as is set above, as far as the common sermon. But
-after the sermon one shall sing the common Litany, with a collect *pro pace*, and then close
-with *Benedicamus Domino* and the common blessing.
-
-Mecklenburg made the Litany the whole of what followed the sermon. **Mecklenburg,
-*Kirchenordnung*, 1552** (Sehling 5, p. 202):
-
-<!-- doc 1922 -->
-> Wenn nicht communicanten da sind, sol es mit dem gesang und lection vor der predigt aller ding
-> gehalten werden, wie oben beschrieben. Auch sol in der predig erinnerung und vermanung
-> geschehen, das man ofter zur communion komen wolle, wie gemeldet. Nach der predigt aber sol
-> allein die litanei gesungen werden.
-
-When there be no communicants, it shall be held in all things with the singing and lesson before
-the sermon as is described above. Also in the sermon remembrance and exhortation shall be made,
-that men would come oftener to the communion, as is said. But after the sermon the Litany alone
-shall be sung.
-
-Lüneburg 1564 repeats the rule word for word, adding the blessing and "Erhalt uns, Herr"
-(Sehling 6/1, p. 553). Grubenhagen named the Litany as the successor of the old "prayer Mass".
-**Grubenhagen, *Kirchenordnung*, 1544** (Sehling 6/2, p. 1033):
-
-<!-- doc 2056 -->
-> VII. Von der letanien, wie es darmit soll gehalten werden. Alle wochen, entweder am Mittwochen
-> oder Freytage, und am Sondage oder feyrtagen, wen keine communicanten vorhanden sind, so
-> sollen die parner und ihre pfarkinder die letanien, welche man vormaln die bettmessen
-> geheissen, singen und halten, auch darvor ein capittel oder historien aus der biblien,
-> entweder aus dem alten oder neuen testament, dem volk auf das allerkürzeste zur unterrichtung
-> und lher vorgedragen und gelesen werden.
-
-VII. Of the Litany, how it shall be held therewith. Every week, either on Wednesday or Friday,
-and on Sunday or holy days when no communicants are present, the parsons and their parishioners
-shall sing and hold the Litany, which aforetime was called the prayer-Mass; and before it a
-chapter or history out of the Bible, either out of the Old or New Testament, shall be set forth
-and read to the people as briefly as may be, for instruction and teaching.
-
-**The weekday "Mass" of the Litany.** At Hof the weekday *Tagmeß* on Monday, Tuesday, Thursday
-and Saturday had no communion. It consisted of a hymn, a collect, an Old Testament chapter, the
-Litany, a New Testament chapter, a short hymn and the Our Father sung at the altar.
-**Brandenburg-Ansbach- Kulmbach, *Ordo ecclesiasticus* of Hof, 1592** (Sehling 11, p. 455):
-
-<!-- doc 294 -->
-> Wird die litania, in gewiese teil dividirt, von drei oder vier reinstimmigen knaben an dem
-> ort, do sie sonst die lateinische epistel an feierabenden lesen, mit dem angesicht zum chor
-> gewendet gesungen, darauf der ander chor wie gebreuchlich respondirt.
-
-The Litany, divided into certain parts, is sung by three or four boys of clear voice at the
-place where they otherwise read the Latin epistle on holy eves, with the face turned toward the
-choir; whereupon the other choir respondeth, as is customary.
-
-The editor reports that the Litany was split into four, one part for each day, keeping the
-beginning and end every day. A petition for protection from "the Pope and the Turk" was added
-(Sehling 11, p. 455). It was dropped when there was a baptism.
-
-**Suffrages in the Mass without communion.** The Transylvanian Saxons put the old suffrages in
-the same place. When no one communed, the Sunday service was a German psalm, a collect, a
-sequence or tract, and a New Testament chapter read in order to the people. **Transylvania,
-*Kirchenordnung* (Latin), 1547** (Sehling 24, p. 223):
-
-<!-- doc 1669 -->
-> Finita lectione canitur symbolum fidei cum versiculo et collecta de sancta Trinitate. Huic
-> adduntur reliqua suffragia pro rege, pro remissione peccatorum et pro pace cum suis versiculis
-> et collectis, quae similiter cum Benedicamus Domino et benedictione populi finiuntur. Hoc
-> quoque officium semper eodem ordine per totum annum servatur.
-
-The lesson finished, the Creed is sung, with the versicle and collect of the Holy Trinity. To
-this are added the remaining suffrages, for the king, for the remission of sins and for peace,
-with their versicles and collects, which likewise are ended with *Benedicamus Domino* and the
-blessing of the people. This office also is kept always in the same order through the whole
-year.
-
-The weekday "high office … when no communion is celebrated" has the same Creed "with the
-aforesaid suffrages, collects and *Benedicamus Domino*" (Sehling 24, p. 225), and the German
-version says the same (Sehling 24, p. 245). At Bibersfeld near Hall (1535) the pastor knelt
-before the altar after the opening psalm and prayed the Kyrie in German and "the *preces
-publicae* for all needful estates and concerns" before the epistle (Sehling 17/1, p. 101).
-
-#### <a id="s13-22-2"></a>13.22.2 The Litany within the Mass
-
-**Between the epistle and the gospel.** The Litany could take the place of the sequence or
-gradual:
-- the Albertine *Cellische Ordnungen* of 1545: "at times, in the stead of the sequence, sing the
-  Litany in German" (Sehling 1, p. 300);
-- Prussia 1568: between epistle and gospel "one singeth the Litany, or on feast days one of the
-  German spiritual songs of the feast" (Sehling 4, p. 83);
-- Lüneburg, Regensburg, Mansfeld and Aschersleben, given in
-  [Chapter 8](#ch8), [§8.8.9](#s8-8-9).
-
-Veit Dietrich gives the ceremony for the small towns. **Nuremberg, *Agendbüchlein* of Veit
-Dietrich, 1545** (Sehling 11, p. 498):
-
-<!-- doc 297 -->
-> In den kleinen flecken nach der epistel sollen vor dem mittel altar zwen oder drei schuler die
-> litanei deutsch singen und der ander chor sambt dem volk drauf anworten. Zu letz das Da pacem
-> drauf singen sambt einer collecten de pace wie oben.
-
-In the small towns, after the epistle, two or three scholars shall sing the Litany in German
-before the middle altar, and the other choir together with the people answer thereto. At the
-last sing the *Da pacem* thereupon, together with a collect *de pace*, as above.
-
-**During the communion.** At Amberg the Litany filled a long communion. **Amberg,
-*Kirchenordnung*, 1550** (Sehling 13, p. 286):
-
-<!-- doc 411 -->
-> Chorus singet under der communion das Jesus Christus, unser Heiland oder Gott sei gelobet und
-> gebenedeiet etc. oder, so der communicanten vil sein die litaniam und nachvolgends das Agnus
-> Dei und zulest das commun.
-
-The choir singeth during the communion "Jesus Christus, unser Heiland", or "Gott sei gelobet und
-gebenedeiet" etc.; or, if the communicants be many, the Litany, and next the *Agnus Dei*, and at
-the last the communion.
-
-**After the sermon.** This was the commonest place. The Litany was sung after the Sunday sermon,
-before the communion or at the close of the service, at:
-- Haderslev 1528, every Sunday "with the whole people … in Danish" (Sehling 23, p. 65);
-- Mecklenburg 1552, Lüneburg 1564 and Pfalz-Neuburg 1543 when there was no communion ([§13.22.1](#s13-22-1));
-- Waldeck 1556 and many others.
-
-Waldeck describes the posture. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 277):
-
-<!-- doc 2300 -->
-> Nach der Predigt sollen etliche der Schüler oder der Pfarrherr, vor dem Altar niderkniend, die
-> Litanei, wie in D. Luthers seligen Sangbüchlin beschrieben, mit heller stimm und
-> verstendtlichen worten singen und der Chor darauff antworten. Darauff soll der Pastor mit
-> eyner Collecten, wie daselbst stehet, Und der Chor mit dem gesenge: O herre Gott, gib uns
-> deinen fried, etc. beschliessen.
-
-After the sermon certain of the scholars, or the parson, kneeling before the altar, shall sing
-the Litany as it is described in Dr Luther of blessed memory's little song-book, with clear
-voice and intelligible words, and the choir answer thereto. Thereupon the pastor shall close
-with a collect, as it standeth there, and the choir with the song, "O Lord God, give us thy
-peace", etc.
-
-In Mecklenburg the pastor sang it from the pulpit. **Mecklenburg, *Verordnung der Visitatoren*,
-1542** (Sehling 5, p. 149):
-
-<!-- doc 1921 -->
-> Zum dritten soll der pastor am sontage nach der predigte in stetten und dorfern die letanei
-> dem volke vom predigstuel mit andacht fursingen und die schuler oder der kuster samt dem volke
-> sollen niderkniegen und ime darauf antwurten.
-
-Thirdly, the pastor shall on Sunday after the sermon, in towns and villages, sing the Litany
-before the people from the pulpit with devotion, and the scholars or the sexton together with
-the people shall kneel down and answer him thereto.
-
-On its prayer days Nassau-Weilburg (1576) closed the service with the Litany or "Erhalt uns,
-Herr". Since the Litany covers "all needs that the Christian congregation has to lay before
-God", it was to alternate with the full set of prayers rather than be added to them
-(Sehling 10, p. 238).
-
-**Before the Introit.** Regensburg 1542 and Transylvania 1547 put the Litany at the head of the
-service ([Chapter 3](#ch3)).
-
-**Ordination within the Litany.** Braunschweig-Wolfenbüttel ordained preachers on a weekday
-"after the sermon and the Latin Litany" (Sehling 6/1, p. 69). At Lüneburg the ministers went to
-the altar at a fixed petition of the Litany. **Lüneburg, *Kirchenordnung der Stadt*, 1575**
-(Sehling 6/1, p. 655):
-
-<!-- doc 2017 -->
-> Wen der genante tag erscheinet, die predigt gehalten und in der litania diese wort gesungen
-> werden: O Jesu Christ, Gottes Sohn, so gehet das ganze ministerium mit dem ordinando vor den
-> hohen altar, knien daselbst samptlich nidder und hebet der superintendens oder wehr das ampt
-> der ordinierung vorwalten soll, ahn zu singen: Veni, sancte Spiritus etc.
-
-When the appointed day cometh, the sermon is held, and in the Litany these words are sung, "O
-Jesu Christ, God's Son", then goeth the whole ministry with the ordinand before the high altar,
-and they kneel there all together, and the superintendent, or whoso shall administer the office
-of ordaining, beginneth to sing *Veni, sancte Spiritus* etc.
-
-Ordination itself is treated in [§13.10](#s13-10).
-
-#### <a id="s13-22-3"></a>13.22.3 The forms and the singers
-
-**Luther's two Litanies.** The orders name Luther's German Litany and his corrected Latin one,
-"as it is printed and gone forth at Wittenberg" (Calenberg 1542, Sehling 6/2, p. 812). The Latin
-Litany belonged to the school and the hours, and the German one to the congregation:
-- Braunschweig-Wolfenbüttel 1543: the Latin Litany at the eve Vespers and at an ordination, the
-  German "once in the week after the sermon, that the whole church answer" (Sehling 6/1, p. 51);
-- Pomerania 1535: the Latin Litany at the boys' Saturday Vespers, and the German Litany once a
-  week with the people (Sehling 4, pp. 340, 342).
-
-Prussia had a Litany of its own, used at Regensburg ([Chapter 8](#ch8), [§8.8.9](#s8-8-9)). Marggrabowa insisted
-on Luther's prose text. **Marggrabowa, *Gottesdienstordnung*, 1581** (Sehling 4, p. 149):
-
-<!-- doc 1837 -->
-> Alle freitage soll man die litanei singen, wie es D. Luther gemacht und nicht reimweise, und
-> sollen zwen oder drei knaben furm altar knien oder singen, darauf der capellan ein kurzen
-> sermon auswendig tun soll.
-
-Every Friday one shall sing the Litany as Dr Luther made it, and not in rhyme; and two or three
-boys shall kneel before the altar and sing, whereupon the chaplain shall make a short sermon
-without book.
-
-**Who sang it, and how.** The usual pattern was two or three boys, kneeling before the altar or
-standing at the epistle place, with the choir and people answering. Nördlingen 1579 prints the
-Litany in two columns for alternating choirs, ending "Both choirs together: *Kyrie eleison.
-Amen*" (Sehling 12, p. 369). At Brandis in 1574 the Litany after the Thursday sermon alternated
-week by week between the sung setting "made by Doctor Justus Jonas" and Luther's
-(Sehling 1, p. 534). Where there was no school the Litany was read:
-- at Limpurg in 1610 the town of Gaildorf sang it "before the altar", but in the villages the
-  pastor read it from the pulpit (Sehling 16, p. 617);
-- Zweibrücken 1533 allowed it "sung or read, as the place alloweth" (Sehling 18, p. 52).
-
-#### <a id="s13-22-4"></a>13.22.4 The Litany days
-
-**Weekly.** The Litany was most often fixed to a weekday:
-- **Wednesday and Friday:** the Reuss articles of 1528, "in all ways to hold the Litany on
-  Wednesdays and Fridays" (Sehling 2, p. 143); Grubenhagen 1544 (above);
-- **Friday:**
-  - the Ansbach chapters 1533 (Sehling 11, p. 314);
-  - Mecklenburg 1542, where the people were "to help the scholars sing" it, "as is held on
-    Sunday" (Sehling 5, p. 149);
-  - Marggrabowa 1581 (above);
-  - Nördlingen 1579, "commonly on Friday after the sermon" (Sehling 12, p. 369).
-
-The calendar of prayer days, Ember days and fasts on which the Litany was sung is set out in
-[Chapter 12](#ch12), §§[12.6.2](#s12-6-2), [12.10.11](#s12-10-11), [12.12.7](#s12-12-7). That chapter
-gives the Albertine Ember-week Litany (Saxony 1539) and the Zweibrücken prayer days. Mansfeld
-(1580) wanted the German Litany "often and much, especially on the four Ember seasons, when the
-people are together" (Sehling 2, p. 239).
-
-**Rogation.** The Litany kept its oldest home in Rogation week, without the procession and the
-saints. Calenberg 1542 abolished the procession but kept the prayer days "with preaching,
-administering the sacrament, and the Litany early in the morning". **Calenberg-Göttingen,
-*Kirchenordnung*, 1542** (Sehling 6/2, p. 812):
-
-<!-- doc 2036 -->
-> Es sol aber die letania nicht wie in vorigen zeiten, da man sang: Sancte Petre, ora pro
-> nobis!, sonder auf weise und masse, wie sie zu Wittemberg gedruckt und ausgangen ist, gehalten
-> werden.
-
-But the Litany shall be held, not as in former times, when men sang *Sancte Petre, ora pro
-nobis!*, but after the manner and measure in which it is printed and gone forth at Wittenberg.
-
-Elsewhere at Rogation:
-- the Heidelberg chapter in 1546 was to sing "no litany *in rogatoribus* with invocation of the
-  saints, but the right Litany with invocation of the name of God" (Sehling 14, p. 92);
-- Brandenburg 1572 preaches "of prayer" through Rogation week and sings the Litany
-  (Sehling 3, p. 102).
-
-Pomerania 1569 gives the whole week the Litany and a penitential character. **Pomerania,
-*Agenda*, 1569** (Sehling 4, p. 466):
-
-<!-- doc 1865 -->
-> Darümme schal men disen sondach unde de volgende weke, ane den dach Ascensionis domini, vam
-> hiligen gebede predigen unde de letanien singen, de gemeine ernstlick vormanen, dat ein jeder
-> vlitich tor kercke ga unde de sinen tom gebede holde. […] Up disen sondach unde in der weke
-> schal men kenen figural sang singen, ock nicht orglen, utgenamen den dach Ascensionis domini,
-> mit der in vigilia: sunder idel düdische psalmen singen, bedepsalmen, boetpsalmen, vader unse
-> etc. stede nevenst dem sermon letanien holden.
-
-Therefore one shall preach on this Sunday and the following week, save the day of the Ascension
-of the Lord, of holy prayer, and sing the Litany, and earnestly exhort the congregation that
-every one go diligently to church and keep his household to prayer. […] On this Sunday and in
-the week one shall sing no figured song, nor play the organ, except the day of the Ascension of
-the Lord with its vigil, but sing only German psalms, prayer-psalms, penitential psalms, the Our
-Father etc., [and] always hold the Litany beside the sermon.
-
-#### <a id="s13-22-5"></a>13.22.5 The Litany at the feasts and seasons
-
-**Advent and Lent.** In Pomerania the Litany marked the penitential seasons. In Advent the
-village pastors were to read Matthew 24–25 at the Friday or weekday sermon "and thereupon hold
-the Litany" (Sehling 4, p. 471). The Latin Litany replaced the *Magnificat* when Vespers were
-kept "*dominicaliter*, as in Advent and Lent" (Pomerania 1542;
-[Chapter 10](#ch10), [§10.7.5](#s10-7-5)).
-
-**The high feasts.** Several orders tie the Litany to the great feasts. Zweibrücken is the
-earliest. **Pfalz-Zweibrücken, *12 Artikel "Form und Maß"*, 1533** (Sehling 18, p. 52):
-
-<!-- doc 963 -->
-> Where auch guth, das ungeverlich vier male im Jhar, als in den weiennachten, Ostern,
-> pfingstwochen und nach Exaltationis Crucis, christlich Letani gesungen oder gelesen wurde nach
-> gelegenheit des orts.
-
-It were also good that about four times in the year, as in the Christmas, Easter and Whitsun
-weeks and after the Exaltation of the Cross, a Christian Litany were sung or read, according to
-the circumstances of the place.
-
-Two later witnesses follow:
-- **Pfalz-Veldenz 1574** made the two days after Christmas, Easter and Whitsun "common prayer
-  days", with preaching in the morning only and the Litany sung or read after the sermon
-  (Sehling 18, p. 519; [Chapter 12](#ch12), [§12.6.2](#s12-6-2)).
-- **Danzig.** A list of feast days printed by Sehling as a draft for the order of 1567 names the
-  feasts "with several Masses, Vespers, litanies through the choir, and four sermons". These are
-  the Sundays, Trinity, Easter, Whitsun and Christmas with the two days following, and the other
-  high feasts (Sehling 4, p. 186).
-
-**Easter Eve and Easter Day: a negative.** No order puts a Litany on Easter Eve, before or after
-the font, or on Easter Day itself. The medieval Holy Saturday Litany went with the blessing of
-the font and the Easter candle, which nearly all the orders gave up ([§13.21.5](#s13-21-5)). The Easter Litany
-survives only in the Easter-week prayer days of Zweibrücken and the "litanies through the choir"
-of the Danzig feast list. No Sehling order has a Litany sung at an Easter Vigil.
-
-#### <a id="s13-22-6"></a>13.22.6 Good Friday: the Litany and the solemn prayers
-
-**The Litany on Good Friday.** Two southwestern orders make the Litany the intercession of the
-day. **Schwäbisch Hall, *Kirchenordnung*, 1543** (Sehling 17/1, p. 166):
-
-<!-- doc 762 -->
-> Und so Communicanten vorhanden seyen, sol das Abentmal auff den Grünen donnerstag und
-> Charfreytag wie an den Sontagen, doch mit vorgehender Predig, gehalten werden. Es sol auch am
-> Charfreytag ein predig vom gmeinem Gebeet gethon und die Litaney für alles anligen der
-> Christlichen kirchen gehalten werden.
-
-And if communicants be present, the Supper shall be held on Maundy Thursday and Good Friday as
-on the Sundays, yet with a sermon going before. There shall also on Good Friday be a sermon made
-of the common prayer, and the Litany held for all the concerns of the Christian church.
-
-The revision of 1615 keeps it: on Good Friday the communion "with a sermon going before on
-prayer, whereupon the Litany shall be sung" (Sehling 17/1, p. 165). Limpurg (1610) has the
-pastors on Good Friday "read the Litany together with the prayer" (Sehling 16, p. 621). The
-choice is deliberate: a sermon on prayer and the Litany, which prays for all estates, take the
-place of the old solemn prayers for all orders of men.
-
-**The solemn prayers in German: Waldeck 1556.** Only Waldeck kept the solemn prayers as a set of
-biddings and collects. They were to be used "in all churches on Good Friday before the
-communion" ([§13.21.4](#s13-21-4)). The order prints them in full as *Precationes solennes pro singulis
-ordinibus et necessitatibus die Parasceues dicendae* (Sehling 9, pp. 277–282). Each has a Latin
-heading, a German bidding addressed to the people ("Wir wöllen auch bitten für …" or "Lasset uns
-auch bitten für …"), and an *Oratio*. There are eleven intentions:
-1. the Church;
-2. *pro ministris verbi et ecclesiae*;
-3. *pro catechumenis*;
-4. *pro errantibus in fide*;
-5. *pro persecutoribus Verbi et Ecclesiae*;
-6. *pro magistratibus*;
-7. *pro iudaeis*;
-8. *pro pseudochristianis*;
-9. *pro inimicis*;
-10. *pro tentatis et sub cruce laborantibus*;
-11. *pro peccatis nostris*.
-
-They open with an address to the "dear brothers and sisters" and Christ's promise to those who
-ask. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 278):
-
-<!-- doc 2300 -->
-> Dieweil wir dann ytzundt im namen des herrn versamlet sein, so laßt uns erstlich von hertzen
-> bitten für die Gemeyne Christlichen Kirchen, das sie der allmechtige Gott durch unsern herrn
-> Jesum Christ inn der gantzen welt beschirmen und erhalten wölle, das sie mit ruhe und fried
-> nach seinem Göttlichen willen leben und seinen heyligen Namen loben unnd preisen mögen.
-
-Since we are now gathered in the name of the Lord, let us first pray from the heart for the
-congregation of the Christian Church, that Almighty God through our Lord Jesus Christ will
-protect and preserve it in all the world, that it may live in rest and peace according to his
-divine will, and laud and praise his holy name.
-
-The bidding for the Jews keeps the old intention but drops the old language of "perfidy" and
-"blindness" for the veil of 2 Corinthians 3 and the olive tree of Romans 11. **Waldeck,
-*Kirchenordnung*, 1556** (Sehling 9, p. 280):
-
-<!-- doc 2300 -->
-> Pro iudaeis Lasset uns auch bitten für den elenden uberlauff des Jüdischen Samens, Das yhnen
-> der barmhertzige Gott seine alte verheyssung gnediglich in yhren hertzen erwecken wölle und
-> vor yhren augen unnd hertzen die decken hinweg nehmen, das sie auch zu erkentnus Jesu Christi,
-> unsers herrn, mogen kommen. Oratio: Barmhertziger, gütiger Gott, Der du auch der Juden
-> hertigkeyt von deiner erbarmung nit außschleussest, Gedencke deines gnedigen bunds, den du mit
-> deinem trewen diener Abraham und mit andern lieben vättern auffgerichtet hast.
-
-For the Jews. Let us also pray for the wretched remnant of the seed of the Jews, that the
-merciful God would graciously awaken in their hearts his old promise, and take away the veil
-from before their eyes and hearts, that they also may come to the knowledge of Jesus Christ our
-Lord. Prayer: Merciful, kind God, who shuttest not out even the hardness of the Jews from thy
-mercy, remember thy gracious covenant which thou didst set up with thy faithful servant Abraham
-and with other dear fathers.
-
-**What changed from the Roman order.**
-- *Kept*: the Church, the clergy, the catechumens, the rulers, those in error, the Jews, and the
-  afflicted. The Roman "all needs" becomes "the tempted and those labouring under the cross",
-  with a long list: hunger, pestilence, wild beasts and the sword, prisoners, exiles, the sick,
-  widows and orphans, and women in childbirth.
-- *Dropped*: the pope; the pagans; the *Flectamus genua* and *Levate*. The people are bidden,
-  but no kneeling and rising is prescribed.
-- *Added*: persecutors of the word, false Christians, enemies, and our own sins.
-
-**Mülhausen 1528** (Reformed). The Mülhausen preachers had earlier kept the Roman prayers in German, "the
-collects which are prayed for the estates, namely for heathen, Turks, Circassians and Jews"
-(Sehling 20/2, p. 207; [§13.21.4](#s13-21-4)).
-
-**What was not found.** No other order prints or prescribes the Good Friday solemn prayers. No
-order has *Flectamus genua* or *Oremus, dilectissimi*, and no order keeps the prayer *pro
-perfidis Iudaeis*. Elsewhere the Good Friday intercession was the Litany, or the ordinary
-general prayer after the Passion sermon.
-
----
-
-### <a id="s13-23"></a>13.23 Sorcery and the cleansing of houses and things
-
-This section asks whether the orders prescribe anything for cleansing a house, a church or an
-object that had been used in sorcery, witchcraft or the service of the devil.
-
-**No rite of cleansing.** The orders give no such rite. No order exorcizes, sprinkles, blesses
-anew or reconsecrates a house, a stall, a church or a thing that sorcery or the devil had
-touched. The old means of cleansing were holy water, exorcized salt and blessed herbs and
-candles. The orders abolished them, and called them superstition and sorcery in their own right
-([§13.15](#s13-15), [§13.23.1](#s13-23-1)). Churches were neither dedicated nor reconciled (§§[13.14.1](#s13-14-1),
-[13.19.2](#s13-19-2)). What the orders do prescribe is:
-
-- **prayer** in the house, without water or exorcism: Mecklenburg and Pomerania bless the
-  house when the pastor visits the sick ([§13.23.2](#s13-23-2)), and Pomerania prays over the possessed
-  ([§13.8.7](#s13-8-7));
-- **burning in public** for the tools of sorcery: charms, written blessings, blessed or
-  bewitched objects and the sorcerers' books ([§13.23.3](#s13-23-3));
-- **breaking and burning** for the images, fonts and chapels of the old cult, which the orders
-  call idolatry and rank with sorcery ([§13.23.4](#s13-23-4));
-- **guarding** the things of the sacraments, so that the baptismal water, the hosts and the
-  altar could not be taken for sorcery ([§13.23.5](#s13-23-5));
-- **repentance** for the persons, or punishment: public apology and absolution, exclusion from
-  the Supper, and the magistrate's penalties ([§13.23.6](#s13-23-6)).
-
-**The one reconciliation of churches.** The only reconciliation of churches in the corpus is a
-Catholic one. In 1549 the Interim gave Strasbourg's collegiate churches back to the old clergy,
-and the bishop asked for the churches to be reconciled and their altars rebuilt and
-consecrated. The arbiters held that the reconciliation was unnecessary and might well be left
-undone. The chapters were to rebuild at their own cost the altars the Interim required. The
-bishop was asked to see to their consecration, and to the reconciliation if the law required
-it at all, which the arbiters did not believe, without offence (Sehling 20/1, pp. 369–370;
-[§1.4](#s1-4)).
-
-#### <a id="s13-23-1"></a>13.23.1 The old means of cleansing abolished
-
-**Holy water against the devil.** The medieval church cleansed houses, stalls and churchyards
-with holy water and drove off the devil and the storm with blessed salt, herbs and candles
-([§13.15.1](#s13-15-1)). Bugenhagen's Braunschweig order of 1528 answers that these creatures were made
-to be used with thanks, not to take away sins or drive away devils. The more holy water there
-was, the more poltergeists. **Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1, pp. 389–390):
-
-<!-- doc 1983 -->
-> Nu wete wy jo wol, wörto water, vür, lichte, krudere unde awet van Gade uns geschapen unde
-> gegeven synt, dat wy se bruken, nicht darto, dat me dagelike sunde mit wyewater afneme unde
-> de düvele mede vordrive; ja jo wy mehr wyewater hedden, jo mehr ock poltergeiste; edder dat
-> me mit lichten unde krüderen deme dunre wehre unde tovere mit krüderen imme bedde unde imme
-> kelre by deme bere, ane dat sulck alles erdichtet is wedder de gnade unses Heren Christi, de
-> nympt alleyne de sunde wech, unde wedder dat christlike bet, darmede wy scholen anröpen dorch
-> Christum unsen leven Vader in allen unsen nöden lives unde der selen. Dat helpet in den saken
-> unde neyn water, vür, krüt, wente sulke creaturen synt van Gade to sulken saken nicht
-> geschapen unde gegeven edder bevalen.
-
-Now we know well whereto water, fire, lights, herbs and fruit are created and given us of God:
-that we should use them; not that a man should take away his daily sins with holy water and
-drive away the devils therewith (yea, the more holy water we had, the more poltergeists also);
-nor that a man should ward off the thunder with lights and herbs, and work sorcery with herbs in
-the bed and in the cellar by the beer. Beside that, all this is devised against the grace of
-our Lord Christ, who alone taketh away sin, and against the Christian prayer, wherewith we
-should call upon our dear Father through Christ in all our needs of body and soul. That
-helpeth in these matters, and no water, fire or herb; for such creatures are not created and
-given or commanded of God for such matters.
-
-**The devil's doctrine.** The order then turns to water itself. **Braunschweig,
-*Kirchenordnung*, 1528** (Sehling 6/1, p. 391):
-
-<!-- doc 1983 -->
-> Water is eyne gude creature, van Gade uns geschapen to wasschende, to kakende, to drinkende,
-> to losschende, to kölende, to badende, to begetende etc., dat is to netende, dar schole wy
-> Gade vohr danken. Worumme scholde wy nu eyn gebet anrichten, dat doch neyn bet, sonder
-> gadeslesteringe were, dat wy mochten dat water anders maken to eyneme bruke, dar id Got
-> nicht tho geschapen hefft […] dat dat water (alse se hebben geleret unde ock gebruket) uns
-> scholde denen to affwasschinge unser dageliken sunden, de se venialia hebben genömet, to
-> begeten unde erquicken de selen up dem kerckhave dat ock spottisch is, to vordriven de duvele
-> uth deme huse unde alle böse van den swynen unde vehe? Wech, wech mit den düvelsleren unde
-> werken, de uns Christum hebben vordunkert.
-
-Water is a good creature, created us of God to wash, to cook, to drink, to quench, to cool, to
-bathe, to sprinkle, etc., that is, to use; for which we should thank God. Wherefore then should
-we set up a prayer, which yet were no prayer but blasphemy, that we might make the water into
-something else, for a use whereto God hath not created it […]: that the water (as they have
-taught and also used it) should serve us for the washing away of our daily sins, which they
-have called venial; to sprinkle and refresh the souls in the churchyard, which is a mockery
-besides; to drive the devils out of the house, and all evil from the swine and the cattle?
-Away, away with the devil's doctrines and works, which have darkened Christ for us!
-
-The Nassau-Dillenburg order of 1537 asks the same question: where is the word of God that says
-that holy water "driveth the devil out of houses" ([§13.15.1](#s13-15-1))?
-
-**The exorcisms of the creatures.** The exorcism at baptism was kept in many Lutheran orders as
-a prayer over the child ([§13.4](#s13-4)). The exorcisms of salt and water, which made the holy water
-that was sprinkled to drive the devil from a place, were not kept. Thomas Stieber's instruction
-for Wolfstein keeps the baptismal exorcism, to be used "as a prayer" and not as "the sorcerers
-adjure the devil". It then turns to the exorcisms of the creatures. **Wolfstein, *Christliche
-Instructio* of Thomas Stieber, 1574** (Sehling 13, p. 578):
-
-<!-- doc 463 -->
-> Es werden auch hiemit gemaint die exorcismi salis, aquae, olei et chrismatis; dann solche
-> exorcismi seind gottlos, weil solche unvernünftige creaturn, als weren sie vom Teufel
-> besessen, beschworen werden. Uber das wird ihnen sonderliche kraft und würkung zuegeeignet
-> wider Gottes wort, als das sal exorcisatum ad effugandum inimicum wie in actu sacerdotali
-> befunden wird.
-
-Herewith are meant also the exorcisms of salt, water, oil and chrism; for such exorcisms are
-godless, because such unreasoning creatures are adjured as though they were possessed of the
-devil. Moreover a special power and working is ascribed to them against God's word, as *the
-salt exorcized to put the enemy to flight*, as is found in the *Actus sacerdotalis* [the
-priests' handbook].
-
-The editors give the usual form, which bade every wickedness of the devil's deceit and every
-unclean spirit flee "from the place where thou shalt be sprinkled" (*ab eo loco, quo aspersus
-fueris*; Sehling 13, p. 578, editors' note). The Transylvanian order of 1547 buries all such
-consecrations together. **Transylvanian Saxons, *Kirchenordnung*, 1547**, Latin version
-(Sehling 24, p. 225):
-
-<!-- doc 1669 -->
-> Oblationes enim pro defunctis cum caeteris impiis nunditionibus explosae sunt e templis,
-> similiter et omnes diversarum creaturarum superstitiosae consecrationes, exorcismi reliquaque
-> opera gentilis idololatriae observationumque iudaicarum in futurum penitus maneant sepulta.
-
-For the offerings for the dead, with the other ungodly traffickings, are driven out of the
-churches; and likewise let all the superstitious consecrations of divers creatures, the
-exorcisms, and the other works of heathen idolatry and of Jewish observances remain wholly
-buried for the time to come.
-
-**The hallowing is the defilement.** Some people still ran to the Mass-priests and monks to have
-their wax, palms, candles and herbs hallowed. Leiningen's discipline order of 1566 forbids
-this, because these things were afterwards used for sorcery. It calls the
-hallowing itself a defiling and a profaning. **Leiningen, *Kirchenzuchtordnung*, 1566**
-(Sehling 19/1, p. 228):
-
-<!-- doc 1073 -->
-> XII. Von Kreuterweyhen. Verbieten Wir, daß niemandts hinfortan zu den Gottlosen,
-> Aberglaubischen Meßpfaffen oder München lauffe, Wachs, Palmen, Kertzen oder Kreutter weihen
-> lasse, mit wölchen man nachmals Zauberey, Segnerey und Hexenwerck braucht, dann alle
-> Creaturen von Gott selbst gut gemacht und erschaffen seind, sonder es sol solche
-> verunreinigung und entheiligung gentzlich abgestalt und verbotten sein und bleiben, bey peen
-> 10 gulde.
-
-XII. Of the hallowing of herbs. We forbid that any man henceforth run to the godless,
-superstitious Mass-priests or monks and let wax, palms, candles or herbs be hallowed, with
-which men afterward practise sorcery, charming and witchcraft; for all creatures are made and
-created good by God himself. But such defiling and profaning shall be wholly put down and
-forbidden, and so remain, on pain of ten gulden.
-
-The Thüngen order of 1564 gives the same reason for abolishing the churching of women: it had
-bred "superstition and sorcery with blessings, St John's Gospel, hallowed waters, salt, herbs,
-candles and the like" ([§13.5.1](#s13-5-1)).
-
-#### <a id="s13-23-2"></a>13.23.2 A house troubled by the devil: prayer
-
-**The blessing of the house of the sick.** Two Low German orders give a prayer over a house.
-When the pastor went into the house of a sick man to give him the Supper, he greeted it with
-the greeting that Christ commanded (Luke 10:5), and the sexton answered. Then the pastor might
-say a prayer, in Latin or in German, that God would drive out of the house all the spooks,
-ghosts and power of the devil. There is no water, salt or exorcism. The prayer is said once, as
-the visit begins. Pomerania lets the whole form be shortened in a time of plague, when the
-pastor has many to visit, or when the sick man is near his end. The Mecklenburg order of 1540
-and the Pomeranian order of 1542 have the same rubric and the same prayers (Sehling 4, p. 365).
-**Mecklenburg, *Ordeninge der misse*, 1540/1545** (Sehling 5, p. 158):
-
-<!-- doc 1922 -->
-> unde wen de kerckhere int hus geit, schal he den grut, den Christus bevalen hefft, spreken:
-> Frede si mit dissem huse, unde schal de köster antworden: Unde alle den darinne wanen. Unde
-> mach de kerckher dit gebet spreken latintsch effte düdesch. A domo tua hac quesumus domine
-> spirituales nequitie repellantur, et aerearum discedat malignitas tempestatum, per dominum
-> nostrum etc. Here segene dit hus unde driff her uther alle spökenisse, gespens unde gewald des
-> düvels, up dat idt also gehilliget, di eine waninge möge sin, dorch Jesum Christum, unsen
-> heren. De köster spreke: Amen.
-
-and when the pastor goeth into the house, he shall speak the greeting which Christ hath
-commanded: Peace be with this house; and the sexton shall answer: And with all that dwell
-therein. And the pastor may say this prayer in Latin or in German: *From this thy house, we
-beseech thee, O Lord, let the spiritual wickednesses be driven back, and let the malice of the
-tempests of the air depart; through our Lord, etc.* Lord, bless this house, and drive out of it
-all spooks, ghosts and power of the devil, that it, being thus hallowed, may be a dwelling for
-thee; through Jesus Christ our Lord. The sexton shall say: Amen.
-
-The Latin collect asks that the spirits of wickedness and the storms be kept from "this thy
-house". The German prayer is a free version of it. It leaves out the storms, asks God to bless
-the house, and names what is to be driven out: the devil's spooks, ghosts and power. The house
-is to be hallowed by becoming God's dwelling.
-
-**Poltergeists are devils.** No order in the corpus says how a house that a ghost haunted was to
-be cleared. The orders say what the ghost was. The "poltergeists" whose appearances had brought
-in the Masses for the souls were devils, and God forbids seeking the truth from the dead
-(Deuteronomy 18:11; Isaiah 8:19). **Braunschweig, *Kirchenordnung*, 1528** (Sehling 6/1,
-p. 428):
-
-<!-- doc 1983 -->
-> Poltergeyste, welke nicht anders wen düvele synt geweset, alse amme dage is, hebben uns vele
-> selemissen gemaket, de uns mit Gades worde nicht bevalen synt.
-
-Poltergeists, which have been nothing else but devils, as is manifest, have made us many
-soul-Masses, which are not commanded us by God's word.
-
-Hamburg in 1529 says the same of "the poltergeists, which are devils" (Sehling 5, p. 520). For
-a possessed person in the house, Pomerania in 1569 greets the house with "The peace of our Lord
-Jesus Christ be in this house" and resists Satan "with prayers and contempt" ([§13.8.7](#s13-8-7)).
-
-#### <a id="s13-23-3"></a>13.23.3 The tools of sorcery burned
-
-**Württemberg and Hohenlohe: the sorcerers' books.** The police orders of the princes deal with
-the sorcerers' tools. The Württemberg territorial order (*Landesordnung*) of 1552, which
-Hohenlohe took over almost word for word in 1558, bids the officials not to suffer sorcerers,
-devil-conjurers and charmers. Those who will not leave off are to have their books, and
-whatever else they use, burned, and are to be banished. **Hohenlohe, *Polizeiordnung*, 1558** (Sehling 15, p. 139):
-
-<!-- doc 550 -->
-> gebietten wir hiemit ernsthch, das alle zauberer, teufelsbeschwerer, segner und ander
-> dergleichen abgötterer in unser herschaft nit geduldet, sonder durch unsere amptleut davon
-> abzustehen mit ernst angehalten werden. Welche aber uber solche ermanung in iren abgöttischen
-> wesen verharren und davon nit abstehen wolten, denen sollen ire bücher und anders, so sie
-> darzu gebrauchen, verbrent und sie unserer herrschaft verwisen werden.
-
-we hereby earnestly command that all sorcerers, devil-conjurers, charmers and other such
-idolaters be not suffered in our lordship, but be earnestly held by our officials to leave off
-therefrom. But whoso, above such admonition, will continue in their idolatrous ways and will
-not leave off therefrom, their books, and whatever else they use thereto, shall be burned, and
-they themselves banished out of our lordship.
-
-Where Hohenlohe has "their books", the Württemberg text has their *prillen*, their "glasses"
-(Sehling 15, p. 139, editors' note).
-
-**Castell and Hohenlohe: burned before the congregation.** The Castell village order for
-Obereisenheim of 1579 fines those who resort to soothsayers, or who have themselves or their
-goods blessed or kept from harm with hallowed salt, wax, herbs and water. The hallowed or
-bewitched things and the written charms are to be taken from them and burned before the whole
-congregation, at the church or the town hall. Hohenlohe's police order of 1588 copies the
-article and has them burned "at the church" (Sehling 15, p. 580). **Castell, *Dorfordnung für
-Obereisenheim*, 1579** (Sehling 11, p. 691):
-
-<!-- doc 315 -->
-> Würde aber jemand uber solche straf und getreue verwarnung, wer der were, wahrsagern
-> nachlaufen, derselbigen rats pflegen, umb einige sachen, die er verloren oder ime sonst
-> widerwärtig zuegestanden, oder unter dem zeichen der arznei sich oder das seine segenen, mit
-> geweihtem salz, wachs, kreutern, wasser und andere zaubereien oder aberglaubischen
-> kinderspielen bewaren oder heilen lassen würde, der sol uns zehen gulden unnachlessig zur
-> straf verfallen sein und ime die geweihten oder gezauberten, aberglaubischen stück und
-> beschribene segnen, da deren noch vorhanden were, genommen und offentlich vor einer ganzen
-> gemeind bei der kirchen oder dem rathaus verbrant werden; dann uns Got solchen aberglauben
-> durch Moysen vielfeltig verboten
-
-But if any man, whosoever he were, above such punishment and faithful warning, should run
-after soothsayers and take counsel of them about any things that he had lost, or that had
-otherwise gone against him; or should let himself or his goods be blessed under colour of
-physic, or be kept or healed with hallowed salt, wax, herbs, water and other sorceries or
-superstitious child's play: he shall forfeit unto us ten gulden without remission. And the
-hallowed or bewitched superstitious pieces and the written charms, where any of them be yet in
-being, shall be taken from him and burned openly before a whole congregation at the church or
-the town hall; for God hath forbidden us such superstition by Moses many times.
-
-The article goes on to cite Leviticus 19:26 and 19:31, Leviticus 20:6 and Deuteronomy 18:10–11.
-Whoever still would not leave off was to be put in the tower on bread and water, "since God the
-Lord hath already hallowed and sanctified all things through Christ, without our word, cross,
-chant and self-devised ceremonies" (Sehling 11, p. 691). The Lippe order of 1571 deprives a
-sexton who wrote out St John's Gospel to hang about people's necks "for all manner of sickness
-and sorcery" ([§13.12.2](#s13-12-2)).
-
-#### <a id="s13-23-4"></a>13.23.4 Images, fonts and chapels of the old cult
-
-**Idolatry beside sorcery.** The orders put idolatry beside sorcery, as Paul does among the
-works of the flesh (Galatians 5:20). They dealt with the furnishings of the old cult as they
-dealt with the tools of sorcery: these were taken away, broken and burned, or turned to common
-use. The removal of images is treated at length in §§[14.4.2](#s14-4-2)–[14.4.4](#s14-4-4), and the clearing of
-churches and chapels in [§13.19.2](#s13-19-2). Three orders speak of breaking and burning.
-**Mecklenburg, *Processus visitationis*, 1552** (Sehling 5, p. 224):
-
-<!-- doc 1925 -->
-> Den kirchgeschwornen aber geschichet bevel, die ciboria und altar, item die fanen aus der
-> kirchen hinweg zu thuen. […] Und wo man erferet, das etwa ein gotz oder bilde vorhanden, so
-> man hat pflegen anzubeten, wirt alsbald hinweg gethaen, zerbrochen und verbrennet.
-
-But to the churchwardens command is given to put the ciboria and the altars, item the banners,
-away out of the church. […] And where it is learned that there is any idol or image which men
-were wont to worship, it is forthwith put away, broken and burned.
-
-**Sponheim 1566: the fonts of the "bewitched" water.** The Front County of Sponheim was held
-jointly by the Elector Palatine and the margrave of Baden. When it was reformed in 1566, the
-Palatine councillors (Reformed) held that God's word commands more than the altars and idols to
-be broken down. They named the Mass vestments, the portable altars, the sacrament-houses, and
-the fonts "in which the bewitched baptismal water was kept". The joint chief officer and the
-Baden clerk objected. After a compromise the work was done in four villages, and the Palatines
-burned some of the idols, among them the images to which graces and indulgences had been tied.
-Baden then protested against "Zwinglian and sacramentarian image-storming". **Sponheim (Vordere
-Grafschaft), *Reformation in der Vorderen Grafschaft Sponheim*, 1566** (Sehling 18, p. 630):
-
-<!-- doc 1015 -->
-> item Sacrament heusel, dergleichen Tauffstein, darinn das verzaubert Tauffwasser gehalten
-> worden, item Götzen, vor denen man sonndere Meß gelesen, und so der Götz hupscher, so dy Meß
-> vor crefftiger ist geschetzt worden, weliches auch alles sambt anderm, so zur abgötterey
-> dienet, Gott, der herr, in seinem wort abzubrechen unnd hinweg zu thun bevolhen. […] welicher
-> einsteils unnd sonderlich dy Gnaden- unnd Ablaßgötzen von denn pfältzischen mit feuer
-> verbranndt worden.
-
-item the sacrament-houses; likewise the fonts in which the bewitched baptismal water was kept;
-item the idols before which special Masses were read, and the fairer the idol, the mightier the
-Mass was esteemed: all which, together with other things that serve idolatry, God the Lord hath
-commanded in his word to be broken down and put away. […] of which [idols] some, and in
-especial the idols of grace and of indulgence, were burned with fire by the Palatines.
-
-**Transylvania 1607: burned, but by degrees.** The Transylvanian synod of 1607 calls the idols
-"sure instruments of idolatry", which God commanded to be destroyed, broken and burned. It
-bids the pastors remove them slowly, out of the hearers' minds before their eyes.
-**Transylvanian Saxons, *Articuli de ceremoniis*, 1607** (Sehling 24, p. 493):
-
-<!-- doc 1726 -->
-> Non minus necessarius esset hic quoque articulus, ut a templis divino cultui destinatis
-> facesserent et eiicerentur idola, tanquam certa idolatriae instrumenta, doctores mendacii et
-> ornatus, qui non ecclesiam Dei, sed meretricem illam Babilonicam, cum qua reges terrae
-> scortati sunt, decet. Unde etiam Deus illa neque fieri neque coli, sed destrui, confringi, imo
-> igni comburi iussit. Sed quia hic quoque timendum, ne parum aut nihil efficiamus apud
-> idolorum patronos, feramus ad tempus, quod subito mutari non potest. Enitantur tamen
-> pastores, ut pedetentim et absque tumultu ea submoveant, quae superstitionis fomenta esse
-> vident et prius ex animis quam oculis auditorum eiiciant
-
-No less needful were this article also: that the idols should depart and be cast out of the
-temples appointed for divine worship, as sure instruments of idolatry, teachers of lies, and an
-adornment that becometh not the Church of God but that Babylonian harlot with whom the kings of
-the earth have committed whoredom. Wherefore also God commanded that they be neither made nor
-worshipped, but destroyed, broken, yea burned with fire. But since here also it is to be
-feared that we may effect little or nothing with the patrons of the idols, let us bear for a
-time what cannot be changed suddenly. Yet let the pastors strive to remove, by little and little
-and without tumult, the things which they see to be the tinder of superstition, and cast them
-out of the minds of the hearers before their eyes.
-
-#### <a id="s13-23-5"></a>13.23.5 The things of the sacraments guarded
-
-**Water, hosts and the altar cloth.** The sorcerers sought the church's own things: the
-baptismal water, the hosts and the altar. The orders do not purify these things after they have
-been misused. They keep them from misuse beforehand. **Wolfstein, *Christliche Instructio* of
-Thomas Stieber, 1574** (Sehling 13, p. 572):
-
-<!-- doc 463 -->
-> Zum neunten sollen die pfarhern fleißig achtung haben, daß mit den dingen, so man zur
-> administration der hochwürdigen sacrament gebraucht, kaine zauberei getriben werde, als etwa
-> mit dem taufewasser geschehen ist und noch geschicht oder, daß etliche kreuter oder anders
-> unter das altartuch legen und lassen darüber meß halten und gebrauchen solche ding zur
-> zauberei.
-
-Ninthly, the pastors shall take diligent heed that no sorcery be practised with the things that
-are used for the administration of the most worthy sacraments, as hath been done, and is yet
-done, with the baptismal water; or that some lay herbs or other things under the altar cloth,
-and have Mass said over them, and use such things for sorcery.
-
-**The water poured away.** Grubenhagen in 1581 bids the sextons pour the baptismal water away
-at once, since sorcerers begged or bought it for their sick cattle. **Grubenhagen,
-*Kirchenordnung*, 1581** (Sehling 6/2, p. 1049):
-
-<!-- doc 2058 -->
-> Nachdem auch zuweilen zauberische, aberglaubische leute gefunden, welche des taufwassers zu
-> ihrem kranken vihe missbrauchen und von den küstern bitten oder keufen, sollen die custodes
-> bey verlust ihres ampts und unserer ernsten straff sich dafür hüten und umb des willen
-> alsobald das wasser weggiessen, auch sonst die taufstein sauber und reinlich halten.
-
-Forasmuch as there are also found at times sorcerous, superstitious people, which misuse the
-baptismal water for their sick cattle, and beg or buy it of the sextons, the sextons shall, on
-pain of losing their office and of our earnest punishment, beware thereof, and for that cause
-pour away the water forthwith, and otherwise keep the fonts clean and neat.
-
-The Upper Palatine visitors of 1579 had heard that some misused the baptismal water for
-superstition. They asked the sextons whether anyone begged it of them and where they poured it
-out, and gave them this order. **Upper Palatinate, *Visitationsordnung*, 1579**
-(Sehling 13, p. 317):
-
-<!-- doc 416 -->
-> Und ist ihnen darauf bevolhen: 1. Das sie das taufwasser niemand, in was schein solches
-> begert werden mochte, geben oder volgen lassen, 2. sondern solches, so bald nach volgender
-> action, uf den kirchhofe oder andere saubere und gelegene ort ohne superstition usgießen.
-
-And it is thereupon commanded them: 1. That they give or let go the baptismal water to no one,
-under whatsoever colour it may be desired; 2. but pour it out as soon as the action is ended,
-on the churchyard or another clean and convenient place, without superstition.
-
-Electoral Saxony in 1580 forbade the bell-ringers to sell the leftover water and the hosts,
-"which are afterward used for sorcery" ([§16.7.1](#s16-7-1)). The later orders count the communicants
-and consume what remains of the elements (§§[13.20.3](#s13-20-3), [13.20.5](#s13-20-5)).
-
-#### <a id="s13-23-6"></a>13.23.6 The persons: repentance, not purification
-
-**Public apology and absolution.** What the orders cleanse is the conscience. Nassau-Dillenburg
-in 1570 would not suffer sorcerers, soothsayers or charmers in the land. Those who ran after
-them and had their children, cattle and goods bewitched and blessed were to ask pardon openly
-before the congregation and be absolved. **Nassau-Dillenburg, *Visitationsabschied*, 1570**
-(Sehling 10, p. 113):
-
-<!-- doc 180 -->
-> Dergleichen sollen auch keine zauberer, warsager unnd segensprecher geduldet, sondern vermöge
-> der rechtten gestraffet und des landts verweiset werdenn. Welche sich auch denen anhengig
-> machen, denen nachlauffen, bey inen raths pflegen unnd ire kinder, vihe unnd narung uber die
-> geschehene verwarnung bezaubern unnd segnen laßen wurden, die sollen neben dem, das sie solch
-> gegeben ergernus fur der christlichen gemein offentlich abzubitten unnd von irer begangener
-> schwerer sunden sich absolviren zulaßen, durch ire pastores angehaltten werden sollen, auch
-> durch die obrigkeit nach der sachen unnd personen gelegenheit gestraft werdenn.
-
-Likewise shall no sorcerers, soothsayers and charmers be suffered, but be punished according
-to the laws and banished out of the land. And they that join themselves unto them, run after
-them, take counsel with them, and after the warning given let their children, cattle and
-living be bewitched and blessed: they shall be held by their pastors, beside openly asking
-pardon before the Christian congregation for the offence they have given, to let themselves be
-absolved of their grievous sin committed; and they shall also be punished by the magistrate
-according to the matter and the person.
-
-**Exclusion from the Supper.** The Transylvanian synod at Mediasch in 1595 barred from the Supper
-those who sought help in sickness from magicians and soothsayers. A pastor who did so was to be
-suspended from his office for a month before the elders of his community and fined ten florins
-by the chapter. **Transylvanian Saxons, *Synodalartikel gegen Zauberei* (Mediasch), 1595**
-(Sehling 24, p. 478):
-
-<!-- doc 1721 -->
-> Quicunque se conferunt ad magos et veridicos auxilium aut levamen morbi aliquod ab ipsis
-> petentes, debent privari coena Domini.
-
-Whosoever betake themselves to magicians and soothsayers, seeking of them help or any relief of
-sickness, ought to be deprived of the Lord's Supper.
-
-**Caution before the fire.** The orders that treat sorcery as a crime leave its trial to the
-magistrate and the imperial law. The Solms order of 1584 punishes it "in body and life" (Sehling
-9, p. 326), and the Burzenland articles of 1578 "with fire" (Sehling 24, p. 449). Two orders
-warn against haste. Hohenlohe in 1558 would have no court act on what a soothsayer said against
-anyone, since "the devil is nothing but a liar" (Sehling 15, p. 139). Count John VI of
-Nassau-Dillenburg ordered a secret inquiry into each person accused of witchcraft, before any
-arrest. **Nassau-Dillenburg, *Zaubereimandat*, 1582** (Reformed; Sehling 10, p. 175):
-
-<!-- doc 187 -->
-> das inn sachenn, so leib und leben, insonderhaitt aber die seel seligkhait betreffen, nicht
-> liederlichen und uf blosse anzaige gehandlet noch zum gefängklichen angreiffen ehe besserer
-> erkhundigung, viellweniger zum fewer damit will geeilet sein.
-
-that in matters which concern body and life, and above all the salvation of the soul, men must
-not proceed lightly and upon a bare accusation, nor hasten to lay hold of anyone and imprison
-him before better inquiry, much less to the fire.
-
----
-
 ### <a id="s13-24"></a>13.24 Table by order
 
 **How to read the table.** The table lists the orders that give the principal forms. For each
@@ -54623,7 +54625,7 @@ numbers refer to this chapter.
 | Pfalz-Simmern, Ravengiersburg 1560 | reception of novices as scholars; the stipendiary's obligation ([13.12.9](#s13-12-9)) | — |
 | Brunswick-Wolfenbüttel 1569 | words for laying aside the habit ([13.12.10](#s13-12-10)) | — |
 | Schwäbisch Hall 1543/1615 | council-election sermon ([13.13.1](#s13-13-1)) | consecration of churchyards ([13.14.1](#s13-14-1)) |
-| Pfalz-Neuburg 1543 and 1560 | baptism with oil and chrism ([13.3.2](#s13-3-2)); visitation service ([13.20.1](#s13-20-1)) | the yearly blessings ([13.15.1](#s13-15-1)); weather-ringing ([13.15.5](#s13-15-5)) |
+| Pfalz-Neuburg 1543 and 1560 | baptism with oil and chrism ([13.3.2](#s13-3-2)); visitation service ([13.22.1](#s13-22-1)) | the yearly blessings ([13.15.1](#s13-15-1)); weather-ringing ([13.15.5](#s13-15-5)) |
 | Waldeck 1583 and 1584 | — | *Kirchweih* ([13.14.4](#s13-14-4)); exorcism and the baptismal robe ([13.4.4](#s13-4-4)) |
 | Halberstadt 1588 | — | church dedication and font blessing ([13.14.1](#s13-14-1)) |
 | Thüngen 1564 | — | churching ([13.5.1](#s13-5-1)); weather-ringing ([13.15.5](#s13-15-5)) |
@@ -54635,32 +54637,32 @@ numbers refer to this chapter.
 | Kronstadt 1543 | communion of the sick ([13.18.4](#s13-18-4)) | candles, bells and pomp ([13.18.4](#s13-18-4)) |
 | Mecklenburg 1552 | — | banners and processional crosses ([13.18.4](#s13-18-4)) |
 | Strasbourg 1598 | the council procession to the Minster ([13.18.4](#s13-18-4)) | — |
-| Brandenburg-Ansbach-Kulmbach, *Landtagsabschied* 1526 | leftovers kept in the sacrament house for the sick and later communicants ([13.20.3](#s13-20-3)) | — |
-| Nuremberg *Lehrartikel* and Brandenburg-Nürnberg 1528 | — | locking up and carrying about the sacrament ([13.20.3](#s13-20-3)) |
-| Brunswick 1528, Hamburg 1529, Rostock about 1560 | communion on Good Friday as on a Sunday ([13.20.4](#s13-20-4)) | Mass of the Presanctified ([13.20.4](#s13-20-4)) |
-| Goslar (Nuremberg report) 1528, Mülhausen 1528 (Reformed), Feuchtwangen 1563, Teschen 1584 | — | Easter sepulchre ([13.20.4](#s13-20-4)); ciborium (Teschen, 20.3) |
-| Merseburg 1544, Pfalz-Neuburg 1543, Hohenlohe 1553, Wolfstein 1574, Lüneburg 1575 | remaining elements consumed by minister or communicants ([13.20.5](#s13-20-5)) | reservation ([13.20.3](#s13-20-3), [13.20.5](#s13-20-5)) |
-| Transylvanian Saxons 1547 | — | communion from hosts kept "in corners" ([13.20.3](#s13-20-3)); anxiety over leftovers ([13.20.5](#s13-20-5)) |
-| Electoral Brandenburg 1540 (Holy Week) | Palm Sunday procession, Maundy Thursday foot-washing, Good Friday burial and Easter resurrection represented, Easter Vespers with baptism ([13.21.3](#s13-21-3)) | blessing of palms and of the fire ([13.21.3](#s13-21-3)) |
-| Kurpfalz *Bedenken* 1546, Pfalz-Neuburg 1543, Anhalt 1532 | Christmas and Easter Matins toward morning; Ascension and Whitsun None ([13.21.2](#s13-21-2), [13.21.6](#s13-21-6)) | midnight watch; water, hosts, fire, figures and dove at Ascension and Whitsun ([13.21.6](#s13-21-6)) |
+| Brandenburg-Ansbach-Kulmbach, *Landtagsabschied* 1526 | leftovers kept in the sacrament house for the sick and later communicants ([13.22.3](#s13-22-3)) | — |
+| Nuremberg *Lehrartikel* and Brandenburg-Nürnberg 1528 | — | locking up and carrying about the sacrament ([13.22.3](#s13-22-3)) |
+| Brunswick 1528, Hamburg 1529, Rostock about 1560 | communion on Good Friday as on a Sunday ([13.22.4](#s13-22-4)) | Mass of the Presanctified ([13.22.4](#s13-22-4)) |
+| Goslar (Nuremberg report) 1528, Mülhausen 1528 (Reformed), Feuchtwangen 1563, Teschen 1584 | — | Easter sepulchre ([13.22.4](#s13-22-4)); ciborium (Teschen, 20.3) |
+| Merseburg 1544, Pfalz-Neuburg 1543, Hohenlohe 1553, Wolfstein 1574, Lüneburg 1575 | remaining elements consumed by minister or communicants ([13.22.5](#s13-22-5)) | reservation ([13.22.3](#s13-22-3), [13.22.5](#s13-22-5)) |
+| Transylvanian Saxons 1547 | — | communion from hosts kept "in corners" ([13.22.3](#s13-22-3)); anxiety over leftovers ([13.22.5](#s13-22-5)) |
+| Electoral Brandenburg 1540 (Holy Week) | Palm Sunday procession, Maundy Thursday foot-washing, Good Friday burial and Easter resurrection represented, Easter Vespers with baptism ([13.23.3](#s13-23-3)) | blessing of palms and of the fire ([13.23.3](#s13-23-3)) |
+| Kurpfalz *Bedenken* 1546, Pfalz-Neuburg 1543, Anhalt 1532 | Christmas and Easter Matins toward morning; Ascension and Whitsun None ([13.23.2](#s13-23-2), [13.23.6](#s13-23-6)) | midnight watch; water, hosts, fire, figures and dove at Ascension and Whitsun ([13.23.6](#s13-23-6)) |
 | Naumburg 1537, Nördlingen 1555, Hof 1592 | Christmas Matins lessons with *Liber generationis*; *Gloria, laus* on Palm Sunday; Tenebrae as an evening office (21.2–21.4) | — |
-| Schweinfurt 1543, Mülhausen 1528 (Reformed), Waldeck 1556 | Good Friday Matins and Passion; solemn prayers in German ([13.21.4](#s13-21-4)) | Easter candle, fire-blessing, font procession (Mülhausen, 21.5) |
-| Luther *Formula missae* 1523, Hildesheim 1544 | Alleluia as "the perpetual voice of the church" ([13.21.7](#s13-21-7)) | penitential rites peculiar to Lent and Holy Week ([13.21.7](#s13-21-7)) |
-| Regensburg [1567], Thüngen 1587, Albrechtshain 1554, Pomerania 1569, Kolberg 1586 | Athanasian Creed read, sung or preached on Trinity Sunday ([13.21.7](#s13-21-7)) | — |
-| Niemegk 1529, Pfalz-Neuburg 1543, Grubenhagen 1544, Mecklenburg 1552, Lüneburg 1564 | Litany in place of the Supper when no one communes ([13.22.1](#s13-22-1)) | — |
-| Transylvanian Saxons 1547 | Creed with suffrages for the king, for sins and for peace in the service without communion ([13.22.1](#s13-22-1)) | — |
-| Hof 1592 | weekday *Tagmeß* with the Litany divided over four days ([13.22.1](#s13-22-1)) | Litany left out at a baptism ([13.22.1](#s13-22-1)) |
-| Dietrich 1545, Amberg 1550, Waldeck 1556, Mecklenburg 1542 | Litany after the epistle, during communion, after the sermon ([13.22.2](#s13-22-2)) | — |
-| Calenberg 1542, Heidelberg chapter 1546, Pomerania 1569 | Rogation Litany without the saints ([13.22.4](#s13-22-4)) | the procession; *Sancte Petre, ora pro nobis* ([13.22.4](#s13-22-4)) |
-| Zweibrücken 1533, Pfalz-Veldenz 1574 | Litany in the Christmas, Easter and Whitsun weeks ([13.22.5](#s13-22-5)) | — |
-| Schwäbisch Hall 1543, Limpurg 1610 | Litany on Good Friday ([13.22.6](#s13-22-6)) | — |
-| Waldeck 1556 | eleven Good Friday biddings with collects, in German ([13.22.6](#s13-22-6)) | *Flectamus genua*; the prayers for the pope and the pagans ([13.22.6](#s13-22-6)) |
-| Braunschweig 1528, Transylvanian Saxons 1547, Leiningen 1566, Wolfstein 1574 | — | holy water, exorcized salt and hallowed herbs and candles against the devil and as means of sorcery ([13.23.1](#s13-23-1)) |
-| Mecklenburg 1540/1545, Pomerania 1542 | blessing of the house of the sick against the devil's spooks ([13.23.2](#s13-23-2)) | — |
-| Württemberg 1552, Hohenlohe 1558 and 1588, Castell 1579 | public burning of charms, written blessings, hallowed and bewitched things and sorcerers' books ([13.23.3](#s13-23-3)) | — |
-| Mecklenburg 1552, Sponheim 1566 (the Palatine councillors), Transylvanian Saxons 1607 | worshipped images broken and burned; fonts and sacrament-houses broken down ([13.23.4](#s13-23-4)) | — |
-| Wolfstein 1574, Upper Palatinate 1579, Grubenhagen 1581 | baptismal water poured away at once; nothing laid under the altar cloth ([13.23.5](#s13-23-5)) | the gift or sale of the baptismal water ([13.23.5](#s13-23-5)) |
-| Nassau-Dillenburg 1570 and 1582 (Reformed), Transylvanian Saxons 1595 | public apology and absolution; exclusion from the Supper; inquiry before arrest ([13.23.6](#s13-23-6)) | — |
+| Schweinfurt 1543, Mülhausen 1528 (Reformed), Waldeck 1556 | Good Friday Matins and Passion; solemn prayers in German ([13.23.4](#s13-23-4)) | Easter candle, fire-blessing, font procession (Mülhausen, 21.5) |
+| Luther *Formula missae* 1523, Hildesheim 1544 | Alleluia as "the perpetual voice of the church" ([13.23.7](#s13-23-7)) | penitential rites peculiar to Lent and Holy Week ([13.23.7](#s13-23-7)) |
+| Regensburg [1567], Thüngen 1587, Albrechtshain 1554, Pomerania 1569, Kolberg 1586 | Athanasian Creed read, sung or preached on Trinity Sunday ([13.23.7](#s13-23-7)) | — |
+| Niemegk 1529, Pfalz-Neuburg 1543, Grubenhagen 1544, Mecklenburg 1552, Lüneburg 1564 | Litany in place of the Supper when no one communes ([13.21.1](#s13-21-1)) | — |
+| Transylvanian Saxons 1547 | Creed with suffrages for the king, for sins and for peace in the service without communion ([13.21.1](#s13-21-1)) | — |
+| Hof 1592 | weekday *Tagmeß* with the Litany divided over four days ([13.21.1](#s13-21-1)) | Litany left out at a baptism ([13.21.1](#s13-21-1)) |
+| Dietrich 1545, Amberg 1550, Waldeck 1556, Mecklenburg 1542 | Litany after the epistle, during communion, after the sermon ([13.21.2](#s13-21-2)) | — |
+| Calenberg 1542, Heidelberg chapter 1546, Pomerania 1569 | Rogation Litany without the saints ([13.21.4](#s13-21-4)) | the procession; *Sancte Petre, ora pro nobis* ([13.21.4](#s13-21-4)) |
+| Zweibrücken 1533, Pfalz-Veldenz 1574 | Litany in the Christmas, Easter and Whitsun weeks ([13.21.5](#s13-21-5)) | — |
+| Schwäbisch Hall 1543, Limpurg 1610 | Litany on Good Friday ([13.21.6](#s13-21-6)) | — |
+| Waldeck 1556 | eleven Good Friday biddings with collects, in German ([13.21.6](#s13-21-6)) | *Flectamus genua*; the prayers for the pope and the pagans ([13.21.6](#s13-21-6)) |
+| Braunschweig 1528, Transylvanian Saxons 1547, Leiningen 1566, Wolfstein 1574 | — | holy water, exorcized salt and hallowed herbs and candles against the devil and as means of sorcery ([13.20.1](#s13-20-1)) |
+| Mecklenburg 1540/1545, Pomerania 1542 | blessing of the house of the sick against the devil's spooks ([13.20.2](#s13-20-2)) | — |
+| Württemberg 1552, Hohenlohe 1558 and 1588, Castell 1579 | public burning of charms, written blessings, hallowed and bewitched things and sorcerers' books ([13.20.3](#s13-20-3)) | — |
+| Mecklenburg 1552, Sponheim 1566 (the Palatine councillors), Transylvanian Saxons 1607 | worshipped images broken and burned; fonts and sacrament-houses broken down ([13.20.4](#s13-20-4)) | — |
+| Wolfstein 1574, Upper Palatinate 1579, Grubenhagen 1581 | baptismal water poured away at once; nothing laid under the altar cloth ([13.20.5](#s13-20-5)) | the gift or sale of the baptismal water ([13.20.5](#s13-20-5)) |
+| Nassau-Dillenburg 1570 and 1582 (Reformed), Transylvanian Saxons 1595 | public apology and absolution; exclusion from the Supper; inquiry before arrest ([13.20.6](#s13-20-6)) | — |
 
 ---
 
@@ -54672,30 +54674,30 @@ through the table in [§13.24](#s13-24) and the text.
 
 | Order | Title | Date | Sehling | Quoted in § |
 |---|---|---|---|---|
-| Amberg | *Kirchenordnung* | 1550 | 13, p. 286 | [13.22.2](#s13-22-2) |
-| Anhalt | *Ordnung* of Nicolaus Hausmann | 1532 | 2, pp. 542–543 | [13.21.2](#s13-21-2) |
+| Amberg | *Kirchenordnung* | 1550 | 13, p. 286 | [13.21.2](#s13-21-2) |
+| Anhalt | *Ordnung* of Nicolaus Hausmann | 1532 | 2, pp. 542–543 | [13.23.2](#s13-23-2) |
 | Baden | *Kirchenordnung* | 1533 | 16, p. 510 | [13.18.4](#s13-18-4) |
 | Bentheim-Tecklenburg (Reformed) | *Kirchenordnung* | 1588 | 22, p. 269 | [13.4.4](#s13-4-4) |
-| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 81, 88 | [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3) |
+| Brandenburg (Electorate) | *Kirchenordnung* | of Joachim II, 1540 | 3, pp. 54, 58–59, 59, 62–63, 81, 88 | [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.23.3](#s13-23-3) |
 | Brandenburg (Electorate) | *Visitation- und Consistorialordnung* | 1573 | 3, p. 128 | [13.7.10](#s13-7-10) |
-| Brandenburg-Ansbach-Kulmbach | *Landtagsabschied* | 1526 | 11, p. 91 | [13.20.3](#s13-20-3) |
+| Brandenburg-Ansbach-Kulmbach | *Landtagsabschied* | 1526 | 11, p. 91 | [13.22.3](#s13-22-3) |
 | Brandenburg-Ansbach-Kulmbach | *Ordo ecclesiasticus* | 1592 | 11, p. 456 | [13.7.4](#s13-7-4) |
 | Brandenburg-Ansbach-Kulmbach | *Konsistorialordnung* | 1594 | 11, p. 392 | [13.4.3](#s13-4-3) |
-| Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, pp. 135, 138 | [13.3.2](#s13-3-2), [13.20.3](#s13-20-3) |
+| Brandenburg-Nürnberg | *Kirchenordnung* | 1528 | 11, pp. 135, 138 | [13.3.2](#s13-3-2), [13.22.3](#s13-22-3) |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, pp. 174, 177, 180, 201–202, 203 | [13.3.1](#s13-3-1), [13.3.4](#s13-3-4), [13.5.1](#s13-5-1), [13.7.2](#s13-7-2), [13.9.3](#s13-9-3) |
-| Braunschweig | *Kirchenordnung* | 1528 | 6/1, pp. 360, 389–390, 391, 428 | [13.4.2](#s13-4-2), [13.23.1](#s13-23-1), [13.23.2](#s13-23-2) |
-| Brunswick | *Kirchenordnung* | 1528 | 6/1, p. 379 | [13.20.4](#s13-20-4) |
+| Braunschweig | *Kirchenordnung* | 1528 | 6/1, pp. 360, 389–390, 391, 428 | [13.4.2](#s13-4-2), [13.20.1](#s13-20-1), [13.20.2](#s13-20-2) |
+| Brunswick | *Kirchenordnung* | 1528 | 6/1, p. 379 | [13.22.4](#s13-22-4) |
 | Brunswick-Wolfenbüttel | *Klosterordnung* | 1569 | 6/1, pp. 325–326 | [13.12.10](#s13-12-10) |
 | Calenberg-Göttingen | *Ordnung der confirmation oder firmung* | 1542 | 6/2, pp. 838–839, 843 | [13.6.3](#s13-6-3) |
-| Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, pp. 799, 812 | [13.15.1](#s13-15-1), [13.22.4](#s13-22-4) |
-| Castell | *Dorfordnung für Obereisenheim* | 1579 | 11, p. 691 | [13.23.3](#s13-23-3) |
+| Calenberg-Göttingen | *Kirchenordnung* | 1542 | 6/2, pp. 799, 812 | [13.15.1](#s13-15-1), [13.21.4](#s13-21-4) |
+| Castell | *Dorfordnung für Obereisenheim* | 1579 | 11, p. 691 | [13.20.3](#s13-20-3) |
 | Electoral Saxony | *Constitution und artikel des geistlichen consistorii zu Wittemberg* | 1542 | 1, pp. 202, 206 | [13.8.2](#s13-8-2), [13.16.2](#s13-16-2) |
 | Electoral Saxony | *Wittenbergische Reformation* | 1545 | 1, p. 211 | [13.6.1](#s13-6-1), [13.10.1](#s13-10-1) |
 | Esslingen (Moderate Reformed) | *Mandat für die altgläubigen Geistlichen* | 10 August 1532 | 17/2, p. 371 | [13.19.1](#s13-19-1) |
 | Gengenbach (Moderate Reformed) | *Bestallung eines Schulmeysters der Statt Gengenbach* | 1536 | 17/1, p. 483 | [13.12.3](#s13-12-3) |
-| Goslar | *Bericht der Stadt Nürnberg für den Goslarer Rat* | 30 March 1528 | 7/2.2, p. 232 | [13.20.4](#s13-20-4) |
-| Grubenhagen | *Kirchenordnung* | 1544 | 6/2, p. 1033 | [13.22.1](#s13-22-1) |
-| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1049, 1052, 1058 | [13.16.1](#s13-16-1), [13.16.6](#s13-16-6), [13.23.5](#s13-23-5) |
+| Goslar | *Bericht der Stadt Nürnberg für den Goslarer Rat* | 30 March 1528 | 7/2.2, p. 232 | [13.22.4](#s13-22-4) |
+| Grubenhagen | *Kirchenordnung* | 1544 | 6/2, p. 1033 | [13.21.1](#s13-21-1) |
+| Grubenhagen | *Kirchenordnung* | 1581 | 6/2, pp. 1049, 1052, 1058 | [13.16.1](#s13-16-1), [13.16.6](#s13-16-6), [13.20.5](#s13-20-5) |
 | Halberstadt | *Instruktion für die Visitation* | 8 August 1588 | 2, p. 470 | [13.14.1](#s13-14-1) |
 | Havelberg | *Abschied* | 1558 | 3, p. 232 | [13.18.4](#s13-18-4) |
 | Heidelberg (Reformed) | *Bestallung eines Glöckners* | 15 May 1572 | 14, p. 457 | [13.12.2](#s13-12-2) |
@@ -54706,74 +54708,74 @@ through the table in [§13.24](#s13-24) and the text.
 | Hesse (Moderate Reformed) | *Ziegenhainer Zuchtordnung* | 1539 | 8, p. 104 | [13.6.2](#s13-6-2) |
 | Hesse (Moderate Reformed) | *Kirchenordnung* | 1566 | 8, pp. 209, 211, 211–212 | [13.12.1](#s13-12-1), [13.19.3](#s13-19-3) |
 | Hesse (Philippist) | *Agende* | 1574 | 8, pp. 454–455 | [13.10.5](#s13-10-5) |
-| Hildesheim | *Christlike kerckenordeninge* | 1544 | 7/2.1, p. 853 | [13.21.7](#s13-21-7) |
+| Hildesheim | *Christlike kerckenordeninge* | 1544 | 7/2.1, p. 853 | [13.23.7](#s13-23-7) |
 | Hildesheim | *Bestallung des Organisten Severus Kroschen* | 1581 | 7/2.1, p. 901 | [13.12.3](#s13-12-3) |
-| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 439, 455, 463, 464, 467 | [13.14.3](#s13-14-3), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.22.1](#s13-22-1) |
-| Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 72 | [13.20.5](#s13-20-5) |
-| Hohenlohe | *Polizeiordnung* | 1558 | 15, p. 139 | [13.23.3](#s13-23-3) |
+| Hof | *Ordo ecclesiasticus* | 1592 | 11, pp. 439, 455, 463, 464, 467 | [13.14.3](#s13-14-3), [13.18.4](#s13-18-4), [13.21.1](#s13-21-1), [13.23.3](#s13-23-3) |
+| Hohenlohe | *Kirchenordnung* | 1553 | 15, p. 72 | [13.22.5](#s13-22-5) |
+| Hohenlohe | *Polizeiordnung* | 1558 | 15, p. 139 | [13.20.3](#s13-20-3) |
 | Kronstadt | *Reformationsbüchlein* | German version, 1543 | 24, p. 196 | [13.18.4](#s13-18-4) |
-| Kurpfalz | *Bedenken zur Reformation der Stiftskirchen* | 1546 | 14, p. 92 | [13.21.2](#s13-21-2), [13.21.6](#s13-21-6) |
+| Kurpfalz | *Bedenken zur Reformation der Stiftskirchen* | 1546 | 14, p. 92 | [13.23.2](#s13-23-2), [13.23.6](#s13-23-6) |
 | Kurpfalz (Reformed) | *Kirchenordnung* | 1563 | 14, pp. 337, 340 | [13.3.6](#s13-3-6) |
 | Kurpfalz (Reformed) | *Ordnung der Ordination* | 1592 | 19/2, p. 792 | [13.10.5](#s13-10-5) |
 | Kurpfalz (Reformed) | *Ordnung der Einführung der Kirchendiener* | 1592 | 19/2, p. 793 | [13.11.2](#s13-11-2) |
 | Kurpfalz (Reformed) | *Einführung der Senioren* | 9 December 1592 | 19/2, pp. 789–790 | [13.12.1](#s13-12-1) |
-| Leiningen | *Kirchenzuchtordnung* | 1566 | 19/1, p. 228 | [13.23.1](#s13-23-1) |
+| Leiningen | *Kirchenzuchtordnung* | 1566 | 19/1, p. 228 | [13.20.1](#s13-20-1) |
 | Leisnig | *Verordnung der Visitatoren für das Amt Leisnig* | 1529 | 1, p. 609 | [13.12.4](#s13-12-4) |
 | Lippe | *Kirchenordnung* | 1538 | 21, p. 319 | [13.8.1](#s13-8-1) |
 | Lippe | *Kirchenordnung* | 1571 | 21, p. 447 | [13.12.2](#s13-12-2) |
 | Luther | *Das taufbuchlin verdeutscht* | 1523, epilogue | 1, p. 20 | [13.3.1](#s13-3-1) |
 | Luther | *Das taufbuchlin verdeutscht* | 1523 | 1, pp. 19–20 | [13.3.2](#s13-3-2) |
-| Luther | *Formula missae et communionis* | 1523 | 1, p. 5 | [13.21.7](#s13-21-7) |
+| Luther | *Formula missae et communionis* | 1523 | 1, p. 5 | [13.23.7](#s13-23-7) |
 | Luther | *Das taufbuchlin verdeudscht aufs neu zu gericht* | 1526 | 1, pp. 22–23 | [13.3.3](#s13-3-3) |
-| Luther | *Deudsche messe und ordnung gottis diensts* | 1526 | 1, p. 16 | [13.21.1](#s13-21-1) |
+| Luther | *Deudsche messe und ordnung gottis diensts* | 1526 | 1, p. 16 | [13.23.1](#s13-23-1) |
 | Luther | *Traubüchlein* | 1529 | 1, p. 24 | [13.7.1](#s13-7-1) |
 | Luther | *Forma ordinationis latina* | 1539 | 1, p. 28 | [13.10.2](#s13-10-2) |
 | Lüneburg | *Kirchenordnung* | 1564 | 6/1, pp. 557–558 | [13.12.5](#s13-12-5) |
-| Lüneburg | *Kirchenordnung* | 1575 | 6/1, pp. 655, 660 | [13.20.5](#s13-20-5), [13.22.2](#s13-22-2) |
+| Lüneburg | *Kirchenordnung* | 1575 | 6/1, pp. 655, 660 | [13.21.2](#s13-21-2), [13.22.5](#s13-22-5) |
 | Mansfeld | *Form und weise einer visitation* | 1554 | 2, p. 192 | [13.3.8](#s13-3-8) |
 | Mansfeld | *Kirchen-Agenda* | 1580 | 2, pp. 222, 223, 234, 241–242, 242–243, 246 | [13.5.2](#s13-5-2), [13.6.5](#s13-6-5), [13.9.4](#s13-9-4), [13.16.5](#s13-16-5) |
-| Marggrabowa | *Gottesdienstordnung* | 1581 | 4, p. 149 | [13.22.3](#s13-22-3) |
-| Mecklenburg | *Ordeninge der misse* | 1540/1545 | 5, p. 158 | [13.23.2](#s13-23-2) |
-| Mecklenburg | *Verordnung der Visitatoren* | 1542 | 5, p. 149 | [13.22.2](#s13-22-2) |
+| Marggrabowa | *Gottesdienstordnung* | 1581 | 4, p. 149 | [13.21.3](#s13-21-3) |
+| Mecklenburg | *Ordeninge der misse* | 1540/1545 | 5, p. 158 | [13.20.2](#s13-20-2) |
+| Mecklenburg | *Verordnung der Visitatoren* | 1542 | 5, p. 149 | [13.21.2](#s13-21-2) |
 | Mecklenburg | *Visitations-Instruction* | 12 November 1552 | 5, p. 220 | [13.18.4](#s13-18-4) |
-| Mecklenburg | *Processus visitationis* | 1552 | 5, p. 224 | [13.23.4](#s13-23-4) |
-| Mecklenburg | *Kirchenordnung* | 1552 | 5, p. 202 | [13.22.1](#s13-22-1) |
+| Mecklenburg | *Processus visitationis* | 1552 | 5, p. 224 | [13.20.4](#s13-20-4) |
+| Mecklenburg | *Kirchenordnung* | 1552 | 5, p. 202 | [13.21.1](#s13-21-1) |
 | Mecklenburg | *Consistorialordnung* | 1570 | 5, pp. 245–246, 246 | [13.16.4](#s13-16-4) |
-| Merseburg | *Synodalunterricht* | 1544 | 2, p. 18 | [13.20.5](#s13-20-5) |
+| Merseburg | *Synodalunterricht* | 1544 | 2, p. 18 | [13.22.5](#s13-22-5) |
 | Merseburg | *Ordinations-Ordnung (Georg of Anhalt's draft, editor's summary)* | 1545 | 2, p. 7 | [13.10.3](#s13-10-3) |
 | Micron (Reformed) | *Ordinancien* | (1554), East Frisian German edition, 1565 | 7/1, pp. 596, 597–598, 652 | [13.12.1](#s13-12-1), [13.16.7](#s13-16-7) |
 | Mulhouse (Reformed) | *Eid des Schulmeisters* | 1551 | 20/2, p. 251 | [13.12.3](#s13-12-3) |
-| Mülhausen (Reformed) | *Gutachten zu den Gottesdiensten in der Karwoche* | [1528] | 20/2, p. 207 | [13.21.5](#s13-21-5) |
+| Mülhausen (Reformed) | *Gutachten zu den Gottesdiensten in der Karwoche* | [1528] | 20/2, p. 207 | [13.23.5](#s13-23-5) |
 | Nassau-Dillenburg | *Kirchenordnung* | 1537 | 10, p. 76 | [13.15.1](#s13-15-1) |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570 | 10, pp. 138, 139, 141 | [13.12.7](#s13-12-7) |
 | Nassau-Dillenburg | *Ordnung für das Kloster Keppel* | 1570, "Eydt der dominae" | 10, pp. 141–142 | [13.12.8](#s13-12-8) |
-| Nassau-Dillenburg | *Visitationsabschied* | 1570 | 10, p. 113 | [13.23.6](#s13-23-6) |
+| Nassau-Dillenburg | *Visitationsabschied* | 1570 | 10, p. 113 | [13.20.6](#s13-20-6) |
 | Nassau-Dillenburg (Philippist) | *Agende* | 1575 | 10, p. 150 | [13.4.4](#s13-4-4) |
-| Nassau-Dillenburg (Reformed) | *Zaubereimandat* | 1582 | 10, p. 175 | [13.23.6](#s13-23-6) |
-| Naumburg | *Kirchen-Ordnung für die St. Wenzelskirche* | 1537/1538 | 2, p. 71 | [13.21.2](#s13-21-2) |
-| Nuremberg | *Die Nürnberger 23 Lehrartikel* | 1528 | 11, p. 134 | [13.20.3](#s13-20-3) |
-| Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 498, 506, 522, 528, 531–532 | [13.4.1](#s13-4-1), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2) |
+| Nassau-Dillenburg (Reformed) | *Zaubereimandat* | 1582 | 10, p. 175 | [13.20.6](#s13-20-6) |
+| Naumburg | *Kirchen-Ordnung für die St. Wenzelskirche* | 1537/1538 | 2, p. 71 | [13.23.2](#s13-23-2) |
+| Nuremberg | *Die Nürnberger 23 Lehrartikel* | 1528 | 11, p. 134 | [13.22.3](#s13-22-3) |
+| Nuremberg | *Agendbüchlein* | of Veit Dietrich, 1545 | 11, pp. 498, 506, 522, 528, 531–532 | [13.4.1](#s13-4-1), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.21.2](#s13-21-2), [13.22.5](#s13-22-5) |
 | Nördlingen | *Kirchenordnung Kaspar Löners* | 1544 | 12, p. 315 | [13.12.6](#s13-12-6) |
 | Palatinate | *Kirchenordnung* | of Ottheinrich, 1556 | 14, p. 140 | [13.17.2](#s13-17-2) |
 | Palatinate (Reformed) | *Ehegerichtsordnung* | 1563 | 14, p. 327 | [13.7.10](#s13-7-10) |
 | Palatinate (Reformed) | *Eid der Kirchenschaffner* | May 1577 | 19/2, p. 749 | [13.12.4](#s13-12-4) |
 | Palatinate | *Verzeichnuß etlicher capitum, darauf ein jeder schulmeister … promission thun solle* | 1580 | 14, pp. 508–509 | [13.12.3](#s13-12-3) |
 | Perleberg | *Visitations-Abschied* | 1581 | 3, p. 256 | [13.18.4](#s13-18-4) |
-| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 76, 77, 96–97 | [13.3.2](#s13-3-2), [13.15.1](#s13-15-1), [13.18.1](#s13-18-1), [13.20.5](#s13-20-5), [13.22.1](#s13-22-1) |
-| Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | [13.20.1](#s13-20-1) |
+| Pfalz-Neuburg | *Kirchenordnung* | 1543 | 13, pp. 55, 76, 77, 96–97 | [13.3.2](#s13-3-2), [13.15.1](#s13-15-1), [13.18.1](#s13-18-1), [13.21.1](#s13-21-1), [13.22.5](#s13-22-5) |
+| Pfalz-Neuburg | *Visitationsordnung* | 1560/1566 | 13, p. 140 | [13.22.1](#s13-22-1) |
 | Pfalz-Simmern | *Klosterordnung Ravengiersburg* | 1560 | 19/2, p. 658 | [13.12.9](#s13-12-9) |
-| Pfalz-Veldenz | *Kirchenordnung* | 1574 | 18, p. 519 | [13.22.5](#s13-22-5) |
-| Pfalz-Zweibrücken | *12 Artikel "Form und Maß"* | 1533 | 18, p. 52 | [13.22.5](#s13-22-5) |
+| Pfalz-Veldenz | *Kirchenordnung* | 1574 | 18, p. 519 | [13.21.5](#s13-21-5) |
+| Pfalz-Zweibrücken | *12 Artikel "Form und Maß"* | 1533 | 18, p. 52 | [13.21.5](#s13-21-5) |
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | [13.4.1](#s13-4-1), [13.8.1](#s13-8-1) |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | [13.4.1](#s13-4-1) |
-| Pomerania | *Agenda* | 1569 | 4, pp. 461–462, 466, 477 | [13.8.7](#s13-8-7), [13.21.7](#s13-21-7), [13.22.4](#s13-22-4) |
+| Pomerania | *Agenda* | 1569 | 4, pp. 461–462, 466, 477 | [13.8.7](#s13-8-7), [13.21.4](#s13-21-4), [13.23.7](#s13-23-7) |
 | Pomesania | *Themata episcopi Risenburgensis* | 1524 | 4, p. 29 | [13.15.1](#s13-15-1) |
 | Prussia | *Visitationsabschied für Zinten* | 1575 | 4, p. 153 | [13.7.9](#s13-7-9) |
 | Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | [13.10.4](#s13-10-4) |
 | Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | [13.9.4](#s13-9-4) |
 | Regensburg | *Ordnung für die Geistlichen zur Pestzeit* | 1562 | 13, p. 435 | [13.8.5](#s13-8-5) |
-| Regensburg | *Kirchenordnung* | [1567] | 13, p. 478 | [13.21.7](#s13-21-7) |
-| Rostock | *Conformitas ceremoniarum* | about 1560 | 5, p. 290 | [13.20.4](#s13-20-4) |
+| Regensburg | *Kirchenordnung* | [1567] | 13, p. 478 | [13.23.7](#s13-23-7) |
+| Rostock | *Conformitas ceremoniarum* | about 1560 | 5, p. 290 | [13.22.4](#s13-22-4) |
 | Salza | *Kirchen-Ordnung für Salza* | 1540 | 1, p. 654 | [13.19.2](#s13-19-2) |
 | Saxe-Lauenburg | *Kirchenordnung* | 1585 | 5, pp. 420, 448, 449, 453 | [13.12.4](#s13-12-4), [13.16.1](#s13-16-1), [13.16.3](#s13-16-3) |
 | Saxony | *Ordnung* | of Duke August, 1580 | 1, pp. 383, 425, 426, 427, 453 | [13.3.8](#s13-3-8), [13.6.7](#s13-6-7), [13.11.1](#s13-11-1), [13.15.5](#s13-15-5), [13.17.1](#s13-17-1) |
@@ -54783,27 +54785,27 @@ through the table in [§13.24](#s13-24) and the text.
 | Saxony (Ernestine) | *Unterricht der Visitatoren* | 1528 | 1, pp. 170–171 | [13.15.5](#s13-15-5) |
 | Schleswig-Holstein | *Kirchenordnung* | 1542 | 23, p. 120 | [13.11.4](#s13-11-4) |
 | Schleswig-Holstein | *Klosterordnung für Frauenklöster* | after 1610 | 23, p. 182 | [13.12.8](#s13-12-8) |
-| Schweinfurt | *Kirchenordnung* | 1543 | 11, p. 636 | [13.21.4](#s13-21-4) |
-| Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 166, 175 | [13.13.1](#s13-13-1), [13.14.1](#s13-14-1), [13.22.6](#s13-22-6) |
-| Sponheim (Vordere Grafschaft) | *Reformation in der Vorderen Grafschaft Sponheim* | 1566 | 18, p. 630 | [13.23.4](#s13-23-4) |
+| Schweinfurt | *Kirchenordnung* | 1543 | 11, p. 636 | [13.23.4](#s13-23-4) |
+| Schwäbisch Hall | *Kirchenordnung* | 1543/1615 | 17/1, pp. 165, 166, 175 | [13.13.1](#s13-13-1), [13.14.1](#s13-14-1), [13.21.6](#s13-21-6) |
+| Sponheim (Vordere Grafschaft) | *Reformation in der Vorderen Grafschaft Sponheim* | 1566 | 18, p. 630 | [13.20.4](#s13-20-4) |
 | Stendal | *Ordinance of the visitors of the Mark Brandenburg* | 1541 | 3, p. 314 | [13.18.4](#s13-18-4) |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | [13.4.1](#s13-4-1) |
 | Strasbourg (Moderate Reformed) | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | [13.3.2](#s13-3-2) |
 | Strasbourg (Moderate Reformed) | *Agende* | 1537 | 20/1, pp. 263–264, 269 | [13.3.5](#s13-3-5), [13.7.3](#s13-7-3) |
 | Strasbourg | *Kirchenordnung* | 1598 | 20/1, p. 592 | [13.18.4](#s13-18-4) |
 | Strasbourg (Moderate Reformed) | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | [13.12.4](#s13-12-4) |
-| Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | [13.20.3](#s13-20-3) |
+| Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | [13.22.3](#s13-22-3) |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | [13.5.1](#s13-5-1) |
-| Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | [13.20.3](#s13-20-3), [13.20.5](#s13-20-5) |
-| Transylvanian Saxons | *Kirchenordnung* (Latin version) | 1547 | 24, pp. 223, 225 | [13.22.1](#s13-22-1), [13.23.1](#s13-23-1) |
-| Transylvanian Saxons | *Synodalartikel gegen Zauberei* (Mediasch) | 1595 | 24, p. 478 | [13.23.6](#s13-23-6) |
-| Transylvanian Saxons | *Articuli de ceremoniis* | 1607 | 24, p. 493 | [13.23.4](#s13-23-4) |
-| Upper Palatinate | *Visitationsordnung* | 1579 | 13, p. 317 | [13.23.5](#s13-23-5) |
-| Waldeck | *Kirchenordnung* | 1556 | 9, pp. 256, 277, 278, 280 | [13.18.4](#s13-18-4), [13.21.4](#s13-21-4), [13.22.2](#s13-22-2), [13.22.6](#s13-22-6) |
+| Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | [13.22.3](#s13-22-3), [13.22.5](#s13-22-5) |
+| Transylvanian Saxons | *Kirchenordnung* (Latin version) | 1547 | 24, pp. 223, 225 | [13.20.1](#s13-20-1), [13.21.1](#s13-21-1) |
+| Transylvanian Saxons | *Synodalartikel gegen Zauberei* (Mediasch) | 1595 | 24, p. 478 | [13.20.6](#s13-20-6) |
+| Transylvanian Saxons | *Articuli de ceremoniis* | 1607 | 24, p. 493 | [13.20.4](#s13-20-4) |
+| Upper Palatinate | *Visitationsordnung* | 1579 | 13, p. 317 | [13.20.5](#s13-20-5) |
+| Waldeck | *Kirchenordnung* | 1556 | 9, pp. 256, 277, 278, 280 | [13.18.4](#s13-18-4), [13.21.2](#s13-21-2), [13.21.6](#s13-21-6), [13.23.4](#s13-23-4) |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | [13.4.4](#s13-4-4) |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | [13.14.4](#s13-14-4) |
 | Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | [13.7.8](#s13-7-8) |
-| Wolfstein | *Christliche Instructio des Thomas Stieber* | 1574 | 13, pp. 572, 575, 578 | [13.20.5](#s13-20-5), [13.23.1](#s13-23-1), [13.23.5](#s13-23-5) |
+| Wolfstein | *Christliche Instructio des Thomas Stieber* | 1574 | 13, pp. 572, 575, 578 | [13.20.1](#s13-20-1), [13.20.5](#s13-20-5), [13.22.5](#s13-22-5) |
 | Württemberg | *Kirchenordnung* | 1536 | 16, pp. 111, 113 | [13.3.5](#s13-3-5), [13.8.2](#s13-8-2) |
 | Württemberg | *Kirchenordnung* | 1553 | 16, pp. 232–233 | [13.3.5](#s13-3-5) |
 | Württemberg | *Eheordnung* | 1553 | 16, p. 279 | [13.7.6](#s13-7-6) |
@@ -55645,7 +55647,7 @@ the dove at Pentecost and the rocking of the Christ-child at Christmas
 (Sehling 15, p. 77; see [Chapter 12](#ch12), [§12.10.10](#s12-10-10)).
 
 The rites of the feasts in which the image plays stood are treated in
-[Chapter 13](#ch13), [§13.21](#s13-21).
+[Chapter 13](#ch13), [§13.23](#s13-23).
 
 ---
 
@@ -56526,7 +56528,7 @@ wherein the sum of the evangelical preaching of the Old and New Testament is to 
 
 **Other Holy Week furnishings.** The image plays of the church year went with the veils, as did
 the Easter sepulchre, the paschal candle and the blessings of the seasons. For the sepulchre and
-the Good Friday rite, see [Chapter 13](#ch13), [§13.20.4](#s13-20-4).
+the Good Friday rite, see [Chapter 13](#ch13), [§13.22.4](#s13-22-4).
 **Pfalz-Neuburg, *Kirchenordnung*, 1543** (Sehling 13, p. 96):
 
 <!-- doc 386 -->
@@ -61801,9 +61803,9 @@ are treated elsewhere and only cited here:
 - the hours in the women's convents: [§10.4.4](#s10-4-4), [§10.8.2](#s10-8-2); the convent offices of Keppel:
   [§16.7.5](#s16-7-5);
 - girls' schools and schoolmistresses: [§15.9.3](#s15-9-3); a girl leading the prayers in the Torgau girls'
-  school: [§10.11.7](#s10-11-7);
-- the girls' choirs at Naumburg and Hof: [§9.3.3](#s9-3-3), [§2.6.1](#s2-6-1), [§8.16.10](#s8-16-10), [§10.9.4](#s10-9-4);
-- the Litany and its singers: [§10.11.3](#s10-11-3), [§13.22](#s13-22);
+  school: [§10.12.7](#s10-12-7);
+- the girls' choirs at Naumburg and Hof: [§9.3.3](#s9-3-3), [§2.6.1](#s2-6-1), [§8.16.10](#s8-16-10), [§10.11.4](#s10-11-4);
+- the Litany and its singers: [§10.12.3](#s10-12-3), [§13.21](#s13-21);
 - the communion cloth and who held it: [§14.6.3](#s14-6-3);
 - who said the general prayer: [§6.1.2](#s6-1-2).
 
@@ -61909,7 +61911,7 @@ are treated elsewhere and only cited here:
 | Schoolmistress | Yes; appointed, paid and visited | Yes; chosen from the sisters (Soest 1543) | — (the schoolmaster) |
 | Midwife | Yes; sworn, and may baptize in need ([§13.12.5](#s13-12-5)) | — | — |
 | Reading the lessons | No | Yes | The sexton in filial churches; schoolboys at Vespers and the catechism |
-| Leading the prayers | No (in the girls' school only, [§10.11.7](#s10-11-7)) | Yes; the *domina* and each sister by the week | The Litany, collects, daily prayer (sexton, schoolmaster, boys) |
+| Leading the prayers | No (in the girls' school only, [§10.12.7](#s10-12-7)) | Yes; the *domina* and each sister by the week | The Litany, collects, daily prayer (sexton, schoolmaster, boys) |
 | Bidding the prayers | No; women asked for the church's prayer | — | Only the Litany's petitions; requests handed to the minister |
 | Cantor, precentor | No | *Cantrix*, precentress | Cantor and schoolmaster ([§15.9](#s15-9)) |
 | Singing in the choir | With the congregation; girls' choirs in some towns | Yes; the whole convent | Yes; the school choir |
@@ -62200,7 +62202,7 @@ might have to baptize ([§13.12.5](#s13-12-5)). Bugenhagen's Hamburg order of 15
 **In the parish church: not in the service.** Under the Hessian rule ([§16.9.2](#s16-9-2)) no woman read
 or prayed aloud in the congregation, and no parish order gives her a reading. Girls spoke in
 church as catechumens: they said the parts of the catechism and the prayers at the catechism
-examinations ([§10.11](#s10-11)). At Regensburg the boys' and the girls' schools sang from the catechism
+examinations ([§10.12](#s10-12)). At Regensburg the boys' and the girls' schools sang from the catechism
 together, but two boys did the questions and answers. **Regensburg, *Kirchenordnung*, 1567(?)**
 (Sehling 13, p. 464):
 
@@ -62236,7 +62238,7 @@ catechism to the youth.
 
 The German version has "the taught maidens" (*dye gelerte meydleyn*) do the same (Sehling 24,
 p. 196). In the Torgau girls' school (1575) a girl led the prayers, but that was in school, not
-in church ([§10.11.7](#s10-11-7)).
+in church ([§10.12.7](#s10-12-7)).
 
 **In the convent choir: the sisters read and pray.** In the evangelical convents the women kept
 their own office in the choir ([§10.4.4](#s10-4-4)), and the orders gave its readings and prayers to the
@@ -62392,7 +62394,7 @@ verse of some German song is played on the organ; the girls and maidservants sin
 song, and the church singeth too, through all that hour from eleven until twelve.
 
 Hof (1592) gives the fullest picture. Its girls' choir sang one acclamation of the Kyrie
-([§2.6.1](#s2-6-1)), alternate verses of the German Magnificat ([§10.9.4](#s10-9-4)), and the German verses of the
+([§2.6.1](#s2-6-1)), alternate verses of the German Magnificat ([§10.11.4](#s10-11-4)), and the German verses of the
 Latin festal songs ([§8.16.10](#s8-16-10)). The order also says who led the two choirs. **Hof, *Ordo
 ecclesiasticus*, 1592** (Sehling 11, pp. 428, 474):
 
@@ -62545,7 +62547,7 @@ schoolboys; at Adolzhausen, Hollenbach and Schäftersheim the two churchwardens
 
 **The Litany.** The Litany was the one long prayer of the church that laymen led. Usually two to
 four boys knelt before the altar and sang the petitions, and the choir and people answered
-([§10.11.3](#s10-11-3), [§13.22.3](#s13-22-3)). In some orders the schoolmaster or the sexton led it.
+([§10.12.3](#s10-12-3), [§13.21.3](#s13-21-3)). In some orders the schoolmaster or the sexton led it.
 **Regensburg, *Wahrhaftiger Bericht*, 1542** (Sehling 13, p. 391):
 
 <!-- doc 432 -->
@@ -62590,7 +62592,7 @@ But when there are no communicants, the sexton shall sing the German Litany afte
 thereupon followeth a German collect for all manner of need, and lastly the blessing, as above.
 
 So where there was no Supper, the Litany led by a layman took the place of the Communion
-([§13.22.1](#s13-22-1)). At Aschersleben (1575) "the boys shall begin the Litany" (Sehling 2, p. 480).
+([§13.21.1](#s13-21-1)). At Aschersleben (1575) "the boys shall begin the Litany" (Sehling 2, p. 480).
 
 **The sexton's service in the filial churches.** The Saxon General Articles of 1557 gave the
 sexton a reading service where the pastor could not come, and drew the line at preaching.
@@ -69557,7 +69559,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 2:21–24 — [13.7.1](#s13-7-1)
 - 3 — [13.7.2](#s13-7-2)
 - 3:16–19 — [13.7.1](#s13-7-1)
-- 18 — [13.21.7](#s13-21-7)
+- 18 — [13.23.7](#s13-23-7)
 
 <a id="scr-exod"></a>**Exodus**
 
@@ -69566,8 +69568,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-lev"></a>**Leviticus**
 
 - 12 — [13.5](#s13-5)
-- 19:26 — [13.23.3](#s13-23-3)
-- 20:6 — [13.23.3](#s13-23-3)
+- 19:26 — [13.20.3](#s13-20-3)
+- 20:6 — [13.20.3](#s13-20-3)
 - 26 — [13.15.5](#s13-15-5)
 
 <a id="scr-num"></a>**Numbers**
@@ -69579,8 +69581,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 16 — [13.13.1](#s13-13-1)
 - 17 — [13.16.4](#s13-16-4)
-- 18:10–11 — [13.23.3](#s13-23-3)
-- 18:11 — [13.23.2](#s13-23-2)
+- 18:10–11 — [13.20.3](#s13-20-3)
+- 18:11 — [13.20.2](#s13-20-2)
 - 28 — [13.15.5](#s13-15-5)
 
 <a id="scr-1sam"></a>**1 Samuel**
@@ -69599,14 +69601,14 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-job"></a>**Job**
 
-- 19 — [10.12.5](#s10-12-5), [10.12.7](#s10-12-7)
-- 19:25–27 — [10.12.1](#s10-12-1), [10.12.5](#s10-12-5)
+- 19 — [10.9.5](#s10-9-5), [10.9.7](#s10-9-7)
+- 19:25–27 — [10.9.1](#s10-9-1), [10.9.5](#s10-9-5)
 
 <a id="scr-ps"></a>**Psalms**
 
 - 2 — [8.8.6](#s8-8-6)
 - 3 — [8.17.6](#s8-17-6)
-- 5:8 — [10.12.1](#s10-12-1)
+- 5:8 — [10.9.1](#s10-9-1)
 - 8 — [12.12.3](#s12-12-3)
 - 12 — [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.5.2](#s8-5-2)
 - 14 — [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.5.2](#s8-5-2)
@@ -69619,7 +69621,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 32:5 — [3.4.5](#s3-4-5)
 - 33:1–7 — [8.10.4](#s8-10-4)
 - 34:1–23 — [3.3.7](#s3-3-7)
-- 39 — [10.12.5](#s10-12-5)
+- 39 — [10.9.5](#s10-9-5)
 - 43 — [2.3.1](#s2-3-1), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.1](#s3-4-1), [3.7](#s3-7), [7.15.1](#s7-15-1)
 - 43:4 — [3.3.2](#s3-3-2)
 - 51 — [2.5](#s2-5), [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.4](#s8-4), [8.4.5](#s8-4-5), [8.4.7](#s8-4-7), [8.5.2](#s8-5-2), [8.5.3](#s8-5-3), [8.5.7](#s8-5-7), [8.8.5](#s8-8-5), [8.14.6](#s8-14-6), [8.19](#s8-19), [13.16.3](#s13-16-3)
@@ -69635,7 +69637,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 84 — [3.6.1](#s3-6-1), [3.6.2](#s3-6-2), [13.14.3](#s13-14-3)
 - 85 — [3.6.1](#s3-6-1)
 - 86 — [3.6.1](#s3-6-1)
-- 90 — [10.12.5](#s10-12-5), [13.9.3](#s13-9-3)
+- 90 — [10.9.5](#s10-9-5), [13.9.3](#s13-9-3)
 - 91 — [13.8.3](#s13-8-3)
 - 93 — [8.11.5](#s8-11-5)
 - 100 — [8.11.5](#s8-11-5)
@@ -69649,7 +69651,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 113 — [3.5.12](#s3-5-12), [3.5.13](#s3-5-13)
 - 115:1 — [3.3.8](#s3-3-8)
 - 116 — [3.6.1](#s3-6-1), [13.14.3](#s13-14-3)
-- 116:9 — [10.12.1](#s10-12-1)
+- 116:9 — [10.9.1](#s10-9-1)
 - 116:13 — [7.1.1](#s7-1-1), [7.2.6](#s7-2-6), [7.6.12](#s7-6-12), [7.7.2](#s7-7-2)
 - 117 — [8.11.5](#s8-11-5), [13.8.3](#s13-8-3)
 - 118:1 — [3.3.1](#s3-3-1)
@@ -69673,11 +69675,11 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-isa"></a>**Isaiah**
 
-- 6 — [2.10.3](#s2-10-3), [8.12](#s8-12), [13.21.7](#s13-21-7)
-- 8:19 — [13.23.2](#s13-23-2)
-- 9 — [13.21.2](#s13-21-2)
+- 6 — [2.10.3](#s2-10-3), [8.12](#s8-12), [13.23.7](#s13-23-7)
+- 8:19 — [13.20.2](#s13-20-2)
+- 9 — [13.23.2](#s13-23-2)
 - 28 — [8.18.7](#s8-18-7)
-- 38:10–20 — [10.12.1](#s10-12-1), [10.12.5](#s10-12-5)
+- 38:10–20 — [10.9.1](#s10-9-1), [10.9.5](#s10-9-5)
 - 40 — [4.5.1](#s4-5-1)
 - 49 — [15.10.1](#s15-10-1)
 - 49:23 — [15.10.1](#s15-10-1)
@@ -69693,7 +69695,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 3 — [18.5.1](#s18-5-1)
 - 33:11 — [3.5.11](#s3-5-11)
-- 37 — [10.12.5](#s10-12-5)
+- 37 — [10.9.5](#s10-9-5)
 
 <a id="scr-hos"></a>**Hosea**
 
@@ -69706,14 +69708,14 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-2macc"></a>**2 Maccabees**
 
-- 12:43–45 — [10.12.2](#s10-12-2)
+- 12:43–45 — [10.9.2](#s10-9-2)
 
 <a id="scr-matt"></a>**Matthew**
 
-- 1 — [13.21.2](#s13-21-2)
+- 1 — [13.23.2](#s13-23-2)
 - 2 — [12.5.3](#s12-5-3)
 - 2:10–11 — [8.6.4.7](#s8-6-4-7)
-- 3 — [12.8.9](#s12-8-9), [12.11.5](#s12-11-5), [13.21.7](#s13-21-7)
+- 3 — [12.8.9](#s12-8-9), [12.11.5](#s12-11-5), [13.23.7](#s13-23-7)
 - 3:16 — [8.6.4.7](#s8-6-4-7)
 - 6 — [7.1.2](#s7-1-2), [7.8.5](#s7-8-5)
 - 6:7 — [7.8.5](#s7-8-5)
@@ -69726,7 +69728,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 18:15–18 — [16.6.1](#s16-6-1)
 - 18:19 — [6.5](#s6-5)
 - 19 — [13.7.2](#s13-7-2), [13.7.3](#s13-7-3), [13.7.10](#s13-7-10)
-- 24–25 — [13.22.5](#s13-22-5)
+- 24–25 — [13.21.5](#s13-21-5)
 - 27:46 — [3.5.10](#s3-5-10)
 - 28 — [13.10.5](#s13-10-5)
 
@@ -69740,14 +69742,14 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 1 — [8.16.5](#s8-16-5)
 - 1:35 — [7.14.4](#s7-14-4)
 - 1:39–56 — [12.8.2](#s12-8-2)
-- 2 — [13.21.2](#s13-21-2)
+- 2 — [13.23.2](#s13-23-2)
 - 7 — [12.8.8](#s12-8-8)
 - 7:36–50 — [12.8.8](#s12-8-8)
-- 10:5 — [13.23.2](#s13-23-2)
+- 10:5 — [13.20.2](#s13-20-2)
 - 11:1 — [7.8.5](#s7-8-5)
 - 17 — [7.4.3](#s7-4-3)
 - 22 — [7.14.7](#s7-14-7)
-- 22:17 — [7.2.6](#s7-2-6), [7.6.12](#s7-6-12), [13.20.5](#s13-20-5)
+- 22:17 — [7.2.6](#s7-2-6), [7.6.12](#s7-6-12), [13.22.5](#s13-22-5)
 - 22:19 — [7.3.2](#s7-3-2), [7.4.2](#s7-4-2)
 
 <a id="scr-john"></a>**John**
@@ -69762,10 +69764,10 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 6:54 — [3.5.14.3](#s3-5-14-3)
 - 6:56 — [3.5.6](#s3-5-6), [3.5.14.3](#s3-5-14-3)
 - 8 — [3.5.13](#s3-5-13)
-- 11:25 — [10.12.5](#s10-12-5)
-- 11:25–26 — [10.12.1](#s10-12-1)
-- 12 — [10.12.5](#s10-12-5)
-- 13 — [13.21.4](#s13-21-4)
+- 11:25 — [10.9.5](#s10-9-5)
+- 11:25–26 — [10.9.1](#s10-9-1)
+- 12 — [10.9.5](#s10-9-5)
+- 13 — [13.23.4](#s13-23-4)
 - 14–18 — [2.4.7](#s2-4-7)
 - 14:27 — [7.7.2](#s7-7-2), [7.12.5](#s7-12-5)
 - 15:26–16:4 — [7.10](#s7-10)
@@ -69803,7 +69805,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 5:10 — [3.5.14.2](#s3-5-14-2)
 - 5:19 — [4.A.5](#s4-a-5)
 - 6:23 — [3.5.6](#s3-5-6)
-- 11 — [13.22.6](#s13-22-6)
+- 11 — [13.21.6](#s13-21-6)
 - 11:33–36 — [7.10](#s7-10)
 - 12:1 — [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.5.1](#s7-5-1)
 - 13 — [13.13.1](#s13-13-1)
@@ -69832,17 +69834,17 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 12:28 — [16.6.3](#s16-6-3)
 - 14 — [8.18.7](#s8-18-7), [9.3.7](#s9-3-7), [12.11.1](#s12-11-1), [16.9.2](#s16-9-2), [16.10](#s16-10)
 - 14:34 — [16.1](#s16-1), [16.9.1](#s16-9-1), [16.9.2](#s16-9-2)
-- 15 — [10.12.5](#s10-12-5)
+- 15 — [10.9.5](#s10-9-5)
 
 <a id="scr-2cor"></a>**2 Corinthians**
 
-- 3 — [13.22.6](#s13-22-6)
+- 3 — [13.21.6](#s13-21-6)
 - 13:13 — [2.13.2](#s2-13-2), [11.10.3](#s11-10-3)
 
 <a id="scr-gal"></a>**Galatians**
 
 - 2:9 — [17.7.4](#s17-7-4)
-- 5:20 — [13.23.4](#s13-23-4)
+- 5:20 — [13.20.4](#s13-20-4)
 
 <a id="scr-eph"></a>**Ephesians**
 
@@ -69863,10 +69865,10 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-1thess"></a>**1 Thessalonians**
 
-- 4 — [10.12.5](#s10-12-5), [13.9](#s13-9), [13.9.1](#s13-9-1), [13.9.2](#s13-9-2)
-- 4:13 — [10.12.5](#s10-12-5)
+- 4 — [10.9.5](#s10-9-5), [13.9](#s13-9), [13.9.1](#s13-9-1), [13.9.2](#s13-9-2)
+- 4:13 — [10.9.5](#s10-9-5)
 - 4:13–18 — [13.9.3](#s13-9-3)
-- 5 — [10.12.5](#s10-12-5)
+- 5 — [10.9.5](#s10-9-5)
 
 <a id="scr-1tim"></a>**1 Timothy**
 
@@ -69976,7 +69978,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 <a id="per-b"></a>**B**
 
-- Babst, Valentin — [10.9.3](#s10-9-3)
+- Babst, Valentin — [10.11.3](#s10-11-3)
 - Bader, Johannes — [1.28.1](#s1-28-1)
 - Banc, Arnaud — [1.31.3](#s1-31-3), [15.11.6](#s15-11-6), [15.13](#s15-13), [18.11.4](#s18-11-4)
 - Barnim IX, Duke of Pomerania — [1.9.4](#s1-9-4)
@@ -69989,13 +69991,13 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Bieberstein, Johann von — [1.8.5](#s1-8-5)
 - Blarer, Ambrosius — [1.3.3](#s1-3-3), [1.25.3](#s1-25-3), [1.26.2](#s1-26-2), [1.26.3](#s1-26-3)
 - Bode, Michael — [16.5.2](#s16-5-2)
-- Bonnus, Hermann — [1.13.5](#s1-13-5), [6.12](#s6-12), [10.1](#s10-1), [10.4.2](#s10-4-2), [10.6.2](#s10-6-2), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.12.4](#s10-12-4), [10.12.7](#s10-12-7), [10.13](#s10-13), [10.14](#s10-14)
+- Bonnus, Hermann — [1.13.5](#s1-13-5), [6.12](#s6-12), [10.1](#s10-1), [10.4.2](#s10-4-2), [10.6.2](#s10-6-2), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.9.4](#s10-9-4), [10.9.7](#s10-9-7), [10.13](#s10-13), [10.14](#s10-14)
 - Bora, Katharina von — [10.4.4](#s10-4-4)
-- Brenz, Johannes — [Introduction](#repo-prayers-rules), [1.5](#s1-5), [1.26.4](#s1-26-4), [2.15.3](#s2-15-3), [6.1.4](#s6-1-4), [6.3](#s6-3), [6.4](#s6-4), [6.5](#s6-5), [6.6](#s6-6), [8.7.3](#s8-7-3), [8.14.7](#s8-14-7), [8.19](#s8-19), [10.1](#s10-1), [10.10.5](#s10-10-5), [10.12.1](#s10-12-1), [10.12.6](#s10-12-6), [11.8.2](#s11-8-2), [12.2.3](#s12-2-3), [12.3.5](#s12-3-5), [12.7.3](#s12-7-3), [12.16](#s12-16), [13.3.5](#s13-3-5), [14.1](#s14-1), [14.7.2](#s14-7-2), [14.9](#s14-9), [15.11.6](#s15-11-6), [17.13](#s17-13)
+- Brenz, Johannes — [Introduction](#repo-prayers-rules), [1.5](#s1-5), [1.26.4](#s1-26-4), [2.15.3](#s2-15-3), [6.1.4](#s6-1-4), [6.3](#s6-3), [6.4](#s6-4), [6.5](#s6-5), [6.6](#s6-6), [8.7.3](#s8-7-3), [8.14.7](#s8-14-7), [8.19](#s8-19), [10.1](#s10-1), [10.9.1](#s10-9-1), [10.9.6](#s10-9-6), [10.10.5](#s10-10-5), [11.8.2](#s11-8-2), [12.2.3](#s12-2-3), [12.3.5](#s12-3-5), [12.7.3](#s12-7-3), [12.16](#s12-16), [13.3.5](#s13-3-5), [14.1](#s14-1), [14.7.2](#s14-7-2), [14.9](#s14-9), [15.11.6](#s15-11-6), [17.13](#s17-13)
 - Bucanus, Wilhelm — [15.7.4](#s15-7-4)
 - Bucer, Martin — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.16.1](#s1-16-1), [1.26.2](#s1-26-2), [1.30.1](#s1-30-1), [1.33.1](#s1-33-1), [6.1.4](#s6-1-4), [7.5](#s7-5), [7.5.3](#s7-5-3), [13.6.2](#s13-6-2), [13.6.6](#s13-6-6), [14.4.4](#s14-4-4), [16.6](#s16-6), [16.6.2](#s16-6-2), [17.17.1](#s17-17-1)
 - Buchholtzer, Georg — [1.8.6](#s1-8-6)
-- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.1](#s10-9-1), [10.11.2](#s10-11-2), [10.12.2](#s10-12-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.4](#s13-20-4), [13.21.4](#s13-21-4), [13.23.1](#s13-23-1), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9.4](#s16-9-4), [16.10](#s16-10), [16.11](#s16-11), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
+- Bugenhagen, Johannes — [Introduction](#repo-prayers-findings), [1.6.6](#s1-6-6), [1.11.2](#s1-11-2), [2.1](#s2-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [2.6.3](#s2-6-3), [2.8](#s2-8), [2.9.1](#s2-9-1), [2.9.4](#s2-9-4), [2.13.1](#s2-13-1), [2.15.3](#s2-15-3), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.3](#s3-3-3), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.6.1](#s4-6-1), [4.7.3](#s4-7-3), [4.8.2](#s4-8-2), [4.10.2](#s4-10-2), [6.3](#s6-3), [6.12](#s6-12), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3.6](#s7-3-6), [7.15](#s7-15), [7.15.1](#s7-15-1), [7.15.2](#s7-15-2), [7.15.3](#s7-15-3), [7.15.4](#s7-15-4), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.3.4](#s8-3-4), [8.4.1](#s8-4-1), [8.4.3](#s8-4-3), [8.4.6](#s8-4-6), [8.6.3](#s8-6-3), [8.7.1](#s8-7-1), [8.7.3](#s8-7-3), [8.9.2](#s8-9-2), [8.9.5](#s8-9-5), [8.10.2](#s8-10-2), [8.12](#s8-12), [8.14.3](#s8-14-3), [8.14.4](#s8-14-4), [8.14.6](#s8-14-6), [8.15.1](#s8-15-1), [8.16.3](#s8-16-3), [8.18.2](#s8-18-2), [8.18.7](#s8-18-7), [8.19](#s8-19), [10.1](#s10-1), [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.5.2](#s10-5-2), [10.7.1](#s10-7-1), [10.7.3](#s10-7-3), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.11.1](#s10-11-1), [10.12.2](#s10-12-2), [12.1.1](#s12-1-1), [12.3.3](#s12-3-3), [12.5.4](#s12-5-4), [12.7](#s12-7), [12.8.9](#s12-8-9), [12.9.1](#s12-9-1), [12.11.5](#s12-11-5), [12.12.5](#s12-12-5), [12.16](#s12-16), [13.4.2](#s13-4-2), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.15.3](#s13-15-3), [13.19.1](#s13-19-1), [13.20.1](#s13-20-1), [13.22.4](#s13-22-4), [13.23.4](#s13-23-4), [14.4.1](#s14-4-1), [14.9](#s14-9), [16.1](#s16-1), [16.2](#s16-2), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.4](#s16-5-4), [16.9.4](#s16-9-4), [16.10](#s16-10), [16.11](#s16-11), [18.1.1](#s18-1-1), [18.6.1](#s18-6-1)
 - Burck, Joachim a — [8.16.9](#s8-16-9)
 
 <a id="per-c"></a>**C**
@@ -70021,7 +70023,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Daser, Ludwig — [4.10.4](#s4-10-4)
 - Decius, Nikolaus — [2.7.2](#s2-7-2), [7.1.2](#s7-1-2), [7.13.3](#s7-13-3), [8.1.1](#s8-1-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.12](#s8-12), [8.12.2](#s8-12-2), [8.15](#s8-15)
 - Dietrich, Heinrich — [18.7.1](#s18-7-1)
-- Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.12.1](#s10-12-1), [10.14](#s10-14), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.20.5](#s13-20-5), [13.22.2](#s13-22-2), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.9.2](#s16-9-2), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11)
+- Dietrich, Veit — [Introduction](#repo-prayers-scope), [1.19.5](#s1-19-5), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.4](#s3-4-4), [3.5.2](#s3-5-2), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.3.1](#s4-3-1), [4.11](#s4-11), [4.12](#s4-12), [5.1](#s5-1), [5.4.4](#s5-4-4), [5.7](#s5-7), [5.8](#s5-8), [6.4](#s6-4), [6.8](#s6-8), [8.10.3](#s8-10-3), [8.14.6](#s8-14-6), [8.19](#s8-19), [10.1](#s10-1), [10.7.1](#s10-7-1), [10.8.2](#s10-8-2), [10.9.1](#s10-9-1), [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.14](#s10-14), [12.6.4](#s12-6-4), [12.8.3](#s12-8-3), [12.16](#s12-16), [13.1.2](#s13-1-2), [13.4.1](#s13-4-1), [13.8.3](#s13-8-3), [13.8.4](#s13-8-4), [13.8.6](#s13-8-6), [13.9.1](#s13-9-1), [13.17.1](#s13-17-1), [13.18.4](#s13-18-4), [13.21.2](#s13-21-2), [13.22.5](#s13-22-5), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.7.1](#s16-7-1), [16.9.2](#s16-9-2), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11)
 - Döber, Andreas — [1.19.1](#s1-19-1), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.13.2](#s2-13-2), [2.15.7](#s2-15-7), [2.15.10](#s2-15-10), [2.16](#s2-16), [Chapter 3](#ch3), [3.1](#s3-1), [3.2](#s3-2), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.2](#s3-4-2), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.4.5](#s3-4-5), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.7](#s3-7), [3.8](#s3-8), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.2](#s7-3-2), [7.5](#s7-5), [7.5.1](#s7-5-1), [7.7](#s7-7), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.8.7](#s7-8-7), [7.8.11](#s7-8-11), [7.11](#s7-11), [7.11.3](#s7-11-3), [7.15.4](#s7-15-4), [8.5.3](#s8-5-3), [8.19](#s8-19)
 - Döberlein, Wolfgang — [13.14.3](#s13-14-3)
 - Dressler, Gallus — [4.10.4](#s4-10-4), [13.14.3](#s13-14-3)
@@ -70068,10 +70070,10 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Georg I, Landgrave of Hesse-Darmstadt — [1.16.2](#s1-16-2)
 - Georg II, Duke of Brieg — [1.8.6](#s1-8-6)
 - Georg III, Prince of Anhalt — [1.7.13](#s1-7-13), [8.11.4](#s8-11-4), [13.10.3](#s13-10-3), [13.11.4](#s13-11-4), [13.25](#s13-25)
-- Georg Ernst, Count of Henneberg — [1.7.9](#s1-7-9), [3.5.3](#s3-5-3), [3.8](#s3-8), [5.4.2](#s5-4-2), [5.9](#s5-9), [6.8](#s6-8), [10.11.7](#s10-11-7), [10.14](#s10-14), [11.14](#s11-14), [12.2.3](#s12-2-3), [12.6.3](#s12-6-3), [13.2.3](#s13-2-3), [13.4.3](#s13-4-3), [13.25](#s13-25), [17.6.2](#s17-6-2), [17.18](#s17-18), [17.19](#s17-19), [18.5.2](#s18-5-2), [18.13](#s18-13), [18.14](#s18-14)
+- Georg Ernst, Count of Henneberg — [1.7.9](#s1-7-9), [3.5.3](#s3-5-3), [3.8](#s3-8), [5.4.2](#s5-4-2), [5.9](#s5-9), [6.8](#s6-8), [10.12.7](#s10-12-7), [10.14](#s10-14), [11.14](#s11-14), [12.2.3](#s12-2-3), [12.6.3](#s12-6-3), [13.2.3](#s13-2-3), [13.4.3](#s13-4-3), [13.25](#s13-25), [17.6.2](#s17-6-2), [17.18](#s17-18), [17.19](#s17-19), [18.5.2](#s18-5-2), [18.13](#s18-13), [18.14](#s18-14)
 - Georg Friedrich, Count of Hohenlohe — [13.14.2](#s13-14-2)
 - Georg Johann, Count Palatine of Veldenz — [6.5](#s6-5), [6.6](#s6-6)
-- Geschmus, Augustin — [10.12.3](#s10-12-3), [10.12.7](#s10-12-7)
+- Geschmus, Augustin — [10.9.3](#s10-9-3), [10.9.7](#s10-9-7)
 - Gesius, Bartholomäus — [8.A.1](#s8-a-1)
 - Geyer, Hans — [13.12.2](#s13-12-2)
 - Goltz, Joachim — [1.8.4](#s1-8-4)
@@ -70087,7 +70089,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Hamelmann, Hermann — [17.10.4](#s17-10-4)
 - Hanssen, Paul — [1.13.9](#s1-13-9), [9.4.2](#s9-4-2)
 - Hardenberg, Albert — [1.3.3](#s1-3-3), [1.15.3](#s1-15-3)
-- Hausmann, Nicolaus — [1.7.3](#s1-7-3), [12.4.6](#s12-4-6), [12.5.7](#s12-5-7), [12.6.1](#s12-6-1), [12.8.1](#s12-8-1), [12.8.3](#s12-8-3), [12.8.4](#s12-8-4), [12.16](#s12-16), [13.21.2](#s13-21-2), [13.25](#s13-25)
+- Hausmann, Nicolaus — [1.7.3](#s1-7-3), [12.4.6](#s12-4-6), [12.5.7](#s12-5-7), [12.6.1](#s12-6-1), [12.8.1](#s12-8-1), [12.8.3](#s12-8-3), [12.8.4](#s12-8-4), [12.16](#s12-16), [13.23.2](#s13-23-2), [13.25](#s13-25)
 - Hefentreger, Johann — [1.17.2](#s1-17-2)
 - Hegenwalt, Erhart — [8.4.5](#s8-4-5)
 - Heinrich, Archbishop of Bremen — [1.13.1](#s1-13-1)
@@ -70116,7 +70118,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 - Janken (brother of Paul Hanssen) — [9.4.2](#s9-4-2)
 - Joachim, Prince of Anhalt — [1.7.13](#s1-7-13)
-- Joachim II, Elector of Brandenburg — [1.8.1](#s1-8-1), [4.12](#s4-12), [5.9](#s5-9), [6.16](#s6-16), [Chapter 7](#ch7), [7.12](#s7-12), [10.4.2](#s10-4-2), [10.12.5](#s10-12-5), [10.14](#s10-14), [12.5.7](#s12-5-7), [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.21.3](#s13-21-3), [13.25](#s13-25), [16.4.1](#s16-4-1), [16.11](#s16-11)
+- Joachim II, Elector of Brandenburg — [1.8.1](#s1-8-1), [4.12](#s4-12), [5.9](#s5-9), [6.16](#s6-16), [Chapter 7](#ch7), [7.12](#s7-12), [10.4.2](#s10-4-2), [10.9.5](#s10-9-5), [10.14](#s10-14), [12.5.7](#s12-5-7), [13.3.2](#s13-3-2), [13.6.4](#s13-6-4), [13.15.2](#s13-15-2), [13.17.3](#s13-17-3), [13.18.2](#s13-18-2), [13.18.4](#s13-18-4), [13.23.3](#s13-23-3), [13.25](#s13-25), [16.4.1](#s16-4-1), [16.11](#s16-11)
 - Joachim Ernst, Prince of Anhalt — [17.6.6](#s17-6-6)
 - Joachim Friedrich, Duke of Liegnitz and Brieg — [1.8.6](#s1-8-6)
 - Johann, Elector of Saxony — [1.6.3](#s1-6-3), [17.6.1](#s17-6-1)
@@ -70124,7 +70126,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Johann I, Count Palatine of Zweibrücken — [17.12.4](#s17-12-4)
 - Johann III, Duke of Jülich-Cleves-Berg — [1.3.6](#s1-3-6)
 - Johann IV, Prince of Anhalt — [1.7.13](#s1-7-13), [8.11.4](#s8-11-4)
-- Johann VI, Count of Nassau-Dillenburg — [1.18.1](#s1-18-1), [13.12.7](#s13-12-7), [13.23.6](#s13-23-6)
+- Johann VI, Count of Nassau-Dillenburg — [1.18.1](#s1-18-1), [13.12.7](#s13-12-7), [13.20.6](#s13-20-6)
 - Johann Adolf, Duke of Holstein-Gottorp — [11.9.3](#s11-9-3), [17.8.4](#s17-8-4)
 - Johann Albrecht, Count of Solms-Braunfels — [16.6.3](#s16-6-3)
 - Johann Albrecht I, Duke of Mecklenburg — [14.6.6](#s14-6-6)
@@ -70136,7 +70138,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Johann Georg, Prince of Anhalt — [1.3.3](#s1-3-3), [1.7.13](#s1-7-13), [12.15](#s12-15), [12.16](#s12-16), [14.5.2](#s14-5-2), [14.9](#s14-9), [14.10](#s14-10)
 - Johann the Elder, Duke of Schleswig-Holstein — [14.5.7](#s14-5-7)
 - Johann Wilhelm, Duke of Saxony — [1.6.3](#s1-6-3), [11.12.2](#s11-12-2), [17.6.1](#s17-6-1), [17.19](#s17-19)
-- Jonas, Justus — [1.7.8](#s1-7-8), [1.7.13](#s1-7-13), [1.21.3](#s1-21-3), [3.3.2](#s3-3-2), [3.8](#s3-8), [4.12](#s4-12), [8.8.9](#s8-8-9), [8.16.1](#s8-16-1), [8.17.6](#s8-17-6), [8.18.5](#s8-18-5), [8.19](#s8-19), [9.3.3](#s9-3-3), [9.6](#s9-6), [9.7](#s9-7), [10.14](#s10-14), [13.22.3](#s13-22-3), [14.6.3](#s14-6-3), [14.9](#s14-9), [14.10](#s14-10), [16.4.2](#s16-4-2), [16.10](#s16-10), [16.11](#s16-11)
+- Jonas, Justus — [1.7.8](#s1-7-8), [1.7.13](#s1-7-13), [1.21.3](#s1-21-3), [3.3.2](#s3-3-2), [3.8](#s3-8), [4.12](#s4-12), [8.8.9](#s8-8-9), [8.16.1](#s8-16-1), [8.17.6](#s8-17-6), [8.18.5](#s8-18-5), [8.19](#s8-19), [9.3.3](#s9-3-3), [9.6](#s9-6), [9.7](#s9-7), [10.14](#s10-14), [13.21.3](#s13-21-3), [14.6.3](#s14-6-3), [14.9](#s14-9), [14.10](#s14-10), [16.4.2](#s16-4-2), [16.10](#s16-10), [16.11](#s16-11)
 - Joris, David — [1.34.1](#s1-34-1)
 - Josquin des Prez — [4.1](#s4-1), [4.10.4](#s4-10-4)
 - Judex, Johannes — [17.10.4](#s17-10-4)
@@ -70163,7 +70165,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Lambert, Francis — [16.3.2](#s16-3-2)
 - Lasco, John a — [Introduction](#repo-prayers-findings), [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.3.3](#s1-3-3), [1.3.4](#s1-3-4), [1.13.7](#s1-13-7), [1.13.9](#s1-13-9), [2.15.3](#s2-15-3), [3.4.4](#s3-4-4), [3.5.10](#s3-5-10), [6.3](#s6-3), [6.21](#s6-21), [7.1.1](#s7-1-1), [7.1.3](#s7-1-3), [16.6.2](#s16-6-2)
 - Lassus, Orlande de — [4.1](#s4-1), [4.10.4](#s4-10-4), [4.11](#s4-11), [8.16.9](#s8-16-9), [13.14.3](#s13-14-3)
-- Lauterbach, Anton — [1.6.6](#s1-6-6), [8.8.7](#s8-8-7), [8.19](#s8-19), [10.12.5](#s10-12-5), [10.14](#s10-14)
+- Lauterbach, Anton — [1.6.6](#s1-6-6), [8.8.7](#s8-8-7), [8.19](#s8-19), [10.9.5](#s10-9-5), [10.14](#s10-14)
 - Lehmann, Anna (widow of Georg Lehmann) — [16.9.4](#s16-9-4)
 - Leo I, Pope — [17.3.1](#s17-3-1), [17.11.1](#s17-11-1), [17.18](#s17-18)
 - Leyden, Peter van — [16.5.2](#s16-5-2)
@@ -70172,13 +70174,13 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Lobwasser, Ambrosius — [8.1.3](#s8-1-3), [8.10.4](#s8-10-4), [8.11.5](#s8-11-5), [8.14.6](#s8-14-6), [8.16.7](#s8-16-7), [8.19](#s8-19)
 - Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.25](#s13-25), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.10](#s16-10), [16.11](#s16-11)
 - Lorenz (schoolmaster at Frankfurt) — [16.5.2](#s16-5-2)
-- Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.7.5](#s8-7-5), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.13](#s10-13), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
+- Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.7.5](#s8-7-5), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.11.2](#s10-11-2), [10.11.4](#s10-11-4), [10.13](#s10-13), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
 - Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.4](#s8-a-4)
 - Ludwig, Duke of Württemberg — [17.13.2](#s17-13-2)
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
 - Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)
 - Ludwig Casimir, Count of Hohenlohe — [1.23.1](#s1-23-1)
-- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.3](#s10-11-3), [10.11.8](#s10-11-8), [10.12.2](#s10-12-2), [10.13](#s10-13), [10.14](#s10-14), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21.1](#s13-21-1), [13.21.4](#s13-21-4), [13.21.7](#s13-21-7), [13.22](#s13-22), [13.22.2](#s13-22-2), [13.22.3](#s13-22-3), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
+- Luther, Martin — [Introduction](#repo-prayers-scope), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.2](#s10-11-2), [10.11.3](#s10-11-3), [10.11.4](#s10-11-4), [10.12.3](#s10-12-3), [10.12.8](#s10-12-8), [10.13](#s10-13), [10.14](#s10-14), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21](#s13-21), [13.21.2](#s13-21-2), [13.21.3](#s13-21-3), [13.23.1](#s13-23-1), [13.23.4](#s13-23-4), [13.23.7](#s13-23-7), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-m"></a>**M**
 
@@ -70191,7 +70193,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Mathesius, Johannes — [11.4.6](#s11-4-6), [11.8.2](#s11-8-2), [11.13](#s11-13)
 - Maximilian II, Emperor — [1.26.7](#s1-26-7), [1.31.7](#s1-31-7)
 - Meiland, Jakob — [4.10.4](#s4-10-4)
-- Melanchthon, Philip — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.15.3](#s1-15-3), [1.33.1](#s1-33-1), [6.3](#s6-3), [6.9](#s6-9), [10.9.2](#s10-9-2), [11.8.2](#s11-8-2), [13.6.1](#s13-6-1), [13.10.2](#s13-10-2), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.10.1](#s15-10-1), [16.1](#s16-1), [16.5.4](#s16-5-4), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.3.3](#s17-3-3), [17.3.4](#s17-3-4), [17.5](#s17-5), [17.5.1](#s17-5-1), [17.5.2](#s17-5-2), [17.7.1](#s17-7-1), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.2](#s17-8-2), [17.10.4](#s17-10-4), [17.10.5](#s17-10-5), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.4](#s17-11-4), [17.12.5](#s17-12-5), [17.13.1](#s17-13-1), [17.13.3](#s17-13-3), [17.14.1](#s17-14-1)
+- Melanchthon, Philip — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.15.3](#s1-15-3), [1.33.1](#s1-33-1), [6.3](#s6-3), [6.9](#s6-9), [10.11.2](#s10-11-2), [11.8.2](#s11-8-2), [13.6.1](#s13-6-1), [13.10.2](#s13-10-2), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.10.1](#s15-10-1), [16.1](#s16-1), [16.5.4](#s16-5-4), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.3.3](#s17-3-3), [17.3.4](#s17-3-4), [17.5](#s17-5), [17.5.1](#s17-5-1), [17.5.2](#s17-5-2), [17.7.1](#s17-7-1), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.2](#s17-8-2), [17.10.4](#s17-10-4), [17.10.5](#s17-10-5), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.4](#s17-11-4), [17.12.5](#s17-12-5), [17.13.1](#s17-13-1), [17.13.3](#s17-13-3), [17.14.1](#s17-14-1)
 - Mening, Markus — [1.15.3](#s1-15-3), [17.10.5](#s17-10-5), [17.18](#s17-18)
 - Micron, Marten — [1.3.4](#s1-3-4), [1.13.9](#s1-13-9), [3.1](#s3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [6.3](#s6-3), [6.21](#s6-21), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.4](#s9-5-4), [9.6](#s9-6), [9.7](#s9-7), [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.14](#s10-14), [12.13.5](#s12-13-5), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.12.1](#s13-12-1), [13.16](#s13-16), [13.16.7](#s13-16-7), [13.24](#s13-24), [13.25](#s13-25), [14.6.7](#s14-6-7), [15.11.2](#s15-11-2), [16.1](#s16-1), [16.2](#s16-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9.1](#s16-9-1), [16.9.3](#s16-9-3), [16.9.7](#s16-9-7), [16.9.8](#s16-9-8), [16.10](#s16-10), [16.11](#s16-11), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
 - Minkwitz, Hans von — [1.8.5](#s1-8-5)
@@ -70216,7 +70218,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 - Oecolampadius, Johannes — [1.26.2](#s1-26-2), [3.5.12](#s3-5-12)
 - Origen — [18.7.3](#s18-7-3)
-- Osiander, Andreas — [3.1](#s3-1), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.5.7](#s3-5-7), [3.5.14.3](#s3-5-14-3), [3.7](#s3-7), [4.11](#s4-11), [5.5.2](#s5-5-2), [5.8](#s5-8), [6.16](#s6-16), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.8.7](#s7-8-7), [7.12.6](#s7-12-6), [7.14](#s7-14), [7.14.2](#s7-14-2), [7.A](#s7-a), [13.20.3](#s13-20-3)
+- Osiander, Andreas — [3.1](#s3-1), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.5.7](#s3-5-7), [3.5.14.3](#s3-5-14-3), [3.7](#s3-7), [4.11](#s4-11), [5.5.2](#s5-5-2), [5.8](#s5-8), [6.16](#s6-16), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.8.7](#s7-8-7), [7.12.6](#s7-12-6), [7.14](#s7-14), [7.14.2](#s7-14-2), [7.A](#s7-a), [13.22.3](#s13-22-3)
 - Ottheinrich, Elector Palatine — [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [2.4.5](#s2-4-5), [4.8.2](#s4-8-2), [4.12](#s4-12), [6.5](#s6-5), [6.6](#s6-6), [6.16](#s6-16), [7.14](#s7-14), [10.14](#s10-14), [12.10.3](#s12-10-3), [12.16](#s12-16), [13.3.2](#s13-3-2), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.25](#s13-25), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.18](#s17-18), [17.19](#s17-19)
 
 <a id="per-p"></a>**P**
@@ -70224,7 +70226,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Pangratius, Andreas — [13.14.3](#s13-14-3), [14.6.7](#s14-6-7)
 - Pappus, Johannes — [18.4.3](#s18-4-3)
 - Pauli, Simon — [1.10.4](#s1-10-4)
-- Pfeffinger, Johann — [4.12](#s4-12), [6.3](#s6-3), [6.9](#s6-9), [10.11.7](#s10-11-7), [10.14](#s10-14), [14.5.5](#s14-5-5), [14.10](#s14-10), [16.11](#s16-11)
+- Pfeffinger, Johann — [4.12](#s4-12), [6.3](#s6-3), [6.9](#s6-9), [10.12.7](#s10-12-7), [10.14](#s10-14), [14.5.5](#s14-5-5), [14.10](#s14-10), [16.11](#s16-11)
 - Pflacher, Moses — [1.21.4](#s1-21-4)
 - Philipp, Landgrave of Hesse — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.5](#s1-5), [1.16.1](#s1-16-1), [6.1.4](#s6-1-4), [6.11](#s6-11), [11.2](#s11-2), [12.3.2](#s12-3-2), [17.11](#s17-11)
 - Philipp I, Count of Leiningen-Westerburg — [6.5](#s6-5)
@@ -70285,12 +70287,12 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Sigismund II Augustus, King of Poland — [17.7.3](#s17-7-3)
 - Simon VI, Count of Lippe — [1.32.6](#s1-32-6)
 - Spangenberg, Cyriacus — [2.15.3](#s2-15-3)
-- Spangenberg, Johann — [4.10.1](#s4-10-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.3](#s8-6-4-3), [8.6.4.4](#s8-6-4-4), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.1](#s8-a-1), [10.1](#s10-1), [10.2](#s10-2), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.12.6](#s10-12-6), [10.13](#s10-13), [11.4.6](#s11-4-6), [11.8.2](#s11-8-2), [11.13](#s11-13)
+- Spangenberg, Johann — [4.10.1](#s4-10-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.3](#s8-6-4-3), [8.6.4.4](#s8-6-4-4), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.1](#s8-a-1), [10.1](#s10-1), [10.2](#s10-2), [10.9.6](#s10-9-6), [10.11.2](#s10-11-2), [10.11.4](#s10-11-4), [10.13](#s10-13), [11.4.6](#s11-4-6), [11.8.2](#s11-8-2), [11.13](#s11-13)
 - Spengler, Lazarus — [8.18.5](#s8-18-5)
 - Speratus, Paul — [8.11.2](#s8-11-2), [8.16.6](#s8-16-6), [8.18.5](#s8-18-5)
 - Stancarus, Francesco — [17.14.1](#s17-14-1)
 - Staphylus, Friedrich — [18.11.2](#s18-11-2)
-- Stieber, Thomas — [5.9](#s5-9), [10.14](#s10-14), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.5](#s13-20-5), [13.23.1](#s13-23-1), [13.23.5](#s13-23-5), [13.25](#s13-25), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.11](#s16-11), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
+- Stieber, Thomas — [5.9](#s5-9), [10.14](#s10-14), [11.8.2](#s11-8-2), [11.14](#s11-14), [13.8.2](#s13-8-2), [13.20.1](#s13-20-1), [13.20.5](#s13-20-5), [13.22.5](#s13-22-5), [13.25](#s13-25), [14.4.5](#s14-4-5), [14.9](#s14-9), [14.10](#s14-10), [16.11](#s16-11), [18.4.1](#s18-4-1), [18.5.3](#s18-5-3), [18.8.3](#s18-8-3), [18.13](#s18-13), [18.14](#s18-14)
 - Stiphelius, Laurentius — [8.A.1](#s8-a-1)
 - Streitberger, Johann — [9.5.4](#s9-5-4)
 - Sulzer, Simon — [1.31.8](#s1-31-8)
@@ -70372,7 +70374,7 @@ They are not repeated here.
 - **Anabaptists**. The radical movement that rejected infant baptism and baptized believers. The orders proceed against it, save the Münster council's mandate of 1534, which tolerated it. See [§1.3.6](#s1-3-6).
 - **angelicum** (Latin). See *[Kyrie chants](#gl-kyrie-chants)*.
 - **antiphon**. A short sung text, usually from Scripture, sung before and after a psalm or canticle in the office, or on its own.
-- **antiphoner**. The choir book of the chants of the office: antiphons, responsories and hymns. The Lutheran antiphoners of Spangenberg (1545) and Lossius (1553) purged and reprinted the old chant. See [§10.9.2](#s10-9-2).
+- **antiphoner**. The choir book of the chants of the office: antiphons, responsories and hymns. The Lutheran antiphoners of Spangenberg (1545) and Lossius (1553) purged and reprinted the old chant. See [§10.11.2](#s10-11-2).
 - **Auctuarium** (Latin). The *Mehrung der vorigen Kirchenordnung* of Brandenburg-Ansbach (1548), the adaptation of its church order to the Interim, and one of the Interim orders in the set. See [§1.4](#s1-4).
 - **Aufer a nobis** (Latin). "Take away from us [our iniquities]": the prayer the priest said as he went up to the altar after the *Confiteor*. It survives in German in Müntzer's Allstedt Mass, and in Latin after the sermon in the *Cellische Ordnungen* of 1545. See [§3.3.1](#s3-3-1), [§3.3.8](#s3-3-8).
 - **Auslaufen** (German, "running out"). Going across a border to the worship of another confession, for its sermons and sacraments. Every confession forbade its people to do it. See [§18.5.4](#s18-5-4).
@@ -70381,7 +70383,7 @@ They are not repeated here.
 
 - **ban** (German *Bann*). Church discipline by exclusion: the lesser ban kept a sinner from the Lord's Supper, the greater ban (*excommunicatio maior*) from the fellowship of the church. See [§13.16.1](#s13-16-1).
 - **banns**. The public announcement of an intended marriage in church, so that any impediment might be declared. See [§13.7.5](#s13-7-5).
-- **Begängnis** (German). A memorial service for the dead on the seventh or thirtieth day or the anniversary, abolished with the soul-Masses. See [§10.12](#s10-12), [§13.9.1](#s13-9-1).
+- **Begängnis** (German). A memorial service for the dead on the seventh or thirtieth day or the anniversary, abolished with the soul-Masses. See [§10.9](#s10-9), [§13.9.1](#s13-9-1).
 - **Beichtgeld** (German). Confession-money: the offering given to the confessor at private confession. See [§13.17.4](#s13-17-4).
 - **Benedicamus** (Latin). The versicle *Benedicamus Domino*, "Let us bless the Lord", answered *Deo gratias*, which closes the office and, on days without a Gloria, the Mass. The orders kept it, sang it to melodies graded by feast, and put it into German. See [§2.13.1](#s2-13-1), [§8.16.8](#s8-16-8).
 - **Benedictus** (Latin). (1) The Song of Zechariah, the canticle of Lauds. (2) *Benedictus qui venit*, "Blessed is he that cometh", which follows the Sanctus. See [§2.10.3](#s2-10-3), [§8.4.3](#s8-4-3).
@@ -70402,7 +70404,7 @@ They are not repeated here.
 - **cantor**. The master of the choir, usually a schoolmaster, who led the singing of the scholars at Mass and office. See [§13.12.3](#s13-12-3).
 - **cantrix** (Latin; Low German *sengersche*, German *Vorsängerin*). The precentress of a women's convent, who began the antiphons and psalms and ordered the singing of the choir. See [§16.9.6](#s16-9-6).
 - **ceroferarius** (Latin; also *accensor*). The candle-bearer, who carried a candle at the gospel and in processions. See [§16.4.4](#s16-4-4).
-- **charmer** (German *Segner*, *Segensprecher*). One who healed or protected people, cattle and goods with blessings, spoken or written (*Segen*). The orders count charmers among the sorcerers, and bar both them and those who seek them out from the Supper. See [§13.23](#s13-23).
+- **charmer** (German *Segner*, *Segensprecher*). One who healed or protected people, cattle and goods with blessings, spoken or written (*Segen*). The orders count charmers among the sorcerers, and bar both them and those who seek them out from the Supper. See [§13.20](#s13-20).
 - **chasuble** (German *Meßgewand*, *Casel*). The priest's outer vestment at Mass, a wide mantle without sleeves. Many Lutheran orders kept it; the Reformed abolished it. See [§14.7.1](#s14-7-1).
 - **choraliter** (Latin). Sung in plainsong, as against *figuraliter*, in figured music. See [§4.10.4](#s4-10-4).
 - **chrism**. The consecrated mixture of olive oil and balsam used at baptism, confirmation and ordination. The plainer *oil of catechumens* was used before baptism. Only two evangelical orders kept the chrism. See [§13.15.4](#s13-15-4).
@@ -70435,7 +70437,7 @@ They are not repeated here.
 - **deacons of the poor** (Latin *diaconi pauperum*). Laymen chosen to collect and give out the alms. In the Lutheran orders they were often the managers of the common chest. See [§16.5.2](#s16-5-2).
 - **dean** (Latin *decanus*). A minister set over the pastors of a district under the superintendent; in Transylvania the head of a chapter. See [§15.4](#s15-4).
 - **Deutsche Messe** (German). Luther's German Mass of 1526, written for the parishes, and with the *Formula missae* one of the two baselines of the evangelical Mass. See [§2.3.3](#s2-3-3).
-- **devil-conjurer** (German *Teufelsbeschwerer*). One who claimed to command the devil by conjuration, to cast him out or to learn hidden things through him. The orders forbid them with the sorcerers. See [§13.8.7](#s13-8-7), [§13.23.3](#s13-23-3).
+- **devil-conjurer** (German *Teufelsbeschwerer*). One who claimed to command the devil by conjuration, to cast him out or to learn hidden things through him. The orders forbid them with the sorcerers. See [§13.8.7](#s13-8-7), [§13.20.3](#s13-20-3).
 - **Diaconus** (Latin; German *Helfer*, *Kaplan*, *Capellan*). In the Lutheran orders the assistant minister of a parish, an ordained preacher under the pastor, not the deacon of the medieval Mass. See [§16.5.1](#s16-5-1).
 - **dominicale** (Latin). See *[Kyrie chants](#gl-kyrie-chants)*.
 - **Dominus vobiscum** (Latin). "The Lord be with you", the priest's salutation, answered *Et cum spiritu tuo*, "And with thy spirit", before the collect, the Preface and the blessing. See [§2.8](#s2-8).
@@ -70444,7 +70446,7 @@ They are not repeated here.
 <a id="gl-e"></a>**E**
 
 - **early sermon** (German *Frühpredigt*). The first sermon of a Sunday or feast, preached early in the morning before the Mass.
-- **Easter sepulchre**. The "Good Friday grave", in which the host or the crucifix was laid from Good Friday until Easter morning. The orders abolished it. See [§13.20.4](#s13-20-4), and *[acted ceremonies](#gl-acted-ceremonies)*.
+- **Easter sepulchre**. The "Good Friday grave", in which the host or the crucifix was laid from Good Friday until Easter morning. The orders abolished it. See [§13.22.4](#s13-22-4), and *[acted ceremonies](#gl-acted-ceremonies)*.
 - **elevation**. The lifting up of the consecrated host and chalice after the Words of Institution, for the people to see. Many Lutheran orders kept it for a time, often with a bell or a hymn. See [§2.11](#s2-11), [§8.12.3](#s8-12-3).
 - **Ember days** (German *Quatember*, *Fronfasten*). The fast days of the four seasons: the Wednesday, Friday and Saturday after the first Sunday in Lent, after Whitsunday, after Holy Cross Day and after St Lucy's Day. The orders keep them not as fasts but as the four quarter days of the church year, for payments and for preaching the catechism. See [§12.12.7](#s12-12-7).
 - **embolism**. The prayer *Libera nos* ("Deliver us, we beseech thee, O Lord"), which takes up the last petition of the Lord's Prayer in the Mass. See [§7.6.10](#s7-6-10).
@@ -70452,7 +70454,7 @@ They are not repeated here.
 - **Et in terra** (Latin). The Gloria in excelsis from its second clause, "And on earth peace", which the choir takes up after the priest has intoned *Gloria in excelsis Deo*. See [§2.7.2](#s2-7-2).
 - **examen** (Latin; German *Verhör*). An examination: of candidates before ordination, of children in the catechism, of communicants before the Supper. See [§15.7.3](#s15-7-3), [§13.17.4](#s13-17-4).
 - **exhortation** (German *Vermahnung*). A set address to the people, above all the exhortation to the communicants before the Supper. See [§3.5](#s3-5).
-- **exorcism**. The command to the devil at baptism to come out of the child, as in Luther's "Fahr aus, du unreiner Geist". It was kept and defended, and later in the century disputed and in places dropped. The exorcisms of salt, water, oil and chrism were abolished as godless. See [§13.4](#s13-4), [§13.23.1](#s13-23-1).
+- **exorcism**. The command to the devil at baptism to come out of the child, as in Luther's "Fahr aus, du unreiner Geist". It was kept and defended, and later in the century disputed and in places dropped. The exorcisms of salt, water, oil and chrism were abolished as godless. See [§13.4](#s13-4), [§13.20.1](#s13-20-1).
 - **extreme unction**. The anointing of the dying with oil. No evangelical order prescribes it: the Word, the absolution, the Supper and prayer take its place. See [§13.8.1](#s13-8-1).
 
 <a id="gl-f"></a>**F**
@@ -70461,8 +70463,8 @@ They are not repeated here.
 - **Fastnacht** (German). Shrovetide, the carnival before Lent, with its mumming and dancing, which the orders forbade as heathen. See [§12.11.4](#s12-11-4).
 - **festive**, **ferialiter**, **dominicaliter**, **solenniter** (Latin). "In festal, weekday, Sunday or solemn manner": rubrics for the grade of chant and ceremony on a given day. See [§12.4.5](#s12-4-5).
 - **festum fori**, **festum chori** (Latin). A feast "of the court", on which work was forbidden, and a feast "of the choir", kept only in the liturgy. See [§12.4](#s12-4).
-- **figured music** (Latin *figuraliter*, *in mensuris*; German *figurieren*). Polyphony written in measured notes, as against plainsong. See [§10.9.4](#s10-9-4), [§12.10.5](#s12-10-5).
-- **Flectamus genua** (Latin). "Let us bend the knee", the bidding before each of the Good Friday solemn prayers, answered *Levate*, "Arise". See [§13.22.6](#s13-22-6).
+- **figured music** (Latin *figuraliter*, *in mensuris*; German *figurieren*). Polyphony written in measured notes, as against plainsong. See [§10.11.4](#s10-11-4), [§12.10.5](#s12-10-5).
+- **Flectamus genua** (Latin). "Let us bend the knee", the bidding before each of the Good Friday solemn prayers, answered *Levate*, "Arise". See [§13.21.6](#s13-21-6).
 - **formata** (Latin, *litterae formatae*). The letters by which a bishop attested a cleric's ordination. See [§18.7.2](#s18-7-2).
 - **Formula missae** (Latin). Luther's Latin order of the Mass of 1523, the *Formula missae et communionis*, and with the *Deutsche Messe* one of the two baselines of the evangelical Mass. See [§2.3.2](#s2-3-2).
 - **fraction**. The breaking of the host before communion. See [§7.6.11](#s7-6-11).
@@ -70518,7 +70520,7 @@ They are not repeated here.
 - **Leise** (German; plural *Leisen*). A medieval German hymn of the people whose stanzas end *Kyrieleis*, such as "Christ ist erstanden", sung at the high feasts. See [§8.10.2](#s8-10-2).
 - **Lenten veil** (German *Hungertuch*). The cloth hung before the altar or the choir through Lent. See [§14.1](#s14-1).
 - **levites** (German *Leviten*). In the south German imperial cities, the two assistants at the altar, the gospeller and the epistoler, named after the ministers of the Old Testament. Outside the cathedrals they were in practice priests. See [§16.4.3](#s16-4-3).
-- **litany**. A long prayer of petitions, sung by two voices or choirs answering one another. In the orders it is usually Luther's German or Latin litany of 1529, sung on weekdays, on prayer days and in time of war or plague. See [§10.7.5](#s10-7-5), [§13.22](#s13-22).
+- **litany**. A long prayer of petitions, sung by two voices or choirs answering one another. In the orders it is usually Luther's German or Latin litany of 1529, sung on weekdays, on prayer days and in time of war or plague. See [§10.7.5](#s10-7-5), [§13.21](#s13-21).
 - **little hours**. Prime, Terce, Sext and None, the short offices of the first, third, sixth and ninth hours of the day. See [§10.4.2](#s10-4-2).
 - **Loci** (Latin). Melanchthon's *Loci communes*, first published in 1521 and much revised, the handbook of Lutheran doctrine, named in many orders as a standard of teaching. See [§17.5.1](#s17-5-1).
 
@@ -70546,7 +70548,7 @@ They are not repeated here.
 - **octave**. The eighth day after a great feast, or the whole week to that day, kept with the feast's propers. See [§12.4.4](#s12-4-4).
 - **Offene Schuld** (German). "The open guilt": the general confession and absolution of the medieval preaching service, said after the sermon. Several orders moved it into the Mass. See [§3.3.5](#s3-3-5).
 - **offertory**. The chant and prayers at the preparation of the bread and wine. To Luther they "smelled of oblation", and most orders dropped them. See [§4.7](#s4-7).
-- <a id="gl-office-of-the-dead"></a>**Office of the Dead** (Latin *officium defunctorum*; German *Vigilie*). The office for the departed, sung beside the hours of the day: Vespers (*Placebo*), Matins (*Dirige*) with nine lessons from Job, and Lauds. It was sung on the evening or in the night before a requiem Mass, at the burial, on the third, seventh and thirtieth days and at the anniversary. The orders call it the vigil, and abolished it. See [§10.12](#s10-12).
+- <a id="gl-office-of-the-dead"></a>**Office of the Dead** (Latin *officium defunctorum*; German *Vigilie*). The office for the departed, sung beside the hours of the day: Vespers (*Placebo*), Matins (*Dirige*) with nine lessons from Job, and Lauds. It was sung on the evening or in the night before a requiem Mass, at the burial, on the third, seventh and thirtieth days and at the anniversary. The orders call it the vigil, and abolished it. See [§10.9](#s10-9).
 - **Orate fratres** (Latin). "Pray, brethren": the priest's request for the people's prayers at the offertory. See [§7.6.1](#s7-6-1).
 - **Ordnung** (German). An order, the general word for the documents in the set: *Kirchenordnung* (church order), *Gottesdienstordnung* (order of service), *Visitationsordnung* (visitation order), *Konsistorialordnung* (consistory order), *Kirchenzuchtordnung* (order of church discipline), *Schulordnung* (school order). See [§1.2.4](#s1-2-4).
 
@@ -70563,7 +70565,7 @@ They are not repeated here.
 - **Placeat** (Latin). The priest's prayer to the Trinity before the blessing at the end of Mass, *Placeat tibi, sancta Trinitas*. See [§7.2.7](#s7-2-7).
 - **plainsong**. The unaccompanied, single-line chant of the Latin liturgy. See [§4.10](#s4-10).
 - **police order** (German *Polizeiordnung*). An order of public discipline, for dress, feasting, weddings, swearing and Sunday rest. "Police" has its old sense, the good order of a community. See [§1.2.4](#s1-2-4).
-- **poltergeist** (German *Poltergeist*, Low German *poltergeyst*, "rumbling ghost"). A ghost thought to haunt a house with noise and to appear asking for Masses. Bugenhagen's orders hold such ghosts to be devils. See [§13.23.2](#s13-23-2).
+- **poltergeist** (German *Poltergeist*, Low German *poltergeyst*, "rumbling ghost"). A ghost thought to haunt a house with noise and to appear asking for Masses. Bugenhagen's orders hold such ghosts to be devils. See [§13.20.2](#s13-20-2).
 - **postcommunion**. The collect after communion. In the Lutheran orders it was usually Luther's thanksgiving of 1526. See [§5.6](#s5-6).
 - **postil** (German *Postille*). A book of sermons on the Sunday gospels and epistles, from which pastors preached or read, such as Luther's *Hauspostille*. See [§11.8](#s11-8).
 - **prayer bell** (German *Betglocke*). The bell rung morning, noon and evening for prayer, which the orders turned into a bell *pro pace*, for peace, for the government and against the Turk. See [§9.5.3](#s9-5-3).
@@ -70586,7 +70588,7 @@ They are not repeated here.
 <a id="gl-r"></a>**R**
 
 - **recess** (German *Abschied*). The written decisions issued at the end of a visitation, a synod or a diet.
-- **reconciliation of a church** (Latin *reconciliatio*). The rite by which a profaned church or churchyard was purified before it could be used again. No evangelical order has it. See [§13.23](#s13-23).
+- **reconciliation of a church** (Latin *reconciliatio*). The rite by which a profaned church or churchyard was purified before it could be used again. No evangelical order has it. See [§13.20](#s13-20).
 - **Repetitio** (Latin). The *Confessio Saxonica* of 1551, Melanchthon's restatement of the Augsburg Confession for the Council of Trent, part of the *Corpus doctrinae Philippicum*. Naming it marks an order as Philippist or Reformed. See [§17.3.3](#s17-3-3).
 - **responsory**. A chant of response and verse, with the response repeated, sung after a lesson at Matins and elsewhere.
 - **Revers** (German). A signed undertaking by which a minister or church officer bound himself to his duties or his confession on taking office. See [§17.4](#s17-4).
@@ -70602,9 +70604,9 @@ They are not repeated here.
 - **screen** (German *Lettner*, *Schranken*, *Gitter*). The partition, rail or grille that divided the choir from the nave. See [§14.5.7](#s14-5-7).
 - **secret** (Latin *secreta*). The prayer said quietly over the gifts at the end of the offertory, abolished with it. See [§5.5](#s5-5).
 - **Seelfrau** (German, plural *Seelfrauen*). A woman appointed by the town council to nurse the sick and to attend and comfort the dying. See [§16.7.3](#s16-7-3).
-- **Segen** (German). (1) A blessing, as the Aaronic blessing. (2) A charm: a formula, spoken or written, to heal or protect, as the charmers (*Segner*) used it. See [§13.23.3](#s13-23-3).
+- **Segen** (German). (1) A blessing, as the Aaronic blessing. (2) A charm: a formula, spoken or written, to heal or protect, as the charmers (*Segner*) used it. See [§13.20.3](#s13-20-3).
 - **seniores** (Latin; German *Eltesten*). Elders: laymen chosen to keep church discipline with the ministers. In the Reformed orders they governed the church with them. See [§16.6](#s16-6).
-- **Septuagesima** (Latin). The ninth Sunday before Easter, with Sexagesima and Quinquagesima (*Estomihi*) after it: the pre-Lenten season. See [§13.21.7](#s13-21-7).
+- **Septuagesima** (Latin). The ninth Sunday before Easter, with Sexagesima and Quinquagesima (*Estomihi*) after it: the pre-Lenten season. See [§13.23.7](#s13-23-7).
 - **sequence**. A rhymed chant sung after the alleluia on feasts, such as *Victimae paschali* at Easter. The orders cut the sequences back to the chief feasts, or farsed them with German stanzas. See [§4.6.4](#s4-6-4), [§8.8.3](#s8-8-3).
 - **Stipendium** (Latin). A foundation that maintained poor students of theology, as the ducal *Stipendium* at Tübingen. See [§15.7.2](#s15-7-2).
 - **stole**. A long narrow band of cloth worn round the neck by priests and deacons. See [§14.7.3](#s14-7-3).
