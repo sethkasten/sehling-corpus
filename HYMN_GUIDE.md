@@ -374,10 +374,13 @@ a hymn and need all its spellings.
 
 ### `editorial_assignments` — hymns assigned to days the witnesses leave open
 
-Four rows: the hymn the editor of the corpus assigns to Quasimodogeniti
-(*O filii et filiae*), Easter Monday (*Ach bleib bei uns, Herr Jesu Christ*
-and *Christ ist erstanden*) and Pentecost Monday (*Komm, Heiliger Geist,
-Herre Gott*). On these days no hymn has three old witnesses. The
+Five rows: the hymn the editor of the corpus assigns to Quinquagesima
+(*Durch Adams Fall ist ganz verderbt*), Quasimodogeniti (*O filii et
+filiae*), Easter Monday (*Ach bleib bei uns, Herr Jesu Christ* and *Christ
+ist erstanden*) and Pentecost Monday (*Komm, Heiliger Geist, Herre Gott*).
+On Quasimodogeniti and the two Mondays no hymn has three old witnesses. On
+Quinquagesima the old witnesses are divided and no hymn has a quarter of
+them, and the hymn assigned is the one with the most (4 of 17). The
 assignments come from `hymn_tables/editorial.py`. They are **not
 prescriptions**: they are not in `hymn_prescriptions` and are never counted
 as witnesses. The workbook's Compare by day sheet flags them "Assigned".

@@ -152,7 +152,8 @@ def main():
          'Magdeburg 1632) are four witnesses. Krusemark\'s Thompson column, which tallies these lists with others, is not '
          'loaded, so they are not counted twice.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
-         '(Quasimodogeniti, Easter Monday, Pentecost Monday). It is not a witness and is not counted.', BODY),
+         '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
+         'hymn with the most witnesses). It is not a witness and is not counted.', BODY),
         ('', BODY),
         ('See HYMN_GUIDE.md in the repository for the full account.', BODY),
     ]

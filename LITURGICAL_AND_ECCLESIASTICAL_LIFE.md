@@ -1748,7 +1748,8 @@ English name of a canticle or creed. 46 hymns have no English title at all. Wher
 rival English titles, the index's title is taken, and the others are kept in the database.
 
 **Assignments.** On three days where no hymn has three old witnesses, the editor of the database
-assigns a hymn, and two on Easter Monday. These are marked "Assigned" and never counted as
+assigns a hymn, and two on Easter Monday. On Quinquagesima, whose witnesses are divided, the
+editor assigns the hymn with the most of them. These are marked "Assigned" and never counted as
 witnesses.
 
 #### <a id="repo-hymn-index"></a>The Lutheran Hymn Index (`Hymnal Index/hymnal.db`)
@@ -34344,11 +34345,13 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   it stands alone. On Advent 2, *Gott hat das Evangelium* (12), *Es ist gewisslich an der Zeit*
   (8) and *Ihr lieben Christen, freut euch nun* (8) are shown. *Es wird schier der letzte Tag
   herkommen* (7), *Ach Gott, thu dich erbarmen* (5) and *Nun komm* (4) are not.
-- **Days the witnesses leave open.** On Quasimodogeniti, Easter Monday and Pentecost Monday no
-  hymn has three old witnesses. For these three days the table gives the hymn
-  assigned by the editor of the corpus, marked ‡, with the number of old witnesses that do give
-  it. The assignments are kept in a table of their own in [`hymns.db`](#repo-hymns), and flagged "Assigned" in the Compare by day sheet. They are not
-  prescriptions and are not counted as witnesses.
+- **Days the witnesses leave open or divide.** On Quasimodogeniti, Easter Monday and Pentecost
+  Monday no hymn has three old witnesses. On Quinquagesima the old witnesses are divided, and no
+  hymn has a quarter of them. For these four days the table gives the hymn assigned by the
+  editor of the corpus, marked ‡, with the number of old witnesses that do give it. On
+  Quinquagesima the assigned hymn is the one with the most witnesses. The assignments are kept
+  in a table of their own in [`hymns.db`](#repo-hymns), and flagged "Assigned" in the Compare
+  by day sheet. They are not prescriptions and are not counted as witnesses.
 - **Titles.**
   - **Original title:** the hymn's standard spelling from the `hymns` lexicon.
   - **Literal English:** a word-for-word rendering of the incipit.
@@ -34395,6 +34398,7 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 |  | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 9 of 29 |
 | **Sexagesima** | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 9 of 26 |
 |  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 8 of 26 |
+| **Quinquagesima (Estomihi)** | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 4 of 17 ‡ |
 | **Lent 1 (Invocavit)** | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 17 of 27 |
 |  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 14 of 27 |
 |  | *Christe, der du bist Tag und Licht* | Christ, thou who art day and light | Christ, Everlasting Source of Light | 11 of 27 |
@@ -34500,17 +34504,16 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 † Title of Matthew Carver's translation, in *Walther's Hymnal* (2012) or on his blog
 *Hymnoglypt*; no older English hymnal has the hymn.
 
-‡ Assigned by the editor; the old witnesses leave the day open (see [§8.A.2](#s8-a-2)). The figure is the
-number of old witnesses that do give this hymn.
+‡ Assigned by the editor; the old witnesses leave the day open, or on Quinquagesima divide among
+many hymns, of which this one has the most (see [§8.A.2](#s8-a-2)). The figure is the number of
+old witnesses that do give this hymn.
 
 #### <a id="s8-a-4"></a>8.A.4 Notes on the table
 
 - **Days not in the table.** The saints' days not listed (St Paul, St Lawrence, St Martin, All
-  Saints and others) have one old witness or two. Quinquagesima is not listed because its
-  seventeen old witnesses are divided, and no hymn has a quarter of them: *Durch Adams Fall ist
-  ganz verderbt* has four, and *Nun freut euch, lieben Christen gmein* and *Herr Jesu Christ,
-  wahr Mensch und Gott* three each. Naumburg and Nördlingen 1544/1555 give *Es ist das Heil uns
-  kommen her* for the feasts of the Virgin as a class, which is not counted for any one of them.
+  Saints and others) have one old witness or two. Naumburg and Nördlingen 1544/1555 give *Es ist
+  das Heil uns kommen her* for the feasts of the Virgin as a class, which is not counted for any
+  one of them.
 - **The assigned days.** Quasimodogeniti is the one Sunday the old witnesses leave open:
   Liliencron's concordance records only a single coincidence for it, and no hymn has more than
   two old witnesses. Mansfeld 1580 sends it back to the hymns of Easter without naming them.
@@ -34519,7 +34522,10 @@ number of old witnesses that do give this hymn.
   bei uns* and *Christ ist erstanden* on Easter Monday (Bach's Leipzig), and *Komm, Heiliger
   Geist* on Pentecost Monday (Stiller, and Nördlingen 1579, which gives it for Pentecost and the
   Monday). *O filii et filiae* on Quasimodogeniti has no old witness, but it is the usual choice
-  of the modern lists. Maundy Thursday has a hymn of its own witnesses: four of the six give
+  of the modern lists. Quinquagesima has seventeen old witnesses, but they are divided, and no
+  hymn has a quarter of them. The editor assigns *Durch Adams Fall ist ganz verderbt*, which has
+  the most, four; *Nun freut euch, lieben Christen gmein* and *Herr Jesu Christ, wahr Mensch und
+  Gott* have three each. Maundy Thursday has a hymn of its own witnesses: four of the six give
   Luther's Communion hymn (Carpzov, Selnecker, Annaberg 1579 and Magdeburg 1632).
 - **Thin days.** On some days the evidence is divided or sparse, and the "of" figure should be
   read with the count:
@@ -34533,10 +34539,11 @@ number of old witnesses that do give this hymn.
 - **Thompson's lists.** The four lists from Thompson's dissertation give hymns for most days of
   the table. Without them the leading hymn would change on four days: Sexagesima would have two
   hymns tied at its head, Lent 5 would have *Wo Gott der Herr* alone at its head, and Maundy
-  Thursday and St Mary Magdalene would have no hymn of their witnesses. The hymns shown would
-  change on 20 more days. For example:
+  Thursday and St Mary Magdalene would have no hymn of their witnesses. Quinquagesima would need
+  no assignment, since *Durch Adams Fall* would have a quarter of its witnesses (4 of 14). The
+  hymns shown would change on 19 more days. For example:
   - Advent 2 would gain *Es wird schier der letzte Tag herkommen*;
-  - Quinquagesima would have *Durch Adams Fall* (4 of 14);
+  - Easter Day would gain *Erstanden ist der heilige Christ*;
   - Trinity 23 would gain *Wär Gott nicht mit uns diese Zeit*;
   - the apostles' days would have *O Herre Gott, dein göttlich Wort* alone.
 - **What the table shows.**
