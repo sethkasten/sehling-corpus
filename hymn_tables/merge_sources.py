@@ -74,6 +74,21 @@ def source_string(m):
     vias = [v for v in vias if v and v != m['witness']]
     return f"{m['witness']} (via {'; '.join(vias)})" if vias else m['witness']
 
+def provenance(titles):
+    """translation_candidates rows naming where each hymn's English title comes from: the row
+    of the Lutheran Hymn Index, and Matthew Carver's translation where the title is his (in
+    Walther's Hymnal or Liber Hymnorum, or on Hymnoglypt)"""
+    prov = []
+    for k in sorted(titles):
+        if k in index_titles.INDEX:
+            t, hid, cv = index_titles.english(k)
+            prov.append((k, 'common_english', t, 1, f'hymnal_index (row {hid})'
+                         + (f'; matthew_carver_translation ({cv})' if cv else '')))
+        elif k in lexicon.CARVER:
+            t, src = lexicon.CARVER[k]
+            prov.append((k, 'common_english', t, 1, f'matthew_carver_translation ({src})'))
+    return prov
+
 def main():
     db = sqlite3.connect(os.path.join(HERE, '..', 'hymns.db'))
     c = db.cursor()
@@ -102,19 +117,8 @@ def main():
         assert ok and canon == t, t
         c.execute('INSERT OR IGNORE INTO hymns VALUES (?,?,?,?)',
                   (t, lit, com, 'Latin' if t in lexicon.LATIN_EN else 'German'))
-    # provenance of the English titles: the row of the Lutheran Hymn Index, and Matthew Carver's
-    # translation where the title is his (in Walther's Hymnal or Liber Hymnorum, or on Hymnoglypt)
     present = {r[0] for r in c.execute('SELECT canonical_title FROM hymns')}
-    prov = []
-    for k in sorted(present):
-        if k in index_titles.INDEX:
-            t, hid, cv = index_titles.english(k)
-            prov.append((k, 'common_english', t, 1, f'hymnal_index (row {hid})'
-                         + (f'; matthew_carver_translation ({cv})' if cv else '')))
-        elif k in lexicon.CARVER:
-            t, src = lexicon.CARVER[k]
-            prov.append((k, 'common_english', t, 1, f'matthew_carver_translation ({src})'))
-    c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)', prov)
+    c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)', provenance(present))
     db.commit()
     after = c.execute('SELECT COUNT(*) FROM hymn_prescriptions').fetchone()[0]
     print(f'merged rows added : {after - before}  (total {after})')

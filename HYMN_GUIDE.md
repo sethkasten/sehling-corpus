@@ -15,7 +15,7 @@ Chapter 8, whose Appendix 8.A condenses the Compare by day sheet of
 py hymn_tables/build_hymn_db.py
 ```
 
-**`hymns.db` is committed** (1.2 MB), so you can query it straight away
+**`hymns.db` is committed** (1.5 MB), so you can query it straight away
 without building anything. Rebuild only if you change a parser or a
 source.
 
@@ -33,6 +33,7 @@ compilation sources are added by a second step, which must follow it:
 py hymn_tables/build_hymn_db.py
 py hymn_tables/merge_sources.py
 py hymn_tables/merge_krusemark.py
+py hymn_tables/merge_thompson.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -63,26 +64,32 @@ py hymn_tables/parse_liliencron.py       # reads the committed OCR text
 py hymn_tables/parse_ludecus.py          # needs python-docx
 py hymn_tables/parse_hotd_selnecker.py
 py hymn_tables/parse_krusemark.py        # needs PyMuPDF; reads the root PDF
+py hymn_tables/parse_thompson.py         # reads Thompson's eight list files
 ```
 
 Each prints what it found; each also exposes a `parse()`/`parse_all()`
 returning `(occasion, title, source)` tuples, which is how the `rows_*.json`
-files are produced.
+files are produced. `parse_thompson.py` writes `rows_thompson.json` itself,
+with one dict to a row, and `parse_thompson.py --compare` sets its three
+Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **4,534 prescriptions** from **54 witnesses**, in two
+The database holds **4,794 prescriptions** from **57 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
-| Sehling church orders | 865 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 3,669 | later hymnals and modern conflations, read from separate documents |
+| Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
+| Hymnals and compilations | 3,967 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
-centuries later. They are not the same claim.
+centuries later. They are not the same claim. Some lists of the second
+layer are orders too, such as Antwerp's of 1567, but they are not in
+Sehling and are read from a later transcription (*Thompson's lists*,
+below).
 
 ### Witness vs. compilation, and why it matters
 
@@ -126,7 +133,7 @@ all the same kind of document:
 | Pommern, Agenda 1569 (`Sehling 4`, pp. 425–480) | 166 | Low German, per-Sunday, 2–4 options each |
 | Mansfeld, *Kirchen-Agenda* 1580 (`Sehling 2`, pp. 210–247) | 165 | German: by season (Part I), then per Sunday and feast, 2–4 options each (Parts III–IV) |
 | Pfalz-Zweibrücken 1565 (`Sehling 18, I/23`, pp. 337–341) | 121 | German, **3-week rotating cycle** by liturgical slot |
-| Pirna, Lauterbach's *Kirchenordnung*, 1555–1569 (`Sehling 1, Nr. 128`, pp. 642–643) | 80 | German, two hymns per Sunday, Septuagesima → Advent 4; the high feasts mostly Latin |
+| Pirna, Lauterbach's *Kirchenordnung*, 1555–1569 (`Sehling 1, Nr. 128`, pp. 642–643) | 42 | German, two hymns per Sunday, Septuagesima → Advent 4, of which the second (after the epistle) is taken; the high feasts mostly Latin |
 | Nördlingen 1579 (`Sehling 12, VIII.7`, pp. 335–393) | 66 | German, the psalm after the epistle, per Sunday (54); Latin office hymns (12) |
 | Nördlingen, St George's, 1544/1555 (`Sehling 12, VIII.5`, pp. 321–323) | 61 | German, the psalm after the epistle, per Sunday and feast; taken from Naumburg |
 | Hof, *Ordo ecclesiasticus* 1592 (`Sehling 11, IV.20`, pp. 407–477) | 58 | Latin office propers, per-Sunday |
@@ -165,9 +172,10 @@ The hymnals and compilations below are Lutheran too.
 | Source | Rows | Witnesses | What it is |
 |---|---:|---:|---|
 | Liliencron, *de tempore* concordance (pp. 61–77) | 1,823 | 15 | Collates fifteen hymnals, 1545–1694, Sunday by Sunday |
-| Krusemark, *Hymns ABC* (2018) | 1,132 | 20 | Three-year series collating seventeen lists for the LSB one-year lectionary |
+| Krusemark, *Hymns ABC* (2018) | 1,047 | 19 | Three-year series collating seventeen lists for the LSB one-year lectionary |
+| Thompson, dissertation, Appendix 2 | 382 | 4 | His transcriptions of the lists of Antwerp 1567, Annaberg 1579, Eler 1588 and Magdeburg 1632 |
 | Hymn of the Day conflation table | 371 | 12 | Modern table collating Carpzov, Gehrke, SELK, Selnecker, Zion, LW, LSB and others |
-| Ludecus, *Ordo cantionum Germanicarum* (1589) | 310 | 1 | A single order, German incipits with English translation |
+| Ludecus, *Ordo cantionum Germanicarum* (1589) | 311 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
 
 #### Krusemark, and why only part of it is here
@@ -193,7 +201,7 @@ are not read. Holy Innocents (p. 99) is, though its heading is set in
 the text size and not as an occasion heading; it is loaded as
 `Holy Innocents (28 Dec)`.
 
-**Only his Hymn-of-the-Day entries are loaded — 1,132 of 6,749.** His
+**Only his Hymn-of-the-Day entries are loaded — 1,047 of 6,749.** His
 lists also carry opening, distribution, offering and closing hymns, which
 are real data but are *not* chief hymns; mixing them in would destroy the
 meaning of this table. The full extraction, with every entry and its
@@ -214,19 +222,24 @@ recorded here as `Easter 1 (Quasimodogeniti)`. The mapping in
 `merge_krusemark.py` shifts them back; be careful if you re-derive
 occasions from his raw JSON, which preserves his own labels.
 
-**One overlap could not be resolved.** His *Thompson* column is Jason
-Thompson's dissertation appendix, which collates **Ludecus together with
-twelve other 16th-century lists** — and Ludecus is already in this
-database in his own right. Thompson's column does not say which of the
-thirteen a given hymn came from, so those rows cannot be deduplicated
-against the Ludecus rows. They are kept, labelled
-`Thompson, diss. App. 2 (Ludecus + twelve 16th-c. lists)`, and this is the
-one place where a witness may be counted twice. Exclude it if that
-matters to your count:
+**His *Thompson* column is not loaded.** It comes from Jason Thompson's
+dissertation (Appendix 2), which collates **Ludecus with twelve other
+lists**, and Krusemark underlines the hymns that three or more of those
+lists give (his p. 95). So the column is a tally, not a witness. Ludecus is
+in this database in his own right, and Thompson's own transcriptions of
+eight of his lists are loaded or checked against the corpus (*Thompson's
+lists*, below). Counting the column as well would count those lists twice.
+Its rows stay in `rows_krusemark_raw.json`. (Builds before this one loaded
+its underlined rows as the witness `Thompson, diss. App. 2 (Ludecus +
+twelve 16th-c. lists)`, and warned that Ludecus might be counted twice.)
 
-```sql
-SELECT * FROM hymn_prescriptions WHERE source NOT LIKE 'Thompson%';
-```
+The nine lists now loaded, Ludecus and Thompson's eight, account for most
+of the column. Krusemark underlines 84 pairs of a day and a hymn. Counting
+the hymns those lists give for the chief hymn and the sermon, the places
+the column covers, 73 of the 84 pairs are given on the same day by at
+least two of the nine lists, and 44 by three or more. The rest of the
+column's support comes from lists of Thompson's that are not in this
+folder.
 
 **His *Liliencron* is not the Liliencron source above.** Krusemark's is a
 single de tempore plan of c. 1700 taken from Paul Graff; the other is
@@ -239,6 +252,89 @@ Gesius 1601, Leipzig *Geistliche Lieder* 1605, Stiphelius 1607, Augsburg
 1619, Liegnitz 1625–30, Helmstedt 1626, Schein 1627, Erhardi/Frankfurt
 1659, Schleswig-Holstein 1665, Darmstadt 1687, Goslar 1687, Leipzig
 *Kirchenandachten* 1694.
+
+#### Thompson's lists
+
+Jason Thompson, *A Handbook for Reconstructing 16th Century Lutheran
+Masses* (doctoral dissertation, Indiana University, 2013), Appendix 2,
+sets out the hymns of the Sunday and feast services in a number of orders
+and hymnals. Eight of his lists are in `hymn_tables`, one text file to a
+list: the list's name and year on the first line, then one line to a hymn,
+`Occasion, Hymn`. **A hymn whose place in the service is not given in
+parentheses is the chief hymn**; `(introit)`, `(before sermon)`, `(after
+sermon)`, `(postlude)` and `(distribution)` name the others.
+
+| File | In `hymns.db` as | Chief hymns | Other places |
+|---|---|---:|---|
+| `andorff 1567.txt` | `Antwerp (Andorff, 1567)` | 28 | — |
+| `annaberg 1579.txt` | `Annaberg (1579)` | 132 | — |
+| `eler 1588.txt` | `Eler, Cantica sacra (1588)` | 45 | introit, distribution, postlude |
+| `magdeburg 1613.txt` | not loaded | 0 | after the sermon only |
+| `magdeburg 1632.txt` | `Magdeburg (1632)` | 177 | — |
+| `naumburg 1538.txt` | Sehling order, read from the corpus | (48) | introit, before and after the sermon |
+| `anhalt 1551.txt` | Sehling order, read from the corpus | (14) | — |
+| `pirna pre-1569.txt` | Sehling order, read from the corpus | (39) | introit |
+
+*Andorff* is Antwerp, whose Lutheran congregation of the Augsburg
+Confession had its church order printed in 1567. Franz Eler's *Cantica
+sacra* is the Hamburg hymnal of 1588.
+
+`parse_thompson.py` reads the files into `rows_thompson.json`, every place
+in the service included, and `merge_thompson.py` loads the chief hymns of
+the four lists outside Sehling, with the source `Witness (via Thompson,
+diss. App. 2)`. Their `original_title` is Thompson's incipit; their English
+titles come from the lexicon. A list that gives one hymn twice on a day is
+counted once (one row of Magdeburg 1632). Thompson's "Christmastide",
+"Eastertide" and "Trinitytide" are `Christmas season`, `Easter season` and
+`Trinity season`; Appendix 8.A counts the first two for Christmas Day and
+Easter Day, the feasts at their head.
+
+The files are kept as Thompson gives them, and `parse_thompson.py` mends
+their slips: misspelt occasions (`Triniyt 2`, `Quinquagelima`, `Micahel`)
+and places (`intorit`, `psotlude`), misspelt titles (`halleuljah`, `Aus
+tiefre not`), and a few readings set out in its `FIX`:
+- `Allein nach dir Herr Jesu Christ`, which Thompson queries himself, is
+  *Allein zu dir*, as Magdeburg 1632 has it on seven other Sundays;
+- `Der Herr fährt auf mit grossem Schall` is the second line of Alber's
+  Ascension hymn *Nun freut euch, Gottes Kinder, all*;
+- `Der Tag der ist so` and `Christ unser Herr` (on St John the Baptist's
+  day) are openings cut short.
+
+The Latin introits, sequences and tracts, the litany and the Nicene Creed
+are kept in `rows_thompson.json` without a title, as not hymns. A
+reference to another day (`"as on Trinity 4"`) is not followed, as in
+`parse_sunday.py`.
+
+The lists add six hymns to the lexicon:
+- *Kyrie, Gott Vater in Ewigkeit* and *Ich weiß, dass mein Erlöser lebt*,
+  from Magdeburg 1632. The second is not Paul Gerhardt's hymn of that
+  opening, which is later.
+- *O Herr Gott, Schöpfer aller Ding* and *O Gott Vater in Ewigkeit*, from
+  Antwerp.
+- *O Jesu Christ, dein Nam, der ist*, from Antwerp, which Liliencron's
+  hymnals and Ludecus also give and which the lexicon lacked.
+- The Pentecost antiphon *Komm, Heiliger Geist, erfüll die Herzen deiner
+  Gläubigen*, which Antwerp and Ludecus both give beside Luther's *Komm,
+  Heiliger Geist, Herre Gott*. Ludecus's antiphon had been read as Luther's
+  hymn.
+
+**What the lists check.** Three of the lists are Sehling orders that
+`parse_sunday.py` reads from the corpus. `parse_thompson.py --compare`
+sets Thompson's chief hymns beside that reading, day by day:
+
+| Order | Days that agree | Where they differ |
+|---|---:|---|
+| Naumburg 1537/38 | 45 of 47 | Thompson follows the order's "likewise" from Christmas to the Purification, which this database does not follow; and he gives the apostles' hymn to the apostles only, where the order gives it to St John the Baptist too |
+| Anhalt 1551 | 6 of 13 | Thompson spreads the Advent hymn over the four Sundays; takes the Purification hymn, which the order sets before the early sermon and "before the epistle" (corrected from "before the gospel", Sehling notes) and at vespers, where this database takes only the hymn before the gospel; and gives only the first of the nine hymns that the order rotates after Trinity |
+| Pirna | 39 of 42 | Thompson gives no second hymn for Advent 1, 2 and 4, which the order has |
+
+So the corpus reading stands, but for Pirna. Its list names two German
+hymns for most Sundays, and builds before this one took both. Thompson
+marks the first as the introit, and the order's feasts bear him out: for
+the Ascension it names the introit *Viri Galilaei*, the Kyrie, the gradual
+and the sequence, and then *Christ fuhr gen Himmel*. `parse_sunday.py` now
+takes only the last hymn of each Pirna day, and 38 introit hymns have left
+the table.
 
 ## Schema
 
@@ -256,7 +352,7 @@ One row per (occasion, hymn) pair, in liturgical order.
 
 ### `hymns` — the lexicon
 
-One row per distinct hymn (217: 194 German, 23 Latin), from the Sehling
+One row per distinct hymn (223: 200 German, 23 Latin), from the Sehling
 orders and the hymnal and compilation sources alike. `canonical_title`
 is the modern standard spelling; this is what joins the printed variants
 together. Hymns that a source names only in a form the lexicon does not
@@ -270,7 +366,7 @@ using each and the number of distinct printed spellings. Does the
 
 ### `attestations` — printed spelling → canonical hymn
 
-601 rows. The corpus prints the same hymn many different ways
+581 rows. The corpus prints the same hymn many different ways
 (`Nu kum der heiden heiland` / `Nun kom der heiden heiland` /
 `Nun komm der heyden`), and this table records every one of them against
 its canonical identity. Useful if you want to search the corpus text for
@@ -278,14 +374,19 @@ a hymn and need all its spellings.
 
 ### `editorial_assignments` — hymns assigned to days the witnesses leave open
 
-Five rows: the hymn the editor of the corpus assigns to Quasimodogeniti
-(*O filii et filiae*), Maundy Thursday (*Jesus Christus, unser Heiland*),
-Easter Monday (*Ach bleib bei uns, Herr Jesu Christ* and *Christ ist
-erstanden*) and Pentecost Monday (*Komm, Heiliger Geist, Herre Gott*). On
-these days no hymn has three old witnesses. The assignments come from
-`hymn_tables/editorial.py`. They are **not prescriptions**: they are not in
-`hymn_prescriptions` and are never counted as witnesses. The workbook's
-Compare by day sheet flags them "Assigned".
+Five rows: the hymn the editor of the corpus assigns to Quinquagesima
+(*Durch Adams Fall ist ganz verderbt*), Quasimodogeniti (*O filii et
+filiae*), Easter Monday (*Ach bleib bei uns, Herr Jesu Christ* and *Christ
+ist erstanden*) and Pentecost Monday (*Komm, Heiliger Geist, Herre Gott*).
+On Quasimodogeniti and the two Mondays no hymn has three old witnesses. On
+Quinquagesima the old witnesses are divided and no hymn has a quarter of
+them, and the hymn assigned is the one with the most (4 of 17). The
+assignments come from `hymn_tables/editorial.py`. They are **not
+prescriptions**: they are not in `hymn_prescriptions` and are never counted
+as witnesses. The workbook's Compare by day sheet flags them "Assigned".
+Maundy Thursday had an assignment too, Luther's Communion hymn, until
+Thompson's lists of Annaberg 1579 and Magdeburg 1632 gave it the third and
+fourth old witnesses for that hymn, after Carpzov and Selnecker.
 
 ### `translation_candidates` — where each English title comes from
 
@@ -315,9 +416,9 @@ JOIN hymns h ON h.canonical_title = a.canonical_title
 GROUP BY h.canonical_title;
 ```
 
-The correct join is 1:1 — it returns exactly 865 rows, one for each
+The correct join is 1:1 — it returns exactly 827 rows, one for each
 prescription from the Sehling orders, which are the rows `attestations`
-covers. If a `SUM` over your grouping doesn't come to 865, the join is
+covers. If a `SUM` over your grouping doesn't come to 827, the join is
 wrong. The `hymn_prescriptions_by_hymn` view does this correctly
 and is the easier path.
 
@@ -326,7 +427,7 @@ and is the easier path.
 The hymnal and compilation sources cite a hymn in four ways: by its German
 incipit (Liliencron's hymnals, Ludecus), by a Low German or Latin form, by
 an English title only (Selnecker's own account, Carpzov, Bach, the plan of
-c. 1700, Thompson and the modern lists), or by both. One hymn has one
+c. 1700 and the modern lists), or by both. One hymn has one
 identity in all of them:
 
 - **`lexicon.py`** matches printed German, Low German and Latin incipits to
@@ -359,6 +460,9 @@ identity in all of them:
     give for Trinity 10. Moller's hymn is later than Mansfeld's order.
   - *Mag ich dem Tod nicht widerstahn* is not *Mag ich Unglück nicht
     widerstahn*.
+  - The Pentecost antiphon *Komm, Heiliger Geist, erfüll die Herzen deiner
+    Gläubigen* is not Luther's *Komm, Heiliger Geist, Herre Gott*, which
+    grew out of it. Ludecus and Antwerp 1567 give both.
 
 Because the identity of a hymn decides the deduplication key, a witness
 that cites the same hymn on the same day in German and in English is
@@ -367,7 +471,7 @@ his own account, is the main case.
 
 ## Where `common_english` comes from
 
-**132 of the 217 hymns take the title of the Lutheran Hymn Index.** The
+**134 of the 223 hymns take the title of the Lutheran Hymn Index.** The
 folder `Hymnal Index` holds the index: `hymnal.db` has a row for every
 hymn of 34 English Lutheran hymnals and supplements (with Walther's German
 hymnal and its English translation, and *Liber Hymnorum*), and its README
@@ -385,20 +489,20 @@ index calls Luther's Creed hymn *We All Believe in One True God, Maker*,
 to tell it from Clausnitzer's, and `common_english` gives it as the
 hymnals do.
 
-**39 hymns carry the title of Matthew Carver's translation.** Of the
-index titles, 18 are Carver's, from *Walther's Hymnal* (Concordia, 2012),
+**40 hymns carry the title of Matthew Carver's translation.** Of the
+index titles, 19 are Carver's, from *Walther's Hymnal* (Concordia, 2012),
 which he translated, or *Liber Hymnorum* (2016), for hymns that no older
 English book has. For 21 hymns that the index lacks, `common_english`
 gives the title of Carver's translation on his blog *Hymnoglypt*
 (matthaeusglyptes.blogspot.com), as Krusemark prints it with the reference
 "HG" (his pp. 95–96 name Carver as the translator). Each was matched to its
-German hymn by the Ludecus and Thompson entries for the same day. They are
-listed in `hymn_tables/lexicon.py` (`CARVER`).
+German hymn by Ludecus's entries and those of Krusemark's Thompson column
+for the same day. They are listed in `hymn_tables/lexicon.py` (`CARVER`).
 
 **22 other hymns keep the English title their sources give them**, or the
 English name of a canticle or creed (*The Litany*, *Athanasian Creed*).
 
-**42 hymns have no `common_english` at all** (three of them are group
+**46 hymns have no `common_english` at all** (three of them are group
 rubrics such as "the Christmas hymns"). These are hymns that never entered
 the English-language tradition — mostly Low German psalm paraphrases and
 local compositions — and that Matthew Carver has not translated either.
@@ -442,10 +546,12 @@ deliberate scoping decisions, and one gap:
 - **From Naumburg, Nördlingen 1544/1555 and Anhalt, only the hymn after the
   epistle is taken** (Anhalt: "before the gospel"). Their hymns for the
   introit, before and after the sermon, at vespers and on weekdays are left
-  out. Pirna's two German hymns a Sunday are both taken; on its high feasts it
-  gives Latin propers, of which only the named sequences (*Grates nunc
-  omnes*, *Victimae paschali*) are kept. Where Nördlingen 1544/1555 sets a
-  figural piece or a German hymn, only the hymn is taken.
+  out. Of Pirna's two German hymns a Sunday only the second, after the
+  epistle, is taken; the first is sung in the place of the introit (see
+  *Thompson's lists*). On its high feasts it gives Latin propers, of which
+  only the named sequences (*Grates nunc omnes*, *Victimae paschali*) are
+  kept. Where Nördlingen 1544/1555 sets a figural piece or a German hymn,
+  only the hymn is taken.
 - **References to another day are not followed.** Mansfeld's Part IV sends
   Christmas, Easter, Pentecost and Quasimodogeniti back to its season lists in
   Part I; Naumburg and Nördlingen 1544/1555 keep the Circumcision, Epiphany
@@ -464,7 +570,7 @@ small fixed set of ~30 office hymns, so OCR'd Latin is matched against
 `hymn_tables/canon_latin.py` rather than preserved verbatim; anything not
 recognised as a known office hymn is dropped rather than guessed at.
 
-**Three rows were dropped as unresolvable** out of 868 extracted from the
+**Three rows were dropped as unresolvable** out of 830 extracted from the
 Sehling orders — two were page furniture the parser mistook for a title,
 one (`Herre gott`) is too short a fragment to identify. Everything else
 resolved.
@@ -473,8 +579,8 @@ resolved.
 Selnecker's account cite hymns by English title only; they give no German
 incipit, so for those rows `original_title` holds the English title as
 printed and `literal_english` is `NULL`. Filter on
-`source LIKE '%Liliencron%' OR source LIKE 'Sehling%' OR source LIKE 'Ludecus%'`
-if you need German incipits specifically.
+`source LIKE '%Liliencron%' OR source LIKE 'Sehling%' OR source LIKE 'Ludecus%'
+OR source LIKE '%Thompson%'` if you need German incipits specifically.
 
 **Liliencron was OCR'd.** That PDF carries its text as vector outlines
 with no text layer, so no parser can extract it — it is rendered at 300
@@ -494,7 +600,8 @@ distinctions he insists on are honoured: the two Psalm 124 settings
 (Easter vs. Communion), and *Herr Gott, dich loben alle wir* (Eber, on the
 angels) against *Herr Gott, dich loben wir* (the German Te Deum).
 
-**Krusemark's non-chief-hymn entries are not loaded** — see above. And
+**Krusemark's non-chief-hymn entries are not loaded, nor his Thompson
+column** — see above. And
 his PDF lives at the repo root (`Hymns_ABC_Krusemark.pdf`) rather than
 under `hymn_tables/`, since it was committed there; `parse_krusemark.py`
 reads it from that path.

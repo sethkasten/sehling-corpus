@@ -148,9 +148,12 @@ def main():
         ('Grouped days exist: some sources give one entry for "Advent 3 & 4" or "Lent 1-3". These are separate rows from the single days.', BODY),
         ('The same hymn can appear under variant English titles ("Bless" vs "Praise thy Maker") and will not always group.', BODY),
         ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns.', BODY),
-        ('Thompson\'s column collates Ludecus with twelve other 16th-c. lists and cannot be deduplicated against the Ludecus rows.', BODY),
+        ('Thompson: the chief hymns of four lists he transcribes in his dissertation (Antwerp 1567, Annaberg 1579, Eler 1588, '
+         'Magdeburg 1632) are four witnesses. Krusemark\'s Thompson column, which tallies these lists with others, is not '
+         'loaded, so they are not counted twice.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
-         '(Quasimodogeniti, Maundy Thursday, Easter Monday, Pentecost Monday). It is not a witness and is not counted.', BODY),
+         '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
+         'hymn with the most witnesses). It is not a witness and is not counted.', BODY),
         ('', BODY),
         ('See HYMN_GUIDE.md in the repository for the full account.', BODY),
     ]

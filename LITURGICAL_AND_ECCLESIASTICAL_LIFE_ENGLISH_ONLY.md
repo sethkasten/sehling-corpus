@@ -1708,17 +1708,20 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 4,534 prescriptions from 54 witnesses, in two layers that must be kept apart:
-- **The church orders.** 865 prescriptions come from the twelve orders in Sehling that carry a
+The database holds 4,794 prescriptions from 57 witnesses, in two layers that must be kept apart:
+- **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 3,669 prescriptions come from later books and lists:
+- **The hymnals and compilations.** 3,967 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
+  - four lists that Jason Thompson transcribes in his dissertation (*A Handbook for
+    Reconstructing 16th Century Lutheran Masses*, Indiana University, 2013): Antwerp 1567,
+    Annaberg 1579, Franz Eler's *Cantica sacra* (Hamburg, 1588) and Magdeburg 1632;
   - a modern Hymn of the Day table, which collates the schemes of Selnecker, Carpzov and others
     with those of modern hymnals;
   - Krusemark's *Hymns ABC* (2018), of which only the hymns of the day are taken.
@@ -1727,22 +1730,29 @@ An order commands what shall be sung. A hymnal records what was sung, sometimes 
 
 **Witnesses, not books, are counted.** A witness is counted once, whichever compilation it was
 read from. Selnecker, for instance, appears in Liliencron, in the Hymn of the Day table and in
-his own account, and he counts once. One overlap could not be resolved. A column of Krusemark's,
-taken from Jason Thompson's dissertation, collates Ludecus with twelve other lists of the
-sixteenth century without saying which list each hymn came from. Where that column and Ludecus
-agree, Ludecus may be counted twice.
+his own account, and he counts once. For the same reason one column of Krusemark's is left out.
+It comes from Thompson's dissertation, which collates Ludecus with twelve other lists, and it
+marks the hymns that three or more of these lists give. Ludecus is a witness in his own right.
+Of Thompson's other lists, four are witnesses here, read from his transcriptions, and three are
+Sehling orders, read from the corpus. Counting the column as well would count these lists twice.
+
+Thompson's transcriptions of the three Sehling orders (Naumburg, Anhalt and Pirna) were checked
+against the corpus. They bear out its reading. They also showed that the first of Pirna's two
+hymns for a Sunday is sung in the place of the introit, so only the second is taken
+([§8.8.7](#s8-8-7)). `HYMN_GUIDE.md` sets out the comparison.
 
 **Titles.** Each hymn is named by its German or Latin incipit as printed, with a literal English
-rendering, and with its English title where it has one. 132 of the 217 hymns take their title
-from the Lutheran Hymn Index ([below](#repo-hymn-index)). 18 of these titles are Matthew
+rendering, and with its English title where it has one. 134 of the 223 hymns take their title
+from the Lutheran Hymn Index ([below](#repo-hymn-index)). 19 of these titles are Matthew
 Carver's, from *Walther's Hymnal* (2012) or *Liber Hymnorum* (2016), for hymns that no older
 English book has. For 21 hymns that the index lacks, the title of Carver's translation on his
 blog *Hymnoglypt* is given. 22 others keep the English title their sources give them, or the
-English name of a canticle or creed. 42 hymns have no English title at all. Where a hymn has
+English name of a canticle or creed. 46 hymns have no English title at all. Where a hymn has
 rival English titles, the index's title is taken, and the others are kept in the database.
 
-**Assignments.** On four days where no hymn has three old witnesses, the editor of the database
-assigns a hymn, and two on Easter Monday. These are marked "Assigned" and never counted as
+**Assignments.** On three days where no hymn has three old witnesses, the editor of the database
+assigns a hymn, and two on Easter Monday. On Quinquagesima, whose witnesses are divided, the
+editor assigns the hymn with the most of them. These are marked "Assigned" and never counted as
 witnesses.
 
 #### <a id="repo-hymn-index"></a>The Lutheran Hymn Index (`Hymnal Index/hymnal.db`)
@@ -23413,8 +23423,12 @@ Purification unto the Sunday Septuagesima, "In Peace and Joy I Now Depart," etc.
 (Sehling 1, pp. 642–643). The order is undated. Sehling dates it probably after 1555, since its
 passage on the poor and the schools uses the visitation recess of that year, and Lauterbach,
 the first superintendent of Pirna, died in 1569 (Sehling 1, p. 635). It lists two German hymns
-for each Sunday. It says they are arranged by the sense of the Sunday epistles and gospels, and
-may give way to Latin on the high feasts:
+for most Sundays, and the feasts show what the two are for. For the Ascension it names the Latin
+introit *Viri Galilaei*, the Kyrie, the gradual and the sequence, and then the German hymn
+*Christ fuhr gen Himmel* (Christ Rose to Heaven). On a Sunday, then, the first German hymn stands in the place of the
+introit and the second follows the epistle. Jason Thompson reads the list the same way in his
+dissertation, and `hymns.db` takes only the second hymn. The order says the hymns are arranged
+by the sense of the Sunday epistles and gospels, and may give way to Latin on the high feasts:
 
 <!-- doc 119 -->
 
@@ -26949,7 +26963,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Allstedt, Thomas Müntzer, *Deutsch kirchenampt*, [1523] (Radical Reformation) | 1, pp. 475–491 | 50 | German *Benedicamus*, with alleluia at Easter | [8.16.8](#s8-16-8) |
 | Dresden, *Gottesdienst-Ordnung der Kreuzkirche*, 1574 | 1, p. 555 | 78 | all communion hymns sung when communicants are many | [8.14.2](#s8-14-2) |
 | Eisfeld, *Verordnung der Visitatoren*, 1554 | 1, p. 562 | 84 | Hus's hymn at communion | [8.14.1](#s8-14-1) |
-| Pirna, *Kirchenordnung* of Anton Lauterbach, between 1555 and 1569 | 1, pp. 642–643 | 119 | two German hymns per Sunday, by the sense of epistle and gospel (table in [`hymns.db`](#repo-hymns)) | [8.8.7](#s8-8-7) |
+| Pirna, *Kirchenordnung* of Anton Lauterbach, between 1555 and 1569 | 1, pp. 642–643 | 119 | two German hymns per Sunday, for the introit and after the epistle, by the sense of epistle and gospel (table in [`hymns.db`](#repo-hymns)) | [8.8.7](#s8-8-7) |
 | Weissenfels, *Ordnung der geseng*, 1578 | 1, pp. 693–694 | 145 | one hymn per Sunday "that fitteth season and gospel" (table in [`hymns.db`](#repo-hymns)) | [8.8.6](#s8-8-6) |
 | Wittenberg, *Kirchenordnung*, 1533 | 1, pp. 704–705 | 148 | German Benedictus first; farced sequences; communion hymns "until the communion is over"; German Te Deum | [8.4.3](#s8-4-3), [8.6.1](#s8-6-1), [8.8.2](#s8-8-2), [8.14.2](#s8-14-2), [8.16.4](#s8-16-4) |
 | Merseburg, *Ordinations-Ordnung*, 1545 | 2, p. 7 | 1210 | *Veni creator* (Come, Holy Ghost, Creator Blest) at ordination | [8.17.5](#s8-17-5) |
@@ -27147,7 +27161,7 @@ Here the same evidence is cut down in two ways, so that the hymn of each day can
 glance:
 
 - **Only the old sources are counted.** These are the church orders and hymnals of 1537–1694,
-  the Leipzig usage of Bach's time, and the modern studies that do nothing but collate those
+  the Leipzig usage of Bach's time, and a modern study that does nothing but collate those
   older sources. The modern lists, from 1800 onward, are left out.
 - **Only the hymns with significant support are given.** A day with one clear hymn shows that
   hymn alone. A day where support is divided shows each hymn with good support, and none of the
@@ -27159,14 +27173,15 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 54 witnesses in [`hymns.db`](#repo-hymns), 33 are counted as old.
+Of the 57 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
 | Sehling church orders (12) | Naumburg 1537/38; Heilbronn 1543; Nördlingen 1544/1555; Anhalt 1551; Pirna 1555–1569; Pfalz-Zweibrücken 1565; Pomerania, *Agenda*, 1569; Weissenfels 1578; Nördlingen 1579; Mansfeld 1580; Hof 1592; Hohenlohe 1596 |
 | Hymnals collated in Liliencron's *de tempore* (of the season) concordance (15) | Spangenberg 1545; Keuchenthal 1573; Selnecker; Gesius 1601; Leipzig *Geistliche Lieder* 1605; Stiphelius 1607; Augsburg 1619; Liegnitz 1625–30; Helmstedt 1626; Schein 1627; Erhardi, Frankfurt 1659; Schleswig-Holstein 1665; Darmstadt 1687; Goslar 1687; Leipzig *Kirchenandachten* 1694 |
 | Other single orders and schemes (4) | Ludecus, *Ordo cantionum Germanicarum*, 1589; Carpzov (the hymns on which he preached); the *de tempore* plan of c. 1700 printed by Graff; Bach's Leipzig usage (the chorales of his Sunday and festival cantatas) |
-| Modern studies that collate older sources (2) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time); Thompson, dissertation, Appendix 2 (Ludecus with twelve other 16th-century lists) |
+| Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
+| Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
 The other 21 witnesses are modern and are **not counted**. Krusemark explains his own lists on
 pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern witnesses are:
@@ -27182,7 +27197,11 @@ pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern witnesses are:
 Some of the old witnesses reach `hymns.db` through modern compilations. Carpzov, Bach and the
 plan of c. 1700 come through Krusemark or the Hymn of the Day table, and Selnecker through all
 three. Each is counted once, as a witness, whichever book it was read from (Introduction,
-[The hymn database](#repo-hymns)).
+[The hymn database](#repo-hymns)). The lists of Antwerp, Annaberg, Eler and Magdeburg come
+through Thompson's transcriptions. A fifth list outside Sehling that he transcribes, Magdeburg
+1613, gives hymns only for after the sermon and is not a witness here. Krusemark's column from
+Thompson's dissertation is not counted, since it tallies lists that are counted in their own
+right.
 
 St George's at Nördlingen took its list (1544/1555) from Naumburg, with a few changes. Both are
 counted, since each is the order of its own church.
@@ -27193,6 +27212,8 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   Sundays, so it falls outside this table.
 - **Anhalt 1551.** It counts only for the feasts. After Trinity it keeps each hymn of a short
   list for about four Sundays, which ties none of them to a particular Sunday.
+- **Antwerp 1567.** Like Anhalt, it counts only for the feasts. It gives its hymns for Advent
+  and Lent by season.
 - **Heilbronn 1543 and Hof 1592.** They assign Latin office hymns. These count among the
   witnesses for their days but never reach the threshold. Nördlingen 1579 gives such hymns as
   well as its German list.
@@ -27203,8 +27224,8 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   the day. "11 of 18" means that 11 of the 18 old witnesses that give any hymn for that day give
   this one.
 - **One hymn, one row.** Spellings, Low German forms and English titles of the same hymn are
-  joined, as in the workbook. English-only citations from Carpzov, Selnecker, Bach, the plan of
-  c. 1700 and Thompson are joined to their German hymns. "The Day Is Surely Drawing Near", for
+  joined, as in the workbook. English-only citations from Carpzov, Selnecker, Bach and the plan
+  of c. 1700 are joined to their German hymns. "The Day Is Surely Drawing Near", for
   example, is joined to *Es ist gewisslich an der Zeit* (The Day Is Surely Drawing Near). The hymn database does this joining
   with its lexicon of hymns and its table of English titles, so [`hymns.db`](#repo-hymns) and the
   workbook group the hymns as this table does.
@@ -27220,6 +27241,9 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
     from Luther's Communion hymn, whose opening words it contains.
   - Mansfeld's *Nimm von uns, Herr Gott* (Take from us, Lord God) is kept apart from Martin Moller's later *Nimm von uns,
     Herr, du treuer Gott* (Remove from Us, O Faithful God).
+  - The Pentecost antiphon *Komm, Heiliger Geist, erfüll die Herzen deiner Gläubigen* (Come, Holy Ghost, fill the hearts of thy faithful) is kept
+    apart from Luther's *Komm, Heiliger Geist, Herre Gott* (Come, Holy Ghost, God and Lord), which grew out of it. Ludecus and
+    Antwerp 1567 give both.
 - **Grouped entries are shared out.** An entry for "Lent 1–3", "Lent 5, Palm Sunday and Good
   Friday" or "Pentecost and the Monday" counts for each of the days it names. The last Sundays
   after Trinity are given together, as most of the hymnals give them ("Trinity 25–27").
@@ -27227,7 +27251,8 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   feast counts for that feast alone: "at Christmas and on until the Purification" for Christmas
   Day, "from the Purification to Septuagesima" for the Purification, and "from Easter to the
   Ascension" for Easter Day. So do Mansfeld's lists for the time "around and after" Christmas,
-  Easter and Pentecost, to which its list for the Sundays and feasts sends those three feasts.
+  Easter and Pentecost, to which its list for the Sundays and feasts sends those three feasts,
+  and the hymns that Thompson's lists give for Christmastide and Eastertide.
   Entries for a season with no feast at its head ("Advent", "Lent", "after Trinity"), entries
   for the feasts of the Virgin as a class, and the Pfalz-Zweibrücken cycle are not counted.
 - **Which hymns are shown.** A hymn is shown for a day when it meets all three of these
@@ -27236,15 +27261,17 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   - it has at least three fifths of the witnesses of the day's leading hymn;
   - it has at least a quarter of the witnesses that give any hymn for that day.
 
-  On Advent 1, *Nun komm, der Heiden Heiland* (Savior of the Nations, Come) has 20 witnesses and no other hymn more than 7, so
-  it stands alone. On Advent 2, *Gott hat das Evangelium* (God Gave the Gospel That We May) (11), *Es ist gewisslich an der Zeit*
+  On Advent 1, *Nun komm, der Heiden Heiland* (Savior of the Nations, Come) has 21 witnesses and no other hymn more than 7, so
+  it stands alone. On Advent 2, *Gott hat das Evangelium* (God Gave the Gospel That We May) (12), *Es ist gewisslich an der Zeit*
   (8) and *Ihr lieben Christen, freut euch nun* (Rejoice, Rejoice Ye Christians Dear) (8) are shown. *Es wird schier der letzte Tag
-  herkommen* (The last day will soon be coming) (6), *Ach Gott, thu dich erbarmen* (Ah God, have mercy) (5) and *Nun komm* (Savior of the Nations, Come) (4) are not.
-- **Days the witnesses leave open.** On Quasimodogeniti, Maundy Thursday, Easter Monday and
-  Pentecost Monday no hymn has three old witnesses. For these four days the table gives the hymn
-  assigned by the editor of the corpus, marked ‡, with the number of old witnesses that do give
-  it. The assignments are kept in a table of their own in [`hymns.db`](#repo-hymns), and flagged "Assigned" in the Compare by day sheet. They are not
-  prescriptions and are not counted as witnesses.
+  herkommen* (The last day will soon be coming) (7), *Ach Gott, thu dich erbarmen* (Ah God, have mercy) (5) and *Nun komm* (Savior of the Nations, Come) (4) are not.
+- **Days the witnesses leave open or divide.** On Quasimodogeniti, Easter Monday and Pentecost
+  Monday no hymn has three old witnesses. On Quinquagesima the old witnesses are divided, and no
+  hymn has a quarter of them. For these four days the table gives the hymn assigned by the
+  editor of the corpus, marked ‡, with the number of old witnesses that do give it. On
+  Quinquagesima the assigned hymn is the one with the most witnesses. The assignments are kept
+  in a table of their own in [`hymns.db`](#repo-hymns), and flagged "Assigned" in the Compare
+  by day sheet. They are not prescriptions and are not counted as witnesses.
 - **Titles.**
   - **Original title:** the hymn's standard spelling from the `hymns` lexicon.
   - **Literal English:** a word-for-word rendering of the incipit.
@@ -27258,178 +27285,194 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 
 | Sunday or feast | Original title | Literal English | Common English title | Witnesses |
 |---|---|---|---|---|
-| **Advent 1** | *Nun komm, der Heiden Heiland* (Savior of the Nations, Come) | Now come, Savior of the heathen | Savior of the Nations, Come | 20 of 26 |
-| **Advent 2** | *Gott hat das Evangelium* (God Gave the Gospel That We May) | God has given the gospel | God Gave the Gospel That We May † | 11 of 21 |
-|  | *Es ist gewisslich an der Zeit* (The Day Is Surely Drawing Near) | It is surely time | The Day Is Surely Drawing Near | 8 of 21 |
-|  | *Ihr lieben Christen, freut euch nun* (Rejoice, Rejoice Ye Christians Dear) | Ye dear Christians, rejoice now | Rejoice, Rejoice Ye Christians Dear | 8 of 21 |
-| **Advent 3** | *Herr Christ, der einig Gotts Sohn* (The Only Son from Heaven) | Lord Christ, the only Son of God | The Only Son from Heaven | 11 of 21 |
-|  | *Nun komm, der Heiden Heiland* | Now come, Savior of the heathen | Savior of the Nations, Come | 9 of 21 |
-| **Advent 4** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 12 of 18 |
-| **Christmas Day** | *Gelobet seist du, Jesu Christ* (We Praise You, Jesus, at Your Birth) | Praised be thou, Jesus Christ | We Praise You, Jesus, at Your Birth | 25 of 30 |
-|  | *Vom Himmel hoch da komm ich her* (From Heaven Above to Earth I Come) | From heaven high I come here | From Heaven Above to Earth I Come | 18 of 30 |
-|  | *Christum wir sollen loben schon* (From East to West, from Shore to Shore) | Christ we should indeed praise | From East to West, from Shore to Shore | 17 of 30 |
-|  | *Der Tag, der ist so freudenreich* (Now Hail the Day So Rich in Cheer) | The day that is so full of joy | Now Hail the Day So Rich in Cheer | 17 of 30 |
-|  | *Vom Himmel kam der Engel Schar* (To Shepherds as They Watched by Night) | From heaven came the host of angels | To Shepherds as They Watched by Night | 16 of 30 |
+| **Advent 1** | *Nun komm, der Heiden Heiland* (Savior of the Nations, Come) | Now come, Savior of the heathen | Savior of the Nations, Come | 21 of 28 |
+| **Advent 2** | *Gott hat das Evangelium* (God Gave the Gospel That We May) | God has given the gospel | God Gave the Gospel That We May † | 12 of 23 |
+|  | *Es ist gewisslich an der Zeit* (The Day Is Surely Drawing Near) | It is surely time | The Day Is Surely Drawing Near | 8 of 23 |
+|  | *Ihr lieben Christen, freut euch nun* (Rejoice, Rejoice Ye Christians Dear) | Ye dear Christians, rejoice now | Rejoice, Rejoice Ye Christians Dear | 8 of 23 |
+| **Advent 3** | *Herr Christ, der einig Gotts Sohn* (The Only Son from Heaven) | Lord Christ, the only Son of God | The Only Son from Heaven | 12 of 23 |
+|  | *Nun komm, der Heiden Heiland* | Now come, Savior of the heathen | Savior of the Nations, Come | 10 of 23 |
+| **Advent 4** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 12 of 20 |
+| **Christmas Day** | *Gelobet seist du, Jesu Christ* (We Praise You, Jesus, at Your Birth) | Praised be thou, Jesus Christ | We Praise You, Jesus, at Your Birth | 28 of 33 |
+|  | *Christum wir sollen loben schon* (From East to West, from Shore to Shore) | Christ we should indeed praise | From East to West, from Shore to Shore | 20 of 33 |
+|  | *Vom Himmel hoch da komm ich her* (From Heaven Above to Earth I Come) | From heaven high I come here | From Heaven Above to Earth I Come | 19 of 33 |
+|  | *Der Tag, der ist so freudenreich* (Now Hail the Day So Rich in Cheer) | The day that is so full of joy | Now Hail the Day So Rich in Cheer | 18 of 33 |
+|  | *Vom Himmel kam der Engel Schar* (To Shepherds as They Watched by Night) | From heaven came the host of angels | To Shepherds as They Watched by Night | 17 of 33 |
 | **Sunday after Christmas** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 4 of 10 |
 |  | *Hilf Gott, wie geht das immer zu* (Help God, how does this ever go on) | Help God, how does this ever go on | Oh, Help Us, God! Why Must It Be † | 4 of 10 |
 |  | *Wo Gott der Herr nicht bei uns hält* (If God Were Not upon Our Side) | If God the Lord does not stand by us | If God Were Not upon Our Side | 3 of 10 |
-| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* (To God the Anthem Raising) | Help me praise God's goodness | To God the Anthem Raising | 8 of 15 |
-|  | *Das alte Jahr vergangen ist* (The Old Year Now Hath Passed Away) | The old year has passed | The Old Year Now Hath Passed Away | 6 of 15 |
+| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* (To God the Anthem Raising) | Help me praise God's goodness | To God the Anthem Raising | 9 of 16 |
+|  | *Das alte Jahr vergangen ist* (The Old Year Now Hath Passed Away) | The old year has passed | The Old Year Now Hath Passed Away | 7 of 16 |
 | **Sunday after New Year** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 3 of 3 |
-| **Epiphany** | *Was fürchtst du, Feind Herodes, sehr* (Why, Herod, Unrelenting Foe) | Why dost thou fear so, foe Herod | Why, Herod, Unrelenting Foe | 18 of 24 |
-| **Epiphany 1** | *Dies sind die heilgen zehn Gebot* (These Are the Holy Ten Commands) | These are the holy ten commandments | These Are the Holy Ten Commands | 13 of 17 |
-|  | *Mensch, willst du leben seliglich* (Wilt Thou, O Man, Live Happily) | Man, wouldst thou live blessedly | Wilt Thou, O Man, Live Happily | 8 of 17 |
-| **Epiphany 2** | *Wohl dem, der in Gottes Furcht steht* (Happy the Man Who Feareth God) | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 13 of 17 |
-| **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* (Lord, Hear the Voice of My Complaint) | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 7 of 17 |
-| **Epiphany 4** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 12 of 19 |
-|  | *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side) | Were God not with us at this time | If God Had Not Been on Our Side | 9 of 19 |
-| **Epiphany 5** | *Ach Gott, vom Himmel sieh darein* (O Lord, Look Down from Heaven, Behold) | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 10 of 16 |
+| **Epiphany** | *Was fürchtst du, Feind Herodes, sehr* (Why, Herod, Unrelenting Foe) | Why dost thou fear so, foe Herod | Why, Herod, Unrelenting Foe | 19 of 25 |
+| **Epiphany 1** | *Dies sind die heilgen zehn Gebot* (These Are the Holy Ten Commands) | These are the holy ten commandments | These Are the Holy Ten Commands | 14 of 19 |
+|  | *Mensch, willst du leben seliglich* (Wilt Thou, O Man, Live Happily) | Man, wouldst thou live blessedly | Wilt Thou, O Man, Live Happily | 9 of 19 |
+| **Epiphany 2** | *Wohl dem, der in Gottes Furcht steht* (Happy the Man Who Feareth God) | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 14 of 18 |
+| **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* (Lord, Hear the Voice of My Complaint) | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 8 of 19 |
+|  | *Allein zu dir, Herr Jesu Christ* (In Thee Alone, O Christ, My Lord) | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 5 of 19 |
+| **Epiphany 4** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 13 of 20 |
+|  | *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side) | Were God not with us at this time | If God Had Not Been on Our Side | 11 of 20 |
+| **Epiphany 5** | *Ach Gott, vom Himmel sieh darein* (O Lord, Look Down from Heaven, Behold) | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 12 of 19 |
 | **Epiphany 6** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 7 of 11 |
 |  | *Es wolle Gott uns gnädig sein* (May God Bestow on Us His Grace) | May God be gracious to us | May God Bestow on Us His Grace | 5 of 11 |
-| **Septuagesima** | *Es ist das Heil uns kommen her* (Salvation unto Us Has Come) | Salvation has come to us | Salvation unto Us Has Come | 15 of 27 |
-| **Sexagesima** | *Es spricht der Unweisen Mund wohl* (The Mouth of Fools Doth God Confess) | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 8 of 24 |
-|  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 7 of 24 |
-|  | *Kommt her zu mir, spricht Gottes Sohn* (Come Hither, Saith the Son of God) | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 6 of 24 |
-| **Quinquagesima (Estomihi)** | *Durch Adams Fall ist ganz verderbt* (All Mankind Fell in Adam's Fall) | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 4 of 14 |
-| **Lent 1 (Invocavit)** | *Ein feste Burg ist unser Gott* (A Mighty Fortress Is Our God) | A firm fortress is our God | A Mighty Fortress Is Our God | 17 of 25 |
-|  | *Gott der Vater wohn uns bei* (Triune God, Be Thou Our Stay) | God the Father, dwell with us | Triune God, Be Thou Our Stay | 14 of 25 |
-|  | *Christe, der du bist Tag und Licht* (Christ, Everlasting Source of Light) | Christ, thou who art day and light | Christ, Everlasting Source of Light | 11 of 25 |
-| **Lent 2 (Reminiscere)** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 12 of 21 |
-|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 8 of 21 |
-| **Lent 3 (Oculi)** | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 15 of 23 |
-|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 10 of 23 |
-| **Lent 4 (Laetare)** | *Vater unser im Himmelreich* (Our Father, Who from Heaven Above) | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 9 of 22 |
-|  | *Warum betrübst du dich, mein Herz* (Why art thou troubled, my heart) | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 6 of 22 |
-| **Lent 5 (Judica)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 5 of 17 |
-| **Palm Sunday** | *Christus, der uns selig macht* (Christ, who makes us blessed) | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 5 of 19 |
-|  | *Hilf Gott, dass mir gelinge* (Help, God, that I may succeed) | Help, God, that I may succeed | Assist Me, Great Creator † | 5 of 19 |
-|  | *Nun freut euch, lieben Christen gmein* (Dear Christians, One and All, Rejoice) | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 5 of 19 |
-| **Maundy Thursday** | *Jesus Christus, unser Heiland* (Jesus Christ, Our Blessed Savior) | Jesus Christ, our Savior | Jesus Christ, Our Blessed Savior | 2 of 3 ‡ |
-| **Good Friday** | *Da Jesus an dem Kreuze stund* (Our Blessed Savior Seven Times Spoke) | When Jesus on the cross stood | Our Blessed Savior Seven Times Spoke | 10 of 12 |
-|  | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 6 of 12 |
-| **Easter Day** | *Christ lag in Todesbanden* (Christ Jesus Lay in Death's Strong Bands) | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 21 of 28 |
-|  | *Christ ist erstanden* (Christ Is Arisen) | Christ is risen | Christ Is Arisen | 19 of 28 |
-|  | *Jesus Christus, unser Heiland, der den Tod überwand* (Jesus Christ, Who Came, Us to Save) | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Who Came, Us to Save † | 16 of 28 |
-|  | *Erstanden ist der heilige Christ* (The holy Christ is risen) | The holy Christ is risen | — | 14 of 28 |
+| **Septuagesima** | *Es ist das Heil uns kommen her* (Salvation unto Us Has Come) | Salvation has come to us | Salvation unto Us Has Come | 15 of 29 |
+|  | *Es spricht der Unweisen Mund wohl* (The Mouth of Fools Doth God Confess) | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 9 of 29 |
+| **Sexagesima** | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 9 of 26 |
+|  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 8 of 26 |
+| **Quinquagesima (Estomihi)** | *Durch Adams Fall ist ganz verderbt* (All Mankind Fell in Adam's Fall) | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 4 of 17 ‡ |
+| **Lent 1 (Invocavit)** | *Ein feste Burg ist unser Gott* (A Mighty Fortress Is Our God) | A firm fortress is our God | A Mighty Fortress Is Our God | 17 of 27 |
+|  | *Gott der Vater wohn uns bei* (Triune God, Be Thou Our Stay) | God the Father, dwell with us | Triune God, Be Thou Our Stay | 14 of 27 |
+|  | *Christe, der du bist Tag und Licht* (Christ, Everlasting Source of Light) | Christ, thou who art day and light | Christ, Everlasting Source of Light | 11 of 27 |
+| **Lent 2 (Reminiscere)** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 12 of 24 |
+|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 9 of 24 |
+|  | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 8 of 24 |
+| **Lent 3 (Oculi)** | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 16 of 25 |
+|  | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 10 of 25 |
+| **Lent 4 (Laetare)** | *Vater unser im Himmelreich* (Our Father, Who from Heaven Above) | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 9 of 24 |
+|  | *Warum betrübst du dich, mein Herz* (Why art thou troubled, my heart) | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 7 of 24 |
+| **Lent 5 (Judica)** | *Christus, der uns selig macht* (Christ, who makes us blessed) | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 5 of 19 |
+|  | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 5 of 19 |
+| **Palm Sunday** | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 6 of 21 |
+| **Maundy Thursday** | *Jesus Christus, unser Heiland* (Jesus Christ, Our Blessed Savior) | Jesus Christ, our Savior | Jesus Christ, Our Blessed Savior | 4 of 6 |
+| **Good Friday** | *Da Jesus an dem Kreuze stund* (Our Blessed Savior Seven Times Spoke) | When Jesus on the cross stood | Our Blessed Savior Seven Times Spoke | 11 of 14 |
+|  | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 7 of 14 |
+| **Easter Day** | *Christ lag in Todesbanden* (Christ Jesus Lay in Death's Strong Bands) | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 24 of 31 |
+|  | *Christ ist erstanden* (Christ Is Arisen) | Christ is risen | Christ Is Arisen | 21 of 31 |
+|  | *Jesus Christus, unser Heiland, der den Tod überwand* (Jesus Christ, Who Came, Us to Save) | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Who Came, Us to Save † | 18 of 31 |
 | **Easter Monday** | *Ach bleib bei uns, Herr Jesu Christ* (Lord Jesus Christ, with Us Abide) | Abide with us, Lord Jesus Christ | Lord Jesus Christ, with Us Abide | 1 of 2 ‡ |
 |  | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 1 of 2 ‡ |
-| **Easter 1 (Quasimodogeniti)** | *O filii et filiae* (O Sons and Daughters of the King) | O sons and daughters | O Sons and Daughters of the King | 0 of 5 ‡ |
-| **Easter 2 (Misericordias Domini)** | *Der Herr ist mein getreuer Hirt* (The Lord is my faithful shepherd) | The Lord is my faithful shepherd | The Lord’s My Shepherd, Faithful, True | 12 of 15 |
-| **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 9 of 14 |
-|  | *Mag ich Unglück nicht widerstahn* (If I cannot withstand misfortune) | If I cannot withstand misfortune | May I My Fate No More Withstand † | 7 of 14 |
-| **Easter 4 (Cantate)** | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 11 of 15 |
-| **Easter 5 (Rogate)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 18 of 19 |
-| **Ascension** | *Christ fuhr gen Himmel* (Christ Rose to Heaven) | Christ went up to heaven | Christ Rose to Heaven † | 19 of 27 |
-|  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 14 of 27 |
-| **Sunday after Ascension (Exaudi)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 14 of 16 |
-| **Pentecost** | *Komm, Heiliger Geist, Herre Gott* (Come, Holy Ghost, God and Lord) | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 24 of 27 |
-|  | *Nun bitten wir den Heiligen Geist* (To God the Holy Spirit Let Us Pray) | Now we pray to the Holy Spirit | To God the Holy Spirit Let Us Pray | 24 of 27 |
+| **Easter 1 (Quasimodogeniti)** | *O filii et filiae* (O Sons and Daughters of the King) | O sons and daughters | O Sons and Daughters of the King | 0 of 7 ‡ |
+| **Easter 2 (Misericordias Domini)** | *Der Herr ist mein getreuer Hirt* (The Lord is my faithful shepherd) | The Lord is my faithful shepherd | The Lord’s My Shepherd, Faithful, True | 13 of 17 |
+| **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* (Come Hither, Saith the Son of God) | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 10 of 16 |
+|  | *Mag ich Unglück nicht widerstahn* (If I cannot withstand misfortune) | If I cannot withstand misfortune | May I My Fate No More Withstand † | 8 of 16 |
+|  | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 6 of 16 |
+| **Easter 4 (Cantate)** | *Nun freut euch, lieben Christen gmein* (Dear Christians, One and All, Rejoice) | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 12 of 16 |
+| **Easter 5 (Rogate)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 19 of 20 |
+| **Ascension** | *Christ fuhr gen Himmel* (Christ Rose to Heaven) | Christ went up to heaven | Christ Rose to Heaven † | 20 of 29 |
+|  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 15 of 29 |
+|  | *Nun freut euch, Gottes Kinder, all* (O Children of Your God, Rejoice) | Now rejoice, all ye children of God | O Children of Your God, Rejoice † | 12 of 29 |
+| **Sunday after Ascension (Exaudi)** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 13 of 17 |
+| **Pentecost** | *Komm, Heiliger Geist, Herre Gott* (Come, Holy Ghost, God and Lord) | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 26 of 29 |
+|  | *Nun bitten wir den Heiligen Geist* (To God the Holy Spirit Let Us Pray) | Now we pray to the Holy Spirit | To God the Holy Spirit Let Us Pray | 26 of 29 |
 | **Pentecost Monday** | *Komm, Heiliger Geist, Herre Gott* | Come, Holy Spirit, Lord God | Come, Holy Ghost, God and Lord | 2 of 3 ‡ |
-| **Trinity Sunday** | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 24 of 27 |
-| **Trinity 1** | *Es war einmal ein reicher Mann* (There was once a rich man) | There was once a rich man | There Was a Rich and Wealthy Man † | 12 of 24 |
-| **Trinity 2** | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 15 of 27 |
-|  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 13 of 27 |
-| **Trinity 3** | *Erbarm dich mein, o Herre Gott* (Have mercy on me, O Lord God) | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 24 |
-| **Trinity 4** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 16 of 26 |
-|  | *Mensch, willst du leben seliglich* | Man, wouldst thou live blessedly | Wilt Thou, O Man, Live Happily | 11 of 26 |
-| **Trinity 5** | *Wo Gott zum Haus nicht gibt sein Gunst* (If God does not give his favour to the house) | If God does not give his favour to the house | Unless the Lord Builds Up the House | 13 of 25 |
-|  | *Vergebens ist all Müh und Kost* | In vain is all toil and cost | In Vain Is All Thy Toil and Pain † | 10 of 25 |
-| **Trinity 6** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 21 of 26 |
-| **Trinity 7** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 13 of 26 |
-|  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 12 of 26 |
-|  | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 8 of 26 |
-| **Trinity 8** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 21 of 27 |
-| **Trinity 9** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 10 of 26 |
-|  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 8 of 26 |
-| **Trinity 10** | *An Wasserflüssen Babylon* | By the waters of Babylon | By the Waters of Babylon | 18 of 26 |
-| **Trinity 11** | *Aus tiefer Not schrei ich zu dir* (From Depths of Woe I Cry to Thee) | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 15 of 27 |
+| **Trinity Sunday** | *Gott der Vater wohn uns bei* | God the Father, dwell with us | Triune God, Be Thou Our Stay | 25 of 28 |
+| **Trinity 1** | *Es war einmal ein reicher Mann* (There was once a rich man) | There was once a rich man | There Was a Rich and Wealthy Man † | 11 of 26 |
+|  | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 7 of 26 |
+|  | *Nun hört zu, ihr Christenleute* | Now hear, ye Christian people | O Christian Men, Now Lend an Ear † | 7 of 26 |
+| **Trinity 2** | *Es spricht der Unweisen Mund wohl* | The mouth of the unwise says indeed | The Mouth of Fools Doth God Confess | 15 of 29 |
+|  | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 14 of 29 |
+|  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 9 of 29 |
+| **Trinity 3** | *Erbarm dich mein, o Herre Gott* (Have mercy on me, O Lord God) | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 13 of 26 |
+|  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 8 of 26 |
+|  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 8 of 26 |
+| **Trinity 4** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 16 of 28 |
+|  | *Mensch, willst du leben seliglich* | Man, wouldst thou live blessedly | Wilt Thou, O Man, Live Happily | 11 of 28 |
+| **Trinity 5** | *Wo Gott zum Haus nicht gibt sein Gunst* (If God does not give his favour to the house) | If God does not give his favour to the house | Unless the Lord Builds Up the House | 13 of 26 |
+|  | *Vergebens ist all Müh und Kost* | In vain is all toil and cost | In Vain Is All Thy Toil and Pain † | 9 of 26 |
+| **Trinity 6** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 22 of 28 |
+| **Trinity 7** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 14 of 28 |
+|  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 13 of 28 |
+|  | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 9 of 28 |
+| **Trinity 8** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 22 of 29 |
+| **Trinity 9** | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 9 of 28 |
+|  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 9 of 28 |
+| **Trinity 10** | *An Wasserflüssen Babylon* | By the waters of Babylon | By the Waters of Babylon | 19 of 27 |
+| **Trinity 11** | *Aus tiefer Not schrei ich zu dir* (From Depths of Woe I Cry to Thee) | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 15 of 29 |
+|  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 29 |
+|  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 13 of 29 |
+|  | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 10 of 29 |
+| **Trinity 12** | *Nun lob, mein Seel, den Herren* (My Soul, Now Praise Your Maker) | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 13 of 26 |
+|  | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 9 of 26 |
+| **Trinity 13** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 18 of 26 |
+| **Trinity 14** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 13 of 25 |
+|  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 10 of 25 |
+| **Trinity 15** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 17 of 25 |
+|  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 15 of 25 |
+| **Trinity 16** | *Mitten wir im Leben sind* (In the Very Midst of Life) | In the midst of life we are | In the Very Midst of Life | 20 of 29 |
+| **Trinity 17** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 16 of 27 |
+|  | *Wär Gott nicht mit uns diese Zeit* | Were God not with us at this time | If God Had Not Been on Our Side | 10 of 27 |
+| **Trinity 18** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 14 of 25 |
+|  | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 12 of 25 |
+|  | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 10 of 25 |
+| **Trinity 19** | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 14 of 26 |
+|  | *Aus tiefer Not schrei ich zu dir* | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 12 of 26 |
+|  | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 9 of 26 |
+| **Trinity 20** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 13 of 26 |
+| **Trinity 21** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 13 of 25 |
+| **Trinity 22** | *Aus tiefer Not schrei ich zu dir* | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 16 of 27 |
 |  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 27 |
-|  | *Allein zu dir, Herr Jesu Christ* (In Thee Alone, O Christ, My Lord) | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 12 of 27 |
-|  | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 10 of 27 |
-| **Trinity 12** | *Nun lob, mein Seel, den Herren* (My Soul, Now Praise Your Maker) | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 12 of 24 |
-|  | *Durch Adams Fall ist ganz verderbt* | Through Adam's fall all is wholly corrupted | All Mankind Fell in Adam's Fall | 9 of 24 |
-| **Trinity 13** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 18 of 24 |
-| **Trinity 14** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 12 of 22 |
-|  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 8 of 22 |
-| **Trinity 15** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 16 of 24 |
-|  | *Warum betrübst du dich, mein Herz* | Why art thou troubled, my heart | Why Art Thou Thus Cast Down, My Heart | 14 of 24 |
-| **Trinity 16** | *Mitten wir im Leben sind* (In the Very Midst of Life) | In the midst of life we are | In the Very Midst of Life | 20 of 27 |
-| **Trinity 17** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 16 of 25 |
-| **Trinity 18** | *Es ist das Heil uns kommen her* | Salvation has come to us | Salvation unto Us Has Come | 14 of 23 |
-|  | *Dies sind die heilgen zehn Gebot* | These are the holy ten commandments | These Are the Holy Ten Commands | 12 of 23 |
-|  | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 9 of 23 |
-|  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 9 of 23 |
-| **Trinity 19** | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 13 of 24 |
-|  | *Aus tiefer Not schrei ich zu dir* | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 12 of 24 |
-|  | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 9 of 24 |
-| **Trinity 20** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 12 of 24 |
-| **Trinity 21** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 12 of 23 |
-| **Trinity 22** | *Aus tiefer Not schrei ich zu dir* | Out of deep distress I cry to thee | From Depths of Woe I Cry to Thee | 17 of 25 |
-|  | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 14 of 25 |
-| **Trinity 23** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 17 of 23 |
-| **Trinity 24** | *Mitten wir im Leben sind* | In the midst of life we are | In the Very Midst of Life | 12 of 24 |
-|  | *Herr Jesu Christ, wahr Mensch und Gott* (Lord Jesus Christ, True Man and God) | Lord Jesus Christ, true man and God | Lord Jesus Christ, True Man and God | 9 of 24 |
-|  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 8 of 24 |
-| **Trinity 25–27 (the last Sundays)** | *Gott hat das Evangelium* | God has given the gospel | God Gave the Gospel That We May † | 9 of 23 |
-|  | *Es wird schier der letzte Tag herkommen* (The last day will soon be coming) | The last day will soon be coming | Lo, the Final Day Is Fast Approaching † | 8 of 23 |
-|  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice Ye Christians Dear | 7 of 23 |
-|  | *Nun freut euch, lieben Christen gmein* | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 6 of 23 |
+| **Trinity 23** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 19 of 25 |
+| **Trinity 24** | *Mitten wir im Leben sind* | In the midst of life we are | In the Very Midst of Life | 11 of 26 |
+|  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 9 of 26 |
+|  | *Herr Jesu Christ, wahr Mensch und Gott* (Lord Jesus Christ, True Man and God) | Lord Jesus Christ, true man and God | Lord Jesus Christ, True Man and God | 9 of 26 |
+| **Trinity 25–27 (the last Sundays)** | *Gott hat das Evangelium* | God has given the gospel | God Gave the Gospel That We May † | 10 of 25 |
+|  | *Es wird schier der letzte Tag herkommen* (The last day will soon be coming) | The last day will soon be coming | Lo, the Final Day Is Fast Approaching † | 9 of 25 |
+|  | *Ihr lieben Christen, freut euch nun* | Ye dear Christians, rejoice now | Rejoice, Rejoice Ye Christians Dear | 7 of 25 |
 | **Purification of Mary (2 Feb)** | *Mit Fried und Freud ich fahr dahin* (In Peace and Joy I Now Depart) | With peace and joy I depart | In Peace and Joy I Now Depart | 23 of 24 |
-| **Annunciation (25 March)** | *Mein Seel erhebt den Herren* (My Soul Now Magnifies the Lord) | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 16 of 19 |
-| **St John the Baptist (24 June)** | *Christ, unser Herr, zum Jordan kam* (To Jordan Came the Christ, Our Lord) | Christ our Lord came to the Jordan | To Jordan Came the Christ, Our Lord | 9 of 19 |
-|  | *Gelobet sei der Herr, der Gott Israel* (Blessed be the Lord, the God of Israel) | Blessed be the Lord, the God of Israel | Blessed Be the Lord, the God of Israel | 9 of 19 |
-| **Visitation of Mary (2 July)** | *Mein Seel erhebt den Herren* | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 6 of 8 |
-| **St Michael (29 Sept)** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 11 of 17 |
-|  | *Herr Gott, dich loben alle wir* (Lord God, to Thee We Give All Praise) | Lord God, we all praise thee | Lord God, to Thee We Give All Praise | 8 of 17 |
-| **Apostles' days** | *O Herre Gott, dein göttlich Wort* | O Lord God, thy divine word | O God, Our Lord, Your Holy Word | 4 of 5 |
+| **Annunciation (25 March)** | *Mein Seel erhebt den Herren* (My Soul Now Magnifies the Lord) | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 16 of 21 |
+|  | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 10 of 21 |
+| **St John the Baptist (24 June)** | *Christ, unser Herr, zum Jordan kam* (To Jordan Came the Christ, Our Lord) | Christ our Lord came to the Jordan | To Jordan Came the Christ, Our Lord | 11 of 21 |
+|  | *Gelobet sei der Herr, der Gott Israel* (Blessed be the Lord, the God of Israel) | Blessed be the Lord, the God of Israel | Blessed Be the Lord, the God of Israel | 10 of 21 |
+| **Visitation of Mary (2 July)** | *Mein Seel erhebt den Herren* | My soul magnifies the Lord | My Soul Now Magnifies the Lord | 7 of 10 |
+| **St Mary Magdalene (22 July)** | *Erbarm dich mein, o Herre Gott* | Have mercy on me, O Lord God | Have Mercy on Me, O Lord God | 3 of 3 |
+| **St Michael (29 Sept)** | *Nun lob, mein Seel, den Herren* | Now praise the Lord, my soul | My Soul, Now Praise Your Maker | 12 of 19 |
+|  | *Herr Gott, dich loben alle wir* (Lord God, to Thee We Give All Praise) | Lord God, we all praise thee | Lord God, to Thee We Give All Praise | 8 of 19 |
+| **Apostles' days** | *O Herre Gott, dein göttlich Wort* (O God, Our Lord, Your Holy Word) | O Lord God, thy divine word | O God, Our Lord, Your Holy Word | 4 of 6 |
+|  | *Ein feste Burg ist unser Gott* | A firm fortress is our God | A Mighty Fortress Is Our God | 3 of 6 |
+|  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 3 of 6 |
+|  | *Kommt her zu mir, spricht Gottes Sohn* | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 3 of 6 |
 
 † Title of Matthew Carver's translation, in *Walther's Hymnal* (2012) or on his blog
 *Hymnoglypt*; no older English hymnal has the hymn.
 
-‡ Assigned by the editor; the old witnesses leave the day open (see [§8.A.2](#s8-a-2)). The figure is the
-number of old witnesses that do give this hymn.
+‡ Assigned by the editor; the old witnesses leave the day open, or on Quinquagesima divide among
+many hymns, of which this one has the most (see [§8.A.2](#s8-a-2)). The figure is the number of
+old witnesses that do give this hymn.
 
 #### <a id="s8-a-4"></a>8.A.4 Notes on the table
 
-- **Days not in the table.** The saints' days not listed (St Paul, St Mary Magdalene, St
-  Lawrence, St Martin, All Saints and others) have one old witness or two. Naumburg and
-  Nördlingen 1544/1555 give *Es ist das Heil uns kommen her* (Salvation unto Us Has Come) for the feasts of the Virgin as a
-  class, which is not counted for any one of them.
+- **Days not in the table.** The saints' days not listed (St Paul, St Lawrence, St Martin, All
+  Saints and others) have one old witness or two. Naumburg and Nördlingen 1544/1555 give *Es ist
+  das Heil uns kommen her* (Salvation unto Us Has Come) for the feasts of the Virgin as a class, which is not counted for any
+  one of them.
 - **The assigned days.** Quasimodogeniti is the one Sunday the old witnesses leave open:
   Liliencron's concordance records only a single coincidence for it, and no hymn has more than
   two old witnesses. Mansfeld 1580 sends it back to the hymns of Easter without naming them.
-  Only two or three old witnesses give a hymn for Maundy Thursday and the second feast days of
-  Easter and Pentecost. The hymns assigned to these days (‡) are mostly the ones those few
-  witnesses give: Luther's Communion hymn on Maundy Thursday (Carpzov, Selnecker), *Ach bleib
+  Only two or three old witnesses give a hymn for the second feast days of Easter and Pentecost.
+  The hymns assigned to these days (‡) are mostly the ones those few witnesses give: *Ach bleib
   bei uns* (Lord Jesus Christ, with Us Abide) and *Christ ist erstanden* (Christ Is Arisen) on Easter Monday (Bach's Leipzig), and *Komm, Heiliger
   Geist* (Come, Holy Ghost) on Pentecost Monday (Stiller, and Nördlingen 1579, which gives it for Pentecost and the
   Monday). *O filii et filiae* (O Sons and Daughters of the King) on Quasimodogeniti has no old witness, but it is the usual choice
-  of the modern lists.
+  of the modern lists. Quinquagesima has seventeen old witnesses, but they are divided, and no
+  hymn has a quarter of them. The editor assigns *Durch Adams Fall ist ganz verderbt* (All Mankind Fell in Adam's Fall), which has
+  the most, four; *Nun freut euch, lieben Christen gmein* (Dear Christians, One and All, Rejoice) and *Herr Jesu Christ, wahr Mensch und
+  Gott* (Lord Jesus Christ, True Man and God) have three each. Maundy Thursday has a hymn of its own witnesses: four of the six give
+  Luther's Communion hymn (Carpzov, Selnecker, Annaberg 1579 and Magdeburg 1632).
 - **Thin days.** On some days the evidence is divided or sparse, and the "of" figure should be
   read with the count:
   - the Sunday after Christmas;
   - the Sunday after New Year (three witnesses in all);
-  - Quinquagesima;
   - Lent 4 and 5;
   - Palm Sunday;
-  - the apostles' days (five witnesses in all).
-- **One possible double count.** Thompson's column collates Ludecus with twelve other lists and
-  cannot be separated from Ludecus's own entries (Introduction, [The hymn database](#repo-hymns)). Where both support a hymn,
-  Ludecus may be counted twice. Thompson is kept, because it is a modern study that collates old
-  sources. Without it, the leading hymn of every day except Sexagesima would stay the same, and
-  on Sexagesima the two leading hymns would tie. The hymns at the margin would change on 10
-  days. For example:
+  - Maundy Thursday (six witnesses in all);
+  - St Mary Magdalene (three witnesses in all);
+  - the apostles' days (six witnesses in all).
+- **Thompson's lists.** The four lists from Thompson's dissertation give hymns for most days of
+  the table. Without them the leading hymn would change on four days: Sexagesima would have two
+  hymns tied at its head, Lent 5 would have *Wo Gott der Herr* (If God Were Not upon Our Side) alone at its head, and Maundy
+  Thursday and St Mary Magdalene would have no hymn of their witnesses. Quinquagesima would need
+  no assignment, since *Durch Adams Fall* (All Mankind Fell in Adam's Fall) would have a quarter of its witnesses (4 of 14). The
+  hymns shown would change on 19 more days. For example:
   - Advent 2 would gain *Es wird schier der letzte Tag herkommen* (The last day will soon be coming);
-  - Ascension would gain *Nun freut euch, Gottes Kinder, all* (O Children of Your God, Rejoice);
-  - Trinity 17 and 23 would gain *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side);
-  - Palm Sunday would lose *Nun freut euch, lieben Christen gmein* (Dear Christians, One and All, Rejoice).
+  - Easter Day would gain *Erstanden ist der heilige Christ* (The holy Christ is risen);
+  - Trinity 23 would gain *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side);
+  - the apostles' days would have *O Herre Gott, dein göttlich Wort* (O God, Our Lord, Your Holy Word) alone.
 - **What the table shows.**
-  - The core of the old *de tempore* (of the season) scheme is very stable. On 29 of the 65 days whose hymn the
+  - The core of the old *de tempore* (of the season) scheme is very stable. On 28 of the 66 days whose hymn the
     witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:
     - Advent 1, *Nun komm* (Savior of the Nations, Come);
     - Epiphany, *Was fürchtst du, Feind Herodes* (Why, Herod, Unrelenting Foe);
     - Easter 5, the Lord's Prayer hymn;
-    - Exaudi, *Wo Gott der Herr* (If God Were Not upon Our Side);
+    - Exaudi, *Wo Gott der Herr*;
     - Pentecost, *Komm, Heiliger Geist*;
     - Trinity Sunday, *Gott der Vater wohn uns bei* (Triune God, Be Thou Our Stay);
     - Trinity 6 and 13, *Es ist das Heil* (Salvation unto Us Has Come);
@@ -27439,7 +27482,7 @@ number of old witnesses that do give this hymn.
     - the Annunciation, the German Magnificat.
   - The same hymns return on several Sundays:
     - *Wo Gott der Herr nicht bei uns hält* (If God Were Not upon Our Side) on Epiphany 4, Lent 5, Exaudi and Trinity 17 and
-      23, with *Wär Gott nicht mit uns* (If God Had Not Been on Our Side) beside it on Epiphany 4;
+      23, with *Wär Gott nicht mit uns* (If God Had Not Been on Our Side) beside it on Epiphany 4 and Trinity 17;
     - *Vater unser* (Our Father) and *Warum betrübst du dich* (Why art thou troubled, my heart) together on Lent 4 and Trinity 7 and 15;
     - *Aus tiefer Not* (From Depths of Woe I Cry to Thee), *Allein zu dir* (In Thee Alone, O Christ, My Lord) and *Erbarm dich mein* (Have mercy on me, O Lord God) among Trinity 3, 11, 19 and 22.
 
@@ -56612,7 +56655,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Löner, Kaspar — [1.20.7](#s1-20-7), [3.3.2](#s3-3-2), [3.5.8](#s3-5-8), [3.8](#s3-8), [8.4.1](#s8-4-1), [8.7.4](#s8-7-4), [8.10.1](#s8-10-1), [8.11.4](#s8-11-4), [8.19](#s8-19), [9.3.3](#s9-3-3), [11.10.2](#s11-10-2), [13.12.6](#s13-12-6), [13.25](#s13-25), [14.5.6](#s14-5-6), [14.9](#s14-9), [14.10](#s14-10), [16.7.3](#s16-7-3), [16.10](#s16-10), [16.11](#s16-11)
 - Lorenz (schoolmaster at Frankfurt) — [16.5.2](#s16-5-2)
 - Lossius, Lucas — [2.10.1](#s2-10-1), [4.1](#s4-1), [4.8.4](#s4-8-4), [4.10.1](#s4-10-1), [4.11](#s4-11), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.6](#s8-6), [8.6.4.7](#s8-6-4-7), [8.7.5](#s8-7-5), [8.8.6](#s8-8-6), [8.16.1](#s8-16-1), [8.16.8](#s8-16-8), [8.18.6](#s8-18-6), [8.19](#s8-19), [10.1](#s10-1), [10.2](#s10-2), [10.11.2](#s10-11-2), [10.11.4](#s10-11-4), [10.13](#s10-13), [12.4.2](#s12-4-2), [12.4.6](#s12-4-6)
-- Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.4](#s8-a-4)
+- Ludecus, Matthäus — [Introduction](#repo-hymns), [8.A.1](#s8-a-1), [8.A.2](#s8-a-2)
 - Ludwig, Duke of Württemberg — [17.13.2](#s17-13-2)
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
 - Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)

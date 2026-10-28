@@ -16,6 +16,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import export_xlsx as X
 from editorial import EDITORIAL
+from parse_thompson import WITNESS as _TW
 
 BOOK = os.path.join(HERE, '..', 'LITURGICAL_AND_ECCLESIASTICAL_LIFE.md')
 
@@ -27,7 +28,8 @@ MODERN = {
  'Lutheran Service Book (2006)', 'Lutheran Worship (1982)', 'MC (private scheme)',
  'Mecklenburg hymnal (1855)', 'Redeemer', 'Reuning', 'SD (private scheme)', 'SELK hymnal',
  'Stuckwisch (sword-in-hat list)', 'Zion'}
-THOMPSON = 'Thompson, diss. App. 2 (Ludecus + twelve 16th-c. lists)'
+# the lists of Thompson's dissertation that are not Sehling orders, which --stats sets aside
+THOMPSON = {w for w, sehling in _TW.values() if not sehling}
 
 LAST = 'Trinity 25–27 (the last Sundays)'
 DAYS = (['Advent 1', 'Advent 2', 'Advent 3', 'Advent 4', 'Christmas Day', 'Sunday after Christmas',
@@ -41,8 +43,8 @@ DAYS = (['Advent 1', 'Advent 2', 'Advent 3', 'Advent 4', 'Christmas Day', 'Sunda
            'Pentecost', 'Pentecost Monday', 'Trinity Sunday']
         + [f'Trinity {i}' for i in range(1, 25)]
         + [LAST, 'Purification of Mary (2 Feb)', 'Annunciation (25 March)',
-           'St John the Baptist (24 June)', 'Visitation of Mary (2 July)', 'St Michael (29 Sept)',
-           "Apostles' days"])
+           'St John the Baptist (24 June)', 'Visitation of Mary (2 July)',
+           'St Mary Magdalene (22 July)', 'St Michael (29 Sept)', "Apostles' days"])
 
 # an occasion of hymns.db -> the day(s) of the table it counts for; any other occasion that is
 # not itself a day of the table ("Advent", "Lent", "Trinity season", the Zweibrücken cycle) is
@@ -65,7 +67,8 @@ MAP = {
  'Trinity 25-27': [LAST], 'Trinity 26 & 27': [LAST],
  'St Michael (29 September)': ['St Michael (29 Sept)'], 'Common of Apostles': ["Apostles' days"],
  # a season counts only for the feast at its head
- 'Christmas to Purification': ['Christmas Day'], 'Purification to Septuagesima': ['Purification of Mary (2 Feb)'],
+ 'Christmas to Purification': ['Christmas Day'], 'Christmas season': ['Christmas Day'],
+ 'Purification to Septuagesima': ['Purification of Mary (2 Feb)'],
  'Easter to Ascension': ['Easter Day'], 'Easter season': ['Easter Day'], 'Pentecost season': ['Pentecost'],
 }
 
@@ -124,10 +127,11 @@ def stats(table):
     two_thirds = [d for d, shown, total in chosen if shown[0][1] >= 2 * total / 3]
     print(f'{len(two_thirds)} of the {len(chosen)} days the witnesses choose have a hymn with '
           f'two thirds of the day\'s witnesses')
-    without, _ = build(exclude={THOMPSON})
+    without, _ = build(exclude=THOMPSON)
     first = {d: shown[0][0] for d, shown, _t in table if shown and not shown[0][2]}
     first2 = {d: shown[0][0] if shown else None for d, shown, _t in without}
-    print('without Thompson, the leading hymn changes on:', [d for d in first if first[d] != first2[d]])
+    print('without Thompson\'s lists, the leading hymn changes on:',
+          [d for d in first if first[d] != first2[d]])
     a = {d: {h for h, _n, _e in shown} for d, shown, _t in table}
     b = {d: {h for h, _n, _e in shown} for d, shown, _t in without}
     changed = [(d, sorted(a[d] - b[d]), sorted(b[d] - a[d])) for d in a if a[d] != b[d]]
