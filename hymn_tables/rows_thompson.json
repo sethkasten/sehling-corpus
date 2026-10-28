@@ -1,0 +1,6480 @@
+[
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Advent 1",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 3,
+  "thompson": "Durch Adams Fall",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Advent 2",
+  "title": "Hilf Gott wie ist der menschen not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 4,
+  "thompson": "Hilf Gott wie ist der menschen not",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Advent 3",
+  "title": "O Gott Vater, du hast Gewalt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 5,
+  "thompson": "O Gott Vater, du hast Gewalt",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Advent 4",
+  "title": "Ach hilf mich Leid",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 6,
+  "thompson": "Ach hilf mich Leid",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Christmas season",
+  "title": "Dies est laetitiae",
+  "slot": "Introit",
+  "note": null,
+  "line": 7,
+  "thompson": "Dies est laetitiae",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Christmas season",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 8,
+  "thompson": "Gelobet seist du",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Christmas season",
+  "title": "Ein Kindelein so löbelich",
+  "slot": "Before the sermon",
+  "note": null,
+  "line": 9,
+  "thompson": "Ein Kindelein so löbelich",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Christmas season",
+  "title": "Danksagen wir alle",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 10,
+  "thompson": "Danksagen wir alle",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Septuagesima",
+  "title": "Mag ich Ungluck nicht widerstahn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "Mag ich Ungluck nicht widerstahn",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Sexagesima",
+  "title": "Wo Gott zum Haus",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 12,
+  "thompson": "Wo Gott zum Haus",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Wo Gott der Herr nicht bei uns halt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 13,
+  "thompson": "Wo Gott der Herr nicht bei uns halt",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 14,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 15,
+  "thompson": "Durch Adams Fall",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Hilf Gott wie ist der menschen not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 16,
+  "thompson": "Hilf Gott wie ist der menschen not",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "O Gott Vater du hast gewalt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 17,
+  "thompson": "O Gott Vater du hast gewalt",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Hilf Gott wie geht das immer zu",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 18,
+  "thompson": "Hilf Gott wie geht das immer zu",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Palm Sunday",
+  "title": "Hilf Gott wie geht das immer zu",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 19,
+  "thompson": "Hilf Gott wie geht das immer zu",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin Introit",
+  "line": 20
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": "Salve festa dies",
+  "slot": "Introit",
+  "note": null,
+  "line": 21,
+  "thompson": "Salve festa dies",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": "Also Heilig ist der Tag",
+  "slot": "Introit",
+  "note": null,
+  "line": 22,
+  "thompson": "Also Heilig ist der Tag",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": "Christ lag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 23,
+  "thompson": "Christ lag",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": "Fröhlich wollen wir hallelujah singen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 24,
+  "thompson": "Fröhlich wollen wir hallelujah singen",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": "Christ ist erstanden",
+  "slot": "Before the sermon",
+  "note": null,
+  "line": 25,
+  "thompson": "Christ ist erstanden",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Easter season",
+  "title": "Jesus Christus unser Heiland der den Tod",
+  "slot": "After the sermon",
+  "note": "Thompson: Jesus CHristus unser Heiland der den Tod",
+  "line": 26,
+  "thompson": "Jesus CHristus unser Heiland der den Tod",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Pentecost",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin introit",
+  "line": 27
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Pentecost",
+  "title": "Komm Heiliger Geist Herre Gott",
+  "slot": "Introit",
+  "note": null,
+  "line": 28,
+  "thompson": "Komm Heiliger Geist Herre Gott",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Pentecost",
+  "title": "Nun bitten wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 29,
+  "thompson": "Nun bitten wir",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Pentecost",
+  "title": "Veni sancte spiritus",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 30,
+  "thompson": "Veni sancte spiritus",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Pentecost",
+  "title": "Nun bitten wir",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 31,
+  "thompson": "Nun bitten wir",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 1",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 32,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 2",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 33,
+  "thompson": "Es spricht der unweisen",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 3",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 34,
+  "thompson": "Ich ruf zu dir",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 4",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 35,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 5",
+  "title": "Vergebens ist all Müh und Kost",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 36,
+  "thompson": "Vergebens ist all Müh und Kost",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 6",
+  "title": "Mensch willstu leben seliglich",
+  "slot": "Chief hymn",
+  "note": "Thompson: Mensch willstud leben seliglich",
+  "line": 37,
+  "thompson": "Mensch willstud leben seliglich",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 7",
+  "title": "Wo Gott zum haus",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 38,
+  "thompson": "Wo Gott zum haus",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 8",
+  "title": "Herr wer wird wohnen in deiner",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 39,
+  "thompson": "Herr wer wird wohnen in deiner",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 9",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 40,
+  "thompson": "Dies sind die heilgen",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 10",
+  "title": "Hilf Gott wie ist der menschen not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 41,
+  "thompson": "Hilf Gott wie ist der menschen not",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 11",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 42,
+  "thompson": "Erbarm dich mein",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 12",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 43,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 13",
+  "title": "Mensch willstu leben seliglich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 44,
+  "thompson": "Mensch willstu leben seliglich",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 14",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 45,
+  "thompson": "Es spricht der unweisen",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 15",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 46,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 16",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 47,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 17",
+  "title": "Ach hilf mich Leid und sehnlich Klag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 48,
+  "thompson": "Ach hilf mich Leid und sehnlich Klag",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 18",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 49,
+  "thompson": "Ein feste Burg",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 19",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 50,
+  "thompson": "Ich ruf zu dir",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 20",
+  "title": "Mag ich Unglück nicht widerstahn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 51,
+  "thompson": "Mag ich Unglück nicht widerstahn",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 21",
+  "title": "O Gott Vater, du has Gewalt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 52,
+  "thompson": "O Gott Vater, du has Gewalt",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 22",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 53,
+  "thompson": "Aus tiefer Not",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 23",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 54,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 24",
+  "title": "Ach hilf mich Leid",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 55,
+  "thompson": "Ach hilf mich Leid",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 25",
+  "title": "War Gott nicht mit uns diese Zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 56,
+  "thompson": "War Gott nicht mit uns diese Zeit",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 26",
+  "title": "Vergebens ist all Müh und Kost",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 57,
+  "thompson": "Vergebens ist all Müh und Kost",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Trinity 27",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 58,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Feasts of the Virgin Mary",
+  "title": "Nun freut euch",
+  "slot": "Introit",
+  "note": null,
+  "line": 59,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Feasts of the Virgin Mary",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 60,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Feasts of the Virgin Mary",
+  "title": "Herr Christ der einig",
+  "slot": "After the sermon",
+  "note": "Thompson: Herr Christ der eigin",
+  "line": 61,
+  "thompson": "Herr Christ der eigin",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Dies est laetitiae",
+  "slot": "Introit",
+  "note": "Thompson: Dies est laetitae",
+  "line": 62,
+  "thompson": "Dies est laetitae",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 63,
+  "thompson": "Gelobet seist du",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Ein Kindelein so löbelich",
+  "slot": "Before the sermon",
+  "note": null,
+  "line": 64,
+  "thompson": "Ein Kindelein so löbelich",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Mit Fried und Freud",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 65,
+  "thompson": "Mit Fried und Freud",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Common of Apostles",
+  "title": "O Herre Gott dein göttlich Wort",
+  "slot": "Chief hymn",
+  "note": "Thompson: O Herr eGott dein göttlich Wort",
+  "line": 66,
+  "thompson": "O Herr eGott dein göttlich Wort",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Naumburg (1538)",
+  "occasion": "Common of Apostles",
+  "title": "War Gott nicht mit uns diese Zeit",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 67,
+  "thompson": "War Gott nicht mit uns diese Zeit",
+  "sehling": "Sehling 2, Nr. 13 (Naumburg"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Advent 1",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 3,
+  "thompson": "Nun komm",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Advent 2",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 4,
+  "thompson": "Nun komm",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Advent 3",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 5,
+  "thompson": "Nun komm",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Advent 4",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 6,
+  "thompson": "Nun komm",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Christmas season",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 7,
+  "thompson": "Gelobet seist du",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Lent",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 8,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Easter season",
+  "title": "Christ lag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 9,
+  "thompson": "Christ lag",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Easter season",
+  "title": "Victimae paschali",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 10,
+  "thompson": "Victimae paschali",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Ascension",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Pentecost",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin sequence",
+  "line": 12
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Pentecost",
+  "title": "Nun bitten wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 13,
+  "thompson": "Nun bitten wir",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Pentecost",
+  "title": "Komm heiliger geist",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 14,
+  "thompson": "Komm heiliger geist",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Trinity Sunday",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin sequence",
+  "line": 15
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Trinity Sunday",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 16,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Trinity season",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 17,
+  "thompson": "Erbarm dich mein",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Anhalt (1551)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Mit Fried und Freud",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 18,
+  "thompson": "Mit Fried und Freud",
+  "sehling": "Sehling 2, Nr. 116 (Anhalt"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Advent 1",
+  "title": "Es ist das Heil",
+  "slot": "Introit",
+  "note": null,
+  "line": 3,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Advent 2",
+  "title": "Aus tiefer Not",
+  "slot": "Introit",
+  "note": null,
+  "line": 4,
+  "thompson": "Aus tiefer Not",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Advent 3",
+  "title": "Ach Gott vom Himmel",
+  "slot": "Introit",
+  "note": null,
+  "line": 5,
+  "thompson": "Ach Gott vom Himmel",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Advent 3",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 6,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Advent 4",
+  "title": "Es ist das Heil",
+  "slot": "Introit",
+  "note": null,
+  "line": 7,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Christmas season",
+  "title": "Puer natus",
+  "slot": "Introit",
+  "note": null,
+  "line": 8,
+  "thompson": "Puer natus",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Christmas season",
+  "title": "Grates nunc omnes",
+  "slot": "Chief hymn",
+  "note": "with German hymn and resp.",
+  "line": 9,
+  "thompson": "Grates nunc omnes",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Septuagesima",
+  "title": "Es ist das Heil",
+  "slot": "Introit",
+  "note": null,
+  "line": 10,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Septuagesima",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Sexagesima",
+  "title": "Ich ruf zu dir",
+  "slot": "Introit",
+  "note": null,
+  "line": 12,
+  "thompson": "Ich ruf zu dir",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Sexagesima",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 13,
+  "thompson": "Es woll uns Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Erbarme dich, Herr Gott",
+  "slot": "Introit",
+  "note": null,
+  "line": 14,
+  "thompson": "Erbarme dich, Herr Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Durch adams fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 15,
+  "thompson": "Durch adams fall",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Ein feste Burg",
+  "slot": "Introit",
+  "note": null,
+  "line": 16,
+  "thompson": "Ein feste Burg",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 17,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin Introit",
+  "line": 18
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Erbarm dich mein, o herre gott",
+  "slot": "Introit",
+  "note": null,
+  "line": 19,
+  "thompson": "Erbarm dich mein, o herre gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin tract",
+  "line": 20
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Es woll uns Gott genadig sein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 21,
+  "thompson": "Es woll uns Gott genadig sein",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Introit",
+  "note": "Thompson: Wo Gott der Herr nicht beit",
+  "line": 22,
+  "thompson": "Wo Gott der Herr nicht beit",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 23,
+  "thompson": "Aus tiefer Not",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Vater unser",
+  "slot": "Introit",
+  "note": null,
+  "line": 24,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Wo Gott zum Haus nicht gibt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 25,
+  "thompson": "Wo Gott zum Haus nicht gibt",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 5 (Judica)",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin introit",
+  "line": 26
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Lent 5 (Judica)",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin tract",
+  "line": 27
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Palm Sunday",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin Introit",
+  "line": 28
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Easter season",
+  "title": null,
+  "slot": "Introit",
+  "note": "Lat Introit",
+  "line": 29
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Easter season",
+  "title": "Victimae paschali",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 30,
+  "thompson": "Victimae paschali",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Ascension",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin introit",
+  "line": 31
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Ascension",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin sequence",
+  "line": 32
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Ascension",
+  "title": "Christ fuhr gen Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 33,
+  "thompson": "Christ fuhr gen Himmel",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Pentecost",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin Introit",
+  "line": 34
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity Sunday",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin Intoirt",
+  "line": 35
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity Sunday",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin sequence",
+  "line": 36
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity Sunday",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 37,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 1",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Introit",
+  "note": null,
+  "line": 38,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 1",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 39,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 2",
+  "title": "Durch adams fall",
+  "slot": "Introit",
+  "note": null,
+  "line": 40,
+  "thompson": "Durch adams fall",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 2",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": "Thompson: Herr Christ der eignig",
+  "line": 41,
+  "thompson": "Herr Christ der eignig",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 3",
+  "title": "Erbarm dich mein",
+  "slot": "Introit",
+  "note": null,
+  "line": 42,
+  "thompson": "Erbarm dich mein",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 3",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 43,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 4",
+  "title": "Es spricht der unweisen",
+  "slot": "Introit",
+  "note": null,
+  "line": 44,
+  "thompson": "Es spricht der unweisen",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 4",
+  "title": "Wohl dem der in Gottes furcht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 45,
+  "thompson": "Wohl dem der in Gottes furcht",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 5",
+  "title": "Vergeblich ist",
+  "slot": "Introit",
+  "note": null,
+  "line": 46,
+  "thompson": "Vergeblich ist",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 5",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 47,
+  "thompson": "Es woll uns Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 6",
+  "title": "Vater unser",
+  "slot": "Introit",
+  "note": null,
+  "line": 48,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 6",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 49,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 7",
+  "title": "Durch adams fall",
+  "slot": "Introit",
+  "note": null,
+  "line": 50,
+  "thompson": "Durch adams fall",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 7",
+  "title": "Wo Gott zum haus",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 51,
+  "thompson": "Wo Gott zum haus",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 8",
+  "title": "Vater unser",
+  "slot": "Introit",
+  "note": null,
+  "line": 52,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 8",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 53,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 9",
+  "title": "Wohl dem der in Gottes furcht",
+  "slot": "Introit",
+  "note": null,
+  "line": 54,
+  "thompson": "Wohl dem der in Gottes furcht",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 9",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 55,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 10",
+  "title": "Es spricht der unweisen",
+  "slot": "Introit",
+  "note": null,
+  "line": 56,
+  "thompson": "Es spricht der unweisen",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 10",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 57,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 11",
+  "title": "Es ist das Heil",
+  "slot": "Introit",
+  "note": null,
+  "line": 58,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 11",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 59,
+  "thompson": "Ein feste Burg",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 12",
+  "title": "Durch adams fall",
+  "slot": "Introit",
+  "note": null,
+  "line": 60,
+  "thompson": "Durch adams fall",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 12",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 61,
+  "thompson": "Herr Christ der einig",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 13",
+  "title": "Aus tiefer Not",
+  "slot": "Introit",
+  "note": null,
+  "line": 62,
+  "thompson": "Aus tiefer Not",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 13",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 63,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 14",
+  "title": "Aus tiefer Not",
+  "slot": "Introit",
+  "note": "Thompson: Aus tiefre not",
+  "line": 64,
+  "thompson": "Aus tiefre not",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 14",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 65,
+  "thompson": "Es woll uns Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 15",
+  "title": "Wo Gott zum haus",
+  "slot": "Introit",
+  "note": null,
+  "line": 66,
+  "thompson": "Wo Gott zum haus",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 15",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 67,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 16",
+  "title": "Mitten wir im leben sind",
+  "slot": "Introit",
+  "note": null,
+  "line": 68,
+  "thompson": "Mitten wir im leben sind",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 16",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 69,
+  "thompson": "Ich ruf zu dir",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 17",
+  "title": "Ach Gott vom Himmel sieh",
+  "slot": "Introit",
+  "note": null,
+  "line": 70,
+  "thompson": "Ach Gott vom Himmel sieh",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 17",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 71,
+  "thompson": "Es woll uns Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 18",
+  "title": "Nun freut euch",
+  "slot": "Introit",
+  "note": null,
+  "line": 72,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 18",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 73,
+  "thompson": "Herr Christ der einig",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 19",
+  "title": "Durch adams Fall",
+  "slot": "Introit",
+  "note": null,
+  "line": 74,
+  "thompson": "Durch adams Fall",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 19",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 75,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 20",
+  "title": "Es ist das Heil",
+  "slot": "Introit",
+  "note": null,
+  "line": 76,
+  "thompson": "Es ist das Heil",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 20",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 77,
+  "thompson": "Ich ruf zu dir",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 21",
+  "title": "Erbarm dich mein",
+  "slot": "Introit",
+  "note": null,
+  "line": 78,
+  "thompson": "Erbarm dich mein",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 21",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 79,
+  "thompson": "Es woll uns Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 22",
+  "title": "Es spricht der unweisen",
+  "slot": "Introit",
+  "note": null,
+  "line": 80,
+  "thompson": "Es spricht der unweisen",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 22",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 81,
+  "thompson": "Ein feste Burg",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 23",
+  "title": "Durch Adams Fall",
+  "slot": "Introit",
+  "note": null,
+  "line": 82,
+  "thompson": "Durch Adams Fall",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 23",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 83,
+  "thompson": "Es woll uns Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 24",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Introit",
+  "note": null,
+  "line": 84,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 24",
+  "title": "Herr Jesu Christ wahr mensch und Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 85,
+  "thompson": "Herr Jesu Christ wahr mensch und Gott",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 25",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Introit",
+  "note": null,
+  "line": 86,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 25",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 87,
+  "thompson": "Vater unser",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 26",
+  "title": "Erbarm dich mein",
+  "slot": "Introit",
+  "note": null,
+  "line": 88,
+  "thompson": "Erbarm dich mein",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 26",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 89,
+  "thompson": "Herr Christ der einig",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 27",
+  "title": "Nun freut euch",
+  "slot": "Introit",
+  "note": null,
+  "line": 90,
+  "thompson": "Nun freut euch",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Trinity 27",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 91,
+  "thompson": "Herr Christ der einig",
+  "sehling": "Sehling 1, Nr. 128 (Pirna"
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Annunciation (25 March)",
+  "title": null,
+  "slot": "Introit",
+  "note": "Latin introit",
+  "line": 92
+ },
+ {
+  "witness": "Pirna (before 1569)",
+  "occasion": "Annunciation (25 March)",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Latin chants",
+  "line": 93
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Advent",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 3,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Advent",
+  "title": "O Herr Gott schöpfer aller ding",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 4,
+  "thompson": "O Herr Gott schöpfer aller ding",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Ein Kindelein so lobelich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 5,
+  "thompson": "Ein Kindelein so lobelich",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Christum wir sollen loben schon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 6,
+  "thompson": "Christum wir sollen loben schon",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 7,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Vom Himmel hoch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 8,
+  "thompson": "Vom Himmel hoch",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Vom Himmel kam der Engel schar",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 9,
+  "thompson": "Vom Himmel kam der Engel schar",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Der Tag der ist so freudenreich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 10,
+  "thompson": "Der Tag der ist so freudenreich",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "In dulci jubilo",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "In dulci jubilo",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Ein kind geborn zu Bethlehem",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 12,
+  "thompson": "Ein kind geborn zu Bethlehem",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Was fürchstu feind herodes sehr",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 13,
+  "thompson": "Was fürchstu feind herodes sehr",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Christmas season",
+  "title": "Herr Christ der einig Gottessohn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 14,
+  "thompson": "Herr Christ der einig Gottessohn",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Lent",
+  "title": "O Gott Vater in Ewigkeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 15,
+  "thompson": "O Gott Vater in Ewigkeit",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Lent",
+  "title": "Christus der uns selig Macht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 16,
+  "thompson": "Christus der uns selig Macht",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Lent",
+  "title": "O Jesu Christ dein Nam der ist",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 17,
+  "thompson": "O Jesu Christ dein Nam der ist",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Lent",
+  "title": "Da Jesus an dem Kreuze stund",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 18,
+  "thompson": "Da Jesus an dem Kreuze stund",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Lent",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 19,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Easter",
+  "title": "Christ ist erstanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 20,
+  "thompson": "Christ ist erstanden",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Easter",
+  "title": "Christ lag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 21,
+  "thompson": "Christ lag",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Easter",
+  "title": "Jesus Christus unser Heiland der den Tod",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 22,
+  "thompson": "Jesus Christus unser Heiland der den Tod",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Easter",
+  "title": "Fröhlich wollen wir Halleluja singen",
+  "slot": "Chief hymn",
+  "note": "Thompson: Fröhlich wollen wir halleuljah singen",
+  "line": 23,
+  "thompson": "Fröhlich wollen wir halleuljah singen",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Ascension",
+  "title": "Christ fuhr gen Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 24,
+  "thompson": "Christ fuhr gen Himmel",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Pentecost",
+  "title": "Komm Heiliger Geist erfüll",
+  "slot": "Chief hymn",
+  "note": "Thompson: Komm Heiliger Geist erfull",
+  "line": 25,
+  "thompson": "Komm Heiliger Geist erfull",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Pentecost",
+  "title": "Komm Heiliger Geist herre Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 26,
+  "thompson": "Komm Heiliger Geist herre Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Pentecost",
+  "title": "Komm Gott Schöpfer",
+  "slot": "Chief hymn",
+  "note": "Thompson: Komm Gott schpopfer",
+  "line": 27,
+  "thompson": "Komm Gott schpopfer",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Pentecost",
+  "title": "Nun bitten wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 28,
+  "thompson": "Nun bitten wir",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Trinity Sunday",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 29,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Antwerp (Andorff, 1567)",
+  "occasion": "Trinity Sunday",
+  "title": "Der du bist drei in Einigkeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 30,
+  "thompson": "Der du bist drei in Einigkeit",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 1",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 3,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 1",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 4,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 2",
+  "title": "Gott hat das Evangelium",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 5,
+  "thompson": "Gott hat das Evangelium",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 2",
+  "title": "Es wird schier der letzte Tag herkommen",
+  "slot": "Chief hymn",
+  "note": "Thompson: Es wird sicher der letzte Tag herkommen",
+  "line": 6,
+  "thompson": "Es wird sicher der letzte Tag herkommen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 3",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 7,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 3",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 8,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 4",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 9,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Advent 4",
+  "title": "Von Adam her so lange zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 10,
+  "thompson": "Von Adam her so lange zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Christmas",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Christmas",
+  "title": "Christum wir sollen loben schon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 12,
+  "thompson": "Christum wir sollen loben schon",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany",
+  "title": "Was fürchtst du Feind Herodes",
+  "slot": "Chief hymn",
+  "note": "Thompson: Was fürchst du Feind Herodes",
+  "line": 13,
+  "thompson": "Was fürchst du Feind Herodes",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany",
+  "title": "Herr Christ der einig Gottessohn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 14,
+  "thompson": "Herr Christ der einig Gottessohn",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 1",
+  "title": "Christum wir sollen loben schon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 15,
+  "thompson": "Christum wir sollen loben schon",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 1",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 16,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 1",
+  "title": "Christ unser Herr zum Jordan kam",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 17,
+  "thompson": "Christ unser Herr zum Jordan kam",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 2",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 18,
+  "thompson": "Herr Christ der einig",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 2",
+  "title": "Wohl dem der in Gottes Furcht steht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 19,
+  "thompson": "Wohl dem der in Gottes Furcht steht",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 3",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 20,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 3",
+  "title": "Es wollt uns Gott genädig sein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 21,
+  "thompson": "Es wollt uns Gott genädig sein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 4",
+  "title": "Wär Gott nicht mit uns diese Zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 22,
+  "thompson": "Wär Gott nicht mit uns diese Zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 4",
+  "title": "Wo Gott der Herr nicht bei uns halt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 23,
+  "thompson": "Wo Gott der Herr nicht bei uns halt",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 5",
+  "title": "Es spricht der unweisen Mund wohl",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 24,
+  "thompson": "Es spricht der unweisen Mund wohl",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Epiphany 5",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 25,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Septuagesima",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 26,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Septuagesima",
+  "title": "Es spricht der unweisen Mund wohl",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 27,
+  "thompson": "Es spricht der unweisen Mund wohl",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Sexagesima",
+  "title": "ES spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 28,
+  "thompson": "ES spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Sexagesima",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 29,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 30,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 31,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 32,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 33,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 34,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Vater unser im Himmelreich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 35,
+  "thompson": "Vater unser im Himmelreich",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 36,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Christe der du bist Tag und Licht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 37,
+  "thompson": "Christe der du bist Tag und Licht",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 38,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Es wollt uns Gott genädig sein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 39,
+  "thompson": "Es wollt uns Gott genädig sein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Christus der uns selig macht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 40,
+  "thompson": "Christus der uns selig macht",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Christe der du bist Tag und licht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 41,
+  "thompson": "Christe der du bist Tag und licht",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Palm Sunday",
+  "title": "Wär Gott nicht mit uns diese Zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 42,
+  "thompson": "Wär Gott nicht mit uns diese Zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Palm Sunday",
+  "title": "Christus der uns selig macht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 43,
+  "thompson": "Christus der uns selig macht",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Maundy Thursday",
+  "title": "Jesus Christus unser Heiland der von uns",
+  "slot": "Chief hymn",
+  "note": "Thompson: Jessu CHristus unser heiland der von uns",
+  "line": 44,
+  "thompson": "Jessu CHristus unser heiland der von uns",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Maundy Thursday",
+  "title": "Gott sei gelobet",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 45,
+  "thompson": "Gott sei gelobet",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter",
+  "title": "Christ lag in Todesbanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 46,
+  "thompson": "Christ lag in Todesbanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter",
+  "title": "Christ ist erstanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 47,
+  "thompson": "Christ ist erstanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "title": "Christ lag in Todesbanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 48,
+  "thompson": "Christ lag in Todesbanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "title": "Christ ist erstanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 49,
+  "thompson": "Christ ist erstanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 2 (Misericordias Domini)",
+  "title": "Christ lag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 50,
+  "thompson": "Christ lag",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 2 (Misericordias Domini)",
+  "title": "Christ ist erstanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 51,
+  "thompson": "Christ ist erstanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 3 (Jubilate)",
+  "title": "Fröhlich wollen wir halleluja singen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 52,
+  "thompson": "Fröhlich wollen wir halleluja singen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 3 (Jubilate)",
+  "title": "Christ ist erstanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 53,
+  "thompson": "Christ ist erstanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 5 (Rogate)",
+  "title": "Vater unser im Himmelreich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 54,
+  "thompson": "Vater unser im Himmelreich",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Easter 5 (Rogate)",
+  "title": "Christ lag in Todesbanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 55,
+  "thompson": "Christ lag in Todesbanden",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Ascension",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 56,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "title": "Christ fuhr gen Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 57,
+  "thompson": "Christ fuhr gen Himmel",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 58,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Pentecost",
+  "title": "Nun bitten wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 59,
+  "thompson": "Nun bitten wir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Pentecost",
+  "title": "Komm heiliger Geist",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 60,
+  "thompson": "Komm heiliger Geist",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity Sunday",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 61,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity Sunday",
+  "title": "Komm heiliger geist",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 62,
+  "thompson": "Komm heiliger geist",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 63,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 64,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 65,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 66,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Es spricht der unweisen Mund",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 67,
+  "thompson": "Es spricht der unweisen Mund",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 68,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 69,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity season",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 70,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 1",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 71,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 1",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 72,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 2",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 73,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 2",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 74,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 3",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 75,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 3",
+  "title": "Durch adams fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 76,
+  "thompson": "Durch adams fall",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 4",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 77,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 4",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 78,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 5",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 79,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 5",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 80,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 6",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 81,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 6",
+  "title": "Dies sind die heiligen",
+  "slot": "Chief hymn",
+  "note": "Thompson: Dies sind die heiligne",
+  "line": 82,
+  "thompson": "Dies sind die heiligne",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 7",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 83,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 7",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 84,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 8",
+  "title": "Ach Gott vom Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 85,
+  "thompson": "Ach Gott vom Himmel",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 8",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 86,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 9",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 87,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 9",
+  "title": "Allein zu dir Herr Jesu Christ",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 88,
+  "thompson": "Allein zu dir Herr Jesu Christ",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 10",
+  "title": "An wasserflussen Babylon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 89,
+  "thompson": "An wasserflussen Babylon",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 10",
+  "title": "War Gott nicht mit uns diese zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 90,
+  "thompson": "War Gott nicht mit uns diese zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 11",
+  "title": "Es spricht der unweisen Mund wohl",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 91,
+  "thompson": "Es spricht der unweisen Mund wohl",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 11",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 92,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 12",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 93,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 12",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 94,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 13",
+  "title": "Durch adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 95,
+  "thompson": "Durch adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 13",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 96,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 14",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 97,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 14",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 98,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 15",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 99,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 15",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 100,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 16",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 101,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 16",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 102,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 17",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 103,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 17",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 104,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 18",
+  "title": "Mensch willstdu leben seliglich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 105,
+  "thompson": "Mensch willstdu leben seliglich",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 18",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 106,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 19",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 107,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 19",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 108,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 20",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 109,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 20",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 110,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 21",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 111,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 21",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 112,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 22",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 113,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 22",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 114,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 23",
+  "title": "Wo Gott der Herr nicht bei uns halt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 115,
+  "thompson": "Wo Gott der Herr nicht bei uns halt",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 23",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 116,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 24",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 117,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 24",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 118,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 25",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 119,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 25",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 120,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 26",
+  "title": "Es wird schier der letzte Tag herkommen",
+  "slot": "Chief hymn",
+  "note": "Thompson: Es wird sicher der letzte Tag herkommen",
+  "line": 121,
+  "thompson": "Es wird sicher der letzte Tag herkommen",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Trinity 26",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 122,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Herr Christ der einig Gottes sohn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 123,
+  "thompson": "Herr Christ der einig Gottes sohn",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 124,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Meine Seele erhebt den Herren",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 125,
+  "thompson": "Meine Seele erhebt den Herren",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 126,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": "Christ unser Herr zum Jordan",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 127,
+  "thompson": "Christ unser Herr zum Jordan",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": "Gelobet sei der Herr der Gott Israel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 128,
+  "thompson": "Gelobet sei der Herr der Gott Israel",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St Mary Magdalene (22 July)",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 129,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St Mary Magdalene (22 July)",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 130,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St Anne (26 July)",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 131,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St Anne (26 July)",
+  "title": "Es wollt uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 132,
+  "thompson": "Es wollt uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 133,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Annaberg (1579)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Nun lob mein Seel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 134,
+  "thompson": "Nun lob mein Seel",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 1",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 3,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 1",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 4,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 2",
+  "title": "Durch adams fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 5,
+  "thompson": "Durch adams fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 2",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Postlude",
+  "note": null,
+  "line": 6,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 3",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 7,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 3",
+  "title": "War gott nicht mit uns diese Zeit",
+  "slot": "Postlude",
+  "note": null,
+  "line": 8,
+  "thompson": "War gott nicht mit uns diese Zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 4",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 9,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Advent 4",
+  "title": "Erhalt uns Herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 10,
+  "thompson": "Erhalt uns Herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Christmas",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Christmas",
+  "title": "Puer natus",
+  "slot": "Postlude",
+  "note": null,
+  "line": 12,
+  "thompson": "Puer natus",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St Stephen (26 Dec)",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 13,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St Stephen (26 Dec)",
+  "title": "Puer natus",
+  "slot": "Postlude",
+  "note": null,
+  "line": 14,
+  "thompson": "Puer natus",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St John the Evangelist (27 Dec)",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 15,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St John the Evangelist (27 Dec)",
+  "title": "Puer natus",
+  "slot": "Postlude",
+  "note": null,
+  "line": 16,
+  "thompson": "Puer natus",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Sunday after Christmas",
+  "title": "Puer natus",
+  "slot": "Postlude",
+  "note": null,
+  "line": 17,
+  "thompson": "Puer natus",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "New Year (Circumcision)",
+  "title": "Puer natus",
+  "slot": "Postlude",
+  "note": null,
+  "line": 18,
+  "thompson": "Puer natus",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 2",
+  "title": "Wol dem der in gottes furcht steht",
+  "slot": "Postlude",
+  "note": null,
+  "line": 19,
+  "thompson": "Wol dem der in gottes furcht steht",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 3",
+  "title": "War gott nicht mit uns diese zeit",
+  "slot": "Postlude",
+  "note": null,
+  "line": 20,
+  "thompson": "War gott nicht mit uns diese zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 4",
+  "title": "Was kann uns kommen an fur Not",
+  "slot": "Introit",
+  "note": null,
+  "line": 21,
+  "thompson": "Was kann uns kommen an fur Not",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 4",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 22,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 5",
+  "title": "Hilf Gott wie geht das immer zu",
+  "slot": "Introit",
+  "note": null,
+  "line": 23,
+  "thompson": "Hilf Gott wie geht das immer zu",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 5",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 24,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Epiphany 5",
+  "title": "Ein feste Burg",
+  "slot": "Postlude",
+  "note": null,
+  "line": 25,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Septuagesima",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 26,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Septuagesima",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 27,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Sexagesima",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 28,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Sexagesima",
+  "title": "Es wollt uns Gott genadig",
+  "slot": "Postlude",
+  "note": null,
+  "line": 29,
+  "thompson": "Es wollt uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 30,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "War Gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 31,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 32,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 33,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Durch adams fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 34,
+  "thompson": "Durch adams fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Litany",
+  "line": 35
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 36,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 37,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Litany",
+  "line": 38
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Es woll uns Gott",
+  "slot": "Postlude",
+  "note": null,
+  "line": 39,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Aus tiefer Not",
+  "slot": "Introit",
+  "note": null,
+  "line": 40,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Von allen Menschen abgewandt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 41,
+  "thompson": "Von allen Menschen abgewandt",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "War Gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 42,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 43,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 44,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Palm Sunday",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 45,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Maundy Thursday",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 46,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Maundy Thursday",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 47,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Good Friday",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 48,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Good Friday",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Postlude",
+  "note": null,
+  "line": 49,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Holy Saturday",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 50,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Holy Saturday",
+  "title": "Es wollt uns Gott",
+  "slot": "Postlude",
+  "note": null,
+  "line": 51,
+  "thompson": "Es wollt uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Easter season",
+  "title": "Jesus Christus unser heiland der den tod",
+  "slot": "Postlude",
+  "note": null,
+  "line": 52,
+  "thompson": "Jesus Christus unser heiland der den tod",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Easter",
+  "title": "Christ lag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 53,
+  "thompson": "Christ lag",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Easter",
+  "title": "Jesus Christus unser heiland der den tod",
+  "slot": "Distribution",
+  "note": null,
+  "line": 54,
+  "thompson": "Jesus Christus unser heiland der den tod",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Easter",
+  "title": "Laetemur in Christo redemptore",
+  "slot": "Distribution",
+  "note": null,
+  "line": 55,
+  "thompson": "Laetemur in Christo redemptore",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Easter 4 (Cantate)",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Litany",
+  "line": 56
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Easter 5 (Rogate)",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Litany",
+  "line": 57
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Nicene creed",
+  "line": 58
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Pentecost",
+  "title": "Komm Gott schöpfer",
+  "slot": "Postlude",
+  "note": null,
+  "line": 59,
+  "thompson": "Komm Gott schöpfer",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Pentecost Monday & Tuesday",
+  "title": "Komm Heiliger Geist",
+  "slot": "Postlude",
+  "note": null,
+  "line": 60,
+  "thompson": "Komm Heiliger Geist",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity Sunday",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Nicene creed",
+  "line": 61
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity Sunday",
+  "title": "Sei Lob und Ehr mit hohem preis",
+  "slot": "Postlude",
+  "note": null,
+  "line": 62,
+  "thompson": "Sei Lob und Ehr mit hohem preis",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 1",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 63,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 1",
+  "title": "War gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 64,
+  "thompson": "War gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 2",
+  "title": "Was kann uns kommen an fur not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 65,
+  "thompson": "Was kann uns kommen an fur not",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 2",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 66,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 3",
+  "title": "Dies sind die heilgen",
+  "slot": "Introit",
+  "note": null,
+  "line": 67,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 3",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 68,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 3",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 69,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 4",
+  "title": "Von allen Menschen abgewandt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 70,
+  "thompson": "Von allen Menschen abgewandt",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 4",
+  "title": "Es wollt uns Gott genadig",
+  "slot": "Postlude",
+  "note": null,
+  "line": 71,
+  "thompson": "Es wollt uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 5",
+  "title": "Sei lob und ehr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 72,
+  "thompson": "Sei lob und ehr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 6",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 73,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 6",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 74,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 7",
+  "title": "Ein feste Burg",
+  "slot": "Introit",
+  "note": "Thompson: Ein vaste borch",
+  "line": 75,
+  "thompson": "Ein vaste borch",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 7",
+  "title": "Von allen Menschen abgewandt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 76,
+  "thompson": "Von allen Menschen abgewandt",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 7",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 77,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 8",
+  "title": "Christ unser Herr zum Jordan kam",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 78,
+  "thompson": "Christ unser Herr zum Jordan kam",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 8",
+  "title": "Es woll uns Gott",
+  "slot": "Postlude",
+  "note": null,
+  "line": 79,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 9",
+  "title": "Erbarm dich mein",
+  "slot": "Introit",
+  "note": null,
+  "line": 80,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 9",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 81,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 9",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Nicene creed",
+  "line": 82
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 9",
+  "title": "War Gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 83,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 10",
+  "title": "Sei lob und Ehr mit hohem Preis",
+  "slot": "Postlude",
+  "note": null,
+  "line": 84,
+  "thompson": "Sei lob und Ehr mit hohem Preis",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 11",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 85,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 11",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 86,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 12",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Introit",
+  "note": null,
+  "line": 87,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 12",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 88,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 12",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Litany",
+  "line": 89
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 12",
+  "title": "Es woll uns Gott",
+  "slot": "Postlude",
+  "note": null,
+  "line": 90,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 13",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 91,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 13",
+  "title": "War Gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 92,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 14",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 93,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 14",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 94,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 15",
+  "title": "Sei Lob und Ehr mit hohem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 95,
+  "thompson": "Sei Lob und Ehr mit hohem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 16",
+  "title": "Mit fried und freud",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 96,
+  "thompson": "Mit fried und freud",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 16",
+  "title": "An wasserflussen babylon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 97,
+  "thompson": "An wasserflussen babylon",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 16",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Nicene creed",
+  "line": 98
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 16",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Postlude",
+  "note": null,
+  "line": 99,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 17",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Introit",
+  "note": "Thompson: Mitten wir im Leben isnd",
+  "line": 100,
+  "thompson": "Mitten wir im Leben isnd",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 17",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 101,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 17",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "litany",
+  "line": 102
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 17",
+  "title": "War Gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 103,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 18",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 104,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 18",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 105,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 19",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 106,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 19",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 107,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 20",
+  "title": "Sei lob und ehr mit hohem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 108,
+  "thompson": "Sei lob und ehr mit hohem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 21",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 109,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 21",
+  "title": "War Gott nicht mit uns",
+  "slot": "Postlude",
+  "note": null,
+  "line": 110,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 22",
+  "title": "Von allen Menschen abgewandt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 111,
+  "thompson": "Von allen Menschen abgewandt",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 22",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Nicene creed",
+  "line": 112
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 22",
+  "title": "Erhalt uns herr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 113,
+  "thompson": "Erhalt uns herr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 23",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 114,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 23",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 115,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 24",
+  "title": "Erbarm dich mein",
+  "slot": "Introit",
+  "note": null,
+  "line": 116,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 24",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 117,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 24",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Postlude",
+  "note": null,
+  "line": 118,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 25",
+  "title": "Aus tiefer Not",
+  "slot": "Introit",
+  "note": null,
+  "line": 119,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 25",
+  "title": "Hilf Gott wie geht das immer zu",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 120,
+  "thompson": "Hilf Gott wie geht das immer zu",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 25",
+  "title": "Es woll uns Gott",
+  "slot": "Postlude",
+  "note": null,
+  "line": 121,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Trinity 26",
+  "title": "Sei lob und Ehr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 122,
+  "thompson": "Sei lob und Ehr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Puer natus in Bethlehem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 123,
+  "thompson": "Puer natus in Bethlehem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Sei lob und ehr mit hohem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 124,
+  "thompson": "Sei lob und ehr mit hohem",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Es woll uns Gott",
+  "slot": "Postlude",
+  "note": null,
+  "line": 125,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": "Christ unser Herr zum Jordan",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 126,
+  "thompson": "Christ unser Herr zum Jordan",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": null,
+  "slot": "After the sermon",
+  "note": "Nicene creed",
+  "line": 127
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": "Sei Lob und Ehr",
+  "slot": "Postlude",
+  "note": null,
+  "line": 128,
+  "thompson": "Sei Lob und Ehr",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 129,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Eler, Cantica sacra (1588)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Da pacem",
+  "slot": "Postlude",
+  "note": null,
+  "line": 130,
+  "thompson": "Da pacem",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Mit Fried und Freud",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 3,
+  "thompson": "Mit Fried und Freud",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Ein Kindelein so Lobelich",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 4,
+  "thompson": "Ein Kindelein so Lobelich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Ein Kindelein so löbelich",
+  "slot": "After the sermon",
+  "note": "Thompson: Ein Kinedelin so lobelich",
+  "line": 5,
+  "thompson": "Ein Kinedelin so lobelich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Nun freut euch",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 6,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Meine Seele erhebt den Herren",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 7,
+  "thompson": "Meine Seele erhebt den Herren",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Common of Apostles",
+  "title": "Vater unser",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 8,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Common of Apostles",
+  "title": "Erhalt uns Herr",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 9,
+  "thompson": "Erhalt uns Herr",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Conversion of St Paul (25 Jan)",
+  "title": "Erbarm dich mein",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 10,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "Sts Philip and James (1 May)",
+  "title": "Nun freut euch",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 11,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1613)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Herr Gott dich loben wir",
+  "slot": "After the sermon",
+  "note": null,
+  "line": 12,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 1",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 3,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 1",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 4,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 1",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 5,
+  "thompson": "Herr Christ der einig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 2",
+  "title": "Gott hat das Evangelium",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 6,
+  "thompson": "Gott hat das Evangelium",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 2",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "Eben dieselben",
+  "line": 7
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 3",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 8,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 3",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 9,
+  "thompson": "Herr Christ der einig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 3",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 10,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 4",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 11,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 4",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 12,
+  "thompson": "Herr Christ der einig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Advent 4",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 13,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Gelobet seist du",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 14,
+  "thompson": "Gelobet seist du",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Vom Himmel hoch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 15,
+  "thompson": "Vom Himmel hoch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Vom himmel kam der engel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 16,
+  "thompson": "Vom himmel kam der engel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Der Tag der ist so freudenreich",
+  "slot": "Chief hymn",
+  "note": "Thompson: Der Tag der ist so",
+  "line": 17,
+  "thompson": "Der Tag der ist so",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Ein Kind geboren zu bethlehem",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 18,
+  "thompson": "Ein Kind geboren zu bethlehem",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Danksagen wir alle",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 19,
+  "thompson": "Danksagen wir alle",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Christmas season",
+  "title": "Christum wir sollen loben schon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 20,
+  "thompson": "Christum wir sollen loben schon",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "New Year (Circumcision)",
+  "title": "Helft mir Gotts Güte preisen",
+  "slot": "Chief hymn",
+  "note": "Thompson: Hilf mir gotts gute preisen",
+  "line": 21,
+  "thompson": "Hilf mir gotts gute preisen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "New Year (Circumcision)",
+  "title": "Das alte Jahr",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 22,
+  "thompson": "Das alte Jahr",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "New Year (Circumcision)",
+  "title": "Jesu nun sei gepreiset",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 23,
+  "thompson": "Jesu nun sei gepreiset",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "New Year (Circumcision)",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "as on Christmastide",
+  "line": 24
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany",
+  "title": "Was furchstu feind herodes",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 25,
+  "thompson": "Was furchstu feind herodes",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "as on Christmas",
+  "line": 26
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 1",
+  "title": "Dies sind die heilgen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 27,
+  "thompson": "Dies sind die heilgen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 1",
+  "title": "Mensch willstu leben seliglich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 28,
+  "thompson": "Mensch willstu leben seliglich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 2",
+  "title": "Wohl dem der in Gottes furcht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 29,
+  "thompson": "Wohl dem der in Gottes furcht",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 2",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 30,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 2",
+  "title": "Vergebens ist all Müh und Kost",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 31,
+  "thompson": "Vergebens ist all Müh und Kost",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 2",
+  "title": "Wo Gott zum haus nicht gibt sein gunst",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 32,
+  "thompson": "Wo Gott zum haus nicht gibt sein gunst",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 3",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 33,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 3",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 34,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 4",
+  "title": "War gott nicht mit uns diese zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 35,
+  "thompson": "War gott nicht mit uns diese zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 4",
+  "title": "Wo Gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 36,
+  "thompson": "Wo Gott der Herr nicht bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 4",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 37,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 5",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 38,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Epiphany 5",
+  "title": "Ach Gott vom Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 39,
+  "thompson": "Ach Gott vom Himmel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent",
+  "title": "Christe der du bist Tag und Licht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 40,
+  "thompson": "Christe der du bist Tag und Licht",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Septuagesima",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 41,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Septuagesima",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 42,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Sexagesima",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 43,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Sexagesima",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 44,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Sexagesima",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 45,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "O Lamm Gottes",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 46,
+  "thompson": "O Lamm Gottes",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Christe der du bist tag und licht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 47,
+  "thompson": "Christe der du bist tag und licht",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 48,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Quinquagesima (Estomihi)",
+  "title": "Allein zu dir Herr Jesu Christ",
+  "slot": "Chief hymn",
+  "note": "transcription error?",
+  "line": 49,
+  "thompson": "Allein nach dir Herr Jesu Christ",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Gott der vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 50,
+  "thompson": "Gott der vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 1 (Invocavit)",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 51,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 52,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 53,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 2 (Reminiscere)",
+  "title": "Gott der vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 54,
+  "thompson": "Gott der vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 55,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 56,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 3 (Oculi)",
+  "title": "Durch Adams fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 57,
+  "thompson": "Durch Adams fall",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 58,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 4 (Laetare)",
+  "title": "Warum betrübst du dich mein Herz",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 59,
+  "thompson": "Warum betrübst du dich mein Herz",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 60,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Lent 5 (Judica)",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 61,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Palm Sunday",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 62,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Palm Sunday",
+  "title": "Herr Jesu Christ wahr mensch und Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 63,
+  "thompson": "Herr Jesu Christ wahr mensch und Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Maundy Thursday",
+  "title": "Jesus Christus unser Heiland der von uns",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 64,
+  "thompson": "Jesus Christus unser Heiland der von uns",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Maundy Thursday",
+  "title": "Gott sei gelobet",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 65,
+  "thompson": "Gott sei gelobet",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Maundy Thursday",
+  "title": "O Lamm Gottes unschuldig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 66,
+  "thompson": "O Lamm Gottes unschuldig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Good Friday",
+  "title": "Christus der uns selig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 67,
+  "thompson": "Christus der uns selig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Good Friday",
+  "title": "Hilf Gott dass mir gelinge",
+  "slot": "Chief hymn",
+  "note": "Thompson: Hilf Gott das mirs gelinge",
+  "line": 68,
+  "thompson": "Hilf Gott das mirs gelinge",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Good Friday",
+  "title": "Da Jesus an dem Kreuze stund",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 69,
+  "thompson": "Da Jesus an dem Kreuze stund",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Good Friday",
+  "title": "Herr Jesu Christ wahr Mensch und Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 70,
+  "thompson": "Herr Jesu Christ wahr Mensch und Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Good Friday",
+  "title": "O Lamm Gottes unschuldig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 71,
+  "thompson": "O Lamm Gottes unschuldig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter season",
+  "title": "Christ lag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 72,
+  "thompson": "Christ lag",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter season",
+  "title": "Jesus Christus unser Heiland der den Tod",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 73,
+  "thompson": "Jesus Christus unser Heiland der den Tod",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter season",
+  "title": "Christ ist erstanden",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 74,
+  "thompson": "Christ ist erstanden",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter season",
+  "title": "Erstanden ist der heilge Christ",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 75,
+  "thompson": "Erstanden ist der heilge Christ",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter season",
+  "title": "Also heilig ist der Tag",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 76,
+  "thompson": "Also heilig ist der Tag",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter season",
+  "title": "Ich weiß daß mein Erlöser lebt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 77,
+  "thompson": "Ich weiß daß mein Erlöser lebt",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 78,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 1 (Quasimodogeniti)",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 79,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 2 (Misericordias Domini)",
+  "title": "Der Herr ist mein getreuer Hirt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 80,
+  "thompson": "Der Herr ist mein getreuer Hirt",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 3 (Jubilate)",
+  "title": "Mag ich Ungluck nicht widerstahn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 81,
+  "thompson": "Mag ich Ungluck nicht widerstahn",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 3 (Jubilate)",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 82,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 3 (Jubilate)",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 83,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 4 (Cantate)",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 84,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 5 (Rogate)",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 85,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Easter 5 (Rogate)",
+  "title": "Wenn wir in höchsten Nöten",
+  "slot": "Chief hymn",
+  "note": "Thompson: Wenn wir im höchsten Noten",
+  "line": 86,
+  "thompson": "Wenn wir im höchsten Noten",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Ascension",
+  "title": "Christ fuhr gen Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 87,
+  "thompson": "Christ fuhr gen Himmel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Ascension",
+  "title": "Nun freut euch gottes kinder all",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 88,
+  "thompson": "Nun freut euch gottes kinder all",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Ascension",
+  "title": "Nun freut euch lieben Christen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 89,
+  "thompson": "Nun freut euch lieben Christen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Ascension",
+  "title": "Nun freut euch Gottes Kinder all",
+  "slot": "Chief hymn",
+  "note": "Thompson: Der Herr fährt auf mit grossem Schall",
+  "line": 90,
+  "thompson": "Der Herr fährt auf mit grossem Schall",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 91,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "title": "Komm Gott Schöpfer",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 92,
+  "thompson": "Komm Gott Schöpfer",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Sunday after Ascension (Exaudi)",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "as on Ascension",
+  "line": 93
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Pentecost",
+  "title": "Nun bitten wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 94,
+  "thompson": "Nun bitten wir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Pentecost",
+  "title": "Komm Heiliger Geist, herre Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 95,
+  "thompson": "Komm Heiliger Geist, herre Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity season",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 96,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity season",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 97,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity season",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 98,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity season",
+  "title": "Allein Gott in der höh",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 99,
+  "thompson": "Allein Gott in der höh",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity season",
+  "title": "Kyrie Gott Vater in Ewigkeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 100,
+  "thompson": "Kyrie Gott Vater in Ewigkeit",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity season",
+  "title": "Der du bist drei in Einigkeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 101,
+  "thompson": "Der du bist drei in Einigkeit",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 1",
+  "title": "Nun höret zu ihr Christenleut",
+  "slot": "Chief hymn",
+  "note": "Thompson: Nun hπoret zu ihr Christenleut",
+  "line": 102,
+  "thompson": "Nun hπoret zu ihr Christenleut",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 1",
+  "title": "Weltlich Ehr und zeitlich Gut",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 103,
+  "thompson": "Weltlich Ehr und zeitlich Gut",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 1",
+  "title": "Es spricht der unweisen Mund wohl",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 104,
+  "thompson": "Es spricht der unweisen Mund wohl",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 2",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 105,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 2",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 106,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 2",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 107,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 3",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 108,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 3",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 109,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 4",
+  "title": "Mensch willstdu leben seliglich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 110,
+  "thompson": "Mensch willstdu leben seliglich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 4",
+  "title": "Dies sind die heiligen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 111,
+  "thompson": "Dies sind die heiligen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 5",
+  "title": "Vergebens ist all müh und kost",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 112,
+  "thompson": "Vergebens ist all müh und kost",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 5",
+  "title": "Wo Gott zum Haus",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 113,
+  "thompson": "Wo Gott zum Haus",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 5",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 114,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 6",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 115,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 6",
+  "title": "Durch adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 116,
+  "thompson": "Durch adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 6",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "as on Trinity 4",
+  "line": 117
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 7",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 118,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 7",
+  "title": "Wohl dem der in Gottes furcht",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 119,
+  "thompson": "Wohl dem der in Gottes furcht",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 7",
+  "title": "Warum betrübst du dich mein Herz",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 120,
+  "thompson": "Warum betrübst du dich mein Herz",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 7",
+  "title": "Nun lob mein seel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 121,
+  "thompson": "Nun lob mein seel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 8",
+  "title": "Ach Gott vom Himmel sieh darein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 122,
+  "thompson": "Ach Gott vom Himmel sieh darein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 8",
+  "title": "O Herr Gott, dein göttlich Wort",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 123,
+  "thompson": "O Herr Gott, dein göttlich Wort",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 9",
+  "title": "Es woll uns Gott genadig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 124,
+  "thompson": "Es woll uns Gott genadig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 9",
+  "title": "Es spricht der unweisen",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 125,
+  "thompson": "Es spricht der unweisen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 10",
+  "title": "An wasserflussen babylon",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 126,
+  "thompson": "An wasserflussen babylon",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 10",
+  "title": "Nimm von uns Herr Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 127,
+  "thompson": "Nimm von uns Herr Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 10",
+  "title": "Nimm von uns Herr du treuer Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 128,
+  "thompson": "Nimm von uns Herr du treuer Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 11",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 129,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 11",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 130,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 11",
+  "title": "Es ist das Heil",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 131,
+  "thompson": "Es ist das Heil",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 11",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 132,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 12",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 133,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 12",
+  "title": "Nun lob mein Seel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 134,
+  "thompson": "Nun lob mein Seel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 13",
+  "title": "Durch Adams Fall",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 135,
+  "thompson": "Durch Adams Fall",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 13",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 136,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 14",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 137,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 14",
+  "title": "Nun lob mein Seel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 138,
+  "thompson": "Nun lob mein Seel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 14",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 139,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 15",
+  "title": "Vater unser",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 140,
+  "thompson": "Vater unser",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 15",
+  "title": "Warum betrubst du dich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 141,
+  "thompson": "Warum betrubst du dich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 16",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 142,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 16",
+  "title": "Ach lieben Christen seid getrost",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 143,
+  "thompson": "Ach lieben Christen seid getrost",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 16",
+  "title": "Wenn mein Stündlein vorhanden ist",
+  "slot": "Chief hymn",
+  "note": "Thompson: Wenn mein Stundlein vordanden ist",
+  "line": 144,
+  "thompson": "Wenn mein Stundlein vordanden ist",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 17",
+  "title": "Wo Gott der Herr nicht bei uns halt",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 145,
+  "thompson": "Wo Gott der Herr nicht bei uns halt",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 17",
+  "title": "War Gott nicht mit uns diese Zeit",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 146,
+  "thompson": "War Gott nicht mit uns diese Zeit",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 18",
+  "title": "Dies sind die heiligen",
+  "slot": "Chief hymn",
+  "note": "Thompson: Dies sind de hieligen",
+  "line": 147,
+  "thompson": "Dies sind de hieligen",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 18",
+  "title": "Herr Christ der einig Gottessohn",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 148,
+  "thompson": "Herr Christ der einig Gottessohn",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 19",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 149,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 19",
+  "title": "Aus tiefer Not",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 150,
+  "thompson": "Aus tiefer Not",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 20",
+  "title": "Ach Gott vom Himmel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 151,
+  "thompson": "Ach Gott vom Himmel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 20",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "as on Trinity 17",
+  "line": 152
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 21",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 153,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 22",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 154,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 23",
+  "title": "Wo gott der Herr nicht bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 155,
+  "thompson": "Wo gott der Herr nicht bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 23",
+  "title": "War Gott nicht mit uns",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 156,
+  "thompson": "War Gott nicht mit uns",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 24",
+  "title": "Mitten wir im Leben sind",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 157,
+  "thompson": "Mitten wir im Leben sind",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 24",
+  "title": "Allein zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 158,
+  "thompson": "Allein zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 25",
+  "title": "Gott hat das Evangelium",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 159,
+  "thompson": "Gott hat das Evangelium",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 25",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 160,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 25",
+  "title": "Es ist gewisslich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 161,
+  "thompson": "Es ist gewisslich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 26",
+  "title": "Gott hat das Evangelium",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 162,
+  "thompson": "Gott hat das Evangelium",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 26",
+  "title": "Gott der vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 163,
+  "thompson": "Gott der vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 26",
+  "title": "Es ist gewisslich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 164,
+  "thompson": "Es ist gewisslich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 27",
+  "title": "Gott hat das Evangelium",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 165,
+  "thompson": "Gott hat das Evangelium",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 27",
+  "title": "Gott der Vater wohn uns bei",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 166,
+  "thompson": "Gott der Vater wohn uns bei",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Trinity 27",
+  "title": "Es ist gewisslich",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 167,
+  "thompson": "Es ist gewisslich",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": "Mit Fried und Freud",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 168,
+  "thompson": "Mit Fried und Freud",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Purification of Mary (2 Feb)",
+  "title": null,
+  "slot": "Chief hymn",
+  "note": "as on Christmas",
+  "line": 169
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 170,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 171,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Annunciation (25 March)",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 172,
+  "thompson": "Herr Christ der einig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Nun freut euch",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 173,
+  "thompson": "Nun freut euch",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Nun komm",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 174,
+  "thompson": "Nun komm",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Visitation of Mary (2 July)",
+  "title": "Herr Christ der einig",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 175,
+  "thompson": "Herr Christ der einig",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Common of Apostles",
+  "title": "Kommt her zu mir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 176,
+  "thompson": "Kommt her zu mir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Common of Apostles",
+  "title": "Es woll uns Gott",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 177,
+  "thompson": "Es woll uns Gott",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Common of Apostles",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 178,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Common of Apostles",
+  "title": "Ich ruf zu dir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 179,
+  "thompson": "Ich ruf zu dir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Common of Apostles",
+  "title": "Erhalt uns Herr",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 180,
+  "thompson": "Erhalt uns Herr",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "Common of Apostles",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 181,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": "Christ unser Herr zum Jordan kam",
+  "slot": "Chief hymn",
+  "note": "Thompson: Christ unser Herr",
+  "line": 182,
+  "thompson": "Christ unser Herr",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "St John the Baptist (24 June)",
+  "title": "Gelobet sei der Herr der Gott Israel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 183,
+  "thompson": "Gelobet sei der Herr der Gott Israel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "St Mary Magdalene (22 July)",
+  "title": "Erbarm dich mein",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 184,
+  "thompson": "Erbarm dich mein",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Herr Gott dich loben wir",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 185,
+  "thompson": "Herr Gott dich loben wir",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Nun lob mein Seel",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 186,
+  "thompson": "Nun lob mein Seel",
+  "sehling": null
+ },
+ {
+  "witness": "Magdeburg (1632)",
+  "occasion": "St Michael (29 Sept)",
+  "title": "Ein feste Burg",
+  "slot": "Chief hymn",
+  "note": null,
+  "line": 187,
+  "thompson": "Ein feste Burg",
+  "sehling": null
+ }
+]

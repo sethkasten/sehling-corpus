@@ -9,6 +9,14 @@ meaning of the table. The full extraction is kept in rows_krusemark_raw.json.
 Note on his Easter numbering: Krusemark counts Easter Day as Easter 1, so
 his 'Easter 2, Quasimodo Geniti' is the Sunday this database already calls
 'Easter 1 (Quasimodogeniti)'. The mapping below shifts them back.
+
+His Thompson column is not loaded. It is not one witness's list: it sets out
+the hymns of Ludecus and twelve other lists that Jason Thompson collates in
+his dissertation (Appendix 2), and underlines those that three or more of the
+lists give (Krusemark, p. 95). Ludecus is loaded in his own right, and of
+Thompson's transcriptions of the other lists (rows_thompson.json) four are
+loaded by merge_thompson.py and three are Sehling orders read from the corpus.
+Counting the column as well would count these lists twice.
 """
 import re, os, json, sqlite3, collections, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -59,6 +67,9 @@ def norm_occ(raw):
     if m: return f'{m.group(1)} {m.group(2)}'
     return raw
 
+# his lists that are not loaded (see above)
+NOT_LOADED = {'Thompson'}
+
 # witnesses Krusemark shares with sources already in the database
 SHARED = {
  'Gehrke, Planning the Service':'Gehrke',
@@ -70,7 +81,7 @@ SHARED = {
 
 def main():
     raw = json.load(open(os.path.join(HERE, 'rows_krusemark_raw.json'), encoding='utf-8'))
-    hod = [x for x in raw if x['hod']]
+    hod = [x for x in raw if x['hod'] and x['list'] not in NOT_LOADED]
     db = sqlite3.connect(os.path.join(HERE, '..', 'hymns.db'))
     c = db.cursor()
 

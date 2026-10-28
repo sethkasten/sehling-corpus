@@ -165,6 +165,11 @@ def rows_anhalt():
 PIRNA = 'Sehling 1, Nr. 128 (Pirna, Kirchenordnung of Anton Lauterbach, 1555-1569), pp. 642-643'
 
 def rows_pirna():
+    """Most Sundays have two German hymns: the first in the place of the introit, the second
+    after the epistle. The feasts show the order of the two places: the Latin introit comes
+    first ("Ascensionis. Viri Galilaei. Kyrie. Graduale. Sequens."), and the German hymn after
+    the gradual ("Christ fuhr gen himmel."). Thompson reads the table the same way
+    (rows_thompson.json). Only the last hymn of each day is taken."""
     ls = extract.lines(119, 'Cantica per anni curriculum', 'Haec cantica germanica',
                        furniture=[r'der ernestinischen und albertinischen Länder\.$', r'\d+\. Pirna\. Kirchenordnung',
                                   r'\d+ Die Kirchenordnungen\.'])
@@ -182,7 +187,7 @@ def rows_pirna():
     rows = []
     for occ, body in entries(ls, labels, joiner='\n'):     # one hymn to a line
         body = re.sub(r'Grates nunc cum canticis.*$', 'Grates nunc.', body, flags=re.M)
-        rows += [(occ, t, PIRNA) for t in titles(body, skip)]
+        rows += [(occ, t, PIRNA) for t in titles(body, skip)[-1:]]
     return rows
 
 # ---- Nördlingen, Kirchenordnung, 1579 ------------------------------------------------------------

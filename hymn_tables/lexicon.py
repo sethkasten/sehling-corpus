@@ -556,6 +556,30 @@ L += [
  ('Gelobet sei der ewige Gott', [r'^gelobet sei der ewige'],
   'Praised be the eternal God', None, None),
 ]
+# ---- The lists that Jason Thompson transcribes in his dissertation (Appendix 2): Antwerp 1567,
+# Annaberg 1579, Eler 1588 and Magdeburg 1613 and 1632 (rows_thompson.json). The hymns they add,
+# and a short citation that the patterns above miss.
+L += [
+ _also('Nun lob, mein Seel, den Herren', r'^nun lob,? mein seel,?$'),
+ ('Kyrie, Gott Vater in Ewigkeit', [r'^kyrie,? got+,? vater in ewig'],
+  'Kyrie, God the Father in eternity', None, None),
+ ('O Gott Vater in Ewigkeit', [r'^o got+,? vater,? in ewig'],
+  'O God the Father in eternity', None, None),
+ ('O Herr Gott, Schöpfer aller Ding', [r'^o herre?,? got+,? sch[oö]pfer aller ding'],
+  'O Lord God, creator of all things', None, None),
+ ('O Jesu Christ, dein Nam, der ist', [r'^o jesu christ,? dein nam'],
+  'O Jesus Christ, thy name, which is', None, None),
+ # not Paul Gerhardt's hymn of this opening, which is later than the Magdeburg list
+ ('Ich weiß, dass mein Erlöser lebt', [r'^ich wei(ss|s),? das+ mein erl'],
+  'I know that my Redeemer lives', None, None),
+]
+# The prose antiphon of Pentecost must be tried before Luther's hymn, whose pattern would
+# otherwise take it. Luther's hymn grew out of the antiphon, and Ludecus and Antwerp 1567 give
+# both for Pentecost.
+L.insert(next(i for i, e in enumerate(L) if e[0] == 'Komm, Heiliger Geist, Herre Gott'),
+         ('Komm, Heiliger Geist, erfüll die Herzen deiner Gläubigen',
+          [r'^k[ou]m+,? he?[iy]l+i?ge?r? geist,? erf[uü]l'],
+          'Come, Holy Spirit, fill the hearts of thy faithful', None, None))
 # Luther's Easter hymn must be tried before his Communion hymn of the same opening, whose
 # pattern would otherwise take it.
 L.insert(0, ('Jesus Christus, unser Heiland, der den Tod überwand',

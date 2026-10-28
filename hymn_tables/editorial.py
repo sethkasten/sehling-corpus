@@ -10,8 +10,6 @@ witness count.  (occasion, canonical title, note)
 EDITORIAL = [
  ('Easter 1 (Quasimodogeniti)', 'O filii et filiae',
   "Jean Tisserand's Easter hymn (English: O Sons and Daughters of the King / Ye Sons and Daughters of the King)"),
- ('Maundy Thursday', 'Jesus Christus, unser Heiland',
-  "Luther's Communion hymn"),
  ('Easter Monday', 'Ach bleib bei uns, Herr Jesu Christ', None),
  ('Easter Monday', 'Christ ist erstanden', None),
  ('Pentecost Monday', 'Komm, Heiliger Geist, Herre Gott', None),
