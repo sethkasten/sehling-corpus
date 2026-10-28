@@ -1,0 +1,187 @@
+Magdeburg 1632
+
+Advent 1, Nun komm
+Advent 1, Nun freut euch
+Advent 1, Herr Christ der einig
+Advent 2, Gott hat das Evangelium
+Advent 2, Eben dieselben (mistake on Thompson's part)
+Advent 3, Nun komm
+Advent 3, Herr Christ der einig
+Advent 3, Nun freut euch
+Advent 4, Nun komm
+Advent 4, Herr Christ der einig
+Advent 4, Nun freut euch
+Christmastide, Gelobet seist du
+Christmastide, Vom Himmel hoch
+Christmastide, Vom himmel kam der engel
+Christmastide, Der Tag der ist so
+Christmastide, Ein Kind geboren zu bethlehem
+Christmastide, Danksagen wir alle
+Christmastide, Christum wir sollen loben schon
+Circumcision, Hilf mir gotts gute preisen
+Circumcision, Das alte Jahr
+Circumcision, Jesu nun sei gepreiset
+Circumcision, "as on Christmastide"
+Epiphany 0, Was furchstu feind herodes
+Epiphany 0, "as on Christmas"
+Epiphany 1, Dies sind die heilgen
+Epiphany 1, Mensch willstu leben seliglich
+Epiphany 2, Wohl dem der in Gottes furcht
+Epiphany 2, Ich ruf zu dir
+Epihpany 2, Vergebens ist all Müh und Kost
+Epiphany 2, Wo Gott zum haus nicht gibt sein gunst
+Epiphany 3, Allein zu dir
+Epiphany 3, Erbarm dich mein
+Epiphany 4, War gott nicht mit uns diese zeit
+Epiphany 4, Wo Gott der Herr nicht bei
+Epiphany 4, Ein feste Burg
+Epiphany 5, Es spricht der unweisen
+Epiphany 5, Ach Gott vom Himmel
+Lent, Christe der du bist Tag und Licht
+Septuagesima, Es ist das Heil
+Seputagesima, Es woll uns Gott genadig
+Sexagesima, Es woll uns Gott genadig
+Sexagesima, Es spricht der unweisen
+Sexagesima, Vater unser
+Quinquagesima, O Lamm Gottes
+Quinquagesima, Christe der du bist tag und licht
+Quinquagesima, Erbarm dich mein
+Quinquagesima, Allein nach dir Herr Jesu Christ (transcription error?)
+Lent 1, Gott der vater wohn uns bei
+Lent 1, Ich ruf zu dir
+Lent 2, Aus tiefer Not
+Lent 2, Ein feste Burg
+Lent 2, Gott der vater wohn uns bei
+Lent 3, Aus tiefer Not
+Lent 3, Allein zu dir
+Lent 3, Durch Adams fall
+Lent 4, Vater unser
+Lent 4, Warum betrübst du dich mein Herz
+Lent 5, Nun freut euch
+Lent 5, Es spricht der unweisen
+Palmarum, Nun freut euch
+Palmarum, Herr Jesu Christ wahr mensch und Gott
+Maundy Thursday, Jesus Christus unser Heiland der von uns
+Maundy Thursday, Gott sei gelobet
+Maundy Thursday, O Lamm Gottes unschuldig
+Good Friday, Christus der uns selig
+Good Friday, Hilf Gott das mirs gelinge
+Good Friday, Da Jesus an dem Kreuze stund
+Good Friday, Herr Jesu Christ wahr Mensch und Gott
+Good Friday, O Lamm Gottes unschuldig
+Eastertide, Christ lag
+Eastertide, Jesus Christus unser Heiland der den Tod
+Eastertide, Christ ist erstanden
+Eastertide, Erstanden ist der heilge Christ
+Eastertide, Also heilig ist der Tag
+Eastertide, Ich weiß daß mein Erlöser lebt
+Easter 1, Kommt her zu mir
+Easter 1, Allein zu dir
+Easter 2, Der Herr ist mein getreuer Hirt
+Easter 3, Mag ich Ungluck nicht widerstahn
+Easter 3, Kommt her zu mir
+Easter 3, Ich ruf zu dir
+Easter 4, Nun freut euch
+Easter 5, Vater unser
+Easter 5, Wenn wir im höchsten Noten
+Ascension, Christ fuhr gen Himmel
+Ascension, Nun freut euch gottes kinder all
+Ascension, Nun freut euch lieben Christen
+Ascension, Der Herr fährt auf mit grossem Schall
+Exaudi, Ein feste Burg
+Exaudi, Komm Gott Schöpfer
+Exaudi, "as on Ascension"
+Pentecost, Nun bitten wir
+Pentecost, Komm Heiliger Geist, herre Gott
+Trinitytide, Es woll uns Gott
+Trinitytide, Herr Gott dich loben wir
+Triintytide, Gott der Vater wohn uns bei
+Trinitytide, Allein Gott in der höh
+Trinitytide, Kyrie Gott Vater in Ewigkeit
+Tirintyitde, Der du bist drei in Einigkeit
+Trinity 1, Nun hπoret zu ihr Christenleut
+Trinity 1, Weltlich Ehr und zeitlich Gut
+Trinity 1, Es spricht der unweisen Mund wohl
+Trinity 2, Es woll uns Gott
+Trinity 2, Es ist das Heil
+Trinity 2, Ach Gott vom Himmel sieh darein
+Trinity 3, Erbarm dich mein
+Trinity 3, Aus tiefer Not
+Trinity 4, Mensch willstdu leben seliglich
+Trinity 4, Dies sind die heiligen
+Trinity 5, Vergebens ist all müh und kost
+Trinity 5, Wo Gott zum Haus
+Trinity 5, Vater unser
+Trinity 6, Es ist das Heil
+Trinity 6, Durch adams Fall
+Trinity 6, "as on Trinity 4"
+Trinity 7, Vater unser
+Trinity 7, Wohl dem der in Gottes furcht
+Triinty 7, Warum betrübst du dich mein Herz
+Trinity 7, Nun lob mein seel
+Trinity 8, Ach Gott vom Himmel sieh darein
+Trinity 8, O Herr Gott, dein göttlich Wort
+Trinity 9, Es woll uns Gott genadig
+Trinity 9, Es spricht der unweisen
+Trinity 10, An wasserflussen babylon
+Trinity 10, Nimm von uns Herr Gott
+Trinity 10, Nimm von uns Herr du treuer Gott
+Trinity 11, Erbarm dich mein
+Trinity 11, Aus tiefer Not
+Trinity 11, Es ist das Heil
+Trinity 11, Allein zu dir
+Trinity 12, Durch Adams Fall
+Trinity 12, Nun lob mein Seel
+Trinity 13, Durch Adams Fall
+Trinity 13, Erbarm dich mein
+Triinty 14, Erbarm dich mein
+Tirinty 14, Nun lob mein Seel
+Trinity 14, Allein zu dir
+Trinity 15, Vater unser
+Trinity 15, Warum betrubst du dich
+Trinity 16, Mitten wir im Leben sind
+Trinity 16, Ach lieben Christen seid getrost
+Trinity 16, Wenn mein Stundlein vordanden ist
+Trinity 17, Wo Gott der Herr nicht bei uns halt
+Trinity 17, War Gott nicht mit uns diese Zeit
+Trinity 18, Dies sind de hieligen
+Trinity 18, Herr Christ der einig Gottessohn
+Trinity 19, Allein zu dir
+Tirinyt 19, Aus tiefer Not
+Trinity 20, Ach Gott vom Himmel
+Trinity 20, "as on Trinity 17"
+Trinity 21, Ich ruf zu dir
+Trinity 22, Erbarm dich mein
+Triinty 23, Wo gott der Herr nicht bei
+Trinity 23, War Gott nicht mit uns
+Trinity 24, Mitten wir im Leben sind
+Trinity 24, Allein zu dir
+Trinity 25, Gott hat das Evangelium
+Trinity 25, Gott der Vater wohn uns bei
+Trinity 25, Es ist gewisslich
+Trinity 26, Gott hat das Evangelium
+Trinity 26, Gott der vater wohn uns bei
+Trinity 26, Es ist gewisslich
+Trinity 27, Gott hat das Evangelium
+Trinity 27, Gott der Vater wohn uns bei
+Trinity 27, Es ist gewisslich
+Purification, Mit Fried und Freud
+Purification, "as on Christmas"
+Annunciation, Nun komm
+Annunciation, Nun freut euch
+Annunciation, Herr Christ der einig
+Visitation, Nun freut euch
+Visitation, Nun komm
+Visitation, Herr Christ der einig
+Apostles, Kommt her zu mir
+Apostles, Es woll uns Gott
+Apostles, Ein feste Burg
+Apostles, Ich ruf zu dir
+Apostles, Erhalt uns Herr
+Apostles, Herr Gott dich loben wir
+Nativity of John, Christ unser Herr
+Nativity of John, Gelobet sei der Herr der Gott Israel
+Mary Magdalene, Erbarm dich mein
+Michael, Herr Gott dich loben wir
+Micahel, Nun lob mein Seel
+Michael, Ein feste Burg

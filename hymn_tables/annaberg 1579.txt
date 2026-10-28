@@ -1,0 +1,134 @@
+Annaberg 1579
+
+Advent 1, Nun komm
+Advent 1, Nun freut euch
+Advent 2, Gott hat das Evangelium
+Advent 2, Es wird sicher der letzte Tag herkommen
+Advent 3, Nun komm
+Advent 3, Kommt her zu mir
+Advent 4, Nun komm
+Advent 4, Von Adam her so lange zeit
+Christmas day, Gelobet seist du
+Christmas day, Christum wir sollen loben schon
+Epiphany 0, Was fürchst du Feind Herodes
+Epiphany 0, Herr Christ der einig Gottessohn
+Epiphany 1, Christum wir sollen loben schon
+Epiphany 1, Gelobet seist du
+Epiphany 1, Christ unser Herr zum Jordan kam
+Epiphany 2, Herr Christ der einig
+Epiphany 2, Wohl dem der in Gottes Furcht steht
+Epiphany 3, Ich ruf zu dir
+Epihpany 3, Es wollt uns Gott genädig sein
+Epiphany 4, Wär Gott nicht mit uns diese Zeit
+Epiphany 4, Wo Gott der Herr nicht bei uns halt
+Epiphany 5, Es spricht der unweisen Mund wohl
+Epiphany 5, Ach Gott vom Himmel sieh darein
+Septuagesima, Ach Gott vom Himmel sieh darein
+Septuagesima, Es spricht der unweisen Mund wohl
+Sexagesima, ES spricht der unweisen
+Sexagesima, Ach Gott vom Himmel sieh darein
+Quinquagesima, Nun freut euch
+Quinquagesiam, Ein feste Burg
+Lent 1, Ein feste Burg
+Lent 1, Nun freut euch
+Lent 2, Aus tiefer Not
+Lent 2, Vater unser im Himmelreich
+Lent 3, Ein feste Burg
+Lent 3, Christe der du bist Tag und Licht
+Lent 4, Vater unser
+Lent 4, Es wollt uns Gott genädig sein
+Lent 5, Christus der uns selig macht
+Lent 5, Christe der du bist Tag und licht
+Palmarum, Wär Gott nicht mit uns diese Zeit
+Palmarum, Christus der uns selig macht
+Maundy Thursday, Jessu CHristus unser heiland der von uns
+Maundy Thursday, Gott sei gelobet
+Easter 0, Christ lag in Todesbanden
+Easter 0, Christ ist erstanden
+Easter 1, Christ lag in Todesbanden
+Easter 1, Christ ist erstanden
+Easter 2, Christ lag
+Easter 2, Christ ist erstanden
+Easter 3, Fröhlich wollen wir halleluja singen
+Easter 3, Christ ist erstanden
+Easter 5, Vater unser im Himmelreich
+Easter 5, Christ lag in Todesbanden
+Ascension, Nun freut euch
+Exaudi, Christ fuhr gen Himmel
+Exaudi, Gott der Vater wohn uns bei
+Pentecost, Nun bitten wir
+Pentecost, Komm heiliger Geist
+Trinity 0, Gott der Vater wohn uns bei
+Trinity 0, Komm heiliger geist
+Trinitytide, Es woll uns Gott genadig
+Trinitytide, Vater unser
+Trinitytide, Es ist das Heil
+Trinitytide, Ach Gott vom Himmel sieh darein
+Trinitytide, Es spricht der unweisen Mund
+Trinitytide, Ein feste Burg
+Trinitytide, Aus tiefer Not
+Trinitytide, Ich ruf zu dir
+Trinity 1, Dies sind die heilgen
+Trinity 1, Kommt her zu mir
+Trinity 2, Es spricht der unweisen
+Trinity 2, Es woll uns Gott genadig
+Trinity 3, Es ist das Heil
+Trinity 3, Durch adams fall
+Trinity 4, Es woll uns Gott
+Trinity 4, Vater unser
+Trinity 5, Ich ruf zu dir
+Tirinyt 5, Dies sind die heilgen
+Trinity 6, Es ist das Heil
+Trinity 6, Dies sind die heiligne
+Trinity 7, Vater unser
+Trinity 7, Es woll uns Gott
+Trinity 8, Ach Gott vom Himmel
+Trinity 8, Es spricht der unweisen
+Trinity 9, Ich ruf zu dir
+Trinity 9, Allein zu dir Herr Jesu Christ
+Trinity 10, An wasserflussen Babylon
+Trinity 10, War Gott nicht mit uns diese zeit
+Trinity 11, Es spricht der unweisen Mund wohl
+Triniyt 11, Ich ruf zu dir
+Trinity 12, Allein zu dir
+Trinity 12, Kommt her zu mir
+Trinity 13, Durch adams Fall
+Trinity 13, Es ist das Heil
+Trinity 14, Erbarm dich mein
+Trinity 14, Ich ruf zu dir
+Trinity 15, Vater unser
+Trinity 15, Es spricht der unweisen
+Trinity 16, Mitten wir im Leben sind
+Tirinyt 16, Aus tiefer Not
+Trinity 17, Dies sind die heilgen
+Trinity 17, Kommt her zu mir
+Trinity 18, Mensch willstdu leben seliglich
+Trinity 18, Allein zu dir
+Trinity 19, Erbarm dich mein
+Trinity 19, Allein zu dir
+Trinity 20, Vater unser
+Trinity 20, Nun freut euch
+Trinity 21, Ich ruf zu dir
+Trinity 21, Es spricht der unweisen
+Trinity 22, Vater unser
+Trinity 22, Dies sind die heilgen
+Trinity 23, Wo Gott der Herr nicht bei uns halt
+Trinity 23, Ein feste Burg
+Trinity 24, Allein zu dir
+Trinity 24, Aus tiefer Not
+Trinity 25, Erbarm dich mein
+Trinity 25, Aus tiefer Not
+Trinity 26, Es wird sicher der letzte Tag herkommen
+Trinity 26, Kommt her zu mir
+Annunciation, Herr Christ der einig Gottes sohn
+Annunciation, Herr Gott dich loben wir
+Visitation, Meine Seele erhebt den Herren
+Visitation, Herr Gott dich loben wir
+Nativity of John, Christ unser Herr zum Jordan
+Nativity of John, Gelobet sei der Herr der Gott Israel
+Mary Magdalene, Erbarm dich mein
+Mary Magdalene, Allein zu dir
+Anne, Herr Gott dich loben wir
+Anne, Es wollt uns Gott genadig
+Michael, Herr Gott dich loben wir
+Michael, Nun lob mein Seel
