@@ -42,6 +42,7 @@
     - [1.3.4 Anglican (A)](#s1-3-4)
     - [1.3.5 Hussite: the Bohemian Brethren (H), and the Sandomierz consensus (C)](#s1-3-5)
     - [1.3.6 Others](#s1-3-6)
+    - [1.3.7 Early Evangelical (EE)](#s1-3-7)
   - [1.4 The Interim orders](#s1-4)
   - [1.5 The territories at a glance](#s1-5)
   - [1.6 Volume 1: Saxony and Thuringia I: Luther; Ernestine and Albertine Saxony](#s1-6)
@@ -1592,12 +1593,12 @@ with their variants and notes. Sehling took "church order" in the widest sense
 orders, marriage and poor-law orders, agendas and confessions as well as the great church
 orders.
 
-Of the 2,581 texts, 1,950 are Lutheran. The rest are Reformed, Moderate Reformed and Philippist,
-with a few of other traditions ([§1.3](#s1-3)). Sehling meant to print no orders made for the
-Augsburg Interim of 1548, and only four are in the set ([§1.4](#s1-4)). The texts run from
-Breslau's beggars' order of 1521 to the orders of 1620 for Stade, Limpurg and the Transylvanian
-Saxons. One later text, a report of 1635 on the consistory of Henneberg, stands outside that
-range.
+Of the 2,581 texts, 1,908 are Lutheran. The rest are Reformed, Moderate Reformed, Early
+Evangelical (the orders of 1521–1525) and Philippist, with a few of other traditions ([§1.3](#s1-3)).
+Sehling meant to print no orders made for the Augsburg Interim of 1548, and only four are in the
+set ([§1.4](#s1-4)). The texts run from Breslau's beggars' order of 1521 to the orders of 1620 for Stade,
+Limpurg and the Transylvanian Saxons. One later text, a report of 1635 on the consistory of
+Henneberg, stands outside that range.
 
 ### <a id="intro-arrangement"></a>How the book is arranged
 
@@ -2073,9 +2074,14 @@ inventory in Chapter 1 ([§1.3](#s1-3), [§1.4](#s1-4)):
 - **Reformed**: the Swiss, Calvinist and Heidelberg churches, among them the German territories
   that turned Reformed after 1560 and the French and Dutch stranger churches;
 - **Moderate Reformed**: the Bucerian and related orders that stood between the Lutheran and the
-  Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim, Philip of
-  Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's Münster, East Frisia
-  under John a Lasco, and Colmar after 1578;
+  Swiss Reformed: Bucer's Strasbourg (from 1525) and the Upper German cities (from 1526) to the
+  Interim, Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's
+  Münster, East Frisia under John a Lasco, and Colmar after 1578;
+- **Early Evangelical**: the orders of 1521–1525, made before the evangelical movement divided
+  over the Lord's Supper and before any of its parties had a confession ([§1.3.7](#s1-3-7)).
+  Luther's and Müntzer's own orders of those years keep their own marks, as does the Catholic
+  humanist order of Jülich-Cleves-Berg of 1525, and Strasbourg's two German Masses of 1525 are
+  Moderate Reformed;
 - **Philippist**: the churches that held to Melanchthon's later teaching and his *Corpus
   doctrinae* and refused the Formula of Concord: the joint Hessian synods and orders of
   1568–1598, Bremen 1556–1575, Nassau-Dillenburg 1575 and Anhalt 1590–1594;
@@ -2096,8 +2102,11 @@ inventory in Chapter 1 ([§1.3](#s1-3), [§1.4](#s1-4)):
 
 **The mark follows the order cited, not the territory**, since a territory could change its
 tradition:
-- Strasbourg is Moderate Reformed until the Interim of 1548 and Lutheran after it. Its German
-  Masses of 1524–1525 are Moderate Reformed, and Marbach's order of 1553 is Lutheran.
+- Strasbourg is Early Evangelical until 1525, Moderate Reformed from its German Masses of 1525
+  until the Interim of 1548, and Lutheran after it. Its German Masses of 1524 and the *Teutsch
+  Kirchenampt* of 1524/25 are Early Evangelical. The *Ordnung des Herren Nachtmal* and the
+  *Straßburger kirchen ampt* of 1525 are Moderate Reformed, since by then its preachers had
+  rejected the bodily presence ([§7.5](#s7-5)). Marbach's order of 1553 is Lutheran.
 - Kurpfalz is Lutheran in 1546 and 1556 and under Ludwig VI (1576–1583), and Reformed in
   1563–1576 and from 1583. Johann Casimir's Pfalz-Lautern stayed Reformed under Ludwig VI.
 - Hesse is Moderate Reformed under Philip (to 1566) and Philippist under his sons. After the
@@ -2115,8 +2124,14 @@ Reformed. Some further distinctions:
 - The family names of the Mass in Chapter 2 ([§2.4](#s2-4)) are names of liturgical shape.
   "Upper German" there means the south-western Lutheran service of Württemberg and its copies,
   not the Moderate Reformed Upper German Reformation of Bucer's circle.
-- The orders that took over Müntzer's German propers (Erfurt 1525, Calenberg-Göttingen 1542,
-  Lippe 1571) are Lutheran. Only Müntzer's own Allstedt orders are marked.
+- Only Müntzer's own Allstedt orders are marked Radical Reformation. The orders that took over
+  his work are not, and they took it in two ways:
+  - **his German Mass**, its eucharistic part included: the Erfurt *Deutsches Kirchenamt* of
+    1525 (Early Evangelical), which reprints his five Masses and adds one for Trinity, and the
+    Lippe manuscript Mass of about 1525–1538 (Lutheran), which puts it into Low German ([§7.10](#s7-10));
+  - **his German propers only**, by way of the Erfurt *Kirchenamt*: Calenberg-Göttingen 1542,
+    whose Sacrament comes from Brandenburg 1540 ([§7.13](#s7-13)), and Lippe 1571, which takes
+    some of his Prefaces for the villages (both Lutheran).
 - Some Lutheran orders took the Reformed line on images, vestments or vessels: Lichtenberg 1579,
   Sponheim 1590/91, the Upper Palatine visitation of 1579 and Nassau-Weilburg 1617. They are
   Lutheran orders, and the text says where they agree with the Reformed.
@@ -2139,7 +2154,8 @@ Reformed. Some further distinctions:
 - **Traditions**, in the tables of Chapter 1: L = Lutheran; R = Reformed; MR = Moderate Reformed
   (Bucerian and Upper German); PH = Philippist; A = Anglican; H = Hussite (Unity of the Bohemian
   Brethren); C = Sandomierz consensus (Lutheran, Reformed and Brethren together); R/L = Reformed
-  and Lutheran (treaty between the two); RCH = Roman Catholic humanist (Erasmian reform); RC =
+  and Lutheran (treaty between the two); EE = Early Evangelical (the orders of 1521–1525); RCH =
+  Roman Catholic humanist (Erasmian reform); RC =
   Roman Catholic; RAD = Radical Reformation (Müntzer); ANA = Anabaptist (civic toleration of the
   Anabaptists); T = multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian
   received side by side).
@@ -2175,20 +2191,23 @@ parts). For each order it gives:
 - the page in Sehling and the [`eko.db`](#repo-ekodb) document that holds the text;
 - what kind of order it is (church order, agenda, visitation order, mandate, and so on);
 - the confessional tradition it belongs to: Lutheran, Reformed, Moderate Reformed (Bucer's
-  circle and the Upper German cities), Philippist, Anglican, Hussite, and a few others;
+  circle and the Upper German cities), Early Evangelical (the orders of 1521–1525), Philippist,
+  Anglican, Hussite, and a few others;
 - whether it is an Interim order, or otherwise tied to the Augsburg Interim of 1548.
 
 **Confessional traditions and Interim orders**
 
 Sehling's title calls these the *evangelical* church orders, and most of them are Lutheran:
-1,950 of the 2,581 texts. The rest belong to other traditions:
+1,908 of the 2,581 texts. The rest belong to other traditions:
 
-- **Reformed** (340): the Swiss, Calvinist and Heidelberg churches, among them the German
+- **Reformed** (332): the Swiss, Calvinist and Heidelberg churches, among them the German
   territories that turned Reformed after 1560 and the French and Dutch stranger churches;
-- **Moderate Reformed** (198): the Bucerian and related orders that stood between the Lutheran
-  and the Swiss Reformed: Bucer's Strasbourg and the Upper German cities before the Interim,
-  Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's Münster, East
-  Frisia under John a Lasco, and Colmar after 1578;
+- **Moderate Reformed** (184): the Bucerian and related orders that stood between the Lutheran
+  and the Swiss Reformed: Bucer's Strasbourg (from 1525) and the Upper German cities (from 1526)
+  to the Interim, Philip of Hesse's church to 1566, Hermann von Wied's Cologne order, Rothmann's
+  Münster, East Frisia under John a Lasco, and Colmar after 1578;
+- **Early Evangelical** (64): the orders of 1521–1525, made before the evangelical movement
+  divided over the Lord's Supper and before any of its parties had a confession;
 - **Philippist** (33): the churches that held to Melanchthon's later teaching and his *Corpus
   doctrinae* (body of doctrine) and refused the Formula of Concord: the joint Hessian synods and orders of
   1568-1598, Bremen 1556-1575, Nassau-Dillenburg 1575 and Anhalt 1590-1594;
@@ -2199,10 +2218,11 @@ Sehling's title calls these the *evangelical* church orders, and most of them ar
   treaties in East Frisia, and the multi-confessional Transylvanian diet decrees.
 
 A territory's tradition can change from one order to the next: Kurpfalz is Lutheran in 1556 and
-Reformed in 1563, and Strasbourg Moderate Reformed before the Interim of 1548 and Lutheran after
-it. This chapter gives the tradition of every order ([§1.3](#s1-3) defines them). Where an order could be
-counted either Moderate Reformed or Philippist, it is counted Moderate Reformed. The chapter also
-lists the few Interim orders and the texts tied to the Augsburg Interim ([§1.4](#s1-4)).
+Reformed in 1563, and Strasbourg Early Evangelical until 1525, Moderate Reformed from its German
+Masses of 1525 until the Interim of 1548, and Lutheran after it. This chapter gives the
+tradition of every order ([§1.3](#s1-3) defines them). Where an order could be counted either Moderate
+Reformed or Philippist, it is counted Moderate Reformed. The chapter also lists the few Interim
+orders and the texts tied to the Augsburg Interim ([§1.4](#s1-4)).
 
 The other chapters mark every order of another tradition, and every Interim order, where they
 cite it ([Conventions](#conv-traditions)).
@@ -2254,9 +2274,10 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 
 | Tradition | Code | Texts |
 |---|---|---|
-| Lutheran | L | 1950 |
-| Reformed | R | 340 |
-| Moderate Reformed (Bucerian and Upper German) | MR | 198 |
+| Lutheran | L | 1908 |
+| Reformed | R | 332 |
+| Moderate Reformed (Bucerian and Upper German) | MR | 184 |
+| Early Evangelical (the orders of 1521–1525) | EE | 64 |
 | Philippist | PH | 33 |
 | Anglican | A | 1 |
 | Hussite (Unity of the Bohemian Brethren) | H | 3 |
@@ -2268,21 +2289,26 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 | Anabaptist (civic toleration of the Anabaptists) | ANA | 1 |
 | Multi-confessional diet decree (Catholic, Lutheran, Reformed and Unitarian received side by side) | T | 25 |
 
-- **Lutheran** (1,950): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
+- **Lutheran** (1,908): Saxony, Brandenburg, Prussia, Pomerania, the Baltic, Mecklenburg, the
   Hanse towns, Lower Saxony, Franconia, Württemberg, Hohenlohe and most of the imperial cities
   after 1552.
-- **Reformed** (340): above all the Electoral Palatinate (from 1561/63) and the "Second
+- **Reformed** (332): above all the Electoral Palatinate (from 1561/63) and the "Second
   Reformation" counties of the Wetterau and the Rhine (Nassau-Dillenburg, Hanau-Münzenberg,
   Ysenburg, Solms-Braunfels, Sayn, Wied, Wittgenstein, Moers, Bentheim-Tecklenburg),
   Pfalz-Zweibrücken (1588), Pfalz-Simmern (1598, under the Electoral Palatinate), Hessen-Kassel
   (1600/1605), Lippe (1600), Anhalt (1596), Bremen (from 1580), Emden and the East Frisian
   Reformed congregations, the London Dutch church, Mülhausen (Mulhouse), and the French refugee
   churches of Frankfurt, Wetzlar and the Lebertal.
-- **Moderate Reformed** (198): Bucer's Strasbourg and the Upper German cities before the Interim
-  (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach, Gengenbach, Landau,
-  Worms, early Frankfurt); Philip's Hesse to 1566; Hermann von Wied's Cologne Reformation
-  (1543-1546); Rothmann's Münster (1532/33); East Frisia under Countess Anna; Colmar after 1578,
-  whose pastors came from Basel.
+- **Moderate Reformed** (184): Bucer's Strasbourg (from 1525) and the Upper German cities (from
+  1526) to the Interim (Konstanz, Ulm, Esslingen, Augsburg, Memmingen, Lindau, Isny, Biberach,
+  Gengenbach, Landau, Worms, early Frankfurt); Philip's Hesse to 1566; Hermann von Wied's
+  Cologne Reformation (1543-1546); Rothmann's Münster (1532/33); East Frisia under Countess
+  Anna; Colmar after 1578, whose pastors came from Basel.
+- **Early Evangelical** (64): the orders of 1521–1525, made before the dispute over the Lord's
+  Supper divided the evangelical movement ([§1.3.7](#s1-3-7)): the Saxon towns (Coburg, Leisnig,
+  Wittenberg), Breslau, Erfurt, Magdeburg, Prussia and Danzig, Stralsund, Reval, Bremen,
+  Waldeck, Nuremberg, Brandenburg-Ansbach, Windsheim, Wertheim, Augsburg, Nördlingen, Konstanz,
+  Speyer, Worms, Strasbourg and Mülhausen.
 - **Philippist** (33): the joint Hessian synods and orders of 1568-1582 and the Hessian orders
   that followed them to 1598; Bremen (1556-1575); Nassau-Dillenburg (1575); Anhalt (1590-1594).
 - **Anglican** (1): the order of the English exile congregation at Frankfurt, the "Old
@@ -2294,7 +2320,8 @@ and synod orders, and orders on marriage, discipline, schools and the poor.
 - **Others**, each labelled with its own affiliation ([§1.3.6](#s1-3-6)):
   - **Roman Catholic humanist (Erasmian)** (18): the church orders of Jülich-Cleves-Berg;
   - **Roman Catholic** (1): the Bishop of Münster's edict against the Anabaptists (1534);
-  - **Radical Reformation** (3): Thomas Müntzer's Allstedt orders;
+  - **Radical Reformation** (3): Thomas Müntzer's Allstedt orders of 1523–1524, coded by their
+    author ([§1.3.6](#s1-3-6));
   - **Anabaptist** (1): the Münster council's mandate of January 1534 that let each keep his
     faith and so recognized the Anabaptists;
   - **Multi-confessional** (25): the decrees of the Transylvanian diets;
@@ -2389,9 +2416,10 @@ follows the volumes as they stand.
     introduction. These are marked "described in the introduction only".
   - Introductions, registers and editorial chapters are left out.
 - **Tradition.** It is assigned by territory and date, following the editors' introductions.
-  Each territory's note in §§[1.6](#s1-6)-[1.35](#s1-35) gives its confessional history and the dates of change; each
-  order takes the tradition of its territory at its date. Where an order belongs to a group with
-  another tradition, it is marked individually. Examples:
+  Each territory's note in §§[1.6](#s1-6)-[1.35](#s1-35) gives its confessional history and the dates of change;
+  each order takes the tradition of its territory at its date. The orders of 1521–1525 are the
+  exception: they are Early Evangelical, save the few named in [§1.3.7](#s1-3-7). Where an order belongs to
+  a group with another tradition, it is marked individually. Examples:
   - a refugee congregation in a Lutheran city;
   - Hessen-Darmstadt orders within divided Hesse;
   - Solms-Braunfels within Solms;
@@ -2441,8 +2469,11 @@ order.
   Where an order could be placed in either group, it is counted as Moderate Reformed. Use the
   territory notes for the finer distinctions.
 
-- **Early orders** (1522-1530) come before the confessional lines were fixed. They are coded by
-  what the territory became; Müntzer's orders are coded as radical.
+- **Early orders.** The orders of 1521–1525 come before the evangelical movement divided over
+  the Lord's Supper, and before any of its parties had a confession. They are coded Early
+  Evangelical, not by what their territory became. A few of those years keep another code
+  ([§1.3.7](#s1-3-7)). The orders from 1526 on take the tradition of their
+  territory, though the confessions that fixed the lines came only in 1529–1530.
 - **Pages and dates.** Some come from OCR of contents pages and registers. Where a register's
   page was plainly wrong, it was checked against the text; a few may still be out by a page or
   two.
@@ -2455,11 +2486,12 @@ order.
 
 #### <a id="s1-3-1"></a>1.3.1 Lutheran (L)
 
-Orders of territories and cities that held to the Augsburg Confession in its Lutheran reading,
-from the Wittenberg orders of the 1520s to the Formula of Concord and after. 1,950 texts.
-Volumes 3, 5, 6/1, 6/2, 7/2.1, 11, 15, 16 and 23 are wholly Lutheran, and volume 1 is too, save
-Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded Moderate
-Reformed and Philippist), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1
+Luther's own orders and those of the territories and cities that followed his reform and held to
+the Augsburg Confession in its Lutheran reading, from the 1520s to the Formula of Concord and
+after. 1,908 texts. Volumes 6/1, 6/2, 7/2.1, 15, 16 and 23 are wholly Lutheran. Volumes 1, 3, 5
+and 11 are too, save their orders of 1521–1525, which are Early Evangelical ([§1.3.7](#s1-3-7)), and in
+volume 1 Müntzer's three orders. Lutheran orders are a minority only in volumes 8 (Hesse, coded
+Moderate Reformed and Philippist), 10 (Nassau, Hanau, Ysenburg), 14 and 19/2 (Kurpfalz), 20/1
 (Strasbourg) and 20/2 (Alsace).
 
 #### <a id="s1-3-2"></a>1.3.2 Reformed (R)
@@ -2490,7 +2522,7 @@ Swiss-allied city of Mülhausen.
 - Electoral Palatinate (supplement to vol. 14) (Sehling 19/2, [§1.29](#s1-29)): 65 texts, 1577-1610.
 - Principality of Pfalz-Simmern (Sehling 19/2, [§1.29](#s1-29)): 2 texts, 1598.
 - Lordship of Rappoltstein (Sehling 20/2, [§1.31](#s1-31)): 10 texts, 1558-1569.
-- Imperial city of Mülhausen (Mulhouse) (Sehling 20/2, [§1.31](#s1-31)): 27 texts, 1523-1582.
+- Imperial city of Mülhausen (Mulhouse) (Sehling 20/2, [§1.31](#s1-31)): 19 texts, 1527-1582.
 - County of Lippe (Sehling 21, [§1.32](#s1-32)): 1 text, 1600.
 - Archbishopric of Cologne (Sehling 22, [§1.33](#s1-33)): 2 texts, 1583.
 - County of Wittgenstein (Sehling 22, [§1.33](#s1-33)): 10 texts, 1579-1611.
@@ -2502,10 +2534,10 @@ Swiss-allied city of Mülhausen.
 Between the Lutheran and the Swiss Reformed stood two groups of orders. They are coded apart,
 and where an order could belong to either, it is counted as Moderate Reformed.
 
-**Moderate Reformed (MR)**, 198 texts: the Bucerian and Upper German orders, and others close to
+**Moderate Reformed (MR)**, 184 texts: the Bucerian and Upper German orders, and others close to
 them:
 - the Upper German Reformation of Bucer, Capito, Blarer and Zwick in the southern imperial
-  cities before the Interim;
+  cities to the Interim, from 1526 (at Strasbourg from 1525);
 - Philip of Hesse's church, which bore Bucer's stamp. Bucer had a decisive share in the orders
   of 1539, and Philip's testament gave the Wittenberg Concord, Bucer's work, almost confessional
   weight. The editors place the Kirchenordnung of 1566 in the Strasbourg sphere;
@@ -2517,18 +2549,18 @@ them:
 - East Frisia: comital orders (Sehling 7/1, [§1.13](#s1-13)): 1 text, 1545.
 - Landgraviate of Hesse under Philip (to 1567) (Sehling 8, [§1.16](#s1-16)): 21 texts, 1526-1566.
 - Imperial city of Frankfurt (Sehling 9, [§1.17](#s1-17)): 4 texts, 1530-1533.
-- Imperial city of Augsburg (Sehling 12, [§1.20](#s1-20)): 13 texts, 1523-1548.
+- Imperial city of Augsburg (Sehling 12, [§1.20](#s1-20)): 12 texts, 1529-1548.
 - Imperial city of Lindau (Sehling 12, [§1.20](#s1-20)): 3 texts, 1533-1539.
 - Imperial city of Memmingen (Sehling 12, [§1.20](#s1-20)): 4 texts, 1528-1542.
-- Imperial city of Konstanz (Sehling 17/1, [§1.25](#s1-25)): 19 texts, 1524-1548.
+- Imperial city of Konstanz (Sehling 17/1, [§1.25](#s1-25)): 17 texts, 1526-1548.
 - Imperial city of Isny (Sehling 17/1, [§1.25](#s1-25)): 2 texts, 1533-1544.
 - Imperial city of Gengenbach (Sehling 17/1, [§1.25](#s1-25)): 8 texts, 1538-1545.
 - Imperial city of Ulm (Sehling 17/2, [§1.26](#s1-26)): 15 texts, 1528-1544.
 - Imperial city of Esslingen (Sehling 17/2, [§1.26](#s1-26)): 34 texts, 1531-1547.
 - Imperial city of Biberach an der Riß (Sehling 17/2, [§1.26](#s1-26)): 3 texts, 1531-1548.
 - Imperial city of Landau (Sehling 19/1, [§1.28](#s1-28)): 5 texts, 1526-1554.
-- Imperial city of Worms (Sehling 19/1, [§1.28](#s1-28)): 3 texts, 1524-1543.
-- Imperial city of Strasbourg (Sehling 20/1, [§1.30](#s1-30)): 46 texts, 1523-1548.
+- Imperial city of Worms (Sehling 19/1, [§1.28](#s1-28)): 1 text, 1543.
+- Imperial city of Strasbourg (Sehling 20/1, [§1.30](#s1-30)): 37 texts, 1525-1548.
 - Imperial city of Colmar (Sehling 20/2, [§1.31](#s1-31)): 12 texts, 1578-1615.
 - Archbishopric of Cologne (Sehling 22, [§1.33](#s1-33)): 1 text, 1546.
 - City of Münster (Sehling 22, [§1.33](#s1-33)): 4 texts, 1532-1533.
@@ -2626,8 +2658,11 @@ prints it for the Polish congregations. No Utraquist order is in the set.
   side by side. The Transylvanian Saxons' own orders are Lutheran. The *Consensus doctrinae* of
   1557 is also coded L (Sehling 24; [§1.35](#s1-35)).
 - **Radical Reformation (RAD).** Thomas Müntzer's German church office, German evangelical Mass
-  and order of the German service at Allstedt (1523/24). They are coded apart from the Lutheran
-  orders around them in vol. 1.
+  and order of the German service (1523/24). He wrote them as pastor at Allstedt in 1523–24, in
+  the months before his public break with Luther in July 1524. In wording his Mass is the most
+  conservative German Mass in the corpus ([§7.4](#s7-4)). Like Luther's own orders of the same
+  years, they are coded by their author, not as Early Evangelical ([§1.3.7](#s1-3-7)). The orders
+  that took over his texts are not marked ([Conventions](#conv-traditions)).
 - **Anabaptist (ANA).** The Münster council and guild masters' mandate of 31 January 1534, three
   weeks before the Anabaptist council was elected. It bound the citizens to let each keep his
   faith, and so recognized the Anabaptists as a religious group in the city
@@ -2643,6 +2678,77 @@ prints it for the Polish congregations. No Utraquist order is in the set.
   Catholic humanist.
 - **Treaty (R/L).** The East Frisian Delfzijl settlement of 1595 and the Concordats of 1599,
   between the Lutheran count and Reformed Emden.
+
+#### <a id="s1-3-7"></a>1.3.7 Early Evangelical (EE)
+
+The orders of 1521–1525, 64 texts. They are coded apart because they were made before the
+evangelical movement divided over the Lord's Supper, and before any of its parties had a
+confession of its own. To call them Lutheran, Reformed or Moderate Reformed would read back into
+them a division that had not yet come.
+
+- **The dispute over the Supper began in October 1524**, with Andreas Karlstadt's series of
+  pamphlets against the bodily presence of Christ in the Sacrament. Luther had met Karlstadt at
+  Jena on 22 August 1524 and there first heard his views.
+- **Luther** first took up the dispute in a private letter of 17 November 1524 to Nicholas
+  Hausmann, pastor at Zwickau (WA Br 3, 788–790). His first public answer was the *Letter to the
+  Christians at Strasbourg in Opposition to the Fanatic Spirit* of 15 December 1524 (WA 15,
+  391–397; LW 40, 67–73). His first full refutation was *Against the Heavenly Prophets, in the
+  Matter of Images and Sacraments*, of December 1524 and January 1525 (WA 18, 62–125 and
+  134–214; LW 40, 79–223).
+- **Zwingli's** first published treatment of the Supper is the *Commentarius de vera et falsa
+  religione* of March 1525. Zurich first held the Supper in the Reformed manner at Easter 1525.
+- **Oecolampadius's** first published treatment followed in August 1525, and he first held the
+  Supper in the Reformed manner at Basel in November 1525.
+- **No confession had yet been written.** The first came in 1529:
+  - Luther's Small Catechism, which several Lutheran catechisms had preceded, none of them
+    adopted as a confession of faith;
+  - the Schwabach Articles and the Marburg Articles.
+
+  In the same year the Reformation Parliament first met in England, the beginning of the
+  English Reformation as a movement. The Augsburg Confession and the Tetrapolitan Confession of
+  Strasbourg, Konstanz, Memmingen and Lindau, the Lutheran and the Reformed confessions of the
+  Diet of Augsburg, were both presented in 1530. The orders of those four cities are counted
+  Moderate Reformed here ([§1.3.3](#s1-3-3)).
+
+So the orders of 1521–1525 are coded by their date, not by what their territory later became.
+Four kinds keep another code:
+- **Luther's own orders** are Lutheran: his *Formula missae* (Form of the Mass), his order of service and his
+  baptismal booklet of 1523, and his opinion of 1525 on the order of Hans von Minkwitz for
+  Sonnenwalde ([§1.6.1](#s1-6-1), [§1.8.5](#s1-8-5)). A tradition named after its author begins
+  with his own orders.
+- **Müntzer's own Allstedt orders** are Radical Reformation ([§1.3.6](#s1-3-6)).
+- **The church order of Jülich-Cleves-Berg of 1525** is not an evangelical order at all. It is
+  Roman Catholic humanist, as are its successors ([§1.32.1](#s1-32-1)).
+- **Strasbourg's two German Masses of 1525**, the *Ordnung des Herren Nachtmal* and the
+  *Straßburger kirchen ampt*, are Moderate Reformed. By then the city's preachers had rejected
+  the bodily presence: the canons who had fled the city complained of it to the imperial
+  government in February 1525 (Sehling 20/1, p. 44). These orders speak of the Supper, not the
+  Mass, and of a table, not an altar ([§7.5](#s7-5)).
+
+The orders from 1526 on take the tradition of their territory at their date, as before. The
+Early Evangelical texts by territory:
+
+- Towns of Ernestine and Albertine Saxony (Sehling 1, [§1.6](#s1-6)): 4 texts, 1522-1525.
+- Mainz possessions (Eichsfeld, Erfurt, Querfurt) (Sehling 2, [§1.7](#s1-7)): 1 text, 1525.
+- Archbishopric of Magdeburg and Bishopric of Halberstadt (Sehling 2, [§1.7](#s1-7)): 2 texts, 1524.
+- Silesia (Sehling 3, [§1.8](#s1-8)): 1 text, 1521.
+- Duchy of Prussia (Sehling 4, [§1.9](#s1-9)): 4 texts, 1524-1525.
+- Royal Prussia: Danzig, Elbing, Thorn and their lands (Sehling 4, [§1.9](#s1-9)): 1 text, 1525.
+- Duchy of Pomerania (Sehling 4, [§1.9](#s1-9)): 3 texts, 1525.
+- Estonia (Reval) (Sehling 5, [§1.10](#s1-10)): 5 texts, 1524-1525.
+- City of Bremen (Sehling 7/2.2, [§1.15](#s1-15)): 2 texts, 1525.
+- County of Waldeck (Sehling 9, [§1.17](#s1-17)): 2 texts, 1525.
+- Imperial city of Nuremberg (to 1528) (Sehling 11, [§1.19](#s1-19)): 7 texts, 1522-1525.
+- Brandenburg-Ansbach-Kulmbach (to 1528) (Sehling 11, [§1.19](#s1-19)): 5 texts, 1523-1525.
+- Imperial city of Windsheim (Sehling 11, [§1.19](#s1-19)): 1 text, 1524.
+- County of Wertheim (Sehling 11, [§1.19](#s1-19)): 1 text, 1524.
+- Imperial city of Augsburg (Sehling 12, [§1.20](#s1-20)): 1 text, 1523.
+- Imperial city of Nördlingen (Sehling 12, [§1.20](#s1-20)): 2 texts, 1522-1525.
+- Imperial city of Konstanz (Sehling 17/1, [§1.25](#s1-25)): 2 texts, 1524.
+- Imperial city of Speyer (Sehling 19/1, [§1.28](#s1-28)): 1 text, 1525.
+- Imperial city of Worms (Sehling 19/1, [§1.28](#s1-28)): 2 texts, 1524-1525.
+- Imperial city of Strasbourg (Sehling 20/1, [§1.30](#s1-30)): 9 texts, 1523-1525.
+- Imperial city of Mülhausen (Mulhouse) (Sehling 20/2, [§1.31](#s1-31)): 8 texts, 1523-1524.
 
 ---
 
@@ -2705,7 +2811,7 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Ernestine Saxony | 1 | [1.6.3](#s1-6-3) | 26 | 1527-1580 | Lutheran |
 | Albertine Saxony | 1 | [1.6.4](#s1-6-4) | 23 | 1539-1580 | Lutheran |
 | Freiberg and Wolkenstein (Duke Henry) | 1 | [1.6.5](#s1-6-5) | 3 | 1537-1538 | Lutheran |
-| Towns of Ernestine and Albertine Saxony | 1 | [1.6.6](#s1-6-6) | 133 | 1522-1582 | Lutheran |
+| Towns of Ernestine and Albertine Saxony | 1 | [1.6.6](#s1-6-6) | 133 | 1522-1582 | Lutheran (Early Evangelical 1522–1525) |
 | Bishoprics of Merseburg, Meissen, Naumburg-Zeitz and Wurzen | 2 | [1.7.1](#s1-7-1) | 21 | 1527-1578 | Lutheran |
 | Amt Stolpen and Bischofswerda | 2 | [1.7.2](#s1-7-2) | 2 | 1559-1559 | Lutheran |
 | Lordship and town of Plauen | 2 | [1.7.3](#s1-7-3) | 2 | 1529-1532 | Lutheran |
@@ -2715,9 +2821,9 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Schönburg | 2 | [1.7.7](#s1-7-7) | 2 | 1542-1582 | Lutheran |
 | Harz counties (Mansfeld, Stolberg, Hohenstein, Regenstein, Quedlinburg) | 2 | [1.7.8](#s1-7-8) | 9 | 1540-1586 | Lutheran |
 | County of Henneberg | 2 | [1.7.9](#s1-7-9) | 27 | 1545-1635 | Lutheran |
-| Mainz possessions (Eichsfeld, Erfurt, Querfurt) | 2 | [1.7.10](#s1-7-10) | 4 | 1525-1583 | Lutheran |
+| Mainz possessions (Eichsfeld, Erfurt, Querfurt) | 2 | [1.7.10](#s1-7-10) | 4 | 1525-1583 | Lutheran (Early Evangelical 1525) |
 | Imperial cities of Mühlhausen and Nordhausen | 2 | [1.7.11](#s1-7-11) | 6 | 1541-1571 | Lutheran |
-| Archbishopric of Magdeburg and Bishopric of Halberstadt | 2 | [1.7.12](#s1-7-12) | 28 | 1524-1589 | Lutheran |
+| Archbishopric of Magdeburg and Bishopric of Halberstadt | 2 | [1.7.12](#s1-7-12) | 28 | 1524-1589 | Lutheran (Early Evangelical 1524) |
 | Principality of Anhalt | 2 | [1.7.13](#s1-7-13) | 32 | 1532-1599 | Lutheran; Philippist from 1590; Reformed from 1596 |
 | Naumburg cathedral (supplement) | 2 | [1.7.14](#s1-7-14) | 1 | 1543-1543 | Lutheran |
 | Electorate of Brandenburg | 3 | [1.8.1](#s1-8-1) | 7 | 1540-1600 | Lutheran |
@@ -2725,13 +2831,13 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Lands of the von der Schulenburg family | 3 | [1.8.3](#s1-8-3) | 1 | 1572-1572 | Lutheran |
 | Towns of the Mark Brandenburg | 3 | [1.8.4](#s1-8-4) | 57 | 1540-1603 | Lutheran |
 | Upper and Lower Lusatia | 3 | [1.8.5](#s1-8-5) | 14 | 1525-1595 | Lutheran |
-| Silesia | 3 | [1.8.6](#s1-8-6) | 35 | 1521-1592 | Lutheran |
-| Duchy of Prussia | 4 | [1.9.1](#s1-9-1) | 38 | 1524-1588 | Lutheran |
-| Royal Prussia: Danzig, Elbing, Thorn and their lands | 4 | [1.9.2](#s1-9-2) | 23 | 1525-1612 | Lutheran |
+| Silesia | 3 | [1.8.6](#s1-8-6) | 35 | 1521-1592 | Lutheran (Early Evangelical 1521) |
+| Duchy of Prussia | 4 | [1.9.1](#s1-9-1) | 38 | 1524-1588 | Lutheran (Early Evangelical 1524–1525) |
+| Royal Prussia: Danzig, Elbing, Thorn and their lands | 4 | [1.9.2](#s1-9-2) | 23 | 1525-1612 | Lutheran (Early Evangelical 1525) |
 | Greater Poland (Posen): synods, the Bohemian Brethren and the towns | 4 | [1.9.3](#s1-9-3) | 18 | 1560-1616 | Sandomierz consensus |
-| Duchy of Pomerania | 4 | [1.9.4](#s1-9-4) | 47 | 1525-1616 | Lutheran |
+| Duchy of Pomerania | 4 | [1.9.4](#s1-9-4) | 47 | 1525-1616 | Lutheran (Early Evangelical 1525) |
 | Livonia | 5 | [1.10.1](#s1-10-1) | 8 | 1530-1554 | Lutheran |
-| Estonia (Reval) | 5 | [1.10.2](#s1-10-2) | 5 | 1524-1525 | Lutheran |
+| Estonia (Reval) | 5 | [1.10.2](#s1-10-2) | 5 | 1524-1525 | Early Evangelical |
 | Courland | 5 | [1.10.3](#s1-10-3) | 11 | 1560-1591 | Lutheran |
 | Mecklenburg | 5 | [1.10.4](#s1-10-4) | 43 | 1530-1585 | Lutheran |
 | Lübeck with Bergedorf | 5 | [1.10.5](#s1-10-5) | 11 | 1531-1588 | Lutheran |
@@ -2764,11 +2870,11 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Lordship of Jever | 7/2.1 | [1.14.4](#s1-14-4) | 11 | 1558-1596 | Lutheran |
 | County of Schaumburg | 7/2.2 | [1.15.1](#s1-15-1) | 25 | 1559-1615 | Lutheran |
 | Imperial city of Goslar | 7/2.2 | [1.15.2](#s1-15-2) | 35 | 1528-1617 | Lutheran |
-| City of Bremen | 7/2.2 | [1.15.3](#s1-15-3) | 38 | 1525-1616 | Lutheran; Philippist from 1562; Reformed from 1580 |
+| City of Bremen | 7/2.2 | [1.15.3](#s1-15-3) | 38 | 1525-1616 | Early Evangelical 1525; Lutheran; Philippist from 1562; Reformed from 1580 |
 | Landgraviate of Hesse under Philip (to 1567) | 8 | [1.16.1](#s1-16-1) | 21 | 1526-1566 | Moderate Reformed |
 | The Hessian landgraviates: joint synods and orders (1567-1582) | 8 | [1.16.2](#s1-16-2) | 16 | 1568-1582 | Philippist |
 | Divided Hesse (1582-1618) | 9 | [1.17.1](#s1-17-1) | 19 | 1574-1618 | Philippist; Reformed (Hessen-Kassel) from 1600 |
-| County of Waldeck | 9 | [1.17.2](#s1-17-2) | 27 | 1525-1590 | Lutheran |
+| County of Waldeck | 9 | [1.17.2](#s1-17-2) | 27 | 1525-1590 | Lutheran (Early Evangelical 1525) |
 | County of Solms | 9 | [1.17.3](#s1-17-3) | 10 | 1580-1616 | Lutheran |
 | County of Erbach | 9 | [1.17.4](#s1-17-4) | 6 | 1544-1587 | Lutheran |
 | County of Stolberg-Königstein | 9 | [1.17.5](#s1-17-5) | 1 | 1540-1540 | Lutheran |
@@ -2781,26 +2887,26 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Nassau-Wiesbaden and Nassau-Idstein | 10 | [1.18.3](#s1-18-3) | 4 | 1582-1590 | Lutheran |
 | County of Hanau-Münzenberg | 10 | [1.18.4](#s1-18-4) | 29 | 1543-1614 | Lutheran; Reformed from 1595 |
 | County of Ysenburg | 10 | [1.18.5](#s1-18-5) | 30 | 1544-1614 | Lutheran |
-| Imperial city of Nuremberg (to 1528) | 11 | [1.19.1](#s1-19-1) | 8 | 1522-1526 | Lutheran |
-| Brandenburg-Ansbach-Kulmbach (to 1528) | 11 | [1.19.2](#s1-19-2) | 11 | 1523-1528 | Lutheran |
+| Imperial city of Nuremberg (to 1528) | 11 | [1.19.1](#s1-19-1) | 8 | 1522-1526 | Early Evangelical 1522–1525; Lutheran 1526 |
+| Brandenburg-Ansbach-Kulmbach (to 1528) | 11 | [1.19.2](#s1-19-2) | 11 | 1523-1528 | Lutheran (Early Evangelical 1523–1525) |
 | Brandenburg and Nuremberg together (1528-1533) | 11 | [1.19.3](#s1-19-3) | 6 | 1528-1533 | Lutheran |
 | Brandenburg-Ansbach-Kulmbach (from 1528/1533) | 11 | [1.19.4](#s1-19-4) | 21 | 1526-1594 | Lutheran |
 | Imperial city of Nuremberg (from 1533) | 11 | [1.19.5](#s1-19-5) | 3 | 1545-1582 | Lutheran |
 | Imperial city of Rothenburg ob der Tauber | 11 | [1.19.6](#s1-19-6) | 2 | 1558-1559 | Lutheran |
 | Imperial city of Schweinfurt with Gochsheim and Sennfeld | 11 | [1.19.7](#s1-19-7) | 3 | 1543-1576 | Lutheran |
 | Imperial city of Weißenburg (Franconia) | 11 | [1.19.8](#s1-19-8) | 2 | 1528-1590 | Lutheran |
-| Imperial city of Windsheim | 11 | [1.19.9](#s1-19-9) | 1 | 1524-1524 | Lutheran |
+| Imperial city of Windsheim | 11 | [1.19.9](#s1-19-9) | 1 | 1524-1524 | Early Evangelical |
 | County of Castell | 11 | [1.19.10](#s1-19-10) | 1 | 1579-1579 | Lutheran |
 | County of Rieneck | 11 | [1.19.11](#s1-19-11) | 2 | 1544-1588 | Lutheran |
-| County of Wertheim | 11 | [1.19.12](#s1-19-12) | 2 | 1524-1555 | Lutheran |
+| County of Wertheim | 11 | [1.19.12](#s1-19-12) | 2 | 1524-1555 | Lutheran (Early Evangelical 1524) |
 | Lordship of Thüngen | 11 | [1.19.13](#s1-19-13) | 2 | 1564-1587 | Lutheran |
-| Imperial city of Augsburg | 12 | [1.20.1](#s1-20-1) | 17 | 1523-1591 | Moderate Reformed (Rhegius's baptism rite Lutheran); Lutheran from 1549 |
+| Imperial city of Augsburg | 12 | [1.20.1](#s1-20-1) | 17 | 1523-1591 | Early Evangelical 1523; Moderate Reformed (Rhegius's baptism rite Lutheran); Lutheran from 1549 |
 | Imperial city of Dinkelsbühl | 12 | [1.20.2](#s1-20-2) | 9 | 1535-1574 | Lutheran |
 | Imperial city of Donauwörth | 12 | [1.20.3](#s1-20-3) | 1 | 1545-1545 | Lutheran |
 | Imperial city of Kempten | 12 | [1.20.4](#s1-20-4) | 1 | 1553-1553 | Lutheran |
 | Imperial city of Lindau | 12 | [1.20.5](#s1-20-5) | 5 | 1533-1573 | Moderate Reformed; Lutheran from 1549 |
 | Imperial city of Memmingen | 12 | [1.20.6](#s1-20-6) | 5 | 1528-1569 | Moderate Reformed; Lutheran from 1549 |
-| Imperial city of Nördlingen | 12 | [1.20.7](#s1-20-7) | 7 | 1522-1579 | Lutheran |
+| Imperial city of Nördlingen | 12 | [1.20.7](#s1-20-7) | 7 | 1522-1579 | Lutheran (Early Evangelical 1522–1525) |
 | County of Oettingen-Oettingen | 12 | [1.20.8](#s1-20-8) | 1 | 1591-1591 | Lutheran |
 | Duchy of Pfalz-Neuburg | 13 | [1.21.1](#s1-21-1) | 28 | 1542-1577 | Lutheran |
 | Upper Palatinate (Electoral Palatinate) | 13 | [1.21.2](#s1-21-2) | 22 | 1544-1615 | Lutheran; Reformed from 1559; Lutheran from 1577; Reformed from 1583 |
@@ -2817,7 +2923,7 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Lordship of Neckarbischofsheim | 16 | [1.24.5](#s1-24-5) | 1 | 1560-1560 | Lutheran |
 | Imperial city of Schwäbisch Hall | 17/1 | [1.25.1](#s1-25-1) | 21 | 1526-1615 | Lutheran |
 | Imperial city of Heilbronn | 17/1 | [1.25.2](#s1-25-2) | 18 | 1528-1603 | Lutheran |
-| Imperial city of Konstanz | 17/1 | [1.25.3](#s1-25-3) | 19 | 1524-1548 | Moderate Reformed |
+| Imperial city of Konstanz | 17/1 | [1.25.3](#s1-25-3) | 19 | 1524-1548 | Early Evangelical 1524; Moderate Reformed |
 | Imperial city of Isny | 17/1 | [1.25.4](#s1-25-4) | 5 | 1533-1600 | Moderate Reformed; Lutheran from 1549 |
 | Imperial city of Gengenbach | 17/1 | [1.25.5](#s1-25-5) | 8 | 1538-1545 | Moderate Reformed |
 | Württemberg: school orders of the Great Church Order of 1559 (supplement to vol. 16) | 17/1 | [1.25.6](#s1-25-6) | 7 | 1559-1559 | Lutheran |
@@ -2837,8 +2943,8 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Lordship of Sickingen | 18 | [1.27.4](#s1-27-4) | 2 | 1564-1572 | Lutheran |
 | County of Manderscheid-Schleiden | 18 | [1.27.5](#s1-27-5) | 1 | 1566-1566 | Lutheran |
 | Imperial city of Landau | 19/1 | [1.28.1](#s1-28-1) | 12 | 1526-1611 | Moderate Reformed; Lutheran from 1555 |
-| Imperial city of Speyer | 19/1 | [1.28.2](#s1-28-2) | 10 | 1525-1612 | Lutheran |
-| Imperial city of Worms | 19/1 | [1.28.3](#s1-28-3) | 4 | 1524-1560 | Moderate Reformed; Lutheran from 1552 |
+| Imperial city of Speyer | 19/1 | [1.28.2](#s1-28-2) | 10 | 1525-1612 | Lutheran (Early Evangelical 1525) |
+| Imperial city of Worms | 19/1 | [1.28.3](#s1-28-3) | 4 | 1524-1560 | Early Evangelical 1524–1525; Moderate Reformed; Lutheran from 1552 |
 | Counties of Leiningen | 19/1 | [1.28.4](#s1-28-4) | 11 | 1566-1617 | Lutheran |
 | County of Sayn | 19/1 | [1.28.5](#s1-28-5) | 16 | 1560-1619 | Lutheran; Reformed from 1605 |
 | County of Wied | 19/1 | [1.28.6](#s1-28-6) | 8 | 1564-1619 | Reformed |
@@ -2846,11 +2952,11 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | Principality of Pfalz-Simmern | 19/2 | [1.29.2](#s1-29-2) | 3 | 1560-1598 | Lutheran; Reformed from 1598 |
 | County of Pfalz-Veldenz (supplement to vol. 18) | 19/2 | [1.29.3](#s1-29-3) | 1 | 1571-1571 | Lutheran |
 | Electoral Palatinate (supplement to vol. 14) | 19/2 | [1.29.4](#s1-29-4) | 72 | 1546-1610 | Lutheran; Reformed from 1561; Lutheran from 1577 (Reformed in Pfalz-Lautern); Reformed from 1583 |
-| Imperial city of Strasbourg | 20/1 | [1.30.1](#s1-30-1) | 79 | 1523-1617 | Moderate Reformed; Lutheran from 1549 |
+| Imperial city of Strasbourg | 20/1 | [1.30.1](#s1-30-1) | 79 | 1523-1617 | Early Evangelical 1523–1525; Moderate Reformed from 1525; Lutheran from 1549 |
 | County of Hanau-Lichtenberg | 20/2 | [1.31.1](#s1-31-1) | 7 | 1545-1614 | Lutheran |
 | Lordship of Fleckenstein | 20/2 | [1.31.2](#s1-31-2) | 1 | n.d. | Lutheran |
 | Lordship of Rappoltstein | 20/2 | [1.31.3](#s1-31-3) | 12 | 1553-1569 | Lutheran |
-| Imperial city of Mülhausen (Mulhouse) | 20/2 | [1.31.4](#s1-31-4) | 27 | 1523-1582 | Reformed |
+| Imperial city of Mülhausen (Mulhouse) | 20/2 | [1.31.4](#s1-31-4) | 27 | 1523-1582 | Early Evangelical 1523–1524; Reformed |
 | Imperial city of Weißenburg (Alsace) | 20/2 | [1.31.5](#s1-31-5) | 2 | 1560-1613 | Lutheran |
 | Münster im Gregoriental | 20/2 | [1.31.6](#s1-31-6) | 7 | 1575-1604 | Lutheran |
 | Imperial city of Hagenau | 20/2 | [1.31.7](#s1-31-7) | 12 | 1565-1617 | Lutheran |
@@ -2995,8 +3101,9 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-6-6"></a>1.6.6 Towns of Ernestine and Albertine Saxony
 
-- **Tradition**: Lutheran.
-- **Texts by tradition**: Lutheran 130, Radical Reformation (Müntzer) 3.
+- **Tradition**: Lutheran, save the orders of 1522–1525 (Early Evangelical) and Müntzer's
+  (Radical Reformation).
+- **Texts by tradition**: Lutheran 126, Early Evangelical 4, Radical Reformation (Müntzer) 3.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -3027,7 +3134,7 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 122 | Ausschreiben des Herzogs Moritz | 1542 | 1, p. 538 | 69 | Mandate / decree | L |  |
 | 113 | Gemeiner bericht der visitatoren an den pfarrer, rath und gemein zu Kempnitz | 1540 | 1, p. 539 | 70 | Visitation | L |  |
 | 143 | Verordnung der Visitatoren für Chemnitz | 1555 | 1, p. 540 | 71 | Visitation | L |  |
-| 15 | Gottesdienst-Ordnung der stadt Coburg | 1524 | 1, p. 542 | 72 | Agenda / liturgy | L |  |
+| 15 | Gottesdienst-Ordnung der stadt Coburg | 1524 | 1, p. 542 | 72 | Agenda / liturgy | EE |  |
 | 130 | Verordnung und bestellung des kirchendiensts der pfarrn in der stadt Coburg | 1545 | 1, p. 543 | 73 | Appointment / oath | L |  |
 | 144 | Vorschaffung zu Coburg | 1555 | 1, p. 544 | 74 | Articles / statutes | L |  |
 | 38 | Verordnung für die Stadt Colditz | 1529 | 1, p. 545 | 75 | Mandate / decree | L |  |
@@ -3064,7 +3171,7 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 108 | Verordnungen der Visitatoren zu Leipzig | 1539 | 1, p. 591 | 99 | Visitation | L |  |
 | 109 | Kirchen-Ordnung einem erbarn rath zu Leipzig zugestelt | 1539 | 1, p. 593 | 100 | Church order | L |  |
 |  | 1567, †160. Gemein Gebet zu Leipzig | 1564 | 1, p. 595 | 101 | Agenda / liturgy | L |  |
-| 12 | Ordnung eines gemeinen Kastens zu Leisnig | 1523 | 1, p. 598 | 102 | Poor relief | L |  |
+| 12 | Ordnung eines gemeinen Kastens zu Leisnig | 1523 | 1, p. 598 | 102 | Poor relief | EE |  |
 | 47 | Verordnung der Visitatoren für die Stadt Leisnig | 1529 | 1, p. 605 | 103 | Visitation | L |  |
 | 48 | Verordnung der Visitatoren für das Amt zu Leisnig | 1529 | 1, p. 609 | 104 | Visitation | L |  |
 | 202 | Hochzeits-Ordnung für Leisnig | 1579 | 1, p. 610 | 105 | Marriage | L |  |
@@ -3119,8 +3226,8 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 168 | Specialartikel für die Stadt Weimar | 1570 | 1, p. 690 | 144 | Articles / statutes | L |  |
 | 119 | Ordnung der visitacion zu Weissenfels | 1540 | 1, p. 692 | 144 | Local order | L |  |
 | 201 | Ordnung der geseng, so zu Weissenfels. gehalten wird | 1578 | 1, p. 693 | 145 | Agenda / liturgy | L |  |
-| 8 | Kirchen-Ordnung für Wittenberg (Carlstadt) | 1522 | 1, p. 697 | 146 | Church order | L | Karlstadt's Wittenberg order |
-| 16 | Wie es mit den ceremonien der kirchen gehalten wirt zu Wittenberg | 1525 | 1, p. 698 | 147 | Agenda / liturgy | L |  |
+| 8 | Kirchen-Ordnung für Wittenberg (Carlstadt) | 1522 | 1, p. 697 | 146 | Church order | EE | Karlstadt's Wittenberg order |
+| 16 | Wie es mit den ceremonien der kirchen gehalten wirt zu Wittenberg | 1525 | 1, p. 698 | 147 | Agenda / liturgy | EE |  |
 | 83 | Kirchen-Ordnung für die Stadt Wittenberg | 1533 | 1, p. 700 | 148 | Church order | L |  |
 | 7 | Bericht über die von Bugenhagen in Wittenberg beobachtete Trauungsordnung | n.d. | 1, p. 710 | 148 | Agenda / liturgy | L |  |
 | 30 | Verordnung der Visitatoren für Zahna | 1527 | 1, p. 711 | 149 | Visitation | L |  |
@@ -3283,14 +3390,15 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-7-10"></a>1.7.10 Mainz possessions (Eichsfeld, Erfurt, Querfurt)
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the Erfurt *Kirchenamt* of 1525 (Early Evangelical).
+- **Texts by tradition**: Lutheran 3, Early Evangelical 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
 | 75 | Formula visitationis ecclesiae Erfurtensis | 1557 | 2, p. 365 | 1251 | Visitation | L |  |
 |  | Formula pacificationis zu Erfurt | 1580 | 2, p. 366 | 1251 | Treaty / agreement | L |  |
 | 139 | Policei-Ordnung für Erfurt | 1583 | 2, p. 370 | 1251 | Discipline / police | L |  |
-| 11 | Deutsches Kirchenamt (Erfurt) | 1525 | 2, p. 375 | 1251 | Agenda / liturgy | L |  |
+| 11 | Deutsches Kirchenamt (Erfurt) | 1525 | 2, p. 375 | 1251 | Agenda / liturgy | EE |  |
 
 #### <a id="s1-7-11"></a>1.7.11 Imperial cities of Mühlhausen and Nordhausen
 
@@ -3307,7 +3415,8 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-7-12"></a>1.7.12 Archbishopric of Magdeburg and Bishopric of Halberstadt
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the Magdeburg orders of 1524 (Early Evangelical).
+- **Texts by tradition**: Lutheran 26, Early Evangelical 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -3321,8 +3430,8 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 39 | Kirchen-Ordnung der Gemeinde zu Halle | 1543 | 2, p. 434 | 1257 | Church order | L |  |
 |  | Kirchenordnung der christlichen gemein zu Halle | 1573 | 2, p. 436 | 1257 | Church order | L |  |
 | 92 | Form der öffentlichen Busse zu Jüterbogk | 1562 | 2, p. 443 | 1257 | Agenda / liturgy | L |  |
-| 9 | Reformations-Artikel für Magdeburg | 1524 | 2, p. 448 | 1257 | Church order | L |  |
-| 10 | Ordnung der gemeinen kesten .... in der löblichen stadt Maydeburg | 1524 | 2, p. 449 | 1257 | Local order | L |  |
+| 9 | Reformations-Artikel für Magdeburg | 1524 | 2, p. 448 | 1257 | Church order | EE |  |
+| 10 | Ordnung der gemeinen kesten .... in der löblichen stadt Maydeburg | 1524 | 2, p. 449 | 1257 | Local order | EE |  |
 | 69 | Etliche artikel zu notwendiger kirchenordnung gehörig, welcher sich die pfarrherr . zu Magdeburg.vereiniget u. s. w | 1554 | 2, p. 450 | 1257 | Church order | L |  |
 | 117 | Ordnung vom kirchengericht, bann, auch beruf und enturlaubung der prediger in Magdeburg | 1569 | 2, p. 453 | 1257 | Local order | L |  |
 | 83 | Bestallungsurkunde für den Superintendenten in Magdeburg | 1560 | 2, p. 454 | 1257 | Consistory / synod / government | L |  |
@@ -3515,7 +3624,8 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-8-6"></a>1.8.6 Silesia
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save Breslau's beggars' order of 1521 (Early Evangelical).
+- **Texts by tradition**: Lutheran 34, Early Evangelical 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -3524,7 +3634,7 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 42 | Ehestatut für Breslau, um 1550 | 1550 | 3, p. 404 | 1807 | Marriage | L |  |
 | 51 | Bericht über die in Breslau bestehende Ordnung | 1557 | 3, p. 404 | 1807 | Mandate / decree | L |  |
 | 101 | Seuchegebet für Breslau | 1585 | 3, p. 405 | 1807 | Agenda / liturgy | L |  |
-| 2 | Bettelordnung für Breslau | 1521 | 3, p. 406 | 1807 | Poor relief | L |  |
+| 2 | Bettelordnung für Breslau | 1521 | 3, p. 406 | 1807 | Poor relief | EE |  |
 | 3 | Gotteskastenordnung für Breslau | 1528 | 3, p. 406 | 1807 | Poor relief | L |  |
 | 105 | Gebet für die Wahl eines polnischen Königs | 1587 | 3, p. 406 | 1807 | Agenda / liturgy | L |  |
 | 5 | Instruktion und Ordnung des gemeinen Almosen zu Breslau | 1526 | 3, p. 409 | 1807 | Poor relief | L |  |
@@ -3561,7 +3671,8 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-9-1"></a>1.9.1 Duchy of Prussia
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the orders of 1524–1525 (Early Evangelical).
+- **Texts by tradition**: Lutheran 34, Early Evangelical 4.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -3574,9 +3685,9 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 |  | Visitations-Abschied für Döbern (Regest) | 1578 | 4, p. 15 | 1830 | Visitation | L |  |
 |  | Visitations-Abschied für Hohenstein (Regest) | 1578 | 4, p. 15 | 1830 | Visitation | L |  |
 |  | Visitations-Abschied in Preussen (Regest) | 1584 | 4, p. 17 | 1830 | Visitation | L |  |
-| 1 | Themata episcopi Risenburgensis | 1525 | 4, p. 29 | 1831 | Confession / doctrine | L |  |
-| 2 | Artikel der ceremonien und anderer kirchen ordnung in Preussen | 1525 | 4, p. 30 | 1832 | Confession / doctrine | L |  |
-| 3 | Etliche ausgezogen artikel aus gemeiner landsordnung des herzogthums Preussen | 1525 | 4, p. 38 | 1833 | Other | L |  |
+| 1 | Themata episcopi Risenburgensis | 1525 | 4, p. 29 | 1831 | Confession / doctrine | EE |  |
+| 2 | Artikel der ceremonien und anderer kirchen ordnung in Preussen | 1525 | 4, p. 30 | 1832 | Confession / doctrine | EE |  |
+| 3 | Etliche ausgezogen artikel aus gemeiner landsordnung des herzogthums Preussen | 1525 | 4, p. 38 | 1833 | Other | EE |  |
 | 4 | Visitations-Instruktion für Preussen | 1526 | 4, p. 41 | 1833 | Visitation | L |  |
 | 5 | Visitations-Instruktion für Preussen | 1528 | 4, p. 42 | 1833 | Visitation | L |  |
 | 6 | Episcopale mandatum für Preussen | 1539 | 4, p. 45 | 1833 | Mandate / decree | L |  |
@@ -3593,7 +3704,7 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 16 | Consistorialordnung in Preussen | 1584 | 4, p. 123 | 1834 | Consistory / synod / government | L |  |
 | 17 | Visitations-Abschied von Czichen | 1581 | 4, p. 139 | 1836 | Visitation | L |  |
 | 18 | Visitations-Abschied für die Stadt Holland | 1578 | 4, p. 140 | 1836 | Visitation | L |  |
-| 19 | Kastenordnung von Königsberg | 1524 | 4, p. 143 | 1836 | Poor relief | L |  |
+| 19 | Kastenordnung von Königsberg | 1524 | 4, p. 143 | 1836 | Poor relief | EE |  |
 | 20 | Visitations-Abschied für Löbenicht-Königsberg | 1585 | 4, p. 144 | 1836 | Visitation | L |  |
 | 21 | Begräbnissordnung für Königsberg | 1585 | 4, p. 145 | 1837 | Agenda / liturgy | L |  |
 | 22 | Abschied für Lyck | 1579 | 4, p. 147 | 1837 | Visitation | L |  |
@@ -3606,12 +3717,13 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-9-2"></a>1.9.2 Royal Prussia: Danzig, Elbing, Thorn and their lands
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save Danzig's poor order of 1525 (Early Evangelical).
+- **Texts by tradition**: Lutheran 22, Early Evangelical 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
 |  | Entwurf einer Kirchenordnung für Danzig (Regest) | 1567 | 4, p. 168 | 1844 | Church order | L |  |
-| 29 | Armenordnung für Danzig | 1525 | 4, p. 175 | 1844 | Poor relief | L |  |
+| 29 | Armenordnung für Danzig | 1525 | 4, p. 175 | 1844 | Poor relief | EE |  |
 | 30 | Armenordnung für Danzig | 1551 | 4, p. 176 | 1844 | Poor relief | L |  |
 | 31 | Kirchenordnung für Danzig | 1557 | 4, p. 181 | 1844 | Church order | L |  |
 | 32 | Köstenordnung für Danzig | 1564 | 4, p. 181 | 1844 | Marriage | L |  |
@@ -3665,7 +3777,9 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-9-4"></a>1.9.4 Duchy of Pomerania
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the Stralsund church and school order of 1525 and its two
+  companion texts (Early Evangelical).
+- **Texts by tradition**: Lutheran 44, Early Evangelical 3.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
@@ -3708,9 +3822,9 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 | 101 | Abschied für Stolp | 1535 | 4, p. 535 | 1884 | Visitation | L |  |
 | 102 | Abschied für Stolp | 1571 | 4, p. 536 | 1884 | Visitation | L |  |
 | 103 | Abschied für Stolp | 1590 | 4, p. 537 | 1884 | Visitation | L |  |
-| 104 | Kirchen- und Schulordnung für Stralsund | 1525 | 4, p. 542 | 1884 | School / university | L |  |
-| 105 | Kirchen- und Schulordnung für Stralsund. Publikationsbefehl des Rathes | 1525 | 4, p. 545 | 1886 | School / university | L |  |
-| 106 | Anhang zur Stralsunder Kirchen- und Schulordnung | 1525 | 4, p. 547 | 1887 | School / university | L |  |
+| 104 | Kirchen- und Schulordnung für Stralsund | 1525 | 4, p. 542 | 1884 | School / university | EE |  |
+| 105 | Kirchen- und Schulordnung für Stralsund. Publikationsbefehl des Rathes | 1525 | 4, p. 545 | 1886 | School / university | EE |  |
+| 106 | Anhang zur Stralsunder Kirchen- und Schulordnung | 1525 | 4, p. 547 | 1887 | School / university | EE |  |
 | 107 | Visitationsrezess und Kirchenordnung für Stralsund | 1535 | 4, p. 548 | 1887 | Church order | L |  |
 | 108 | Entwurf einer Kirchenordnung für Stralsund | 1555 | 4, p. 550 | 1888 | Church order | L |  |
 | 109 | Stralsunder Kleider- und Hochzeitsordnung | 1570 | 4, p. 552 | 1889 | Marriage | L |  |
@@ -3738,15 +3852,15 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-10-2"></a>1.10.2 Estonia (Reval)
 
-- **Tradition**: Lutheran.
+- **Tradition**: Early Evangelical (1524–1525).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-|  | Entwurf der Prediger zu Reval | 1524 | 5, p. 39 | 1901 | Other | L |  |
-|  | Ordnung des Raths zu Reval | 1524 | 5, p. 40 | 1901 | Local order | L |  |
-|  | Vorschlag Langes zu Reval, betr. den Gottesdienst | 1525 | 5, p. 40 | 1901 | Agenda / liturgy | L |  |
-|  | Ordnung des Raths zu Reval | 1525 | 5, p. 41 | 1902 | Local order | L |  |
-|  | Ordnung des Raths zu Reval über die Einkünfte | 1525 | 5, p. 41 | 1902 | Local order | L |  |
+|  | Entwurf der Prediger zu Reval | 1524 | 5, p. 39 | 1901 | Other | EE |  |
+|  | Ordnung des Raths zu Reval | 1524 | 5, p. 40 | 1901 | Local order | EE |  |
+|  | Vorschlag Langes zu Reval, betr. den Gottesdienst | 1525 | 5, p. 40 | 1901 | Agenda / liturgy | EE |  |
+|  | Ordnung des Raths zu Reval | 1525 | 5, p. 41 | 1902 | Local order | EE |  |
+|  | Ordnung des Raths zu Reval über die Einkünfte | 1525 | 5, p. 41 | 1902 | Local order | EE |  |
 
 #### <a id="s1-10-3"></a>1.10.3 Courland
 
@@ -4269,15 +4383,15 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-15-3"></a>1.15.3 City of Bremen
 
-- **Tradition**: Lutheran; Philippist from 1562; Reformed from 1580.
-- **Note**: Lutheran from 1525; the dispute over Albert Hardenberg, a pupil of Melanchthon
+- **Tradition**: Early Evangelical (1525); Lutheran; Philippist from 1562; Reformed from 1580.
+- **Note**: Evangelical from 1525; the dispute over Albert Hardenberg, a pupil of Melanchthon
   (1556-1562), led to a Philippist church (1562-1579) and from 1580 to the 'Second Reformation'.
-- **Texts by tradition**: Lutheran 16, Reformed 13, Philippist 9.
+- **Texts by tradition**: Lutheran 14, Reformed 13, Philippist 9, Early Evangelical 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Evangelische Messe 1525 | 1525 | 7/2.2, p. 403 | 2216 | Agenda / liturgy | L |  |
-| 2 | Einrichtung eines Armenkastens in der Liebfrauenkirche 16. April 1525 | 1525 | 7/2.2, p. 408 | 2217 | Poor relief | L |  |
+| 1 | Evangelische Messe 1525 | 1525 | 7/2.2, p. 403 | 2216 | Agenda / liturgy | EE |  |
+| 2 | Einrichtung eines Armenkastens in der Liebfrauenkirche 16. April 1525 | 1525 | 7/2.2, p. 408 | 2217 | Poor relief | EE |  |
 | 3a | Vereinbarung zwischen Erzbischof Christoph und der Stadt Bremen 23. September 1533 | 1533 | 7/2.2, p. 409 | 2217 | Treaty / agreement | L |  |
 | 3b | Vertrag zwischen Erzbischof Christoph und der Stadt Bremen 22. September 1534 | 1534 | 7/2.2, p. 412 | 2217 | Treaty / agreement | L |  |
 | 4a | Ordnung der Gottesdienstzeiten für die Goslarer Pfarreien 24. April 1528: Kirchenordnung 1534 | 1534 | 7/2.2, p. 416 | 2217 | Church order | L |  |
@@ -4410,12 +4524,13 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-17-2"></a>1.17.2 County of Waldeck
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the orders of 1525 (Early Evangelical).
+- **Texts by tradition**: Lutheran 25, Early Evangelical 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Landordnung 1525 | 1525 | 9, p. 177 | 2300 | Discipline / police | L |  |
-| 2 | Kirchenordnung [1525] | 1525 | 9, p. 180 | 2300 | Church order | L |  |
+| 1 | Landordnung 1525 | 1525 | 9, p. 177 | 2300 | Discipline / police | EE |  |
+| 2 | Kirchenordnung [1525] | 1525 | 9, p. 180 | 2300 | Church order | EE |  |
 | 3 | Reformationsmandat für die Johanniterkommende Niederwildungen 1527 | 1527 | 9, p. 184 | 2300 | Mandate / decree | L |  |
 | 4 | Beschlüsse für die Synode von Mengeringhausen 1528 | 1528 | 9, p. 185 | 2300 | Consistory / synod / government | L |  |
 | 5 | Die Agende von Johann Hefentreger 1524-1539 5a/g. Glaubensbekenntnis und Bekenntnisordnung für die Stadt Waldeck 1529/1534 | 1534 | 9, p. 187 | 2300 | Confession / doctrine | L |  |
@@ -4705,30 +4820,32 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-19-1"></a>1.19.1 Imperial city of Nuremberg (to 1528)
 
-- **Tradition**: Lutheran.
+- **Tradition**: Early Evangelical (1522–1525); Lutheran (the marriage order of 1526).
+- **Texts by tradition**: Early Evangelical 7, Lutheran 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Eins Rats der Stat Nürmberg ordnung des grossen allmusens Haußarmer leut 1522 | 1522 | 11, p. 23 | 244 | Other | L |  |
-| 2 | Ordnug, wie man tauffet, bisher im latein gehalten, verteütscht. 1524 | 1524 | 11, p. 33 | 245 | Agenda / liturgy | L |  |
-| 3 | Messe des Priors Volprecht. 1524 | 1524 | 11, p. 39 | 247 | Agenda / liturgy | L |  |
-| 4 | Artikel, der sich die beeden pröbst ... verglichen haben ... 1524 | 1524 | 11, p. 44 | 247 | Articles / statutes | L |  |
-| 5 | Gottesdienstordnung der Pfarrkirchen 1524 | 1524 | 11, p. 46 | 249 | Agenda / liturgy | L |  |
-| 6 | Von der evangelischen meß ... zu Nürnberg im Newen Spital durch Andream Döber ... 1525 | 1525 | 11, p. 51 | 249 | Agenda / liturgy | L |  |
-| 7 | Form und ordnung eyner Christlichen Meß zu Nürmberg im Newen Spital 1525 | 1525 | 11, p. 56 | 250 | Agenda / liturgy | L |  |
+| 1 | Eins Rats der Stat Nürmberg ordnung des grossen allmusens Haußarmer leut 1522 | 1522 | 11, p. 23 | 244 | Other | EE |  |
+| 2 | Ordnug, wie man tauffet, bisher im latein gehalten, verteütscht. 1524 | 1524 | 11, p. 33 | 245 | Agenda / liturgy | EE |  |
+| 3 | Messe des Priors Volprecht. 1524 | 1524 | 11, p. 39 | 247 | Agenda / liturgy | EE |  |
+| 4 | Artikel, der sich die beeden pröbst ... verglichen haben ... 1524 | 1524 | 11, p. 44 | 247 | Articles / statutes | EE |  |
+| 5 | Gottesdienstordnung der Pfarrkirchen 1524 | 1524 | 11, p. 46 | 249 | Agenda / liturgy | EE |  |
+| 6 | Von der evangelischen meß ... zu Nürnberg im Newen Spital durch Andream Döber ... 1525 | 1525 | 11, p. 51 | 249 | Agenda / liturgy | EE |  |
+| 7 | Form und ordnung eyner Christlichen Meß zu Nürmberg im Newen Spital 1525 | 1525 | 11, p. 56 | 250 | Agenda / liturgy | EE |  |
 | 8 | Einlaitunge der Eheleut 1526 | 1526 | 11, p. 58 | 252 | Agenda / liturgy | L |  |
 
 #### <a id="s1-19-2"></a>1.19.2 Brandenburg-Ansbach-Kulmbach (to 1528)
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the orders of 1523–1525 (Early Evangelical).
+- **Texts by tradition**: Lutheran 6, Early Evangelical 5.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Ein cristenliche Ordenung der Betler halben ...in der Stat Kitzingen ... 1523 | 1523 | 11, p. 72 | 253 | Other | L |  |
-| 2 | Dorffmayster ...zu Wendelstains fürhalten jrem new angeendem Pfarrherrn gethan. 1524 | 1524 | 11, p. 77 | 254 | Articles / statutes | L |  |
-| 3 | Handlung und beschluß, des ... Fürsten Casimir, ... mit sampt seinen gaistlichen Prelaten und hochgelerten, das Gotswort betreffent. ... 1524 | 1524 | 11, p. 80 | 255 | Mandate / decree | L |  |
-| 4 | Ansbacher Landtagsabschied 1525 | 1525 | 11, p. 82 | 257 | Treaty / agreement | L |  |
-| 5 | Der ... Marggraven zu Brandenburg ... anzeigen, wie ... durch ... prediger vil aufrur fürkummen werden mög. Auch ein kurze ... underricht, wie … | 1525 | 11, p. 84 | 257 | Other | L |  |
+| 1 | Ein cristenliche Ordenung der Betler halben ...in der Stat Kitzingen ... 1523 | 1523 | 11, p. 72 | 253 | Other | EE |  |
+| 2 | Dorffmayster ...zu Wendelstains fürhalten jrem new angeendem Pfarrherrn gethan. 1524 | 1524 | 11, p. 77 | 254 | Articles / statutes | EE |  |
+| 3 | Handlung und beschluß, des ... Fürsten Casimir, ... mit sampt seinen gaistlichen Prelaten und hochgelerten, das Gotswort betreffent. ... 1524 | 1524 | 11, p. 80 | 255 | Mandate / decree | EE |  |
+| 4 | Ansbacher Landtagsabschied 1525 | 1525 | 11, p. 82 | 257 | Treaty / agreement | EE |  |
+| 5 | Der ... Marggraven zu Brandenburg ... anzeigen, wie ... durch ... prediger vil aufrur fürkummen werden mög. Auch ein kurze ... underricht, wie … | 1525 | 11, p. 84 | 257 | Other | EE |  |
 | 6 | Abschied, ... wes sich ... Herr Casimir ... bis auf ein zukünftig Nacionalversammlung, ... in jrer Gnaden Land ... zu halten vereynigt haben. [1526.] | 1526 | 11, p. 88 | 258 | Treaty / agreement | L |  |
 | 7 | Ordnung der Tauff nach wirtzburgischer Rubricken von wort und wort verteutscht. [1526.] | 1526 | 11, p. 98 | 260 | Agenda / liturgy | L |  |
 | 8 | Abschied des ... Fürsten, ... herrn Geörgen ... mit ... gemeiner Landschafft ... 1528 | 1528 | 11, p. 102 | 260 | Treaty / agreement | L |  |
@@ -4818,11 +4935,11 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-19-9"></a>1.19.9 Imperial city of Windsheim
 
-- **Tradition**: Lutheran.
+- **Tradition**: Early Evangelical (1524).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-|  | Ordnung, wie es nun hinfüro mit dem gefelle dies gemeinen castens ... gehalten werden soll. 1524 | 1524 | 11, p. 674 | 312 | Local order | L |  |
+|  | Ordnung, wie es nun hinfüro mit dem gefelle dies gemeinen castens ... gehalten werden soll. 1524 | 1524 | 11, p. 674 | 312 | Local order | EE |  |
 
 #### <a id="s1-19-10"></a>1.19.10 County of Castell
 
@@ -4843,11 +4960,12 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-19-12"></a>1.19.12 County of Wertheim
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the church order of 1524 (Early Evangelical).
+- **Texts by tradition**: Lutheran 1, Early Evangelical 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Wertheimer Kirchenordnung von 1524 | 1524 | 11, p. 707 | 322 | Church order | L |  |
+| 1 | Wertheimer Kirchenordnung von 1524 | 1524 | 11, p. 707 | 322 | Church order | EE |  |
 | 2 | Wertheimer Kirchenordnung um 1555 | 1555 | 11, p. 708 | 323 | Church order | L |  |
 
 #### <a id="s1-19-13"></a>1.19.13 Lordship of Thüngen
@@ -4865,16 +4983,16 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-20-1"></a>1.20.1 Imperial city of Augsburg
 
-- **Tradition**: Moderate Reformed, save Rhegius's baptism rite (no. 3, Lutheran); Lutheran from
-  1549.
+- **Tradition**: Early Evangelical (1523); Moderate Reformed, save Rhegius's baptism rite (no.
+  3, Lutheran); Lutheran from 1549.
 - **Note**: Upper German (Zwinglian-Bucerian) until the Interim; Lutheran after 1552/1555.
   Rhegius's baptism rite is coded by its author, from 1531 superintendent of the Lutheran church
   at Celle.
-- **Texts by tradition**: Moderate Reformed 13, Lutheran 4.
+- **Texts by tradition**: Moderate Reformed 12, Lutheran 4, Early Evangelical 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | MR |  |
+| 1 | Priesterhochzeit 1523 | 1523 | 12, p. 33 | 333 | Marriage | EE |  |
 | 2 | Das frugebet, so man anstatt der bäpstischen meß haltet | 1529 | 12, p. 35 | 333 | Agenda / liturgy | MR | dated by the editor: oldest edition 1529 |
 | 3 | Taufritus des Urban Rhegius | n.d. | 12, p. 39 | 333 | Agenda / liturgy | L | between 1524 and 1530, when Rhegius was the city's preacher; coded by its author |
 | 4 | Form und Ordnung des Herrn nachtmal betreffend 1530 | 1530 | 12, p. 40 | 334 | Agenda / liturgy | MR |  |
@@ -4954,12 +5072,14 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-20-7"></a>1.20.7 Imperial city of Nördlingen
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save Kantz's Mass of 1522 and the *Renovatio* of 1525 (Early
+  Evangelical).
+- **Texts by tradition**: Lutheran 5, Early Evangelical 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Von der Evangelischen Mesß... Durch Caspar Kantz... (1522) | 1522 | 12, p. 285 | 369 | Agenda / liturgy | L |  |
-| 2 | Renovatio Ecclesiae Nordlingiacensis... 1525 | 1525 | 12, p. 289 | 370 | Other | L |  |
+| 1 | Von der Evangelischen Mesß... Durch Caspar Kantz... (1522) | 1522 | 12, p. 285 | 369 | Agenda / liturgy | EE |  |
+| 2 | Renovatio Ecclesiae Nordlingiacensis... 1525 | 1525 | 12, p. 289 | 370 | Other | EE |  |
 | 3 | Der statt Nordling... reformation und kirchenordnung... 1538 | 1538 | 12, p. 307 | 371 | Church order | L |  |
 | 4 | Kirchenordnung Kaspar Löners 1544 | 1544 | 12, p. 310 | 372 | Church order | L |  |
 | 5 | Ordnung der ceremonien in der pfarkirchen zu Sant Georgen..., gestelt durch M. Caspar Löhner... 1544, und jetzo wider ubersehen ... durch Melchior … | 1555 | 12, p. 317 | 373 | Agenda / liturgy | L |  |
@@ -5560,14 +5680,15 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-25-3"></a>1.25.3 Imperial city of Konstanz
 
-- **Tradition**: Moderate Reformed.
+- **Tradition**: Early Evangelical (1524); Moderate Reformed.
 - **Note**: Upper German (Zwick, Blarer); the Reformation ended when Konstanz fell to Austria in
   1548.
+- **Texts by tradition**: Moderate Reformed 17, Early Evangelical 2.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Reformationsratschlag für den Städtetag in Ulm 1524 | 1524 | 17/1, p. 347 | 786 | Other | MR |  |
-| 2a | Konstanzer Reformationsordnung 1524-1529: Predigtmandat 1524 | 1524 | 17/1, p. 362 | 786 | Mandate / decree | MR |  |
+| 1 | Reformationsratschlag für den Städtetag in Ulm 1524 | 1524 | 17/1, p. 347 | 786 | Other | EE |  |
+| 2a | Konstanzer Reformationsordnung 1524-1529: Predigtmandat 1524 | 1524 | 17/1, p. 362 | 786 | Mandate / decree | EE |  |
 | 2b | Konstanzer Reformationsordnung 1524-1529: Edikt gegen Ehebruch und Hurerei 1527 | 1527 | 17/1, p. 363 | 786 | Mandate / decree | MR |  |
 | 2c | Konstanzer Reformationsordnung 1524-1529: Ordnung der Eheeinsegnungen [1528] | 1528 | 17/1, p. 364 | 786 | Marriage | MR |  |
 | 2d | Konstanzer Reformationsordnung 1524-1529: Ordnung der Taufen [um 1529] | 1529 | 17/1, p. 366 | 786 | Agenda / liturgy | MR |  |
@@ -5959,11 +6080,12 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-28-2"></a>1.28.2 Imperial city of Speyer
 
-- **Tradition**: Lutheran.
+- **Tradition**: Lutheran, save the treaty of 1525 (Early Evangelical).
+- **Texts by tradition**: Lutheran 9, Early Evangelical 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Vertrag zwischen Stadt und Klerus 1525 | 1525 | 19/1, p. 83 | 1054 | Treaty / agreement | L |  |
+| 1 | Vertrag zwischen Stadt und Klerus 1525 | 1525 | 19/1, p. 83 | 1054 | Treaty / agreement | EE |  |
 | 2 | Bedenken der Predigt halben 1538 | 1538 | 19/1, p. 87 | 1055 | Mandate / decree | L |  |
 | 3 | Anstellung evangelischer Prediger 1545 | 1545 | 19/1, p. 90 | 1056 | Appointment / oath | L |  |
 | 4 | Kirchenordnung 1557 | 1557 | 19/1, p. 91 | 1057 | Church order | L |  |
@@ -5976,14 +6098,14 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-28-3"></a>1.28.3 Imperial city of Worms
 
-- **Tradition**: Moderate Reformed; Lutheran from 1552.
+- **Tradition**: Early Evangelical (1524–1525); Moderate Reformed; Lutheran from 1552.
 - **Note**: Upper German beginnings; Lutheran consolidation after 1552.
-- **Texts by tradition**: Moderate Reformed 3, Lutheran 1.
+- **Texts by tradition**: Early Evangelical 2, Lutheran 1, Moderate Reformed 1.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Deutsche Messe 1524 | 1524 | 19/1, p. 124 | 1066 | Agenda / liturgy | MR |  |
-| 2 | Vertrag zwischen Stadt und Klerus 1525 | 1525 | 19/1, p. 130 | 1067 | Treaty / agreement | MR |  |
+| 1 | Deutsche Messe 1524 | 1524 | 19/1, p. 124 | 1066 | Agenda / liturgy | EE |  |
+| 2 | Vertrag zwischen Stadt und Klerus 1525 | 1525 | 19/1, p. 130 | 1067 | Treaty / agreement | EE |  |
 | 3 | Katechismus 1543 | 1543 | 19/1, p. 134 | 1068 | Catechism / instruction | MR |  |
 | 4 | Agendbüchlein 1560 | 1560 | 19/1, p. 160 | 1069 | Agenda / liturgy | L |  |
 
@@ -6187,26 +6309,29 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-30-1"></a>1.30.1 Imperial city of Strasbourg
 
-- **Tradition**: Moderate Reformed; Lutheran from 1549.
+- **Tradition**: Early Evangelical (1523–1525), save the German Masses of 1525 (nos. 3e–3f);
+  Moderate Reformed to the Interim; Lutheran from 1549.
 - **Note**: Bucer's church (Upper German, Moderate Reformed) until the Interim; Lutheran
-  orthodoxy under Marbach afterwards (order of 1598).
-- **Texts by tradition**: Moderate Reformed 46, Lutheran 33.
+  orthodoxy under Marbach afterwards (order of 1598). The German Masses of 1525 are counted
+  Moderate Reformed: by then the preachers had rejected the bodily presence
+  ([§1.3.7](#s1-3-7)).
+- **Texts by tradition**: Moderate Reformed 37, Lutheran 33, Early Evangelical 9.
 - **Interim**: 5 text(s) tied to the Augsburg Interim (see the last column).
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1a | Armenordnung, längere Fassung 4. August 1523 | 1523 | 20/1, p. 107 | 1276 | Poor relief | MR |  |
-| 1b | Armenordnung, kürzere Fassung [1. Oktober] 1523 | 1523 | 20/1, p. 115 | 1277 | Poor relief | MR |  |
-| 2 | Mandat zur Predigt des Evangeliums 1. Dezember 1523 | 1523 | 20/1, p. 118 | 1278 | Mandate / decree | MR |  |
-| 3a | Handschriftliche Agende mit der Deutschen Messe von Theobald Schwarz und Formularen für die Taufe und die Trauung 1524 | 1524 | 20/1, p. 120 | 1279 | Agenda / liturgy | MR |  |
-| 3b | Die frühen Agenden: Teutsche Mess und Tauf 1524 | 1524 | 20/1, p. 130 | 1279 | Agenda / liturgy | MR |  |
-| 3c | Die frühen Agenden: Ordenung und inhalt Teutscher Mess 1524 | 1524 | 20/1, p. 135 | 1279 | Agenda / liturgy | MR |  |
-| 3d | Teutsch Kirchenampt mit lobgsengen und götlichen psalmen [1524/1525] | 1525 | 20/1, p. 136 | 1279 | Agenda / liturgy | MR |  |
+| 1a | Armenordnung, längere Fassung 4. August 1523 | 1523 | 20/1, p. 107 | 1276 | Poor relief | EE |  |
+| 1b | Armenordnung, kürzere Fassung [1. Oktober] 1523 | 1523 | 20/1, p. 115 | 1277 | Poor relief | EE |  |
+| 2 | Mandat zur Predigt des Evangeliums 1. Dezember 1523 | 1523 | 20/1, p. 118 | 1278 | Mandate / decree | EE |  |
+| 3a | Handschriftliche Agende mit der Deutschen Messe von Theobald Schwarz und Formularen für die Taufe und die Trauung 1524 | 1524 | 20/1, p. 120 | 1279 | Agenda / liturgy | EE |  |
+| 3b | Die frühen Agenden: Teutsche Mess und Tauf 1524 | 1524 | 20/1, p. 130 | 1279 | Agenda / liturgy | EE |  |
+| 3c | Die frühen Agenden: Ordenung und inhalt Teutscher Mess 1524 | 1524 | 20/1, p. 135 | 1279 | Agenda / liturgy | EE |  |
+| 3d | Teutsch Kirchenampt mit lobgsengen und götlichen psalmen [1524/1525] | 1525 | 20/1, p. 136 | 1279 | Agenda / liturgy | EE |  |
 | 3e | Die frühen Agenden: Ordnung des Herren Nachtmal 1525 | 1525 | 20/1, p. 142 | 1279 | Agenda / liturgy | MR |  |
 | 3f | Die frühen Agenden: Straßburger kirchen ampt Mai 1525 | 1525 | 20/1, p. 151 | 1279 | Agenda / liturgy | MR |  |
 | 3g | Die frühen Agenden: Psalmen gebett und kirchen übung 1526 | 1526 | 20/1, p. 163 | 1280 | Agenda / liturgy | MR |  |
-| 4 | Verbot der konkubinarischen Verbindungen 15. März 1525 | 1525 | 20/1, p. 165 | 1281 | Mandate / decree | MR |  |
-| 5 | Mandat über Bilder und Altäre 18. März 1525 | 1525 | 20/1, p. 166 | 1282 | Mandate / decree | MR |  |
+| 4 | Verbot der konkubinarischen Verbindungen 15. März 1525 | 1525 | 20/1, p. 165 | 1281 | Mandate / decree | EE |  |
+| 5 | Mandat über Bilder und Altäre 18. März 1525 | 1525 | 20/1, p. 166 | 1282 | Mandate / decree | EE |  |
 | 6 | Mandat gegen die Täufer 27. Juli 1527 | 1527 | 20/1, p. 167 | 1283 | Mandate / decree | MR |  |
 | 7 | Verbot der Bestattungen in Kirchen und auf Kirchhöfen 8. August 1527 | 1527 | 20/1, p. 169 | 1284 | Mandate / decree | MR |  |
 | 8 | Der erste Straßburger Katechismus: Wolfgang Capitos „Kinder bericht“ 1527 | 1527 | 20/1, p. 170 | 1285 | Catechism / instruction | MR |  |
@@ -6324,19 +6449,20 @@ Some cities kept Interim usages long after 1552. Schwäbisch Hall kept its Inter
 
 #### <a id="s1-31-4"></a>1.31.4 Imperial city of Mülhausen (Mulhouse)
 
-- **Tradition**: Reformed.
+- **Tradition**: Early Evangelical (1523–1524); Reformed.
 - **Note**: Allied with the Swiss; a Zwinglian, later Swiss Reformed, church.
+- **Texts by tradition**: Reformed 19, Early Evangelical 8.
 
 | No. | Order | Date | Sehling | Doc | Kind | Trad. | Interim / notes |
 |---|---|---|---|---|---|---|---|
-| 1 | Mandat zur Predigt des Evangeliums 25. bzw. 29. Juli 1523 | 1523 | 20/2, p. 187 | 1375 | Mandate / decree | R |  |
-| 2 | Zuchtordnung [Ende 1523 / Anfang 1524] | 1524 | 20/2, p. 189 | 1376 | Discipline / police | R |  |
-| 3a | Bittschrift der Zunftmeister betreffend die Versorgung des Prädikanten, die Verwendung der deutschen Sprache im Gottesdienst und andere Themen [vor … | 1524 | 20/2, p. 191 | 1376 | Agenda / liturgy | R |  |
-| 3b | Stellungnahme des Rates zu den Forderungen der neuen Zunftmeister [nach 11. Januar 1524] | 1524 | 20/2, p. 193 | 1376 | Other | R |  |
-| 4 | Verordnungen zu den Prozessionen und Feiertagen [vor 28. April 1524] | 1524 | 20/2, p. 195 | 1377 | Discipline / police | R |  |
-| 5 | Anweisungen für den Schulmeister und die Kapläne 28. April 1524 | 1524 | 20/2, p. 197 | 1378 | School / university | R |  |
-| 6a | Anfrage des Komturs des Deutschordenshauses zur Tätigkeit des Leutpriesters 27. Juli [1524] | 1524 | 20/2, p. 199 | 1378 | Other | R |  |
-| 6b | Stellungnahme des Rates zur Anfrage des Komturs [nach 27. Juli 1524] | 1524 | 20/2, p. 202 | 1378 | Other | R |  |
+| 1 | Mandat zur Predigt des Evangeliums 25. bzw. 29. Juli 1523 | 1523 | 20/2, p. 187 | 1375 | Mandate / decree | EE |  |
+| 2 | Zuchtordnung [Ende 1523 / Anfang 1524] | 1524 | 20/2, p. 189 | 1376 | Discipline / police | EE |  |
+| 3a | Bittschrift der Zunftmeister betreffend die Versorgung des Prädikanten, die Verwendung der deutschen Sprache im Gottesdienst und andere Themen [vor … | 1524 | 20/2, p. 191 | 1376 | Agenda / liturgy | EE |  |
+| 3b | Stellungnahme des Rates zu den Forderungen der neuen Zunftmeister [nach 11. Januar 1524] | 1524 | 20/2, p. 193 | 1376 | Other | EE |  |
+| 4 | Verordnungen zu den Prozessionen und Feiertagen [vor 28. April 1524] | 1524 | 20/2, p. 195 | 1377 | Discipline / police | EE |  |
+| 5 | Anweisungen für den Schulmeister und die Kapläne 28. April 1524 | 1524 | 20/2, p. 197 | 1378 | School / university | EE |  |
+| 6a | Anfrage des Komturs des Deutschordenshauses zur Tätigkeit des Leutpriesters 27. Juli [1524] | 1524 | 20/2, p. 199 | 1378 | Other | EE |  |
+| 6b | Stellungnahme des Rates zur Anfrage des Komturs [nach 27. Juli 1524] | 1524 | 20/2, p. 202 | 1378 | Other | EE |  |
 | 7 | Rechtfertigung der reformatorischen Neuerungen durch den Magistrat 1. Juli 1527 | 1527 | 20/2, p. 204 | 1379 | Other | R |  |
 | 8 | Im Auftrag des Rates erstelltes Gutachten des Leutpriesters und der beiden Prädikanten zu den Gottesdiensten in der Karwoche [März 1528] | 1528 | 20/2, p. 206 | 1380 | Agenda / liturgy | R |  |
 | 9 | Im Auftrag des Rates erstelltes Gutachten des Leutpriesters und der drei Prädikanten zur Gestaltung der Gottesdienste [vor 24. Dezember 1528] | 1528 | 20/2, p. 208 | 1381 | Agenda / liturgy | R |  |
@@ -7004,8 +7130,8 @@ Mass one by one. This chapter puts them back together. It asks:
   by side; Preface, Sanctus and exhortation optional; "after the Amen nothing more is sung".
 - **Franconian** (Nürnberg 1533, Hof 1592): no Preface; the epistle and gospel read as chapters
   in course; **the Sanctus after the Words of Institution**, then the Lord's Prayer and the Pax.
-- **Prussian** (1525): the Words of Institution sung in the Preface; Kyrie in three tongues;
-  Agnus Dei twice.
+- **Prussian** (Prussia 1525, Early Evangelical): the Words of Institution sung in the Preface;
+  Kyrie in three tongues; Agnus Dei twice.
 - **The Latin frame** (Brandenburg 1540, Pfalz-Neuburg 1543, the Palatinate 1546, Breslau 1557):
   Preface dialogue, Pax and threefold Agnus kept; Breslau even kept *Ite missa est*.
 - **Upper German** (Württemberg 1553, Strasbourg 1598, both Lutheran): the sermon service with
@@ -7034,11 +7160,12 @@ finished the Latin (Braunschweig-Wolfenbüttel 1543).
 
 **6. Creed: three layers, and two creeds** ([§2.9](#s2-9)). The priest intoned *Credo in unum Deum* (I believe in one God), the
 scholars sang the Latin *Patrem* (the Nicene Creed), and the people "Wir glauben all" (We All Believe in One True God; Wittenberg 1533 and most
-Saxon and northern orders). Prussia (1525) forbade the priest's intonation. Which creed ([§2.9.4](#s2-9-4)):
+Saxon and northern orders). Prussia (1525, Early Evangelical) forbade the priest's intonation.
+Which creed ([§2.9.4](#s2-9-4)):
 - **Nicene only**: the Saxon, Bugenhagen and Franconian orders, in Latin, in German verse by
   verse (Braunschweig 1528, Hamburg 1529), or as "Wir glauben" (We All Believe in One True God).
 - **Apostles' only**:
-    - Strasbourg 1524 (Moderate Reformed), sung after the sermon, "the great *Patrem* … sung by
+    - Strasbourg 1524 (Early Evangelical), sung after the sermon, "the great *Patrem* … sung by
       some";
   - the Goslar foundation 1534;
   - the Upper German pulpit (Württemberg 1553);
@@ -7067,9 +7194,9 @@ in the *Deutsche Messe*, Prussia 1544 and the Saxon villages.
 
 **9. Agnus Dei: three, two or one** ([§2.12](#s2-12)). Three, as of old (Brandenburg 1540; Regensburg;
 Luther's German "Christe du Lamm Gottes" [Christ, thou Lamb of God] with "Give us thy peace" the third time). **Two**
-in Prussia 1525 and Livonia 1533, "for brevity's sake", the first ending *miserere nobis* (have mercy upon us) and
-the second *dona nobis pacem* (grant us peace). **Once** in the Albertine *Cellische Ordnungen* (1545). It stood
-before, during or after the distribution.
+in Prussia 1525 (Early Evangelical) and Livonia 1533, "for brevity's sake", the first ending
+*miserere nobis* (have mercy upon us) and the second *dona nobis pacem* (grant us peace). **Once** in the Albertine *Cellische
+Ordnungen* (1545). It stood before, during or after the distribution.
 
 **10. No *Ite missa est*; Benedicamus or nothing; Aaronic, Trinitarian or both** ([§2.13](#s2-13)).
 - **The *Ite missa est***: kept only at Breslau (1557, beside the *Benedicamus*) and in the
@@ -7077,18 +7204,19 @@ before, during or after the distribution.
 - **The *Benedicamus***, in its place:
   - in Latin, in the *Formula missae* (Form of the Mass) and the Franconian, Pfalz-Neuburg, Regensburg, Hohenlohe,
     Henneberg and Transylvanian orders;
-    - in German, in the early German Masses (Müntzer (Radical Reformation), Erfurt, Lippe, Worms
-      and Strasbourg (both Moderate Reformed)) and at Hof in 1592.
+    - in German, in the early German Masses (Müntzer (Radical Reformation); Erfurt, Worms and
+      Strasbourg, all Early Evangelical; Lippe) and at Hof in 1592.
 - **Neither**: the *Deutsche Messe* and most Saxon, Bugenhagen and Upper German orders end with
   the collect and the blessing.
 - **The blessing**:
   - the Aaronic blessing is the rule;
-    - Worms and Strasbourg (1524, both Moderate Reformed) and Regensburg (1542) used a
+    - Worms and Strasbourg (1524, both Early Evangelical) and Regensburg (1542) used a
       Trinitarian blessing alone;
-    - Strasbourg (1524, Moderate Reformed) put both together;
+    - Strasbourg (1524, Early Evangelical) put both together;
   - Brandenburg-Nürnberg (1533) offered four forms (Numbers 6, Psalm 67 and two Trinitarian), a
     set copied by a dozen orders;
-  - Prussia (1525) sang Psalm 67 on feasts and the Aaronic blessing on ordinary days;
+  - Prussia (1525, Early Evangelical) sang Psalm 67 on feasts and the Aaronic blessing on
+    ordinary days;
   - Strasbourg (1598) closed the sermon with the Trinitarian blessing and the Supper with both.
 
 **11. Without communicants, no Mass** ([§2.14](#s2-14)). The service stopped after the sermon with a psalm,
@@ -7099,7 +7227,7 @@ service for its schoolboys, with the Kyrie, Sanctus and Agnus of the season and 
 **12. Few rubrics, and kneeling the chief gesture** ([§2.15](#s2-15)).
 - **Sign of the cross.** It was still printed in the early German Masses: over bread and cup at
   Allstedt 1523 (Müntzer, Radical Reformation), and at the greeting and the blessing at
-  Strasbourg 1524 (Moderate Reformed). Hof printed it at the Pax and the blessing in 1592.
+  Strasbourg 1524 (Early Evangelical). Hof printed it at the Pax and the blessing in 1592.
   Elsewhere it was let go: "so many crosses" at Hannover 1536, and "without all papistical
   crossing" at Danzig 1557.
 - **Kneeling, never genuflection.** No order knows the Roman genuflection. The priest kneels at
@@ -7113,7 +7241,7 @@ service for its schoolboys, with the Kyrie, Sanctus and Agnus of the season and 
     - Men are bareheaded and women covered (Hesse 1566, Moderate Reformed).
   - Nothing is said of the celebrant's hands beyond what they hold.
   - The minister turns to the altar to pray and to the people to read, greet and exhort. Döber
-    (1525) said everything toward the people.
+    (1525, Early Evangelical) said everything toward the people.
 - **Not found.** No epistle or gospel horn, no turn over the right shoulder, no *orans* or
   joined hands, no kiss of altar, book or deacon, no biretta rubric, no incense and no *Lavabo*.
   Strasbourg (1542, Moderate Reformed) replaced the kiss of peace with a reading on
@@ -7381,7 +7509,7 @@ setting the Words of Institution inside the Preface, sung in German, with the el
 Sanctus after it, and the Pax as an absolution. They add three peculiarities: the Kyrie sung in
 Greek, Latin and German, the creed not intoned by the priest, and the Agnus Dei sung only twice
 (§§[2.6](#s2-6), [2.9](#s2-9), [2.12](#s2-12)). **Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525**
-(Sehling 4, p. 32):
+(Early Evangelical; Sehling 4, p. 32):
 
 <!-- doc 1832 -->
 
@@ -7478,13 +7606,14 @@ The Bentheim-Tecklenburg order of 1588 (Reformed) has the same form and the same
 
 #### <a id="s2-4-8"></a>2.4.8 The early German Masses
 
-**Before the territorial orders.** The German Masses of 1522–1526 (Kantz at Nördlingen, Müntzer
-at Allstedt (Radical Reformation), the Strasbourg and Worms Masses (Moderate Reformed),
-Volprecht and Döber at Nürnberg, the Low German Masses of Bremen, Lippe and Kiel) are compared
-part by part in [Chapter 7](#ch7), §§[7.2](#s7-2)–[7.11](#s7-11). They keep the
-Roman shape and translate it, the canon included, before the *Deutsche Messe* (German Mass) set the pattern
-for the parishes. Two of their ordinaries recur below: Müntzer's fourfold Kyrie ([§2.6.1](#s2-6-1)) and
-Volprecht's *Benedicamus* "and never *Ite missa est*" ([§2.13](#s2-13)).
+**Before the territorial orders.** The German Masses of 1522–1526 (Kantz at Nördlingen,
+Volprecht and Döber at Nürnberg, the Worms Mass, the Strasbourg Masses of 1524 and the Low
+German Mass of Bremen, all Early Evangelical; the Strasbourg Masses of 1525 (Moderate Reformed);
+Müntzer at Allstedt (Radical Reformation); the Low German Masses of Lippe and Kiel) are compared
+part by part in [Chapter 7](#ch7), §§[7.2](#s7-2)–[7.11](#s7-11). They keep the Roman shape and translate it, the canon
+included, before the *Deutsche Messe* (German Mass) set the pattern for the parishes. Two of their ordinaries
+recur below: Müntzer's fourfold Kyrie ([§2.6.1](#s2-6-1)) and Volprecht's *Benedicamus* "and never *Ite
+missa est*" ([§2.13](#s2-13)).
 
 ---
 
@@ -7499,7 +7628,7 @@ prayers in the chapters named at the head of this chapter.
 |---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1, pp. 5–6 | Latin, purged | Intr → Ky (seasonal) → Gl (bishop may omit) → one Coll → Ep → Grad + Alleluia → Gosp → Nicene Cr (optional) → Serm (or before the Intr) → Pref with Verba → San with Benedictus (elevation) → PN → Pax → Comm with Agn → *Quod ore* (What with our mouth) → *Benedicamus* → Bl |
 | Luther, *Deutsche Messe*, 1526 | 1, pp. 14–16 | German | German psalm → Ky ×3 → Coll → Ep → German hymn → Gosp → "Wir glauben" (We All Believe in One True God) → Serm → paraphrase of PN + Exh → Verba (bread) → Comm with German San → Verba (cup) → Comm → German Agn → Thanks → Bl (Num 6) |
-| Prussia, *Artikel der ceremonien*, 1525 | 4, pp. 31–33 | Prussian | Intr → Ky ×3 (Greek, Latin, German) → Gl → Coll → Ep (a chapter) → Alleluia with German psalm → Gosp (a chapter) → Cr in German, not intoned → Pref with Verba → bell, elevation → San → PN → Agn ×2 → Pax → Exh → Comm with hymns → Thanks → Bl |
+| Prussia, *Artikel der ceremonien*, 1525 (Early Evangelical) | 4, pp. 31–33 | Prussian | Intr → Ky ×3 (Greek, Latin, German) → Gl → Coll → Ep (a chapter) → Alleluia with German psalm → Gosp (a chapter) → Cr in German, not intoned → Pref with Verba → bell, elevation → San → PN → Agn ×2 → Pax → Exh → Comm with hymns → Thanks → Bl |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 188–198 | Franconian | private *Confiteor* (I confess) → Intr → Ky + *Et in terra* (And on earth) → *Dominus vobiscum* (The Lord be with you) → Coll(s) → Ep (a chapter) → Alleluia or Grad → Gosp (a chapter) → Cr → Serm → Exh → Verba → San → *Oremus praeceptis* + PN → Pax → Comm with Agn → Thanks → *Benedicamus* → Bl |
 | Wittenberg, town order, 1533 | 1, pp. 704–705 | Saxon | German Benedictus → Intr → Ky ×3, or ×9 on feasts → [Gl] → German Coll → Ep → Alleluia/Grad, German hymn, sequence → Gosp → *Credo* intoned, *Patrem* (the Nicene Creed), "Wir glauben" → Serm → *Da pacem* (Give peace) → versicle + Coll → [*Dominus vobiscum* + Pref on feasts] → PN → Verba (elevation) → Comm with hymns, Latin Agn → German Agn ×3 → Thanks → Bl (Num 6) |
 | Pomerania, *Kirchenordnung*, 1535 | 4, p. 341 | Bugenhagen | German psalm or Intr → Ky → [Gl] → German Coll → Ep → psalm, alleluia, sequence → Gosp → *Credo* intoned, *Patrem*, "Wi löven" (We All Believe in One True God) → Serm + general prayer → hymn → [Pref + San] → [Exh] → PN + Verba → Comm with Agn and hymns → German Agn → Coll → Bl (Num 6); "after the Amen nothing more is sung" |
@@ -7560,9 +7689,9 @@ service:
   only three times" (Sehling 1, p. 274);
 - the visitation articles for Gnandstein (1539) and the *Gemeine Artikel* (Common Articles) for the see of Wurzen
   (1542): "Kyrie eleison three times" (Sehling 1, p. 564; 2, p. 98);
-- Prussia (1525, 1544 and 1568): "since it is sung three times", in three tongues (1525); "the
-  Kyrie eleison only three times, according to the former order" (1544, 1568)
-  (Sehling 4, pp. 32, 64, 81);
+- Prussia (1525, Early Evangelical; 1544 and 1568): "since it is sung three times", in three
+  tongues (1525); "the Kyrie eleison only three times, according to the former order"
+  (1544, 1568) (Sehling 4, pp. 32, 64, 81);
 - the Palatinate (1546): "the Kyrie eleison, each only once" (Sehling 14, p. 96);
 - the Henneberg parishes of Suhl (1562) and Obermaßfeld (1563): "the German Kyrie three times"
   (Sehling 2, pp. 352, 346);
@@ -7676,7 +7805,7 @@ untranslated. The Homberg synod of 1526 (Moderate Reformed) kept "these accustom
 (Sehling 8, p. 45). Bugenhagen defended the Greek at length
 (Braunschweig 1528, Sehling 6/1, p. 438; [Chapter 8](#ch8),
 [§8.6.3](#s8-6-3)). Prussia sang it in three languages, "since it is sung three times". **Prussia, *Artikel
-der ceremonien und anderer kirchen ordnung*, 1525** (Sehling 4, p. 32):
+der ceremonien und anderer kirchen ordnung*, 1525** (Early Evangelical; Sehling 4, p. 32):
 
 <!-- doc 1832 -->
 
@@ -7774,8 +7903,8 @@ Reformed orders have no salutation.
 **The Pax.** The *Formula missae* (Form of the Mass) kept *Pax Domini sit semper vobiscum* (The peace of the Lord be always with you) after the Lord's Prayer
 as "a kind of public absolution from sins … the one and most worthy preparation for the Lord's
 Table" (Sehling 1, p. 6). The Pax stayed where the Lord's Prayer stayed near the altar:
-- Prussia 1525: "the priest turneth to the people and giveth them the evangelical absolution, or
-  the peace, and singeth in German *Pax domini*" (Sehling 4, p. 32);
+- Prussia 1525 (Early Evangelical): "the priest turneth to the people and giveth them the
+  evangelical absolution, or the peace, and singeth in German *Pax domini*" (Sehling 4, p. 32);
 - Brandenburg-Nürnberg 1533, after the Lord's Prayer: "*Pax Domini sit semper vobiscum*, or else
   in German" ([§2.4.3](#s2-4-3));
 - Brandenburg 1540: "*The peace of the Lord be with you all*. Let all the people say *Amen*"
@@ -7817,9 +7946,9 @@ common notes"), Mecklenburg 1552 (with the Latin text and notes), the Palatinate
 (1540) sang the Latin *Patrem* "in cathedrals and foundations", and "Wir glauben" (We All Believe in One True God) in the
 parishes (Sehling 3, p. 68).
 
-**Not intoned.** Prussia (1525) abolished the priest's intonation: "The *Credo* or creed the
-priest shall not begin as heretofore, but it shall be sung in German by the choir and the
-people" (Sehling 4, p. 32).
+**Not intoned.** Prussia (1525, Early Evangelical) abolished the priest's intonation: "The
+*Credo* or creed the priest shall not begin as heretofore, but it shall be sung in German by the
+choir and the people" (Sehling 4, p. 32).
 
 #### <a id="s2-9-2"></a>2.9.2 Nicene, Apostles' or Athanasian
 
@@ -7866,22 +7995,22 @@ unum Deum*, *Patrem*, *symbolum Nicenum*, *symbolum apostolicum*, *Credo in Deum
 glaub in Gott Vater", *Athanasii*) gives four practices:
 - **The Nicene Creed only**, in Latin, in German verse by verse, or as Luther's "Wir glauben
   all" (We All Believe in One True God). This is the rule of the Saxon, Bugenhagen and Franconian orders.
-- **The Apostles' Creed only**, sung or said: Strasbourg (1524, Moderate Reformed), the
+- **The Apostles' Creed only**, sung or said: Strasbourg (1524, Early Evangelical), the
   foundation Mass at Goslar, the Upper German pulpit, the Reformed Supper.
 - **A choice left open**, Nicene or Apostles', Latin or German, with no rule for when.
 - **A choice by occasion**: one creed on Sundays, another on feasts.
 
 **Strasbourg: the Apostles' Creed sung, the Nicene by some.** The Strasbourg German Mass of 1524
-(Moderate Reformed) prints the Apostles' Creed with notes after the sermon, in Matthäus
+(Early Evangelical) prints the Apostles' Creed with notes after the sermon, in Matthäus
 Greiter's setting, and leaves the Nicene to those who want it. **Strasbourg, *Ordenung und
-inhalt Teutscher Mess*, 1524** (Moderate Reformed; Sehling 20/1, p. 138):
+inhalt Teutscher Mess*, 1524** (Early Evangelical; Sehling 20/1, p. 138):
 
 <!-- doc 1279 -->
 
 Then followeth the sermon. Thereafter the Creed: "I believe in God the Father Almighty, maker of
 heaven and earth" […] The great *Patrem*, which is called the Nicene Creed, is sung by some.
 
-The earlier Strasbourg Mass of Theobald Schwarz (1524, Moderate Reformed) had the Nicene Creed
+The earlier Strasbourg Mass of Theobald Schwarz (1524, Early Evangelical) had the Nicene Creed
 in German, "I believe in one God, the almighty Father" (Sehling 20/1, p. 121).
 
 **By occasion: Sundays and feasts.** Hesse (1566, Moderate Reformed) gave the Apostles' Creed to
@@ -7920,9 +8049,9 @@ as the Nicene.
 | Order | Sehling | Creed | By occasion |
 |---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1, p. 5 | Nicene, Latin, at the bishop's choice | — |
-| Volprecht, Nürnberg, 1524 | 11, p. 41 | Nicene in German, "I believe in one God" | — |
-| Schwarz, Strasbourg, 1524 (Moderate Reformed) | 20/1, p. 121 | Nicene in German | — |
-| Strasbourg, *Ordenung und inhalt*, 1524 (Moderate Reformed) | 20/1, p. 138 | Apostles' Creed, sung after the sermon | Nicene "by some" |
+| Volprecht, Nürnberg, 1524 (Early Evangelical) | 11, p. 41 | Nicene in German, "I believe in one God" | — |
+| Schwarz, Strasbourg, 1524 (Early Evangelical) | 20/1, p. 121 | Nicene in German | — |
+| Strasbourg, *Ordenung und inhalt*, 1524 (Early Evangelical) | 20/1, p. 138 | Apostles' Creed, sung after the sermon | Nicene "by some" |
 | Luther, *Deutsche Messe*, 1526 | 1, p. 14 | "Wir glauben all" | — |
 | Braunschweig 1528; Hamburg 1529 | 6/1, p. 440; 5, p. 531 | priest intones "I believe in one God"; people sing the whole Nicene in Low German verse by verse; then "Wy gelöven" (We All Believe in One True God) | — |
 | Goslar, town order, 1528 | 7/2.2, p. 242 | "the Nicene Creed or the German *Patrem*, Wir glauben" | — |
@@ -7951,7 +8080,7 @@ as the Nicene.
 - The Nicene Creed, sung in Latin by the choir and in German by the people, is the Lutheran norm
   north and east.
 - The Apostles' Creed entered the Mass from three directions:
-  - the Upper German sermon service (Strasbourg 1524, Moderate Reformed; Schwäbisch Hall and
+  - the Upper German sermon service (Strasbourg 1524, Early Evangelical; Schwäbisch Hall and
     Württemberg's pulpit, Lutheran);
   - the Reformed Supper (Frankfurt's French church, the Palatinate; both Reformed);
   - Hesse (Moderate Reformed), where it was the creed of the whole congregation every Sunday.
@@ -7974,8 +8103,9 @@ Propheten", the Trinitarian "Heilig ist Gott der Vater") in
 #### <a id="s2-10-1"></a>2.10.1 The Preface: required, optional, festal or gone
 
 **Four answers.** The orders give four answers to the question whether the Preface was sung:
-- **Required.** The *Formula missae* (Form of the Mass), Prussia 1525, Brandenburg 1540, Transylvania 1547 and the
-  Breslau Mass of 1557 have it in the ordo, with the dialogue (§§[2.4.4](#s2-4-4)–[2.4.5](#s2-4-5)).
+- **Required.** The *Formula missae* (Form of the Mass), Prussia 1525 (Early Evangelical), Brandenburg 1540,
+  Transylvania 1547 and the Breslau Mass of 1557 have it in the ordo, with the dialogue
+  (§§[2.4.4](#s2-4-4)–[2.4.5](#s2-4-5)).
 - **If time allows.** Mecklenburg (1552) makes it the priest's choice "if the time permit".
 - **Festal.** Wittenberg 1533 (feasts, and Trinity on Sundays "if one will"), Duke Henry's
   Saxony 1539 ("on the feasts and now and then on Sundays"), Pomerania 1535 ("not always …
@@ -8007,7 +8137,7 @@ Words of the Testament].
 1. **After the Preface, before the Verba** (the Roman place): Mecklenburg 1552, Pomerania 1535,
    Brandenburg 1540, the Palatinate 1546, Transylvania 1547.
 2. **After the Verba**, which were sung in the Preface: the *Formula missae* (Form of the Mass; "with the
-   elevation during the Benedictus") and Prussia 1525 ([§2.4.4](#s2-4-4)).
+   elevation during the Benedictus") and Prussia 1525 (Early Evangelical; [§2.4.4](#s2-4-4)).
 3. **After the Verba, without a Preface**: Brandenburg-Nürnberg 1533, followed by the Lord's
    Prayer and the Pax ([§2.4.3](#s2-4-3)).
 4. **During the distribution**, in German: the *Deutsche Messe* (German Mass), Duke Henry's Saxony 1539,
@@ -8032,18 +8162,19 @@ with it.
 **The other German Sanctus kept it.** The prose German Sanctus of the early German Masses, and
 the Trinitarian Sanctus of Braunschweig-Wolfenbüttel, keep the *Benedictus* and the Hebrew
 *Hosianna* (Hosanna):
-- Kantz (Nördlingen 1522): "Holy, holy, holy, Lord God Sabaoth; full are heaven and earth of thy
-  glory. Hosanna in the highest! Blessed be he that cometh in the name of the Lord. Luck and
-  salvation in the highest!" (Sehling 12, p. 286), with *Hosanna* rendered "luck and salvation";
-- Bremen 1525, in Low German, the same (Sehling 7/2.2, p. 406);
+- Kantz (Nördlingen 1522, Early Evangelical): "Holy, holy, holy, Lord God Sabaoth; full are
+  heaven and earth of thy glory. Hosanna in the highest! Blessed be he that cometh in the name
+  of the Lord. Luck and salvation in the highest!" (Sehling 12, p. 286), with *Hosanna* rendered
+  "luck and salvation";
+- Bremen 1525 (Early Evangelical), in Low German, the same (Sehling 7/2.2, p. 406);
 - Braunschweig-Wolfenbüttel 1543: "Holy is God the Father, holy is God the Son, holy is God the
   Holy Ghost … *Hosianna* in the highest. Blessed be he that cometh in the name of the Lord.
   *Hosianna* in the highest" (Sehling 6/1, p. 59);
 - Dortmund 1554, Low German, with the gloss "*Hosianna* (ah, make us blessed)"
   (Sehling 21, p. 211);
 - the Neuenrade order of 1564 prints two Low German Sanctus texts, both with "Blessed be he that cometh in the name of the Lord" (Sehling 22, p. 532);
-- Volprecht and Döber at Nürnberg (1524–1525) rendered *Hosanna* "make us blessed in the highest"
-  (Sehling 11, pp. 41, 54; [Chapter 7](#ch7), §§[7.7](#s7-7)–[7.8](#s7-8)).
+- Volprecht and Döber at Nürnberg (1524–1525, both Early Evangelical) rendered *Hosanna* "make us blessed in the highest" (Sehling 11, pp. 41, 54; [Chapter 7](#ch7),
+  §§[7.7](#s7-7)–[7.8](#s7-8)).
 
 ---
 
@@ -8058,7 +8189,7 @@ order.
 
 | Sequence | Orders |
 |---|---|
-| Preface with Verba → Sanctus → Lord's Prayer → Pax → communion | *Formula missae* 1523; Prussia 1525 (with the Agnus before the Pax) |
+| Preface with Verba → Sanctus → Lord's Prayer → Pax → communion | *Formula missae* 1523; Prussia 1525 (Early Evangelical; with the Agnus before the Pax) |
 | Exhortation → Verba → Sanctus → Lord's Prayer → Pax → communion | Brandenburg-Nürnberg 1533 |
 | Preface → Sanctus → Verba → Lord's Prayer → Pax → Agnus → exhortation → communion | Brandenburg 1540 |
 | (Preface → Sanctus →) Lord's Prayer → Verba → communion | Wittenberg 1533; Pomerania 1535; Mecklenburg 1552; Transylvania 1547; Palatinate 1546 (Verba → Pax); Hof 1592 (Lord's Prayer → Pax → Verba) |
@@ -8072,11 +8203,10 @@ villages, where this sacrament is given out by one person only" (Sehling 1, p. 3
 (1544) followed it (Sehling 4, pp. 65–66). Elsewhere both words were said or sung before the
 distribution.
 
-**The elevation.** Kept with the Verba in the *Formula missae* (Form of the Mass), Prussia 1525, Wittenberg 1533,
-Brandenburg 1540 and Breslau 1557; abolished in the Palatinate 1546 and in Mecklenburg 1552,
-"that the inequality bring not contention" (Sehling 5, p. 199). See
-[Chapter 7](#ch7) and
-[Chapter 12](#ch12), [§12.10.6](#s12-10-6).
+**The elevation.** Kept with the Verba in the *Formula missae* (Form of the Mass), Prussia 1525 (Early
+Evangelical), Wittenberg 1533, Brandenburg 1540 and Breslau 1557; abolished in the Palatinate
+1546 and in Mecklenburg 1552, "that the inequality bring not contention" (Sehling 5, p. 199).
+See [Chapter 7](#ch7) and [Chapter 12](#ch12), [§12.10.6](#s12-10-6).
 
 ---
 
@@ -8099,7 +8229,7 @@ the third ending "Give us thy peace" (Sehling 1, p. 506).
 
 **Twice.** The Prussian order of 1525 cut the Agnus Dei to two, "for brevity's sake", so that
 the people's hymns during the communion should have more room. **Prussia, *Artikel der
-ceremonien und anderer kirchen ordnung*, 1525** (Sehling 4, p. 32):
+ceremonien und anderer kirchen ordnung*, 1525** (Early Evangelical; Sehling 4, p. 32):
 
 <!-- doc 1832 -->
 
@@ -8123,13 +8253,14 @@ make their thanksgiving to God.
 The single German strophe "Christ, thou Lamb of God … have mercy upon us. Give us thy peace",
 printed once as the close of the communion, is the form of Duke Henry's Saxony (1539) and the
 Calenberg-Göttingen Masses (1542) (Sehling 1, p. 275; 6/2, pp. 819, 824), and Kantz's Mass of
-1522 has one strophe combining both endings (Sehling 12, p. 286).
+1522 (Early Evangelical) has one strophe combining both endings (Sehling 12, p. 286).
 
 #### <a id="s2-12-2"></a>2.12.2 Where it fell
 
 **Before or during the communion.** In the Roman place, before the communion, in Prussia 1525
-and Brandenburg 1540; during the distribution in the *Formula missae* (Form of the Mass), Nürnberg 1533, Pomerania
-1535, Mecklenburg 1552, Transylvania 1547, Albertine Saxony 1580 and Hof 1592.
+(Early Evangelical) and Brandenburg 1540; during the distribution in the *Formula missae* (Form of the Mass),
+Nürnberg 1533, Pomerania 1535, Mecklenburg 1552, Transylvania 1547, Albertine Saxony 1580 and
+Hof 1592.
 
 **After the communion.** The German Agnus "Christe du Lamm Gottes" (Christ, thou Lamb of God) after the communion as its
 close in Wittenberg 1533 ("when the communion is ended"), Hamburg 1529 ("when they have all
@@ -8164,7 +8295,7 @@ the Mass gives three practices:
   Pomerania (1535): "after the Amen nothing more is sung" (Sehling 4, p. 341).
 
 **Never *Ite missa est*.** Volprecht's Nürnberg Mass makes the rule explicit. **Nürnberg,
-*Deutsche Messe* of the Prior Volprecht, 1524** (Sehling 11, p. 39):
+*Deutsche Messe* of the Prior Volprecht, 1524** (Early Evangelical; Sehling 11, p. 39):
 
 <!-- doc 247 -->
 
@@ -8174,8 +8305,8 @@ Domino* (Let us bless the Lord); response: *Deo gratias*.
 **The Latin *Benedicamus*:**
 - Luther, *Formula missae* (1523): in the place of the *Ite*, "with alleluia added (where and
   when it pleaseth)", or with the vesper melodies ([§2.3.2](#s2-3-2); Sehling 1, p. 6);
-- Nürnberg, *Form und Ordnung einer christlichen Messe* (1525): "*Benedicamus Domino*,
-  *dominicaliter*", then "Es woll uns Gott genädig sein" (May God Bestow on Us His Grace; Sehling 11, p. 57);
+- Nürnberg, *Form und Ordnung einer christlichen Messe* (1525, Early Evangelical): "*Benedicamus
+  Domino*, *dominicaliter*", then "Es woll uns Gott genädig sein" (May God Bestow on Us His Grace; Sehling 11, p. 57);
 - Goslar (1528): the collect "with the *Benedicamus*" sung by the boys in the choir after the
   distribution (Sehling 7/2.2, p. 242);
 - Brandenburg-Nürnberg (1533), followed by the blessing (quoted below, Sehling 11, p. 198);
@@ -8201,21 +8332,23 @@ it with its own melody in 1592:
 - Müntzer, Allstedt (1524, Radical Reformation): each German Mass ends with a prayer and the
   *Benedicamus*, "Let us bless the Lord, alleluia. God be thanked for ever"
   (Sehling 1, pp. 497, 502);
-- Erfurt, *Deutsches Kirchenamt* (1525), after Müntzer (Radical Reformation): "Let us bless the Lord. God be thanked for ever", then the Aaronic blessing (Sehling 2, p. 380);
+- Erfurt, *Deutsches Kirchenamt* (1525, Early Evangelical), after Müntzer (Radical Reformation):
+  "Let us bless the Lord. God be thanked for ever", then the Aaronic blessing (Sehling 2,
+  p. 380);
 - Lippe (1525), in Low German: "Let us bless the Lord; to God be thanks for ever", then the
   Aaronic blessing (Sehling 22, p. 569);
-- Volprecht's German Mass (1524), after the blessing: "Let us give the Lord praise and thanks! Answer: God be thanked" (Sehling 11, p. 42);
-- Worms (1524, Moderate Reformed): "Let us bless God", then a Trinitarian blessing
+- Volprecht's German Mass (1524, Early Evangelical), after the blessing: "Let us give the Lord praise and thanks! Answer: God be thanked" (Sehling 11, p. 42);
+- Worms (1524, Early Evangelical): "Let us bless God", then a Trinitarian blessing
   (quoted below);
-- Strasbourg (1524, Moderate Reformed): "Give thanks unto the Lord", then the blessing
+- Strasbourg (1524, Early Evangelical): "Give thanks unto the Lord", then the blessing
   (Sehling 20/1, pp. 133, 139);
 - Hof (1592): the deacon "addeth the German *Benedicamus*": "Let us bless the Lord. Chorus: God be thanked", then the Aaronic blessing (Sehling 11, pp. 426–427).
 
 **Before or after the blessing.** In most orders that kept it the *Benedicamus* came before the
 blessing, as in the Roman Mass. Brandenburg-Nürnberg 1528 put it after: "for the conclusion the
 benediction of Numbers 6 in German, thereafter *Benedicamus Domino* sung" (Sehling 11, p. 137).
-So did Volprecht's German Mass, and Nürnberg 1525, where the *Benedicamus* is followed by a
-hymn.
+So did Volprecht's German Mass, and Nürnberg 1525 (both Early Evangelical), where the
+*Benedicamus* is followed by a hymn.
 
 #### <a id="s2-13-2"></a>2.13.2 The blessing: Aaronic, Trinitarian, or both
 
@@ -8229,21 +8362,22 @@ Psalm 67, the Trinitarian formulas ("God the Father, Son and Holy Ghost", "May �
   - Pomerania (1535);
   - Mecklenburg (1552);
   - Albertine Saxony (1580);
-  - Volprecht (1524) and Döber (1525) at Nürnberg;
-  - Lippe and Erfurt (1525);
+  - Volprecht (1524) and Döber (1525) at Nürnberg, both Early Evangelical;
+  - Lippe, and Erfurt (1525, Early Evangelical);
   - Weißenburg and Brandenburg-Nürnberg (1528);
   - Hohenlohe (1553);
   - Suhl (1562);
   - Hof (1592);
   - the Palatinate's Sunday service (1563, Reformed, Sehling 14, p. 391).
 - **A Trinitarian blessing alone**: the early German Masses of Worms and Strasbourg (1524, both
-  Moderate Reformed), and Regensburg (1542), all quoted below. Transylvania (1547) blesses "in
+  Early Evangelical), and Regensburg (1542), all quoted below. Transylvania (1547) blesses "in
   the name of the Holy Trinity" without printing the words (Sehling 24, p. 223).
 - **The Aaronic and the Trinitarian together**, the second following the first: Strasbourg's
-  *Ordenung und inhalt Teutscher Mess* (1524, Moderate Reformed): "The Lord bless you … The blessing of God, the Father and the Son, etc." (Sehling 20/1, p. 140); and the Strasbourg Supper of
+  *Ordenung und inhalt Teutscher Mess* (1524, Early Evangelical): "The Lord bless you … The blessing of God, the Father and the Son, etc." (Sehling 20/1, p. 140); and the Strasbourg Supper of
   1598 (quoted below).
 - **A choice of forms**: the Brandenburg-Nürnberg set of four, and its descendants (below).
-- **Different blessings for different occasions**: Prussia (1525) and Strasbourg (1598) (below).
+- **Different blessings for different occasions**: Prussia (1525, Early Evangelical) and
+  Strasbourg (1598) (below).
 
 **The Nürnberg set of four.** Brandenburg-Nürnberg gave four blessings to choose from: Numbers
 6; a paraphrase of Psalm 67; and two Trinitarian forms. **Brandenburg-Nürnberg,
@@ -8276,9 +8410,9 @@ The set passed, whole or shortened, into these orders:
 | Oldenburg 1573 | 7/2.1, p. 1145 | Aaronic (singular); Ps 67; the two Trinitarian forms |
 | Pfalz-Veldenz 1574; Lützelstein 1605 | 18, pp. 504, 607 | Aaronic with "Go forth; the Spirit of the Lord lead you unto eternal life", or "The blessing of God, the Father and the Son and the Holy Ghost … and his Holy Spirit strengthen and preserve us unto eternal life" |
 
-**A Trinitarian blessing alone.** The first German Mass of Worms (Moderate Reformed) closed with
+**A Trinitarian blessing alone.** The first German Mass of Worms (Early Evangelical) closed with
 a German *Benedicamus* and the Trinitarian blessing only. **Worms, *Deutsche Messe*, 1524**
-(Moderate Reformed; Sehling 19/1, p. 129):
+(Early Evangelical; Sehling 19/1, p. 129):
 
 <!-- doc 1066 -->
 
@@ -8286,7 +8420,7 @@ Let us bless God. Thanks, laud, honour and praise be to God through Christ our L
 blessing: "The blessing of Almighty God, Father, Son and Holy Ghost, be with you and abide alway
 with you. Amen."
 
-The Nunc dimittis followed. The two Strasbourg Masses of 1524 (Moderate Reformed) by Theobald
+The Nunc dimittis followed. The two Strasbourg Masses of 1524 (Early Evangelical) by Theobald
 Schwarz and in the *Teutsche Meß und Tauff* (German Mass and Baptism) end the same way: "The blessing of God, the Father [+] and the Son [+] and the Holy Ghost [+], be with us and abide alway", with three signs of
 the cross (Sehling 20/1, pp. 123, 133). At Regensburg in 1542 the priest blessed with the
 Trinitarian form alone. **Regensburg, *Wahrhaftiger Bericht*, 1542** (Sehling 13, p. 393):
@@ -8299,7 +8433,7 @@ and keep us God the Father, Son and Holy Ghost. Amen."
 **By occasion: feasts and weekdays.** Prussia assigned a sung blessing from Psalm 67 to the
 feasts, and the Aaronic blessing to ordinary days, at the end of matins, vespers and the Mass
 alike. **Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525**
-(Sehling 4, pp. 37–38):
+(Early Evangelical; Sehling 4, pp. 37–38):
 
 <!-- doc 1833 -->
 
@@ -8331,7 +8465,7 @@ hence in the peace of the Lord.
 - the sung feast-day blessing of Prussia.
 
 Where it was sung as Luther's hymn, "Es wolle uns Gott genädig sein" (May God Bestow on Us His Grace), it closed the service
-after the blessing: Nürnberg 1525 (Sehling 11, p. 57), Strasbourg 1525
+after the blessing: Nürnberg 1525 (Early Evangelical; Sehling 11, p. 57), Strasbourg 1525
 (Moderate Reformed; Sehling 20/1, p. 147), and Hoya 1571, in a service without the Supper
 (Sehling 6/2, p. 1152; [Chapter 8](#ch8), [§8.15](#s8-15)).
 
@@ -8446,7 +8580,7 @@ administration" of the Supper, but drops the "rites and gesticulations" (Sehling
 **Kept in the early German Masses.** The first German Masses still print the crosses:
 - **Allstedt** (Radical Reformation). Müntzer's *Ordnung und berechnunge des teutschen ampts*
   (1523) marks the bread and the cup at the Words of Institution: "blessed † it and brake it", "gesegnete † den" (blessed † it). The minister raises his hand at "This is my body", and turns to the people with the cup (Sehling 1, p. 506).
-- **Strasbourg** (Moderate Reformed). In Schwarz's German Mass of 1524 the places "where the
+- **Strasbourg** (Early Evangelical). In Schwarz's German Mass of 1524 the places "where the
   cross is to be made" are marked [+], according to the editors (Sehling 20/1, p. 120). The
   priest, turned to the people, says "God be gracious and have mercy upon us all [+]" at the
   beginning. He blesses with three crosses at the end, "The blessing of God, the Father [+] and the Son [+] and the Holy Ghost [+]" (Sehling 20/1, pp. 120, 123). The *Teutsche Meß und
@@ -8677,7 +8811,7 @@ for *Credo in unum Deum* (I believe in one God; Sehling 1, p. 704). Other orders
     people (Sehling 18, p. 674).
 
 **Everything toward the people.** Döber's German Mass at the Nürnberg hospital went furthest.
-**Nürnberg, *Deutsche Messe* of Andreas Döber, 1525** (Sehling 11, p. 51):
+**Nürnberg, *Deutsche Messe* of Andreas Döber, 1525** (Early Evangelical; Sehling 11, p. 51):
 
 <!-- doc 249 -->
 
@@ -8739,13 +8873,13 @@ rinses his fingers over the chalice and gives the ablution to the sick person
 
 | Gesture | Prescribed | Rejected or absent |
 |---|---|---|
-| Sign of the cross | over bread and cup (Allstedt 1523, Radical Reformation); at the greeting and blessing (Strasbourg 1524, Moderate Reformed); at the Pax and blessing (Hof 1592); over the elements in the Latin canons | "so many crosses" let go (Hannover 1536); "without all papistical crossing" (Danzig 1557); "rites and gesticulations" avoided (Nassau 1575, Philippist) |
+| Sign of the cross | over bread and cup (Allstedt 1523, Radical Reformation); at the greeting and blessing (Strasbourg 1524, Early Evangelical); at the Pax and blessing (Hof 1592); over the elements in the Latin canons | "so many crosses" let go (Hannover 1536); "without all papistical crossing" (Danzig 1557); "rites and gesticulations" avoided (Nassau 1575, Philippist) |
 | Genuflection | none | *flexis genibus* (on bended knees) means kneeling |
 | Kneeling | priest at the preparation, the Kyrie and after communion; people at the Kyrie (Hall 1527), the Lord's Prayer (Hall 1535, Palatinate 1563 (Reformed)), the whole communion (Hatzkerode 1534), the thanksgiving (Heilbronn 1543, Lützelstein 1605); communicants at the altar; boys at *Da pacem* (Give peace), the litany, *Veni sancte* | folded hands and kneeling "as to an idol" (Nassau 1575, Philippist); kneeling at prayer struck out (Palatinate 1601, Reformed); sitting at communion forbidden (Petrikau 1578) |
 | Bowing | at the elevation and the ablution prayer (Brandenburg 1540, Pfalz-Neuburg 1543); boys' foreheads to the step at "born man" (Mansfeld, later report) | no bow at the name of Jesus |
 | Head | men bareheaded, women covered (Hesse 1566, Moderate Reformed) | no rubric for the celebrant's cap |
 | Hands | raise the hand at the bread (Allstedt, Radical Reformation); the chalice with both hands (Brandenburg); bread and cup held in turn (Transylvania) | no *orans*, joined hands or extended hands |
-| Turning | to the altar for collects and creed, to the people for readings, salutation, Pax and exhortation (Wittenberg 1533 and most); everything toward the people (Döber 1525) | no direction of turn, no right shoulder |
+| Turning | to the altar for collects and creed, to the people for readings, salutation, Pax and exhortation (Wittenberg 1533 and most); everything toward the people (Döber 1525, Early Evangelical) | no direction of turn, no right shoulder |
 | Places | men right, women left; bread and cup at two sides or ends | no epistle or gospel horn |
 | Kiss | a text on reconciliation in its place (Strasbourg 1542, Moderate Reformed) | no kiss of altar, book or deacon; no pax-board |
 | Incense | free at the gospel (*Formula missae*) | "censing" let go (Hannover 1536); prescribed nowhere |
@@ -8762,11 +8896,11 @@ where it is quoted. Orders cited only in the text and tables can be found throug
 | Order | Sehling | Doc | Quoted in § |
 |---|---|---|---|
 | Wittenberg, Luther, *Formula missae*, 1523 | 1, pp. 5, 6 | 2 | [2.3.2](#s2-3-2) |
-| Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524 | 11, p. 39 | 247 | [2.13.1](#s2-13-1) |
-| Strasbourg, *Ordenung und inhalt Teutscher Mess*, 1524 (Moderate Reformed) | 20/1, p. 138 | 1279 | [2.9.4](#s2-9-4) |
-| Worms, *Deutsche Messe*, 1524 (Moderate Reformed) | 19/1, p. 129 | 1066 | [2.13.2](#s2-13-2) |
-| Nürnberg, *Deutsche Messe* of Andreas Döber, 1525 | 11, p. 51 | 249 | [2.15.7](#s2-15-7) |
-| Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525 | 4, pp. 32, 37–38 | 1832, 1833 | [2.4.4](#s2-4-4), [2.6.3](#s2-6-3), [2.12.1](#s2-12-1), [2.13.2](#s2-13-2) |
+| Nürnberg, *Deutsche Messe* of the Prior Volprecht, 1524 (Early Evangelical) | 11, p. 39 | 247 | [2.13.1](#s2-13-1) |
+| Strasbourg, *Ordenung und inhalt Teutscher Mess*, 1524 (Early Evangelical) | 20/1, p. 138 | 1279 | [2.9.4](#s2-9-4) |
+| Worms, *Deutsche Messe*, 1524 (Early Evangelical) | 19/1, p. 129 | 1066 | [2.13.2](#s2-13-2) |
+| Nürnberg, *Deutsche Messe* of Andreas Döber, 1525 (Early Evangelical) | 11, p. 51 | 249 | [2.15.7](#s2-15-7) |
+| Prussia, *Artikel der ceremonien und anderer kirchen ordnung*, 1525 (Early Evangelical) | 4, pp. 32, 37–38 | 1832, 1833 | [2.4.4](#s2-4-4), [2.6.3](#s2-6-3), [2.12.1](#s2-12-1), [2.13.2](#s2-13-2) |
 | Wittenberg, Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | [2.3.3](#s2-3-3) |
 | Schwäbisch Hall, *Kirchenordnung*, 1527 | 17/1, p. 49 | 755 | [2.15.3](#s2-15-3) |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 196–197, 198 | 270 | [2.4.3](#s2-4-3), [2.13.2](#s2-13-2) |
@@ -8827,8 +8961,8 @@ Kirchenordnungen des XVI. Jahrhunderts* (The Evangelical Church Orders of the Si
 
 The Canon, the Words of Institution and the prayers around communion are treated in
 [Chapter 7](#ch7). Several texts printed there are only
-cross-referenced here: Kantz 1522, Döber's exhortation, the Kiel Mass and Bugenhagen's
-preparatory prayer.
+cross-referenced here: Kantz 1522 and Döber's exhortation (both Early Evangelical), the Kiel
+Mass and Bugenhagen's preparatory prayer.
 
 **Related chapters.** Several subjects are treated more fully elsewhere and are only cited here:
 - the whole order of the Mass, and where the preliminaries fall in it:
@@ -8855,19 +8989,19 @@ preparatory prayer.
    *Aufer a nobis* survives only in the *Cellische Ordnungen* (Celle orders) of 1545 (after the sermon) and, on
    the editor's reading, at Regensburg
    1542. *Adiutorium nostrum* (Our help; Ps 124:8) is the one versicle that survives widely. The German
-         missals' *Confitemini Domino quoniam bonus* (O give thanks unto the Lord, for he is good) survives in Döber and Mecklenburg 1540
-         ([§3.3.1](#s3-3-1)).
+         missals' *Confitemini Domino quoniam bonus* (O give thanks unto the Lord, for he is good) survives in Döber (Early Evangelical) and
+         Mecklenburg 1540 ([§3.3.1](#s3-3-1)).
 2. **The preliminaries fall into seven families** ([§3.3.1](#s3-3-1)):
    - **A.** The priest's private *Confiteor* at the altar during the Introit
      (Brandenburg-Nürnberg, Brandenburg, Pfalz-Neuburg, Hohenlohe, Regensburg, Amberg,
      Buxtehude, Bergedorf, Schleswig-Holstein).
    - **B.** Bugenhagen's kneeling prayer with the sexton: the Our Father and *Domine, non
      secundum* (O Lord, deal not with us; Wolfenbüttel, Hildesheim).
-   - **C.** The public confession of Döber (Nürnberg 1525), carried north to Lippe, Kiel and
-     Mecklenburg and back south to Amberg, Pfalz-Zweibrücken and Pfalz-Veldenz. Amberg 1555 puts
-     the confession in the plural, "We poor sinful men" ([§3.3.4](#s3-3-4)).
+   - **C.** The public confession of Döber (Nürnberg 1525, Early Evangelical), carried north to
+     Lippe, Kiel and Mecklenburg and back south to Amberg, Pfalz-Zweibrücken and Pfalz-Veldenz.
+     Amberg 1555 puts the confession in the plural, "We poor sinful men" ([§3.3.4](#s3-3-4)).
    - **D.** The medieval *Offene Schuld* (open confession) of the preaching service moved into the Mass (Kantz,
-     Bremen 1525, Volprecht, Naumburg, Nördlingen).
+     Bremen 1525 and Volprecht (all Early Evangelical), Naumburg, Nördlingen).
    - **E.** The Strasbourg and Reformed opening: confession and comfortable word (Strasbourg
      1537, Moderate Reformed; Palatinate 1563, Reformed).
    - **F.** A hymn, a German psalm, or *Veni Sancte Spiritus* (Come, Holy Spirit) with its versicle and collect, the
@@ -8877,8 +9011,8 @@ preparatory prayer.
      priest and people ([§3.3.8](#s3-3-8)).
 3. **The confession stands in four places** ([§3.4.1](#s3-4-1)): privately before the Introit; publicly
    before the Introit; after the sermon (Bugenhagen 1528, Amberg 1550, the Palatinate); and in
-   the communion rite after the exhortation (Kantz, Württemberg 1536, Nürnberg after 1569).
-   Mecklenburg 1552 and Nördlingen 1544 have it twice.
+   the communion rite after the exhortation (Kantz (Early Evangelical), Württemberg 1536,
+   Nürnberg after 1569). Mecklenburg 1552 and Nördlingen 1544 have it twice.
 4. **The chancel party** ([§3.4.2](#s3-4-2)):
    - **Families A and B.** The priest prays alone or with his ministrants (Brandenburg 1540,
      Pfalz-Neuburg), or with the second ministrant in dialogue (Regensburg). In the north the
@@ -8888,8 +9022,8 @@ preparatory prayer.
      custos" kneels beside the priest and says the prayer for forgiveness, and the choir answers
      the versicle.
    - **The people** keep silence and confess in their hearts (Mecklenburg), repeat the words
-     after the priest (Döber, Bugenhagen's pulpit confession, Amberg's weekday prayer), or
-     answer "Yes" (Palatinate 1563, Reformed).
+     after the priest (Döber (Early Evangelical), Bugenhagen's pulpit confession, Amberg's
+     weekday prayer), or answer "Yes" (Palatinate 1563, Reformed).
 5. **Before Mass.** The priest's *Confiteor* is said at the altar, not in the sacristy. The
    communicant's real preparation is private confession on the Saturday or before the service.
    The Brandenburg and Pfalz-Neuburg orders forbid a "gemeine beicht" (common confession) in its
@@ -8897,8 +9031,8 @@ preparatory prayer.
 6. **No Roman text is kept in public.** The Latin *Confiteor* survives only as the priest's
    private prayer, unprinted (Hohenlohe: "the pure Confiteor in Latin"). Every public
    confession is a new text, in five families of wording ([§3.4.3](#s3-4-3)). The *Misereatur* survives by
-   name at Kiel; as a prayer for "us" in Döber; and as the second minister's collect in
-   Mecklenburg 1552. The *Indulgentiam* survives in Kantz's "The almighty, merciful God forgive you your sins!" and in Döber's "The almighty, merciful God hath had mercy upon us".
+   name at Kiel; as a prayer for "us" in Döber (Early Evangelical); and as the second minister's
+   collect in Mecklenburg 1552. The *Indulgentiam* survives in Kantz's "The almighty, merciful God forgive you your sins!" and in Döber's "The almighty, merciful God hath had mercy upon us" (both Early Evangelical).
 7. **Five kinds of absolution** ([§3.4.4](#s3-4-4)):
    - **optative** ("vouchsafe to have mercy upon us");
    - **declaration of grace** in the first person plural ("hath had mercy upon us … God grant this unto us all");
@@ -8909,21 +9043,23 @@ preparatory prayer.
 
    At the beginning of Mass the declaration of grace prevails; in the communion rite, the
    indicative.
-8. **The Common Service descends from Mecklenburg** ([§3.4.5](#s3-4-5)). The Common Service's preparation is
-   Döber's 1525 sequence by way of Mecklenburg 1552 and Pfalz-Zweibrücken 1557. That sequence is
-   the address "Beloved in the Lord", *Adiutorium* (Our help), the confession "by nature sinful and
-   unclean", the prayer "O most merciful God", and the declaration "Almighty God … hath had
-   mercy upon us … Grant this, O Lord, unto us all". The prayer "O most merciful God" was the
-   second minister's *Misereatur*; the declaration is a declaration of grace, not an indicative
-   absolution. The indicative form of later American books ("Upon this your confession … I
-   forgive you all your sins") has its counterpart in Naumburg 1537.
+8. **The Common Service descends from Mecklenburg** ([§3.4.5](#s3-4-5)). The Common Service's preparation
+   is Döber's sequence of 1525 (Early Evangelical) by way of Mecklenburg 1552 and
+   Pfalz-Zweibrücken 1557. That sequence is the address "Beloved in the Lord", *Adiutorium* (Our help), the
+   confession "by nature sinful and unclean", the prayer "O most merciful God", and the
+   declaration "Almighty God … hath had mercy upon us … Grant this, O Lord, unto us all". The
+   prayer "O most merciful God" was the second minister's *Misereatur*; the declaration is a
+   declaration of grace, not an indicative absolution. The indicative form of later American
+   books ("Upon this your confession … I forgive you all your sins") has its counterpart in
+   Naumburg 1537.
 9. **The exhortation** ([§3.5](#s3-5)) falls in six places:
    - after the sermon, from the pulpit or altar (Luther 1526, left free);
    - at the altar before the Verba (Brandenburg-Nürnberg 1533, moved there at Luther's
      suggestion; Württemberg; the Palatinate 1563, Reformed);
    - before the Preface, as the "true Preface" (Bugenhagen);
    - after the Preface and Sanctus (Mecklenburg 1552; Naumburg 1537 before the Sanctus);
-   - after the Verba and Our Father (Nürnberg 1524–1525, Osiander's original place);
+   - after the Verba and Our Father (Nürnberg 1524–1525, Early Evangelical; Osiander's original
+     place);
    - after communion (Memmingen 1528, Moderate Reformed; Marienhafe 1593).
 
    There are eleven families of text, each collated word by word against its archetype ([§3.5.2](#s3-5-2)):
@@ -9047,18 +9183,18 @@ What survives falls into the families set out below:
 |---|---|---|---|---|
 | A | The priest's own *Confiteor* (or "what his devotion bids") at the altar, while the choir sings the Introit | The priest, sometimes with a ministrant or a fellow minister | Before or during the Introit | Brandenburg-Nürnberg 1533, Brandenburg 1540, Pfalz-Neuburg 1543, Hohenlohe 1553, Regensburg 1553, Amberg 1550, Buxtehude 1552, Nördlingen 1544, Schleswig-Holstein 1542 ([3.3.2](#s3-3-2)) |
 | B | Bugenhagen's kneeling prayer: Our Father and the tract *Domine, non secundum* (O Lord, deal not with us) | The priest and the sexton, alternately | During the opening psalm | Wolfenbüttel 1543, Hildesheim 1544 ([3.3.3](#s3-3-3)) |
-| C | A public confession in the people's hearing, with *Adiutorium* (Our help) and *Confitemini* (O give thanks), a recast *Misereatur* and a declaration of grace | The priest kneeling, with the sexton or a second minister; the people silently or repeating | At the very beginning of Mass | Döber 1525, Lippe [1525–1538], Kiel [after 1526], Mecklenburg 1540 and 1552, Amberg 1555, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln ([3.3.4](#s3-3-4)) |
-| D | The *Offene Schuld* (open confession) moved into the Mass, with an indicative absolution | The priest to the people | Before the Introit, or before the Sacrament | Kantz 1522, Bremen 1525, Volprecht 1524, Naumburg 1537, Nördlingen 1544 ([3.3.5](#s3-3-5)) |
-| E | The Upper German and Reformed opening of the preaching service: confession of sins and a comfortable word | The minister for the congregation | At the beginning of the service, or after the sermon | Strasbourg 1537 (Moderate Reformed), Palatinate 1563 (Reformed), Wertheim 1524 (3.6; and [§3.4](#s3-4)) |
+| C | A public confession in the people's hearing, with *Adiutorium* (Our help) and *Confitemini* (O give thanks), a recast *Misereatur* and a declaration of grace | The priest kneeling, with the sexton or a second minister; the people silently or repeating | At the very beginning of Mass | Döber 1525 (Early Evangelical), Lippe [1525–1538], Kiel [after 1526], Mecklenburg 1540 and 1552, Amberg 1555, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln ([3.3.4](#s3-3-4)) |
+| D | The *Offene Schuld* (open confession) moved into the Mass, with an indicative absolution | The priest to the people | Before the Introit, or before the Sacrament | Kantz 1522, Bremen 1525 and Volprecht 1524 (all Early Evangelical), Naumburg 1537, Nördlingen 1544 ([3.3.5](#s3-3-5)) |
+| E | The Upper German and Reformed opening of the preaching service: confession of sins and a comfortable word | The minister for the congregation | At the beginning of the service, or after the sermon | Strasbourg 1537 (Moderate Reformed), Palatinate 1563 (Reformed), Wertheim 1524 (Early Evangelical; 3.6; and [§3.4](#s3-4)) |
 | F | A hymn, a German psalm, or *Veni Sancte Spiritus* (Come, Holy Spirit) with its versicle and collect | Choir, schoolboys or congregation; the priest the collect | Before the Introit | Luther 1526, Amberg 1544, Verden 1606, Transylvania 1547, Buxtehude 1552, Mecklenburg villages, Sayn 1590 ([3.3.7](#s3-3-7)) |
 | G | Ps 43 *Iudica me*, the *Confiteor*, the *Misereatur*, *Deus, tu conversus* and *Aufer a nobis*, in German | The priest and the whole people | Before the Introit | Müntzer, Allstedt 1523 and 1524 (Radical Reformation) ([3.3.8](#s3-3-8)) |
 
 **The versicles that survive.**
-- *Adiutorium nostrum* (Our help; Ps 124:8) is the one Roman versicle that survives widely: Kantz 1522,
-  Döber 1525, Lippe, Mecklenburg 1540 and 1552, Pfalz-Zweibrücken 1557 and Poullain's French
-  liturgy at Frankfurt (Reformed; Sehling 9, p. 563) all have it.
-- *Confitemini Domino quoniam bonus* (Ps 118:1) survives in Döber, Lippe and Mecklenburg 1540,
-  but is dropped in Mecklenburg 1552.
+- *Adiutorium nostrum* (Our help; Ps 124:8) is the one Roman versicle that survives widely: Kantz 1522 and
+  Döber 1525 (both Early Evangelical), Lippe, Mecklenburg 1540 and 1552, Pfalz-Zweibrücken 1557
+  and Poullain's French liturgy at Frankfurt (Reformed; Sehling 9, p. 563) all have it.
+- *Confitemini Domino quoniam bonus* (Ps 118:1) survives in Döber (Early Evangelical), Lippe and
+  Mecklenburg 1540, but is dropped in Mecklenburg 1552.
 - In Verden 1606 the versicle is *Emitte Spiritum tuum* (Send forth thy Spirit; Ps 104:30), which belongs with *Veni
   Sancte Spiritus*.
 
@@ -9252,7 +9388,7 @@ German, in the people's hearing:
 5. a declaration of God's mercy, in the place of the *Indulgentiam* (Pardon), ending "God grant this unto us all".
 
 It begins in Nürnberg with Andreas Döber's Mass for the New Hospital. **Nürnberg, Andreas Döber,
-*Von der evangelischen meß … im Newen Spital*, 1525** (Sehling 11, p. 51):
+*Von der evangelischen meß … im Newen Spital*, 1525** (Early Evangelical; Sehling 11, p. 51):
 
 <!-- doc 249 -->
 
@@ -9289,7 +9425,7 @@ tongues hast gathered the peoples of the whole world in the unity of the faith! 
 - **The absolution** is a declaration in the perfect tense ("hath had mercy") that ends in a wish ("God grant this unto us all"). It is
   neither the indicative "I absolve you" nor the optative *Misereatur*; see [§3.4.4](#s3-4-4).
 - **Sehling's editor** notes that the *Form und Ordnung einer christlichen meß* (Form and order of a Christian Mass)
-  (Sehling 11, pp. 56 ff.) takes over this beginning, headed "The Confiteor".
+  (Early Evangelical; Sehling 11, pp. 56 ff.) takes over this beginning, headed "The Confiteor".
 
 The Low German Mass of Lippe follows Döber. The choir sings the Introit or *Veni Sancte
 Spiritus* (Come, Holy Spirit) while the priest reads the confession. **Lippe, *Deutsche Messe*, [c. 1525–1538]**
@@ -9312,9 +9448,9 @@ Introit of the Mass.
 **Note.** Here the optative prayer ("vouchsafe to have mercy") is
 itself headed "The absolution". Döber's declaration is missing.
 
-The Kiel Mass takes Döber's address and confession, but its absolution is Kantz's indicative
-form, and it is read by the sexton. **Schleswig-Holstein, *Deutsche Messe* (Kiel), [after
-1526]** (Sehling 23, p. 55):
+The Kiel Mass takes Döber's address and confession, but its absolution is the indicative form
+of Kantz 1522 (Early Evangelical), and it is read by the sexton. **Schleswig-Holstein, *Deutsche
+Messe* (Kiel), [after 1526]** (Sehling 23, p. 55):
 
 <!-- doc 1576 -->
 
@@ -9520,7 +9656,7 @@ Easter, or whatever is not contrary to Scripture.
 confession, with a declaratory absolution, recited by the preacher after the sermon in the
 vernacular preaching service. It was never part of the Mass. The first evangelical Masses carry
 it into the Mass, as an absolution of the communicants. Sehling's editor sets out the
-development under Volprecht 1524 (Sehling 11, p. 39):
+development under Volprecht 1524 (Early Evangelical; Sehling 11, p. 39):
 
 <!-- doc 247 -->
 
@@ -9530,21 +9666,21 @@ the sermon in the Mass. In this passage out of the preaching service into the Ma
 Open Confession was changed, as this use of it shows, in the feeling of the people from an
 appendage of the sermon into a preparation for the Sacrament.
 
-**Kantz, Nördlingen 1522.** The earliest form opens with an exhortation, then gives the
-absolution with no confession text at all: "The almighty and merciful God forgive you your sins! And I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, pronounce you free, quit and loosed of all your sins …" (Sehling 12, p. 285). Sehling's editor calls it a
-fusion of the *Indulgentiam* (Pardon) with the absolution of private confession. The full text, with
-*Adiutorium* (Our help) and the recast *Orate fratres*, is in
-[Chapter 7](#ch7) [§7.2.1](#s7-2-1).
+**Kantz, Nördlingen 1522** (Early Evangelical). The earliest form opens with an exhortation,
+then gives the absolution with no confession text at all: "The almighty and merciful God forgive you your sins! And I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, pronounce you free, quit and loosed of all your sins …" (Sehling 12, p. 285).
+Sehling's editor calls it a fusion of the *Indulgentiam* (Pardon) with the absolution of private
+confession. The full text, with *Adiutorium* (Our help) and the recast *Orate fratres*, is in [Chapter 7](#ch7)
+[§7.2.1](#s7-2-1).
 
-**Bremen 1525.** The Low German *Evangelische Misse* (Evangelical Mass) printed at Bremen in 1525 translates
-Kantz's address and absolution: "The almighty, merciful God forgive you your sins. And I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, proclaim you to be free, quit and loosed of all your sins" (Sehling 7/2.2, p. 405). It heads the priest's request
-for the people's prayer "the priest's confession", and keeps Kantz's
-*Adiutorium* and *Veni Sancte Spiritus* (Come, Holy Spirit). The address is printed in [§3.5.14.1](#s3-5-14-1).
+**Bremen 1525** (Early Evangelical). The Low German *Evangelische Misse* (Evangelical Mass) printed at Bremen in
+1525 translates Kantz's address and absolution: "The almighty, merciful God forgive you your sins. And I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, proclaim you to be free, quit and loosed of all your sins" (Sehling 7/2.2, p. 405).
+It heads the priest's request for the people's prayer "the priest's confession", and keeps Kantz's *Adiutorium* and *Veni Sancte Spiritus* (Come, Holy Spirit). The address is printed
+in [§3.5.14.1](#s3-5-14-1).
 
 **Volprecht, Nürnberg 1524.** The prior of the Augustinians at Nürnberg says an *offene beicht* (open confession)
 "in place of the Confiteor" before the Introit, addressed to God and to "brothers and sisters". The
 absolution that follows is headed "Absolution, the Misereatur". **Nürnberg, *Deutsche Messe* of
-the prior Volprecht, 1524** (Sehling 11, pp. 39–40):
+the prior Volprecht, 1524** (Early Evangelical; Sehling 11, pp. 39–40):
 
 <!-- doc 247 -->
 
@@ -9649,7 +9785,7 @@ sinful life we transgress thy holy commandments without ceasing
 
 **Wertheim 1524: the confession after the sermon.** The earliest report of a Mass after the
 sermon is Franz Kolb's letter to Luther. **Wertheim, Franz Kolb to Luther, 27 August 1524**
-(Sehling 11, p. 707):
+(Early Evangelical; Sehling 11, p. 707):
 
 <!-- doc 322 -->
 
@@ -9706,8 +9842,8 @@ Kyrie eleison, Gloria in excelsis Deo, and Et in terra pax.
 **Editor's note** (p. 155): "Our liturgy up to the Introit is a *praeparatio ad missam*. In the later Middle Ages the private preparatory office of the priest, the *accessus*, had sometimes been made into an hour of the clergy, as it were an 'office of the Holy Ghost".
 
 The same pattern stands in other orders:
-- **Kantz 1522** and **Döber 1525**: *Veni Sancte Spiritus*, said by the priest for the people
-  after the absolution ([§3.3.4](#s3-3-4)).
+- **Kantz 1522** and **Döber 1525** (both Early Evangelical): *Veni Sancte Spiritus*, said by
+  the priest for the people after the absolution ([§3.3.4](#s3-3-4)).
 - **Buxtehude 1552**: on weekdays a German psalm before the Introit, "such as Come, Holy Ghost, God and Lord"
   (Sehling 7/1, p. 74).
 - **Naumburg 1537**, **Nördlingen 1544**, **Pfalz-Zweibrücken 1557** and **Pfalz-Veldenz 1574**:
@@ -9834,9 +9970,9 @@ in two:
 | Place | Form | Orders |
 |---|---|---|
 | **Before the Introit, privately** | The priest's *Confiteor* (I confess) or other prayer at the altar, during the Introit | Brandenburg-Nürnberg 1533, Brandenburg 1540, Pfalz-Neuburg 1543, Hohenlohe 1553, Regensburg 1542 and 1553, Amberg 1550, Buxtehude 1552, Bergedorf 1544, Schleswig-Holstein 1542, Nördlingen 1544; Bugenhagen's kneeling prayer at Wolfenbüttel 1543 and Hildesheim 1544 (§§[3.3.2](#s3-3-2)–[3.3.3](#s3-3-3)) |
-| **Before the Introit, publicly** | Address, confession and absolution in the people's hearing | Müntzer 1523/1524 (Radical Reformation; with Ps 43, no absolution; [§3.3.8](#s3-3-8)); Volprecht 1524, Döber 1525, Lippe, Kiel, Mecklenburg 1540 and 1552, Amberg 1555, Naumburg 1537, Nördlingen 1544, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln; Strasbourg 1537 (Moderate Reformed); Palatinate 1563 (Reformed; prayer before the sermon) (§§[3.3.4](#s3-3-4)–[3.3.6](#s3-3-6)) |
-| **After the sermon** | Open confession from the pulpit, or at the altar before the Sacrament | Bugenhagen, Brunswick 1528; Wertheim 1524 ([§3.3.6](#s3-3-6)); Kurpfalz 1556; Palatinate 1563 (Reformed); Amberg 1550 ([§3.4.4](#s3-4-4)) |
-| **In the communion rite** | Confession and absolution after the exhortation, before the Verba | Kantz 1522 and Bremen 1525; Augsburg 1530 (Moderate Reformed; the absolution inside the second exhortation); Regensburg c. 1544 and 1567; Hohenlohe 1553 (from the pulpit); Württemberg 1536 and its followers, among them Kurpfalz 1556 and Hanau-Lichtenberg 1573; Nürnberg after 1569; Mecklenburg 1552 (the absolution inside the exhortation); Marienhafe 1593 (a prayer of confession without absolution) (§§[3.4.4](#s3-4-4), [3.5](#s3-5)) |
+| **Before the Introit, publicly** | Address, confession and absolution in the people's hearing | Müntzer 1523/1524 (Radical Reformation; with Ps 43, no absolution; [§3.3.8](#s3-3-8)); Volprecht 1524, Döber 1525 (both Early Evangelical), Lippe, Kiel, Mecklenburg 1540 and 1552, Amberg 1555, Naumburg 1537, Nördlingen 1544, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574, Hadeln; Strasbourg 1537 (Moderate Reformed); Palatinate 1563 (Reformed; prayer before the sermon) (§§[3.3.4](#s3-3-4)–[3.3.6](#s3-3-6)) |
+| **After the sermon** | Open confession from the pulpit, or at the altar before the Sacrament | Bugenhagen, Brunswick 1528; Wertheim 1524 (Early Evangelical; [§3.3.6](#s3-3-6)); Kurpfalz 1556; Palatinate 1563 (Reformed); Amberg 1550 ([§3.4.4](#s3-4-4)) |
+| **In the communion rite** | Confession and absolution after the exhortation, before the Verba | Kantz 1522 and Bremen 1525 (both Early Evangelical); Augsburg 1530 (Moderate Reformed; the absolution inside the second exhortation); Regensburg c. 1544 and 1567; Hohenlohe 1553 (from the pulpit); Württemberg 1536 and its followers, among them Kurpfalz 1556 and Hanau-Lichtenberg 1573; Nürnberg after 1569; Mecklenburg 1552 (the absolution inside the exhortation); Marienhafe 1593 (a prayer of confession without absolution) (§§[3.4.4](#s3-4-4), [3.5](#s3-5)) |
 
 **Mecklenburg 1552** has it twice: the public confession at the beginning of every Mass ([§3.3.4](#s3-3-4)),
 and an absolution inside the exhortation before communion ([§3.5.9](#s3-5-9)). **Nördlingen 1544** has it
@@ -9867,7 +10003,8 @@ its own examination by questions ([§3.4.4](#s3-4-4)).
   priest; "the other minister" says the prayer for forgiveness; the choir answers *Adiutorium* (Our help). At
   Nördlingen 1544 a fellow minister absolves the celebrant.
 - **The people.** The people take one of four parts:
-  - They say it **after the priest**: "say after me" (Döber 1525) and "say the confession with me" (Bugenhagen 1528).
+  - They say it **after the priest**: "say after me" (Döber 1525, Early
+    Evangelical) and "say the confession with me" (Bugenhagen 1528).
   - They **confess silently** with him: Mecklenburg 1540 and 1552, "the whole church shall be still … and also confess likewise with the priest".
   - They **confess in their hearts**: Strasbourg 1537 (Moderate Reformed), "let every one confess himself … in his heart".
   - They **answer "Yes"** to questions: Palatinate 1563 (Reformed; [§3.4.4](#s3-4-4)).
@@ -9893,8 +10030,8 @@ families of wording:
 
 | Family | Incipit | Orders |
 |---|---|---|
-| Döber–Mecklenburg | "And I, poor sinful man, confess unto God Almighty, my Maker and Redeemer, that I have sinned not only with thoughts, words or works …" | Döber 1525, Lippe, Kiel, Mecklenburg 1540, 1552, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574 |
-| Volprecht | "I, poor, wretched, sinful man, confess myself unto God my heavenly Father … you brothers and sisters …" | Volprecht 1524 |
+| Döber–Mecklenburg | "And I, poor sinful man, confess unto God Almighty, my Maker and Redeemer, that I have sinned not only with thoughts, words or works …" | Döber 1525 (Early Evangelical), Lippe, Kiel, Mecklenburg 1540, 1552, Pfalz-Zweibrücken 1557, Pfalz-Veldenz 1574 |
+| Volprecht | "I, poor, wretched, sinful man, confess myself unto God my heavenly Father … you brothers and sisters …" | Volprecht 1524 (Early Evangelical) |
 | Naumburg | "I, poor sinner, confess unto thee, O almighty God and merciful Father, before this whole congregation all my sins and misdeeds …" | Naumburg 1537 |
 | Württemberg | "I, poor sinner, confess myself unto God, my heavenly Father, that I have, alas, sinned grievously and manifoldly, not only with outward, gross sins, but much more with inward, inborn blindness …" | Württemberg 1536; Kurpfalz 1556; Palatinate 1563 (Reformed; in the second person, "before thee, my God and Maker") |
 | Strasbourg | "Almighty, everlasting God and Father, we confess and acknowledge unto thee that we were conceived in unrighteousness …" | Strasbourg 1537 (Moderate Reformed); Palatinate 1563 (Reformed; prayer before the sermon); Poullain and Micron (Reformed) |
@@ -9909,16 +10046,19 @@ confesses "inward inborn blindness, unbelief, doubt". Both make original sin and
 **What became of the *Misereatur*.** The Roman "Almighty God have mercy upon thee" is said by the server for the priest and by the priest for the server. In
 the orders:
 - **Kept by name.** At Kiel: "the minister reads the Misereatur; the sexton reads the Misereatur". The text is not given.
-- **Recast as a prayer for us all.** Döber: "The merciful God vouchsafe to have mercy upon us …". Lippe heads this same prayer "The absolution".
+- **Recast as a prayer for us all.** Döber (Early Evangelical): "The merciful God vouchsafe to have mercy upon us …". Lippe heads this same
+  prayer "The absolution".
 - **Given to the second minister.** In Mecklenburg 1540 "the minister answereth this prayer", as the server answered the priest's *Confiteor* with the
   *Misereatur* (May [almighty God] have mercy). In 1552 it becomes a full collect, "O almighty, merciful God, who hast given thine only-begotten Son unto death for us, vouchsafe to have mercy upon us …".
-- **The name given to a declaration.** Volprecht heads his absolution "Absolution, the Misereatur" ([§3.3.5](#s3-3-5)).
+- **The name given to a declaration.** Volprecht (Early Evangelical) heads his absolution
+  "Absolution, the Misereatur" ([§3.3.5](#s3-3-5)).
 
 **What became of the *Indulgentiam*.** The Roman "May the almighty and merciful Lord grant us pardon, absolution and remission of our sins" is a wish in the first
 person plural. Two orders keep its opening words:
-- **Kantz 1522**: "The almighty and merciful God forgive you your sins!", in the second person, followed by the indicative
-  absolution.
-- **Döber 1525**: "The almighty, merciful God hath had mercy upon us …", recast as a declaration in the perfect tense.
+- **Kantz 1522** (Early Evangelical): "The almighty and merciful God forgive you your sins!", in the second person, followed by the
+  indicative absolution.
+- **Döber 1525** (Early Evangelical): "The almighty, merciful God hath had mercy upon us …", recast as a declaration in the perfect
+  tense.
 
 #### <a id="s3-4-4"></a>3.4.4 Optative, declaratory or indicative?
 
@@ -9926,9 +10066,9 @@ The absolutions fall into five types. The modern Common Service declaration of g
 
 | Type | Formula | Orders |
 |---|---|---|
-| **1. Optative** (a wish or prayer) | "The merciful God vouchsafe to have mercy upon us and forgive us our sins …" | Döber 1525 (the *Misereatur* [May almighty God have mercy]); Lippe and Kiel; Mecklenburg 1540; Mecklenburg 1552 and Pfalz-Zweibrücken 1557 (as the second minister's prayer) |
-| **2. Declaration of grace** (first person plural, no "I") | "The almighty, merciful God hath had mercy upon us … God grant this unto us all" | Döber 1525; Mecklenburg 1540 and 1552; Pfalz-Zweibrücken 1557; Pfalz-Veldenz 1574; Volprecht 1524 ("God hath had mercy upon us") |
-| **3. Indicative** (the minister, by Christ's command, looses) | "I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, pronounce you free, quit and loosed" | Kantz 1522; Kiel (read by the sexton); Naumburg 1537; Württemberg 1536; Nürnberg after 1569; Mecklenburg 1552 (in the exhortation) |
+| **1. Optative** (a wish or prayer) | "The merciful God vouchsafe to have mercy upon us and forgive us our sins …" | Döber 1525 (Early Evangelical; the *Misereatur* [May almighty God have mercy]); Lippe and Kiel; Mecklenburg 1540; Mecklenburg 1552 and Pfalz-Zweibrücken 1557 (as the second minister's prayer) |
+| **2. Declaration of grace** (first person plural, no "I") | "The almighty, merciful God hath had mercy upon us … God grant this unto us all" | Döber 1525 (Early Evangelical); Mecklenburg 1540 and 1552; Pfalz-Zweibrücken 1557; Pfalz-Veldenz 1574; Volprecht 1524 (Early Evangelical; "God hath had mercy upon us") |
+| **3. Indicative** (the minister, by Christ's command, looses) | "I, by the commandment of our Lord Jesus Christ, in the stead of the holy Church, pronounce you free, quit and loosed" | Kantz 1522 (Early Evangelical); Kiel (read by the sexton); Naumburg 1537; Württemberg 1536; Nürnberg after 1569; Mecklenburg 1552 (in the exhortation) |
 | **4. Conditional declaration, with retention** | "As many of you as … to them I declare … But as many among you as still have pleasure in their sins …" | Strasbourg 1537 (Moderate Reformed; without retention); Micron and Palatinate 1563 (Reformed) |
 | **5. No absolution**, only a word of comfort | "Jesus Christ is our salvation for ever" | Bugenhagen, Brunswick 1528; Palatinate 1563 (Reformed; Supper examination) |
 
@@ -10108,22 +10248,22 @@ not in Sehling, and is given here for comparison only, so it is not set as a ver
 |---|---|
 | "My dearest in God, open your hearts; let us confess our sins unto God, and pray for forgiveness in the name of our Lord Jesus Christ." | "Beloved in the Lord! Let us draw near with a true heart, and confess our sins unto God our Father, beseeching Him, in the Name of our Lord Jesus Christ, to grant us forgiveness." |
 | "Our help standeth in the name of the Lord. *The choir answereth.* Who hath made heaven and earth." | "Our help is in the Name of the Lord. *R.* Who made heaven and earth." |
-| (Döber, Mecklenburg 1540: "Confess unto the Lord, for he is good. *Answer.* And his mercy is everlasting.") | "I said, I will confess my transgressions unto the Lord. *R.* And Thou forgavest the iniquity of my sin." (Ps 32:5) |
+| (Döber (Early Evangelical), Mecklenburg 1540: "Confess unto the Lord, for he is good. *Answer.* And his mercy is everlasting.") | "I said, I will confess my transgressions unto the Lord. *R.* And Thou forgavest the iniquity of my sin." (Ps 32:5) |
 | "I, poor sinful man, confess before thee, O almighty God, my Maker and Redeemer, that I have sinned, not only with thoughts, words and works, but that I am also by nature sinful and unclean … But I have refuge unto thy bottomless mercy, and seek and desire grace, for the Lord Jesus Christ's sake." | "Almighty God, our Maker and Redeemer, we poor sinners confess unto Thee, that we are by nature sinful and unclean, and that we have sinned against Thee by thought, word, and deed. Wherefore we flee for refuge to Thine infinite mercy, seeking and imploring Thy grace, for the sake of our Lord Jesus Christ." |
 | *The other minister:* "O almighty, merciful God, who hast given thine only-begotten Son unto death for us, vouchsafe to have mercy upon us, and for the sake of the same thy beloved Son forgive us all our sins; and give us also thy Holy Ghost, who may kindle and increase in us true knowledge of thy divine being and will, and true obedience toward thee; that we may attain eternal life through thy grace …" | "O most merciful God, who hast given Thine Only-begotten Son to die for us, have mercy upon us, and for His sake grant us remission of all our sins; and by Thy Holy Spirit increase in us true knowledge of Thee, and of Thy will, and true obedience to Thy Word, to the end that by Thy grace we may come to everlasting life; through Jesus Christ our Lord." |
 | *The priest:* "The almighty, merciful God hath had mercy upon us, forgiveth us truly all our sins for his dear Son's sake, whom he hath given unto death for our sake, and hath given power to become the children of God to all that believe on his name; he giveth us thereto his Holy Ghost; whoso believeth and is baptized shall be saved. God grant this unto us all" | "Almighty God, our Heavenly Father, hath had mercy upon us, and hath given His Only Son to die for us, and for His sake forgiveth us all our sins. To them that believe on His Name, He giveth power to become the sons of God, and bestoweth upon them His Holy Spirit. He that believeth, and is baptized, shall be saved. Grant this, O Lord, unto us all." |
 
 **What the comparison shows.**
 - **The order** of the Common Service preparation (address, *Adiutorium* [Our help], a second versicle,
-  confession, prayer for forgiveness, declaration of grace) is Döber's order of 1525, by way of
-  Mecklenburg.
+  confession, prayer for forgiveness, declaration of grace) is Döber's order of 1525 (Early
+  Evangelical), by way of Mecklenburg.
 - **The prayer for forgiveness** ("O most merciful God …") is the old *Misereatur* (May [almighty God] have mercy). In
   Mecklenburg 1552 it belonged to the *second minister* or custos kneeling beside the priest.
   That is the server's place in the Roman *Stufengebet* (prayers at the foot of the altar).
 - **The declaration of grace** ("Almighty God … hath had mercy upon us … Grant this, O Lord,
-  unto us all") is type 2 ([§3.4.4](#s3-4-4)): God's mercy declared in the third person, with no "I absolve",
-  and closed with a wish. It is not an indicative absolution, and not the optative *Misereatur*
-  either. Its final wish goes back to Döber's "God grant this unto us all".
+  unto us all") is type 2 ([§3.4.4](#s3-4-4)): God's mercy declared in the third person, with no "I
+  absolve", and closed with a wish. It is not an indicative absolution, and not the optative
+  *Misereatur* either. Its final wish goes back to Döber 1525 (Early Evangelical): "God grant this unto us all".
 - **The confession** passes from the priest's "I, poor sinful man" to "we poor sinners".
   The step is already taken at Amberg in 1555, where the priest, kneeling with another minister,
   says "We poor, sinful men confess before thee, O almighty God, our Creator and Redeemer" (Sehling 13, p. 290; [§3.3.4](#s3-3-4)). Marienhafe in East Frisia has a plural prayer of confession too,
@@ -10132,7 +10272,8 @@ not in Sehling, and is given here for comparison only, so it is not set as a ver
   sixteenth-century orders the priest says it alone while the people keep silence and confess in
   their hearts; the Common Service gives it to the congregation.
 - **The second versicle.** The Common Service's second versicle (Ps 32:5) is not in Sehling's
-  Mecklenburg texts. Its place is taken in Döber and Mecklenburg 1540 by *Confitemini Domino*.
+  Mecklenburg texts. Its place is taken in Döber (Early Evangelical) and Mecklenburg 1540 by
+  *Confitemini Domino*.
 
 **The indicative absolution in American Lutheran books.** The other common form in American
 Lutheran books, "Upon this your confession, I, by virtue of my office, as a called and ordained
@@ -10192,9 +10333,9 @@ aloud the exhortation "doubled" them.
 |---|---|
 | **After the sermon, in the pulpit or at the altar, before the Our Father and Verba** | Luther, *Deutsche Messe* 1526 (pulpit or altar left free); Saxony 1539 and 1580; Mansfeld 1562; Grubenhagen 1581; Henneberg 1582 |
 | **At the altar after the sermon, before the Verba** | Brandenburg-Nürnberg 1533 (moved there "at Luther's suggestion"); Württemberg 1536 and its family; Pfalz-Neuburg 1543; Hohenlohe; Verden 1606; Palatinate 1563 (Reformed; at the table) |
-| **At the altar after the sermon, before the Preface** (as its "true" form) | Bugenhagen, Brunswick 1528, Hamburg 1529, Wolfenbüttel 1543, Hildesheim 1544; Kantz 1522 |
+| **At the altar after the sermon, before the Preface** (as its "true" form) | Bugenhagen, Brunswick 1528, Hamburg 1529, Wolfenbüttel 1543, Hildesheim 1544; Kantz 1522 (Early Evangelical) |
 | **After the Preface and Sanctus, before the Our Father and Verba** | Mecklenburg 1552 ("if there is time"); Osnabrück 1543; Naumburg 1537 (before the Sanctus) |
-| **After the Verba and Our Father, before communion** | Nürnberg 1524, Döber 1525, *Form und Ordnung* 1525 (Osiander's original place) |
+| **After the Verba and Our Father, before communion** | Nürnberg 1524, Döber 1525 and *Form und Ordnung* 1525 (all Early Evangelical; Osiander's original place) |
 | **After communion** | Memmingen 1528 (Moderate Reformed) and Marienhafe 1593 (a short exhortation to love and thanksgiving) |
 
 **Editor's note on the move.** Sehling's editor comments on Brandenburg-Nürnberg 1533
@@ -10202,7 +10343,8 @@ aloud the exhortation "doubled" them.
 
 **Who reads it.** The priest, facing the people, from the altar (most orders), or the preacher
 from the pulpit (Luther's option; Bugenhagen's pulpit exhortation; Micron, Reformed). In
-Nürnberg 1525 "the priest or the minister" may read it.
+Nürnberg 1525 (Early Evangelical) "the priest or the minister"
+may read it.
 
 #### <a id="s3-5-2"></a>3.5.2 The families and their witnesses
 
@@ -10224,7 +10366,7 @@ exhortations that occur in one order only:
 | § | Family (archetype) | Incipit | Witnesses in Sehling |
 |---|---|---|---|
 | [3.5.3](#s3-5-3) | **Luther**, Wittenberg 1526 | "Dear friends of Christ, forasmuch as we are here gathered together …" | Saxony 1539 (abridged in print), Prussia 1544 and 1568 (in place of the Preface), Albertine Saxony 1580, Mansfeld 1562, Grubenhagen 1581, Lindau 1573, Wertheim c. 1555 (as a prayer), Frankfurt 1543 and the French church at Frankfurt 1585 (Reformed; paraphrase only), Henneberg 1582 (admonition only, rewritten) |
-| [3.5.4](#s3-5-4) | **Osiander**, Nürnberg 1524 | "Ye dearly beloved in God! Forasmuch as we will now … the supper …" | Volprecht 1524, Nürnberg parish churches 1524, Döber 1525, *Form und Ordnung* 1525; the Braunschweig recension: Lüneburg 1564, Braunschweig-Wolfenbüttel 1569, Buxtehude 1565 (Low German, cited), Lippe 1571, Lüneburg 1575 (cited), Verden 1606, Waldeck (revised text B) |
+| [3.5.4](#s3-5-4) | **Osiander**, Nürnberg 1524 (Early Evangelical) | "Ye dearly beloved in God! Forasmuch as we will now … the supper …" | Volprecht 1524, Nürnberg parish churches 1524, Döber 1525, *Form und Ordnung* 1525 (all Early Evangelical); the Braunschweig recension: Lüneburg 1564, Braunschweig-Wolfenbüttel 1569, Buxtehude 1565 (Low German, cited), Lippe 1571, Lüneburg 1575 (cited), Verden 1606, Waldeck (revised text B) |
 | [3.5.5](#s3-5-5) | **Brandenburg-Nürnberg** 1533 | "Dearly beloved in God, forasmuch as we will now … the holy Supper …" | Brandenburg 1540, Calenberg-Göttingen 1542, Regensburg c. 1544 (rewritten 1567), Dietrich's *Agendbüchlein* 1543 (cited), Pfalz-Neuburg 1543, Schwäbisch Hall 1543, Hohenlohe 1553 and 1578, Strasbourg 1553 (Marbach), Nassau-Dillenburg 1575 (Philippist; cited), Erbach 1587, Ysenburg-Birstein 1588 |
 | [3.5.6](#s3-5-6) | **Württemberg** 1536, revised 1553 | "Dearly beloved in Christ Jesus, forasmuch as we will now … the gracious Supper …" | 1536 text: Worms 1560. 1553 text: Kurpfalz 1556, Worms 1560, Leiningen-Westerburg 1566, Lindau 1573, Hanau-Lichtenberg 1573, Nassau-Weilburg 1576 (in its Agende of 1618), Ysenburg-Ronneburg 1582, Strasbourg 1598, Isny c. 1600, Solms-Laubach 1603, Wild- und Rheingrafschaft 1603 |
 | [3.5.7](#s3-5-7) | **Bugenhagen**, Brunswick 1528 | "My dearly beloved, it is continually set before us by the preaching of the Gospel …" | Low German: Hamburg 1529, Lübeck 1531 (cited), Hadeln (cited), Wolfenbüttel 1543, Osnabrück 1543 (cited), Hildesheim 1544 (cited), Buxtehude (cited), Hamburg 1556 (cited). High German: Frankfurt 1543 (free paraphrase), Lüneburg 1564, Hildesheim 1561 (cited), Braunschweig-Wolfenbüttel 1569, Lippe 1571 (twice), Verden 1606, Osnabrück 1613 (abridged) |
@@ -10235,9 +10377,9 @@ exhortations that occur in one order only:
 | [3.5.12](#s3-5-12) | **Zürich and Basel** (Reformed) | "Dear brethren! Ye have heard the unspeakable mercy of God …" | Memmingen 1528 (Moderate Reformed; from Zürich 1525), Neckarbischofsheim 1560 (from Basel 1526) |
 | [3.5.13](#s3-5-13) | **Strasbourg** (Moderate Reformed) | "Dear brothers and sisters, ye will every one consider with himself …" | the early Strasbourg agendas; its second half in Memmingen 1528 (both Moderate Reformed) |
 
-The exhortations that belong to no family (Kantz 1522 and the Bremen Mass of 1525, Augsburg 1530
-(Moderate Reformed), Buxtehude 1565, Micron 1554/1565 (Reformed), Marienhafe 1593, and the
-Saturday exhortations of Hohenlohe 1578) are treated in [§3.5.14](#s3-5-14).
+The exhortations that belong to no family (Kantz 1522 and the Bremen Mass of 1525 (both Early
+Evangelical), Augsburg 1530 (Moderate Reformed), Buxtehude 1565, Micron 1554/1565 (Reformed),
+Marienhafe 1593, and the Saturday exhortations of Hohenlohe 1578) are treated in [§3.5.14](#s3-5-14).
 
 **Not reproducible.** Mecklenburg 1540/45 has three Low German exhortations, "one of these three exhortations to be read at a time".
 Sehling does not print them: "There follow three exhortations to the Supper, the second of which is freely shaped after the only one in the Low German edition of the Brandenburg-Nürnberg order" (Sehling 5, p. 154.) Weißenburg 1528 meant to print the Nürnberg exhortation but, as the
@@ -10371,7 +10513,7 @@ churches of 1524, with the variants of Volprecht (V), the parish churches (P) an
 his apparatus. Osiander declared himself its author on 22 September 1533. It stood after the
 Verba, which were then still said in Latin, and served to "open" them to the people. **Nürnberg,
 *Gottesdienstordnung der Pfarrkirchen* (base text of *Grundt und ursach*), 1524**
-(Sehling 11, pp. 48–49):
+(Early Evangelical; Sehling 11, pp. 48–49):
 
 <!-- doc 249 -->
 
@@ -10508,8 +10650,8 @@ and drink of one cup.
 - **"as if he would say"** becomes **"That is"** (That is) before each
   gloss.
 - **"token and witness"** for "sign".
-- **The ending.** "show forth his death, namely that he died for our sins and rose again for our justification" is added from Rom 4:25. Döber's closing wish is
-  dropped.
+- **The ending.** "show forth his death, namely that he died for our sins and rose again for our justification" is added from Rom 4:25. The closing wish of Döber
+  1525 (Early Evangelical) is dropped.
 - **No confession or absolution.** The Nürnberg editions from 1569 append the *Offene Schuld*
   ([§3.4.4](#s3-4-4)).
 
@@ -11121,13 +11263,12 @@ keep in remembrance of his bitter passion and death.
 
 #### <a id="s3-5-13"></a>3.5.13 The Strasbourg family, 1525
 
-**The archetype.** The early Strasbourg agendas (Moderate Reformed) leave the exhortation to the
-pastor, "on the content of the prayer and generally according to the matter of the sermon preached", and print
-one as an example. It was given at St. Peter the Younger, Wolfgang Capito's church, on
-Reminiscere Sunday, 12 March 1525, after a sermon on 1 Cor 1 (the word of the cross) and John 8
-(Christ the light of the world). It is read after the Our Father and leads into the Words of
-Institution. **Strasbourg, *Die frühen Agenden*, 1525**
-(Moderate Reformed; Sehling 20/1, pp. 158–159):
+**The archetype.** The *Straßburger kirchen ampt* of 1525 (Moderate Reformed) leaves the
+exhortation to the pastor, "on the content of the prayer and generally according to the matter of the sermon preached", and prints one as an example. It was given at St. Peter the Younger, Wolfgang
+Capito's church, on Reminiscere Sunday, 12 March 1525, after a sermon on 1 Cor 1 (the word of
+the cross) and John 8 (Christ the light of the world). It is read after the Our Father and leads
+into the Words of Institution. **Strasbourg, *Die frühen Agenden*, 1525** (Moderate Reformed;
+Sehling 20/1, pp. 158–159):
 
 <!-- doc 1279 -->
 
@@ -11165,13 +11306,14 @@ the rest are summarized.
 
 ##### <a id="s3-5-14-1"></a>3.5.14.1 Kantz 1522 and the Bremen Mass 1525
 
-Kantz's Nördlingen Mass of 1522 leaves the exhortation free: "an exhortation of the Sacrament, or else something comforting out of the holy Gospel, as the Spirit of God giveth him". It then gives only a short address to the bystanders, "Dearest in Christ! That ye may receive with joyful, desirous heart …", which leads at once into the
-absolution. That address and absolution are printed in [Chapter 7](#ch7) [§7.2.1](#s7-2-1), and
+Kantz's Nördlingen Mass of 1522 (Early Evangelical) leaves the exhortation free: "an exhortation of the Sacrament, or else something comforting out of the holy Gospel, as the Spirit of God giveth him". It then gives only a short address to the bystanders,
+"Dearest in Christ! That ye may receive with joyful, desirous heart …", which leads
+at once into the absolution. That address and absolution are printed in [Chapter 7](#ch7) [§7.2.1](#s7-2-1), and
 summarized in [§3.3.5](#s3-3-5) here.
 
 The Low German *Evangelische Misse* (Evangelical Mass) printed at Bremen in 1525 has the same rubric and a
 translation of the same address. **Bremen, *Eyne evangelysce Misse*, 1525**
-(Sehling 7/2.2, p. 405):
+(Early Evangelical; Sehling 7/2.2, p. 405):
 
 <!-- doc 2216 -->
 
@@ -11316,8 +11458,8 @@ Christ our Lord giveth us his body and his blood, that we may indeed believe and
 he will be with us and impart to us his life, his Holy Ghost and his goods. Amen.
 
 **Notes.**
-- **The absolution.** "Therefore I declare you all, and each one in particular that desireth it, free of your sins" is indicative, like Kantz's, and grounded in John 20:23. It belongs
-  with the forms in [§3.4.4](#s3-4-4).
+- **The absolution.** "Therefore I declare you all, and each one in particular that desireth it, free of your sins" is indicative, like that of Kantz 1522 (Early Evangelical), and
+  grounded in John 20:23. It belongs with the forms in [§3.4.4](#s3-4-4).
 - **The order of parts.** The first exhortation stands before communion; the minister then
   rehearses the Words of Institution ("before the minister communicates the congregation with the Gospel, he repeats the words of the Supper").
 - **Other exhortations.** Sehling's editor, citing Fille (1895), notes that "some other such exhortations also, mostly by Urban Rhegius" were once kept: "but they are now lost" (Sehling 12, p. 40).
@@ -11584,9 +11726,8 @@ evangelical Mass ends with a public thanksgiving by all:
   very end. At Hildesheim it is "a short German psalm" begun by
   the schoolmaster.
 
-In Kantz 1522 and in Nürnberg the *Nunc dimittis* is sung after communion. The collects and
-thanksgiving prayers are treated in [Chapter 5](#ch5), and the hymns in
-[Chapter 8](#ch8).
+In Kantz 1522 (Early Evangelical) and in Nürnberg the *Nunc dimittis* is sung after communion.
+The collects and thanksgiving prayers are treated in [Chapter 5](#ch5), and the hymns in [Chapter 8](#ch8).
 
 #### <a id="s3-6-4"></a>3.6.4 Prayers before and after the sermon
 
@@ -11687,12 +11828,12 @@ The orders that appear only as witnesses to an exhortation are listed in the wit
 
 | Order | Opening before the Introit | Confession: who and where | Absolution (type) | Exhortation (family; place) | § |
 |---|---|---|---|---|---|
-| Kantz, Nördlingen 1522 | Exhortation, absolution, *Adiutorium* (Our help), *Veni Sancte Spiritus* (Come, Holy Spirit) (D) | No confession text; before the Sacrament | "declare you free, quit and loosed" (3) | Free, with a short address leading to the absolution; before the Preface | [3.3.5](#s3-3-5), [3.4.3](#s3-4-3), [3.5.14.1](#s3-5-14-1) |
+| Kantz, Nördlingen 1522 (Early Evangelical) | Exhortation, absolution, *Adiutorium* (Our help), *Veni Sancte Spiritus* (Come, Holy Spirit) (D) | No confession text; before the Sacrament | "declare you free, quit and loosed" (3) | Free, with a short address leading to the absolution; before the Preface | [3.3.5](#s3-3-5), [3.4.3](#s3-4-3), [3.5.14.1](#s3-5-14-1) |
 | Müntzer, Allstedt 1523 and 1524 (Radical Reformation) | Ps 43 with priest and people; priest's confession; people's *Misereatur* (May [almighty God] have mercy); *Deus, tu conversus* (O God, thou wilt turn again); *Non nobis* (Not unto us); *Aufer a nobis* (Take away from us) (G) | Priest, aloud "before all the people"; the people answer | — | — | [3.3.8](#s3-3-8) |
-| Volprecht, Nürnberg 1524 | *Offene beicht* (open confession) "in place of the Confiteor" (D) | Priest, to God and the brothers and sisters | "God hath had mercy upon us" (2) | Osiander (V); printed after the Mass, for days with communicants | [3.3.5](#s3-3-5), [3.5.4](#s3-5-4) |
-| Wertheim 1524 (Kolb) | Sermon | Priest kneeling, "a very short Confiteor" in German, after the sermon | — | None before communion ("without any exhortation"); a short exhortation to thanksgiving after communion, and one "for preparation" in the sermon | [3.3.6](#s3-3-6) |
-| Döber, Nürnberg 1525 | Address, *Adiutorium*, *Confitemini* (O give thanks), confession, *Misereatur*, declaration, *Veni Sancte Spiritus* (C) | Priest kneeling; people "say after me" | Optative (1), then declaration (2) | Osiander; after the Our Father | [3.3.4](#s3-3-4), [3.5.4](#s3-5-4) |
-| Bremen, *Evangelische Misse*, 1525 | Address, absolution, *Adiutorium*, *Veni Sancte Spiritus* (D) | No confession text; the priest asks the people's prayer ("The priest's confession") | "declare you free, quit and loosed" (3) | Free, with Kantz's address in Low German; before the Preface | [3.3.5](#s3-3-5), [3.5.14.1](#s3-5-14-1) |
+| Volprecht, Nürnberg 1524 (Early Evangelical) | *Offene beicht* (open confession) "in place of the Confiteor" (D) | Priest, to God and the brothers and sisters | "God hath had mercy upon us" (2) | Osiander (V); printed after the Mass, for days with communicants | [3.3.5](#s3-3-5), [3.5.4](#s3-5-4) |
+| Wertheim 1524 (Early Evangelical; Kolb) | Sermon | Priest kneeling, "a very short Confiteor" in German, after the sermon | — | None before communion ("without any exhortation"); a short exhortation to thanksgiving after communion, and one "for preparation" in the sermon | [3.3.6](#s3-3-6) |
+| Döber, Nürnberg 1525 (Early Evangelical) | Address, *Adiutorium*, *Confitemini* (O give thanks), confession, *Misereatur*, declaration, *Veni Sancte Spiritus* (C) | Priest kneeling; people "say after me" | Optative (1), then declaration (2) | Osiander; after the Our Father | [3.3.4](#s3-3-4), [3.5.4](#s3-5-4) |
+| Bremen, *Evangelische Misse*, 1525 (Early Evangelical) | Address, absolution, *Adiutorium*, *Veni Sancte Spiritus* (D) | No confession text; the priest asks the people's prayer ("The priest's confession") | "declare you free, quit and loosed" (3) | Free, with Kantz's address in Low German; before the Preface | [3.3.5](#s3-3-5), [3.5.14.1](#s3-5-14-1) |
 | Luther, *Deutsche Messe* 1526 | German hymn or psalm (F) | — | — | Luther; after the sermon, pulpit or altar | [3.3.7](#s3-3-7), [3.5.3](#s3-5-3) |
 | Hadeln ("1526") | Priest vests during the *Te Deum* (We praise thee, O God); *Veni Sancte Spiritus* kneeling (C, F) | Priest sings it kneeling; the sexton answers | Read by the sexton; later given up | Bugenhagen ("My dearly beloved etc."); after the sermon, before the Preface | [3.3.4](#s3-3-4), [3.5.7](#s3-5-7) |
 | Kiel, *Deutsche Messe* [after 1526] | Address and confession (C) | Priest; minister and sexton read the *Misereatur* | Read by the sexton (3) | After the Preface and bread-word ([Chapter 7](#ch7) [§7.11.3](#s7-11-3)) | [3.3.4](#s3-3-4) |
@@ -11754,7 +11895,7 @@ through the table in [§3.7](#s3-7) and the text.
 | Brandenburg | *Kirchenordnung* | 1540 | 3, pp. 60, 65, 67–68 | [3.3.2](#s3-3-2), [3.4.6](#s3-4-6), [3.6.1](#s3-6-1) |
 | Brandenburg-Ansbach | *Ordnung singens und lesens bei den Stiften* | 1533 | 11, p. 313 | [3.6.3](#s3-6-3) |
 | Brandenburg-Nürnberg | *Kirchenordnung* | 1533 | 11, pp. 188, 195–196 | [3.3.2](#s3-3-2), [3.5.5](#s3-5-5) |
-| Bremen | *Eyne evangelysce Misse* | 1525 | 7/2.2, p. 405 | [3.5.14](#s3-5-14) |
+| Bremen (Early Evangelical) | *Eyne evangelysce Misse* | 1525 | 7/2.2, p. 405 | [3.5.14](#s3-5-14) |
 | Brunswick | *Christlike ordeninge* of Johannes Bugenhagen | 1528 | 6/1, pp. 443, 443–444 | [3.4.4](#s3-4-4), [3.5.7](#s3-5-7) |
 | Buxtehude | *Kirchenordnung* | 1552 | 7/1, p. 74 | [3.3.2](#s3-3-2) |
 | Buxtehude | *Agende* | 1565 | 7/1, pp. 124–125 | [3.5.14](#s3-5-14) |
@@ -11772,9 +11913,9 @@ through the table in [§3.7](#s3-7) and the text.
 | Naumburg | *Kirchen-Ordnung* for St. Wenzel's | 1537 | 2, pp. 77–78, 80 | [3.3.5](#s3-3-5), [3.5.8](#s3-5-8) |
 | Neckarbischofsheim | *Kirchenordnung* | 1560 | 16, p. 683 | [3.5.12](#s3-5-12) |
 | Nördlingen | *Kirchenordnung* of Kaspar Löner | 1544 | 12, pp. 311–312 | [3.3.2](#s3-3-2) |
-| Nürnberg | *Deutsche Messe* of the prior Volprecht | 1524 | 11, pp. 39–40 | [3.3.5](#s3-3-5) |
-| Nürnberg | *Gottesdienstordnung der Pfarrkirchen* (base text of *Grundt und ursach*) | 1524 | 11, pp. 48–49 | [3.5.4](#s3-5-4) |
-| Nürnberg, Andreas Döber | *Von der evangelischen meß … im Newen Spital* | 1525 | 11, p. 51 | [3.3.4](#s3-3-4) |
+| Nürnberg (Early Evangelical) | *Deutsche Messe* of the prior Volprecht | 1524 | 11, pp. 39–40 | [3.3.5](#s3-3-5) |
+| Nürnberg (Early Evangelical) | *Gottesdienstordnung der Pfarrkirchen* (base text of *Grundt und ursach*) | 1524 | 11, pp. 48–49 | [3.5.4](#s3-5-4) |
+| Nürnberg, Andreas Döber (Early Evangelical) | *Von der evangelischen meß … im Newen Spital* | 1525 | 11, p. 51 | [3.3.4](#s3-3-4) |
 | Nürnberg, Veit Dietrich | *Agendbüchlein* | edition of 1569 | 11, p. 498 | [3.4.4](#s3-4-4) |
 | Osnabrück (city) | *Kirchenordnung* | 1613 | 7/1, p. 269 | [3.5.7](#s3-5-7) |
 | Palatinate (Reformed) | *Kirchenordnung* | 1563 | 14, pp. 383, 383–386, 388, 389 | [3.3.6](#s3-3-6), [3.4.4](#s3-4-4), [3.5.10](#s3-5-10) |
@@ -11790,7 +11931,7 @@ through the table in [§3.7](#s3-7) and the text.
 | Transylvania | *Kirchenordnung* | 1547 | 24, p. 223 | [3.3.7](#s3-3-7) |
 | Verden | *Kirchenordnung* | 1606 | 7/1, pp. 155–156 | [3.3.7](#s3-3-7) |
 | Wertheim | *Kirchenordnung* | c. 1555 | 11, p. 713 | [3.5.3](#s3-5-3) |
-| Wertheim | Letter of Franz Kolb to Luther | 27 August 1524 | 11, p. 707 | [3.3.6](#s3-3-6) |
+| Wertheim (Early Evangelical) | Letter of Franz Kolb to Luther | 27 August 1524 | 11, p. 707 | [3.3.6](#s3-3-6) |
 | Wittenberg, Luther | *Deudsche messe und ordnung gottis diensts* | 1526 | 1, pp. 14, 15 | [3.3.7](#s3-3-7), [3.5.3](#s3-5-3) |
 | Württemberg | *Kirchenordnung* | 1536 | 16, pp. 107–108, 108–109 | [3.4.4](#s3-4-4), [3.5.6](#s3-5-6) |
 
@@ -11834,7 +11975,7 @@ then made from the Latin, with notes on where the German shortens, adds to or ch
 **1. Three models, often combined.** The orders handle the propers in one of three ways ([§4.3](#s4-3)):
 - **Keep them in Latin**, sung by the school choir: the *Formula missae* (Form of the Mass) line.
 - **Translate them into German prose**, sung to the old tones: Müntzer 1524 (Radical
-  Reformation), Erfurt 1525, Calenberg-Göttingen 1542.
+  Reformation), Erfurt 1525 (Early Evangelical), Calenberg-Göttingen 1542.
 - **Replace them with German hymns** sung by the congregation: the *Deutsche Messe* (German Mass) line.
 
 Most territorial orders allowed all three by place and day:
@@ -11851,8 +11992,9 @@ meant ***de tempore*, not *de sanctis*** ([§4.3.1](#s4-3-1), [§4.6.2](#s4-6-2)
   priest read it quietly. Villages sang a German psalm instead.
 - **Fallbacks.** Where boys could not learn every Sunday's introit, they repeated *Benedicta sit
   sancta Trinitas* (Blessed be the holy Trinity) or *Spiritus Domini* (The Spirit of the Lord; Hatzkerode, Heilbronn, Kurpfalz, Hamburg 1556).
-- **German introits.** These appear in Müntzer (Radical Reformation), Erfurt and Hof 1592.
-  Wittgenstein 1555 allows the festal introits to be sung in German in the villages.
+- **German introits.** These appear in Müntzer (Radical Reformation), Erfurt (1525, Early
+  Evangelical) and Hof 1592. Wittgenstein 1555 allows the festal introits to be sung in German
+  in the villages.
 - **Organ and polyphony.** By the later century the introit was often played by the organ in
   alternation with the choir, or sung *figuraliter* (in figured music; Nördlingen 1579, Hof 1592).
 
@@ -11881,16 +12023,17 @@ meant ***de tempore*, not *de sanctis*** ([§4.3.1](#s4-3-1), [§4.6.2](#s4-6-2)
   perpetual voice of the church". Bugenhagen's northern orders cut off the jubilus, "the many
   notes which one was wont to hang on behind".
 - **Replaced.** In villages, and where the text was "not pure", a German psalm took the place.
-- **German graduals.** Müntzer (Radical Reformation) and Erfurt have them. Nürnberg sang its
-  gradual "in a tone made for it".
+- **German graduals.** Müntzer (Radical Reformation) and Erfurt (1525, Early Evangelical) have
+  them. Nürnberg sang its gradual "in a tone made for it".
 
 **6. The offertory chant was the proper most often dropped** ([§4.7](#s4-7)).
 - **Dropped.** It went with the offertory prayers as part of the "abomination" of sacrifice
-  (Luther 1523). Volprecht says it is "never said, because Christ was once offered for our
-  sins".
+  (Luther 1523). Volprecht (1524, Early Evangelical) says it is "never said, because Christ was
+  once offered for our sins".
 - **Kept.** A few orders kept the Latin offertory as a Scripture text sung by the choir:
-  Wittenberg 1525, Brandenburg 1540, Ansbach 1548, Amberg 1550.
-- **Translated.** Müntzer (Radical Reformation) and Erfurt translated it.
+  Wittenberg 1525 (Early Evangelical), Brandenburg 1540, Ansbach 1548, Amberg 1550.
+- **Translated.** Müntzer (Radical Reformation) and Erfurt (1525, Early Evangelical) translated
+  it.
 - **Replaced.** Most replaced it with a German psalm or the creed hymn.
 
 **7. The Proper Preface survived chiefly on the feasts, in Latin, to the Missal tones** ([§4.8](#s4-8)).
@@ -11914,8 +12057,9 @@ meant ***de tempore*, not *de sanctis*** ([§4.3.1](#s4-3-1), [§4.6.2](#s4-6-2)
 
 **8. The communion chant was optional from the start and was mostly replaced by hymns** ([§4.9](#s4-9)).
 - **Optional.** Luther says "If one will sing the communion, let it be sung".
-- **Kept in Latin.** Volprecht, Ansbach 1536 and Brandenburg 1540 kept it.
-- **German.** Müntzer (Radical Reformation) and Erfurt translated it.
+- **Kept in Latin.** Volprecht (1524, Early Evangelical), Ansbach 1536 and Brandenburg 1540 kept
+  it.
+- **German.** Müntzer (Radical Reformation) and Erfurt (1525, Early Evangelical) translated it.
 - **Polyphony.** In the larger churches festal motets "*sub communione*" (during the communion) took its place, among
   them Clemens non Papa's *Pascha nostrum* (Christ our passover) at Hof.
 
@@ -11933,9 +12077,9 @@ meant ***de tempore*, not *de sanctis*** ([§4.3.1](#s4-3-1), [§4.6.2](#s4-6-2)
 - **Latin.** The Latin set (Christmas, Epiphany, Easter, Ascension, Pentecost, Trinity, common)
   belongs to the Lower Saxon and Westphalian orders, Lüneburg 1564 to Verden 1606.
 - **German translations of the Latin:**
-    - **Müntzer's** (1524, Radical Reformation), carried on by Erfurt, Calenberg-Göttingen and
-      the Lippe villages;
-    - **Strasbourg's** (1524, Moderate Reformed);
+    - **Müntzer's** (1524, Radical Reformation), carried on by Erfurt (1525, Early Evangelical),
+      Calenberg-Göttingen and the Lippe villages;
+    - **Strasbourg's** (1524, Early Evangelical);
   - **Dortmund's** Low German (1554), which alone translates the whole Roman series, Lent,
     Cross, the Virgin and the Apostles included.
 - **New German Prefaces.** There are four:
@@ -11969,10 +12113,10 @@ read in context.
   introit, gradual, sequence, offertory and communion. This chapter deals with the propers
   themselves: the Latin chant, German prose versions, and the lessons and Prefaces.
 - [Chapter 7](#ch7) gives the German **common** Prefaces
-  of the early German Masses (Kantz, Worms (Moderate Reformed), Volprecht, Döber, Bremen) and
-  the Preface sections of Müntzer (Radical Reformation), Strasbourg (Moderate Reformed), the
-  Kiel Mass and Lippe. Those texts are cited here, not repeated, except where a Proper Preface
-  is concerned.
+  of the early German Masses (Kantz, Worms, Volprecht, Döber and Bremen, all Early Evangelical)
+  and the Preface sections of Müntzer (Radical Reformation), Strasbourg (1524, Early
+  Evangelical), the Kiel Mass and Lippe. Those texts are cited here, not repeated, except where
+  a Proper Preface is concerned.
 
 Later chapters take up related subjects:
 - [Chapter 5](#ch5) covers the collect, the secret and the postcommunion
@@ -12035,7 +12179,7 @@ is that what is sung *de tempore* (of the season), from Scripture, may stay. Lut
 **Wittenberg 1525.** A Wittenberg report of 1525 on "how it is held for a time with the
 ceremonies of the Mass" lists the parts sung. They include, at that date, even the offertory.
 **Wittenberg, *Wie es einer zeit mit den ceremonien der messe gehalten*, 1525**
-(Sehling 1, p. 698):
+(Early Evangelical; Sehling 1, p. 698):
 
 <!-- doc 147 -->
 
@@ -12091,14 +12235,14 @@ thereby be cast off, and the holy scripture of the Bible be made common to the p
 the people be led with the customary singing, in their own tongue, as children are brought up
 with milk […]
 
-**Erfurt and Calenberg.** The **Erfurt *Deutsches Kirchenamt*** (1525) reprints Müntzer's
-offices, labels each piece (*Introitus*, *Gradual*, *Offertorium*, *Prefatio*, *Commun.*) and
-adds one for Trinity (Sehling 2, pp. 376–380). **Calenberg-Göttingen 1542** gives a notated
-German Mass for the Sundays and the feasts with German epistles, gospels, alleluias and
-Prefaces, but it has a German psalm "in place of the offertory" (Sehling 6/2, pp. 813–833).
-Sehling's editors trace its Prefaces to Müntzer and to the Erfurt *Kirchenamt*.
+**Erfurt and Calenberg.** The **Erfurt *Deutsches Kirchenamt*** (1525, Early Evangelical)
+reprints Müntzer's offices, labels each piece (*Introitus*, *Gradual*, *Offertorium*,
+*Prefatio*, *Commun.*) and adds one for Trinity (Sehling 2, pp. 376–380). **Calenberg-Göttingen
+1542** gives a notated German Mass for the Sundays and the feasts with German epistles, gospels,
+alleluias and Prefaces, but it has a German psalm "in place of the offertory" (Sehling 6/2,
+pp. 813–833). Sehling's editors trace its Prefaces to Müntzer and to the Erfurt *Kirchenamt*.
 
-**Strasbourg 1524** (Moderate Reformed). The **Strasbourg *Teutsche Meß*** of 1524 gives German
+**Strasbourg 1524** (Early Evangelical). The **Strasbourg *Teutsche Meß*** of 1524 gives German
 Prefaces for the feasts (Sehling 20/1, pp. 133–134). Its Augsburg reprint explains each Latin
 heading for the reader: "Introitus: that is called the beginning or entrance" (p. 135). Its successors drop the Preface ([§4.8.1](#s4-8-1)).
 
@@ -12241,9 +12385,9 @@ them also in time, since they are taken out of scripture.
 #### <a id="s4-4-4"></a>4.4.4 German introits
 
 **Müntzer and Erfurt.** Müntzer's *Deutsch evangelisch Messe* (1524, Radical Reformation) and
-the Lutheran Erfurt *Deutsches Kirchenamt* (1525) translate the introits into German prose, with
-their psalm verse and *Gloria Patri*, and sing them to the Latin melody ([§4.3.2](#s4-3-2)). Erfurt's
-Christmas introit is an example. **Erfurt, *Deutsches Kirchenamt*, 1525, "the office of the birth of Christ"** (Sehling 2, p. 379):
+the Erfurt *Deutsches Kirchenamt* (1525, Early Evangelical) translate the introits into German
+prose, with their psalm verse and *Gloria Patri*, and sing them to the Latin melody ([§4.3.2](#s4-3-2)).
+Erfurt's Christmas introit is an example. **Erfurt, *Deutsches Kirchenamt*, 1525, "the office of the birth of Christ"** (Early Evangelical; Sehling 2, p. 379):
 
 <!-- doc 1251 -->
 
@@ -12336,9 +12480,10 @@ one of the few places where an order writes down a melodic formula of the old ch
 day** (*de dominica*, *de festo*), with these exceptions:
 - **Müntzer** (Radical Reformation) reads "always a whole chapter instead of the epistle and
   gospel" ([§4.3.2](#s4-3-2)).
-- **Nürnberg 1524** and **Brandenburg-Nürnberg 1533** read the New Testament continuously
-  (*lectio continua*). In the Nürnberg parish Mass of 1524 the minister sings a whole chapter of
-  Romans, and the deacon a chapter of Matthew, in German, each with a fixed announcement: "Ye dearly beloved, hear the Nth chapter …" (Sehling 11, p. 46).
+- **Nürnberg 1524** (Early Evangelical) and **Brandenburg-Nürnberg 1533** read the New Testament
+  continuously (*lectio continua*). In the Nürnberg parish Mass of 1524 the minister sings a
+  whole chapter of Romans, and the deacon a chapter of Matthew, in German, each with a fixed
+  announcement: "Ye dearly beloved, hear the Nth chapter …" (Sehling 11, p. 46).
 
 **Toward the people.** The reader turns **toward the people** ("gegen dem volk", "tom volke
 gekeret"). That is what made the reading a reading. The **priest** reads the epistle and gospel
@@ -12475,9 +12620,10 @@ kept the Lenten change.
 
 #### <a id="s4-6-3"></a>4.6.3 German graduals
 
-**Müntzer and Erfurt.** These (Müntzer's Radical Reformation offices and Erfurt's Lutheran
-reprint) have German prose graduals and alleluias. Erfurt's Passion gradual is an example.
-**Erfurt, *Deutsches Kirchenamt*, 1525, office of the Passion** (Sehling 2, p. 380):
+**Müntzer and Erfurt.** These (Müntzer's Radical Reformation offices and Erfurt's Early
+Evangelical reprint) have German prose graduals and alleluias. Erfurt's Passion gradual is an
+example. **Erfurt, *Deutsches Kirchenamt*, 1525, office of the Passion** (Early Evangelical;
+Sehling 2, p. 380):
 
 <!-- doc 1251 -->
 
@@ -12512,14 +12658,14 @@ The sequences as marks of the great feasts are treated in
 For Luther the offertory chant belonged to "that whole abomination" that begins at the
 offertory, where "almost everything soundeth and smelleth of oblation" (Sehling 1, p. 5). Most
 orders dropped the chant together with the offertory prayers (the *canon minor* [lesser canon]):
-- **Volprecht's Nürnberg Mass (1524)**: "The offertory is never said, **because Christ was once
-  offered for our sins**" (Sehling 11, p. 39).
-- **The Nürnberg parish Mass (1524)**: it is left out with the *canon minor*
+- **Volprecht's Nürnberg Mass** (1524, Early Evangelical): "The offertory is never said,
+  **because Christ was once offered for our sins**" (Sehling 11, p. 39).
+- **The Nürnberg parish Mass** (1524, Early Evangelical): it is left out with the *canon minor*
   (Sehling 11, p. 47).
-- **Prussia 1525**: "the offertory, secret, *canon minor* and *maior* are necessarily left out"
-  (Sehling 4, p. 32).
+- **Prussia 1525** (Early Evangelical): "the offertory, secret, *canon minor* and *maior* are
+  necessarily left out" (Sehling 4, p. 32).
 
-**Nürnberg, *Deutsche Messe* of Prior Volprecht, 1524** (Sehling 11, p. 39):
+**Nürnberg, *Deutsche Messe* of Prior Volprecht, 1524** (Early Evangelical; Sehling 11, p. 39):
 
 <!-- doc 247 -->
 
@@ -12530,7 +12676,7 @@ because Christ was once offered for our sins.
 
 **The Latin offertory kept.** A few orders kept the **Latin offertory chant** as a text from
 Scripture, sung by the choir while the bread and wine were prepared:
-- **Wittenberg 1525** lists it among the parts sung ([§4.3.1](#s4-3-1)).
+- **Wittenberg 1525** (Early Evangelical) lists it among the parts sung ([§4.3.1](#s4-3-1)).
 - **Brandenburg 1540** has "the offertory of the Sunday or feast" after the sermon, "but in the
   villages one may sing a German psalm for it" (Sehling 3, p. 71).
 - **Amberg 1550**: "Choir: Offertory of the season" (Sehling 13, p. 286).
@@ -12545,10 +12691,10 @@ As soon as the sermon hath its end, the schoolmaster shall sing the Latin offert
 noted in the same Mass (for they are all taken out of holy scripture), or else a Latin
 responsory […]
 
-**German offertories.** Müntzer (Radical Reformation) and the Erfurt *Kirchenamt* translate the
-offertory into German. Erfurt has an offertory for Easter ("The earth trembled and was still, when God arose to judgement. Alleluia", *Terra tremuit* [The earth trembled]) and for Pentecost (*Confirma hoc,
-Deus*). In the Trinity office it has "a psalm or else a spiritual hymn of praise" "for the
-offertory" (Sehling 2, pp. 376–378).
+**German offertories.** Müntzer (Radical Reformation) and the Erfurt *Kirchenamt* (1525, Early
+Evangelical) translate the offertory into German. Erfurt has an offertory for Easter ("The earth trembled and was still, when God arose to judgement. Alleluia", *Terra tremuit* [The earth trembled]) and for
+Pentecost (*Confirma hoc, Deus*). In the Trinity office it has "a psalm or else a spiritual hymn
+of praise" "for the offertory" (Sehling 2, pp. 376–378).
 
 #### <a id="s4-7-3"></a>4.7.3 A German psalm, or the Creed, in its place
 
@@ -12581,7 +12727,8 @@ rank in [Chapter 12](#ch12), [§12.10.3](#s12-10-3).
 **Luther, 1523.** The *Formula missae* (Form of the Mass) keeps the dialogue and the common Preface but **cuts it
 off at *per Christum Dominum nostrum*** and joins the Words of Institution to it. The Words are
 sung "in the same tone of voice" as the Preface. Volprecht and the Nürnberg parish Mass of 1524
-follow (see [Chapter 7](#ch7), [§7.3.2](#s7-3-2), [§7.7.1](#s7-7-1)). The Nürnberg Mass marks the cut with the rubric "Here the preface ends" (Sehling 11, p. 47).
+(both Early Evangelical) follow (see [Chapter 7](#ch7), [§7.3.2](#s7-3-2), [§7.7.1](#s7-7-1)). The Nürnberg Mass marks the cut
+with the rubric "Here the preface ends" (Sehling 11, p. 47).
 
 **Luther, 1526.** The *Deutsche Messe* (German Mass) drops the Preface and puts a paraphrase of the Our Father
 and an exhortation in its place. Orders that followed the *Deutsche Messe* closely did the same:
@@ -12791,16 +12938,17 @@ VI. Then let him communicate both himself and the people; meanwhile let the Agnu
 […] VII. If it please to sing the communion, let it be sung.
 
 **Orders that kept the Latin communio.**
-- **Volprecht** (1524): "the communion of whatever Mass is being said" (Sehling 11, p. 39).
+- **Volprecht** (1524, Early Evangelical): "the communion of whatever Mass is being said" (Sehling 11, p. 39).
 - **The Ansbach visitation order of 1536**: "where there are Latin schools", "the introit,
   Kyrie, Gloria, *Et in terra*, *Patrem*, Sanctus, Agnus Dei **and communion** in Latin"
   (Sehling 11, p. 326).
 - **Brandenburg 1540**: "the Latin preface, the Sanctus, the communion, and further the
   conclusion" (Sehling 3, p. 71).
 
-**German communio.** Müntzer (Radical Reformation) and the Erfurt *Kirchenamt* have a German
-communio for each office. For Easter it is "Our Easter lamb Christ is offered for us. Alleluia" (*Pascha nostrum*). For Christmas it is "All the ends of the earth have seen the Saviour of our God" (*Viderunt omnes*) (Sehling 2, pp. 376, 379). In the Advent office "a
-psalm or other spiritual hymn of praise" is sung "for the communion" (Sehling 2, p. 379).
+**German communio.** Müntzer (Radical Reformation) and the Erfurt *Kirchenamt* (1525, Early
+Evangelical) have a German communio for each office. For Easter it is "Our Easter lamb Christ is offered for us. Alleluia" (*Pascha nostrum*). For Christmas it is "All the ends of the earth have seen the Saviour of our God" (*Viderunt omnes*) (Sehling 2, pp. 376, 379). In the
+Advent office "a psalm or other spiritual hymn of praise" is sung "for the communion" (Sehling
+2, p. 379).
 
 **Replaced by hymns.** Elsewhere the slot was filled by the **communion hymns** and the **Agnus
 Dei**, often several in turn "according as the communicants be many or few". These are treated
@@ -12979,11 +13127,11 @@ by side in the same order.
 |---|---|---|---|---|---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1 | L (Sunday and festal, from Scripture) | L | L (two verses); alleluia always | — | Common, cut at *per Christum* (through Christ) | L "if one will" | Plainchant |
 | Müntzer, Allstedt, 1524 (Radical Reformation) | 1 | G (whole psalm) | G, whole chapters | G | G | G (Advent, Christmas, Passion, Easter, Pentecost) | G | Notated; "customary singing in own tongue" |
-| Nürnberg parish Mass, 1524 | 11 | L | G, chapters in sequence | L | — | Common, cut | ? | Plainchant |
-| Volprecht, Nürnberg, 1524 | 11 | L | ? | L | — ("never said") | Common, cut | L (*de quo sit missa*, of whatever Mass is said) | — |
-| Wittenberg report, 1525 | 1 | L | L | L (no sequence) | L | L | ? | — |
-| Erfurt *Deutsches Kirchenamt*, 1525 | 2 | G | G | G | G (Easter, Pentecost); H (Trinity) | G (Müntzer's, plus Trinity) | G; H (Advent) | Notated |
-| Strasbourg *Teutsche Meß*, 1524 (Moderate Reformed) | 20/1 | ? | G | ? | ? | G (Christmas, Epiphany, Easter, Ascension, Pentecost; Cross in Schwarz) | ? | — |
+| Nürnberg parish Mass, 1524 (Early Evangelical) | 11 | L | G, chapters in sequence | L | — | Common, cut | ? | Plainchant |
+| Volprecht, Nürnberg, 1524 (Early Evangelical) | 11 | L | ? | L | — ("never said") | Common, cut | L (*de quo sit missa*, of whatever Mass is said) | — |
+| Wittenberg report, 1525 (Early Evangelical) | 1 | L | L | L (no sequence) | L | L | ? | — |
+| Erfurt *Deutsches Kirchenamt*, 1525 (Early Evangelical) | 2 | G | G | G | G (Easter, Pentecost); H (Trinity) | G (Müntzer's, plus Trinity) | G; H (Advent) | Notated |
+| Strasbourg *Teutsche Meß*, 1524 (Early Evangelical) | 20/1 | ? | G | ? | ? | G (Christmas, Epiphany, Easter, Ascension, Pentecost; Cross in Schwarz) | ? | — |
 | Luther, *Deutsche Messe*, 1526 | 1 | H | G (8th and 5th tones) | H | — | — | H | New tones |
 | Nürnberg report for Goslar, 1528 | 7/2.2 | L | G (levites) | gradual "in a tone made for it" | — | Common, cut | ? | New tone |
 | Hamburg, 1529 | 5 | ? | ? | ? | ? | L on feasts; Trinity on Sundays | ? | Prophecy cadence written out |
@@ -13039,7 +13187,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Luther, *Formula missae et communionis*, 1523 | 1, pp. 4–6 | 2 | [4.3.1](#s4-3-1), [4.4.1](#s4-4-1), [4.6.1](#s4-6-1), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.A.1](#s4-a-1) |
 | Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524 (Radical Reformation) | 1, pp. 500–504 | 51, 52 | [4.3.2](#s4-3-2), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10) |
 | Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 (Radical Reformation) | 1, pp. 504–505 | 52 | [4.3.2](#s4-3-2), [4.5.2](#s4-5-2) |
-| Wittenberg, *Wie es einer zeit mit den ceremonien der messe gehalten*, 1525 | 1, p. 698 | 147 | [4.3.1](#s4-3-1), [4.7.2](#s4-7-2) |
+| Wittenberg, *Wie es einer zeit mit den ceremonien der messe gehalten*, 1525 (Early Evangelical) | 1, p. 698 | 147 | [4.3.1](#s4-3-1), [4.7.2](#s4-7-2) |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, p. 14 | 3 | [4.3.3](#s4-3-3), [4.5.3](#s4-5-3) |
 | Wittenberg, *Kirchen-Ordnung für die Stadt Wittenberg*, 1533 | 1, pp. 703–705 | 148 | [4.5.1](#s4-5-1), [4.8.2](#s4-8-2), [4.9.2](#s4-9-2) |
 | Albertine Saxony, *Kirchenordnunge zum anfang* (Duke Henry's *Agende*), 1539 | 1, pp. 89 (editor), 271 | 7, 30 | [4.3.3](#s4-3-3), [4.4.2](#s4-4-2), [4.8.1](#s4-8-1), [4.8.4](#s4-8-4) |
@@ -13049,7 +13197,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Gottleuba, *Verzeichnus der kirchenordnung*, 1567–1577 | 1, p. 567 | 87 | [4.10.4](#s4-10-4) |
 | Penig, *Kirchenordnung*, 1575 | 1, p. 634 | 116 | [4.10.4](#s4-10-4) |
 | Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, p. 368 | 44 | [4.4.2](#s4-4-2) |
-| Erfurt, *Deutsches Kirchenamt*, 1525 | 2, pp. 376–380 | 1251 | [4.3.2](#s4-3-2), [4.4.4](#s4-4-4), [4.6.3](#s4-6-3), [4.7.2](#s4-7-2), [4.9.1](#s4-9-1), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10) |
+| Erfurt, *Deutsches Kirchenamt*, 1525 (Early Evangelical) | 2, pp. 376–380 | 1251 | [4.3.2](#s4-3-2), [4.4.4](#s4-4-4), [4.6.3](#s4-6-3), [4.7.2](#s4-7-2), [4.9.1](#s4-9-1), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10) |
 | Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1527, 1537/1538 | 2, pp. 60, 71 | 1218, 1219 | [4.7.3](#s4-7-3), [4.10.4](#s4-10-4) |
 | Merseburg, ordination Mass, 1545 | 2, p. 7 | 1210 | [4.4.5](#s4-4-5) |
 | Halle, *Kirchen-Ordnung der christlichen Gemein zu Halle*, 1543 | 2, p. 436 | 1257 | [4.5.3](#s4-5-3), [4.8.3](#s4-8-3), [4.10.3](#s4-10-3) |
@@ -13066,7 +13214,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Brandenburg, *Visitations- und Consistorialordnung*, 1573 | 3, p. 129 | 1748 | [4.5.3](#s4-5-3), [4.10.1](#s4-10-1) |
 | Brieg, *Kirchenordnung*, 1592 | 3, p. 445 | 1809 | [4.5.3](#s4-5-3) |
 | Teschen, *Kirchenordnung*, 1584 | 3, p. 462 | 1815 | [4.4.1](#s4-4-1) |
-| Prussia, *Artikel der ceremonien*, 1525 | 4, p. 32 | 1832 | [4.7.1](#s4-7-1) |
+| Prussia, *Artikel der ceremonien*, 1525 (Early Evangelical) | 4, p. 32 | 1832 | [4.7.1](#s4-7-1) |
 | Prussia, *Kirchenordnung*, 1544; *Kirchenordnung und ceremonien*, 1568 | 4, pp. 65, 81 | 1833 | [4.8.1](#s4-8-1), [4.8.4](#s4-8-4) |
 | Pomerania, *Kirchenordnung*, 1535; *Pia ordinatio caeremoniarum*, 1535 | 4, pp. 341, 349 | 1856, 1857 | [4.5.1](#s4-5-1), [4.5.2](#s4-5-2), [4.5.3](#s4-5-3), [4.8.1](#s4-8-1) |
 | Pomerania, *Kirchenordnung*, 1542 | 4, pp. 357, 370 | 1859 | [4.8.1](#s4-8-1), [4.A](#s4-a) |
@@ -13114,8 +13262,8 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Nürnberg, *Deutsche Messe* of Prior Volprecht, 1524 | 11, p. 39 | 247 | [4.7.1](#s4-7-1), [4.9.1](#s4-9-1) |
-| Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 | 11, pp. 46–47 | 249 | [4.5.2](#s4-5-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1) |
+| Nürnberg, *Deutsche Messe* of Prior Volprecht, 1524 (Early Evangelical) | 11, p. 39 | 247 | [4.7.1](#s4-7-1), [4.9.1](#s4-9-1) |
+| Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 (Early Evangelical) | 11, pp. 46–47 | 249 | [4.5.2](#s4-5-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1) |
 | Weißenburg, *Kirchenordnung*, 1528 | 11, p. 659 | 308 | [4.4.1](#s4-4-1), [4.6.2](#s4-6-2) |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, pp. 188, 195 | 270 | [4.4.1](#s4-4-1), [4.4.2](#s4-4-2), [4.6.2](#s4-6-2) |
 | Brandenburg-Ansbach, *Kirchenvisitation*, 1536 | 11, p. 326 | 277 | [4.9.1](#s4-9-1) |
@@ -13139,7 +13287,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Strasbourg, Mass of Diebold Schwarz, and *Teutsche Meß und Tauff*, 1524 (Moderate Reformed) | 20/1, pp. 121, 133–135 | 1279 | [4.3.2](#s4-3-2), [4.8.1](#s4-8-1), [4.A.2](#s4-a-2), [4.A.3](#s4-a-3), [4.A.5](#s4-a-5)–[4.A.8](#s4-a-8) |
+| Strasbourg, Mass of Diebold Schwarz, and *Teutsche Meß und Tauff*, 1524 (Early Evangelical) | 20/1, pp. 121, 133–135 | 1279 | [4.3.2](#s4-3-2), [4.8.1](#s4-8-1), [4.A.2](#s4-a-2), [4.A.3](#s4-a-3), [4.A.5](#s4-a-5)–[4.A.8](#s4-a-8) |
 
 ---
 
@@ -13187,8 +13335,8 @@ Their texts are not in the corpus. Where their headings are given, they match th
 set.
 
 **Already in [Chapter 7](#ch7).** The *common* Preface in German is also rendered in
-[Chapter 7](#ch7), for Kantz, Worms (Moderate Reformed),
-Volprecht, Döber and Bremen. Those renderings are not repeated here.
+[Chapter 7](#ch7), for Kantz, Worms, Volprecht, Döber
+and Bremen (all Early Evangelical). Those renderings are not repeated here.
 
 #### <a id="s4-a-1"></a>4.A.1 The dialogue and the common Preface (*Quotidiana*, *Praefatio communis*)
 
@@ -13206,8 +13354,8 @@ Osnabrück 1618 and Lippe 1571. This is the only sanctoral use of a Latin Prefac
 - Osnabrück (1588) 1618, "In die Michaelis" (7/1, pp. 268–269);
 - Lippe 1571, "In die Michaelis" (21, p. 411).
 
-Luther's *Formula missae* (1523) and the Nürnberg parish Mass of 1524 keep only the opening, cut
-off at *per Christum Dominum nostrum* (through Christ our Lord; [§4.8.1](#s4-8-1)).
+Luther's *Formula missae* (1523) and the Nürnberg parish Mass of 1524 (Early Evangelical) keep
+only the opening, cut off at *per Christum Dominum nostrum* (through Christ our Lord; [§4.8.1](#s4-8-1)).
 
 **Wolfenbüttel, *Kirchenordnung* of Duke Julius, 1569, "Quotidiana"** (Sehling 6/1, p. 180):
 
@@ -13259,8 +13407,9 @@ thy glory, evermore saying:
 
 **German (1): Müntzer's translation** (Radical Reformation). Müntzer's *Deutsch evangelisch
 Messe* (1524) has this translation. So do the Erfurt *Deutsches Kirchenamt*
-(1525; Sehling 2, p. 379), Calenberg-Göttingen (1542; 6/2, p. 821) and Lippe 1571, "in the villages at Christmas" (21, p. 410). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*,
-1524, Christmas office** (Radical Reformation; Sehling 1, pp. 501–502):
+(1525, Early Evangelical; Sehling 2, p. 379), Calenberg-Göttingen (1542; 6/2, p. 821) and Lippe
+1571, "in the villages at Christmas" (21, p. 410). **Allstedt, Thomas Müntzer, *Deutsch
+evangelisch Messe*, 1524, Christmas office** (Radical Reformation; Sehling 1, pp. 501–502):
 
 <!-- doc 51 -->
 
@@ -13276,8 +13425,8 @@ Messe* (1524) has this translation. So do the Erfurt *Deutsches Kirchenamt*
   vernacular hymn ending *Kyrieleis*.
 - **Lippe 1571** substitutes "a song of praise of thy glory" for "a *Leise*".
 
-**German (2): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
-"Some Prefaces"** (Moderate Reformed; Sehling 20/1, p. 133):
+**German (2): Strasbourg** (Early Evangelical). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Some Prefaces"** (Early Evangelical; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 
@@ -13320,7 +13469,7 @@ host, we sing the hymn of thy glory, evermore saying:
 
 *Note.* The Lower Saxon orders print *qui cum* (who, when) where the Missal has *quia cum* (for when).
 
-**German: Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Another Preface"** (Moderate Reformed; Sehling 20/1, p. 133):
+**German: Strasbourg** (Early Evangelical). **Strasbourg, *Teutsche Meß und Tauff*, 1524, "Another Preface"** (Early Evangelical; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 
@@ -13351,18 +13500,18 @@ the common Preface.
 
 #### <a id="s4-a-5"></a>4.A.5 Passiontide and the Holy Cross (*Qui salutem humani generis in ligno crucis*)
 
-**Witnesses:** Müntzer 1524 (Radical Reformation; 1, p. 502), Erfurt 1525 (2, p. 380),
-Calenberg-Göttingen 1542 (6/2, p. 826), Strasbourg 1524 (Moderate Reformed; 20/1, p. 121) and
-Dortmund 1554 (21, p. 210).
+**Witnesses:** Müntzer 1524 (Radical Reformation; 1, p. 502), Erfurt 1525 (Early Evangelical; 2,
+p. 380), Calenberg-Göttingen 1542 (6/2, p. 826), Strasbourg 1524 (Early Evangelical; 20/1,
+p. 121) and Dortmund 1554 (21, p. 210).
 - Müntzer, Erfurt and Calenberg use it in the Mass "of the suffering of Christ".
 - Strasbourg puts it in its ordinary Sunday Mass.
 - Dortmund uses it "of the Cross and Passion of Christ".
 
 No Latin text of this Preface is printed in the corpus. The German renders the Missal's "Who didst set the salvation of mankind upon the tree of the cross, that whence death arose, thence life might rise again, and that he who overcame by the tree might also by the tree be overcome".
 
-**German (1): Müntzer** (Radical Reformation). Müntzer's translation is also in Erfurt and
-Calenberg. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, office of the
-Passion** (Radical Reformation; Sehling 1, p. 502):
+**German (1): Müntzer** (Radical Reformation). Müntzer's translation is also in Erfurt (1525,
+Early Evangelical) and Calenberg. **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524,
+office of the Passion** (Radical Reformation; Sehling 1, p. 502):
 
 <!-- doc 51 -->
 
@@ -13375,9 +13524,9 @@ Lord, through whom the Angels praise thy glory, etc.
 Erfurt and Calenberg follow him. Calenberg completes the ending with the full German common
 Preface, "through whom the angels praise … saying without end".
 
-**German (2): Strasbourg, Schwarz** (Moderate Reformed). Diebold Schwarz's Strasbourg Mass
+**German (2): Strasbourg, Schwarz** (Early Evangelical). Diebold Schwarz's Strasbourg Mass
 expands that last clause with a reference to Adam and to the obedience shown on the tree.
-**Strasbourg, Mass of Diebold Schwarz, 1524** (Moderate Reformed; Sehling 20/1, p. 121):
+**Strasbourg, Mass of Diebold Schwarz, 1524** (Early Evangelical; Sehling 20/1, p. 121):
 
 <!-- doc 1279 -->
 
@@ -13433,9 +13582,10 @@ Dominions, and with all the company of the heavenly host, we sing the hymn of th
 evermore saying:
 
 **German (1): Müntzer** (Radical Reformation). This translation is in Müntzer 1524 and Erfurt
-1525 (2, p. 376). It is also in Calenberg-Göttingen 1542 (6/2, p. 829) and Lippe 1571, "in the villages" (21, p. 410). The Low German Mass from Kiel has it too
-(Sehling 23, p. 56; rendered in [Chapter 7](#ch7), [§7.11.2](#s7-11-2)). **Allstedt, Thomas Müntzer, *Deutsch
-evangelisch Messe*, 1524, office of the Resurrection** (Radical Reformation; Sehling 1, p. 503):
+1525 (Early Evangelical; 2, p. 376). It is also in Calenberg-Göttingen 1542 (6/2, p. 829) and
+Lippe 1571, "in the villages" (21, p. 410). The Low German Mass from Kiel has it too (Sehling
+23, p. 56; rendered in [Chapter 7](#ch7), [§7.11.2](#s7-11-2)). **Allstedt, Thomas Müntzer, *Deutsch evangelisch
+Messe*, 1524, office of the Resurrection** (Radical Reformation; Sehling 1, p. 503):
 
 <!-- doc 51 -->
 
@@ -13461,8 +13611,8 @@ Kirchenordnung*, 1570, "For Easter"** (Sehling 5, p. 90):
 "sacrificed for us", and it says that Christ by his death "overcame death" instead of "destroyed
 our death".
 
-**German (3): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
-"Another Preface"** (Moderate Reformed; Sehling 20/1, p. 133):
+**German (3): Strasbourg** (Early Evangelical). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Another Preface"** (Early Evangelical; Sehling 20/1, p. 133):
 
 <!-- doc 1279 -->
 
@@ -13519,8 +13669,8 @@ all his disciples, and in their sight was lifted up into heaven, that he might g
 partakers of his Godhead. And therefore with Angels and Archangels, with Thrones and Dominions,
 and with all the company of the heavenly host, we sing the hymn of thy glory, evermore saying:
 
-**German (1): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
-"Another Preface"** (Moderate Reformed; Sehling 20/1, p. 134):
+**German (1): Strasbourg** (Early Evangelical). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Another Preface"** (Early Evangelical; Sehling 20/1, p. 134):
 
 <!-- doc 1279 -->
 
@@ -13577,11 +13727,10 @@ children of adoption. Wherefore with overflowing joy the whole world throughout 
 doth exult; and the Virtues on high and the angelic Powers also [with them] we sing the hymn of
 thy glory, evermore saying:
 
-**German (1): Müntzer** (Radical Reformation). Müntzer's translation is also in Erfurt 1525 (2,
-p. 377), Calenberg-Göttingen 1542 (6/2, p. 833) and Lippe 1571, "in the villages" (21, p.
-411). In Sehling's edition Müntzer's Pentecost office is printed at the head of the following
-document (*eko.db* doc 52). **Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524,
-office of the Holy Ghost** (Radical Reformation; Sehling 1, p. 504):
+**German (1): Müntzer** (Radical Reformation). Müntzer's translation is also in Erfurt 1525
+(Early Evangelical; 2, p. 377), Calenberg-Göttingen 1542 (6/2, p. 833) and Lippe 1571, "in the villages" (21, p. 411). In Sehling's edition Müntzer's Pentecost office is printed at the head
+of the following document (*eko.db* doc 52). **Allstedt, Thomas Müntzer, *Deutsch evangelisch
+Messe*, 1524, office of the Holy Ghost** (Radical Reformation; Sehling 1, p. 504):
 
 <!-- doc 52 -->
 
@@ -13593,8 +13742,8 @@ office of the Holy Ghost** (Radical Reformation; Sehling 1, p. 504):
 - ***Supernae virtutes atque angelicae potestates*** becomes "all the heavenly host", who "sing
   a *Leise*".
 
-**German (2): Strasbourg** (Moderate Reformed). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
-"Another Preface"** (Moderate Reformed; Sehling 20/1, p. 134):
+**German (2): Strasbourg** (Early Evangelical). **Strasbourg, *Teutsche Meß und Tauff*, 1524,
+"Another Preface"** (Early Evangelical; Sehling 20/1, p. 134):
 
 <!-- doc 1279 -->
 
@@ -13683,9 +13832,9 @@ Which the Angels praise, etc., as in the common Preface.
 **Witnesses:**
 - **Dortmund 1554:** the Marian Preface itself, for the Purification, Annunciation, Visitation,
   Assumption and Nativity of Mary.
-- **Müntzer 1524 (Advent; Radical Reformation), Erfurt 1525 (Trinity, also used in Advent) and
-  Calenberg-Göttingen 1542 (Advent):** a reworded form, which turns the praise of Mary's feast
-  into thanksgiving for the Incarnation.
+- **Müntzer 1524 (Advent; Radical Reformation), Erfurt 1525 (Early Evangelical; Trinity, also
+  used in Advent) and Calenberg-Göttingen 1542 (Advent):** a reworded form, which turns the
+  praise of Mary's feast into thanksgiving for the Incarnation.
 
 No Latin text is printed in the corpus. The German renders the Missal's "And to praise, bless and proclaim thee on the [feast] of the blessed Mary ever Virgin; who conceived thine only-begotten Son by the overshadowing of the Holy Ghost, and, the glory of her virginity remaining, shed forth upon the world the eternal light, Jesus Christ our Lord."
 
@@ -13708,8 +13857,9 @@ Christ our Lord; through whom, etc., in the common Preface.
 - *Effudit* ("poured forth") becomes "brought forth".
 
 **German (2): Müntzer's rewording for Advent** (Radical Reformation). Müntzer's form is also in
-Erfurt 1525 (2, p. 378) and Calenberg-Göttingen 1542 (6/2, p. 818). **Allstedt, Thomas Müntzer,
-*Deutsch evangelisch Messe*, 1524, office of Advent** (Radical Reformation; Sehling 1, p. 500):
+Erfurt 1525 (Early Evangelical; 2, p. 378) and Calenberg-Göttingen 1542 (6/2, p. 818).
+**Allstedt, Thomas Müntzer, *Deutsch evangelisch Messe*, 1524, office of Advent** (Radical
+Reformation; Sehling 1, p. 500):
 
 <!-- doc 51 -->
 
@@ -13731,9 +13881,9 @@ saying:
   Incarnation, fit for Advent.
 - **The common ending is translated**, with *dominationes* as "the angels in whom thou
   reignest".
-- **Erfurt 1525** prints the same text in its Trinity office. Its Advent office takes the whole
-  Preface from there, and its Passion office takes "the beginning together with the conclusion"
-  (Sehling 2, pp. 379–380).
+- **Erfurt 1525** (Early Evangelical) prints the same text in its Trinity office. Its Advent
+  office takes the whole Preface from there, and its Passion office takes "the beginning
+  together with the conclusion" (Sehling 2, pp. 379–380).
 
 #### <a id="s4-a-11"></a>4.A.11 The Apostles (*Et te, Domine, suppliciter exorare*)
 
@@ -13835,16 +13985,16 @@ heavenly hosts we sing a song of praise of thy glory, without end saying:
 
 | Preface | Latin in the corpus | German or Low German in the corpus |
 |---|---|---|
-| Common (*Quotidiana*) | Lüneburg 1564, Wolfenbüttel 1569, Verden 1606; for Michaelmas: Hoya 1581, Osnabrück 1618, Lippe 1571; cut short: Luther 1523, Nürnberg 1524 | Dortmund 1554; Kantz, Worms (Moderate Reformed), Volprecht, Döber, Bremen (see [Chapter 7](#ch7)) |
-| Christmas | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer 1524 (Radical Reformation), Erfurt 1525, Calenberg 1542, Lippe 1571; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Kurland 1570 (new text, [§4.A.14](#s4-a-14)) |
-| Epiphany | Lüneburg, Wolfenbüttel, Verden | Strasbourg 1524 (Moderate Reformed); Dortmund 1554 |
+| Common (*Quotidiana*) | Lüneburg 1564, Wolfenbüttel 1569, Verden 1606; for Michaelmas: Hoya 1581, Osnabrück 1618, Lippe 1571; cut short: Luther 1523, Nürnberg 1524 (Early Evangelical) | Dortmund 1554; Kantz, Worms, Volprecht, Döber and Bremen (all Early Evangelical; see [Chapter 7](#ch7)) |
+| Christmas | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer 1524 (Radical Reformation), Erfurt 1525 (Early Evangelical), Calenberg 1542, Lippe 1571; Strasbourg 1524 (Early Evangelical); Dortmund 1554; Kurland 1570 (new text, [§4.A.14](#s4-a-14)) |
+| Epiphany | Lüneburg, Wolfenbüttel, Verden | Strasbourg 1524 (Early Evangelical); Dortmund 1554 |
 | Lent | — | Dortmund 1554 |
-| Passion and Cross | — | Müntzer (Radical Reformation), Erfurt, Calenberg; Strasbourg (Schwarz) 1524 (Moderate Reformed); Dortmund 1554; Grubenhagen 1581 (new Isaiah 53 text, [§4.A.12](#s4-a-12)) |
-| Easter | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571, Kiel; Kurland 1570; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Calenberg's Sunday form |
-| Ascension | Lüneburg, Wolfenbüttel, Hoya, Verden | Strasbourg 1524 (Moderate Reformed); Calenberg 1542; Dortmund 1554 |
-| Pentecost | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt, Calenberg, Lippe 1571; Strasbourg 1524 (Moderate Reformed); Dortmund 1554; Kurland 1570 ([§4.A.15](#s4-a-15)) |
+| Passion and Cross | — | Müntzer (Radical Reformation), Erfurt (1525, Early Evangelical), Calenberg; Strasbourg (Schwarz) 1524 (Early Evangelical); Dortmund 1554; Grubenhagen 1581 (new Isaiah 53 text, [§4.A.12](#s4-a-12)) |
+| Easter | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt (1525, Early Evangelical), Calenberg, Lippe 1571, Kiel; Kurland 1570; Strasbourg 1524 (Early Evangelical); Dortmund 1554; Calenberg's Sunday form |
+| Ascension | Lüneburg, Wolfenbüttel, Hoya, Verden | Strasbourg 1524 (Early Evangelical); Calenberg 1542; Dortmund 1554 |
+| Pentecost | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden, Osnabrück, Lippe 1571 | Müntzer (Radical Reformation), Erfurt (1525, Early Evangelical), Calenberg, Lippe 1571; Strasbourg 1524 (Early Evangelical); Dortmund 1554; Kurland 1570 ([§4.A.15](#s4-a-15)) |
 | Trinity | Lüneburg, Wolfenbüttel, Grubenhagen, Hoya, Verden | Lippe 1525; Dortmund 1554 |
-| Blessed Virgin | — | Dortmund 1554; Müntzer (Radical Reformation), Erfurt, Calenberg (reworded for Advent and Trinity) |
+| Blessed Virgin | — | Dortmund 1554; Müntzer (Radical Reformation), Erfurt (1525, Early Evangelical), Calenberg (reworded for Advent and Trinity) |
 | Apostles | — | Dortmund 1554 |
 | Michaelmas (new German text) | (common Preface) | Lippe 1571 ([§4.A.13](#s4-a-13)) |
 
@@ -13911,11 +14061,11 @@ it, among them versions of the old Missal prayers.
   (*Excita*, *Concede … nova per carnem nativitas* [Grant … that the new birth in the flesh], *Deus qui hodierna die corda fidelium* [O God, who on this day didst teach the hearts of the faithful]),
   mostly by way of the Wittenberg hymnbook of 1533 and the translations of Michael Coelius.
 - **Reduced to one, with exceptions.** Luther's rule of one collect was common (Volprecht 1524,
-  Mecklenburg 1545). But a **second collect for need** survived: Mecklenburg allows it, and
-  Ansbach 1548 requires two, the first for spiritual and the second for temporal things. Hof
-  1592 has the votive "for rain and fair weather". The collect for peace after *Verleih uns
-  Frieden* (Grant Peace, We Pray, in Mercy, Lord; *Deus, a quo sancta desideria*) became the standing second collect at the end of the
-  service.
+  Early Evangelical; Mecklenburg 1545). But a **second collect for need** survived: Mecklenburg
+  allows it, and Ansbach 1548 requires two, the first for spiritual and the second for temporal
+  things. Hof 1592 has the votive "for rain and fair weather". The collect for peace after
+  *Verleih uns Frieden* (Grant Peace, We Pray, in Mercy, Lord; *Deus, a quo sancta desideria*) became the standing second collect at
+  the end of the service.
 - **Purged.** Collects asking the intercession of the saints went (Hannover 1536). The rest were
   kept "if pure" (Amberg 1550, Henneberg 1582).
 - **Added.** Veit Dietrich's **gospel collects** (from 1546) were written on the day's gospel
@@ -13926,26 +14076,26 @@ it, among them versions of the old Missal prayers.
 
 **3. The secret: abolished** ([§5.5](#s5-5)).
 - **No secret in any order.** No order keeps a secret, and the corpus has no German version of
-  one. It fell with the offertory: Prussia 1525 lists "offertory, secret, *canon minor* and
-  *maior*" among the things "of necessity left out".
+  one. It fell with the offertory: Prussia 1525 (Early Evangelical) lists "offertory, secret,
+  *canon minor* and *maior*" among the things "of necessity left out".
 - **Remnants.** What remains is:
   - the secret's sung ending *Per omnia saecula saeculorum. Amen* (World without end. Amen) before the Preface (Müntzer
     (Radical Reformation), Lippe, Calenberg-Göttingen);
   - its name and place in Dortmund 1554, where the priest makes "an open prayer for all
     magistrates, estates and needs of the whole Christendom" instead;
-  - collects for the Church and rulers said aloud under the Sanctus (Döber 1525, Brandenburg
-    1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543).
+  - collects for the Church and rulers said aloud under the Sanctus (Döber 1525, Early
+    Evangelical; Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543).
 
 **4. The postcommunion: an ordinary prayer, but never only one** ([§5.6](#s5-6)).
 - **Luther's 1523 prayers.** They were kept in Latin as the priest's devotion (Brandenburg 1540,
-  Pfalz-Neuburg 1543) and put into German as the *Complenda* (Strasbourg 1524, Moderate
-  Reformed).
+  Pfalz-Neuburg 1543) and put into German as the *Complenda* (Strasbourg 1524, Early
+  Evangelical).
 - **Proper postcommunions kept for a time.** Some orders kept the proper postcommunions of the
   Missal:
-  - the Nürnberg parish Mass and Volprecht (1524), and Coburg 1524;
+  - the Nürnberg parish Mass and Volprecht (1524), and Coburg 1524, all Early Evangelical;
     - Müntzer (1524, Radical Reformation), with German versions of the Easter postcommunion
       *Spiritum nobis … tuae caritatis infunde* (Pour into us … the Spirit of thy love) and the Pentecost *Sancti Spiritus … infusio* (May the infusion of the Holy Spirit …);
-  - Erfurt (1525), which adds the Trinity *Proficiat* (May [the receiving] profit);
+  - Erfurt (1525, Early Evangelical), which adds the Trinity *Proficiat* (May [the receiving] profit);
   - **Calenberg-Göttingen 1542**, which prints, for each feast, Luther's thanksgiving followed
     by a proper postcommunion from the Missal (Advent *Suscipiamus*, Easter, Pentecost). This is
     the last order in the corpus to do so.
@@ -13959,7 +14109,7 @@ it, among them versions of the old Missal prayers.
     ("Ah thou dear Lord God, who in this wonderful sacrament …"): Mecklenburg
     1545, Buxtehude 1565, Oldenburg 1573, Saxony and Mansfeld 1580, Grubenhagen 1581, Nördlingen
     1579;
-  - **Döber's prayer** of 1525, taken up by Mecklenburg;
+  - **Döber's prayer** of 1525 (Early Evangelical), taken up by Mecklenburg;
   - Prussia 1544's second collect, sung on alternate Sundays.
 - **Without communicants.** Where no one communicated, a free collect, or a "thanksgiving for
   the word of God heard" (Lippe 1571), took the postcommunion's place.
@@ -14173,16 +14323,16 @@ postcommunion ([§5.6.3](#s5-6-3)).
 Masses follow it:
 - **Volprecht's Mass, 1524**, lists the parts of the Mass with what is "always said" and "never
   said". Of the collect it says: "only one is said". **Nürnberg, *Deutsche Messe des Priors
-  Volprecht*, 1524** (Sehling 11, p. 39):
+  Volprecht*, 1524** (Early Evangelical; Sehling 11, p. 39):
 
 <!-- doc 247 -->
 
 Gloria in excelsis Deo is always said. Collect: one only is said. Epistle, gradual, verse,
 Alleluia, verse.
 
-- **The Nürnberg parish churches, 1524**: "the celebrant sings the Sunday prayer, *Sancti tui
-  nominis* etc." (Sehling 11, p. 46). Sehling's note explains: "the prayer falling on the Sunday
-  in question (the collect)".
+- **The Nürnberg parish churches, 1524** (Early Evangelical): "the celebrant sings the Sunday
+  prayer, *Sancti tui nominis* etc." (Sehling 11, p. 46). Sehling's note explains: "the prayer
+  falling on the Sunday in question (the collect)".
 
 **The memorial collect survives as a prayer "for need".** Mecklenburg 1545 keeps Luther's rule
 but leaves room for a second collect in time of need. It also forbids reading the same collect
@@ -14425,12 +14575,13 @@ collect is the *Deutsche Messe* collect "O almighty God, who art a protector of 
 **No order keeps the secret as a prayer over the gifts.** The secret was the offertory's own
 prayer: it asked God to receive the gifts offered. Luther's rejection of the offertory ([§5.3.2](#s5-3-2))
 took it with it, and the orders that name the secret do so only to say it is left out:
-- **Volprecht, 1524**: "the offertory is never said, because Christ was once offered for our
-  sins" (Sehling 11, p. 39). There is no secret in his list.
-- **The Nürnberg parish Mass, 1524**: after the Creed the celebrant goes straight to *Dominus
-  vobiscum* (The Lord be with you) and *Sursum corda* (Lift up your hearts), "the offertory and the lesser canon being omitted" (Sehling 11, p. 47).
+- **Volprecht, 1524** (Early Evangelical): "the offertory is never said, because Christ was once
+  offered for our sins" (Sehling 11, p. 39). There is no secret in his list.
+- **The Nürnberg parish Mass, 1524** (Early Evangelical): after the Creed the celebrant goes
+  straight to *Dominus vobiscum* (The Lord be with you) and *Sursum corda* (Lift up your hearts), "the offertory and the lesser canon being
+  omitted" (Sehling 11, p. 47).
 - **Prussia 1525** names the secret outright. **Prussia, *Artikel der ceremonien und anderer
-  kirchenordnung*, 1525** (Sehling 4, p. 32):
+  kirchenordnung*, 1525** (Early Evangelical; Sehling 4, p. 32):
 
 <!-- doc 1832 -->
 
@@ -14468,9 +14619,9 @@ the common prayer after the sermon; or else another, according to the occasion o
 **Collects under the Sanctus.** In several orders the space between the offertory and the Verba
 was filled with **collects said aloud** for the Church and the magistrates. They stood under the
 Sanctus, before or after the Verba:
-- **Döber, Nürnberg 1525**: an optional "common prayer, to be said on a holy day when there is
-  much people, after the Preface or before the Sanctus, as one will" (Sehling 11, p. 55). See
-  [Chapter 7](#ch7), [§7.8.11](#s7-8-11).
+- **Döber, Nürnberg 1525** (Early Evangelical): an optional "common prayer, to be said on a holy
+  day when there is much people, after the Preface or before the Sanctus, as one will" (Sehling
+  11, p. 55). See [Chapter 7](#ch7), [§7.8.11](#s7-8-11).
 - **Brandenburg 1540**: four German collects under the Latin Sanctus ([§7.12.2](#s7-12-2) of that chapter).
 - **Calenberg-Göttingen 1542**: "the collect which the priest prayeth under the Sanctus", headed
   "For the magistrates". It is printed in every proper Mass of the order: "There follow the collects which the priest prayeth under the Sanctus: Merciful heavenly Father …"
@@ -14502,10 +14653,10 @@ texts are given in [Chapter 7](#ch7), [§7.12.8](#s7-12-8) and [§7.14.8](#s7-14
 Here they have become the priest's own devotion again, said after the people's thanksgiving,
 which is what they had been in the Roman rite.
 
-**In German.** The Strasbourg Mass of Theobald Schwarz (1524, Moderate Reformed) gives *Quod ore
+**In German.** The Strasbourg Mass of Theobald Schwarz (1524, Early Evangelical) gives *Quod ore
 sumpsimus* (What we have taken with our mouth) in German under the old name *Complenda*. It also allows "any other that seemeth
 Christian". **Strasbourg, the early agendas: Schwarz's German Mass, 1524**
-(Moderate Reformed; Sehling 20/1, p. 123):
+(Early Evangelical; Sehling 20/1, p. 123):
 
 <!-- doc 1279 -->
 
@@ -14514,9 +14665,9 @@ the same with a pure mind; and that from the temporal gift there may be made unt
 everlasting medicine; through Christ Jesus our Lord. Amen. Or some other that seemeth Christian.
 
 The printed *Teutsche Meß* (German Mass) of 1524 has the same text (Sehling 20/1, p. 133). The Strasbourg
-*Ordenung und inhalt Teutscher Mess* (Order and content of the German Mass; also Moderate Reformed) explains the term for the people:
+*Ordenung und inhalt Teutscher Mess* (Order and content of the German Mass; also Early Evangelical) explains the term for the people:
 "Complenda: the conclusion with a common prayer" (Sehling 20/1, p. 135). Volprecht's German Mass
-has a German *Quod ore* (What with our mouth) too ([Chapter 7](#ch7), [§7.7.2](#s7-7-2)).
+(Early Evangelical) has a German *Quod ore* (What with our mouth) too ([Chapter 7](#ch7), [§7.7.2](#s7-7-2)).
 
 #### <a id="s5-6-2"></a>5.6.2 Proper postcommunions kept
 
@@ -14524,20 +14675,21 @@ has a German *Quod ore* (What with our mouth) too ([Chapter 7](#ch7), [§7.7.2](
 either in Latin or in a German version.
 
 **Nürnberg, 1524.** The Latin Mass of the Nürnberg parish churches ends with the day's
-postcommunion. **Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524** (Sehling 11, p. 49):
+postcommunion. **Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524** (Early Evangelical;
+Sehling 11, p. 49):
 
 <!-- doc 249 -->
 
 Finally let the office be concluded with the prayer which they call the complenda.
 
-The Coburg proposal of 1524, which follows the Nürnberg Mass ("the offertory and the lesser
-canon left out"), likewise ends with "the collect which they call the complenda, and the
-Benedicamus with the blessing, as is customary" (Sehling 1, p. 542).
+The Coburg proposal of 1524 (Early Evangelical), which follows the Nürnberg Mass ("the offertory
+and the lesser canon left out"), likewise ends with "the collect which they call the complenda,
+and the Benedicamus with the blessing, as is customary" (Sehling 1, p. 542).
 
-**Volprecht, 1524.** Volprecht's outline of the Latin Mass has "the postcommunion of whatever Mass is being said" (Sehling 11, p. 39). Sehling's note: "namely
-the one falling due in each case". His German Mass for Trinity ends with the Trinity
-postcommunion, *Proficiat nobis ad salutem corporis et animae* (May [the receiving] profit us for the health of body and soul), in German (Sehling 11, p. 42).
-See [Chapter 7](#ch7), [§7.7.2](#s7-7-2).
+**Volprecht, 1524** (Early Evangelical). Volprecht's outline of the Latin Mass has "the postcommunion of whatever Mass is being said" (Sehling 11, p. 39).
+Sehling's note: "namely the one falling due in each case". His German Mass for Trinity ends with
+the Trinity postcommunion, *Proficiat nobis ad salutem corporis et animae* (May [the receiving] profit us for the health of body and soul), in German (Sehling
+11, p. 42). See [Chapter 7](#ch7), [§7.7.2](#s7-7-2).
 
 **Müntzer, 1524** (Radical Reformation). Each of Müntzer's five German Masses ends with a
 "prayer at the end of the office", most of them German versions of the Missal postcommunion. For
@@ -14558,7 +14710,8 @@ The other postcommunions of Müntzer's Masses (Radical Reformation):
 
 **Erfurt, 1525.** The Erfurt *Deutsches Kirchenamt* (German church office) takes over the offices of Müntzer (Radical
 Reformation) and adds one for Trinity. Its "prayer at the end of the office" is the Trinity
-postcommunion *Proficiat* (May [the receiving] profit). **Erfurt, *Deutsches Kirchenamt*, 1525** (Sehling 2, p. 378):
+postcommunion *Proficiat* (May [the receiving] profit). **Erfurt, *Deutsches Kirchenamt*, 1525** (Early Evangelical; Sehling
+2, p. 378):
 
 <!-- doc 1251 -->
 
@@ -14764,7 +14917,7 @@ Domini", Sehling 6/2, p. 1078). The Württemberg order of 1536 has it among its 
 
 **(d) Döber's prayer of 1525.** Döber's Nürnberg Mass of 1525 has a postcommunion that Sehling's
 editor thought "apparently newly made" (Sehling 11, p. 55, n. 22). **Nürnberg, *Deutsche Messe
-des A. Döber*, 1525** (Sehling 11, pp. 54–55):
+des A. Döber*, 1525** (Early Evangelical; Sehling 11, pp. 54–55):
 
 <!-- doc 250 -->
 
@@ -14810,15 +14963,15 @@ the bread and wine his holy body and his precious blood, which he gave and shed 
 the same our Lord Jesus Christ, thy Son, who liveth and reigneth with thee from everlasting to
 everlasting. Amen.
 
-The Prussian articles of 1525 had already provided "two common collects or complendas for the
-end of the Mass, to alternate through the whole year". Sehling does not print them
-(Sehling 4, p. 37).
+The Prussian articles of 1525 (Early Evangelical) had already provided "two common collects or
+complendas for the end of the Mass, to alternate through the whole year". Sehling does not print
+them (Sehling 4, p. 37).
 
 **(f) Later replacements.** Late orders sometimes replace Luther's short prayer with a longer
 one. At Engerhafe in East Frisia (1583) "a trinitarian thanksgiving has taken the place of
 Luther's short thanksgiving collect (postcommunion)", as Sehling's editor notes in comparing it
 with the order of 1535 (Sehling 7/1, p. 681, n. 34). The thanksgiving with the *Placeat* in
-Kantz's Mass of 1522 is treated in [Chapter 7](#ch7),
+Kantz's Mass of 1522 (Early Evangelical) is treated in [Chapter 7](#ch7),
 [§7.2.7](#s7-2-7).
 
 #### <a id="s5-6-5"></a>5.6.5 When there was no communion
@@ -14918,9 +15071,9 @@ shows no other Lutheran use of the *super populum*.
 | | Collect | Secret | Postcommunion | Prayer over the people (Lent) |
 |---|---|---|---|---|
 | **Medieval use** | Proper to the day; sung after the Gloria; multiplied by commemorations and votive collects | Proper to the day; said silently over the gifts; multiplied with the collects | Proper to the day; sung after the communion; multiplied with the collects | Proper to the Lenten weekdays; after the postcommunion, with the bidding *Humiliate capita vestra Deo*; also used as an office collect |
-| **Kept** | The collect of the season or feast ([§5.4.2](#s5-4-2)), mostly German versions of the Missal collects; the salutation, *Oremus*, long conclusion and Amen ([§5.4.5](#s5-4-5)); the seasonal versicle (Henneberg 1582, Hof 1592) | Only the closing *Per omnia saecula saeculorum. Amen* (World without end. Amen; Müntzer (Radical Reformation), Lippe, Calenberg-Göttingen), and the name in Dortmund 1554 ([§5.5.2](#s5-5-2)) | A collect after the communion, with salutation and Amen; often still called the *complenda* (completion; [§5.6.3](#s5-6-3)). Proper postcommunions kept in Nürnberg and Volprecht 1524, Coburg 1524, Müntzer 1524 (Radical Reformation), Erfurt 1525 and Calenberg-Göttingen 1542 ([§5.6.2](#s5-6-2)) | Only in the office: Ansbach 1533 allows the day's *super populum* (over the people) at Lauds ([§5.6.6](#s5-6-6)) |
-| **Stripped** | Collects of the saints and those asking their intercession (Hannover 1536); the automatic commemorations (Luther: "that one alone") | The prayer itself, everywhere (Prussia 1525: "of necessity left out"); no German secret exists | The proper postcommunion (Luther 1523: "they almost all sound of sacrifice"); gone from the printed orders after 1542 | At the Mass, everywhere; neither the prayer nor the bidding occurs |
-| **Added** | Veit Dietrich's gospel collects (Wolfenbüttel 1569, Soest 1609, Buxtehude 1565); new "common" collects for need; the collect for peace after *Verleih uns Frieden* (Grant Peace, We Pray, in Mercy, Lord) | Open prayers for the magistrates and Christendom in its place (Dortmund 1554); collects for rulers under the Sanctus (Döber 1525, Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543) | Luther's fixed thanksgiving (1526); the Nürnberg thanksgiving (1533); Döber's prayer (1525); Prussia's second collect (1544); a collect or thanksgiving for the Word when there is no communion (Lippe 1571) | — |
+| **Kept** | The collect of the season or feast ([§5.4.2](#s5-4-2)), mostly German versions of the Missal collects; the salutation, *Oremus*, long conclusion and Amen ([§5.4.5](#s5-4-5)); the seasonal versicle (Henneberg 1582, Hof 1592) | Only the closing *Per omnia saecula saeculorum. Amen* (World without end. Amen; Müntzer (Radical Reformation), Lippe, Calenberg-Göttingen), and the name in Dortmund 1554 ([§5.5.2](#s5-5-2)) | A collect after the communion, with salutation and Amen; often still called the *complenda* (completion; [§5.6.3](#s5-6-3)). Proper postcommunions kept in Nürnberg and Volprecht 1524, Coburg 1524 (all Early Evangelical), Müntzer 1524 (Radical Reformation), Erfurt 1525 (Early Evangelical) and Calenberg-Göttingen 1542 ([§5.6.2](#s5-6-2)) | Only in the office: Ansbach 1533 allows the day's *super populum* (over the people) at Lauds ([§5.6.6](#s5-6-6)) |
+| **Stripped** | Collects of the saints and those asking their intercession (Hannover 1536); the automatic commemorations (Luther: "that one alone") | The prayer itself, everywhere (Prussia 1525, Early Evangelical: "of necessity left out"); no German secret exists | The proper postcommunion (Luther 1523: "they almost all sound of sacrifice"); gone from the printed orders after 1542 | At the Mass, everywhere; neither the prayer nor the bidding occurs |
+| **Added** | Veit Dietrich's gospel collects (Wolfenbüttel 1569, Soest 1609, Buxtehude 1565); new "common" collects for need; the collect for peace after *Verleih uns Frieden* (Grant Peace, We Pray, in Mercy, Lord) | Open prayers for the magistrates and Christendom in its place (Dortmund 1554); collects for rulers under the Sanctus (Döber 1525, Early Evangelical; Brandenburg 1540, Calenberg-Göttingen 1542, Pfalz-Neuburg 1543) | Luther's fixed thanksgiving (1526); the Nürnberg thanksgiving (1533); Döber's prayer (1525, Early Evangelical); Prussia's second collect (1544); a collect or thanksgiving for the Word when there is no communion (Lippe 1571) | — |
 | **Altered** | Latin to German "that the people may say Amen" (Coburg 1554/55); one collect as the norm, a second only "for need" (Mecklenburg 1545) or by rule for temporal goods (Ansbach 1548); the Advent *Excita* reworded ("awaken us, that we may be ready") | — | Proper to ordinary; Luther's 1523 ablution prayers made public, then expanded (Nürnberg 1533); the Missal postcommunion *Gratias tibi referimus* (We give thee thanks) recast as Luther's thanksgiving; the Corpus Christi collect turned into a postcommunion; two thanksgivings joined "under one conclusion" (Brandenburg 1540, Pfalz-Neuburg 1543) | Moved from the end of the Mass to Lauds, in place of collects that "speak of the fast" (Ansbach 1533) |
 
 **Table 2. Did the medieval "two collects, two secrets, two postcommunions" survive?**
@@ -14948,14 +15101,14 @@ shows no other Lutheran use of the *super populum*.
 | Order | Vol. | Collect | Second collect | Secret | Postcommunion | Alternatives |
 |---|---|---|---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1 | L, proper, "one alone" | — | — | L, fixed: *Quod ore* (What with our mouth), *Corpus tuum* (Thy body) | either of the two |
-| Volprecht, Nürnberg, 1524 | 11 | L "one only"; G proper (Trinity) | — | — | L proper (*de quo sit missa*, of whatever Mass is said); G *Proficiat* (May [the receiving] profit; Trinity) | — |
-| Nürnberg parish Mass, 1524 | 11 | L proper (*Sancti tui nominis*) | — | — (with the offertory) | L proper (*complenda*) | — |
-| Coburg proposal, 1524 | 1 | ? | ? | — (with the offertory) | "the complenda" | — |
+| Volprecht, Nürnberg, 1524 (Early Evangelical) | 11 | L "one only"; G proper (Trinity) | — | — | L proper (*de quo sit missa*, of whatever Mass is said); G *Proficiat* (May [the receiving] profit; Trinity) | — |
+| Nürnberg parish Mass, 1524 (Early Evangelical) | 11 | L proper (*Sancti tui nominis*) | — | — (with the offertory) | L proper (*complenda*) | — |
+| Coburg proposal, 1524 (Early Evangelical) | 1 | ? | ? | — (with the offertory) | "the complenda" | — |
 | Müntzer, Allstedt, 1524 (Radical Reformation) | 1 | G proper (Missal) | — | *Per omnia* (World without end) only | G proper (Missal postcommunions) | — |
-| Strasbourg, Schwarz, 1524 (Moderate Reformed) | 20/1 | G | ? | — | G *Quod ore* as *Complenda* | "any other that seemeth Christian" |
-| Döber, Nürnberg, 1525 | 11 | ? | Optional "common prayer" before the Sanctus | — | G, new (Döber's) | — |
-| Erfurt, *Deutsches Kirchenamt*, 1525 | 2 | G proper | — | ? | G proper (Pentecost, *Proficiat*) | — |
-| Prussia, *Artikel*, 1525 | 4 | Proper series by the year | ? | — ("of necessity left out") | Two common complendas, alternating | — |
+| Strasbourg, Schwarz, 1524 (Early Evangelical) | 20/1 | G | ? | — | G *Quod ore* as *Complenda* | "any other that seemeth Christian" |
+| Döber, Nürnberg, 1525 (Early Evangelical) | 11 | ? | Optional "common prayer" before the Sanctus | — | G, new (Döber's) | — |
+| Erfurt, *Deutsches Kirchenamt*, 1525 (Early Evangelical) | 2 | G proper | — | ? | G proper (Pentecost, *Proficiat*) | — |
+| Prussia, *Artikel*, 1525 (Early Evangelical) | 4 | Proper series by the year | ? | — ("of necessity left out") | Two common complendas, alternating | — |
 | Luther, *Deutsche Messe*, 1526 | 1 | G, one, facing the altar | — | — | G fixed (Luther) | — |
 | Ansbach, *Ordnung … bei den Stiften*, 1533 | 11 | (office) Lenten Lauds collects "of the fast" struck out | — | — | — | the day's *super populum* (over the people) at Lauds in their place |
 | Brandenburg-Nürnberg, 1533 | 11 | ? | ? | ? | G fixed (Nürnberg) | — |
@@ -15010,9 +15163,9 @@ Every order quoted or cited in this chapter is listed below by region. The table
 |---|---|---|---|
 | Luther, *Formula missae et communionis*, 1523 | 1, pp. 3–6 | 2 | [5.3.2](#s5-3-2), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.6.1](#s5-6-1), [5.A](#s5-a) |
 | Allstedt, Thomas Müntzer, *Deutsch evangelisch messe*, 1524 (Radical Reformation) | 1, pp. 500–504 | 51, 52 | [5.5.2](#s5-5-2), [5.6.2](#s5-6-2), [5.A](#s5-a) |
-| Coburg, *Gottesdienst-Ordnung* (proposal), 1524 | 1, p. 542 | 72 | [5.6.2](#s5-6-2) |
+| Coburg, *Gottesdienst-Ordnung* (proposal), 1524 (Early Evangelical) | 1, p. 542 | 72 | [5.6.2](#s5-6-2) |
 | Allstedt, Thomas Müntzer, *Ordnung und berechnunge des teutschen ampts*, 1523/24 (Radical Reformation) | 1, p. 506 | 52 | [5.6.6](#s5-6-6) |
-| Erfurt, *Deutsches Kirchenamt*, 1525 | 2, pp. 376–378 | 1251 | [5.6.2](#s5-6-2), [5.A](#s5-a) |
+| Erfurt, *Deutsches Kirchenamt*, 1525 (Early Evangelical) | 2, pp. 376–378 | 1251 | [5.6.2](#s5-6-2), [5.A](#s5-a) |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, pp. 14, 16 | 3 | [5.3.3](#s5-3-3), [5.4.5](#s5-4-5), [5.A](#s5-a) |
 | Hatzkerode, *Kirchenordnunge*, 1534(?) | 2, p. 587 | 1263 | [5.6.3](#s5-6-3) |
 | Gnandstein, visitation articles, 1539 | 1, p. 564 | 85 | [5.6.6](#s5-6-6) |
@@ -15029,9 +15182,9 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Nürnberg, *Deutsche Messe des Priors Volprecht*, 1524 | 11, pp. 39, 42 | 247 | [5.4.1](#s5-4-1), [5.5.1](#s5-5-1), [5.6.2](#s5-6-2), [5.A](#s5-a) |
-| Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 | 11, pp. 46–49 | 249 | [5.3.1](#s5-3-1), [5.4.1](#s5-4-1), [5.5.1](#s5-5-1), [5.6.2](#s5-6-2) |
-| Nürnberg, *Deutsche Messe des A. Döber*, 1525 | 11, pp. 54–55 | 250 | [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.A](#s5-a) |
+| Nürnberg, *Deutsche Messe des Priors Volprecht*, 1524 (Early Evangelical) | 11, pp. 39, 42 | 247 | [5.4.1](#s5-4-1), [5.5.1](#s5-5-1), [5.6.2](#s5-6-2), [5.A](#s5-a) |
+| Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 (Early Evangelical) | 11, pp. 46–49 | 249 | [5.3.1](#s5-3-1), [5.4.1](#s5-4-1), [5.5.1](#s5-5-1), [5.6.2](#s5-6-2) |
+| Nürnberg, *Deutsche Messe des A. Döber*, 1525 (Early Evangelical) | 11, pp. 54–55 | 250 | [5.5.2](#s5-5-2), [5.6.4](#s5-6-4), [5.A](#s5-a) |
 | Brandenburg-Ansbach-Kulmbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, pp. 315–316 | 276 | [5.6.6](#s5-6-6) |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533 | 11, p. 197 | 270 | [5.6.4](#s5-6-4), [5.A](#s5-a) |
 | Württemberg, *Gemein kirchenordnung*, 1536 | 16, p. 125 | 651 | [5.6.4](#s5-6-4) |
@@ -15046,7 +15199,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Prussia, *Artikel der ceremonien und anderer kirchenordnung*, 1525 | 4, pp. 32, 37 | 1832, 1833 | [5.5.1](#s5-5-1), [5.6.4](#s5-6-4) |
+| Prussia, *Artikel der ceremonien und anderer kirchenordnung*, 1525 (Early Evangelical) | 4, pp. 32, 37 | 1832, 1833 | [5.5.1](#s5-5-1), [5.6.4](#s5-6-4) |
 | Brandenburg, *Kirchen-ordnung* of Joachim II, 1540 | 3, p. 70 | 1746 | [5.5.2](#s5-5-2), [5.6.1](#s5-6-1), [5.6.4](#s5-6-4) |
 | Prussia, *Kirchenordnung*, 1544 | 4, p. 66 | 1833 | [5.6.4](#s5-6-4) |
 | Mecklenburg, *Ordeninge der misse*, 1545 | 5, pp. 152, 155 | 1922 | [5.4.1](#s5-4-1), [5.4.5](#s5-4-5), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4) |
@@ -15079,7 +15232,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Strasbourg, the early agendas: Schwarz's German Mass and the *Teutsche Meß*, 1524 (Moderate Reformed) | 20/1, pp. 123, 133, 135 | 1279 | [5.3.1](#s5-3-1), [5.6.1](#s5-6-1), [5.A](#s5-a) |
+| Strasbourg, the early agendas: Schwarz's German Mass and the *Teutsche Meß*, 1524 (Early Evangelical) | 20/1, pp. 123, 133, 135 | 1279 | [5.3.1](#s5-3-1), [5.6.1](#s5-6-1), [5.A](#s5-a) |
 
 ---
 
@@ -15093,15 +15246,15 @@ identification is this chapter's own. The texts and translations are given in th
 |---|---|---|---|---|
 | (Latin) *Quod ore sumpsimus, Domine, pura mente capiamus* (What we have taken with our mouth, O Lord, may we receive with a pure mind) | Priest's prayer at the ablutions, Ordo Missae | Luther 1523 | Luther 1523; Brandenburg 1540; Pfalz-Neuburg 1543 | [5.3.2](#s5-3-2), [5.6.1](#s5-6-1) |
 | (Latin) *Corpus tuum, Domine, quod sumpsimus …* (Thy body, O Lord, which we have received …) | Priest's prayer at the ablutions, Ordo Missae | Luther 1523 | Luther 1523; Brandenburg 1540; Pfalz-Neuburg 1543 | [5.3.2](#s5-3-2), [5.6.1](#s5-6-1) |
-| "What we have taken with our mouth, grant us, Lord …" | *Quod ore sumpsimus* (What we have taken with our mouth) | Evident from the text | Strasbourg 1524 (*Complenda*; Moderate Reformed); Volprecht 1524 | [5.6.1](#s5-6-1) |
-| "The receiving of thy sacrament, O Lord our God …" / "O Lord God, let … the receiving of the holy sacrament come to our profit" | *Proficiat nobis ad salutem corporis et animae* (May [the receiving] profit us for the health of body and soul; Trinity Sunday, postcommunion) | [Chapter 7](#ch7) (Volprecht); this chapter (Erfurt) | Volprecht 1524 (Trinity); Erfurt 1525 (Trinity) | [5.6.2](#s5-6-2) |
+| "What we have taken with our mouth, grant us, Lord …" | *Quod ore sumpsimus* (What we have taken with our mouth) | Evident from the text | Strasbourg 1524 (*Complenda*; Early Evangelical); Volprecht 1524 (Early Evangelical) | [5.6.1](#s5-6-1) |
+| "The receiving of thy sacrament, O Lord our God …" / "O Lord God, let … the receiving of the holy sacrament come to our profit" | *Proficiat nobis ad salutem corporis et animae* (May [the receiving] profit us for the health of body and soul; Trinity Sunday, postcommunion) | [Chapter 7](#ch7) (Volprecht); this chapter (Erfurt) | Volprecht 1524 (Trinity) and Erfurt 1525 (Trinity), both Early Evangelical | [5.6.2](#s5-6-2) |
 | "O Lord, pour into us the spirit of love …" / "Lord, pour over us thy Spirit …" | *Spiritum nobis, Domine, tuae caritatis infunde* (Pour into us, O Lord, the Spirit of thy love; Easter, postcommunion) | Ed. (Calenberg-Göttingen); this chapter (Müntzer) | Müntzer 1524 (Radical Reformation); Calenberg-Göttingen 1542 | [5.6.2](#s5-6-2) |
-| "O Lord, grant us the grace of the Holy Ghost, that the dew of thy goodness …" | *Sancti Spiritus, Domine, corda nostra mundet infusio* (May the infusion of the Holy Spirit cleanse our hearts, O Lord; Pentecost, postcommunion) | Ed. (Calenberg-Göttingen); [Chapter 7](#ch7) | Müntzer 1524 (Radical Reformation); Erfurt 1525; Calenberg-Göttingen 1542 | [5.6.2](#s5-6-2) |
+| "O Lord, grant us the grace of the Holy Ghost, that the dew of thy goodness …" | *Sancti Spiritus, Domine, corda nostra mundet infusio* (May the infusion of the Holy Spirit cleanse our hearts, O Lord; Pentecost, postcommunion) | Ed. (Calenberg-Göttingen); [Chapter 7](#ch7) | Müntzer 1524 (Radical Reformation); Erfurt 1525 (Early Evangelical); Calenberg-Göttingen 1542 | [5.6.2](#s5-6-2) |
 | "Lord, let us receive thy mercy in the midst of thy temple …" | *Suscipiamus, Domine, misericordiam tuam in medio templi tui* (We have received thy mercy, O Lord, in the midst of thy temple; 1st Sunday in Advent, postcommunion) | Ed. | Calenberg-Göttingen 1542 | [5.6.2](#s5-6-2) |
 | "O Lord God, stand hard by us …" | none known (new) | [Chapter 7](#ch7) | Müntzer 1524 (Advent; Radical Reformation) | [5.6.2](#s5-6-2) |
 | "We give thanks to thee, almighty Lord God, that thou hast refreshed us through this salutary gift …" | *Gratias tibi referimus, Domine, sacro munere vegetati* (We give thee thanks, O Lord, being quickened by the sacred gift; 18th Sunday after Pentecost, postcommunion) | Ed. (Verden, after Drews) | Luther 1526, and nearly every later order | [5.3.3](#s5-3-3), [5.6.3](#s5-6-3) |
 | "O almighty, eternal God, we give praise and thanks to thy divine bounty …" | none (new); expands *Quod ore sumpsimus* | This chapter | Brandenburg-Nürnberg 1533; Brandenburg 1540; Calenberg-Göttingen 1542; Pfalz-Neuburg 1543; Oldenburg 1573 | [5.6.4](#s5-6-4) |
-| "O Lord, almighty God, grant us … that through the temporal death of thy Son …" | "apparently newly made" (ed.); perhaps from *Fac nos … quam pretiosi Corporis et Sanguinis tui temporalis perceptio praefigurat* (Grant us … which the temporal receiving of thy precious Body and Blood doth prefigure; Corpus Christi, postcommunion) | Ed.; suggestion of this chapter | Döber 1525; Mecklenburg 1545 | [5.6.4](#s5-6-4) |
+| "O Lord, almighty God, grant us … that through the temporal death of thy Son …" | "apparently newly made" (ed.); perhaps from *Fac nos … quam pretiosi Corporis et Sanguinis tui temporalis perceptio praefigurat* (Grant us … which the temporal receiving of thy precious Body and Blood doth prefigure; Corpus Christi, postcommunion) | Ed.; suggestion of this chapter | Döber 1525 (Early Evangelical); Mecklenburg 1545 | [5.6.4](#s5-6-4) |
 | "Ah thou dear Lord God, who in this wonderful sacrament hast commanded us to remember and preach thy passion …" | *Deus, qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti* (O God, who under a wonderful sacrament hast left us a memorial of thy passion; Corpus Christi, collect) | This chapter; ed. trace it to the Wittenberg hymnbook of 1533 | Württemberg 1536; Mecklenburg 1545; Buxtehude 1565; Oldenburg 1573; Nördlingen 1579; Saxony 1580; Mansfeld 1580; Grubenhagen 1581 | [5.6.4](#s5-6-4) |
 | "O true God, merciful Father … let us, needy ones, lay hold of the profit and fruit of the holy passion of our Lord …" | none known | — | Prussia 1544 (alternate Sundays) | [5.6.4](#s5-6-4) |
 | "O Lord Jesus Christ, who saidst unto thine apostles: My peace I give unto you …" | *Domine Iesu Christe, qui dixisti apostolis tuis* (O Lord Jesus Christ, who saidst unto thine apostles; Ordo Missae, prayer for peace) | Ed. | Calenberg-Göttingen 1542 (common Mass) | [5.6.2](#s5-6-2) |
@@ -17872,14 +18025,14 @@ corpus ([§7.1.3](#s7-1-3)) and are printed in order of date.
 
 | § | Order | Sehling | [`eko.db`](#repo-ekodb) doc | Pages |
 |---|---|---|---|---|
-| [7.2](#s7-2) | **Nördlingen**, Kaspar Kantz, *Von der Evangelischen Mesß*, 1522 (and 1524) | 12, VIII.1 | 369 | 285–288 |
+| [7.2](#s7-2) | **Nördlingen**, Kaspar Kantz, *Von der Evangelischen Mesß*, 1522 and 1524 (Early Evangelical) | 12, VIII.1 | 369 | 285–288 |
 | [7.3](#s7-3) | **Wittenberg**, Luther, *Formula missae*, 1523 | 1, Luther Nr. 4 | 2 | 4–9 |
 | [7.4](#s7-4) | **Allstedt**, Müntzer, *Deutsch evangelisch Messe* and *Ordnung*, 1523/24 (Radical Reformation) | 1, Nr. 46–47 | 51, 52 | 500–501, 504–506 |
-| [7.5](#s7-5) | **Strasbourg**, the early German Masses, 1524–1525 (Moderate Reformed) | 20, Straßburg Nr. 3 | 1279 | 120–162 |
-| [7.6](#s7-6) | **Worms**, *Deutsche Messe*, 1524 (Moderate Reformed) | 19, III, Nr. 1 | 1066 | 127–129 |
-| [7.7](#s7-7) | **Nürnberg**, parish churches 1524; Volprecht 1524; *Form und Ordnung* 1525 | 11, I.5, I.3, I.7 | 249, 247, 251 | 46–47, 41–42, 57 |
-| [7.8](#s7-8) | **Nürnberg**, Andreas Döber's *Deutsche Messe*, 1525 (Neues Spital) | 11, I.6 (exhortation: 11, I.5) | 250 (249) | 52–55 (48–49) |
-| [7.9](#s7-9) | **Bremen**, *Eyne evangelysce Misse*, 1525 | 7, III, Nr. 1 | 2216 | 403–407 |
+| [7.5](#s7-5) | **Strasbourg**, the early German Masses, 1524–1525 (Early Evangelical; the two of 1525 Moderate Reformed) | 20, Straßburg Nr. 3 | 1279 | 120–162 |
+| [7.6](#s7-6) | **Worms**, *Deutsche Messe*, 1524 (Early Evangelical) | 19, III, Nr. 1 | 1066 | 127–129 |
+| [7.7](#s7-7) | **Nürnberg**, parish churches 1524; Volprecht 1524; *Form und Ordnung* 1525 (all Early Evangelical) | 11, I.5, I.3, I.7 | 249, 247, 251 | 46–47, 41–42, 57 |
+| [7.8](#s7-8) | **Nürnberg**, Andreas Döber's *Deutsche Messe*, 1525 (Early Evangelical; Neues Spital) | 11, I.6 (exhortation: 11, I.5) | 250 (249) | 52–55 (48–49) |
+| [7.9](#s7-9) | **Bremen**, *Eyne evangelysce Misse*, 1525 (Early Evangelical) | 7, III, Nr. 1 | 2216 | 403–407 |
 | [7.10](#s7-10) | **Lippe**, Low German Mass, [1525–1538] | 22, IX, Nr. 1 | 1549 | 565–569 |
 | [7.11](#s7-11) | **Schleswig-Holstein**, Low German Mass from Kiel, [after 1526] | 23, A, Nr. 1 | 1576 | 55–57 |
 | [7.12](#s7-12) | **Brandenburg** (Electorate), *Kirchenordnung* of Joachim II, 1540 | 3, Mark Brandenburg Nr. 3 | 1746 | 67–71 |
@@ -17918,9 +18071,9 @@ describe.
 
 ### <a id="s7-1"></a>7.1 Summary of findings
 
-The orders printed here run from Kantz's Nördlingen Mass of 1522 to Bugenhagen's
-Hildesheim order of 1544. Between them they show what the first generation of evangelical Masses kept
-of three things:
+The orders printed here run from Kantz's Nördlingen Mass of 1522 (Early Evangelical) to
+Bugenhagen's Hildesheim order of 1544. Between them they show what the first generation of
+evangelical Masses kept of three things:
 
 - the Roman Canon (*Te igitur* to the doxology *Per ipsum*);
 - the prayers of the Ordinary around it: the offertory prayers, the embolism, the priest's
@@ -17940,12 +18093,13 @@ of three things:
   - **the offertory chant**: Latin in Brandenburg 1540 ([§7.12.1](#s7-12-1)); Müntzer's German *Ad te levavi* (Unto thee have I lifted up)
     ([§7.4.1](#s7-4-1); Radical Reformation); a German hymn "for the offertory" in Lippe ([§7.10](#s7-10)) and
     Calenberg-Göttingen 1542 ([§7.13.1](#s7-13-1));
-  - **a rubric for preparing the chalice**: Döber ([§7.8.1](#s7-8-1)), Volprecht ([§7.7.2](#s7-7-2)), Bugenhagen's orders
-    ([§7.15.1](#s7-15-1));
-  - **the *Orate fratres*, recast** as a request for prayer: Worms (Moderate Reformed; "my prayer and yours", [§7.6.1](#s7-6-1)), Kantz and Bremen ([§7.2.1](#s7-2-1), [§7.9.2](#s7-9-2)), and Strasbourg (Moderate Reformed), where
+  - **a rubric for preparing the chalice**: Döber ([§7.8.1](#s7-8-1)) and Volprecht ([§7.7.2](#s7-7-2)), both Early
+    Evangelical, and Bugenhagen's orders ([§7.15.1](#s7-15-1));
+  - **the *Orate fratres*, recast** as a request for prayer: Worms (Early Evangelical; "my prayer and yours", [§7.6.1](#s7-6-1)), Kantz and Bremen (both Early Evangelical; [§7.2.1](#s7-2-1), [§7.9.2](#s7-9-2)), and
+    Strasbourg (Early Evangelical in 1524, Moderate Reformed in 1525), where
     it becomes a bidding on Rom 12:1 to offer "our bodies" ([§7.5.1](#s7-5-1), [§7.5.3](#s7-5-3));
   - ***Veni, sanctificator* replaced** by the Whitsun antiphon *Veni, Sancte Spiritus* and a
-    collect: Kantz ([§7.2.2](#s7-2-2)), Bremen, Kiel ([§7.11.1](#s7-11-1));
+    collect: Kantz ([§7.2.2](#s7-2-2)) and Bremen, both Early Evangelical; Kiel ([§7.11.1](#s7-11-1));
   - **the Secret's closing *Per omnia saecula saeculorum. Amen***, sung before the Preface
     dialogue: Müntzer ([§7.4.1](#s7-4-1); Radical Reformation), Lippe ([§7.10](#s7-10)), Göttingen ([§7.13.1](#s7-13-1)).
 - **One prayer over the gifts.** Only Pfalz-Neuburg 1543 has one: Osiander's prayer "We bring … these thy gifts" ([§7.14.2](#s7-14-2)). It borrows from *Quam oblationem* (Which oblation), *Unde et memores* (Wherefore, mindful) and
@@ -17954,34 +18108,36 @@ of three things:
 
 **The Preface and Sanctus.**
 
-- **The common Preface in German:** Worms (Moderate Reformed), Kantz, Bremen.
+- **The common Preface in German:** Kantz, Worms and Bremen (all Early Evangelical).
 - **Proper Prefaces in German:** Müntzer (Radical Reformation; Blessed Virgin, reworded so that
-  God, not Mary, is praised), Strasbourg (Moderate Reformed; Cross), Lippe (Trinity), Kiel and
+  God, not Mary, is praised), Strasbourg (Early Evangelical; Cross), Lippe (Trinity), Kiel and
   Göttingen (Easter).
 - **Luther's short Preface.** Luther cut the Preface off at *per Christum Dominum nostrum* (through Christ our Lord) and
-  joined the Verba to it ([§7.3.2](#s7-3-2)). The Nürnberg Latin Mass ([§7.7.1](#s7-7-1)), Döber ([§7.8.2](#s7-8-2)) and Volprecht
-  ([§7.7.2](#s7-7-2)) follow him.
-- **The Sanctus after the Verba:** Luther, Döber, Volprecht and Pfalz-Neuburg.
+  joined the Verba to it ([§7.3.2](#s7-3-2)). The Nürnberg Latin Mass ([§7.7.1](#s7-7-1)), Döber ([§7.8.2](#s7-8-2)) and
+  Volprecht ([§7.7.2](#s7-7-2)) follow him, all three Early Evangelical.
+- **The Sanctus after the Verba:** Luther, Döber and Volprecht (both Early Evangelical), and
+  Pfalz-Neuburg.
 
 **The Canon.**
 
-- **The only continuous Canon is Worms 1524** (Moderate Reformed; §[7.6.3](#s7-6-3)–[7.6.9](#s7-6-9)). It runs from *Te
-  igitur* (Thee therefore) to *Supplices te rogamus* (We humbly beseech thee) in German, abridged:
+- **The only continuous Canon is Worms 1524** (Early Evangelical; §[7.6.3](#s7-6-3)–[7.6.9](#s7-6-9)). It runs from
+  *Te igitur* (Thee therefore) to *Supplices te rogamus* (We humbly beseech thee) in German, abridged:
   - there are no saints in *Communicantes* (In communion; only its closing clause), no *Memento* of the dead,
     no *Nobis quoque* (To us also) and no *Per ipsum* (Through him);
   - the sacrificial nouns become "bread and wine" and "our prayer";
   - emperor and king replace pope and bishop.
 - **Elsewhere single Canon prayers survive:**
   - ***Quam oblationem***, recast as a petition that the bread and wine "may become unto us" the
-    body and blood: Kantz ([§7.2.4](#s7-2-4)). Bremen changes it to a prayer that "we may firmly believe"
-    this ([§7.9.3](#s7-9-3)).
-  - ***Unde et memores***, as a thanksgiving "after the elevation": Strasbourg ([§7.5.1](#s7-5-1); Moderate
-    Reformed). A later hand wrote the Worms text of the prayer into the Strasbourg manuscript.
+    body and blood: Kantz ([§7.2.4](#s7-2-4); Early Evangelical). Bremen (Early Evangelical) changes it to
+    a prayer that "we may firmly believe" this ([§7.9.3](#s7-9-3)).
+  - ***Unde et memores***, as a thanksgiving "after the elevation": Strasbourg ([§7.5.1](#s7-5-1); Early
+    Evangelical). A later hand wrote the Worms text of the prayer into the Strasbourg
+    manuscript.
 - **The Canon's intercession** (the petitions of *Te igitur* and the *Memento*) survives in
   three ways:
-  - **in the Canon's own place after the Sanctus:** Strasbourg ([§7.5.1](#s7-5-1); Moderate Reformed); an
-    optional prayer in Döber taken from Strasbourg ([§7.8.11](#s7-8-11)); four collects in Brandenburg
-    ([§7.12.2](#s7-12-2)); three in Pfalz-Neuburg ([§7.14.4](#s7-14-4)); one in Göttingen ([§7.13.1](#s7-13-1));
+  - **in the Canon's own place after the Sanctus:** Strasbourg ([§7.5.1](#s7-5-1); Early Evangelical); an
+    optional prayer in Döber (Early Evangelical) taken from Strasbourg ([§7.8.11](#s7-8-11)); four collects
+    in Brandenburg ([§7.12.2](#s7-12-2)); three in Pfalz-Neuburg ([§7.14.4](#s7-14-4)); one in Göttingen ([§7.13.1](#s7-13-1));
   - **as one long prayer "in place of the Canon":** Strasbourg 1525 ([§7.5.2](#s7-5-2); Moderate Reformed);
   - **as the general prayer after the sermon,** which Bugenhagen calls "our Canon" ([§7.15.4](#s7-15-4)).
 - **The Canon critique.** The Brandenburg-Nürnberg order of 1533, repeated in Brandenburg 1540
@@ -17994,31 +18150,35 @@ of three things:
 - **Scripture or Canon.** Most orders read the Verba from 1 Cor 11 or a harmony of the Gospels.
   A distinct line keeps the Canon's own *Qui pridie* (Who the day before): *elevatis oculis* (with eyes lifted up), *benedixit* (blessed), *novi et
   aeterni testamenti* (of the new and eternal testament), sometimes *mysterium fidei* (the mystery of faith). The line runs through Kantz, the Nürnberg
-  Latin Mass, Schwarz at Strasbourg (Moderate Reformed), Müntzer (Radical Reformation), Bremen,
-  Lippe and Kiel.
-- **Where Müntzer's wording travelled.** Müntzer's wording (Radical Reformation) reached Lippe,
-  Kiel and Göttingen's proper Masses through the Erfurt *Kirchenämter* (church offices) of 1525–26 ([§7.10](#s7-10), [§7.13](#s7-13)).
-- **The elevation** is kept by Luther (at the *Benedictus*), Worms (Moderate Reformed), the
-  Nürnberg Latin Mass, Müntzer (Radical Reformation), Strasbourg (Moderate Reformed; cup only),
-  Brandenburg and Pfalz-Neuburg. Kantz moves it to the communion ("Behold …"). Schleswig-Holstein
-  1542 permits it.
+  Latin Mass, Schwarz at Strasbourg and Bremen, all Early Evangelical; Müntzer (Radical
+  Reformation); Lippe and Kiel.
+- **Where Müntzer's wording travelled.** Müntzer's German Mass (Radical Reformation), its
+  eucharistic part included, went into the Erfurt *Kirchenamt* of 1525 (Early Evangelical),
+  which reprints it whole, and into the Lippe manuscript Mass, which puts its eucharistic part
+  into Low German ([§7.10](#s7-10)). Calenberg-Göttingen 1542 and Lippe 1571 took only his
+  propers, by way of the Erfurt *Kirchenämter* (church offices; [§7.13](#s7-13)). Kiel took his Easter Preface and
+  *Qui pridie* ([§7.11](#s7-11)).
+- **The elevation** is kept by Luther (at the *Benedictus*), Worms (Early Evangelical), the
+  Nürnberg Latin Mass (Early Evangelical), Müntzer (Radical Reformation), Strasbourg (1524,
+  Early Evangelical; cup only), Brandenburg and Pfalz-Neuburg. Kantz (Early Evangelical) moves
+  it to the communion ("Behold …"). Schleswig-Holstein 1542 permits it.
 
 **The Our Father and the embolism.**
 
 - ***Praeceptis salutaribus moniti*** is recast in German almost everywhere, e.g. "Let us pray, as the Lord Christ Jesus hath commanded us …".
 - **The embolism *Libera nos, quaesumus*.** Luther struck it out. What remains elsewhere:
-  - **its conclusion only** ("Through our Lord Jesus … liveth and reigneth"): Worms
-    (Moderate Reformed), Kantz, Bremen, Lippe;
+  - **its conclusion only** ("Through our Lord Jesus … liveth and reigneth"): Worms,
+    Kantz and Bremen (all Early Evangelical), Lippe;
   - **its sung ending *Per omnia saecula*** ("through all eternity of eternity"): Müntzer
     (Radical Reformation), Lippe;
-  - **one line of its body** ("O Lord, deliver us from all visible and invisible enemies …"): Döber (p. 54; Sehling: "remnant of the embolism") and Strasbourg (Moderate Reformed).
+  - **one line of its body** ("O Lord, deliver us from all visible and invisible enemies …"): Döber (p. 54; Sehling: "remnant of the embolism") and Strasbourg, both Early Evangelical.
 
 **The fraction.**
 
-- **Forbidden.** Luther forbids the fraction and commixture: "let the host not be broken nor mixed into the chalice" ([§7.3.3](#s7-3-3)). Worms (Moderate Reformed) repeats the prohibition ([§7.6.11](#s7-6-11)).
+- **Forbidden.** Luther forbids the fraction and commixture: "let the host not be broken nor mixed into the chalice" ([§7.3.3](#s7-3-3)). Worms (Early Evangelical) repeats the prohibition ([§7.6.11](#s7-6-11)).
 - **Kept in two orders only**, at the Roman place (the close of the embolism, before the Peace),
   and neither with the commixture:
-  - the 1524 edition of Kantz's Mass, "Here let the priest take the bread and break it, as much as he needeth" ([§7.2.5](#s7-2-5));
+  - the 1524 edition of Kantz's Mass (Early Evangelical), "Here let the priest take the bread and break it, as much as he needeth" ([§7.2.5](#s7-2-5));
   - Müntzer's Allstedt order (Radical Reformation), where the priest "for the communicants' sake divideth the sacrament" ([§7.4.3](#s7-4-3)).
 - **The *Deutsche Messe*** (1526) has no fraction.
 - **Reformed breaking of bread.** Every other mention of breaking the bread in the corpus comes
@@ -18028,9 +18188,10 @@ of three things:
 
 **The Peace and the *Agnus Dei*.**
 
-- ***Pax Domini sit semper vobiscum*** survives widely: Worms (Moderate Reformed), Luther (as a
-  "public absolution"), the Nürnberg Latin Mass, Müntzer (Radical Reformation), Volprecht,
-  Brandenburg, Pfalz-Neuburg, Lippe and Göttingen. Kantz moves it into the communion.
+- ***Pax Domini sit semper vobiscum*** survives widely: Worms (Early Evangelical), Luther (as a
+  "public absolution"), the Nürnberg Latin Mass (Early Evangelical), Müntzer (Radical
+  Reformation), Volprecht (Early Evangelical), Brandenburg, Pfalz-Neuburg, Lippe and Göttingen.
+  Kantz (Early Evangelical) moves it into the communion.
 - **The *Agnus Dei*** is kept in German or Latin by nearly all. Luther has it sung during
   communion.
 
@@ -18038,41 +18199,43 @@ of three things:
 
 - **All three kept.** *Domine Iesu Christe, qui dixisti*, *Domine Iesu Christe, Fili Dei
   vivi* (O Lord Jesus Christ, Son of the living God) and *Perceptio Corporis tui* (Let the receiving of thy Body) stay in Latin in Brandenburg ([§7.12.5](#s7-12-5)) and Pfalz-Neuburg
-  ([§7.14.6](#s7-14-6)). Volprecht has all three in German ([§7.7.2](#s7-7-2)).
+  ([§7.14.6](#s7-14-6)). Volprecht (Early Evangelical) has all three in German ([§7.7.2](#s7-7-2)).
   - The "Libera nos" (Deliver us) in these orders is the petition inside *Fili Dei vivi* (Son of the living God; "deliver us by this thy most holy body and blood"), made plural. It is not the embolism.
 - ***Fili Dei vivi* alone** is kept in German by:
-  - Kantz and Bremen, abridged. Bremen changes "by this thy holy body and blood" to "by thy
-    bottomless mercy".
-  - Strasbourg (Moderate Reformed), prayed by all.
-  - Döber and Kiel, said by the people line by line after the priest ([§7.8.8](#s7-8-8), [§7.11.3](#s7-11-3)).
+  - Kantz and Bremen (both Early Evangelical), abridged. Bremen changes "by this thy holy body
+    and blood" to "by thy bottomless mercy".
+  - Strasbourg (Early Evangelical), prayed by all.
+  - Döber (Early Evangelical) and Kiel, said by the people line by line after the priest
+    ([§7.8.8](#s7-8-8), [§7.11.3](#s7-11-3)).
 - ***Domine, non sum dignus*** appears once, in German, in Kiel ([§7.11.3](#s7-11-3)).
 - ***Qui dixisti*** becomes the closing collect of the Mass in Göttingen ([§7.13.3](#s7-13-3)).
 
 **The words of distribution.**
 
 - **The *custodiat*** ("The body of our Lord Jesus Christ preserve thy soul unto everlasting life") is the most widespread survival. It appears in about thirty orders of the corpus,
-  from Worms (Moderate Reformed) and Volprecht (1524) to 1609:
-  - Worms (Moderate Reformed), Döber, Kantz, Bremen, the Nürnberg *Form und Ordnung*, Göttingen
-    and many later orders;
+  from Worms and Volprecht (1524, both Early Evangelical) to 1609:
+  - Worms, Döber, Bremen, the Nürnberg *Form und Ordnung* (Form and order) and Kantz (all Early Evangelical),
+    Göttingen and many later orders;
   - most in the wording of the Albertine Saxon Agenda of 1539, "The body of our Lord Jesus Christ, given into death for thee, strengthen and preserve thee in the faith unto everlasting life";
   - Brandenburg 1540 uses it only for the communion of the sick (Sehling 3, pp. 79–80).
-- ***Calicem salutaris accipiam*** (Ps 116:13) survives in Worms (Moderate Reformed), Kantz,
-  Bremen and Volprecht.
+- ***Calicem salutaris accipiam*** (Ps 116:13) survives in Worms, Bremen, Volprecht and
+  Kantz (all Early Evangelical).
 
 **After communion.**
 
 - ***Quod ore sumpsimus* and *Corpus tuum, Domine*.** Luther made these two ablution prayers the
-  postcommunion ([§7.3.5](#s7-3-5)). Brandenburg and Pfalz-Neuburg keep them in Latin; Volprecht has both in
-  German; Strasbourg (Moderate Reformed) has *Quod ore* (What with our mouth) as its *complenda* (completion).
+  postcommunion ([§7.3.5](#s7-3-5)). Brandenburg and Pfalz-Neuburg keep them in Latin; Volprecht (Early
+  Evangelical) has both in German; Strasbourg (Early Evangelical) has *Quod ore* (What with our mouth) as its
+  *complenda* (completion).
 - **Roman postcommunions and collects reused:**
-  - Döber's *Largire sensibus nostris* (Wednesday in Holy Week). Sehling thought Döber's prayer
-    newly composed; the identification is new here.
-  - the Trinity *Proficiat* (May [the receiving] profit): Volprecht, Lippe;
-  - the collect *Protector in te sperantium* (Protector of them that trust in thee): Kantz.
-- **The priest's final *Placeat tibi, sancta Trinitas*** survives in Kantz, the sacrifice turned
-  into "our praise and thanksgiving" ([§7.2.7](#s7-2-7)).
-- **The *Nunc dimittis*** follows communion in Worms (Moderate Reformed), Döber, Kantz and
-  Bremen.
+  - *Largire sensibus nostris* (Wednesday in Holy Week): Döber (Early Evangelical). Sehling
+    thought Döber's prayer newly composed; the identification is new here.
+  - the Trinity *Proficiat* (May [the receiving] profit): Volprecht (Early Evangelical), Lippe;
+  - the collect *Protector in te sperantium* (Protector of them that trust in thee): Kantz (Early Evangelical).
+- **The priest's final *Placeat tibi, sancta Trinitas*** survives in Kantz (Early Evangelical),
+  the sacrifice turned into "our praise and thanksgiving" ([§7.2.7](#s7-2-7)).
+- **The *Nunc dimittis*** follows communion in Worms, Döber, Bremen and Kantz (all
+  Early Evangelical).
 
 **The priest's preparation and thanksgiving.**
 
@@ -18088,11 +18251,16 @@ of three things:
 
 **How the orders are related.**
 
-- **Kantz** → Bremen (a Low German version) and the opening prayers of Kiel.
-- **Müntzer** (Radical Reformation) → (Erfurt *Kirchenämter*) → Lippe, Kiel, Göttingen.
-- **Strasbourg** (Moderate Reformed) → Worms (Moderate Reformed; the same Mass) and Döber's
-  optional intercession.
-- **Luther's *Formula missae*** → the Nürnberg Latin Mass, Döber, Volprecht, Brandenburg.
+- **Kantz** → Bremen (a Low German version), both Early Evangelical, and the opening prayers of
+  Kiel.
+- **Müntzer** (Radical Reformation) → the Erfurt *Kirchenamt* of 1525 (Early Evangelical), his
+  whole Mass → the Lippe manuscript Mass, its eucharistic part; → (by way of Erfurt)
+  Calenberg-Göttingen 1542 and Lippe 1571, his propers only; → Kiel, his Easter Preface and
+  *Qui pridie*.
+- **Strasbourg** (Early Evangelical) → Worms (the same Mass) and Döber's optional
+  intercession, both Early Evangelical.
+- **Luther's *Formula missae*** → the Nürnberg Latin Mass, Döber and Volprecht (all Early
+  Evangelical), Brandenburg.
 - **Nürnberg 1533** → the exhortation and Canon critique of Brandenburg 1540 and Pfalz-Neuburg
   1543.
 - **Brandenburg 1540** → Calenberg-Göttingen 1542.
@@ -18108,15 +18276,15 @@ the wording of 1 Cor 11 and the Gospels.
 
 | Order | Offertory chant | Offertory prayers, *Orate fratres* | The Secret's *Per omnia saecula* (World without end) | Preface | Sanctus |
 |---|---|---|---|---|---|
-| Kantz 1522 ([§7.2](#s7-2)) | — | *Orate fratres* recast; *Veni Sancte Spiritus* (Come, Holy Spirit) for *Veni sanctificator* | — | German, common | German, before the Canon |
+| Kantz 1522 ([§7.2](#s7-2); Early Evangelical) | — | *Orate fratres* recast; *Veni Sancte Spiritus* (Come, Holy Spirit) for *Veni sanctificator* | — | German, common | German, before the Canon |
 | Luther, *FM* 1523 ([§7.3](#s7-3)) | — | *forbidden* (all "sounds of oblation") | — | Latin, cut at *per Christum* (through Christ), runs into the Verba | after the Verba |
 | Müntzer 1523/24 ([§7.4](#s7-4); Radical Reformation) | *Ad te levavi* (Unto thee have I lifted up), German | — ("We hold no sacrifice") | "through all eternity of eternity. Amen" | German, proper (Blessed Virgin, reworded) | German, before |
-| Strasbourg 1524–25 ([§7.5](#s7-5); Moderate Reformed) | — | bidding on Rom 12:1 for *Orate fratres*; *lavabo* kept | — | German, proper (Cross); 1525 common; last form none | German, before; last form none |
-| Worms 1524 ([§7.6](#s7-6); Moderate Reformed) | — | *Orate fratres*, German ("my prayer and yours") | — | German, common | German, before |
-| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3)) | *omitted* | *omitted* | — | Latin, cut at *per Christum* | Latin, during or after *Qui pridie* |
-| Volprecht 1524 ([§7.7.2](#s7-7-2)) | — | *chalice prepared* | — | German, cut, runs into the Verba | after the Verba |
-| Döber 1525 ([§7.8](#s7-8)) | — | *chalice prepared after the Gradual* | — | German, cut (Luther's form) | German, after the Verba |
-| Bremen 1525 ([§7.9](#s7-9)) | — | as Kantz | — | as Kantz | before |
+| Strasbourg 1524–25 ([§7.5](#s7-5); Early Evangelical; 1525 Moderate Reformed) | — | bidding on Rom 12:1 for *Orate fratres*; *lavabo* kept | — | German, proper (Cross); 1525 common; last form none | German, before; last form none |
+| Worms 1524 ([§7.6](#s7-6); Early Evangelical) | — | *Orate fratres*, German ("my prayer and yours") | — | German, common | German, before |
+| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3); Early Evangelical) | *omitted* | *omitted* | — | Latin, cut at *per Christum* | Latin, during or after *Qui pridie* |
+| Volprecht 1524 ([§7.7.2](#s7-7-2); Early Evangelical) | — | *chalice prepared* | — | German, cut, runs into the Verba | after the Verba |
+| Döber 1525 ([§7.8](#s7-8); Early Evangelical) | — | *chalice prepared after the Gradual* | — | German, cut (Luther's form) | German, after the Verba |
+| Bremen 1525 ([§7.9](#s7-9); Early Evangelical) | — | as Kantz | — | as Kantz | before |
 | Lippe [1525–38] ([§7.10](#s7-10)) | German hymn | — | "Through all eternity of eternity, amen" | German, Trinity | before |
 | Kiel [after 1526] ([§7.11](#s7-11)) | — | Kantz's *Veni* and collect, before the altar | — | German, Easter | (text breaks off) |
 | Brandenburg 1540 ([§7.12](#s7-12)) | Latin; German psalm in villages | — | — | Latin, of the day | Latin, four German collects under it |
@@ -18128,15 +18296,15 @@ the wording of 1 Cor 11 and the Gospels.
 
 | Order | Intercession (*Te igitur*, *Memento*) | Other Canon prayers | Verba | Elevation |
 |---|---|---|---|---|
-| Kantz 1522 ([§7.2](#s7-2)) | — | *Quam oblationem* (Which oblation) recast | Canon form | moved to the communion ("Behold …") |
+| Kantz 1522 ([§7.2](#s7-2); Early Evangelical) | — | *Quam oblationem* (Which oblation) recast | Canon form | moved to the communion ("Behold …") |
 | Luther, *FM* 1523 ([§7.3](#s7-3)) | — | — | Scriptural | yes, at the *Benedictus* |
 | Müntzer 1523/24 ([§7.4](#s7-4); Radical Reformation) | — | — | Canon form, with *mysterium fidei* (the mystery of faith) | bread elevated, cup shown |
-| Strasbourg 1524–25 ([§7.5](#s7-5); Moderate Reformed) | after the Sanctus, for rulers and the congregation; 1525: long prayer "in place of the Canon" | "Post elevationem" (After the elevation) prayer in the place of *Unde et memores* (Wherefore, mindful) | Canon-based; *mysterium fidei* added by a later hand; 1525: 1 Cor 11 read as a lesson | cup only; 1525: none |
-| Worms 1524 ([§7.6](#s7-6); Moderate Reformed) | *Te igitur* and *Memento*, German (emperor and king for pope and bishop) | continuous Canon to *Supplices* (We humbly [beseech]): end of *Communicantes* (In communion), *Hanc igitur*, *Quam oblationem*, *Unde et memores*, *Supra quae* (Upon which), *Supplices* | Canon form ("new and everlasting testament") | yes |
-| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3)) | — | — | Canon form, Latin, with *mysterium fidei* | bread and cup |
-| Volprecht 1524 ([§7.7.2](#s7-7-2)) | — | — | Scriptural | — |
-| Döber 1525 ([§7.8](#s7-8)) | optional *gemein gebet* (common prayer; from Strasbourg, Moderate Reformed) | — | German ("into his holy hands") | "showeth it to the people" |
-| Bremen 1525 ([§7.9](#s7-9)) | — | *Quam oblationem* recast as a prayer to believe | Canon form | — |
+| Strasbourg 1524–25 ([§7.5](#s7-5); Early Evangelical; 1525 Moderate Reformed) | after the Sanctus, for rulers and the congregation; 1525: long prayer "in place of the Canon" | "Post elevationem" (After the elevation) prayer in the place of *Unde et memores* (Wherefore, mindful) | Canon-based; *mysterium fidei* added by a later hand; 1525: 1 Cor 11 read as a lesson | cup only; 1525: none |
+| Worms 1524 ([§7.6](#s7-6); Early Evangelical) | *Te igitur* and *Memento*, German (emperor and king for pope and bishop) | continuous Canon to *Supplices* (We humbly [beseech]): end of *Communicantes* (In communion), *Hanc igitur*, *Quam oblationem*, *Unde et memores*, *Supra quae* (Upon which), *Supplices* | Canon form ("new and everlasting testament") | yes |
+| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3); Early Evangelical) | — | — | Canon form, Latin, with *mysterium fidei* | bread and cup |
+| Volprecht 1524 ([§7.7.2](#s7-7-2); Early Evangelical) | — | — | Scriptural | — |
+| Döber 1525 ([§7.8](#s7-8); Early Evangelical) | optional *gemein gebet* (common prayer; from Strasbourg, Early Evangelical) | — | German ("into his holy hands") | "showeth it to the people" |
+| Bremen 1525 ([§7.9](#s7-9); Early Evangelical) | — | *Quam oblationem* recast as a prayer to believe | Canon form | — |
 | Lippe [1525–38] ([§7.10](#s7-10)) | — | — | Canon form, with *mysterium fidei* | — |
 | Kiel [after 1526] ([§7.11](#s7-11)) | — | — | Canon form; cup consecrated after the bread is given | — |
 | Brandenburg 1540 ([§7.12](#s7-12)) | four collects under the Sanctus | — | Scriptural, sung | yes |
@@ -18148,15 +18316,15 @@ the wording of 1 Cor 11 and the Gospels.
 
 | Order | *Praeceptis salutaribus* (Taught by saving precepts) | Embolism | Fraction | *Pax Domini* (The peace of the Lord) | *Agnus Dei* (Lamb of God) |
 |---|---|---|---|---|---|
-| Kantz 1522 ([§7.2](#s7-2)) | "Let us pray" | conclusion only | *1524 edition only* | at the communion ("The peace be with you all") | German, once |
+| Kantz 1522 ([§7.2](#s7-2); Early Evangelical) | "Let us pray" | conclusion only | *1524 edition only* | at the communion ("The peace be with you all") | German, once |
 | Luther, *FM* 1523 ([§7.3](#s7-3)) | Latin | *forbidden* | *forbidden* | yes, as absolution | during communion |
 | Müntzer 1523/24 ([§7.4](#s7-4); Radical Reformation) | recast | sung ending *Per omnia* (World without end) | *yes* ("for the communicants' sake") | yes, with response | German |
-| Strasbourg 1524–25 ([§7.5](#s7-5); Moderate Reformed) | recast | one-line remnant | — | — | German |
-| Worms 1524 ([§7.6](#s7-6); Moderate Reformed) | German | conclusion only | *forbidden* | yes, as absolution | German, once |
-| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3)) | Latin | — | — | Latin | Latin, during communion; 1525 German |
-| Volprecht 1524 ([§7.7.2](#s7-7-2)) | recast | — | — | German, with response | German, thrice |
-| Döber 1525 ([§7.8](#s7-8)) | recast from Mt 6 | one-line remnant | — | "The Lord be with you" | German, twice |
-| Bremen 1525 ([§7.9](#s7-9)) | "Let us pray" | conclusion only | — | — | German, once |
+| Strasbourg 1524–25 ([§7.5](#s7-5); Early Evangelical; 1525 Moderate Reformed) | recast | one-line remnant | — | — | German |
+| Worms 1524 ([§7.6](#s7-6); Early Evangelical) | German | conclusion only | *forbidden* | yes, as absolution | German, once |
+| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3); Early Evangelical) | Latin | — | — | Latin | Latin, during communion; 1525 German |
+| Volprecht 1524 ([§7.7.2](#s7-7-2); Early Evangelical) | recast | — | — | German, with response | German, thrice |
+| Döber 1525 ([§7.8](#s7-8); Early Evangelical) | recast from Mt 6 | one-line remnant | — | "The Lord be with you" | German, twice |
+| Bremen 1525 ([§7.9](#s7-9); Early Evangelical) | "Let us pray" | conclusion only | — | — | German, once |
 | Lippe [1525–38] ([§7.10](#s7-10)) | recast (Müntzer, Radical Reformation) | conclusion and *Per omnia* | — | yes, with response | German, twice |
 | Kiel [after 1526] ([§7.11](#s7-11)) | — (no Our Father) | — | — | — | — |
 | Brandenburg 1540 ([§7.12](#s7-12)) | recast | — | — | yes | Latin, thrice |
@@ -18168,15 +18336,15 @@ the wording of 1 Cor 11 and the Gospels.
 
 | Order | Priest's prayers before communion | Words of distribution | Ablution prayers (*Quod ore*, *Corpus tuum*) | Postcommunion | Close |
 |---|---|---|---|---|---|
-| Kantz 1522 ([§7.2](#s7-2)) | *Fili Dei vivi* (Son of the living God), German, abridged | *custodiat* (preserve), to all; *Calicem salutaris* (The cup of salvation), plural | — | collect *Protector in te sperantium* (Protector of them that trust in thee) | *Nunc dimittis*; *Placeat* in German |
+| Kantz 1522 ([§7.2](#s7-2); Early Evangelical) | *Fili Dei vivi* (Son of the living God), German, abridged | *custodiat* (preserve), to all; *Calicem salutaris* (The cup of salvation), plural | — | collect *Protector in te sperantium* (Protector of them that trust in thee) | *Nunc dimittis*; *Placeat* in German |
 | Luther, *FM* 1523 ([§7.3](#s7-3)) | *Fili Dei vivi*, *permitted*, plural | *custodiat*, *permitted* | as the postcommunion | *Quod ore sumpsimus* (What we have taken with our mouth) | *Benedicamus*; Aaronic blessing |
 | Müntzer 1523/24 ([§7.4](#s7-4); Radical Reformation) | — | — | — | new | *Benedicamus* |
-| Strasbourg 1524–25 ([§7.5](#s7-5); Moderate Reformed) | *Fili Dei vivi*, German, prayed by all | 1525: "Remember, believe, proclaim …" | *Quod ore*, German | *Quod ore* as *complenda* (completion) | Trinitarian blessing |
-| Worms 1524 ([§7.6](#s7-6); Moderate Reformed) | — | *custodiat*, German; *Calicem salutaris* | echoed in the postcommunion | German, from *Perceptio* and *Corpus tuum* | *Nunc dimittis*; Trinitarian blessing |
-| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3)) | — | 1525: *custodiat*, German | — | proper *complenda* | 1525: *Benedicamus* |
-| Volprecht 1524 ([§7.7.2](#s7-7-2)) | *Qui dixisti* (Who saidst), *Fili Dei vivi*, *Perceptio*, German | *custodiat* (priest); *Calicem salutaris* | both, German | Trinity *Proficiat* (May [the receiving] profit) | Aaronic blessing; *Benedicamus* |
-| Döber 1525 ([§7.8](#s7-8)) | *Fili Dei vivi*, German, said by the people | *custodiat*, German | — | *Largire sensibus nostris* | *Nunc dimittis*; Aaronic and Trinitarian blessing |
-| Bremen 1525 ([§7.9](#s7-9)) | *Fili Dei vivi*, "through thy bottomless mercy" | *custodiat*; *Calicem salutaris* | — | — | *Nunc dimittis*; *Te Deum* (We praise thee, O God) |
+| Strasbourg 1524–25 ([§7.5](#s7-5); Early Evangelical; 1525 Moderate Reformed) | *Fili Dei vivi*, German, prayed by all | 1525: "Remember, believe, proclaim …" | *Quod ore*, German | *Quod ore* as *complenda* (completion) | Trinitarian blessing |
+| Worms 1524 ([§7.6](#s7-6); Early Evangelical) | — | *custodiat*, German; *Calicem salutaris* | echoed in the postcommunion | German, from *Perceptio* and *Corpus tuum* | *Nunc dimittis*; Trinitarian blessing |
+| Nürnberg parishes 1524, *Form* 1525 ([§7.7.1](#s7-7-1), [§7.7.3](#s7-7-3); Early Evangelical) | — | 1525: *custodiat*, German | — | proper *complenda* | 1525: *Benedicamus* |
+| Volprecht 1524 ([§7.7.2](#s7-7-2); Early Evangelical) | *Qui dixisti* (Who saidst), *Fili Dei vivi*, *Perceptio*, German | *custodiat* (priest); *Calicem salutaris* | both, German | Trinity *Proficiat* (May [the receiving] profit) | Aaronic blessing; *Benedicamus* |
+| Döber 1525 ([§7.8](#s7-8); Early Evangelical) | *Fili Dei vivi*, German, said by the people | *custodiat*, German | — | *Largire sensibus nostris* | *Nunc dimittis*; Aaronic and Trinitarian blessing |
+| Bremen 1525 ([§7.9](#s7-9); Early Evangelical) | *Fili Dei vivi*, "through thy bottomless mercy" | *custodiat*; *Calicem salutaris* | — | — | *Nunc dimittis*; *Te Deum* (We praise thee, O God) |
 | Lippe [1525–38] ([§7.10](#s7-10)) | — | — | — | Trinity *Proficiat* | *Benedicamus*; Aaronic blessing |
 | Kiel [after 1526] ([§7.11](#s7-11)) | *Fili Dei vivi*, said by the people; *Domine, non sum dignus* (Lord, I am not worthy) | — | — | a collect | Aaronic blessing |
 | Brandenburg 1540 ([§7.12](#s7-12)) | *Qui dixisti*, *Fili Dei vivi*, *Perceptio*, Latin | "Take and eat …" (*custodiat* only for the sick) | both, Latin | Nürnberg 1533 thanksgiving | — |
@@ -18220,11 +18388,11 @@ Every hit was read in context. The following orders were examined and are not pr
 des Sacraments. Durch Caspar Kantz von Nördlingen.* (Of the Evangelical Mass. With fine Christian prayers before and after the receiving of the Sacrament. By Caspar Kantz of Nördlingen.) Sehling 12, VIII.1, pp. 285–288
 ([`eko.db`](#repo-ekodb) doc 369). Sehling's base text is the print of 1522. The apparatus gives the
 changes of the second edition, *Die rechte evangelische und apostolische Mesß*, 1524
-("II").
+("II"). It is an Early Evangelical order ([§1.3.7](#s1-3-7)).
 
 This is the earliest German evangelical Mass in the corpus. It is the source of the
-Bremen Mass of 1525 ([§7.9](#s7-9)), and its opening prayers reappear in the Kiel Low German Mass
-([§7.11](#s7-11)). The Mass has no offertory. In its place Kantz puts:
+Bremen Mass of 1525 ([§7.9](#s7-9); Early Evangelical), and its opening prayers reappear in the Kiel Low
+German Mass ([§7.11](#s7-11)). The Mass has no offertory. In its place Kantz puts:
 
 - an address and absolution;
 - a recast *Orate fratres*;
@@ -18357,7 +18525,7 @@ thee for ever! Amen.
 
 **Note.**
 
-- **The end of the embolism.** As at Worms ([§7.6.10](#s7-6-10); Moderate Reformed), the Our Father runs
+- **The end of the embolism.** As at Worms ([§7.6.10](#s7-6-10); Early Evangelical), the Our Father runs
   straight into the conclusion of *Libera nos, quaesumus* (Deliver us, we beseech thee; "Through the same Jesus Christ our Lord, thy Son, who liveth and reigneth with thee in the unity of the Holy Spirit, God"). The body
   of the embolism is gone.
 - **The fraction, in the 1524 edition only.** The 1524 edition adds the doxology "for thine is the kingdom and the power and the glory for ever. Amen." It then adds a rubric before
@@ -18452,8 +18620,8 @@ profitable unto us unto everlasting life! Amen.
 Sehling 1, Martin Luther's Ordnungen Nr. 4, pp. 4–9 ([`eko.db`](#repo-ekodb) doc 2; the database dates
 the document 1889, the year of Sehling's volume). The order is in Latin. It is included
 because it is the model the German Masses answer to. Brandenburg 1540 ([§7.12](#s7-12)) takes its Latin
-communion prayers from the permissions given here. The Nürnberg Latin order of 1524 ([§7.7.1](#s7-7-1))
-takes its shortened Preface from it.
+communion prayers from the permissions given here. The Nürnberg Latin order of 1524 ([§7.7.1](#s7-7-1);
+Early Evangelical) takes its shortened Preface from it.
 
 Luther states the rule first: everything that "sounds of oblation", with the whole Canon,
 is to go. What is "pure and holy" stays. The paragraphs below are numbered as in the
@@ -18509,7 +18677,8 @@ what is sought by that elevation.
 
 - **The Preface.** It is cut off after *per Christum Dominum nostrum* (through Christ our Lord). The Verba follow as a
   relative clause on *Christum* (Christ; "Qui pridie …"). This is the form Nürnberg took up in 1524
-  ([§7.7.1](#s7-7-1)) and the German orders of Volprecht ([§7.7.2](#s7-7-2)) and Döber ([§7.8.2](#s7-8-2)) translated.
+  ([§7.7.1](#s7-7-1)) and the German orders of Volprecht ([§7.7.2](#s7-7-2)) and Döber ([§7.8.2](#s7-8-2)) translated, all three
+  Early Evangelical.
 - ***Qui pridie*** is reduced to the Gospel and Pauline wording.
   - Gone are *in sanctas ac venerabiles manus suas* (into his holy and venerable hands), *elevatis oculis* (with eyes lifted up), *benedixit* (blessed),
     *aeterni* (eternal) and *mysterium fidei* (the mystery of faith).
@@ -18537,11 +18706,12 @@ wont to do, which is the only trace of the ancient bishops left in our bishops.
 
 - **The embolism** ("Deliver us, we beseech thee, O Lord, from all evils …", Deliver us, we beseech thee, O Lord, from all evils …) is struck out, with its
   signs of the cross made over the host and the chalice with a fragment.
-- **The fraction and commixture are forbidden.** "let the host not be broken nor mixed into the chalice". Worms 1524 (Moderate Reformed) repeats this in German ([§7.6.11](#s7-6-11)). Of the evangelical
-  orders in the corpus, only Kantz's second edition (1524, [§7.2.5](#s7-2-5)) and Müntzer's Allstedt order
-  ([§7.4.2](#s7-4-2); Radical Reformation) break the bread at this point.
+- **The fraction and commixture are forbidden.** "let the host not be broken nor mixed into the chalice". Worms 1524 (Early Evangelical) repeats this in German ([§7.6.11](#s7-6-11)). Of the
+  evangelical orders in the corpus, only Kantz's second edition (1524, Early Evangelical;
+  [§7.2.5](#s7-2-5)) and Müntzer's Allstedt order ([§7.4.2](#s7-4-2); Radical Reformation) break the bread at this
+  point.
 - **The Peace.** *Pax Domini sit semper vobiscum* (The peace of the Lord be always with you) is reinterpreted as a public absolution. Worms
-  (Moderate Reformed) and Brandenburg keep it in that sense.
+  (Early Evangelical) and Brandenburg keep it in that sense.
 
 #### <a id="s7-3-4"></a>7.3.4 Communion: *Agnus Dei*, *Fili Dei vivi*, *custodiat*
 
@@ -18586,8 +18756,8 @@ fear him. Amen."
   - "What we have taken with our mouth, O Lord, may we receive with a pure mind; and from a temporal gift may it become for us an everlasting remedy";
   - "Thy Body, O Lord, which I have taken, and thy Blood, which I have drunk, cleave unto my inmost parts …", made plural.
 
-  Brandenburg 1540 and Pfalz-Neuburg 1543 kept both in Latin ([§7.12.8](#s7-12-8), [§7.14.8](#s7-14-8)). Volprecht ([§7.7.2](#s7-7-2))
-  and Strasbourg ([§7.5.1](#s7-5-1); Moderate Reformed) turned *Quod ore* (What with our mouth) into German.
+Brandenburg 1540 and Pfalz-Neuburg 1543 kept both in Latin ([§7.12.8](#s7-12-8), [§7.14.8](#s7-14-8)). Volprecht
+([§7.7.2](#s7-7-2)) and Strasbourg ([§7.5.1](#s7-5-1)), both Early Evangelical, turned *Quod ore* (What with our mouth) into German.
 - ***Benedicamus Domino*** replaces *Ite, missa est*.
 - **The blessing.** Luther's use of Numbers 6 is the origin of the Aaronic blessing at the end
   of the Lutheran Mass.
@@ -18621,8 +18791,10 @@ are those that, like the *Formula missae* (Form of the Mass), kept something of 
   printed at Allstedt 1524. Sehling 1, Nr. 47, pp. 504–506 (doc 52). It explains the Mass
   item by item and gives the rubrics the Mass itself lacks.
 
-Müntzer was no Lutheran but a leader of the Radical Reformation; yet his German Mass is the most
-conservative in the corpus in wording. It keeps:
+Müntzer wrote these texts as pastor at Allstedt in 1523–24, in the months before his public
+break with Luther in July 1524. They are marked Radical Reformation for their author
+([§1.3.6](#s1-3-6)), yet his German Mass is the most conservative in the corpus in wording. It
+keeps:
 
 - the offertory chant, with the Secret's *Per omnia saecula saeculorum* (World without end);
 - the full proper Preface;
@@ -18630,8 +18802,19 @@ conservative in the corpus in wording. It keeps:
 - the end of the embolism, with the fraction (per the *Ordnung* [order]);
 - *Pax Domini* (The peace of the Lord).
 
-His wording was taken over in the Lippe Mass ([§7.10](#s7-10)), the Kiel Low German Mass ([§7.11](#s7-11)) and,
-for the Preface dialogue, Calenberg-Göttingen 1542 ([§7.13](#s7-13)).
+The orders that took over his work did so in two ways:
+
+- **His German Mass, its eucharistic part included.** The Erfurt *Deutsches Kirchenamt* (German church office) of 1525
+  (Early Evangelical) reprints his five Masses and adds one for Trinity (Sehling 2,
+  pp. 376–380). The Lippe manuscript Mass of about 1525–1538 puts its eucharistic part into Low
+  German, probably from an Erfurt print ([§7.10](#s7-10)).
+- **His German propers only**, by way of the Erfurt *Kirchenamt*. Calenberg-Göttingen 1542 takes
+  many of his introits, collects, readings and Prefaces, with the *Per omnia* (World without end) and the dialogue
+  before the Preface, but its Sacrament comes from Brandenburg 1540 ([§7.13](#s7-13)). Lippe 1571
+  takes some of his Prefaces for the villages (Sehling 21, p. 410).
+
+The Kiel Low German Mass takes only two pieces, his Easter Preface and his *Qui pridie*
+([§7.11](#s7-11)).
 
 #### <a id="s7-4-1"></a>7.4.1 Offertory, Preface, Sanctus (Advent)
 
@@ -18768,7 +18951,7 @@ Let us bless the Lord. Thanks be to God for ever.
 
 - **The postcommunion.** It is not a Roman text. The sacrament as a "holy sign" of
   a covenant bond fits Müntzer's teaching. "Tender flesh and precious blood" are the
-  vocabulary of late-medieval eucharistic devotion (compare Kantz's "tender body and rose-coloured blood", [§7.2.1](#s7-2-1)).
+  vocabulary of late-medieval eucharistic devotion (compare Kantz's "tender body and rose-coloured blood", [§7.2.1](#s7-2-1); Early Evangelical).
 - ***Benedicamus Domino / Deo gratias*** replaces *Ite, missa est* (Go, it is the dismissal), as in the *Formula
   missae* (Form of the Mass).
 - **The Whitsun postcommunion.** The other Masses have their own postcommunions. The Whitsun
@@ -18780,9 +18963,8 @@ Let us bless the Lord. Thanks be to God for ever.
 
 ### <a id="s7-5"></a>7.5 Strasbourg, the early German Masses, 1524–1525
 
-Sehling 20, Straßburg, Nr. 3 "Die frühen Agenden" (The early agendas), pp. 120–162 ([`eko.db`](#repo-ekodb) doc 1279). These are
-Moderate Reformed orders: Strasbourg's Reformation under Bucer and Capito stood between
-Wittenberg and Zurich until the Interim. Sehling prints six forms:
+Sehling 20, Straßburg, Nr. 3 "Die frühen Agenden" (The early agendas), pp. 120–162 ([`eko.db`](#repo-ekodb) doc 1279). Sehling
+prints six forms:
 
 | | Form | Pages |
 |---|---|---|
@@ -18792,6 +18974,14 @@ Wittenberg and Zurich until the Interim. Sehling prints six forms:
 | d | *Teutsch Kirchenampt mit lobgsengen*, 1524/25 | 136–141 |
 | e | *Ordnung des Herren Nachtmal, so man die mesß nennet*, 1525 | 142–150 |
 | f | *Straßburger kirchen ampt*, 1525 | 151–162 |
+
+Forms a–d are Early Evangelical orders, made before the dispute over the Lord's Supper divided
+the evangelical movement ([§1.3.7](#s1-3-7)). Forms e and f, of 1525, are Moderate Reformed, like the
+city's later orders to the Interim, when its Reformation under Bucer and Capito stood between
+Wittenberg and Zurich. By then its preachers had rejected the bodily presence, as the canons who
+had fled the city complained in February 1525. Form e speaks of the Supper, not the Mass, of a
+table, not an altar, and of the minister, not the priest (Sehling's editors, Sehling 20/1,
+pp. 35, 44).
 
 The Worms Mass ([§7.6](#s7-6)) is the Strasbourg Mass of 1524 in use at Worms. Its Canon prayers
 (*Te igitur* to *Supplices*) are not in Schwarz's text. A later hand added one of them,
@@ -18872,7 +19062,7 @@ sins.
     unfinished in the manuscript. A second hand added a continuation (Sehling's apparatus
     q, later struck out): "O most gracious Father, thine only Son … which thou hast given to the world through Christ Jesus our Lord." This is the germ of the long 1525
     prayer ([§7.5.2](#s7-5-2)).
-  - Döber prints the same intercession as an option "after the Preface or before the Sanctus" ([§7.8.11](#s7-8-11)). Form d calls it "Almighty, merciful Father, forasmuch as thy Son …".
+  - Döber (Early Evangelical) prints the same intercession as an option "after the Preface or before the Sanctus" ([§7.8.11](#s7-8-11)). Form d calls it "Almighty, merciful Father, forasmuch as thy Son …".
 - ***Qui pridie*** keeps "on the next day before his suffering" (*pridie quam pateretur*),
   "blessed it" (*benedixit*) and *novi et aeterni testamenti* (of the new and eternal testament).
   - It adds "which shall be given for you" (1 Cor 11:24).
@@ -18911,8 +19101,8 @@ Thou Lamb of God, grant us peace.
     "under" to "in".
   - It added the doxology to the Our Father.
 - **The embolism.** "Lord, deliver us from all visible and invisible enemies …" is
-  the embolism reduced to one line. Döber has the same line ([§7.8.5](#s7-8-5)), and Sehling calls it
-  there "remnant of the embolism". There is no fraction.
+  the embolism reduced to one line. Döber (Early Evangelical) has the same line ([§7.8.5](#s7-8-5)), and
+  Sehling calls it there "remnant of the embolism". There is no fraction.
 
 *A short exhortation to the people. The communion*
 Let us pray: Lord Jesu Christ, thou Son of the living God, who by the Father's will and the
@@ -18932,8 +19122,8 @@ alway, Amen.
 **Note.**
 
 - ***Fili Dei vivi*** is said aloud as the prayer of all ("Let us pray") before the
-  communion. Form b adds the rubric "Here both sacraments, the body and blood of the Lord under bread and wine, are distributed … to the people". Döber ([§7.8.8](#s7-8-8)) and the Kiel Mass ([§7.11](#s7-11))
-  have the same German text, said by the people after the priest.
+  communion. Form b adds the rubric "Here both sacraments, the body and blood of the Lord under bread and wine, are distributed … to the people". Döber ([§7.8.8](#s7-8-8); Early Evangelical) and the Kiel
+  Mass ([§7.11](#s7-11)) have the same German text, said by the people after the priest.
 - **The *complenda*** is *Quod ore sumpsimus* (What we have taken with our mouth) in full. It is the "complenda" (completion) Luther had
   recommended ([§7.3.5](#s7-3-5)).
 - **The blessing** keeps three crosses.
@@ -19092,7 +19282,8 @@ hear you and show you his salvation, Amen.
 ### <a id="s7-6"></a>7.6 Worms, *Deutsche Messe*, 1524
 
 *Form und Ordenung der Evangelischen deutschen Messen, wie sie zu Worms gehalten wird.* (Form and order of the evangelical German Mass, as it is held at Worms.) Sehling
-19, III, Nr. 1, pp. 124–129. Like its Strasbourg original, it is a Moderate Reformed order.
+19, III, Nr. 1, pp. 124–129. Like its Strasbourg original, it is an Early Evangelical order
+([§1.3.7](#s1-3-7)).
 
 The preface says this Mass is kept "at Strasbourg and Worms". This is the Strasbourg
 German Mass of 1524 ([§7.5](#s7-5)) in use at Worms, with the Canon prayers that Schwarz's Strasbourg
@@ -19341,8 +19532,9 @@ Three Nürnberg orders sit alongside Döber's Mass ([§7.8](#s7-8)):
 | *Deutsche Messe des Priors Volprecht* (Augustinians), 1524 | 11, I.3 | 247 | 41–42 |
 | *Form und Ordnung einer Christlichen Messe*, 1525 | 11, I.7 | 251 | 57 |
 
-The parish order is Latin and follows the *Formula missae* (Form of the Mass) closely. Volprecht's German Mass is
-the most conservative in the corpus after Worms (Moderate Reformed). It keeps all three of the
+All three, like Döber's Mass, are Early Evangelical orders ([§1.3.7](#s1-3-7)). The parish order is
+Latin and follows the *Formula missae* (Form of the Mass) closely. Volprecht's German Mass is the most
+conservative in the corpus after Worms (Early Evangelical). It keeps all three of the
 priest's prayers before communion and both ablution prayers, translated.
 
 #### <a id="s7-7-1"></a>7.7.1 The parish churches, 1524 (Latin)
@@ -19508,7 +19700,7 @@ fed us with thy holy sacraments!
   - ***Custodiat.*** "Preserve my soul unto everlasting life" is *Corpus Domini nostri Iesu
     Christi custodiat animam meam in vitam aeternam* (The body of our Lord Jesus Christ preserve my soul unto everlasting life). "which is given for us" is added.
   - ***Calicem salutaris.*** "Let us also drink the cup of salvation" is *Calicem
-    salutaris accipiam* (I will take the cup of salvation; Ps 116:13), plural, as in Kantz ([§7.2.6](#s7-2-6)).
+    salutaris accipiam* (I will take the cup of salvation; Ps 116:13), plural, as in Kantz ([§7.2.6](#s7-2-6); Early Evangelical).
 - **The ablution prayers.**
   - ***Quod ore sumpsimus*** is complete: "What we have taken with our mouth, O Lord, may we receive with a pure mind; and from a temporal gift may it become for us an everlasting remedy".
   - ***Corpus tuum*** is made plural: "Thy Body, O Lord, which I have taken, and thy Blood, which I have drunk, cleave unto my inmost parts; and grant that no stain of sin may remain in me, whom pure and holy sacraments have refreshed". "Visceribus" (inmost parts) becomes "inwardly in our hearts".
@@ -19580,7 +19772,8 @@ Benedicamus Domino, in the Sunday tone.*
 
 ### <a id="s7-8"></a>7.8 Nürnberg, Döber's *Deutsche Messe*, 1525
 
-Andreas Döber's German Mass for the Neues Spital, Nürnberg. Sehling 11, I.6, pp. 52–55.
+Andreas Döber's German Mass for the Neues Spital, Nürnberg. Sehling 11, I.6, pp. 52–55. It is
+an Early Evangelical order, like the other Nürnberg orders of 1524–1525 ([§7.7](#s7-7), [§1.3.7](#s1-3-7)).
 
 Döber follows the order Luther proposed in the *Formula missae* (1523), as Nürnberg's
 parish churches had done in 1524. There is no offertory. A truncated Preface runs straight
@@ -19840,7 +20033,7 @@ and thirst after the grace and righteousness which alone availeth before thee, w
 hast given to the world through Christ Jesus our Lord.
 *After this followeth the Qui pridie. God be praised!*
 
-**Note.** Sehling traces the prayer to the Strasbourg order of 1524 (Moderate Reformed). Its
+**Note.** Sehling traces the prayer to the Strasbourg order of 1524 (Early Evangelical). Its
 rubric puts it exactly where *Te igitur* (Thee therefore) stood: after the Preface, before the Sanctus in Döber's
 order, and leading into *Qui pridie* (Who the day before). It intercedes for the emperor, princes and council, for
 all peoples, and for "this congregation". These are the intentions of *Te igitur* and the
@@ -19851,10 +20044,10 @@ all peoples, and for "this congregation". These are the intentions of *Te igitur
 ### <a id="s7-9"></a>7.9 Bremen, *Eyne evangelysce Misse*, 1525 (Kantz in Low German)
 
 *Eyne evangelysce Misse myt etlijke schone gebede …* (An evangelical Mass with some fine prayers …) Bremen 1525. Sehling 7, III, Nr. 1,
-pp. 403–407 ([`eko.db`](#repo-ekodb) doc 2216).
+pp. 403–407 ([`eko.db`](#repo-ekodb) doc 2216). It is an Early Evangelical order ([§1.3.7](#s1-3-7)).
 
-The Mass itself is Kantz's order of 1522 ([§7.2](#s7-2)) in Low German. Before it stand three
-devotional prayers for the communicant. The second is a "meditation at the Mass". Its opening confession of the Real Presence is the nearest thing in
+The Mass itself is Kantz's order of 1522 ([§7.2](#s7-2); Early Evangelical) in Low German. Before it
+stand three devotional prayers for the communicant. The second is a "meditation at the Mass". Its opening confession of the Real Presence is the nearest thing in
 the order to a Canon.
 
 The foreword warns that the prayers are no rule: they are meant to show "what faith and
@@ -19993,13 +20186,14 @@ into a Lutheran order:
 - the *Per omnia saecula* after the Our Father;
 - *Pax Domini* (The peace of the Lord).
 
-Its propers are those of Volprecht's Trinity Mass ([§7.7.2](#s7-7-2)): Rom 11:33–36, John 15:26–16:4,
-the Alleluia *Benedictus es, Domine, Deus patrum nostrorum* (Blessed art thou, O Lord God of our fathers), and the *Proficiat* (May [the receiving] profit)
-postcommunion.
+Its propers are those of Volprecht's Trinity Mass ([§7.7.2](#s7-7-2); Early Evangelical): Rom 11:33–36,
+John 15:26–16:4, the Alleluia *Benedictus es, Domine, Deus patrum nostrorum* (Blessed art thou, O Lord God of our fathers), and the
+*Proficiat* (May [the receiving] profit) postcommunion.
 
-Müntzer's own German Mass has no Trinity Mass. The Erfurt *Kirchenamt* of 1525, which
-reprinted Müntzer's Masses, added one (Sehling 6, III, p. 812 n. 26, to Calenberg-Göttingen 1542,
-[§7.13](#s7-13)). An Erfurt print of this kind is the likely source of the Lippe text.
+Müntzer's own German Mass has no Trinity Mass. The Erfurt *Kirchenamt* of 1525 (Early
+Evangelical), which reprinted Müntzer's Masses, added one (Sehling 6, III, p. 812 n. 26, to
+Calenberg-Göttingen 1542, [§7.13](#s7-13)). An Erfurt print of this kind is the likely source of the Lippe
+text.
 
 *The offertory*
 *For the offertory a spiritual song is sung, that is, a psalm.*
@@ -20088,7 +20282,7 @@ thee, and turn his face unto thee and give thee peace, amen.
   There is no fraction rubric.
 - ***Pax Domini*** is kept with its response. The response is run on in the manuscript.
 - **The postcommunion** is the Roman *Proficiat* of Trinity Sunday, as in Volprecht
-  ([§7.7.2](#s7-7-2)).
+  ([§7.7.2](#s7-7-2); Early Evangelical).
 - **The blessing.** "Let us bless the Lord; to God be thanks for ever" is Müntzer's
   *Benedicamus*. The Aaronic blessing follows.
 
@@ -20098,14 +20292,14 @@ thee, and turn his face unto thee and give thee peace, amen.
 
 Sehling 23, A, Nr. 1, pp. 55–57 ([`eko.db`](#repo-ekodb) doc 1576; introduction in doc 1568, p. 39). The
 manuscript, with notes, was bound into a book of the Kiel preacher Rudolf von Nimwegen
-(† 1542). Sehling's editor dates it after 1526 because it draws on Döber (1525) and on
-Luther's *Deutsche Messe* (1526).
+(† 1542). Sehling's editor dates it after 1526 because it draws on Döber (1525, Early
+Evangelical) and on Luther's *Deutsche Messe* (1526).
 
 The order also draws on:
 
-- **Kantz** ([§7.2](#s7-2)): the *Veni Sancte Spiritus* (Come, Holy Spirit) and its collect.
+- **Kantz** ([§7.2](#s7-2); Early Evangelical): the *Veni Sancte Spiritus* (Come, Holy Spirit) and its collect.
 - **Müntzer** ([§7.4](#s7-4)): the Roman *Qui pridie* (Who the day before), with "lifted up his eyes".
-- **Döber** ([§7.8](#s7-8)): the *Fili Dei vivi* (Son of the living God) said by the people after the priest.
+- **Döber** ([§7.8](#s7-8); Early Evangelical): the *Fili Dei vivi* (Son of the living God) said by the people after the priest.
 
 It is the only order in the corpus with a German *Domine, non sum dignus* (Lord, I am not worthy).
 
@@ -20187,8 +20381,8 @@ divine promise, make me whole by thy wholesome word. Amen.
 
 - **The priest holds the host** during the exhortation. The exhortation takes the place of
   the Canon's remembrance.
-- ***Fili Dei vivi*** is the Strasbourg and Döber German text ([§7.5.1](#s7-5-1), [§7.8.8](#s7-8-8)), said after
-  the priest by the communicants. Three phrases are added:
+- ***Fili Dei vivi*** is the German text of Strasbourg and Döber ([§7.5.1](#s7-5-1), [§7.8.8](#s7-8-8); both
+  Early Evangelical), said after the priest by the communicants. Three phrases are added:
   - "through faith" (the world is made alive through faith);
   - "us poor children of Adam";
   - "with desire and love".
@@ -20530,8 +20724,8 @@ To these Göttingen adds a *custodiat* (preserve) at the distribution, which Bra
 Brandenburg's Latin *Domine Iesu Christe, qui dixisti* (O Lord Jesus Christ, who saidst) becomes a German postcommunion collect.
 The proper Masses for the church year take many of their introits, collects, readings and
 Prefaces from Müntzer's German Mass ([§7.4](#s7-4); Radical Reformation). Sehling's notes to doc 2037 say
-so at each place, e.g. p. 821 n. 84: "Compare the same Preface in Müntzer, German evangelical Mass of 1524". The route is given in Sehling's note 26 (p. 812): "Corvinus has here, by way of the Erfurt church offices, taken over in part the altar chants and liturgical texts of Thomas Müntzer". The Erfurt *Kirchenamt* of 1525 added a Trinity Mass to Müntzer's five, and a
-second Erfurt print added the Ascension, the Sacrament and the Apostles.
+so at each place, e.g. p. 821 n. 84: "Compare the same Preface in Müntzer, German evangelical Mass of 1524". The route is given in Sehling's note 26 (p. 812): "Corvinus has here, by way of the Erfurt church offices, taken over in part the altar chants and liturgical texts of Thomas Müntzer". The Erfurt *Kirchenamt* of 1525 (Early Evangelical) added a Trinity Mass to
+Müntzer's five, and a second Erfurt print added the Ascension, the Sacrament and the Apostles.
 
 #### <a id="s7-13-1"></a>7.13.1 Offertory, Preface, Sanctus, and the collect under the Sanctus
 
@@ -21134,9 +21328,10 @@ Canon of the Mass.
 
 - **The Canon has become the general prayer.** For Bugenhagen, the Church's intercession
   after the sermon *is* the Canon: the prayer "for the church … for peace" that *Te igitur* (Thee therefore)
-  had once been. The German Masses of Strasbourg (§[7.5.1](#s7-5-1)–[7.5.2](#s7-5-2)) and Döber ([§7.8.11](#s7-8-11)) put the
-  same intercession into the Canon's own place after the Sanctus. Bugenhagen moves it to
-  after the sermon, where the general prayers of the later church orders stand.
+  had once been. The German Masses of Strasbourg (§[7.5.1](#s7-5-1)–[7.5.2](#s7-5-2); Early Evangelical in 1524,
+  Moderate Reformed in 1525) and Döber ([§7.8.11](#s7-8-11); Early Evangelical) put the same intercession
+  into the Canon's own place after the Sanctus. Bugenhagen moves it to after the sermon, where
+  the general prayers of the later church orders stand.
 - **"in ullum"** is Sehling's print, for *in illum*.
 
 ---
@@ -21168,7 +21363,7 @@ the truth.
 
 The orders in this file answer the demand in two ways:
 
-- **Worms 1524** (Moderate Reformed) had already done what the critique asks. It kept the Canon
+- **Worms 1524** (Early Evangelical) had already done what the critique asks. It kept the Canon
   but turned each offering into prayer: "offer our humble prayer" ([§7.6.8](#s7-6-8)); "that thou wouldest accept us and all our prayer …" ([§7.6.5](#s7-6-5)).
 - **Osiander's prayer in Pfalz-Neuburg 1543** ([§7.14.2](#s7-14-2)) does it half-way. It "brings" the gifts
   before the divine majesty, but offers bread and wine, not the body and blood.
@@ -21258,12 +21453,12 @@ German Benedictus or the German Te Deum instead (§§[8.4.3](#s8-4-3)–[8.4.4](
 
 **4. The ordinaries were troped and paraphrased in German.**
 - **Kyrie.** Troped German Kyries survive in the Low German Mass of Schleswig-Holstein (after
-  1526), Naumburg (1537/38), Mecklenburg (1545), Ritzebüttel (1556), Pfalz-Zweibrücken (1557) and
-  Hof (1592). They were sung to the melodies of the Latin troped Kyries, the *Fons bonitatis* (Fount of goodness)
-  (also called the *summum* [the highest chant]), the *paschale* (Easter [Kyrie]) and the *Magne Deus* (Great God), and graded by season. The
-  Latin tropes themselves are named at Nördlingen (1579) and printed in Hof's Holy Week office
-  (1592) ([§8.6.4](#s8-6-4)). The Kyrie was also sung in three tongues, Greek, Latin and German
-  (Prussia 1525, Riga 1530, Neuenrade 1564) ([§8.6](#s8-6)).
+  1526), Naumburg (1537/38), Mecklenburg (1545), Ritzebüttel (1556), Pfalz-Zweibrücken (1557)
+  and Hof (1592). They were sung to the melodies of the Latin troped Kyries, the *Fons
+  bonitatis* (Fount of goodness; also called the *summum* [the highest chant]), the *paschale* (Easter [Kyrie]) and the *Magne Deus* (Great God), and graded by
+  season. The Latin tropes themselves are named at Nördlingen (1579) and printed in Hof's Holy
+  Week office (1592) ([§8.6.4](#s8-6-4)). The Kyrie was also sung in three tongues, Greek, Latin and German
+  (Prussia 1525, Early Evangelical; Riga 1530; Neuenrade 1564) ([§8.6](#s8-6)).
 - **Gloria.** Decius's "Allein Gott in der Höh sei Ehr" (All Glory Be to God on High), in Low German "Allene Godt yn der
   höge sy eer" (All Glory Be to God on High), was the German Gloria of the corpus. Fifty-two orders name it in the Gloria slot
   ([§8.7.6](#s8-7-6)). It was sung for, alternately with, or inside the Latin Gloria. In the
@@ -21975,8 +22170,9 @@ edification, then in the stead of the introit a German psalm shall be sung, as "
 Ghost, God and Lord," or else another at the bidding of the pastor. But on the working day a
 German psalm shall always be sung for the introit.
 
-**Prussia, *Artikel der Ceremonien*, 1525** (Sehling 4, p. 32). The German psalms already
-sung in place of the introit may stay until the new Latin schools can sing the Latin again:
+**Prussia, *Artikel der Ceremonien*, 1525** (Early Evangelical; Sehling 4, p. 32). The German
+psalms already sung in place of the introit may stay until the new Latin schools can sing the
+Latin again:
 
 <!-- doc 1832 -->
 
@@ -22091,7 +22287,7 @@ me," etc.; or another German psalm.
 In some of the earliest German Masses a hymn stands where the introit stood, under the
 heading *Introitus* (Introit). The Nürnberg hospital Mass of Andreas Döber prints "Nun bitten wir" (To God the Holy Spirit Let Us Pray)
 with the heading "Introit, or entrance of the Mass". **Nürnberg, Döber's German Mass in the New
-Hospital, 1525** (Sehling 11, p. 56):
+Hospital, 1525** (Early Evangelical; Sehling 11, p. 56):
 
 <!-- doc 250 -->
 
@@ -22252,7 +22448,7 @@ after the others, when one will, and especially on the feasts.
 #### <a id="s8-6-2"></a>8.6.2 In three tongues
 
 Two Baltic orders have the three petitions sung in three languages: Greek, Latin and German.
-**Prussia, *Artikel der Ceremonien*, 1525** (Sehling 4, p. 32):
+**Prussia, *Artikel der Ceremonien*, 1525** (Early Evangelical; Sehling 4, p. 32):
 
 <!-- doc 1832 -->
 
@@ -24749,7 +24945,7 @@ hymn in Lent, the festal hymns at the feasts, and the German Te Deum.
 
 #### <a id="s8-14-1"></a>8.14.1 The core pair
 
-**Prussia, *Artikel der Ceremonien*, 1525** (Sehling 4, p. 33):
+**Prussia, *Artikel der Ceremonien*, 1525** (Early Evangelical; Sehling 4, p. 33):
 
 <!-- doc 1832 -->
 
@@ -25726,7 +25922,7 @@ those of vespers.
 
 The first Nürnberg Mass ends "with the Benedicamus Domino, in the Sunday tone", followed by "Es woll
 uns Gott genädig sein" (May God Bestow on Us His Grace; **Nürnberg, *Form und Ordnung einer christlichen Messe*, 1525**,
-Sehling 11, p. 57).
+Early Evangelical; Sehling 11, p. 57).
 
 **In German.** Müntzer's Allstedt offices (Radical Reformation) end every matins with a German
 *Benedicamus*. It is plain in Advent and the Passion, with a threefold alleluia at Easter.
@@ -25741,8 +25937,9 @@ ever, alleluia, alleluia.
 The Advent form is on p. 475 and the Passion form on p. 485. Müntzer's *Deutsch evangelisch
 messe* (German evangelical Mass) of 1524 (Radical Reformation) ends each Mass with the same words
 (Sehling 1, pp. 501–503), and so does the Erfurt *Deutsches Kirchenamt* (German church office) of 1525
-(Sehling 2, pp. 376, 380). In Franconia the German form closed the Mass after the thanksgiving
-collect. **Brandenburg-Ansbach, *Auctuarium*, 1548** (Interim order; Sehling 11, p. 330):
+(Early Evangelical; Sehling 2, pp. 376, 380). In Franconia the German form closed the Mass after
+the thanksgiving collect. **Brandenburg-Ansbach, *Auctuarium*, 1548** (Interim order; Sehling
+11, p. 330):
 
 <!-- doc 278 -->
 
@@ -25902,8 +26099,8 @@ penitential psalm, the *Miserere* or *De profundis* (Out of the depths): "Have m
 gracious to me," "From Depths of Woe I Cry to Thee," or "All Mankind Fell in Adam's Fall," etc.
 
 The Wolfenbüttel village vespers followed it with "Erhalt uns, Herr, bey deinem wort" (Lord, Keep Us Steadfast in Your Word)
-(Sehling 6/1, p. 154). The Nürnberg Mass of 1525 followed it with "Es woll uns Gott genädig
-sein" (May God Bestow on Us His Grace; above).
+(Sehling 6/1, p. 154). The Nürnberg Mass of 1525 (Early Evangelical) followed it with "Es woll
+uns Gott genädig sein" (May God Bestow on Us His Grace; above).
 
 #### <a id="s8-16-10"></a>8.16.10 *Puer natus in Bethlehem* and the festal songs
 
@@ -26997,7 +27194,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 
 | Order | Sehling | Doc | Hymn practice | § |
 |---|---|---|---|---|
-| Nürnberg, Döber's German Mass in the New Hospital, 1525 | 11, p. 56 | 250 | "Nun bitten" printed as the introit | [8.5.3](#s8-5-3) |
+| Nürnberg, Döber's German Mass in the New Hospital, 1525 (Early Evangelical) | 11, p. 56 | 250 | "Nun bitten" printed as the introit | [8.5.3](#s8-5-3) |
 | Brandenburg-Nürnberg, *Kirchenordnung*, 1533, later appendix | 11, p. 202 | 270 | penitential hymns only for the unrepentant dead | [8.17.4](#s8-17-4) |
 | Brandenburg-Ansbach, *Ordnung singens und lesens bei den Stiften*, 1533 | 11, p. 316 | 276 | *O crux ave* cut | [8.16.1](#s8-16-1) |
 | Brandenburg-Ansbach, *Auctuarium*, 1548 (Interim order) | 11, pp. 329–330 | 278 | pure sequences; psalm-hymns for impure graduals "for the people's sake"; German *Benedicamus* at the end of Mass | [8.5.2](#s8-5-2), [8.8.2](#s8-8-2), [8.16.8](#s8-16-8) |
@@ -27136,7 +27333,7 @@ Every order quoted in this chapter is listed below by region. The table gives:
 | Liegnitz, *Kirchenordnung*, 1542 | 3, p. 439 | 1809 | creed after the sermon | [8.9.2](#s8-9-2) |
 | Brieg, *Kirchenordnung*, 1592 | 3, pp. 445–446 | 1809 | Athanasian creed from Triller; hymns to agree with sermon, but known hymns not put under; Magnificat with *Resonet in laudibus* (Let it resound in praises) | [8.9.1](#s8-9-1), [8.10.4](#s8-10-4), [8.11.4](#s8-11-4), [8.16.10](#s8-16-10) |
 | Teschen, *Kirchenordnung*, 1584 | 3, p. 462 | 1815 | German or Bohemian hymn for the introit | [8.5.1](#s8-5-1) |
-| Prussia, *Artikel der Ceremonien*, 1525 | 4, pp. 32–33 | 1832 | German psalms for introits; Kyrie in three tongues; Hus hymn and "Gott sei gelobet" | [8.5.1](#s8-5-1), [8.6.2](#s8-6-2), [8.14.1](#s8-14-1) |
+| Prussia, *Artikel der Ceremonien*, 1525 (Early Evangelical) | 4, pp. 32–33 | 1832 | German psalms for introits; Kyrie in three tongues; Hus hymn and "Gott sei gelobet" | [8.5.1](#s8-5-1), [8.6.2](#s8-6-2), [8.14.1](#s8-14-1) |
 | Prussia, *Kirchenordnung*, 1544 | 4, pp. 64–65 | 1833 | rotating introit-psalms; alleluia and psalm list; hymn while priest "takes breath"; Sanctus while communicants come forward | [8.5.2](#s8-5-2), [8.8.7](#s8-8-7), [8.11.2](#s8-11-2), [8.12.1](#s8-12-1) |
 | Prussia, *Kirchenordnung und Ceremonien*, 1568 | 4, pp. 75–84 | 1833 | Latin and German Gloria by turns; farced sequences; "Nun bitten" before, "Erhalt uns" after every sermon; Luther's hymns first | [8.7.2](#s8-7-2), [8.8.3](#s8-8-3), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.11.1](#s8-11-1), [8.18.5](#s8-18-5) |
 | Danzig, *Kirchenordnung*, 1557, in Sehling's summary | 4, p. 168 | 1844 | same hymns two Sundays running | [8.18.4](#s8-18-4) |
@@ -27538,10 +27735,10 @@ asks:
 
 1. **Kept by the Lutherans, kept out of the service by the Reformed.** Luther would have "all
    the organs piped" if it served the young (1526). No Lutheran order abolishes the organ.
-   Wittenberg's castle church in 1525 limits it to the Sunday *Te Deum* (We praise thee, O God) and German songs.
-   Strasbourg in 1598 defends "singing and organ-playing" against the Reformed, who cast them
-   out as "papistical leaven". Reformed Emden (1594) keeps its organ but uses it only before the
-   service, while the people gather, and after it, as they leave ([§9.3.1](#s9-3-1)).
+   Wittenberg's castle church in 1525 (Early Evangelical) limits it to the Sunday *Te Deum* (We praise thee, O God) and
+   German songs. Strasbourg in 1598 defends "singing and organ-playing" against the Reformed,
+   who cast them out as "papistical leaven". Reformed Emden (1594) keeps its organ but uses it
+   only before the service, while the people gather, and after it, as they leave ([§9.3.1](#s9-3-1)).
 2. **Preludes: yes, of two kinds** ([§9.3.2](#s9-3-2)).
    - **A voluntary while the people gather.** At Strasbourg 1598 the organist begins "at the end
      of the last ringing"; at Emden 1594 (Reformed), "before nine o'clock, when the people gather".
@@ -27598,9 +27795,9 @@ asks:
 **Bells**
 
 7. **Purpose.** Bells call people to the Word and to prayer, not to "the pomp of the feasts"
-   (Wittenberg 1525, Saxe-Lauenburg 1585). Some orders curbed festal chiming (Danzig 1567,
-   Bentheim 1601 (Reformed)); most kept more bells for greater days (Altenburg 1533, Danzig
-   1612) ([§9.5.1](#s9-5-1)).
+   (Wittenberg 1525, Early Evangelical; Saxe-Lauenburg 1585). Some orders curbed festal chiming
+   (Danzig 1567, Bentheim 1601 (Reformed)); most kept more bells for greater days (Altenburg
+   1533, Danzig 1612) ([§9.5.1](#s9-5-1)).
 8. **Before church.** The usual summons is three signs, the last "together", or three with one
    bell and a little bell last (Gelnhausen [1568], Esslingen 1540 (Moderate Reformed), Bentheim
    1601 (Reformed)). Danzig 1612 names its seven bells and gives the full Sunday and weekday
@@ -27616,8 +27813,8 @@ asks:
    - **The Friday bell for the Passion.** Kept by some (Kurpfalz 1546, Thüngen 1564), abolished
      with the *Tenebrae* ringing by others (Hohenlohe 1582).
 10. **At the elevation and consecration** ([§9.5.4](#s9-5-4)).
-    - **A sign with the little bell before the consecration.** Prussia 1525, Riga 1530 and
-      Kurland 1570.
+    - **A sign with the little bell before the consecration.** Prussia 1525 (Early Evangelical),
+      Riga 1530 and Kurland 1570.
     - **Ringing at the elevation.** The Danish *Ordinatio* (Ordinance) of 1537 allows it, "the bells
       meanwhile sounding according to custom". The Interim restored it at Ansbach (1548). At Hof
       it lasted until about 1560, "with a threefold pulse of the little bell".
@@ -27712,7 +27909,7 @@ piped, and let sound everything that could sound.
 **Wittenberg 1525.** The Wittenberg order for the castle church, a year earlier, is far more
 sparing. The bells are a signal, not festal pomp, and the organ, since it is already there, may
 sound only at the Sunday *Te Deum* (We praise thee, O God) and at German songs. **Wittenberg, *Wie es einer zeit mit den
-ceremonien der kirchen gehalten wirt*, 1525** (Sehling 1, p. 699):
+ceremonien der kirchen gehalten wirt*, 1525** (Early Evangelical; Sehling 1, p. 699):
 
 <!-- doc 147 -->
 
@@ -28231,11 +28428,11 @@ after the end of the same sermon.
 #### <a id="s9-5-1"></a>9.5.1 What the bells are for
 
 **A signal to the Word and to prayer.** The orders agree that bells exist to call people to the
-preaching of the Word and to common prayer. Wittenberg 1525 ([§9.3.1](#s9-3-1)) allows them "for a sign …
-when they are to come together to the singing and when to the hearing of the word of God", and
-not "for that pomp of the feasts". Saxe-Lauenburg sets out the same principle, then forbids
-weather-ringing and secular use of the bells. **Saxe-Lauenburg, *Kirchenordnung*, 1585**
-(Sehling 5, p. 423):
+preaching of the Word and to common prayer. Wittenberg 1525 (Early Evangelical; [§9.3.1](#s9-3-1)) allows
+them "for a sign … when they are to come together to the singing and when to the hearing of the
+word of God", and not "for that pomp of the feasts". Saxe-Lauenburg sets out the same principle,
+then forbids weather-ringing and secular use of the bells. **Saxe-Lauenburg, *Kirchenordnung*,
+1585** (Sehling 5, p. 423):
 
 <!-- doc 1953 -->
 
@@ -28490,7 +28687,7 @@ some kept the bell with it.
 
 **A bell sign before the consecration.** The earliest Prussian and Livonian orders keep a sign
 with the little bell between the Preface and the consecration:
-- **Prussia, *Artikel der Ceremonien*, 1525** (Sehling 4, p. 32):
+- **Prussia, *Artikel der Ceremonien*, 1525** (Early Evangelical; Sehling 4, p. 32):
 
 <!-- doc 1832 -->
 
@@ -28603,7 +28800,8 @@ vestments, to which some mystery is ascribed, and whatever more such things ther
 - **No ringing at the *Gloria in excelsis*, at Easter or otherwise.** The festal bells of Easter
   belong to the summons and the chiming of the feast ([§9.5.1](#s9-5-1)), not to the Gloria.
 - **No altar bell at the words of institution** after the elevation fell away. The bell before
-  the consecration survives only in Prussia 1525, Riga 1530 and Kurland 1570.
+  the consecration survives only in Prussia 1525 (Early Evangelical), Riga 1530 and
+  Kurland 1570.
 
 #### <a id="s9-5-5"></a>9.5.5 Bells at the *Te Deum*, the litany and other chants
 
@@ -28851,8 +29049,8 @@ bell, not a church bell.
 
 | Order | Vol. | Organ | Other instruments | Bells | § |
 |---|---|---|---|---|---|
-| Wittenberg castle church, 1525 | 1 | Only at the Sunday *Te Deum* (We praise thee, O God) and German songs | — | A signal to singing and sermon, "not for the pomp of the feasts" | [9.3.1](#s9-3-1), [9.5.1](#s9-5-1) |
-| Prussia, *Artikel der Ceremonien*, 1525 | 4 | — | — | Sign with the little bell after Preface and consecration; elevation follows | [9.5.4](#s9-5-4) |
+| Wittenberg castle church, 1525 (Early Evangelical) | 1 | Only at the Sunday *Te Deum* (We praise thee, O God) and German songs | — | A signal to singing and sermon, "not for the pomp of the feasts" | [9.3.1](#s9-3-1), [9.5.1](#s9-5-1) |
+| Prussia, *Artikel der Ceremonien*, 1525 (Early Evangelical) | 4 | — | — | Sign with the little bell after Preface and consecration; elevation follows | [9.5.4](#s9-5-4) |
 | Luther, *Deutsche Messe*, 1526 | 1 | "All the organs piped", if it served the young | — | "All the bells", likewise | [9.3.1](#s9-3-1) |
 | Saxony, *Unterricht der Visitatoren*, 1528 | 1 | — | — | *Pacem* ringing kept and taught aright; weather-ringing re-explained as a call to prayer | [9.5.3](#s9-5-3), [9.5.8](#s9-5-8) |
 | Hamburg, 1529 | 5 | Four organists; silent at Passiontide; at weddings by private arrangement | Minstrels play the bridal party to the churchyard | Sextons to "strike all the bells evenly and rightly" | [9.3.6](#s9-3-6), [9.4.4](#s9-4-4), [9.5.2](#s9-5-2) |
@@ -28978,7 +29176,7 @@ through the table in [§9.6](#s9-6) and the text.
 | Nassau-Dillenburg | *Visitationsabschied* | 1570 | 10, p. 112 | [9.4.4](#s9-4-4) |
 | Naumburg | *Kirchen-Ordnung* for St Wenzel | 1537/1538 | 2, p. 72 | [9.3.3](#s9-3-3) |
 | Pomerania | *Agenda* | 1569 | 4, p. 439 | [9.3.3](#s9-3-3) |
-| Prussia | *Artikel der Ceremonien* | 1525 | 4, p. 32 | [9.5.4](#s9-5-4) |
+| Prussia (Early Evangelical) | *Artikel der Ceremonien* | 1525 | 4, p. 32 | [9.5.4](#s9-5-4) |
 | Prussia | *Kirchenordnung* | 1544 | 4, p. 67 | [9.5.3](#s9-5-3), [9.5.5](#s9-5-5) |
 | Prussia | *Kirchenordnung und Ceremonien* | 1568 | 4, pp. 75, 79 | [9.3.5](#s9-3-5), [9.5.5](#s9-5-5) |
 | Regensburg | *Kirchenordnung* of Justus Jonas | 1553 | 13, p. 421 | [9.3.3](#s9-3-3) |
@@ -28995,7 +29193,7 @@ through the table in [§9.6](#s9-6) and the text.
 | Strasbourg | *Kirchenordnung* | 1598 | 20/1, pp. 602–603 | [9.3.1](#s9-3-1), [9.3.2](#s9-3-2), [9.3.5](#s9-3-5) |
 | Thorn | *Kirchenordnung* | 1560–1570 | 4, p. 230 | [9.3.6](#s9-3-6) |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 741 | [9.5.3](#s9-5-3) |
-| Wittenberg | *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt* | 1525 | 1, p. 699 | [9.3.1](#s9-3-1) |
+| Wittenberg (Early Evangelical) | *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt* | 1525 | 1, p. 699 | [9.3.1](#s9-3-1) |
 | Wolfenbüttel | *Kirchenordnung* | 1543 | 6/1, pp. 45, 71 | [9.3.6](#s9-3-6), [9.5.3](#s9-5-3) |
 | Zerbst | *Vereinbarungen des gesammten Ministeriums* | 1545 | 2, p. 593 | [9.5.9](#s9-5-9) |
 | Zwickau | *Verordnung der Visitatoren* | 1529 | 1, p. 721 | [9.5.6](#s9-5-6) |
@@ -29070,7 +29268,7 @@ The chapter asks:
 
 **2. The full cursus survived in four kinds of place** ([§10.4](#s10-4)).
 - **Collegiate churches and cathedrals**, in Latin, corrected *de tempore*:
-  - Wittenberg castle 1525 and Altenburg 1533;
+  - Wittenberg castle 1525 (Early Evangelical) and Altenburg 1533;
   - Ansbach 1531–1533 and Feuchtwangen 1563;
   - Goslar 1534;
   - Brandenburg 1540, under each diocese's Breviary "out of the former choir books";
@@ -29120,13 +29318,13 @@ The chapter asks:
   *Te Deum*, *Quicunque*, Kyrie, Our Father, collect, *Benedicamus*.
 - **Cut**: saints' suffrages, homilies and legends, the *preces*, the blessings before the
   lessons, and in Bugenhagen even *Deus in adiutorium* (O God, make speed to save me).
-- **Intercession** ([§10.7.5](#s10-7-5)): the full *preces* were dropped (Wittenberg 1525, Ansbach 1533), but a
-  short kneeling form of Kyrie, Our Father and *Ostende nobis* (Show us) stayed in the Bugenhagen orders,
-  and the Mecklenburg convents (1572) kept a full German set. Of the suffrages only those for
-  peace, for sins and for the ruler stayed (Ansbach 1533, Transylvania 1547). Luther's Latin
-  Litany took the place of the *Magnificat* at Saturday and eve Vespers (Pomerania 1535, 1542,
-  1569; Braunschweig-Wolfenbüttel 1543), and the German Litany was sung after Prime or the
-  *Benedictus* in the convents.
+- **Intercession** ([§10.7.5](#s10-7-5)): the full *preces* were dropped (Wittenberg 1525, Early
+  Evangelical; Ansbach 1533), but a short kneeling form of Kyrie, Our Father and *Ostende nobis* (Show us)
+  stayed in the Bugenhagen orders, and the Mecklenburg convents (1572) kept a full German set.
+  Of the suffrages only those for peace, for sins and for the ruler stayed (Ansbach 1533,
+  Transylvania 1547). Luther's Latin Litany took the place of the *Magnificat* at Saturday and
+  eve Vespers (Pomerania 1535, 1542, 1569; Braunschweig-Wolfenbüttel 1543), and the German
+  Litany was sung after Prime or the *Benedictus* in the convents.
 - **Added**: the psalter and the Bible in course, German lessons with Dietrich's summaries,
   German hymns, and sermons joined to Vespers.
 
@@ -29141,15 +29339,16 @@ The chapter asks:
 **7. The Office of the Dead** ([§10.9](#s10-9)). Beside the hours the medieval church sang
 the vigil, an office of Vespers, Matins and Lauds for the departed, endowed and paid.
 - **Abolished.** No evangelical order kept it as an office for the dead. The grounds:
-  - it does not help the dead (Pomesania 1524; Saxony 1528; Heilbronn 1530);
+  - it does not help the dead (Pomesania 1524, Early Evangelical; Saxony 1528; Heilbronn 1530);
   - it abuses the psalms and Job in the service of purgatory (Pomerania 1535;
     Schleswig-Holstein 1542);
   - it is against God's word and the merit of Christ (Lüneburg 1527; Calenberg-Göttingen 1542);
   - it was bought and sold (Hamburg 1529; Pomerania 1535).
-- **By stages.** Wittenberg (1522) moved the vigil priests' income to the common chest and set
-  them to visit the sick. Coburg (1524) left the vigil to the families, and Ansbach (1526) kept
-  the old foundations until a council. At Mülhausen (1528, Reformed) the preachers would keep
-  its psalms and Job lessons in Latin, stripped of their additions and sung with understanding.
+- **By stages.** Wittenberg (1522, Early Evangelical) moved the vigil priests' income to the
+  common chest and set them to visit the sick. Coburg (1524, Early Evangelical) left the vigil
+  to the families, and Ansbach (1526) kept the old foundations until a council. At Mülhausen
+  (1528, Reformed) the preachers would keep its psalms and Job lessons in Latin, stripped of
+  their additions and sung with understanding.
 - **Chapters, convents and schools.** The chapters and convents dropped the vigils when their
   hours were reformed (Goslar 1534; Frankenberg 1542; Bonnus 1543). The nuns were released from
   psalters vowed for the dead (Braunschweig-Wolfenbüttel 1569; Mecklenburg 1572). Donauwörth
@@ -29416,7 +29615,7 @@ office. Vespers and Compline are joined: after the *Benedicamus* the psalm *Qui 
 from St Paul with three responsories, the *Te Deum* (We praise thee, O God), and Lauds with the *Benedictus*. The little
 hours keep their structure, with a lesson from the Gospels in place of the chapter.
 **Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525**
-(Sehling 1, p. 699):
+(Early Evangelical; Sehling 1, p. 699):
 
 <!-- doc 147 -->
 
@@ -29729,8 +29928,8 @@ causes, and not out of sloth or idleness, for some years been left off and not k
   castle "instead of such hours, since no one or very few are bettered by them". The Matins he
   then gives begins with "*Deus in adjutorium* in Latin" and has "*Venite*, 4 psalms in German"
   (Sehling 2, p. 170).
-- **Mülhausen 1524** (Reformed): Sehling's introduction notes that the council left the singing
-  of Matins, Terce and Sext to the chaplains' discretion but kept None and Vespers
+- **Mülhausen 1524** (Early Evangelical): Sehling's introduction notes that the council left the
+  singing of Matins, Terce and Sext to the chaplains' discretion but kept None and Vespers
   (Sehling 20/2, p. 163).
 
 ---
@@ -29910,8 +30109,9 @@ survives here as a rule of the seminary.
 #### <a id="s10-7-1"></a>10.7.1 What was kept, cut and added
 
 **The orders set out the liturgy.** Many orders give the office in detail, hour by hour:
-Wittenberg 1525, Braunschweig 1528, Ansbach 1533, Goslar 1534, Pomerania 1535, Spandau 1541,
-Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common features are these.
+Wittenberg 1525 (Early Evangelical), Braunschweig 1528, Ansbach 1533, Goslar 1534, Pomerania
+1535, Spandau 1541, Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common
+features are these.
 
 **Kept:**
 - the **psalms** with their **antiphons**, sung in two choirs "verse by verse";
@@ -29929,15 +30129,15 @@ Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common featur
 - everything *de sanctis* (of the saints) that asks for the saints' intercession, with the suffrages and the
   Marian antiphons;
 - the **homilies and legends** at Matins, replaced by Scripture;
-- the **preces**, which are dropped (Wittenberg 1525, Ansbach 1533) or replaced by the Litany
-  (Altenburg 1533), though a short form survived ([§10.7.5](#s10-7-5));
+- the **preces**, which are dropped (Wittenberg 1525, Early Evangelical; Ansbach 1533) or
+  replaced by the Litany (Altenburg 1533), though a short form survived ([§10.7.5](#s10-7-5));
 - the blessings before the lessons, ***Jube, domne, benedicere*** and ***Tu autem, Domine***
   (Braunschweig 1528, Pomerania 1535, Frankenberg 1542);
 - in Bugenhagen's orders, even the opening ***Deus in adiutorium*** and ***Domine, labia mea***
-  (Wittenberg 1525, Pomerania 1535, Bonnus 1543). Bugenhagen explains in a note added in the
-  Danish version. He does not forbid the words ("who would forbid it?"), but they are prayed
-  "against the persecutors of the Church", and those are now the very men "who say *Deus in
-  adiutorium* so many times a day" (Sehling 4, p. 350, n. 1);
+  (Wittenberg 1525, Early Evangelical; Pomerania 1535; Bonnus 1543). Bugenhagen explains in a
+  note added in the Danish version. He does not forbid the words ("who would forbid it?"), but
+  they are prayed "against the persecutors of the Church", and those are now the very men "who
+  say *Deus in adiutorium* so many times a day" (Sehling 4, p. 350, n. 1);
 - the **Office of the Dead**, the vigils (Pomerania 1535; [§10.9](#s10-9)).
 
 **Shortened:**
@@ -29946,7 +30146,8 @@ Bonnus 1543, Württemberg 1559, Keppel 1570, Lüneburg 1574. Their common featur
 - the little hours run together (Naumburg: Prime with Terce, Sext with None) or **rotated** one
   a day (Feuchtwangen 1563);
 - Vespers and Compline **joined**, with Compline reduced to *Qui habitat* (Whoso dwelleth) and the *Nunc
-  dimittis* read without tone (Wittenberg 1525, Pomerania 1535, Braunschweig 1528).
+  dimittis* read without tone (Wittenberg 1525, Early Evangelical; Pomerania 1535; Braunschweig
+  1528).
 
 **Added:**
 - the **psalter in course**, sung through in order from day to day rather than by the old weekly
@@ -30036,7 +30237,8 @@ full *preces* were cut, a short form was kept, the saints' suffrages were droppe
 Litany came in, in Luther's corrected Latin and his German, as the new common intercession.
 
 **The full preces cut.** Wittenberg's castle church dropped them in 1525. **Wittenberg, *Wie es
-einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525** (Sehling 1, p. 699):
+einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525** (Early Evangelical; Sehling 1,
+p. 699):
 
 <!-- doc 147 -->
 
@@ -30060,12 +30262,12 @@ peccatis* (for sins).
 *preces*, said kneeling after the gospel canticle: *Kyrie*, Our Father, *Et ne nos* (And lead us not), the
 versicle *Ostende nobis* (Show us), *Dominus vobiscum* (The Lord be with you), the collect and *Benedicamus*. Braunschweig 1528
 is quoted above ([§10.7.3](#s10-7-3)). The same chain stands in Wittenberg 1525 after the *Magnificat*
-(Sehling 1, p. 698), Hamburg 1529 (Sehling 5, p. 523), Lübeck 1531 (Sehling 5, p. 348), the
-Pomeranian *Pia ordinatio* of 1535 after the *Benedictus* (Sehling 4, p. 349), Goslar 1534
-(Sehling 7/2.2, pp. 263–264), Frankenberg 1542 (Sehling 7/2.2, p. 277), Schleswig-Holstein 1542
-(Sehling 23, p. 142), Braunschweig-Wolfenbüttel 1543 (Sehling 6/1, p. 50) and Hildesheim 1544
-(Sehling 7/2.1, p. 849). In the parish orders the children kneel and a preacher or one of the
-boys says the versicle.
+(Early Evangelical; Sehling 1, p. 698), Hamburg 1529 (Sehling 5, p. 523), Lübeck 1531 (Sehling
+5, p. 348), the Pomeranian *Pia ordinatio* of 1535 after the *Benedictus* (Sehling 4, p. 349),
+Goslar 1534 (Sehling 7/2.2, pp. 263–264), Frankenberg 1542 (Sehling 7/2.2, p. 277),
+Schleswig-Holstein 1542 (Sehling 23, p. 142), Braunschweig-Wolfenbüttel 1543 (Sehling 6/1,
+p. 50) and Hildesheim 1544 (Sehling 7/2.1, p. 849). In the parish orders the children kneel and
+a preacher or one of the boys says the versicle.
 
 **A full German preces: the Mecklenburg convents.** The Mecklenburg convent order of 1572 kept a
 complete set of *preces* in German after the *Benedictus* every day: Kyrie, Creed, Our Father,
@@ -30357,7 +30559,8 @@ sung in the vigil" (Mülhausen 1528, Reformed, [§10.9.3](#s10-9-3)).
   Vespers, Matins and Lauds" (Braunschweig-Wolfenbüttel 1569, editors' note, Sehling 6/1,
   p. 312).
 - **The name.** The *vigiliae* (vigils) "are here offices of the dead held after the manner of a vigil
-  (the eve of a higher feast)" (Nördlingen 1525, editors' note, Sehling 12, p. 305).
+  (the eve of a higher feast)" (Nördlingen 1525, Early Evangelical; editors' note, Sehling 12,
+  p. 305).
 - **When it was sung.** The vigils were "held with antiphons, psalms and prayers in the night
   before the burial, at the coffin in the church, and repeated on the third, seventh and
   thirtieth day after the burial and on the anniversary" (Marienhafe 1593, editors' note,
@@ -30367,7 +30570,7 @@ sung in the vigil" (Mülhausen 1528, Reformed, [§10.9.3](#s10-9-3)).
   Mass. Vigil was the name of the office of the dead held on the evening before the soul-Mass."
   After the office the grave was visited, if it lay in or by the church, and the Mass followed
   the next morning. The names of the dead were kept in "anniversary books" (Mülhausen 1524,
-  Reformed, editors' note, Sehling 20/2, p. 197).
+  Early Evangelical; editors' note, Sehling 20/2, p. 197).
 
 **The Roman form.** Sehling prints no text of the office. For orientation, the Roman form of it
 had the following (this is not from the corpus):
@@ -30412,7 +30615,7 @@ Emperor (*Confessio Heilbronnensis*):
 
 **A paid office.** The vigil was endowed, and those who sang it were paid:
 - At Wittenberg each priest had about eight gulden a year "from the vigils which they hold"
-  (1522; [§10.9.3](#s10-9-3)).
+  (1522, Early Evangelical; [§10.9.3](#s10-9-3)).
 - At Mülhausen the clergy drew "presence money" for attending the anniversary Masses, the
   vigils and the canonical hours (editors' introduction, Sehling 20/2, p. 161). In 1528 the
   preachers would let the vigil psalms be sung only "without the desire of the presence money"
@@ -30440,10 +30643,10 @@ resting-places.
 The orders give four grounds.
 
 **1. The dead are not helped.**
-- **Pomesania 1524**: "there shall henceforth be no ringing nor singing nor Mass nor vigils held
-  over the dead; for it is of no profit to them, neither are they helped thereby". The next
-  article forbids holding exequies or *Begängnis* over the dead, or praying for them (Sehling 4,
-  p. 29).
+- **Pomesania 1524** (Early Evangelical): "there shall henceforth be no ringing nor singing nor
+  Mass nor vigils held over the dead; for it is of no profit to them, neither are they helped
+  thereby". The next article forbids holding exequies or *Begängnis* over the dead, or praying
+  for them (Sehling 4, p. 29).
 - **Saxony 1528**: "if the soul-Masses, vigils and the like availed, one could put away sin by
   works" (Sehling 1, p. 164).
 - **Heilbronn 1530**: the psalms and the prophets are given "for our comfort" by the Holy Ghost.
@@ -30500,9 +30703,9 @@ to scream the pennies out of the purses, and lords and princes gave land and peo
 (Sehling 5, p. 520).
 
 **Elsewhere.** Other orders abolish the vigils in passing, among them:
-- Nördlingen 1525, which puts away "the vigils for the dead and the Masses … from the church,
-  the sink of the former blasphemy" (Sehling 12, p. 298);
-- Strasbourg 1525 (Moderate Reformed), where the council abolished the soul-Masses and vigils
+- Nördlingen 1525 (Early Evangelical), which puts away "the vigils for the dead and the Masses …
+  from the church, the sink of the former blasphemy" (Sehling 12, p. 298);
+- Strasbourg 1525 (Early Evangelical), where the council abolished the soul-Masses and vigils
   (editors' introduction, Sehling 20/1, p. 45);
 - Minden 1530: "that vigil, memorial and soul-Mass are against the Scripture" (Sehling 21,
   p. 144);
@@ -30517,7 +30720,7 @@ the old foundations for a time, or kept the texts and dropped the purpose.
 
 **Wittenberg 1522: from the vigils to the sick.** The Wittenberg order of January 1522 put the
 priests' vigil income into the common chest and gave them a new work for it. **Wittenberg,
-*Kirchen-Ordnung*, 1522** (Sehling 1, p. 697):
+*Kirchen-Ordnung*, 1522** (Early Evangelical; Sehling 1, p. 697):
 
 <!-- doc 146 -->
 
@@ -30530,15 +30733,15 @@ no one as executor of a testament.
 **Coburg 1524: left to the families.** The Coburg proposal for the services ends: "With the
 departed it shall be as each one's kinsfolk please, how they will hold and purpose burial, vigil
 and soul-Mass; yet it shall be according to holy Scripture, and none shall be compelled
-thereto" (Coburg, *Gottesdienst-Ordnung*, 1524, Sehling 1, p. 543).
+thereto" (Coburg, *Gottesdienst-Ordnung*, 1524, Early Evangelical; Sehling 1, p. 543).
 
-**Mülhausen 1524 (Reformed): unchanged for now.** The council's first order for the services
-left "the vigils and anniversaries … unchanged for this time" (Sehling 20/2, p. 197). The order
-rested on the advice of Augustin Geschmus, chaplain of St Stephen's. He would have struck the
-anniversary Masses and vigils altogether, since Scripture tells nothing of offices for the dead.
-For the sake of "the weak" he advised for the time being only joining together the vigils that
-fell in one week. The council, unsure of the citizens, kept them all for the present (editors'
-introduction, Sehling 20/2, p. 163).
+**Mülhausen 1524 (Early Evangelical): unchanged for now.** The council's first order for the
+services left "the vigils and anniversaries … unchanged for this time" (Sehling 20/2, p. 197).
+The order rested on the advice of Augustin Geschmus, chaplain of St Stephen's. He would have
+struck the anniversary Masses and vigils altogether, since Scripture tells nothing of offices
+for the dead. For the sake of "the weak" he advised for the time being only joining together the
+vigils that fell in one week. The council, unsure of the citizens, kept them all for the present
+(editors' introduction, Sehling 20/2, p. 163).
 
 **Ansbach 1526: kept until a council.** The margrave's diet kept the old foundations of
 soul-Masses, vigils and confraternities "until further action and decision of a common Christian
@@ -30642,7 +30845,7 @@ singing of the soul-Masses and vigils.
 
 **The endowments.** What had been given for the vigils went to the common chest, and the clergy
 who lost their fees were paid from it:
-- Wittenberg 1522 ([§10.9.3](#s10-9-3)).
+- Wittenberg 1522 (Early Evangelical; [§10.9.3](#s10-9-3)).
 - Hamburg 1529: the preachers are to remind those who "had hitherto given money for certain
   Masses, vigils, wax lights" to turn it to the right service of God, "that is, to the profit of
   the poor and into this chest" (Sehling 5, p. 533).
@@ -30854,12 +31057,12 @@ funeral sermon and its growth are treated in [Chapter 11](#ch11), [§11.4.6](#s1
 
 | Order | What it says of the vigil | Sehling |
 |---|---|---|
-| Wittenberg 1522 | the vigil priests' income to the common chest; they are to visit the sick | 1, p. 697 |
-| Coburg 1524 (proposal) | burial, vigil and soul-Mass left to the family | 1, p. 543 |
-| Mülhausen 1524 (Reformed) | vigils and anniversaries left unchanged for now; Geschmus would have joined the week's vigils | 20/2, pp. 163, 197 |
-| Pomesania 1524 | no ringing, singing, Mass or vigils over the dead | 4, p. 29 |
-| Nördlingen 1525 | vigils and Masses for the dead put away | 12, pp. 298, 305 |
-| Strasbourg 1525 (Moderate Reformed) | soul-Masses and vigils abolished by the council | 20/1, p. 45 |
+| Wittenberg 1522 (Early Evangelical) | the vigil priests' income to the common chest; they are to visit the sick | 1, p. 697 |
+| Coburg 1524 (proposal; Early Evangelical) | burial, vigil and soul-Mass left to the family | 1, p. 543 |
+| Mülhausen 1524 (Early Evangelical) | vigils and anniversaries left unchanged for now; Geschmus would have joined the week's vigils | 20/2, pp. 163, 197 |
+| Pomesania 1524 (Early Evangelical) | no ringing, singing, Mass or vigils over the dead | 4, p. 29 |
+| Nördlingen 1525 (Early Evangelical) | vigils and Masses for the dead put away | 12, pp. 298, 305 |
+| Strasbourg 1525 (Early Evangelical) | soul-Masses and vigils abolished by the council | 20/1, p. 45 |
 | Goslar 1525 (the commons) | complaint at the doubled presence money for the vigils | 7/2.2, p. 184 |
 | Ansbach 1526 | old foundations kept until a council | 11, p. 94 |
 | Schwäbisch Hall 1527 | the vigil was the first church's night watch; procession, mention and comfort instead | 17/1, p. 60 |
@@ -31470,8 +31673,8 @@ place" (Sehling 11, p. 450).
 - **Pomerania 1569**: "where there are organs, the organist shall be at the organ after the
   psalmody, and play to the responsory, hymn and *Magnificat*" (Sehling 4, p. 435).
 - **Oldenburg 1573** (above) and **Hoya 1581**: the organist "plays the hymn" ([§10.7.4](#s10-7-4)).
-- **Wittenberg castle, 1525**: the organ only "on Sunday to the *Te Deum laudamus*, and whenever
-  German songs are sung" (Sehling 1, p. 699).
+- **Wittenberg castle, 1525** (Early Evangelical): the organ only "on Sunday to the *Te Deum
+  laudamus*, and whenever German songs are sung" (Sehling 1, p. 699).
 
 **In sum.** The medieval office chant was neither abandoned nor wholly reset. In the chapters
 and convents it went on from the old books. In the schools and towns it was purged and reprinted
@@ -31820,7 +32023,7 @@ Nördlingen (1579) likewise has only "thou shalt bless thyself and say thus" (Se
 |---|---|---|---|---|---|
 | Luther, *Von ordenung gottis diensts*, 1523 | 1 | M+V daily; Mass and Vespers on Sunday | priests, scholars, future preachers; all on Sunday | ? | Bible in course with exposition; one hour each |
 | Luther, *Formula missae*, 1523 | 1 | All, shortened (3 psalms) | boys; "episcopus" orders | L | daily lessons with vernacular exposition |
-| Wittenberg castle church, 1525 | 1 | All; Vespers + Compline joined | ministers of the foundation | L | Gospels at little hours; no *Deus in adiutorium* (O God, make speed to save me), no *preces* |
+| Wittenberg castle church, 1525 (Early Evangelical) | 1 | All; Vespers + Compline joined | ministers of the foundation | L | Gospels at little hours; no *Deus in adiutorium* (O God, make speed to save me), no *preces* |
 | Luther, *Deutsche Messe*, 1526 | 1 | M+V daily in towns with schools | boys | L, lesson repeated in G | |
 | Braunschweig 1528; Hamburg 1529; Lübeck 1531 | 6/1; 5 | M+V daily (Compline folded in on feasts) | school, cantor | L, lesson in G | half an hour; octonary of Ps 119 |
 | Nimbschen convent, 1529 | 1 | Matins, Prime, Terce, Sext on feasts | nuns | ? | |
@@ -31883,13 +32086,13 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Wittenberg, *Kirchen-Ordnung*, 1522 | 1, p. 697 | 146 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4) |
+| Wittenberg, *Kirchen-Ordnung*, 1522 (Early Evangelical) | 1, p. 697 | 146 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3), [10.9.4](#s10-9-4) |
 | Luther, *Von ordenung gottis diensts in der gemeine*, 1523 | 1, pp. 2–3 | 2 | [10.3.1](#s10-3-1), [10.6.4](#s10-6-4) |
 | Luther, *Formula missae et communionis*, 1523 | 1, p. 9 | 2 | [10.3.2](#s10-3-2) |
-| Coburg, *Gottesdienst-Ordnung* (proposal), 1524 | 1, p. 543 | 73 | [10.9.3](#s10-9-3) |
+| Coburg, *Gottesdienst-Ordnung* (proposal), 1524 (Early Evangelical) | 1, p. 543 | 73 | [10.9.3](#s10-9-3) |
 | Luther, *Deutsche Messe und ordnung gottis diensts*, 1526 | 1, pp. 13–14 | 3 | [10.3.3](#s10-3-3), [10.8.1](#s10-8-1), [10.10.1](#s10-10-1) |
 | Ernestine Saxony, deliberations for the visitation (Sehling's introduction) | 1, p. 38 | 6 | [10.4.1](#s10-4-1) |
-| Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525 | 1, pp. 698–699 | 147 | [10.4.1](#s10-4-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.11.4](#s10-11-4) |
+| Wittenberg, *Wie es einer zeit mit den ceremonien der kirchen gehalten wirt*, 1525 (Early Evangelical) | 1, pp. 698–699 | 147 | [10.4.1](#s10-4-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.11.4](#s10-11-4) |
 | Ernestine Saxony, *Unterricht der visitatoren an die pfarrherrn*, 1528 | 1, pp. 164, 167 | 9 | [10.3.4](#s10-3-4), [10.9.2](#s10-9-2) |
 | Nimbschen, *Verordnung der Visitatoren für das Kloster*, 1529 | 1, p. 617 | 110 | [10.4.4](#s10-4-4) |
 | Torgau, *Ordnung der Visitatoren*, 1529 | 1, p. 677 | 139 | [10.5.3](#s10-5-3) |
@@ -31929,8 +32132,8 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Nördlingen, *Renovatio Ecclesiae Nordlingiacensis*, 1525 (and the editors' note) | 12, pp. 298, 305 | 370 | [10.9.1](#s10-9-1), [10.9.2](#s10-9-2) |
-| Strasbourg, the council's measures of 1525 (Sehling's introduction) (Moderate Reformed) | 20/1, p. 45 | 1275 | [10.9.2](#s10-9-2) |
+| Nördlingen, *Renovatio Ecclesiae Nordlingiacensis*, 1525 (Early Evangelical; with the editors' note) | 12, pp. 298, 305 | 370 | [10.9.1](#s10-9-1), [10.9.2](#s10-9-2) |
+| Strasbourg, the council's measures of 1525 (Sehling's introduction) (Early Evangelical) | 20/1, p. 45 | 1275 | [10.9.2](#s10-9-2) |
 | Brandenburg-Ansbach-Kulmbach, *Landtagsabschied*, 1526 (and the editors' note) | 11, p. 94 | 259 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
 | Schwäbisch Hall, *Kirchenordnung*, 1527 | 17/1, p. 60 | 755 | [10.9.1](#s10-9-1), [10.9.6](#s10-9-6) |
 | Heilbronn, the council's measures of 1529 (Sehling's introduction) | 17/1, pp. 225–226 | 765 | [10.9.3](#s10-9-3) |
@@ -31974,7 +32177,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Rieneck, *Vesperordnung zu Lohr*, 1588 | 11, p. 699 | 318 | [10.8.1](#s10-8-1), [10.11.2](#s10-11-2) |
 | Hohenlohe, Weikersheim orders on the daily prayer, 1588 | 15, pp. 538–550 | 604, 605 | [10.6.5](#s10-6-5) |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 422, 429, 450 | 294 | [10.11.2](#s10-11-2), [10.11.4](#s10-11-4) |
-| Mülhausen, instructions for the schoolmaster and chaplains, 1524 (and Sehling's introduction) (Reformed) | 20/2, pp. 161, 163, 197 | 1374, 1378 | [10.5.3](#s10-5-3), [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
+| Mülhausen, instructions for the schoolmaster and chaplains, 1524 (and Sehling's introduction) (Early Evangelical) | 20/2, pp. 161, 163, 197 | 1374, 1378 | [10.5.3](#s10-5-3), [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
 | Mülhausen, opinion of the people's priest and the three preachers on the services, 1528 (Reformed) | 20/2, pp. 209–210 | 1381 | [10.9.1](#s10-9-1), [10.9.3](#s10-9-3) |
 | Hohenlohe, *Schul- und Gesangsordnung* of Count Wolfgang, 1596 | 15, p. 663 | 629 | [10.10.2](#s10-10-2), [10.10.5](#s10-10-5), [10.10.7](#s10-10-7), [10.12.7](#s10-12-7) |
 | Strasbourg, *Kirchenordnung*, 1598 | 20/1, p. 692 | 1344 | [10.12.7](#s10-12-7) |
@@ -31987,7 +32190,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Pomesania, *Themata episcopi Risenburgensis*, 1524 | 4, p. 29 | 1831 | [10.9.2](#s10-9-2) |
+| Pomesania, *Themata episcopi Risenburgensis*, 1524 (Early Evangelical) | 4, p. 29 | 1831 | [10.9.2](#s10-9-2) |
 | Pomerania, *Kirchenordnung*, 1535 | 4, pp. 340, 342 | 1856 | [10.5.2](#s10-5-2), [10.7.5](#s10-7-5), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4) |
 | Pomerania, *Pia ordinatio caeremoniarum*, 1535 | 4, pp. 345–350 | 1857 | [10.4.3](#s10-4-3), [10.5.1](#s10-5-1), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.9.1](#s10-9-1), [10.9.2](#s10-9-2), [10.9.4](#s10-9-4), [10.11.1](#s10-11-1) |
 | Brandenburg, *Kirchen-ordnung* of Joachim II, 1540 | 3, pp. 71–72, 81 | 1746 | [10.4.2](#s10-4-2), [10.9.5](#s10-9-5), [10.11.1](#s10-11-1) |
@@ -33764,7 +33967,7 @@ plain Kyrie and no *Gloria* in Advent and Lent, the Creed for "Nun bitten" (To G
 | *festum fori* (feast of the court) / *festum chori* (feast of the choir) | replaced by whole and half holy days, and by days kept "without a commanded holy day" | [12.5.2](#s12-5-2), [12.6](#s12-6) |
 | nine lessons and three lessons | three-lesson matins the norm; nine lessons in some chapters; three lessons for high feasts in villages | [12.4.3](#s12-4-3) |
 | proper and common of saints | proper Office for high feasts; *commune sanctorum* (common of the saints) for saints' days in convents | [12.4.4](#s12-4-4) |
-| octaves | not kept; forbidden for saints (Ansbach 1533); St Stephen's octave abolished (Mülhausen 1524, Reformed); replaced by the two or three "following days" | [12.4.4](#s12-4-4), [12.7](#s12-7), [12.15](#s12-15) |
+| octaves | not kept; forbidden for saints (Ansbach 1533); St Stephen's octave abolished (Mülhausen 1524, Early Evangelical); replaced by the two or three "following days" | [12.4.4](#s12-4-4), [12.7](#s12-7), [12.15](#s12-15) |
 | vigils | vigil fasts abolished; first vespers on the eve, with confession, and on higher feasts a sermon | [12.4.6](#s12-4-6) |
 | occurrence and transfer | simplified rules of precedence and transfer, including *per anticipationem* (by anticipation) | [12.14](#s12-14) |
 | patronal and local feasts | abolished, turned into thanksgivings, or kept with a sermon (Wied 1564, Reformed) | [12.4.5](#s12-4-5), [12.8.9](#s12-8-9) |
@@ -33775,7 +33978,7 @@ plain Kyrie and no *Gloria* in Advent and Lent, the Creed for "Nun bitten" (To G
 |---|---|---|
 | *hohe Feste* (high feasts), *hohe heubtfest des herrn Christi*, *Hauptfeste* (chief feasts) | the highest rank: the feasts of Christ, or the three or four great feasts | Saxony 1539, Mecklenburg 1552 ([12.5.2](#s12-5-2)); Henneberg 1582 ([12.6.3](#s12-6-3)) |
 | *de dre groten feste Christi* (the three great feasts of Christ) | Christmas, Easter, Whitsuntide | Braunschweig 1528, Schleswig-Holstein 1542 ([12.5.4](#s12-5-4)) |
-| *vier Zeiten* (four times), *veer tide* (the four times), *vier hochzeitliche feste*, *Vierzeitenfest* (four-times feast) | the four chief feasts on which the four-times penny was paid | Lübeck 1531, Waldeck 1525, Hoya 1571 ([12.9](#s12-9)) |
+| *vier Zeiten* (four times), *veer tide* (the four times), *vier hochzeitliche feste*, *Vierzeitenfest* (four-times feast) | the four chief feasts on which the four-times penny was paid | Lübeck 1531, Waldeck 1525 (Early Evangelical), Hoya 1571 ([12.9](#s12-9)) |
 | *summa festa* (highest feasts), *summae festivitates*, *in summis festis* (on the highest feasts) | the highest feasts | Hadersleben 1528, Tangermünde 1603, Gottorf 1587 ([12.4.2](#s12-4-2)) |
 | *fürnembste* (chiefest), *furnemliche*, *vornemlichste Feste* (chiefest feasts) | the chiefest feasts (often the whole list of holy days) | Mecklenburg 1552 ([12.5.2](#s12-5-2)), Württemberg 1553 ([12.3.5](#s12-3-5)), Northeim 1539 ([12.3.5](#s12-3-5)) |
 | *andere herliche fest* (other glorious feasts) | the second rank | Grubenhagen 1544 ([12.5.5](#s12-5-5)) |
@@ -34199,7 +34402,8 @@ a feast. Every hit for these words is ordinary Latin. The Bohemian Brethren's or
 (1576, Hussite) calls certain duties *duplicia* (double [duties]), and the Gottorf catechism (1571) teaches a
 *triplex usus legis* (threefold use of the law). Neither has anything to do with feasts. There are no abbreviations such as
 *dupl.* (double) or *semidupl.* (semidouble) either. *Festum fori* (Feast of the court) occurs only in a modern editor's note (on Nürnberg
-1522). The medieval scale of Office grades did not pass into the evangelical church orders.
+1522, Early Evangelical). The medieval scale of Office grades did not pass into the evangelical
+church orders.
 
 #### <a id="s12-4-2"></a>12.4.2 *Summum* and *minus summum*: grades of the chant
 
@@ -35923,8 +36127,9 @@ Easter, Whitsuntide, Michaelmas, Christmas. Then shall a great basin stand in al
 the altar before the choir. Two churchwardens shall have an eye thereon and not be far from it;
 and all folk of twelve years and above, young and old, shall bring thither the times-penny.
 
-A pre-Reformation police ordinance of Waldeck names the four *Hochzeiten* (high tides) first among the days
-on which attendance at Mass is enforced. **Waldeck, *Landordnung*, 1525** (Sehling 9, p. 179):
+The Waldeck *Landordnung* of 1525, in which Sehling's editors see the counts' first turn to the
+Reformation, names the four *Hochzeiten* (high tides) first among the days on which attendance at Mass is
+enforced. **Waldeck, *Landordnung*, 1525** (Early Evangelical; Sehling 9, p. 179):
 
 <!-- doc 2300 -->
 
@@ -37274,9 +37479,10 @@ there are the few feasts of Christ that remain. They are mostly Upper German cit
 Zwinglian or Bucerian influence (Reformed or Moderate Reformed), and later Reformed territories.
 Their history shows how unstable the minimum was.
 
-Mülhausen's first step (Reformed) keeps four "high-tides" with the Marian feasts and the
-apostles, and abolishes the local and lesser days. Among them is "the octave of St Stephen", the only octave named in any list of abolished feasts. **Mülhausen
-(Alsace), council decree on processions and holy days, 1524** (Reformed; Sehling 20/2, p. 196):
+Mülhausen's first step (Early Evangelical) keeps four "high-tides" with the Marian feasts and
+the apostles, and abolishes the local and lesser days. Among them is "the octave of St Stephen", the only octave named in any list of abolished feasts.
+**Mülhausen (Alsace), council decree on processions and holy days, 1524** (Early Evangelical;
+Sehling 20/2, p. 196):
 
 <!-- doc 1377 -->
 
@@ -37536,7 +37742,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 | Hessen, Homberg *Reformatio*, 1526 (Moderate Reformed) | 8, p. 49 | 2249 | only feasts of the mysteries of redemption, one day each, and the Visitation | [12.3.2](#s12-3-2) |
 | Hessen, *Kirchenordnung*, 1532 (Moderate Reformed) | 8, p. 75 | 2252 | named saints' days forenoon only | [12.3.5](#s12-3-5) |
 | Hessen, *Kirchenordnung*, 1566 (Moderate Reformed) | 8, pp. 257–258, 203, 263, 309 | 2257 | feasts of Christ; Christmas "the feast of all feasts" | [12.3.6](#s12-3-6), [12.13.5](#s12-13-5), [12.13.6](#s12-13-6) |
-| Waldeck, *Landordnung*, 1525 | 9, p. 179 | 2300 | four high-tide feasts, Marian and apostles' days | [12.9.1](#s12-9-1) |
+| Waldeck, *Landordnung*, 1525 (Early Evangelical) | 9, p. 179 | 2300 | four high-tide feasts, Marian and apostles' days | [12.9.1](#s12-9-1) |
 | Waldeck, *Kirchenordnung*, 1556 | 9, pp. 272–276 | 2300 | Mecklenburg scheme; Good Friday half; three apostles forenoon; Michaelmas fourth chief feast; three-lesson matins on high feasts | [12.4.3](#s12-4-3), [12.6.1](#s12-6-1), [12.14.2](#s12-14-2) |
 | Nassau-Dillenburg, *Kirchenordnung*, 1537 | 10, pp. 74, 77 | 169 | wide list incl. Corpus Christi, Assumption, Nativity of Mary; harvest feasts to Sunday | [12.5.7](#s12-5-7), [12.6.4](#s12-6-4), [12.8.9](#s12-8-9), [12.13.2](#s12-13-2) |
 | Nassau-Dillenburg (Reformed), *Kirchenordnung*, 1582 | 10, p. 163 | 184 | Sundays and feasts of Christ only | [12.15](#s12-15) |
@@ -37602,7 +37808,7 @@ Every order quoted or cited in this chapter is listed below by region. The table
 
 | Order | Sehling | Doc | Notes | § |
 |---|---|---|---|---|
-| Mülhausen, council decree, 1524 (Reformed) | 20/2, p. 196 | 1377 | four high-tides, Marian and apostles' days; lesser days abolished | [12.15](#s12-15) |
+| Mülhausen, council decree, 1524 (Early Evangelical) | 20/2, p. 196 | 1377 | four high-tides, Marian and apostles' days; lesser days abolished | [12.15](#s12-15) |
 | Mülhausen, opinion on the Basel order, 1529 (Reformed) | 20/2, pp. 214–215 | 1382 | Sundays, Christmas, Ascension, Easter, Whitsun only | [12.15](#s12-15) |
 | Strasbourg, synodal decrees, 1544 (Moderate Reformed) | 20/1, pp. 342–343 | 1312 | only Sunday in the city; countryside half and whole days | [12.15](#s12-15) |
 | Strasbourg, *Mandat zur Sonntagsheiligung*, 1534 (Moderate Reformed) | 20/1, p. 246 | 1296 | Sunday work fined; fish sold in Lent | [12.11.2](#s12-11-2), [12.13.4](#s12-13-4) |
@@ -37690,8 +37896,8 @@ survived as a sacrament, but all left an evangelical rite in their place:
 
 **2. Baptism fell into four families** ([§13.3](#s13-3)):
 
-- the received rite in German (Luther 1523, Nuremberg and Strasbourg 1524 (Moderate Reformed),
-  Ansbach 1526, Brandenburg 1540);
+- the received rite in German (Luther 1523, Nuremberg and Strasbourg 1524 (both Early
+  Evangelical), Ansbach 1526, Brandenburg 1540);
 - Luther's revised *Taufbüchlein* (baptism booklet) of 1526, the Lutheran standard;
 - the Upper German rite of Strasbourg (Moderate Reformed) and Württemberg (Lutheran), without
   exorcism or cross;
@@ -37844,7 +38050,7 @@ The forms printed in full or quoted at length in this chapter are:
 | Convent heads | Keppel 1570, Schleswig-Holstein after 1610 ([13.12.8](#s13-12-8)) |
 | Novices and monks | Ravengiersburg 1560 ([13.12.9](#s13-12-9)); Württemberg prelates ([13.11.3](#s13-11-3)) |
 | Laying aside the habit | Brunswick-Wolfenbüttel 1569 ([13.12.10](#s13-12-10)) |
-| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (Reformed), Anhalt 1594 (Philippist) ([13.12.2](#s13-12-2)); Mulhouse 1551 (Reformed), the Palatinate 1580, Gengenbach 1536 (Moderate Reformed), Hildesheim 1581 ([13.12.3](#s13-12-3)); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577 (Reformed), Strasbourg 1523 (Moderate Reformed) ([13.12.4](#s13-12-4)) |
+| Sextons, schoolmasters, organists, churchwardens, stewards | oaths and pledges: Lippe 1571, Heidelberg 1572 (Reformed), Anhalt 1594 (Philippist) ([13.12.2](#s13-12-2)); Mulhouse 1551 (Reformed), the Palatinate 1580, Gengenbach 1536 (Moderate Reformed), Hildesheim 1581 ([13.12.3](#s13-12-3)); Leisnig 1529, Saxe-Lauenburg 1585, the Palatinate 1577 (Reformed), Strasbourg 1523 (Early Evangelical) ([13.12.4](#s13-12-4)) |
 | Church dedication | Hof: the dedication of 1572, its yearly festival, and the school dedication of 1546 ([13.14.3](#s13-14-3)) |
 | Betrothal, divorce, remarriage | Wertheim 1530 ([13.7.8](#s13-7-8)); Prussia 1575 ([13.7.9](#s13-7-9)); Saxony 1556, the Palatinate 1563 (Reformed), Brandenburg 1573 ([13.7.10](#s13-7-10)) |
 | Excommunication, public penance, absolution | Wittenberg 1542 ([13.16.2](#s13-16-2)); Saxe-Lauenburg 1585 ([13.16.3](#s13-16-3)); Mecklenburg 1570 ([13.16.4](#s13-16-4)); Mansfeld 1580 ([13.16.5](#s13-16-5)); Grubenhagen 1581 ([13.16.6](#s13-16-6)); Micron 1554 ([13.16.7](#s13-16-7)) |
@@ -37984,8 +38190,8 @@ The orders print more baptismal forms than forms for any other rite. They fall i
 families, and nearly every form in the corpus can be placed in one of them:
 
 - **The received rite in German.** These are translations of the Latin *ordo baptismi* (order of baptism) with
-  nearly all its ceremonies: Luther's *Taufbüchlein* (baptism booklet) of 1523, Nuremberg 1524, the Strasbourg
-  German baptism of 1524 (Moderate Reformed) and the Ansbach "Würzburg rubrics" of 1526.
+  nearly all its ceremonies: Luther's *Taufbüchlein* (baptism booklet) of 1523, Nuremberg 1524 and the Strasbourg
+  German baptism of 1524 (both Early Evangelical), and the Ansbach "Würzburg rubrics" of 1526.
   Electoral Brandenburg in 1540 kept most of these ceremonies.
 - **Luther's revised *Taufbüchlein* of 1526.** This keeps the exorcism, the sign of the cross,
   the Flood prayer, the Gospel of the children, the renunciation and the threefold creed. It
@@ -38037,9 +38243,9 @@ such, and they are not the right grips that the devil feareth or fleeth.
 #### <a id="s13-3-2"></a>13.3.2 The received rite: Luther's *Taufbüchlein* of 1523
 
 Luther's first German baptismal book translated the Wittenberg form of the Latin rite almost
-whole. Its order can stand for all the early German translations. Nuremberg in 1524, Strasbourg
-in 1524 (Moderate Reformed) and Ansbach in 1526 differ from it only in detail. Sehling 1, pp.
-18–20:
+whole. Its order can stand for all the early German translations. Nuremberg in 1524 and
+Strasbourg in 1524 (both Early Evangelical), and Ansbach in 1526 differ from it only in detail.
+Sehling 1, pp. 18–20:
 
 1. **Exsufflation and first exorcism.** The minister breathes three times under the child's
    eyes: "Depart, thou unclean spirit, and give place to the Holy Ghost".
@@ -38082,10 +38288,10 @@ Take this burning torch and keep thy baptism blameless, that when the Lord comet
 thou mayest go to meet him, together with the saints, into the heavenly hall, and have eternal
 life. Amen.
 
-The other early translations kept still more. The Strasbourg German baptism of 1524 (Moderate
-Reformed) prints the blessing of the salt with its own exorcism, and four exorcisms of the child
-where Luther has two. **Strasbourg, the early agendas: the German baptism, 1524**
-(Moderate Reformed; Sehling 20/1, p. 124):
+The other early translations kept still more. The Strasbourg German baptism of 1524 (Early
+Evangelical) prints the blessing of the salt with its own exorcism, and four exorcisms of the
+child where Luther has two. **Strasbourg, the early agendas: the German baptism, 1524** (Early
+Evangelical; Sehling 20/1, p. 124):
 
 <!-- doc 1279 -->
 
@@ -39420,10 +39626,10 @@ healing and cannot now be used "according to St James's meaning"; and it had bee
 sacrament of the dying. In its place stand the Word, the absolution, the Supper and the prayer
 of the church, which is what James 5:14–16 actually commands.
 
-**One survival in 1524.** Prior Volprecht's German Mass at Nuremberg in 1524 still allowed "if
-any at his last end desire the anointing, it shall be given him" (Sehling 11, p. 44). The
-Ansbach visitors of 1528 already asked the clergy "what the right Christian unction and
-visitation of the sick may be" (Sehling 11, p. 127).
+**One survival in 1524.** Prior Volprecht's German Mass at Nuremberg in 1524 (Early Evangelical)
+still allowed "if any at his last end desire the anointing, it shall be given him" (Sehling 11,
+p. 44). The Ansbach visitors of 1528 already asked the clergy "what the right Christian unction
+and visitation of the sick may be" (Sehling 11, p. 127).
 
 **Zweibrücken 1539: James 5 read as a visitation.** The Zweibrücken order explains James 5 as
 the calling of the elders to comfort and pray for the sick, which the church now does with the
@@ -40662,9 +40868,9 @@ Lewis, Elector, etc., by reason of the half share in the revenues, to be faithfu
 obedient and ready, to warn and turn away harm from their electoral and princely graces, to seek
 and further their profit and good, faithfully and without guile.
 
-**Strasbourg 1523: the steward of the poor** (Moderate Reformed). The Strasbourg poor order of
+**Strasbourg 1523: the steward of the poor** (Early Evangelical). The Strasbourg poor order of
 1523 set a *Schaffner* over the alms, who swore to the poor themselves. **Strasbourg,
-*Armenordnung*, longer version, 4 August 1523** (Moderate Reformed; Sehling 20/1, p. 113):
+*Armenordnung*, longer version, 4 August 1523** (Early Evangelical; Sehling 20/1, p. 113):
 
 <!-- doc 1276 -->
 
@@ -41211,8 +41417,8 @@ been abolished in our neighbouring electorates and principalities, counties and 
 
 **Danzig 1612.** In 1612 Danzig noted in its list of the sexton's fees that the church's
 dedication festival, with three feasts of Mary, was "now no longer held for a great feast, nor
-kept" (Sehling 4, p. 206). Mulhouse in 1524 (Reformed) had already struck the dedication feast
-of Basel minster from its calendar (Sehling 20, p. 163, editor's note).
+kept" (Sehling 4, p. 206). Mulhouse in 1524 (Early Evangelical) had already struck the
+dedication feast of Basel minster from its calendar (Sehling 20, p. 163, editor's note).
 
 ---
 
@@ -41233,8 +41439,8 @@ things:
 The chrism and holy oils were consecrated by the bishop on Maundy Thursday.
 
 **Uniform abolition.** No evangelical order kept any of these blessings. They are abolished in
-almost the same words from the Pomesanian bishop's articles of 1524 to the end of the century.
-The grounds are always the same three:
+almost the same words from the Pomesanian bishop's articles of 1524 (Early Evangelical) to the
+end of the century. The grounds are always the same three:
 
 - the creatures are already sanctified by God's word at creation and by thanksgiving (1 Timothy
   4:4–5);
@@ -41249,7 +41455,7 @@ survived as a civil sign of honour, not a blessed object.
 
 **Pomesania 1524.** The earliest list is in the articles which Erhard von Queiss, bishop of
 Pomesania, published at the end of 1524. **Pomesania, *Themata episcopi Risenburgensis*, 1524**
-(Sehling 4, p. 29):
+(Early Evangelical; Sehling 4, p. 29):
 
 <!-- doc 1831 -->
 
@@ -41430,8 +41636,9 @@ John's Gospel" as a charm ([§13.12.2](#s13-12-2)): Nassau-Weilburg 1576 (Sehlin
 
 **The medieval ban rejected.** The evangelical orders began by rejecting the medieval ban, which
 was pronounced by officials for debts and fees and enforced by interdict. The Pomesanian
-articles of 1524 declared that "henceforth there shall be no ban which burdens consciences
-without ground in God's word and compels by human ordinance alone" (Sehling 4, p. 29).
+articles of 1524 (Early Evangelical) declared that "henceforth there shall be no ban which
+burdens consciences without ground in God's word and compels by human ordinance alone" (Sehling
+4, p. 29).
 
 **Matthew 18 and 1 Corinthians 5.** In its place almost every order set up a scriptural ban on
 the pattern of Matthew 18:15–17 and 1 Corinthians 5. The steps were:
@@ -41848,9 +42055,10 @@ Christians, but in the field" (Sehling 1, p. 206).
 
 **Auricular confession abolished, private absolution kept.** Every evangelical order abolished
 the medieval sacrament of penance as a duty to enumerate all mortal sins to a priest, with
-satisfaction imposed. The Pomesanian articles of 1524 already ended confession "by which one
-would be bound to name all sins" (Sehling 4, p. 29). But the Lutheran orders kept, and generally
-required, private confession and absolution before communion. They kept it for three reasons:
+satisfaction imposed. The Pomesanian articles of 1524 (Early Evangelical) already ended
+confession "by which one would be bound to name all sins" (Sehling 4, p. 29). But the Lutheran
+orders kept, and generally required, private confession and absolution before communion. They
+kept it for three reasons:
 
 - the absolution is the gospel spoken to the single person, "as if God by a voice from heaven
   promised thee grace";
@@ -41986,8 +42194,8 @@ common order:
 - the funeral procession with hymns ([§13.9](#s13-9));
 - the bride's procession to church (*Kirchgang*, [§13.7](#s13-7));
 - the schoolboys' and townspeople's festal processions at Hof ([§13.14.3](#s13-14-3));
-- in Electoral Brandenburg and Mulhouse (Reformed), the Sunday procession, Palm Sunday and the
-  Rogation prayers in a purified form.
+- in Electoral Brandenburg and Mulhouse (1524, Early Evangelical), the Sunday procession, Palm
+  Sunday and the Rogation prayers in a purified form.
 
 Who walked in these processions and what was carried in them is set out in [§13.18.4](#s13-18-4).
 
@@ -42009,8 +42217,8 @@ Brandenburg-Nürnberg in 1533 likewise counted "going with the crosses" and "car
 holy sacrament" among the ceremonies done away (Sehling 11, pp. 203–204). A Feuchtwangen text of
 1563 named the processions "with statues, banners, wooden crosses", the "impious pomp of the
 feast of Corpus Christi" and the carrying about of the Eucharist among the papal ceremonies
-(Sehling 11, p. 406). The Pomesanian articles of 1524 ended processions "as having no ground in
-God's word" (Sehling 4, p. 29).
+(Sehling 11, p. 406). The Pomesanian articles of 1524 (Early Evangelical) ended processions "as
+having no ground in God's word" (Sehling 4, p. 29).
 
 #### <a id="s13-18-2"></a>13.18.2 Kept and purified: Electoral Brandenburg 1540
 
@@ -42034,10 +42242,10 @@ processions, with the invocation of the saints, shall be done away, and all pray
 directed to this end, that we seek all our need and concern from none other but the Lord Christ
 and ask help of him.
 
-**Mulhouse 1524** (Reformed). Mulhouse kept the Rogation processions on St George's and St
-Mark's days and the three Rogation days, but only within the parish church of St Stephen, "since
-the common prayer of Christians together is most pleasing to God", and without "running to
-particular saints or churches" (Sehling 20/2, p. 195).
+**Mulhouse 1524** (Early Evangelical). Mulhouse kept the Rogation processions on St George's and
+St Mark's days and the three Rogation days, but only within the parish church of St Stephen,
+"since the common prayer of Christians together is most pleasing to God", and without "running
+to particular saints or churches" (Sehling 20/2, p. 195).
 
 #### <a id="s13-18-3"></a>13.18.3 Processions that remained
 
@@ -42333,7 +42541,7 @@ execration when a church was profaned. What they give are orders to remove altar
 chapels decently and by authority, and to turn the material and the vessels to the use of the
 parish, the common chest and the poor.
 
-**Orderly removal.** Strasbourg in 1525 (Moderate Reformed) forbade any burgher, cleric or
+**Orderly removal.** Strasbourg in 1525 (Early Evangelical) forbade any burgher, cleric or
 layman, to remove or break "images, altars, panels, iron or stonework" on his own authority;
 anyone with a grievance was to bring it to the council (Sehling 20/1, p. 166). The Saxon
 visitors at Salza in 1540 ordered the council to clear the churches of their screens, candles,
@@ -43736,7 +43944,7 @@ numbers refer to this chapter.
 | Mulhouse 1551 (Reformed) | the schoolmaster's oath ([13.12.3](#s13-12-3)) | — |
 | Gengenbach 1536 (Moderate Reformed) | the schoolmaster's appointment ([13.12.3](#s13-12-3)) | — |
 | Hildesheim 1581 | the organist's contract ([13.12.3](#s13-12-3)) | — |
-| Strasbourg 1523 (Moderate Reformed) | the oath of the steward of the poor ([13.12.4](#s13-12-4)) | — |
+| Strasbourg 1523 (Early Evangelical) | the oath of the steward of the poor ([13.12.4](#s13-12-4)) | — |
 | Strasbourg 1531 (Moderate Reformed) | appointment of *Sigristen* ([13.12.2](#s13-12-2)) | — |
 | Sayn 1590 | surety for the bell-ringer who keeps the vessels ([13.12.2](#s13-12-2)) | — |
 | Anhalt 1594 (Philippist) | the sexton's yearly appointment ([13.12.2](#s13-12-2)) | — |
@@ -43896,7 +44104,7 @@ through the table in [§13.24](#s13-24) and the text.
 | Pfalz-Zweibrücken | *Form und Ordnung* | 1539 | 18, pp. 59, 61 | [13.4.1](#s13-4-1), [13.8.1](#s13-8-1) |
 | Pomerania | *Kerckenordeninge* | 1569 | 4, p. 386 | [13.4.1](#s13-4-1) |
 | Pomerania | *Agenda* | 1569 | 4, pp. 461–462, 466, 477 | [13.8.7](#s13-8-7), [13.21.4](#s13-21-4), [13.23.7](#s13-23-7) |
-| Pomesania | *Themata episcopi Risenburgensis* | 1524 | 4, p. 29 | [13.15.1](#s13-15-1) |
+| Pomesania (Early Evangelical) | *Themata episcopi Risenburgensis* | 1524 | 4, p. 29 | [13.15.1](#s13-15-1) |
 | Prussia | *Visitationsabschied für Zinten* | 1575 | 4, p. 153 | [13.7.9](#s13-7-9) |
 | Regensburg | *Form der Ordination oder Priesterweihe* | 1553? | 13, pp. 429, 430–431 | [13.10.4](#s13-10-4) |
 | Regensburg | *Erklärung … welchen … leichpredig und leichgesänge nit mögen zugelassen werden* | 1560 | 13, p. 448 | [13.9.4](#s13-9-4) |
@@ -43917,10 +44125,10 @@ through the table in [§13.24](#s13-24) and the text.
 | Sponheim (Vordere Grafschaft) | *Reformation in der Vorderen Grafschaft Sponheim* | 1566 | 18, p. 630 | [13.20.4](#s13-20-4) |
 | Stendal | *Ordinance of the visitors of the Mark Brandenburg* | 1541 | 3, p. 314 | [13.18.4](#s13-18-4) |
 | Stift Verden | *Kirchenordnung* | 1606 | 7/1, p. 172 | [13.4.1](#s13-4-1) |
-| Strasbourg (Moderate Reformed) | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | [13.3.2](#s13-3-2) |
+| Strasbourg (Early Evangelical) | *German baptism (early agendas)* | 1524 | 20/1, p. 124 | [13.3.2](#s13-3-2) |
 | Strasbourg (Moderate Reformed) | *Agende* | 1537 | 20/1, pp. 263–264, 269 | [13.3.5](#s13-3-5), [13.7.3](#s13-7-3) |
 | Strasbourg | *Kirchenordnung* | 1598 | 20/1, p. 592 | [13.18.4](#s13-18-4) |
-| Strasbourg (Moderate Reformed) | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | [13.12.4](#s13-12-4) |
+| Strasbourg (Early Evangelical) | *Armenordnung* | longer version, 4 August 1523 | 20/1, p. 113 | [13.12.4](#s13-12-4) |
 | Teschen | *Kirchenordnung* | 1584 | 3, p. 461 | [13.22.3](#s13-22-3) |
 | Thüngen | *Kirchenordnung* | 1564 | 11, p. 740 | [13.5.1](#s13-5-1) |
 | Transylvanian Saxons | *Kirchenordnung* (German version) | 1547 | 24, pp. 233, 235 | [13.22.3](#s13-22-3), [13.22.5](#s13-22-5) |
@@ -44018,7 +44226,7 @@ one principle:
 prayed to or had lights burned before them, and keep scriptural histories as "the laity's Bible"
 (Brunswick 1528, Thüngen 1564, Oldenburg 1573, Regensburg 1567). Removal is to be orderly and by
 authority, never by the crowd:
-- Strasbourg 1525 (Moderate Reformed) forbids citizens to touch anything.
+- Strasbourg 1525 (Early Evangelical) forbids citizens to touch anything.
 - Mecklenburg 1552 nails the images to the walls.
 - The Upper Palatinate in 1557 removes them by night, takes the carved figures out of mixed
   panels and blacks over the painted ones.
@@ -44038,13 +44246,14 @@ Nassau-Weilburg in 1617 stopped carrying it before corpses. Banners, poles and p
 crosses went with the processions ([§14.4.6](#s14-4-6)).
 
 **4. One altar; the minister before it, facing the people (§[14.5.1](#s14-5-1)–[14.5.3](#s14-5-3)).** Side altars were
-removed, leaving three (Wittenberg 1522) or one (Mecklenburg 1552, Upper Palatinate 1557,
-Kurland 1570). Colditz 1529 and Gotha 1555 order altars arranged so that the minister faces the
-people. The Wittenberg theologians condemned standing *behind* the table as the disorder of
-Karlstadt and Müntzer (Radical Reformation) (Wittenbergische Reformation 1545, Allstedt 1533).
-Strasbourg 1537 (Moderate Reformed) set up an altar-table facing the people, and the Reformed
-orders put tables in place of altars (Siegen 1581, Casimir 1587, Anhalt 1596, Simmern 1598). In
-Transylvania the synod of 1565 ordered altars pulled down by "turbulent men" to be restored.
+removed, leaving three (Wittenberg 1522, Early Evangelical) or one (Mecklenburg 1552, Upper
+Palatinate 1557, Kurland 1570). Colditz 1529 and Gotha 1555 order altars arranged so that the
+minister faces the people. The Wittenberg theologians condemned standing *behind* the table as
+the disorder of Karlstadt and Müntzer (Radical Reformation) (Wittenbergische Reformation 1545,
+Allstedt 1533). Strasbourg 1537 (Moderate Reformed) set up an altar-table facing the people, and
+the Reformed orders put tables in place of altars (Siegen 1581, Casimir 1587, Anhalt 1596,
+Simmern 1598). In Transylvania the synod of 1565 ordered altars pulled down by "turbulent men"
+to be restored.
 
 **5. Two candles, no sacrament house (§[14.5.4](#s14-5-4)–[14.5.5](#s14-5-5)).** The usual Lutheran altar has two lights
 during the Supper (Allstedt 1533, Calenberg 1544/45, Kurland 1570). Hildesheim 1544 explains
@@ -44059,11 +44268,11 @@ convents 1555). Since the Sacrament was not reserved, sacrament houses and ambri
 Nassau-Weilburg 1576, Magdeburg 1583, Kurpfalz 1565 (Reformed)). No order uses "tabernacle" for
 a furnishing.
 
-**6. The font is moved into sight ([§14.5.6](#s14-5-6)).** The customary font is kept (Prussia 1525), railed
-and adorned (Nördlingen 1544), and moved before the choir, raised a step or two (Lüneburg 1564),
-or "out of the corners before the face of the church" (Bentheim 1588, Reformed). Bremen 1534
-warms the water in winter. The Reformed abolish the font (Kurpfalz 1565, Casimir 1587, Simmern
-1598, all Reformed).
+**6. The font is moved into sight ([§14.5.6](#s14-5-6)).** The customary font is kept (Prussia 1525, Early
+Evangelical), railed and adorned (Nördlingen 1544), and moved before the choir, raised a step or
+two (Lüneburg 1564), or "out of the corners before the face of the church" (Bentheim 1588,
+Reformed). Bremen 1534 warms the water in winter. The Reformed abolish the font (Kurpfalz 1565,
+Casimir 1587, Simmern 1598, all Reformed).
 
 **7. Pulpit, pews and galleries ([§14.5.7](#s14-5-7)).** The pulpit appears among the things to be covered and
 kept. The choir screen is torn down at Zweibrücken 1558 so that the nuns can be seen at sermon.
@@ -44369,7 +44578,7 @@ no hindrance in the church, we let stand.
 
 **Pomesania 1525.** The bishop of Pomesania's theses put the rule at its simplest: images are
 not to be prayed to, and no light is to be lit before them. **Pomesania, *Themata episcopi
-Risenburgensis*, 1525** (Sehling 4, p. 29):
+Risenburgensis*, 1525** (Early Evangelical; Sehling 4, p. 29):
 
 <!-- doc 1831 -->
 
@@ -44432,12 +44641,12 @@ whatever more of the juggling-work there is".
 
 #### <a id="s14-4-2"></a>14.4.2 Orderly removal
 
-**Strasbourg 1525** (Moderate Reformed). The orders insist that images be removed by authority,
+**Strasbourg 1525** (Early Evangelical). The orders insist that images be removed by authority,
 not by the people. The Strasbourg council's mandate of March 1525 forbids every citizen to take
 down anything, "small or great, in church or in the street", of images, altars, panels, iron or
 stone work, on pain of severe punishment; whoever has a grievance is to bring it to the council.
 **Strasbourg, *Mandat über Bilder und Altäre*, 18 March 1525**
-(Moderate Reformed; Sehling 20/1, p. 166):
+(Early Evangelical; Sehling 20/1, p. 166):
 
 <!-- doc 1282 -->
 
@@ -44661,7 +44870,7 @@ The rites of the feasts in which the image plays stood are treated in
 **Wittenberg 1522.** The side altars served private Masses, and they went with them. The
 Wittenberg order of January 1522 is the earliest: images and altars are to be removed to avoid
 idolatry, "for three altars without images are enough". **Wittenberg, *Kirchen-Ordnung*, 1522**
-(Sehling 1, p. 697):
+(Early Evangelical; Sehling 1, p. 697):
 
 <!-- doc 146 -->
 
@@ -44975,7 +45184,7 @@ Magdeburg 1583 ([§14.3.2](#s14-3-2)) and Kurpfalz 1565 (Reformed; [§14.4.4](#s
 
 **Kept.** The Prussian order of 1525 baptizes in plain water "in the customary font, which may
 be renewed as often as is needful". **Prussia, *Artikel der ceremonien und anderer kirchen
-ordnung*, 10 December 1525** (Sehling 4, p. 33):
+ordnung*, 10 December 1525** (Early Evangelical; Sehling 4, p. 33):
 
 <!-- doc 1832 -->
 
@@ -45903,10 +46112,10 @@ The conduct required of ministers and their households is treated in
 
 | Order | Vol. | Images and crucifix | Altar, lights, font, building | Paraments and vessels | Vestments | § |
 |---|---|---|---|---|---|---|
-| Wittenberg, *Kirchen-Ordnung*, 1522 | 1 | Images removed | Three altars without images enough | — | — | [14.5.1](#s14-5-1) |
-| Strasbourg, mandate, 1525 (Moderate Reformed) | 20/1 | No removal of images, altars, panels without the council | — | — | — | [14.4.2](#s14-4-2) |
-| Pomesania, *Themata*, 1525 | 4 | Not to be prayed to; no lights before them | — | — | — | [14.4.1](#s14-4-1) |
-| Prussia, *Artikel der ceremonien*, 1525 | 4 | — | Customary font kept | — | — | [14.5.6](#s14-5-6) |
+| Wittenberg, *Kirchen-Ordnung*, 1522 (Early Evangelical) | 1 | Images removed | Three altars without images enough | — | — | [14.5.1](#s14-5-1) |
+| Strasbourg, mandate, 1525 (Early Evangelical) | 20/1 | No removal of images, altars, panels without the council | — | — | — | [14.4.2](#s14-4-2) |
+| Pomesania, *Themata*, 1525 (Early Evangelical) | 4 | Not to be prayed to; no lights before them | — | — | — | [14.4.1](#s14-4-1) |
+| Prussia, *Artikel der ceremonien*, 1525 (Early Evangelical) | 4 | — | Customary font kept | — | — | [14.5.6](#s14-5-6) |
 | Luther, *Deutsche Messe*, 1526 | 1 | No covering of images, hunger cloth or palm-shooting in Holy Week | — | — | — | [14.4.1](#s14-4-1), [14.6.6](#s14-6-6) |
 | Hesse, Homberg synod, 1526 (Moderate Reformed) | 8 | — | Candles commended; no reservation in ambries; no Candlemas blessing of candles | No new paraments, chasubles or copes; chasuble free; seemly chalice | Surplice at least; dalmatics and tunicles forbidden | [14.3.3](#s14-3-3), [14.5.4](#s14-5-4), [14.5.5](#s14-5-5), [14.6.4](#s14-6-4), [14.7.3](#s14-7-3) |
 | Schwäbisch Hall (Brenz), 1527 | 17/1 | — | — | — | Deacon may wear a cope at prayer, never a Mass vestment | [14.7.2](#s14-7-2) |
@@ -46076,8 +46285,8 @@ through the table in [§14.9](#s14-9) and the text.
 | Pfalz-Neuburg | *Visitationsordnung* | 1560 | 13, p. 135 | [14.5.5](#s14-5-5) |
 | Pfalz-Zweibrücken | *Visitationsordnung* | 1558 | 18, p. 270 | [14.5.7](#s14-5-7) |
 | Pfalz-Zweibrücken (Reformed) | *Mandat zur Ablieferung der Vasa sacra* | 7 April 1595 | 18, p. 410 | [14.6.5](#s14-6-5) |
-| Pomesania | *Themata episcopi Risenburgensis* | 1525 | 4, p. 29 | [14.4.1](#s14-4-1) |
-| Prussia | *Artikel der ceremonien und anderer kirchen ordnung* | 10 December 1525 | 4, p. 33 | [14.5.6](#s14-5-6) |
+| Pomesania (Early Evangelical) | *Themata episcopi Risenburgensis* | 1525 | 4, p. 29 | [14.4.1](#s14-4-1) |
+| Prussia (Early Evangelical) | *Artikel der ceremonien und anderer kirchen ordnung* | 10 December 1525 | 4, p. 33 | [14.5.6](#s14-5-6) |
 | Prussia | *Befehl* (command) | 1 February 1543 | 4, p. 60 | [14.7.4](#s14-7-4) |
 | Prussia | *Kirchenordnung und Ceremonien* | 1568 | 4, p. 73 | [14.4.4](#s14-4-4) |
 | Regensburg | *Kirchenordnung unter Justus Jonas* | 1553 | 13, p. 421 | [14.6.3](#s14-6-3) |
@@ -46092,7 +46301,7 @@ through the table in [§14.9](#s14-9) and the text.
 | Sorau | *Kirchenordnung*, extract after J. S. Magnus | 1595 | 3, p. 372 | [14.6.6](#s14-6-6) |
 | Speyer | *Kirchenordnung* | 1557 | 19/1, p. 92 | [14.6.3](#s14-6-3) |
 | Strasbourg (Moderate Reformed) | *Agende* | 1537 | 20/1, p. 270 | [14.5.2](#s14-5-2) |
-| Strasbourg (Moderate Reformed) | *Mandat über Bilder und Altäre* | 18 March 1525 | 20/1, p. 166 | [14.4.2](#s14-4-2) |
+| Strasbourg (Early Evangelical) | *Mandat über Bilder und Altäre* | 18 March 1525 | 20/1, p. 166 | [14.4.2](#s14-4-2) |
 | Suhl | *Ordnung des predigamts und lektionen* | 1562 | 2, p. 351 | [14.5.4](#s14-5-4) |
 | Thorn | *Kirchenordnung* | 1575 | 4, p. 237 | [14.6.3](#s14-6-3) |
 | Thüngen | *Kirchenordnung* | 1564 | 11, pp. 736–737, 739 | [14.3.3](#s14-3-3), [14.4.1](#s14-4-1) |
@@ -46100,7 +46309,7 @@ through the table in [§14.9](#s14-9) and the text.
 | Upper Palatinate | *Visitationsinstruktion* | 1557 | 13, p. 297 | [14.4.2](#s14-4-2) |
 | Upper Palatinate | *Visitationsordnung* | 1579 | 13, p. 315 | [14.6.3](#s14-6-3) |
 | Wild- und Rheingrafschaft | *Kirchenordnung* | 1603 | 19/2, p. 630 | [14.7.4](#s14-7-4), [14.8](#s14-8) |
-| Wittenberg | *Kirchen-Ordnung* | 1522 | 1, p. 697 | [14.5.1](#s14-5-1) |
+| Wittenberg (Early Evangelical) | *Kirchen-Ordnung* | 1522 | 1, p. 697 | [14.5.1](#s14-5-1) |
 | Wittenberg | *Kirchen-Ordnung* | 1533 | 1, p. 704 | [14.5.7](#s14-5-7) |
 | Wittgenstein | *Kirchenordnung* | 1563 | 22, p. 97 | [14.7.4](#s14-7-4) |
 | Wolfstein | *Christliche Instructio des Thomas Stieber* | 1574 | 13, p. 586 | [14.4.5](#s14-4-5) |
@@ -47722,10 +47931,10 @@ before the synod with a handshake, a promise and a blessing.
 
 **3. The liturgical roles were rarely prescribed and soon dropped.**
 - **Ministrants:** in the 1520s–1540s some Mass-shaped orders still have ministrants
-  (*Ministranten*) at the altar. Examples are Nürnberg 1524 and Brandenburg 1540, the latter "in
-  deacons' dalmatics" where there are enough clergy. In Pfalz-Neuburg 1543, "where there are
-  ministrants", the subdeacon reads the epistle and the deacon the gospel and gives the cup
-  (§[16.4.1](#s16-4-1)–[16.4.2](#s16-4-2)).
+  (*Ministranten*) at the altar. Examples are Nürnberg 1524 (Early Evangelical) and Brandenburg
+  1540, the latter "in deacons' dalmatics" where there are enough clergy. In Pfalz-Neuburg 1543,
+  "where there are ministrants", the subdeacon reads the epistle and the deacon the gospel and
+  gives the cup (§[16.4.1](#s16-4-1)–[16.4.2](#s16-4-2)).
 - **Levites:** Regensburg 1542 kept a full **levitical service**, with a priest celebrant and
   two "levites", a gospeller and an epistoler. Regensburg abolished the levites and their
   vestments in 1554, and again in its church order of 1567. Brandenburg-Ansbach's chapter order
@@ -47825,7 +48034,7 @@ right* above the people and below the presbyter in the Roman sense. The position
 - **Altar guild.** None exists in the corpus. The altar was kept by the sexton and the lay
   churchwardens or deacons. Pomerania (1574) charges the *diaconi* (deacons) with "the altar with its
   ornament". The confraternities and Kalands that had kept altars and lights were dissolved into
-  the common chest from Leisnig (1523) onward ([§16.7.2](#s16-7-2)).
+  the common chest from Leisnig (1523, Early Evangelical) onward ([§16.7.2](#s16-7-2)).
 - **Deaconesses.** There is no order of deaconesses. The word *diaconissa* (deaconess) appears once, for the
   almoner of the convent of Keppel (1570). The nearest equivalents are the Bohemian
   *presbyterae* and the *Seelfrauen* (soul-women) and beguines appointed to nurse the sick under the pastor
@@ -48201,7 +48410,7 @@ named, they are usually **ordained ministers** taking turns, not boys or men in 
 
 The Nürnberg parish churches' order of 1524 keeps a *ministrant* at the altar. The priest asks
 him who has announced himself for communion. **Nürnberg, *Gottesdienstordnung der Pfarrkirchen*,
-1524** (Sehling 11, p. 52):
+1524** (Early Evangelical; Sehling 11, p. 52):
 
 <!-- doc 249 -->
 
@@ -49337,7 +49546,7 @@ wine" (Sehling 13, p. 208).
 altars were kept by lay confraternities. These were dissolved, and their goods went to the
 common chest. The first such order, Leisnig's, names the brotherhoods of the Kaland, of St Anne
 and of the shoemakers' journeymen. **Leisnig, *Ordnung eines gemeinen Kastens*, 1523**
-(Sehling 1, p. 599):
+(Early Evangelical; Sehling 1, p. 599):
 
 <!-- doc 102 -->
 
@@ -49616,10 +49825,10 @@ gather with the common Christians to the remembrance of the Lord, to the use of 
 
 **Confraternities.** The lay brotherhoods (*Bruderschaften*) and the Kalands, which had kept
 altars, lights and anniversary Masses, were dissolved and their goods put into the common chest
-from Leisnig in 1523 onward ([§16.7.2](#s16-7-2)). Lemgo in 1537 gave the revenues of the brotherhoods and of
-the Kaland of Corpus Christi to the schoolmaster and preachers (Sehling 21, p. 302). Nassau in
-1537 kept a common meal for its clergy synod, but without the "disorderly feasting … as hitherto
-at the Kalands" (Sehling 10, p. 84).
+from Leisnig in 1523 (Early Evangelical) onward ([§16.7.2](#s16-7-2)). Lemgo in 1537 gave the revenues of
+the brotherhoods and of the Kaland of Corpus Christi to the schoolmaster and preachers (Sehling
+21, p. 302). Nassau in 1537 kept a common meal for its clergy synod, but without the "disorderly
+feasting … as hitherto at the Kalands" (Sehling 10, p. 84).
 
 **The answer in brief.** The Reformation in the Sehling corpus kept no third order and founded
 none. It turned the surviving beguines and *Seelfrauen* (soul-women) into nurses of the sick under the
@@ -50532,7 +50741,7 @@ knows. The columns are:
 |---|---|---|---|---|---|---|
 | Luther, *Formula missae*, 1523 | 1 | Candles and incense free | — | — | Neither forbidden nor required | — |
 | Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1 | Brotherhoods of the Kaland, St Anne, shoemakers | — | — | Dissolved into the common chest | — |
-| Nürnberg, *Gottesdienstordnung*, 1524 | 11 | Ministrant | — | — | Kept | — |
+| Nürnberg, *Gottesdienstordnung*, 1524 (Early Evangelical) | 11 | Ministrant | — | — | Kept | — |
 | Hadeln, *Kirchenordnung*, 1526 | 5 | — | Lay *leviten* (levites) of the poor | — | Created | — |
 | Homberg, 1526 (Moderate Reformed) | 8 | Deacon's and subdeacon's vestments | Deacon of the poor only | Bishop = presbyter | Mass-deacons and subdeacons rejected as unscriptural | Women may attend the assembly but not speak; "the men alone shall decide" |
 | Naumburg, St Wenzel, 1527 | 2 | — | — | — | — | Men, maidens and women sing the Creed in German |
@@ -50668,7 +50877,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 | Electoral Saxony, *Kirchenordnung* of Elector August, 1580 | 1, pp. 375, 381–383, 426, 452 | 44 | [16.3.3](#s16-3-3), [16.5.1](#s16-5-1), [16.5.4](#s16-5-4), [16.7.1](#s16-7-1), [16.9.8](#s16-9-8) |
 | Naumburg, *Kirchen-Ordnung für die St. Wenzelskirche*, 1537 | 2, pp. 64, 72, 89 | 1219 | [16.5.2](#s16-5-2), [16.9.6](#s16-9-6), [16.9.8](#s16-9-8) |
 | Halle, *Kirchen-Ordnung der christlichen Gemein zu Hall in Sachsen*, 1573(?) | 2, pp. 441–442 | 1257 | [16.3.3](#s16-3-3), [16.5.1](#s16-5-1) |
-| Leisnig, *Ordnung eines gemeinen Kastens*, 1523 | 1, p. 599 | 102 | [16.7.2](#s16-7-2), [16.7.6](#s16-7-6) |
+| Leisnig, *Ordnung eines gemeinen Kastens*, 1523 (Early Evangelical) | 1, p. 599 | 102 | [16.7.2](#s16-7-2), [16.7.6](#s16-7-6) |
 | Schönburg, *Kirchen-Ordnung* of Johann Pfeffinger, 18 October 1542 | 2, p. 176 | 1235 | [16.7.1](#s16-7-1) |
 | Anhalt, *Ordnung der deutschen Gesänge*, before 1551 | 2, p. 555 | 1262 | [16.4.5](#s16-4-5) |
 | Anhalt, *Ordnung für den Küster zu Törten*, 8 November 1594 (Philippist) | 2, pp. 579–580 | 1262 | [16.7.1](#s16-7-1) |
@@ -50786,7 +50995,7 @@ Passages from Sehling's own introductions are marked "editors' introduction".
 
 | Order | Sehling | Doc | § |
 |---|---|---|---|
-| Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 | 11, p. 52 | 249 | [16.4.1](#s16-4-1) |
+| Nürnberg, *Gottesdienstordnung der Pfarrkirchen*, 1524 (Early Evangelical) | 11, p. 52 | 249 | [16.4.1](#s16-4-1) |
 | Nürnberg, *Bericht der Stadt Nürnberg für den Goslarer Rat*, 30 March 1528 | 7/2.2, p. 230 | 2186 | [16.3.5](#s16-3-5), [16.4.3](#s16-4-3) |
 | Brandenburg-Ansbach-Kulmbach, *Kapitelsordnung*, 1565/78 | 11, pp. 347, 350, 357 | 283 | [16.4.3](#s16-4-3), [16.6.5](#s16-6-5) |
 | Hof, *Ordo ecclesiasticus*, 1592 | 11, pp. 425, 428, 463, 474 | 294 | [16.3.5](#s16-3-5), [16.9.6](#s16-9-6), [16.9.8](#s16-9-8) |
@@ -53980,9 +54189,9 @@ introduction or a footnote.
 - **Traditions.** The Upper Palatinate, Nassau-Dillenburg and Diez, Hanau, Ysenburg, Wied,
   Moers, Sayn after 1605, Homburg after 1605 and Kurpfalz after 1583 were Reformed. So were the
   French congregations of Rappoltstein and Frankfurt. Hesse under Philip was Moderate Reformed
-  and Philippist afterwards. The early orders of Strasbourg and Ulm are Moderate Reformed. The
-  Polish synods belong to the Sandomierz consensus. Their rules are given beside the Lutheran
-  ones, labelled, because they show the same questions from the other side.
+  and Philippist afterwards. The orders of Strasbourg (from 1526) and Ulm before the Interim are
+  Moderate Reformed. The Polish synods belong to the Sandomierz consensus. Their rules are given
+  beside the Lutheran ones, labelled, because they show the same questions from the other side.
 
 ---
 
@@ -56569,7 +56778,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Hamelmann, Hermann — [17.10.4](#s17-10-4)
 - Hanssen, Paul — [1.13.9](#s1-13-9), [9.4.2](#s9-4-2)
 - Hardenberg, Albert — [1.3.3](#s1-3-3), [1.15.3](#s1-15-3)
-- Hausmann, Nicolaus — [1.7.3](#s1-7-3), [12.4.6](#s12-4-6), [12.5.7](#s12-5-7), [12.6.1](#s12-6-1), [12.8.1](#s12-8-1), [12.8.3](#s12-8-3), [12.8.4](#s12-8-4), [12.16](#s12-16), [13.23.2](#s13-23-2), [13.25](#s13-25)
+- Hausmann, Nicolaus — [1.3.7](#s1-3-7), [1.7.3](#s1-7-3), [12.4.6](#s12-4-6), [12.5.7](#s12-5-7), [12.6.1](#s12-6-1), [12.8.1](#s12-8-1), [12.8.3](#s12-8-3), [12.8.4](#s12-8-4), [12.16](#s12-16), [13.23.2](#s13-23-2), [13.25](#s13-25)
 - Hefentreger, Johann — [1.17.2](#s1-17-2)
 - Hegenwalt, Erhart — [8.4.5](#s8-4-5)
 - Heinrich, Archbishop of Bremen — [1.13.1](#s1-13-1)
@@ -56629,7 +56838,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 - Kantz, Kaspar — [1.20.7](#s1-20-7), [2.4.8](#s2-4-8), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [Chapter 3](#ch3), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.4](#s3-3-4), [3.3.5](#s3-3-5), [3.3.7](#s3-3-7), [3.4.1](#s3-4-1), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.14.1](#s3-5-14-1), [3.5.14.2](#s3-5-14-2), [3.6.3](#s3-6-3), [3.7](#s3-7), [4.2](#s4-2), [4.A](#s4-a), [4.A.16](#s4-a-16), [5.6.4](#s5-6-4), [Chapter 7](#ch7), [7.1](#s7-1), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.2](#s7-2), [7.2.4](#s7-2-4), [7.2.6](#s7-2-6), [7.2.7](#s7-2-7), [7.3.3](#s7-3-3), [7.4.4](#s7-4-4), [7.7.2](#s7-7-2), [7.9](#s7-9), [7.9.2](#s7-9-2), [7.9.3](#s7-9-3), [7.9.4](#s7-9-4), [7.10](#s7-10), [7.11](#s7-11), [7.11.1](#s7-11-1)
 - Karl I, Count Palatine of Birkenfeld — [17.12.5](#s17-12-5)
-- Karlstadt, Andreas — [1.6.6](#s1-6-6), [14.1](#s14-1), [14.5.2](#s14-5-2)
+- Karlstadt, Andreas — [1.3.7](#s1-3-7), [1.6.6](#s1-6-6), [14.1](#s14-1), [14.5.2](#s14-5-2)
 - Kefelius, Pancratius — [18.4.3](#s18-4-3)
 - Kestner, Veit — [1.23.1](#s1-23-1)
 - Keuchenthal, Johannes — [8.A.1](#s8-a-1)
@@ -56660,7 +56869,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Ludwig IV, Landgrave of Hesse-Marburg — [1.16.2](#s1-16-2)
 - Ludwig VI, Elector Palatine — [Conventions](#conv-traditions), [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [1.29.4](#s1-29-4), [13.12.4](#s13-12-4), [14.1](#s14-1), [14.6.3](#s14-6-3), [14.7.4](#s14-7-4), [17.12](#s17-12), [17.12.1](#s17-12-1), [18.5.4](#s18-5-4)
 - Ludwig Casimir, Count of Hohenlohe — [1.23.1](#s1-23-1)
-- Luther, Martin — [Introduction](#repo-hymn-index), [Conventions](#conv-abbreviations), [1.3.6](#s1-3-6), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.2](#s10-11-2), [10.11.3](#s10-11-3), [10.11.4](#s10-11-4), [10.12.3](#s10-12-3), [10.12.8](#s10-12-8), [10.13](#s10-13), [10.14](#s10-14), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21](#s13-21), [13.21.2](#s13-21-2), [13.21.3](#s13-21-3), [13.23.1](#s13-23-1), [13.23.4](#s13-23-4), [13.23.7](#s13-23-7), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
+- Luther, Martin — [Introduction](#repo-hymn-index), [Conventions](#conv-traditions), [1.3.1](#s1-3-1), [1.3.6](#s1-3-6), [1.3.7](#s1-3-7), [1.5](#s1-5), [1.6](#s1-6), [1.6.1](#s1-6-1), [1.6.3](#s1-6-3), [1.7.8](#s1-7-8), [1.8.5](#s1-8-5), [1.15.3](#s1-15-3), [Chapter 2](#ch2), [2.1](#s2-1), [2.3](#s2-3), [2.3.2](#s2-3-2), [2.3.3](#s2-3-3), [2.5](#s2-5), [2.6.1](#s2-6-1), [2.9.2](#s2-9-2), [2.9.4](#s2-9-4), [2.10.3](#s2-10-3), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.13.2](#s2-13-2), [2.15.2](#s2-15-2), [2.15.9](#s2-15-9), [2.16](#s2-16), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.6](#s3-3-6), [3.3.7](#s3-3-7), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.3](#s3-5-3), [3.5.4](#s3-5-4), [3.5.6](#s3-5-6), [3.5.7](#s3-5-7), [3.5.14.5](#s3-5-14-5), [3.6.2](#s3-6-2), [3.6.3](#s3-6-3), [3.6.4](#s3-6-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.3.1](#s4-3-1), [4.3.3](#s4-3-3), [4.4.1](#s4-4-1), [4.5.3](#s4-5-3), [4.6.1](#s4-6-1), [4.6.2](#s4-6-2), [4.7.1](#s4-7-1), [4.8.1](#s4-8-1), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.1](#s4-a-1), [4.A.16](#s4-a-16), [Chapter 5](#ch5), [5.1](#s5-1), [5.3](#s5-3), [5.3.2](#s5-3-2), [5.3.3](#s5-3-3), [5.4.1](#s5-4-1), [5.4.3](#s5-4-3), [5.4.4](#s5-4-4), [5.4.5](#s5-4-5), [5.5.1](#s5-5-1), [5.6.1](#s5-6-1), [5.6.2](#s5-6-2), [5.6.3](#s5-6-3), [5.6.4](#s5-6-4), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.1.3](#s7-1-3), [7.3](#s7-3), [7.3.2](#s7-3-2), [7.3.5](#s7-3-5), [7.3.6](#s7-3-6), [7.4](#s7-4), [7.4.3](#s7-4-3), [7.5.1](#s7-5-1), [7.6.11](#s7-6-11), [7.7.1](#s7-7-1), [7.7.2](#s7-7-2), [7.8](#s7-8), [7.8.2](#s7-8-2), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.13.1](#s7-13-1), [7.14.3](#s7-14-3), [7.14.7](#s7-14-7), [7.15](#s7-15), [7.15.1](#s7-15-1), [8.1.1](#s8-1-1), [8.1.3](#s8-1-3), [8.2.1](#s8-2-1), [8.3.2](#s8-3-2), [8.3.3](#s8-3-3), [8.4.1](#s8-4-1), [8.4.2](#s8-4-2), [8.4.3](#s8-4-3), [8.4.7](#s8-4-7), [8.5](#s8-5), [8.5.2](#s8-5-2), [8.5.4](#s8-5-4), [8.6.1](#s8-6-1), [8.7](#s8-7), [8.7.4](#s8-7-4), [8.8](#s8-8), [8.8.1](#s8-8-1), [8.8.2](#s8-8-2), [8.8.3](#s8-8-3), [8.8.5](#s8-8-5), [8.8.7](#s8-8-7), [8.9](#s8-9), [8.9.1](#s8-9-1), [8.10.1](#s8-10-1), [8.10.3](#s8-10-3), [8.11](#s8-11), [8.12](#s8-12), [8.12.1](#s8-12-1), [8.12.2](#s8-12-2), [8.12.5](#s8-12-5), [8.13](#s8-13), [8.13.1](#s8-13-1), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.15](#s8-15), [8.15.2](#s8-15-2), [8.16.8](#s8-16-8), [8.16.9](#s8-16-9), [8.17.1](#s8-17-1), [8.17.2](#s8-17-2), [8.17.4](#s8-17-4), [8.17.5](#s8-17-5), [8.18.4](#s8-18-4), [8.18.5](#s8-18-5), [8.18.6](#s8-18-6), [8.19](#s8-19), [8.A.2](#s8-a-2), [8.A.4](#s8-a-4), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.5](#s9-5-5), [9.6](#s9-6), [9.7](#s9-7), [Chapter 10](#ch10), [10.1](#s10-1), [10.3](#s10-3), [10.3.1](#s10-3-1), [10.3.2](#s10-3-2), [10.3.3](#s10-3-3), [10.4.1](#s10-4-1), [10.5.2](#s10-5-2), [10.6.4](#s10-6-4), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.8.3](#s10-8-3), [10.9.2](#s10-9-2), [10.10.1](#s10-10-1), [10.10.3](#s10-10-3), [10.10.4](#s10-10-4), [10.10.5](#s10-10-5), [10.11.2](#s10-11-2), [10.11.3](#s10-11-3), [10.11.4](#s10-11-4), [10.12.3](#s10-12-3), [10.12.8](#s10-12-8), [10.13](#s10-13), [10.14](#s10-14), [Chapter 11](#ch11), [11.1](#s11-1), [11.3](#s11-3), [11.3.1](#s11-3-1), [11.3.2](#s11-3-2), [11.4.3](#s11-4-3), [11.4.4](#s11-4-4), [11.5.1](#s11-5-1), [11.5.2](#s11-5-2), [11.8.1](#s11-8-1), [11.8.2](#s11-8-2), [11.11.2](#s11-11-2), [11.13](#s11-13), [11.14](#s11-14), [12.1.1](#s12-1-1), [12.3.1](#s12-3-1), [12.4.3](#s12-4-3), [12.4.5](#s12-4-5), [12.7.3](#s12-7-3), [12.8.1](#s12-8-1), [12.8.9](#s12-8-9), [12.10.11](#s12-10-11), [12.12](#s12-12), [12.12.1](#s12-12-1), [12.15](#s12-15), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.3](#s13-3), [13.3.1](#s13-3-1), [13.3.2](#s13-3-2), [13.3.3](#s13-3-3), [13.3.4](#s13-3-4), [13.3.5](#s13-3-5), [13.3.9](#s13-3-9), [13.4.1](#s13-4-1), [13.4.4](#s13-4-4), [13.6.1](#s13-6-1), [13.6.5](#s13-6-5), [13.7](#s13-7), [13.7.1](#s13-7-1), [13.7.2](#s13-7-2), [13.7.4](#s13-7-4), [13.7.8](#s13-7-8), [13.10.2](#s13-10-2), [13.10.3](#s13-10-3), [13.10.5](#s13-10-5), [13.11.1](#s13-11-1), [13.12.3](#s13-12-3), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.21](#s13-21), [13.21.2](#s13-21-2), [13.21.3](#s13-21-3), [13.23.1](#s13-23-1), [13.23.4](#s13-23-4), [13.23.7](#s13-23-7), [13.24](#s13-24), [13.25](#s13-25), [14.1](#s14-1), [14.3.3](#s14-3-3), [14.4.1](#s14-4-1), [14.6.6](#s14-6-6), [14.9](#s14-9), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.8.2](#s15-8-2), [15.8.3](#s15-8-3), [15.11.5](#s15-11-5), [16.1](#s16-1), [16.4.4](#s16-4-4), [16.9.9](#s16-9-9), [16.10](#s16-10), [16.11](#s16-11), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.2.1](#s17-2-1), [17.3.2](#s17-3-2), [17.3.4](#s17-3-4), [17.3.5](#s17-3-5), [17.5.1](#s17-5-1), [17.5.3](#s17-5-3), [17.6.1](#s17-6-1), [17.6.2](#s17-6-2), [17.6.3](#s17-6-3), [17.6.4](#s17-6-4), [17.6.5](#s17-6-5), [17.6.6](#s17-6-6), [17.7.1](#s17-7-1), [17.7.2](#s17-7-2), [17.7.3](#s17-7-3), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.3](#s17-8-3), [17.8.4](#s17-8-4), [17.9](#s17-9), [17.9.1](#s17-9-1), [17.9.2](#s17-9-2), [17.9.3](#s17-9-3), [17.9.4](#s17-9-4), [17.9.5](#s17-9-5), [17.10.2](#s17-10-2), [17.10.3](#s17-10-3), [17.10.4](#s17-10-4), [17.10.6](#s17-10-6), [17.10.7](#s17-10-7), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.2](#s17-11-2), [17.11.3](#s17-11-3), [17.11.5](#s17-11-5), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.12.3](#s17-12-3), [17.13.2](#s17-13-2), [17.14.1](#s17-14-1), [17.14.3](#s17-14-3), [17.17.5](#s17-17-5), [17.18](#s17-18), [18.1.1](#s18-1-1), [18.5.3](#s18-5-3), [18.7.2](#s18-7-2), [18.12](#s18-12), [18.13](#s18-13)
 
 <a id="per-m"></a>**M**
 
@@ -56676,14 +56885,14 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Melanchthon, Philip — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.15.3](#s1-15-3), [1.33.1](#s1-33-1), [6.3](#s6-3), [6.9](#s6-9), [10.11.2](#s10-11-2), [11.8.2](#s11-8-2), [13.6.1](#s13-6-1), [13.10.2](#s13-10-2), [15.1](#s15-1), [15.3.2](#s15-3-2), [15.10.1](#s15-10-1), [16.1](#s16-1), [16.5.4](#s16-5-4), [Chapter 17](#ch17), [17.1.1](#s17-1-1), [17.3.3](#s17-3-3), [17.3.4](#s17-3-4), [17.5](#s17-5), [17.5.1](#s17-5-1), [17.5.2](#s17-5-2), [17.7.1](#s17-7-1), [17.7.4](#s17-7-4), [17.8.1](#s17-8-1), [17.8.2](#s17-8-2), [17.10.4](#s17-10-4), [17.10.5](#s17-10-5), [17.11](#s17-11), [17.11.1](#s17-11-1), [17.11.4](#s17-11-4), [17.12.5](#s17-12-5), [17.13.1](#s17-13-1), [17.13.3](#s17-13-3), [17.14.1](#s17-14-1)
 - Mening, Markus — [1.15.3](#s1-15-3), [17.10.5](#s17-10-5), [17.18](#s17-18)
 - Micron, Marten — [1.3.4](#s1-3-4), [1.13.9](#s1-13-9), [3.1](#s3-1), [3.3.6](#s3-3-6), [3.4.3](#s3-4-3), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.10](#s3-5-10), [3.5.14.4](#s3-5-14-4), [3.6.5](#s3-6-5), [3.7](#s3-7), [3.8](#s3-8), [6.3](#s6-3), [6.21](#s6-21), [9.1](#s9-1), [9.3.1](#s9-3-1), [9.5.4](#s9-5-4), [9.6](#s9-6), [9.7](#s9-7), [10.10.2](#s10-10-2), [10.10.6](#s10-10-6), [10.10.7](#s10-10-7), [10.14](#s10-14), [12.13.5](#s12-13-5), [12.16](#s12-16), [13.1.1](#s13-1-1), [13.1.2](#s13-1-2), [13.12.1](#s13-12-1), [13.16](#s13-16), [13.16.7](#s13-16-7), [13.24](#s13-24), [13.25](#s13-25), [14.6.7](#s14-6-7), [15.11.2](#s15-11-2), [16.1](#s16-1), [16.2](#s16-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4), [16.6.3](#s16-6-3), [16.8](#s16-8), [16.9.1](#s16-9-1), [16.9.3](#s16-9-3), [16.9.7](#s16-9-7), [16.9.8](#s16-9-8), [16.10](#s16-10), [16.11](#s16-11), [17.17.1](#s17-17-1), [17.18](#s17-18), [17.19](#s17-19)
-- Minkwitz, Hans von — [1.8.5](#s1-8-5)
+- Minkwitz, Hans von — [1.3.7](#s1-3-7), [1.8.5](#s1-8-5)
 - Mögner, Veit — [8.18.5](#s8-18-5)
 - Moller, Martin — [8.A.2](#s8-a-2)
 - Moritz, Elector of Saxony — [1.6.4](#s1-6-4), [1.6.6](#s1-6-6), [1.7.1](#s1-7-1)
 - Moritz, Landgrave of Hesse-Kassel — [1.17.1](#s1-17-1)
 - Mörlin, Joachim — [1.11.2](#s1-11-2), [17.9](#s17-9), [18.7.3](#s18-7-3)
 - Muhammad (Mahomet) — [6.13.I.1](#s6-13-i-1)
-- Müntzer, Thomas — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.1](#s1-3-1), [1.3.6](#s1-3-6), [1.6.6](#s1-6-6), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.6.1](#s2-6-1), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.15.2](#s2-15-2), [2.15.4](#s2-15-4), [2.15.6](#s2-15-6), [2.15.7](#s2-15-7), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.8](#s3-3-8), [3.4.1](#s3-4-1), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.2](#s4-2), [4.3.2](#s4-3-2), [4.4.4](#s4-4-4), [4.5.2](#s4-5-2), [4.6.3](#s4-6-3), [4.7.2](#s4-7-2), [4.8.2](#s4-8-2), [4.8.3](#s4-8-3), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.2](#s5-6-2), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.3](#s7-3-3), [7.4](#s7-4), [7.4.1](#s7-4-1), [7.4.3](#s7-4-3), [7.4.4](#s7-4-4), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.11.4](#s7-11-4), [7.13](#s7-13), [7.13.1](#s7-13-1), [7.13.4](#s7-13-4), [8.16.8](#s8-16-8), [8.19](#s8-19), [9.5.2](#s9-5-2), [9.5.3](#s9-5-3), [13.2.3](#s13-2-3), [13.9.1](#s13-9-1), [14.1](#s14-1), [14.5.2](#s14-5-2), [14.7.1](#s14-7-1)
+- Müntzer, Thomas — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.3.1](#s1-3-1), [1.3.6](#s1-3-6), [1.3.7](#s1-3-7), [1.6.6](#s1-6-6), [2.1](#s2-1), [2.4.8](#s2-4-8), [2.6.1](#s2-6-1), [2.12.1](#s2-12-1), [2.13.1](#s2-13-1), [2.15.2](#s2-15-2), [2.15.4](#s2-15-4), [2.15.6](#s2-15-6), [2.15.7](#s2-15-7), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.8](#s3-3-8), [3.4.1](#s3-4-1), [3.7](#s3-7), [3.8](#s3-8), [4.1](#s4-1), [4.2](#s4-2), [4.3.2](#s4-3-2), [4.4.4](#s4-4-4), [4.5.2](#s4-5-2), [4.6.3](#s4-6-3), [4.7.2](#s4-7-2), [4.8.2](#s4-8-2), [4.8.3](#s4-8-3), [4.9.1](#s4-9-1), [4.10.2](#s4-10-2), [4.10.3](#s4-10-3), [4.11](#s4-11), [4.12](#s4-12), [4.A.2](#s4-a-2), [4.A.5](#s4-a-5), [4.A.6](#s4-a-6), [4.A.8](#s4-a-8), [4.A.10](#s4-a-10), [4.A.16](#s4-a-16), [5.1](#s5-1), [5.5.2](#s5-5-2), [5.6.2](#s5-6-2), [5.6.6](#s5-6-6), [5.7](#s5-7), [5.8](#s5-8), [5.9](#s5-9), [5.A](#s5-a), [Chapter 7](#ch7), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.3.3](#s7-3-3), [7.4](#s7-4), [7.4.1](#s7-4-1), [7.4.3](#s7-4-3), [7.4.4](#s7-4-4), [7.10](#s7-10), [7.11](#s7-11), [7.11.2](#s7-11-2), [7.11.4](#s7-11-4), [7.13](#s7-13), [7.13.1](#s7-13-1), [7.13.4](#s7-13-4), [8.16.8](#s8-16-8), [8.19](#s8-19), [9.5.2](#s9-5-2), [9.5.3](#s9-5-3), [13.2.3](#s13-2-3), [13.9.1](#s13-9-1), [14.1](#s14-1), [14.5.2](#s14-5-2), [14.7.1](#s14-7-1)
 - Musculus, Andreas — [16.9.4](#s16-9-4)
 
 <a id="per-n"></a>**N**
@@ -56697,7 +56906,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 
 <a id="per-o"></a>**O**
 
-- Oecolampadius, Johannes — [1.26.2](#s1-26-2), [3.5.12](#s3-5-12)
+- Oecolampadius, Johannes — [1.3.7](#s1-3-7), [1.26.2](#s1-26-2), [3.5.12](#s3-5-12)
 - Origen — [18.7.3](#s18-7-3)
 - Osiander, Andreas — [3.1](#s3-1), [3.4.4](#s3-4-4), [3.5.1](#s3-5-1), [3.5.2](#s3-5-2), [3.5.4](#s3-5-4), [3.5.5](#s3-5-5), [3.5.7](#s3-5-7), [3.5.14.3](#s3-5-14-3), [3.7](#s3-7), [4.11](#s4-11), [5.5.2](#s5-5-2), [5.8](#s5-8), [6.16](#s6-16), [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.8.7](#s7-8-7), [7.12.6](#s7-12-6), [7.14](#s7-14), [7.14.2](#s7-14-2), [7.A](#s7-a), [13.22.3](#s13-22-3)
 - Ottheinrich, Elector Palatine — [1.21.2](#s1-21-2), [1.22.1](#s1-22-1), [2.4.5](#s2-4-5), [4.8.2](#s4-8-2), [4.12](#s4-12), [6.5](#s6-5), [6.6](#s6-6), [6.16](#s6-16), [7.14](#s7-14), [10.14](#s10-14), [12.10.3](#s12-10-3), [12.16](#s12-16), [13.3.2](#s13-3-2), [13.15.4](#s13-15-4), [13.17.2](#s13-17-2), [13.25](#s13-25), [17.12](#s17-12), [17.12.1](#s17-12-1), [17.18](#s17-18), [17.19](#s17-19)
@@ -56824,7 +57033,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Zindel, Christian — [1.17.1](#s1-17-1)
 - Zuleger, Wenzel — [1.22.1](#s1-22-1), [15.2.1](#s15-2-1), [15.7.5](#s15-7-5), [15.13](#s15-13)
 - Zwick, Johannes — [1.3.3](#s1-3-3), [1.25.3](#s1-25-3)
-- Zwingli, Huldrych — [17.7.3](#s17-7-3)
+- Zwingli, Huldrych — [1.3.7](#s1-3-7), [17.7.3](#s17-7-3)
 <!-- Index of persons end -->
 
 <div style="page-break-before: always;"></div>
