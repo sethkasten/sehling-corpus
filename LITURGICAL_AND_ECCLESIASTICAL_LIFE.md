@@ -47485,17 +47485,18 @@ devil's doctrines" (Braunschweig 1528). What the orders prescribe instead:
 
 Zweibrücken (1533) and Pfalz-Veldenz (1574) tied it to the Christmas, Easter and Whitsun weeks,
 and Schwäbisch Hall (1543) and Limpurg (1610) to Good Friday. Only Waldeck (1556) prints the
-Good Friday solemn prayers: eleven German biddings, each with a collect, without *Flectamus
-genua*, the pope or the pagans, and with new prayers for persecutors, false Christians and
-enemies. No order has a Litany at the Easter Vigil.
+Good Friday solemn prayers, given there in full: eleven German biddings, each with a collect,
+without *Flectamus genua*, the pope or the pagans, and with new prayers for persecutors, false
+Christians, enemies and our own sins. No order has a Litany at the Easter Vigil.
 
 **17. The rites of the feasts were reduced to their history** ([§13.23](#s13-23)). No order keeps the
 *Exsultet*, the new fire, the paschal candle, the ashes or the Christmas Kalenda. Electoral
 Brandenburg 1540 alone kept the Palm Sunday procession, the Maundy Thursday foot-washing and the
 representations of Christ's burial and resurrection. Christmas and Easter Matins were moved from
-midnight to the morning, and the Good Friday solemn prayers survived at Mülhausen (Reformed) and
-Waldeck. No order buries the Alleluia at Septuagesima ("the Alleluia is the perpetual voice of
-the church", Luther), but several make the Athanasian Creed the text of Trinity Sunday.
+midnight to the morning. The Good Friday solemn prayers survived at Waldeck; at Mülhausen
+(Reformed) the preachers wanted them read in German in 1528. No order buries the Alleluia at
+Septuagesima ("the Alleluia is the perpetual voice of the church", Luther), but several make the
+Athanasian Creed the text of Trinity Sunday.
 
 #### <a id="s13-1-2"></a>13.1.2 Where the full liturgies are
 
@@ -53745,9 +53746,11 @@ the canon:
 the second. Luther's German Litany and his corrected Latin Litany (*Latina litania correcta*) of
 1529 removed the invocation of the saints. They became the commonest set intercession of the
 evangelical churches: sung in place of the Mass when no one communed, inside the Mass, after the
-sermon, and on fixed weekdays, prayer days and Rogation. The Good Friday biddings survive in two
-orders. This section covers the Mass and the parish services that stood in for it; the Litany at
-the hours is in [Chapter 10](#ch10), [§10.7.5](#s10-7-5). The general prayer of the church,
+sermon, and on fixed weekdays, prayer days and Rogation. Only Waldeck (1556) prints the Good
+Friday biddings, in a German set given in full in [§13.21.6](#s13-21-6); at Mülhausen (Reformed) the
+preachers asked in 1528 only that the old ones be read in German. This section covers the Mass
+and the parish services that stood in for it; the Litany at the hours is in [Chapter 10](#ch10),
+[§10.7.5](#s10-7-5). The general prayer of the church,
 including its bidding forms ("Lasset uns bitten für …"), is in
 [Chapter 6](#ch6) and is left aside here.
 
@@ -54103,38 +54106,476 @@ auch bitten für …"), and an *Oratio*. There are eleven intentions:
 10. *pro tentatis et sub cruce laborantibus*;
 11. *pro peccatis nostris*.
 
-They open with an address to the "dear brothers and sisters" and Christ's promise to those who
-ask. **Waldeck, *Kirchenordnung*, 1556** (Sehling 9, p. 278):
+**The texts in the corpus.** The corpus has one text of these prayers, Waldeck's, in two
+witnesses. Sehling's base text (A) is the print of 1556, from the copy in Berlin (Sehling 9,
+p. 229, note a). The editors record in their apparatus a manuscript revision of the order (B),
+now at Kassel, which they date to about 1584 (Sehling 9, p. 173). No other order gives a text;
+at Mülhausen (Reformed) in 1528 the preachers asked only that the old collects be read in German
+(below). A follows in full, prayer by prayer, and B's readings after it. The Scripture
+references in the translation are the editors', with a few added where a verse is quoted.
+
+**1. The Church**, with the title and the preface (Sehling 9, pp. 277–278):
 
 <!-- doc 2300 -->
+> Precationes Solennes pro singulis ordinibus et necessitatibus die Parasceues dicendae
+>
+> Lieben Brüder und schwester, auff das alle gleubigen zum Gebet gereytzt würden, so hat Jesus
+> Christus, unser lieber herr, dem Gebet eyne tröstliche versicherung angehefft, da er mit
+> mercklichen worten spricht: Bittet, so werdet ir nemen, Suchet, so werdet ir finden, Klopffet
+> an, so wirt euch uffgethon, Und: Wo zwey oder drei in meinem Namen versamlet sein und umb
+> etwas eyns werden, das sie bitten wöllen, das sol inen widerfaren von meinem vatter im hymel.
 > Dieweil wir dann ytzundt im namen des herrn versamlet sein, so laßt uns erstlich von hertzen
 > bitten für die Gemeyne Christlichen Kirchen, das sie der allmechtige Gott durch unsern herrn
 > Jesum Christ inn der gantzen welt beschirmen und erhalten wölle, das sie mit ruhe und fried
 > nach seinem Göttlichen willen leben und seinen heyligen Namen loben unnd preisen mögen.
+>
+> Oratio: Allmechtiger, ewiger Gott, der du deine Göttliche herrligkeyt und deinen ehrenreichen
+> namen unter allerley völckern auff erden ruchtar machest und das reich deines lieben Sohns
+> Christi hin und widder in der welt außbreytest, Laß dir die außerwelte braut desselbigen
+> unsers lieben herrn Christi bevolhen sein, die er mit seinem heyligen, theuren blut erworben,
+> gereyniget und geheyliget hat, das sie in eynigkeyt des Geystes und Glaubens durch deines
+> Götlichen Worts warheyt gegen alle versuchung des Sathans unnd gewalt der hellischen pforten
+> gestercket und erhalten, fest und wolgegründet im glauben, frölich und unverzagt in der
+> bekentnus und in allen tugenden fruchtbar und reich durch Jesum Christum erfunden werde, das
+> bitten wir umb desselbigen, deines lieben Sohns, unsers herrn, willen.
 
-Since we are now gathered in the name of the Lord, let us first pray from the heart for the
-congregation of the Christian Church, that Almighty God through our Lord Jesus Christ will
-protect and preserve it in all the world, that it may live in rest and peace according to his
-divine will, and laud and praise his holy name.
+Solemn prayers for every order and need, to be said on Good Friday.
 
-The bidding for the Jews keeps the old intention but drops the old language of "perfidy" and
-"blindness" for the veil of 2 Corinthians 3 and the olive tree of Romans 11. **Waldeck,
-*Kirchenordnung*, 1556** (Sehling 9, p. 280):
+Dear brothers and sisters, that all the faithful might be stirred up to prayer, Jesus Christ our
+dear Lord hath annexed unto prayer a comfortable assurance, where he saith in plain words: Ask,
+and ye shall receive; seek, and ye shall find; knock, and it shall be opened unto you (Mt 7:7;
+Lk 11:10); and: Where two or three are gathered together in my name, and agree touching any
+thing that they will ask, it shall be done for them of my Father in heaven (Mt 18:19–20). Since
+we are now gathered in the name of the Lord, let us first pray from the heart for the common
+Christian Church, that Almighty God through our Lord Jesus Christ would protect and preserve it
+in all the world, that it may live in rest and peace according to his divine will, and laud and
+praise his holy name.
+
+Prayer: Almighty, everlasting God, who makest thy divine glory and thy glorious name known among
+all manner of peoples upon earth, and spreadest abroad the kingdom of thy dear Son Christ
+throughout the world: let the chosen bride of the same, our dear Lord Christ, be commended unto
+thee, whom he hath purchased, cleansed and sanctified with his holy and precious blood; that in
+the unity of the Spirit and of faith, through the truth of thy divine Word, she may be
+strengthened and preserved against every temptation of Satan and the power of the gates of hell,
+and be found through Jesus Christ firm and well grounded in the faith, joyful and undaunted in
+confession, and fruitful and rich in all virtues. This we ask for the sake of the same, thy dear
+Son, our Lord.
+
+**2. The ministers of the Word** (Sehling 9, p. 278):
 
 <!-- doc 2300 -->
-> Pro iudaeis Lasset uns auch bitten für den elenden uberlauff des Jüdischen Samens, Das yhnen
-> der barmhertzige Gott seine alte verheyssung gnediglich in yhren hertzen erwecken wölle und
-> vor yhren augen unnd hertzen die decken hinweg nehmen, das sie auch zu erkentnus Jesu Christi,
-> unsers herrn, mogen kommen. Oratio: Barmhertziger, gütiger Gott, Der du auch der Juden
-> hertigkeyt von deiner erbarmung nit außschleussest, Gedencke deines gnedigen bunds, den du mit
-> deinem trewen diener Abraham und mit andern lieben vättern auffgerichtet hast.
+> Pro ministris verbi et ecclesiae
+>
+> Wir wöllen auch trewlich bitten für alle rechtschaffene Prediger unnd Lehrer des Göttlichen
+> Worts und sunst für alle andere Diener und Vorstender der Christlichen Gemeyn, Das sie der
+> Allmechtige Got zu irem Beruff und Ampt mit eynem rechtschaffenem eiferigem Geyste wölle
+> begaben und für aller anfechtung des leydigen feinds krefftiglichen bewaren.
+>
+> Oratio: Barmhertziger, gütiger herr Jesu Christe, Der du nach deinem Göttlichen rath und
+> weißheyt zu beruffung unnd erbawung der heyligenn Christenheyt die mündtliche predigt des
+> heyligen Evangelii verordnet hast und darauff befolhen, deinen hymlischen vatter zubitten, Das
+> er inn diese Erndte seines Göttlichen Worts newe Schnitter unnd Arbeyter außschicken wölle,
+> Wir bitten, Das du deine außerwelete Christenheyt mit trewen Hirdten unnd fleissigen wechtern
+> zu dieser hochnötigen seelensorge gnediglich wöllest versehen, Dieselbige durch zimliche und
+> Gottselige mittel zu yhrem beruff kommen lassen, Inen dein heylsames Wort inn das hertz und
+> inn den mundt legen, das sie das ware hymmelbrodt zu rechter zeit und wie sich gebürt deinen
+> hungerigen kindern vorzuschneiden, unverdrossen seien. Behüte sie vor den falschen listen des
+> leydigen Sathans und vor allem dunckel des fleysches unnd menschlicher witz, Das sie mit
+> unzertrenten sinnen bei deiner eynfeltigen warheyt erhalten, gesundt in der lehr und richtig
+> im wandel und leben allezeit erfunden unnd wir durch yhren trewen dienst nach gestalt eynes
+> yeden beruffs vermittelst deinen gnaden versorget, gebessert und erbawet werden umb deiner
+> barmhertzigkeyt willen.
 
-For the Jews. Let us also pray for the wretched remnant of the seed of the Jews, that the
-merciful God would graciously awaken in their hearts his old promise, and take away the veil
-from before their eyes and hearts, that they also may come to the knowledge of Jesus Christ our
-Lord. Prayer: Merciful, kind God, who shuttest not out even the hardness of the Jews from thy
-mercy, remember thy gracious covenant which thou didst set up with thy faithful servant Abraham
-and with other dear fathers.
+For the ministers of the Word and of the Church.
+
+We will also faithfully pray for all upright preachers and teachers of the divine Word, and
+besides for all other ministers and wardens of the Christian congregation, that Almighty God
+would endue them for their calling and office with an upright and zealous spirit, and mightily
+preserve them from every assault of the evil foe.
+
+Prayer: Merciful, kind Lord Jesus Christ, who after thy divine counsel and wisdom hast ordained
+the spoken preaching of the holy Gospel for the calling and building up of holy Christendom
+(Mk 16:15; Rom 10:17), and hast thereupon commanded us to pray thy heavenly Father that he would
+send forth new reapers and labourers into this harvest of his divine Word (Mt 9:38; Lk 10:2): we
+beseech thee that thou wouldest graciously provide thy chosen Christendom with faithful
+shepherds and diligent watchmen for this most needful cure of souls; that thou wouldest let them
+come to their calling by seemly and godly means, and put thy wholesome Word into their heart and
+into their mouth, that they may be unwearied to break the true bread of heaven unto thy hungry
+children in due season and as is meet (Ps 78:24; Heb 9:4). Keep them from the false wiles of the
+evil Satan, and from all the conceit of the flesh and of man's cunning, that with undivided
+minds they may be kept in thy simple truth, and be found at all times sound in doctrine and
+upright in walk and life; and that we, through their faithful service, according to the manner
+of every man's calling, may by means of thy grace be provided for, bettered and built up; for
+thy mercy's sake.
+
+**3. The catechumens** (Sehling 9, pp. 278–279):
+
+<!-- doc 2300 -->
+> Pro catechumenis
+>
+> Wir wöllen auch bitten für die newen pflantzen und jungen gliedmaß der heyligen, Christlichen
+> Gemeyne, Das yhnen der allmechtige Gott zum gehör unnd verstandt seines Göttlichen worts die
+> ohren und auch die hertzen eröffnen und erleuchten wölle, das sie inn der eynfeltigen lehr des
+> gecreutzigten Christi recht unterricht und selig aufferzogen werden.
+>
+> Oratio: Barmhertziger, gütiger Gott, Der du nach deinen Göttlichen gnaden die mutter, die
+> heylige Christenheyt, mit newem gezüchte des heyligen Christlichen glaubens reichlich
+> benedeiest, stercke unnd vermehre den Glauben und erkentnus aller derer, so inn die Schul unnd
+> zum Catechismo deines Göttlichen Worts getretten sein, Das sie auß diesem Samen deine
+> hymlische pflantzung mögen werden unnd durch täglich zunehmen des Glaubens und aller
+> Gotseligkeyt das vollenkommen alter unsers Herrn Jesu Christi ergreiffen und entlich an disem
+> heyligen weinstock als die lebendigen zweige mit gotseligen früchten erfunden werden.
+
+For the catechumens.
+
+We will also pray for the new plants and young members of the holy Christian congregation, that
+Almighty God would open and enlighten their ears and also their hearts to the hearing and
+understanding of his divine Word, that they may be rightly instructed in the simple doctrine of
+Christ crucified and blessedly brought up.
+
+Prayer: Merciful, kind God, who of thy divine grace dost richly bless the mother, holy
+Christendom, with new offspring of the holy Christian faith: strengthen and increase the faith
+and knowledge of all those that are entered into the school and the catechism of thy divine
+Word; that out of this seed they may become thy heavenly planting, and by the daily increase of
+faith and of all godliness attain unto the perfect age of our Lord Jesus Christ (Eph 4:13), and
+at the last be found on this holy vine as the living branches with godly fruits (Jn 15:5).
+
+**4. Those who err in the faith** (Sehling 9, p. 279):
+
+<!-- doc 2300 -->
+> Pro errantibus in fide
+>
+> Lasset uns auch bitten für alle angefochten hertzen und verworren gewissen derer, so mit
+> yrrigen gedancken behafftet und mit falscher lehr verfüret sein, das sie auß unverstandt und
+> betrieglichem eiffer mit rath und that der warheyt widerstreben, Das sie der Allmechtige Gott
+> von allem yrrthumb gnediglich erretten wölle und sie widerumb zur Gemeynschafft der eynigen
+> Christenheyt beruffen.
+>
+> Oratio: Barmhertziger, gütiger Gott, Der du bereytet bist, alle menschen selig zumachen Und
+> nicht dein wille ist, das yemandt verlorn werde, Wir bitten, das du dich gnediglich wöllest
+> annehmen aller yrrigen hertzen, die durch des bösen Geystes list betrogen, gefangen und
+> vergifftiget sein, Laß yhn die warheyt deines Göttlichen Worts durch den heyligen Geyst
+> erscheinen, auff das sie, zu erkentnus yhres yrrthumbs und unverstands beweget, alle
+> ketzerische halßstarrigkeyt ablegen und zu der unbetrieglichen warheyt deines lieben Sohns
+> widderumb inn Christlicher demut bekeret werden.
+
+For them that err in the faith.
+
+Let us also pray for all troubled hearts and confused consciences of them that are beset with
+erring thoughts and led astray by false doctrine, so that out of ignorance and deceptive zeal
+they withstand the truth with counsel and deed: that Almighty God would graciously deliver them
+from all error, and call them back again into the fellowship of the one Christendom.
+
+Prayer: Merciful, kind God, who art ready to save all men, and it is not thy will that any
+should perish (Ezek 33:11): we beseech thee that thou wouldest graciously take to thee all
+erring hearts which are deceived, taken captive and poisoned by the craft of the evil spirit.
+Let the truth of thy divine Word appear unto them through the Holy Ghost, that they, being moved
+to the knowledge of their error and ignorance, may lay aside all heretical stubbornness, and be
+converted again in Christian humility to the truth of thy dear Son, which deceiveth not.
+
+**5. The persecutors** (Sehling 9, p. 279):
+
+<!-- doc 2300 -->
+> Pro persecutoribus Verbi et Ecclesiae
+>
+> Wir wöllen auch ernstlich bitten für alle handthettige und offenbare verfolger der Göttlichen
+> warheyt, die ire handt an die unschuldigen Gliedmaß Jesu Christi gewaltiglich legen und die
+> Rache Gottes zum gemeynen verderben der gantzen wellt erregen und reytzen, Das inn denselbigen
+> der Almechtige Gott allen hochmut, vermessenheyt und tyrannische vornehmen zerstören wölle
+> unnd sie zur forcht seines gewaltigen arms durch warhafftige buß bekeren.
+>
+> Oratio: Allmechtiger, ewiger Gott, der du den hochmütigen krefftiglich zu widderstehen unnd
+> alleyn den Demütigen pflegst günstig zu sein und von anfangk der wellt alle zeit die verfolger
+> deines heyligen Namens als der herre Zebaoth gewaltiglich gestürtzet hast, Wir bitten dich,
+> das du die grewlichen und wütenden hertzen aller deiner unnd deines armen volcks feinde
+> demütigen und stillen wöllest, das sie iren unbillichen frevel und bitterkeyt gegen deine
+> unschuldige schäflein verlassen und sich mit forcht und zittern unter deine gewaltige handt
+> ergeben unnd zu dir, Gott des frieds, unnd zu dem sanfftmütigen Künige Jesu Christo in rechtem
+> glauben bekeret werden.
+
+For the persecutors of the Word and of the Church.
+
+We will also earnestly pray for all active and open persecutors of the divine truth, which lay
+their hand violently upon the innocent members of Jesus Christ, and stir up and provoke the
+vengeance of God to the common destruction of the whole world: that Almighty God would destroy
+in them all pride, presumption and tyrannous purpose, and convert them by true repentance to the
+fear of his mighty arm.
+
+Prayer: Almighty, everlasting God, who art wont mightily to resist the proud and to be gracious
+only unto the humble (1 Pet 5:5), and who from the beginning of the world hast at all times
+mightily cast down the persecutors of thy holy name, as the Lord of Sabaoth: we beseech thee
+that thou wouldest humble and still the cruel and raging hearts of all the enemies of thee and
+of thy poor people, that they may forsake their unjust insolence and bitterness against thine
+innocent sheep, and yield themselves with fear and trembling under thy mighty hand, and be
+converted in right faith unto thee, the God of peace, and unto the meek King Jesus Christ.
+
+**6. The magistrates** (Sehling 9, pp. 279–280):
+
+<!-- doc 2300 -->
+> Pro magistratibus
+>
+> Wir wöllen auch trewlich auß underweisung und vermanung der heyligen Propheten unnd Aposteln
+> für alle weltliche ordentliche Obrigkeyt bitten, Das sie yhr ampt und stand auß Gottes wort
+> erkennen und bedencken mögen, Yhres gewalts nach Götlichem befelch zu straaff der ubelthetter
+> und zu schutzung der frommen zugebrauchen Und wir unter irem Gottseligem Regiment eyn
+> züchtiges, stilles leben inn aller gottseligkeyt und erbarkeyt führen mögen.
+>
+> Oratio: Allmechtiger, ewiger Gott, Der du nach deinem Göttlichem wolgefallen alle Reiche der
+> welt beyde inn- und absetzest Unnd ohne dich keyn Obrigkeyt inn guter ordnung bleiben odder
+> bestehen mag, Der du auch des Küniges hertz inn deiner handt hast, darauß zumachen, was dir
+> gefellig ist, wir bitten, Das du mit gnaden wöllest ansehen unsere herrn, den Römischen Keyser
+> und Künig sampt allen Stenden und ordentlichen verwandten desselbigen Reichs. Insonderheyt
+> aber bitten wir für Obrigkeyt und Herrschafft dieses Landts und Stadt, darinn wir wohnen, Und
+> in gemeyn für alle ordentliche Obrigkeyt, Das du denselbigen allesampt deine Götliche forcht
+> inn yhre hertzen wöllest geben, das weltliche schwerdt im glauben nach deinem göttlichen
+> befelch zufüren. Verleihe yhnen verstandt unnd weißheyt, alle yhre underthanen mit gutem
+> Regiment inn Gottseligkeyt und erbarkeyt zuversorgen, Das beyde, der zeitliche und ewige fried
+> unter yhrer obrigkeyt gepflantzt und geheget unnd die tage yhres lebens zur fürderung deines
+> heyligen worts, zum preiß deines benedeiten namens und zu handthabung aller Gotseligkeyt
+> erlengert und gefristet werden.
+
+For the magistrates.
+
+We will also faithfully pray, after the instruction and exhortation of the holy prophets and
+apostles, for all temporal lawful authority: that they may know and consider their office and
+estate out of God's Word, and use their power according to the divine command, to the punishment
+of evildoers and the protection of the godly; and that we under their godly government may lead
+a sober and quiet life in all godliness and honesty (1 Tim 2:1–2).
+
+Prayer: Almighty, everlasting God, who after thy divine good pleasure settest up and puttest
+down all the kingdoms of the world, and without whom no authority may abide or stand in good
+order; who also hast the king's heart in thine hand, to make of it what pleaseth thee
+(Prov 21:1): we beseech thee that thou wouldest look graciously upon our lords the Roman Emperor
+and the Roman King, together with all the estates and lawful members of the same Empire. But
+especially we pray for the rulers and lordship of this land and town wherein we dwell, and in
+general for all lawful authority: that thou wouldest put thy divine fear into the hearts of them
+all, to bear the temporal sword in faith according to thy divine command. Give them
+understanding and wisdom to provide for all their subjects with good government in godliness and
+honesty; that both temporal and eternal peace may be planted and tended under their rule, and
+the days of their life be lengthened and prolonged for the furtherance of thy holy Word, the
+praise of thy blessed name and the maintenance of all godliness.
+
+**7. The Jews** (Sehling 9, p. 280):
+
+<!-- doc 2300 -->
+> Pro iudaeis
+>
+> Lasset uns auch bitten für den elenden uberlauff des Jüdischen Samens, Das yhnen der
+> barmhertzige Gott seine alte verheyssung gnediglich in yhren hertzen erwecken wölle und vor
+> yhren augen unnd hertzen die decken hinweg nehmen, das sie auch zu erkentnus Jesu Christi,
+> unsers herrn, mogen kommen.
+>
+> Oratio: Barmhertziger, gütiger Gott, Der du auch der Juden hertigkeyt von deiner erbarmung nit
+> außschleussest, Gedencke deines gnedigen bunds, den du mit deinem trewen diener Abraham und
+> mit andern lieben vättern auffgerichtet hast. Verleihe yhnen gnad, das sie in yhrem leydt dich
+> suchen und finden mogen und dem natürlichen Oelbaum durch den glauben widderumb eingepflantzet
+> werden, von welchem sie durch yhren unglauben abgebrochen sein. Lasse sie den wahren Messiam,
+> Jesum Christ, deinen lieben sohn, mit gleubigen hertzen auffnehmen unnd bekennen Unnd rücke es
+> yhnen nicht auff, das yhre vätter denselbigen heutzutage verleugnet und gecreutziget haben.
+
+For the Jews.
+
+Let us also pray for the wretched remnant of the seed of the Jews, that the merciful God would
+graciously awaken his old promise in their hearts, and take away the veil from before their eyes
+and hearts (2 Cor 3:14–16; Isa 25:7), that they also may come to the knowledge of Jesus Christ
+our Lord.
+
+Prayer: Merciful, kind God, who shuttest not out even the hardness of the Jews from thy mercy:
+remember thy gracious covenant which thou didst make with thy faithful servant Abraham (Gen 17)
+and with other dear fathers. Grant them grace that in their sorrow they may seek and find thee,
+and through faith be grafted again into the natural olive tree from which they were broken off
+through their unbelief (Rom 11:17–24). Let them receive and confess with believing hearts the
+true Messiah, Jesus Christ thy dear Son, and lay it not to their charge that their fathers on
+this day denied and crucified the same.
+
+**8. False Christians** (Sehling 9, pp. 280–281):
+
+<!-- doc 2300 -->
+> Pro Pseudochristianis
+>
+> Wir wollen auch ernstlich bitten für alle falsche und untrewe hertzen, die unter dem guten
+> schein des heyligen Namens Christi die warheyt Gottes unnd den heyligen Christlichen glauben
+> mit mancherley sünde und ergernus schmelich darsetzen und den ungleubigen den unschuldigen
+> Namen Gottes zuverlestern ursach geben, Welche auch alleyn mit dem munde zu Gott nahen, aber
+> mit dem hertzen ferne von yhm sein, Das yhnen der Allmechtige Gott diese falschheyt zu
+> erkennen gebe, uff das sie nicht hernachmals mit den thorechten Jungkfrawen abgewiesen, mit
+> den faulen fischen außgeworffen unnd durch die wurffschauffel Gottes unter die kabe zum ewigen
+> fewr geschwungen werden.
+>
+> Oratio: Barmhertziger, gütiger herr Jesu Christe, der du der weg, die warheyt und die eynige
+> Pfort des lebens bist und auß besondern gnaden deines hymlischen vatters eyn eygen erbvolck
+> auff erden zum geschenck empfangen hast, welches nach deinem gebenedeiten Namen genennet und
+> durch dich, guten und getrewen hirdten, mit der weyde des ewigen lebens versorget und in
+> gnadenreichen Schafstal der heyligen Christenheyt eynen sichern auß- und eingangk haben solt,
+> wir bitten, Du wöllest dir die schäflein, so dir der vatter gegeben hat, gnediglich lassen
+> bevolhen sein und sie durch den geyst der warheyt vor aller gleißnerei und falschen tücken
+> behüten, Das sie nicht zwifache hertzen haben oder zu beyden seiten hincken, sondern mit
+> auffrichtigem gemüt, ohn falsch und ungeferbter weise mit wahrer bekentnus des hertzen, munds
+> und ires gantzen lebens deine herligkeyt unnd iren Christenthumb mügen bezeugen.
+
+For false Christians.
+
+We will also earnestly pray for all false and faithless hearts which, under the fair show of the
+holy name of Christ, shamefully betray the truth of God and the holy Christian faith with
+manifold sin and offence, and give the unbelievers cause to blaspheme the innocent name of God;
+which also draw near to God with their mouth only, but are far from him with their heart
+(Isa 29:13; Mt 15:8): that Almighty God would give them to know this falsehood, so that they be
+not hereafter turned away with the foolish virgins (Mt 25:1–12), cast out with the bad fish
+(Mt 13:47–48), and swung by God's fan among the chaff into the everlasting fire (Mt 3:12).
+
+Prayer: Merciful, kind Lord Jesus Christ, who art the way, the truth and the only door of life
+(Jn 14:6), and of the special grace of thy heavenly Father hast received for a gift a peculiar
+people of thine own inheritance upon earth, which is called after thy blessed name, and through
+thee, the good and faithful shepherd, is provided with the pasture of eternal life, and shall
+have a sure going out and coming in within the gracious sheepfold of holy Christendom
+(Jn 10:1–16): we beseech thee that thou wouldest graciously keep in thy care the sheep which the
+Father hath given thee, and guard them by the Spirit of truth from all hypocrisy and false
+tricks; that they have not a double heart, nor halt between two opinions (1 Kgs 18:21), but with
+an upright mind, without falsehood and unfeignedly, with true confession of heart, mouth and
+their whole life, may bear witness to thy glory and to their Christianity.
+
+**9. Enemies** (Sehling 9, p. 281):
+
+<!-- doc 2300 -->
+> Pro inimicis
+>
+> Wir wöllen auch nach dem bevelch und exempel unsers lieben herrn Jesu Christi für alle unsere
+> feinde und widdersacher bitten, sie seien heymlich oder offenbar, Das yhnen Gott ire grimmige
+> unnd erbitterte hertzen wolle senfftigen, allen iren zorn und ungedult ferne von inen treiben
+> und uns mit inen zum Christlichen fried und versühnung kommen lassen.
+>
+> Oratio: O herr Jesu Christe, Der du uns mit deinem gotlichen munde selbst geleret hast, Das
+> wir unsere Feinde lieben, unsern beleydigern wolthettig sein und für unsere verfolger bitten
+> sollen, Dieweil wir nun von wegen unser verderbten natur alle zeit mehr zur rache dann zur
+> verzeihung geneygt sein, so bitten wir dich, Du wollest unsere verletzten hertzen durch deine
+> gotliche gelindigkeyt und sanfftmut heylen unnd stillen, das wir dir die rach wissen
+> zubefelhen und alles, so uns zu leydt geschehen, hertzlich vergeben unnd vergessen mogen. Gib
+> allen unsern feinden den wahren fried und ungefelschte liebe, Verzeihe inen alle ire sünde, so
+> sie wider dich unnd uns gethan haben unnd laß sie zur rechten buß und besserung kommen.
+
+For enemies.
+
+We will also, after the command and example of our dear Lord Jesus Christ, pray for all our
+enemies and adversaries (Mt 5:44), be they secret or open: that God would soften their fierce
+and embittered hearts, drive all their wrath and impatience far from them, and bring us with
+them to Christian peace and reconciliation.
+
+Prayer: O Lord Jesus Christ, who with thine own divine mouth hast taught us that we should love
+our enemies, do good to them that hurt us, and pray for our persecutors (Mt 5:43–44; Lk 6:27–28;
+Rom 12:14): since by reason of our corrupt nature we are ever more inclined to vengeance than to
+pardon, we beseech thee that thou wouldest heal and still our wounded hearts by thy divine
+gentleness and meekness, that we may know how to commit vengeance unto thee, and may heartily
+forgive and forget all that hath been done to our hurt. Give all our enemies true peace and
+unfeigned love; forgive them all their sins which they have committed against thee and us, and
+let them come to right repentance and amendment.
+
+**10. The tempted and afflicted** (Sehling 9, p. 281):
+
+<!-- doc 2300 -->
+> Pro tentatis et sub cruce laborantibus
+>
+> Lasset uns auch von hertzen bitten Gott, unsern hymlischen vatter, das er nach seiner
+> vätterlichen güte allen jamer und elend auff erden wandeln und hinweg nehmen wolle, alles
+> hertzleydt unnd Innerliche beschwerung von den bekümmerten unnd traurigen hertzen abwenden,
+> allerley kranckheyt und straff und in sonderheyt die vier plagen und geysseln seines gotlichen
+> zorns, Nemlich Den Hunger, die Pestilentz, die schedlichen thier und gewürme, das blutige
+> Schwerdt der Feinde gnediglich verhalten und auffheben wolle, das er die unverschulten
+> gefangene erlöse, den elenden zur heymfart, den krancken zur gesundtheyt helfe, Widwen, Weysen
+> und allerley trübseligen erfrewe und tröste, Die, so in fewrs- oder wassersnöten sein, In
+> kinds- oder todtsnöten arbeyten, zum frölichen außkommen fertige Und uns von allem ubel und
+> ungemach leibs und seelen erlöse.
+>
+> Oratio: Allmechtiger, ewiger Gott, Du trost der trawrigen und du stercke der schwachen, Der du
+> der eynige und getrewen nothelffer bist zu rechter zeit, Wir bitten, das du gnediglich wöllest
+> annehmen das weeklagen aller betrübten hertzen, so in iren nöten zu dir schreien, das sie in
+> yhrem elende und trübsal deine vätterliche güte empfinden unnd dir für deine gnedige hülff und
+> beistandt lob und danck sagen mögen.
+
+For the tempted, and for them that labour under the cross.
+
+Let us also pray from the heart to God our heavenly Father, that of his fatherly goodness he
+would turn and take away all misery and wretchedness upon earth, and turn away all heartache and
+inward heaviness from the troubled and sorrowful hearts; that he would graciously hold back and
+lift off all manner of sickness and punishment, and in especial the four plagues and scourges of
+his divine wrath, namely hunger, pestilence, the noisome beasts and creeping things, and the
+bloody sword of the enemy (Ezek 14:21); that he would deliver the guiltless prisoners, help the
+exiles to their homecoming and the sick to health, gladden and comfort widows, orphans and all
+that are in sorrow, and bring to a joyful issue them that are in peril of fire or of water, and
+them that suffer in the pangs of childbirth or of death; and that he would deliver us from all
+evil and harm of body and soul.
+
+Prayer: Almighty, everlasting God, thou comfort of the sorrowful and thou strength of the weak,
+who art the only and faithful helper in need in due time: we beseech thee that thou wouldest
+graciously receive the lamentation of all troubled hearts that cry unto thee in their need, that
+in their misery and tribulation they may feel thy fatherly goodness, and give thee laud and
+thanks for thy gracious help and succour.
+
+**11. Our sins** (Sehling 9, p. 282):
+
+<!-- doc 2300 -->
+> Pro peccatis nostris
+>
+> Endtlich, lieben Brüder unnd Schwestern, wöllen wir auch bitten für unsere eygne sünde unnd
+> ubertrettung, mit welcher wir Gott, unsern hymlischen vatter, (leyder) vil und schwerlich
+> erzürnet haben, das er sein Göttlich angesicht von unsern sünden abwenden, auff unsere
+> missethat keyn auffmerckens haben unnd mit uns armen nicht in das gericht wolt tretten,
+> sondern seiner Barmhertzigkeyt und verheyssung gedencken.
+>
+> Oratio: Barmhertziger, hymlischer vatter, Der du in barmhertzigkeyt keynen gleichen hast,
+> reich und uberflüssig in gnaden, langmütig zur rache, von grosser güte und trewe bist und
+> vergibest missethat, ubertrettung und sünde, Wir haben (leyder) gesündigt mit unsern vättern.
+> Wir haben missgehandelt und sein Gottloß gewesen, Dir alleyn haben wir gesündigt unnd ubel vor
+> dir gethon. Aber, O Herr, gedencke nicht an unsere vorige missethat, Laß bald deine
+> barmhertzigkeyt grösser uber uns sein, dann wir sein fast elend worden. Deck zu unser
+> ubertrettung und rechne uns nicht zu unsere Missethat, Sondern sei uns gnedig und verzeihe uns
+> umb deines heyligen Namens willen und durch deinen lieben Sohn Jesum Christum, unsern herrn,
+> Amen.
+
+For our sins.
+
+Finally, dear brothers and sisters, we will also pray for our own sins and transgressions,
+wherewith we have (alas) much and grievously angered God our heavenly Father: that he would turn
+his divine face from our sins (Ps 51:9), give no heed to our iniquity, and not enter into
+judgement with us poor wretches (Ps 143:2), but remember his mercy and promise.
+
+Prayer: Merciful heavenly Father, who hast none like thee in mercy, rich and abounding in grace,
+slow to vengeance, of great goodness and truth, and forgivest iniquity, transgression and sin
+(Exod 34:6–7): we have (alas) sinned with our fathers, we have committed iniquity and done
+wickedly (Ps 106:6); against thee only have we sinned and done evil in thy sight (Ps 51:4). But,
+O Lord, remember not our former iniquities; let thy mercy speedily be greater over us, for we
+are become very wretched (Ps 79:8). Cover our transgression and impute not our iniquity unto us
+(Ps 103:10), but be gracious unto us and forgive us, for thy holy name's sake and through thy
+dear Son Jesus Christ our Lord. Amen.
+
+**How the two texts differ.** B has the same eleven prayers in the same order and words, but for
+the readings below (Sehling 9, pp. 277–282, apparatus). The preface and the prayers for the
+Church and for our sins have no variants.
+- *The setting.* B leaves out the reading of the Passion from Judica to Good Friday and the
+  rubric that sets the prayers "in all churches on Good Friday before the communion" ([§13.23.4](#s13-23-4)).
+  In their place it has "Gebet oder collecten auf die litanei" (prayers or collects after the
+  Litany): versicles from the Psalms with three collects to follow the Litany, and the German
+  *Da pacem* with its collect for peace. The prayers follow as "Das 12. capitel." (the twelfth
+  chapter), under their old title.
+- *The ministers.* B leaves out "zu beruffung unnd erbawung der heyligenn Christenheyt" (for the
+  calling and building up of holy Christendom).
+- *The catechumens.* "jungen" (young) for "newen" (new) plants; "der ewige allmechtige
+  Gott" (the eternal almighty God) for "der allmechtige Gott" (the almighty God).
+- *The persecutors.* "buß unndt besserung" (repentance and amendment) for "buß" (repentance).
+- *The magistrates.* "ruhiges" (quiet) for "züchtiges" (sober) life; "Stadt oder gemeine" (town
+  or commune) for "Stadt" (town).
+- *The Jews.* "von yhren augen" (from their eyes) for "vor yhren augen" (from before their
+  eyes).
+- *False Christians.* "vleißig" (diligently) for "ernstlich" (earnestly);
+  "schwerlich" (grievously) for "schmelich" (shamefully).
+- *The endings.* In A only the prayers for the Church, the ministers and our sins end with a
+  plea, "umb … willen" (for … sake). B gives the other eight a short one, written only in part:
+  "umb deßelbigen, Jesu, etc." (for the sake of the same, Jesus, etc.) to the catechumens; "umb
+  deßelbigenn, etc." (for the sake of the same, etc.) to those in error, "umb deßelbigen,
+  etc." (for the sake of the same, etc.) to the persecutors and "umb deßelbenn, etc." (for the
+  sake of the same, etc.) to the Jews; "umb Jesu Christi, etc." (for Jesus Christ's sake, etc.)
+  to the magistrates; "umb deiner, etc." (for thy …, etc.) to false Christians; "umb deiner
+  barmherzigkeit, etc." (for thy mercy's sake, etc.) to enemies; and "umb Jesu, etc." (for
+  Jesus' sake, etc.) to the tempted.
 
 **What changed from the Roman order.**
 - *Kept*: the Church, the clergy, the catechumens, the rulers, those in error, the Jews, and the
@@ -54145,14 +54586,49 @@ and with other dear fathers.
   but no kneeling and rising is prescribed.
 - *Added*: persecutors of the word, false Christians, enemies, and our own sins.
 
-**Mülhausen 1528** (Reformed). The Mülhausen preachers had earlier kept the Roman prayers in German, "the
-collects which are prayed for the estates, namely for heathen, Turks, Circassians and Jews"
-(Sehling 20/2, p. 207; [§13.23.4](#s13-23-4)).
+**Where the text comes from.** The set is Waldeck's own. It renders the Roman prayers in part
+and borrows from evangelical collects found elsewhere in the corpus; its prayers for the
+persecutors and for false Christians have no parallel in the corpus.
+- *The Roman prayers.* The biddings and collects for the Church, the catechumens, those in error
+  and the tempted follow the Roman ones closely. The collect for those in error opens with the
+  Roman *qui salvas omnes, et neminem vis perire* (who savest all, and willest that none
+  perish), and the catechumens' with *qui Ecclesiam tuam nova semper prole fecundas* (who ever
+  makest thy Church fruitful with new offspring). The catechumens are now the "young members" of
+  the congregation at school and at the catechism, and the Roman prayer for their rebirth in
+  baptism is gone.
+- *Brenz's bidding prayer* ([§6.4](#s6-4)). The preface opens as Brenz's of 1526 does, then adds Christ's
+  promise in Mt 18:19 (Sehling 17/1, p. 37). The prayer for the tempted opens as his does, "thou
+  comfort of the sorrowful and thou strength of the weak", the Roman *maestorum consolatio,
+  laborantium fortitudo* (Sehling 17/1, p. 38). The collect for the magistrates looks on "our
+  lords the Roman Emperor and King", as the Schwäbisch Hall form of 1543 does (Sehling 17/1,
+  p. 143), and asks that they bear the sword "in faith", as that of 1526 does (Sehling 17/1,
+  p. 38). The collect for enemies takes from the form of 1543 the commands to love our enemies,
+  do good to them that hurt us and pray for our persecutors (Sehling 17/1, p. 144).
+- *The Brandenburg collects of 1540* ([§7.12.2](#s7-12-2)). The collect for sins is the fourth of
+  Brandenburg's collects under the Sanctus, with another opening and close (Sehling 3, p. 69).
+  The collect for the ministers, like Brandenburg's second, recalls the command to pray for
+  labourers in the harvest and asks that God put his wholesome Word "into their heart and into
+  their mouth" (Sehling 3, p. 68).
+
+**The prayer for the Jews.** It keeps the Roman bidding, that God take away the veil from their
+hearts and that they come to know Jesus Christ our Lord, and the opening of the Roman collect.
+Where the Roman collect says that God does not repel "even the faithlessness of the
+Jews" (*etiam iudaicam perfidiam*) from his mercy, Waldeck has "hertigkeyt" (hardness), and it
+leaves out the collect's prayer for the people's "blindness" (*obcaecatione*). It adds God's
+covenant with Abraham (Gen 17), the olive tree into which they may be grafted again
+(Rom 11:17–24), and the plea that their fathers' denial and crucifixion of Christ "on this day"
+be not laid to their charge.
+
+**Mülhausen 1528** (Reformed). The only other witness gives no text. Before Holy Week of 1528
+the people's priest and the two preachers advised the council that on Good Friday the lessons
+and "the collects which are prayed for the estates, namely for heathen, Turks, Circassians and
+Jews" be read in German (Sehling 20/2, p. 207; [§13.23.4](#s13-23-4)). The editors take these for the Roman
+solemn prayers; the Mass there was abolished in 1529.
 
 **What was not found.** No other order prints or prescribes the Good Friday solemn prayers. No
-order has *Flectamus genua* or *Oremus, dilectissimi*, and no order keeps the prayer *pro
-perfidis Iudaeis*. Elsewhere the Good Friday intercession was the Litany, or the ordinary
-general prayer after the Passion sermon.
+order has *Flectamus genua* or *Oremus, dilectissimi*, and none has a prayer *pro perfidis
+Iudaeis*: Waldeck's is headed *pro iudaeis*. Elsewhere the Good Friday intercession was the
+Litany, or the ordinary general prayer after the Passion sermon.
 
 ---
 
@@ -54711,8 +55187,8 @@ At the end of the Passion one shall sing *Vexilla regis prodeunt*, item *Crux fi
 collects, *Benedicamus*. On this day, if communicants be otherwise present, the Supper shall be
 held, since such use hath been here aforetime.
 
-The Mülhausen preachers of 1528 (Reformed) kept the Good Friday lessons and the old solemn
-prayers "for the heathen, Turks, Circassians and Jews", but read them in German
+The Mülhausen preachers of 1528 (Reformed) advised that the Good Friday lessons and the old
+solemn prayers "for the heathen, Turks, Circassians and Jews" be kept but read in German
 (Sehling 20/2, p. 207). Waldeck kept the solemn prayers as a fixed part of the day. **Waldeck,
 *Kirchenordnung*, 1556** (Sehling 9, p. 277):
 
@@ -54725,7 +55201,8 @@ The solemn prayers also, as they have hitherto been kept in the two churches of 
 Wildungen, shall be diligently performed in all churches on Good Friday before the communion.
 
 The order prints them in full as *Precationes solennes pro singulis ordinibus et necessitatibus
-die Parasceues dicendae*, with German bidding prayers ([§13.21.6](#s13-21-6)).
+die Parasceues dicendae*, with German bidding prayers. Their text and a translation are in
+[§13.21.6](#s13-21-6), with the readings of the revision of about 1584, which drops this rubric.
 
 **Length.** No order asks for a specially long service. Luther rejected eight hours of
 Passion-preaching ([§13.23.1](#s13-23-1)). Bugenhagen's Brunswick order holds half an hour of preaching on the
@@ -55130,7 +55607,7 @@ through the table in [§13.24](#s13-24) and the text.
 | Transylvanian Saxons | *Synodalartikel gegen Zauberei* (Mediasch) | 1595 | 24, p. 478 | [13.20.6](#s13-20-6) |
 | Transylvanian Saxons | *Articuli de ceremoniis* | 1607 | 24, p. 493 | [13.20.4](#s13-20-4) |
 | Upper Palatinate | *Visitationsordnung* | 1579 | 13, p. 317 | [13.20.5](#s13-20-5) |
-| Waldeck | *Kirchenordnung* | 1556 | 9, pp. 256, 277, 278, 280 | [13.18.4](#s13-18-4), [13.21.2](#s13-21-2), [13.21.6](#s13-21-6), [13.23.4](#s13-23-4) |
+| Waldeck | *Kirchenordnung* | 1556 | 9, pp. 256, 277–282 | [13.18.4](#s13-18-4), [13.21.2](#s13-21-2), [13.21.6](#s13-21-6), [13.23.4](#s13-23-4) |
 | Waldeck | *Mandat zur Abschaffung von Taufexorzismus und Taufkleid* | 21 August 1584 | 9, p. 300 | [13.4.4](#s13-4-4) |
 | Waldeck | *Mandat zur Abschaffung der Kirchweihfeste* | 8 August 1583 | 9, p. 299 | [13.14.4](#s13-14-4) |
 | Wertheim | *Kirchenordnung* | about 1555, incorporating the instruction of 1530 | 11, p. 717 | [13.7.8](#s13-7-8) |
@@ -69873,7 +70350,7 @@ the Testaments. Where an order numbers a psalm as the Vulgate does, as "the 42nd
 such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter is given.
 
 <!-- Scripture index start: generated by tools/master_scripture.py; do not edit by hand -->
-**Old Testament:** [Genesis](#scr-gen) · [Exodus](#scr-exod) · [Leviticus](#scr-lev) · [Numbers](#scr-num) · [Deuteronomy](#scr-deut) · [1 Samuel](#scr-1sam) · [2 Kings](#scr-2kgs) · [2 Chronicles](#scr-2chr) · [Job](#scr-job) · [Psalms](#scr-ps) · [Proverbs](#scr-prov) · [Isaiah](#scr-isa) · [Jeremiah](#scr-jer) · [Ezekiel](#scr-ezek) · [Hosea](#scr-hos)
+**Old Testament:** [Genesis](#scr-gen) · [Exodus](#scr-exod) · [Leviticus](#scr-lev) · [Numbers](#scr-num) · [Deuteronomy](#scr-deut) · [1 Samuel](#scr-1sam) · [1 Kings](#scr-1kgs) · [2 Kings](#scr-2kgs) · [2 Chronicles](#scr-2chr) · [Job](#scr-job) · [Psalms](#scr-ps) · [Proverbs](#scr-prov) · [Isaiah](#scr-isa) · [Jeremiah](#scr-jer) · [Ezekiel](#scr-ezek) · [Hosea](#scr-hos)
 
 **Apocrypha:** [Tobit](#scr-tob) · [2 Maccabees](#scr-2macc)
 
@@ -69889,11 +70366,13 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 2:21–24 — [13.7.1](#s13-7-1)
 - 3 — [13.7.2](#s13-7-2)
 - 3:16–19 — [13.7.1](#s13-7-1)
+- 17 — [13.21.6](#s13-21-6)
 - 18 — [13.23.7](#s13-23-7)
 
 <a id="scr-exod"></a>**Exodus**
 
 - 18 — [13.13.1](#s13-13-1)
+- 34:6–7 — [13.21.6](#s13-21-6)
 
 <a id="scr-lev"></a>**Leviticus**
 
@@ -69918,6 +70397,10 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-1sam"></a>**1 Samuel**
 
 - 3:1 — [16.3.4](#s16-3-4)
+
+<a id="scr-1kgs"></a>**1 Kings**
+
+- 18:21 — [13.21.6](#s13-21-6)
 
 <a id="scr-2kgs"></a>**2 Kings**
 
@@ -69955,14 +70438,16 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 43 — [2.3.1](#s2-3-1), [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.2](#s3-3-2), [3.3.8](#s3-3-8), [3.4.1](#s3-4-1), [3.7](#s3-7), [7.15.1](#s7-15-1)
 - 43:4 — [3.3.2](#s3-3-2)
 - 51 — [2.5](#s2-5), [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.4](#s8-4), [8.4.5](#s8-4-5), [8.4.7](#s8-4-7), [8.5.2](#s8-5-2), [8.5.3](#s8-5-3), [8.5.7](#s8-5-7), [8.8.5](#s8-8-5), [8.14.6](#s8-14-6), [8.19](#s8-19), [13.16.3](#s13-16-3)
-- 51:4 — [7.12.2](#s7-12-2)
+- 51:4 — [7.12.2](#s7-12-2), [13.21.6](#s13-21-6)
+- 51:9 — [13.21.6](#s13-21-6)
 - 51:17 — [7.5.2](#s7-5-2)
 - 61 — [8.16.7](#s8-16-7)
 - 67 — [2.1](#s2-1), [2.3.2](#s2-3-2), [2.3.4](#s2-3-4), [2.13.2](#s2-13-2), [4.4.4](#s4-4-4), [7.3.5](#s7-3-5), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.5.2](#s8-5-2), [8.5.7](#s8-5-7), [8.11.3](#s8-11-3), [8.15.6](#s8-15-6), [8.17.5](#s8-17-5), [8.19](#s8-19), [13.16.3](#s13-16-3)
 - 67:1 — [7.14.8](#s7-14-8)
 - 69 — [12.12.3](#s12-12-3)
+- 78:24 — [13.21.6](#s13-21-6)
 - 79 — [8.16.7](#s8-16-7)
-- 79:8 — [3.3.3](#s3-3-3), [3.6.2](#s3-6-2)
+- 79:8 — [3.3.3](#s3-3-3), [3.6.2](#s3-6-2), [13.21.6](#s13-21-6)
 - 79:8–9 — [3.3.3](#s3-3-3), [7.12.2](#s7-12-2), [7.15.1](#s7-15-1)
 - 84 — [3.6.1](#s3-6-1), [3.6.2](#s3-6-2), [13.14.3](#s13-14-3)
 - 85 — [3.6.1](#s3-6-1)
@@ -69973,9 +70458,9 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 100 — [8.11.5](#s8-11-5)
 - 101 — [13.16.7](#s13-16-7)
 - 103 — [2.4.7](#s2-4-7), [2.5](#s2-5), [8.14.6](#s8-14-6)
-- 103:10 — [3.3.3](#s3-3-3), [7.15.1](#s7-15-1)
+- 103:10 — [3.3.3](#s3-3-3), [7.15.1](#s7-15-1), [13.21.6](#s13-21-6)
 - 104:30 — [3.3.1](#s3-3-1)
-- 106:6 — [7.12.2](#s7-12-2)
+- 106:6 — [7.12.2](#s7-12-2), [13.21.6](#s13-21-6)
 - 110 — [12.12.3](#s12-12-3)
 - 111 — [2.4.1](#s2-4-1), [2.4.2](#s2-4-2), [2.5](#s2-5), [4.8.1](#s4-8-1), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.3.4](#s8-3-4), [8.14](#s8-14), [8.14.1](#s8-14-1), [8.14.2](#s8-14-2), [8.14.6](#s8-14-6), [8.14.8](#s8-14-8), [8.15.1](#s8-15-1), [13.8.3](#s13-8-3)
 - 113 — [3.5.12](#s3-5-12), [3.5.13](#s3-5-13)
@@ -69995,6 +70480,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 127 — [8.1.2](#s8-1-2), [8.17](#s8-17), [8.17.2](#s8-17-2), [8.17.6](#s8-17-6), [13.5.2](#s13-5-2), [13.7.4](#s13-7-4)
 - 128 — [8.1.2](#s8-1-2), [8.17](#s8-17), [8.17.2](#s8-17-2), [8.19](#s8-19), [13.5.2](#s13-5-2), [13.7.2](#s13-7-2), [13.7.3](#s13-7-3)
 - 130 — [3.6.1](#s3-6-1), [3.6.2](#s3-6-2), [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.5.2](#s8-5-2), [8.5.3](#s8-5-3), [8.5.7](#s8-5-7), [8.19](#s8-19), [13.8.3](#s13-8-3)
+- 143:2 — [13.21.6](#s13-21-6)
 - 148–150 — [3.6.3](#s3-6-3)
 - 150 — [Chapter 3](#ch3), [3.1](#s3-1), [3.6.3](#s3-6-3), [7.15.2](#s7-15-2)
 
@@ -70002,13 +70488,16 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 18 — [13.7.2](#s13-7-2)
 - 18:22 — [13.7.1](#s13-7-1)
+- 21:1 — [13.21.6](#s13-21-6)
 
 <a id="scr-isa"></a>**Isaiah**
 
 - 6 — [2.10.3](#s2-10-3), [8.12](#s8-12), [13.23.7](#s13-23-7)
 - 8:19 — [13.20.2](#s13-20-2)
 - 9 — [13.23.2](#s13-23-2)
+- 25:7 — [13.21.6](#s13-21-6)
 - 28 — [8.18.7](#s8-18-7)
+- 29:13 — [13.21.6](#s13-21-6)
 - 38:10–20 — [10.9.1](#s10-9-1), [10.9.5](#s10-9-5)
 - 40 — [4.5.1](#s4-5-1)
 - 49 — [15.10.1](#s15-10-1)
@@ -70024,7 +70513,8 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-ezek"></a>**Ezekiel**
 
 - 3 — [18.5.1](#s18-5-1)
-- 33:11 — [3.5.11](#s3-5-11)
+- 14:21 — [13.21.6](#s13-21-6)
+- 33:11 — [3.5.11](#s3-5-11), [13.21.6](#s13-21-6)
 - 37 — [10.9.5](#s10-9-5)
 
 <a id="scr-hos"></a>**Hosea**
@@ -70046,19 +70536,28 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 2 — [12.5.3](#s12-5-3)
 - 2:10–11 — [8.6.4.7](#s8-6-4-7)
 - 3 — [12.8.9](#s12-8-9), [12.11.5](#s12-11-5), [13.23.7](#s13-23-7)
+- 3:12 — [13.21.6](#s13-21-6)
 - 3:16 — [8.6.4.7](#s8-6-4-7)
+- 5:43–44 — [13.21.6](#s13-21-6)
+- 5:44 — [13.21.6](#s13-21-6)
 - 6 — [7.1.2](#s7-1-2), [7.8.5](#s7-8-5)
 - 6:7 — [7.8.5](#s7-8-5)
 - 7 — [18.5.1](#s18-5-1)
 - 7:6 — [18.5.1](#s18-5-1)
+- 7:7 — [13.21.6](#s13-21-6)
 - 8:8 — [7.11.3](#s7-11-3)
+- 9:38 — [13.21.6](#s13-21-6)
+- 13:47–48 — [13.21.6](#s13-21-6)
 - 15 — [8.8.2](#s8-8-2)
+- 15:8 — [13.21.6](#s13-21-6)
 - 18 — [11.9.1](#s11-9-1), [13.1.1](#s13-1-1), [13.16](#s13-16), [13.16.4](#s13-16-4), [16.1](#s16-1), [16.6.1](#s16-6-1), [16.6.3](#s16-6-3), [16.10](#s16-10)
 - 18:15–17 — [13.16](#s13-16)
 - 18:15–18 — [16.6.1](#s16-6-1)
-- 18:19 — [6.5](#s6-5)
+- 18:19 — [6.5](#s6-5), [13.21.6](#s13-21-6)
+- 18:19–20 — [13.21.6](#s13-21-6)
 - 19 — [13.7.2](#s13-7-2), [13.7.3](#s13-7-3), [13.7.10](#s13-7-10)
 - 24–25 — [13.21.5](#s13-21-5)
+- 25:1–12 — [13.21.6](#s13-21-6)
 - 27:46 — [3.5.10](#s3-5-10)
 - 28 — [13.10.5](#s13-10-5)
 
@@ -70066,6 +70565,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 - 10 — [13.3.3](#s13-3-3), [13.3.5](#s13-3-5), [13.3.7](#s13-3-7)
 - 10:13–16 — [13.3.2](#s13-3-2)
+- 16:15 — [13.21.6](#s13-21-6)
 
 <a id="scr-luke"></a>**Luke**
 
@@ -70073,10 +70573,13 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 1:35 — [7.14.4](#s7-14-4)
 - 1:39–56 — [12.8.2](#s12-8-2)
 - 2 — [13.23.2](#s13-23-2)
+- 6:27–28 — [13.21.6](#s13-21-6)
 - 7 — [12.8.8](#s12-8-8)
 - 7:36–50 — [12.8.8](#s12-8-8)
+- 10:2 — [13.21.6](#s13-21-6)
 - 10:5 — [13.20.2](#s13-20-2)
 - 11:1 — [7.8.5](#s7-8-5)
+- 11:10 — [13.21.6](#s13-21-6)
 - 17 — [7.4.3](#s7-4-3)
 - 22 — [7.14.7](#s7-14-7)
 - 22:17 — [7.2.6](#s7-2-6), [7.6.12](#s7-6-12), [13.22.5](#s13-22-5)
@@ -70094,12 +70597,15 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 6:54 — [3.5.14.3](#s3-5-14-3)
 - 6:56 — [3.5.6](#s3-5-6), [3.5.14.3](#s3-5-14-3)
 - 8 — [3.5.13](#s3-5-13)
+- 10:1–16 — [13.21.6](#s13-21-6)
 - 11:25 — [10.9.5](#s10-9-5)
 - 11:25–26 — [10.9.1](#s10-9-1)
 - 12 — [10.9.5](#s10-9-5)
 - 13 — [13.23.4](#s13-23-4)
 - 14–18 — [2.4.7](#s2-4-7)
+- 14:6 — [13.21.6](#s13-21-6)
 - 14:27 — [7.7.2](#s7-7-2), [7.12.5](#s7-12-5)
+- 15:5 — [13.21.6](#s13-21-6)
 - 15:26–16:4 — [7.10](#s7-10)
 - 16:13 — [7.2.2](#s7-2-2)
 - 19:30 — [3.5.10](#s3-5-10)
@@ -70135,9 +70641,11 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 5:10 — [3.5.14.2](#s3-5-14-2)
 - 5:19 — [4.A.5](#s4-a-5)
 - 6:23 — [3.5.6](#s3-5-6)
-- 11 — [13.21.6](#s13-21-6)
+- 10:17 — [13.21.6](#s13-21-6)
+- 11:17–24 — [13.21.6](#s13-21-6)
 - 11:33–36 — [7.10](#s7-10)
 - 12:1 — [7.1.1](#s7-1-1), [7.1.2](#s7-1-2), [7.5.1](#s7-5-1)
+- 12:14 — [13.21.6](#s13-21-6)
 - 13 — [13.13.1](#s13-13-1)
 
 <a id="scr-1cor"></a>**1 Corinthians**
@@ -70168,7 +70676,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-2cor"></a>**2 Corinthians**
 
-- 3 — [13.21.6](#s13-21-6)
+- 3:14–16 — [13.21.6](#s13-21-6)
 - 13:13 — [2.13.2](#s2-13-2), [11.10.3](#s11-10-3)
 
 <a id="scr-gal"></a>**Galatians**
@@ -70179,6 +70687,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 <a id="scr-eph"></a>**Ephesians**
 
 - 4:7 — [13.10.3](#s13-10-3)
+- 4:13 — [13.21.6](#s13-21-6)
 - 5 — [8.17.2](#s8-17-2), [8.18.1](#s8-18-1), [13.7.2](#s13-7-2), [13.7.3](#s13-7-3)
 - 5:22–29 — [13.7.1](#s13-7-1)
 - 5:26 — [18.4.1](#s18-4-1)
@@ -70206,6 +70715,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 2 — [Introduction](#repo-prayers-findings), [6.5](#s6-5), [6.11.G.3](#s6-11-g-3), [10.7.5](#s10-7-5), [13.18.2](#s13-18-2), [16.9.2](#s16-9-2)
 - 2:1 — [6.1.4](#s6-1-4)
 - 2:1f. — [10.7.5](#s10-7-5)
+- 2:1–2 — [13.21.6](#s13-21-6)
 - 2:12 — [16.1](#s16-1), [16.9.1](#s16-9-1), [16.9.2](#s16-9-2)
 - 3 — [13.10](#s13-10), [13.10.3](#s13-10-3), [13.10.4](#s13-10-4), [13.10.5](#s13-10-5), [13.19.1](#s13-19-1), [15.3.3](#s15-3-3), [15.8.4](#s15-8-4), [16.1](#s16-1), [16.3.1](#s16-3-1), [16.3.3](#s16-3-3), [16.5.2](#s16-5-2), [16.5.3](#s16-5-3), [16.5.4](#s16-5-4)
 - 3:1 — [13.10.3](#s13-10-3)
@@ -70238,6 +70748,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 
 <a id="scr-heb"></a>**Hebrews**
 
+- 9:4 — [13.21.6](#s13-21-6)
 - 9:28 — [7.5.2](#s7-5-2)
 - 10:14 — [7.5.2](#s7-5-2)
 - 10:22 — [3.5.12](#s3-5-12)
@@ -70255,6 +70766,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 3:15 — [18.8.3](#s18-8-3)
 - 5 — [13.10.3](#s13-10-3)
 - 5:2–4 — [13.10.2](#s13-10-2)
+- 5:5 — [13.21.6](#s13-21-6)
 
 <a id="scr-1john"></a>**1 John**
 
@@ -70323,7 +70835,7 @@ heading, whatever form of the name the text uses: "Doctor Martinus" is listed un
 - Bode, Michael — [16.5.2](#s16-5-2)
 - Bonnus, Hermann — [1.13.5](#s1-13-5), [6.12](#s6-12), [10.1](#s10-1), [10.4.2](#s10-4-2), [10.6.2](#s10-6-2), [10.7.1](#s10-7-1), [10.7.5](#s10-7-5), [10.8.1](#s10-8-1), [10.9.4](#s10-9-4), [10.9.7](#s10-9-7), [10.13](#s10-13), [10.14](#s10-14)
 - Bora, Katharina von — [10.4.4](#s10-4-4)
-- Brenz, Johannes — [Introduction](#repo-prayers-rules), [1.5](#s1-5), [1.26.4](#s1-26-4), [2.15.3](#s2-15-3), [6.1.4](#s6-1-4), [6.3](#s6-3), [6.4](#s6-4), [6.5](#s6-5), [6.6](#s6-6), [8.7.3](#s8-7-3), [8.14.7](#s8-14-7), [8.19](#s8-19), [10.1](#s10-1), [10.9.1](#s10-9-1), [10.9.6](#s10-9-6), [10.10.5](#s10-10-5), [11.8.2](#s11-8-2), [12.2.3](#s12-2-3), [12.3.5](#s12-3-5), [12.7.3](#s12-7-3), [12.16](#s12-16), [13.3.5](#s13-3-5), [14.1](#s14-1), [14.7.2](#s14-7-2), [14.9](#s14-9), [15.11.6](#s15-11-6), [17.13](#s17-13)
+- Brenz, Johannes — [Introduction](#repo-prayers-rules), [1.5](#s1-5), [1.26.4](#s1-26-4), [2.15.3](#s2-15-3), [6.1.4](#s6-1-4), [6.3](#s6-3), [6.4](#s6-4), [6.5](#s6-5), [6.6](#s6-6), [8.7.3](#s8-7-3), [8.14.7](#s8-14-7), [8.19](#s8-19), [10.1](#s10-1), [10.9.1](#s10-9-1), [10.9.6](#s10-9-6), [10.10.5](#s10-10-5), [11.8.2](#s11-8-2), [12.2.3](#s12-2-3), [12.3.5](#s12-3-5), [12.7.3](#s12-7-3), [12.16](#s12-16), [13.3.5](#s13-3-5), [13.21.6](#s13-21-6), [14.1](#s14-1), [14.7.2](#s14-7-2), [14.9](#s14-9), [15.11.6](#s15-11-6), [17.13](#s17-13)
 - Bucanus, Wilhelm — [15.7.4](#s15-7-4)
 - Bucer, Martin — [Conventions](#conv-traditions), [Chapter 1](#ch1), [1.1](#s1-1), [1.2.5](#s1-2-5), [1.3.3](#s1-3-3), [1.16.1](#s1-16-1), [1.26.2](#s1-26-2), [1.30.1](#s1-30-1), [1.33.1](#s1-33-1), [6.1.4](#s6-1-4), [7.5](#s7-5), [7.5.3](#s7-5-3), [13.6.2](#s13-6-2), [13.6.6](#s13-6-6), [14.4.4](#s14-4-4), [16.6](#s16-6), [16.6.2](#s16-6-2), [17.17.1](#s17-17-1)
 - Buchholtzer, Georg — [1.8.6](#s1-8-6)
