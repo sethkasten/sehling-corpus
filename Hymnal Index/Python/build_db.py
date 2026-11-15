@@ -96,7 +96,9 @@ Schema
                 first line the book's own index gives a part of a hymn)
   hymnary_status  view: each of those hymns with the master-index rows it was matched to
   tlh_hymns     TLH (1941) from tlh_1941.csv: title, first line, author, translator,
-                original first line (ASCII, umlauts as ae/oe/ue), tune
+                original first line (ASCII, umlauts as ae/oe/ue), tune; and the titles
+                of four hymns it lacks from tlh_extra_titles.csv (title only)
+  lsb_hymns     LSB (2006) from LSB/LSB_index.csv: number, title (331-966)
   kelg_english  kelg_english.csv: English translations of KELG hymns WH lacks
   wh_hymns      Walther's Hymnal (WH.pdf, via wh_index.csv): English and German
                 first lines, tune, and the tune settings it points to
@@ -126,6 +128,10 @@ ELHB_XLSX = HERE / "ELHB Hymn Index.xlsx"
 WH_CSV = HERE / "wh_index.csv"  # extracted from WH.pdf by extract_wh.py
 TLHY_CSV = HERE / "tlhy_index.csv"  # transcribed from TLHy.pdf, checked against two OCR passes
 TLH_CSV = HERE / "tlh_1941.csv"  # TLH notes from Project Wittenberg, made by extract_tlh.py
+# TLH titles the notes lack (251, which tlh.zip gives as 252, and three missing files),
+# from Project Wittenberg's and CCEL's title indexes
+TLH_EXTRA_CSV = HERE / "tlh_extra_titles.csv"
+LSB_CSV = HERE / "LSB" / "LSB_index.csv"  # LSB 331-966 with their titles, made by extract_lsb.py
 TLHY_ORIGINALS_CSV = HERE / "tlhy_originals.csv"  # researched originals of TLHy's translations
 KELG_ENGLISH_CSV = HERE / "kelg_english.csv"  # English versions of KELG hymns WH lacks
 TL_CSV = HERE / "te_laudamus_index.csv"  # transcribed from the photos in Te Laudamus/, checked against OCR
@@ -538,6 +544,11 @@ CREATE TABLE tlh_hymns (             -- The Lutheran Hymnal (1941), from tlh_194
     tune           TEXT
 );
 
+CREATE TABLE lsb_hymns (             -- Lutheran Service Book (2006), from LSB_index.csv
+    number INTEGER PRIMARY KEY,
+    title  TEXT NOT NULL
+);
+
 CREATE TABLE kelg_english (          -- kelg_english.csv
     kelg_number INTEGER NOT NULL REFERENCES kelg_hymns(number),
     title       TEXT NOT NULL,
@@ -773,6 +784,18 @@ def load_tlh(con):
         con.execute("INSERT INTO tlh_hymns VALUES (?,?,?,?,?,?,?)",
                     (int(r["number"]), r["title"], r["first_line"], r["author"], r["translator"],
                      r["original_title"], r["tune"]))
+
+
+def load_tlh_extra(con):
+    """TLH titles tlh_1941.csv lacks; a number it has stays as it is."""
+    for r in read_csv(TLH_EXTRA_CSV):
+        con.execute("INSERT OR IGNORE INTO tlh_hymns (number, title) VALUES (?,?)",
+                    (int(r["number"]), r["title"]))
+
+
+def load_lsb(con):
+    for r in read_csv(LSB_CSV):
+        con.execute("INSERT INTO lsb_hymns VALUES (?,?)", (int(r["number"]), r["title"]))
 
 
 def load_tlhy_originals(con):
@@ -1653,15 +1676,17 @@ def build_hymn_titles(con):
     """Collect each master-index row's titles: its HYMN TITLE and Alternative
     English Titles, and from the numbers in its own cells: KELG -> German title
     and WH title; ELHB -> ELHB index title; TLHy -> TLHy first line; TL -> TL
-    index title; LPC -> LPC's English and ELGBS's German first line; and, for a
-    row with a KELG number, the KELG index's TLH/LW/ELH/LSB title wherever the
-    row has that same number."""
+    index title; LPC -> LPC's English and ELGBS's German first line; TLH -> TLH's
+    title (tlh_hymns); LSB -> LSB's title (lsb_hymns); and, for a row with a KELG
+    number, the KELG index's TLH/LW/ELH/LSB title wherever the row has that same
+    number."""
     numbers = hymn_numbers_by_hymnal(con)
     con.execute("INSERT INTO hymn_titles SELECT id, 'master', title FROM hymns")
     con.execute("INSERT OR IGNORE INTO hymn_titles SELECT hymn_id, 'alternate', title FROM hymn_alternative_titles")
     kelg = {n: (g, w) for n, g, w in con.execute("SELECT number, german_title, wh_title FROM kelg_hymns")}
     elhb = {n: ELHB_TITLE_FIXES.get(n, t) for n, t in con.execute("SELECT number, title FROM elhb_hymns")}
     tlh = dict(con.execute("SELECT number, title FROM tlh_hymns"))
+    lsb = dict(con.execute("SELECT number, title FROM lsb_hymns"))
     refs = defaultdict(dict)
     for k, code, raw, title in con.execute("SELECT kelg_number, hymnal_code, raw, title FROM kelg_refs"):
         if title and code in KELG_MATCH_HYMNALS:
@@ -1697,6 +1722,7 @@ def build_hymn_titles(con):
                     if have.get(code, set()) & nums:
                         rows.append((hymn_id, code, title))
         rows += [(hymn_id, "TLH", tlh[n]) for n in sorted(have.get("TLH", ())) if n in tlh]
+        rows += [(hymn_id, "LSB", lsb[n]) for n in sorted(have.get("LSB", ())) if n in lsb]
     # One title per spelling: the KELG index's 'Open now Thy gates of beauty'
     # and TLH 1941's 'Open Now Thy Gates of Beauty' are the same title.
     seen = set()
@@ -2024,6 +2050,8 @@ def build():
     load_wh(con)
     load_tlhy(con)
     load_tlh(con)
+    load_tlh_extra(con)
+    load_lsb(con)
     load_tlhy_originals(con)
     load_tl(con)
     load_tl_originals(con)
