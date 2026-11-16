@@ -63,7 +63,7 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
    - then adds to each row's Alternative English Titles the ones
      master_corrections.csv gives it ('alternate'), and the English titles the
      hymnals give it through clean links (WH, TLHy, ELHB, TL, LPC, the TLH,
-     LW, ELH and LSB titles of tlh_1941.csv and the KELG index, and the
+     LSB, LW and HS'98 titles of the row's own numbers, ELH's of the KELG index, and the
      Hymnary.org hymnals' English first lines: WS69, WS00, ACS, ...) that no other
      row bears and that differ from its title and the alternatives it has in
      Thee/You wording ('I Call to Thee' beside 'I Call to You') or in other
@@ -139,11 +139,14 @@ REMOVED_COLUMNS = ("ELGBS#",)
 RENAMED_COLUMNS = {"KELG German Title": GERMAN_TITLE_HEADER}
 # Sources of the alternative titles step 3 adds, in this order (hymn_titles), and
 # the hymnal whose link brings each: a title comes only with a clean link (none of
-# that hymnal's links on the row left for review). TLH's titles come with the
-# row's own TLH numbers; LSB's, LW's and ELH's with KELG's (the KELG index); the
-# Hymnary.org hymnals' English first lines with their own numbers.
+# that hymnal's links on the row left for review). TLH's, LSB's, LW's and HS'98's
+# titles come with the row's own numbers (tlh_1941.csv, LSB_index.csv and the
+# Hymnary.org tables of TLH, LW and HS'98), as do the KELG index's; ELH's come with
+# KELG's (the KELG index); the Hymnary.org hymnals' English first lines with their
+# own numbers.
 ALT_SOURCES = {"WH": "KELG", "TLHy": "TLHy", "ELHB": "ELHB", "TL": "TL", "LPC": "LPC",
-               "LSB": "KELG", "TLH": None, "LW": "KELG", "ELH": "KELG", **{code: code for code in HYMNARY_CSVS}}
+               "LSB": None, "TLH": None, "LW": None, "HS98": None, "ELH": "KELG",
+               **{code: code for code in HYMNARY_CSVS}}
 HEADER_STYLE = "4"
 MAX_ROUNDS = 12  # write_back.py's rounds of writing and rebuilding
 ROW_ATTRS = {"ht": "12.5", "{http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac}dyDescent": "0.25"}

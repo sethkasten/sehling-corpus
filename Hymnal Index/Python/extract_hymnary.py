@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Extract the hymnals saved from Hymnary.org as page folders into one CSV each.
 
-Usage: python3 extract_hymnary.py [CODE ...]   (default: every folder in HYMNARY_FOLDERS)
+Usage: python3 extract_hymnary.py [CODE ...]   (default: every folder in HYMNARY_FOLDERS
+                                                and TITLE_FOLDERS)
 
 Each folder (ACS/, AH/, ... TCH/) holds Hymnary.org's table of a hymnal's hymns,
-saved a page at a time as <CODE>1.html, <CODE>2.html, ... The table gives each
+saved a page at a time as <CODE>1.html, <CODE>2.html, ... (or <CODE>-1.html, ...) The table gives each
 hymn's number, first line and tune; the CSV, <CODE>/<CODE>_index.csv, keeps them
 as printed there, in the book's order:
 
@@ -34,12 +35,16 @@ HERE = Path(__file__).resolve().parent
 # Hymnary.org's page folders, in the order they were added to the master index.
 HYMNARY_FOLDERS = ("ACS", "AH", "ALH", "CSB", "ELHal", "ELW", "HCH", "HS91", "SBH", "THOS",
                    "TBW07", "TBW67", "CHPPPW", "CHL", "TCSSH", "TCH")
+# Hymnals whose Hymnary.org tables give titles only: the master index already has
+# their numbers (TLH, LW, HS'98), so build_db.py takes each hymn's first line as its
+# title in that book and links nothing by them.
+TITLE_FOLDERS = ("TLH", "LW", "HS98")
 NUMBER = re.compile(r"[A-Za-z]?\d+[a-z]?")
 SKIP = {("ELW", "p.1"), ("ELW", "1")}  # ELW's 'Front matter' and 'Psalms' (its psalter)
 
 
 def page_number(path, code):
-    return int(path.stem[len(code):])
+    return int(path.stem[len(code):].lstrip("-"))  # 'TLH1' or 'HS98-1'
 
 
 def read_folder(code):
@@ -68,7 +73,7 @@ def read_folder(code):
 
 
 def main():
-    codes = sys.argv[1:] or HYMNARY_FOLDERS
+    codes = sys.argv[1:] or HYMNARY_FOLDERS + TITLE_FOLDERS
     for code in codes:
         rows = read_folder(code)
         target = HERE / code / f"{code}_index.csv"

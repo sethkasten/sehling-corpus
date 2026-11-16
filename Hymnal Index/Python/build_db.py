@@ -96,7 +96,9 @@ Schema
                 first line the book's own index gives a part of a hymn)
   hymnary_status  view: each of those hymns with the master-index rows it was matched to
   tlh_hymns     TLH (1941) from tlh_1941.csv: title, first line, author, translator,
-                original first line (ASCII, umlauts as ae/oe/ue), tune
+                original first line (ASCII, umlauts as ae/oe/ue), tune; and the titles
+                of four hymns it lacks from tlh_extra_titles.csv (title only)
+  lsb_hymns     LSB (2006) from LSB/LSB_index.csv: number, title (331-966)
   kelg_english  kelg_english.csv: English translations of KELG hymns WH lacks
   wh_hymns      Walther's Hymnal (WH.pdf, via wh_index.csv): English and German
                 first lines, tune, and the tune settings it points to
@@ -126,6 +128,29 @@ ELHB_XLSX = HERE / "ELHB Hymn Index.xlsx"
 WH_CSV = HERE / "wh_index.csv"  # extracted from WH.pdf by extract_wh.py
 TLHY_CSV = HERE / "tlhy_index.csv"  # transcribed from TLHy.pdf, checked against two OCR passes
 TLH_CSV = HERE / "tlh_1941.csv"  # TLH notes from Project Wittenberg, made by extract_tlh.py
+# TLH titles the notes lack (251, which tlh.zip gives as 252, and three missing files),
+# from Project Wittenberg's and CCEL's title indexes
+TLH_EXTRA_CSV = HERE / "tlh_extra_titles.csv"
+LSB_CSV = HERE / "LSB" / "LSB_index.csv"  # LSB 331-966 with their titles, made by extract_lsb.py
+LSB_LAST = 966  # the pew edition's last hymn; the master's LSB 967-986 are the accompaniment edition's
+# Canticles the master index cites by page: {hymnal: {page: [(canticle, first line in that book)]}},
+# checked against the books. Where a page has several, a row takes the one nearest its own titles.
+_TLH_SERVICE = [("Kyrie", "Lord, have mercy upon us"), ("Gloria in Excelsis", "Glory be to God on high")]
+PAGE_TITLES = {
+    "LSB": {223: [("Te Deum", "We Praise You, O God")]},  # Matins
+    "TLH": {7: _TLH_SERVICE, 17: _TLH_SERVICE,  # the Communion service and the Order of Morning Service
+            29: [("Nunc Dimittis", "Lord, now lettest Thou Thy servant depart in peace according to Thy word")]},
+    "HS98": {7: [("Kyrie", "Lord, have mercy on us"),
+                 ("Gloria in Excelsis", "Glory to God, we give You thanks and praise")],
+             11: [("Sanctus", "Holy, holy, holy Lord, God of Sabaoth adored")],
+             13: [("Agnus Dei", "O Jesus Christ, true Lamb of God")],
+             14: [("Nunc Dimittis", "O Lord, now let Your servant depart in heav'nly peace")],
+             18: [("Phos Hilaron", "O Light whose splendor thrills and gladdens")],  # a paraphrase
+             19: [("Magnificat", "My soul rejoices, my spirit voices")]},
+}
+# Hymnary.org's tables of hymnals whose numbers the master index already has, made by
+# extract_hymnary.py: they give each hymn's first line, its title in the book.
+TITLE_CSVS = {code: HERE / code / f"{code}_index.csv" for code in ("TLH", "LW", "HS98")}
 TLHY_ORIGINALS_CSV = HERE / "tlhy_originals.csv"  # researched originals of TLHy's translations
 KELG_ENGLISH_CSV = HERE / "kelg_english.csv"  # English versions of KELG hymns WH lacks
 TL_CSV = HERE / "te_laudamus_index.csv"  # transcribed from the photos in Te Laudamus/, checked against OCR
@@ -538,6 +563,19 @@ CREATE TABLE tlh_hymns (             -- The Lutheran Hymnal (1941), from tlh_194
     tune           TEXT
 );
 
+CREATE TABLE lsb_hymns (             -- Lutheran Service Book (2006), from LSB_index.csv
+    number INTEGER PRIMARY KEY,
+    title  TEXT NOT NULL
+);
+
+CREATE TABLE hymnal_first_lines (    -- TITLE_CSVS: Hymnary.org's first lines of TLH, LW and HS'98
+    hymnal     TEXT NOT NULL,
+    number     TEXT NOT NULL,         -- as Hymnary gives it: '50a' for a second setting
+    first_line TEXT NOT NULL,         -- as Hymnary gives it
+    english    TEXT NOT NULL          -- cleaned as hymnary_parts does; LW 520's two hymns
+                                      -- are two rows
+);
+
 CREATE TABLE kelg_english (          -- kelg_english.csv
     kelg_number INTEGER NOT NULL REFERENCES kelg_hymns(number),
     title       TEXT NOT NULL,
@@ -773,6 +811,33 @@ def load_tlh(con):
         con.execute("INSERT INTO tlh_hymns VALUES (?,?,?,?,?,?,?)",
                     (int(r["number"]), r["title"], r["first_line"], r["author"], r["translator"],
                      r["original_title"], r["tune"]))
+
+
+def load_tlh_extra(con):
+    """TLH titles tlh_1941.csv lacks; a number it has stays as it is."""
+    for r in read_csv(TLH_EXTRA_CSV):
+        con.execute("INSERT OR IGNORE INTO tlh_hymns (number, title) VALUES (?,?)",
+                    (int(r["number"]), r["title"]))
+
+
+def load_lsb(con):
+    for r in read_csv(LSB_CSV):
+        con.execute("INSERT INTO lsb_hymns VALUES (?,?)", (int(r["number"]), r["title"]))
+
+
+def load_first_lines(con):
+    """TITLE_CSVS. A first line of two hymns printed under one number ('Rejoice,
+    rejoice this happy morn (He is arisen! Glorious word!)', LW 520) is both."""
+    for code, path in TITLE_CSVS.items():
+        for r in read_csv(path):
+            lines = [r["first_line"]]
+            m = re.fullmatch(r"(.*?)\s*\(([^()]*)\)", r["first_line"])
+            if m and english_share(m.group(1)) > 0 and english_share(m.group(2)) > 0:
+                lines = [m.group(1), m.group(2)]
+            for line in lines:
+                english = hymnary_parts(line, split=False)[0]
+                con.execute("INSERT INTO hymnal_first_lines VALUES (?,?,?,?)",
+                            (code, r["number"], r["first_line"], english))
 
 
 def load_tlhy_originals(con):
@@ -1653,15 +1718,29 @@ def build_hymn_titles(con):
     """Collect each master-index row's titles: its HYMN TITLE and Alternative
     English Titles, and from the numbers in its own cells: KELG -> German title
     and WH title; ELHB -> ELHB index title; TLHy -> TLHy first line; TL -> TL
-    index title; LPC -> LPC's English and ELGBS's German first line; and, for a
-    row with a KELG number, the KELG index's TLH/LW/ELH/LSB title wherever the
-    row has that same number."""
+    index title; LPC -> LPC's English and ELGBS's German first line; TLH -> TLH's
+    title (tlh_hymns); LSB -> LSB's title (lsb_hymns); and, for a row with a KELG
+    number, the KELG index's TLH/LW/ELH/LSB title wherever the row has that same
+    number."""
     numbers = hymn_numbers_by_hymnal(con)
     con.execute("INSERT INTO hymn_titles SELECT id, 'master', title FROM hymns")
     con.execute("INSERT OR IGNORE INTO hymn_titles SELECT hymn_id, 'alternate', title FROM hymn_alternative_titles")
     kelg = {n: (g, w) for n, g, w in con.execute("SELECT number, german_title, wh_title FROM kelg_hymns")}
     elhb = {n: ELHB_TITLE_FIXES.get(n, t) for n, t in con.execute("SELECT number, title FROM elhb_hymns")}
     tlh = dict(con.execute("SELECT number, title FROM tlh_hymns"))
+    lsb = dict(con.execute("SELECT number, title FROM lsb_hymns"))
+    master_titles = dict(con.execute("SELECT id, title FROM hymns"))
+    page_numbers = defaultdict(lambda: defaultdict(set))
+    for hymn_id, code, page in con.execute("SELECT hymn_id, hymnal_code, number FROM hymn_numbers WHERE is_page = 1"):
+        page_numbers[hymn_id][code].add(page)
+    row_titles_of = defaultdict(list)
+    for hymn_id, title in con.execute("SELECT hymn_id, title FROM hymn_titles WHERE source IN ('master', 'alternate')"):
+        row_titles_of[hymn_id].append(title)
+    first_lines = defaultdict(lambda: defaultdict(list))
+    for code, number, english in con.execute("SELECT hymnal, number, english FROM hymnal_first_lines"):
+        lines = first_lines[code][int(re.match(r"\d+", number).group())]
+        if english not in lines:
+            lines.append(english)
     refs = defaultdict(dict)
     for k, code, raw, title in con.execute("SELECT kelg_number, hymnal_code, raw, title FROM kelg_refs"):
         if title and code in KELG_MATCH_HYMNALS:
@@ -1674,7 +1753,8 @@ def build_hymn_titles(con):
         "SELECT number, english_first_line, german_first_line FROM elgbs_lpc_hymns")}
     hymnary = {code: hymnary_titles(con, code) for code in HYMNARY_CSVS}
     rows = []
-    for hymn_id, have in numbers.items():
+    for hymn_id in sorted(set(numbers) | set(page_numbers)):  # a row may have only page numbers
+        have = numbers[hymn_id]
         for n in have.get("ELHB", ()):
             if n in elhb:
                 rows.append((hymn_id, "ELHB", elhb[n]))
@@ -1697,6 +1777,32 @@ def build_hymn_titles(con):
                     if have.get(code, set()) & nums:
                         rows.append((hymn_id, code, title))
         rows += [(hymn_id, "TLH", tlh[n]) for n in sorted(have.get("TLH", ())) if n in tlh]
+        rows += [(hymn_id, "LSB", lsb[n]) for n in sorted(have.get("LSB", ())) if n in lsb]
+        # LSB 967-986, the accompaniment edition's hymns, are in no index of the pew
+        # edition; the master index titles them as LSB does.
+        if any(n > LSB_LAST for n in have.get("LSB", ())):
+            rows.append((hymn_id, "LSB", master_titles[hymn_id]))
+        modern_own = [match_key(t, modern=True) for t in row_titles_of.get(hymn_id, ())]
+        for code, pages in PAGE_TITLES.items():
+            for p in sorted(page_numbers[hymn_id].get(code, ())):
+                entries = pages.get(p, [])
+                if len(entries) > 1:  # the canticle whose name or first line is nearest the row's titles
+                    entries = [max(entries, key=lambda e: max(
+                        (difflib.SequenceMatcher(None, match_key(x, modern=True), o).ratio()
+                         for x in e for o in modern_own), default=0))]
+                rows += [(hymn_id, code, line) for _, line in entries]
+        # Hymnary's first lines: LW's and HS'98's, and TLH's where tlh_hymns has no title.
+        # Where a number has two hymns (LW 520), the row gets the one nearer its own titles.
+        own = [match_key(t) for t in row_titles_of.get(hymn_id, ())]
+        for code in TITLE_CSVS:
+            for n in sorted(have.get(code, ())):
+                lines = first_lines[code].get(n, [])
+                if code == "TLH" and n in tlh or not lines:
+                    continue
+                if len(lines) > 1:
+                    lines = [max(lines, key=lambda l: max((difflib.SequenceMatcher(None, match_key(l), o).ratio()
+                                                           for o in own), default=0))]
+                rows += [(hymn_id, code, l) for l in lines]
     # One title per spelling: the KELG index's 'Open now Thy gates of beauty'
     # and TLH 1941's 'Open Now Thy Gates of Beauty' are the same title.
     seen = set()
@@ -1705,7 +1811,7 @@ def build_hymn_titles(con):
         if key not in seen:
             seen.add(key)
             con.execute("INSERT OR IGNORE INTO hymn_titles VALUES (?,?,?)", (hymn_id, source, title))
-    sources = ("KELG", "WH", "ELHB", "TLHy", "TLH", "LW", "ELH", "LSB", "TL", "LPC", "ELGBS", *HYMNARY_CSVS)
+    sources = ("KELG", "WH", "ELHB", "TLHy", "TLH", "LW", "HS98", "ELH", "LSB", "TL", "LPC", "ELGBS", *HYMNARY_CSVS)
     pivot = ",\n    ".join(
         f"(SELECT group_concat(title, ' / ') FROM hymn_titles t WHERE t.hymn_id = h.id "
         f"AND t.source = '{src}') AS {src}_title"
@@ -1854,8 +1960,10 @@ def read_link_decisions(con):
 def same_hymn_groups(con):
     """The rows same_hymn_decisions.csv makes one hymn, as {hymn_id: group id}, and
     the pairs it keeps apart, as {frozenset((hymn_id, hymn_id))}. Several rows
-    bearing a title are all meant unless identified_by picks one."""
-    titled = titled_rows(con)
+    bearing a title are all meant unless identified_by picks one. A title is
+    found as title_rows finds it: a decision keeps its rows after
+    master_corrections.csv retitles them."""
+    titled = title_rows(con)
     numbers = row_number_names(con)
     parent = {}
 
@@ -2024,6 +2132,9 @@ def build():
     load_wh(con)
     load_tlhy(con)
     load_tlh(con)
+    load_tlh_extra(con)
+    load_lsb(con)
+    load_first_lines(con)
     load_tlhy_originals(con)
     load_tl(con)
     load_tl_originals(con)
