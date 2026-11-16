@@ -133,8 +133,14 @@ TLH_CSV = HERE / "tlh_1941.csv"  # TLH notes from Project Wittenberg, made by ex
 TLH_EXTRA_CSV = HERE / "tlh_extra_titles.csv"
 LSB_CSV = HERE / "LSB" / "LSB_index.csv"  # LSB 331-966 with their titles, made by extract_lsb.py
 LSB_LAST = 966  # the pew edition's last hymn; the master's LSB 967-986 are the accompaniment edition's
-# LSB's canticles in the master index by page, with their first line in LSB (checked against the book)
-LSB_PAGE_TITLES = {223: "We Praise You, O God"}  # the Te Deum at Matins
+# Canticles the master index cites by page: {hymnal: {page: [(canticle, first line in that book)]}},
+# checked against the books. Where a page has several, a row takes the one nearest its own titles.
+_TLH_SERVICE = [("Kyrie", "Lord, have mercy upon us"), ("Gloria in Excelsis", "Glory be to God on high")]
+PAGE_TITLES = {
+    "LSB": {223: [("Te Deum", "We Praise You, O God")]},  # Matins
+    "TLH": {7: _TLH_SERVICE, 17: _TLH_SERVICE,  # the Communion service and the Order of Morning Service
+            29: [("Nunc Dimittis", "Lord, now lettest Thou Thy servant depart in peace according to Thy word")]},
+}
 # Hymnary.org's tables of hymnals whose numbers the master index already has, made by
 # extract_hymnary.py: they give each hymn's first line, its title in the book.
 TITLE_CSVS = {code: HERE / code / f"{code}_index.csv" for code in ("TLH", "LW", "HS98")}
@@ -1717,9 +1723,9 @@ def build_hymn_titles(con):
     tlh = dict(con.execute("SELECT number, title FROM tlh_hymns"))
     lsb = dict(con.execute("SELECT number, title FROM lsb_hymns"))
     master_titles = dict(con.execute("SELECT id, title FROM hymns"))
-    lsb_pages = defaultdict(set)
-    for hymn_id, page in con.execute("SELECT hymn_id, number FROM hymn_numbers WHERE hymnal_code = 'LSB' AND is_page = 1"):
-        lsb_pages[hymn_id].add(page)
+    page_numbers = defaultdict(lambda: defaultdict(set))
+    for hymn_id, code, page in con.execute("SELECT hymn_id, hymnal_code, number FROM hymn_numbers WHERE is_page = 1"):
+        page_numbers[hymn_id][code].add(page)
     row_titles_of = defaultdict(list)
     for hymn_id, title in con.execute("SELECT hymn_id, title FROM hymn_titles WHERE source IN ('master', 'alternate')"):
         row_titles_of[hymn_id].append(title)
@@ -1768,7 +1774,15 @@ def build_hymn_titles(con):
         # edition; the master index titles them as LSB does.
         if any(n > LSB_LAST for n in have.get("LSB", ())):
             rows.append((hymn_id, "LSB", master_titles[hymn_id]))
-        rows += [(hymn_id, "LSB", LSB_PAGE_TITLES[p]) for p in sorted(lsb_pages.get(hymn_id, ())) if p in LSB_PAGE_TITLES]
+        modern_own = [match_key(t, modern=True) for t in row_titles_of.get(hymn_id, ())]
+        for code, pages in PAGE_TITLES.items():
+            for p in sorted(page_numbers[hymn_id].get(code, ())):
+                entries = pages.get(p, [])
+                if len(entries) > 1:  # the canticle whose name or first line is nearest the row's titles
+                    entries = [max(entries, key=lambda e: max(
+                        (difflib.SequenceMatcher(None, match_key(x, modern=True), o).ratio()
+                         for x in e for o in modern_own), default=0))]
+                rows += [(hymn_id, code, line) for _, line in entries]
         # Hymnary's first lines: LW's and HS'98's, and TLH's where tlh_hymns has no title.
         # Where a number has two hymns (LW 520), the row gets the one nearer its own titles.
         own = [match_key(t) for t in row_titles_of.get(hymn_id, ())]
