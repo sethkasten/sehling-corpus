@@ -1926,8 +1926,10 @@ def read_link_decisions(con):
 def same_hymn_groups(con):
     """The rows same_hymn_decisions.csv makes one hymn, as {hymn_id: group id}, and
     the pairs it keeps apart, as {frozenset((hymn_id, hymn_id))}. Several rows
-    bearing a title are all meant unless identified_by picks one."""
-    titled = titled_rows(con)
+    bearing a title are all meant unless identified_by picks one. A title is
+    found as title_rows finds it: a decision keeps its rows after
+    master_corrections.csv retitles them."""
+    titled = title_rows(con)
     numbers = row_number_names(con)
     parent = {}
 
