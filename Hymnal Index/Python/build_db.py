@@ -140,6 +140,13 @@ PAGE_TITLES = {
     "LSB": {223: [("Te Deum", "We Praise You, O God")]},  # Matins
     "TLH": {7: _TLH_SERVICE, 17: _TLH_SERVICE,  # the Communion service and the Order of Morning Service
             29: [("Nunc Dimittis", "Lord, now lettest Thou Thy servant depart in peace according to Thy word")]},
+    "HS98": {7: [("Kyrie", "Lord, have mercy on us"),
+                 ("Gloria in Excelsis", "Glory to God, we give You thanks and praise")],
+             11: [("Sanctus", "Holy, holy, holy Lord, God of Sabaoth adored")],
+             13: [("Agnus Dei", "O Jesus Christ, true Lamb of God")],
+             14: [("Nunc Dimittis", "O Lord, now let Your servant depart in heav'nly peace")],
+             18: [("Phos Hilaron", "O Light whose splendor thrills and gladdens")],  # a paraphrase
+             19: [("Magnificat", "My soul rejoices, my spirit voices")]},
 }
 # Hymnary.org's tables of hymnals whose numbers the master index already has, made by
 # extract_hymnary.py: they give each hymn's first line, its title in the book.
@@ -1746,7 +1753,8 @@ def build_hymn_titles(con):
         "SELECT number, english_first_line, german_first_line FROM elgbs_lpc_hymns")}
     hymnary = {code: hymnary_titles(con, code) for code in HYMNARY_CSVS}
     rows = []
-    for hymn_id, have in numbers.items():
+    for hymn_id in sorted(set(numbers) | set(page_numbers)):  # a row may have only page numbers
+        have = numbers[hymn_id]
         for n in have.get("ELHB", ()):
             if n in elhb:
                 rows.append((hymn_id, "ELHB", elhb[n]))
@@ -1803,7 +1811,7 @@ def build_hymn_titles(con):
         if key not in seen:
             seen.add(key)
             con.execute("INSERT OR IGNORE INTO hymn_titles VALUES (?,?,?)", (hymn_id, source, title))
-    sources = ("KELG", "WH", "ELHB", "TLHy", "TLH", "LW", "ELH", "LSB", "TL", "LPC", "ELGBS", *HYMNARY_CSVS)
+    sources = ("KELG", "WH", "ELHB", "TLHy", "TLH", "LW", "HS98", "ELH", "LSB", "TL", "LPC", "ELGBS", *HYMNARY_CSVS)
     pivot = ",\n    ".join(
         f"(SELECT group_concat(title, ' / ') FROM hymn_titles t WHERE t.hymn_id = h.id "
         f"AND t.source = '{src}') AS {src}_title"
