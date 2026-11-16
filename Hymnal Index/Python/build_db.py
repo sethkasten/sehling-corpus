@@ -132,6 +132,7 @@ TLH_CSV = HERE / "tlh_1941.csv"  # TLH notes from Project Wittenberg, made by ex
 # from Project Wittenberg's and CCEL's title indexes
 TLH_EXTRA_CSV = HERE / "tlh_extra_titles.csv"
 LSB_CSV = HERE / "LSB" / "LSB_index.csv"  # LSB 331-966 with their titles, made by extract_lsb.py
+LSB_LAST = 966  # the pew edition's last hymn; the master's LSB 967-986 are the accompaniment edition's
 # Hymnary.org's tables of hymnals whose numbers the master index already has, made by
 # extract_hymnary.py: they give each hymn's first line, its title in the book.
 TITLE_CSVS = {code: HERE / code / f"{code}_index.csv" for code in ("TLH", "LW", "HS98")}
@@ -1713,6 +1714,7 @@ def build_hymn_titles(con):
     elhb = {n: ELHB_TITLE_FIXES.get(n, t) for n, t in con.execute("SELECT number, title FROM elhb_hymns")}
     tlh = dict(con.execute("SELECT number, title FROM tlh_hymns"))
     lsb = dict(con.execute("SELECT number, title FROM lsb_hymns"))
+    master_titles = dict(con.execute("SELECT id, title FROM hymns"))
     row_titles_of = defaultdict(list)
     for hymn_id, title in con.execute("SELECT hymn_id, title FROM hymn_titles WHERE source IN ('master', 'alternate')"):
         row_titles_of[hymn_id].append(title)
@@ -1757,6 +1759,10 @@ def build_hymn_titles(con):
                         rows.append((hymn_id, code, title))
         rows += [(hymn_id, "TLH", tlh[n]) for n in sorted(have.get("TLH", ())) if n in tlh]
         rows += [(hymn_id, "LSB", lsb[n]) for n in sorted(have.get("LSB", ())) if n in lsb]
+        # LSB 967-986, the accompaniment edition's hymns, are in no index of the pew
+        # edition; the master index titles them as LSB does.
+        if any(n > LSB_LAST for n in have.get("LSB", ())):
+            rows.append((hymn_id, "LSB", master_titles[hymn_id]))
         # Hymnary's first lines: LW's and HS'98's, and TLH's where tlh_hymns has no title.
         # Where a number has two hymns (LW 520), the row gets the one nearer its own titles.
         own = [match_key(t) for t in row_titles_of.get(hymn_id, ())]
