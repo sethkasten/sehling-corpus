@@ -133,6 +133,8 @@ TLH_CSV = HERE / "tlh_1941.csv"  # TLH notes from Project Wittenberg, made by ex
 TLH_EXTRA_CSV = HERE / "tlh_extra_titles.csv"
 LSB_CSV = HERE / "LSB" / "LSB_index.csv"  # LSB 331-966 with their titles, made by extract_lsb.py
 LSB_LAST = 966  # the pew edition's last hymn; the master's LSB 967-986 are the accompaniment edition's
+# LSB's canticles in the master index by page, with their first line in LSB (checked against the book)
+LSB_PAGE_TITLES = {223: "We Praise You, O God"}  # the Te Deum at Matins
 # Hymnary.org's tables of hymnals whose numbers the master index already has, made by
 # extract_hymnary.py: they give each hymn's first line, its title in the book.
 TITLE_CSVS = {code: HERE / code / f"{code}_index.csv" for code in ("TLH", "LW", "HS98")}
@@ -1715,6 +1717,9 @@ def build_hymn_titles(con):
     tlh = dict(con.execute("SELECT number, title FROM tlh_hymns"))
     lsb = dict(con.execute("SELECT number, title FROM lsb_hymns"))
     master_titles = dict(con.execute("SELECT id, title FROM hymns"))
+    lsb_pages = defaultdict(set)
+    for hymn_id, page in con.execute("SELECT hymn_id, number FROM hymn_numbers WHERE hymnal_code = 'LSB' AND is_page = 1"):
+        lsb_pages[hymn_id].add(page)
     row_titles_of = defaultdict(list)
     for hymn_id, title in con.execute("SELECT hymn_id, title FROM hymn_titles WHERE source IN ('master', 'alternate')"):
         row_titles_of[hymn_id].append(title)
@@ -1763,6 +1768,7 @@ def build_hymn_titles(con):
         # edition; the master index titles them as LSB does.
         if any(n > LSB_LAST for n in have.get("LSB", ())):
             rows.append((hymn_id, "LSB", master_titles[hymn_id]))
+        rows += [(hymn_id, "LSB", LSB_PAGE_TITLES[p]) for p in sorted(lsb_pages.get(hymn_id, ())) if p in LSB_PAGE_TITLES]
         # Hymnary's first lines: LW's and HS'98's, and TLH's where tlh_hymns has no title.
         # Where a number has two hymns (LW 520), the row gets the one nearer its own titles.
         own = [match_key(t) for t in row_titles_of.get(hymn_id, ())]
