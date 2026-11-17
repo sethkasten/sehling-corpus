@@ -11,7 +11,7 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
      KELG/ELGBS German Title), takes out the columns in REMOVED_COLUMNS
      (ELGBS#: ELGBS numbers its hymns as LPC does, and its German first lines
      are in the database) and adds the hymnal columns in ADDED_COLUMNS it
-     lacks yet (TL#, LPC#, WS'69#, WS'00#); with --add CODE, also the column
+     lacks yet (TL#, LPC#, WS'69#, WS'00#, WELS'12#); with --add CODE, also the column
      of the hymnal taken from Hymnary.org that CODE names (ACS, AH, ... in
      build_db.HYMNARY_CSVS). Add those one at a time, in that order, settling
      each one's links in link_review.csv before adding the next: a hymn new to
@@ -38,9 +38,17 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
      tl_originals.csv (the language alone when only that is known; ELGBS's
      first lines, which went there before, come out), and Other English Title
      and Other English Source for KELG hymns WH lacks, from kelg_english.csv;
+   - fills Original Title, and Original Language 'German' if it is empty, for
+     rows a WELS12 hymn is on (wels12_links) that have no KELG/ELGBS German
+     Title and no original yet, with that hymn's German first line (not for a
+     hymn its page credits 'nach' someone, a German version of another text);
    - retitles rows still titled in German with the hymn's WH English title,
      or for a hymn WH lacks, its English translation in kelg_english.csv
      (which stays in Other English Title, beside its source);
+   - fills the WELS'12# column from wels12_links (a 'no match' in
+     wels12_decisions.csv takes a number out) and adds a row for every WELS12
+     hymn placed on no row, titled with its German first line (also its
+     Original Title, German);
    - adds a row for every KELG, ELHB, TLHy, TL, LPC and Hymnary.org hymnal's
      hymn that has no row yet (a TLHy, TL, LPC or Hymnary.org hymn only when
      nothing matched it, not even a link left for review; TL numbers sharing
@@ -100,7 +108,8 @@ from build_db import (ALT_CORRECTION, ALT_TITLE_HEADER, ALT_TITLE_RE, DB_PATH, E
                       KELG_WH_TITLE_COLUMN, KELG_WH_TITLE_HEADER, KELG_XLSX, LCMS_XLSX, LETTERED_HYMNALS,
                       LINKED_HYMNALS, MASTER_CORRECTIONS_CSV, SAME_HYMN_CSV, TEXT_COLUMNS, TITLE_CORRECTION,
                       TRUSTED, hymnary_titles, is_prefix, link_number, match_key, number_order, parse_cell,
-                      read_csv, read_same_hymn_decisions, same_hymn_groups, title_rows, titled_rows, tl_titles)
+                      parse_number, read_csv, read_same_hymn_decisions, same_hymn_groups, title_rows, titled_rows,
+                      tl_titles)
 
 NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 N = f"{{{NS}}}"
@@ -120,16 +129,18 @@ ALT_WIDTH = 34  # the 'Alternative English Title N' columns
 # column it adds goes right after the nearest one before it here that the sheet
 # has, and gets that column's width and its cells' styles. The sheet's order,
 # with each hymnal from Hymnary.org beside its church's: AH after the Norwegian
-# synods' TLHy and ELH; LH after TL, which draws on it; the hymnals of the bodies
+# synods' TLHy and ELH; WELS'12, the Wisconsin Synod's German hymnal, right after
+# ELH, so that it stands before its synod's CW'21, CWS and CW'93 (which follow ELH
+# in the sheet); LH after TL, which draws on it; the hymnals of the bodies
 # that became the ALC and LCA (and so the ELCA), oldest first, before the ELCA's
 # own LBW; ELW and ACS after.
 HYMNAL_ORDER = ("KELG#", "LPC#", "ELHB#", "TLH#", "WS'69#", "LW#", "HS'98#", "LSB#", "TLHy#", "TCH#", "ELH#",
-                "AH#", "CW'21#", "CWS#", "CW'93#", "WS'00#", "TL#", "LH#", "ELHal#", "ALH#", "THOS#", "HCH#",
-                "CHL#", "CHPPPW#", "TBW'67#", "TCSSH#", "TBW'07#", "CSB#", "SBH#", "LBW#", "HS'91#", "WOV#",
-                "ELW#", "ACS#")
+                "WELS'12#", "AH#", "CW'21#", "CWS#", "CW'93#", "WS'00#", "TL#", "LH#", "ELHal#", "ALH#", "THOS#",
+                "HCH#", "CHL#", "CHPPPW#", "TBW'67#", "TCSSH#", "TBW'07#", "CSB#", "SBH#", "LBW#", "HS'91#",
+                "WOV#", "ELW#", "ACS#")
 # Hymnal columns added whenever the master index lacks them. (A Hymnary.org
 # hymnal's column comes with --add CODE.)
-ADDED_COLUMNS = ("TL#", "LPC#", "WS'69#", "WS'00#")
+ADDED_COLUMNS = ("TL#", "LPC#", "WS'69#", "WS'00#", "WELS'12#")
 # Columns taken out of the master index. ELGBS numbers its house hymnal as LPC
 # does (LPC translates it), so ELGBS# only repeated LPC#; the German first lines
 # are in elgbs_lpc_hymns.csv (and in the KELG/ELGBS German Title column).
@@ -425,6 +436,59 @@ def plan(con, layout, merge_kelg=()):
         new_rows.append(new_row(title, "TL", numbers, tl_originals))
     lh_originals = originals_of("LH", "lh_originals")  # Liber Hymnorum's Latin
     fill_originals("LH", lh_originals)
+    # The German first lines of the WELS12 hymns placed on a row (wels12_links), for a
+    # row with no German title and no original yet whose language, if given, is German;
+    # not a hymn its page credits 'nach' someone ('nach Jacoponus'), a German version of
+    # a text in another language, which isn't the original.
+    german_titled = {h for (h,) in con.execute("SELECT id FROM hymns WHERE german_title IS NOT NULL AND german_title != ''")}
+    wels12 = defaultdict(list)
+    for hymn_id, first_line, author in con.execute(
+        "SELECT l.hymn_id, w.first_line, t.author FROM wels12_links l JOIN wels12_hymns w ON w.number = l.number "
+        "LEFT JOIN wels12_texts t ON t.number = l.number ORDER BY CAST(w.number AS INTEGER), w.number"
+    ):
+        if (author or "").startswith("nach "):
+            continue
+        if first_line not in wels12[hymn_id]:
+            wels12[hymn_id].append(first_line)
+    for hymn_id, lines in wels12.items():
+        title_done, language_done = done[hymn_id]
+        if (hymn_id in row_german | german_titled | filled | deletes or title_done
+                or language_done not in (None, "German")):
+            continue
+        updates[hymn_id][layout.original] = " / ".join(lines)
+        if not language_done:
+            updates[hymn_id][layout.language] = "German"
+        filled.add(hymn_id)
+    # WELS12's numbers: a row has those of the hymns wels12_links places on it (a
+    # 'no match' in wels12_decisions.csv takes one out); a hymn placed on no row
+    # gets a row of its own, titled with its German first line (and the section
+    # it stands in, where two such hymns share a first line), which also goes in
+    # Original Title, German (but for a hymn its page credits 'nach' someone).
+    wels12_have, wels12_want = defaultdict(set), defaultdict(set)
+    for hymn_id, n, suffix in con.execute(
+        "SELECT hymn_id, number, suffix FROM hymn_numbers WHERE hymnal_code = 'WELS12' AND is_page = 0"
+    ):
+        wels12_have[hymn_id].add(link_number(n, suffix))
+    for hymn_id, number in con.execute("SELECT hymn_id, number FROM wels12_links"):
+        wels12_want[hymn_id].add(parse_number(number))
+    for hymn_id in (set(wels12_have) | set(wels12_want)) - deletes:
+        if wels12_want[hymn_id] != wels12_have[hymn_id]:
+            updates[hymn_id][COL["WELS12"]] = format_numbers(wels12_want[hymn_id]) if wels12_want[hymn_id] else None
+    placed = {n for (n,) in con.execute("SELECT DISTINCT number FROM wels12_links")}
+    authors = dict(con.execute("SELECT number, author FROM wels12_texts"))
+    unplaced = defaultdict(list)  # first line -> [(number, section)]
+    for number, first_line, section in con.execute(
+        "SELECT number, first_line, section FROM wels12_hymns ORDER BY CAST(number AS INTEGER), number"
+    ):
+        if number not in placed:
+            unplaced[first_line].append((number, section))
+    for first_line, hymns in unplaced.items():
+        for number, section in hymns:
+            row = {"A": first_line if len(hymns) == 1 else f"{first_line} ({section})",
+                   COL["WELS12"]: parse_number(number)}
+            if not (authors.get(number) or "").startswith("nach "):
+                row[layout.original], row[layout.language] = first_line, "German"
+            new_rows.append(row)
     # LPC's hymns, with ELGBS's German first lines as their German titles
     for n, first_line, row_title in con.execute(
         "SELECT number, english_first_line, row_title FROM elgbs_lpc_hymns ORDER BY number"
