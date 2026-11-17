@@ -40,7 +40,8 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
      and Other English Source for KELG hymns WH lacks, from kelg_english.csv;
    - fills Original Title, and Original Language 'German' if it is empty, for
      rows a WELS12 hymn is on (wels12_links) that have no KELG/ELGBS German
-     Title and no original yet, with that hymn's German first line;
+     Title and no original yet, with that hymn's German first line (not for a
+     hymn its page credits 'nach' someone, a German version of another text);
    - retitles rows still titled in German with the hymn's WH English title,
      or for a hymn WH lacks, its English translation in kelg_english.csv
      (which stays in Other English Title, beside its source);
@@ -429,13 +430,17 @@ def plan(con, layout, merge_kelg=()):
     lh_originals = originals_of("LH", "lh_originals")  # Liber Hymnorum's Latin
     fill_originals("LH", lh_originals)
     # The German first lines of the WELS12 hymns placed on a row (wels12_links), for a
-    # row with no German title and no original yet whose language, if given, is German.
+    # row with no German title and no original yet whose language, if given, is German;
+    # not a hymn its page credits 'nach' someone ('nach Jacoponus'), a German version of
+    # a text in another language, which isn't the original.
     german_titled = {h for (h,) in con.execute("SELECT id FROM hymns WHERE german_title IS NOT NULL AND german_title != ''")}
     wels12 = defaultdict(list)
-    for hymn_id, first_line in con.execute(
-        "SELECT l.hymn_id, w.first_line FROM wels12_links l JOIN wels12_hymns w ON w.number = l.number "
-        "ORDER BY CAST(w.number AS INTEGER), w.number"
+    for hymn_id, first_line, author in con.execute(
+        "SELECT l.hymn_id, w.first_line, t.author FROM wels12_links l JOIN wels12_hymns w ON w.number = l.number "
+        "LEFT JOIN wels12_texts t ON t.number = l.number ORDER BY CAST(w.number AS INTEGER), w.number"
     ):
+        if (author or "").startswith("nach "):
+            continue
         if first_line not in wels12[hymn_id]:
             wels12[hymn_id].append(first_line)
     for hymn_id, lines in wels12.items():
