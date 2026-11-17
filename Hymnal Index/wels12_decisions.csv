@@ -26,6 +26,14 @@ number,master_title,identified_by,decision,reason
 453,What God Ordains Is Always Good,,match,Rodigast's hymn: the page has 'Es bleibt gerecht sein Wille'
 453,What Our Father Does is Well,,no match,that row is Schmolck's hymn of the same first line
 121,"Praise God the Lord, ye sons of men (on God's Word)",,no match,"Herman's Christmas hymn (the page); that row is ELGBS 35, the hymn on God's Word that borrows its first two lines, WELS12 273"
+339,"To Father, Son, and Spirit be (Oeler)",,match,"Ludwig Oeler's, 1535, to 'Es ist das Heil uns kommen her' (the book, p. 170: 'der uns sein Gnade leiste, damit wir gehn auf seinem Pfad')"
+339,"To Father, Son, and Spirit be (Straßburg)",,no match,the book prints Oeler's version (p. 170); the Straßburg one is WELS12 19
+120,"We Praise You, Jesus, at Your Birth",,match,"Luther's Christmas hymn (the book, and its page)"
+391,"We Praise You, Jesus, at Your Birth",,no match,"E. G. Woltersdorf's 'Gelobet seist du, Jesu Christ, daß du der Sünder Heiland bist', a hymn of faith (the book, p. 198), not Luther's Christmas hymn, WELS12 120"
+349,"Lord Jesus Christ, Thou highest Good",,match,"Ringwaldt's penitential hymn ('sieh doch, wie ich in meinem Mut mit Schmerzen bin beladen', the book), as KELG 216 and TLHy 98 are"
+299,"Lord Jesus Christ, Thou highest Good",,no match,"Ringwaldt's Communion hymn, which shares only the first two lines ('wir kommen, deinen Leib und Blut ... zu essen und zu trinken', the book); the row is his penitential hymn, WELS12 349"
+566,With the Lord Begin Your Task,,match,"'Fang dein Werk mit Jesu an, Jesus hat's in Händen' (the book), the hymn of KELG 324 and TLH 540"
+563,With the Lord Begin Your Task,,no match,"Dürr's 'Fang dein Werk mit Jesu an, wenn's im Segen soll gedeihen', to 'Liebster Jesu, wir sind hier' (the book); the row is WELS12 566's hymn"
 194,"Awake my heart, be singing",,no match,"Laurenti's Easter hymn ('Wach auf, mein Herz, die Nacht ist hin', the page); that row is Gerhardt's morning hymn 'Wach auf, mein Herz, und singe', WELS12 604"
 3,"Praise ye Jehovah, for He is all-gracious",,no match,"Neander's hymn (the page); that row is 'Lobet den Herren, denn er ist sehr freundlich', WELS12 596"
 41,Wondrous King All-Glorious,,match,"Neander's 'Wunderbarer König, Herrscher von uns allen', which TLH 41 translates"
