@@ -150,6 +150,8 @@ PAGE_TITLES = {
 }
 # Hymnary.org's tables of hymnals whose numbers the master index already has, made by
 # extract_hymnary.py: they give each hymn's first line, its title in the book.
+# The Wisconsin Synod's German hymnal of 1912 (musicanet.org's index, made by extract_wels12.py)
+WELS12_CSV = HERE / "WELS12" / "WELS12_index.csv"
 TITLE_CSVS = {code: HERE / code / f"{code}_index.csv" for code in ("TLH", "LW", "HS98")}
 TLHY_ORIGINALS_CSV = HERE / "tlhy_originals.csv"  # researched originals of TLHy's translations
 KELG_ENGLISH_CSV = HERE / "kelg_english.csv"  # English versions of KELG hymns WH lacks
@@ -568,6 +570,28 @@ CREATE TABLE lsb_hymns (             -- Lutheran Service Book (2006), from LSB_i
     title  TEXT NOT NULL
 );
 
+CREATE TABLE wels12_hymns (          -- Ev.-Luth. Gesangbuch fuer Kirche, Schule und Haus (Wisconsin, 1912)
+    number     TEXT PRIMARY KEY,      -- '292a' and '292b' share 292
+    first_line TEXT NOT NULL,         -- German, as the index gives it
+    section    TEXT,                  -- the book's section heading
+    page       TEXT                   -- the index page it is on
+);
+
+CREATE TABLE wels12_links (          -- the master-index rows a WELS12 hymn is, by its German first line
+    number  TEXT NOT NULL REFERENCES wels12_hymns(number),
+    hymn_id INTEGER NOT NULL REFERENCES hymns(id),
+    how     TEXT NOT NULL,            -- whose German first line it matched
+    PRIMARY KEY (number, hymn_id)
+);
+
+CREATE VIEW wels12_index AS          -- each WELS12 hymn with the rows it matched (none: not placed yet)
+SELECT w.number, w.first_line, w.section,
+       (SELECT group_concat(h.title, ' | ') FROM wels12_links l JOIN hymns h ON h.id = l.hymn_id
+        WHERE l.number = w.number) AS master_rows,
+       (SELECT group_concat(DISTINCT l.how) FROM wels12_links l WHERE l.number = w.number) AS how
+FROM wels12_hymns w
+ORDER BY CAST(w.number AS INTEGER), w.number;
+
 CREATE TABLE hymnal_first_lines (    -- TITLE_CSVS: Hymnary.org's first lines of TLH, LW and HS'98
     hymnal     TEXT NOT NULL,
     number     TEXT NOT NULL,         -- as Hymnary gives it: '50a' for a second setting
@@ -823,6 +847,54 @@ def load_tlh_extra(con):
 def load_lsb(con):
     for r in read_csv(LSB_CSV):
         con.execute("INSERT INTO lsb_hymns VALUES (?,?)", (int(r["number"]), r["title"]))
+
+
+def load_wels12(con):
+    for r in read_csv(WELS12_CSV):
+        con.execute("INSERT INTO wels12_hymns VALUES (?,?,?,?)",
+                    (r["number"], r["first_line"], r["section"], r["page"]))
+
+
+def link_wels12(con):
+    """Each WELS12 hymn's master-index rows: those whose German first line it is
+    (original_matches: the same, the start of it with four words or more, or a
+    misprint apart), taken from the rows' KELG/ELGBS German Title and German
+    Original Title, KELG's hymns, the originals TLH, TLHy and TL give their
+    translations, the German half of a Hymnary.org first line, and ELGBS's
+    house hymnal (by LPC number). A hymn none of them has is left unplaced."""
+    rows_of = defaultdict(set)
+    for hymn_id, code, n, suffix in con.execute("SELECT hymn_id, hymnal_code, number, suffix FROM hymn_numbers"):
+        rows_of[code, link_number(n, suffix) if code in LETTERED_HYMNALS else n].add(hymn_id)
+    known = defaultdict(lambda: defaultdict(set))  # original_key -> how -> rows
+
+    def add(text, rows, how):
+        for part in (text or "").split(" / "):
+            if part.strip() and rows:
+                known[original_key(part)][how].update(rows)
+
+    for hymn_id, german, original, language in con.execute(
+            "SELECT id, german_title, original_title, original_language FROM hymns"):
+        add(german, {hymn_id}, "German Title")
+        if language and "German" in language:
+            add(original, {hymn_id}, "Original Title")
+    for n, german in con.execute("SELECT number, german_title FROM kelg_hymns"):
+        add(german, rows_of["KELG", n], "KELG")
+    for n, original in con.execute("SELECT number, original_title FROM tlh_hymns"):
+        add(original, rows_of["TLH", n], "TLH original")
+    for code, table in (("TLHy", "tlhy_originals"), ("TL", "tl_originals")):
+        for n, original, language in con.execute(f"SELECT number, original_title, language FROM {table}"):
+            if language and "German" in language:
+                add(original, rows_of[code, n], f"{code} original")
+    for code, n, original in con.execute("SELECT hymnal, number, original FROM hymnary_index WHERE original IS NOT NULL"):
+        add(original, rows_of[code, n], f"{code} original")
+    for n, german in con.execute("SELECT number, german_first_line FROM elgbs_lpc_hymns"):
+        add(german, rows_of["LPC", n], "ELGBS")
+    keys = {k: k for k in known}
+    for number, first_line in con.execute("SELECT number, first_line FROM wels12_hymns").fetchall():
+        for k in original_matches(original_key(first_line), keys, 4):
+            for how, rows in known[k].items():
+                for hymn_id in rows:
+                    con.execute("INSERT OR IGNORE INTO wels12_links VALUES (?,?,?)", (number, hymn_id, how))
 
 
 def load_first_lines(con):
@@ -1730,6 +1802,12 @@ def build_hymn_titles(con):
     tlh = dict(con.execute("SELECT number, title FROM tlh_hymns"))
     lsb = dict(con.execute("SELECT number, title FROM lsb_hymns"))
     master_titles = dict(con.execute("SELECT id, title FROM hymns"))
+    wels12 = defaultdict(list)  # row -> the German first lines of the WELS12 hymns placed on it
+    for hymn_id, first_line in con.execute(
+            "SELECT l.hymn_id, w.first_line FROM wels12_links l JOIN wels12_hymns w ON w.number = l.number "
+            "ORDER BY CAST(w.number AS INTEGER), w.number"):
+        if first_line not in wels12[hymn_id]:
+            wels12[hymn_id].append(first_line)
     page_numbers = defaultdict(lambda: defaultdict(set))
     for hymn_id, code, page in con.execute("SELECT hymn_id, hymnal_code, number FROM hymn_numbers WHERE is_page = 1"):
         page_numbers[hymn_id][code].add(page)
@@ -1783,6 +1861,7 @@ def build_hymn_titles(con):
         if any(n > LSB_LAST for n in have.get("LSB", ())):
             rows.append((hymn_id, "LSB", master_titles[hymn_id]))
         modern_own = [match_key(t, modern=True) for t in row_titles_of.get(hymn_id, ())]
+        rows += [(hymn_id, "WELS12", t) for t in wels12.get(hymn_id, ())]
         for code, pages in PAGE_TITLES.items():
             for p in sorted(page_numbers[hymn_id].get(code, ())):
                 entries = pages.get(p, [])
@@ -1811,7 +1890,7 @@ def build_hymn_titles(con):
         if key not in seen:
             seen.add(key)
             con.execute("INSERT OR IGNORE INTO hymn_titles VALUES (?,?,?)", (hymn_id, source, title))
-    sources = ("KELG", "WH", "ELHB", "TLHy", "TLH", "LW", "HS98", "ELH", "LSB", "TL", "LPC", "ELGBS", *HYMNARY_CSVS)
+    sources = ("KELG", "WH", "ELHB", "TLHy", "TLH", "LW", "HS98", "ELH", "LSB", "TL", "LPC", "ELGBS", "WELS12", *HYMNARY_CSVS)
     pivot = ",\n    ".join(
         f"(SELECT group_concat(title, ' / ') FROM hymn_titles t WHERE t.hymn_id = h.id "
         f"AND t.source = '{src}') AS {src}_title"
@@ -2135,6 +2214,7 @@ def build():
     load_tlh_extra(con)
     load_lsb(con)
     load_first_lines(con)
+    load_wels12(con)
     load_tlhy_originals(con)
     load_tl(con)
     load_tl_originals(con)
@@ -2142,6 +2222,7 @@ def build():
     load_hymnary(con)
     load_kelg_english(con)
     fix_kelg_elhb_refs(con)
+    link_wels12(con)
     build_hymn_titles(con)
 
     # The rows the master index has each number on. Such a number links to no
