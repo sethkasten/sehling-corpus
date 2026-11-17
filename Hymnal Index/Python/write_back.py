@@ -38,6 +38,9 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
      tl_originals.csv (the language alone when only that is known; ELGBS's
      first lines, which went there before, come out), and Other English Title
      and Other English Source for KELG hymns WH lacks, from kelg_english.csv;
+   - fills Original Title, and Original Language 'German' if it is empty, for
+     rows a WELS12 hymn is on (wels12_links) that have no KELG/ELGBS German
+     Title and no original yet, with that hymn's German first line;
    - retitles rows still titled in German with the hymn's WH English title,
      or for a hymn WH lacks, its English translation in kelg_english.csv
      (which stays in Other English Title, beside its source);
@@ -425,6 +428,25 @@ def plan(con, layout, merge_kelg=()):
         new_rows.append(new_row(title, "TL", numbers, tl_originals))
     lh_originals = originals_of("LH", "lh_originals")  # Liber Hymnorum's Latin
     fill_originals("LH", lh_originals)
+    # The German first lines of the WELS12 hymns placed on a row (wels12_links), for a
+    # row with no German title and no original yet whose language, if given, is German.
+    german_titled = {h for (h,) in con.execute("SELECT id FROM hymns WHERE german_title IS NOT NULL AND german_title != ''")}
+    wels12 = defaultdict(list)
+    for hymn_id, first_line in con.execute(
+        "SELECT l.hymn_id, w.first_line FROM wels12_links l JOIN wels12_hymns w ON w.number = l.number "
+        "ORDER BY CAST(w.number AS INTEGER), w.number"
+    ):
+        if first_line not in wels12[hymn_id]:
+            wels12[hymn_id].append(first_line)
+    for hymn_id, lines in wels12.items():
+        title_done, language_done = done[hymn_id]
+        if (hymn_id in row_german | german_titled | filled | deletes or title_done
+                or language_done not in (None, "German")):
+            continue
+        updates[hymn_id][layout.original] = " / ".join(lines)
+        if not language_done:
+            updates[hymn_id][layout.language] = "German"
+        filled.add(hymn_id)
     # LPC's hymns, with ELGBS's German first lines as their German titles
     for n, first_line, row_title in con.execute(
         "SELECT number, english_first_line, row_title FROM elgbs_lpc_hymns ORDER BY number"

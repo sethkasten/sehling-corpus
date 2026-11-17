@@ -1,0 +1,53 @@
+number,master_title,identified_by,decision,reason
+8,O Lord I Sing with Lips and Heart,,match,"Gerhardt's hymn (the page); this row and 'Rejoice, My Heart, Be Glad and Sing' are both English versions of it"
+8,"Rejoice, My Heart, Be Glad and Sing",,match,Gerhardt's hymn (the page); a second English version of it
+19,"To Father, Son, and Spirit be (Straßburg)",,match,"the page's text is the one from the Straßburg Gesangbüchlein, 1547"
+19,"To Father, Son, and Spirit be (Oeler)",,no match,"the page's text is the Straßburg one, 1547 (the other row)"
+36,We All Believe in One True God Maker,,match,Luther's hymn: the page has 'Schöpfer Himmels und der Erden'
+36,We All Believe in One True God Father,,no match,"that row is Clausnitzer's hymn, WELS12 37"
+37,We All Believe in One True God Father,,match,"Clausnitzer's hymn: the page has 'Vater, Sohn und Heil'gen Geist'"
+37,We All Believe in One True God Maker,,no match,"that row is Luther's hymn, WELS12 36"
+95,God loved the world so heartily,,no match,"Neumeister's hymn ('Daß er sein eingebornes Kind', the page); that row is ELGBS 45, another hymn of the same first line"
+95,God Loved the World So That He Gave,,no match,"Neumeister's hymn ('Daß er sein eingebornes Kind', the page); that row is WELS12 381"
+168,Lord Jesus We Give Thanks to Thee,,match,Fischer's Passion hymn: the page has 'Daß du für uns gestorben bist'
+168,We Thank Thee Jesus Dearest Friend,,no match,that row is the Ascension hymn ('daß du gen Himmel gefahren bist')
+198,Lord Jesus We Give Thanks to Thee,,no match,"Hartmann's Easter hymn ('Daß du vom Tod erstanden bist', the page); that row is Fischer's Passion hymn, WELS12 168"
+198,We Thank Thee Jesus Dearest Friend,,no match,"Hartmann's Easter hymn ('Daß du vom Tod erstanden bist', the page); that row is the Ascension hymn"
+273,"Praise God the Lord, ye sons of men (on God's Word)",,match,"in the book's section on God's Word, the hymn LPC 35 has; Herman's Christmas hymn is WELS12 121"
+273,Let All Together Praise Our God,,no match,"that row is Herman's Christmas hymn, WELS12 121; 273 is in the section on God's Word"
+289,"Dearest Jesus, We Are Here",,match,Schmolck's baptism hymn: the page has 'Deinem Worte nachzuleben'
+289,"Blessed Jesus, at Your Word",,no match,"that row is Clausnitzer's hymn, WELS12 333"
+303,"Jesus Christ, Our Blessed Savior",,match,Luther's Communion hymn: the page has 'Der von uns den Zorn Gottes wandt''
+303,"Jesus Christ, who came, us to save",,no match,"that row is Luther's Easter hymn (KELG 110), not the Communion hymn"
+333,"Blessed Jesus, at Your Word",,match,Clausnitzer's hymn: the page has 'Dich und dein Wort anzuhören'
+333,"Dearest Jesus, We Are Here",,no match,"that row is Schmolck's baptism hymn, WELS12 289"
+381,God Loved the World So That He Gave,,match,the page has 'Daß er uns seinen Sohn hergibt' and links this English text
+381,God loved the world so heartily,,no match,"that row is ELGBS 45, another hymn of the same first line"
+453,What God Ordains Is Always Good,,match,Rodigast's hymn: the page has 'Es bleibt gerecht sein Wille'
+453,What Our Father Does is Well,,no match,that row is Schmolck's hymn of the same first line
+121,"Praise God the Lord, ye sons of men (on God's Word)",,no match,"Herman's Christmas hymn (the page); that row is ELGBS 35, the hymn on God's Word that borrows its first two lines, WELS12 273"
+3,"Praise ye Jehovah, for He is all-gracious",,no match,"Neander's hymn (the page); that row is 'Lobet den Herren, denn er ist sehr freundlich', WELS12 596"
+41,Wondrous King All-Glorious,,match,"Neander's 'Wunderbarer König, Herrscher von uns allen', which TLH 41 translates"
+43,"Holy God, We Praise Thy Name",,match,"the page links the English text 'Holy God, We Praise Thy Name'; LSB 940 gives 'Großer Gott, wir loben dich' as its original"
+109,Glad Hosanna! David's Son,,match,"probable: ELHal 17, an Advent hymn in the meter of 'Meinen Jesum laß ich nicht', renders Schmolck's 'Hosianna, Davids Sohn'"
+161,Lord Jesus Christ! Thy precious blood,,match,"ELHal 77 renders Olearius's 'Herr Jesu Christ, dein teures Blut'"
+203,"Lord, on earth I dwell sad hearted",,match,"probable: ELHal 97, an Ascension hymn in the same meter, renders 'Herr, auf Erden muß ich leiden'"
+204,Conquering Prince and King of glory,,match,"Tersteegen's 'Siegesfürst und Ehrenkönig', which TLHy 363 translates; the index has 'Siegesfürste'"
+207,On Christ’s Ascension I Now Build,,match,Wegelin's 'Auf Christi Himmelfahrt allein' (KELG 117); the index shortens the line
+227,O Spirit of Life O Spirit of God,,match,"the English of 'O Heiliger Geist, o heiliger Gott' (CSB 145 sets it to the tune named for it)"
+231,"Zion, Rise, Zion, Rise",,match,"J. E. Schmidt's 'Fahre fort, fahre fort, Zion' (ELGBS 57); the index gives the line as 'Fahre fort, Zion, fahre fort'"
+266,O How Holy is This Place,,match,"TLHy 45 credits Schmolck, 1712: his 'Ach wie heilig ist der Ort'"
+272,Gesetz und Evangelium,,match,"KELG 456, whose index line is the hymn's first three words"
+276,"Lord, Thy Word, that sacred treasure",,match,"probable: ALH 28 renders 'Herr, dein Wort, die edle Gabe, diesen Schatz erhalte mir'"
+279,Precious Word from God in heaven,,match,probable: ELHal 189 and ALH 32 render Schmolck's 'Teures Wort aus Gottes Munde'
+317,The Litany,,match,"the Litany, 'the general prayer of the Church' (KELG 368)"
+327,Alleluia! Fairest morning!,,match,"Jane Borthwick's translation of Jonathan Krause's 'Halleluja, schöner Morgen'"
+329,Praise God! For Sunday now has come,,match,"Olearius's 'Gott Lob, der Sonntag kommt herbei'; the index shortens the line"
+352,A wretched man and wretched debtor,,match,"'Ich armer Mensch, ich armer Sünder' (KELG 218), a hymn of repentance as here; WELS12 621 is the other 'Ich armer Mensch' hymn"
+366,Thou weepest o'er Jerusalem,,match,Heermann's 'Du weinest für Jerusalem' (KELG 462 'Du weinest um Jerusalem')
+409,Come and hear our blessed Savior,,match,"probable: Denicke's hymn on the Beatitudes, 'Kommt, laßt euch den Herren lehren' (KELG 277); the index line is garbled"
+468,"Arise, O Christian, join the strife",,match,"Scheffler's 'Auf, Christenmensch, auf, auf zum Streit' (ELGBS 55); the index shortens the line"
+531,"O Lord, Redeemer of Thy host",,match,"KELG 360's 'Herr! der du gnad' und hülf' verheiß'st', spelt differently"
+586,The new-born Child this early morn,,match,"Schneegass's 'Das neugeborne Kindelein' (KELG 49, whose index line is the hymn's first three words)"
+596,"Praise ye Jehovah, for He is all-gracious",,match,"'Lobet den Herren, denn er ist sehr freundlich': KELG 343's index line is its first three words, and WH renders 'denn er ist sehr freundlich' as 'for He is all-gracious'"
+601,Evening and Morning,,match,LSB 726's original is Gerhardt's 'Die güldne Sonne voll Freud und Wonne'

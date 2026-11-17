@@ -13,11 +13,11 @@ headings. Kept, as printed there: number ('292a': 292 is two hymns, 292a and
 292b), first line, section heading, and the page it is on.
 
 The index numbers the hymns 1-695 once each, but for 292a/292b; the script
-stops if that changes. Its known slips are left as they are: section headings
-'Butzlieder' (Bußlieder), 'A. Heilingungslieder' (Heiligungslieder) and
-'E. Nächtenliebe' (Nächstenliebe), and in first lines 17 'füßen' (süßen, the
-long s read as f), 50 'Jessia' (Jesaia), 124 'Wunder bar' (dar), 130 'seit'
-(seid), 527 'den' (denn) and 559 'walter' (walte).
+stops if that changes. FIXES and SECTION_FIXES correct its slips, each checked
+against the hymn's text (the hymn's own page on musicanet.org, where it has one;
+KELG, ELGBS or the hymn's English translation) or plain German; the script
+stops if a slip is no longer there. One line is left as it is, being garbled
+past a sure correction: 244 'Gott, das Verfolstürmt die Kirche sehr'.
 """
 import csv
 import html
@@ -27,6 +27,25 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 PAGES = ("1912.html", "19122.html", "19123.html")
 OUT = HERE / "WELS12" / "WELS12_index.csv"
+# number -> (first line as the index gives it, as the book has it)
+FIXES = {
+    "3": ("Lobe den Herrn", "Lobe den Herren"),  # Neander; its page: 'Lobe den Herren, den mächtigen König'
+    "17": ("Laßt uns mit füßen Weisen", "Laßt uns mit süßen Weisen"),  # the long s read as f
+    "50": ("Jessia, dem Propheten, das geschah", "Jesaia, dem Propheten, das geschah"),
+    "124": ("Schaut, schaut, was ist für Wunder bar?", "Schaut, schaut, was ist für Wunder dar?"),
+    "130": ("Nun singet und seit froh", "Nun singet und seid froh"),  # its page: 'seid'
+    "199": ("Ihr Christen, seht, daß ihr aussegt", "Ihr Christen, seht, daß ihr ausfegt"),  # f read as s
+    "270": ("Süßes Evengelium", "Süßes Evangelium"),
+    "346": ("Nun bircht die finstre Nacht", "Nun bricht die finstre Nacht"),
+    "527": ("Warum sollt' ich mich den grämen?", "Warum sollt' ich mich denn grämen?"),
+    "559": ("Das walter Gott, der helfen kann!", "Das walte Gott, der helfen kann!"),
+    "624": ("Ich ahb mich Gott ergeben", "Ich hab mich Gott ergeben"),
+}
+SECTION_FIXES = {
+    "Butzlieder": "Bußlieder",
+    "A. Heilingungslieder": "A. Heiligungslieder",
+    "E. Nächtenliebe": "E. Nächstenliebe",
+}
 ENTRY = re.compile(r"<B>([^<]+)</B>\s*<BR>|(\d+)\s*([a-z]?)\.\s*(.*?)<BR>", re.I)
 
 
@@ -37,6 +56,7 @@ def read_page(path):
     for m in ENTRY.finditer(body):
         if m.group(1):
             section = html.unescape(m.group(1)).strip()
+            section = SECTION_FIXES.get(section, section)
             continue
         first = re.split(r"\s+-\s+(?:<A[^>]*>)?Melodie", m.group(4))[0]
         first = html.unescape(re.sub(r"<[^>]+>", "", first)).strip()
@@ -48,6 +68,15 @@ def read_page(path):
 
 def main():
     rows = [r for page in PAGES for r in read_page(HERE / "WELS12" / page)]
+    sections = {r[2] for r in rows}
+    for number, (old, new) in FIXES.items():
+        i = next(i for i, r in enumerate(rows) if r[0] == number)
+        if rows[i][1] != old:
+            raise SystemExit(f"FIXES: {number} is now {rows[i][1]!r}, not {old!r}")
+        rows[i] = (number, new) + rows[i][2:]
+    missing = [new for new in SECTION_FIXES.values() if new not in sections]
+    if missing:
+        raise SystemExit(f"SECTION_FIXES: no section {missing} (the index's headings changed)")
     numbers = [r[0] for r in rows]
     expected = [str(n) for n in range(1, 696) if n != 292]
     expected[291:291] = ["292a", "292b"]

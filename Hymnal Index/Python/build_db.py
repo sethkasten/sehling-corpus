@@ -44,6 +44,13 @@ Sources
                                          which are one hymn kept on rows of their own ('same hymn, own rows')
   master_corrections.csv                 wrong numbers and misspelled titles in the master index
                                          (write_back.py corrects them; read here for the old titles)
+  WELS12/WELS12_index.csv                the Wisconsin Synod's German hymnal of 1912: number, first
+                                         line, section (musicanet.org's index, made by extract_wels12.py)
+  WELS12/WELS12_texts.csv                the hymn pages that index links to: title, opening lines,
+                                         author, melody, the English text a page links to (made by
+                                         fetch_wels12_texts.py)
+  wels12_decisions.csv                   which rows a WELS12 hymn is where its first line can't
+                                         say: 'match' or 'no match', with the reason
 
 Schema
   hymnals       one row per hymnal column in the master index
@@ -103,8 +110,13 @@ Schema
   wh_hymns      Walther's Hymnal (WH.pdf, via wh_index.csv): English and German
                 first lines, tune, and the tune settings it points to
   wh_tune_settings  those tune settings, one row per TLH/LW/LSB number
+  wels12_hymns  WELS12 (1912): number, German first line as the index gives it, section
+  wels12_texts  WELS12_texts.csv: the hymn page of each WELS12 hymn that has one
+  wels12_links  the master-index rows each WELS12 hymn is (by its German first line, its
+                page's title and opening lines, or wels12_decisions.csv), and how
+  wels12_index  view: each WELS12 hymn with its author and the rows it was placed on
 
-  links         KELG/ELHB/TLHy/TL/LPC numbers and those of the Hymnary.org hymnals for
+  links        KELG/ELHB/TLHy/TL/LPC numbers and those of the Hymnary.org hymnals for
                 master-index rows: those already in the master index plus proposed
                 ones, with how each was found and whether it needs a human look ('ok' or
                 'review'), or was decided against in link_decisions.csv ('rejected')
@@ -152,6 +164,8 @@ PAGE_TITLES = {
 # extract_hymnary.py: they give each hymn's first line, its title in the book.
 # The Wisconsin Synod's German hymnal of 1912 (musicanet.org's index, made by extract_wels12.py)
 WELS12_CSV = HERE / "WELS12" / "WELS12_index.csv"
+WELS12_TEXTS_CSV = HERE / "WELS12" / "WELS12_texts.csv"  # its hymn pages, made by fetch_wels12_texts.py
+WELS12_DECISIONS_CSV = HERE / "wels12_decisions.csv"  # which rows a WELS12 hymn is, decided by hand
 TITLE_CSVS = {code: HERE / code / f"{code}_index.csv" for code in ("TLH", "LW", "HS98")}
 TLHY_ORIGINALS_CSV = HERE / "tlhy_originals.csv"  # researched originals of TLHy's translations
 KELG_ENGLISH_CSV = HERE / "kelg_english.csv"  # English versions of KELG hymns WH lacks
@@ -577,15 +591,30 @@ CREATE TABLE wels12_hymns (          -- Ev.-Luth. Gesangbuch fuer Kirche, Schule
     page       TEXT                   -- the index page it is on
 );
 
-CREATE TABLE wels12_links (          -- the master-index rows a WELS12 hymn is, by its German first line
+CREATE TABLE wels12_texts (          -- WELS12_TEXTS_CSV: the hymn page musicanet's index links to
+    number             TEXT PRIMARY KEY REFERENCES wels12_hymns(number),
+    page               TEXT NOT NULL,  -- 'Lieder/....html' under musicanet.org/robokopp/
+    title              TEXT,           -- the page's heading
+    opening            TEXT,           -- its first two lines, ' / ' between them
+    author             TEXT,
+    melody             TEXT,
+    english_page       TEXT,           -- the English text the page links to ('hymn/....htm')
+    english_title      TEXT,
+    english_first_line TEXT
+);
+
+CREATE TABLE wels12_links (          -- the master-index rows a WELS12 hymn is
     number  TEXT NOT NULL REFERENCES wels12_hymns(number),
     hymn_id INTEGER NOT NULL REFERENCES hymns(id),
-    how     TEXT NOT NULL,            -- whose German first line it matched
+    how     TEXT NOT NULL,            -- whose German first line it matched ('..., by its page': the
+                                      -- page's title or opening did), or 'decision'
+                                      -- (wels12_decisions.csv)
     PRIMARY KEY (number, hymn_id)
 );
 
 CREATE VIEW wels12_index AS          -- each WELS12 hymn with the rows it matched (none: not placed yet)
 SELECT w.number, w.first_line, w.section,
+       (SELECT t.author FROM wels12_texts t WHERE t.number = w.number) AS author,
        (SELECT group_concat(h.title, ' | ') FROM wels12_links l JOIN hymns h ON h.id = l.hymn_id
         WHERE l.number = w.number) AS master_rows,
        (SELECT group_concat(DISTINCT l.how) FROM wels12_links l WHERE l.number = w.number) AS how
@@ -853,6 +882,11 @@ def load_wels12(con):
     for r in read_csv(WELS12_CSV):
         con.execute("INSERT INTO wels12_hymns VALUES (?,?,?,?)",
                     (r["number"], r["first_line"], r["section"], r["page"]))
+    for r in read_csv(WELS12_TEXTS_CSV):
+        con.execute("INSERT INTO wels12_texts VALUES (?,?,?,?,?,?,?,?,?)",
+                    (r["number"], r["page"], r["title"] or None, r["opening"] or None, r["author"] or None,
+                     r["melody"] or None, r["english_page"] or None, r["english_title"] or None,
+                     r["english_first_line"] or None))
 
 
 def link_wels12(con):
@@ -861,7 +895,11 @@ def link_wels12(con):
     misprint apart), taken from the rows' KELG/ELGBS German Title and German
     Original Title, KELG's hymns, the originals TLH, TLHy and TL give their
     translations, the German half of a Hymnary.org first line, and ELGBS's
-    house hymnal (by LPC number). A hymn none of them has is left unplaced."""
+    house hymnal (by LPC number). The index often shortens a first line, so the
+    hymn's page (its title, and its first two lines read as one) is tried too.
+    wels12_decisions.csv then settles the hymns that match two rows and places
+    some the lines can't: a 'match' adds a row, a 'no match' takes one away. A
+    hymn none of this places is left unplaced."""
     rows_of = defaultdict(set)
     for hymn_id, code, n, suffix in con.execute("SELECT hymn_id, hymnal_code, number, suffix FROM hymn_numbers"):
         rows_of[code, link_number(n, suffix) if code in LETTERED_HYMNALS else n].add(hymn_id)
@@ -890,11 +928,48 @@ def link_wels12(con):
     for n, german in con.execute("SELECT number, german_first_line FROM elgbs_lpc_hymns"):
         add(german, rows_of["LPC", n], "ELGBS")
     keys = {k: k for k in known}
+    page_lines = defaultdict(list)
+    for number, title, opening in con.execute("SELECT number, title, opening FROM wels12_texts"):
+        page_lines[number] += [line for line in (title, (opening or "").replace(" / ", " ")) if line]
     for number, first_line in con.execute("SELECT number, first_line FROM wels12_hymns").fetchall():
-        for k in original_matches(original_key(first_line), keys, 4):
-            for how, rows in known[k].items():
-                for hymn_id in rows:
-                    con.execute("INSERT OR IGNORE INTO wels12_links VALUES (?,?,?)", (number, hymn_id, how))
+        for line, by in [(first_line, "")] + [(line, ", by its page") for line in page_lines[number]]:
+            for k in original_matches(original_key(line), keys, 4):
+                for how, rows in known[k].items():
+                    for hymn_id in rows:
+                        con.execute("INSERT OR IGNORE INTO wels12_links VALUES (?,?,?)", (number, hymn_id, how + by))
+    apply_wels12_decisions(con)
+
+
+def apply_wels12_decisions(con):
+    """wels12_decisions.csv: number, master_title (identified_by, a hymnal
+    number, says which row is meant when several bear it), decision ('match' or
+    'no match') and reason. A decision that changes nothing is reported, so a
+    stale one shows."""
+    if not WELS12_DECISIONS_CSV.exists():
+        return
+    rows_titled = title_rows(con)
+    numbers = row_number_names(con)
+    hymns = {n for (n,) in con.execute("SELECT number FROM wels12_hymns")}
+    for r in read_csv(WELS12_DECISIONS_CSV):
+        number, title, decision = r["number"], r["master_title"], r["decision"]
+        if decision not in ("match", "no match"):
+            raise SystemExit(f"{WELS12_DECISIONS_CSV.name}: decision must be 'match' or 'no match', not {decision!r}")
+        if number not in hymns:
+            raise SystemExit(f"{WELS12_DECISIONS_CSV.name}: WELS12 has no hymn {number}")
+        which = (r.get("identified_by") or "").strip()
+        rows = {h for h in rows_titled.get(title, ()) if not which or which in numbers[h]}
+        if not rows:
+            print(f"{WELS12_DECISIONS_CSV.name}: no master-index row is titled {title!r}"
+                  + (f" with {which}" if which else "") + f" (WELS12 {number}); skipped")
+        for hymn_id in sorted(rows):
+            linked = con.execute("SELECT how FROM wels12_links WHERE number=? AND hymn_id=?",
+                                 (number, hymn_id)).fetchone()
+            if decision == "match" and linked is None:
+                con.execute("INSERT INTO wels12_links VALUES (?,?,'decision')", (number, hymn_id))
+            elif decision == "no match" and linked is not None:
+                con.execute("DELETE FROM wels12_links WHERE number=? AND hymn_id=?", (number, hymn_id))
+            elif decision == "no match":
+                print(f"{WELS12_DECISIONS_CSV.name}: WELS12 {number} isn't on {title!r} anyway")
 
 
 def load_first_lines(con):
