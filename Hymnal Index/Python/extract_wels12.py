@@ -16,8 +16,9 @@ The index numbers the hymns 1-695 once each, but for 292a/292b; the script
 stops if that changes. FIXES and SECTION_FIXES correct its slips, each checked
 against the hymn's text (the hymn's own page on musicanet.org, where it has one;
 KELG, ELGBS or the hymn's English translation) or plain German; the script
-stops if a slip is no longer there. One line is left as it is, being garbled
-past a sure correction: 244 'Gott, das Verfolstürmt die Kirche sehr'.
+stops if a slip is no longer there. 244's line, garbled in the index ('Gott, das
+Verfolstürmt die Kirche sehr'), is corrected from a scan of the book's page
+(WELS12/244.png).
 """
 import csv
 import html
@@ -35,6 +36,8 @@ FIXES = {
     "124": ("Schaut, schaut, was ist für Wunder bar?", "Schaut, schaut, was ist für Wunder dar?"),
     "130": ("Nun singet und seit froh", "Nun singet und seid froh"),  # its page: 'seid'
     "199": ("Ihr Christen, seht, daß ihr aussegt", "Ihr Christen, seht, daß ihr ausfegt"),  # f read as s
+    # the book (WELS12/244.png): 'Gott! das Verfolgungsmeer bestürmt die Kirche sehr'
+    "244": ("Gott, das Verfolstürmt die Kirche sehr", "Gott, das Verfolgungsmeer bestürmt die Kirche sehr"),
     "270": ("Süßes Evengelium", "Süßes Evangelium"),
     "346": ("Nun bircht die finstre Nacht", "Nun bricht die finstre Nacht"),
     "527": ("Warum sollt' ich mich den grämen?", "Warum sollt' ich mich denn grämen?"),

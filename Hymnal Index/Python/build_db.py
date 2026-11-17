@@ -228,6 +228,8 @@ HYMNALS = {
     "TCSSH#": ("TCSSH", "The Church and Sunday-School Hymnal", 1898),
     "TCH#": ("TCH", "The Concordia Hymnal (revised)", 1960),
     "LH#": ("LH", "Liber Hymnorum: The Latin Hymns of the Lutheran Church", 2016),
+    # musicanet.org's index of the Wisconsin Synod's German hymnal (extract_wels12.py)
+    "WELS'12#": ("WELS12", "Evangelisch-Lutherisches Gesangbuch für Kirche, Schule und Haus", 1912),
 }
 
 # KELG 'Sheet 1' layout: each hymnal is a (number, title, verses) column triple.
@@ -242,8 +244,9 @@ KELG_MATCH_HYMNALS = ("TLH", "LW", "ELH", "LSB")
 # Hymnals this script links to master-index rows (the rest are the master's own).
 LINKED_HYMNALS = ("KELG", "ELHB", "TLHy", "TL", "LPC", *HYMNARY_CSVS)
 # Hymnals that number separate items 157a and 157b: their links keep the letter.
-# (CSB, ELHal, HS91 and SBH print a text set to two tunes twice, as 20a and 20b.)
-LETTERED_HYMNALS = ("TL", "WS69", "CSB", "ELHal", "HS91", "SBH")
+# (CSB, ELHal, HS91 and SBH print a text set to two tunes twice, as 20a and 20b;
+# WELS12 prints two hymns as 292a and 292b.)
+LETTERED_HYMNALS = ("TL", "WS69", "CSB", "ELHal", "HS91", "SBH", "WELS12")
 
 # Numbers the ELHB index gets wrong: number -> title. Checked against the ELHB
 # itself (1927 printing, https://archive.org/details/evangelicalluthe0000vari_b7v6:
@@ -607,8 +610,8 @@ CREATE TABLE wels12_links (          -- the master-index rows a WELS12 hymn is
     number  TEXT NOT NULL REFERENCES wels12_hymns(number),
     hymn_id INTEGER NOT NULL REFERENCES hymns(id),
     how     TEXT NOT NULL,            -- whose German first line it matched ('..., by its page': the
-                                      -- page's title or opening did), or 'decision'
-                                      -- (wels12_decisions.csv)
+                                      -- page's title or opening did), 'in master' (the WELS'12#
+                                      -- column has it) or 'decision' (wels12_decisions.csv)
     PRIMARY KEY (number, hymn_id)
 );
 
@@ -897,9 +900,13 @@ def link_wels12(con):
     translations, the German half of a Hymnary.org first line, and ELGBS's
     house hymnal (by LPC number). The index often shortens a first line, so the
     hymn's page (its title, and its first two lines read as one) is tried too.
+    The numbers in the master index's WELS'12# column are placements in their own
+    right, and settled: a number there goes on no other row by its first line,
+    and a row with WELS12 numbers takes no other one by a first line.
     wels12_decisions.csv then settles the hymns that match two rows and places
-    some the lines can't: a 'match' adds a row, a 'no match' takes one away. A
-    hymn none of this places is left unplaced."""
+    some the lines can't: a 'match' adds a row, a 'no match' takes one away (and
+    write_back.py takes the number out of the row's cell). A hymn none of this
+    places is left unplaced (write_back.py gives it a row of its own)."""
     rows_of = defaultdict(set)
     for hymn_id, code, n, suffix in con.execute("SELECT hymn_id, hymnal_code, number, suffix FROM hymn_numbers"):
         rows_of[code, link_number(n, suffix) if code in LETTERED_HYMNALS else n].add(hymn_id)
@@ -931,25 +938,36 @@ def link_wels12(con):
     page_lines = defaultdict(list)
     for number, title, opening in con.execute("SELECT number, title, opening FROM wels12_texts"):
         page_lines[number] += [line for line in (title, (opening or "").replace(" / ", " ")) if line]
+    in_master, row_numbers = defaultdict(set), defaultdict(set)  # number -> rows; row -> numbers
+    for hymn_id, n, suffix in con.execute(
+            "SELECT hymn_id, number, suffix FROM hymn_numbers WHERE hymnal_code = 'WELS12' AND is_page = 0"):
+        in_master[f"{n}{suffix}"].add(hymn_id)
+        row_numbers[hymn_id].add(f"{n}{suffix}")
     for number, first_line in con.execute("SELECT number, first_line FROM wels12_hymns").fetchall():
         for line, by in [(first_line, "")] + [(line, ", by its page") for line in page_lines[number]]:
             for k in original_matches(original_key(line), keys, 4):
                 for how, rows in known[k].items():
                     for hymn_id in rows:
+                        if (in_master[number] and hymn_id not in in_master[number]) or \
+                                (row_numbers[hymn_id] and number not in row_numbers[hymn_id]):
+                            continue
                         con.execute("INSERT OR IGNORE INTO wels12_links VALUES (?,?,?)", (number, hymn_id, how + by))
+    for number, rows in in_master.items():
+        for hymn_id in rows:
+            con.execute("INSERT OR IGNORE INTO wels12_links VALUES (?,?,'in master')", (number, hymn_id))
     apply_wels12_decisions(con)
 
 
-def apply_wels12_decisions(con):
-    """wels12_decisions.csv: number, master_title (identified_by, a hymnal
-    number, says which row is meant when several bear it), decision ('match' or
-    'no match') and reason. A decision that changes nothing is reported, so a
-    stale one shows."""
+def read_wels12_decisions(con, warn=False):
+    """wels12_decisions.csv as [(number, hymn_id, decision, title)]: number,
+    master_title (identified_by, a hymnal number, says which row is meant when
+    several bear it), decision ('match' or 'no match') and reason."""
     if not WELS12_DECISIONS_CSV.exists():
-        return
+        return []
     rows_titled = title_rows(con)
     numbers = row_number_names(con)
     hymns = {n for (n,) in con.execute("SELECT number FROM wels12_hymns")}
+    out = []
     for r in read_csv(WELS12_DECISIONS_CSV):
         number, title, decision = r["number"], r["master_title"], r["decision"]
         if decision not in ("match", "no match"):
@@ -958,18 +976,41 @@ def apply_wels12_decisions(con):
             raise SystemExit(f"{WELS12_DECISIONS_CSV.name}: WELS12 has no hymn {number}")
         which = (r.get("identified_by") or "").strip()
         rows = {h for h in rows_titled.get(title, ()) if not which or which in numbers[h]}
-        if not rows:
+        if not rows and warn:
             print(f"{WELS12_DECISIONS_CSV.name}: no master-index row is titled {title!r}"
                   + (f" with {which}" if which else "") + f" (WELS12 {number}); skipped")
-        for hymn_id in sorted(rows):
-            linked = con.execute("SELECT how FROM wels12_links WHERE number=? AND hymn_id=?",
-                                 (number, hymn_id)).fetchone()
-            if decision == "match" and linked is None:
-                con.execute("INSERT INTO wels12_links VALUES (?,?,'decision')", (number, hymn_id))
-            elif decision == "no match" and linked is not None:
-                con.execute("DELETE FROM wels12_links WHERE number=? AND hymn_id=?", (number, hymn_id))
-            elif decision == "no match":
-                print(f"{WELS12_DECISIONS_CSV.name}: WELS12 {number} isn't on {title!r} anyway")
+        out += [(number, hymn_id, decision, title) for hymn_id in sorted(rows)]
+    return out
+
+
+def apply_wels12_decisions(con):
+    """wels12_decisions.csv: a 'match' adds the link, a 'no match' takes it
+    away (once the WELS'12# column is written, the first lines no longer bring
+    most of those back, but the decisions stay, to keep them out). A decision
+    naming no row is reported."""
+    for number, hymn_id, decision, title in read_wels12_decisions(con, warn=True):
+        linked = con.execute("SELECT how FROM wels12_links WHERE number=? AND hymn_id=?",
+                             (number, hymn_id)).fetchone()
+        if decision == "match" and linked is None:
+            con.execute("INSERT INTO wels12_links VALUES (?,?,'decision')", (number, hymn_id))
+        elif decision == "no match" and linked is not None:
+            con.execute("DELETE FROM wels12_links WHERE number=? AND hymn_id=?", (number, hymn_id))
+
+
+def report_wels12(con, review):
+    """WELS12 hymns on more than one row that wels12_decisions.csv hasn't put
+    on each of them: a review item, to settle there."""
+    decided = {(n, h) for n, h, d, _ in read_wels12_decisions(con) if d == "match"}
+    titles = dict(con.execute("SELECT id, title FROM hymns"))
+    rows = defaultdict(list)
+    for number, hymn_id in con.execute("SELECT number, hymn_id FROM wels12_links ORDER BY hymn_id"):
+        rows[number].append(hymn_id)
+    for number, first_line in con.execute("SELECT number, first_line FROM wels12_hymns"):
+        on = rows.get(number, [])
+        if len(on) > 1 and not all((number, h) in decided for h in on):
+            review.append(("WELS12", number, first_line,
+                           f"on {len(on)} master-index rows ({', '.join(repr(titles[h]) for h in on)}): "
+                           f"settle it in {WELS12_DECISIONS_CSV.name}"))
 
 
 def load_first_lines(con):
@@ -2360,6 +2401,7 @@ def build():
     report_unmatched_lpc(con, review)
     report_unmatched_hymnary(con, review)
     report_unlinked(con, review)
+    report_wels12(con, review)
     sort_tlhy(con)
 
     con.execute(
