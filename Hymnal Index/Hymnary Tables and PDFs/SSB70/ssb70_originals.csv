@@ -46,6 +46,7 @@ number,language,original_title,original_author,confidence,same_as,source,note
 113,German,Befiehl du deine Wege,Paul Gerhardt,probable,,first line,
 116,German,Wo Gott der Herr nicht bei uns hält,Justus Jonas,probable,,first line,
 121,German,Wie schön leuchtet der Morgenstern,Philipp Nicolai,probable,,first line,
+131,German,,Benjamin Schmolck,partial,,TLHy.pdf credit line (TLHy 237); the pages compared,"Brorson's Danish (1734) of a hymn by Schmolck (1704), whose German first line wasn't found; TLHy 237, 'Why art thou cast down, my soul', translates it stanza for stanza (TLHy credits B. Schmolck, 1704, and H. A. Brorson, 1734)"
 132,Norwegian,"I Hus og Hjem, hvor Mand og Viv",Magnus B. Landstad,probable,,TLHy 229's original (tlhy_originals.csv),
 133,Danish,Sorrig og Glæde de vandre tilhobe,Thomas Kingo,probable,,first line,
 135,German,"Ich ruf zu dir, Herr Jesu Christ",Johann Agricola,probable,,first line,
@@ -139,13 +140,14 @@ number,language,original_title,original_author,confidence,same_as,source,note
 449,German,Singen wir aus Herzensgrund,,probable,,first line,
 450,German,Herzlich tut mich verlangen,Christoph Knoll,probable,,first line,
 451,German,"Herr Jesu Christ, meins Lebens Licht",Martin Behm,probable,,first line,
+456,Danish,Nu har jeg vunden,Hans A. Brorson,probable,,https://hymnary.org/hymn/SSAR1903/d297 (Hymnary credits Brorson); TLHy.pdf credit line (TLHy 591),"TLHy 591, 'Life's day is ended', translates it (TLHy credits H. A. Brorson, 1742): both are funeral hymns, their first lines of five syllables ('Now I have won': 'The battle fought and won')"
 457,German,Geht nun hin und grabt mein Grab,Ernst M. Arndt,probable,,first line,
 458,German,Wenn mein Stündlein vorhanden ist,Nikolaus Herman,probable,,first line,
 459,Latin,Iam maesta quiesce querela,Prudentius,probable,,first line,Thomas Kingo's Danish version; TLHy's index of tunes pairs its tune with 'Jam moesta quiesce querela'
 460,German,Nun laßt uns den Leib begraben,Michael Weiße,probable,,first line,
 462,German,"Wer weiß, wie nahe mir mein Ende",Ämilie Juliane of Schwarzburg-Rudolstadt,probable,,first line,
 463,German,"Gott Lob, die Stund ist kommen",,probable,,first line,
-464,Danish,"Den signede Dag, som vi nu ser",,probable,,first line,"Danish, its author uncertain"
+464,Danish,"Den signede Dag, som vi nu ser",Anonymous,probable,,"TLHy.pdf credit line (TLHy 379: Anon. (Danish, 14th Century); N. F. S. Grundtvig, 1826); the pages compared","the medieval Danish hymn (14th century, as TLHy dates it), which Grundtvig reworked in 1826 as 'Den signede Dag med Fryd vi ser'; TLHy 379, 'O day full of grace', translates his version, which keeps its stanzas (SSB 464's 2nd and 5th are TLHy's 2nd and 3rd)"
 466,Danish,Nu rinder Solen op,,probable,,TLH 542's original (the TLH 1941 notes),
 467,Danish,"Vaagn op, og slaa paa dine Strenge",Thomas Kingo,probable,,first line,
 476,Danish,Vor Disk og Dug er alt bered,Thomas Kingo,probable,,https://hymnary.org/text/vor_disk_og_dug_er_alt_bered,"a table prayer; TLHy 569, 'Our table now with food is spread', translates it"
@@ -153,3 +155,4 @@ number,language,original_title,original_author,confidence,same_as,source,note
 481,Latin,"Christe, qui lux es et dies",,probable,,first line,
 487,German,"Werde munter, mein Gemüte",Johann Rist,probable,,first line,TLHy's index of tunes pairs 'Vær nu glad og vel tilmode' with 'Werde munter'
 489,Norwegian,Nu Solen gaar ned,Samuel O. Bruun,probable,,https://hymnary.org/text/the_sun_has_gone_down_and_peace_has_desc,"TLHy 554, 'The sun has gone down', translates it"
+490,Norwegian,Slukt er Dagens lyse Flammer,Magnus B. Landstad,probable,,https://hymnary.org/hymn/SSAR1903/d424 (Hymnary credits Landstad); https://hymnary.org/text/darkness_oer_the_earth_is_stealing,"TLHy 558, 'Darkness o'er the earth is stealing', translates it (TLHy credits M. B. Landstad, 1855): both are evening prayers in 8.8.7.8.8.7"
