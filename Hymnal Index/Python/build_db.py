@@ -40,6 +40,18 @@ Sources
   lh_index.csv                           Liber Hymnorum's hymns (LH4A-C.pdf): English first line,
                                          Latin original, use, author, translator; read like a
                                          Hymnary.org table, its Latin matched as an original too
+  SSB70/SSB70_index.csv                  the Norwegian Synod's Psalmebog (1870): number, first
+                                         line (Hymnary.org's table, made by extract_hymnary.py)
+  ssb03_index.csv                        its revised Salmebog (1903): number, first line, index
+                                         page, the index's mark (* new or renumbered, † verses
+                                         changed) and a note, transcribed from the book's own
+                                         index of first lines (SSB03/Index.pdf), since Hymnary's
+                                         table lists the hymns alphabetically
+  ssb70_originals.csv                    what each SSB70 hymn is (researched, laid out like
+                                         tlhy_originals.csv): a Danish or Norwegian hymn, by its
+                                         own first line, or a translation, by its original's
+  ssb03_originals.csv                    the same for SSB03, whose hymns kept from 1870 give their
+                                         SSB70 number (same_as)
   link_decisions.csv                     human decisions on links: 'match' or 'no match'
   same_hymn_decisions.csv                which master-index rows are one hymn ('same hymn': write_back.py
                                          merges them), which only share numbers ('different hymns'), and
@@ -94,6 +106,8 @@ Schema
                 ('alternate' marks a cross-reference entry)
   tl_originals  tl_originals.csv, laid out like tlhy_originals
   tl_status     view: each TL hymn with the master-index rows it was matched to
+  ssb70_originals, ssb03_originals  ssb70_originals.csv and ssb03_originals.csv, laid out
+                like tlhy_originals
   elgbs_lpc_hymns  elgbs_lpc_hymns.csv: ELGBS's Hausgesangbüchlein and LPC's translation,
                 numbered alike (the master index has an LPC# column; ELGBS gives the
                 German first lines)
@@ -102,7 +116,8 @@ Schema
                 'WS00', 'ACS', ...): number ('718a' keeps its letter), first line as
                 Hymnary gives it, the English first line taken from it, the first line in
                 another language where Hymnary gives both, tune ('alternate' marks another
-                first line the book's own index gives a part of a hymn)
+                first line the book's own index gives a part of a hymn); SSB70's and
+                SSB03's first lines are Danish-Norwegian, taken as they are
   hymnary_status  view: each of those hymns with the master-index rows it was matched to
   tlh_hymns     TLH (1941) from tlh_1941.csv: title, first line, author, translator,
                 original first line (ASCII, umlauts as ae/oe/ue), tune; and the titles
@@ -193,6 +208,17 @@ HYMNARY_CSVS["LH"] = HERE / "lh_index.csv"
 # Then the CW Psalter (CW'21's companion: psalm settings 1A, 1B, ...), added with --add.
 HYMNARY_CSVS.update({code: HERE / code / f"{code}_index.csv" for code in (
     "ELH", "CW93", "CWS", "CW21", "LBW", "WOV", "CWP")})
+# The Norwegian Synod's Danish-Norwegian hymnals: the Psalmebog of 1870 (Hymnary.org's
+# table) and its revision, the Salmebog of 1903, whose numbers come from the book's own
+# index of first lines (SSB03/Index.pdf), since Hymnary's table lists them alphabetically.
+# Their hymns are placed by what each is (ssb70_originals.csv, ssb03_originals.csv:
+# researched, like tlhy_originals.csv), on every row of that hymn (link_by_original).
+HYMNARY_CSVS["SSB70"] = HERE / "SSB70" / "SSB70_index.csv"
+HYMNARY_CSVS["SSB03"] = HERE / "ssb03_index.csv"
+SSB_ORIGINALS_CSVS = {"SSB70": HERE / "ssb70_originals.csv", "SSB03": HERE / "ssb03_originals.csv"}
+# Hymnary.org hymnals in a language other than English: their first lines are no English
+# titles (write_back.py leaves them out of the Alternative English Titles).
+FOREIGN_HYMNALS = ("SSB70", "SSB03")
 LINK_DECISIONS_CSV = HERE / "link_decisions.csv"  # human decisions on review items
 SAME_HYMN_CSV = HERE / "same_hymn_decisions.csv"  # which master-index rows are one hymn
 MASTER_CORRECTIONS_CSV = HERE / "master_corrections.csv"  # wrong numbers and titles in the master index
@@ -239,6 +265,9 @@ HYMNALS = {
     "LH#": ("LH", "Liber Hymnorum: The Latin Hymns of the Lutheran Church", 2016),
     # musicanet.org's index of the Wisconsin Synod's German hymnal (extract_wels12.py)
     "WELS'12#": ("WELS12", "Evangelisch-Lutherisches Gesangbuch für Kirche, Schule und Haus", 1912),
+    # the Norwegian Synod's hymnals (Hymnary.org's table; the 1903 book's own index)
+    "SSB'70#": ("SSB70", "Psalmebog, udgiven af Synoden for den norske evangelisk-lutherske Kirke i Amerika", 1870),
+    "SSB'03#": ("SSB03", "Salmebog udgiven af Synoden for den norsk-evang. luth. kirke i Amerika (rev. ed.)", 1903),
 }
 
 # KELG 'Sheet 1' layout: each hymnal is a (number, title, verses) column triple.
@@ -255,8 +284,9 @@ LINKED_HYMNALS = ("KELG", "ELHB", "TLHy", "TL", "LPC", *HYMNARY_CSVS)
 # Hymnals that number separate items 157a and 157b: their links keep the letter.
 # (CSB, ELHal, HS91, SBH and ELH print a text set to two tunes twice, as 20a and 20b;
 # WELS12 prints two hymns as 292a and 292b; WOV numbers parts of the liturgy 611a,
-# 611b; CWP numbers a psalm's settings 1A, 1B, ...)
-LETTERED_HYMNALS = ("TL", "WS69", "CSB", "ELHal", "HS91", "SBH", "WELS12", "ELH", "WOV", "CWP")
+# 611b; CWP numbers a psalm's settings 1A, 1B, ...; SSB03 numbers hymns new in 1903
+# 3b, 16b, ... after the 1870 numbers they follow)
+LETTERED_HYMNALS = ("TL", "WS69", "CSB", "ELHal", "HS91", "SBH", "WELS12", "ELH", "WOV", "CWP", "SSB03")
 # Psalters, numbered by psalm (CWP's 96A is a setting of Psalm 96). A setting that
 # matches no row gets one with the other settings of its psalm that open alike and
 # have its tune or, like it, a refrain (write_back.py), since psalms open alike
@@ -385,6 +415,19 @@ HYMNARY_FIXES = {
     ("TCSSH", "48"): ('Heaven and earth, and air', 'Heaven and earth, and sea, and air'),
     ("TCH", "17"): ('Praise ye the Father', 'Praise ye the Father for His loving kindness'),  # its index cuts it short
     ("WOV", "713"): ('Lord, let my heart by good soil', 'Lord, let my heart be good soil'),
+    # SSB70's, against the 1903 book's index (SSB03/Index.pdf), which keeps these lines
+    ("SSB70", "40"): ('Gud Helligaand,! i Tro os lær', 'Gud Helligaand, i Tro os lær'),
+    ("SSB70", "163"): ('Herre, tal, din tTener hører', 'Herre, tal, din Tjener hører'),
+    ("SSB70", "206"): ('Her ser jeg ne da et Lam at gaa', 'Her ser jeg nu da et Lam at gaa'),
+    ("SSB70", "304"): ('Skal Kjærlighed sin Pøeve staa', 'Skal Kjærlighed sin Prøve staa'),
+    ("SSB70", "312"): ('Min største Hjertens Gæde', 'Min største Hjertens Glæde'),
+    ("SSB70", "334"): ('Nu Jesus till sin Pine gaar', 'Nu Jesus til sin Pine gaar'),
+    ("SSB70", "350"): ('OpAlle, som paa Jorden bor', 'Op Alle, som paa Jorden bor'),
+    ("SSB70", "421"): ('Hører till I høie Himle', 'Hører til, I høie Himle'),
+    ("SSB70", "424"): ('Mørket skjuler Korderige', 'Mørket skjuler Jorderige'),
+    ("SSB70", "426"): ('Ingen Høiihed, ingen Ære', 'Ingen Høihed, ingen Ære'),
+    ("SSB70", "445"): ('Gud har fra Evighed givet sin os til Herre', 'Gud har fra Evighed givet sin Søn os til Herre'),
+    ("SSB70", "461"): ('Jeg længes i Jorden i en Ble', 'Jeg lægges i Jorden i en Ble'),
 }
 
 # Master-index column holding each row's German title(s): KELG's, or for a hymn of
@@ -544,6 +587,31 @@ CREATE TABLE tl_index (              -- Te Laudamus (2024), index of hymn titles
 CREATE TABLE tl_originals (          -- tl_originals.csv, laid out like tlhy_originals
     number         INT PRIMARY KEY,   -- TL number ('157a' as text; an INTEGER PRIMARY KEY
                                       -- would take only whole numbers)
+    language       TEXT,
+    original_title TEXT,
+    author         TEXT,
+    confidence     TEXT NOT NULL,
+    same_as        TEXT,
+    source         TEXT,
+    note           TEXT
+);
+
+CREATE TABLE ssb70_originals (       -- ssb70_originals.csv, laid out like tlhy_originals: what
+                                     -- an SSB70 hymn is, a Danish or Norwegian hymn (its own
+                                     -- first line) or a translation (its original's)
+    number         INT PRIMARY KEY,
+    language       TEXT,
+    original_title TEXT,
+    author         TEXT,
+    confidence     TEXT NOT NULL,
+    same_as        TEXT,
+    source         TEXT,
+    note           TEXT
+);
+
+CREATE TABLE ssb03_originals (       -- ssb03_originals.csv, laid out alike; a hymn the 1903
+                                     -- book kept from 1870 gives its SSB70 number (same_as)
+    number         INT PRIMARY KEY,   -- '3b' keeps its letter
     language       TEXT,
     original_title TEXT,
     author         TEXT,
@@ -1064,6 +1132,14 @@ def load_tl_originals(con):
         con.execute("INSERT INTO tl_originals VALUES (?,?,?,?,?,?,?,?)",
                     (parse_number(r["number"]), r["language"], r["original_title"], r["original_author"],
                      r["confidence"], r["same_as"], r["source"], r["note"]))
+
+
+def load_ssb_originals(con):
+    for code, path in SSB_ORIGINALS_CSVS.items():
+        for r in read_csv(path):
+            con.execute(f"INSERT INTO {code.lower()}_originals VALUES (?,?,?,?,?,?,?,?)",
+                        (parse_number(r["number"]), r["language"], r["original_title"], r["original_author"],
+                         r["confidence"], r["same_as"], r["source"], r["note"]))
 
 
 def load_elgbs_lpc(con):
@@ -1622,7 +1698,7 @@ def original_matches(key, keys, min_words):
     return []
 
 
-def link_by_original(con, add_link, code, table):
+def link_by_original(con, add_link, code, table, every_source=False, own_languages=()):
     """Line up a hymnal's translations by their originals (`table`: tlhy_originals
     for TLHy, tl_originals for TL).
 
@@ -1637,6 +1713,11 @@ def link_by_original(con, add_link, code, table):
     otherwise 'review'. A near-match link to the same row is confirmed. Hymns
     whose own title already found their rows are left alone: other
     translations of the same original usually have rows of their own.
+
+    `every_source` (SSB70, SSB03): a hymn in another language than English goes,
+    like a KELG hymn, on every row of the hymn it is, i.e. those of all the
+    sources above and the rows whose KELG/ELGBS German Title it is. In
+    `own_languages` (Danish, Norwegian) a hymn's 'original' is the hymn itself.
     """
     hymn_titles = dict(con.execute("SELECT id, title FROM hymns"))
     kelg_rows, tlh_rows = defaultdict(set), defaultdict(set)
@@ -1655,6 +1736,10 @@ def link_by_original(con, add_link, code, table):
         ("Original Title", originals, {h: {h} for h in originals}, 3,
          lambda hits: "the Original Title of " + ", ".join(f"'{hymn_titles[h]}'" for h in sorted(hits))),
     )
+    if every_source:
+        german = dict(con.execute("SELECT id, german_title FROM hymns WHERE german_title IS NOT NULL"))
+        sources += (("German Title", german, {h: {h} for h in german}, 3,
+                     lambda hits: "the German Title of " + ", ".join(f"'{hymn_titles[h]}'" for h in sorted(hits))),)
     keys = {where: {n: original_key(t) for n, t in titles.items()} for where, titles, _, _, _ in sources}
     by_number = defaultdict(set)
     for hymn_id, other, n in con.execute("SELECT hymn_id, hymnal_code, number FROM hymn_numbers WHERE is_page = 0"):
@@ -1684,20 +1769,23 @@ def link_by_original(con, add_link, code, table):
 
     matched = {n for (n,) in con.execute(
         "SELECT number FROM links WHERE hymnal_code = ? AND status = 'ok'", (code,))}
-    for number, title, author, confidence, same_as in con.execute(
-        f"SELECT number, original_title, author, confidence, same_as FROM {table} "
+    for number, title, language, author, confidence, same_as in con.execute(
+        f"SELECT number, original_title, language, author, confidence, same_as FROM {table} "
         "WHERE original_title IS NOT NULL OR same_as IS NOT NULL"
     ).fetchall():
         if number in matched:
             continue  # its own title already found its rows
-        status = "ok" if confidence in TRUSTED else "review"
-        translates = f"translates '{title}'" + (f" ({author})" if author else "")
+        trusted = confidence in TRUSTED
+        translates = ((f"is '{title}'" if language in own_languages else f"translates '{title}'")
+                      + (f" ({author})" if author else "")) if title else ""
         if same_as:
             other, n = same_as.split()
             rows = by_number[other, parse_number(n)]
             if not rows:
                 raise SystemExit(f"{table}: {code} {number} same_as {same_as}, but no row has {same_as}")
-            link(number, rows, "same translation", status, f"{translates}; the same translation as {same_as}")
+            same = f"the same {'text' if every_source else 'translation'} as {same_as}"
+            link(number, rows, "same translation", "ok" if trusted else "review",
+                 f"{translates}; {same}" if translates else same)
             continue
         key = original_key(title)
         for where, titles, rows_of, min_words, describe in sources:
@@ -1705,14 +1793,16 @@ def link_by_original(con, add_link, code, table):
             if not hits:
                 continue
             rows = set().union(*(rows_of[n] for n in hits))
+            status = "ok" if trusted else "review"
             detail = f"{translates}, {describe(hits)}"
-            if confidence not in TRUSTED:
+            if not trusted:
                 detail += "; original not confirmed"
-            elif where != "Original Title" and not all(rows_of[n] == rows for n in hits):
+            elif where in ("KELG", "TLH") and not all(rows_of[n] == rows for n in hits):
                 status = "review"
                 detail += "; different hymns share that first line"
             link(number, rows, f"original in {where}", status, detail)
-            break
+            if not every_source:
+                break
 
 
 def report_unmatched_tlhy(con, review):
@@ -2351,6 +2441,7 @@ def build():
     load_tlhy_originals(con)
     load_tl(con)
     load_tl_originals(con)
+    load_ssb_originals(con)
     load_elgbs_lpc(con)
     load_hymnary(con)
     load_kelg_english(con)
@@ -2411,6 +2502,10 @@ def build():
     link_hymnary(con, add_link, decisions)
     if "LH" in hymnary_codes(con):
         link_by_original(con, add_link, "LH", "lh_originals")
+    for code in SSB_ORIGINALS_CSVS:
+        if code in hymnary_codes(con):
+            link_by_original(con, add_link, code, f"{code.lower()}_originals",
+                             every_source=True, own_languages=("Danish", "Norwegian"))
     flag_master_conflicts(con)
     apply_link_decisions(con, decisions)
     report_unmatched_tlhy(con, review)
