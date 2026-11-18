@@ -4,13 +4,15 @@
 Usage: python3 extract_hymnary.py [CODE ...]   (default: every folder in HYMNARY_FOLDERS
                                                 and TITLE_FOLDERS)
 
-Each folder (ACS/, AH/, ... TCH/) holds Hymnary.org's table of a hymnal's hymns,
-saved a page at a time as <CODE>1.html, <CODE>2.html, ... (or <CODE>-1.html, ...) The table gives each
+Each folder (ACS/, AH/, ... TCH/, then ELH/, ... CWP/) holds Hymnary.org's table of a
+hymnal's hymns, saved a page at a time as <CODE>1.html, <CODE>2.html, ... (or
+<CODE>-1.html, ...; a table on one page as <CODE>.html) The table gives each
 hymn's number, first line and tune; the CSV, <CODE>/<CODE>_index.csv, keeps them
 as printed there, in the book's order:
 
   number      as Hymnary gives it: '20', '20a' (a text printed twice, with two
-              tunes: 20a and 20b), 'D1' (a doxology in the book's own doxology
+              tunes: 20a and 20b), '1A' (the CW Psalter's settings of a psalm:
+              1A, 1B, ...), 'D1' (a doxology in the book's own doxology
               section), 'd1' (Hymnary's placeholder when it lacks the book's
               numbers: The Concordia Hymnal)
   first_line  Hymnary's first line: a hymn in another language followed by its
@@ -34,17 +36,18 @@ from lxml import html
 HERE = Path(__file__).resolve().parent
 # Hymnary.org's page folders, in the order they were added to the master index.
 HYMNARY_FOLDERS = ("ACS", "AH", "ALH", "CSB", "ELHal", "ELW", "HCH", "HS91", "SBH", "THOS",
-                   "TBW07", "TBW67", "CHPPPW", "CHL", "TCSSH", "TCH")
+                   "TBW07", "TBW67", "CHPPPW", "CHL", "TCSSH", "TCH",
+                   "ELH", "CW93", "CWS", "CW21", "LBW", "WOV", "CWP")
 # Hymnals whose Hymnary.org tables give titles only: the master index already has
 # their numbers (TLH, LW, HS'98), so build_db.py takes each hymn's first line as its
 # title in that book and links nothing by them.
 TITLE_FOLDERS = ("TLH", "LW", "HS98")
-NUMBER = re.compile(r"[A-Za-z]?\d+[a-z]?")
+NUMBER = re.compile(r"[A-Za-z]?\d+[A-Za-z]?")
 SKIP = {("ELW", "p.1"), ("ELW", "1")}  # ELW's 'Front matter' and 'Psalms' (its psalter)
 
 
 def page_number(path, code):
-    return int(path.stem[len(code):].lstrip("-"))  # 'TLH1' or 'HS98-1'
+    return int(path.stem[len(code):].lstrip("-") or 1)  # 'TLH1', 'HS98-1', or 'CWS' (one page)
 
 
 def read_folder(code):

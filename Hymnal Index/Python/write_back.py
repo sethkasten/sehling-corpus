@@ -106,10 +106,10 @@ import build_db
 from build_db import (ALT_CORRECTION, ALT_TITLE_HEADER, ALT_TITLE_RE, DB_PATH, ELHB_TITLE_FIXES,
                       GERMAN_CORRECTION, GERMAN_TITLE_HEADER, HYMNALS, HYMNARY_CSVS, KELG_SHEET,
                       KELG_WH_TITLE_COLUMN, KELG_WH_TITLE_HEADER, KELG_XLSX, LCMS_XLSX, LETTERED_HYMNALS,
-                      LINKED_HYMNALS, MASTER_CORRECTIONS_CSV, SAME_HYMN_CSV, TEXT_COLUMNS, TITLE_CORRECTION,
-                      TRUSTED, hymnary_titles, is_prefix, link_number, match_key, number_order, parse_cell,
-                      parse_number, read_csv, read_same_hymn_decisions, same_hymn_groups, title_rows, titled_rows,
-                      tl_titles)
+                      LINKED_HYMNALS, MASTER_CORRECTIONS_CSV, PSALTER_HYMNALS, SAME_HYMN_CSV, TEXT_COLUMNS,
+                      TITLE_CORRECTION, TRUSTED, hymnary_titles, is_prefix, link_number, match_key, number_order,
+                      parse_cell, parse_number, read_csv, read_same_hymn_decisions, same_hymn_groups, title_rows,
+                      titled_rows, tl_titles)
 
 NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 N = f"{{{NS}}}"
@@ -131,12 +131,12 @@ ALT_WIDTH = 34  # the 'Alternative English Title N' columns
 # with each hymnal from Hymnary.org beside its church's: AH after the Norwegian
 # synods' TLHy and ELH; WELS'12, the Wisconsin Synod's German hymnal, right after
 # ELH, so that it stands before its synod's CW'21, CWS and CW'93 (which follow ELH
-# in the sheet); LH after TL, which draws on it; the hymnals of the bodies
-# that became the ALC and LCA (and so the ELCA), oldest first, before the ELCA's
-# own LBW; ELW and ACS after.
+# in the sheet); CWP, CW'21's psalter, right after CW'21; LH after TL, which draws
+# on it; the hymnals of the bodies that became the ALC and LCA (and so the ELCA),
+# oldest first, before the ELCA's own LBW; ELW and ACS after.
 HYMNAL_ORDER = ("KELG#", "LPC#", "ELHB#", "TLH#", "WS'69#", "LW#", "HS'98#", "LSB#", "TLHy#", "TCH#", "ELH#",
-                "WELS'12#", "AH#", "CW'21#", "CWS#", "CW'93#", "WS'00#", "TL#", "LH#", "ELHal#", "ALH#", "THOS#",
-                "HCH#", "CHL#", "CHPPPW#", "TBW'67#", "TCSSH#", "TBW'07#", "CSB#", "SBH#", "LBW#", "HS'91#",
+                "WELS'12#", "AH#", "CW'21#", "CWP#", "CWS#", "CW'93#", "WS'00#", "TL#", "LH#", "ELHal#", "ALH#",
+                "THOS#", "HCH#", "CHL#", "CHPPPW#", "TBW'67#", "TCSSH#", "TBW'07#", "CSB#", "SBH#", "LBW#", "HS'91#",
                 "WOV#", "ELW#", "ACS#")
 # Hymnal columns added whenever the master index lacks them. (A Hymnary.org
 # hymnal's column comes with --add CODE.)
@@ -499,15 +499,41 @@ def plan(con, layout, merge_kelg=()):
             new_rows.append(row)
     # The hymns of the Hymnary.org hymnals the master index has a column for
     # (WS69, WS00, ACS, ...), titled with their English first lines; a hymnal's
-    # numbers sharing one share a row (WS69's parts of a hymn, '718a, 718b').
+    # numbers sharing one share a row (WS69's parts of a hymn, '718a, 718b'). In a
+    # psalter only settings of one psalm do, and only when they have one tune or
+    # are all chanted to refrains (tunes Hymnary knows by their first lines,
+    # '[Let the heavens rejoice]'): psalms open alike, and so do a psalm and a
+    # metrical version of it. A row's title then says which: 'Sing to the LORD a
+    # new song (Psalm 96)', 'God is our refuge and strength (EIN FESTE BURG)'.
     for code in HYMNARY_CSVS:
         if code not in COL:
             continue
-        unplaced = {}  # match_key -> (title, numbers)
-        for n, titles in sorted(hymnary_titles(con, code).items(), key=lambda kv: number_order(kv[0])):
+        hymns = sorted(hymnary_titles(con, code).items(), key=lambda kv: number_order(kv[0]))
+        psalter = code in PSALTER_HYMNALS
+        tunes = dict(con.execute(
+            "SELECT number, tune FROM hymnary_index WHERE hymnal = ? AND alternate = 0", (code,)))
+
+        def setting(n):
+            """A psalter's setting's psalm and tune ('' for a refrain)."""
+            if not psalter:
+                return None, None
+            tune = tunes[n] or ""
+            return number_order(n)[0], "" if tune.startswith("[") else tune
+
+        psalms, kinds = defaultdict(set), defaultdict(set)  # first line -> psalms; (psalm, first line) -> tunes
+        for n, titles in hymns:
+            psalm, tune = setting(n)
+            psalms[match_key(titles[0])].add(psalm)
+            kinds[psalm, match_key(titles[0])].add(tune)
+        unplaced = {}  # (psalm, tune, match_key) -> (title, numbers)
+        for n, titles in hymns:
             if n not in linked[code]:
-                unplaced.setdefault(match_key(titles[0]), (titles[0], []))[1].append(n)
-        for title, numbers in unplaced.values():
+                unplaced.setdefault((*setting(n), match_key(titles[0])), (titles[0], []))[1].append(n)
+        for (psalm, tune, key), (title, numbers) in unplaced.items():
+            which = [f"Psalm {psalm}"] if len(psalms[key]) > 1 else []
+            which += [tune] if tune and len(kinds[psalm, key]) > 1 else []
+            if which:
+                title = f"{title} ({', '.join(which)})"
             new_rows.append(new_row(title, code, numbers, lh_originals if code == "LH" else {}))
 
     # English translations of KELG hymns WH lacks, on their rows.

@@ -29,7 +29,9 @@ Sources
                                          Supplement 2000: number, first line, tune (Hymnary.org's
                                          tables WS69.html and WS2000.html, made by extract_ws.py)
   <CODE>/<CODE>_index.csv                the hymnals saved from Hymnary.org a page at a time
-                                         (ACS/, AH/, ... TCSSH/): number, first line, tune (made by
+                                         (ACS/, AH/, ... TCSSH/; ELH/, CW93/, CWS/, CW21/, LBW/ and
+                                         WOV/, whose columns the master index had from the start;
+                                         CWP/, CW'21's psalter): number, first line, tune (made by
                                          extract_hymnary.py); one is linked once its column is in
                                          the master index (write_back.py --add CODE puts it there)
   tch_index.csv                          The Concordia Hymnal's own index of first lines (the
@@ -185,6 +187,12 @@ HYMNARY_CSVS["TCH"] = HERE / "tch_index.csv"
 # Liber Hymnorum's English first lines and their Latin originals, from LH4A-C.pdf; its
 # hymns are matched by both, and by the Latin through link_by_original (lh_originals).
 HYMNARY_CSVS["LH"] = HERE / "lh_index.csv"
+# Hymnals the master index had columns for from the start, whose Hymnary.org tables
+# came later: their numbers were there already, and the tables fill in the hymns it
+# lacked (LBW's canticles, most of WOV) and give each number its title in the book.
+# Then the CW Psalter (CW'21's companion: psalm settings 1A, 1B, ...), added with --add.
+HYMNARY_CSVS.update({code: HERE / code / f"{code}_index.csv" for code in (
+    "ELH", "CW93", "CWS", "CW21", "LBW", "WOV", "CWP")})
 LINK_DECISIONS_CSV = HERE / "link_decisions.csv"  # human decisions on review items
 SAME_HYMN_CSV = HERE / "same_hymn_decisions.csv"  # which master-index rows are one hymn
 MASTER_CORRECTIONS_CSV = HERE / "master_corrections.csv"  # wrong numbers and titles in the master index
@@ -206,6 +214,7 @@ HYMNALS = {
     "HS'98#": ("HS98", "Hymnal Supplement 98", 1998),
     "ELH#": ("ELH", "Evangelical Lutheran Hymnary", 1996),
     "CW'21#": ("CW21", "Christian Worship: Hymnal", 2021),
+    "CWP#": ("CWP", "Christian Worship: Psalter", 2021),
     "CWS#": ("CWS", "Christian Worship: Supplement", 2008),
     "CW'93#": ("CW93", "Christian Worship: A Lutheran Hymnal", 1993),
     "LBW#": ("LBW", "Lutheran Book of Worship", 1978),
@@ -244,9 +253,16 @@ KELG_MATCH_HYMNALS = ("TLH", "LW", "ELH", "LSB")
 # Hymnals this script links to master-index rows (the rest are the master's own).
 LINKED_HYMNALS = ("KELG", "ELHB", "TLHy", "TL", "LPC", *HYMNARY_CSVS)
 # Hymnals that number separate items 157a and 157b: their links keep the letter.
-# (CSB, ELHal, HS91 and SBH print a text set to two tunes twice, as 20a and 20b;
-# WELS12 prints two hymns as 292a and 292b.)
-LETTERED_HYMNALS = ("TL", "WS69", "CSB", "ELHal", "HS91", "SBH", "WELS12")
+# (CSB, ELHal, HS91, SBH and ELH print a text set to two tunes twice, as 20a and 20b;
+# WELS12 prints two hymns as 292a and 292b; WOV numbers parts of the liturgy 611a,
+# 611b; CWP numbers a psalm's settings 1A, 1B, ...)
+LETTERED_HYMNALS = ("TL", "WS69", "CSB", "ELHal", "HS91", "SBH", "WELS12", "ELH", "WOV", "CWP")
+# Psalters, numbered by psalm (CWP's 96A is a setting of Psalm 96). A setting that
+# matches no row gets one with the other settings of its psalm that open alike and
+# have its tune or, like it, a refrain (write_back.py), since psalms open alike
+# (Psalms 96 and 98 both 'Sing to the LORD a new song') and so do a psalm and a
+# metrical version of it.
+PSALTER_HYMNALS = ("CWP",)
 
 # Numbers the ELHB index gets wrong: number -> title. Checked against the ELHB
 # itself (1927 printing, https://archive.org/details/evangelicalluthe0000vari_b7v6:
@@ -368,6 +384,7 @@ HYMNARY_FIXES = {
     ("TCSSH", "88"): ("Hail the Lord's Anointed", "Hail to the Lord's Anointed"),
     ("TCSSH", "48"): ('Heaven and earth, and air', 'Heaven and earth, and sea, and air'),
     ("TCH", "17"): ('Praise ye the Father', 'Praise ye the Father for His loving kindness'),  # its index cuts it short
+    ("WOV", "713"): ('Lord, let my heart by good soil', 'Lord, let my heart be good soil'),
 }
 
 # Master-index column holding each row's German title(s): KELG's, or for a hymn of
@@ -665,7 +682,7 @@ CREATE TABLE links (
 );
 """
 
-NUMBER_RE = re.compile(r"^(\d+)([a-z]?)$")
+NUMBER_RE = re.compile(r"^(\d+)([a-zA-Z]?)$")
 
 
 def parse_cell(raw):
@@ -1879,7 +1896,7 @@ def contradicts(have, want):
     """Two sets of numbers for one hymnal disagree. Numbers next to each other
     (LW 297/298 'A Mighty Fortress') are usually two settings of one hymn and
     don't count."""
-    return not any(abs(a - b) <= 1 for a in have for b in want)
+    return not any(abs(number_order(a)[0] - number_order(b)[0]) <= 1 for a in have for b in want)
 
 
 def fmt_nums(nums):
