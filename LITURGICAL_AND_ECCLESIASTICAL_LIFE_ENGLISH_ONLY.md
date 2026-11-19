@@ -1709,14 +1709,14 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 4,794 prescriptions from 57 witnesses, in two layers that must be kept apart:
+The database holds 4,879 prescriptions from 58 witnesses, in two layers that must be kept apart:
 - **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 3,967 prescriptions come from other books and lists:
+- **The hymnals and compilations.** 4,052 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1725,7 +1725,8 @@ The database holds 4,794 prescriptions from 57 witnesses, in two layers that mus
     Annaberg 1579, Franz Eler's *Cantica sacra* (Hamburg, 1588) and Magdeburg 1632;
   - a modern Hymn of the Day table, which collates the schemes of Selnecker, Carpzov and others
     with those of modern hymnals;
-  - Krusemark's *Hymns ABC* (2018), of which only the hymns of the day are taken.
+  - Krusemark's *Hymns ABC* (2018), of which only the hymns of the day are taken;
+  - the table of chief hymns of *Te Laudamus* (2024), which names each hymn by its number.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
 
@@ -27370,7 +27371,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 57 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
+Of the 58 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -27380,14 +27381,15 @@ Of the 57 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 | Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
 | Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
-The other 21 witnesses are modern and are **not counted**. Krusemark explains his own lists on
+The other 22 witnesses are modern and are **not counted**. Krusemark explains his own lists on
 pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern witnesses are:
 
 - Krusemark's own series: Years A, B and C, and, on the days the three-year series does not
   cover, a list for every year or one each for even and odd years;
 - the lists of Stuckwisch, Reuning, Gehrke, Eckardt, Judisch, Zion (Detroit) and Redeemer;
 - the LCMS Synod selections of 2016–17 and the LSB Hymnal Committee;
-- *Lutheran Worship* (1982), *Lutheran Service Book* (2006) and the SELK hymnal;
+- *Lutheran Worship* (1982), *Lutheran Service Book* (2006), *Te Laudamus* (2024) and the SELK
+  hymnal;
 - the Mecklenburg hymnal of 1855;
 - two private schemes (MC, SD).
 

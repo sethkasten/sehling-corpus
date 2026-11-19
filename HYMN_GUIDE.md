@@ -34,6 +34,7 @@ py hymn_tables/build_hymn_db.py
 py hymn_tables/merge_sources.py
 py hymn_tables/merge_krusemark.py
 py hymn_tables/merge_thompson.py
+py hymn_tables/merge_te_laudamus.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -75,14 +76,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **4,794 prescriptions** from **57 witnesses**, in two
+The database holds **4,879 prescriptions** from **58 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 3,967 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 4,052 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -177,6 +178,7 @@ The hymnals and compilations below are Lutheran too.
 | Hymn of the Day conflation table | 371 | 12 | Modern table collating Carpzov, Gehrke, SELK, Selnecker, Zion, LW, LSB and others |
 | Ludecus, *Ordo cantionum Germanicarum* (1589) | 311 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
+| *Te Laudamus* (2024), its table of chief hymns | 85 | 1 | The chief hymn of each Sunday and feast, by its number in the hymnal |
 
 #### Krusemark, and why only part of it is here
 
@@ -336,6 +338,49 @@ and the sequence, and then *Christ fuhr gen Himmel*. `parse_sunday.py` now
 takes only the last hymn of each Pirna day, and 38 introit hymns have left
 the table.
 
+#### Te Laudamus
+
+`hymn_tables/TL_Chief_Hymns.md` is the table of chief hymns of *Te Laudamus*
+(2024), one line to an occasion, each hymn named by its number in the
+hymnal: `Advent 1: 151`. A number can carry the letters of the parts or
+settings the hymnal prints (`159a/b`, `204a/b`); a slash joins two numbers
+of one hymn (`202/203a/b`: TL prints *O Mensch, bewein dein Sünde groß* as
+202 and 203), and `OR` gives a second hymn for the day (`Trinity 4: 274 OR
+275`). `merge_te_laudamus.py` loads the 85 chief hymns of its 84 occasions,
+with the source `Te Laudamus (2024) (via its chief-hymn table; TL 151)`.
+
+Each number is looked up in TL's index of hymn titles (`Hymnal Index/Hymnary
+Tables and PDFs/Te Laudamus/te_laudamus_index.csv`), which gives the row its
+`original_title` as TL prints it (*From Heaven High I Come to Earth*), and in
+the Lutheran Hymn Index, whose row names the hymn: the hymn of the lexicon
+matched to that row (`index_titles.INDEX`; of a Latin hymn and its German
+version on one row, the one the row's German or Latin title is, so TL 169,
+Luther's *Christum wir sollen loben schon*, is not *A solis ortus cardine*).
+56 rows are hymns of the lexicon. The other 29 are later hymns the lexicon
+does not hold (Gerhardt's *O Haupt voll Blut und Wunden*, Neumark's *Wer nur
+den lieben Gott lässt walten*, Rinkart's *Nun danket alle Gott*, the *Dies
+irae*, ...), and keep their English titles, as the other modern lists do.
+`common_english` is the title the index gives the row (`index_titles.title`).
+
+The occasions are those of the other modern lists (Krusemark's): `Christmas`,
+`Sunday after Christmas`, `Quinquagesima (Estomihi)`, `Easter 5
+(Rogate/Vocem jucunditatis)`; TL's *Epiphany 6 (Transfiguration)* is `Epiphany
+6`, the Sunday whose old gospel is the Transfiguration, and *Holy Saturday
+(Matins)* is `Holy Saturday`. An entry for two services keeps them together:
+`Christmas (Midnight & Dawn)`, `Easter Evening & Easter Monday`, `Pentecost
+Evening & Pentecost Monday`.
+
+`export_xlsx.py` identifies TL's rows by their numbers
+(`merge_te_laudamus.canonical`), since an English title can stand for two
+hymns: the modern lists' *If God Had Not Been on Our Side*, the index's
+title of Luther's *Wär Gott nicht mit uns diese Zeit*, is read through
+Liliencron's English column as Jonas's *Wo Gott der Herr nicht bei uns hält*.
+`bridge.py` has four more index titles that the modern lists give (*Of the
+Father's Love Begotten*, *O Mortal, Mourn Thy Grievous Sin*, *We Thank Thee,
+Jesus, Dearest Friend*, *O Lord, We Praise Thee*), so their rows and TL's are
+one hymn in the workbook. *Te Laudamus* is a modern witness and is not counted
+in Appendix 8.A (`MODERN` in `appendix_8a.py`).
+
 ## Schema
 
 ### `hymn_prescriptions` — the main table
@@ -478,7 +523,9 @@ hymnal and its English translation, and *Liber Hymnorum*), and its README
 explains the tables. Each hymn of this lexicon was matched to its row by
 the German or Latin original that the index records, and every match was
 checked by hand. The matches are listed in `hymn_tables/index_titles.py`
-(`INDEX`), which also makes the title: the row's master title (as a rule
+(`INDEX`), each by a hymnal number on the row (`LSB 656`), since a row's id
+in `hymnal.db` is its row number in the spreadsheet and changes as rows are
+added. `index_titles.py` also makes the title: the row's master title (as a rule
 *Lutheran Service Book*'s, else *The Lutheran Hymnal*'s, else the
 *Evangelical Lutheran Hymnary*'s), with the commas of the first hymnal
 title of the same words where the index leaves them out, in title case.
@@ -511,7 +558,8 @@ Don't backfill it with a translation; that's what `literal_english` is
 for.
 
 Every title has a row in `translation_candidates` whose `status` names
-its source: `hymnal_index (row N)`, the row of `hymnal.db`, followed by
+its source: `hymnal_index (LSB 656)`, a hymnal number on the hymn's row of
+`hymnal.db`, followed by
 `; matthew_carver_translation (…)` where the title is Carver's, or
 `matthew_carver_translation (Hymnoglypt)`. Seven hymns also keep the rival
 titles the lexicon once weighed, with `chosen = 0` and `status =
@@ -575,8 +623,9 @@ Sehling orders — two were page furniture the parser mistook for a title,
 one (`Herre gott`) is too short a fragment to identify. Everything else
 resolved.
 
-**`original_title` is not always German.** The Hymn of the Day table and
-Selnecker's account cite hymns by English title only; they give no German
+**`original_title` is not always German.** The Hymn of the Day table,
+Selnecker's account, Krusemark's lists and *Te Laudamus* cite hymns by
+English title only; they give no German
 incipit, so for those rows `original_title` holds the English title as
 printed and `literal_english` is `NULL`. Filter on
 `source LIKE '%Liliencron%' OR source LIKE 'Sehling%' OR source LIKE 'Ludecus%'

@@ -76,13 +76,13 @@ def source_string(m):
 
 def provenance(titles):
     """translation_candidates rows naming where each hymn's English title comes from: the row
-    of the Lutheran Hymn Index, and Matthew Carver's translation where the title is his (in
-    Walther's Hymnal or Liber Hymnorum, or on Hymnoglypt)"""
+    of the Lutheran Hymn Index, by a hymnal number on it ('LSB 656'), and Matthew Carver's
+    translation where the title is his (in Walther's Hymnal or Liber Hymnorum, or on Hymnoglypt)"""
     prov = []
     for k in sorted(titles):
         if k in index_titles.INDEX:
-            t, hid, cv = index_titles.english(k)
-            prov.append((k, 'common_english', t, 1, f'hymnal_index (row {hid})'
+            t, ref, cv = index_titles.english(k)
+            prov.append((k, 'common_english', t, 1, f'hymnal_index ({ref})'
                          + (f'; matthew_carver_translation ({cv})' if cv else '')))
         elif k in lexicon.CARVER:
             t, src = lexicon.CARVER[k]

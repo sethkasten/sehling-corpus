@@ -131,6 +131,12 @@ _EN_ALIAS_SRC = {
  'O Jesus Christ, all praise to Thee': 'Gelobet seist du, Jesu Christ',
  'Dear Christians, put away your fears': 'Ach, lieben Christen, seid getrost',
  'Benedictus': 'Gelobet sei der Herr, der Gott Israel',
+ # the titles of the Lutheran Hymn Index that the modern lists give these hymns, which Te
+ # Laudamus's chief hymns (named by their TL numbers) are too
+ "Of the Father's Love Begotten": 'Corde natus ex parentis',
+ 'O Mortal, Mourn Thy Grievous Sin': 'O Mensch, bewein dein Sünde groß',
+ 'We Thank Thee, Jesus, Dearest Friend': 'Wir danken dir, Herr Jesu Christ',
+ 'O Lord, We Praise Thee': 'Gott sei gelobet und gebenedeiet',
 }
 EN_ALIAS = {keyify(k): v for k, v in _EN_ALIAS_SRC.items()}
 

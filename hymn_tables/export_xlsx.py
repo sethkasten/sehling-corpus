@@ -6,6 +6,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
+import merge_te_laudamus
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -57,6 +58,8 @@ def load():
             'FROM hymn_prescriptions'):
         wit = src.split(' (via')[0]
         ident = canon.get((norm(orig), src))
+        if not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
+            ident = merge_te_laudamus.canonical(src)   # Te Laudamus names its hymns by number
         if not ident:
             key = (orig, com)
             if key not in cache:
@@ -148,6 +151,8 @@ def main():
         ('Grouped days exist: some sources give one entry for "Advent 3 & 4" or "Lent 1-3". These are separate rows from the single days.', BODY),
         ('The same hymn can appear under variant English titles ("Bless" vs "Praise thy Maker") and will not always group.', BODY),
         ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns.', BODY),
+        ('Te Laudamus (2024): the chief hymns of its table, one witness. Its rows give TL\'s own titles; a hymn is '
+         'identified by its TL number in the Lutheran Hymn Index.', BODY),
         ('Thompson: the chief hymns of four lists he transcribes in his dissertation (Antwerp 1567, Annaberg 1579, Eler 1588, '
          'Magdeburg 1632) are four witnesses. Krusemark\'s Thompson column, which tallies these lists with others, is not '
          'loaded, so they are not counted twice.', BODY),
