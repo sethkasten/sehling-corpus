@@ -4,15 +4,19 @@
 Usage: python3 extract_hymnary.py [CODE ...]   (default: every folder in HYMNARY_FOLDERS
                                                 and TITLE_FOLDERS)
 
-Each folder (ACS/, AH/, ... TCH/) holds Hymnary.org's table of a hymnal's hymns,
-saved a page at a time as <CODE>1.html, <CODE>2.html, ... (or <CODE>-1.html, ...) The table gives each
-hymn's number, first line and tune; the CSV, <CODE>/<CODE>_index.csv, keeps them
-as printed there, in the book's order:
+Each folder (ACS/, AH/, ... TCH/, then ELH/, ... CWP/, SSB70/, SSB03/) holds
+Hymnary.org's table of a hymnal's hymns, saved a page at a time as <CODE>1.html,
+<CODE>2.html, ... (or <CODE>-1.html, ...; a table on one page as <CODE>.html) The
+table gives each hymn's number, first line and tune; the CSV, <CODE>/<CODE>_index.csv
+(<CODE>_index_hymnary_alphabetical.csv for TCH and SSB03, which take their numbers
+from their own indexes: ALPHABETICAL), keeps them as printed there, in the book's
+order:
 
   number      as Hymnary gives it: '20', '20a' (a text printed twice, with two
-              tunes: 20a and 20b), 'D1' (a doxology in the book's own doxology
+              tunes: 20a and 20b), '1A' (the CW Psalter's settings of a psalm:
+              1A, 1B, ...), 'D1' (a doxology in the book's own doxology
               section), 'd1' (Hymnary's placeholder when it lacks the book's
-              numbers: The Concordia Hymnal)
+              numbers: The Concordia Hymnal, the Salmebog of 1903)
   first_line  Hymnary's first line: a hymn in another language followed by its
               English one in parentheses ('Stille Nacht, heilige Nacht! (Silent
               night, holy night)'), or the reverse; variant readings in brackets
@@ -34,17 +38,24 @@ from lxml import html
 HERE = Path(__file__).resolve().parent
 # Hymnary.org's page folders, in the order they were added to the master index.
 HYMNARY_FOLDERS = ("ACS", "AH", "ALH", "CSB", "ELHal", "ELW", "HCH", "HS91", "SBH", "THOS",
-                   "TBW07", "TBW67", "CHPPPW", "CHL", "TCSSH", "TCH")
+                   "TBW07", "TBW67", "CHPPPW", "CHL", "TCSSH", "TCH",
+                   "ELH", "CW93", "CWS", "CW21", "LBW", "WOV", "CWP", "SSB70", "SSB03")
+# Hymnals whose Hymnary.org table lacks the book's numbers, listing the hymns in
+# alphabetical order as d1, d2, ...: the numbers come from the book's own index
+# (tch_index.csv, ssb03_index.csv), and the table is kept beside it for checking, as
+# <CODE>_index_hymnary_alphabetical.csv (<CODE>_index.csv would be the same file as
+# the book's index on a case-insensitive disk).
+ALPHABETICAL = ("TCH", "SSB03")
 # Hymnals whose Hymnary.org tables give titles only: the master index already has
 # their numbers (TLH, LW, HS'98), so build_db.py takes each hymn's first line as its
 # title in that book and links nothing by them.
 TITLE_FOLDERS = ("TLH", "LW", "HS98")
-NUMBER = re.compile(r"[A-Za-z]?\d+[a-z]?")
+NUMBER = re.compile(r"[A-Za-z]?\d+[A-Za-z]?")
 SKIP = {("ELW", "p.1"), ("ELW", "1")}  # ELW's 'Front matter' and 'Psalms' (its psalter)
 
 
 def page_number(path, code):
-    return int(path.stem[len(code):].lstrip("-"))  # 'TLH1' or 'HS98-1'
+    return int(path.stem[len(code):].lstrip("-") or 1)  # 'TLH1', 'HS98-1', or 'CWS' (one page)
 
 
 def read_folder(code):
@@ -76,7 +87,8 @@ def main():
     codes = sys.argv[1:] or HYMNARY_FOLDERS + TITLE_FOLDERS
     for code in codes:
         rows = read_folder(code)
-        target = HERE / code / f"{code}_index.csv"
+        name = f"{code}_index_hymnary_alphabetical.csv" if code in ALPHABETICAL else f"{code}_index.csv"
+        target = HERE / code / name
         with open(target, "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
             w.writerow(["number", "first_line", "tune"])

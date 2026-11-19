@@ -17,12 +17,76 @@ lists give (Krusemark, p. 95). Ludecus is loaded in his own right, and of
 Thompson's transcriptions of the other lists (rows_thompson.json) four are
 loaded by merge_thompson.py and three are Sehling orders read from the corpus.
 Counting the column as well would count these lists twice.
+
+He gives each hymn by its English title and its number in a hymnal (LSB, TLH,
+WH, ELH, LW), which the source keeps: "Gehrke (via Krusemark, Hymns ABC (2018);
+TLH 383)". export_xlsx.py names his hymns by those numbers (identify, below),
+as it names Te Laudamus's: the number's row in the Lutheran Hymn Index, and the
+lexicon's hymn on that row (index_rows.hymn). A row the lexicon lacks is named
+by the index's title for it (index_title), as Te Laudamus's are, so that his
+lists join where they print different hymnals' wordings of one hymn; it cannot
+then be taken for a lexicon hymn of a like title ("O Lord, we welcome Thee",
+TLH 93, is "Ich freue mich in dir", not "Wie soll ich dich empfangen"). The title decides where the number cannot: a row
+without one, or with a page of the liturgy (LSB 198), and his two misprinted
+numbers, whose rows do not bear his titles (LSB 566 for 556, "Dear Christians,
+One and All, Rejoice"; LSB 906 for 942, "Kyrie! God, Father").
+
+His lists of the old usage (HISTORICAL) give a German hymn by the number of a
+modern hymnal. Where that number is a translation of the Latin hymn, the hymn
+is its German version, which Liliencron's English column gives the same title:
+the c. 1700 plan's "Come, Holy Ghost, Creator blest" (LSB 498/9) is Luther's
+"Komm, Gott Schöpfer, Heiliger Geist", which the Leipzig hymnals of 1605, 1627
+and 1694 give for Pentecost, and Carpzov's "O Christ, who art the Light and
+Day" (LSB 882) is "Christe, der du bist Tag und Licht", which they give for
+Invocavit.
 """
 import re, os, json, sqlite3, collections, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
+import bridge, index_rows, index_titles, lexicon
+from resolve import resolve
+from merge_sources import provenance
 
 COMPILATION = 'Krusemark, Hymns ABC (2018)'
+
+# his lists of the old usage, which give each German hymn by the number of a modern hymnal
+HISTORICAL = {'Carpzov', 'Bach’s Leipzig usage', 'Stiller (Leipzig/Weissenfels/Dresden, via Stiller)',
+              'Liliencron de tempore plan (c. 1700, via Graff)'}
+# the hymnal number at the end of a source ("; LSB 498/9)" is read as LSB 498)
+REF = re.compile(r'; ([A-Z]+) (\d+)([a-z]?)(?:/\d+)?\)$')
+# the least agreement of a printed title with a title of its numbered row (index_rows.agreement):
+# his misprinted numbers agree 0.3 or so, every other number 0.69 or more
+AGREE = 0.5
+
+def identify(source, printed):
+    """(the lexicon's hymn or None, how) for one of his rows. how is None where the number
+    cannot decide and the printed title must; the hymn is None where the number's row is a hymn
+    the lexicon lacks, which index_title names"""
+    m = REF.search(source)
+    if not m: return None, None
+    rows = index_rows.rows(*m.groups())
+    if len(rows) != 1: return None, None
+    hid = rows.pop()
+    if index_rows.agreement(printed, hid) < AGREE: return None, None
+    canon, how = index_rows.hymn(hid)
+    if canon in lexicon.LATIN_EN and source.split(' (via')[0] in HISTORICAL:
+        german, *_ = bridge.identify(None, printed)
+        if german and german not in lexicon.LATIN_EN:
+            return german, how + '; the German version, in the old usage'
+    return canon, how
+
+def index_title(source):
+    """the index's title for the row of the number a source gives (export_xlsx.py names by it a
+    hymn the lexicon lacks), as index_titles.title gives it"""
+    code, number, suffix = REF.search(source).groups()
+    return index_titles.title(f'{index_rows.CODES.get(code, code)} {number}{suffix}')
+
+_CANON = {}
+def canonical(source, printed):
+    """identify, kept for each row of his: export_xlsx.py asks it for every one"""
+    if (source, printed) not in _CANON:
+        _CANON[(source, printed)] = identify(source, printed)
+    return _CANON[(source, printed)]
 
 FIXED = {
  'Advent 1, Ad Te Levavi':'Advent 1','Advent 2, Populus Zion':'Advent 2',
@@ -103,10 +167,25 @@ def main():
                      f"{wit} (via {COMPILATION}{'; ' + ref if ref else ''})"))
     c.executemany('INSERT INTO hymn_prescriptions (occasion,original_title,literal_english,'
                   'common_english,source) VALUES (?,?,?,?,?)', rows)
+    # the lexicon's hymns that his numbers name, for the lexicon table and its provenance
+    ids = [identify(r[4], r[1]) for r in rows]
+    have = {t for (t,) in c.execute('SELECT canonical_title FROM hymns')}
+    new = sorted({h for h, how in ids if h} - have)
+    for t in new:
+        canon, lit, com, _alt, ok = resolve(t)
+        assert ok and canon == t, t
+        c.execute('INSERT INTO hymns VALUES (?,?,?,?)',
+                  (t, lit, com, 'Latin' if t in lexicon.LATIN_EN else 'German'))
+    c.executemany('INSERT INTO translation_candidates VALUES (?,?,?,?,?)', provenance(new))
     db.commit()
+    by_number = [h for h, how in ids if how]
     print(f'Krusemark entries      : {len(raw)}')
     print(f'  marked Hymn of the Day: {len(hod)}')
     print(f'  inserted (deduped)    : {len(rows)}')
+    print(f'  named by number       : {len(by_number)} ({sum(1 for h in by_number if h)} hymns '
+          f'of the lexicon, {sum(1 for h in by_number if not h)} that it lacks)')
+    print(f'  named by title        : {len(rows) - len(by_number)}')
+    print(f'  hymns new to the db   : {len(new)}  {new}')
     print(f'  witnesses             : {len({r[4].split(" (via")[0] for r in rows})}')
     print(f'  occasions             : {len({r[0] for r in rows})}')
     print(f'  total rows now        : {c.execute("SELECT COUNT(*) FROM hymn_prescriptions").fetchone()[0]}')

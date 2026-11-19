@@ -8,7 +8,7 @@ number,language,original_title,original_author,confidence,same_as,source,note
 24,German,"Herr Gott, dich loben alle wir",Paul Eber,probable,,"TLHy.pdf credit line; Julian 1907, s.v. Dicimus grates tibi","TLHy credits ""Latin, by Philip Melanchthon, 1543; P. Eber, 1554"": Eber's free tr. of Melanchthon's ""Dicimus grates tibi, summe rerum"""
 30,German,Wer ist wohl wie du,Johann A. Freylinghausen,confirmed,,"Julian 1907, s.v. Freylinghausen, J. A.","Stallybrass's tr. of sts. i, ii, viii, xiv (Curwen's Sabbath H. Bk., 1859); same hymn as TLHy 467"
 33,German,"Licht vom Licht, erleuchte mich",Benjamin Schmolck,confirmed,,https://www.hymnary.org/hymn/CYBER/3795,
-37,Danish,,Thomas Kingo,partial,,TLHy.pdf credit line,"TLHy credits T. Kingo, 1699"
+37,Danish,"Søde Jesus, kom at røre",Thomas Kingo,probable,,"TLHy.pdf credit line; https://hymnary.org/text/dearest_jesus_draw_thou_near_me","TLHy credits T. Kingo, 1699; Hymnary gives Kingo's 'Søde Jesus, kom at røre' as the original (not in SSB70 or SSB03)"
 39,German,Nun bitten wir den Heiligen Geist,Martin Luther,probable,,TLHy.pdf credit line,"TLHy credits ""M. Luther, 1524; M. B. Landstad, 1861"": Landstad's Norwegian version (""Nu bede vi den Helligaand"") with the Kyrieleis refrain"
 43,Latin,Kyrie fons bonitatis,Anonymous,probable,,"TLHy.pdf credit line; Julian 1907, s.v. Kyrie! Gott Vater in Ewigkeit","TLHy credits ""Latin; M. B. Landstad, 1861"": the troped Kyrie (Father, Son, Holy Ghost; ""Have mercy on us, O Lord!"") to the tune of Thomissøn's Psalmebog, 1569; the German version is ""Kyrie, Gott Vater in Ewigkeit"""
 45,German,,Benjamin Schmolck,partial,,TLHy.pdf credit line,"TLHy credits B. Schmolck, 1712"
@@ -55,7 +55,7 @@ number,language,original_title,original_author,confidence,same_as,source,note
 154,Latin,"Jesu, dulcis memoria",Attributed to Bernard of Clairvaux,confirmed,,"Julian 1907, s.v. Jesu dulcis memoria","Neale, H. Noted, 1852"
 155,Danish,"O Jesu, søde Jesu, dig",Thomas Kingo,confirmed,,TLH 1941 notes for TLH 309: https://www.projectwittenberg.org/etext/hymnals/tlh/tlh309.txt,Same text as TLH 309
 156,German,Gott sei gelobet und gebenedeiet,Martin Luther,confirmed,,"Julian 1907, s.v. Gott sei gelobet und gebenedeiet","Massie, M. Luther's Spiritual Songs, 1854"
-159,Norwegian,,M. B. Landstad,partial,,TLHy.pdf credit line,"TLHy credits M. B. Landstad, 1861; Advent hymn on Eph. 5:14"
+159,Norwegian,"Vaagn op, du som sover",M. B. Landstad,probable,,"TLHy.pdf credit line; https://hymnary.org/tune/awake_thou_that_sleepest_arise_lindeman","TLHy credits M. B. Landstad, 1861; Advent hymn on Eph. 5:14; Hymnary's page for Lindeman's tune gives the Norwegian first line (not in SSB70 or SSB03)"
 160,German,"Auf, auf, weil der Tag erschienen",Johann A. Freylinghausen,confirmed,,"Julian 1907, s.v. Auf, auf, weil der Tag erschienen","Cox, 1841"
 161,Danish,"Fryd dig, du Kristi Brud",Anonymous,confirmed,,TLH 1941 notes for TLH 57: https://www.projectwittenberg.org/etext/hymnals/tlh/tlh057.txt,Same text as TLH 57
 163,German,Ich steh in meines Herren Hand,Karl J. P. Spitta,confirmed,,https://christmysong.com/243/,"Massie, Lyra Domestica (1860)"
@@ -184,7 +184,7 @@ number,language,original_title,original_author,confidence,same_as,source,note
 445,German,,Johann Scheffler,partial,,TLHy.pdf credit line,"TLHy credits ""J. Scheffler, 1657; H. A. Brorson, 1734"": Scheffler's hymn in Brorson's Danish version (refrain ""I love my Jesus, Him alone"")"
 448,Danish,Kærlighed er lysets kilde,N. F. S. Grundtvig,probable,,https://singpraises.net/texts/da/1193/love-is-the-source-of-light,"TLHy credits N. F. S. Grundtvig, 1853"
 451,German,"Kommt, Kinder, laßt uns gehen",Gerhard Tersteegen,confirmed,,https://ccel.org/ccel/winkworth/lyra.h68.html,"Winkworth, Lyra Germanica (1855), altered"
-453,Danish,,N. F. S. Grundtvig,partial,,TLHy.pdf credit line,"TLHy credits N. F. S. Grundtvig, 1812; Psalm 42"
+453,Danish,Som tørstige Hjort monne skrige,N. F. S. Grundtvig,probable,,"TLHy.pdf credit line; https://hymnfortheday.com/post/hymn-140","TLHy credits N. F. S. Grundtvig, 1812; Psalm 42 (not in SSB70 or SSB03)"
 461,Danish,"Jesus, din søde Forening at smage",Peder J. Hygom,confirmed,,https://www.nb.no/sheet-music/?p=192917,"TLHy credits ""German, Anon., 1712; P. J. Hygom, ca. 1740"": Hygom's Danish version of a German hymn (sometimes credited to J. L. K. Allendorf)"
 465,German,"Herz, du hast viel geweinet",Meta Heusser-Schweizer,confirmed,,https://www.hymnary.org/hymn/CYBER/3903,"Borthwick, H. L. L. 4th ser., 1862"
 467,German,Wer ist wohl wie du,Johann A. Freylinghausen,confirmed,,https://ccel.org/ccel/wesley/works.vi.xlix.html,"Wesley, Hymns and Sacred Poems, 1739; same hymn as TLHy 30"

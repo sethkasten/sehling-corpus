@@ -6,6 +6,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
+import merge_krusemark, merge_te_laudamus
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -57,7 +58,17 @@ def load():
             'FROM hymn_prescriptions'):
         wit = src.split(' (via')[0]
         ident = canon.get((norm(orig), src))
-        if not ident:
+        # Te Laudamus and Krusemark name their hymns by number: by its row in the Lutheran Hymn
+        # Index. A row the lexicon lacks (ident None) is named by the index's title for it (TL's
+        # common_english is that title), and is not then taken for a lexicon hymn of a like title
+        by_number, name = False, None
+        if not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
+            ident, by_number = merge_te_laudamus.canonical(src), True
+        elif not ident and merge_krusemark.COMPILATION in src:
+            ident, how = merge_krusemark.canonical(src, orig)
+            by_number = how is not None
+            if by_number and not ident: name = merge_krusemark.index_title(src)
+        if not ident and not by_number:
             key = (orig, com)
             if key not in cache:
                 c, _l, _c, _how = bridge.identify(orig, com)
@@ -68,9 +79,10 @@ def load():
         if ident:                           # Luther's Easter vs Communion "Jesus Christus, unser Heiland"
             ident = by_occasion(ident, occ, orig)[0]
         if not ident:                       # unresolved: group on the normalised title
-            ident = (com or orig or '').strip()
+            ident = (name or com or orig or '').strip()
             ident = GROUPED.setdefault(norm(ident), ident)
-        for cand in (orig, com, ident):     # fold known variant titles together
+        # fold known variant titles together; a number has named the hymn already
+        for cand in ((ident,) if by_number and ident in english else (orig, com, ident)):
             a = ALIAS.get(bridge.keyify(cand or ''))
             if a: ident = a; break
         rows.append({'occ': occ, 'orig': orig, 'lit': lit, 'com': com, 'src': src,
@@ -90,7 +102,14 @@ _ALIAS_SRC = {
  'If God Were Not Upon Our Side':            'Wo Gott der Herr nicht bei uns hält',
  'My Soul, Now Bless Thy Maker':             'Nun lob, mein Seel, den Herren',
  'My Soul, Now Praise Thy Maker':            'Nun lob, mein Seel, den Herren',
- 'Praise the Almighty, my soul, adore Him!': 'Nun lob, mein Seel, den Herren',
+ # Herrnschmidt's "Lobe den Herren, o meine Seele" (TLH 26, LSB 797), not Gramann's "Nun lob,
+ # mein Seel": the Hymn of the Day table's title of it, cut short, and Krusemark's
+ 'Praise the Almighty, My Soul, Adore':      'Praise the Almighty, My Soul, Adore Him',
+ 'Praise the Almighty, my soul, adore Him!': 'Praise the Almighty, My Soul, Adore Him',
+ # the Hymn of the Day table's titles of two hymns the lexicon lacks, which Krusemark's rows
+ # take by the index's titles
+ 'Soul, Adorn Thyself with Gladness':       'Soul, Adorn Yourself with Gladness',
+ 'One Thing’s Needful, Lord This Treasure': "One Thing's Needful",
  'Our Father, who from heaven above':        'Vater unser im Himmelreich',
  'Our Father, Thou in Heaven Above':         'Vater unser im Himmelreich',
  'Why art thou cast down, my heart?':        'Warum betrübst du dich, mein Herz',
@@ -147,7 +166,10 @@ def main():
         ('Counting is by WITNESS, not by document. Selnecker is attested by three compilations and counted once.', BODY),
         ('Grouped days exist: some sources give one entry for "Advent 3 & 4" or "Lent 1-3". These are separate rows from the single days.', BODY),
         ('The same hymn can appear under variant English titles ("Bless" vs "Praise thy Maker") and will not always group.', BODY),
-        ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns.', BODY),
+        ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns. A hymn is '
+         'identified by the number he gives it (LSB, TLH, WH) in the Lutheran Hymn Index.', BODY),
+        ('Te Laudamus (2024): the chief hymns of its table, one witness. Its rows give TL\'s own titles; a hymn is '
+         'identified by its TL number in the Lutheran Hymn Index.', BODY),
         ('Thompson: the chief hymns of four lists he transcribes in his dissertation (Antwerp 1567, Annaberg 1579, Eler 1588, '
          'Magdeburg 1632) are four witnesses. Krusemark\'s Thompson column, which tallies these lists with others, is not '
          'loaded, so they are not counted twice.', BODY),

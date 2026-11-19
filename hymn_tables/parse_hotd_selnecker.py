@@ -21,6 +21,8 @@ HOTD_SIGLA = {
  'LW':'Lutheran Worship (1982)', 'LSB':'Lutheran Service Book (2006)',
  'Meckl. 1855':'Mecklenburg hymnal (1855)', 'Bach':'Bach’s Leipzig usage',
 }
+# the historical witnesses among them, whose English titles render the German hymns they sang
+HISTORICAL = {'Carpzov', 'Selnecker', 'Mecklenburg hymnal (1855)', 'Bach’s Leipzig usage'}
 SIG_RE = re.compile(r'\b(Meckl\. 1855|LSB|LW|SD|MC|Bach|[CGKRSZ])\b')
 
 ROMAN = {'I':1,'II':2,'III':3,'IV':4,'V':5,'VI':6,'VII':7,'VIII':8,'IX':9,'X':10,

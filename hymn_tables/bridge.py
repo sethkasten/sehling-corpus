@@ -131,8 +131,28 @@ _EN_ALIAS_SRC = {
  'O Jesus Christ, all praise to Thee': 'Gelobet seist du, Jesu Christ',
  'Dear Christians, put away your fears': 'Ach, lieben Christen, seid getrost',
  'Benedictus': 'Gelobet sei der Herr, der Gott Israel',
+ # the titles of the Lutheran Hymn Index that the modern lists give these hymns, which Te
+ # Laudamus's chief hymns (named by their TL numbers) are too
+ "Of the Father's Love Begotten": 'Corde natus ex parentis',
+ 'O Mortal, Mourn Thy Grievous Sin': 'O Mensch, bewein dein Sünde groß',
+ 'We Thank Thee, Jesus, Dearest Friend': 'Wir danken dir, Herr Jesu Christ',
+ 'O Lord, We Praise Thee': 'Gott sei gelobet und gebenedeiet',
+ # Luther's Psalm 124 hymn by its title in English hymnals (TLH 267, TL 246). Liliencron's English
+ # column gives the title to Jonas's "Wo Gott der Herr nicht bei uns hält" (RENDERED, below), and
+ # read through it Krusemark's TLH 267 (Bach's, Stiller's and others' Epiphany 4) was Jonas's
+ 'If God Had Not Been on Our Side': 'Wär Gott nicht mit uns diese Zeit',
 }
 EN_ALIAS = {keyify(k): v for k, v in _EN_ALIAS_SRC.items()}
+
+# English titles that, as Liliencron's English column renders a German incipit, name another hymn
+# than the one they title in English hymnals (EN_ALIAS). The HotD table and Selnecker's own account
+# render their old witnesses' hymns as the column does: their "If God Had Not Been on Our Side" is
+# Jonas's, as Liliencron's German shows for Selnecker on Exaudi, Krusemark's Walther's Hymnal 438
+# for Carpzov on Exaudi, and Selnecker's Trinity 5, "Were God Not with Us at This Time" (Luther's)
+# or "If God Had Not Been on Our Side"
+RENDERED = {keyify(k): v for k, v in {
+ 'If God Had Not Been on Our Side': 'Wo Gott der Herr nicht bei uns hält',
+}.items()}
 
 def english_to_german(title):
     k = keyify(title)
@@ -142,13 +162,17 @@ def english_to_german(title):
     if m: return _BRIDGE[m[0]], difflib.SequenceMatcher(None, k, m[0]).ratio()
     return None, 0.0
 
-def identify(german, english):
-    """-> (canonical_title, literal_en, common_en, how)"""
+def identify(german, english, rendering=False):
+    """-> (canonical_title, literal_en, common_en, how). rendering: the English title renders an
+    old witness's German hymn (RENDERED), rather than titling a hymn of an English hymnal"""
     if german:
         c, lit, com, alt, ok = resolve(german)
         if ok: return c, lit, com, 'german'
     if english:
-        g, score = english_to_german(english)
+        if rendering and keyify(english) in RENDERED:
+            g, score = RENDERED[keyify(english)], 1.0
+        else:
+            g, score = english_to_german(english)
         if g:
             c, lit, com, alt, ok = resolve(g)
             if ok: return c, lit, com, f'english->german({score:.2f})'
