@@ -1725,7 +1725,8 @@ The database holds 4,879 prescriptions from 58 witnesses, in two layers that mus
     Annaberg 1579, Franz Eler's *Cantica sacra* (Hamburg, 1588) and Magdeburg 1632;
   - a modern Hymn of the Day table, which collates the schemes of Selnecker, Carpzov and others
     with those of modern hymnals;
-  - Krusemark's *Hymns ABC* (2018), of which only the hymns of the day are taken;
+  - Krusemark's *Hymns ABC* (2018), of which only the hymns of the day are taken, each named by
+    its number in a modern hymnal;
   - the table of chief hymns of *Te Laudamus* (2024), which names each hymn by its number.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
@@ -27428,6 +27429,15 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   example, is joined to *Es ist gewisslich an der Zeit* (The Day Is Surely Drawing Near). The hymn database does this joining
   with its lexicon of hymns and its table of English titles, so [`hymns.db`](#repo-hymns) and the
   workbook group the hymns as this table does.
+- **Krusemark's numbers.** Krusemark gives each hymn with its number in *Lutheran Service Book*,
+  *The Lutheran Hymnal* or Walther's hymnal, and his lists are read by that number, through the
+  Lutheran Hymn Index. His "To God the Anthem Raising" (Walther's hymnal, no. 50) is *Helft mir
+  Gotts Güte preisen* (To God the Anthem Raising), and his "O Lord, We Welcome Thee" for Bach at Christmas (TLH 93) is *Ich
+  freue mich in dir*, not *Wie soll ich dich empfangen*. Where his number is a translation of a
+  Latin hymn, an old witness is counted for the German version it sang: the plan's "Come, Holy
+  Ghost, Creator Blest" is *Komm, Gott Schöpfer, Heiliger Geist* (Come, God, Creator, Holy Ghost), which the Leipzig hymnals of
+  1605, 1627 and 1694 give for Pentecost. Two of his numbers are misprints, and there the title
+  decides: Carpzov's "Dear Christians, One and All, Rejoice" is LSB 556, not 566.
 - **One English title, two hymns.** "If God Had Not Been on Our Side" is Luther's Psalm 124
   hymn *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side) in *The Lutheran Hymnal* (no. 267). Krusemark gives
   that number for Bach, Stiller and the plan on Epiphany 4. In the Hymn of the Day table and
@@ -27505,7 +27515,7 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 | **Sunday after Christmas** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 4 of 10 |
 |  | *Hilf Gott, wie geht das immer zu* (Help God, how does this ever go on) | Help God, how does this ever go on | Oh, Help Us, God! Why Must It Be † | 4 of 10 |
 |  | *Wo Gott der Herr nicht bei uns hält* (If God Were Not upon Our Side) | If God the Lord does not stand by us | If God Were Not upon Our Side | 3 of 10 |
-| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* (To God the Anthem Raising) | Help me praise God's goodness | To God the Anthem Raising | 9 of 16 |
+| **New Year (Circumcision)** | *Helft mir Gotts Güte preisen* (To God the Anthem Raising) | Help me praise God's goodness | To God the Anthem Raising | 10 of 16 |
 |  | *Das alte Jahr vergangen ist* (The Old Year Now Hath Passed Away) | The old year has passed | The Old Year Now Hath Passed Away | 7 of 16 |
 | **Sunday after New Year** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 3 of 3 |
 | **Epiphany** | *Was fürchtst du, Feind Herodes, sehr* (Why, Herod, Unrelenting Foe) | Why dost thou fear so, foe Herod | Why, Herod, Unrelenting Foe | 19 of 25 |
@@ -27538,18 +27548,16 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 |  | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 5 of 19 |
 | **Palm Sunday** | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 6 of 21 |
 | **Maundy Thursday** | *Jesus Christus, unser Heiland* (Jesus Christ, Our Blessed Savior) | Jesus Christ, our Savior | Jesus Christ, Our Blessed Savior | 4 of 6 |
-| **Good Friday** | *Da Jesus an dem Kreuze stund* (Our Blessed Savior Seven Times Spoke) | When Jesus on the cross stood | Our Blessed Savior Seven Times Spoke | 11 of 14 |
-|  | *Christus, der uns selig macht* | Christ, who makes us blessed | Christ, Who Saves Us by His Cross † | 7 of 14 |
+| **Good Friday** | *Da Jesus an dem Kreuze stund* (Our Blessed Savior Seven Times Spoke) | When Jesus on the cross stood | Our Blessed Savior Seven Times Spoke | 12 of 14 |
 | **Easter Day** | *Christ lag in Todesbanden* (Christ Jesus Lay in Death's Strong Bands) | Christ lay in death's bonds | Christ Jesus Lay in Death's Strong Bands | 24 of 31 |
 |  | *Christ ist erstanden* (Christ Is Arisen) | Christ is risen | Christ Is Arisen | 21 of 31 |
-|  | *Jesus Christus, unser Heiland, der den Tod überwand* (Jesus Christ, Who Came, Us to Save) | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Who Came, Us to Save † | 18 of 31 |
+|  | *Jesus Christus, unser Heiland, der den Tod überwand* (Jesus Christ, Who Came, Us to Save) | Jesus Christ, our Saviour, who overcame death | Jesus Christ, Who Came, Us to Save † | 19 of 31 |
 | **Easter Monday** | *Ach bleib bei uns, Herr Jesu Christ* (Lord Jesus Christ, with Us Abide) | Abide with us, Lord Jesus Christ | Lord Jesus Christ, with Us Abide | 1 of 2 ‡ |
 |  | *Christ ist erstanden* | Christ is risen | Christ Is Arisen | 1 of 2 ‡ |
 | **Easter 1 (Quasimodogeniti)** | *O filii et filiae* (O Sons and Daughters of the King) | O sons and daughters | O Sons and Daughters of the King | 0 of 7 ‡ |
 | **Easter 2 (Misericordias Domini)** | *Der Herr ist mein getreuer Hirt* (The Lord is my faithful shepherd) | The Lord is my faithful shepherd | The Lord’s My Shepherd, Faithful, True | 13 of 17 |
-| **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* (Come Hither, Saith the Son of God) | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 10 of 16 |
+| **Easter 3 (Jubilate)** | *Kommt her zu mir, spricht Gottes Sohn* (Come Hither, Saith the Son of God) | Come here to me, says God's Son | Come Hither, Saith the Son of God † | 11 of 16 |
 |  | *Mag ich Unglück nicht widerstahn* (If I cannot withstand misfortune) | If I cannot withstand misfortune | May I My Fate No More Withstand † | 8 of 16 |
-|  | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 6 of 16 |
 | **Easter 4 (Cantate)** | *Nun freut euch, lieben Christen gmein* (Dear Christians, One and All, Rejoice) | Now rejoice, dear Christians together | Dear Christians, One and All, Rejoice | 12 of 16 |
 | **Easter 5 (Rogate)** | *Vater unser im Himmelreich* | Our Father in the kingdom of heaven | Our Father, Who from Heaven Above | 19 of 20 |
 | **Ascension** | *Christ fuhr gen Himmel* (Christ Rose to Heaven) | Christ went up to heaven | Christ Rose to Heaven † | 20 of 29 |
@@ -27666,13 +27674,13 @@ old witnesses that do give this hymn.
   hymns tied at its head, Lent 5 would have *Wo Gott der Herr* (If God Were Not upon Our Side) alone at its head, and Maundy
   Thursday and St Mary Magdalene would have no hymn of their witnesses. Quinquagesima would need
   no assignment, since *Durch Adams Fall* (All Mankind Fell in Adam's Fall) would have a quarter of its witnesses (4 of 14). The
-  hymns shown would change on 19 more days. For example:
+  hymns shown would change on 18 more days. For example:
   - Advent 2 would gain *Es wird schier der letzte Tag herkommen* (The last day will soon be coming);
   - Easter Day would gain *Erstanden ist der heilige Christ* (The holy Christ is risen);
   - Trinity 23 would gain *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side);
   - the apostles' days would have *O Herre Gott, dein göttlich Wort* (O God, Our Lord, Your Holy Word) alone.
 - **What the table shows.**
-  - The core of the old *de tempore* (of the season) scheme is very stable. On 29 of the 66 days whose hymn the
+  - The core of the old *de tempore* (of the season) scheme is very stable. On 30 of the 66 days whose hymn the
     witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:
     - Advent 1, *Nun komm* (Savior of the Nations, Come);
     - Epiphany, *Was fürchtst du, Feind Herodes* (Why, Herod, Unrelenting Foe);
