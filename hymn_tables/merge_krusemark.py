@@ -23,9 +23,10 @@ WH, ELH, LW), which the source keeps: "Gehrke (via Krusemark, Hymns ABC (2018);
 TLH 383)". export_xlsx.py names his hymns by those numbers (identify, below),
 as it names Te Laudamus's: the number's row in the Lutheran Hymn Index, and the
 lexicon's hymn on that row (index_rows.hymn). A row the lexicon lacks is named
-by its printed title, which then cannot be taken for a lexicon hymn of a like
-title ("O Lord, we welcome Thee", TLH 93, is "Ich freue mich in dir", not "Wie
-soll ich dich empfangen"). The title decides where the number cannot: a row
+by the index's title for it (index_title), as Te Laudamus's are, so that his
+lists join where they print different hymnals' wordings of one hymn; it cannot
+then be taken for a lexicon hymn of a like title ("O Lord, we welcome Thee",
+TLH 93, is "Ich freue mich in dir", not "Wie soll ich dich empfangen"). The title decides where the number cannot: a row
 without one, or with a page of the liturgy (LSB 198), and his two misprinted
 numbers, whose rows do not bear his titles (LSB 566 for 556, "Dear Christians,
 One and All, Rejoice"; LSB 906 for 942, "Kyrie! God, Father").
@@ -42,7 +43,7 @@ Invocavit.
 import re, os, json, sqlite3, collections, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-import bridge, index_rows, lexicon
+import bridge, index_rows, index_titles, lexicon
 from resolve import resolve
 from merge_sources import provenance
 
@@ -60,7 +61,7 @@ AGREE = 0.5
 def identify(source, printed):
     """(the lexicon's hymn or None, how) for one of his rows. how is None where the number
     cannot decide and the printed title must; the hymn is None where the number's row is a hymn
-    the lexicon lacks, which its printed title names"""
+    the lexicon lacks, which index_title names"""
     m = REF.search(source)
     if not m: return None, None
     rows = index_rows.rows(*m.groups())
@@ -73,6 +74,12 @@ def identify(source, printed):
         if german and german not in lexicon.LATIN_EN:
             return german, how + '; the German version, in the old usage'
     return canon, how
+
+def index_title(source):
+    """the index's title for the row of the number a source gives (export_xlsx.py names by it a
+    hymn the lexicon lacks), as index_titles.title gives it"""
+    code, number, suffix = REF.search(source).groups()
+    return index_titles.title(f'{index_rows.CODES.get(code, code)} {number}{suffix}')
 
 _CANON = {}
 def canonical(source, printed):

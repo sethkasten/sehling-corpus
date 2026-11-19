@@ -230,7 +230,12 @@ and its number in a hymnal (LSB, TLH, WH, ELH, LW), which the source keeps
 names the hymn by that number, through the Lutheran Hymn Index
 (`merge_krusemark.identify`, `index_rows.py`), as it names *Te Laudamus*'s.
 991 of his 1,047 rows are named so: 608 as hymns of the lexicon, 383 as
-hymns it lacks, which keep his printed titles. The other 56 are named by
+hymns it lacks, which take the index's title for the row
+(`merge_krusemark.index_title`), as *Te Laudamus*'s do. So his lists join
+where they print different hymnals' wordings of one hymn, and join TL's and
+the other modern lists' rows of it; two aliases of `export_xlsx.py` join the
+Hymn of the Day table's "Soul, Adorn Thyself with Gladness" and "One Thing's
+Needful, Lord This Treasure" to the index's titles. The other 56 are named by
 title: his rows without a number (German or Latin titles, "Passion hymns",
 the Hymnoglypt translations he cites without one), two pages of the
 liturgy (LSB 198, 231), and two misprints, whose numbered rows do not bear
@@ -519,8 +524,8 @@ in all of them:
   `index_titles.INDEX` matches to it, else the one the row's German or Latin
   original resolves to, if the original is that hymn's whole incipit).
   `export_xlsx.py` names *Te Laudamus*'s and Krusemark's rows so. A row the
-  lexicon lacks keeps its printed title, and is not then taken for a
-  lexicon hymn of a like title. Krusemark's "Praise the Almighty, my soul,
+  lexicon lacks is named by the index's title for it, and is not then taken
+  for a lexicon hymn of a like title. Krusemark's "Praise the Almighty, my soul,
   adore Him" (LSB 797) showed one such error: a title alias of
   `export_xlsx.py` had made Herrnschmidt's *Lobe den Herren, o meine Seele*
   into Gramann's *Nun lob, mein Seel, den Herren*. The alias now joins only

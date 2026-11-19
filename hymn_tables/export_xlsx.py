@@ -59,14 +59,15 @@ def load():
         wit = src.split(' (via')[0]
         ident = canon.get((norm(orig), src))
         # Te Laudamus and Krusemark name their hymns by number: by its row in the Lutheran Hymn
-        # Index. A row the lexicon lacks (ident None) keeps its printed title, which is not then
-        # taken for a lexicon hymn of a like title
-        by_number = False
+        # Index. A row the lexicon lacks (ident None) is named by the index's title for it (TL's
+        # common_english is that title), and is not then taken for a lexicon hymn of a like title
+        by_number, name = False, None
         if not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and merge_krusemark.COMPILATION in src:
             ident, how = merge_krusemark.canonical(src, orig)
             by_number = how is not None
+            if by_number and not ident: name = merge_krusemark.index_title(src)
         if not ident and not by_number:
             key = (orig, com)
             if key not in cache:
@@ -78,7 +79,7 @@ def load():
         if ident:                           # Luther's Easter vs Communion "Jesus Christus, unser Heiland"
             ident = by_occasion(ident, occ, orig)[0]
         if not ident:                       # unresolved: group on the normalised title
-            ident = (com or orig or '').strip()
+            ident = (name or com or orig or '').strip()
             ident = GROUPED.setdefault(norm(ident), ident)
         # fold known variant titles together; a number has named the hymn already
         for cand in ((ident,) if by_number and ident in english else (orig, com, ident)):
@@ -105,6 +106,10 @@ _ALIAS_SRC = {
  # mein Seel": the Hymn of the Day table's title of it, cut short, and Krusemark's
  'Praise the Almighty, My Soul, Adore':      'Praise the Almighty, My Soul, Adore Him',
  'Praise the Almighty, my soul, adore Him!': 'Praise the Almighty, My Soul, Adore Him',
+ # the Hymn of the Day table's titles of two hymns the lexicon lacks, which Krusemark's rows
+ # take by the index's titles
+ 'Soul, Adorn Thyself with Gladness':       'Soul, Adorn Yourself with Gladness',
+ 'One Thing’s Needful, Lord This Treasure': "One Thing's Needful",
  'Our Father, who from heaven above':        'Vater unser im Himmelreich',
  'Our Father, Thou in Heaven Above':         'Vater unser im Himmelreich',
  'Why art thou cast down, my heart?':        'Warum betrübst du dich, mein Herz',
