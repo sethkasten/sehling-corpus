@@ -104,8 +104,15 @@ INDEX = {
 
 # titles the rules below would not give: Luther's Creed hymn without the word ("..., Maker")
 # that tells it in the index from Clausnitzer's; a title the index gives unpunctuated in every
-# form
-SPECIAL = {'LSB 954': 'We All Believe in One True God', 'LH 40': 'O Christ, Our King, Creator, Lord'}
+# form; and the fuller titles the book uses, where the index has since taken Lutheran Service
+# Book's shorter one ("From East to West", "Kyrie! God, Father") or dropped the quotation marks
+# or a comma of the title it had
+SPECIAL = {
+ 'LSB 954': 'We All Believe in One True God', 'LH 40': 'O Christ, Our King, Creator, Lord',
+ 'LSB 385': 'From East to West, from Shore to Shore', 'LSB 942': 'Kyrie! God, Father in Heaven Above',
+ 'LSB 688': "'Come, Follow Me,' the Savior Spake", 'LSB 614': "'As Surely as I Live,' God Said",
+ 'LSB 347': 'Comfort, Comfort, Ye My People',
+}
 
 # the hymnals whose title gives the punctuation, in this order
 PREF = ['LSB', 'TLH', 'ELH', 'LW', 'TL', 'TLHy', 'WH', 'ELHB', 'LH', 'ELHal', 'LPC']
@@ -159,10 +166,18 @@ def _titles(hid):
         out.setdefault(src, t)
     return out
 
+_special = None
+def _special_rows():
+    """SPECIAL by the rows' ids, so that another number on the row ('TL 169') finds it too"""
+    global _special
+    if _special is None:
+        _special = {row(ref): t for ref, t in SPECIAL.items()}
+    return _special
+
 def title(ref):
     """the English title of the index row that bears ref, as the book and hymns.db give it"""
-    if ref in SPECIAL: return SPECIAL[ref]
     hid = row(ref)
+    if hid in _special_rows(): return _special_rows()[hid]
     master, = _c().execute('SELECT title FROM hymns WHERE id = ?', (hid,)).fetchone()
     titles = _titles(hid)
     order = [s for s in PREF if s in titles]

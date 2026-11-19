@@ -34503,6 +34503,12 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
   example, is joined to *Es ist gewisslich an der Zeit*. The hymn database does this joining
   with its lexicon of hymns and its table of English titles, so [`hymns.db`](#repo-hymns) and the
   workbook group the hymns as this table does.
+- **One English title, two hymns.** "If God Had Not Been on Our Side" is Luther's Psalm 124
+  hymn *Wär Gott nicht mit uns diese Zeit* in *The Lutheran Hymnal* (no. 267). Krusemark gives
+  that number for Bach, Stiller and the plan on Epiphany 4. In the Hymn of the Day table and
+  in Selnecker's own account, the title stands for Jonas's *Wo Gott der Herr nicht bei uns
+  hält*. Liliencron's German shows this for Selnecker on Exaudi, and Krusemark's reference to
+  Walther's hymnal shows it for Carpzov on the same day.
 - **Hymns with the same or a similar opening are kept apart:**
   - Eber's *Herr Gott, dich loben alle wir*, on the angels, is kept apart from Luther's German
     Te Deum *Herr Gott, dich loben wir*. Liliencron himself insists on this distinction.
@@ -34583,8 +34589,8 @@ Some of the old witnesses add nothing, or little, to the table, for these reason
 | **Epiphany 2** | *Wohl dem, der in Gottes Furcht steht* | Blessed is he who stands in the fear of God | Happy the Man Who Feareth God | 14 of 18 |
 | **Epiphany 3** | *Ich ruf zu dir, Herr Jesu Christ* | I call to thee, Lord Jesus Christ | Lord, Hear the Voice of My Complaint | 8 of 19 |
 |  | *Allein zu dir, Herr Jesu Christ* | In thee alone, Lord Jesus Christ | In Thee Alone, O Christ, My Lord | 5 of 19 |
-| **Epiphany 4** | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 13 of 20 |
-|  | *Wär Gott nicht mit uns diese Zeit* | Were God not with us at this time | If God Had Not Been on Our Side | 11 of 20 |
+| **Epiphany 4** | *Wär Gott nicht mit uns diese Zeit* | Were God not with us at this time | If God Had Not Been on Our Side | 14 of 20 |
+|  | *Wo Gott der Herr nicht bei uns hält* | If God the Lord does not stand by us | If God Were Not upon Our Side | 10 of 20 |
 | **Epiphany 5** | *Ach Gott, vom Himmel sieh darein* | O God, look down from heaven | O Lord, Look Down from Heaven, Behold | 12 of 19 |
 | **Epiphany 6** | *Herr Christ, der einig Gotts Sohn* | Lord Christ, the only Son of God | The Only Son from Heaven | 7 of 11 |
 |  | *Es wolle Gott uns gnädig sein* | May God be gracious to us | May God Bestow on Us His Grace | 5 of 11 |
@@ -34741,7 +34747,7 @@ old witnesses that do give this hymn.
   - Trinity 23 would gain *Wär Gott nicht mit uns diese Zeit*;
   - the apostles' days would have *O Herre Gott, dein göttlich Wort* alone.
 - **What the table shows.**
-  - The core of the old *de tempore* scheme is very stable. On 28 of the 66 days whose hymn the
+  - The core of the old *de tempore* scheme is very stable. On 29 of the 66 days whose hymn the
     witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:
     - Advent 1, *Nun komm*;
     - Epiphany, *Was fürchtst du, Feind Herodes*;
@@ -34756,7 +34762,7 @@ old witnesses that do give this hymn.
     - the Annunciation, the German Magnificat.
   - The same hymns return on several Sundays:
     - *Wo Gott der Herr nicht bei uns hält* on Epiphany 4, Lent 5, Exaudi and Trinity 17 and
-      23, with *Wär Gott nicht mit uns* beside it on Epiphany 4 and Trinity 17;
+      23, with *Wär Gott nicht mit uns* beside it on Trinity 17 and ahead of it on Epiphany 4;
     - *Vater unser* and *Warum betrübst du dich* together on Lent 4 and Trinity 7 and 15;
     - *Aus tiefer Not*, *Allein zu dir* and *Erbarm dich mein* among Trinity 3, 11, 19 and 22.
 
@@ -70476,7 +70482,7 @@ such as the Magnificat or the Aaronic blessing, are not indexed unless a chapter
 - 119 — [10.7.3](#s10-7-3), [10.13](#s10-13)
 - 121 — [8.11.5](#s8-11-5)
 - 121:8 — [13.3.3](#s13-3-3), [13.3.5](#s13-3-5)
-- 124 — [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.5.2](#s8-5-2), [8.17](#s8-17), [8.17.6](#s8-17-6)
+- 124 — [4.4.4](#s4-4-4), [8.1.1](#s8-1-1), [8.1.2](#s8-1-2), [8.5.2](#s8-5-2), [8.17](#s8-17), [8.17.6](#s8-17-6), [8.A.2](#s8-a-2)
 - 124:8 — [3.1](#s3-1), [3.3.1](#s3-3-1), [3.3.4](#s3-3-4), [7.2.1](#s7-2-1), [7.9.2](#s7-9-2)
 - 125 — [13.8.3](#s13-8-3)
 - 127 — [8.1.2](#s8-1-2), [8.17](#s8-17), [8.17.2](#s8-17-2), [8.17.6](#s8-17-6), [13.5.2](#s13-5-2), [13.7.4](#s13-7-4)

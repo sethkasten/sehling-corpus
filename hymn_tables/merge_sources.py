@@ -12,6 +12,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bridge, index_titles, lexicon
 from resolve import norm, by_occasion
+from parse_hotd_selnecker import HISTORICAL
 
 FILES = ['rows_liliencron.json', 'rows_ludecus.json', 'rows_hotd.json', 'rows_selnecker.json']
 
@@ -22,8 +23,11 @@ def load():
     return rows
 
 def identity(r):
-    """Stable key for 'the same hymn', across German- and English-citing sources."""
-    c, lit, com, how = bridge.identify(r.get('german'), r.get('english'))
+    """Stable key for 'the same hymn', across German- and English-citing sources. The English
+    title of an old witness's hymn (the HotD table's historical witnesses, Selnecker's own
+    account) renders the German hymn it sang: bridge.RENDERED"""
+    c, lit, com, how = bridge.identify(r.get('german'), r.get('english'),
+                                       rendering=not r.get('german') and r['witness'] in HISTORICAL)
     if c:
         c2, lit2, com2 = by_occasion(c, r['occasion'], r.get('german') or '')
         if c2 != c: return c2, lit2, com2, how + '+occasion'

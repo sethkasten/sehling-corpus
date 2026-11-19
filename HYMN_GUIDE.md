@@ -372,14 +372,12 @@ Evening & Pentecost Monday`.
 
 `export_xlsx.py` identifies TL's rows by their numbers
 (`merge_te_laudamus.canonical`), since an English title can stand for two
-hymns: the modern lists' *If God Had Not Been on Our Side*, the index's
-title of Luther's *Wär Gott nicht mit uns diese Zeit*, is read through
-Liliencron's English column as Jonas's *Wo Gott der Herr nicht bei uns hält*.
-`bridge.py` has four more index titles that the modern lists give (*Of the
-Father's Love Begotten*, *O Mortal, Mourn Thy Grievous Sin*, *We Thank Thee,
-Jesus, Dearest Friend*, *O Lord, We Praise Thee*), so their rows and TL's are
-one hymn in the workbook. *Te Laudamus* is a modern witness and is not counted
-in Appendix 8.A (`MODERN` in `appendix_8a.py`).
+hymns (*If God Had Not Been on Our Side*: see *Hymn identity across
+languages*). `bridge.py` has four more index titles that the modern lists
+give (*Of the Father's Love Begotten*, *O Mortal, Mourn Thy Grievous Sin*,
+*We Thank Thee, Jesus, Dearest Friend*, *O Lord, We Praise Thee*), so their
+rows and TL's are one hymn in the workbook. *Te Laudamus* is a modern witness
+and is not counted in Appendix 8.A (`MODERN` in `appendix_8a.py`).
 
 ## Schema
 
@@ -484,6 +482,20 @@ identity in all of them:
 - **`bridge.py`** maps an English title to its German hymn: first through
   its own table of English titles (`EN_ALIAS`), then through the English
   column of Liliencron's concordance.
+- **One English title names two hymns.** *If God Had Not Been on Our Side*
+  is Luther's *Wär Gott nicht mit uns diese Zeit* as a hymnal's title (TLH
+  267, TL 246), and so in the modern lists and in Krusemark's, who gives the
+  number (`EN_ALIAS`). Liliencron's English column gives the title to
+  Jonas's *Wo Gott der Herr nicht bei uns hält*, and the Hymn of the Day
+  table and Selnecker's account use it in that sense for their old
+  witnesses. Liliencron's German shows this for Selnecker on Exaudi,
+  Krusemark's Walther's Hymnal 438 for Carpzov on Exaudi, and Selnecker
+  offers both on Trinity 5 ("Were God Not with Us at This Time" or "If God
+  Had Not Been on Our Side"). An English-only row of a historical witness
+  (`parse_hotd_selnecker.HISTORICAL`) therefore takes the title in
+  Liliencron's sense (`bridge.RENDERED`). Earlier builds read it as Jonas's
+  hymn everywhere but in TL, Krusemark's TLH 267 included, and so gave
+  Jonas's hymn to Bach, Stiller and the plan of c. 1700 on Epiphany 4.
 - **Different titles of one hymn are joined.** *O filii et filiae* (Jean
   Tisserand) is cited in English as "O Sons and Daughters of the King" and
   "Ye Sons and Daughters of the King"; both are one hymn.
