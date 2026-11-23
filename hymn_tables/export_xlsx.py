@@ -6,7 +6,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_krusemark, merge_lbw, merge_te_laudamus
+import merge_krusemark, merge_lbw, merge_sbh, merge_te_laudamus
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -58,15 +58,17 @@ def load():
             'FROM hymn_prescriptions'):
         wit = src.split(' (via')[0]
         ident = canon.get((norm(orig), src))
-        # Te Laudamus, LBW and Krusemark name their hymns by number: by its row in the Lutheran
-        # Hymn Index. A row the lexicon lacks (ident None) is named by the index's title for it
-        # (TL's and LBW's common_english is that title), and is not then taken for a lexicon hymn
-        # of a like title
+        # Te Laudamus, LBW, the SBH's Hymn of the Week and Krusemark name their hymns by number:
+        # by its row in the Lutheran Hymn Index. A row the lexicon lacks (ident None) is named by
+        # the index's title for it (the common_english of TL's, LBW's and the SBH's rows), and is
+        # not then taken for a lexicon hymn of a like title
         by_number, name = False, None
         if not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
             ident, by_number = merge_lbw.canonical(src), True
+        elif not ident and src.startswith(merge_sbh.WITNESS + ' (via'):
+            ident, by_number = merge_sbh.canonical(src), True
         elif not ident and merge_krusemark.COMPILATION in src:
             ident, how = merge_krusemark.canonical(src, orig)
             by_number = how is not None
@@ -171,6 +173,9 @@ def main():
         ('The same hymn can appear under variant English titles ("Bless" vs "Praise thy Maker") and will not always group.', BODY),
         ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns. A hymn is '
          'identified by the number he gives it (LSB, TLH, WH) in the Lutheran Hymn Index.', BODY),
+        ('Hymn of the Week (SBH, 1965): the Service Book and Hymnal\'s hymn of the week, one to each Sunday and festival, '
+         'from the index of hymns on the sleeve of the American Lutheran Church\'s records "a Time for Singing", read in '
+         'the order of the records (sides 1-6). A hymn is identified by its SBH number in the Lutheran Hymn Index.', BODY),
         ('Lutheran Book of Worship (1978): the starred hymns of its Hymns for the Church Year, its de tempore series, '
          'one witness. Its days, of the three-year lectionary, are placed on this sheet\'s days by their place in the '
          'church year (2 Easter = Quasimodogeniti, 2 Pentecost = Trinity 1, Christ the King = Trinity 27); the source '

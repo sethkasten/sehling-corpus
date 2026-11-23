@@ -36,6 +36,7 @@ py hymn_tables/merge_krusemark.py
 py hymn_tables/merge_thompson.py
 py hymn_tables/merge_te_laudamus.py
 py hymn_tables/merge_lbw.py
+py hymn_tables/merge_sbh.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -77,14 +78,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **4,961 prescriptions** from **59 witnesses**, in two
+The database holds **5,023 prescriptions** from **60 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 4,134 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 4,196 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -180,6 +181,7 @@ The hymnals and compilations below are Lutheran too.
 | Ludecus, *Ordo cantionum Germanicarum* (1589) | 311 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
 | *Te Laudamus* (2024), its table of chief hymns | 85 | 1 | The chief hymn of each Sunday and feast, by its number in the hymnal |
+| Hymn of the Week of the *Service Book and Hymnal*, American Lutheran Church (1965) | 62 | 1 | One hymn to each Sunday and festival, from the index of its records *a Time for Singing*, by SBH number |
 | *Lutheran Book of Worship* (1978), its Hymns for the Church Year | 82 | 1 | Its de tempore series for the three-year lectionary: the starred hymns of each Sunday and festival, by number |
 
 #### Krusemark, and why only part of it is here
@@ -408,7 +410,7 @@ Evening & Pentecost Monday`.
 
 `export_xlsx.py` identifies TL's rows by their numbers
 (`merge_te_laudamus.canonical`, through `index_rows.py`, as it does
-Krusemark's and LBW's), since an English title can stand for two
+Krusemark's, LBW's and the SBH list's), since an English title can stand for two
 hymns (*If God Had Not Been on Our Side*: see *Hymn identity across
 languages*). `bridge.py` has four more index titles that the modern lists
 give (*Of the Father's Love Begotten*, *O Mortal, Mourn Thy Grievous Sin*,
@@ -462,6 +464,57 @@ from Wesley to Franzmann), which keep the index's English titles.
 `original_title` is LBW's title as printed, `common_english` the index's
 title for the row. *Lutheran Book of Worship* is a modern witness and is not
 counted in Appendix 8.A.
+
+#### The Service Book and Hymnal's Hymn of the Week
+
+The *Service Book and Hymnal* (SBH, 1958) appointed no chief hymns, but the
+American Lutheran Church set out a Hymn of the Week for it in 1965: one hymn
+to each Sunday and festival, in *The Hymn-of-the-Week Songbook* (Augsburg,
+1965) and on three records, *a Time for Singing: around the year with the
+Hymn-of-the-Week*, whose sleeve indexes the 62 hymns by the seasons. A
+photograph of the sleeve is in the owner's Google Drive (`Hymnal Project/Large
+PDFs/Hymn of the week - a songbook (SBH Companion).jpg`), and
+`hymn_tables/SBH_Hymn_of_the_Week.csv` transcribes its index: each hymn's
+side, its page in the songbook, the heading it stands under, its title, its
+SBH number and the day it falls on. `merge_sbh.py` loads the 62 as one
+witness, `Hymn of the Week (SBH, 1965)`, with the source `Hymn of the Week
+(SBH, 1965) (via a Time for Singing, side 4; SBH 374, songbook p. 37)`.
+
+The sleeve lists the hymns "in the order of their appropriateness for the
+seasons of the church year", and the order of the records is the order of
+the year; the songbook's pages are not, and two are misprinted (12 and 46
+stand twice, where 11 and 55 are wanting). The records are stacked, sides
+1–3 playing first and 4–6 after, and the sleeve prints sides 4, 5 and 6 from
+right to left under sides 3, 2 and 1. Read so, its seasons hold one hymn to a
+day:
+
+- Advent 1–4; Christmas, the Sunday after Christmas and `Christmas 2`;
+- the Epiphany, Epiphany 1–4 and the `Transfiguration`, which the SBH keeps
+  on the last Sunday after the Epiphany;
+- the three 'Gesima Sundays, Lent 1–5, Palm Sunday and Good Friday;
+- Easter, Easter 1–5, the Ascension and Exaudi;
+- Pentecost, the Holy Trinity and Trinity 1–27 (the sleeve's four "cycles" of
+  the Trinity season), ending with *Wake, Awake* on Trinity 27;
+- the Reformation and All Saints' Day.
+
+The Gospels bear the order out: *The King of Love My Shepherd Is* falls on
+Misericordias Domini, *O Bread of Life* on Laetare, *Take My Life* on
+Trinity 9 (the unjust steward), *Deck Thyself with Joy and Gladness* on
+Trinity 20 (the wedding garment) and *Shepherd of Tender Youth* on Trinity
+24 (Jairus's daughter). The days of the third Christmas hymn and the sixth
+Epiphany hymn are the editor's reading: a hymn of the week goes with a
+Sunday, New Year's Day falls in the week of the Sunday after Christmas, and
+*God's Word Is Our Great Heritage* suits the Transfiguration's "hear him".
+On 10 days its hymn is one the old witnesses give for the same day (*Vom
+Himmel hoch* at Christmas, *Komm, Heiliger Geist* at Pentecost, *Wachet auf*
+on Trinity 27).
+
+Each hymn is found by its SBH number through `index_rows.py`. The index
+numbers the SBH's hymns of two tunes 8a and 8b, which the sleeve cites as 8
+(`index_rows.rows_lettered`). 17 are hymns of the lexicon; the other 45,
+English hymns for the most part, keep the index's English titles.
+`original_title` is the sleeve's title, `common_english` the index's title
+for the row. The list is a modern witness and is not counted in Appendix 8.A.
 
 ## Schema
 
@@ -556,7 +609,7 @@ incipit (Liliencron's hymnals, Ludecus), by a Low German or Latin form, by
 an English title only (Selnecker's own account and the Hymn of the Day
 table, with Carpzov, Bach and the modern lists), by an English title and its
 number in a hymnal (Krusemark's lists, *Te Laudamus*, *Lutheran Book of
-Worship*), or by a German incipit
+Worship*, the SBH's Hymn of the Week), or by a German incipit
 and an English title (Liliencron's concordance). One hymn has one identity
 in all of them:
 
@@ -574,7 +627,7 @@ in all of them:
   `index_titles.INDEX` matches to it, else the one the row's German or Latin
   original resolves to, if the original is that hymn's whole incipit, word
   for word, punctuation aside).
-  `export_xlsx.py` names *Te Laudamus*'s, LBW's and Krusemark's rows so. A row the
+  `export_xlsx.py` names *Te Laudamus*'s, LBW's, the SBH list's and Krusemark's rows so. A row the
   lexicon lacks is named by the index's title for it, and is not then taken
   for a lexicon hymn of a like title. Krusemark's "Praise the Almighty, my soul,
   adore Him" (LSB 797) showed one such error: a title alias of
@@ -735,8 +788,8 @@ one (`Herre gott`) is too short a fragment to identify. Everything else
 resolved.
 
 **`original_title` is not always German.** The Hymn of the Day table,
-Selnecker's account, Krusemark's lists, *Te Laudamus* and *Lutheran Book of
-Worship* cite hymns by
+Selnecker's account, Krusemark's lists, *Te Laudamus*, *Lutheran Book of
+Worship* and the SBH's Hymn of the Week cite hymns by
 English title only; they give no German
 incipit, so for those rows `original_title` holds the English title as
 printed and `literal_english` is `NULL`. Filter on

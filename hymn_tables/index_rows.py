@@ -28,6 +28,13 @@ def rows(code, number, suffix=''):
         "SELECT hymn_id FROM hymn_numbers WHERE hymnal_code = ? AND number = ? "
         "AND COALESCE(suffix, '') = ? AND is_page = 0", (CODES.get(code, code), int(number), suffix))}
 
+def rows_lettered(code, number):
+    """the rows that bear the number with any letter: the Service Book and Hymnal's hymns of two
+    tunes are 8a and 8b in the index, but plain 8 in a list that cites them"""
+    return {h for (h,) in index_titles._c().execute(
+        "SELECT hymn_id FROM hymn_numbers WHERE hymnal_code = ? AND number = ? AND is_page = 0",
+        (CODES.get(code, code), int(number)))}
+
 def originals(hid):
     """the German and the other originals the index records for the row, German first"""
     german, original = index_titles._c().execute(
