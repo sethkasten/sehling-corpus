@@ -25,9 +25,9 @@ MODERN = {
  'Eckardt, The Lutheran Propers', 'Gehrke', 'Judisch', 'Krusemark, Even Year',
  'Krusemark, Every Year', 'Krusemark, Odd Year', 'Krusemark, Year A', 'Krusemark, Year B',
  'Krusemark, Year C', 'LCMS Synod selections (2016-17)', 'LSB Hymnal Committee',
- 'Lutheran Service Book (2006)', 'Lutheran Worship (1982)', 'MC (private scheme)',
- 'Mecklenburg hymnal (1855)', 'Redeemer', 'Reuning', 'SD (private scheme)', 'SELK hymnal',
- 'Stuckwisch (sword-in-hat list)', 'Te Laudamus (2024)', 'Zion'}
+ 'Lutheran Book of Worship (1978)', 'Lutheran Service Book (2006)', 'Lutheran Worship (1982)',
+ 'MC (private scheme)', 'Mecklenburg hymnal (1855)', 'Redeemer', 'Reuning', 'SD (private scheme)',
+ 'SELK hymnal', 'Stuckwisch (sword-in-hat list)', 'Te Laudamus (2024)', 'Zion'}
 # the lists of Thompson's dissertation that are not Sehling orders, which --stats sets aside
 THOMPSON = {w for w, sehling in _TW.values() if not sehling}
 

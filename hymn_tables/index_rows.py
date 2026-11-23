@@ -12,7 +12,7 @@ if the original is that hymn's whole incipit or begins with it: the index's "Gel
 Herr" (Olearius, TLH 38) is not the German Benedictus, "Gelobet sei der Herr, der Gott Israel".
 Any other row is a hymn the lexicon lacks.
 """
-import collections, difflib, os, sys
+import collections, difflib, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bridge, index_titles
@@ -45,10 +45,14 @@ def close(a, b):
     a, b = norm(a), norm(b)
     return a.startswith(b) or b.startswith(a) or difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
 
+def _bare(s):
+    """norm without punctuation, which the index's originals print freely ("Pange, lingua, ...")"""
+    return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', norm(s))).strip()
+
 def whole(canonical, original):
-    """the original is the canonical hymn's incipit, or begins with it"""
-    a, b = norm(original), norm(canonical)
-    return a.startswith(b) or difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
+    """the original is the canonical hymn's incipit, or begins with it, word for word"""
+    a, b = _bare(original), _bare(canonical)
+    return a == b or a.startswith(b + ' ') or difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
 
 _matched = None
 def _index():
