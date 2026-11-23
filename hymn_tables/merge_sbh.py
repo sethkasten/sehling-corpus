@@ -9,8 +9,10 @@ The sleeve lists the 62 hymns of the records side by side, under the seasons, "i
 their appropriateness for the seasons of the church year": one hymn to a Sunday or festival, in
 the order of the year. Each title has two numbers: before it, its page in The Hymn-of-the-Week
 Songbook (Augsburg, 1965), and after it, its number in the Service Book and Hymnal (SBH). The
-pages do not follow the order of the year, and two are misprinted (12 and 46 stand twice, where
-11 and 55 are wanting); the order of the records does. The records are stacked, so that sides
+pages do not follow the order of the year; the order of the records does. (Pages 12 and 46
+stand twice and 11, 33, 55 and 63 are wanting, it seems by the songbook's layout rather than by
+misprint: two short hymns share each of 12 and 46, and four long hymns run across an opening,
+10-11, 32-33, 54-55 and 62-63; see HYMN_GUIDE.md.) The records are stacked, so that sides
 1-3 play and then 4-6; the sleeve prints sides 4, 5 and 6 from right to left, under sides 3, 2
 and 1. Read in that order, the hymns fall on the days of the transcription's `day` column:
 

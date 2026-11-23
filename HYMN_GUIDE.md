@@ -482,11 +482,10 @@ witness, `Hymn of the Week (SBH, 1965)`, with the source `Hymn of the Week
 
 The sleeve lists the hymns "in the order of their appropriateness for the
 seasons of the church year", and the order of the records is the order of
-the year; the songbook's pages are not, and two are misprinted (12 and 46
-stand twice, where 11 and 55 are wanting). The records are stacked, sides
-1–3 playing first and 4–6 after, and the sleeve prints sides 4, 5 and 6 from
-right to left under sides 3, 2 and 1. Read so, its seasons hold one hymn to a
-day:
+the year; the songbook's pages are not (below). The records are stacked,
+sides 1–3 playing first and 4–6 after, and the sleeve prints sides 4, 5 and
+6 from right to left under sides 3, 2 and 1. Read so, its seasons hold one
+hymn to a day:
 
 - Advent 1–4; Christmas, the Sunday after Christmas and `Christmas 2`;
 - the Epiphany, Epiphany 1–4 and the `Transfiguration`, which the SBH keeps
@@ -504,10 +503,29 @@ Trinity 20 (the wedding garment) and *Shepherd of Tender Youth* on Trinity
 24 (Jairus's daughter). The days of the third Christmas hymn and the sixth
 Epiphany hymn are the editor's reading: a hymn of the week goes with a
 Sunday, New Year's Day falls in the week of the Sunday after Christmas, and
-*God's Word Is Our Great Heritage* suits the Transfiguration's "hear him".
-On 10 days its hymn is one the old witnesses give for the same day (*Vom
-Himmel hoch* at Christmas, *Komm, Heiliger Geist* at Pentecost, *Wachet auf*
-on Trinity 27).
+*God's Word Is Our Great Heritage* suits the Transfiguration's "hear him"
+and its Epistle's "more sure word of prophecy" (2 Peter 1:19). On 10 days
+its hymn is one the old witnesses give for the same day (*Vom Himmel hoch*
+at Christmas, *Komm, Heiliger Geist* at Pentecost, *Wachet auf* on Trinity
+27).
+
+The pages are probably not misprinted, though 12 and 46 stand twice and 11,
+33, 55 and 63 are wanting. Two short hymns seem to share each of pages 12
+and 46 (*Children of the Heavenly Father* and *Come, Thou Bright and Morning
+Star*; *My God, How Wonderful Thou Art* and *In Christ There Is No East or
+West*), and four long hymns to run from a left-hand page across the opening
+(*Of the Father's Love Begotten*, 10–11; *Come, Holy Spirit, God and Lord*,
+32–33; *Ye Watchers and Ye Holy Ones*, 54–55; *For All the Saints*, 62–63),
+so that the 62 hymns fill pages 1–64 exactly. Three times the songbook
+leaves the order of the year so that a long hymn starts on a left-hand page:
+*Jesus Shall Reign* (Epiphany 3) stands on 9, before Epiphany 1; *Ye
+Watchers* (Trinity 22) before Trinity 21's hymn (56); *For All the Saints*
+(1 November) before the Reformation's (64). Where the pages and the records
+part, the readings side with the records: *Lord, Keep Us Steadfast in Thy
+Word* goes with Trinity 21's "sword of the Spirit, which is the word of God"
+(Ephesians 6:17), and *O Lord of Life* (61, after Trinity 26 and 27) with
+Trinity 25's dead in Christ (1 Thessalonians 4:13–18). The songbook itself
+has not been seen.
 
 Each hymn is found by its SBH number through `index_rows.py`. The index
 numbers the SBH's hymns of two tunes 8a and 8b, which the sleeve cites as 8
