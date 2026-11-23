@@ -37,6 +37,7 @@ py hymn_tables/merge_thompson.py
 py hymn_tables/merge_te_laudamus.py
 py hymn_tables/merge_lbw.py
 py hymn_tables/merge_sbh.py
+py hymn_tables/merge_finnish.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -78,14 +79,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **5,023 prescriptions** from **60 witnesses**, in two
+The database holds **5,492 prescriptions** from **63 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 4,196 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 4,665 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -183,6 +184,7 @@ The hymnals and compilations below are Lutheran too.
 | *Te Laudamus* (2024), its table of chief hymns | 85 | 1 | The chief hymn of each Sunday and feast, by its number in the hymnal |
 | Hymn of the Week of the *Service Book and Hymnal*, American Lutheran Church (1965) | 62 | 1 | One hymn to each Sunday and festival, from the index of its records *a Time for Singing*, by SBH number |
 | *Lutheran Book of Worship* (1978), its Hymns for the Church Year | 82 | 1 | Its de tempore series for the three-year lectionary: the starred hymns of each Sunday and festival, by number |
+| Finnish church handbooks of 1614, 1629 and 1694, their gradual hymns | 469 | 3 | The hymn sung between the Epistle and the Gospel, in Finnish, named by the German or Latin hymn it translates where that can be told |
 
 #### Krusemark, and why only part of it is here
 
@@ -533,6 +535,122 @@ numbers the SBH's hymns of two tunes 8a and 8b, which the sleeve cites as 8
 English hymns for the most part, keep the index's English titles.
 `original_title` is the sleeve's title, `common_english` the index's title
 for the row. The list is a modern witness and is not counted in Appendix 8.A.
+
+#### The Finnish church handbooks
+
+Three Finnish church handbooks (*Käsikirja*) of the seventeenth century give
+a hymn for each Sunday and feast, sung between the Epistle and the Gospel:
+the gradual hymn (*graduaalivirsi*), "a psalm or hymn of praise drawn out of
+Scripture", as the handbook of 1614 puts it. The scans are in `Hymnal
+Index/Hymnal PDFs for hotd/`:
+
+| Witness | Scan | PDF pages | Rows | Days |
+|---|---|---|---:|---:|
+| `Finnish handbook (Sorolainen, 1614)` | `Sorolainen 1614.pdf` | 38–43 | 90 | 67 |
+| `Finnish handbook (Elimaeus, 1629)` | `Elimaeus 1629.pdf` | 32–35 | 84 | 68 |
+| `Finnish handbook (1694)` | `Karoliininen Käsi-kiria 1694.pdf` | 65–81 | 295 | 80 |
+
+Olavi Rimpiläinen's study of the chief service in the diocese of Viipuri
+(*Päiväjumalanpalvelus Viipurin hiippakunnassa puhdasoppisuuden aikana*,
+1980) led to them: his appendices give the 1629 list and set the 1614 and
+1694 lists side by side. The lists here are read from the prints, which
+correct him in places; the transcriptions' notes say where:
+
+- the 1614 handbook's "Vdhen wuoden päiven" is the name of New Year's Day,
+  set in the type of the hymns, and not a hymn: the 1629 and 1694 handbooks
+  print it as a heading over the same hymn;
+- his table leaves out two of the 1694 hymns (*Kylwäjä Siemenens* on
+  Sexagesima, *Kehu Kielen* on Palm Sunday) and the last four for the days
+  of thanksgiving, fasting and prayer, gives *Mailman menon turhudest* twice
+  on Trinity 26, and marks the Nunc dimittis of 1614 at the Purification
+  "Sama" (the same) for 1694, which does not have it;
+- his reprint of the 1629 list has "synnisie" for "synnisit", "Betlehem",
+  the heading "Pyhiltä" for "Pyhinä", and *O laupias HErra Jumala* without
+  "Isä".
+
+Each transcription (`hymn_tables/Sorolainen_1614_Gradual_Hymns.csv`,
+`Elimaeus_1629_Gradual_Hymns.csv`, `Karoliininen_1694_Gradual_Hymns.csv`)
+gives, row by row in the order of the print: the PDF page; the heading and
+number the hymn stands under; its title as printed; a literal English gloss;
+the day; the German or Latin hymn it translates, where that can be told; the
+lexicon's title for it; how sure the identification is; and a note. Hands
+later than the print have added hymns in the margins of the 1614 copy; these
+are not transcribed.
+
+**Identification.** The Finnish hymns are mostly translations, of German
+hymns above all, and many incipits render the German word for word: *Ole
+kijtetty JEsu Christ* is *Gelobet seist du, Jesu Christ*, *Linna luja on
+Jumala* is *Ein feste Burg ist unser Gott*, *Juur Wirtais wieres Babylon*
+is *An Wasserflüssen Babylon*. These are `certain`. A hymn is `probable`
+when its incipit agrees with the original's in sense, or is the same
+psalm's on a day that suits it (*Autuas se cuin pelkä HErra*, Psalm 128,
+for the wedding at Cana on Epiphany 2), and `possible` when it could be one
+of two hymns or is guessed from the day's Gospel. Only certain and probable
+identifications name the hymn in `hymns.db` (`merge_finnish.canonical`): a
+possible one stays in the note, and its row, like a row not identified at
+all, is named by its Finnish title. Of the 469 rows, 183 are named by a
+hymn of the lexicon. Psalm hymns and canticles the lexicon lacks (Psalms 6,
+37, 41, 42, 46, 52, 82, 85, 91 and 139, the Magnificat, the Nunc dimittis)
+and the Athanasian Creed in verse are identified in the note and keep their
+Finnish titles. Two choices are the editor's:
+
+- *Tule Pyhä Hengi luoja*, the Veni Creator, is counted as Luther's German
+  version of it, *Komm, Gott Schöpfer, Heiliger Geist*;
+- *Jos eij HErra auta meitä*, a Psalm 124 hymn, is counted as Luther's *Wär
+  Gott nicht mit uns diese Zeit*, the commoner of the two German Psalm 124
+  hymns on Epiphany 4 (the Conversion of St Paul has neither).
+
+**Days.** The 1614 and 1629 handbooks give one hymn to a day, now and then
+two; the 1694 handbook three or four to most days, and twelve at Pentecost.
+All of a day's hymns count for it, as the several hymns of one day do for
+any witness. The days take this database's labels:
+
+- the handbooks keep the Transfiguration on the 7th Sunday after Trinity
+  ("Transfigurationis Christi" between VI and VIII in 1614, no. 7 in 1629,
+  "VII. Christuxen kirkastamisest" in 1694), and that Sunday's hymns are the
+  `Transfiguration`'s;
+- the 1614 and 1629 handbooks give `Septuagesima & Sexagesima` one heading,
+  and print the `Baptism of Christ (Octave of Epiphany)` between Christmas
+  and New Year; the 1694 handbook prints it between New Year and the
+  Epiphany;
+- the week before Easter ("Timmintaij wijckon") is `Holy Week`;
+- the 1629 handbook adds a 27th Sunday after Trinity: it gives the second of
+  the 1614 handbook's two hymns for Trinity 22 a Sunday of its own and moves
+  the hymns after it down one (Rimpiläinen, n. 40);
+- the 1694 handbook's sixth Sunday after the Epiphany has the three hymns of
+  the 27th after Trinity, to which it refers the singer;
+- new to the database are `St Matthias (24 Feb)`, from all three, and from
+  the 1694 handbook `St Andrew (30 Nov)`, `St Thomas (21 Dec)`, `Ss Philip
+  and James (1 May)`, `St Bartholomew (24 Aug)`, the `Rogation days`
+  (*Rucous Päiwinä*, which Rimpiläinen equates with the Swedish handbook's
+  *gångdagar*) and the `Days of public thanksgiving, fasting and prayer`.
+
+**What they show.** The handbooks sing many of the German *de tempore*
+hymns in Finnish on the same days. Of the 60 days of Appendix 8.A for which
+it gives a hymn, the 1614 handbook gives on 18 a hymn that the German
+witnesses give for the day, and on 8 the table's leading hymn: *Wohl dem,
+der in Gottes Furcht steht* on Epiphany 2, *Wär Gott nicht mit uns* on
+Epiphany 4, *Ein feste Burg* on Invocavit, *Ich ruf zu dir* on Reminiscere,
+*Vater unser* on Rogate, *Komm, Heiliger Geist* at Pentecost, *Ach Gott,
+vom Himmel* on Trinity 8 and *Nun lob, mein Seel* on St Michael's Day. The
+1629 handbook agrees on 17 days and has the same 8 leading hymns; the 1694
+handbook agrees on 37 of 62, and has the leading hymn on 15. Many of the
+other Finnish hymns follow the day's Gospel: *Weisatcam nyt rickast
+miehest* (Luke 16) on Trinity 1, *Jerusalem pyhä caupungi* (Luke 19) on
+Trinity 10.
+
+**Appendix 8.A.** The handbooks are old witnesses, but Appendix 8.A, a
+table of the German orders and hymnals, does not count them (`FINNISH` in
+`appendix_8a.py`; the book's §8.A.1). `appendix_8a.py --finnish` prints the
+table with them counted, and `--stats` names the 14 days whose hymns would
+change: Advent 4 would gain *Christ, unser Herr, zum Jordan kam*, Jubilate
+*Ich ruf zu dir*, Pentecost *Komm, Gott Schöpfer* and Trinity 19 *Nun lob,
+mein Seel*, but Lent 5 would lose both its hymns, since none would then
+have a quarter of the day's witnesses.
+
+`merge_finnish.py` loads the three lists after `merge_sbh.py`, with sources
+such as `Finnish handbook (1694) (via its gradual hymns; item 47, PDF p.
+68)`.
 
 ## Schema
 

@@ -1706,14 +1706,14 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 5,023 prescriptions from 60 witnesses, in two layers that must be kept apart:
+The database holds 5,492 prescriptions from 63 witnesses, in two layers that must be kept apart:
 - **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 4,196 prescriptions come from other books and lists:
+- **The hymnals and compilations.** 4,665 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1728,7 +1728,10 @@ The database holds 5,023 prescriptions from 60 witnesses, in two layers that mus
   - the *de tempore* series of *Lutheran Book of Worship* (1978), the hymns its table of hymns
     for the church year marks with a star, for the Sundays of the three-year lectionary;
   - the Hymn of the Week of the *Service Book and Hymnal* (1958), one hymn to each Sunday and
-    festival, as the American Lutheran Church set it out in 1965.
+    festival, as the American Lutheran Church set it out in 1965;
+  - the gradual hymns of three Finnish church handbooks, of 1614, 1629 and 1694, sung between
+    the epistle and the gospel, each named by the German or Latin hymn it translates where that
+    can be told.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
 
@@ -34438,9 +34441,10 @@ hymn that any witness in [`hymns.db`](#repo-hymns) assigns to a day, with the nu
 Here the same evidence is cut down in two ways, so that the hymn of each day can be read at a
 glance:
 
-- **Only the old sources are counted.** These are the church orders and hymnals of 1537–1694,
-  the Leipzig usage of Bach's time, and a modern study that does nothing but collate those
-  older sources. The modern lists, from 1800 onward, are left out.
+- **Only the old sources are counted.** These are the German church orders and hymnals of
+  1537–1694, the Leipzig usage of Bach's time, and a modern study that does nothing but collate
+  those older sources. The modern lists, from 1800 onward, are left out, and so are three
+  Finnish church handbooks of the seventeenth century ([§8.A.1](#s8-a-1)).
 - **Only the hymns with significant support are given.** A day with one clear hymn shows that
   hymn alone. A day where support is divided shows each hymn with good support, and none of the
   hymns with only a few witnesses.
@@ -34451,7 +34455,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 60 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
+Of the 63 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -34461,8 +34465,9 @@ Of the 60 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 | Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
 | Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
-The other 24 witnesses are modern and are **not counted**. Krusemark explains his own lists on
-pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern witnesses are:
+The other 27 witnesses are **not counted**: 24 modern lists and three Finnish church handbooks.
+Krusemark explains his own lists on pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern
+witnesses are:
 
 - Krusemark's own series: Years A, B and C, and, on the days the three-year series does not
   cover, a list for every year or one each for even and odd years;
@@ -34474,6 +34479,13 @@ pp. 95–96 of `Hymns_ABC_Krusemark.pdf`. The modern witnesses are:
   *Te Laudamus* (2024) and the SELK hymnal;
 - the Mecklenburg hymnal of 1855;
 - two private schemes (MC, SD).
+
+The Finnish handbooks, of 1614, 1629 and 1694, are old. Like the German orders they give a hymn
+for each Sunday and feast, sung between the epistle and the gospel. But their hymns are in
+Finnish, and fewer than half of them can be matched with a German or Latin hymn: `hymns.db`
+names a hymn by its original only where the translation is certain or probable, and the rest by
+their Finnish titles (`HYMN_GUIDE.md`). This table, of the German orders and hymnals, leaves
+them out. [§8.A.4](#s8-a-4) notes what they would change.
 
 Some of the old witnesses reach `hymns.db` through modern compilations. Carpzov, Bach and the
 plan of c. 1700 come through Krusemark or the Hymn of the Day table, and Selnecker through all
@@ -34760,6 +34772,20 @@ old witnesses that do give this hymn.
   - Easter Day would gain *Erstanden ist der heilige Christ*;
   - Trinity 23 would gain *Wär Gott nicht mit uns diese Zeit*;
   - the apostles' days would have *O Herre Gott, dein göttlich Wort* alone.
+- **The Finnish handbooks.** Counted, the three Finnish handbooks would change the hymns shown
+  on 14 days. Where they sing a German hymn of the day, they add it or raise it:
+  - Advent 4 would gain *Christ, unser Herr, zum Jordan kam*;
+  - Jubilate would gain *Ich ruf zu dir, Herr Jesu Christ*;
+  - Pentecost would gain *Komm, Gott Schöpfer, Heiliger Geist*;
+  - Trinity 19 would gain *Nun lob, mein Seel, den Herren*;
+  - Sexagesima would have *Ach Gott, vom Himmel sieh darein* level with *Es spricht der
+    Unweisen Mund wohl* at its head.
+
+  Elsewhere their hymns add to the leading hymn or to no German hymn at all, and lesser hymns
+  fall below the line: *Wo Gott der Herr* on Epiphany 4, *Gott der Vater wohn uns bei* on
+  Oculi, and one or two hymns each on Christmas Day, Invocavit, Reminiscere, Trinity 1, Trinity
+  3 and St Michael's Day. On Lent 5 no hymn would have a quarter of the witnesses. On
+  Quinquagesima *Durch Adams Fall* would have a quarter (5 of 20) and need no assignment.
 - **What the table shows.**
   - The core of the old *de tempore* scheme is very stable. On 30 of the 66 days whose hymn the
     witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:
