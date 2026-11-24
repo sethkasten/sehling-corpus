@@ -41,6 +41,7 @@ py hymn_tables/merge_finnish.py
 py hymn_tables/merge_slovak.py
 py hymn_tables/merge_elberfeld.py
 py hymn_tables/merge_ingria.py
+py hymn_tables/merge_zavorka.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -82,14 +83,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **6,172 prescriptions** from **67 witnesses**, in two
+The database holds **6,381 prescriptions** from **68 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 5,345 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 5,554 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -191,6 +192,7 @@ The hymnals and compilations below are Lutheran too.
 | Ruščin, *Pramene slovenskej hudby* XI (2023), Table 2 | 139 | 2 | Slovak hymns for the Sundays after Trinity, in Czech: the register of the *Cithara Sanctorum* (Levoča, 1674) and the manuscript hymnal B III-107 |
 | *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld, 1898), its Liedertafel | 462 | 1 | Three hymns against the Epistle and three against the Gospel of each Sunday and festival, by number |
 | The liturgical calendar of the Church of Ingria (Russian Lutheran Church), 2025-26 | 79 | 1 | The hymn between the Epistle and the Gospel of each Sunday and feast of 2026, with its alternatives, by its number in the church's Russian hymnal |
+| Závorka, *Písně chval božských* (Prague, 1602-06), its Rubryka | 209 | 1 | The hymns of the High Mass of each Sunday and feast, in Czech: the sequence or the hymn in its place, and the hymns after the Gospel and after the sermon |
 
 #### Krusemark, and why only part of it is here
 
@@ -647,10 +649,10 @@ Trinity 10.
 
 **Appendix 8.A.** The handbooks are old witnesses, but Appendix 8.A, a
 table of the German orders and hymnals, does not count them, nor the Slovak
-lists below (`OTHER_LANGUAGES` in `appendix_8a.py`; the book's §8.A.1).
-`appendix_8a.py --other-languages` prints the table with both counted, and
-`--stats` names the days whose hymns would change, for each group and for
-both. The Finnish handbooks would change 14 days: Advent 4 would gain *Christ, unser Herr, zum Jordan kam*, Jubilate
+lists and Závorka's Czech hymnal below (`OTHER_LANGUAGES` in `appendix_8a.py`;
+the book's §8.A.1). `appendix_8a.py --other-languages` prints the table with
+all of them counted, and `--stats` names the days whose hymns would change, for
+each group and for all three. The Finnish handbooks would change 14 days: Advent 4 would gain *Christ, unser Herr, zum Jordan kam*, Jubilate
 *Ich ruf zu dir*, Pentecost *Komm, Gott Schöpfer* and Trinity 19 *Nun lob,
 mein Seel*, but Lent 5 would lose both its hymns, since none would then
 have a quarter of the day's witnesses.
@@ -881,6 +883,109 @@ on Sexagesima, and on none the table's leading hymn.
 
 **Appendix 8.A.** It is a modern witness, which the table leaves out (`MODERN`
 in `appendix_8a.py`).
+
+#### Závorka's Rubryka (Prague, 1602-06)
+
+*Písně chval božských* ("Songs of the praises of God"), the hymnal of Tobiáš
+Závorka Lipenský, Utraquist dean of Doubravník in Moravia, was printed at
+Prague by Jiří Jakub Dačický. Its title page is dated 1602; the printing is
+said to have been finished in 1606. It is in Czech: the chants of the Mass
+(introits, Kyries, Alleluias, sequences) and hymns, ordered by the church year
+in lettered gatherings, 660 leaves in all. It is read here from the copy of the
+National Library of the Czech Republic, 54 B 38, in Manuscriptorium's images
+(IIIF manifest `AIPDIG-NKCR__54_B_38_____2HE0NZ0-cs`, CC BY-NC 4.0); it is not
+in the repository, and its leaves are cited by the images' labels.
+
+The Rubryka (ff. 7r-15r, in two columns) is the book's order for the year. For
+each Sunday and feast it names, by incipit and by leaf of the book, what is
+sung at the early service ("Ráno"), at the High Mass ("na Summě"), after the
+noon meal ("Po obědě"), at Vespers and at the Masses of Wednesday and Friday.
+For the High Mass it gives the Introit, the Kyrie and the Gloria, the Alleluia,
+the sequence ("Proza"), the Creed hymn ("Patrem"), a hymn after the Gospel
+("po Ewangelium") and one after the sermon ("po kázanj"), and the Sanctus, not
+every part every week. `merge_zavorka.py` loads, after `merge_ingria.py`, as
+one witness, `Závorka, Písně chval božských (1602-06)`, with sources such as
+`Závorka, Písně chval božských (1602-06) (via its Rubryka; item 3, f. 7r b)`,
+the hymns of the High Mass that are not its Ordinary:
+
+- the sequence, or the hymn sung instead of it ("místo Prozy"), and on Judica
+  a hymn given after it; and the hymns sung after the tract, after an Alleluia
+  verse, after the Passion or as an antiphon before the Introit, which take the
+  place of the sequence on those days;
+- the hymn after the Gospel and the hymn after the sermon, with their
+  alternatives;
+- the songs the Rubryka gives for a Sunday as such ("Pjsničky"), on four
+  Sundays.
+
+That is 209 hymns on 90 days. The morning songs are transcribed but not
+loaded; the songs after the noon meal, at Vespers and on the weekdays are not
+transcribed. At Rogate the Rubryka gives an early Mass with its own sermon, and
+its hymn after the sermon counts for the day.
+
+`hymn_tables/Zavorka_1602_Rubryka.csv` has a row for each hymn: the Rubryka's
+leaf and column; the day as printed and its label; the slot; whether it is an
+alternative; the incipit as printed, in the old spelling (w for v, g for j, au
+for ou), often cut short; the title in modern spelling; a literal English
+gloss; the leaf of the book the Rubryka gives; whether the hymn was named from
+that leaf; the Latin original, the lexicon's hymn and how sure the
+identification is; whether it is loaded; and a note. Seven days for which the
+Rubryka names no hymn, only leaves of the book or "all" of a feast, close the
+file.
+
+**Names.** The book prints over a hymn translated from the Latin the Latin's
+first words ("Grates nunc omnes reddamus, Domino Deo, &c."). Where such a hymn
+was read on its leaf and is the Latin's in Czech, the transcription names the
+original: *Grates nunc omnes* (Christmas), *Victimae paschali laudes* (Easter),
+*Cum rex gloriae* (the antiphon before the Introit at Easter), *Sancti Spiritus
+adsit nobis gratia* (Pentecost Monday and Trinity 8), *Johannes Jesu Christo
+multum dilecte* (St John) and *Dies irae* (Advent 2 and Trinity 26, a strophic
+version to a hymn tune), all certain; *Stabat mater dolorosa* (Judica and Holy
+Cross), a free version whose lines on the Mother alternate with new lines on
+Christ and the Christian, probable; and the Pentecost antiphon "Přijdiž, ó
+svatý Duše", not read on its leaf, *Veni Sancte Spiritus, reple tuorum corda
+fidelium*, probable. A hymn is named by the lexicon where the original is one
+of its hymns (*Grates nunc omnes*, *Victimae paschali laudes*, and the
+antiphon as the lexicon's German prose of it, *Komm, Heiliger Geist, erfüll
+die Herzen deiner Gläubigen*); else by the original's title; else by its Czech
+title. *Slovo dobré* (Advent 1), headed "Verbum bonum & suave", keeps its
+Czech title: its first words are the Latin's, but its text, on the fall and
+the redemption, is new. The other hymns keep their Czech titles.
+
+**Sequences by leaf.** On eight days the Rubryka gives the sequence by its leaf
+alone ("Proza F iiii"). The transcription names it from that leaf, where one
+begins, and says so (`from_leaf`): Easter's is the Czech *Victimae paschali
+laudes*, St John's the Czech *Johannes Jesu Christo*, and Judica's, among the
+propers that begin on D v, the Czech *Stabat mater*; those of Epiphany 1,
+Epiphany 5, Sexagesima and Trinity 5 (the one sequence of the book's section
+on the Word of God) and St Bartholomew are Czech proses. New Year's ("Prozy
+wiz B 39") is a choice, at a leaf so printed, and is not named.
+
+**Days.** The days take this database's labels. Three saints' days are new:
+`Jan Hus (6 July)`, `St Margaret (13 July)` and `Dispersion of the Apostles
+(15 July)`. The early services of Christmas and Easter are `Christmas (Dawn)`
+and `Easter (Sunrise)`, and the Sunday before Advent, the last of the year, is
+`Trinity 27`.
+
+**One hymn with the Slovak lists.** The Rubryka's song for the 1st Sunday after
+Trinity, *Slušíť na to každý čas*, is the *Cithara Sanctorum*'s hymn of the
+same Sunday, which Ruščin's table cuts to *Slušiť na to každý č.*. An alias in
+`export_xlsx.py` makes them one hymn, and the Slovak row's gloss reads "č." as
+*čas*; it had read *člověk*. The morning songs, not loaded, share more with
+the register: *Pamatuj, člověče* is the Rubryka's morning song and a hymn of
+the register on Trinity 11.
+
+**What it shows.** Of the 65 days of Appendix 8.A for which it gives hymns, it
+gives on three a hymn that the old German witnesses give for the day, each a
+Latin piece in Czech: *Grates nunc omnes* at Christmas, *Victimae paschali
+laudes* at Easter and the antiphon *Veni Sancte Spiritus* at Pentecost. On
+none does it give a hymn the table shows.
+
+**Appendix 8.A.** It is an old witness in another language than German, which
+the table does not count (`CZECH`, in `OTHER_LANGUAGES` of `appendix_8a.py`).
+Counted alone, it would change no day. Counted with the Finnish and Slovak
+lists, it would leave Palm Sunday without a hymn that has a quarter of the
+day's witnesses (*Christus, der uns selig macht*, 6 of 25), and Quinquagesima
+would again need its assignment (*Durch Adams Fall*, 5 of 21).
 
 ## Schema
 

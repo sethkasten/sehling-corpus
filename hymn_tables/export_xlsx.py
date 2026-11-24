@@ -7,7 +7,7 @@ from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
 import merge_elberfeld, merge_finnish, merge_ingria, merge_krusemark, merge_lbw, merge_sbh, merge_slovak
-import merge_te_laudamus
+import merge_te_laudamus, merge_zavorka
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -66,7 +66,8 @@ def load():
         # handbooks and the Slovak lists name their hymns in the same way: a hymn they leave
         # unnamed keeps its Finnish or Czech title. The Elberfeld hymnal's rows are named by the
         # lexicon, else by the index's title for the hymn's row, else by the German first line; the
-        # Ingrian calendar's the same way, else by the original's title, else by the Russian first line
+        # Ingrian calendar's the same way, else by the original's title, else by the Russian first line;
+        # Závorka's Rubryka's by the lexicon, else by the original's title, else by the Czech title
         by_number, name = False, None
         if not ident and wit in merge_finnish.WITNESSES:
             ident, by_number = merge_finnish.canonical(src), True
@@ -78,6 +79,9 @@ def load():
         elif not ident and wit == merge_ingria.WITNESS:
             ident, by_number = merge_ingria.canonical(src), True
             if not ident: name = merge_ingria.name(src)
+        elif not ident and wit == merge_zavorka.WITNESS:
+            ident, by_number = merge_zavorka.canonical(src), True
+            if not ident: name = merge_zavorka.name(src)
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -145,6 +149,9 @@ _ALIAS_SRC = {
  'By Adam\'s Fall Is All Forlorn':            'Durch Adams Fall ist ganz verderbt',
  'By Adam\'s fall man\'s frame entire':       'Durch Adams Fall ist ganz verderbt',
  'Te Deum laudamus':                         'Herr Gott, dich loben wir',
+ # the Cithara Sanctorum's (1674) hymn for the 1st Sunday after Trinity, cut short in Ruščin's
+ # table, which Závorka's Rubryka (1602-06) gives on the same Sunday in full
+ 'Slušiť na to každý č.':                    'Slušíť na to každý čas',
 }
 # keyed through the same normaliser the lookup uses, or nothing would ever match
 ALIAS = {bridge.keyify(k): v for k, v in _ALIAS_SRC.items()}
@@ -222,6 +229,13 @@ def main():
          'sung between the Epistle and the Gospel, with its alternatives. Its rows give the Russian first lines of the '
          'church\'s hymnal, with a literal English gloss; a hymn is named by the lexicon, else by the index\'s row for its '
          'original, else by the original\'s title, else by its Russian first line. A modern witness.', BODY),
+        ('Závorka, Písně chval božských (1602-06): the hymns of the High Mass that the Rubryka, the order for the year '
+         'of Tobiáš Závorka Lipenský\'s Czech hymnal (Prague, 1602-06), gives for the Sundays and feasts, one witness: '
+         'the sequence or the hymn in its place, the hymn after the Gospel and the hymn after the sermon, with their '
+         'alternatives. Its rows give the Czech incipits in modern spelling, with a literal English gloss; a hymn is named '
+         'by the lexicon, else by the Latin original\'s title where the book heads it with the Latin and the text is its '
+         'translation, else by its Czech title. An old witness, which Appendix 8.A does not count, as it does not the '
+         'Finnish and Slovak lists.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

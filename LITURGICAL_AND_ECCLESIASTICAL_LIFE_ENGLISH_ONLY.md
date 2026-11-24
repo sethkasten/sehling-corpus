@@ -1709,14 +1709,14 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 6,172 prescriptions from 67 witnesses, in two layers that must be kept apart:
+The database holds 6,381 prescriptions from 68 witnesses, in two layers that must be kept apart:
 - **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 5,345 prescriptions come from other books and lists:
+- **The hymnals and compilations.** 5,554 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1743,7 +1743,11 @@ The database holds 6,172 prescriptions from 67 witnesses, in two layers that mus
     reading;
   - the liturgical calendar of the Church of Ingria (the Russian Lutheran Church) for 2025–26,
     the hymn sung between the epistle and the gospel of each Sunday and feast, in Russian, named
-    by the hymn it translates where that can be told.
+    by the hymn it translates where that can be told;
+  - the order for the year (*Rubryka*) of Tobiáš Závorka Lipenský's Czech hymnal *Písně chval
+    božských* (Prague, 1602–06), the hymns of the High Mass of each Sunday and feast: the sequence
+    or a hymn in its place, and the hymns after the gospel and after the sermon, named by the
+    Latin hymn the book heads them with where they translate it.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
 
@@ -27378,7 +27382,7 @@ glance:
 - **Only the old sources are counted.** These are the German church orders and hymnals of
   1537–1694, the Leipzig usage of Bach's time, and a modern study that does nothing but collate
   those older sources. The modern lists, from 1800 onward, are left out, and so are five old
-  lists in other languages, three Finnish and two Slovak ([§8.A.1](#s8-a-1)).
+  lists in other languages, three Finnish, two Slovak and one Czech ([§8.A.1](#s8-a-1)).
 - **Only the hymns with significant support are given.** A day with one clear hymn shows that
   hymn alone. A day where support is divided shows each hymn with good support, and none of the
   hymns with only a few witnesses.
@@ -27389,7 +27393,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 67 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
+Of the 68 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -27399,8 +27403,8 @@ Of the 67 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 | Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
 | Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
-The other 31 witnesses are **not counted**: 26 modern lists, three Finnish church handbooks and
-two Slovak lists. Krusemark explains his own lists on pp. 95–96 of `Hymns_ABC_Krusemark.pdf`.
+The other 32 witnesses are **not counted**: 26 modern lists, three Finnish church handbooks, two
+Slovak lists and a Czech hymnal. Krusemark explains his own lists on pp. 95–96 of `Hymns_ABC_Krusemark.pdf`.
 The modern witnesses are:
 
 - Krusemark's own series: Years A, B and C, and, on the days the three-year series does not
@@ -27421,8 +27425,11 @@ The Finnish handbooks, of 1614, 1629 and 1694, are old. Like the German orders t
 for each Sunday and feast, sung between the epistle and the gospel. So are the Slovak lists,
 which Peter Ruščin sets out for the Sundays after Trinity: the register of the *Cithara
 Sanctorum* printed at Levoča in 1674, four hymns to a Sunday, and a manuscript hymnal of central
-Slovakia of c. 1674–1720. But their hymns are in Finnish and in Czech, and fewer than half of
-them can be matched with a German or Latin hymn: `hymns.db` names a hymn by its original only
+Slovakia of c. 1674–1720. So is the Czech hymnal of Tobiáš Závorka Lipenský, *Písně chval
+božských* (Prague, 1602–06), whose order for the year, the *Rubryka*, gives for the High Mass of
+each Sunday and feast the sequence or a hymn in its place, a hymn after the gospel and one after
+the sermon. But their hymns are in Finnish and in Czech, and fewer than half of them can be
+matched with a German or Latin hymn: `hymns.db` names a hymn by its original only
 where the translation is certain or probable, and the rest by their own titles
 (`HYMN_GUIDE.md`). This table, of the German orders and hymnals, leaves them out.
 [§8.A.4](#s8-a-4) notes what they would change.
@@ -27731,6 +27738,12 @@ old witnesses that do give this hymn.
   days: Trinity 1 would have *Es war einmal ein reicher Mann* (There was once a rich man) alone, and Trinity 20 would gain
   *Wie schön leuchtet der Morgenstern*. Counted with the Finnish handbooks, they would leave
   Trinity 20 as it is, but take *Ihr lieben Christen, freut euch nun* (Rejoice, Rejoice Ye Christians Dear) from the last Sundays.
+
+  Závorka's *Rubryka*, whose hymns of the day are Czech hymns and, but for three Latin pieces
+  at Christmas, Easter and Pentecost, none of the old German witnesses', would change no day.
+  Counted with the Finnish and Slovak lists, it would leave Palm Sunday without a hymn that has a
+  quarter of the witnesses (*Christus, der uns selig macht*, 6 of 25), and Quinquagesima would
+  again need its assignment (*Durch Adams Fall*, 5 of 21).
 - **What the table shows.**
   - The core of the old *de tempore* (of the season) scheme is very stable. On 30 of the 66 days whose hymn the
     witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:

@@ -1,0 +1,256 @@
+seq,rubryka_leaf,day_printed,day,slot,position,printed,title,literal_english,ref,from_leaf,original,lexicon,confidence,loaded,note
+1,7r b,"W prwnj Neděli [Adwentnj], na Summě",Advent 1,sequence,,Slowo dobré,Slovo dobré,A good word,A xij,,,,,yes,"or the tract (A x). The sequence begins on A xiij under the heading ""Prozy: Verbum bonum & suave &c."": a Czech sequence on the melody of Verbum bonum et suave, whose first words translate the Latin's, but whose text, on the fall and the redemption (""Slowo dobré Pán Bůh diwný nezměnil gest swého uloženj""), is not the Latin's address to Mary"
+2,7r b,"W prwnj Neděli [Adwentnj], na Summě",Advent 1,sequence,alternative,Swětlo n[…],Světlo n…,The light …,A xiij,,,,,yes,
+3,7r b,"W prwnj Neděli [Adwentnj], na Summě",Advent 1,after the Gospel,,O Dcerko Syon,Ó dcerko Sion,O daughter of Zion,A xij,,,,,yes,
+4,7r b,"W prwnj Neděli [Adwentnj], na Summě",Advent 1,after the sermon,,Poděkugmež Otcy,Poděkujmež Otci,Let us give thanks to the Father,A xix,,,,,yes,
+5,7v a,W Neděli ij. Adwentnj,Advent 2,sequence,,Den hněwu den,Den hněvu,The day of wrath,T xviii,,Dies irae,,certain,yes,"""chceš-li, místo Prozy"": instead of the sequence, if you will. On T xviii, under the heading ""Dies iræ, Dies illa, &c."", a strophic translation sung to the tune of Dočkali jsme času svitání (R xx): ""Den hněwu den budaucý onen"""
+6,7v a,W Neděli ij. Adwentnj,Advent 2,sequence,alternative,Weselé spjweg,Veselé zpívej,Sing joyfully,A xxiiii,,,,,yes,
+7,7v a,W Neděli ij. Adwentnj,Advent 2,after the Gospel,,Čtwrté přj[štj],Čtvrté příští,The fourth coming,A xxiiii,,,,,yes,
+8,7v a,W Neděli ij. Adwentnj,Advent 2,after the sermon,,Bychom sobě,Bychom sobě,That we might for ourselves,T xx,,,,,yes,
+9,7v a,W Neděli ij. Adwentnj,Advent 2,after the sermon,alternative,Slyšjc hlas Boha swého,Slyšíc hlas Boha svého,Hearing the voice of his God,T xxi,,,,,yes,
+10,7v a,W Neděli iij. Adwentnj,Advent 3,after the Gospel,,Druhé přjštj geho,Druhé příští jeho,His second coming,A xvi,,,,,yes,"the rest of the Advent ones, or O wěčný neymilosrdněgšj (A xxviii)"
+11,7v a,W Neděli iij. Adwentnj,Advent 3,after the Gospel,alternative,Uděliž nám swé milosti,Udělíž nám své milosti,Grant us thy grace,A xxi,,,,,yes,
+12,7v a,W Neděli iij. Adwentnj,Advent 3,after the sermon,,Nebeského Otce swého,Nebeského Otce svého,Of his heavenly Father,A xxiiii,,,,,yes,
+13,7v b,W Neděli iiij. Adwentnj,Advent 4,after the Gospel,,W hodinu smrti Krystus,V hodinu smrti Kristus,At the hour of death Christ,A xxix,,,,,yes,
+14,7v b,W Neděli iiij. Adwentnj,Advent 4,after the Gospel,alternative,Kryste Synu Pan[ě],"Kriste, Synu Páně","Christ, Son of the Lord",A xxvii,,,,,yes,
+15,7v b,W Neděli iiij. Adwentnj,Advent 4,after the sermon,,Wšickni wěrnj Křesťia[né],Všichni věrní křesťané,All faithful Christians,A xix,,,,,yes,
+16,8r a,"Den Narozenj P. Krysta, Ráno",Christmas (Dawn),sequence,,Pane Gežu Kry[ste],Pane Ježíši Kriste,Lord Jesus Christ,B xi,,,,,yes,after the Alleluia (B vij)
+17,8r a,"Den Narozenj P. Krysta, Ráno",Christmas (Dawn),after the Gospel,,Lukáš swatý,Lukáš svatý,Saint Luke,B xvj,,,,,yes,
+18,8r a,"Den Narozenj P. Krysta, Ráno",Christmas (Dawn),after the sermon,,Pastýřům ney[prwé],Pastýřům nejprve,To the shepherds first,B xvii,,,,,yes,
+19,8r a,"Den Narozenj P. Krysta, na Summě",Christmas,antiphon before the Introit,,O přeswaté,Ó přesvaté,O most holy,B iiii,,,,,yes,
+20,8r a,"Den Narozenj P. Krysta, na Summě",Christmas,sequence,,Djky giž,Díky již,Thanks now,B viii,,Grates nunc omnes,Grates nunc omnes,certain,yes,"sung after the first and second verses of the Alleluia and after its repetition. On B viij v, under the heading ""Grates nunc omnes reddamus, Domino Deo, &c."", a translation: ""Djky giž wšyckni wzdáwegme Pánu Bohu našemu"""
+21,8r a,"Den Narozenj P. Krysta, na Summě",Christmas,after an Alleluia verse,,Nastal gt nám,Nastal nám den veselý,There has come to us a joyful day,B xxii,,,,possible,yes,"""spjwá se po některém Werši"": sung after one of the verses. On B xxij it begins ""Nastal nám Den weselý welmi, plný wšeho weselenj; Král nad Králi a Pán nad Pány narodil se gest nám z Panny"", with a refrain, and no Latin heading; possibly a free version of Dies est laetitiae"
+22,8r a,"Den Narozenj P. Krysta, na Summě",Christmas,after the Gospel,,Když se naplnil čas,Když se naplnil čas,When the time was fulfilled,B iii,,,,,yes,
+23,8r a,"Den Narozenj P. Krysta, na Summě",Christmas,after the Gospel,alternative,Slowo wěčné,Slovo věčné,The eternal Word,B iii,,,,,yes,
+24,8r a,"Den Narozenj P. Krysta, na Summě",Christmas,after the sermon,,Wdegmež chw[álu],Vzdejmež chválu,Let us give praise,B xviii,,,,,yes,"read ""Wděgmež chw"""
+25,8r a,Na S. Štěpána,St Stephen (26 Dec),after the Gospel,,O Pane Gežu,Ó Pane Ježíši,O Lord Jesus,B xxii,,,,,yes,
+26,8r a,Na S. Štěpána,St Stephen (26 Dec),after the Gospel,alternative,Dobrý tě doček[awše],Dobří tě dočekavše,"The good, having waited for thee",B xx,,,,,yes,"printed ""Dobrý ře doček: B xx""; there is no such hymn on B xx (both sides read), and it is taken for the stanza of the Christmas hymn on B xxv that the Rubryka gives on the Sunday after Christmas"
+27,8r a,Na S. Štěpána,St Stephen (26 Dec),after the sermon,,Slunce z Hwězdy,Slunce z hvězdy,The sun from a star,B xxi,,,,,yes,
+28,8r b,Na S. Jana,St John the Evangelist (27 Dec),sequence,,,Jan svatý Kristu Pánu převelmi milý,"Saint John, most dear to Christ the Lord",J v,yes,Johannes Jesu Christo multum dilecte,,certain,yes,"the Rubryka gives the sequence by its leaf (""Proza J v""); there, under the heading ""Prosa, Johannes Jesu Christo multum dilecte etc."", a translation begins ""Jan Swatý Krystu Pánu přewelmi milý"""
+29,8r b,Na S. Jana,St John the Evangelist (27 Dec),after the Gospel,,Budiž chwála,Budiž chvála,Praise be,B xvii,,,,,yes,
+30,8r b,Na S. Jana,St John the Evangelist (27 Dec),after the sermon,,Za Cýsaře Augusta,Za císaře Augusta,In the time of the emperor Augustus,B xix,,,,,yes,
+31,8r b,W Neděli před nowým Létem,Sunday after Christmas,morning,,Hod radostný pa[…],Hod radostný…,A joyful feast,B xiiii,,,,,no,"at the early service (""Ráno"")"
+32,8r b,W Neděli před nowým Létem,Sunday after Christmas,morning,alternative,Chwály zwu[č],Chvály zvuč…,Sound praises,B xi,,,,,no,
+33,8r b,W Neděli před nowým Létem,Sunday after Christmas,sequence,,Buď chwála Bohu,Buď chvála Bohu,Praise be to God,B ix,,,,,yes,
+34,8r b,W Neděli před nowým Létem,Sunday after Christmas,after the Gospel,,Dobrý tě dočeka[wše],Dobří tě dočekavše,"The good, having waited for thee",B xxv,,,,,yes,"a stanza of the Christmas hymn on B xxv, on Simeon and Anna: ""Dobrý tě dočekawše, z tebe radost měli"""
+35,8r b,W Neděli před nowým Létem,Sunday after Christmas,after the Gospel,alternative,Podlé Zákona starého,Podle zákona starého,According to the old law,J xi,,,,,yes,
+36,8r b,W Neděli před nowým Létem,Sunday after Christmas,after the sermon,,Chwalmež my,Chvalmež my,Let us praise,B XX,,,,,yes,
+37,8v a,Na Nowé léto,New Year (Circumcision),after the Gospel,,Osmý den,Osmý den,The eighth day,B XXX,,,,,yes,"its sequences: ""Prozy wiz B 39"", a choice, at a leaf so printed"
+38,8v a,Na Nowé léto,New Year (Circumcision),after the sermon,,Rok no[wý],Rok nový,The new year,B 30,,,,,yes,
+39,8v a,Neděle j. po Třech Králjch,Epiphany 1,sequence,,,"Budiž čest, chvála, Kriste","Honour and praise be, O Christ",C viii,yes,,,,yes,"the Rubryka gives the sequence by its leaf (""Alleluia: Proza: C vii. a viii."", the Alleluia on C vii, the sequence on C viii); there a prose (""Prosa"") begins ""Budiž čest chwála Kryste/ Synu Otce gednorozený"""
+40,8v a,Neděle j. po Třech Králjch,Epiphany 1,after the Gospel,,Když byl we dwanácti,Když byl ve dvanácti,When he was twelve,C xj,,,,,yes,
+41,8v a,Neděle j. po Třech Králjch,Epiphany 1,after the sermon,,Milý Pane Ge[žjši],Milý Pane Ježíši,Dear Lord Jesus,S xx,,,,,yes,
+42,8v b,Druhá Neděle,Epiphany 2,morning,,Budiž wěčná chwála,Budiž věčná chvála,Eternal praise be,C viii,,,,,no,
+43,8v b,Druhá Neděle,Epiphany 2,morning,,Raduj se z toho,Raduj se z toho,Rejoice in this,C v,,,,,no,
+44,8v b,Druhá Neděle,Epiphany 2,sequence,,Budiž čest,Budiž čest,Honour be,B x,,,,,yes,
+45,8v b,Druhá Neděle,Epiphany 2,after the Gospel,,Budiž chwála Bohu z té[to],Budiž chvála Bohu z této…,Praise be to God for this,Q xxv,,,,,yes,
+46,8v b,Druhá Neděle,Epiphany 2,after the sermon,,O Bože předobro[tiwý],Ó Bože předobrotivý,O most gracious God,Q xxvii,,,,,yes,
+47,8v b,Třetj Neděle,Epiphany 3,morning,,Prorokowali Pro[roci],Prorokovali proroci,The prophets prophesied,B xxiii,,,,,no,
+48,8v b,Třetj Neděle,Epiphany 3,morning,,Zwěstugem wám ra[dost],Zvěstujem vám radost,We bring you tidings of joy,B xxvii,,,,,no,
+49,8v b,Třetj Neděle,Epiphany 3,sequence,,Djky wzdáwegme srd[ečné],Díky vzdávejme srdečné,Let us give heartfelt thanks,B xi,,,,,yes,"after ""all of Christmas"", in the place of the sequence"
+50,8v b,Třetj Neděle,Epiphany 3,after the Gospel,,Buď chwála tobě,Buď chvála tobě,Praise be to thee,B xxvi,,,,,yes,
+51,8v b,Třetj Neděle,Epiphany 3,after the sermon,,Wzdegmež chwálu,Vzdejmež chválu,Let us give praise,B xiiii,,,,,yes,
+52,9r a,Čtwrtá Neděle,Epiphany 4,morning,,Radugme se z spasy[tele],Radujme se ze spasitele,Let us rejoice in the Saviour,C x,,,,,no,
+53,9r a,Čtwrtá Neděle,Epiphany 4,morning,,Chwály zwuč,Chvály zvuč,Sound praises,B xi,,,,,no,
+54,9r a,Čtwrtá Neděle,Epiphany 4,sequence,,O předobrý Gežjši,Ó předobrý Ježíši,O most good Jesus,C xii,,,,,yes,instead of the sequence
+55,9r a,Čtwrtá Neděle,Epiphany 4,after the Gospel,,Milý Kryste zů[stáwej],"Milý Kriste, zůstávej…","Dear Christ, abide",L x,,,,,yes,
+56,9r a,Čtwrtá Neděle,Epiphany 4,after the sermon,,K tobě Pane Bože celau [mysli],"K tobě, Pane Bože, celou…","To thee, Lord God, with all [my mind]",L xii,,,,,yes,
+57,9r a,Čtwrtá Neděle,Epiphany 4,after the sermon,alternative,O Páně přispěg,"Ó Pane, přispěj","O Lord, make haste [to help]",L xii,,,,,yes,
+58,9r a,Pátá Neděle,Epiphany 5,sequence,,,Krista Pána svátky,The feasts of Christ the Lord,C xv,yes,,,,yes,"the Rubryka gives the sequence by its leaf (""Proza C xv""); there a prose (""Prosa"") begins ""Krysta Pána Swátky/ Křesťianstwo má w poctiwosti"""
+59,9r a,Pátá Neděle,Epiphany 5,after the Gospel,,O neymilegšj Bo[že],Ó nejmilejší Bože,O dearest God,L xxvii,,,,,yes,
+60,9r a,Pátá Neděle,Epiphany 5,after the Gospel,alternative,Zářj Swětla,Září světla,The radiance of light,B xx,,,,,yes,
+61,9r a,Pátá Neděle,Epiphany 5,after the sermon,,A protož my zde,A protož my zde,And therefore we here,B xxii,,,,,yes,
+62,9r b,Šestá Neděle,Epiphany 6,morning,,Kryste choti gediný Srd[ce],"Kriste, choti jediný","Christ, only bridegroom",O xviii,,,,,no,
+63,9r b,Šestá Neděle,Epiphany 6,morning,,Takto wolá sám,Takto volá sám,Thus he himself calls,R xiii,,,,,no,
+64,9r b,Šestá Neděle,Epiphany 6,sequence,,Buď chwála Bohu,Buď chvála Bohu,Praise be to God,B ix,,,,,yes,"""wše o Narozenj"": all of Christmas, its sequence also"
+65,9r b,W Dewjtnjk,Septuagesima,after the Gospel,,Tys Winný Kořen,Tys vinný kořen,Thou art the vine,R vi,,,,,yes,
+66,9r b,W Dewjtnjk,Septuagesima,after the Gospel,alternative,Pomoz Bože pra[wý],"Pomoz, Bože pravý","Help, O true God",Q xvi,,,,,yes,
+67,9r b,W Dewjtnjk,Septuagesima,after the sermon,,O Bože kterýž gsy nás,"Ó Bože, kterýž jsi nás","O God, who hast us",Q xiiii,,,,,yes,
+68,9r b,Neděle II. Dewjtnjk,Sexagesima,sequence,,Proza o Slowu Božjm,Slovo Boha věčného,The Word of the eternal God,L xxi,yes,,,,yes,"""Proza o Slowu Božjm"": the sequence on the Word of God, without a leaf; the book's section on the Word of God has one, on L xxi v-xxii r, which the Rubryka gives on the 5th Sunday after Trinity: ""Slowo Boha wěčného/ každý Člowěk měg w poctiwosti"""
+69,9r b,Neděle II. Dewjtnjk,Sexagesima,after the Gospel,,O neymilegšj Bo[že],Ó nejmilejší Bože,O dearest God,L xxvii,,,,,yes,
+70,9r b,Neděle II. Dewjtnjk,Sexagesima,after the sermon,,Bože budiž,"Bože, budiž…","O God, be",M i,,,,,yes,
+71,9v a,Neděle Masopustnj,Quinquagesima (Estomihi),after the Gospel,,Oswětiž nás prosýme tě,"Osvěťiž nás, prosíme tě","Enlighten us, we pray thee",S iiij,,,,,yes,
+72,9v a,Neděle Masopustnj,Quinquagesima (Estomihi),after the Gospel,alternative,O degž tu slepotu z srd[ce],Ó dejž tu slepotu ze srdce…,O [take] this blindness from the heart,Q xiii,,,,,yes,
+73,9v a,Neděle Masopustnj,Quinquagesima (Estomihi),songs for the day,,Krystus Gežjš spa[sitel],Kristus Ježíš spasitel,Christ Jesus the Saviour,R 14,,,,,yes,
+74,9v a,Neděle Masopustnj,Quinquagesima (Estomihi),songs for the day,,My hřjšnj k to[bě],My hříšní k tobě,We sinners to thee,M xiiii,,,,,yes,
+75,9v a,Neděle Masopustnj,Quinquagesima (Estomihi),songs for the day,,Pozdwihniž o můg člo[wěče],"Pozdvihniž, ó můj člověče","Lift up, O my soul",S xxiii,,,,,yes,
+76,9v a,Prwnj Neděle Postnj,Lent 1 (Invocavit),morning,,Krystus přjklad,Kristus příklad,"Christ, the example",C 29,,,,,no,
+77,9v a,Prwnj Neděle Postnj,Lent 1 (Invocavit),morning,,Pán Krystus se postiti,Pán Kristus se postiti…,The Lord Christ to fast,C 30,,,,,no,
+78,9v a,Prwnj Neděle Postnj,Lent 1 (Invocavit),instead of the tract,,Pán Gežjš mage swé,Pán Ježíš maje své…,"The Lord Jesus, having his own",C 21,,,,,yes,or the tract (C 22)
+79,9v a,Prwnj Neděle Postnj,Lent 1 (Invocavit),after the Gospel,,Wiz zlost ďá[bla],Viz zlost ďábla,See the malice of the devil,C 30,,,,,yes,
+80,9v a,Prwnj Neděle Postnj,Lent 1 (Invocavit),after the Gospel,,O Bože wšemohúcý,Ó Bože všemohoucí,O God almighty,D j,,,,,yes,"given next, without a heading"
+81,9v b,Neděle druhá,Lent 2 (Reminiscere),after the tract,,Nawštěw nás,Navštěv nás,Visit us,D ii,,,,,yes,
+82,9v b,Neděle druhá,Lent 2 (Reminiscere),after the Gospel,,O Pane náš swau,"Ó Pane náš, svou…","O our Lord, thy",D ii,,,,,yes,
+83,9v b,Třetj neděle,Lent 3 (Oculi),after the Gospel,,Ale zbaw,Ale zbav…,But deliver [us],P xi,,,,possible,yes,"possibly the last petition of a Lord's Prayer hymn, ""but deliver us from evil"" (P x-xi; cf. Trinity 7)"
+84,9v b,Třetj neděle,Lent 3 (Oculi),after the sermon,,Genž sme tak,Jenž jsme tak…,We who are so,D xviii,,,,,yes,
+85,9v b,Třetj neděle,Lent 3 (Oculi),songs for the day,,Bohu Otcy,Bohu Otci,To God the Father,D ix,,,,,yes,
+86,10r a,Čtwrtá Neděle,Lent 4 (Laetare),after the Gospel,,Pán Gežjš,Pán Ježíš…,The Lord Jesus,R 16,,,,,yes,
+87,10r a,Čtwrtá Neděle,Lent 4 (Laetare),after the sermon,,Znagjc my tu,Znajíc my tu…,Knowing here,R 17,,,,,yes,
+88,10r a,Pátá Neděle,Lent 5 (Judica),morning,,Pamatugmež wšy,Pamatujmež všichni,Let us all remember,D viii,,,,,no,
+89,10r a,Pátá Neděle,Lent 5 (Judica),sequence,,Trakt/ Prozu/ wiz pořád D v,Stála Matka,The Mother stood,D vi,yes,Stabat mater dolorosa,,probable,yes,"""Trakt/ Prozu/ wiz pořád D v"": for the tract and the sequence see in order from D v, where this Sunday's propers begin (the Introit ""Suď mne Bože""): the tract (D v v), then on D vi, under the heading ""Stabat Mater dolo: &c."", a free Czech version, ""Stála Matka žalostiwá wedle Křjže bolestiwá"", its lines on the Mother alternating with new lines on Christ and the Christian"
+90,10r a,Pátá Neděle,Lent 5 (Judica),after the sequence,,Spasyteli Kry[ste],Spasiteli Kriste,Saviour Christ,C xxvii,,,,,yes,"given after the tract and the sequence, without a heading"
+91,10r a,Pátá Neděle,Lent 5 (Judica),after the Gospel,,Tys bezewšý po[…],Tys bez všeho…,Thou art without any,D 16,,,,,yes,
+92,10r b,w Kwětnau Neděli,Palm Sunday,morning,,O weliká mi[lost],Ó veliká milost…,O great grace,D xii,,,,,no,
+93,10r b,w Kwětnau Neděli,Palm Sunday,morning,,Poslauchej Křesť[ane],"Poslouchej, křesťane","Listen, Christian",D 16,,,,,no,
+94,10r b,w Kwětnau Neděli,Palm Sunday,after the Passion,,Zdráw buď,Zdráv buď,Hail,D vii,,,,,yes,
+95,10r b,w Kwětnau Neděli,Palm Sunday,after the Gospel,,Nebeský Pán,Nebeský Pán,The heavenly Lord,D xxvi,,,,,yes,
+96,10r b,w Kwětnau Neděli,Palm Sunday,after the sermon,,O horli[…],Ó horli…,O zeal…,D 15,,,,,yes,"read ""O horli"""
+97,10r b,W welký Pátek,Good Friday,after the Passion,,O křesťiané po[…],"Ó křesťané, po…",O Christians,D xix,,,,,yes,the rest: from D xxx
+98,10r b,"Na Welikau Noc, Ráno",Easter (Sunrise),sequence,,Prwnj den po so[botě],První den po sobotě,The first day after the sabbath,F v,,,,,yes,or the gradual (F j)
+99,10r b,"Na Welikau Noc, Ráno",Easter (Sunrise),sequence,alternative,Spjwegmež,Zpívejmež…,Let us sing,F vj,,,,,yes,
+100,10v a,"Na Welikau Noc, na Summě",Easter,antiphon before the Introit,,Když Král nad Král[i],Když Král nad králi,When the King over kings,E xxv,,Cum rex gloriae,,certain,yes,"on E xxv, under the heading ""Cum Rex glorie Christus, &c."", a translation: ""Když Král nad Králi Krystus Bůh prawý Pán wiečné Sláwy přemohl gest Diábla"""
+101,10v a,"Na Welikau Noc, na Summě",Easter,sequence,,,Vzdejž velikonoční chválu,Render the Easter praise,F iiii,yes,Victimae paschali laudes,Victimae paschali laudes,certain,yes,"the Rubryka gives the sequence by its leaf (""Proza F iiii""); there, under the heading ""Prozy. Victime Paschali laudes, &c."", a translation begins ""Wzdegž Welikonočnj Chwálu/ Křesťiané wzdegmež Pánu"""
+102,10v a,"Na Welikau Noc, na Summě",Easter,after the Gospel,,Weselíť nám,Veselíť nám…,Joyful to us,F 10,,,,,yes,
+103,10v a,"Na Welikau Noc, na Summě",Easter,after the Gospel,alternative,A protož my s[…],A protož my s…,And therefore we,E xxii,,,,,yes,
+104,10v a,"Na Welikau Noc, na Summě",Easter,after the sermon,,Degž nám Kryste,"Dejž nám, Kriste","Grant us, Christ",F 9,,,,,yes,
+105,10v a,w Pondělj,Easter Monday,sequence,,Zpjwegmež my,Zpívejmež my,Let us sing,F vi,,,,,yes,
+106,10v a,w Pondělj,Easter Monday,after the Gospel,,Ukázal se též dwěma,Ukázal se též dvěma,He showed himself also to two,E xix,,,,,yes,three verses and the last two
+107,10v a,w Pondělj,Easter Monday,after the sermon,,Wstalť gest Kry[stus],Vstalť jest Kristus,Christ is risen,F ix,,,,,yes,
+108,10v a,W Auterý,Easter Tuesday,sequence,,Utěšenýť nám,Utěšenýť nám…,Joyful to us,F ix,,,,,yes,"the one hymn named: ""songs enough for all times"""
+109,10v b,Prwnj Ned po welikénocy,Easter 1 (Quasimodogeniti),after the Gospel,,Osmý den zawolal gsy,Osmý den zavolal jsi,On the eighth day thou didst call,F xij,,,,,yes,
+110,10v b,Prwnj Ned po welikénocy,Easter 1 (Quasimodogeniti),after the sermon,,A protož my,A protož my…,And therefore we,F xv,,,,,yes,
+111,10v b,w Druhau Neděli,Easter 2 (Misericordias Domini),after the Gospel,,Ay toť gest slawný pose[l],"Aj, toť jest slavný posel","Behold, this is a glorious messenger",R vii,,,,,yes,
+112,10v b,w Druhau Neděli,Easter 2 (Misericordias Domini),after the Gospel,alternative,O milý Gežjši Pastýři,"Ó milý Ježíši, pastýři","O dear Jesus, shepherd",L xx,,,,,yes,
+113,10v b,w Druhau Neděli,Easter 2 (Misericordias Domini),after the sermon,,Protož my wšickni,Protož my všichni,Therefore we all,L xxi,,,,,yes,
+114,10v b,Třetj Neděle,Easter 3 (Jubilate),morning,,O Gezu Kryste Krá[li],"Ó Ježíši Kriste, Králi","O Jesus Christ, King",F xix,,,,,no,
+115,10v b,Třetj Neděle,Easter 3 (Jubilate),morning,,Krystus Gežjš,Kristus Ježíš,Christ Jesus,F xvii,,,,,no,
+116,10v b,Třetj Neděle,Easter 3 (Jubilate),after the Gospel,,Genžs umřjti,Jenž jsi umříti…,Thou who didst [deign] to die,E x,,,,,yes,"read ""Genžs vmřjti"""
+117,10v b,Třetj Neděle,Easter 3 (Jubilate),after the sermon,,Chwalmež wždy pře[…],Chvalmež vždy pře…,Let us always praise,E xvi,,,,,yes,
+118,11r a,Čtwrtá Neděle,Easter 4 (Cantate),after the Gospel,,Milý Gežjši,Milý Ježíši,Dear Jesus,F xiii,,,,,yes,
+119,11r a,Čtwrtá Neděle,Easter 4 (Cantate),after the Gospel,alternative,O Králi Nebeský,Ó Králi nebeský,O heavenly King,F ix,,,,,yes,
+120,11r a,Čtwrtá Neděle,Easter 4 (Cantate),after the sermon,,Uslyš Pane,"Uslyš, Pane","Hear, O Lord",F xvi,,,,,yes,
+121,11r a,w Neděli Prosebnau,Easter 5 (Rogate),after the sermon,,Ukrotiž se,Ukrotiž se…,Be appeased,L 7,,,,,yes,"at the early Mass (""Ráno""), ""Ukrotiž se: Dej pokoj""; instead of its sequence, songs for the weather, for rain or for the harvest (P xvi)"
+122,11r a,w Neděli Prosebnau,Easter 5 (Rogate),after the Gospel,,O Králi Nebeský,Ó Králi nebeský,O heavenly King,F ix,,,,,yes,"at the High Mass, ""all of the Resurrection"""
+123,11r b,O na Nebe wstaupenj,Ascension,after the Gospel,,Wstaupil Pán Kry[stus],Vstoupil Pán Kristus,The Lord Christ ascended,F XXX,,,,,yes,
+124,11r b,O na Nebe wstaupenj,Ascension,after the sermon,,Budiž Krystu čest,Budiž Kristu čest,Honour be to Christ,F 29,,,,,yes,
+125,11r b,Neděle po Božjm wstaupenj,Sunday after Ascension (Exaudi),after the Gospel,,Pomozyž nám milý Kryste,"Pomoziž nám, milý Kriste","Help us, dear Christ",F 28,,,,,yes,
+126,11r b,Neděle po Božjm wstaupenj,Sunday after Ascension (Exaudi),after the Gospel,alternative,Blahoslawenj gsau,Blahoslavení jsou,Blessed are,L 12,,,,,yes,
+127,11v a,"Den památný Seslánj Swatého Ducha, na Summě",Pentecost,antiphon before the Introit,,Přigdiž o swa[tý Duše],"Přijdiž, ó svatý Duše","Come, O Holy Spirit",,,"Veni Sancte Spiritus, reple tuorum corda fidelium","Komm, Heiliger Geist, erfüll die Herzen deiner Gläubigen",probable,yes,"""kněz začjná, žácy dokonagj"": the priest begins it, the pupils finish it; after the Gospel, any hymn of G 11"
+128,11v a,W Pondělj,Pentecost Monday,sequence,,Swatého Ducha,Svatého Ducha milost,The grace of the Holy Spirit,G 7,,Sancti Spiritus adsit nobis gratia,,certain,yes,"""Proza Swatého Ducha/ G 7""; on G vii, under the heading ""Sancti Spiritus adsit no[bis]"", a translation: ""Swatého Ducha milost rač býti s námi"""
+129,11v a,W Pondělj,Pentecost Monday,sequence,alternative,Duše swatý,Duše svatý,Holy Spirit,,,,,,yes,"given without a leaf: perhaps ""Duše Swatý rač…"" (G viii), which the Rubryka gives on the morning of the 8th Sunday after Trinity, or the Czech Veni Sancte Spiritus on G vi v, ""Přijdiž k nám Duše Swatý"""
+130,11v a,W Pondělj,Pentecost Monday,after the Gospel,,Otče náš milý,Otče náš milý,Our dear Father,G xi,,,,,yes,
+131,11v a,W Pondělj,Pentecost Monday,after the sermon,,Witeg sladký,"Vítej, sladký…","Welcome, sweet",G xii,,,,,yes,
+132,11v a,W Auterý,Pentecost Tuesday,after the Gospel,,O neymilostiw[ěgšj],Ó nejmilostivější,O most gracious,G 17,,,,,yes,
+133,11v a,W Auterý,Pentecost Tuesday,after the sermon,,Bože milý Du[še],Bože milý Duše,"O God, dear Spirit",G 17,,,,,yes,
+134,11v a,Na den památný Swaté Trogice,Trinity Sunday,antiphon before the Introit,,Sláwa,Sláva,Glory,E 19,,,,,yes,
+135,11v a,Na den památný Swaté Trogice,Trinity Sunday,after the Gospel,,Twé neyswětěgšj,Tvé nejsvětější…,Thy most holy,L XXviii,,,,,yes,
+136,11v a,Na den památný Swaté Trogice,Trinity Sunday,after the Gospel,alternative,O neyswětěgšj Tro[gice],Ó nejsvětější Trojice,O most holy Trinity,G XXviii,,,,,yes,
+137,11v b,w Neděli j. po S. Trogicy,Trinity 1,after the Gospel,,Mnozý nechtj protiwě[…],Mnozí nechtí…,Many will not,L xi,,,,,yes,
+138,11v b,w Neděli j. po S. Trogicy,Trinity 1,after the Gospel,alternative,Pyšnému nespo[…],Pyšnému ne…,To the proud,R 14,,,,,yes,
+139,11v b,w Neděli j. po S. Trogicy,Trinity 1,songs for the day,,Mnozýť gsau lidé,Mnozíť jsou lidé,There are many people,R 18,,,,,yes,
+140,11v b,w Neděli j. po S. Trogicy,Trinity 1,songs for the day,,Slušjť na to každý čas,Slušíť na to každý čas,It is fitting at all times,R XXI,,,,,yes,
+141,11v b,w Druhau Neděli,Trinity 2,sequence,,Ey nuž chwá[lu],"Ej, nuž chválu","Come now, praise",O xi,,,,,yes,
+142,11v b,w Druhau Neděli,Trinity 2,after the Gospel,,Máť se na mnohých,Máť se na mnohých…,It is so with many,R XXIII,,,,,yes,"""coť se widj"" follows: whichever seems good, as on the 8th and 22nd Sundays; after the sermon: see M ij, where the songs of repentance begin"
+143,12r a,Třetj Neděle,Trinity 3,songs for the day,,Bože náš genž,"Bože náš, jenž…","Our God, who",R 7,,,,,yes,
+144,12r a,Třetj Neděle,Trinity 3,songs for the day,,Pán Bůh wěčný,Pán Bůh věčný,The eternal Lord God,M 7,,,,,yes,
+145,12r a,Třetj Neděle,Trinity 3,after the Gospel,,Ay toť gest slaw[ný],"Aj, toť jest slavný…","Behold, this is a glorious",R 7,,,,,yes,
+146,12r a,Třetj Neděle,Trinity 3,after the Gospel,alternative,O degž to swaté,Ó dejž to svaté…,O grant that holy,M viii,,,,,yes,
+147,12r a,w Čtwrtau Neděli,Trinity 4,morning,,Snažugmež se w tomto,Snažujmež se v tomto,Let us strive in this,Q 16,,,,,no,
+148,12r a,w Čtwrtau Neděli,Trinity 4,after the Gospel,,A my hleďme milosrdnj býti,A my hleďme milosrdní býti,And let us see to it that we be merciful,Q xxij,,,,,yes,
+149,12r b,w Pátau Neděli,Trinity 5,morning,,Přiyawše Sen au[…],Přijavše…,Having received,S iiii,,,,,no,
+150,12r b,w Pátau Neděli,Trinity 5,sequence,,Proza/ wše o Slowu Božjm,Slovo Boha věčného,The Word of the eternal God,L 2j,yes,,,,yes,"""Introit/ Kyrye/ Alleluia/ Proza/ wše o Slowu Božjm/ L 2j"": all of the Word of God, L xxi, where the Alleluia ends and the one sequence of the book's section on the Word of God begins (L xxi v): ""Slowo Boha wěčného/ každý Člowěk měg w poctiwosti"""
+151,12r b,w Pátau Neděli,Trinity 5,after the Gospel,,Buď tobě chwála Otče,"Buď tobě chvála, Otče","Praise be to thee, Father",L 30,,,,,yes,
+152,12r b,Šestá Neděle,Trinity 6,morning,,Máš to znáti o křesťia[ne],"Máš to znáti, ó křesťane","Thou must know this, O Christian",R xiij,,,,,no,
+153,12r b,Šestá Neděle,Trinity 6,sequence,,Chce li kdo žiwot mjti,Chce-li kdo život míti,If anyone would have life,Q 4,,,,,yes,
+154,12r b,Šestá Neděle,Trinity 6,after the Gospel,,O Gezu Kryste,Ó Ježíši Kriste,O Jesus Christ,Q xiij,,,,,yes,
+155,12r b,Šestá Neděle,Trinity 6,after the Gospel,alternative,Bože milý deg,"Bože milý, dej…","Dear God, grant",Q xvi,,,,,yes,
+156,12v a,Sedmá Neděle,Trinity 7,morning,,Otče wšemohúcý rač,"Otče všemohoucí, rač…","Almighty Father, deign",R xvi,,,,,no,
+157,12v a,Sedmá Neděle,Trinity 7,morning,,Probuď se w mysli,Probuď se v mysli,Awake in mind,R xi,,,,,no,
+158,12v a,Sedmá Neděle,Trinity 7,sequence,,Bůh dobrý dobro[tiwý],"Bůh dobrý, dobrotivý","God, good and gracious",O xii,,,,,yes,
+159,12v a,Sedmá Neděle,Trinity 7,after the Gospel,,Degž nám dnes náš,Dejž nám dnes náš…,Give us this day our,P X,,,,possible,yes,"""s posledním weršem"": with its last verse; the petition for daily bread of a Lord's Prayer hymn, on the Sunday of the feeding of the four thousand; the Lord's Prayer (Vater unser) is the hymn of the old German orders on this Sunday"
+160,12v a,Sedmá Neděle,Trinity 7,after the sermon,,O Bože wšemo[húcý],Ó Bože všemohoucí,O God almighty,L v,,,,,yes,
+161,12v a,Neděle Osmá,Trinity 8,morning,,Neywyššj Králi Archan[ělů],Nejvyšší Králi archandělů,Highest King of the archangels,R X,,,,,no,
+162,12v a,Neděle Osmá,Trinity 8,morning,,Duše Swatý rač,"Duše svatý, rač…","Holy Spirit, deign",G viii,,,,,no,
+163,12v a,Neděle Osmá,Trinity 8,sequence,,Swatého Ducha,Svatého Ducha milost,The grace of the Holy Spirit,G 7,,Sancti Spiritus adsit nobis gratia,,certain,yes,"""Proza/ Swatého Ducha/ G 7"", as on Pentecost Monday"
+164,12v a,Neděle Osmá,Trinity 8,after the Gospel,,Pastýři ne[…],Pastýři ne…,Shepherds who are not,L XX,,,,,yes,"""coť se widj"" follows: whichever seems good"
+165,12v a,Neděle Osmá,Trinity 8,after the Gospel,alternative,Poželeyž toho,Poželejž toho…,Lament this,H xviii,,,,,yes,
+166,12v a,Neděle Osmá,Trinity 8,after the Gospel,,Zachowegž nás při,Zachovejž nás při…,Keep us in,L xxvii,,,,,yes,"given next, without a heading"
+167,12v b,Neděle Dewátá,Trinity 9,morning,,Rozkoš y utěšenj,Rozkoš i utěšení,Delight and comfort,S xxi,,,,,no,
+168,12v b,Neděle Dewátá,Trinity 9,sequence,,We lebnosti,Velebnosti tvé,Of thy majesty,O xvi,,,,,yes,"printed ""We lebnosti"": Welebnosti twé, the sequence of Trinity 23 (O 16)"
+169,12v b,Neděle Dewátá,Trinity 9,after the Gospel,,Nuž wšickni Kře[sťiané],Nuž všichni křesťané,"Come now, all Christians",R xviii,,,,,yes,two verses and the last two
+170,12v b,Neděle Dewátá,Trinity 9,after the Gospel,alternative,Bože náš tebeť,"Bože náš, tebeť…","Our God, thee",Q XX,,,,,yes,
+171,12v b,Neděle Desátá,Trinity 10,morning,,Neywyššj Králi Archan[ělů],Nejvyšší Králi archandělů,Highest King of the archangels,R X,,,,,no,
+172,12v b,Neděle Desátá,Trinity 10,sequence,,Chce li kdo ži[wot mjti],Chce-li kdo život míti,If anyone would have life,Q iiii,,,,,yes,
+173,12v b,Neděle Desátá,Trinity 10,after the Gospel,,Želegmež hřjchůw,Želejmež hříchů,Let us lament our sins,S 17,,,,,yes,
+174,12v b,Neděle Desátá,Trinity 10,after the Gospel,alternative,Umyslimež so[bě],Umyslemež sobě…,Let us resolve,M x,,,,,yes,
+175,13r a,Neděle Gedenáctá,Trinity 11,morning,,Pamatug člowěče,"Pamatuj, člověče","Remember, O man",R xiij,,,,,no,
+176,13r a,Neděle Gedenáctá,Trinity 11,sequence,,Wzdegmež čest,"Vzdejmež čest, chválu",Let us give honour and praise,O xiiij,,,,,yes,
+177,13r a,Neděle Gedenáctá,Trinity 11,after the Gospel,,Pozneyž sebe samého,Poznejž sebe samého,Know thyself,S xviii,,,,,yes,
+178,13r a,Neděle Gedenáctá,Trinity 11,after the Gospel,alternative,Prosmež Gežjše,Prosmež Ježíše,Let us beseech Jesus,G xii,,,,,yes,
+179,13r a,Neděle Gedenáctá,Trinity 11,after the sermon,,O Bože wšemohúcý,Ó Bože všemohoucí,O God almighty,L v,,,,,yes,
+180,13r a,Neděle Dwanáctá,Trinity 12,morning,,O přigdiž k nám,Ó přijdiž k nám,O come to us,G x,,,,,no,
+181,13r a,Neděle Dwanáctá,Trinity 12,sequence,,Ey nuž chwal,"Ej, nuž chválu","Come now, praise",O xi,,,,,yes,
+182,13r a,Neděle Dwanáctá,Trinity 12,after the Gospel,,Bože milý Duše,Bože milý Duše,"O God, dear Spirit",G xvii,,,,,yes,the first verse and the last three
+183,13r b,Neděle Třinácta,Trinity 13,morning,,Budiž chwála Bo[hu],Budiž chvála Bohu,Praise be to God,R x,,,,,no,
+184,13r b,Neděle Třinácta,Trinity 13,after the Gospel,,Blahoslawené,Blahoslavené…,Blessed [are the eyes],C 6,,,,,yes,"on the Gospel of the day, ""Blessed are the eyes which see"" (Luke 10:23); the leaf is hard to read"
+185,13r b,Neděle Čtrnáctá,Trinity 14,morning,,Děkugem tobě Kryste,"Děkujem tobě, Kriste","We thank thee, Christ",,,,,,no,
+186,13r b,Neděle Čtrnáctá,Trinity 14,sequence,,Wzdegmež čest chwá[lu],"Vzdejmež čest, chválu",Let us give honour and praise,O 14,,,,,yes,
+187,13r b,Neděle Čtrnáctá,Trinity 14,after the Gospel,,Pane Bože wše[mohúcý],Pane Bože všemohoucí,Lord God almighty,M 16,,,,,yes,
+188,13r b,Neděle Čtrnáctá,Trinity 14,after the Gospel,alternative,Křesťiané co sme,"Křesťané, co jsme…","Christians, what we are",L XXX,,,,,yes,
+189,13v a,Neděle Patnáctá,Trinity 15,morning,,Pán Bůh gest má,Pán Bůh jest má…,The Lord God is my,R xxij,,,,,no,
+190,13v a,Neděle Patnáctá,Trinity 15,sequence,,Srdcy čistých,Srdcí čistých,Of pure hearts,O 18,,,,,yes,
+191,13v a,Neděle Patnáctá,Trinity 15,sequence,alternative,Kryste choti,"Kriste, choti jediný","Christ, only bridegroom",,,,,,yes,"""pod nj"": under it"
+192,13v a,Neděle Patnáctá,Trinity 15,after the Gospel,,Kdožby chtěl dwěma Panům,Kdož by chtěl dvěma pánům,Whoever would [serve] two masters,S xxi,,,,,yes,
+193,13v a,Neděle Šestnáctá,Trinity 16,morning,,Budiž chwála P. Bo[hu],Budiž chvála Pánu Bohu,Praise be to the Lord God,S xiiii,,,,,no,
+194,13v a,Neděle Šestnáctá,Trinity 16,sequence,,Slušjť na to wšem,Slušíť na to všem,It befits all,,,,,,yes,"instead of the sequence; ""též tu"": also there (S xiij)"
+195,13v a,Neděle Šestnáctá,Trinity 16,after the Gospel,,Znagjce to wšickni wěr[nj],Znajíce to všichni věrní,"Knowing this, all the faithful",S xv,,,,,yes,
+196,13v a,Neděle Šestnáctá,Trinity 16,after the Gospel,alternative,O tichý Beránku Pane,"Ó tichý Beránku, Pane","O gentle Lamb, Lord",S xiiij,,,,,yes,
+197,13v b,Neděle Sedmnáctá,Trinity 17,morning,,Bože můg dárce wšeho,"Bože můj, dárce všeho","My God, giver of all",R xiv,,,,,no,
+198,13v b,Neděle Sedmnáctá,Trinity 17,sequence,,Weliký den Páně,Veliký den Páně,The great day of the Lord,O X,,,,,yes,
+199,13v b,Neděle Sedmnáctá,Trinity 17,after the Gospel,,Budiž chwála Bo[hu],Budiž chvála Bohu,Praise be to God,L 30,,,,,yes,
+200,13v b,Neděle Osmnáctá,Trinity 18,morning,,Weliká twá láska Bože,"Veliká tvá láska, Bože","Great is thy love, O God",R xii,,,,,no,
+201,13v b,Neděle Osmnáctá,Trinity 18,sequence,,O milý Hospodine,Ó milý Hospodine,O dear Lord,O xv,,,,,yes,
+202,13v b,Neděle Osmnáctá,Trinity 18,after the Gospel,,Buď tobě chwála,"Buď tobě chvála, Otče","Praise be to thee, Father",L 30,,,,,yes,
+203,13v b,Neděle Dewatenáctá,Trinity 19,morning,,Pane wšemohúcý,Pane všemohoucí,Almighty Lord,R xvi,,,,,no,
+204,13v b,Neděle Dewatenáctá,Trinity 19,sequence,,Radugjc se Křesťia[né],"Radujíc se, křesťané","Rejoicing, Christians",M xxi,,,,,yes,instead of the sequence
+205,13v b,Neděle Dewatenáctá,Trinity 19,after the Gospel,,Hřjchům my od[…],Hříchům my od…,Our sins,M 2j,,,,,yes,
+206,13v b,Neděle Dewatenáctá,Trinity 19,after the Gospel,alternative,O Studnice žiwo[ta],Ó studnice života,O well of life,M xxiii,,,,,yes,
+207,14r a,Neděle Dwadcátá,Trinity 20,morning,,Bohu milému Otcy,Bohu milému Otci,To God the dear Father,R XXII,,,,,no,
+208,14r a,Neděle Dwadcátá,Trinity 20,sequence,,Budiž chwála,Budiž chvála,Praise be,O XV,,,,,yes,
+209,14r a,Neděle Dwadcátá,Trinity 20,after the Gospel,,Znegmež wěrnj,"Znejmež, věrní…","Let us know, ye faithful",R XV,,,,,yes,
+210,14r a,Neděle Gedenmecýtmá,Trinity 21,morning,,Wjru a dauffánj w B[oha],Víru a doufání v Boha,Faith and hope in God,P xviii,,,,,no,
+211,14r a,Neděle Gedenmecýtmá,Trinity 21,after the Gospel,,Prosmež wšyck[ni],Prosmež všichni,Let us all beseech,G xi,,,,,yes,"""all of the Holy Spirit"""
+212,14r b,Neděle Dwamecýtmá,Trinity 22,after the Gospel,,Pomni na tu hodi[nu],Pomni na tu hodinu,Remember that hour,S xxi,,,,,yes,"""coť se widj"": whichever pleases"
+213,14r b,Neděle Třimecýtmá,Trinity 23,morning,,Kryste Králi náš,"Kriste, Králi náš","Christ, our King",R viii,,,,,no,
+214,14r b,Neděle Třimecýtmá,Trinity 23,sequence,,Welebnosti twé,Velebnosti tvé,Of thy majesty,O 16,,,,,yes,
+215,14r b,Neděle Třimecýtmá,Trinity 23,after the Gospel,,Protož pro syna twého,Protož pro syna tvého,Therefore for thy Son,L 9,,,,,yes,
+216,14r b,Neděle Třimecýtmá,Trinity 23,after the Gospel,alternative,Bože genž wšecko sprawu[geš],"Bože, jenž všecko spravuješ","O God, who governest all things",R iiii,,,,,yes,
+217,14v a,Neděle Dwadcátá Čtwrtá,Trinity 24,morning,,Budiž chwála Bohu na[…],Budiž chvála Bohu na…,Praise be to God on,R 9,,,,,no,
+218,14v a,Neděle Dwadcátá Čtwrtá,Trinity 24,sequence,,Bůh dobrý,"Bůh dobrý, dobrotivý","God, good and gracious",O xii,,,,,yes,the sequence of Trinity 7 (O xii)
+219,14v a,Neděle Dwadcátá Čtwrtá,Trinity 24,after the Gospel,,Ay giž ze wšeho,"Aj, již ze všeho…","Behold, now from all",R 10,,,,,yes,"six verses and the seventh, the last"
+220,14v a,Neděle Dwadcátá Pátá,Trinity 25,sequence,,Gistěť nenj daremnj,Jistěť není daremní…,Surely it is not in vain,T xix,,,,,yes,instead of the sequence
+221,14v a,Neděle Dwadcátá Pátá,Trinity 25,after the Gospel,,O křesťiané poz[…],"Ó křesťané, poz…",O Christians,R xxix,,,,,yes,
+222,14v a,Neděle Dwadcátá Šestá,Trinity 26,morning,,Králi Nebeský,Králi nebeský,Heavenly King,T xxi,,,,,no,
+223,14v a,Neděle Dwadcátá Šestá,Trinity 26,sequence,,Den hněwu,Den hněvu,The day of wrath,T xviii,,Dies irae,,certain,yes,
+224,14v a,Neděle Dwadcátá Šestá,Trinity 26,after the Gospel,,Když přigde Pán,Když přijde Pán,When the Lord comes,T xx,,,,,yes,
+225,14v b,Neděle před Adwentem,Trinity 27,sequence,,Lidské Pokole[nj],Lidské pokolení,The human race,T xxiii,,,,,yes,"the Sunday before Advent, the last Sunday of the year; instead of the sequence; ""all of Easter"""
+226,14v b,Neděle před Adwentem,Trinity 27,after the Gospel,,Kryste Bo[že],Kriste Bože…,"Christ, God",T xxv,,,,,yes,
+227,14v b,O S. Ondřegi,St Andrew (30 Nov),after the Gospel,,Swatj Apo[štolé],Svatí apoštolé,Holy apostles,H 17,,,,,yes,the first two verses and the last two
+228,14v b,Den S. Tomáše,St Thomas (21 Dec),after the Gospel,,Ukázal se také Tomášowi,Ukázal se také Tomášovi,He showed himself to Thomas too,E xix,,,,,yes,
+229,14v b,Den S. Pawla obrácenj,Conversion of St Paul (25 Jan),after the Gospel,,Blahoslawenj,Blahoslavení…,Blessed are,C v,,,,,yes,
+230,14v b,"Den Obětowánj P. Marye, neb Hromnic",Purification of Mary (2 Feb),after the Gospel,,Podlé Zákona,Podle zákona starého,According to the old law,J xi,,,,,yes,as on the Sunday after Christmas (J xi)
+231,14v b,Den Swatého Matěge,St Matthias (24 Feb),after the Gospel,,Genž ráčil,Jenž ráčil…,Who deigned,R xv,,,,,yes,
+232,15r a,Den S. Filipa a Jakuba,Ss Philip and James (1 May),after the Gospel,,Uslyš nás Kryste,"Uslyš nás, Kriste","Hear us, Christ",F 20,,,,,yes,
+233,15r a,Při památkách Křjže Swatého,Holy Cross (14 Sept),sequence,,Stáše Matka,Stála Matka,The Mother stood,D vi,,Stabat mater dolorosa,,probable,yes,"at the feasts of the Holy Cross; ""and plenty of others on the Passion"". Printed ""Stáše Matka"" (the Old Czech imperfect, ""stabat""); on D vi, under the heading ""Stabat Mater dolo: &c."", a free Czech version, ""Stála Matka žalostiwá"", its lines on the Mother alternating with new lines on Christ and the Christian"
+234,15r a,Při památkách Křjže Swatého,Holy Cross (14 Sept),sequence,alternative,Poważ každá,Považ každá…,"Consider, every [soul]",D xi,,,,,yes,
+235,15r a,Den S. Jana Křtitele,St John the Baptist (24 June),after the Gospel,,Wěčnému Otcy,Věčnému Otci,To the eternal Father,J xv,,,,,yes,
+236,15r a,Den S. Petra a Pawla,St Peter and St Paul (29 June),after the Gospel,,Milugž nás Gezu,"Milujž nás, Ježíši","Love us, Jesus",J 18,,,,,yes,
+237,15r a,Den Nawštjwenj od Panny Marye Alžběty,Visitation of Mary (2 July),after the Gospel,,Magjc takowá,Majíc takovou…,Having such,J xx,,,,,yes,
+238,15r a,Při památce Mistra Jana Husa,Jan Hus (6 July),after the Gospel,,O přeblaho[slawený],Ó přeblahoslavený,O most blessed,H xx,,,,,yes,"""all of the martyrs"" (H xxii); instead of the sequence, any hymn (J xxi)"
+239,15r a,Na den S. Markéty,St Margaret (13 July),after the Gospel,,Slyšjc hlas Boha,Slyšíc hlas Boha svého,Hearing the voice of his God,T xxi,,,,,yes,"""all of the virgins"" (H 29)"
+240,15r a,Den Rozeslánj Apoštolůw,Dispersion of the Apostles (15 July),after the Gospel,,Degž nám wěčný,Dejž nám věčný…,Grant us eternal,H 17,,,,,yes,
+241,15r a,Den S. Marye Magdaleny,St Mary Magdalene (22 July),after the Gospel,,Ay nuž my,"Aj, nuž my…","Come now, we",J 25,,,,,yes,
+242,15r a,Den S. Jakuba,St James (25 July),after the Gospel,,O Bože náš obdarugž,"Ó Bože náš, obdarujž…","O our God, endow",Q XXj,,,,,yes,
+243,15r b,Den Proměněnj Pána Krysta,Transfiguration,after the Gospel,,O milý Pane oswěť,"Ó milý Pane, osvěť…","O dear Lord, enlighten",J xxviii,,,,,yes,
+244,15r b,Den S. Wawřince,St Lawrence (10 Aug),after the Gospel,,Bože Duchem swým,"Bože, Duchem svým…","O God, with thy Spirit",Q xxij,,,,,yes,
+245,15r b,Den S. Bartholoměge,St Bartholomew (24 Aug),sequence,,,Den svatého Bartoloměje,The day of Saint Bartholomew,K iiii,yes,,,,yes,"""Wiz wše H X. Proza K iiii"": all of the apostles (H x), and the sequence by its leaf; under the heading ""Prosa. Diem Festum. etc."" it begins on K iii v and fills K iiii: ""Den Swatého Bartholoměge…"""
+246,15r b,Den S. Matauše,St Matthew (21 Sept),after the Gospel,,Utěšená to odmě[na],Utěšená to odměna,A joyful reward,Q XX,,,,,yes,
+247,15r b,Den S. Michala a wšech Angelůw,St Michael (29 Sept),after the Gospel,,Wždycky předjwné,Vždycky předivné…,Ever most wondrous,K Xi,,,,,yes,
+248,15r b,Den S. Šymona Judy,Ss Simon and Jude (28 Oct),after the Gospel,,Bože zapal,"Bože, zapal…","O God, kindle",Q X,,,,,yes,
+249,15r b,Den Wšech Swatých,All Saints (1 Nov),after the Gospel,,Radost Swátku,Radost svátku,The joy of the feast,K xvi,,,,,yes,
+250,8v a,Na Tři Krále,Epiphany,,,,,,,,,,,no,no hymn named: see C j
+251,10r b,w Zelený Čtwrtek,Maundy Thursday,,,,,,,,,,,no,no hymn named: see from D xxviii
+252,14v b,Den Mláďátek,Holy Innocents (28 Dec),,,,,,,,,,,no,no hymn named: C vii
+253,14v b,Den Zwěstowánj P. Marye,Annunciation (25 March),,,,,,,,,,,no,no hymn named: see H j; hymn J xii
+254,15r a,Den Swatého Marka,St Mark (25 Apr),,,,,,,,,,,no,"no hymn named: after the Gospel, any of the hymns of J 12"
+255,15r a,O Těle a Krwi Krysta Pána,Corpus Christi,,,,,,,,,,,no,no hymn named: see M 28
