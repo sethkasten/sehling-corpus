@@ -6,7 +6,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_finnish, merge_krusemark, merge_lbw, merge_sbh, merge_slovak, merge_te_laudamus
+import merge_elberfeld, merge_finnish, merge_krusemark, merge_lbw, merge_sbh, merge_slovak, merge_te_laudamus
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -63,12 +63,16 @@ def load():
         # the index's title for it (the common_english of TL's, LBW's and the SBH's rows), and is
         # not then taken for a lexicon hymn of a like title. The transcriptions of the Finnish
         # handbooks and the Slovak lists name their hymns in the same way: a hymn they leave
-        # unnamed keeps its Finnish or Czech title
+        # unnamed keeps its Finnish or Czech title. The Elberfeld hymnal's rows are named by the
+        # lexicon, else by the index's title for the hymn's row, else by the German first line
         by_number, name = False, None
         if not ident and wit in merge_finnish.WITNESSES:
             ident, by_number = merge_finnish.canonical(src), True
         elif not ident and wit in merge_slovak.WITNESSES:
             ident, by_number = merge_slovak.canonical(src), True
+        elif not ident and wit == merge_elberfeld.WITNESS:
+            ident, by_number = merge_elberfeld.canonical(src), True
+            if not ident: name = merge_elberfeld.index_title(src)
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -202,6 +206,12 @@ def main():
          'Sanctorum (Levoča, 1674) and of the manuscript hymnal B III-107, from Peter Ruščin\'s table of 2023, two '
          'witnesses. Their rows give the Czech titles as printed, with a literal English gloss, and name a hymn as the '
          'Finnish rows do. Appendix 8.A does not count them either.', BODY),
+        ('Elberfeld hymnal (1898): the Liedertafel of the Gesangbuch für die Evangelisch-Lutherische Kirche (Elberfeld, '
+         '1898), three hymn numbers against the Epistle and three against the Gospel of each of 77 Sundays and festivals, '
+         'one witness. Its rows give the first lines as the book\'s register prints them, cut short, with a literal English '
+         'gloss; a hymn is named by the lexicon, else by its row in the Lutheran Hymn Index (so that it is one hymn with '
+         'the American lists\' rows of it), else by its first line. It is a modern witness, which Appendix 8.A does not '
+         'count.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

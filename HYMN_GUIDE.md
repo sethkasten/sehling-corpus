@@ -15,7 +15,7 @@ Chapter 8, whose Appendix 8.A condenses the Compare by day sheet of
 py hymn_tables/build_hymn_db.py
 ```
 
-**`hymns.db` is committed** (1.5 MB), so you can query it straight away
+**`hymns.db` is committed** (1.9 MB), so you can query it straight away
 without building anything. Rebuild only if you change a parser or a
 source.
 
@@ -39,6 +39,7 @@ py hymn_tables/merge_lbw.py
 py hymn_tables/merge_sbh.py
 py hymn_tables/merge_finnish.py
 py hymn_tables/merge_slovak.py
+py hymn_tables/merge_elberfeld.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -80,14 +81,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **5,631 prescriptions** from **65 witnesses**, in two
+The database holds **6,093 prescriptions** from **66 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 4,804 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 5,266 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -187,6 +188,7 @@ The hymnals and compilations below are Lutheran too.
 | *Lutheran Book of Worship* (1978), its Hymns for the Church Year | 82 | 1 | Its de tempore series for the three-year lectionary: the starred hymns of each Sunday and festival, by number |
 | Finnish church handbooks of 1614, 1629 and 1694, their gradual hymns | 469 | 3 | The hymn sung between the Epistle and the Gospel, in Finnish, named by the German or Latin hymn it translates where that can be told |
 | Ruščin, *Pramene slovenskej hudby* XI (2023), Table 2 | 139 | 2 | Slovak hymns for the Sundays after Trinity, in Czech: the register of the *Cithara Sanctorum* (Levoča, 1674) and the manuscript hymnal B III-107 |
+| *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld, 1898), its Liedertafel | 462 | 1 | Three hymns against the Epistle and three against the Gospel of each Sunday and festival, by number |
 
 #### Krusemark, and why only part of it is here
 
@@ -726,6 +728,81 @@ witnesses in another language than German, and Appendix 8.A does not count
 them. Counted alone, they would change two days: Trinity 1 would have *Es
 war einmal ein reicher Mann* alone, and Trinity 20 would gain *Wie schön
 leuchtet der Morgenstern*.
+
+#### The Elberfeld hymnal (1898)
+
+The *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld: Verlag
+des Lutherischen Büchervereins, 1898), which the Gießen University Library's
+record gives to the Evangelisch-Lutherische Kirche Altpreußens, the Old
+Lutheran church of Prussia, has in its appendix a table of the
+Epistles and Gospels with their hymns, "Verzeichnis der Episteln und
+Evangelien mit Liedertafel" (appendix pp. 79–82). For each of 77 Sundays
+and festivals, from Advent 1 to the 27th Sunday after Trinity, with the
+second and third days of the high feasts, the feasts of the Virgin, St John
+the Baptist and St Michael, the Reformation and the dedication of a church,
+it gives a psalm, the Epistle and the Gospel, and against each reading three
+hymn numbers ("Liedernummer"): six hymns to a day, 462 references to 310 of
+the book's 744 hymns. The order of service at the front of the book does not
+say where they are sung; it names only the creed hymn (no. 192 or 193) and
+the Amen after a spoken creed (no. 246). So all six count for the day, as the several
+hymns of one day do for any witness.
+
+The repository has the book as the text and ALTO XML of the library's
+digitization of its copy, Gb 195 (`Hymnal Index/Hymnal PDFs for
+hotd/Gesangbuch für die Evangelisch-Lutherische Kirche.txt` and `.xml`;
+urn:nbn:de:hebis:26-digisam-123435). Their OCR loses the numbers of the
+table and of the alphabetical register of first lines (appendix pp. 83–92),
+so both were read from the library's page images (its images 751–754 and
+755–764, at digisam.ub.uni-giessen.de). The register sets 95 against three first lines and
+270 against two; the hymns so numbered were read in the body of the book.
+
+`hymn_tables/Elberfeld_1898_Liedertafel.csv` gives, for each reference, the
+page and image; the day as printed and its psalm; the reading and its
+pericope as printed; the hymn's place among the reading's three; its number;
+its first line as the register prints it, cut short; a literal English
+gloss; the day's label; the lexicon's hymn; the hymn's row in the Lutheran
+Hymn Index and that row's title; the common English title; and a note.
+`merge_elberfeld.py` loads it after `merge_slovak.py` as one witness,
+`Elberfeld hymnal (1898)`, with sources such as `Elberfeld hymnal (1898)
+(via its Liedertafel; item 2, no. 14, p. 79)`.
+
+**Names.** A hymn is named by the lexicon where its first line or its index
+row is a hymn the lexicon has (49 hymns); else by its row in the Lutheran
+Hymn Index (169), found by the German first line, so that the same hymn in
+this book and in an American hymnal is one hymn (*Macht hoch die Tür* is
+*Lift Up Your Heads, Ye Mighty Gates*, as in the lists that name their
+hymns by number); else by its first line (92). A first line that only begins
+like a hymn of the lexicon is not taken for it: Paul Gerhardt's Psalm 1
+(*Wohl dem Menschen, der nicht wandelt*, no. 265) and his *Ich weiß, daß
+mein Erlöser lebt* (no. 730) are not the older hymns of those openings in
+the lexicon, nor is Johann Heermann's *So wahr ich lebe, spricht dein Gott*
+(no. 324) the *So wahr ich leb, spricht Gott der Herr* of Ludecus. Nor is an
+index row followed where it leads to another hymn: `index_rows.hymn` takes
+Martin Behm's *O heilige Dreifaltigkeit* and *O heiligste Dreifaltigkeit,
+voll Majestät* (nos. 507, 190) for *O lux beata Trinitas* (`OVERRULED` in
+`merge_elberfeld.py`), and the index's row for *Ich weiß, daß mein Erlöser
+lebt* is Samuel Medley's English hymn. *Nun singet und seid froh* (no. 43)
+is the German form of *In dulci jubilo*. The notes give these and the other
+doubtful cases.
+
+**Days.** New to the database are `Christmas (Second Day, 26 Dec)` and
+`Christmas (Third Day, 27 Dec)`: the book keeps them with readings of
+Christmas (Titus 3 and Luke 2:15–20; Hebrews 1 and John 1), not as the
+feasts of St Stephen and St John, under which some of the old witnesses
+give hymns for those days.
+The Gospel for Estomihi is printed "Luk. 18, 31—48", for 31–43.
+
+**What it shows.** 92 of its 310 hymns are found in another witness. Of the
+68 days of Appendix 8.A for which it gives hymns, it gives on 29 a hymn that
+the old German witnesses give for the day, and on 7 the table's leading
+hymn: *Gelobet seist du, Jesu Christ* on Christmas Day, *Ich ruf zu dir* on
+Epiphany 3, *Mit Fried und Freud* at the Purification, *Es ist das Heil uns
+kommen her* on Septuagesima, *Komm, Heiliger Geist, Herre Gott* at
+Pentecost, *Nun lob, mein Seel, den Herren* on Trinity 12 and *Mitten wir
+im Leben sind* on Trinity 16.
+
+**Appendix 8.A.** It is a modern witness, of 1800 onward, which the table
+leaves out (`MODERN` in `appendix_8a.py`).
 
 ## Schema
 

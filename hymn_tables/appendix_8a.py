@@ -24,8 +24,8 @@ BOOK = os.path.join(HERE, '..', 'LITURGICAL_AND_ECCLESIASTICAL_LIFE.md')
 
 # the witnesses of 1800 onward, which the table leaves out (§8.A.1)
 MODERN = {
- 'Eckardt, The Lutheran Propers', 'Gehrke', 'Hymn of the Week (SBH, 1965)', 'Judisch',
- 'Krusemark, Even Year', 'Krusemark, Every Year', 'Krusemark, Odd Year', 'Krusemark, Year A',
+ 'Eckardt, The Lutheran Propers', 'Elberfeld hymnal (1898)', 'Gehrke', 'Hymn of the Week (SBH, 1965)',
+ 'Judisch', 'Krusemark, Even Year', 'Krusemark, Every Year', 'Krusemark, Odd Year', 'Krusemark, Year A',
  'Krusemark, Year B', 'Krusemark, Year C', 'LCMS Synod selections (2016-17)', 'LSB Hymnal Committee',
  'Lutheran Book of Worship (1978)', 'Lutheran Service Book (2006)', 'Lutheran Worship (1982)',
  'MC (private scheme)', 'Mecklenburg hymnal (1855)', 'Redeemer', 'Reuning', 'SD (private scheme)',
