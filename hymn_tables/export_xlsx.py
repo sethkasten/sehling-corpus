@@ -6,7 +6,8 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_elberfeld, merge_finnish, merge_krusemark, merge_lbw, merge_sbh, merge_slovak, merge_te_laudamus
+import merge_elberfeld, merge_finnish, merge_ingria, merge_krusemark, merge_lbw, merge_sbh, merge_slovak
+import merge_te_laudamus
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -39,7 +40,7 @@ def sort_key(occ):
 def norm(s):
     t = unicodedata.normalize('NFKD', (s or '').lower()).replace('’', "'")
     t = ''.join(c for c in t if not unicodedata.combining(c))
-    t = re.sub(r'[^a-z0-9 ]', ' ', t)
+    t = re.sub(r'[^a-z0-9 \u0430-\u044f]', ' ', t)    # Latin and Cyrillic letters: a Russian title is not empty
     return re.sub(r'\s+', ' ', t).strip()
 
 def load():
@@ -64,7 +65,8 @@ def load():
         # not then taken for a lexicon hymn of a like title. The transcriptions of the Finnish
         # handbooks and the Slovak lists name their hymns in the same way: a hymn they leave
         # unnamed keeps its Finnish or Czech title. The Elberfeld hymnal's rows are named by the
-        # lexicon, else by the index's title for the hymn's row, else by the German first line
+        # lexicon, else by the index's title for the hymn's row, else by the German first line; the
+        # Ingrian calendar's the same way, else by the original's title, else by the Russian first line
         by_number, name = False, None
         if not ident and wit in merge_finnish.WITNESSES:
             ident, by_number = merge_finnish.canonical(src), True
@@ -73,6 +75,9 @@ def load():
         elif not ident and wit == merge_elberfeld.WITNESS:
             ident, by_number = merge_elberfeld.canonical(src), True
             if not ident: name = merge_elberfeld.index_title(src)
+        elif not ident and wit == merge_ingria.WITNESS:
+            ident, by_number = merge_ingria.canonical(src), True
+            if not ident: name = merge_ingria.name(src)
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -212,6 +217,11 @@ def main():
          'gloss; a hymn is named by the lexicon, else by its row in the Lutheran Hymn Index (so that it is one hymn with '
          'the American lists\' rows of it), else by its first line. It is a modern witness, which Appendix 8.A does not '
          'count.', BODY),
+        ('Church of Ingria calendar (2025-26): the hymns of the day of the liturgical calendar of the Russian Lutheran '
+         'Church (Church of Ingria) for 2026, one witness: of each Sunday\'s and feast\'s line of hymn numbers, the third, '
+         'sung between the Epistle and the Gospel, with its alternatives. Its rows give the Russian first lines of the '
+         'church\'s hymnal, with a literal English gloss; a hymn is named by the lexicon, else by the index\'s row for its '
+         'original, else by the original\'s title, else by its Russian first line. A modern witness.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

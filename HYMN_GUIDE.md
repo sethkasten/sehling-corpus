@@ -40,6 +40,7 @@ py hymn_tables/merge_sbh.py
 py hymn_tables/merge_finnish.py
 py hymn_tables/merge_slovak.py
 py hymn_tables/merge_elberfeld.py
+py hymn_tables/merge_ingria.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -81,14 +82,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **6,093 prescriptions** from **66 witnesses**, in two
+The database holds **6,172 prescriptions** from **67 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 5,266 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 5,345 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -189,6 +190,7 @@ The hymnals and compilations below are Lutheran too.
 | Finnish church handbooks of 1614, 1629 and 1694, their gradual hymns | 469 | 3 | The hymn sung between the Epistle and the Gospel, in Finnish, named by the German or Latin hymn it translates where that can be told |
 | Ruščin, *Pramene slovenskej hudby* XI (2023), Table 2 | 139 | 2 | Slovak hymns for the Sundays after Trinity, in Czech: the register of the *Cithara Sanctorum* (Levoča, 1674) and the manuscript hymnal B III-107 |
 | *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld, 1898), its Liedertafel | 462 | 1 | Three hymns against the Epistle and three against the Gospel of each Sunday and festival, by number |
+| The liturgical calendar of the Church of Ingria (Russian Lutheran Church), 2025-26 | 79 | 1 | The hymn between the Epistle and the Gospel of each Sunday and feast of 2026, with its alternatives, by its number in the church's Russian hymnal |
 
 #### Krusemark, and why only part of it is here
 
@@ -805,6 +807,80 @@ im Leben sind* on Trinity 16.
 
 **Appendix 8.A.** It is a modern witness, of 1800 onward, which the table
 leaves out (`MODERN` in `appendix_8a.py`).
+
+#### The Church of Ingria's calendar (2025-26)
+
+The Russian Lutheran Church (the Evangelical Lutheran Church of Ingria,
+elci.ru) publishes a liturgical calendar, "Литургический календарь 2025-26"
+(`Hymnal Index/Hymnal PDFs for hotd/Ingria liturgical calendar 2025-26.pdf`).
+It runs through 2026, from 29 December 2025 to 3 January 2027, a week to a
+page, on the one-year lectionary with the Sundays after Trinity. For each
+Sunday and feast it gives the theme, the colour, the introit, the psalm and
+the readings, and a line of hymn numbers ("Гимны"), with alternatives in
+parentheses. The church first put hymn numbers in its calendar for 2021-22,
+chosen by the pastor and the chief organist of its cathedral of St Mary.
+
+The numbers are those of the church's hymnal, "Сборник гимнов
+Евангелическо-Лютеранской Церкви Ингрии" (2015, 1,010 pages, on elci.ru; not
+in the repository). Its table of contents gives each hymn's number and first
+line, two pages short of the true pages (hymn 1 is on p. 228, not 226), and
+each hymn closes with its credits, the author, the translator or the source,
+under the tune named above it.
+
+The calendar does not say what each place in its line is. A line has seven
+places, which follow the hymnal's order of the Eucharistic service: the
+opening hymn; the Gloria ("Laudamus"; in Advent, in Lent and at Christmas a
+hymn in its place); the hymn between the Epistle and the Gospel; then four
+more, of the creed or the sermon, the offering, the communion and the end.
+The third is the hymn between the readings, the gradual hymn of the Finnish
+order that the church keeps and the place of the Finnish handbooks' hymns
+above. It and its alternatives are loaded by `merge_ingria.py`, after
+`merge_elberfeld.py`, as one witness, `Church of Ingria calendar (2025-26)`,
+with sources such as `Church of Ingria calendar (2025-26) (via its liturgical
+calendar; item 4, no. 64, PDF p. 2)`; the transcription keeps the whole line.
+On Good Friday the calendar gives eleven hymns for three services, without
+saying which is sung between the readings, and none is loaded. New Year's Day
+and the 2nd Sunday after Christmas fall twice, in 2026 and in 2027, with the
+same hymns, and each hymn is loaded once.
+
+`hymn_tables/Ingria_2025-26_Hymns_of_the_Day.csv` has a row for each hymn of
+the day and each alternative: the PDF page and the date; the day as printed,
+with its Epistle and Gospel; the whole line of hymns; the hymn's place; its
+number, and the stanzas where the calendar gives them; its Russian first line
+from the hymnal's contents; a literal English gloss; the hymnal's credit, in
+English; the original, its language and how sure the identification is; the
+day's label; the lexicon's hymn; the original's row in the Lutheran Hymn
+Index and that row's title; the common English title; and a note.
+
+**Names.** Most of the hymns are Russian, Finnish or English. Where the credit
+and the text show a translation, the transcription names the original,
+`certain` or `probable`; a `possible` original is a note. A hymn is named by
+the lexicon where its original is a hymn of the lexicon (8: *Nun komm, der
+Heiden Heiland*, *Corde natus ex parentis*, *Wie schön leuchtet der
+Morgenstern*, Luther's Easter hymn *Jesus Christus, unser Heiland, der den Tod
+überwand*, which the hymnal prints without an author, *O Herre Gott, dein
+göttlich Wort*, probable, *Jesu, meine Freude*, *Erhalt uns, Herr, bei deinem
+Wort* and *Jesaja, dem Propheten*); else by the index's title for the
+original's row (18, most of them English hymns, such as *Rock of Ages* and
+*Thy Strong Word*); else by the original's title (5); else by its Russian
+first line. `export_xlsx.norm` keeps Cyrillic letters: it had kept only a-z,
+so that every Russian title came to the same empty key, and the Russian hymns
+the lexicon does not name had all been taken for one hymn.
+
+**Days.** The 1st Sunday after the Epiphany is kept as the Baptism of the Lord
+(`Baptism of Christ (Octave of Epiphany)`), and the 2nd Sunday after Christmas
+is `Christmas 2`. The last three Sundays of the church year take the old
+series' days by their Gospels: the third from the end (Matthew 24:15-27) is
+`Trinity 25`, the second-last (Matthew 25:1-13) `Trinity 27`, and the last,
+Judgment Sunday (Matthew 25:31-46), `Trinity 26`.
+
+**What it shows.** Of the 55 days of Appendix 8.A for which it gives hymns, it
+gives on two a hymn that the old German witnesses give for the day, *Nun
+komm, der Heiden Heiland* on Advent 4 and *Erhalt uns, Herr, bei deinem Wort*
+on Sexagesima, and on none the table's leading hymn.
+
+**Appendix 8.A.** It is a modern witness, which the table leaves out (`MODERN`
+in `appendix_8a.py`).
 
 ## Schema
 
