@@ -776,14 +776,16 @@ like a hymn of the lexicon is not taken for it: Paul Gerhardt's Psalm 1
 (*Wohl dem Menschen, der nicht wandelt*, no. 265) and his *Ich weiß, daß
 mein Erlöser lebt* (no. 730) are not the older hymns of those openings in
 the lexicon, nor is Johann Heermann's *So wahr ich lebe, spricht dein Gott*
-(no. 324) the *So wahr ich leb, spricht Gott der Herr* of Ludecus. Nor is an
-index row followed where it leads to another hymn: `index_rows.hymn` takes
-Martin Behm's *O heilige Dreifaltigkeit* and *O heiligste Dreifaltigkeit,
-voll Majestät* (nos. 507, 190) for *O lux beata Trinitas* (`OVERRULED` in
-`merge_elberfeld.py`), and the index's row for *Ich weiß, daß mein Erlöser
-lebt* is Samuel Medley's English hymn. *Nun singet und seid froh* (no. 43)
-is the German form of *In dulci jubilo*. The notes give these and the other
-doubtful cases.
+(no. 324) the *So wahr ich leb, spricht Gott der Herr* of Ludecus. Martin
+Behm's *O heilige Dreifaltigkeit* and *O heiligste Dreifaltigkeit, voll
+Majestät* (nos. 507, 190) are not *O lux beata Trinitas* (*O Licht, heilige
+Dreifaltigkeit*), though `index_rows.hymn` once took their index rows for
+it, and the index's row for *Ich weiß, daß mein Erlöser lebt* is Samuel
+Medley's English hymn (see *Hymn identity across languages*, below). A hymn
+the lexicon names must be the lexicon's hymn of its index row, if
+`index_rows.hymn` gives one, and the build stops if it is not. *Nun singet
+und seid froh* (no. 43) is the German form of *In dulci jubilo*. The notes
+give these and the other doubtful cases.
 
 **Days.** New to the database are `Christmas (Second Day, 26 Dec)` and
 `Christmas (Third Day, 27 Dec)`: the book keeps them with readings of
@@ -914,7 +916,17 @@ in all of them:
   Lutheran Hymn Index, and the lexicon's hymn on that row (the one
   `index_titles.INDEX` matches to it, else the one the row's German or Latin
   original resolves to, if the original is that hymn's whole incipit, word
-  for word, punctuation aside).
+  for word, punctuation aside). Each word may be spelt otherwise, but none
+  may be wanting: a likeness of the letters alone had taken Martin Behm's
+  *O heilige Dreifaltigkeit* (TLH 541) and *O heiligste Dreifaltigkeit*
+  (row 3957) for *O Licht, heilige Dreifaltigkeit*, and the
+  *Herr, unser Gott, dich loben wir* of WELS12 for Luther's *Herr Gott, dich
+  loben wir*. A row whose original, as the index records it, is not its
+  hymn takes no hymn of the lexicon (`NOT_ITS_ORIGINAL`): the index records
+  Samuel Medley's English *I Know That My Redeemer Lives* (TLH 200, LBW 352,
+  LSB 461) as a translation of *Ich weiß, daß mein Erlöser lebt*, the
+  opening of the older German hymn of the Magdeburg list of 1632. No list in
+  `hymns.db` cites these rows.
   `export_xlsx.py` names *Te Laudamus*'s, LBW's, the SBH list's and Krusemark's rows so. A row the
   lexicon lacks is named by the index's title for it, and is not then taken
   for a lexicon hymn of a like title. Krusemark's "Praise the Almighty, my soul,

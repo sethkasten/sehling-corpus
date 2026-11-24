@@ -27,8 +27,9 @@ Each hymn is named, in this order, by:
 - else its first line.
 common_english is the lexicon's received English title, else the index's title when that is
 English (for some hymns the index's title is the German one). The notes say why a hymn is not
-the one that a first line or an index row would suggest; OVERRULED lists the index rows that the
-index leads to another hymn of the lexicon.
+the one that a first line or an index row would suggest. A hymn named by the lexicon must be the
+lexicon's hymn of its index row, if index_rows.hymn gives one, and a hymn the lexicon does not
+name must have none.
 """
 import csv, difflib, os, sqlite3, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -41,11 +42,6 @@ LIST = 'Elberfeld_1898_Liedertafel.csv'
 WITNESS = 'Elberfeld hymnal (1898)'
 VIA = 'its Liedertafel'
 NEW_DAYS = {'Christmas (Second Day, 26 Dec)', 'Christmas (Third Day, 27 Dec)'}
-# index rows that index_rows.hymn takes for a hymn of the lexicon that the 1898 hymn is not
-OVERRULED = {
- 3466: "Behm's \"O heilige Dreifaltigkeit\", not O lux beata Trinitas",
- 3957: '"O heiligste Dreifaltigkeit, voll Majestät", not O lux beata Trinitas',
-}
 # the least agreement of a first line with a title of its index row (agreement), so that a
 # misread number or a wrong row stops the build
 AGREE = 0.6
@@ -105,7 +101,7 @@ def check(es, known):
             if e['index_title'] != index_titles.title_of_row(hid):
                 raise SystemExit(f'{where}: index row {hid} is not "{e["index_title"]}"')
             led = index_rows.hymn(hid)[0]
-            if led and led != e['lexicon'] and hid not in OVERRULED:
+            if led and led != e['lexicon']:
                 raise SystemExit(f'{where}: index row {hid} is {led!r} in the lexicon')
 
 def rows(known):
