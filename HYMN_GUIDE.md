@@ -38,6 +38,7 @@ py hymn_tables/merge_te_laudamus.py
 py hymn_tables/merge_lbw.py
 py hymn_tables/merge_sbh.py
 py hymn_tables/merge_finnish.py
+py hymn_tables/merge_slovak.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -79,14 +80,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **5,492 prescriptions** from **63 witnesses**, in two
+The database holds **5,631 prescriptions** from **65 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 4,665 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 4,804 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -185,6 +186,7 @@ The hymnals and compilations below are Lutheran too.
 | Hymn of the Week of the *Service Book and Hymnal*, American Lutheran Church (1965) | 62 | 1 | One hymn to each Sunday and festival, from the index of its records *a Time for Singing*, by SBH number |
 | *Lutheran Book of Worship* (1978), its Hymns for the Church Year | 82 | 1 | Its de tempore series for the three-year lectionary: the starred hymns of each Sunday and festival, by number |
 | Finnish church handbooks of 1614, 1629 and 1694, their gradual hymns | 469 | 3 | The hymn sung between the Epistle and the Gospel, in Finnish, named by the German or Latin hymn it translates where that can be told |
+| Ruščin, *Pramene slovenskej hudby* XI (2023), Table 2 | 139 | 2 | Slovak hymns for the Sundays after Trinity, in Czech: the register of the *Cithara Sanctorum* (Levoča, 1674) and the manuscript hymnal B III-107 |
 
 #### Krusemark, and why only part of it is here
 
@@ -640,10 +642,11 @@ miehest* (Luke 16) on Trinity 1, *Jerusalem pyhä caupungi* (Luke 19) on
 Trinity 10.
 
 **Appendix 8.A.** The handbooks are old witnesses, but Appendix 8.A, a
-table of the German orders and hymnals, does not count them (`FINNISH` in
-`appendix_8a.py`; the book's §8.A.1). `appendix_8a.py --finnish` prints the
-table with them counted, and `--stats` names the 14 days whose hymns would
-change: Advent 4 would gain *Christ, unser Herr, zum Jordan kam*, Jubilate
+table of the German orders and hymnals, does not count them, nor the Slovak
+lists below (`OTHER_LANGUAGES` in `appendix_8a.py`; the book's §8.A.1).
+`appendix_8a.py --other-languages` prints the table with both counted, and
+`--stats` names the days whose hymns would change, for each group and for
+both. The Finnish handbooks would change 14 days: Advent 4 would gain *Christ, unser Herr, zum Jordan kam*, Jubilate
 *Ich ruf zu dir*, Pentecost *Komm, Gott Schöpfer* and Trinity 19 *Nun lob,
 mein Seel*, but Lent 5 would lose both its hymns, since none would then
 have a quarter of the day's witnesses.
@@ -651,6 +654,78 @@ have a quarter of the day's witnesses.
 `merge_finnish.py` loads the three lists after `merge_sbh.py`, with sources
 such as `Finnish handbook (1694) (via its gradual hymns; item 47, PDF p.
 68)`.
+
+#### The Slovak lists (Ruščin)
+
+The Slovak Lutherans sang in Czech, from Juraj Tranovský's *Cithara
+Sanctorum* (Levoča, 1636) and its later editions. Peter Ruščin's article
+on the songs on the Sunday Gospels (*postilové piesne*) and the lists of
+songs for the Sundays of the church year in the Slovak Lutheran sources of
+the Baroque ("Postilové piesne a rozpisy spevov na nedele cirkevného roka v
+slovenských evanjelických prameňoch obdobia baroka", in *Pramene slovenskej
+hudby XI: Hudba a liturgia*, Bratislava, 2023, pp. 133–154; the volume is
+`Hymnal Index/Hymnal PDFs for hotd/Pramene slovenskej hudby Hudba a
+liturgia.pdf`) sets out in its Table 2 (pp. 146–151, PDF pp. 148–153) the
+songs that five sources give for the Sundays after Trinity:
+
+| Source | Rows | Loaded as |
+|---|---:|---|
+| The register of the *Cithara Sanctorum* (Levoča, 1674), "Poznamenání písní některých k obecným nedělím po sv. Trojici případných" | 99 | `Cithara Sanctorum (Levoča, 1674)` |
+| The manuscript hymnal B III-107 of the Literary Archive of the Slovak National Library, Martin, from central Slovakia | 40 | `Slovak manuscript B III-107 (c. 1674-1720)` |
+| Eliáš Mlynárových, *Písniční knížečka*, 2nd ed. (Kežmarok, 1707), its "Nedělní písničky na evangelia" | 27 | not loaded |
+| Matej Bodó, *Zvuk evangelium věčného* (1743) | 27 | not loaded |
+| Ján Blasius, *Rozkoše aneb Okrasa domu Božího* (1741, 1745) | 28 | not loaded |
+
+Ruščin's Table 1 gives the order of the seventeenth-century service: after
+the Epistle a hymn "de tempore" or a song on the Gospel; after the Gospel
+the Creed (*My všickni věříme*); after the sermon a hymn "de tempore" or
+one of the register. Tranovský left the cantor to choose the hymns of the
+day, and the Levoča editions of the Cithara from the second half of the
+century added the register for the Sundays after Trinity, which the seasons
+did not guide: four hymns to a Sunday, for 25 Sundays. The editions of the
+eighteenth century extend it to the whole year, with up to eight or nine
+hymns to a day; Ruščin does not set that register out, and it is not here.
+The manuscript B III-107, which Ruščin dates c. 1674–1720 (1674–1710 in the
+table, 1655–1720 in his abstract), gives the songs a congregation sang
+before and after the sermon ("po kázni") on these Sundays: songs on the
+Gospel by Jakub Kunvaldský or of unknown origin, and hymns of the register.
+
+The register and the manuscript are lists of the hymns of the day, and
+`merge_slovak.py` loads them as two witnesses, after `merge_finnish.py`,
+with sources such as `Cithara Sanctorum (Levoča, 1674) (via Ruščin's table;
+item 1, PDF p. 148)`. The three collections are not loaded: each gives its
+author's own new text on each Gospel, sung to a known tune, which no other
+witness can share, and Ruščin finds that they were little sung in church.
+
+`hymn_tables/Ruscin_Slovak_Trinity_Songs.csv` transcribes all five columns,
+221 songs. For each it gives the Sunday and its Gospel; the source; the
+title as printed; a literal English gloss; the tune it names ("♪"), with
+the German hymn of that tune where it is clear; "after the sermon" for the
+manuscript's songs so marked; the day; the German or Latin hymn it
+translates; the lexicon's title; how sure the identification is; and a
+note. The identifications follow the rules of the Finnish lists. The Czech
+Psalm 124 hymn *Jestliť Bůh s námi nebude*, on Trinity 23, is counted as
+Jonas's *Wo Gott der Herr nicht bei uns hält*, the commoner of the two
+German Psalm 124 hymns on that day, by the editor's rule for the Finnish
+Psalm 124 hymn.
+
+**What they show.** 25 of the register's 99 hymns are identified as certain
+or probable, 19 of them hymns of the lexicon, and many of them are the
+German hymns of the day in Czech. On 12 of its 25 Sundays the register gives
+a hymn that the German witnesses give for the same day, and on 5 the
+leading hymn of Appendix 8.A: *Es war einmal ein reicher Mann* on Trinity 1,
+*Vater unser* on Trinity 7, *Ach Gott, vom Himmel sieh darein* on Trinity 8,
+*Es ist das Heil uns kommen her* on Trinity 13 and *Wo Gott der Herr* on
+Trinity 23. *Warum betrübst du dich, mein Herz* (Trinity 15), *Dies sind die
+heilgen zehn Gebot* (Trinity 18) and *Aus tiefer Not* (Trinity 19) are
+among the other hymns the table shows for their days. Of the manuscript's
+40 songs, 5 are identified as certain or probable.
+
+**Appendix 8.A.** Like the Finnish handbooks, the Slovak lists are old
+witnesses in another language than German, and Appendix 8.A does not count
+them. Counted alone, they would change two days: Trinity 1 would have *Es
+war einmal ein reicher Mann* alone, and Trinity 20 would gain *Wie schön
+leuchtet der Morgenstern*.
 
 ## Schema
 

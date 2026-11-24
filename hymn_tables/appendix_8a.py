@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """Make the table of Appendix 8.A of LITURGICAL_AND_ECCLESIASTICAL_LIFE.md from hymns.db.
 
-The rules are those of §8.A.2. Only the old witnesses are counted, and of them not the Finnish
-church handbooks (§8.A.1); one hymn is one row, with the identities of the Compare by day sheet
+The rules are those of §8.A.2. Only the old witnesses are counted, and of them not the lists in
+other languages than German, the Finnish and the Slovak (§8.A.1); one hymn is one row, with the identities of the Compare by day sheet
 of hymns.xlsx; grouped entries are shared out; a season counts only for the feast at its head;
 and a hymn is shown when it has at least three witnesses, three fifths of the leading hymn's and
 a quarter of the day's. Like export_xlsx.py, it needs openpyxl.
 
     py hymn_tables/appendix_8a.py            print the table as Markdown
-    py hymn_tables/appendix_8a.py --finnish  the same, counting the Finnish handbooks
+    py hymn_tables/appendix_8a.py --other-languages   the same, counting the Finnish and Slovak lists
     py hymn_tables/appendix_8a.py --check    compare it with the table in the book
     py hymn_tables/appendix_8a.py --stats    the figures that §8.A.4 quotes
 """
@@ -16,7 +16,7 @@ import collections, os, re, sqlite3, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import export_xlsx as X
-import merge_finnish
+import merge_finnish, merge_slovak
 from editorial import EDITORIAL
 from parse_thompson import WITNESS as _TW
 
@@ -30,9 +30,11 @@ MODERN = {
  'Lutheran Book of Worship (1978)', 'Lutheran Service Book (2006)', 'Lutheran Worship (1982)',
  'MC (private scheme)', 'Mecklenburg hymnal (1855)', 'Redeemer', 'Reuning', 'SD (private scheme)',
  'SELK hymnal', 'Stuckwisch (sword-in-hat list)', 'Te Laudamus (2024)', 'Zion'}
-# the Finnish church handbooks of 1614, 1629 and 1694: old, but their hymns are Finnish, and the
-# table is of the German orders and hymnals (§8.A.1); --finnish and --stats show them counted
-FINNISH = set(merge_finnish.WITNESSES)
+# the old lists in other languages than German: the Finnish church handbooks of 1614, 1629 and 1694
+# and the Slovak lists of 1674 and c. 1674-1720, in Czech. The table is of the German orders and
+# hymnals (§8.A.1); --other-languages and --stats show them counted
+FINNISH, SLOVAK = set(merge_finnish.WITNESSES), set(merge_slovak.WITNESSES)
+OTHER_LANGUAGES = FINNISH | SLOVAK
 # the lists of Thompson's dissertation that are not Sehling orders, which --stats sets aside
 THOMPSON = {w for w, sehling in _TW.values() if not sehling}
 
@@ -85,14 +87,14 @@ def days_of(occasion):
     return MAP.get(occasion, [occasion] if occasion in DAYS else [])
 
 _ROWS = []
-def build(exclude=(), finnish=False):
+def build(exclude=(), count=()):
     """-> [(day, [(hymn, witnesses, assigned?)], witnesses of the day)], and the counts by day"""
     day_w = collections.defaultdict(set)
     day_h = collections.defaultdict(lambda: collections.defaultdict(set))
     if not _ROWS: _ROWS.extend(X.load())
     for r in _ROWS:
         if r['wit'] in MODERN or r['wit'] in exclude or GENERIC.match(r['ident'] or ''): continue
-        if r['wit'] in FINNISH and not finnish: continue
+        if r['wit'] in OTHER_LANGUAGES and r['wit'] not in count: continue
         for d in days_of(r['occ']):
             day_w[d].add(r['wit'])
             day_h[d][r['ident']].add(r['wit'])
@@ -146,17 +148,19 @@ def stats(table):
     print(f'and the hymns shown change on {len(changed)} days:')
     for d, lose, gain in changed:
         print(f'   {d}: loses {lose}, gains {gain}')
-    counted, _ = build(finnish=True)
-    c = {d: (shown, total) for d, shown, total in counted}
-    print('counting the Finnish handbooks:')
-    for d, shown, total in table:
-        s2, t2 = c[d]
-        if [h for h, _n, _e in shown] != [h for h, _n, _e in s2]:
-            print(f'   {d} ({total} -> {t2} witnesses): '
-                  f'{[(h, n) for h, n, _e in shown]} -> {[(h, n) for h, n, _e in s2]}')
+    for label, group in (('the Finnish handbooks', FINNISH), ('the Slovak lists', SLOVAK),
+                         ('both', OTHER_LANGUAGES)):
+        counted, _ = build(count=group)
+        c = {d: (shown, total) for d, shown, total in counted}
+        print(f'counting {label}:')
+        for d, shown, total in table:
+            s2, t2 = c[d]
+            if [(h, e) for h, _n, e in shown] != [(h, e) for h, _n, e in s2]:
+                print(f'   {d} ({total} -> {t2} witnesses): '
+                      f'{[(h, n) for h, n, _e in shown]} -> {[(h, n) for h, n, _e in s2]}')
 
 if __name__ == '__main__':
-    table, _ = build(finnish='--finnish' in sys.argv)
+    table, _ = build(count=OTHER_LANGUAGES if '--other-languages' in sys.argv else ())
     rows = markdown(table)
     if '--check' in sys.argv:
         book = book_rows()

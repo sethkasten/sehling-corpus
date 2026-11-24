@@ -6,7 +6,7 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_finnish, merge_krusemark, merge_lbw, merge_sbh, merge_te_laudamus
+import merge_finnish, merge_krusemark, merge_lbw, merge_sbh, merge_slovak, merge_te_laudamus
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -61,11 +61,14 @@ def load():
         # Te Laudamus, LBW, the SBH's Hymn of the Week and Krusemark name their hymns by number:
         # by its row in the Lutheran Hymn Index. A row the lexicon lacks (ident None) is named by
         # the index's title for it (the common_english of TL's, LBW's and the SBH's rows), and is
-        # not then taken for a lexicon hymn of a like title. The Finnish handbooks' transcriptions
-        # name their hymns in the same way: a hymn they leave unnamed keeps its Finnish title
+        # not then taken for a lexicon hymn of a like title. The transcriptions of the Finnish
+        # handbooks and the Slovak lists name their hymns in the same way: a hymn they leave
+        # unnamed keeps its Finnish or Czech title
         by_number, name = False, None
         if not ident and wit in merge_finnish.WITNESSES:
             ident, by_number = merge_finnish.canonical(src), True
+        elif not ident and wit in merge_slovak.WITNESSES:
+            ident, by_number = merge_slovak.canonical(src), True
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -195,6 +198,10 @@ def main():
          'certain or probable, and otherwise by its Finnish title. The Transfiguration takes the 7th Sunday after '
          'Trinity. They are old witnesses, but Appendix 8.A of the book, a table of the German orders and hymnals, '
          'does not count them.', BODY),
+        ('Slovak lists (1674, c. 1674-1720): the hymns for the Sundays after Trinity of the register of the Cithara '
+         'Sanctorum (Levoča, 1674) and of the manuscript hymnal B III-107, from Peter Ruščin\'s table of 2023, two '
+         'witnesses. Their rows give the Czech titles as printed, with a literal English gloss, and name a hymn as the '
+         'Finnish rows do. Appendix 8.A does not count them either.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),
