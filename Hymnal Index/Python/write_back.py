@@ -139,12 +139,13 @@ ALT_WIDTH = 34  # the 'Alternative English Title N' columns
 # the English hymnary it shared with two other Norwegian synods (1913), and the
 # ELS's ELH; the Wisconsin Synod's WELS'12 (its German hymnal), CW'21 with its
 # psalter CWP, CWS and CW'93; WS'00 and TL; AH; the hymnals of the bodies that
-# became the ALC and LCA (and so the ELCA), as the sheet has them; and the ELCA's
-# own LBW, HS'91, WOV, ELW and ACS.
+# became the ALC and LCA (and so the ELCA), as the sheet has them, with the Augustana
+# Synod's HCSS (1899) before its THOS; the ELCA's own LBW, HS'91, WOV, ELW and ACS;
+# and RCH, the ReClaim Hymnal (ReClaim Resources, 2006; now Sola Publishing's).
 HYMNAL_ORDER = ("KELG#", "LPC#", "ELHB#", "TLH#", "WS'69#", "LW#", "HS'98#", "LSB#", "LH#", "SSB'70#", "SSB'03#",
                 "TLHy#", "ELH#", "WELS'12#", "CW'21#", "CWP#", "CWS#", "CW'93#", "WS'00#", "TL#", "AH#", "CHL#",
-                "TBW'67#", "TBW'07#", "CSB#", "THOS#", "HCH#", "SBH#", "CHPPPW#", "TCSSH#", "ELHal#", "ALH#", "TCH#",
-                "LBW#", "HS'91#", "WOV#", "ELW#", "ACS#")
+                "TBW'67#", "TBW'07#", "CSB#", "HCSS#", "THOS#", "HCH#", "SBH#", "CHPPPW#", "TCSSH#", "ELHal#", "ALH#",
+                "TCH#", "LBW#", "HS'91#", "WOV#", "ELW#", "ACS#", "RCH#")
 # Hymnal columns added whenever the master index lacks them. (A Hymnary.org
 # hymnal's column comes with --add CODE.)
 ADDED_COLUMNS = ("TL#", "LPC#", "WS'69#", "WS'00#", "WELS'12#")

@@ -47,6 +47,14 @@ Sources
                                          changed) and a note, transcribed from the book's own
                                          index of first lines (SSB03/Index.pdf), since Hymnary's
                                          table lists the hymns alphabetically
+  hcss_index.csv                         the Augustana Synod's Hymnal for Churches and Sunday-schools
+                                         (1899): number, first line, translator, the index page and
+                                         the hymn's page, transcribed from the book's own index
+                                         (HCSS.pdf pp. 410-420) and checked against its hymns
+  rch_index.csv                          the ReClaim Hymnal for Church and Home (2006): number,
+                                         title or first line ('alternate' for a first line the index
+                                         gives beside a title), from its index of hymn titles and
+                                         first lines (ReClaimHymnal-ListofHymns.pdf)
   ssb70_originals.csv                    what each SSB70 hymn is (researched, laid out like
                                          tlhy_originals.csv): a Danish or Norwegian hymn, by its
                                          own first line, or a translation, by its original's
@@ -219,6 +227,11 @@ SSB_ORIGINALS_CSVS = {"SSB70": HERE / "ssb70_originals.csv", "SSB03": HERE / "ss
 # Hymnary.org hymnals in a language other than English: their first lines are no English
 # titles (write_back.py leaves them out of the Alternative English Titles).
 FOREIGN_HYMNALS = ("SSB70", "SSB03")
+# Two hymnals from their own indexes (Misc/): the Augustana Synod's English hymnal of 1899, its
+# index of first lines transcribed from the page images and checked against the hymns, and the
+# ReClaim Hymnal (2006), whose index gives a hymn's title and, in italics, a first line that differs.
+HYMNARY_CSVS["HCSS"] = HERE / "hcss_index.csv"
+HYMNARY_CSVS["RCH"] = HERE / "rch_index.csv"
 LINK_DECISIONS_CSV = HERE / "link_decisions.csv"  # human decisions on review items
 SAME_HYMN_CSV = HERE / "same_hymn_decisions.csv"  # which master-index rows are one hymn
 MASTER_CORRECTIONS_CSV = HERE / "master_corrections.csv"  # wrong numbers and titles in the master index
@@ -268,6 +281,9 @@ HYMNALS = {
     # the Norwegian Synod's hymnals (Hymnary.org's table; the 1903 book's own index)
     "SSB'70#": ("SSB70", "Psalmebog, udgiven af Synoden for den norske evangelisk-lutherske Kirke i Amerika", 1870),
     "SSB'03#": ("SSB03", "Salmebog udgiven af Synoden for den norsk-evang. luth. kirke i Amerika (rev. ed.)", 1903),
+    # from the books' own indexes
+    "HCSS#": ("HCSS", "Hymnal for Churches and Sunday-schools of the Augustana Synod", 1899),
+    "RCH#": ("RCH", "ReClaim Hymnal for Church and Home", 2006),
 }
 
 # KELG 'Sheet 1' layout: each hymnal is a (number, title, verses) column triple.
