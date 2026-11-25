@@ -64,7 +64,8 @@ Sources
   same_hymn_decisions.csv                which master-index rows are one hymn ('same hymn': write_back.py
                                          merges them), which only share numbers ('different hymns'), and
                                          which are one hymn kept on rows of their own ('same hymn, own rows')
-  master_corrections.csv                 wrong numbers and misspelled titles in the master index
+  master_corrections.csv                 wrong numbers and misspelled titles in the master index (and
+                                         originals it lacks)
                                          (write_back.py corrects them; read here for the old titles)
   WELS12/WELS12_index.csv                the Wisconsin Synod's German hymnal of 1912: number, first
                                          line, section (musicanet.org's index, made by extract_wels12.py)
@@ -466,6 +467,10 @@ TITLE_CORRECTION = "title"
 ALT_CORRECTION = "alternate"
 # master_corrections.csv 'hymnal' value for a correction of the KELG/ELGBS German Title
 GERMAN_CORRECTION = "german"
+# master_corrections.csv 'hymnal' values for an Original Title and Original Language a row
+# lacks or has wrong (an RCH hymn's Danish original, say)
+ORIGINAL_CORRECTION = "original"
+LANGUAGE_CORRECTION = "language"
 # tlhy_originals.csv confidence levels good enough to act on
 TRUSTED = ("confirmed", "probable")
 
