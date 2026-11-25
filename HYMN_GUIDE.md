@@ -15,7 +15,7 @@ Chapter 8, whose Appendix 8.A condenses the Compare by day sheet of
 py hymn_tables/build_hymn_db.py
 ```
 
-**`hymns.db` is committed** (1.5 MB), so you can query it straight away
+**`hymns.db` is committed** (1.9 MB), so you can query it straight away
 without building anything. Rebuild only if you change a parser or a
 source.
 
@@ -35,6 +35,13 @@ py hymn_tables/merge_sources.py
 py hymn_tables/merge_krusemark.py
 py hymn_tables/merge_thompson.py
 py hymn_tables/merge_te_laudamus.py
+py hymn_tables/merge_lbw.py
+py hymn_tables/merge_sbh.py
+py hymn_tables/merge_finnish.py
+py hymn_tables/merge_slovak.py
+py hymn_tables/merge_elberfeld.py
+py hymn_tables/merge_ingria.py
+py hymn_tables/merge_zavorka.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -76,14 +83,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **4,879 prescriptions** from **58 witnesses**, in two
+The database holds **6,381 prescriptions** from **68 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 4,052 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 5,554 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -179,6 +186,13 @@ The hymnals and compilations below are Lutheran too.
 | Ludecus, *Ordo cantionum Germanicarum* (1589) | 311 | 1 | A single order, German incipits with English translation |
 | Selnecker, own account | 46 | 1 | His prose description of the scheme he kept |
 | *Te Laudamus* (2024), its table of chief hymns | 85 | 1 | The chief hymn of each Sunday and feast, by its number in the hymnal |
+| Hymn of the Week of the *Service Book and Hymnal*, American Lutheran Church (1965) | 62 | 1 | One hymn to each Sunday and festival, from the index of its records *a Time for Singing*, by SBH number |
+| *Lutheran Book of Worship* (1978), its Hymns for the Church Year | 82 | 1 | Its de tempore series for the three-year lectionary: the starred hymns of each Sunday and festival, by number |
+| Finnish church handbooks of 1614, 1629 and 1694, their gradual hymns | 469 | 3 | The hymn sung between the Epistle and the Gospel, in Finnish, named by the German or Latin hymn it translates where that can be told |
+| Ruščin, *Pramene slovenskej hudby* XI (2023), Table 2 | 139 | 2 | Slovak hymns for the Sundays after Trinity, in Czech: the register of the *Cithara Sanctorum* (Levoča, 1674) and the manuscript hymnal B III-107 |
+| *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld, 1898), its Liedertafel | 462 | 1 | Three hymns against the Epistle and three against the Gospel of each Sunday and festival, by number |
+| The liturgical calendar of the Church of Ingria (Russian Lutheran Church), 2025-26 | 79 | 1 | The hymn between the Epistle and the Gospel of each Sunday and feast of 2026, with its alternatives, by its number in the church's Russian hymnal |
+| Závorka, *Písně chval božských* (Prague, 1602-06), its Rubryka | 209 | 1 | The hymns of the High Mass of each Sunday and feast, in Czech: the sequence or the hymn in its place, and the hymns after the Gospel and after the sermon |
 
 #### Krusemark, and why only part of it is here
 
@@ -229,7 +243,7 @@ and its number in a hymnal (LSB, TLH, WH, ELH, LW), which the source keeps
 (`Gehrke (via Krusemark, Hymns ABC (2018); TLH 383)`). `export_xlsx.py`
 names the hymn by that number, through the Lutheran Hymn Index
 (`merge_krusemark.identify`, `index_rows.py`), as it names *Te Laudamus*'s.
-991 of his 1,047 rows are named so: 608 as hymns of the lexicon, 383 as
+991 of his 1,047 rows are named so: 610 as hymns of the lexicon, 381 as
 hymns it lacks, which take the index's title for the row
 (`merge_krusemark.index_title`), as *Te Laudamus*'s do. So his lists join
 where they print different hymnals' wordings of one hymn, and join TL's and
@@ -406,13 +420,572 @@ Evening & Pentecost Monday`.
 
 `export_xlsx.py` identifies TL's rows by their numbers
 (`merge_te_laudamus.canonical`, through `index_rows.py`, as it does
-Krusemark's), since an English title can stand for two
+Krusemark's, LBW's and the SBH list's), since an English title can stand for two
 hymns (*If God Had Not Been on Our Side*: see *Hymn identity across
 languages*). `bridge.py` has four more index titles that the modern lists
 give (*Of the Father's Love Begotten*, *O Mortal, Mourn Thy Grievous Sin*,
 *We Thank Thee, Jesus, Dearest Friend*, *O Lord, We Praise Thee*), so their
 rows and TL's are one hymn in the workbook. *Te Laudamus* is a modern witness
 and is not counted in Appendix 8.A (`MODERN` in `appendix_8a.py`).
+
+#### Lutheran Book of Worship
+
+`Hymnal Index/LBW-hotd/` holds the three pages of *Lutheran Book of
+Worship*'s "Hymns for the Church Year" (1978, pp. 929–931), and
+`hymn_tables/LBW_Hymns_Church_Year.csv` transcribes them: every hymn of each
+Sunday and festival, 240 on 66 days, with its LBW number, its star and the
+letters of the lectionary years it suits. Every number agrees with the title
+the Lutheran Hymn Index gives its row. A star marks the hymns "which
+constitute a contemporary adaptation of the traditional Lutheran de tempore
+series", and `merge_lbw.py` loads only these, 82 on 63 days, as the chief
+hymns of one witness, `Lutheran Book of Worship (1978)`, as only Krusemark's
+Hymns of the Day are loaded. Of the starred hymns, those without letters
+serve every year of the three-year lectionary and the others the years they
+name, so a day's rows are those of all three years. The source keeps LBW's
+day and letters: `Lutheran Book of Worship (1978) (via its Hymns for the
+Church Year, 13 Pentecost; LBW 303, A)`.
+
+LBW's days are those of the three-year lectionary, whose Sundays read other
+Gospels than the old series'. They take this database's labels by their
+place in the church year:
+
+- Easter Day is the first Sunday of Easter, so *2 Easter* is `Easter 1
+  (Quasimodogeniti)` and *7 Easter* `Sunday after Ascension (Exaudi)`.
+- The Holy Trinity is the first Sunday after Pentecost, so *2 Pentecost* is
+  `Trinity 1` and *27 Pentecost* `Trinity 26`. *Christ the King*, the last
+  Sunday after Pentecost, is `Trinity 27`, the last Sunday of the year.
+- *Baptism of Our Lord* and *Transfiguration* take the labels of the modern
+  one-year lists, `Baptism of Christ (Octave of Epiphany)` and
+  `Transfiguration`, and the *Sunday of the Passion* is `Palm Sunday`.
+- *7 Epiphany* and *8 Epiphany*, which the old series lacks, are `Epiphany 7`
+  and `Epiphany 8`.
+
+So a day's LBW hymn need not be the hymn of the same Gospel: LBW's Good
+Shepherd Sunday, *4 Easter*, is `Easter 3 (Jubilate)`. On 11 days the old
+witnesses give LBW's hymn for the same day, most of them feasts (*Nun komm*
+on Advent 1, *Christ lag* at Easter, *Komm, Heiliger Geist* at Pentecost);
+after Trinity, where the three-year readings part from the old ones, hardly
+ever.
+
+Each hymn is found by its LBW number through `index_rows.py`, as TL's are.
+38 rows are hymns of the lexicon; the other 44 are hymns it lacks (Coffin's
+*Iordanis oras praevia*, Kingo's and Ingemann's Danish hymns, English hymns
+from Wesley to Franzmann), which keep the index's English titles.
+`original_title` is LBW's title as printed, `common_english` the index's
+title for the row. *Lutheran Book of Worship* is a modern witness and is not
+counted in Appendix 8.A.
+
+#### The Service Book and Hymnal's Hymn of the Week
+
+The *Service Book and Hymnal* (SBH, 1958) appointed no chief hymns, but the
+American Lutheran Church set out a Hymn of the Week for it in 1965: one hymn
+to each Sunday and festival, in *The Hymn-of-the-Week Songbook* (Augsburg,
+1965) and on three records, *a Time for Singing: around the year with the
+Hymn-of-the-Week*, whose sleeve indexes the 62 hymns by the seasons. A
+photograph of the sleeve is in the owner's Google Drive (`Hymnal Project/Large
+PDFs/Hymn of the week - a songbook (SBH Companion).jpg`), and
+`hymn_tables/SBH_Hymn_of_the_Week.csv` transcribes its index: each hymn's
+side, its page in the songbook, the heading it stands under, its title, its
+SBH number and the day it falls on. `merge_sbh.py` loads the 62 as one
+witness, `Hymn of the Week (SBH, 1965)`, with the source `Hymn of the Week
+(SBH, 1965) (via a Time for Singing, side 4; SBH 374, songbook p. 37)`.
+
+The sleeve lists the hymns "in the order of their appropriateness for the
+seasons of the church year", and the order of the records is the order of
+the year; the songbook's pages are not (below). The records are stacked,
+sides 1–3 playing first and 4–6 after, and the sleeve prints sides 4, 5 and
+6 from right to left under sides 3, 2 and 1. Read so, its seasons hold one
+hymn to a day:
+
+- Advent 1–4; Christmas, the Sunday after Christmas and `Christmas 2`;
+- the Epiphany, Epiphany 1–4 and the `Transfiguration`, which the SBH keeps
+  on the last Sunday after the Epiphany;
+- the three 'Gesima Sundays, Lent 1–5, Palm Sunday and Good Friday;
+- Easter, Easter 1–5, the Ascension and Exaudi;
+- Pentecost, the Holy Trinity and Trinity 1–27 (the sleeve's four "cycles" of
+  the Trinity season), ending with *Wake, Awake* on Trinity 27;
+- the Reformation and All Saints' Day.
+
+The Gospels bear the order out: *The King of Love My Shepherd Is* falls on
+Misericordias Domini, *O Bread of Life* on Laetare, *Take My Life* on
+Trinity 9 (the unjust steward), *Deck Thyself with Joy and Gladness* on
+Trinity 20 (the wedding garment) and *Shepherd of Tender Youth* on Trinity
+24 (Jairus's daughter). The days of the third Christmas hymn and the sixth
+Epiphany hymn are the editor's reading: a hymn of the week goes with a
+Sunday, New Year's Day falls in the week of the Sunday after Christmas, and
+*God's Word Is Our Great Heritage* suits the Transfiguration's "hear him"
+and its Epistle's "more sure word of prophecy" (2 Peter 1:19). On 10 days
+its hymn is one the old witnesses give for the same day (*Vom Himmel hoch*
+at Christmas, *Komm, Heiliger Geist* at Pentecost, *Wachet auf* on Trinity
+27).
+
+The pages are probably not misprinted, though 12 and 46 stand twice and 11,
+33, 55 and 63 are wanting. Two short hymns seem to share each of pages 12
+and 46 (*Children of the Heavenly Father* and *Come, Thou Bright and Morning
+Star*; *My God, How Wonderful Thou Art* and *In Christ There Is No East or
+West*), and four long hymns to run from a left-hand page across the opening
+(*Of the Father's Love Begotten*, 10–11; *Come, Holy Spirit, God and Lord*,
+32–33; *Ye Watchers and Ye Holy Ones*, 54–55; *For All the Saints*, 62–63),
+so that the 62 hymns fill pages 1–64 exactly. Three times the songbook
+leaves the order of the year so that a long hymn starts on a left-hand page:
+*Jesus Shall Reign* (Epiphany 3) stands on 9, before Epiphany 1; *Ye
+Watchers* (Trinity 22) before Trinity 21's hymn (56); *For All the Saints*
+(1 November) before the Reformation's (64). Where the pages and the records
+part, the readings side with the records: *Lord, Keep Us Steadfast in Thy
+Word* goes with Trinity 21's "sword of the Spirit, which is the word of God"
+(Ephesians 6:17), and *O Lord of Life* (61, after Trinity 26 and 27) with
+Trinity 25's dead in Christ (1 Thessalonians 4:13–18). The songbook itself
+has not been seen.
+
+Each hymn is found by its SBH number through `index_rows.py`. The index
+numbers the SBH's hymns of two tunes 8a and 8b, which the sleeve cites as 8
+(`index_rows.rows_lettered`). 17 are hymns of the lexicon; the other 45,
+English hymns for the most part, keep the index's English titles.
+`original_title` is the sleeve's title, `common_english` the index's title
+for the row. The list is a modern witness and is not counted in Appendix 8.A.
+
+#### The Finnish church handbooks
+
+Three Finnish church handbooks (*Käsikirja*) of the seventeenth century give
+a hymn for each Sunday and feast, sung between the Epistle and the Gospel:
+the gradual hymn (*graduaalivirsi*), "a psalm or hymn of praise drawn out of
+Scripture", as the handbook of 1614 puts it. The scans are in `Hymnal
+Index/Hymnal PDFs for hotd/`:
+
+| Witness | Scan | PDF pages | Rows | Days |
+|---|---|---|---:|---:|
+| `Finnish handbook (Sorolainen, 1614)` | `Sorolainen 1614.pdf` | 38–43 | 90 | 67 |
+| `Finnish handbook (Elimaeus, 1629)` | `Elimaeus 1629.pdf` | 32–35 | 84 | 68 |
+| `Finnish handbook (1694)` | `Karoliininen Käsi-kiria 1694.pdf` | 65–81 | 295 | 80 |
+
+Olavi Rimpiläinen's study of the chief service in the diocese of Viipuri
+(*Päiväjumalanpalvelus Viipurin hiippakunnassa puhdasoppisuuden aikana*,
+1980) led to them: his appendices give the 1629 list and set the 1614 and
+1694 lists side by side. The lists here are read from the prints, which
+correct him in places; the transcriptions' notes say where:
+
+- the 1614 handbook's "Vdhen wuoden päiven" is the name of New Year's Day,
+  set in the type of the hymns, and not a hymn: the 1629 and 1694 handbooks
+  print it as a heading over the same hymn;
+- his table leaves out two of the 1694 hymns (*Kylwäjä Siemenens* on
+  Sexagesima, *Kehu Kielen* on Palm Sunday) and the last four for the days
+  of thanksgiving, fasting and prayer, gives *Mailman menon turhudest* twice
+  on Trinity 26, and marks the Nunc dimittis of 1614 at the Purification
+  "Sama" (the same) for 1694, which does not have it;
+- his reprint of the 1629 list has "synnisie" for "synnisit", "Betlehem",
+  the heading "Pyhiltä" for "Pyhinä", and *O laupias HErra Jumala* without
+  "Isä".
+
+Each transcription (`hymn_tables/Sorolainen_1614_Gradual_Hymns.csv`,
+`Elimaeus_1629_Gradual_Hymns.csv`, `Karoliininen_1694_Gradual_Hymns.csv`)
+gives, row by row in the order of the print: the PDF page; the heading and
+number the hymn stands under; its title as printed; a literal English gloss;
+the day; the German or Latin hymn it translates, where that can be told; the
+lexicon's title for it; how sure the identification is; and a note. Hands
+later than the print have added hymns in the margins of the 1614 copy; these
+are not transcribed.
+
+**Identification.** The Finnish hymns are mostly translations, of German
+hymns above all, and many incipits render the German word for word: *Ole
+kijtetty JEsu Christ* is *Gelobet seist du, Jesu Christ*, *Linna luja on
+Jumala* is *Ein feste Burg ist unser Gott*, *Juur Wirtais wieres Babylon*
+is *An Wasserflüssen Babylon*. These are `certain`. A hymn is `probable`
+when its incipit agrees with the original's in sense, or is the same
+psalm's on a day that suits it (*Autuas se cuin pelkä HErra*, Psalm 128,
+for the wedding at Cana on Epiphany 2), and `possible` when it could be one
+of two hymns or is guessed from the day's Gospel. Only certain and probable
+identifications name the hymn in `hymns.db` (`merge_finnish.canonical`): a
+possible one stays in the note, and its row, like a row not identified at
+all, is named by its Finnish title. Of the 469 rows, 183 are named by a
+hymn of the lexicon. Psalm hymns and canticles the lexicon lacks (Psalms 6,
+37, 41, 42, 46, 52, 82, 85, 91 and 139, the Magnificat, the Nunc dimittis)
+and the Athanasian Creed in verse are identified in the note and keep their
+Finnish titles. Two choices are the editor's:
+
+- *Tule Pyhä Hengi luoja*, the Veni Creator, is counted as Luther's German
+  version of it, *Komm, Gott Schöpfer, Heiliger Geist*;
+- *Jos eij HErra auta meitä*, a Psalm 124 hymn, is counted as Luther's *Wär
+  Gott nicht mit uns diese Zeit*, the commoner of the two German Psalm 124
+  hymns on Epiphany 4 (the Conversion of St Paul has neither).
+
+**Days.** The 1614 and 1629 handbooks give one hymn to a day, now and then
+two; the 1694 handbook three or four to most days, and twelve at Pentecost.
+All of a day's hymns count for it, as the several hymns of one day do for
+any witness. The days take this database's labels:
+
+- the handbooks keep the Transfiguration on the 7th Sunday after Trinity
+  ("Transfigurationis Christi" between VI and VIII in 1614, no. 7 in 1629,
+  "VII. Christuxen kirkastamisest" in 1694), and that Sunday's hymns are the
+  `Transfiguration`'s;
+- the 1614 and 1629 handbooks give `Septuagesima & Sexagesima` one heading,
+  and print the `Baptism of Christ (Octave of Epiphany)` between Christmas
+  and New Year; the 1694 handbook prints it between New Year and the
+  Epiphany;
+- the week before Easter ("Timmintaij wijckon") is `Holy Week`;
+- the 1629 handbook adds a 27th Sunday after Trinity: it gives the second of
+  the 1614 handbook's two hymns for Trinity 22 a Sunday of its own and moves
+  the hymns after it down one (Rimpiläinen, n. 40);
+- the 1694 handbook's sixth Sunday after the Epiphany has the three hymns of
+  the 27th after Trinity, to which it refers the singer;
+- new to the database are `St Matthias (24 Feb)`, from all three, and from
+  the 1694 handbook `St Andrew (30 Nov)`, `St Thomas (21 Dec)`, `Ss Philip
+  and James (1 May)`, `St Bartholomew (24 Aug)`, the `Rogation days`
+  (*Rucous Päiwinä*, which Rimpiläinen equates with the Swedish handbook's
+  *gångdagar*) and the `Days of public thanksgiving, fasting and prayer`.
+
+**What they show.** The handbooks sing many of the German *de tempore*
+hymns in Finnish on the same days. Of the 60 days of Appendix 8.A for which
+it gives a hymn, the 1614 handbook gives on 18 a hymn that the German
+witnesses give for the day, and on 8 the table's leading hymn: *Wohl dem,
+der in Gottes Furcht steht* on Epiphany 2, *Wär Gott nicht mit uns* on
+Epiphany 4, *Ein feste Burg* on Invocavit, *Ich ruf zu dir* on Reminiscere,
+*Vater unser* on Rogate, *Komm, Heiliger Geist* at Pentecost, *Ach Gott,
+vom Himmel* on Trinity 8 and *Nun lob, mein Seel* on St Michael's Day. The
+1629 handbook agrees on 17 days and has the same 8 leading hymns; the 1694
+handbook agrees on 37 of 62, and has the leading hymn on 15. Many of the
+other Finnish hymns follow the day's Gospel: *Weisatcam nyt rickast
+miehest* (Luke 16) on Trinity 1, *Jerusalem pyhä caupungi* (Luke 19) on
+Trinity 10.
+
+**Appendix 8.A.** The handbooks are old witnesses, but Appendix 8.A, a
+table of the German orders and hymnals, does not count them, nor the Slovak
+lists and Závorka's Czech hymnal below (`OTHER_LANGUAGES` in `appendix_8a.py`;
+the book's §8.A.1). `appendix_8a.py --other-languages` prints the table with
+all of them counted, and `--stats` names the days whose hymns would change, for
+each group and for all three. The Finnish handbooks would change 14 days: Advent 4 would gain *Christ, unser Herr, zum Jordan kam*, Jubilate
+*Ich ruf zu dir*, Pentecost *Komm, Gott Schöpfer* and Trinity 19 *Nun lob,
+mein Seel*, but Lent 5 would lose both its hymns, since none would then
+have a quarter of the day's witnesses.
+
+`merge_finnish.py` loads the three lists after `merge_sbh.py`, with sources
+such as `Finnish handbook (1694) (via its gradual hymns; item 47, PDF p.
+68)`.
+
+#### The Slovak lists (Ruščin)
+
+The Slovak Lutherans sang in Czech, from Juraj Tranovský's *Cithara
+Sanctorum* (Levoča, 1636) and its later editions. Peter Ruščin's article
+on the songs on the Sunday Gospels (*postilové piesne*) and the lists of
+songs for the Sundays of the church year in the Slovak Lutheran sources of
+the Baroque ("Postilové piesne a rozpisy spevov na nedele cirkevného roka v
+slovenských evanjelických prameňoch obdobia baroka", in *Pramene slovenskej
+hudby XI: Hudba a liturgia*, Bratislava, 2023, pp. 133–154; the volume is
+`Hymnal Index/Hymnal PDFs for hotd/Pramene slovenskej hudby Hudba a
+liturgia.pdf`) sets out in its Table 2 (pp. 146–151, PDF pp. 148–153) the
+songs that five sources give for the Sundays after Trinity:
+
+| Source | Rows | Loaded as |
+|---|---:|---|
+| The register of the *Cithara Sanctorum* (Levoča, 1674), "Poznamenání písní některých k obecným nedělím po sv. Trojici případných" | 99 | `Cithara Sanctorum (Levoča, 1674)` |
+| The manuscript hymnal B III-107 of the Literary Archive of the Slovak National Library, Martin, from central Slovakia | 40 | `Slovak manuscript B III-107 (c. 1674-1720)` |
+| Eliáš Mlynárových, *Písniční knížečka*, 2nd ed. (Kežmarok, 1707), its "Nedělní písničky na evangelia" | 27 | not loaded |
+| Matej Bodó, *Zvuk evangelium věčného* (1743) | 27 | not loaded |
+| Ján Blasius, *Rozkoše aneb Okrasa domu Božího* (1741, 1745) | 28 | not loaded |
+
+Ruščin's Table 1 gives the order of the seventeenth-century service: after
+the Epistle a hymn "de tempore" or a song on the Gospel; after the Gospel
+the Creed (*My všickni věříme*); after the sermon a hymn "de tempore" or
+one of the register. Tranovský left the cantor to choose the hymns of the
+day, and the Levoča editions of the Cithara from the second half of the
+century added the register for the Sundays after Trinity, which the seasons
+did not guide: four hymns to a Sunday, for 25 Sundays. The editions of the
+eighteenth century extend it to the whole year, with up to eight or nine
+hymns to a day; Ruščin does not set that register out, and it is not here.
+The manuscript B III-107, which Ruščin dates c. 1674–1720 (1674–1710 in the
+table, 1655–1720 in his abstract), gives the songs a congregation sang
+before and after the sermon ("po kázni") on these Sundays: songs on the
+Gospel by Jakub Kunvaldský or of unknown origin, and hymns of the register.
+
+The register and the manuscript are lists of the hymns of the day, and
+`merge_slovak.py` loads them as two witnesses, after `merge_finnish.py`,
+with sources such as `Cithara Sanctorum (Levoča, 1674) (via Ruščin's table;
+item 1, PDF p. 148)`. The three collections are not loaded: each gives its
+author's own new text on each Gospel, sung to a known tune, which no other
+witness can share, and Ruščin finds that they were little sung in church.
+
+`hymn_tables/Ruscin_Slovak_Trinity_Songs.csv` transcribes all five columns,
+221 songs. For each it gives the Sunday and its Gospel; the source; the
+title as printed; a literal English gloss; the tune it names ("♪"), with
+the German hymn of that tune where it is clear; "after the sermon" for the
+manuscript's songs so marked; the day; the German or Latin hymn it
+translates; the lexicon's title; how sure the identification is; and a
+note. The identifications follow the rules of the Finnish lists. The Czech
+Psalm 124 hymn *Jestliť Bůh s námi nebude*, on Trinity 23, is counted as
+Jonas's *Wo Gott der Herr nicht bei uns hält*, the commoner of the two
+German Psalm 124 hymns on that day, by the editor's rule for the Finnish
+Psalm 124 hymn.
+
+**What they show.** 25 of the register's 99 hymns are identified as certain
+or probable, 19 of them hymns of the lexicon, and many of them are the
+German hymns of the day in Czech. On 12 of its 25 Sundays the register gives
+a hymn that the German witnesses give for the same day, and on 5 the
+leading hymn of Appendix 8.A: *Es war einmal ein reicher Mann* on Trinity 1,
+*Vater unser* on Trinity 7, *Ach Gott, vom Himmel sieh darein* on Trinity 8,
+*Es ist das Heil uns kommen her* on Trinity 13 and *Wo Gott der Herr* on
+Trinity 23. *Warum betrübst du dich, mein Herz* (Trinity 15), *Dies sind die
+heilgen zehn Gebot* (Trinity 18) and *Aus tiefer Not* (Trinity 19) are
+among the other hymns the table shows for their days. Of the manuscript's
+40 songs, 5 are identified as certain or probable.
+
+**Appendix 8.A.** Like the Finnish handbooks, the Slovak lists are old
+witnesses in another language than German, and Appendix 8.A does not count
+them. Counted alone, they would change two days: Trinity 1 would have *Es
+war einmal ein reicher Mann* alone, and Trinity 20 would gain *Wie schön
+leuchtet der Morgenstern*.
+
+#### The Elberfeld hymnal (1898)
+
+The *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld: Verlag
+des Lutherischen Büchervereins, 1898), which the Gießen University Library's
+record gives to the Evangelisch-Lutherische Kirche Altpreußens, the Old
+Lutheran church of Prussia, has in its appendix a table of the
+Epistles and Gospels with their hymns, "Verzeichnis der Episteln und
+Evangelien mit Liedertafel" (appendix pp. 79–82). For each of 77 Sundays
+and festivals, from Advent 1 to the 27th Sunday after Trinity, with the
+second and third days of the high feasts, the feasts of the Virgin, St John
+the Baptist and St Michael, the Reformation and the dedication of a church,
+it gives a psalm, the Epistle and the Gospel, and against each reading three
+hymn numbers ("Liedernummer"): six hymns to a day, 462 references to 310 of
+the book's 744 hymns. The order of service at the front of the book does not
+say where they are sung; it names only the creed hymn (no. 192 or 193) and
+the Amen after a spoken creed (no. 246). So all six count for the day, as the several
+hymns of one day do for any witness.
+
+The repository has the book as the text and ALTO XML of the library's
+digitization of its copy, Gb 195 (`Hymnal Index/Hymnal PDFs for
+hotd/Gesangbuch für die Evangelisch-Lutherische Kirche.txt` and `.xml`;
+urn:nbn:de:hebis:26-digisam-123435). Their OCR loses the numbers of the
+table and of the alphabetical register of first lines (appendix pp. 83–92),
+so both were read from the library's page images (its images 751–754 and
+755–764, at digisam.ub.uni-giessen.de). The register sets 95 against three first lines and
+270 against two; the hymns so numbered were read in the body of the book.
+
+`hymn_tables/Elberfeld_1898_Liedertafel.csv` gives, for each reference, the
+page and image; the day as printed and its psalm; the reading and its
+pericope as printed; the hymn's place among the reading's three; its number;
+its first line as the register prints it, cut short; a literal English
+gloss; the day's label; the lexicon's hymn; the hymn's row in the Lutheran
+Hymn Index and that row's title; the common English title; and a note.
+`merge_elberfeld.py` loads it after `merge_slovak.py` as one witness,
+`Elberfeld hymnal (1898)`, with sources such as `Elberfeld hymnal (1898)
+(via its Liedertafel; item 2, no. 14, p. 79)`.
+
+**Names.** A hymn is named by the lexicon where its first line or its index
+row is a hymn the lexicon has (49 hymns); else by its row in the Lutheran
+Hymn Index (169), found by the German first line, so that the same hymn in
+this book and in an American hymnal is one hymn (*Macht hoch die Tür* is
+*Lift Up Your Heads, Ye Mighty Gates*, as in the lists that name their
+hymns by number); else by its first line (92). A first line that only begins
+like a hymn of the lexicon is not taken for it: Paul Gerhardt's Psalm 1
+(*Wohl dem Menschen, der nicht wandelt*, no. 265) and his *Ich weiß, daß
+mein Erlöser lebt* (no. 730) are not the older hymns of those openings in
+the lexicon, nor is Johann Heermann's *So wahr ich lebe, spricht dein Gott*
+(no. 324) the *So wahr ich leb, spricht Gott der Herr* of Ludecus. Martin
+Behm's *O heilige Dreifaltigkeit* and *O heiligste Dreifaltigkeit, voll
+Majestät* (nos. 507, 190) are not *O lux beata Trinitas* (*O Licht, heilige
+Dreifaltigkeit*), though `index_rows.hymn` once took their index rows for
+it, and the index's row for *Ich weiß, daß mein Erlöser lebt* is Samuel
+Medley's English hymn (see *Hymn identity across languages*, below). A hymn
+the lexicon names must be the lexicon's hymn of its index row, if
+`index_rows.hymn` gives one, and the build stops if it is not. *Nun singet
+und seid froh* (no. 43) is the German form of *In dulci jubilo*. The notes
+give these and the other doubtful cases.
+
+**Days.** New to the database are `Christmas (Second Day, 26 Dec)` and
+`Christmas (Third Day, 27 Dec)`: the book keeps them with readings of
+Christmas (Titus 3 and Luke 2:15–20; Hebrews 1 and John 1), not as the
+feasts of St Stephen and St John, under which some of the old witnesses
+give hymns for those days.
+The Gospel for Estomihi is printed "Luk. 18, 31—48", for 31–43.
+
+**What it shows.** 92 of its 310 hymns are found in another witness. Of the
+68 days of Appendix 8.A for which it gives hymns, it gives on 29 a hymn that
+the old German witnesses give for the day, and on 7 the table's leading
+hymn: *Gelobet seist du, Jesu Christ* on Christmas Day, *Ich ruf zu dir* on
+Epiphany 3, *Mit Fried und Freud* at the Purification, *Es ist das Heil uns
+kommen her* on Septuagesima, *Komm, Heiliger Geist, Herre Gott* at
+Pentecost, *Nun lob, mein Seel, den Herren* on Trinity 12 and *Mitten wir
+im Leben sind* on Trinity 16.
+
+**Appendix 8.A.** It is a modern witness, of 1800 onward, which the table
+leaves out (`MODERN` in `appendix_8a.py`).
+
+#### The Church of Ingria's calendar (2025-26)
+
+The Russian Lutheran Church (the Evangelical Lutheran Church of Ingria,
+elci.ru) publishes a liturgical calendar, "Литургический календарь 2025-26"
+(`Hymnal Index/Hymnal PDFs for hotd/Ingria liturgical calendar 2025-26.pdf`).
+It runs through 2026, from 29 December 2025 to 3 January 2027, a week to a
+page, on the one-year lectionary with the Sundays after Trinity. For each
+Sunday and feast it gives the theme, the colour, the introit, the psalm and
+the readings, and a line of hymn numbers ("Гимны"), with alternatives in
+parentheses. The church first put hymn numbers in its calendar for 2021-22,
+chosen by the pastor and the chief organist of its cathedral of St Mary.
+
+The numbers are those of the church's hymnal, "Сборник гимнов
+Евангелическо-Лютеранской Церкви Ингрии" (2015, 1,010 pages, on elci.ru; not
+in the repository). Its table of contents gives each hymn's number and first
+line, two pages short of the true pages (hymn 1 is on p. 228, not 226), and
+each hymn closes with its credits, the author, the translator or the source,
+under the tune named above it.
+
+The calendar does not say what each place in its line is. A line has seven
+places, which follow the hymnal's order of the Eucharistic service: the
+opening hymn; the Gloria ("Laudamus"; in Advent, in Lent and at Christmas a
+hymn in its place); the hymn between the Epistle and the Gospel; then four
+more, of the creed or the sermon, the offering, the communion and the end.
+The third is the hymn between the readings, the gradual hymn of the Finnish
+order that the church keeps and the place of the Finnish handbooks' hymns
+above. It and its alternatives are loaded by `merge_ingria.py`, after
+`merge_elberfeld.py`, as one witness, `Church of Ingria calendar (2025-26)`,
+with sources such as `Church of Ingria calendar (2025-26) (via its liturgical
+calendar; item 4, no. 64, PDF p. 2)`; the transcription keeps the whole line.
+On Good Friday the calendar gives eleven hymns for three services, without
+saying which is sung between the readings, and none is loaded. New Year's Day
+and the 2nd Sunday after Christmas fall twice, in 2026 and in 2027, with the
+same hymns, and each hymn is loaded once.
+
+`hymn_tables/Ingria_2025-26_Hymns_of_the_Day.csv` has a row for each hymn of
+the day and each alternative: the PDF page and the date; the day as printed,
+with its Epistle and Gospel; the whole line of hymns; the hymn's place; its
+number, and the stanzas where the calendar gives them; its Russian first line
+from the hymnal's contents; a literal English gloss; the hymnal's credit, in
+English; the original, its language and how sure the identification is; the
+day's label; the lexicon's hymn; the original's row in the Lutheran Hymn
+Index and that row's title; the common English title; and a note.
+
+**Names.** Most of the hymns are Russian, Finnish or English. Where the credit
+and the text show a translation, the transcription names the original,
+`certain` or `probable`; a `possible` original is a note. A hymn is named by
+the lexicon where its original is a hymn of the lexicon (8: *Nun komm, der
+Heiden Heiland*, *Corde natus ex parentis*, *Wie schön leuchtet der
+Morgenstern*, Luther's Easter hymn *Jesus Christus, unser Heiland, der den Tod
+überwand*, which the hymnal prints without an author, *O Herre Gott, dein
+göttlich Wort*, probable, *Jesu, meine Freude*, *Erhalt uns, Herr, bei deinem
+Wort* and *Jesaja, dem Propheten*); else by the index's title for the
+original's row (18, most of them English hymns, such as *Rock of Ages* and
+*Thy Strong Word*); else by the original's title (5); else by its Russian
+first line. `export_xlsx.norm` keeps Cyrillic letters: it had kept only a-z,
+so that every Russian title came to the same empty key, and the Russian hymns
+the lexicon does not name had all been taken for one hymn.
+
+**Days.** The 1st Sunday after the Epiphany is kept as the Baptism of the Lord
+(`Baptism of Christ (Octave of Epiphany)`), and the 2nd Sunday after Christmas
+is `Christmas 2`. The last three Sundays of the church year take the old
+series' days by their Gospels: the third from the end (Matthew 24:15-27) is
+`Trinity 25`, the second-last (Matthew 25:1-13) `Trinity 27`, and the last,
+Judgment Sunday (Matthew 25:31-46), `Trinity 26`.
+
+**What it shows.** Of the 55 days of Appendix 8.A for which it gives hymns, it
+gives on two a hymn that the old German witnesses give for the day, *Nun
+komm, der Heiden Heiland* on Advent 4 and *Erhalt uns, Herr, bei deinem Wort*
+on Sexagesima, and on none the table's leading hymn.
+
+**Appendix 8.A.** It is a modern witness, which the table leaves out (`MODERN`
+in `appendix_8a.py`).
+
+#### Závorka's Rubryka (Prague, 1602-06)
+
+*Písně chval božských* ("Songs of the praises of God"), the hymnal of Tobiáš
+Závorka Lipenský, Utraquist dean of Doubravník in Moravia, was printed at
+Prague by Jiří Jakub Dačický. Its title page is dated 1602; the printing is
+said to have been finished in 1606. It is in Czech: the chants of the Mass
+(introits, Kyries, Alleluias, sequences) and hymns, ordered by the church year
+in lettered gatherings, 660 leaves in all. It is read here from the copy of the
+National Library of the Czech Republic, 54 B 38, in Manuscriptorium's images
+(IIIF manifest `AIPDIG-NKCR__54_B_38_____2HE0NZ0-cs`, CC BY-NC 4.0); it is not
+in the repository, and its leaves are cited by the images' labels.
+
+The Rubryka (ff. 7r-15r, in two columns) is the book's order for the year. For
+each Sunday and feast it names, by incipit and by leaf of the book, what is
+sung at the early service ("Ráno"), at the High Mass ("na Summě"), after the
+noon meal ("Po obědě"), at Vespers and at the Masses of Wednesday and Friday.
+For the High Mass it gives the Introit, the Kyrie and the Gloria, the Alleluia,
+the sequence ("Proza"), the Creed hymn ("Patrem"), a hymn after the Gospel
+("po Ewangelium") and one after the sermon ("po kázanj"), and the Sanctus, not
+every part every week. `merge_zavorka.py` loads, after `merge_ingria.py`, as
+one witness, `Závorka, Písně chval božských (1602-06)`, with sources such as
+`Závorka, Písně chval božských (1602-06) (via its Rubryka; item 3, f. 7r b)`,
+the hymns of the High Mass that are not its Ordinary:
+
+- the sequence, or the hymn sung instead of it ("místo Prozy"), and on Judica
+  a hymn given after it; and the hymns sung after the tract, after an Alleluia
+  verse, after the Passion or as an antiphon before the Introit, which take the
+  place of the sequence on those days;
+- the hymn after the Gospel and the hymn after the sermon, with their
+  alternatives;
+- the songs the Rubryka gives for a Sunday as such ("Pjsničky"), on four
+  Sundays.
+
+That is 209 hymns on 90 days. The morning songs are transcribed but not
+loaded; the songs after the noon meal, at Vespers and on the weekdays are not
+transcribed. At Rogate the Rubryka gives an early Mass with its own sermon, and
+its hymn after the sermon counts for the day.
+
+`hymn_tables/Zavorka_1602_Rubryka.csv` has a row for each hymn: the Rubryka's
+leaf and column; the day as printed and its label; the slot; whether it is an
+alternative; the incipit as printed, in the old spelling (w for v, g for j, au
+for ou), often cut short; the title in modern spelling; a literal English
+gloss; the leaf of the book the Rubryka gives; whether the hymn was named from
+that leaf; the Latin original, the lexicon's hymn and how sure the
+identification is; whether it is loaded; and a note. Seven days for which the
+Rubryka names no hymn, only leaves of the book or "all" of a feast, close the
+file.
+
+**Names.** The book prints over a hymn translated from the Latin the Latin's
+first words ("Grates nunc omnes reddamus, Domino Deo, &c."). Where such a hymn
+was read on its leaf and is the Latin's in Czech, the transcription names the
+original: *Grates nunc omnes* (Christmas), *Victimae paschali laudes* (Easter),
+*Cum rex gloriae* (the antiphon before the Introit at Easter), *Sancti Spiritus
+adsit nobis gratia* (Pentecost Monday and Trinity 8), *Johannes Jesu Christo
+multum dilecte* (St John) and *Dies irae* (Advent 2 and Trinity 26, a strophic
+version to a hymn tune), all certain; *Stabat mater dolorosa* (Judica and Holy
+Cross), a free version whose lines on the Mother alternate with new lines on
+Christ and the Christian, probable; and the Pentecost antiphon "Přijdiž, ó
+svatý Duše", not read on its leaf, *Veni Sancte Spiritus, reple tuorum corda
+fidelium*, probable. A hymn is named by the lexicon where the original is one
+of its hymns (*Grates nunc omnes*, *Victimae paschali laudes*, and the
+antiphon as the lexicon's German prose of it, *Komm, Heiliger Geist, erfüll
+die Herzen deiner Gläubigen*); else by the original's title; else by its Czech
+title. *Slovo dobré* (Advent 1), headed "Verbum bonum & suave", keeps its
+Czech title: its first words are the Latin's, but its text, on the fall and
+the redemption, is new. The other hymns keep their Czech titles.
+
+**Sequences by leaf.** On eight days the Rubryka gives the sequence by its leaf
+alone ("Proza F iiii"). The transcription names it from that leaf, where one
+begins, and says so (`from_leaf`): Easter's is the Czech *Victimae paschali
+laudes*, St John's the Czech *Johannes Jesu Christo*, and Judica's, among the
+propers that begin on D v, the Czech *Stabat mater*; those of Epiphany 1,
+Epiphany 5, Sexagesima and Trinity 5 (the one sequence of the book's section
+on the Word of God) and St Bartholomew are Czech proses. New Year's ("Prozy
+wiz B 39") is a choice, at a leaf so printed, and is not named.
+
+**Days.** The days take this database's labels. Three saints' days are new:
+`Jan Hus (6 July)`, `St Margaret (13 July)` and `Dispersion of the Apostles
+(15 July)`. The early services of Christmas and Easter are `Christmas (Dawn)`
+and `Easter (Sunrise)`, and the Sunday before Advent, the last of the year, is
+`Trinity 27`.
+
+**One hymn with the Slovak lists.** The Rubryka's song for the 1st Sunday after
+Trinity, *Slušíť na to každý čas*, is the *Cithara Sanctorum*'s hymn of the
+same Sunday, which Ruščin's table cuts to *Slušiť na to každý č.*. An alias in
+`export_xlsx.py` makes them one hymn, and the Slovak row's gloss reads "č." as
+*čas*; it had read *člověk*. The morning songs, not loaded, share more with
+the register: *Pamatuj, člověče* is the Rubryka's morning song and a hymn of
+the register on Trinity 11.
+
+**What it shows.** Of the 65 days of Appendix 8.A for which it gives hymns, it
+gives on three a hymn that the old German witnesses give for the day, each a
+Latin piece in Czech: *Grates nunc omnes* at Christmas, *Victimae paschali
+laudes* at Easter and the antiphon *Veni Sancte Spiritus* at Pentecost. On
+none does it give a hymn the table shows.
+
+**Appendix 8.A.** It is an old witness in another language than German, which
+the table does not count (`CZECH`, in `OTHER_LANGUAGES` of `appendix_8a.py`).
+Counted alone, it would change no day. Counted with the Finnish and Slovak
+lists, it would leave Palm Sunday without a hymn that has a quarter of the
+day's witnesses (*Christus, der uns selig macht*, 6 of 25), and Quinquagesima
+would again need its assignment (*Durch Adams Fall*, 5 of 21).
 
 ## Schema
 
@@ -506,7 +1079,8 @@ The hymnal and compilation sources cite a hymn in five ways: by its German
 incipit (Liliencron's hymnals, Ludecus), by a Low German or Latin form, by
 an English title only (Selnecker's own account and the Hymn of the Day
 table, with Carpzov, Bach and the modern lists), by an English title and its
-number in a hymnal (Krusemark's lists, *Te Laudamus*), or by a German incipit
+number in a hymnal (Krusemark's lists, *Te Laudamus*, *Lutheran Book of
+Worship*, the SBH's Hymn of the Week), or by a German incipit
 and an English title (Liliencron's concordance). One hymn has one identity
 in all of them:
 
@@ -522,8 +1096,19 @@ in all of them:
 - **`index_rows.py`** reads a hymnal number: the number's row in the
   Lutheran Hymn Index, and the lexicon's hymn on that row (the one
   `index_titles.INDEX` matches to it, else the one the row's German or Latin
-  original resolves to, if the original is that hymn's whole incipit).
-  `export_xlsx.py` names *Te Laudamus*'s and Krusemark's rows so. A row the
+  original resolves to, if the original is that hymn's whole incipit, word
+  for word, punctuation aside). Each word may be spelt otherwise, but none
+  may be wanting: a likeness of the letters alone had taken Martin Behm's
+  *O heilige Dreifaltigkeit* (TLH 541) and *O heiligste Dreifaltigkeit*
+  (row 3957) for *O Licht, heilige Dreifaltigkeit*, and the
+  *Herr, unser Gott, dich loben wir* of WELS12 for Luther's *Herr Gott, dich
+  loben wir*. A row whose original, as the index records it, is not its
+  hymn takes no hymn of the lexicon (`NOT_ITS_ORIGINAL`): the index records
+  Samuel Medley's English *I Know That My Redeemer Lives* (TLH 200, LBW 352,
+  LSB 461) as a translation of *Ich weiß, daß mein Erlöser lebt*, the
+  opening of the older German hymn of the Magdeburg list of 1632. No list in
+  `hymns.db` cites these rows.
+  `export_xlsx.py` names *Te Laudamus*'s, LBW's, the SBH list's and Krusemark's rows so. A row the
   lexicon lacks is named by the index's title for it, and is not then taken
   for a lexicon hymn of a like title. Krusemark's "Praise the Almighty, my soul,
   adore Him" (LSB 797) showed one such error: a title alias of
@@ -684,7 +1269,8 @@ one (`Herre gott`) is too short a fragment to identify. Everything else
 resolved.
 
 **`original_title` is not always German.** The Hymn of the Day table,
-Selnecker's account, Krusemark's lists and *Te Laudamus* cite hymns by
+Selnecker's account, Krusemark's lists, *Te Laudamus*, *Lutheran Book of
+Worship* and the SBH's Hymn of the Week cite hymns by
 English title only; they give no German
 incipit, so for those rows `original_title` holds the English title as
 printed and `literal_english` is `NULL`. Filter on

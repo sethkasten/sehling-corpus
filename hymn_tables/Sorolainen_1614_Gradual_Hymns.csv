@@ -1,0 +1,91 @@
+seq,pdf_page,heading,number,title,literal_english,day,original,lexicon,confidence,note
+1,38,Dominica I. Adventus,I,Woi meitä köyhiä synnisit,Woe to us poor sinners,Advent 1,O wir armen Sünder,O wir armen Sünder,probable,
+2,39,Dominica I. Adventus,II,Te Christityt ylöshäretkät,"You Christians, awake",Advent 2,,,,
+3,39,Dominica I. Adventus,III,Sanoi HERRA asua taivas,"Said the Lord, dwelling in heaven",Advent 3,,,,perhaps a Psalm 110 hymn (Trinity 18's Gospel quotes Ps 110:1)
+4,39,Dominica I. Adventus,IV,HERRA Christus tuli Jordanil,The Lord Christ came to the Jordan,Advent 4,"Christ, unser Herr, zum Jordan kam","Christ, unser Herr, zum Jordan kam",certain,
+5,39,Joulun Pyhin,,Caicki Christityt/ iloitcat tällä Juhlalle,"All Christians, rejoice at this feast",Christmas,,,,"heading ""on the Christmas holy days"""
+6,39,Joulun Pyhin,,Christus alasastui taivahast,Christ came down from heaven,Christmas,,,,
+7,39,Christuxen Castesta,,HERRA Christus tuli Jordanill,The Lord Christ came to the Jordan,Baptism of Christ (Octave of Epiphany),"Christ, unser Herr, zum Jordan kam","Christ, unser Herr, zum Jordan kam",certain,"printed between Christmas and New Year, as in the 1629 handbook"
+8,39,Vdhen wuoden päiven,,Iloitcam sijs caicki/ nyt,"Let us all rejoice, then",New Year (Circumcision),,,,"""Vdhen wuoden päiven"" (on New Year's day) is set in the type of the hymns, under Christuxen Castesta, but it names the day, which the 1629 and 1694 handbooks print as a heading over this hymn; Rimpiläinen takes it for a hymn, and the New Year for new in the 1669 handbook"
+9,39,Colmen P. Cuningan eli Herran ilmestys päiven,,Puer natus in Bethlehem,A boy is born in Bethlehem,Epiphany,Puer natus in Bethlehem,Puer natus in Bethlehem,certain,printed in Latin
+10,39,Colmen P. Cuningan eli Herran ilmestys päiven,,Yxi lapsi syndyi Bethlehemis,A child was born in Bethlehem,Epiphany,Puer natus in Bethlehem (in Finnish),Puer natus in Bethlehem,probable,"on the same line as the Latin, as its Finnish version"
+11,39,I. Sunnuntaina HErran ilmestys päiven jelken,I,Christus Jumalan poica,"Christ, the Son of God",Epiphany 1,"Herr Christ, der einig Gotts Sohn","Herr Christ, der einig Gotts Sohn",probable,
+12,39,I. Sunnuntaina HErran ilmestys päiven jelken,II,Autuas se cuin pelkä HERRA,Blessed is he who fears the Lord,Epiphany 2,"Wohl dem, der in Gottes Furcht steht (Ps 128)","Wohl dem, der in Gottes Furcht steht",probable,Ps 128:1
+13,39,I. Sunnuntaina HErran ilmestys päiven jelken,II (Item),Moni awioskäsky laita,Many ... the ordinance of marriage,Epiphany 2,,,,"the alternative (""Item""); the sense of the line is uncertain"
+14,39,I. Sunnuntaina HErran ilmestys päiven jelken,III,Cudzu Christus caicki tygem tulcat,Christ calls all to come to him,Epiphany 3,"Kommt her zu mir, spricht Gottes Sohn","Kommt her zu mir, spricht Gottes Sohn",certain,
+15,39,I. Sunnuntaina HErran ilmestys päiven jelken,IV,Jos eij HErra auta meitä,If the Lord does not help us,Epiphany 4,"a Psalm 124 hymn, counted as Luther's Wär Gott nicht mit uns diese Zeit",Wär Gott nicht mit uns diese Zeit,probable,editor's decision
+16,39,I. Sunnuntaina HErran ilmestys päiven jelken,IV (Item),Cuin Jesus kävi hahten,When Jesus went into the ship,Epiphany 4,,,,"the alternative (""Item""); Matt 8:23, the day's Gospel"
+17,39,I. Sunnuntaina HErran ilmestys päiven jelken,V,O HErra swn pyhät sanas,"O Lord, thy holy words",Epiphany 5,"O Herre Gott, dein göttlich Wort","O Herre Gott, dein göttlich Wort",possible,
+18,39,Septuagesima & Sexagesima,,Taivan waldacunda on wedhetty,The kingdom of heaven is likened,Septuagesima & Sexagesima,,,,"the two days share one heading; Matt 20:1, Septuagesima's Gospel"
+19,39,Septuagesima & Sexagesima,,Jumalan swrest hywydest,Of God's great goodness,Septuagesima & Sexagesima,Es ist das Heil uns kommen her,Es ist das Heil uns kommen her,possible,"cf. ""von Gnad und lauter Güte"""
+20,40,Esto mihi,,Woi meitä köyhi syndisit,Woe to us poor sinners,Quinquagesima (Estomihi),O wir armen Sünder,O wir armen Sünder,probable,
+21,40,Invocavit,,Meiden linnan on Jumala taivas,Our fortress is God of heaven,Lent 1 (Invocavit),Ein feste Burg ist unser Gott,Ein feste Burg ist unser Gott,probable,the names of the Lenten Sundays stand in the margin
+22,40,Reminiscere,,Sinun tygös HERRA Christe hwdhan,"To thee, Lord Christ, I cry",Lent 2 (Reminiscere),"Ich ruf zu dir, Herr Jesu Christ","Ich ruf zu dir, Herr Jesu Christ",certain,
+23,40,Oculi,,Cuin corkeiman turvis istupi,Who dwells in the shelter of the Most High,Lent 3 (Oculi),a Psalm 91 hymn (Wer in dem Schutz des Höchsten ist),,probable,Ps 91:1; not in the lexicon
+24,40,Laetare,,O inhiminen ajattele aina,"O man, consider always",Lent 4 (Laetare),,,,
+25,40,Judica,,O HERRA Jumala taivast,"O Lord God, from heaven",Lent 5 (Judica),"Ach Gott, vom Himmel sieh darein","Ach Gott, vom Himmel sieh darein",probable,"a later hand adds ""me kyllä"", as the 1694 handbook prints it"
+26,40,Palm.,,Kijtet olcon Jesuxen nimi,Praised be the name of Jesus,Palm Sunday,,,,"a later hand adds below it ""Jesus Christus Lunastajam"", the 1694 handbook's second hymn"
+27,40,Timmintaij wijckon,,O Jesu cuin,"O Jesus, how thou wast tormented",Holy Week,,,,"printed short, ""O Jesu cuin.""; the 1694 handbook gives it as ""O JEsu cuingas olet pijnattu"""
+28,40,Timmintaij wijckon,,Jumala auta että minä taidhaisin,"God, help me that I may",Holy Week,"Hilf Gott, dass mir gelinge","Hilf Gott, dass mir gelinge",probable,
+29,40,Timmintaij wijckon,,Jesus ristin pääle ripui,Jesus hung upon the cross,Holy Week,Da Jesus an dem Kreuze stund,Da Jesus an dem Kreuze stund,probable,
+30,40,Timmintaij wijckon,,Christus cuoleman kivus sanoi,Christ said in the pain of death,Holy Week,,,,
+31,40,Timmintaij wijckon,,Auta mua Jumalan täsä tuscas,"Help me, God, in this anguish",Holy Week,,,,
+32,40,Timmintaij wijckon,,O puhdas Jumalan caridza,O pure Lamb of God,Holy Week,"O Lamm Gottes, unschuldig","O Lamm Gottes, unschuldig",certain,
+33,40,Päsiäis Pyhin,,Jesus Christus vfrixi tuli,Jesus Christ became a sacrifice,Easter,,,,
+34,40,Päsiäis Pyhin,,Christus nousi ylös cuoleman haudast,Christ rose up from the grave of death,Easter,Christ ist erstanden,Christ ist erstanden,possible,
+35,40,Misericor. Domini,,Isä Jumala kijttekem,Let us thank God the Father,Easter 2 (Misericordias Domini),,,,
+36,40,Misericor. Domini,,Mikä silloin taita puuttu,What then can be lacking,Easter 2 (Misericordias Domini),Der Herr ist mein getreuer Hirt (Ps 23),Der Herr ist mein getreuer Hirt,possible,Ps 23:1
+37,40,Iubilate,,Sinun tygös HERRA Christe hwdhan,"To thee, Lord Christ, I cry",Easter 3 (Jubilate),"Ich ruf zu dir, Herr Jesu Christ","Ich ruf zu dir, Herr Jesu Christ",certain,
+38,40,Cantate,,Jumalan swrest hywydest,Of God's great goodness,Easter 4 (Cantate),Es ist das Heil uns kommen her,Es ist das Heil uns kommen her,possible,"cf. ""von Gnad und lauter Güte"""
+39,40,Vocem jucunditatis,,Isä meiden ylhel taivas,"Our Father, above in heaven",Easter 5 (Rogate/Vocem jucunditatis),Vater unser im Himmelreich,Vater unser im Himmelreich,certain,
+40,40,Vocem jucunditatis,,Sinun tygös Christe hwdhan,"To thee, Lord Christ, I cry",Easter 5 (Rogate/Vocem jucunditatis),"Ich ruf zu dir, Herr Jesu Christ","Ich ruf zu dir, Herr Jesu Christ",certain,
+41,41,Ascensionis,,Nyt caicki Christityt iloitcam,Now let all Christians rejoice,Ascension,"Nun freut euch, lieben Christen gmein","Nun freut euch, lieben Christen gmein",probable,
+42,41,Exaudi,,Meiden linnan on Jumala taivas,Our fortress is God of heaven,Sunday after Ascension (Exaudi),Ein feste Burg ist unser Gott,Ein feste Burg ist unser Gott,probable,
+43,41,Helundain pyhin,,Tule pyhä Hengi luoia,"Come, Holy Spirit, Creator",Pentecost,"Veni creator Spiritus, in Luther's German Komm, Gott Schöpfer, Heiliger Geist","Komm, Gott Schöpfer, Heiliger Geist",certain,editor's decision
+44,41,Helundain pyhin,,Tule pyhä Hengi HERRA jumal,"Come, Holy Spirit, Lord God",Pentecost,"Komm, Heiliger Geist, Herre Gott","Komm, Heiliger Geist, Herre Gott",certain,
+45,41,Trinitatis,,Se cuin tahto autuas olla,Whoever will be saved,Trinity Sunday,the Athanasian Creed (Quicunque vult) in verse,,probable,"the lexicon has the German version, Das Athanasianische Symbolum, deutsch"
+46,41,Trinitatis,,O laupias Isä HERRA Jumala,"O merciful Father, Lord God",Trinity Sunday,,,,
+47,41,Dominica I. Trinitatis,I,Weisatcam nyt rickast miehest,Let us sing now of the rich man,Trinity 1,,,,"Luke 16:19-31, the day's Gospel"
+48,41,Dominica I. Trinitatis,II,Yxi ricas mies wäkeva työs,"A rich man, mighty in his works",Trinity 2,,,,the Gospels of the great supper and the wedding feast
+49,41,Dominica I. Trinitatis,III,Jumala on wedhetty miehen werraxi,God is likened to a man,Trinity 3,,,,"Luke 15, the lost sheep"
+50,41,Dominica I. Trinitatis,IV,Se cuin tahto Christitty olla,Whoever will be a Christian,Trinity 4,,,,
+51,41,Dominica I. Trinitatis,V,Mikä silloin taita puuttu,What then can be lacking,Trinity 5,Der Herr ist mein getreuer Hirt (Ps 23),Der Herr ist mein getreuer Hirt,possible,Ps 23:1
+52,41,Dominica I. Trinitatis,VI,Jumalan swrest hywydest,Of God's great goodness,Trinity 6,Es ist das Heil uns kommen her,Es ist das Heil uns kommen her,possible,"cf. ""von Gnad und lauter Güte"""
+53,41,Transfigurationis Christi,,Christus Jumalan poica,"Christ, the Son of God",Transfiguration,"Herr Christ, der einig Gotts Sohn","Herr Christ, der einig Gotts Sohn",probable,"between VI and VIII, so on the 7th Sunday after Trinity, as in the 1629 and 1694 handbooks; a later hand writes ""VII"" in the margin"
+54,41,Transfigurationis Christi,(Item),Cuin Jesus wuorel kircastui,When Jesus was transfigured on the mountain,Transfiguration,,,,"the alternative (""Item""); Matt 17, the Transfiguration"
+55,41,Dominica I. Trinitatis,VIII,O HERRA Jumala taivast,"O Lord God, from heaven",Trinity 8,"Ach Gott, vom Himmel sieh darein","Ach Gott, vom Himmel sieh darein",probable,
+56,41,Dominica I. Trinitatis,VIII (Item),O HErra suun pyhä sanas,"O Lord, thy holy word",Trinity 8,"O Herre Gott, dein göttlich Wort","O Herre Gott, dein göttlich Wort",possible,"the alternative (""Item"")"
+57,41,Dominica I. Trinitatis,IX,HErra cuca sinun maiasas,"Lord, who [shall abide] in thy tabernacle",Trinity 9,"Herr, wer wird wohnen in deiner Hütte (Ps 15)","Herr, wer wird wohnen in deiner Hütte",probable,Ps 15:1
+58,41,Dominica I. Trinitatis,IX,Nijn Jesus puhui wertauxil,So Jesus spoke in parables,Trinity 9,,,,"Luke 16:1, the day's Gospel"
+59,42,Dominica I. Trinitatis,X,Jerusalem pyhä caupungi,"Jerusalem, the holy city",Trinity 10,,,,"Luke 19:41-48, Trinity 10's Gospel"
+60,42,Dominica I. Trinitatis,XI,Jumalan swrest hywydest,Of God's great goodness,Trinity 11,Es ist das Heil uns kommen her,Es ist das Heil uns kommen her,possible,"cf. ""von Gnad und lauter Güte"""
+61,42,Dominica I. Trinitatis,XII,O Jumala anna minul armos,"O God, grant me thy grace",Trinity 12,"Erbarm dich mein, o Herre Gott (Ps 51)","Erbarm dich mein, o Herre Gott",possible,
+62,42,Dominica I. Trinitatis,XIII,Ylpeys on wica sangen swri,Pride is a very great vice,Trinity 13,,,,
+63,42,Dominica I. Trinitatis,XIV,Inhimisen luondo turmeltu on,Man's nature is corrupted,Trinity 14,Durch Adams Fall ist ganz verderbt,Durch Adams Fall ist ganz verderbt,probable,"the sense of ""menschlich Natur und Wesen"" in its first lines"
+64,42,Dominica I. Trinitatis,XV,O inhiminen aiatele aina,"O man, consider always",Trinity 15,,,,
+65,42,Dominica I. Trinitatis,XVI,Woij meitä köyhiä synnisitä,Woe to us poor sinners,Trinity 16,O wir armen Sünder,O wir armen Sünder,probable,
+66,42,Dominica I. Trinitatis,XVII,Nämä ne kymmenen käskyt ovat,These are the ten commandments,Trinity 17,Dies sind die heilgen zehn Gebot,Dies sind die heilgen zehn Gebot,certain,
+67,42,Dominica I. Trinitatis,XVIII,Sanoi HErra asua taivas,"Said the Lord, dwelling in heaven",Trinity 18,,,,perhaps a Psalm 110 hymn (Trinity 18's Gospel quotes Ps 110:1)
+68,42,Dominica I. Trinitatis,XIX,Minun sielun kijttä HERRA,"My soul, praise the Lord",Trinity 19,"Nun lob, mein Seel, den Herren","Nun lob, mein Seel, den Herren",certain,Ps 103
+69,42,Dominica I. Trinitatis,XX,Yxi ricas mies wäkevä työs,"A rich man, mighty in his works",Trinity 20,,,,the Gospels of the great supper and the wedding feast
+70,42,Dominica I. Trinitatis,XXI,Minun sielun kijttä HERRA,"My soul, praise the Lord",Trinity 21,"Nun lob, mein Seel, den Herren","Nun lob, mein Seel, den Herren",certain,Ps 103
+71,42,Dominica I. Trinitatis,XXII,Yxi cuningas tahdoi lucu laske,A king would take account,Trinity 22,,,,"Matt 18:23, the day's Gospel"
+72,42,Dominica I. Trinitatis,XXII,Armadha pällen Jumala,"Have mercy upon us, God",Trinity 22,"Erbarm dich mein, o Herre Gott (Ps 51)","Erbarm dich mein, o Herre Gott",probable,"Ps 51:1, Miserere mei, Deus: the 1694 handbook has in its place, on Trinity 22, Ole armollinen minull Jumal, a nearer translation of Erbarm dich mein (Rimpiläinen's table marks it 'Sama', the same hymn)"
+73,42,Dominica I. Trinitatis,XXIII,Jumal seiso/Jumalten seas,God stands among the gods,Trinity 23,a Psalm 82 hymn,,probable,Ps 82:1; not in the lexicon
+74,42,Dominica I. Trinitatis,XXIV,Kijttetty olcon Jesuxen nimi,Praised be the name of Jesus,Trinity 24,,,,
+75,42,Dominica I. Trinitatis,XXV,Isä Jumalata kijttäkäm,Let us thank God the Father,Trinity 25,,,,
+76,42,Dominica I. Trinitatis,XXVI,Te Christityt ylösherätkät,"You Christians, awake",Trinity 26,,,,the last Sunday; the 1629 handbook adds a 27th
+77,42,Apostolitten Päiven,,Riemutcam maa taivas wahvast,"Let us rejoice, earth and heaven, mightily",Common of Apostles,Exsultet caelum laudibus,,possible,the Latin apostles' hymn is not in the lexicon
+78,42,Conversionis Pauli,,Jos eij HErra auta meitä,If the Lord does not help us,Conversion of St Paul (25 Jan),"a Psalm 124 hymn, counted as Luther's Wär Gott nicht mit uns diese Zeit",Wär Gott nicht mit uns diese Zeit,probable,editor's decision
+79,42,Purificationis Mariae,,Caicki Christityt/ijloitcat tällä Juhlalla,"All Christians, rejoice at this feast",Purification of Mary (2 Feb),,,,
+80,42,Purificationis Mariae,,Laske nyt HErra sinun palvelias,"Lord, now let thy servant depart",Purification of Mary (2 Feb),the Nunc dimittis (Luke 2:29),,probable,"Rimpiläinen's table marks it ""Sama"" (the same) for the 1694 handbook, which does not have it; Luther's version is Mit Fried und Freud ich fahr dahin; not in the lexicon"
+81,43,S. Mathiae,,Cudzu Christus caicki tygöm tulcat,Christ calls all to come to him,St Matthias (24 Feb),"Kommt her zu mir, spricht Gottes Sohn","Kommt her zu mir, spricht Gottes Sohn",certain,
+82,43,Anunciationis Mariae,,O Jesu Christ cuin luonon sai,"O Jesus Christ, who took our nature",Annunciation (25 March),,,,
+83,43,Anunciationis Mariae,,Iloidze Christicundh sydämest,"Rejoice, Christendom, from the heart",Annunciation (25 March),,,,
+84,43,Iohannis Baptista,,Nyt caicki Christityt iloitcat,"Now rejoice, all Christians",St John the Baptist (24 June),"Nun freut euch, lieben Christen gmein","Nun freut euch, lieben Christen gmein",probable,
+85,43,Petri & Pauli,,Iloitcat nyt tähän aican,Rejoice now at this time,St Peter and St Paul (29 June),,,,
+86,43,Visitationis Mariae,,O Jesu Christ cuin luonon sai,"O Jesus Christ, who took our nature",Visitation of Mary (2 July),,,,
+87,43,S. Michaelis,,Minun sielun kijttä HERRA,"My soul, praise the Lord",St Michael (29 Sept),"Nun lob, mein Seel, den Herren","Nun lob, mein Seel, den Herren",certain,Ps 103
+88,43,S. Michaelis,,O HERRA Jumal/cuin caicki olet luonut,"O Lord God, who hast made all things",St Michael (29 Sept),"Herr Gott, dich loben alle wir","Herr Gott, dich loben alle wir",possible,"Melanchthon's Dicimus grates tibi, summe rerum conditor"
+89,43,Omnium Sanctorum,,Elgös sinä pahaxes pango,Do not take it ill,All Saints (1 Nov),a Psalm 37 hymn,,probable,"Ps 37:1, ""fret not thyself""; not in the lexicon"
+90,43,Omnium Sanctorum,,HERRA cuca sinun majasas,"Lord, who [shall abide] in thy tabernacle",All Saints (1 Nov),"Herr, wer wird wohnen in deiner Hütte (Ps 15)","Herr, wer wird wohnen in deiner Hütte",probable,Ps 15:1

@@ -6,7 +6,8 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_krusemark, merge_te_laudamus
+import merge_elberfeld, merge_finnish, merge_ingria, merge_krusemark, merge_lbw, merge_sbh, merge_slovak
+import merge_te_laudamus, merge_zavorka
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -39,7 +40,7 @@ def sort_key(occ):
 def norm(s):
     t = unicodedata.normalize('NFKD', (s or '').lower()).replace('’', "'")
     t = ''.join(c for c in t if not unicodedata.combining(c))
-    t = re.sub(r'[^a-z0-9 ]', ' ', t)
+    t = re.sub(r'[^a-z0-9 \u0430-\u044f]', ' ', t)    # Latin and Cyrillic letters: a Russian title is not empty
     return re.sub(r'\s+', ' ', t).strip()
 
 def load():
@@ -58,12 +59,35 @@ def load():
             'FROM hymn_prescriptions'):
         wit = src.split(' (via')[0]
         ident = canon.get((norm(orig), src))
-        # Te Laudamus and Krusemark name their hymns by number: by its row in the Lutheran Hymn
-        # Index. A row the lexicon lacks (ident None) is named by the index's title for it (TL's
-        # common_english is that title), and is not then taken for a lexicon hymn of a like title
+        # Te Laudamus, LBW, the SBH's Hymn of the Week and Krusemark name their hymns by number:
+        # by its row in the Lutheran Hymn Index. A row the lexicon lacks (ident None) is named by
+        # the index's title for it (the common_english of TL's, LBW's and the SBH's rows), and is
+        # not then taken for a lexicon hymn of a like title. The transcriptions of the Finnish
+        # handbooks and the Slovak lists name their hymns in the same way: a hymn they leave
+        # unnamed keeps its Finnish or Czech title. The Elberfeld hymnal's rows are named by the
+        # lexicon, else by the index's title for the hymn's row, else by the German first line; the
+        # Ingrian calendar's the same way, else by the original's title, else by the Russian first line;
+        # Závorka's Rubryka's by the lexicon, else by the original's title, else by the Czech title
         by_number, name = False, None
-        if not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
+        if not ident and wit in merge_finnish.WITNESSES:
+            ident, by_number = merge_finnish.canonical(src), True
+        elif not ident and wit in merge_slovak.WITNESSES:
+            ident, by_number = merge_slovak.canonical(src), True
+        elif not ident and wit == merge_elberfeld.WITNESS:
+            ident, by_number = merge_elberfeld.canonical(src), True
+            if not ident: name = merge_elberfeld.index_title(src)
+        elif not ident and wit == merge_ingria.WITNESS:
+            ident, by_number = merge_ingria.canonical(src), True
+            if not ident: name = merge_ingria.name(src)
+        elif not ident and wit == merge_zavorka.WITNESS:
+            ident, by_number = merge_zavorka.canonical(src), True
+            if not ident: name = merge_zavorka.name(src)
+        elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
+        elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
+            ident, by_number = merge_lbw.canonical(src), True
+        elif not ident and src.startswith(merge_sbh.WITNESS + ' (via'):
+            ident, by_number = merge_sbh.canonical(src), True
         elif not ident and merge_krusemark.COMPILATION in src:
             ident, how = merge_krusemark.canonical(src, orig)
             by_number = how is not None
@@ -125,6 +149,9 @@ _ALIAS_SRC = {
  'By Adam\'s Fall Is All Forlorn':            'Durch Adams Fall ist ganz verderbt',
  'By Adam\'s fall man\'s frame entire':       'Durch Adams Fall ist ganz verderbt',
  'Te Deum laudamus':                         'Herr Gott, dich loben wir',
+ # the Cithara Sanctorum's (1674) hymn for the 1st Sunday after Trinity, cut short in Ruščin's
+ # table, which Závorka's Rubryka (1602-06) gives on the same Sunday in full
+ 'Slušiť na to každý č.':                    'Slušíť na to každý čas',
 }
 # keyed through the same normaliser the lookup uses, or nothing would ever match
 ALIAS = {bridge.keyify(k): v for k, v in _ALIAS_SRC.items()}
@@ -168,11 +195,47 @@ def main():
         ('The same hymn can appear under variant English titles ("Bless" vs "Praise thy Maker") and will not always group.', BODY),
         ('Krusemark: only his Hymn-of-the-Day entries are here, not his distribution or closing hymns. A hymn is '
          'identified by the number he gives it (LSB, TLH, WH) in the Lutheran Hymn Index.', BODY),
+        ('Hymn of the Week (SBH, 1965): the Service Book and Hymnal\'s hymn of the week, one to each Sunday and festival, '
+         'from the index of hymns on the sleeve of the American Lutheran Church\'s records "a Time for Singing", read in '
+         'the order of the records (sides 1-6). A hymn is identified by its SBH number in the Lutheran Hymn Index.', BODY),
+        ('Lutheran Book of Worship (1978): the starred hymns of its Hymns for the Church Year, its de tempore series, '
+         'one witness. Its days, of the three-year lectionary, are placed on this sheet\'s days by their place in the '
+         'church year (2 Easter = Quasimodogeniti, 2 Pentecost = Trinity 1, Christ the King = Trinity 27); the source '
+         'gives LBW\'s day and the lectionary years (A, B, C) a hymn is starred for. A hymn is identified by its LBW '
+         'number in the Lutheran Hymn Index.', BODY),
         ('Te Laudamus (2024): the chief hymns of its table, one witness. Its rows give TL\'s own titles; a hymn is '
          'identified by its TL number in the Lutheran Hymn Index.', BODY),
         ('Thompson: the chief hymns of four lists he transcribes in his dissertation (Antwerp 1567, Annaberg 1579, Eler 1588, '
          'Magdeburg 1632) are four witnesses. Krusemark\'s Thompson column, which tallies these lists with others, is not '
          'loaded, so they are not counted twice.', BODY),
+        ('Finnish handbooks (1614, 1629, 1694): the gradual hymns of three Finnish church handbooks, sung between the '
+         'Epistle and the Gospel, three witnesses. Their rows give the Finnish titles as printed, with a literal English '
+         'gloss; a hymn is named by the German or Latin hymn it translates where the transcription judges the identity '
+         'certain or probable, and otherwise by its Finnish title. The Transfiguration takes the 7th Sunday after '
+         'Trinity. They are old witnesses, but Appendix 8.A of the book, a table of the German orders and hymnals, '
+         'does not count them.', BODY),
+        ('Slovak lists (1674, c. 1674-1720): the hymns for the Sundays after Trinity of the register of the Cithara '
+         'Sanctorum (Levoča, 1674) and of the manuscript hymnal B III-107, from Peter Ruščin\'s table of 2023, two '
+         'witnesses. Their rows give the Czech titles as printed, with a literal English gloss, and name a hymn as the '
+         'Finnish rows do. Appendix 8.A does not count them either.', BODY),
+        ('Elberfeld hymnal (1898): the Liedertafel of the Gesangbuch für die Evangelisch-Lutherische Kirche (Elberfeld, '
+         '1898), three hymn numbers against the Epistle and three against the Gospel of each of 77 Sundays and festivals, '
+         'one witness. Its rows give the first lines as the book\'s register prints them, cut short, with a literal English '
+         'gloss; a hymn is named by the lexicon, else by its row in the Lutheran Hymn Index (so that it is one hymn with '
+         'the American lists\' rows of it), else by its first line. It is a modern witness, which Appendix 8.A does not '
+         'count.', BODY),
+        ('Church of Ingria calendar (2025-26): the hymns of the day of the liturgical calendar of the Russian Lutheran '
+         'Church (Church of Ingria) for 2026, one witness: of each Sunday\'s and feast\'s line of hymn numbers, the third, '
+         'sung between the Epistle and the Gospel, with its alternatives. Its rows give the Russian first lines of the '
+         'church\'s hymnal, with a literal English gloss; a hymn is named by the lexicon, else by the index\'s row for its '
+         'original, else by the original\'s title, else by its Russian first line. A modern witness.', BODY),
+        ('Závorka, Písně chval božských (1602-06): the hymns of the High Mass that the Rubryka, the order for the year '
+         'of Tobiáš Závorka Lipenský\'s Czech hymnal (Prague, 1602-06), gives for the Sundays and feasts, one witness: '
+         'the sequence or the hymn in its place, the hymn after the Gospel and the hymn after the sermon, with their '
+         'alternatives. Its rows give the Czech incipits in modern spelling, with a literal English gloss; a hymn is named '
+         'by the lexicon, else by the Latin original\'s title where the book heads it with the Latin and the text is its '
+         'translation, else by its Czech title. An old witness, which Appendix 8.A does not count, as it does not the '
+         'Finnish and Slovak lists.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

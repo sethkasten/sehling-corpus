@@ -176,7 +176,10 @@ def _special_rows():
 
 def title(ref):
     """the English title of the index row that bears ref, as the book and hymns.db give it"""
-    hid = row(ref)
+    return title_of_row(row(ref))
+
+def title_of_row(hid):
+    """the English title of index row hid (title)"""
     if hid in _special_rows(): return _special_rows()[hid]
     master, = _c().execute('SELECT title FROM hymns WHERE id = ?', (hid,)).fetchone()
     titles = _titles(hid)

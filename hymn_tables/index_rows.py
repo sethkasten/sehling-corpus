@@ -8,11 +8,13 @@ A row's hymn is the one index_titles.INDEX matches to the row. Where a Latin hym
 version share the row, it is the one the row's own original is: the German where the index
 records one ("Nun komm, der Heiden Heiland" on the row of "Veni redemptor gentium"), else the
 Latin. A row that INDEX does not match takes the hymn its German or Latin original resolves to,
-if the original is that hymn's whole incipit or begins with it: the index's "Gelobet sei der
-Herr" (Olearius, TLH 38) is not the German Benedictus, "Gelobet sei der Herr, der Gott Israel".
-Any other row is a hymn the lexicon lacks.
+if the original is that hymn's whole incipit or begins with it, word for word: the index's
+"Gelobet sei der Herr" (Olearius, TLH 38) is not the German Benedictus, "Gelobet sei der Herr,
+der Gott Israel", nor Martin Behm's "O heilige Dreifaltigkeit" (TLH 541) "O Licht, heilige
+Dreifaltigkeit" (O lux beata Trinitas), which has a word more. A row whose recorded original is
+not its hymn (NOT_ITS_ORIGINAL) takes none. Any other row is a hymn the lexicon lacks.
 """
-import collections, difflib, os, sys
+import collections, difflib, os, re, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import bridge, index_titles
@@ -22,11 +24,24 @@ from resolve import resolve, norm
 # Kirchengesangbuch, the index's KELG
 CODES = {'WH': 'KELG'}
 
+# rows whose original, as the index records it, is not the row's hymn, so that no hymn of the
+# lexicon is taken from it: row 2065, "I Know That My Redeemer Lives" (TLH 200, LBW 352, LSB 461),
+# is Samuel Medley's English hymn (1775), which the index records as a translation of "Ich weiß,
+# daß mein Erlöser lebt", the opening of the older German hymn of the Magdeburg list of 1632
+NOT_ITS_ORIGINAL = {2065: "Medley's English hymn, not a translation"}
+
 def rows(code, number, suffix=''):
     """ids in hymnal.db of the rows that bear the hymnal number (a page of the liturgy is not one)"""
     return {h for (h,) in index_titles._c().execute(
         "SELECT hymn_id FROM hymn_numbers WHERE hymnal_code = ? AND number = ? "
         "AND COALESCE(suffix, '') = ? AND is_page = 0", (CODES.get(code, code), int(number), suffix))}
+
+def rows_lettered(code, number):
+    """the rows that bear the number with any letter: the Service Book and Hymnal's hymns of two
+    tunes are 8a and 8b in the index, but plain 8 in a list that cites them"""
+    return {h for (h,) in index_titles._c().execute(
+        "SELECT hymn_id FROM hymn_numbers WHERE hymnal_code = ? AND number = ? AND is_page = 0",
+        (CODES.get(code, code), int(number)))}
 
 def originals(hid):
     """the German and the other originals the index records for the row, German first"""
@@ -45,10 +60,23 @@ def close(a, b):
     a, b = norm(a), norm(b)
     return a.startswith(b) or b.startswith(a) or difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
 
+def _bare(s):
+    """norm without punctuation, which the index's originals print freely ("Pange, lingua, ...")"""
+    return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', norm(s))).strip()
+
+def _words(s):
+    """the words of a title, punctuation aside; an elision ("heil'ge") is one word"""
+    return _bare(re.sub(r"['\u2019\u02bc]", '', s)).split()
+
 def whole(canonical, original):
-    """the original is the canonical hymn's incipit, or begins with it"""
-    a, b = norm(original), norm(canonical)
-    return a.startswith(b) or difflib.SequenceMatcher(None, a, b).ratio() >= 0.85
+    """the original is the canonical hymn's incipit, or begins with it, word for word: it has at
+    least the incipit's words, and its first so many words are the incipit's, spelt alike or
+    nearly ("genädig" for "gnädig"), with none wanting or added"""
+    a, b = _words(original), _words(canonical)
+    if len(a) < len(b):
+        return False
+    x, y = ' '.join(a[:len(b)]), ' '.join(b)
+    return x == y or difflib.SequenceMatcher(None, x, y).ratio() >= 0.85
 
 _matched = None
 def _index():
@@ -70,6 +98,8 @@ def hymn(hid):
         return matched[0], 'the index row (index_titles.INDEX)'
     if matched:
         raise SystemExit(f'index_rows: row {hid} of the index has {matched}')
+    if hid in NOT_ITS_ORIGINAL:
+        return None, f'not in the lexicon ({NOT_ITS_ORIGINAL[hid]})'
     for o in originals(hid):
         c, _lit, _com, _alt, ok = resolve(o)
         if ok and whole(c, o):
