@@ -240,10 +240,11 @@ def main():
          'translation, else by its Czech title. An old witness, which Appendix 8.A does not count, as it does not the '
          'Finnish and Slovak lists.', BODY),
         ('Augustana Service Book and Hymnal, Supplement (2022): the chief hymns of the Supplement of the hymnal of the '
-         'Evangelical Lutheran Diocese of North America (ELDoNA), one witness, from a blog review\'s list of them: one '
-         'hymn for each Sunday and feast of the one-year series, and for some saints\' days. Its rows give the first lines '
-         'as the review gives them; a hymn is identified by the number of the same text in another hymnal (TLH 95) in the '
-         'Lutheran Hymn Index, or, where the index lacks it, by the lexicon. A modern witness.', BODY),
+         'Evangelical Lutheran Diocese of North America (ELDoNA), one witness, as a review of it lists them (A Fort Made of '
+         'Books, Tacky Hymns 103, 2023): one hymn for each Sunday and feast of the one-year series, and for some saints\' '
+         'days. Its rows give the first lines as the review gives them; a hymn is identified by the number of the same '
+         'text in another hymnal (TLH 95) in the Lutheran Hymn Index, or, where the index lacks it, by the lexicon. A '
+         'modern witness.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

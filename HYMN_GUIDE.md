@@ -84,14 +84,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **6,457 prescriptions** from **69 witnesses**, in two
+The database holds **6,458 prescriptions** from **69 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 5,630 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 5,631 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -194,7 +194,7 @@ The hymnals and compilations below are Lutheran too.
 | *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld, 1898), its Liedertafel | 462 | 1 | Three hymns against the Epistle and three against the Gospel of each Sunday and festival, by number |
 | The liturgical calendar of the Church of Ingria (Russian Lutheran Church), 2025-26 | 79 | 1 | The hymn between the Epistle and the Gospel of each Sunday and feast of 2026, with its alternatives, by its number in the church's Russian hymnal |
 | Závorka, *Písně chval božských* (Prague, 1602-06), its Rubryka | 209 | 1 | The hymns of the High Mass of each Sunday and feast, in Czech: the sequence or the hymn in its place, and the hymns after the Gospel and after the sermon |
-| *Augustana Service Book and Hymnal*, Supplement (2022), as a blog review lists its chief hymns | 76 | 1 | The chief hymn of each Sunday and feast of the one-year series and of some saints' days, by first line, found through the same text's number in another hymnal |
+| *Augustana Service Book and Hymnal*, Supplement (2022), its Office Hymns as a review lists them | 77 | 1 | The chief hymn of each Sunday and feast of the one-year series and of some saints' days, by first line, found through the same text's number in another hymnal |
 
 #### Krusemark, and why only part of it is here
 
@@ -994,20 +994,25 @@ would again need its assignment (*Durch Adams Fall*, 5 of 21).
 
 The *Augustana Service Book and Hymnal* is the hymnal the Evangelical
 Lutheran Diocese of North America (ELDoNA) is preparing, and its Supplement
-of 2022 gives a chief hymn for each Sunday and feast of the one-year series
-and for some saints' days. Neither the Supplement nor an index of it has been
-seen. The list comes from a blog review of it, which gives each hymn's number,
-day and first line, and names the tune it is set to: the Supplement prints no
-tune names, the reviewer says, though it often gives the German first line of
-the original. The hymns of the year are numbered 1-65, Advent 1 to Trinity
-27; the saints' days follow from 67 to 106 with gaps, it seems for days the
-full hymnal will add, so that the list's sanctoral is partial. 109, *Jesus
-calls us; o'er the tumult*, has no day in the list: Cecil Frances Alexander
-wrote it for St Andrew's Day (30 Nov), which would stand there if the saints'
-days run from December to November, but it is not loaded. `merge_tasbh.py`
-loads the other 76 after `merge_zavorka.py` as one witness, `Augustana Service
-Book and Hymnal, Supplement (2022)`, with sources such as `Augustana Service
-Book and Hymnal, Supplement (2022) (via a blog review; TASBH 31)`.
+(Malone, Texas: Repristination Press, 2022) gives in its Office Hymns a chief
+hymn for each Sunday and feast of the one-year series and for some saints'
+days. Neither the Supplement nor an index of it has been seen. The list comes
+from a review of it, "Tacky Hymns 103" on the blog *A Fort Made of Books*
+(RobbieFish, 12 November 2023,
+<https://afortmadeofbooks.blogspot.com/2023/11/tacky-hymns-103.html>), which
+gives each hymn's number, day and first line, and names the tune it is set
+to: the Supplement prints no tune names, the reviewer says, though it often
+gives the German first line of the original. The hymns of the year are
+numbered 1-65, Advent 1 to Trinity 27; the saints' days follow from 67 to 109
+with gaps, it seems for days the full hymnal will add, so that the list's
+sanctoral is partial. 109, *Jesus calls us; o'er the tumult*, has no day in
+the list. Cecil Frances Alexander wrote it for St Andrew's Day (30 Nov), which
+stands there, after All Saints, if the saints' days run from December to
+November, and it is loaded as St Andrew's (the project owner's decision).
+`merge_tasbh.py` loads all 77 after `merge_zavorka.py` as one witness,
+`Augustana Service Book and Hymnal, Supplement (2022)`, with sources such as
+`Augustana Service Book and Hymnal, Supplement (2022) (via A Fort Made of
+Books, Tacky Hymns 103, 2023; TASBH 31)`.
 
 `hymn_tables/TASBH_2022_Chief_Hymns.csv` has a row for each hymn: its
 number; the day as the list gives it and its label here; the first line; the
@@ -1046,8 +1051,9 @@ Sunday after the Ascension Exaudi, and the Presentation of our Lord the
 Purification (2 Feb); the Transfiguration, between Epiphany 5 and
 Septuagesima, is `Transfiguration`. Four saints' days are new: `St Lucy (13
 Dec)`, `St Henry of Finland (19 Jan)`, `St Titus (26 Jan)` and `St Patrick
-(17 March)`. The list gives no dates; St Henry's is the 19 January of the
-Finnish calendar.
+(17 March)`. The list gives no dates; St Henry's, 19 January, is the date of
+the review's list of the book's festivals, and St Andrew's is `St Andrew (30
+Nov)`.
 
 **Appendix 8.A.** It is a modern witness, which the table does not count
 (`MODERN` in `appendix_8a.py`): the table and the figures of §8.A.4 are

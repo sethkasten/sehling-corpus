@@ -1,15 +1,18 @@
 # -*- coding: utf-8 -*-
 """Fold into hymns.db the chief hymns of the 2022 Supplement of the Augustana Service Book and
-Hymnal (TASBH), as a blog review lists them, transcribed in TASBH_2022_Chief_Hymns.csv. Run it
+Hymnal (TASBH), as a review of it lists them, transcribed in TASBH_2022_Chief_Hymns.csv. Run it
 after merge_zavorka.py.
 
-The Supplement is the first part of the hymnal the Evangelical Lutheran Diocese of North America
-(ELDoNA) is preparing, as the review has it. It gives the chief hymn of each Sunday and feast of
-the one-year series in the order of the year, numbered 1-65 (Advent 1 to Trinity 27), and of some
-of the saints' days (67-106), whose numbers leave gaps, it seems for the days the full hymnal
-will add. Neither the Supplement nor an index of it has been seen: the review gives each hymn's
-number, day and first line, and names the tune it is set to (the Supplement prints no tune
-names). It is a modern witness, which Appendix 8.A leaves out.
+The review is "Tacky Hymns 103" on the blog A Fort Made of Books (RobbieFish, 12 November 2023;
+https://afortmadeofbooks.blogspot.com/2023/11/tacky-hymns-103.html). The Supplement (Malone,
+Texas: Repristination Press, 2022) is the first part of the hymnal the Evangelical Lutheran
+Diocese of North America (ELDoNA) is preparing, and the review lists its Office Hymns: the chief
+hymn of each Sunday and feast of the one-year series in the order of the year, numbered 1-65
+(Advent 1 to Trinity 27), and of some saints' days (67-109), whose numbers leave gaps, it seems
+for the days the full hymnal will add. Neither the Supplement nor an index of it has been seen:
+the review gives each hymn's number, day and first line, and names the tune it is set to (the
+Supplement prints no tune names, but often the German original's first line). It is a modern
+witness, which Appendix 8.A leaves out.
 
 Each hymn is found by the number of the same text in another hymnal of the Lutheran Hymn Index
 (the transcription's `ref`: TLH 95 for "Savior of the heathen, come"), whose row must bear the
@@ -23,9 +26,11 @@ as the review gives it.
 The days take this database's labels, the modern lists' (as Te Laudamus's): Lent 6 is Palm
 Sunday, Easter 1-5 are Quasimodogeniti to Rogate, the Sunday after the Ascension is Exaudi, the
 Presentation of our Lord is the Purification (2 Feb); four saints' days are new: St Lucy (13
-Dec), St Henry of Finland (19 Jan), St Titus (26 Jan) and St Patrick (17 March). Trinity 19
-repeats Trinity Sunday's hymn (38 and 57). 109, "Jesus calls us; o'er the tumult", has no day in
-the list and is not loaded.
+Dec), St Henry of Finland (19 Jan, as the review's list of the book's festivals dates it), St
+Titus (26 Jan) and St Patrick (17 March). Trinity 19 repeats Trinity Sunday's hymn (38 and 57).
+109, "Jesus calls us; o'er the tumult", has no day in the list; it is loaded as St Andrew's (30
+Nov), for which Cecil Frances Alexander wrote it and which stands there if the saints' days run
+from December to November (the project owner's decision).
 """
 import csv, os, sqlite3, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -36,7 +41,7 @@ from merge_sources import provenance
 
 LIST = os.path.join(HERE, 'TASBH_2022_Chief_Hymns.csv')
 WITNESS = 'Augustana Service Book and Hymnal, Supplement (2022)'
-VIA = 'a blog review'
+VIA = 'A Fort Made of Books, Tacky Hymns 103, 2023'
 # the least agreement of a first line with a title of its ref's row (index_rows.agreement), so that
 # a wrong number stops the build: every ref agrees 0.85 or more ("Look down, O Lord, from heav'n,
 # behold", TLH 260's "O Lord, look down from heaven, behold")

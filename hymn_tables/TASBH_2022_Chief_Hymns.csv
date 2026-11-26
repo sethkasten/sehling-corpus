@@ -66,7 +66,7 @@ number,day,occasion,first_line,tune,ref,lexicon,loaded,note
 65,Trinity 27,Trinity 27,The Bridegroom soon will call us,ACH GOTT VOM HIMMELREICHE,TLH 67,,yes,"the last of the Sundays; the saints' days follow, numbered with gaps (66 is wanting)"
 67,St. Lucy,St Lucy (13 Dec),"Rejoice, all ye believers",HAF TRONES LAMPA FÄRDIG,TLH 72,,yes,
 72,Holy Innocents,Holy Innocents (28 Dec),Sweet flowerets of the martyr band,DAS WALT GOTT VATER,TLH 273,,yes,
-73,St. Henry of Finland,St Henry of Finland (19 Jan),Zion stands by hills surrounded,ZION,TLH 474,,yes,
+73,St. Henry of Finland,St Henry of Finland (19 Jan),Zion stands by hills surrounded,ZION,TLH 474,,yes,the review's list of the book's festivals dates his day 19 January
 75,Conversion of St. Paul,Conversion of St Paul (25 Jan),"O Thou, who dost accord us",INNSBRUCK,TLHy 356,,yes,from the Latin 'Summi largitor praemii'
 76,St. Titus,St Titus (26 Jan),"Lord of the Church, we humbly pray",PURLEIGH,TLH 489,,yes,
 77,Presentation of our Lord,Purification of Mary (2 Feb),In peace and joy I now depart,MIT FRIED UND FREUD,TLH 137,,yes,
@@ -75,4 +75,4 @@ number,day,occasion,first_line,tune,ref,lexicon,loaded,note
 90,Presentation of the Augsburg Confession,Presentation of the Augsburg Confession (25 June),My Church! My Church! My dear old Church,ATHENS,THOS 276,,yes,
 101,St. Michael & All Angels,St Michael (29 Sept),"Lord God, we all to Thee give praise",ANGELS' HYMN,TLH 254,,yes,
 106,All Saints,All Saints (1 Nov),Christ is our Corner-stone,DARWALL'S 148TH,TLH 465,,yes,
-109,,,Jesus calls us; o'er the tumult,STUTTGART,TLH 270,,no,"no day in the list. Cecil Frances Alexander wrote it for St Andrew's Day (30 Nov), which would stand here, after All Saints, if the saints' days run from December to November; not loaded"
+109,,St Andrew (30 Nov),Jesus calls us; o'er the tumult,STUTTGART,TLH 270,,yes,"no day in the list; loaded as St Andrew's (30 Nov), the project owner's decision: Cecil Frances Alexander wrote it for St Andrew's Day, which stands here, after All Saints, if the saints' days run from December to November"
