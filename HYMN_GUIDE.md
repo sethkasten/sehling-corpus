@@ -42,6 +42,7 @@ py hymn_tables/merge_slovak.py
 py hymn_tables/merge_elberfeld.py
 py hymn_tables/merge_ingria.py
 py hymn_tables/merge_zavorka.py
+py hymn_tables/merge_tasbh.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -83,14 +84,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **6,381 prescriptions** from **68 witnesses**, in two
+The database holds **6,457 prescriptions** from **69 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 5,554 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 5,630 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -193,6 +194,7 @@ The hymnals and compilations below are Lutheran too.
 | *Gesangbuch für die Evangelisch-Lutherische Kirche* (Elberfeld, 1898), its Liedertafel | 462 | 1 | Three hymns against the Epistle and three against the Gospel of each Sunday and festival, by number |
 | The liturgical calendar of the Church of Ingria (Russian Lutheran Church), 2025-26 | 79 | 1 | The hymn between the Epistle and the Gospel of each Sunday and feast of 2026, with its alternatives, by its number in the church's Russian hymnal |
 | Závorka, *Písně chval božských* (Prague, 1602-06), its Rubryka | 209 | 1 | The hymns of the High Mass of each Sunday and feast, in Czech: the sequence or the hymn in its place, and the hymns after the Gospel and after the sermon |
+| *Augustana Service Book and Hymnal*, Supplement (2022), as a blog review lists its chief hymns | 76 | 1 | The chief hymn of each Sunday and feast of the one-year series and of some saints' days, by first line, found through the same text's number in another hymnal |
 
 #### Krusemark, and why only part of it is here
 
@@ -765,7 +767,8 @@ page and image; the day as printed and its psalm; the reading and its
 pericope as printed; the hymn's place among the reading's three; its number;
 its first line as the register prints it, cut short; a literal English
 gloss; the day's label; the lexicon's hymn; the hymn's row in the Lutheran
-Hymn Index and that row's title; the common English title; and a note.
+Hymn Index, by a hymnal number on it (`index_ref`, since a row's id moves as
+rows are added to the index), and that row's title; the common English title; and a note.
 `merge_elberfeld.py` loads it after `merge_slovak.py` as one witness,
 `Elberfeld hymnal (1898)`, with sources such as `Elberfeld hymnal (1898)
 (via its Liedertafel; item 2, no. 14, p. 79)`.
@@ -852,7 +855,7 @@ number, and the stanzas where the calendar gives them; its Russian first line
 from the hymnal's contents; a literal English gloss; the hymnal's credit, in
 English; the original, its language and how sure the identification is; the
 day's label; the lexicon's hymn; the original's row in the Lutheran Hymn
-Index and that row's title; the common English title; and a note.
+Index, by a hymnal number on it (`index_ref`), and that row's title; the common English title; and a note.
 
 **Names.** Most of the hymns are Russian, Finnish or English. Where the credit
 and the text show a translation, the transcription names the original,
@@ -987,6 +990,69 @@ lists, it would leave Palm Sunday without a hymn that has a quarter of the
 day's witnesses (*Christus, der uns selig macht*, 6 of 25), and Quinquagesima
 would again need its assignment (*Durch Adams Fall*, 5 of 21).
 
+#### The Augustana Service Book and Hymnal's Supplement (2022)
+
+The *Augustana Service Book and Hymnal* is the hymnal the Evangelical
+Lutheran Diocese of North America (ELDoNA) is preparing, and its Supplement
+of 2022 gives a chief hymn for each Sunday and feast of the one-year series
+and for some saints' days. Neither the Supplement nor an index of it has been
+seen. The list comes from a blog review of it, which gives each hymn's number,
+day and first line, and names the tune it is set to: the Supplement prints no
+tune names, the reviewer says, though it often gives the German first line of
+the original. The hymns of the year are numbered 1-65, Advent 1 to Trinity
+27; the saints' days follow from 67 to 106 with gaps, it seems for days the
+full hymnal will add, so that the list's sanctoral is partial. 109, *Jesus
+calls us; o'er the tumult*, has no day in the list: Cecil Frances Alexander
+wrote it for St Andrew's Day (30 Nov), which would stand there if the saints'
+days run from December to November, but it is not loaded. `merge_tasbh.py`
+loads the other 76 after `merge_zavorka.py` as one witness, `Augustana Service
+Book and Hymnal, Supplement (2022)`, with sources such as `Augustana Service
+Book and Hymnal, Supplement (2022) (via a blog review; TASBH 31)`.
+
+`hymn_tables/TASBH_2022_Chief_Hymns.csv` has a row for each hymn: its
+number; the day as the list gives it and its label here; the first line; the
+tune as the reviewer names it; the number of the same text in another hymnal
+of the Lutheran Hymn Index (`ref`), or the lexicon's hymn where the index
+lacks it; whether it is loaded; and a note.
+
+**Names.** Each hymn is found through its `ref` (TLH 95 for *Savior of the
+heathen, come*, which TLH prints as *Savior of the nations, come*; ELH, ELHB,
+TLHy, HCSS or THOS where TLH lacks the text), whose row must bear the first
+line (`index_rows.agreement`, 0.8 or more), and named as *Te Laudamus*'s and
+LBW's are: the lexicon's hymn on that row, else a hymn the lexicon lacks,
+which keeps the index's title. 43 are hymns of the lexicon. Trinity 15's *Why
+art thou thus cast down, my heart*, which the index lacks, is the lexicon's
+English title of *Warum betrübst du dich, mein Herz*, whose tune it has, and
+is named by the lexicon. Three need care:
+
+- *We all believe in one true God* (Trinity Sunday and Trinity 19), to WIR
+  GLAUBEN ALL AN EINEN GOTT, VATER, is Tobias Clausnitzer's hymn on the
+  Apostles' Creed (TLH 252), not Luther's creed hymn (TLH 251). The index
+  records the German of Clausnitzer's row only as far as it opens like
+  Luther's, so `index_rows.hymn` took it for Luther's; `NOT_ITS_ORIGINAL`
+  now keeps it apart. Reuning's Reformation hymn (LSB 953), which the
+  workbook had counted as Luther's, is Clausnitzer's too.
+- *Thee Lord, our God, we praise* (Trinity 18), to HERR GOTT, DICH LOBEN
+  WIR, is Luther's Te Deum, on the index row of KELG 337 and WELS'12 1.
+  ELHal 356 opens the same way, on a row of its own: a lead for the index.
+- *O Christ, who art the light and day* (Lent 1) is taken as TLH 559's, from
+  the Latin *Christe qui lux es et dies*; ELHB 34, from the German *Christe,
+  der du bist Tag und Licht*, opens alike.
+
+**Days.** The days take this database's labels, as *Te Laudamus*'s do:
+Christmas 1 is the Sunday after Christmas, the Circumcision and Name of Jesus
+New Year, Lent 6 Palm Sunday, Easter 1-5 Quasimodogeniti to Rogate, the
+Sunday after the Ascension Exaudi, and the Presentation of our Lord the
+Purification (2 Feb); the Transfiguration, between Epiphany 5 and
+Septuagesima, is `Transfiguration`. Four saints' days are new: `St Lucy (13
+Dec)`, `St Henry of Finland (19 Jan)`, `St Titus (26 Jan)` and `St Patrick
+(17 March)`. The list gives no dates; St Henry's is the 19 January of the
+Finnish calendar.
+
+**Appendix 8.A.** It is a modern witness, which the table does not count
+(`MODERN` in `appendix_8a.py`): the table and the figures of §8.A.4 are
+unchanged.
+
 ## Schema
 
 ### `hymn_prescriptions` — the main table
@@ -1078,7 +1144,9 @@ and is the easier path.
 The hymnal and compilation sources cite a hymn in five ways: by its German
 incipit (Liliencron's hymnals, Ludecus), by a Low German or Latin form, by
 an English title only (Selnecker's own account and the Hymn of the Day
-table, with Carpzov, Bach and the modern lists), by an English title and its
+table, with Carpzov, Bach and the modern lists; the Augustana Supplement's
+first lines are found through the same texts' numbers in other hymnals), by
+an English title and its
 number in a hymnal (Krusemark's lists, *Te Laudamus*, *Lutheran Book of
 Worship*, the SBH's Hymn of the Week), or by a German incipit
 and an English title (Liliencron's concordance). One hymn has one identity
@@ -1100,15 +1168,21 @@ in all of them:
   for word, punctuation aside). Each word may be spelt otherwise, but none
   may be wanting: a likeness of the letters alone had taken Martin Behm's
   *O heilige Dreifaltigkeit* (TLH 541) and *O heiligste Dreifaltigkeit*
-  (row 3957) for *O Licht, heilige Dreifaltigkeit*, and the
+  (KELG 149) for *O Licht, heilige Dreifaltigkeit*, and the
   *Herr, unser Gott, dich loben wir* of WELS12 for Luther's *Herr Gott, dich
   loben wir*. A row whose original, as the index records it, is not its
-  hymn takes no hymn of the lexicon (`NOT_ITS_ORIGINAL`): the index records
-  Samuel Medley's English *I Know That My Redeemer Lives* (TLH 200, LBW 352,
-  LSB 461) as a translation of *Ich weiß, daß mein Erlöser lebt*, the
-  opening of the older German hymn of the Magdeburg list of 1632. No list in
-  `hymns.db` cites these rows.
-  `export_xlsx.py` names *Te Laudamus*'s, LBW's, the SBH list's and Krusemark's rows so. A row the
+  hymn takes no hymn of the lexicon (`NOT_ITS_ORIGINAL`, which names each row
+  by a hymnal number on it, as a row's id moves when rows are added): the
+  index records Samuel Medley's English *I Know That My Redeemer Lives* (TLH
+  200, LBW 352, LSB 461) as a translation of *Ich weiß, daß mein Erlöser
+  lebt*, the opening of the older German hymn of the Magdeburg list of 1632,
+  and the German of Tobias Clausnitzer's *We All Believe in One True God,
+  Father* (TLH 252, LSB 953), his hymn on the Apostles' Creed, only as far as
+  it opens like Luther's creed hymn. No list in `hymns.db` cites Medley's
+  row; Reuning's Reformation hymn and the Augustana Supplement's Trinity
+  Sunday and Trinity 19 cite Clausnitzer's.
+  `export_xlsx.py` names *Te Laudamus*'s, LBW's, the SBH list's, the
+  Augustana Supplement's and Krusemark's rows so. A row the
   lexicon lacks is named by the index's title for it, and is not then taken
   for a lexicon hymn of a like title. Krusemark's "Praise the Almighty, my soul,
   adore Him" (LSB 797) showed one such error: a title alias of
@@ -1270,7 +1344,7 @@ resolved.
 
 **`original_title` is not always German.** The Hymn of the Day table,
 Selnecker's account, Krusemark's lists, *Te Laudamus*, *Lutheran Book of
-Worship* and the SBH's Hymn of the Week cite hymns by
+Worship*, the SBH's Hymn of the Week and the Augustana Supplement cite hymns by
 English title only; they give no German
 incipit, so for those rows `original_title` holds the English title as
 printed and `literal_english` is `NULL`. Filter on

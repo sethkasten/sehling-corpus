@@ -21,8 +21,9 @@ Each hymn is named, in this order, by:
 - the lexicon, where the first line, or the hymn's row in the Lutheran Hymn Index, is a hymn it
   has (the `lexicon` column, reviewed: a first line that only begins like a lexicon hymn, as
   Paul Gerhardt's Psalm 1 does the older "Wohl dem Menschen, der wandelt nicht", is not taken);
-- else the hymn's row in the Lutheran Hymn Index (`index_row`), whose title (index_titles.
-  title_of_row) is then its identity, as for the modern lists that name their hymns by number,
+- else the hymn's row in the Lutheran Hymn Index (`index_ref`, a hymnal number on the row, "TLH
+  74": a row's id moves as rows are added), whose title (index_titles.title_of_row) is then its
+  identity, as for the modern lists that name their hymns by number,
   so that the same hymn in this book and in an American hymnal is one hymn;
 - else its first line.
 common_english is the lexicon's received English title, else the index's title when that is
@@ -90,19 +91,19 @@ def check(es, known):
             raise SystemExit(f'{where}: no such day {e["day"]!r}')
         if e['lexicon'] and e['lexicon'] not in names:
             raise SystemExit(f'{where}: {e["lexicon"]!r} is not in the lexicon')
-        hymn = tuple(e[k] for k in ('first_line', 'literal_english', 'lexicon', 'index_row',
+        hymn = tuple(e[k] for k in ('first_line', 'literal_english', 'lexicon', 'index_ref',
                                     'index_title', 'common_english'))
         if by_number.setdefault(e['number'], hymn) != hymn:
             raise SystemExit(f'{where}: the number is not the same hymn as before')
-        if e['index_row']:
-            hid = int(e['index_row'])
+        if e['index_ref']:
+            hid = index_titles.row(e['index_ref'])
             if agreement(e['first_line'], hid) < AGREE:
-                raise SystemExit(f'{where}: "{e["first_line"]}" is not index row {hid}')
+                raise SystemExit(f'{where}: "{e["first_line"]}" is not the row of {e["index_ref"]}')
             if e['index_title'] != index_titles.title_of_row(hid):
-                raise SystemExit(f'{where}: index row {hid} is not "{e["index_title"]}"')
+                raise SystemExit(f'{where}: the row of {e["index_ref"]} is not "{e["index_title"]}"')
             led = index_rows.hymn(hid)[0]
             if led and led != e['lexicon']:
-                raise SystemExit(f'{where}: index row {hid} is {led!r} in the lexicon')
+                raise SystemExit(f'{where}: the row of {e["index_ref"]} is {led!r} in the lexicon')
 
 def rows(known):
     es = entries()
@@ -138,8 +139,8 @@ def main():
     print(f'{WITNESS:<26}: {len(rs)} on {len({r[0] for r in rs})} occasions, '
           f'{len(hymns)} hymns')
     print(f'  named by the lexicon  : {sum(1 for e in hymns.values() if e["lexicon"])}')
-    print(f'  by the index alone    : {sum(1 for e in hymns.values() if e["index_row"] and not e["lexicon"])}')
-    print(f'  by their first lines  : {sum(1 for e in hymns.values() if not e["index_row"] and not e["lexicon"])}')
+    print(f'  by the index alone    : {sum(1 for e in hymns.values() if e["index_ref"] and not e["lexicon"])}')
+    print(f'  by their first lines  : {sum(1 for e in hymns.values() if not e["index_ref"] and not e["lexicon"])}')
     print(f'  days new to the db    : {sorted({e["day"] for e in es} - known)}')
     print(f'  hymns new to the db   : {len(new)}  {new}')
     print(f'  total rows now        : {c.execute("SELECT COUNT(*) FROM hymn_prescriptions").fetchone()[0]}')

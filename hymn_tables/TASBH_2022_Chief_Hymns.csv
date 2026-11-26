@@ -1,0 +1,78 @@
+number,day,occasion,first_line,tune,ref,lexicon,loaded,note
+1,Advent 1,Advent 1,"Savior of the heathen, come","NUN KOMM, DER HEIDEN HEILAND",TLH 95,,yes,"'heathen' where later versions have 'nations' (TLH 95: 'Savior of the nations, come'), as the reviewer notes"
+2,Advent 2,Advent 2,The day is surely drawing near,ES IST GEWISSLICH,TLH 611,,yes,
+3,Advent 3,Advent 3,The only Son from heaven,"HERR CHRIST, DER EINIG GOTTS SOHN",ELH 224,,yes,
+4,Advent 4,Advent 4,"To Jordan came our Lord, the Christ",CHRIST UNSER HERR ZUM JORDAN KAM,ELH 247,,yes,"Luther's hymn on Baptism, which TLH lacks"
+5,Christmas,Christmas,"O Jesus Christ, all praise to Thee","GELOBET SEIST DU, JESU",TLH 80,,yes,"TLH 80's version opens 'All praise to Thee, eternal God'"
+6,Christmas 1,Sunday after Christmas,To God the anthem raising,VON GOTT WILL ICH NICHT LASSEN (Erfurt),TLH 112,,yes,
+7,Circumcision & Name of Jesus,New Year (Circumcision),To the Name of our salvation,DULCE CARMEN,TLH 116,,yes,
+8,Christmas 2,Christmas 2,The newborn Child this early morn,ICH KOMM AUS FREMDEN LANDEN HER,ELHB 169,,yes,
+9,Epiphany,Epiphany,"Now sing we, now rejoice",IN DULCI JUBILO,TLH 92,,yes,
+10,Epiphany 1,Epiphany 1,"Praise God the Lord, ye sons of men","LOBT GOTT, IHR CHRISTEN",TLH 105,,yes,
+11,Epiphany 2,Epiphany 2,Happy the man who feareth God,WO GOTT ZUM HAUS,ELHB 446,,yes,"Luther's Psalm 128, 'Wohl dem, der in Gottes Furcht steht'"
+12,Epiphany 3,Epiphany 3,"Why art thou cast down, my soul?","JESUS, MEINE ZUVERSICHT",TLHy 237,,yes,
+13,Epiphany 4,Epiphany 4,"Lord, hear the voice of my complaint",ICH RUF ZU DIR,ELH 255,,yes,"Agricola's 'Ich ruf zu dir, Herr Jesu Christ', which TLH lacks"
+14,Epiphany 5,Epiphany 5,In heav'n is joy and gladness,AU FORT DE MA DETRESSE,ELH 482,,yes,
+15,Transfiguration,Transfiguration,"O wondrous type, O vision fair",ERHALT UNS HERR,ELH 223,,yes,"between Epiphany 5 and Septuagesima, on the last Sunday after the Epiphany"
+16,Septuagesima,Septuagesima,Salvation unto us has come,ES IST DAS HEIL,TLH 377,,yes,
+17,Sexagesima,Sexagesima,May God bestow on us His grace,ES WOLLT UNS GOTT,TLH 500,,yes,
+18,Quinquagesima,Quinquagesima (Estomihi),"If Thy beloved Son, O God",NUN FREUT EUCH,TLH 375,,yes,
+19,Ash Wednesday,Ash Wednesday,When o'er my sins I sorrow,"HERR CHRIST, DER EINIG GOTTS SOHN",TLH 152,,yes,"to HERR CHRIST, DER EINIG GOTTS SOHN, not to a tune of its own (WENN MEINE SÜND)"
+20,Lent 1,Lent 1 (Invocavit),"O Christ, who art the light and day",LEONBURG,TLH 559,,yes,"TLH 559's first line, from the Latin 'Christe qui lux es et dies'; ELHB 34, from the German 'Christe, der du bist Tag und Licht', opens the same way"
+21,Lent 2,Lent 2 (Reminiscere),"O faithful God, we worship Thee",WENN WIR IN HÖCHSTEN NÖTEN,TLH 321,,yes,
+22,Lent 3,Lent 3 (Oculi),A mighty fortress is our God,EIN FESTE BURG (rhythmic),TLH 262,,yes,
+23,Lent 4,Lent 4 (Laetare),"Christ, the Life of all the living","JESU, MEINES LEBENS LEBEN (Darmstadt)",TLH 151,,yes,
+24,Lent 5,Lent 5 (Judica),"Lord Jesus Christ, true man and God",VATER UNSER,ELH 238,,yes,"Eber's 'Herr Jesu Christ, wahr Mensch und Gott'"
+25,Lent 6,Palm Sunday,"Lamb of God, pure and holy",O LAMM GOTTES,TLH 146,,yes,
+26,Maundy Thursday,Maundy Thursday,"The death of Jesus Christ, our Lord",HERRNHUT,TLH 163,,yes,
+27,Good Friday,Good Friday,"O sacred Head, now wounded",HERZLICH TUT MICH VERLANGEN,TLH 172,,yes,
+28,Holy Saturday,Holy Saturday,Ere yet the dawn hath filled the skies,GELOBET SEIST DU,TLHy 335,,yes,
+29,Easter,Easter,Christ Jesus lay in death's strong bands,CHRIST LAG IN TODESBANDEN,TLH 195,,yes,
+30,Easter 1,Easter 1 (Quasimodogeniti),Ye sons and daughters of the King,GELOBT SEI GOTT,TLH 208,,yes,'daughers' in the list as given
+31,Easter 2,Easter 2 (Misericordias Domini),"The Lord's my Shepherd, I'll not want",BELMONT,TLH 436,,yes,the Scottish Psalter's Psalm 23
+32,Easter 3,Easter 3 (Jubilate),Zion mourns in fear and anguish,ZION KLAGT,TLH 268,,yes,
+33,Easter 4,Easter 4 (Cantate),"Look down, O Lord, from heav'n, behold",ACH GOTT VOM HIMMEL,TLH 260,,yes,"Luther's Psalm 12; TLH 260 opens 'O Lord, look down from heaven, behold'"
+34,Easter 5,Easter 5 (Rogate/Vocem jucunditatis),"Our Father, Thou in heav'n above",VATER UNSER,TLH 458,,yes,
+35,Ascension,Ascension,"Dear Christians, one and all rejoice",NUN FREUT EUCH,TLH 387,,yes,
+36,Sunday after Ascension,Sunday after Ascension (Exaudi),"Had God not come, may Israel say",,TLH 267,,yes,"Luther's Psalm 124, 'Wär Gott nicht mit uns diese Zeit'; to a tune the reviewer likens to WO GOTT DER HERR NICHT BEI UNS HÄLT, which Hymnary.org gives as GUD, DU AF INGA SKIFTEN VET"
+37,Pentecost,Pentecost,"Come, Holy Ghost, God and Lord","KOMM, HEILIGER GEIST",TLH 224,,yes,
+38,Trinity,Trinity Sunday,We all believe in one true God,"WIR GLAUBEN ALL AN EINEN GOTT, VATER",TLH 252,,yes,"Clausnitzer's hymn on the Apostles' Creed, 'Wir glauben all an einen Gott, Vater', not Luther's creed hymn (TLH 251)"
+39,Trinity 1,Trinity 1,From God shall naught divide me,VON GOTT WILL ICH NICHT LASSEN (Erfurt),TLH 393,,yes,
+40,Trinity 2,Trinity 2,The mouth of fools doth God confess,ES SPRICHT DER UNWEISEN MUND,ELHB 277,,yes,Luther's Psalm 14
+41,Trinity 3,Trinity 3,"In Thee alone, O Christ, my Lord",ALLEIN ZU DIR,TLH 319,,yes,to ALLEIN ZU DIR in an isometric form
+42,Trinity 4,Trinity 4,"Lord Jesus Christ, Thou highest good",ADORATION,TLHy 98,,yes,"Ringwaldt's penitential hymn, 'Herr Jesu Christ, du höchstes Gut, du Brunnquell aller Gnaden'"
+43,Trinity 5,Trinity 5,My inmost heart now raises,AUS MEINES HERZENS GRUNDE,TLH 548,,yes,
+44,Trinity 6,Trinity 6,That man a godly life might live,IN GOTTES NAMEN FAHREN WIR,TLH 287,,yes,Luther's Ten Commandments
+45,Trinity 7,Trinity 7,"Wondrous King, all-glorious",WUNDERBARER KÖNIG,TLH 41,,yes,
+46,Trinity 8,Trinity 8,The will of God is always best,WAS MEIN GOTT WILL,TLH 517,,yes,
+47,Trinity 9,Trinity 9,"Oh, blest the house, whate'er befall",WO GOTT ZUM HAUS,TLH 625,,yes,
+48,Trinity 10,Trinity 10,"My Jesus, as Thou wilt",DENBY,TLH 420,,yes,"to DENBY, not to JEWETT (TLH 420's tune)"
+49,Trinity 11,Trinity 11,All mankind fell in Adam's fall,WENN WIR IN HÖCHSTEN NÖTEN,TLH 369,,yes,
+50,Trinity 12,Trinity 12,"O Christ, our true and only Light","O JESU CHRIST, MEINS LEBENS LICHT",TLH 512,,yes,
+51,Trinity 13,Trinity 13,"Jesus, priceless Treasure","JESU, MEINE FREUDE",TLH 347,,yes,
+52,Trinity 14,Trinity 14,"Show pity, Lord! O Lord, forgive",ERBARM DICH MEIN,HCSS 244,,yes,Isaac Watts's Psalm 51
+53,Trinity 15,Trinity 15,"Why art thou thus cast down, my heart","WARUM BETRÜBST DU DICH, MEIN HERZ",,"Warum betrübst du dich, mein Herz",yes,"the lexicon's English title of 'Warum betrübst du dich, mein Herz', whose tune it has; the Lutheran Hymn Index has no row for it"
+54,Trinity 16,Trinity 16,Now lay we calmly in the grave,NUN LASST UNS DEN LEIB (Wittenberg),TLH 596,,yes,
+55,Trinity 17,Trinity 17,"In Thee, Lord, have I put my trust",IN DICH HAB ICH GEHOFFET,TLH 524,,yes,
+56,Trinity 18,Trinity 18,"Thee Lord, our God, we praise","HERR GOTT, DICH LOBEN WIR",KELG 337,,yes,"Luther's Te Deum, 'Herr Gott, dich loben wir'; ELHal 356 opens the same way, on a row of its own in the index"
+57,Trinity 19,Trinity 19,We all believe in one true God,"WIR GLAUBEN ALL AN EINEN GOTT, VATER",TLH 252,,yes,the hymn of 38 again
+58,Trinity 20,Trinity 20,How lovely shines the morning star,WIE SCHÖN LEUCHTET,TLH 343,,yes,
+59,Trinity 21,Trinity 21,"By grace I'm saved, grace free and boundless",O DASS ICH TAUSEND (Dretzel),TLH 373,,yes,
+60,Trinity 22,Trinity 22,From depths of woe I cry to Thee,AUS TIEFER NOT (Walther; rhythmic),TLH 329,,yes,
+61,Trinity 23,Trinity 23,"For help, O(h) whither shall I flee",AUS TIEFER NOT (Walther; isometric),TLHy 499,,yes,'O(h)' as the list gives it
+62,Trinity 24,Trinity 24,"In God, my faithful God",AUF MEINEN LIEBEN GOTT,TLH 526,,yes,
+63,Trinity 25,Trinity 25,When in the hour of utmost need,WENN WIR IN HÖCHSTEN NÖTEN,TLH 522,,yes,
+64,Trinity 26,Trinity 26,Now thank we all our God,NUN DANKET ALLE GOTT,TLH 36,,yes,
+65,Trinity 27,Trinity 27,The Bridegroom soon will call us,ACH GOTT VOM HIMMELREICHE,TLH 67,,yes,"the last of the Sundays; the saints' days follow, numbered with gaps (66 is wanting)"
+67,St. Lucy,St Lucy (13 Dec),"Rejoice, all ye believers",HAF TRONES LAMPA FÄRDIG,TLH 72,,yes,
+72,Holy Innocents,Holy Innocents (28 Dec),Sweet flowerets of the martyr band,DAS WALT GOTT VATER,TLH 273,,yes,
+73,St. Henry of Finland,St Henry of Finland (19 Jan),Zion stands by hills surrounded,ZION,TLH 474,,yes,
+75,Conversion of St. Paul,Conversion of St Paul (25 Jan),"O Thou, who dost accord us",INNSBRUCK,TLHy 356,,yes,from the Latin 'Summi largitor praemii'
+76,St. Titus,St Titus (26 Jan),"Lord of the Church, we humbly pray",PURLEIGH,TLH 489,,yes,
+77,Presentation of our Lord,Purification of Mary (2 Feb),In peace and joy I now depart,MIT FRIED UND FREUD,TLH 137,,yes,
+81,St. Patrick,St Patrick (17 March),Look from Thy sphere of endless day,ST. CRISPIN,TLH 499,,yes,
+83,Annunciation,Annunciation (25 March),All glory be to God on high,ALLEIN GOTT IN DER HÖH,TLH 237,,yes,
+90,Presentation of the Augsburg Confession,Presentation of the Augsburg Confession (25 June),My Church! My Church! My dear old Church,ATHENS,THOS 276,,yes,
+101,St. Michael & All Angels,St Michael (29 Sept),"Lord God, we all to Thee give praise",ANGELS' HYMN,TLH 254,,yes,
+106,All Saints,All Saints (1 Nov),Christ is our Corner-stone,DARWALL'S 148TH,TLH 465,,yes,
+109,,,Jesus calls us; o'er the tumult,STUTTGART,TLH 270,,no,"no day in the list. Cecil Frances Alexander wrote it for St Andrew's Day (30 Nov), which would stand here, after All Saints, if the saints' days run from December to November; not loaded"

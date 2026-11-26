@@ -7,7 +7,7 @@ from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
 import merge_elberfeld, merge_finnish, merge_ingria, merge_krusemark, merge_lbw, merge_sbh, merge_slovak
-import merge_te_laudamus, merge_zavorka
+import merge_tasbh, merge_te_laudamus, merge_zavorka
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -59,7 +59,8 @@ def load():
             'FROM hymn_prescriptions'):
         wit = src.split(' (via')[0]
         ident = canon.get((norm(orig), src))
-        # Te Laudamus, LBW, the SBH's Hymn of the Week and Krusemark name their hymns by number:
+        # Te Laudamus, LBW, the SBH's Hymn of the Week and Krusemark name their hymns by number, and the
+        # Augustana Service Book and Hymnal's Supplement by the number of the same text in another hymnal:
         # by its row in the Lutheran Hymn Index. A row the lexicon lacks (ident None) is named by
         # the index's title for it (the common_english of TL's, LBW's and the SBH's rows), and is
         # not then taken for a lexicon hymn of a like title. The transcriptions of the Finnish
@@ -82,6 +83,8 @@ def load():
         elif not ident and wit == merge_zavorka.WITNESS:
             ident, by_number = merge_zavorka.canonical(src), True
             if not ident: name = merge_zavorka.name(src)
+        elif not ident and wit == merge_tasbh.WITNESS:
+            ident, by_number = merge_tasbh.canonical(src), True
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -236,6 +239,11 @@ def main():
          'by the lexicon, else by the Latin original\'s title where the book heads it with the Latin and the text is its '
          'translation, else by its Czech title. An old witness, which Appendix 8.A does not count, as it does not the '
          'Finnish and Slovak lists.', BODY),
+        ('Augustana Service Book and Hymnal, Supplement (2022): the chief hymns of the Supplement of the hymnal of the '
+         'Evangelical Lutheran Diocese of North America (ELDoNA), one witness, from a blog review\'s list of them: one '
+         'hymn for each Sunday and feast of the one-year series, and for some saints\' days. Its rows give the first lines '
+         'as the review gives them; a hymn is identified by the number of the same text in another hymnal (TLH 95) in the '
+         'Lutheran Hymn Index, or, where the index lacks it, by the lexicon. A modern witness.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

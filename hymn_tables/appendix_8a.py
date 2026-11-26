@@ -24,7 +24,8 @@ BOOK = os.path.join(HERE, '..', 'LITURGICAL_AND_ECCLESIASTICAL_LIFE.md')
 
 # the witnesses of 1800 onward, which the table leaves out (§8.A.1)
 MODERN = {
- 'Church of Ingria calendar (2025-26)', 'Eckardt, The Lutheran Propers', 'Elberfeld hymnal (1898)', 'Gehrke',
+ 'Augustana Service Book and Hymnal, Supplement (2022)', 'Church of Ingria calendar (2025-26)',
+ 'Eckardt, The Lutheran Propers', 'Elberfeld hymnal (1898)', 'Gehrke',
  'Hymn of the Week (SBH, 1965)', 'Judisch', 'Krusemark, Even Year', 'Krusemark, Every Year', 'Krusemark, Odd Year',
  'Krusemark, Year A', 'Krusemark, Year B', 'Krusemark, Year C', 'LCMS Synod selections (2016-17)', 'LSB Hymnal Committee',
  'Lutheran Book of Worship (1978)', 'Lutheran Service Book (2006)', 'Lutheran Worship (1982)',
