@@ -25,10 +25,24 @@ from resolve import resolve, norm
 CODES = {'WH': 'KELG'}
 
 # rows whose original, as the index records it, is not the row's hymn, so that no hymn of the
-# lexicon is taken from it: row 2065, "I Know That My Redeemer Lives" (TLH 200, LBW 352, LSB 461),
-# is Samuel Medley's English hymn (1775), which the index records as a translation of "Ich weiß,
-# daß mein Erlöser lebt", the opening of the older German hymn of the Magdeburg list of 1632
-NOT_ITS_ORIGINAL = {2065: "Medley's English hymn, not a translation"}
+# lexicon is taken from it, each named by a hymnal number on it (a row's id is its line in the
+# sheet, which moves as rows are added): "I Know That My Redeemer Lives" (TLH 200, LBW 352, LSB
+# 461) is Samuel Medley's English hymn (1775), which the index records as a translation of "Ich
+# weiß, daß mein Erlöser lebt", the opening of the older German hymn of the Magdeburg list of 1632;
+# "We All Believe in One True God, Father" (TLH 252, LSB 953) is Tobias Clausnitzer's hymn on the
+# Apostles' Creed (1668), "Wir glauben all an einen Gott, Vater", whose German the index records
+# only as far as it opens like Luther's creed hymn, "Wir gläuben all' an einen Gott" (TLH 251)
+NOT_ITS_ORIGINAL = {
+ 'TLH 200': "Medley's English hymn, not a translation",
+ 'TLH 252': "Clausnitzer's hymn on the Apostles' Creed, which opens as Luther's creed hymn does",
+}
+_not_its_original = None
+def not_its_original():
+    """NOT_ITS_ORIGINAL by the rows' ids"""
+    global _not_its_original
+    if _not_its_original is None:
+        _not_its_original = {index_titles.row(ref): why for ref, why in NOT_ITS_ORIGINAL.items()}
+    return _not_its_original
 
 def rows(code, number, suffix=''):
     """ids in hymnal.db of the rows that bear the hymnal number (a page of the liturgy is not one)"""
@@ -98,8 +112,8 @@ def hymn(hid):
         return matched[0], 'the index row (index_titles.INDEX)'
     if matched:
         raise SystemExit(f'index_rows: row {hid} of the index has {matched}')
-    if hid in NOT_ITS_ORIGINAL:
-        return None, f'not in the lexicon ({NOT_ITS_ORIGINAL[hid]})'
+    if hid in not_its_original():
+        return None, f'not in the lexicon ({not_its_original()[hid]})'
     for o in originals(hid):
         c, _lit, _com, _alt, ok = resolve(o)
         if ok and whole(c, o):

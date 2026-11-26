@@ -25,9 +25,10 @@ and the hymnal's credit (author, translator, tune) in English. Most of the hymns
 Finnish or English; where the credit and the text show the hymn translated, the transcription names
 the original, 'certain' or 'probable' (a 'possible' original is a note). A hymn is then named by
 the lexicon, if the original is one of its hymns; else by the Lutheran Hymn Index's title for the
-original's row (index_row), as for the modern lists that name their hymns by number; else by the
-original's title; else by its Russian first line. A hymn the lexicon names must be the lexicon's
-hymn of its index row, if index_rows.hymn gives one.
+original's row (index_ref, a hymnal number on it: a row's id moves as rows are added), as for the
+modern lists that name their hymns by number; else by the original's title; else by its Russian
+first line. A hymn the lexicon names must be the lexicon's hymn of its index row, if index_rows.hymn
+gives one.
 
 The days take this database's labels. The 1st Sunday after the Epiphany is kept as the Baptism of
 the Lord, and the last three Sundays of the church year take the old series' days by their Gospels:
@@ -82,15 +83,15 @@ def check(es, known):
             raise SystemExit(f'{where}: no such day {e["day"]!r}')
         if e['lexicon'] and e['lexicon'] not in names:
             raise SystemExit(f'{where}: {e["lexicon"]!r} is not in the lexicon')
-        if (e['lexicon'] or e['index_row']) and e['confidence'] not in NAMED:
+        if (e['lexicon'] or e['index_ref']) and e['confidence'] not in NAMED:
             raise SystemExit(f'{where}: an identification that is not certain or probable names the hymn')
-        if e['index_row']:
-            hid = int(e['index_row'])
+        if e['index_ref']:
+            hid = index_titles.row(e['index_ref'])
             if e['index_title'] != index_titles.title_of_row(hid):
-                raise SystemExit(f'{where}: index row {hid} is not "{e["index_title"]}"')
+                raise SystemExit(f'{where}: the row of {e["index_ref"]} is not "{e["index_title"]}"')
             led = index_rows.hymn(hid)[0]
             if led and led != e['lexicon']:
-                raise SystemExit(f'{where}: index row {hid} is {led!r} in the lexicon')
+                raise SystemExit(f'{where}: the row of {e["index_ref"]} is {led!r} in the lexicon')
 
 def rows(known):
     es = entries()
@@ -130,8 +131,8 @@ def main():
                   f'{e["lexicon"] or e["index_title"] or e["original"] or "-"}')
     print(f'{WITNESS:<36}: {len(rs)} on {len({r[0] for r in rs})} occasions, {len(hymns)} hymns')
     print(f'  named by the lexicon  : {sum(1 for e in hymns.values() if e["lexicon"])}')
-    print(f'  by the index          : {sum(1 for e in hymns.values() if e["index_row"] and not e["lexicon"])}')
-    print(f'  by the original       : {sum(1 for e in hymns.values() if e["original"] and e["confidence"] in NAMED and not e["lexicon"] and not e["index_row"])}')
+    print(f'  by the index          : {sum(1 for e in hymns.values() if e["index_ref"] and not e["lexicon"])}')
+    print(f'  by the original       : {sum(1 for e in hymns.values() if e["original"] and e["confidence"] in NAMED and not e["lexicon"] and not e["index_ref"])}')
     print(f'  hymns new to the db   : {len(new)}  {new}')
     print(f'  total rows now        : {c.execute("SELECT COUNT(*) FROM hymn_prescriptions").fetchone()[0]}')
     db.close()

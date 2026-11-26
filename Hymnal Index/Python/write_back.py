@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Write clean links and Walther's Hymnal titles back into the spreadsheets.
 
-Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
+Usage: python3 write_back.py [--add CODE] [--arrange] [--merge-kelg N,N,...]
 
 1. Rebuilds hymnal.db from the spreadsheets.
 2. KELG-Hymn-Index.xlsx: fills the empty 'Walther's Hymnal (2012)' cells
@@ -17,8 +17,11 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
      each one's links in link_review.csv before adding the next: a hymn new to
      the master index then gets one row, from the first of them to have it,
      and the hymnals after it find it there. An added column goes after the
-     nearest column before it in HYMNAL_ORDER that the sheet has; columns are
-     otherwise found by their headers in row 1, wherever they are;
+     nearest column before it in HYMNAL_ORDER that the sheet has and takes its
+     church body's colour (COLUMN_COLOURS). With --arrange, every hymnal column
+     is put in its place in HYMNAL_ORDER and given its body's colour, its
+     cells, width and column style moving with it. Columns are otherwise found
+     by their headers in row 1, wherever they are;
    - fills the empty KELG#, TLHy#, ELHB#, TL#, LPC#, Hymnary.org hymnals'
      (WS'69#, WS'00#, ACS#, ...) and
      KELG/ELGBS German Title cells of existing rows from links with status
@@ -30,9 +33,10 @@ Usage: python3 write_back.py [--add CODE] [--merge-kelg N,N,...]
      show up in link_review.csv instead;
    - corrects the hymnal numbers and titles listed in master_corrections.csv:
      a number cell holding the old numbers gets the new ones in their place
-     (new left empty: taken out), a title or KELG/ELGBS German Title the old
-     one is replaced (an 'alternate' line, an Alternative English Title to
-     add, waits for the hymnals' titles below);
+     (new left empty: taken out), a title, KELG/ELGBS German Title, Original
+     Title or Original Language the old one is replaced (old left empty: one is
+     filled in; an 'alternate' line, an Alternative English Title to add, waits
+     for the hymnals' titles below);
    - fills Original Title and Original Language for rows with a TLHy or TL
      hymn that isn't a KELG or ELGBS hymn, from tlhy_originals.csv and
      tl_originals.csv (the language alone when only that is known; ELGBS's
@@ -103,14 +107,16 @@ import sqlite3
 import unicodedata
 import zipfile
 from collections import Counter, defaultdict
+from copy import deepcopy
 
 from lxml import etree
 
 import build_db
 from build_db import (ALT_CORRECTION, ALT_TITLE_HEADER, ALT_TITLE_RE, DB_PATH, ELHB_TITLE_FIXES, FOREIGN_HYMNALS,
                       GERMAN_CORRECTION, GERMAN_TITLE_HEADER, HYMNALS, HYMNARY_CSVS, KELG_SHEET,
-                      KELG_WH_TITLE_COLUMN, KELG_WH_TITLE_HEADER, KELG_XLSX, LCMS_XLSX, LETTERED_HYMNALS,
-                      LINKED_HYMNALS, MASTER_CORRECTIONS_CSV, PSALTER_HYMNALS, SAME_HYMN_CSV, SSB_ORIGINALS_CSVS,
+                      KELG_WH_TITLE_COLUMN, KELG_WH_TITLE_HEADER, KELG_XLSX, LANGUAGE_CORRECTION, LCMS_XLSX,
+                      LETTERED_HYMNALS, LINKED_HYMNALS, MASTER_CORRECTIONS_CSV, ORIGINAL_CORRECTION, PSALTER_HYMNALS,
+                      SAME_HYMN_CSV, SSB_ORIGINALS_CSVS,
                       TEXT_COLUMNS,
                       TITLE_CORRECTION, TRUSTED, hymnary_titles, is_prefix, link_number, match_key, number_order,
                       parse_cell, parse_number, read_csv, read_same_hymn_decisions, same_hymn_groups, title_rows,
@@ -120,6 +126,7 @@ NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 N = f"{{{NS}}}"
 SHEET = "xl/worksheets/sheet1.xml"  # the first sheet in both workbooks
 STRINGS = "xl/sharedStrings.xml"
+STYLES = "xl/styles.xml"
 WORKBOOK = "xl/workbook.xml"
 
 # Master-index columns are found by their headers (row 1); these must be there.
@@ -130,21 +137,42 @@ REQUIRED_COLUMNS = ("HYMN TITLE", "Text", "KELG#", "LPC#", "ELHB#", "TLH#", "WS'
 TEXT_STYLE = "6"
 TEXT_WIDTHS = dict(zip(TEXT_COLUMNS, (34, 34, 12, 34, 28)))
 ALT_WIDTH = 34  # the 'Alternative English Title N' columns
-# The master index's hymnal columns in the order write_back.py places them: a
-# column it adds goes right after the nearest one before it here that the sheet
-# has, and gets that column's width and its cells' styles. This is the sheet's own
-# order, each hymnal beside its church's: KELG and LPC (the house hymnal of ELGBS,
-# a supplement to KELG), ELHB; the Missouri Synod's TLH, WS'69, LW, HS'98 and LSB,
-# with LH; the Norwegian Synod's Danish-Norwegian SSB'70 and SSB'03, then TLHy,
-# the English hymnary it shared with two other Norwegian synods (1913), and the
-# ELS's ELH; the Wisconsin Synod's WELS'12 (its German hymnal), CW'21 with its
-# psalter CWP, CWS and CW'93; WS'00 and TL; AH; the hymnals of the bodies that
-# became the ALC and LCA (and so the ELCA), as the sheet has them; and the ELCA's
+# The master index's hymnal columns, each hymnal beside its church's, and each
+# church body's colour ("Color indicates church body resource", the sheet's
+# footer says): the fill of its columns' cells, header, numbers and empty cells
+# alike, a theme colour and its tint or an RGB colour. In order: KELG and LPC (the
+# house hymnal of ELGBS, a supplement to KELG), ELHB; the Missouri Synod's TLH,
+# WS'69, LW, HS'98 and LSB, with LH; the Norwegian Synod's Danish-Norwegian SSB'70
+# and SSB'03, then TLHy, the English hymnary it shared with two other Norwegian
+# synods (1913), and the ELS's ELH; the Wisconsin Synod's WELS'12 (its German
+# hymnal), CW'93, CWS, CW'21 and CW'21's psalter CWP; the CLC's WS'00; TL; the
+# AFLC's AH; RCH, the ReClaim Hymnal (ReClaim Resources, 2006; now Sola
+# Publishing's); the hymnals of the bodies that became the LCA, with the Augustana
+# Synod's HCSS (1899) before CSB, and of those that became the ALC; and the ELCA's
 # own LBW, HS'91, WOV, ELW and ACS.
-HYMNAL_ORDER = ("KELG#", "LPC#", "ELHB#", "TLH#", "WS'69#", "LW#", "HS'98#", "LSB#", "LH#", "SSB'70#", "SSB'03#",
-                "TLHy#", "ELH#", "WELS'12#", "CW'21#", "CWP#", "CWS#", "CW'93#", "WS'00#", "TL#", "AH#", "CHL#",
-                "TBW'67#", "TBW'07#", "CSB#", "THOS#", "HCH#", "SBH#", "CHPPPW#", "TCSSH#", "ELHal#", "ALH#", "TCH#",
-                "LBW#", "HS'91#", "WOV#", "ELW#", "ACS#")
+COLUMN_COLOURS = (  # (fill, the columns that have it)
+    (("theme", "3", "0.59999389629810485"),  # Text 2 (dark blue), lighter 60%
+     ("KELG#", "LPC#", "ELHB#", "TLH#", "WS'69#", "LW#", "HS'98#", "LSB#", "LH#")),
+    (("theme", "6", "0.39997558519241921"),  # Accent 3 (green), lighter 40%
+     ("SSB'70#", "SSB'03#", "TLHy#", "ELH#")),
+    (("theme", "7", "0.39997558519241921"),  # Accent 4 (purple), lighter 40%
+     ("WELS'12#", "CW'93#", "CWS#", "CW'21#", "CWP#")),
+    (("theme", "8", "0.59999389629810485"), ("WS'00#",)),  # Accent 5 (aqua), lighter 60%
+    (("theme", "5", "0.39997558519241921"), ("TL#",)),  # Accent 2 (red), lighter 40%
+    (("theme", "4", "0.59999389629810485"), ("AH#",)),  # Accent 1 (blue), lighter 60%
+    (("rgb", "FFFFFF99"), ("RCH#",)),  # light yellow
+    (("theme", "9", "0.59999389629810485"),  # Accent 6 (orange), lighter 60%
+     ("CHL#", "TBW'67#", "TBW'07#", "HCSS#", "CSB#", "THOS#", "HCH#", "SBH#")),
+    (("theme", "0", "-0.14999847407452621"),  # Background 1 (white), darker 15%: grey
+     ("CHPPPW#", "TCSSH#", "ELHal#", "ALH#", "TCH#")),
+    (("theme", "9", "0.39997558519241921"),  # Accent 6 (orange), lighter 40%
+     ("LBW#", "HS'91#", "WOV#", "ELW#", "ACS#")),
+)
+COLUMN_FILLS = {header: fill for fill, headers in COLUMN_COLOURS for header in headers}
+# The order write_back.py puts the hymnal columns in: a column it adds goes right
+# after the nearest one before it here that the sheet has, with that column's
+# width, and takes its body's colour; --arrange puts every column in its place.
+HYMNAL_ORDER = tuple(COLUMN_FILLS)
 # Hymnal columns added whenever the master index lacks them. (A Hymnary.org
 # hymnal's column comes with --add CODE.)
 ADDED_COLUMNS = ("TL#", "LPC#", "WS'69#", "WS'00#", "WELS'12#")
@@ -579,13 +607,18 @@ def plan_corrections(con, layout):
     are added). It is done once the cell holds the new numbers and none of the
     old; a cell holding some old numbers but not all is left alone, with a
     warning. A 'title' correction retitles the row still bearing the old title,
-    and a 'german' one sets the KELG/ELGBS German Title of the row still
-    holding the old one; an 'alternate' one is plan_alternates' to add. Rows
-    are found by any title they bear (see title_rows): a correction keeps
-    working after its row is merged into another."""
+    and a 'german', 'original' or 'language' one sets the KELG/ELGBS German
+    Title, Original Title or Original Language of the row still holding the old
+    one (old left empty: none yet); an 'alternate' one is plan_alternates' to
+    add. Rows are found by any title they bear (see title_rows): a correction
+    keeps working after its row is merged into another."""
     rows_titled = title_rows(con)
     titles = dict(con.execute("SELECT id, title FROM hymns"))
-    germans = dict(con.execute("SELECT id, german_title FROM hymns"))
+    texts = {kind: dict(con.execute(f"SELECT id, {field} FROM hymns")) for kind, field in (
+        (GERMAN_CORRECTION, "german_title"), (ORIGINAL_CORRECTION, "original_title"),
+        (LANGUAGE_CORRECTION, "original_language"))}
+    text_cols = {GERMAN_CORRECTION: layout.german, ORIGINAL_CORRECTION: layout.original,
+                 LANGUAGE_CORRECTION: layout.language}
     cells = {(h, code): raw for h, code, raw in con.execute("SELECT hymn_id, hymnal_code, raw FROM hymn_cells")}
 
     def numbers(raw, code):
@@ -603,16 +636,16 @@ def plan_corrections(con, layout):
             if not new.strip():
                 raise SystemExit(f"{MASTER_CORRECTIONS_CSV.name}: an 'alternate' for {title!r} with no title as new")
             continue
-        if code not in (TITLE_CORRECTION, GERMAN_CORRECTION) and code not in layout.col:
+        if code != TITLE_CORRECTION and code not in texts and code not in layout.col:
             raise SystemExit(f"{MASTER_CORRECTIONS_CSV.name}: no column for {code!r} ({title!r})")
         for hymn_id in sorted(rows_titled[title]):
             if code == TITLE_CORRECTION:
                 if titles[hymn_id] == old:
                     retitles[hymn_id] = new
                 continue
-            if code == GERMAN_CORRECTION:
-                if (germans[hymn_id] or "") == old:
-                    out[hymn_id][layout.german] = new or None
+            if code in texts:
+                if (texts[code][hymn_id] or "") == (old or ""):
+                    out[hymn_id][text_cols[code]] = new or None
                 continue
             raw = cells.get((hymn_id, code))
             have, gone, wanted = numbers(raw, code), numbers(old, code), numbers(new, code)
@@ -928,17 +961,23 @@ def read_layout(path):
     return Layout(read_headers(root, strings), data_styles(root))
 
 
+def check_movable(root, doing):
+    """Stop if the sheet has what `doing` (inserting, deleting or moving columns)
+    would have to move too and doesn't."""
+    for tag in ("mergeCells", "conditionalFormatting", "dataValidations", "hyperlinks", "autoFilter",
+                "tableParts", "drawing", "colBreaks", "ignoredErrors"):
+        if root.find(f"{N}{tag}") is not None:
+            raise SystemExit(f"the sheet has <{tag}>, which {doing} would have to move too")
+    if root.find(f".//{N}f") is not None:
+        raise SystemExit(f"the sheet has formulas, which {doing} would have to move too")
+
+
 def insert_column(root, strings, header, after):
     """Insert an empty column headed `header` right after the one headed
     `after`, moving everything to its right one column over: cells, column
     widths, the dimension, sort range, row spans and selection. Its cells and
     width are those of the `after` column."""
-    for tag in ("mergeCells", "conditionalFormatting", "dataValidations", "hyperlinks", "autoFilter",
-                "tableParts", "drawing"):
-        if root.find(f"{N}{tag}") is not None:
-            raise SystemExit(f"the sheet has <{tag}>, which inserting a column would have to move too")
-    if root.find(f".//{N}f") is not None:
-        raise SystemExit("the sheet has formulas, which inserting a column would have to move too")
+    check_movable(root, "inserting a column")
     p = col_index(read_headers(root, strings)[after]) + 1  # the new column
     after_col, new_col = col_letter(p - 1), col_letter(p)
 
@@ -1009,12 +1048,7 @@ def delete_column(root, strings, header):
     """Delete the column headed `header`, moving everything to its right one
     column over to the left: cells, column widths, the dimension, sort range,
     row spans and selection (insert_column undone)."""
-    for tag in ("mergeCells", "conditionalFormatting", "dataValidations", "hyperlinks", "autoFilter",
-                "tableParts", "drawing"):
-        if root.find(f"{N}{tag}") is not None:
-            raise SystemExit(f"the sheet has <{tag}>, which deleting a column would have to move too")
-    if root.find(f".//{N}f") is not None:
-        raise SystemExit("the sheet has formulas, which deleting a column would have to move too")
+    check_movable(root, "deleting a column")
     p = col_index(read_headers(root, strings)[header])
 
     def shift_ref(ref):  # 'V5' -> 'U5', 'A2:W2441' -> 'A2:V2441'
@@ -1056,6 +1090,193 @@ def delete_column(root, strings, header):
                 view.set(attr, shift_ref(view.get(attr)))
 
 
+def explode_cols(root, lo, hi):
+    """Split the sheet's <col> ranges so that each of columns lo..hi that has one
+    has its own; returns {column index: its <col>}."""
+    own = {}
+    for col in list(root.find(f"{N}cols")):
+        a, b = int(col.get("min")), int(col.get("max"))
+        if b < lo or a > hi:
+            continue
+        pieces = ([(a, lo - 1)] if a < lo else []) + [(i, i) for i in range(max(a, lo), min(b, hi) + 1)] + \
+                 ([(hi + 1, b)] if b > hi else [])
+        last = None
+        for x, y in pieces:
+            piece = col if last is None else deepcopy(col)
+            piece.set("min", str(x))
+            piece.set("max", str(y))
+            if last is not None:
+                last.addnext(piece)
+            last = piece
+            if x == y and lo <= x <= hi:
+                own[x] = piece
+    return own
+
+
+def compact_cols(root, lo, hi):
+    """Sort the sheet's <col>s and join the neighbours within columns lo..hi that
+    are alike (explode_cols undone)."""
+    cols = root.find(f"{N}cols")
+    cols[:] = sorted(cols, key=lambda c: int(c.get("min")))
+
+    def alike(c):
+        return {k: v for k, v in c.attrib.items() if k not in ("min", "max")}
+
+    last = None
+    for col in list(cols):
+        if (last is not None and lo <= int(last.get("min")) and int(col.get("max")) <= hi
+                and int(last.get("max")) + 1 == int(col.get("min")) and alike(last) == alike(col)):
+            last.set("max", col.get("max"))
+            cols.remove(col)
+        else:
+            last = col
+
+
+def move_columns(root, strings, order):
+    """Put the columns headed by `order`'s headers (those the sheet has) in that
+    order, in the places they take up now; a column among them that `order`
+    doesn't name stays where it is. Their cells, widths and column styles, the
+    sort conditions and the selection go with them. Returns the headers moved."""
+    check_movable(root, "moving columns")
+    headers = read_headers(root, strings)
+    present = [h for h in order if h in headers]
+    places = sorted(col_index(headers[h]) for h in present)
+    moves = {col_index(headers[h]): p for h, p in zip(present, places) if col_index(headers[h]) != p}
+    if not moves:
+        return []
+
+    def move(col):  # a column's letter -> its new letter
+        i = col_index(col)
+        return col_letter(moves.get(i, i))
+
+    def move_ref(ref):  # 'R5' -> 'Q5', 'R1:R90' -> 'Q1:Q90'; a range of columns keeps them
+        ends = ref.split(":")
+        cols = [re.match(r"[A-Z]+", end).group(0) for end in ends]
+        if len(set(cols)) > 1:
+            span = range(col_index(cols[0]), col_index(cols[-1]) + 1)
+            if any(moves.get(i, i) not in span for i in span):
+                raise SystemExit(f"moving the columns would break up the range {ref}")
+            return ref
+        return ":".join(move(col) + end[len(col):] for col, end in zip(cols, ends))
+
+    for r in root.find(f"{N}sheetData").findall(f"{N}row"):
+        cells = r.findall(f"{N}c")
+        if not any(col_index(cell_col(c)) in moves for c in cells):
+            continue
+        if len(cells) != len(r):
+            raise SystemExit(f"row {r.get('r')} holds more than cells")
+        for c in cells:
+            c.set("r", move(cell_col(c)) + r.get("r"))
+        r[:] = sorted(cells, key=lambda c: col_index(cell_col(c)))
+        if r.get("spans"):
+            lo, hi = map(int, r.get("spans").split(":"))
+            now = [col_index(cell_col(c)) for c in cells]
+            r.set("spans", f"{min(lo, *now)}:{max(hi, *now)}")
+
+    for i, col in explode_cols(root, min(moves), max(moves)).items():
+        col.set("min", str(moves.get(i, i)))
+        col.set("max", str(moves.get(i, i)))
+    compact_cols(root, min(moves), max(moves))
+
+    dim = root.find(f"{N}dimension")
+    dim.set("ref", move_ref(dim.get("ref")))
+    sort_state = root.find(f"{N}sortState")
+    if sort_state is not None:
+        sort_state.set("ref", move_ref(sort_state.get("ref")))
+        for cond in sort_state.findall(f"{N}sortCondition"):
+            cond.set("ref", move_ref(cond.get("ref")))
+    for view in root.iter(f"{N}selection", f"{N}pane"):
+        for attr in ("activeCell", "topLeftCell"):
+            if view.get(attr):
+                view.set(attr, move_ref(view.get(attr)))
+        if view.get("sqref"):
+            try:
+                view.set("sqref", " ".join(move_ref(ref) for ref in view.get("sqref").split()))
+            except SystemExit:  # a selection the move breaks up is just the active cell
+                view.set("sqref", view.get("activeCell", "A1"))
+    return [h for h in present if col_index(headers[h]) in moves]
+
+
+def fill_colour(fill):
+    """A solid <fill>'s colour as COLUMN_COLOURS gives it, ("theme", N, tint) or
+    ("rgb", ARGB); None for any other fill (none, a pattern)."""
+    pattern = fill.find(f"{N}patternFill")
+    colour = pattern.find(f"{N}fgColor") if pattern is not None and pattern.get("patternType") == "solid" else None
+    if colour is None:
+        return None
+    if colour.get("theme") is not None:
+        return ("theme", colour.get("theme"), colour.get("tint", "0"))
+    return ("rgb", colour.get("rgb").upper()) if colour.get("rgb") else None
+
+
+def new_fill(colour):
+    """A solid <fill> of `colour` (fill_colour's form), as Excel writes one."""
+    fill = etree.Element(f"{N}fill")
+    pattern = etree.SubElement(fill, f"{N}patternFill", patternType="solid")
+    if colour[0] == "theme":
+        etree.SubElement(pattern, f"{N}fgColor", theme=colour[1], **({"tint": colour[2]} if colour[2] != "0" else {}))
+    else:
+        etree.SubElement(pattern, f"{N}fgColor", rgb=colour[1])
+    etree.SubElement(pattern, f"{N}bgColor", indexed="64")
+    return fill
+
+
+def colour_columns(root, strings, styles, headers):
+    """Give the columns headed by `headers` (those the sheet has) their church
+    body's colour, COLUMN_FILLS[header]: each cell in them (header, numbers and
+    empty cells alike) filled with another colour, and the column's own style,
+    takes that one instead, the rest of its style kept; a cell with no fill keeps
+    none. `styles` (the stylesheet) gets the fill and cell styles it lacks.
+    Returns the headers recoloured."""
+    found = read_headers(root, strings)
+    wanted = {col_index(found[h]): COLUMN_FILLS[h] for h in headers if h in found}
+    fills, xfs = styles.find(f"{N}fills"), styles.find(f"{N}cellXfs")
+    colours = [fill_colour(f) for f in fills.findall(f"{N}fill")]
+
+    def fill_id(colour):
+        if colour not in colours:
+            fills.append(new_fill(colour))
+            colours.append(colour)
+            fills.set("count", str(len(colours)))
+        return str(colours.index(colour))
+
+    def key(xf):
+        return dict(xf.attrib), [(child.tag, dict(child.attrib)) for child in xf]
+
+    restyled = {}
+
+    def restyle(style, colour):  # the cell style `style` filled with `colour`
+        if (style, colour) not in restyled:
+            xf = xfs.findall(f"{N}xf")[int(style)]
+            restyled[style, colour] = style
+            if colours[int(xf.get("fillId", "0"))] not in (None, colour):
+                new = deepcopy(xf)
+                new.set("fillId", fill_id(colour))
+                new.set("applyFill", "1")
+                same = [i for i, other in enumerate(xfs.findall(f"{N}xf")) if key(other) == key(new)]
+                if not same:
+                    xfs.append(new)
+                    xfs.set("count", str(len(xfs.findall(f"{N}xf"))))
+                restyled[style, colour] = str(same[0] if same else len(xfs.findall(f"{N}xf")) - 1)
+        return restyled[style, colour]
+
+    changed = set()
+    for r in root.find(f"{N}sheetData").findall(f"{N}row"):
+        for c in r.findall(f"{N}c"):
+            i = col_index(cell_col(c))
+            if i in wanted and c.get("s") and restyle(c.get("s"), wanted[i]) != c.get("s"):
+                c.set("s", restyle(c.get("s"), wanted[i]))
+                changed.add(i)
+    for i, colour in wanted.items():
+        col = next((c for c in root.find(f"{N}cols") if int(c.get("min")) <= i <= int(c.get("max"))), None)
+        if col is not None and col.get("style") and restyle(col.get("style"), colour) != col.get("style"):
+            explode_cols(root, i, i)[i].set("style", restyle(col.get("style"), colour))
+            changed.add(i)
+    if changed:
+        compact_cols(root, min(changed), max(changed))
+    return [h for h in headers if h in found and col_index(found[h]) in changed]
+
+
 def check_defined_names(path, workbook):
     """Defined names (print titles '$1:$1' aside) could point at moved columns."""
     for name in re.findall(r"<definedName[^>]*>([^<]*)</definedName>", workbook):
@@ -1080,22 +1301,36 @@ def place_after(header, headers):
 
 def add_missing_columns(path, wanted):
     """Insert the columns among `wanted` (headers) the master index lacks, each
-    placed by HYMNAL_ORDER; returns their headers."""
+    placed by HYMNAL_ORDER and in its church body's colour; returns their
+    headers."""
     root, strings, workbook = read_sheet(path)
     missing = [h for h in wanted if h not in read_headers(root, strings)]
     if not missing:
         return []
     check_defined_names(path, workbook)
-
-    def edit(xml, strings_xml):
-        root = etree.fromstring(xml)
-        strings = read_strings(strings_xml)
-        for header in missing:
-            insert_column(root, strings, header, place_after(header, read_headers(root, strings)))
-        return to_xml(root)
-
-    write_xlsx(path, edit)
+    styles = read_styles(path)
+    plain_styles = etree.tostring(styles)
+    for header in missing:
+        insert_column(root, strings, header, place_after(header, read_headers(root, strings)))
+    colour_columns(root, strings, styles, missing)
+    write_parts(path, sheet_parts(root, styles, plain_styles))
     return missing
+
+
+def arrange_columns(path):
+    """--arrange: put the hymnal columns in their places in HYMNAL_ORDER and give
+    each its church body's colour; returns the headers of the columns moved and
+    of those recoloured."""
+    root, strings, workbook = read_sheet(path)
+    styles = read_styles(path)
+    plain_styles = etree.tostring(styles)
+    moved = move_columns(root, strings, HYMNAL_ORDER)
+    recoloured = colour_columns(root, strings, styles, HYMNAL_ORDER)
+    if moved:
+        check_defined_names(path, workbook)
+    if moved or recoloured:
+        write_parts(path, sheet_parts(root, styles, plain_styles))
+    return moved, recoloured
 
 
 def rename_columns(path):
@@ -1280,21 +1515,40 @@ def edit_sheet(sheet_xml, strings_xml, layout, updates, new_rows, retitles, dele
 
 def write_xlsx(path, edit):
     """Rewrite the first worksheet of `path` with edit(sheet_xml, shared_strings_xml)."""
+    with zipfile.ZipFile(path) as z:
+        sheet_xml = z.read(SHEET)
+        strings_xml = z.read(STRINGS) if STRINGS in z.namelist() else None
+    write_parts(path, {SHEET: edit(sheet_xml, strings_xml)})
+
+
+def write_parts(path, parts):
+    """Rewrite `path` with the parts named in `parts` (sheet1.xml, styles.xml, ...)
+    replaced by their new contents."""
     tmp = path.with_suffix(".xlsx.tmp")
     with zipfile.ZipFile(path) as zin, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zout:
-        strings_xml = zin.read(STRINGS) if STRINGS in zin.namelist() else None
         for item in zin.infolist():
-            data = zin.read(item.filename)
-            if item.filename == SHEET:
-                data = edit(data, strings_xml)
-            zout.writestr(item, data)
+            zout.writestr(item, parts.get(item.filename) or zin.read(item.filename))
     shutil.move(tmp, path)
+
+
+def sheet_parts(root, styles, plain_styles):
+    """The parts to write for the edited sheet `root` and stylesheet `styles`:
+    styles.xml only if it changed from `plain_styles` (etree.tostring of it as
+    read)."""
+    return {SHEET: to_xml(root), **({STYLES: to_xml(styles)} if etree.tostring(styles) != plain_styles else {})}
+
+
+def read_styles(path):
+    with zipfile.ZipFile(path) as z:
+        return etree.fromstring(z.read(STYLES))
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--add", metavar="CODE",
                     help="add the column of this hymnal taken from Hymnary.org (" + ", ".join(HYMNARY_CSVS) + ")")
+    ap.add_argument("--arrange", action="store_true",
+                    help="put the hymnal columns in HYMNAL_ORDER's order, each in its church body's colour")
     ap.add_argument("--merge-kelg", default="",
                     help="comma-separated KELG numbers whose own row to merge into their WH match")
     args = ap.parse_args()
@@ -1326,6 +1580,10 @@ def main():
     added = add_missing_columns(LCMS_XLSX, wanted)
     if added:
         print(f"{LCMS_XLSX.name}: added the column(s) {', '.join(added)}\n")
+    if args.arrange:
+        moved, recoloured = arrange_columns(LCMS_XLSX)
+        print(f"{LCMS_XLSX.name}: moved the column(s) {', '.join(moved) or 'none'}; "
+              f"recoloured {', '.join(recoloured) or 'none'}\n")
     build_db.build()
     con = sqlite3.connect(DB_PATH)
     wh_titles = plan_wh_titles(con)

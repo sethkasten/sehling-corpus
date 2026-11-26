@@ -1706,14 +1706,14 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 6,381 prescriptions from 68 witnesses, in two layers that must be kept apart:
+The database holds 6,458 prescriptions from 69 witnesses, in two layers that must be kept apart:
 - **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 5,554 prescriptions come from other books and lists:
+- **The hymnals and compilations.** 5,631 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1744,7 +1744,11 @@ The database holds 6,381 prescriptions from 68 witnesses, in two layers that mus
   - the order for the year (*Rubryka*) of Tobiáš Závorka Lipenský's Czech hymnal *Písně chval
     božských* (Prague, 1602–06), the hymns of the High Mass of each Sunday and feast: the sequence
     or a hymn in its place, and the hymns after the gospel and after the sermon, named by the
-    Latin hymn the book heads them with where they translate it.
+    Latin hymn the book heads them with where they translate it;
+  - the chief hymns of the Supplement (2022) of the *Augustana Service Book and Hymnal*, the
+    hymnal the Evangelical Lutheran Diocese of North America is preparing, one to each Sunday and
+    feast of the one-year series and to some saints' days, as a review of it lists them, each
+    found through the same text in another hymnal of the Lutheran Hymn Index.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
 
@@ -1778,11 +1782,12 @@ witnesses.
 #### <a id="repo-hymn-index"></a>The Lutheran Hymn Index (`Hymnal Index/hymnal.db`)
 
 The folder `Hymnal Index` holds the Lutheran Hymn Index, a concordance of the hymnals of the
-English-speaking Lutheran churches. Its database, `hymnal.db`, has a row for each hymn, 4,931 in
-all, with the hymn's number in each of 34 books: the hymnals and supplements of those churches,
-from *A Collection of Hymns and a Liturgy* (1827) to *Te Laudamus* (2024); Walther's German
-*Kirchen-Gesangbuch* (1862) and its English translation, *Walther's Hymnal*; and *Liber
-Hymnorum* (2016), the Latin hymns of the Lutheran Church. A row gives the titles the books give
+English-speaking Lutheran churches. Its database, `hymnal.db`, has a row for each hymn, 6,067 in
+all, with the hymn's number in each of 40 books: the hymnals and supplements of those churches,
+from *A Collection of Hymns and a Liturgy* (1827) to *Te Laudamus* (2024); the Norwegian Synod's
+Danish-Norwegian hymnals (1870 and 1903) and the Wisconsin Synod's German hymnal (1912);
+Walther's German *Kirchen-Gesangbuch* (1862) and its English translation, *Walther's Hymnal*;
+and *Liber Hymnorum* (2016), the Latin hymns of the Lutheran Church. A row gives the titles the books give
 the hymn, its German title in Walther's hymnal, and the original of a hymn translated from
 another tongue. The folder's README describes the tables and how to query them.
 
@@ -34468,7 +34473,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 68 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
+Of the 69 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -34478,7 +34483,7 @@ Of the 68 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 | Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
 | Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
-The other 32 witnesses are **not counted**: 26 modern lists, three Finnish church handbooks, two
+The other 33 witnesses are **not counted**: 27 modern lists, three Finnish church handbooks, two
 Slovak lists and a Czech hymnal. Krusemark explains his own lists on pp. 95–96 of `Hymns_ABC_Krusemark.pdf`.
 The modern witnesses are:
 
@@ -34489,7 +34494,8 @@ The modern witnesses are:
 - the Hymn of the Week of the *Service Book and Hymnal* (1958), as the American Lutheran Church
   set it out in 1965;
 - *Lutheran Book of Worship* (1978), *Lutheran Worship* (1982), *Lutheran Service Book* (2006),
-  *Te Laudamus* (2024) and the SELK hymnal;
+  *Te Laudamus* (2024), the Supplement (2022) of the *Augustana Service Book and Hymnal* and the
+  SELK hymnal;
 - the Mecklenburg hymnal of 1855, and the Elberfeld hymnal of 1898, of the Old Lutheran church
   of Prussia, whose table gives three hymns for the epistle and three for the gospel of each
   Sunday and festival;
