@@ -6,8 +6,8 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_elberfeld, merge_finnish, merge_ingria, merge_krusemark, merge_lbw, merge_sbh, merge_slovak
-import merge_tasbh, merge_te_laudamus, merge_zavorka
+import merge_elberfeld, merge_finnish, merge_ingemann, merge_ingria, merge_krusemark, merge_latvia, merge_lbw
+import merge_sbh, merge_slovak, merge_tasbh, merge_te_laudamus, merge_zavorka
 from resolve import by_occasion
 from editorial import EDITORIAL
 
@@ -68,7 +68,9 @@ def load():
         # unnamed keeps its Finnish or Czech title. The Elberfeld hymnal's rows are named by the
         # lexicon, else by the index's title for the hymn's row, else by the German first line; the
         # Ingrian calendar's the same way, else by the original's title, else by the Russian first line;
-        # Závorka's Rubryka's by the lexicon, else by the original's title, else by the Czech title
+        # the Latvian Proprium's the same way, else by the Latvian first line; Závorka's Rubryka's by the
+        # lexicon, else by the original's title, else by the Czech title; Ingemann's hymns, none of
+        # which the lexicon has, by their Danish first lines
         by_number, name = False, None
         if not ident and wit in merge_finnish.WITNESSES:
             ident, by_number = merge_finnish.canonical(src), True
@@ -85,6 +87,11 @@ def load():
             if not ident: name = merge_zavorka.name(src)
         elif not ident and wit == merge_tasbh.WITNESS:
             ident, by_number = merge_tasbh.canonical(src), True
+        elif not ident and wit == merge_latvia.WITNESS:
+            ident, by_number = merge_latvia.canonical(src), True
+            if not ident: name = merge_latvia.name(src)
+        elif not ident and wit == merge_ingemann.WITNESS:
+            ident, by_number = merge_ingemann.canonical(src), True
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -211,8 +218,8 @@ def main():
         ('Thompson: the chief hymns of four lists he transcribes in his dissertation (Antwerp 1567, Annaberg 1579, Eler 1588, '
          'Magdeburg 1632) are four witnesses. Krusemark\'s Thompson column, which tallies these lists with others, is not '
          'loaded, so they are not counted twice.', BODY),
-        ('Finnish handbooks (1614, 1629, 1694): the gradual hymns of three Finnish church handbooks, sung between the '
-         'Epistle and the Gospel, three witnesses. Their rows give the Finnish titles as printed, with a literal English '
+        ('Finnish handbooks (1614, 1629, 1669, 1694): the gradual hymns of four Finnish church handbooks, sung between '
+         'the Epistle and the Gospel, four witnesses. Their rows give the Finnish titles as printed, with a literal English '
          'gloss; a hymn is named by the German or Latin hymn it translates where the transcription judges the identity '
          'certain or probable, and otherwise by its Finnish title. The Transfiguration takes the 7th Sunday after '
          'Trinity. They are old witnesses, but Appendix 8.A of the book, a table of the German orders and hymnals, '
@@ -245,6 +252,14 @@ def main():
          'days. Its rows give the first lines as the review gives them; a hymn is identified by the number of the same '
          'text in another hymnal (TLH 95) in the Lutheran Hymn Index, or, where the index lacks it, by the lexicon. A '
          'modern witness.', BODY),
+        ('Latvian Lutheran Proprium (2006): the Sunday hymn ("Dziesma", sung before the Gospel) that the book of propers '
+         'of the Lutheran churches of Latvia and of the Latvians abroad (Riga, 2006) gives on 28 days from Advent 1 to '
+         'Trinity Sunday, one witness. Its rows give the Latvian first lines, with a literal English gloss; a hymn is named '
+         'by the lexicon, else by the index\'s row for its original, where the first line shows the original certainly or '
+         'probably, else by its Latvian first line. A modern witness.', BODY),
+        ('Ingemann, Høimesse-Psalmer (1825): B. S. Ingemann\'s cycle of hymns for the High Mass of each Sunday and holy '
+         'day of the Danish church year, 73 hymns, one witness. They are his own, none a translation, and each is named '
+         'by its Danish first line, with a literal English gloss. A modern witness.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

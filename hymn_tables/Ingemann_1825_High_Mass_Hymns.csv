@@ -1,0 +1,74 @@
+seq,number,page,pdf_page,day_printed,gospel,melody,first_line,literal_english,day,note
+1,I,1,13,Første Søndag i Advent,"Matth. 21, 1. Jesu Indtog i Jerusalem",Gud! du skabte Jordens Kreds,"Glæd dig, Zion! glæd dig, Jord!","Rejoice, Zion! rejoice, earth!",Advent 1,
+2,II,3,15,Anden Søndag i Advent,"Luc. 21, 25. Tegn i Sol og Maane",Vor Gud han er saa fast en Borg,I Verden er ei Nød saa stor,In the world there is no need so great,Advent 2,
+3,III,5,17,Tredie Søndag i Advent,"Matth. 11, 2. Johannes i Fængslet","Gud Hellig Aand, i Tro os lær",I mørkest Fængsel er vi frie,In darkest prison we are free,Advent 3,
+4,IV,7,19,Fjerde Søndag i Advent,"Joh. 1, 19. Johannis Vidnesbyrd",Egen Melodie,I Ørken raaber Røsten hist,In the desert the voice cries yonder,Advent 4,
+5,V,9,21,Christi Fødselsdag,"Luc. 2, 1",Et lidet Barn saa lysteligt,Jeg som et Barn mig glæde vil,I will rejoice like a child,Christmas,
+6,VI,11,23,St. Stephans Dag,"Matth. 23, 34","Jeg beder dig, min Herre og Gud!",I Glands for Herrens Throne staaer,In radiance before the Lord's throne stands,St Stephen (26 Dec),the second day of Christmas
+7,VII,13,25,Samme Dag,,Rind nu op i Jesu Navn,Salig hvo med Kraft og Tro,Blessed who with strength and faith,St Stephen (26 Dec),"a second hymn for the day, without a heading of its own (""Samme Dag"", the same day, in the contents)"
+8,VIII,13,25,Søndag efter Juul,"Luc. 2, 33. Simeon og Anna",Alene Gud i Himmerig,Den Sjæl skal ikke Døden see,That soul shall not see death,Sunday after Christmas,
+9,IX,15,27,Nytaarsdag,"Luc. 2, 21. Da blev hans Navn kaldet Jesus, som det var kaldet af Engelen","Nu velan, vær frisk tilmode","Jesus, Frelser, Saliggjører!","Jesus, Saviour, bringer of salvation!",New Year (Circumcision),"the register has ""Jesu, Frelser Saliggjører"""
+10,X,16,28,Søndag efter Nytaar,"Matth. 2, 19. Da Herodes var død","Den prægtig Sol, som hele Verden","O Herre, gaaer jeg tro, hvor Du mig sender","O Lord, if I go faithfully where thou sendest me",Sunday after New Year,
+11,XI,18,30,Første Søndag efter Helligtrekongersdag,"Luc. 2, 42. Jesus var tolv Aar gammel","Jesu, dine dybe Vunder","Herre, mod dit Lys jeg stræber","Lord, toward thy light I strive",Epiphany 1,
+12,XII,20,32,Anden Søndag efter Helligtrekongersdag,"Joh. 2, 1. Brylluppet i Cana",Saa er vor Høst til Ende,I Gud jeg vil mig glæde,In God I will rejoice,Epiphany 2,
+13,XIII,22,34,Tredie Søndag efter Helligtrekongersdag,"Matth. 8, 1. Jesus gik ned af Bjerget",Vreden din afvend,"O Herre, kommer Sorgens Stund hernede","O Lord, if the hour of sorrow comes here below",Epiphany 3,
+14,XIV,23,35,Fjerde Søndag efter Helligtrekongersdag,"Matth. 8, 23. Jesus traadte i Skibet",Hvad kan os komme til for Nød,Lad bruse Storm paa Verdens Hav!,Let the storm roar on the world's sea!,Epiphany 4,
+15,XV,25,37,Femte Søndag efter Helligtrekongersdag,"Matth. 13, 24. Klinten blandt Hveden","Søde Jesu, vi er her","Herre, see, jeg vaage vil","Lord, see, I will keep watch",Epiphany 5,
+16,XVI,27,39,Søndag Septuagesima,"Matth. 20, 1. Arbeiderne i Viingaarden","Gud Hellig Aand, i Tro os lær",Ud farer Stormen paa Guds Bud,Out goes the storm at God's command,Septuagesima,
+17,XVII,29,41,Søndag Sexagesima,"Luc. 8, 4. De fire Slags Sædejord",I Jesu Navn,Din Sæd udstrø!,Scatter thy seed!,Sexagesima,
+18,XVIII,31,43,Fastelavns Søndag,"Matth. 3, 13. Christi Daab",Fra Himlen høit komme vi her,"Hensving dig, Aand, til Jordans Strøm!","Soar, spirit, to Jordan's stream!",Quinquagesima (Estomihi),the Gospel of the day in the Danish church is Christ's baptism
+19,XIX,33,45,Første Søndag i Fasten,"Matth. 4, 1. Jesus fristes af Djævelen",Gak under Jesu Kors at staae,Igjennem Prøvens Dal jeg gaaer,Through the valley of trial I go,Lent 1 (Invocavit),
+20,XX,35,47,Anden Søndag i Fasten,"Matth. 15, 21. Den kananæiske Qvinde","O kjære Sjæl, fald ydmyg ned",Guds Aasyn er ei fra os vendt,God's face is not turned from us,Lent 2 (Reminiscere),
+21,XXI,37,49,Tredie Søndag i Fasten,"Luc. 11, 14. Jesus uddrev en Djævel","Mit Barn, frygt den sande Gud","Priis din Gud, opløft din Røst","Praise thy God, lift up thy voice",Lent 3 (Oculi),
+22,XXII,39,51,Midfaste Søndag,"Joh. 6, 1. Jesus bespiser 5000 Mand",Af Høiheden oprunden er,"Opløft dig, Sjæl, til Aandens Land!","Lift thyself, soul, to the land of the spirit!",Lent 4 (Laetare),
+23,XXIII,41,53,Mariæ Bebudelses Dag,"Luc. 1, 26. Gabriel Engel udsendes","Alene til Dig, Herre Jesu Christ",En salig Hilsen kom til Jord,A blessed greeting came to earth,Annunciation (25 March),"the Danish church kept the Annunciation on the Sunday before Palm Sunday, in the place of Judica, which the book does not have"
+24,XXIV,42,54,Palme-Søndag,"Matth. 21, 1. Christi Indtog i Jerusalem",Jesu! dine dybe Vunder,"Jesu, store Seiervinder!","Jesus, great victor!",Palm Sunday,
+25,XXV,44,56,Skjer-Torsdag,"Luc. 22, 14",Jesu søde Ihukommelse,Beredt er store Nadver alt,The great supper is all prepared,Maundy Thursday,
+26,XXVI,46,58,Første Passionspsalme,,Hvo veed hvor nær mig er min Ende?,Jeg til Gethsemane henskuer,I look out toward Gethsemane,Passiontide,"the first of five Passion hymns, printed between Maundy Thursday and Good Friday, for no day"
+27,XXVII,48,60,Anden Passionspsalme,,Hvo veed hvor nær mig er min Ende?,Med Smerte seer den Guds Eenbaarne,With pain the Only-begotten of God sees,Passiontide,the second Passion hymn
+28,XXVIII,50,62,Tredie Passionspsalme,,Hvo veed hvor nær mig er min Ende?,"Til jordisk Dommer, som Misdæder","To an earthly judge, as a malefactor",Passiontide,the third Passion hymn
+29,XXIX,52,64,Fjerde Passionspsalme,,Hvo veed hvor nær mig er min Ende?,Den Kongers Konge staaer ophøiet,The King of kings stands exalted,Passiontide,the fourth Passion hymn
+30,XXX,53,65,Femte Passionspsalme,,Hvo veed hvor nær mig er min Ende?,Guds Søn jeg seer i Purpurklæder,I see God's Son in purple robes,Passiontide,the fifth Passion hymn
+31,XXXI,55,67,Langfredag,,Hvo veed hvor nær mig er min Ende?,"Indhyl dig, Jord, i Sørgeklæder!","Wrap thyself, earth, in mourning clothes!",Good Friday,
+32,XXXII,57,69,Paaske-Dag,"Marc. 16, 1. Christi Opstandelse","Nu velan, vær glad tilmode!",Lyse Morgen er oprunden,Bright morning has dawned,Easter,
+33,XXXIII,59,71,Paaske-Dag,,Af Høiheden oprunden er,"Udbryd, hver Sjæl, i Seierssang!","Break out, every soul, in a song of victory!",Easter,"a second hymn for the day (""Samme Dag"", the same day, in the contents), which the contents note had been printed on its own before"
+34,XXXIV,61,73,Anden Paaske-Dag,"Luc. 24, 11. Christi Aabenbarelse i Emaus",Søde Jesu! vi er her,Hørt det har jeg: han opstod,I have heard it: he is risen,Easter Monday,
+35,XXXV,63,75,Første Søndag efter Paaske,"Joh. 20, 19. Jesus kom ind ad lukte Dørre","O kjære Sjæl, fald ydmyg ned",Har Sorg og Frygt mit Lys udslukt,If sorrow and fear have put out my light,Easter 1 (Quasimodogeniti),
+36,XXXVI,65,77,Anden Søndag efter Paaske,"Joh. 10, 11. Jesus er den gode Hyrde",Store Gud og Frelsermand!,"Store Sjælehyrde, kom!","Great Shepherd of souls, come!",Easter 2 (Misericordias Domini),
+37,XXXVII,67,79,Tredie Søndag efter Paaske,"Joh. 16, 16. Christi Bortgang til Faderen",Min Sjæl nu lover Herren,"Den Glæde, Verden giver",The joy the world gives,Easter 3 (Jubilate),
+38,XXXVIII,69,81,Almindelig Bededag,"the lesson, Es. 55, 6",Vreden din afvend,"Gud, Retfærds Gud, du Hellige, du Høie!","God, God of righteousness, thou Holy, thou High One!",General Prayer Day (Store Bededag),"the Danish general day of prayer, the fourth Friday after Easter"
+39,XXXIX,71,83,Fjerde Søndag efter Paaske,"Joh. 16, 5. Den Hellig Aands Sendelse","Store Gud, som Dig til Ære","Maa jeg sørge, maa jeg klage","Must I mourn, must I lament",Easter 4 (Cantate),
+40,XL,73,85,Femte Søndag efter Paaske,"Joh. 16, 23. Beder i Jesu Navn",Hvo ikkun lader Herren raade,Naar mig den sidste Ven forlader,When the last friend forsakes me,Easter 5 (Rogate),
+41,XLI,74,86,Christi Himmelfarts-Dag,"Marc. 16, 14",Af Høiheden oprunden er,Fuldendt er Naadens store Værk,Finished is the great work of grace,Ascension,
+42,XLII,76,88,Sjette Søndag efter Paaske,"Joh. 15, 26 og 16, 1. Naar Trøsteren kommer","Alene til Dig, Herre Jesu Christ!",Han sidder hos Guds høire Haand,He sits at God's right hand,Sunday after Ascension (Exaudi),"the register has ""Han sidder ved Guds høire Haand"""
+43,XLIII,78,90,Første Pintse-Dag,"the lesson, Ap. Gjern. 2, 1","Enhver, som troer og bliver døbt",Fra Himlen Herrens Aand nedfoer,From heaven the Lord's Spirit came down,Pentecost,
+44,XLIV,80,92,Anden Pintse-Dag,"the lesson, Ap. Gjern. 10, 42, and Joh. 3, 10. Saa elskede Gud Verden","Paa Dig haaber jeg, min Herre from!","Min Frelse vil Du, Fader Gud!","Thou willest my salvation, Father God!",Pentecost Monday,
+45,XLV,82,94,Hellig Trefoldigheds-Fest,"Joh. 3, 1. Christus og Nicodemus","Kom, Gud Skaber, o Hellig Aand!","Trefoldighed — det Navn, det Ord","Trinity — that name, that word",Trinity Sunday,
+46,XLVI,84,96,Første Søndag efter Trinitatis,"Luc. 16, 9. Den rige Mand","Kommer til mig, sagde Guds Søn",Henfarer let i Sandsens Land,Lightly passes away in the land of the senses,Trinity 1,
+47,XLVII,85,97,Anden Søndag efter Trinitatis,"Luc. 14, 16. Den store Nadvere",Naar jeg betænker den Tid og Stund,Til Naadens store Aandefest,To grace's great feast of the spirit,Trinity 2,
+48,XLVIII,86,98,Tredie Søndag efter Trinitatis,"Luc. 15, 1. Det fortabte Faar",Jeg har min Sorg til Gud henvendt,"Vend om, vend om, fortabte Sjæl!","Turn back, turn back, lost soul!",Trinity 3,
+49,XLIX,88,100,Fjerde Søndag efter Trinitatis,"Luc. 6, 36. Værer barmhjertige!",Fader vor udi Himmerig!,Forstum og bæv for Herrens Dom,Fall silent and tremble before the Lord's judgment,Trinity 4,
+50,L,89,101,Femte Søndag efter Trinitatis,"Luc. 5, 1. Jesus lærer af Skibet","Nu velan, vær frisk tilmode!",Vil min Gjerning her ei lykkes,If my work here will not prosper,Trinity 5,
+51,LI,90,102,Sjette Søndag efter Trinitatis,"Matth. 5, 20. Pharisæernes Retfærdighed",Af Dybsens Nød raaber jeg til Dig,Retfærdig er jeg ei for Dig,Righteous am I not before thee,Trinity 6,
+52,LII,92,104,Syvende Søndag efter Trinitatis,"Marc. 8, 1. Jesus bespiser 4000 Mand",Gud Fader udi Himmerig!,I Underværkers Land jeg boer,In the land of miracles I dwell,Trinity 7,
+53,LIII,93,105,Ottende Søndag efter Trinitatis,"Matth. 7, 15. De falske Propheter",Mit Haab og Trøst og al Tillid,Naar Falskhed borger Engledragt,When falsehood borrows angel's garb,Trinity 8,
+54,LIV,95,107,Niende Søndag efter Trinitatis,"Luc. 16, 1. Den utroe Huusfoged",Min Sjæl nu lover Herren,Naar Regnskabstimen kommer,When the hour of reckoning comes,Trinity 9,
+55,LV,96,108,Tiende Søndag efter Trinitatis,"Luc. 19, 41. Jesus græder over Jerusalem",Jesus er mit Haab og Trøst,Jesus græder; — Verden leer,Jesus weeps; the world laughs,Trinity 10,
+56,LVI,98,110,Ellevte Søndag efter Trinitatis,"Luc. 18, 9. Pharisæeren og Tolderen",Alene Gud i Himmerig,Opfyldte jeg end Lovens Bud,Though I fulfilled the law's command,Trinity 11,
+57,LVII,99,111,Tolvte Søndag efter Trinitatis,"Marc. 7, 13. Den Døve og Stumme",Paa Gud alene,Hvor Liv sig rører,Wherever life stirs,Trinity 12,
+58,LVIII,101,113,Trettende Søndag efter Trinitatis,"Luc. 10, 23. Samaritanen og Leviten",Jesus han er Syndres Ven,"Frelser, jeg gjentage maa","Saviour, I must repeat",Trinity 13,
+59,LIX,103,115,Fjortende Søndag efter Trinitatis,"Luc. 17, 11. De 10 Spedalske","Enhver, som troer og bliver døbt","Priis Kraftens Herre, frelste Sjæl","Praise the Lord of power, saved soul",Trinity 14,
+60,LX,104,116,Femtende Søndag efter Trinitatis,"Matth. 6, 24. Ingen kan tjene to Herrer",Vaagn op og slaae paa dine Strænge,Med Magt mig Jorden til sig binder,With might the earth binds me to itself,Trinity 15,
+61,LXI,106,118,Sextende Søndag efter Trinitatis,"Luc. 7, 11. Enkens Søn af Nain","Nu velan, vær glad tilmode!",Græd ei! trøster Jesu Stemme,Weep not! comforts Jesus' voice,Trinity 16,
+62,LXII,107,119,Syttende Søndag efter Trinitatis,"Luc. 14, 1. Den Vattersottige","Jeg raaber fast, o Herre!",Er det i Verden Brøde,Is it a crime in the world,Trinity 17,
+63,LXIII,109,121,Attende Søndag efter Trinitatis,"Matth. 22, 34. Hvis Søn er Christus?",Søde Jesu! vi er her,Himlen har det høit udsagt,Heaven has declared it aloud,Trinity 18,
+64,LXIV,110,122,Nittende Søndag efter Trinitatis,"Marc. 9, 1. Den Værkbrudne","Jeg beder Dig, min Herre og Gud!","Mig dunkel følger, hvor jeg gaaer",Darkly it follows me wherever I go,Trinity 19,
+65,LXV,112,124,Tyvende Søndag efter Trinitatis,"Matth. 22, 1. Bryllupsklæderne","O kjære Sjæl, fald ydmyg ned!","Kast Mørkets Taagedragt, min Aand!","Cast off darkness's robe of mist, my spirit!",Trinity 20,
+66,LXVI,114,126,Een og tyvende Søndag efter Trinitatis,"Joh. 4, 46. Den kongelige Mand","Kommer til mig, sagde Guds Søn",For Mørkets Børn er Under skeet,For the children of darkness a wonder has come to pass,Trinity 21,
+67,LXVII,115,127,Alle Helgens Dag,"Matth. 5, 1. Jesus prædiker om Salighed; the lesson, Aab. 7, 1",Vor Gud han er saa fast en Borg,Halleluja! om Seir og Fred,Hallelujah! of victory and peace,All Saints (1 Nov),printed between Trinity 21 and 22: the Danish church kept All Saints on the first Sunday of November
+68,LXVIII,117,129,To og tyvende Søndag efter Trinitatis,"Matth. 18, 23. De 10000 Pund",Nu hviler Mark og Enge,"Du bød mig bede, Fader!","Thou badest me pray, Father!",Trinity 22,
+69,LXIX,119,131,Tre og tyvende Søndag efter Trinitatis,"Matth. 22, 15. Skattens Mynt",O store Gud! din Kjærlighed,I Herrens Frygt min Sjæl er fri,In the fear of the Lord my soul is free,Trinity 23,
+70,LXX,120,132,Fire og tyvende Søndag efter Trinitatis,"Matth. 9, 18. Den blodsottige Qvinde",Hjertelig mig nu længes,Der er et helligt Værge,There is a holy defence,Trinity 24,
+71,LXXI,122,134,Fem og tyvende Søndag efter Trinitatis,"Matth. 24, 15. Ødelæggelsens Vederstyggelighed",Guds Godhed ville vi prise,Jeg vil min Gud paakalde,I will call upon my God,Trinity 25,
+72,LXXII,124,136,Sex og tyvende Søndag efter Trinitatis,"Matth. 11, 25. Jesus priser Guds Veie","Søde Jesu, vi er her",Lov og Tak og evig Priis,Praise and thanks and everlasting glory,Trinity 26,
+73,LXXIII,126,138,Syv og tyvende Søndag efter Trinitatis,"Matth. 17, 1. Jesus forklares paa Bjerget","Nu velan, vær glad tilmode!",Store Syn er aabenbaret,A great vision is revealed,Trinity 27,

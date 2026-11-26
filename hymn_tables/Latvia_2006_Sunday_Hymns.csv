@@ -1,0 +1,30 @@
+seq,pdf_page,day_printed,number,first_line,literal_english,original,original_language,confidence,day,lexicon,index_ref,index_title,note
+1,6,Adventa pirmā svētdiena,11,Kā būs man tevi saņemt,How shall I receive thee,Wie soll ich dich empfangen,German,certain,Advent 1,Wie soll ich dich empfangen,TLH 58,"O Lord, How Shall I Meet You","Paul Gerhardt's hymn, word for word"
+2,7,Adventa otrā svētdiena,8,"Ieprieciniet, ieprieciniet","Comfort ye, comfort ye","Tröstet, tröstet meine Lieben",German,probable,Advent 2,"Tröstet, tröstet meine Lieben",TLH 61,"Comfort, Comfort, Ye My People",Isa 40:1; Johann Olearius
+3,8,Adventa trešā svētdiena,17,"Nu vārtus veriet, atdariet","Now open the gates, open them up","Macht hoch die Tür, die Tor macht weit",German,probable,Advent 3,,TLH 73,"Lift Up Your Heads, Ye Mighty Gates",Ps 24:7; Georg Weissel
+4,9,Adventa ceturtā svētdiena,4,"Ak, nāci, nāci, Dievs pie mums","Oh come, come, God, to us","Veni, veni, Emmanuel",Latin,possible,Advent 4,,,,"perhaps O come, O come, Emmanuel (""God with us"")"
+5,10,Kristus piedzimšanas svētvakars,29,Es skaistu rozīt' zinu,I know a lovely little rose,Es ist ein Ros entsprungen,German,possible,Christmas Eve,,,,perhaps Es ist ein Ros entsprungen
+6,11,Ziemsvētki – Kristus piedzimšanas svētki,46,No debesīm es atnesu,From heaven I bring,Vom Himmel hoch da komm ich her,German,probable,Christmas,Vom Himmel hoch da komm ich her,TLH 85,From Heaven Above to Earth I Come,"the angel's ""ich bring euch gute neue Mär"""
+7,12,Otrie Ziemsvētki,44,Mēs Dievu Kungu slavējam,We praise God the Lord,,,,"Christmas (Second Day, 26 Dec)",,,,"the readings are those of Christmas Day (John 1:1-14), not St Stephen's"
+8,13,Pirmā svētdiena pēc Ziemsvētkiem,27,Debespulks dzied apstarots,"The heavenly host sings, radiant",,,,Sunday after Christmas,,,,
+9,14,Vecgads – 31. decembris,59,Gods Dievam! Solis nostaigāts,Glory to God! A step is walked,"Gott Lob, ein Schritt zur Ewigkeit",German,probable,New Year's Eve (31 Dec),,WELS12 580,"Gott Lob, Ein Schritt Zur Ewigkeit",a hymn for the end of the year
+10,15,"Jēzus vārda došanas diena, 1. janvāris",60,Ar to mīļo Jēzus vārdu,With the dear name of Jesus,,,,New Year (Circumcision),,,,the Name of Jesus
+11,16,Otrā svētdiena pēc Ziemsvētkiem,48,"Senā pilsētā, kur Dāvids",In the ancient city where David,Once in royal David's city,English,probable,Christmas 2,,LSB 376,Once in Royal David's City,Cecil Frances Alexander
+12,27,Pelnu trešdiena,293,Es dziļās bēdās nosaucos,I cry out in deep distress,Aus tiefer Not schrei ich zu dir,German,certain,Ash Wednesday,Aus tiefer Not schrei ich zu dir,TLH 329,From Depths of Woe I Cry to Thee,word for word
+13,31,"Ciešanu laika trešā svētdiena, Oculi",197,Sirdsmīļais Jēzu,Heart-dear Jesus,"Herzliebster Jesu, was hast du verbrochen",German,certain,Lent 3 (Oculi),,TLH 143,"O Dearest Jesus, What Law Hast Thou Broken","Johann Heermann's hymn, word for word"
+14,32,"Ciešanu laika ceturtā svētdiena, Laetare",184,Jēzus man dod prieku,Jesus gives me joy,"Jesu, meine Freude",German,possible,Lent 4 (Laetare),,,,"perhaps Jesu, meine Freude (""Jesus, my joy"")"
+15,33,"Ciešanu laika piektā svētdiena, Judica",130,"Sevi, augstais priesteri","Thyself, O high priest",,,,Lent 5 (Judica),,,,"Christ the high priest (Heb 5:5-10, the Epistle of year B)"
+16,34,"Pūpolu svētdiena, Palmarum",90,Mīlestība mīlējama,Love most lovable,,,,Palm Sunday,,,,
+17,35,"Zaļā ceturtdiena, Viridium",84,"Kungs Jēzu, tavas asinis","Lord Jesus, thy blood",Christi Blut und Gerechtigkeit,German,possible,Maundy Thursday,,,,"perhaps Christi Blut und Gerechtigkeit (""Jesus, thy blood and righteousness"")"
+18,36,Lielā piektdiena,73,Ak galva asiņaina,O bloody head,O Haupt voll Blut und Wunden,German,certain,Good Friday,,TLH 172,"O Sacred Head, Now Wounded",Paul Gerhardt's hymn
+19,37,Kristus Augšāmcelšanās svētki – Lieldienas,115,Kristus augšāmcēlies,Christ is risen,Christ ist erstanden,German,probable,Easter,Christ ist erstanden,TLH 187,Christ Is Arisen,
+20,38,Otrās Lieldienas,123,"Sirds pamosties, jau saule spīd","Heart, awake, the sun already shines",,,,Easter Monday,,,,
+21,39,"Baltā svētdiena, Quasi modo geniti",192,"Mans gaišums, tevi mīlēt gribu","My light, I will love thee","Ich will dich lieben, meine Stärke",German,possible,Easter 1 (Quasimodogeniti),,,,"perhaps Ich will dich lieben, meine Stärke (""I will love thee, my strength""), with ""my light"" for ""my strength"""
+22,41,"Lieldienu laika ceturtā svētdiena, Misericordia Domini",393,"Tu esi, Kungs","Thou art, Lord",,,,Easter 2 (Misericordias Domini),,,,"the first of two, printed ""Tu esi, Kungs 393 / Labais gans, kas ganāmos 376""; the Sunday of the Good Shepherd (John 10)"
+23,41,"Lieldienu laika ceturtā svētdiena, Misericordia Domini",376,"Labais gans, kas ganāmos","The Good Shepherd, who [tends] the flock",,,,Easter 2 (Misericordias Domini),,,,"the second of two, after a slash"
+24,42,"Lieldienu laika piektā svētdiena, Jubilate",111,Gavilē draudze,"Shout for joy, O congregation",,,,Easter 3 (Jubilate),,,,
+25,43,"Lieldienu laika sestā svētdiena, Cantate",116,"Kungs Kristu, tevi teicam mēs","Lord Christ, we praise thee",,,,Easter 4 (Cantate),,,,
+26,44,Debesbraukšanas diena,126,Allelūja! Jēzum slava,Alleluia! Glory to Jesus,Alleluia! Sing to Jesus,English,probable,Ascension,,LSB 821,Alleluia! Sing to Jesus,William Chatterton Dix
+27,45,Exaudi,139,"Kungs, dod svētku drēbes mums","Lord, give us festal garments",,,,Sunday after Ascension (Exaudi),,,,
+28,46,Vasarsvētki – Svētā Gara svētki,134,"Dievs, Svētais Gars, nāc","God, Holy Spirit, come","Komm, Heiliger Geist, Herre Gott",German,possible,Pentecost,,,,"perhaps Komm, Heiliger Geist, Herre Gott, or Komm, Gott Schöpfer, Heiliger Geist"
+29,47,Trīsvienības svētki,141,"Allelūja! Spēks, slava, gods","Alleluia! Power, glory, honour",,,,Trinity Sunday,,,,

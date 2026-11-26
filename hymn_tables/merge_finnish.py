@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
-"""Fold into hymns.db the gradual hymns of three Finnish church handbooks (Käsikirja): Sorolainen's
-of 1614, the handbook of 1629 (Elimaeus 1629.pdf) and the Carolinian handbook of 1694
+"""Fold into hymns.db the gradual hymns of four Finnish church handbooks (Käsikirja): Sorolainen's
+of 1614, the handbook of 1629 (Elimaeus 1629.pdf), Johannes Gezelius's of 1669 (Gezelius 1669.pdf,
+Käsikiria Jumalan Palweluxesta, Turku: Peter Hansson) and the Carolinian handbook of 1694
 (Karoliininen Käsi-kiria 1694.pdf). The scans are in "Hymnal Index/Hymnal PDFs for hotd"; the
-lists are transcribed in Sorolainen_1614_Gradual_Hymns.csv, Elimaeus_1629_Gradual_Hymns.csv and
-Karoliininen_1694_Gradual_Hymns.csv. Run it after merge_sbh.py.
+lists are transcribed in Sorolainen_1614_Gradual_Hymns.csv, Elimaeus_1629_Gradual_Hymns.csv,
+Gezelius_1669_Gradual_Hymns.csv and Karoliininen_1694_Gradual_Hymns.csv. Run it after
+merge_sbh.py.
 
 In these handbooks the hymn that changes Sunday by Sunday is the gradual hymn, sung between the
 Epistle and the Gospel ("Graduale mahta olla jocu Psalmi eli kijtos wirsi", 1614). Olavi
@@ -11,22 +13,25 @@ Rimpiläinen's study of the service in the diocese of Viipuri (1980) led to them
 give the 1629 list and set the 1614 and 1694 lists side by side. The lists here are read from
 the prints, which correct his table in places; the notes say where. The handbook of 1614 gives
 one hymn to a day, now and then two; that of 1629 the same, with a 27th Sunday after Trinity;
-that of 1694 three or four to most days and twelve at Pentecost. Each handbook is one witness,
-and all its hymns for a day count for it, as the several hymns of one day do for any witness.
+that of 1669 the list of 1614 again, with one hymn at Christmas and one at Easter, where 1614 has
+two, and the New Year printed as a day of its own; that of 1694 three or four to most days and
+twelve at Pentecost. Each handbook is one witness, and all its hymns for a day count for it, as
+the several hymns of one day do for any witness.
 
 Each row of a transcription gives the hymn as printed, a literal English gloss of it, the day,
-and the German or Latin hymn the Finnish one translates, where it can be told: 'certain' (the
-incipit is a translation of the original's), 'probable' (it agrees in sense, or is the same
-psalm's hymn on a day that suits it) or 'possible'. Only certain and probable identifications
-name the hymn (canonical(), for export_xlsx.py); a possible one stays a note, and its row, like
-an unidentified one, is named by its Finnish title. common_english is the received English title
-of an identified hymn, literal_english the gloss of the Finnish.
+and the German or Latin hymn the Finnish one translates, where it can be told (the 1669 list takes
+its glosses and identifications from the 1614 rows of the same hymns): 'certain' (the incipit is
+a translation of the original's), 'probable' (it agrees in sense, or is the same psalm's hymn on
+a day that suits it) or 'possible'. Only certain and probable identifications name the hymn
+(canonical(), for export_xlsx.py); a possible one stays a note, and its row, like an unidentified
+one, is named by its Finnish title. common_english is the received English title of an identified
+hymn, literal_english the gloss of the Finnish.
 
 The days take this database's labels. The handbooks keep the Transfiguration on the 7th Sunday
-after Trinity, and that Sunday's hymns are the Transfiguration's; the 1614 and 1629 handbooks give
-Septuagesima and Sexagesima one heading; the 1694 handbook's sixth Sunday after the Epiphany has
-its hymns by a cross-reference to the 27th after Trinity. Days new to the database are listed in
-NEW_DAYS, so that a misspelt label stops the build.
+after Trinity, and that Sunday's hymns are the Transfiguration's; the 1614, 1629 and 1669
+handbooks give Septuagesima and Sexagesima one heading; the 1694 handbook's sixth Sunday after the
+Epiphany has its hymns by a cross-reference to the 27th after Trinity. Days new to the database
+are listed in NEW_DAYS, so that a misspelt label stops the build.
 """
 import csv, os, re, sqlite3, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -39,6 +44,7 @@ from merge_sources import provenance
 LISTS = [
  ('Finnish handbook (Sorolainen, 1614)', 'Sorolainen_1614_Gradual_Hymns.csv'),
  ('Finnish handbook (Elimaeus, 1629)', 'Elimaeus_1629_Gradual_Hymns.csv'),
+ ('Finnish handbook (Gezelius, 1669)', 'Gezelius_1669_Gradual_Hymns.csv'),
  ('Finnish handbook (1694)', 'Karoliininen_1694_Gradual_Hymns.csv'),
 ]
 WITNESSES = [w for w, _f in LISTS]

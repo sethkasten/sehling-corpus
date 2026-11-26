@@ -1709,14 +1709,14 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 6,458 prescriptions from 69 witnesses, in two layers that must be kept apart:
+The database holds 6,648 prescriptions from 72 witnesses, in two layers that must be kept apart:
 - **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 5,631 prescriptions come from other books and lists:
+- **The hymnals and compilations.** 5,821 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1732,9 +1732,9 @@ The database holds 6,458 prescriptions from 69 witnesses, in two layers that mus
     for the church year marks with a star, for the Sundays of the three-year lectionary;
   - the Hymn of the Week of the *Service Book and Hymnal* (1958), one hymn to each Sunday and
     festival, as the American Lutheran Church set it out in 1965;
-  - the gradual hymns of three Finnish church handbooks, of 1614, 1629 and 1694, sung between
-    the epistle and the gospel, each named by the German or Latin hymn it translates where that
-    can be told;
+  - the gradual hymns of four Finnish church handbooks, of 1614, 1629, 1669 and 1694, sung
+    between the epistle and the gospel, each named by the German or Latin hymn it translates
+    where that can be told;
   - two Slovak lists of hymns for the Sundays after Trinity, in Czech, from Peter Ruščin's table
     of 2023: the register of the *Cithara Sanctorum* printed at Levoča in 1674, and a manuscript
     hymnal of c. 1674–1720;
@@ -1751,7 +1751,12 @@ The database holds 6,458 prescriptions from 69 witnesses, in two layers that mus
   - the chief hymns of the Supplement (2022) of the *Augustana Service Book and Hymnal*, the
     hymnal the Evangelical Lutheran Diocese of North America is preparing, one to each Sunday and
     feast of the one-year series and to some saints' days, as a review of it lists them, each
-    found through the same text in another hymnal of the Lutheran Hymn Index.
+    found through the same text in another hymnal of the Lutheran Hymn Index;
+  - the book of propers of the Lutheran churches of Latvia and of the Latvians abroad (Riga,
+    2006), the hymn it gives before the gospel on 28 days from Advent to Trinity Sunday, in
+    Latvian, named by the hymn it translates where the first line shows it;
+  - B. S. Ingemann's *Høimesse-Psalmer til Kirkeaarets Helligdage* (Copenhagen, 1825), a hymn of
+    his own for the High Mass of each Sunday and holy day of the Danish church year.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
 
@@ -27386,8 +27391,8 @@ glance:
 
 - **Only the old sources are counted.** These are the German church orders and hymnals of
   1537–1694, the Leipzig usage of Bach's time, and a modern study that does nothing but collate
-  those older sources. The modern lists, from 1800 onward, are left out, and so are five old
-  lists in other languages, three Finnish, two Slovak and one Czech ([§8.A.1](#s8-a-1)).
+  those older sources. The modern lists, from 1800 onward, are left out, and so are seven old
+  lists in other languages, four Finnish, two Slovak and one Czech ([§8.A.1](#s8-a-1)).
 - **Only the hymns with significant support are given.** A day with one clear hymn shows that
   hymn alone. A day where support is divided shows each hymn with good support, and none of the
   hymns with only a few witnesses.
@@ -27398,7 +27403,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 69 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
+Of the 72 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -27408,7 +27413,7 @@ Of the 69 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 | Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
 | Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
-The other 33 witnesses are **not counted**: 27 modern lists, three Finnish church handbooks, two
+The other 36 witnesses are **not counted**: 29 modern lists, four Finnish church handbooks, two
 Slovak lists and a Czech hymnal. Krusemark explains his own lists on pp. 95–96 of `Hymns_ABC_Krusemark.pdf`.
 The modern witnesses are:
 
@@ -27424,11 +27429,14 @@ The modern witnesses are:
 - the Mecklenburg hymnal of 1855, and the Elberfeld hymnal of 1898, of the Old Lutheran church
   of Prussia, whose table gives three hymns for the epistle and three for the gospel of each
   Sunday and festival;
-- the liturgical calendar of the Church of Ingria for 2025–26;
+- the liturgical calendar of the Church of Ingria for 2025–26, and the book of propers of the
+  Lutheran churches of Latvia and of the Latvians abroad (Riga, 2006);
+- B. S. Ingemann's *Høimesse-Psalmer* (Copenhagen, 1825), his own hymns for the High Mass of
+  each Sunday and holy day of the Danish church year;
 - two private schemes (MC, SD).
 
-The Finnish handbooks, of 1614, 1629 and 1694, are old. Like the German orders they give a hymn
-for each Sunday and feast, sung between the epistle and the gospel. So are the Slovak lists,
+The Finnish handbooks, of 1614, 1629, 1669 and 1694, are old. Like the German orders they give
+a hymn for each Sunday and feast, sung between the epistle and the gospel. So are the Slovak lists,
 which Peter Ruščin sets out for the Sundays after Trinity: the register of the *Cithara
 Sanctorum* printed at Levoča in 1674, four hymns to a Sunday, and a manuscript hymnal of central
 Slovakia of c. 1674–1720. So is the Czech hymnal of Tobiáš Závorka Lipenský, *Písně chval
@@ -27725,31 +27733,34 @@ old witnesses that do give this hymn.
   - Easter Day would gain *Erstanden ist der heilige Christ* (The holy Christ is risen);
   - Trinity 23 would gain *Wär Gott nicht mit uns diese Zeit* (If God Had Not Been on Our Side);
   - the apostles' days would have *O Herre Gott, dein göttlich Wort* (O God, Our Lord, Your Holy Word) alone.
-- **The lists in other languages.** Counted, the three Finnish handbooks would change the hymns
-  shown on 14 days. Where they sing a German hymn of the day, they add it or raise it:
+- **The lists in other languages.** Counted, the four Finnish handbooks would change the hymns
+  shown on 18 days. Where they sing a German hymn of the day, they add it or raise it:
   - Advent 4 would gain *Christ, unser Herr, zum Jordan kam* (To Jordan Came the Christ, Our Lord);
   - Jubilate would gain *Ich ruf zu dir, Herr Jesu Christ* (Lord, Hear the Voice of My Complaint);
   - Pentecost would gain *Komm, Gott Schöpfer, Heiliger Geist* (Come, God, Creator, Holy Ghost);
+  - Trinity 17 would gain *Dies sind die heilgen zehn Gebot* (These Are the Holy Ten Commands);
   - Trinity 19 would gain *Nun lob, mein Seel, den Herren* (My Soul, Now Praise Your Maker);
+  - Trinity 22 would have *Erbarm dich mein, o Herre Gott* (Have mercy on me, O Lord God) at its head, above *Aus tiefer Not* (From Depths of Woe I Cry to Thee);
   - Sexagesima would have *Ach Gott, vom Himmel sieh darein* (O Lord, Look Down from Heaven, Behold) level with *Es spricht der
     Unweisen Mund wohl* (The Mouth of Fools Doth God Confess) at its head.
 
   Elsewhere their hymns add to the leading hymn or to no German hymn at all, and lesser hymns
   fall below the line: *Wo Gott der Herr* on Epiphany 4, *Gott der Vater wohn uns bei* (Triune God, Be Thou Our Stay) on
-  Oculi, and one or two hymns each on Christmas Day, Invocavit, Reminiscere, Trinity 1, Trinity
-  3 and St Michael's Day. On Lent 5 no hymn would have a quarter of the witnesses. On
-  Quinquagesima *Durch Adams Fall* would have a quarter (5 of 20) and need no assignment.
+  Oculi, *Ihr lieben Christen, freut euch nun* (Rejoice, Rejoice Ye Christians Dear) on the last Sundays, and one or two hymns each on
+  Christmas Day, Invocavit, Reminiscere, Trinity 1, Trinity 3 and St Michael's Day. On Lent 5
+  and on Palm Sunday no hymn would have a quarter of the witnesses (on Palm Sunday *Christus,
+  der uns selig macht* [Christ, who makes us blessed], 6 of 25). Quinquagesima would still need its assignment (*Durch Adams
+  Fall*, 5 of 21).
 
   The two Slovak lists, which give hymns only for the Sundays after Trinity, would change two
   days: Trinity 1 would have *Es war einmal ein reicher Mann* (There was once a rich man) alone, and Trinity 20 would gain
-  *Wie schön leuchtet der Morgenstern*. Counted with the Finnish handbooks, they would leave
-  Trinity 20 as it is, but take *Ihr lieben Christen, freut euch nun* (Rejoice, Rejoice Ye Christians Dear) from the last Sundays.
+  *Wie schön leuchtet der Morgenstern*. Counted with the Finnish handbooks, they would change
+  nothing the Finnish handbooks do not, and leave Trinity 20 as it is.
 
   Závorka's *Rubryka*, whose hymns of the day are Czech hymns and, but for three Latin pieces
   at Christmas, Easter and Pentecost, none of the old German witnesses', would change no day.
-  Counted with the Finnish and Slovak lists, it would leave Palm Sunday without a hymn that has a
-  quarter of the witnesses (*Christus, der uns selig macht*, 6 of 25), and Quinquagesima would
-  again need its assignment (*Durch Adams Fall*, 5 of 21).
+  Counted with the Finnish and Slovak lists, it would take *Warum betrübst du dich, mein Herz* (Why art thou troubled, my heart)
+  from Laetare (7 of 29).
 - **What the table shows.**
   - The core of the old *de tempore* (of the season) scheme is very stable. On 30 of the 66 days whose hymn the
     witnesses choose, one hymn has at least two thirds of the day's witnesses. Examples:
@@ -27768,7 +27779,7 @@ old witnesses that do give this hymn.
     - *Wo Gott der Herr nicht bei uns hält* (If God Were Not upon Our Side) on Epiphany 4, Lent 5, Exaudi and Trinity 17 and
       23, with *Wär Gott nicht mit uns* (If God Had Not Been on Our Side) beside it on Trinity 17 and ahead of it on Epiphany 4;
     - *Vater unser* (Our Father) and *Warum betrübst du dich* (Why art thou troubled, my heart) together on Lent 4 and Trinity 7 and 15;
-    - *Aus tiefer Not* (From Depths of Woe I Cry to Thee), *Allein zu dir* (In Thee Alone, O Christ, My Lord) and *Erbarm dich mein* (Have mercy on me, O Lord God) among Trinity 3, 11, 19 and 22.
+    - *Aus tiefer Not*, *Allein zu dir* (In Thee Alone, O Christ, My Lord) and *Erbarm dich mein* (Have mercy on me, O Lord God) among Trinity 3, 11, 19 and 22.
 
 <div style="page-break-before: always;"></div>
 
