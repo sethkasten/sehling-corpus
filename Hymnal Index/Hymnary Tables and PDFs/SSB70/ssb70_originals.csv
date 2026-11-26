@@ -75,7 +75,7 @@ number,language,original_title,original_author,confidence,same_as,source,note
 209,German,O Haupt voll Blut und Wunden,Paul Gerhardt,probable,,first line,
 211,Danish,"Skriv dig, Jesu, paa mit Hjerte",Thomas Kingo,probable,,TLHy 298's original (tlhy_originals.csv),
 215,German,Christ lag in Todesbanden,Martin Luther,probable,,first line,
-216,German,Christ ist erstanden,,probable,,first line,
+216,German,Christ ist erstanden,,confirmed,,first line; the project owner's check,"the medieval Easter Leise in Danish, not Grundtvig's 'Krist stod op af Døde, i Paaske-Morgen-røde' (RCH 153), which opens alike"
 217,Danish,Han er opstanden! store Bud!,Birgitte Boye,probable,,TLHy 329's original (tlhy_originals.csv),
 218,Danish,Som den gyldne Sol frembryder,Thomas Kingo,probable,,TLHy 325's original (tlhy_originals.csv),
 225,Danish,"Bliv hos os, Mester, Dagen helder",Caspar J. Boye,probable,,TLHy 333's original (tlhy_originals.csv),
