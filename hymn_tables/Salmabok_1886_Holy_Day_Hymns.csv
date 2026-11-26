@@ -1,0 +1,135 @@
+seq,day_printed,number,pdf_page,first_line,author,mark,literal_english,original,original_language,confidence,day,lexicon,index_ref,index_title,note
+1,1. sd. í aðv.,188,202,Slá þú hjartans hörpustrengi,V. B.,,Strike the harp-strings of the heart,,,,Advent 1,,,,
+2,1. sd. í aðv.,189,203,"Þú, brúður, Kristi kær",St. Th.,x,"You, bride dear to Christ","Fryd dig, du Kristi Brud",Danish,certain,Advent 1,,TLH 57,"O Bride of Christ, Rejoice","x St. Th.; the Danish Advent hymn (PfKoH no. 394, Advent 1), stanza for stanza (""Gak ud af dit Pavlun ... glæd dig, du Zions Dronning"" is ""Frá inni út þér flýt ... Síons drotning""); its melody ""Gleð þig, guðs sonar brúð"" is the same hymn's first line in an older Icelandic version"
+3,1. sd. í aðv.,190,204,"Gjör dyrnar breiðar, hliðið hátt",H. H.,x,"Make the doors wide, the gate high","Macht hoch die Tür, die Tor macht weit",German,probable,Advent 1,,TLH 73,"Lift Up Your Heads, Ye Mighty Gates","x H. H.; in four-line stanzas: its first (""the king of glory comes here"") follows Weissel's first, its others (""Hann býður..."", he offers...) are its own"
+4,2. sd. í aðv.,64,82,"Upp, gleðjist allir, gleðjist þér",H. H.,x,"Up, rejoice, all of you, rejoice",,,,Advent 2,,,,
+5,2. sd. í aðv.,466,447,Hefjum upp augu' og hjörtu með,V. B.,x,Let us lift up our eyes and our hearts too,,,,Advent 2,,,,"the second number of the day is damaged: ""46"" and the right side of a curved third digit, which is not a 4 (464, ""Sól og tungl mun sortna hljóta""); 466 is on the day's Gospel (Luke 21:28); possibly after ""Rejs op dit Hoved, al Kristenhed"" (PfKoH no. 268, Advent 2, on the same verse), but in another metre"
+6,2. sd. í aðv.,469,450,Svo mikil heims ei neyð er nein,H. H.,x,No need of the world is so great,I Verden er ei Nød saa stor,Danish,certain,Advent 2,,,,"x H. H.; Ingemann's hymn for the same Sunday (no. II), to the same melody (""Ein feste Burg""): ""Svo mikil heims ei neyð er nein, að náð sé guðs ei meiri"" is ""I Verden er ei Nød saa stor, Guds Naade dog er større"""
+7,3. sd. í aðv.,109,128,Í dýflissunnar dimmri neyð,H. H.,,In the dark distress of the dungeon,,,,Advent 3,,,,
+8,3. sd. í aðv.,110,129,Hér er stríð og hér er mæða,St. Th.,,Here is strife and here is weariness,,,,Advent 3,,,,
+9,3. sd. í aðv.,111,130,"Blindir sjá, er býður þú",V. B.,,The blind see when you bid,,,,Advent 3,,,,
+10,4. sd. í aðv.,61,78,"Ó Jesú minn, þú mikli guð",H. H.,x,"O my Jesus, you great God",,,,Advent 4,,,,
+11,4. sd. í aðv.,64,82,"Upp, gleðjist allir, gleðjist þér",H. H.,x,"Up, rejoice, all of you, rejoice",,,,Advent 4,,,,
+12,jóladag,72,91,Í dag er glatt í döprum hjörtum,V. B.,,Today there is gladness in sad hearts,,,,Christmas,,,,"the table ends the day's numbers with ""o fl"" (og fleiri, and others)"
+13,jóladag,73,92,Í Betlehem er barn oss fætt,V. B.,x,In Bethlehem a child is born to us,Puer natus in Bethlehem,Latin,certain,Christmas,Puer natus in Bethlehem,ELH 112,A Boy Is Born in Bethlehem,"x V. B.; its third stanza (""Hann var í jötu lagður lágt, en ríkir þó á himnum hátt"") is the Latin's ""Hic iacet in praesepio, qui regnat sine termino"", each line repeated, with Alleluia; sung to ""Borinn er sveinn í Betlehem"" (""a boy is born in Bethlehem"")"
+14,jóladag,75,94,Heiðra skulum vér herrann Krist,St. Th.,x,We shall honour the Lord Christ,"Gelobet seist du, Jesu Christ",German,certain,Christmas,"Gelobet seist du, Jesu Christ",LSB 382,"We Praise You, Jesus, at Your Birth","x St. Th.; Luther's seven stanzas in six, each ending ""Sé drotni dýrð!"" (glory be to the Lord) for ""Kyrieleis"": ""Móðurfaðmurinn felur hann, fela veröld sem öll ei kann"" is ""Den aller Welt Kreis nie beschloss, der liegt in Marien Schoß"""
+15,jóladag,76,95,Af himnum ofan boðskap ber,St. Th.,x,From heaven above [the angel host] brings tidings,Vom Himmel hoch da komm ich her,German,certain,Christmas,Vom Himmel hoch da komm ich her,TLH 85,From Heaven Above to Earth I Come,"x St. Th.; a shortened version, sung to Luther's melody (""Ofan af himnum hér kom eg""): its stanzas 3 to 5 are his 5, 6 and 8 line for line (""So merket nun das Zeichen recht"", ""Des lasst uns alle fröhlich sein"", ""Sei mir willkommen, edler Gast"")"
+16,2. jóladag,86,104,"Þér, guð, sé lof fyr' gleðileg jól",,*,"To you, God, be praise for a joyful Christmas",,,,St Stephen (26 Dec),,,,"printed ""2 jólad"", the second day of Christmas; its second hymn, no. 382, is Ingemann's for St Stephen's day"
+17,2. jóladag,382,376,Í helgum skrúða himnum á,H. H.,x,In holy array in heaven,I Glands for Herrens Throne staaer,Danish,certain,St Stephen (26 Dec),,,,"x H. H.; Ingemann's hymn for St Stephen's day (no. VI), in its metre: ""minn leyndan harm og hulinn kross"" is his ""Mit skjulte Kors paa stille Vei"""
+18,sd. milli jóla og nýárs,92,109,Ef guðlegt líf á undan er,H. H.,x,If a godly life goes before,"Et helligt Liv, en salig Død",Danish,certain,Sunday after Christmas,,,,"x H. H.; Brorson's hymn, which PfKoH gives on the same Sunday (no. 153), in its metre: ""það tvent fær skilist eigi að"" is ""De to maa ikke skilles ad"""
+19,sd. milli jóla og nýárs,411,396,Andi guðs sveif áður fyr,V. B.,,The Spirit of God hovered long ago,,,,Sunday after Christmas,,,,
+20,sd. milli jóla og nýárs,477,459,Þá lífsins kvöld var liðið á,V. B.,,When life's evening was far spent,,,,Sunday after Christmas,,,,
+21,nýársdag,87,105,Hugur minn til himna snú,H. H.,x,"My mind, turn to heaven",,,,New Year (Circumcision),,,,
+22,nýársdag,88,106,"Þitt nafn er, Jesú, unun öll",H. H.,,"Your name, Jesus, is all delight",,,,New Year (Circumcision),,,,
+23,nýársdag,486,467,Í Jesú nafni áfram enn,V. B.,,In Jesus' name onward still,,,,New Year (Circumcision),,,,
+24,sd. milli nýárs og þrett.,93,110,Í Rama heyrðist harmakvein,H. H.,,In Ramah a cry of lamentation was heard,,,,Sunday after New Year,,,,
+25,1. sd. e. þr.,94,111,"Guðs orð er ljós, er lýsir",V. B.,,God's word is a light that shines,,,,Epiphany 1,,,,
+26,1. sd. e. þr.,95,113,Vér týnum oft Jesú í heimi hér,V. B.,,We often lose Jesus in the world here,,,,Epiphany 1,,,,
+27,2. sd. e. þr.,99,117,"Ó þú, sem breyttir vatni' í vín",V. B.,,O you who turned water into wine,,,,Epiphany 2,,,,
+28,2. sd. e. þr.,100,118,"Ó heill og sæmd, er hlotnaðist",H. H.,x,O the happiness and honour that fell [to the couple at Cana],Hvor saligt var det Ægtepar,Danish,certain,Epiphany 2,,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 161), in its metre: ""þeim hjónum fyr í Kana, er höfðu' í boði herrann Krist"" is ""I Kana ..., Hvor Jesus selv indbuden var"""
+29,3. sd. e. þr.,106,125,"Ef þú vilt mig hreinsa, herra",V. B.,,"If you will cleanse me, Lord",,,,Epiphany 3,,,,
+30,3. sd. e. þr.,252,259,Hve fögur mannleg myndin var,H. H.,,How fair the human form was,,,,Epiphany 3,,,,
+31,4. sd. e. þr.,117,137,Þá mæðubára minsta rís,V. B.,,When the least wave of trouble rises,,,,Epiphany 4,,,,
+32,4. sd. e. þr.,118,138,Þótt æði stormar heims um haf,H. H.,x,Though the world's storms rage over the sea,Lad bruse Storm paa Verdens Hav!,Danish,certain,Epiphany 4,,,,"x H. H.; Ingemann's hymn for the same Sunday (Høimesse-Psalmer, 1825, no. XIV), in its metre: stanza 2's ""vantrú ... »Drottinn sefur«"" is his ""vantro Sjæl: han sover!""; the register has ""stormur"""
+33,4. sd. e. þr.,119,139,Hvert er það skipið auma,H. H.,x,What is that wretched ship,Hvad er det for en Snække,Danish,certain,Epiphany 4,,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 165), in its metre: the boat that storm and water drive about until it seems to sink"
+34,5. sd. e. þr.,115,134,Í akur heims var hveiti sáð,V. B.,,In the field of the world wheat was sown,,,,Epiphany 5,,,,
+35,5. sd. e. þr.,116,136,"Ó guð, hve grátlegt er",H. H.,x,"O God, how lamentable it is","Din Kirke-Mark, o Gud",Danish,certain,Epiphany 5,,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 166), in its metre and to its melody (""Gleð þig, guðs sonar brúð"", ""Fryd dig, du Kristi Brud""): the weeds that overgrow the wheat of the church's field"
+36,6. sd. e. þr.,127,147,Þótt holdið liggi lágt,V. B.,,Though the flesh lie low,,,,Epiphany 6,,,,the same two hymns as Trinity 27
+37,6. sd. e. þr.,128,148,"Þú, heimsins ljós, fekst myrkva' af mér",V. B.,x,"You, light of the world, took darkness from me",,,,Epiphany 6,,,,
+38,1. sd. í níuviknaföstu,135,155,Guð drottinn vor í víngarð sinn,H. H.,,God our Lord into his vineyard,,,,Septuagesima,,,,
+39,1. sd. í níuviknaföstu,136,156,Um sólar upprás ævi þinnar,V. B.,,At the sunrise of your life,,,,Septuagesima,,,,
+40,2. sd. í níuviknaföstu,113,132,Af himni drýpur döggin tær,V. B.,,From heaven drips the clear dew,,,,Sexagesima,,,,
+41,2. sd. í níuviknaföstu,114,133,"Ó guð, þín kenning góða",H. H.,x,"O God, your good teaching","O Herre Gud, din Lære",Danish,certain,Sexagesima,,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 171), line for line: ""þitt guðlegt orða-sáð ... í hjartna jarðveg stráð"" is ""Din Sæd, dit rene Ord, Som udsaas ... I Folkehjerters Jord"""
+42,sd. í föstuinngang,96,114,Í anda Kristur kæri,H. H.,x,"In spirit, dear Christ [I come to the Jordan]",Mig lyster nu at træde,Danish,probable,Quinquagesima (Estomihi),,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 172), in its metre: coming to the Jordan to see God's great work"
+43,sd. í föstuinngang,97,115,Það er svo oft í dauðans skuggadölum,V. B.,,It is so often in death's shadowed valleys,,,,Quinquagesima (Estomihi),,,,
+44,1. sd. í föstu,98,116,Þú varst leiddur út af anda,V. B.,,You were led out by the Spirit,,,,Lent 1 (Invocavit),,,,
+45,1. sd. í föstu,321,322,"Ó herra Jesú, hjálpa mér",H. H.,x,"O Lord Jesus, help me",,,,Lent 1 (Invocavit),,,,
+46,1. sd. í föstu,325,325,Svo sem Jesús sjálfur gerði,B. H.,,Just as Jesus himself did,,,,Lent 1 (Invocavit),,,,
+47,2. sd. í föstu,123,143,"Ein kanversk kona kom til þín, ó Jesú",V. B.,x,"A Canaanite woman came to you, O Jesus",,,,Lent 2 (Reminiscere),,,,"the register has ""Ein kanversk kona"""
+48,2. sd. í föstu,124,144,"»Þín trú er mikil«, mælti hann",H. H.,x,"""Your faith is great,"" said he",,,,Lent 2 (Reminiscere),,,,
+49,3. sd. í föstu,298,303,"Minn Jesú, kunnugt það er þér",H. H.,,"My Jesus, it is known to you",,,,Lent 3 (Oculi),,,,
+50,3. sd. í föstu,308,310,Hvert það ríki þver og þrotnar,V. B.,,Every such kingdom wanes and fails,,,,Lent 3 (Oculi),,,,
+51,4. sd. í föstu,121,141,Á eyðimörk hér erum vér,V. B.,,In a wilderness here are we,,,,Lent 4 (Laetare),,,,
+52,4. sd. í föstu,122,141,"Gef, Jesú, fús eg fylgi þér",H. H.,x,"Grant, Jesus, that I follow you willingly","Gid jeg, o Jesus, følger dig",Danish,certain,Lent 4 (Laetare),,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 175), in its metre, its first line word for word"
+53,4. sd. í föstu,368,363,"Ó drottinn kær, hvað veiztu vel",J. Þ.,,"O dear Lord, how well you know",,,,Lent 4 (Laetare),,,,
+54,boð.d. Maríu,60,77,Nú gleðifregn oss flutt er ný,V. B.,x,Now glad tidings are brought to us anew,Nu kom der Bud fra Englekor,Danish,certain,Annunciation (25 March),,,,"the Annunciation, printed between Lent 4 and Palm Sunday, in the place of Judica, which the table does not have; x V. B.; Kingo's hymn for the same day (PfKoH no. 118), in its sense line by line: the tidings from heaven that God, who dwells on high, will come down to dwell on earth"
+55,pálmasunnud.,137,157,"Sjá, vinur vor hinn blíði",H. H.,x,"See, our gentle friend","Se, hvor nu Jesus træder",Danish,certain,Palm Sunday,,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 187), his first two stanzas as one: ""hinn vonda nálgast stað ... dreyra-bað"" is ""Hen til den Morderstad ... Saa grumt et Blodebad"""
+56,pálmasunnud.,138,158,"Ó, kom í hátign, herra minn",St. Th.,x,"O come in majesty, my Lord","Ride on, ride on in majesty",English,certain,Palm Sunday,,ELW 346,"Ride on, Ride on in Majesty","x St. Th.; H. H. Milman's hymn (1820): ""Þinn faðir hæst á himnum er, hans hjarta bíður eftir þér"" is ""the Father on his sapphire throne awaits his own anointed Son"""
+57,skírdag,141,161,Þá kvöldmálstími kominn var,E. S.,,When the time of supper had come,,,,Maundy Thursday,,,,
+58,skírdag,415,399,Tunga mín af hjarta hljóði,,x *,Let my tongue sound from the heart,Pange lingua gloriosi corporis mysterium,Latin,certain,Maundy Thursday,,,,"x *; Thomas Aquinas's hymn, its six stanzas (the fifth ""Tantum ergo"", the sixth ""Genitori genitoque""); not named by the lexicon's ""Pange lingua gloriosi"", whose English is Venantius Fortunatus's Passion hymn (""Sing, my tongue, the glorious battle"")"
+59,skírdag,416,400,"Lát ei, Síon, lofgjörð bresta",H. H.,x,"Let not, Zion, your praise fail",Lauda Sion Salvatorem,Latin,certain,Maundy Thursday,,ELH 321,"Zion, to Thy Savior Singing","x H. H.; the sequence: ""Lát ei, Síon, lofgjörð bresta, leiðtogann og hirðinn bezta"" is ""Lauda Sion Salvatorem, lauda ducem et pastorem"""
+60,langa frjádag,145,166,Hinn saklausi talinn er sekur,V. B.,,The innocent one is counted guilty,,,,Good Friday,,,,"the table ends the day's numbers with ""o. fl."" (og fleiri, and others)"
+61,langa frjádag,147,168,"Ó Jesú, líkn og lífið mitt",H. H.,,"O Jesus, my mercy and my life",,,,Good Friday,,,,
+62,páskad.,165,182,Í austri rís upp ársól skær,V. B.,,In the east the bright morning sun rises,,,,Easter,,,,"the table ends the day's numbers with ""o fl."" (og fleiri, and others)"
+63,páskad.,169,185,Þá eg kem að þinni gröf,P. G.,,When I come to your grave,,,,Easter,,,,
+64,páskad.,173,188,Sem í gegnum sortann skýja,H. H.,x,As through the darkness of the clouds,Som den gyldne Sol frembryder,Danish,certain,Easter,,TLH 207,"Thanks to Thee, O Christ, Victorious","x H. H.; Kingo's Easter hymn: ""Sem í gegn um sortann skýja sól í gullnu skrúði brýzt"" is ""Som den gyldne Sol frembryder Gennem den kulsorte Sky"""
+65,2. páskadag,177,193,"Ver hjá oss, drottinn, degi hallar",H. H.,x,"Stay with us, Lord, the day is waning","Bliv hos os, Mester, Dagen hælder",Danish,certain,Easter Monday,,TLH 194,"Abide with Us, the Day Is Waning","x H. H.; Boye's hymn for the same day (PfKoH no. 249), its first line word for word, to a melody in its metre (""Hver veit, hve fjarri' er ævi endi"")"
+66,2. páskadag,178,194,"Ó Jesú Kristur, kom til mín",V. B.,,"O Jesus Christ, come to me",,,,Easter Monday,,,,
+67,1. sd. e. p.,179,195,Að luktum dyrum kom lausnarinn,V. B.,,To locked doors the Redeemer came,,,,Easter 1 (Quasimodogeniti),,,,
+68,1. sd. e. p.,180,196,Hve líknarfullur lausnarinn,B. H.,,How merciful the Redeemer,,,,Easter 1 (Quasimodogeniti),,,,
+69,2. sd. e. p.,129,148,Þú hirðir guðs hinn góði,V. B.,,You good shepherd of God,,,,Easter 2 (Misericordias Domini),,,,
+70,2. sd. e. p.,202,214,"Eg veit það tré, sem algrænt er",V. B.,,I know the tree that is ever green,,,,Easter 2 (Misericordias Domini),,,,
+71,2. sd. e. p.,204,216,"Hirðisraust þín, herra blíði",B. H.,,"Your shepherd's voice, gentle Lord",,,,Easter 2 (Misericordias Domini),,,,
+72,2. sd. e. p.,216,225,Svo blítt er hirðishjartað æ,H. H.,x,So gentle ever is the shepherd's heart,,,,Easter 2 (Misericordias Domini),,,,
+73,3. sd. e. p.,310,313,Ef drottins vísdómsvegir,V. B.,,If the Lord's ways of wisdom,,,,Easter 3 (Jubilate),,,,
+74,bænadag,355,350,Góðan ávöxt guði berum,V. B.,,Let us bear God good fruit,,,,General Prayer Day (Store Bededag),,,,"the general day of prayer, printed between Easter 3 and Easter 4; the register gives 355 also to ""Fótmál dauðans fljótt er stigið"" (PDF p. 438), a misprint"
+75,4. sd. e. páska,142,162,"Minn herra Jesú, hvert fer þú?",V. B.,,"My Lord Jesus, where are you going?",,,,Easter 4 (Cantate),,,,
+76,4. sd. e. páska,387,379,"Sál mín, hrind þú harmi' og kvíða",B. H.,,"My soul, cast off grief and anxiety",,,,Easter 4 (Cantate),,,,
+77,5. sd. e. páska,405,391,Vor guð oss sjálfur biðja bauð,Ó. I.,x,Our God himself bade us pray,,,,Easter 5 (Rogate),,,,
+78,5. sd. e. páska,409,394,"Mitt höfuð, guð, eg hneigi",V. B.,,"My head, God, I bow",,,,Easter 5 (Rogate),,,,
+79,uppstign.d.,182,197,"Til hæða lyft þér, hugur minn",H. H.,x,"Lift yourself on high, my mind",,,,Ascension,,,,"the table ends the day's numbers with ""o fl."" (og fleiri, and others)"
+80,uppstign.d.,187,201,"Þú einn, sem leystir eymdabönd",B. H.,,"You alone, who loosed the bonds of misery",,,,Ascension,,,,
+81,6. sd. e. páska,236,241,Vor hvítasunnuhátíð fer,H. H.,x,Our feast of Pentecost draws near,Nu nærmer sig vor Pinsefest,Danish,certain,Sunday after Ascension (Exaudi),,,,"x H. H.; Kingo's hymn for the same Sunday (PfKoH no. 276): ""Vor hvítasunnuhátíð fer að höndum nú ... andinn helgi: hjá oss bú"" is ""Nu nærmer sig vor Pinsefest, Gud Helligaand, vær du vor Gæst!"""
+82,6. sd. e. páska,237,242,Þá dimmar hríðir dynja,V. B.,,When dark storms rage,,,,Sunday after Ascension (Exaudi),,,,
+83,hvítasunnud.,238,244,Skín á himni skír og fagur,V. B.,,"Shines in the sky, clear and fair",,,,Pentecost,,,,
+84,hvítasunnud.,239,246,Hátíð er í himinsölum,V. B.,x,There is a feast in the halls of heaven,,,,Pentecost,,,,the register misprints its number as 139
+85,2. hvítas.d.,102,121,"Verði ljós, verði hér ljós",V. B.,,"Let there be light, let there be light here",,,,Pentecost Monday,,,,
+86,trínitatis sd.,101,119,Nú ljómar dýrðardagur,V. B.,,Now a day of glory shines,,,,Trinity Sunday,,,,
+87,1. sd. e. tr.,243,249,"Mín sála, vakna' og værðum hafna",J. Þ.,x,"My soul, awake and put away slumber",,,,Trinity 1,,,,
+88,1. sd. e. tr.,329,328,Hvað stoðar þig alt heimsins góz og gæði,V. B.,,What does all the world's wealth and goods avail you,,,,Trinity 1,,,,
+89,2. sd. e. tr.,152,174,Þá syndirnar mig særa,H. H.,x,When my sins wound me,Wenn meine Sünd' mich kränken,German,certain,Trinity 2,,LW 367,When O'er My Sins I Sorrow,"x H. H.; in its metre: stanza 2 ""Ó, undur hæst"" is ""O Wunder ohne Maßen"", stanza 4 ""Af hrærðu hjarta mínu eg, herra, lofa þig"" is ""Drum sag ich dir von Herzen"""
+90,3. sd. e. tr.,133,152,Þótt týnist einn úr herrans hjörð,V. B.,,Though one be lost from the Lord's flock,,,,Trinity 3,,,,
+91,3. sd. e. tr.,264,272,"Heyr þú, Jesú, hátt eg kalla",St. Ó.,,"Hear, Jesus, I call aloud",,,,Trinity 3,,,,
+92,4. sd. e. tr.,342,340,"Ó Jesú, blessuð líknarlind",H. H.,,"O Jesus, blessed spring of mercy",,,,Trinity 4,,,,
+93,4. sd. e. tr.,345,342,Á meðan engin mætir neyð,V. B.,,While no distress befalls,,,,Trinity 4,,,,
+94,5. sd. e. tr.,104,123,"Hve dýrt var tákn það, drottinn minn",V. B.,x,"How precious was that sign, my Lord",,,,Trinity 5,,,,"the register has ""Hve dýrt var tákn það"""
+95,5. sd. e. tr.,107,126,Guðs son mælti: grát þú eigi,H. H.,x,God's son said: weep not,,,,Trinity 5,,,,"x H. H.; possibly modelled on Ingemann's hymn for Trinity 16 (no. LXI, ""Græd ei! trøster Jesu Stemme""), on the same Gospel, but in six-line stanzas of its own; probably a misprint for 105, ""Legg þú á djúpið eftir drottins orði"" (put out into the deep at the Lord's word), on the day's Gospel (Luke 5:4): 107 is on the widow's son at Nain, the Gospel of Trinity 16, where the table gives it again"
+96,6. sd. e. tr.,348,345,Kom þú ei með heift í huga,V. B.,,Do not come with wrath in your mind,,,,Trinity 6,,,,
+97,6. sd. e. tr.,349,346,Hve væri gott að vera hér,V. B.,x,How good it would be to be here,,,,Trinity 6,,,,
+98,7. sd. e. tr.,53,69,Hve oft er mannsins ævibraut,V. B.,,How often is man's path through life,,,,Trinity 7,,,,
+99,7. sd. e. tr.,126,146,Hve má svo lítið mörgum nægja?,H. H.,,How can so little suffice for many?,,,,Trinity 7,,,,
+100,8. sd. e. tr.,355,350,Góðan ávöxt guði berum,V. B.,,Let us bear God good fruit,,,,Trinity 8,,,,"the register gives 355 also to ""Fótmál dauðans fljótt er stigið"" (PDF p. 438), a misprint"
+101,8. sd. e. tr.,399,389,"Ó herra guð, lát hjá oss mætast",H. H.,x,"O Lord God, let there meet among us","Gud, lad dit Ord i Naade lykkes",Danish,certain,Trinity 8,,,,"x H. H.; Landstad's hymn, which PfKoH gives on the same Sunday (no. 335), line for line: every plant God did not set uprooted, no false prophet to lead astray"
+102,9. sd. e. tr.,249,257,"Kom, hjarta, reikning haltu nú",H. H.,x,"Come, heart, make your reckoning now","Kom Hjerte, tag dit Regnebræt",Danish,certain,Trinity 9,,,,"x H. H.; Brorson's hymn (PfKoH no. 363, among its numbers for the same Sunday), line for line: ""Hvað hafðist þú um árin að ... í alvalds bækur skrifað"" is ""Hvad har du gjort de mange Aar ... I Herrens Bog opskrevet"""
+103,9. sd. e. tr.,268,277,Að skuldadögum dregur,V. B.,,The days of reckoning draw near,,,,Trinity 9,,,,
+104,10. sd. e. tr.,139,159,"Jesús grætur, heimur hlær",H. H.,x,"Jesus weeps, the world laughs",Jesus græder; — Verden leer,Danish,certain,Trinity 10,,,,"x H. H.; Ingemann's hymn for the same Sunday (no. LV), word for word, in its metre"
+105,10. sd. e. tr.,140,160,Af helgum augum hrynja tár,H. H.,x,From holy eyes tears fall,,,,Trinity 10,,,,
+106,11. sd. e. tr.,134,154,Í guðs hús forðum gengu tveir,V. B.,,Into God's house of old went two,,,,Trinity 11,,,,
+107,11. sd. e. tr.,564,535,Í kirkju þína kenn þú mér,B. H.,,Into your church teach me [to come],,,,Trinity 11,,,,
+108,12. sd. e. tr.,125,145,"Ó Jesú, brunnur blessunar",H. H.,x,"O Jesus, well of blessing",,,,Trinity 12,,,,
+109,12. sd. e. tr.,306,308,Lát opnast augu mín,V. B.,,Let my eyes be opened,,,,Trinity 12,,,,
+110,13. sd. e. tr.,344,341,Hvar lífs um veg þú farinn fer,V. B.,,Wherever on life's way you travel,,,,Trinity 13,,,,
+111,14. sd. e. tr.,345,342,Á meðan engin mætir neyð,V. B.,,While no distress befalls,,,,Trinity 14,,,,
+112,15. sd. e. tr.,48,64,Lít þú upp í loftið bláa,V. B.,,Look up into the blue sky,,,,Trinity 15,,,,
+113,15. sd. e. tr.,57,74,Hví gengur þú með geði tvistu,H. H.,x,Why do you go about with a troubled mind,,,,Trinity 15,,,,
+114,15. sd. e. tr.,58,75,Á landi því eg lifi hér,H. H.,x,In the land where I live here,I Underværkers Land jeg boer,Danish,probable,Trinity 15,,,,"x H. H.; a free version, in its metre, of Ingemann's hymn for Trinity 7 (no. LII): the land of miracles, the birds and the lilies, and the last stanza (""Guð, yfir oss þú hendi halt"" is ""O Gud, hold over os din Haand!"") are his"
+115,16. sd. e. tr.,107,126,Guðs son mælti: grát þú eigi,H. H.,x,God's son said: weep not,,,,Trinity 16,,,,"x H. H.; possibly modelled on Ingemann's hymn for Trinity 16 (no. LXI, ""Græd ei! trøster Jesu Stemme""), on the same Gospel, but in six-line stanzas of its own"
+116,16. sd. e. tr.,108,127,"Þú, sem mæddri móður",V. B.,,You who to the grieving mother,,,,Trinity 16,,,,
+117,17. sd. e. tr.,354,349,Vel þér ei hin æðstu sæti,V. B.,,Do not choose for yourself the highest seats,,,,Trinity 17,,,,
+118,18. sd. e. tr.,343,340,Vor guð er eilíf ást og náð,V. B.,x,Our God is eternal love and grace,Vor Gud er idel Kærlighed,Danish,probable,Trinity 18,,,,"x V. B.; Kingo's hymn (PfKoH no. 556, among its numbers for the same Sunday), its first line in sense, to a melody in its metre (""Verði ætíð, hvað vill minn guð"")"
+119,19. sd. e. tr.,309,311,Þá lýsa fer af ljósum degi,V. B.,,When the bright day begins to dawn,,,,Trinity 19,,,,
+120,20. sd. e. tr.,220,229,"Jesú, blessuð líknarlindin",H. H.,x,"Jesus, blessed spring of mercy","Jesus, Livets rige Kilde",Danish,certain,Trinity 20,,,,"x H. H.; the hymn after J. Rist that PfKoH gives on the same Sunday (no. 185), line for line: ""mammons yndi ... meir en dýrðarbrúðkaup þitt"" is ""Verdens Lyst ... imod din Bryllupsfest"""
+121,21. sd. e. tr.,103,122,"»Þinn sonur lifir«, sagði Jesús forðum",V. B.,,"""Your son lives,"" said Jesus of old",,,,Trinity 21,,,,
+122,22. sd. e. tr.,269,278,Þá konungurinn kemur,V. B.,,When the king comes,,,,Trinity 22,,,,
+123,allraheil.messu,305,307,"Sælir þeir, er sárt til finna",V. B.,,Blessed are they who feel it sorely,,,,All Saints (1 Nov),,,,"All Saints, printed between Trinity 22 and Trinity 23"
+124,allraheil.messu,463,443,"Sjá þann hinn mikla flokk, sem fjöll",St. Th.,x,"See that great host, which like mountains",Den store hvide Flok vi se,Danish,certain,All Saints (1 Nov),,LBW 314,"Behold a Host, Arrayed in White","x St. Th.; Brorson's hymn, the great host like mountains, with palm branches; with its own melody"
+125,23. sd. e. tr.,270,279,Hvað á eg guði' að gjalda' í skatt,V. B.,,What shall I pay God in tribute,,,,Trinity 23,,,,
+126,23. sd. e. tr.,294,299,"Gef þú, maður, guði þínum",H. H.,,"Give, man, to your God",,,,Trinity 23,,,,
+127,24. sd. e. tr.,120,140,Þá drottinn vakti dána mey,V. B.,,When the Lord woke the dead maiden,,,,Trinity 24,,,,
+128,24. sd. e. tr.,334,334,"Sú trú, sem fjöllin flytur",H. H.,,The faith that moves the mountains,,,,Trinity 24,,,,
+129,25. sd. e. tr.,465,446,Sem elding björt frá austri skín,V. B.,,As bright lightning shines from the east,,,,Trinity 25,,,,
+130,26. sd. e. tr.,130,149,"Ó faðir minn, heyr þjóninn þinn",V. B.,,"O my father, hear your servant",,,,Trinity 26,,,,
+131,26. sd. e. tr.,131,151,Eg heyrði Jesú himneskt orð,St. Th.,x,I heard Jesus' heavenly word,I heard the voice of Jesus say,English,certain,Trinity 26,,ELW 611,I Heard the Voice of Jesus Say,"x St. Th.; Horatius Bonar's hymn (1846), its three double stanzas as six (""»Kom, hvíld eg veiti þér«"", ""»Sjá, heimsins ljós eg er«"")"
+132,26. sd. e. tr.,221,230,Lof og dýrð og þökk sé þér,H. H.,x,Praise and glory and thanks be to you,Lov og Tak og evig Priis,Danish,certain,Trinity 26,,,,"x H. H.; Ingemann's hymn for the same Sunday (no. LXXII), line for line (""paradís þín aftur er opin nú"" is ""Sjælens tabte Paradiis atter saligt sig oplader""), to his melody (""Sæti Jesú, sjá oss hér"", his ""Søde Jesu, vi er her"")"
+133,27. sd. e. tr.,127,147,Þótt holdið liggi lágt,V. B.,,Though the flesh lie low,,,,Trinity 27,,,,the same two hymns as Epiphany 6
+134,27. sd. e. tr.,128,148,"Þú, heimsins ljós, fekst myrkva' af mér",V. B.,x,"You, light of the world, took darkness from me",,,,Trinity 27,,,,

@@ -6,7 +6,8 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import bridge
-import merge_elberfeld, merge_finnish, merge_ingemann, merge_ingria, merge_krusemark, merge_latvia, merge_lbw
+import merge_elberfeld, merge_finnish, merge_hymnals, merge_ingemann, merge_ingria, merge_krusemark, merge_latvia
+import merge_lbw
 import merge_sbh, merge_slovak, merge_tasbh, merge_te_laudamus, merge_zavorka
 from resolve import by_occasion
 from editorial import EDITORIAL
@@ -70,7 +71,8 @@ def load():
         # Ingrian calendar's the same way, else by the original's title, else by the Russian first line;
         # the Latvian Proprium's the same way, else by the Latvian first line; Závorka's Rubryka's by the
         # lexicon, else by the original's title, else by the Czech title; Ingemann's hymns, none of
-        # which the lexicon has, by their Danish first lines
+        # which the lexicon has, by their Danish first lines; the nineteenth-century Scandinavian
+        # hymnals' as the Latvian Proprium's, else by their own first lines
         by_number, name = False, None
         if not ident and wit in merge_finnish.WITNESSES:
             ident, by_number = merge_finnish.canonical(src), True
@@ -92,6 +94,9 @@ def load():
             if not ident: name = merge_latvia.name(src)
         elif not ident and wit == merge_ingemann.WITNESS:
             ident, by_number = merge_ingemann.canonical(src), True
+        elif not ident and wit in merge_hymnals.WITNESSES:
+            ident, by_number = merge_hymnals.canonical(src), True
+            if not ident: name = merge_hymnals.name(src)
         elif not ident and src.startswith(merge_te_laudamus.WITNESS + ' (via'):
             ident, by_number = merge_te_laudamus.canonical(src), True
         elif not ident and src.startswith(merge_lbw.WITNESS + ' (via'):
@@ -260,6 +265,13 @@ def main():
         ('Ingemann, Høimesse-Psalmer (1825): B. S. Ingemann\'s cycle of hymns for the High Mass of each Sunday and holy '
          'day of the Danish church year, 73 hymns, one witness. They are his own, none a translation, and each is named '
          'by its Danish first line, with a literal English gloss. A modern witness.', BODY),
+        ('Icelandic hymnal (1886): the hymns on the Gospels (and Epistles) of the holy days that the Icelandic hymnal of '
+         '1886 (Sálmabók til kirkju- og heimasöngs, sixth printing, 1899) lists in its table "Tilvísun til sálma", two or '
+         'three for each day, one witness. Psalmebog for Kirke og Hjem (1905): the hymns that the Danish hymnal names for '
+         'each Sunday and holy day under each of the two series of Gospels, one witness. Their rows give the first lines, '
+         'with a literal English gloss; a hymn is named by the lexicon, else by the index\'s row for its original, else by '
+         'the original\'s title, where the text shows it certainly or probably, else by its own first line. Modern '
+         'witnesses.', BODY),
         ('Compare by day, column Editorial: "Assigned" marks the hymn the editor assigns to a day the old witnesses leave open '
          '(Quasimodogeniti, Easter Monday, Pentecost Monday) or divide too widely to choose (Quinquagesima, where it is the '
          'hymn with the most witnesses). It is not a witness and is not counted.', BODY),

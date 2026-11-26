@@ -45,6 +45,7 @@ py hymn_tables/merge_zavorka.py
 py hymn_tables/merge_tasbh.py
 py hymn_tables/merge_latvia.py
 py hymn_tables/merge_ingemann.py
+py hymn_tables/merge_hymnals.py
 ```
 
 The workbook and the book's table follow from the database. Both scripts
@@ -86,14 +87,14 @@ Sehling orders beside `rows_sunday.json` (see *Thompson's lists* below).
 
 ## Two layers of evidence
 
-The database holds **6,648 prescriptions** from **72 witnesses**, in two
+The database holds **7,039 prescriptions** from **74 witnesses**, in two
 quite different evidentiary layers. Keep them apart when you draw
 conclusions:
 
 | Layer | Rows | What it is |
 |---|---:|---|
 | Sehling church orders | 827 | 16th-c. orders prescribing hymns, read from the corpus itself |
-| Hymnals and compilations | 5,821 | hymnals, other lists and modern conflations, read from separate documents |
+| Hymnals and compilations | 6,212 | hymnals, other lists and modern conflations, read from separate documents |
 
 A row in the first layer is a church *ordering* what shall be sung. A row
 in the second is a hymnal or editor *recording* what was sung, sometimes
@@ -199,6 +200,8 @@ The hymnals and compilations below are Lutheran too.
 | *Augustana Service Book and Hymnal*, Supplement (2022), its Office Hymns as a review lists them | 77 | 1 | The chief hymn of each Sunday and feast of the one-year series and of some saints' days, by first line, found through the same text's number in another hymnal |
 | The Latvian Lutheran Proprium (Riga, 2006), its Sunday hymns | 29 | 1 | The hymn before the Gospel on 28 days from Advent 1 to Trinity Sunday, in Latvian, by first line and hymnal number, named by the hymn it translates where the first line shows it |
 | Ingemann, *Høimesse-Psalmer til Kirkeaarets Helligdage* (Copenhagen, 1825) | 73 | 1 | One poet's hymns for the High Mass of each Sunday and holy day of the Danish church year, by first line |
+| The Icelandic hymnal, *Sálmabók til kirkju- og heimasöngs* (1886; sixth printing, Reykjavík, 1899), its table of hymns for the holy days | 134 | 1 | Two or three hymns on the Gospel (and Epistle) of each Sunday and holy day, by number; named by the hymn they translate where the text shows it |
+| *Psalmebog for Kirke og Hjem* (Copenhagen, 1905 printing), its table of hymns for the Sundays | 257 | 1 | The hymns it names for each Sunday and holy day under each of the Danish church's two series of Gospels, by number and first line |
 
 #### Krusemark, and why only part of it is here
 
@@ -1183,6 +1186,142 @@ the fourth Friday after Easter).
 
 **Appendix 8.A.** It is a modern witness, which the table does not count
 (`MODERN`); none of its hymns is one of the old German witnesses'.
+
+#### The Icelandic hymnal (1886)
+
+The hymnal of the Icelandic church from 1886, *Sálmabók til kirkju- og
+heimasöngs* (sixth printing, Reykjavík: Prestaekknasjóðurinn, 1899;
+`Hymnal Index/Hymnal PDFs for hotd/Sálmabók til kirkju- og heimasöngs (1886
+(1899 reprint)).pdf`, a HathiTrust scan of the copy in the University of
+California), begins with a table, "Tilvísun til sálma út af guðspjöllum (og
+pistlum) helgidaganna" (PDF p. 19): for each Sunday and holy day, the numbers
+of two or three hymns on its Gospel (and Epistle). The book's order of
+service has the priest choose the hymns of the Mass from the book: "after the
+Epistle shall be sung the hymn which the priest has chosen for it in the
+book", and after the Gospel the hymn he has found to suit his sermon. The
+table is his guide to that choice, and its hymns are the de tempore hymns of
+the book. `merge_hymnals.py` loads all 134 numbers, on 67 days, as one
+witness, `Icelandic hymnal (1886)`, with sources such as `Icelandic hymnal
+(1886) (via its table of hymns for the holy days; item 6, no. 469, PDF p.
+450)`, the PDF page being that of the hymn's text.
+
+`hymn_tables/Salmabok_1886_Holy_Day_Hymns.csv` has a row for each number:
+the day as printed (the table's ditto marks written out), the number, the
+PDF page of the hymn, its first line, its author and mark as the book's
+register of first lines ("Upphöf sálmanna", PDF pp. 604-622) gives them, a
+literal English gloss, the original, its language and how sure the
+identification is, the day's label, the lexicon's hymn, the original's row in
+the Lutheran Hymn Index (`index_ref`) and that row's title, and a note. The
+first lines are the register's, checked against the text; where the two
+differ, the text's (nos. 104, 118 and 123). The authors are the register's
+initials, which the book's list of authors expands: V. B. is Valdimar Briem,
+H. H. Helgi Hálfdánarson, St. Th. Stefán Thorarensen, B. H. Björn
+Halldórsson, and so on. The day's numbers on Christmas, Good Friday, Easter and Ascension end
+with "o. fl." (and others).
+
+**Originals.** The register marks with an x a hymn that "is translated from
+a foreign language, or for which another hymn, foreign or Icelandic, has
+served as model", and with an asterisk one whose author is unknown. Of the 52
+hymns so marked in the table, 33 are identified from their text. Seventeen
+are Danish hymns that *Psalmebog for Kirke og Hjem* gives on the same days
+(below; two of them among the numbers it gives bare), ten of them Kingo's
+(*Hvad er det for en Snække* on Epiphany 4, *Se, hvor nu Jesus træder* on Palm
+Sunday) and three Brorson's (*Den store hvide Flok* on All Saints). Six are
+Ingemann's, from his *Høimesse-Psalmer* (1825), five of them on the same days
+(*Svo mikil heims ei neyð er nein*, his *I Verden er ei Nød saa stor*, on
+Advent 2). The rest are Kingo's Easter hymn *Som den gyldne Sol frembryder*;
+Luther's *Gelobet seist du* and *Vom Himmel hoch*, and *Puer natus in
+Bethlehem*, at Christmas; Aquinas's *Pange lingua gloriosi corporis
+mysterium* and the sequence *Lauda Sion* on Maundy Thursday; Gesenius's *Wenn
+meine Sünd' mich kränken* on Trinity 2; Weissel's *Macht hoch die Tür* on
+Advent 1; and two English hymns, Milman's *Ride on, ride on in majesty* on
+Palm Sunday and Bonar's *I heard the voice of Jesus say* on Trinity 26. Four
+are only probable: *Macht hoch die Tür*, of which the Icelandic keeps the first
+stanza and goes its own way after; Kingo's *Mig lyster nu at træde* and *Vor
+Gud er idel Kærlighed*; and Ingemann's *I Underværkers Land jeg boer*, his
+hymn for Trinity 7, on Trinity 15. The lexicon's *Pange lingua gloriosi* is not used
+for Aquinas's hymn, since its English is Venantius Fortunatus's Passion hymn.
+A hymn is named by the lexicon (3), else by the index's row for its original
+(9), else by the original's own first line (21), Ingemann's as he printed it
+in 1825, so that the translation and the Danish lists group together; the
+rest by their Icelandic first lines.
+
+**Days.** The table follows the Danish church year, as Ingemann's book does:
+the second day of Christmas is `St Stephen (26 Dec)` (its second hymn is
+Ingemann's for St Stephen's day); the Annunciation stands in the place of
+Judica; the general day of prayer (*bænadagur*, the Danish Store Bededag)
+between Easter 3 and 4; All Saints between Trinity 22 and 23. Epiphany 6 and
+Trinity 27 have the same two hymns.
+
+**Misprints.** The second number of Advent 2 is damaged: "46" and the right
+side of a curved third digit, not a 4; it is taken as 466, a hymn on that
+Sunday's Gospel. Trinity 5 has "104 107", where 107 is on the widow's son at
+Nain (the Gospel of Trinity 16, where the table gives it again); it is
+probably a misprint for 105, on the day's Gospel, and is loaded as printed,
+with a note. The register misprints no. 239 as 139, and gives 355 to two
+hymns; the text settles both.
+
+**Appendix 8.A.** It is a modern witness (`MODERN`), which the table does not
+count. Of its originals, *Gelobet seist du* and *Vom Himmel hoch* at
+Christmas are among the old German witnesses' hymns for the day.
+
+#### Psalmebog for Kirke og Hjem (1905)
+
+*Psalmebog for Kirke og Hjem* (Copenhagen, 1905 printing; `Hymnal
+Index/Hymnal PDFs for hotd/Psalmebog for Kirke og Hjem 1905.pdf`, an Internet
+Archive scan) closes with a table, "Psalmer til Søn- og Helligdags-
+Evangeliernes første (I.) og anden (II.) Tekstrække" (PDF pp. 721-736): for
+each Sunday and holy day, the hymns for the Gospel of the first series and of
+the second, which the Danish church read in alternate years. Each series names
+one to four hymns by number and first line, most often two, and adds further
+numbers bare. A
+feast with one Gospel (the Epiphany, Epiphany 6, All Saints) names its hymns
+without a series. `merge_hymnals.py` loads the named hymns, 257 on 63 days, as
+one witness, `Psalmebog for Kirke og Hjem (1905)`, with sources such as
+`Psalmebog for Kirke og Hjem (1905) (via its table of hymns for the Sundays;
+item 7, series I, no. 269, PDF p. 721)`, the PDF page being the table's. The
+bare numbers are not loaded. Christmas Day, Good Friday, Easter Day, Ascension
+Day and Pentecost give only a run of numbers, the hymnal's section for the
+feast, and have no rows; Trinity 27 refers to Epiphany 6 ("Se 6. Søndag efter
+Helligtrekonger") and takes its three hymns.
+
+`hymn_tables/PfKoH_1905_Sunday_Hymns.csv` has a row for each named hymn: the
+day as printed, the series, the number, the table's page, the first line, the
+author and translator as the book's notes on its hymns (*Oplysninger om
+Psalmernes Forfattere og Oversættere*, PDF pp. 737-757, nos. 1-616) give them,
+a literal English gloss, the original as for the Icelandic hymnal, and a note.
+The notes stop at no. 616; the six hymns after it in the table have no author.
+
+**Originals.** The notes name each hymn's author and translator, which, with
+the text, tells the originals: the German hymns of Luther, Gerhardt, Nicolai,
+Neander, Weissel, Laurenti, Richter and others (19 rows named by the lexicon,
+the rest by the index's row for the original, or by its German or Latin first
+line), and Danish hymns that the index has (Kingo's, Brorson's, Grundtvig's,
+Boye's, Arrebo's, Johan Frederiksen's *I Jesu Navn skal al vor Gerning ske*
+and two by unknown authors), which are named by the index's title. Grundtvig's free
+versions are identified only where the text follows the original: *Det lakker
+nu ad Aften brat* is Selnecker's *Ach bleib bei uns*, *Guds Søn kom ned fra
+Himmerig* Speratus's *Es ist das Heil*. Seven hymns are Ingemann's from his
+*Høimesse-Psalmer* of 1825, named by his first lines of 1825: four on the
+same days (*I Verden er ej Nød saa stor* on Advent 2, *I Gud jeg vil mig
+glæde* on Epiphany 2, *Der er et helligt Værge* on Trinity 24, *Lov og Tak og
+evig Pris* on Trinity 26); *Glæd dig, Zion, glæd dig, Jord* on Palm Sunday,
+his hymn for Advent 1, whose Gospel, the entry into Jerusalem, is the same;
+and two on other days.
+
+**Misprints.** Trinity 22 has "562. Skal Kærlighed sin Prøve staa", the
+first line of no. 563 (562 is "De rige byd, at de sig ej"); Trinity 25 has "259. I Verden
+er ej Nød saa stor", which is no. 269, as on Advent 2 and in the register.
+Both are loaded by the first line, with a note.
+
+**What it shows.** The Icelandic hymnal of 1886 follows the Danish church's
+hymns of the day: 17 of its translated hymns are the Danish hymns this book
+gives on the same days, Kingo's above all (*Hvad er det for en Snække* on
+Epiphany 4, *Se, hvor nu Jesus træder* on Palm Sunday, *Nu nærmer sig vor
+Pinsefest* on Exaudi), and two of Ingemann's of 1825 stand on the same days
+in all three books, *I Verden er ei Nød saa stor* on Advent 2 and *Lov og Tak
+og evig Priis* on Trinity 26. It is a modern witness (`MODERN`), which the table of Appendix
+8.A does not count.
 
 ## Schema
 

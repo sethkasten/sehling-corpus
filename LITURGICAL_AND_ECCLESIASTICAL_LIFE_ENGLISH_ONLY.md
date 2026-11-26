@@ -1709,14 +1709,14 @@ where a church order, a hymnal or a later list assigns a hymn to a particular Su
 occasion. [Chapter 8](#ch8) treats where and how hymns were sung. The database holds the tables
 of hymns by day, and [Appendix 8.A](#s8-a) condenses its "Compare by day" sheet.
 
-The database holds 6,648 prescriptions from 72 witnesses, in two layers that must be kept apart:
+The database holds 7,039 prescriptions from 74 witnesses, in two layers that must be kept apart:
 - **The church orders.** 827 prescriptions come from the twelve orders in Sehling that carry a
   table of hymns: Naumburg 1537/38, Heilbronn 1543, Nördlingen 1544/1555, Anhalt 1551, Pirna
   1555–1569, Pfalz-Zweibrücken 1565, Pomerania 1569, Weissenfels 1578, Nördlingen 1579,
   Mansfeld 1580, Hof 1592 and Hohenlohe 1596. All are Lutheran. Naumburg and Weissenfels
   come nearest to the later table of one hymn for each Sunday. The word *Hauptlied* does not
   occur in the corpus. It is later terminology.
-- **The hymnals and compilations.** 5,821 prescriptions come from other books and lists:
+- **The hymnals and compilations.** 6,212 prescriptions come from other books and lists:
   - Liliencron's concordance of fifteen hymnals of 1545–1694, Sunday by Sunday;
   - Ludecus's *Ordo cantionum Germanicarum* (1589);
   - Selnecker's own account of the scheme he kept;
@@ -1756,7 +1756,13 @@ The database holds 6,648 prescriptions from 72 witnesses, in two layers that mus
     2006), the hymn it gives before the gospel on 28 days from Advent to Trinity Sunday, in
     Latvian, named by the hymn it translates where the first line shows it;
   - B. S. Ingemann's *Høimesse-Psalmer til Kirkeaarets Helligdage* (Copenhagen, 1825), a hymn of
-    his own for the High Mass of each Sunday and holy day of the Danish church year.
+    his own for the High Mass of each Sunday and holy day of the Danish church year;
+  - the table of hymns on the Gospels (and Epistles) of the holy days in the Icelandic hymnal of
+    1886, *Sálmabók til kirkju- og heimasöngs* (sixth printing, Reykjavík, 1899), two or three
+    to each day, from which the priest chose the hymns of the Mass, named by the hymn they
+    translate where the text shows it;
+  - the hymns that *Psalmebog for Kirke og Hjem* (Copenhagen, 1905 printing) names for each
+    Sunday and holy day under each of the Danish church's two series of Gospels.
 
 An order commands what shall be sung. A hymnal records what was sung, sometimes long after.
 
@@ -27403,7 +27409,7 @@ orders place between the epistle and the gospel ([§8.8.7](#s8-8-7)) or before t
 
 #### <a id="s8-a-1"></a>8.A.1 The witnesses counted
 
-Of the 72 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
+Of the 74 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 
 | Group | Witnesses |
 |---|---|
@@ -27413,7 +27419,7 @@ Of the 72 witnesses in [`hymns.db`](#repo-hymns), 36 are counted as old.
 | Lists transcribed in Thompson's dissertation (4) | Antwerp 1567; Annaberg 1579; Eler, *Cantica sacra*, 1588; Magdeburg 1632 |
 | Modern studies that collate older sources (1) | Stiller (the Leipzig, Weissenfels and Dresden hymn schedules of Bach's time) |
 
-The other 36 witnesses are **not counted**: 29 modern lists, four Finnish church handbooks, two
+The other 38 witnesses are **not counted**: 31 modern lists, four Finnish church handbooks, two
 Slovak lists and a Czech hymnal. Krusemark explains his own lists on pp. 95–96 of `Hymns_ABC_Krusemark.pdf`.
 The modern witnesses are:
 
@@ -27433,6 +27439,9 @@ The modern witnesses are:
   Lutheran churches of Latvia and of the Latvians abroad (Riga, 2006);
 - B. S. Ingemann's *Høimesse-Psalmer* (Copenhagen, 1825), his own hymns for the High Mass of
   each Sunday and holy day of the Danish church year;
+- the Icelandic hymnal of 1886, whose table gives two or three hymns on the Gospel (and Epistle)
+  of each Sunday and holy day, and *Psalmebog for Kirke og Hjem* (Copenhagen, 1905), whose table
+  names hymns for each Sunday and holy day under the Danish church's two series of Gospels;
 - two private schemes (MC, SD).
 
 The Finnish handbooks, of 1614, 1629, 1669 and 1694, are old. Like the German orders they give

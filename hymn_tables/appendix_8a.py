@@ -26,12 +26,13 @@ BOOK = os.path.join(HERE, '..', 'LITURGICAL_AND_ECCLESIASTICAL_LIFE.md')
 MODERN = {
  'Augustana Service Book and Hymnal, Supplement (2022)', 'Church of Ingria calendar (2025-26)',
  'Eckardt, The Lutheran Propers', 'Elberfeld hymnal (1898)', 'Gehrke',
- 'Hymn of the Week (SBH, 1965)', 'Ingemann, Høimesse-Psalmer (1825)', 'Judisch',
+ 'Hymn of the Week (SBH, 1965)', 'Icelandic hymnal (1886)', 'Ingemann, Høimesse-Psalmer (1825)', 'Judisch',
  'Krusemark, Even Year', 'Krusemark, Every Year', 'Krusemark, Odd Year', 'Krusemark, Year A',
  'Krusemark, Year B', 'Krusemark, Year C', 'LCMS Synod selections (2016-17)',
  'LSB Hymnal Committee', 'Latvian Lutheran Proprium (2006)', 'Lutheran Book of Worship (1978)',
  'Lutheran Service Book (2006)', 'Lutheran Worship (1982)', 'MC (private scheme)',
- 'Mecklenburg hymnal (1855)', 'Redeemer', 'Reuning', 'SD (private scheme)', 'SELK hymnal',
+ 'Mecklenburg hymnal (1855)', 'Psalmebog for Kirke og Hjem (1905)', 'Redeemer', 'Reuning',
+ 'SD (private scheme)', 'SELK hymnal',
  'Stuckwisch (sword-in-hat list)', 'Te Laudamus (2024)', 'Zion'}
 # the old lists in other languages than German: the Finnish church handbooks of 1614, 1629, 1669 and
 # 1694, the Slovak lists of 1674 and c. 1674-1720, in Czech, and the Rubryka of Závorka's Czech
